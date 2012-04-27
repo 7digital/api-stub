@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<response status="ok" version="1.2"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://api.7digital.com/1.2/static/7digitalAPI.xsd" >
+	<release id="480766">
+		<title>The Ecstatic</title>
+		<version></version>
+		<type>Album</type>
+		<barcode>00602527068442</barcode>
+		<year>2009</year>
+		<explicitContent>true</explicitContent>
+		<artist id="832">
+			<name>Mos Def</name>
+			<appearsAs>Mos Def</appearsAs>
+			<url>http://www.7digital.com/artists/mos-def/?partner=1401</url>
+		</artist>
+		<url>http://www.7digital.com/artists/mos-def/the-ecstatic/?partner=1401</url>
+		<image>http://cdn.7static.com/static/img/sleeveart/00/004/807/0000480766_50.jpg</image>
+		<releaseDate>2009-06-29T00:00:00+01:00</releaseDate>
+		<addedDate>2009-06-10T13:55:27+01:00</addedDate>
+		<price>
+			<currency code="GBP">&#163;</currency>
+			<value>7.99</value>
+			<formattedPrice>&#163;7.99</formattedPrice>
+			<rrp>7.99</rrp>
+			<formattedRrp>&#163;7.99</formattedRrp>
+			<onSale>false</onSale>
+		</price>
+		<formats availableDrmFree="true">
+			<format id="17">
+				<fileFormat>MP3</fileFormat>
+				<bitRate>320</bitRate>
+				<drmFree>true</drmFree>
+			</format>
+		</formats>
+		<label id="25942">
+			<name>Universal Music AB</name>
+		</label>
+	</release>
+</response>

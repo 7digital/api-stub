@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<response status="ok" version="1.2" xsi:noNamespaceSchemaLocation="http://api.7digital.com/1.2/static/7digitalAPI.xsd" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <locker>
+    <lockerItems>
+      <lockerItem>
+        <purchaseDate>2011-01-02T00:00:00</purchaseDate>
+        <ebook>
+          <sin>EB139</sin>
+          <isbn>978-1409103462</isbn>
+        </ebook>
+        <downloadUrls>
+          <downloadUrl>
+            <url>http://api.7digital.systest/1.2/user/download/ebook?sin=EB139&amp;transId=a77388d5-9f03-40aa-9b12-9f0500f92d81</url>
+          </downloadUrl>
+        </downloadUrls>
+      </lockerItem>
+    </lockerItems>
+  </locker>
+</response>

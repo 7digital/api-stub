@@ -1,0 +1,18 @@
+﻿<response status="ok" version="1.2">
+	<cards>
+		<card id="1">
+			<type>VISA</type>
+			<last4digits>1111</last4digits>
+			<default>true</default>
+			<cardHolderName>Bob</cardHolderName>
+			<expiryDate>202009</expiryDate>
+		</card>
+		<card id="41">
+			<type>VISA</type>
+			<last4digits>1111</last4digits>
+			<default>false</default>
+			<cardHolderName>Bob</cardHolderName>
+			<expiryDate>202009</expiryDate>
+		</card>
+	</cards>
+</response>

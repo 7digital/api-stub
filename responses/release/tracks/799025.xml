@@ -1,0 +1,289 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<response status="ok" version="1.2"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://api.7digital.com/1.2/static/7digitalAPI.xsd" >
+  <tracks>
+    <page>1</page>
+    <pageSize>10</pageSize>
+    <totalItems>8</totalItems>
+    <track id="8837180">
+      <title>House Lights</title>
+      <version>Album Version</version>
+      <artist id="1">
+        <name>Keane</name>
+        <appearsAs>Keane</appearsAs>
+        <url>http://www.7digital.com/artists/keane/?partner=712</url>
+      </artist>
+      <trackNumber>1</trackNumber>
+      <duration>84</duration>
+      <explicitContent>false</explicitContent>
+      <isrc>GBUM71000080</isrc>
+      <release id="799025">
+        <title>Night Train</title>
+        <version></version>
+        <type>Album</type>
+        <barcode>00602527392622</barcode>
+        <artist id="1">
+          <name>Keane</name>
+          <appearsAs>Keane</appearsAs>
+          <url>http://www.7digital.com/artists/keane/?partner=712</url>
+        </artist>
+        <url>http://www.7digital.com/artists/keane/night-train/?partner=712</url>
+        <image>http://cdn.7static.com/static/img/sleeveart/00/007/990/0000799025_50.jpg</image>
+      </release>
+      <url>http://www.7digital.com/artists/keane/night-train/01-House-Lights/?partner=712</url>
+      <price>
+        <currency code="GBP">&#163;</currency>
+        <value>1.39</value>
+        <formattedPrice>&#163;1.39</formattedPrice>
+        <rrp>1.39</rrp>
+        <formattedRrp>&#163;1.39</formattedRrp>
+        <onSale>false</onSale>
+      </price>
+    </track>
+    <track id="8837181">
+      <title>Back In Time</title>
+      <version>Album Version</version>
+      <artist id="1">
+        <name>Keane</name>
+        <appearsAs>Keane</appearsAs>
+        <url>http://www.7digital.com/artists/keane/?partner=712</url>
+      </artist>
+      <trackNumber>2</trackNumber>
+      <duration>232</duration>
+      <explicitContent>false</explicitContent>
+      <isrc>GBUM71000081</isrc>
+      <release id="799025">
+        <title>Night Train</title>
+        <version></version>
+        <type>Album</type>
+        <barcode>00602527392622</barcode>
+        <artist id="1">
+          <name>Keane</name>
+          <appearsAs>Keane</appearsAs>
+          <url>http://www.7digital.com/artists/keane/?partner=712</url>
+        </artist>
+        <url>http://www.7digital.com/artists/keane/night-train/?partner=712</url>
+        <image>http://cdn.7static.com/static/img/sleeveart/00/007/990/0000799025_50.jpg</image>
+      </release>
+      <url>http://www.7digital.com/artists/keane/night-train/02-Back-In-Time/?partner=712</url>
+      <price>
+        <currency code="GBP">&#163;</currency>
+        <value>1.39</value>
+        <formattedPrice>&#163;1.39</formattedPrice>
+        <rrp>1.39</rrp>
+        <formattedRrp>&#163;1.39</formattedRrp>
+        <onSale>false</onSale>
+      </price>
+    </track>
+    <track id="8837183">
+      <title>Stop For A Minute</title>
+      <version>Album Version</version>
+      <artist id="632515">
+        <name>K'NAAN / Keane</name>
+        <appearsAs>K'NAAN / Keane</appearsAs>
+        <url>http://www.7digital.com/artists/knaan-keane/?partner=712</url>
+      </artist>
+      <trackNumber>3</trackNumber>
+      <duration>247</duration>
+      <explicitContent>false</explicitContent>
+      <isrc>GBUM71000082</isrc>
+      <release id="799025">
+        <title>Night Train</title>
+        <version></version>
+        <type>Album</type>
+        <barcode>00602527392622</barcode>
+        <artist id="1">
+          <name>Keane</name>
+          <appearsAs>Keane</appearsAs>
+          <url>http://www.7digital.com/artists/keane/?partner=712</url>
+        </artist>
+        <url>http://www.7digital.com/artists/keane/night-train/?partner=712</url>
+        <image>http://cdn.7static.com/static/img/sleeveart/00/007/990/0000799025_50.jpg</image>
+      </release>
+      <url>http://www.7digital.com/artists/keane/night-train/03-Stop-For-A-Minute/?partner=712</url>
+      <price>
+        <currency code="GBP">&#163;</currency>
+        <value>1.39</value>
+        <formattedPrice>&#163;1.39</formattedPrice>
+        <rrp>1.39</rrp>
+        <formattedRrp>&#163;1.39</formattedRrp>
+        <onSale>false</onSale>
+      </price>
+    </track>
+    <track id="8837186">
+      <title>Clear Skies</title>
+      <version>Album Version</version>
+      <artist id="1">
+        <name>Keane</name>
+        <appearsAs>Keane</appearsAs>
+        <url>http://www.7digital.com/artists/keane/?partner=712</url>
+      </artist>
+      <trackNumber>4</trackNumber>
+      <duration>293</duration>
+      <explicitContent>false</explicitContent>
+      <isrc>GBUM71000083</isrc>
+      <release id="799025">
+        <title>Night Train</title>
+        <version></version>
+        <type>Album</type>
+        <barcode>00602527392622</barcode>
+        <artist id="1">
+          <name>Keane</name>
+          <appearsAs>Keane</appearsAs>
+          <url>http://www.7digital.com/artists/keane/?partner=712</url>
+        </artist>
+        <url>http://www.7digital.com/artists/keane/night-train/?partner=712</url>
+        <image>http://cdn.7static.com/static/img/sleeveart/00/007/990/0000799025_50.jpg</image>
+      </release>
+      <url>http://www.7digital.com/artists/keane/night-train/04-Clear-Skies/?partner=712</url>
+      <price>
+        <currency code="GBP">&#163;</currency>
+        <value>1.39</value>
+        <formattedPrice>&#163;1.39</formattedPrice>
+        <rrp>1.39</rrp>
+        <formattedRrp>&#163;1.39</formattedRrp>
+        <onSale>false</onSale>
+      </price>
+    </track>
+    <track id="8837190">
+      <title>Ishin Denshin (You've Got To Help Yourself)</title>
+      <version>Album Version</version>
+      <artist id="596076">
+        <name>Keane / Tigarah</name>
+        <appearsAs>Keane / Tigarah</appearsAs>
+        <url>http://www.7digital.com/artists/keane-tigarah/?partner=712</url>
+      </artist>
+      <trackNumber>5</trackNumber>
+      <duration>237</duration>
+      <explicitContent>false</explicitContent>
+      <isrc>GBUM71000084</isrc>
+      <release id="799025">
+        <title>Night Train</title>
+        <version></version>
+        <type>Album</type>
+        <barcode>00602527392622</barcode>
+        <artist id="1">
+          <name>Keane</name>
+          <appearsAs>Keane</appearsAs>
+          <url>http://www.7digital.com/artists/keane/?partner=712</url>
+        </artist>
+        <url>http://www.7digital.com/artists/keane/night-train/?partner=712</url>
+        <image>http://cdn.7static.com/static/img/sleeveart/00/007/990/0000799025_50.jpg</image>
+      </release>
+      <url>http://www.7digital.com/artists/keane/night-train/05-Ishin-Denshin-(Youve-Got-To-Help-Yourself)/?partner=712</url>
+      <price>
+        <currency code="GBP">&#163;</currency>
+        <value>1.39</value>
+        <formattedPrice>&#163;1.39</formattedPrice>
+        <rrp>1.39</rrp>
+        <formattedRrp>&#163;1.39</formattedRrp>
+        <onSale>false</onSale>
+      </price>
+    </track>
+    <track id="8837194">
+      <title>Your Love</title>
+      <version>Album Version</version>
+      <artist id="1">
+        <name>Keane</name>
+        <appearsAs>Keane</appearsAs>
+        <url>http://www.7digital.com/artists/keane/?partner=712</url>
+      </artist>
+      <trackNumber>6</trackNumber>
+      <duration>277</duration>
+      <explicitContent>false</explicitContent>
+      <isrc>GBUM71000085</isrc>
+      <release id="799025">
+        <title>Night Train</title>
+        <version></version>
+        <type>Album</type>
+        <barcode>00602527392622</barcode>
+        <artist id="1">
+          <name>Keane</name>
+          <appearsAs>Keane</appearsAs>
+          <url>http://www.7digital.com/artists/keane/?partner=712</url>
+        </artist>
+        <url>http://www.7digital.com/artists/keane/night-train/?partner=712</url>
+        <image>http://cdn.7static.com/static/img/sleeveart/00/007/990/0000799025_50.jpg</image>
+      </release>
+      <url>http://www.7digital.com/artists/keane/night-train/06-Your-Love/?partner=712</url>
+      <price>
+        <currency code="GBP">&#163;</currency>
+        <value>1.39</value>
+        <formattedPrice>&#163;1.39</formattedPrice>
+        <rrp>1.39</rrp>
+        <formattedRrp>&#163;1.39</formattedRrp>
+        <onSale>false</onSale>
+      </price>
+    </track>
+    <track id="8837199">
+      <title>Looking Back</title>
+      <version>Album Version</version>
+      <artist id="1">
+        <name>Keane</name>
+        <appearsAs>Keane / K'NAAN</appearsAs>
+        <url>http://www.7digital.com/artists/keane/?partner=712</url>
+      </artist>
+      <trackNumber>7</trackNumber>
+      <duration>226</duration>
+      <explicitContent>false</explicitContent>
+      <isrc>GBUM71000086</isrc>
+      <release id="799025">
+        <title>Night Train</title>
+        <version></version>
+        <type>Album</type>
+        <barcode>00602527392622</barcode>
+        <artist id="1">
+          <name>Keane</name>
+          <appearsAs>Keane</appearsAs>
+          <url>http://www.7digital.com/artists/keane/?partner=712</url>
+        </artist>
+        <url>http://www.7digital.com/artists/keane/night-train/?partner=712</url>
+        <image>http://cdn.7static.com/static/img/sleeveart/00/007/990/0000799025_50.jpg</image>
+      </release>
+      <url>http://www.7digital.com/artists/keane/night-train/07-Looking-Back/?partner=712</url>
+      <price>
+        <currency code="GBP">&#163;</currency>
+        <value>1.39</value>
+        <formattedPrice>&#163;1.39</formattedPrice>
+        <rrp>1.39</rrp>
+        <formattedRrp>&#163;1.39</formattedRrp>
+        <onSale>false</onSale>
+      </price>
+    </track>
+    <track id="8837202">
+      <title>My Shadow</title>
+      <version>Album Version</version>
+      <artist id="1">
+        <name>Keane</name>
+        <appearsAs>Keane</appearsAs>
+        <url>http://www.7digital.com/artists/keane/?partner=712</url>
+      </artist>
+      <trackNumber>8</trackNumber>
+      <duration>289</duration>
+      <explicitContent>false</explicitContent>
+      <isrc>GBUM71000089</isrc>
+      <release id="799025">
+        <title>Night Train</title>
+        <version></version>
+        <type>Album</type>
+        <barcode>00602527392622</barcode>
+        <artist id="1">
+          <name>Keane</name>
+          <appearsAs>Keane</appearsAs>
+          <url>http://www.7digital.com/artists/keane/?partner=712</url>
+        </artist>
+        <url>http://www.7digital.com/artists/keane/night-train/?partner=712</url>
+        <image>http://cdn.7static.com/static/img/sleeveart/00/007/990/0000799025_50.jpg</image>
+      </release>
+      <url>http://www.7digital.com/artists/keane/night-train/08-My-Shadow/?partner=712</url>
+      <price>
+        <currency code="GBP">&#163;</currency>
+        <value>1.39</value>
+        <formattedPrice>&#163;1.39</formattedPrice>
+        <rrp>1.39</rrp>
+        <formattedRrp>&#163;1.39</formattedRrp>
+        <onSale>false</onSale>
+      </price>
+    </track>
+  </tracks>
+</response>

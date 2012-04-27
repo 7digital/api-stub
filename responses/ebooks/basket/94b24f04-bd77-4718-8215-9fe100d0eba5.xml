@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<response status="ok" version="1.2" xsi:noNamespaceSchemaLocation="http://api.7digital.com/1.2/static/7digitalAPI.xsd" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<basket id="94b24f04-bd77-4718-8215-9fe100d0eba5" traceNumber="47402">
+		<shopId>34</shopId>
+		<basketItems>
+			<basketItem id="d6a7a352-4332-4241-8abe-9fe100d0eba5">
+				<description>RefundBasketTests</description>
+				<price>
+					<currency code="GBP">£</currency>
+					<value>12.23</value>
+					<formattedPrice>£12.23</formattedPrice>
+				</price>
+				<dateAdded>2012-01-23T12:40:39</dateAdded>
+				<sin>TT000009</sin>
+			</basketItem>
+			<basketItem id="d6a7a352-4332-4241-8abe-9fe100d0eba5">
+				<description>RefundBasketTests</description>
+				<price>
+					<currency code="GBP">£</currency>
+					<value>3.22</value>
+					<formattedPrice>£3.22</formattedPrice>
+				</price>
+				<dateAdded>2012-01-23T12:40:39</dateAdded>
+				<sin>TT000009</sin>
+			</basketItem>
+		</basketItems>
+	</basket>
+</response>

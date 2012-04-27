@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<response status="ok" version="1.2"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://api.7digital.com/1.2/static/7digitalAPI.xsd" >
+	<release id="1234113">
+		<title>Kitsun&#233; Maison Compilation 11: The Indie-Dance Issue</title>
+		<version></version>
+		<type>Album</type>
+		<barcode>3700656500011</barcode>
+		<year>2011</year>
+		<explicitContent>false</explicitContent>
+		<artist id="209">
+			<name>Various Artists</name>
+			<appearsAs>Various Artists</appearsAs>
+			<url>http://www.7digital.com/artists/various-artists/?partner=712</url>
+		</artist>
+		<url>http://www.7digital.com/artists/various-artists/kitsune-maison-compilation-11-the-indie-dance-issue/?partner=712</url>
+		<image>http://cdn.7static.com/static/img/sleeveart/00/012/341/0001234113_50.jpg</image>
+		<releaseDate>2011-05-16T00:00:00+01:00</releaseDate>
+		<price>
+			<currency code="GBP">&#163;</currency>
+			<value>6.99</value>
+			<formattedPrice>&#163;6.99</formattedPrice>
+			<rrp>6.99</rrp>
+			<formattedRrp>&#163;6.99</formattedRrp>
+			<onSale>false</onSale>
+		</price>
+		<formats availableDrmFree="true">
+			<format id="17">
+				<fileFormat>MP3</fileFormat>
+				<bitRate>320</bitRate>
+				<drmFree>true</drmFree>
+			</format>
+			<format id="33">
+				<fileFormat>M4A</fileFormat>
+				<bitRate>320</bitRate>
+				<drmFree>true</drmFree>
+			</format>
+		</formats>
+		<label id="13267">
+			<name>Kitsun&#233;</name>
+		</label>
+	</release>
+</response>

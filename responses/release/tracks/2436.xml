@@ -1,0 +1,184 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<response status="ok" version="1.2"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://api.7digital.com/1.2/static/7digitalAPI.xsd" >
+  <tracks>
+    <page>1</page>
+    <pageSize>10</pageSize>
+    <totalItems>1</totalItems>
+	  <track id="1">
+		  <title>Item 1</title>
+		  <version></version>
+		  <artist id="1">
+			  <name>Keane</name>
+			  <appearsAs>Keane</appearsAs>
+			  <url>http://www.7digital.com/artists/keane/?partner=712</url>
+		  </artist>
+		  <trackNumber>1</trackNumber>
+		  <duration>84</duration>
+		  <explicitContent>false</explicitContent>
+		  <isrc>GBUM71000080</isrc>
+		  <release id="799025">
+			  <title>Night Train</title>
+			  <version></version>
+			  <type>Album</type>
+			  <barcode>00602527392622</barcode>
+			  <artist id="1">
+				  <name>Keane</name>
+				  <appearsAs>Keane</appearsAs>
+				  <url>http://www.7digital.com/artists/keane/?partner=712</url>
+			  </artist>
+			  <url>http://www.7digital.com/artists/keane/night-train/?partner=712</url>
+			  <image>http://cdn.7static.com/static/img/sleeveart/00/007/990/0000799025_50.jpg</image>
+		  </release>
+		  <url>http://www.7digital.com/artists/keane/night-train/01-House-Lights/?partner=712</url>
+		  <price>
+			  <currency code="GBP">&#163;</currency>
+			  <formattedPrice>&#163;0.99</formattedPrice>
+			  <value>0.99</value>
+			  <rrp>0.99</rrp>
+			  <formattedRrp>&#163;0.99</formattedRrp>
+			  <onSale>false</onSale>
+		  </price>
+	  </track>
+	  <track id="2">
+		  <title>Item 2</title>
+		  <version></version>
+		  <artist id="1">
+			  <name>Keane</name>
+			  <appearsAs>Keane</appearsAs>
+			  <url>http://www.7digital.com/artists/keane/?partner=712</url>
+		  </artist>
+		  <trackNumber>2</trackNumber>
+		  <duration>90</duration>
+		  <explicitContent>false</explicitContent>
+		  <isrc>GBUM71000080</isrc>
+		  <release id="799025">
+			  <title>Night Train</title>
+			  <version></version>
+			  <type>Album</type>
+			  <barcode>00602527392622</barcode>
+			  <artist id="1">
+				  <name>Keane</name>
+				  <appearsAs>Keane</appearsAs>
+				  <url>http://www.7digital.com/artists/keane/?partner=712</url>
+			  </artist>
+			  <url>http://www.7digital.com/artists/keane/night-train/?partner=712</url>
+			  <image>http://cdn.7static.com/static/img/sleeveart/00/007/990/0000799025_50.jpg</image>
+		  </release>
+		  <url>http://www.7digital.com/artists/keane/night-train/01-House-Lights/?partner=712</url>
+		  <price>
+			  <currency code="GBP">&#163;</currency>
+			  <formattedPrice>&#163;0.99</formattedPrice>
+			  <value>0.99</value>
+			  <rrp>0.99</rrp>
+			  <formattedRrp>&#163;0.99</formattedRrp>
+			  <onSale>false</onSale>
+		  </price>
+	  </track>
+	  <track id="3">
+		  <title>Item 3</title>
+		  <version></version>
+		  <artist id="1">
+			  <name>Keane</name>
+			  <appearsAs>Keane</appearsAs>
+			  <url>http://www.7digital.com/artists/keane/?partner=712</url>
+		  </artist>
+		  <trackNumber>3</trackNumber>
+		  <duration>104</duration>
+		  <explicitContent>false</explicitContent>
+		  <isrc>GBUM71000080</isrc>
+		  <release id="799025">
+			  <title>Night Train</title>
+			  <version></version>
+			  <type>Album</type>
+			  <barcode>00602527392622</barcode>
+			  <artist id="1">
+				  <name>Keane</name>
+				  <appearsAs>Keane</appearsAs>
+				  <url>http://www.7digital.com/artists/keane/?partner=712</url>
+			  </artist>
+			  <url>http://www.7digital.com/artists/keane/night-train/?partner=712</url>
+			  <image>http://cdn.7static.com/static/img/sleeveart/00/007/990/0000799025_50.jpg</image>
+		  </release>
+		  <url>http://www.7digital.com/artists/keane/night-train/01-House-Lights/?partner=712</url>
+		  <price>
+			  <currency code="GBP">&#163;</currency>
+			  <formattedPrice>&#163;0.99</formattedPrice>
+			  <value>0.99</value>
+			  <rrp>0.99</rrp>
+			  <formattedRrp>&#163;0.99</formattedRrp>
+			  <onSale>false</onSale>
+		  </price>
+	  </track>
+	  <track id="4">
+		  <title>Item 4</title>
+		  <version></version>
+		  <artist id="1">
+			  <name>Keane</name>
+			  <appearsAs>Keane</appearsAs>
+			  <url>http://www.7digital.com/artists/keane/?partner=712</url>
+		  </artist>
+		  <trackNumber>4</trackNumber>
+		  <duration>114</duration>
+		  <explicitContent>false</explicitContent>
+		  <isrc>GBUM71000080</isrc>
+		  <release id="799025">
+			  <title>Night Train</title>
+			  <version></version>
+			  <type>Album</type>
+			  <barcode>00602527392622</barcode>
+			  <artist id="1">
+				  <name>Keane</name>
+				  <appearsAs>Keane</appearsAs>
+				  <url>http://www.7digital.com/artists/keane/?partner=712</url>
+			  </artist>
+			  <url>http://www.7digital.com/artists/keane/night-train/?partner=712</url>
+			  <image>http://cdn.7static.com/static/img/sleeveart/00/007/990/0000799025_50.jpg</image>
+		  </release>
+		  <url>http://www.7digital.com/artists/keane/night-train/01-House-Lights/?partner=712</url>
+		  <price>
+			  <currency code="GBP">&#163;</currency>
+			  <formattedPrice>&#163;0.99</formattedPrice>
+			  <value>0.99</value>
+			  <rrp>0.99</rrp>
+			  <formattedRrp>&#163;0.99</formattedRrp>
+			  <onSale>false</onSale>
+		  </price>
+	  </track>
+	  <track id="5">
+		  <title>Item 5</title>
+		  <version></version>
+		  <artist id="1">
+			  <name>Keane</name>
+			  <appearsAs>Keane</appearsAs>
+			  <url>http://www.7digital.com/artists/keane/?partner=712</url>
+		  </artist>
+		  <trackNumber>5</trackNumber>
+		  <duration>124</duration>
+		  <explicitContent>false</explicitContent>
+		  <isrc>GBUM71000080</isrc>
+		  <release id="799025">
+			  <title>Night Train</title>
+			  <version></version>
+			  <type>Album</type>
+			  <barcode>00602527392622</barcode>
+			  <artist id="1">
+				  <name>Keane</name>
+				  <appearsAs>Keane</appearsAs>
+				  <url>http://www.7digital.com/artists/keane/?partner=712</url>
+			  </artist>
+			  <url>http://www.7digital.com/artists/keane/night-train/?partner=712</url>
+			  <image>http://cdn.7static.com/static/img/sleeveart/00/007/990/0000799025_50.jpg</image>
+		  </release>
+		  <url>http://www.7digital.com/artists/keane/night-train/01-House-Lights/?partner=712</url>
+		  <price>
+			  <currency code="GBP">&#163;</currency>
+			  <formattedPrice>&#163;0.99</formattedPrice>
+			  <value>0.99</value>
+			  <rrp>0.99</rrp>
+			  <formattedRrp>&#163;0.99</formattedRrp>
+			  <onSale>false</onSale>
+		  </price>
+	  </track>
+  </tracks>
+</response>
