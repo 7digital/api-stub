@@ -24,6 +24,10 @@ before(function(done) {
 	});
 });
 
+after(function () {
+	serverProcess.kill('SIGKILL');
+});
+
 describe("should hit artist endpoints", function(){
 	var suiteContext = this, specs = [
 		{
