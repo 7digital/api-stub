@@ -37,7 +37,7 @@ describe("should hit artist endpoints", function(){
 	];
 
 	specs.forEach(function (spec) {
-		var specFunction = it.bind(suiteContext, spec.name, function (done) {
+		it(spec.name, function (done) {
 			request(spec.url, function(err, response, body){
 				if (err) {
 					console.error(err);
@@ -49,7 +49,5 @@ describe("should hit artist endpoints", function(){
 				done();
 			});
 		});
-
-		specFunction();
 	});
 });
