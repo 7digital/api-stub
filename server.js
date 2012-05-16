@@ -20,6 +20,8 @@ server.get('/artist/similar', conventions.id);
 server.get('/artist/recommend', conventions.id);
 server.get('/artist/tags', conventions.id);
 
+server.get('/basket/add', conventions.id);
+
 // Release
 server.get('/release/details', conventions.id);
 server.get('/release/recommend', conventions.id);
