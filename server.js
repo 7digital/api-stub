@@ -1,7 +1,9 @@
 var express = require('express'),
-	conventions = require('./lib/conventions'),
+	ConventionalHandler = require('./lib/conventions'),
+	conventions = new ConventionalHandler(),
 	server = express.createServer();
 
+	console.log(conventions);
 
 server.use(function addDefaultHeaders(req, res, next) {
 	res.header('Accept-Ranges',	'bytes');
@@ -22,6 +24,8 @@ server.get('/artist/releases', conventions.id);
 server.get('/artist/tags', conventions.id);
 
 server.get('/basket/add', conventions.id);
+server.get('/basket/create', conventions.createBasket);
+server.get('/basket', conventions.serveDefault);
 
 // Release
 server.get('/release/details', conventions.id);
