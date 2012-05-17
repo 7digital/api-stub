@@ -18,6 +18,7 @@ server.get('/artist/bytag/top', conventions.tags);
 server.get('/artist/search', conventions.search);
 server.get('/artist/similar', conventions.id);
 server.get('/artist/recommend', conventions.id);
+server.get('/artist/releases', conventions.id);
 server.get('/artist/tags', conventions.id);
 
 server.get('/basket/add', conventions.id);

@@ -29,14 +29,21 @@ after(function () {
 });
 
 describe("should hit artist endpoints", function(){
-	var suiteContext = this, specs = [
-		{
+	var suiteContext = this, specs = [ {
 			name: "returns xml for recommend",
 			url: 'http://localhost:3000/artist/recommend?artistId=1'
-		},
-		{
+		}, {
 			name: "returns xml for top tags",
 			url: 'http://localhost:3000/artist/bytag/top?tags=pop'
+		},{
+			name: "returns xml for releases",
+			url: 'http://localhost:3000/artist/releases?artistId=1'
+		},{
+			name: "returns xml for search",
+			url: 'http://localhost:3000/artist/search?q=kylie'
+		},{
+			name: "returns xml for similar",
+			url: 'http://localhost:3000/artist/similar?artistId=609'
 		}
 	];
 
