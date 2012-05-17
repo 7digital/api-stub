@@ -9,7 +9,7 @@
 	},
 	"main": "server.js",
 	"scripts": {
-		"test": "mocha spec/"
+		"test": "mocha -R list spec/integration.js"
 	},
 	"dependencies": {
 		"express": "2.5.9",

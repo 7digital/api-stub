@@ -3,7 +3,8 @@ var serverProcess,
 	mocha = require('mocha'),
 	path = require('path'),
 	process = require('child_process'),
-	should = require('chai').should();
+	should = require('chai').should(),
+	assert = require('assert');
 
 before(function(done) {
 	var nodeProcessPath = path.join(__dirname, '../server.js'),
@@ -93,6 +94,19 @@ describe("should hit endpoints", function(){
 
 				response.statusCode.should.equal(200);
 				body.length.should.not.equal("");
+				done();
+			});
+		});
+	});
+});
+
+describe('when adding to basket', function(){
+	it('should return the added item in basket', function(done){
+		request('http://localhost:3000/basket/add?releaseid=2437', function(err, response, addedBody){
+			var basketId = addedBody.match(/[0-9a-fA-F]{8}\-[0-9a-fA-F]{4}\-[0-9a-fA-F]{4}\-[0-9a-fA-F]{4}\-[0-9a-fA-F]{12}/);
+			console.log(basketId);
+			request('http://localhost:3000/basket?basketid=' + basketId, function(err, response, getBody){
+				assert.equal(addedBody, getBody);
 				done();
 			});
 		});

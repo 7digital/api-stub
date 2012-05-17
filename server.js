@@ -1,5 +1,7 @@
 var express = require('express'),
 	ConventionalHandler = require('./lib/conventions'),
+	BasketHandler = require('./lib/basket'),
+	basket = new BasketHandler(),
 	conventions = new ConventionalHandler(),
 	server = express.createServer();
 
@@ -23,9 +25,11 @@ server.get('/artist/recommend', conventions.id);
 server.get('/artist/releases', conventions.id);
 server.get('/artist/tags', conventions.id);
 
-server.get('/basket/add', conventions.id);
-server.get('/basket/create', conventions.createBasket);
-server.get('/basket', conventions.serveDefault);
+// Basket
+server.get('/basket/add', basket.addToBasket);
+server.get('/basket/create', basket.createBasket);
+server.get('/basket', basket.getBasket);
+server.get('/basket/remove', conventions.serveDefault);
 
 // Release
 server.get('/release/details', conventions.id);
