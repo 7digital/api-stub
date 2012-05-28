@@ -39,7 +39,7 @@ server.get('/release/tags', conventions.id);
 server.get('/release/tracks', conventions.id);
 
 // Merch
-server.get('/editorial/list', conventions.key);
+server.get('/merchandising/list/details', conventions.key);
 
 server.listen(+process.env.PORT || 3000, function serverListening() {
 	console.log('Server listening on %s', +process.env.PORT || 3000);

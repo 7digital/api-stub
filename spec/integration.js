@@ -70,17 +70,22 @@ describe("should hit endpoints", function(){
 		},
 		//basket
 		{
-			name: "returns xml for when adding release to basket",
+			name: "returns xml when adding release to basket",
 			url: 'http://localhost:3000/basket/add/?releaseid=2437'
 		},{
-			name: "returns xml for when adding track to basket",
+			name: "returns xml when adding track to basket",
 			url: 'http://localhost:3000/basket/add/?trackid=2442'
 		}, {
-			name: "returns xml for when creating a basket",
+			name: "returns xml when creating a basket",
 			url: 'http://localhost:3000/basket/create'
 		}, {
 			name: "returns xml when getting a basket",
 			url: 'http://localhost:3000/basket'
+		},
+		//merchandising
+		{
+			name:"returns xml when requesting merchandising endpoint",
+			url: 'http://localhost:3000/merchandising/list/details?key=tabAlbums'
 		}
 	];
 
