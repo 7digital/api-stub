@@ -12,7 +12,6 @@ before(function(done) {
 		processStarted, 
 		childProcessEnvironment = process.env;
 
-	console.log(process);
 	childProcessEnvironment.PORT = port;
 
 	console.log('spwaning node process : ' + nodeProcessPath);
@@ -134,7 +133,6 @@ describe('when adding to basket', function(){
 	it('should return the added item in basket', function(done){
 		request('http://localhost:' + port + '/basket/add?releaseid=2437', function(err, response, addedBody){
 			var basketId = addedBody.match(/[0-9a-fA-F]{8}\-[0-9a-fA-F]{4}\-[0-9a-fA-F]{4}\-[0-9a-fA-F]{4}\-[0-9a-fA-F]{12}/);
-			console.log(basketId);
 			request('http://localhost:' + port + '/basket?basketid=' + basketId, function(err, response, getBody){
 				assert.equal(addedBody, getBody);
 				done();
