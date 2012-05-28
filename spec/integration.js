@@ -109,6 +109,11 @@ describe("should hit endpoints", function(){
 		{
 			name:"returns xml when requesting merchandising endpoint",
 			url: 'http://localhost:' + port + '/merchandising/list/details?key=tabAlbums'
+		},
+		//territories
+		{
+			name:"returns xml when requesting country resolve endpoint",
+			url: 'http://localhost:' + port + '/country/resolve?ipAddress=84.45.95.241'
 		}
 
 	];

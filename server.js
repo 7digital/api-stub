@@ -48,6 +48,9 @@ server.get('/basket/remove', conventions.serveDefault);
 // Merch
 server.get('/merchandising/list/details', conventions.key);
 
+// Territories
+server.get('/country/resolve', conventions.serveDefault);
+
 server.listen(+process.env.PORT || 3000, function serverListening() {
 	console.log('Server listening on %s', +process.env.PORT || 3000);
 });
