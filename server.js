@@ -36,6 +36,8 @@ server.get('/release/chart', conventions.serveDefault);
 
 //track
 server.get('/track/chart', conventions.serveDefault);
+server.get('/track/search', conventions.search);
+server.get('/track/details', conventions.id);
 
 // Basket
 server.get('/basket/add', basket.addToBasket);
