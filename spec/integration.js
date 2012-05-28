@@ -60,6 +60,11 @@ describe("should hit endpoints", function(){
 			name: "returns xml for artist chart",
 			url: 'http://localhost:' + port + '/artist/chart'
 		},
+		//catalogue
+		{
+			name:"returns xml for catalogue endpoint",
+			url: 'http://localhost:' + port + '/catalogue/artist/webdevteam'
+		},
 		//release
 		{
 			name: "returns xml for release details",
@@ -115,7 +120,6 @@ describe("should hit endpoints", function(){
 			name:"returns xml when requesting country resolve endpoint",
 			url: 'http://localhost:' + port + '/country/resolve?ipAddress=84.45.95.241'
 		}
-
 	];
 
 	specs.forEach(function (spec) {
