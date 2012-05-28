@@ -24,12 +24,7 @@ server.get('/artist/similar', conventions.id);
 server.get('/artist/recommend', conventions.id);
 server.get('/artist/releases', conventions.id);
 server.get('/artist/tags', conventions.id);
-
-// Basket
-server.get('/basket/add', basket.addToBasket);
-server.get('/basket/create', basket.createBasket);
-server.get('/basket', basket.getBasket);
-server.get('/basket/remove', conventions.serveDefault);
+server.get('/artist/chart', conventions.serveDefault);
 
 // Release
 server.get('/release/details', conventions.id);
@@ -37,6 +32,16 @@ server.get('/release/recommend', conventions.id);
 server.get('/release/search', conventions.search);
 server.get('/release/tags', conventions.id);
 server.get('/release/tracks', conventions.id);
+server.get('/release/chart', conventions.serveDefault);
+
+//track
+server.get('/track/chart', conventions.serveDefault);
+
+// Basket
+server.get('/basket/add', basket.addToBasket);
+server.get('/basket/create', basket.createBasket);
+server.get('/basket', basket.getBasket);
+server.get('/basket/remove', conventions.serveDefault);
 
 // Merch
 server.get('/merchandising/list/details', conventions.key);

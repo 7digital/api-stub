@@ -50,6 +50,9 @@ describe("should hit endpoints", function(){
 		},{
 			name: "returns xml for artist tags",
 			url: 'http://localhost:3000/artist/tags?artistid=1'
+		},{
+			name: "returns xml for artist chart",
+			url: 'http://localhost:3000/artist/chart'
 		},
 		//release
 		{
@@ -67,6 +70,14 @@ describe("should hit endpoints", function(){
 		},{
 			name: "returns xml for release tracks",
 			url: 'http://localhost:3000/release/tracks?releaseid=2432'
+		},{
+			name: "returns xml for release chart",
+			url: 'http://localhost:3000/release/chart'
+		},
+		//track
+		{
+			name: "returns xml for track chart",
+			url: 'http://localhost:3000/track/chart'
 		},
 		//basket
 		{
@@ -87,6 +98,7 @@ describe("should hit endpoints", function(){
 			name:"returns xml when requesting merchandising endpoint",
 			url: 'http://localhost:3000/merchandising/list/details?key=tabAlbums'
 		}
+
 	];
 
 	specs.forEach(function (spec) {
