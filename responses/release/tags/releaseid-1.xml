@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<response status="ok" version="1.2"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://api.7digital.com/1.2/static/7digitalAPI.xsd" >
+	<tags>
+		<page>1</page>
+		<pageSize>10</pageSize>
+		<totalItems>5</totalItems>
+		<tag id="rock">
+			<text>rock</text>
+			<url>http://www.7digital.com/tags/rock?partner=1401</url>
+		</tag>
+		<tag id="pop">
+			<text>pop</text>
+			<url>http://www.7digital.com/tags/pop?partner=1401</url>
+		</tag>
+		<tag id="electronic">
+			<text>electronic</text>
+			<url>http://www.7digital.com/tags/electronic?partner=1401</url>
+		</tag>
+		<tag id="indie-rock">
+			<text>indie rock</text>
+			<url>http://www.7digital.com/tags/indie-rock?partner=1401</url>
+		</tag>
+		<tag id="2000s">
+			<text>2000s</text>
+			<url>http://www.7digital.com/tags/2000s?partner=1401</url>
+		</tag>
+	</tags>
+</response>

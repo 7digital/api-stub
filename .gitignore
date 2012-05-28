@@ -5,7 +5,6 @@
 *.gz
 *.swp
 /build/
-tags
 npm-debug.log
 /lib/compiled/
 docs
