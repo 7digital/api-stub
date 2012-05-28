@@ -2,18 +2,22 @@ var serverProcess,
 	request = require('request'),
 	mocha = require('mocha'),
 	path = require('path'),
-	process = require('child_process'),
+	childProcess = require('child_process'),
 	should = require('chai').should(),
 	assert = require('assert'),
 	port = 3000;
 
 before(function(done) {
 	var nodeProcessPath = path.join(__dirname, '../server.js'),
-		processStarted;
+		processStarted, 
+		childProcessEnvironment = process.env;
+
+	console.log(process);
+	childProcessEnvironment.PORT = port;
 
 	console.log('spwaning node process : ' + nodeProcessPath);
-	serverProcess = process.spawn('node', [nodeProcessPath], {
-		env : { PORT:port }
+	serverProcess = childProcess.spawn('node', [nodeProcessPath], {
+		env : childProcessEnvironment
 	});
 
 	serverProcess.stdout.on('data', function(data) {
