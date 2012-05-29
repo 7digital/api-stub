@@ -35,98 +35,98 @@ after(function () {
 	serverProcess.kill('SIGKILL');
 });
 
-describe("should hit endpoints", function(){
+describe("should return successful responses for ", function(){
 	var suiteContext = this, specs = [
 		//artists
 		{
-			name: "returns xml for artist recommend",
+			name: "artist/recommend",
 			url: 'http://localhost:' + port + '/artist/recommend?artistId=1'
 		}, {
-			name: "returns xml for artist top tags",
+			name: "artist/bytag/top",
 			url: 'http://localhost:' + port + '/artist/bytag/top?tags=pop'
 		},{
-			name: "returns xml for artist releases",
+			name: "artist/releases",
 			url: 'http://localhost:' + port + '/artist/releases?artistId=1'
 		},{
-			name: "returns xml for artist search",
+			name: "artist search",
 			url: 'http://localhost:' + port + '/artist/search?q=kylie'
 		},{
-			name: "returns xml for similar artist",
+			name: "artist/similar",
 			url: 'http://localhost:' + port + '/artist/similar?artistid=609'
 		},{
-			name: "returns xml for artist tags",
+			name: "artist/tags",
 			url: 'http://localhost:' + port + '/artist/tags?artistid=1'
 		},{
-			name: "returns xml for artist chart",
+			name: "artist/chart",
 			url: 'http://localhost:' + port + '/artist/chart'
 		},
 		//catalogue
 		{
-			name:"returns xml for catalogue artist endpoint",
+			name:"catalogue/artist",
 			url: 'http://localhost:' + port + '/catalogue/artist/webdevteam'
 		},
 		{
-			name:"returns xml for catalogue release endpoint",
+			name:"catalogue/artist/blah/release/blah",
 			url: 'http://localhost:' + port + '/catalogue/artist/webdevteam/release/awesomeness'
 		},
 		//release
 		{
-			name: "returns xml for release details",
+			name: "release/details",
 			url: 'http://localhost:' + port + '/release/details?releaseid=2431'
 		},{
-			name: "returns xml for release recommend",
+			name: "release/recommend",
 			url: 'http://localhost:' + port + '/release/recommend?releaseid=5'
 		},{
-			name: "returns xml for release search",
+			name: "release/search",
 			url: 'http://localhost:' + port + '/release/search?q=kylie'
 		},{
-			name: "returns xml for release tags",
+			name: "release/tags",
 			url: 'http://localhost:' + port + '/release/tags?releaseid=1'
 		},{
-			name: "returns xml for release tracks",
+			name: "release/tracks",
 			url: 'http://localhost:' + port + '/release/tracks?releaseid=2432'
 		},{
-			name: "returns xml for release chart",
+			name: "release/chart",
 			url: 'http://localhost:' + port + '/release/chart'
 		},
 		//track
 		{
-			name: "returns xml for track chart",
+			name: "track/chart",
 			url: 'http://localhost:' + port + '/track/chart'
 		},{
-			name: "returns xml for track search",
+			name: "track/search",
 			url: 'http://localhost:' + port + '/track/search?q=kylie'
 		},{
-			name: "returns xml for track details",
+			name: "track/details",
 			url: 'http://localhost:' + port + '/track/details?trackid=12345'
 		},
 		//basket
 		{
-			name: "returns xml when adding release to basket",
+			name: "basket/add when adding a release",
 			url: 'http://localhost:' + port + '/basket/add/?releaseid=2437'
 		},{
-			name: "returns xml when adding track to basket",
+			name: "basket add when adding a track",
 			url: 'http://localhost:' + port + '/basket/add/?trackid=2442'
 		}, {
-			name: "returns xml when creating a basket",
+			name: "basket/create",
 			url: 'http://localhost:' + port + '/basket/create'
 		}, {
-			name: "returns xml when getting a basket",
+			name: "basket",
 			url: 'http://localhost:' + port + '/basket'
 		},
 		//merchandising
 		{
-			name:"returns xml when requesting merchandising endpoint",
+			name:"merchandising/list/details",
 			url: 'http://localhost:' + port + '/merchandising/list/details?key=tabAlbums'
 		},
 		//territories
 		{
-			name:"returns xml when requesting country resolve endpoint",
+			name:"country/resolve",
 			url: 'http://localhost:' + port + '/country/resolve?ipAddress=84.45.95.241'
 		},
 		//locker
 		{
-			name:"returns xml for user locker",
+			name:"user/locker",
 			url: 'http://localhost:' + port + '/user/locker?userId=121&pageSize=10&page=1&sort=purchaseDate%20desc'
 		}
 	];
