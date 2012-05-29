@@ -5,7 +5,9 @@ var serverProcess,
 	childProcess = require('child_process'),
 	should = require('chai').should(),
 	assert = require('assert'),
-	port = 3000;
+	baseAddress = 'http://localhost'
+	port = 3000
+	root = baseAddress + ':' + port;
 
 before(function(done) {
 	var nodeProcessPath = path.join(__dirname, '../server.js'),
@@ -40,112 +42,115 @@ describe("should return successful responses for ", function(){
 		//artists
 		{
 			name: "artist/recommend",
-			url: 'http://localhost:' + port + '/artist/recommend?artistId=1'
+			url: '/artist/recommend?artistId=1'
 		}, {
 			name: "artist/bytag/top",
-			url: 'http://localhost:' + port + '/artist/bytag/top?tags=pop'
+			url: '/artist/bytag/top?tags=pop'
 		},{
 			name: "artist/releases",
-			url: 'http://localhost:' + port + '/artist/releases?artistId=1'
+			url: '/artist/releases?artistId=1'
 		},{
 			name: "artist search",
-			url: 'http://localhost:' + port + '/artist/search?q=kylie'
+			url: '/artist/search?q=kylie'
 		},{
 			name: "artist/similar",
-			url: 'http://localhost:' + port + '/artist/similar?artistid=609'
+			url: '/artist/similar?artistid=609'
 		},{
 			name: "artist/tags",
-			url: 'http://localhost:' + port + '/artist/tags?artistid=1'
+			url: '/artist/tags?artistid=1'
 		},{
 			name: "artist/chart",
-			url: 'http://localhost:' + port + '/artist/chart'
+			url: '/artist/chart'
 		},
 		//catalogue
 		{
 			name:"catalogue/artist",
-			url: 'http://localhost:' + port + '/catalogue/artist/webdevteam'
+			url: '/catalogue/artist/webdevteam'
 		},
 		{
 			name:"catalogue/artist/blah/release/blah",
-			url: 'http://localhost:' + port + '/catalogue/artist/webdevteam/release/awesomeness'
+			url: '/catalogue/artist/webdevteam/release/awesomeness'
 		},
 		//release
 		{
 			name: "release/details",
-			url: 'http://localhost:' + port + '/release/details?releaseid=2431'
+			url: '/release/details?releaseid=2431'
 		},{
 			name: "release/recommend",
-			url: 'http://localhost:' + port + '/release/recommend?releaseid=5'
+			url: '/release/recommend?releaseid=5'
 		},{
 			name: "release/search",
-			url: 'http://localhost:' + port + '/release/search?q=kylie'
+			url: '/release/search?q=kylie'
 		},{
 			name: "release/tags",
-			url: 'http://localhost:' + port + '/release/tags?releaseid=1'
+			url: '/release/tags?releaseid=1'
 		},{
 			name: "release/tracks",
-			url: 'http://localhost:' + port + '/release/tracks?releaseid=2432'
+			url: '/release/tracks?releaseid=2432'
 		},{
 			name: "release/chart",
-			url: 'http://localhost:' + port + '/release/chart'
+			url: '/release/chart'
 		},
 		//track
 		{
 			name: "track/chart",
-			url: 'http://localhost:' + port + '/track/chart'
+			url: '/track/chart'
 		},{
 			name: "track/search",
-			url: 'http://localhost:' + port + '/track/search?q=kylie'
+			url: '/track/search?q=kylie'
 		},{
 			name: "track/details",
-			url: 'http://localhost:' + port + '/track/details?trackid=12345'
+			url: '/track/details?trackid=12345'
 		},
 		//basket
 		{
 			name: "basket/add when adding a release",
-			url: 'http://localhost:' + port + '/basket/add/?releaseid=2437'
+			url: '/basket/add/?releaseid=2437'
 		},{
 			name: "basket/add when adding a track",
-			url: 'http://localhost:' + port + '/basket/add/?trackid=2442'
+			url: '/basket/add/?trackid=2442'
 		}, {
 			name: "basket/create",
-			url: 'http://localhost:' + port + '/basket/create'
+			url: '/basket/create'
 		}, {
 			name: "basket",
-			url: 'http://localhost:' + port + '/basket'
+			url: '/basket'
 		},
 		//merchandising
 		{
 			name:"merchandising/list/details",
-			url: 'http://localhost:' + port + '/merchandising/list/details?key=tabAlbums'
+			url: '/merchandising/list/details?key=tabAlbums'
 		},
 		//territories
 		{
 			name:"country/resolve",
-			url: 'http://localhost:' + port + '/country/resolve?ipAddress=84.45.95.241'
+			url: '/country/resolve?ipAddress=84.45.95.241'
 		},
 		//locker
 		{
 			name:"user/locker",
-			url: 'http://localhost:' + port + '/user/locker?userId=121&pageSize=10&page=1&sort=purchaseDate%20desc'
+			url: '/user/locker?userId=121&pageSize=10&page=1&sort=purchaseDate%20desc'
 		},
 		{
 			name:"user/locker when requesting purchase",
-			url: 'http://localhost:' + port + '/user/locker?userId=121&pageSize=10&page=1&sort=purchaseDate%20desc&purchaseId=1'
+			url: '/user/locker?userId=121&pageSize=10&page=1&sort=purchaseDate%20desc&purchaseId=1'
 		},
 		//payment
 		{
+			name:"user/payment/card",
+			url: '/user/payment/card?userId=380'
+		}, {
 			name:"user/payment/card/add",
-			url: 'http://localhost:' + port + '/user/payment/card/add',
+			url: '/user/payment/card/add',
 			method: 'POST',
 			data: { cardNumber: '4444333322221111' }
-		},
-		{
+		}, {
 			name:"user/payment/card/delete",
-			url: 'http://localhost:' + port + '/user/payment/card/delete',
+			url: '/user/payment/card/delete',
 			method: 'POST',
 			data: { cardNumber: '4444333322221111' }
 		}
+
 	];
 
 	specs.forEach(function (spec) {
@@ -154,12 +159,12 @@ describe("should return successful responses for ", function(){
 
 			if(spec.method){
 				requestParameters = {};
-				requestParameters.url = spec.url;
+				requestParameters.url = root + spec.url;
 				requestParameters.method = spec.method;
 				requestParameters.form = spec.data;
 			}
 			else 
-				requestParameters = spec.url;
+				requestParameters = root + spec.url;
 
 			request(requestParameters, function(err, response, body){
 				if (err) {
@@ -177,9 +182,9 @@ describe("should return successful responses for ", function(){
 
 describe('when adding to basket', function(){
 	it('should return the added item in basket', function(done){
-		request('http://localhost:' + port + '/basket/add?releaseid=2437', function(err, response, addedBody){
+		request(root + '/basket/add?releaseid=2437', function(err, response, addedBody){
 			var basketId = addedBody.match(/[0-9a-fA-F]{8}\-[0-9a-fA-F]{4}\-[0-9a-fA-F]{4}\-[0-9a-fA-F]{4}\-[0-9a-fA-F]{12}/);
-			request('http://localhost:' + port + '/basket?basketid=' + basketId, function(err, response, getBody){
+			request(root + '/basket?basketid=' + basketId, function(err, response, getBody){
 				assert.equal(addedBody, getBody);
 				done();
 			});

@@ -61,6 +61,7 @@ server.get('/merchandising/list/details', conventions.key);
 server.get('/country/resolve', conventions.serveDefault);
 
 //payment
+server.get('/user/payment/card', conventions.id);
 server.post('/user/payment/card/add', conventions.cardNumber);
 server.post('/user/payment/card/delete', conventions.serveDefault);
 
