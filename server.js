@@ -50,6 +50,9 @@ server.get('/basket/add', basket.addToBasket);
 server.get('/basket/create', basket.createBasket);
 server.get('/basket/remove', conventions.serveDefault);
 
+//your music
+server.get('/user/locker', conventions.locker);
+
 // Merch
 server.get('/merchandising/list/details', conventions.key);
 

@@ -123,6 +123,11 @@ describe("should hit endpoints", function(){
 		{
 			name:"returns xml when requesting country resolve endpoint",
 			url: 'http://localhost:' + port + '/country/resolve?ipAddress=84.45.95.241'
+		},
+		//locker
+		{
+			name:"returns xml for user locker",
+			url: 'http://localhost:' + port + '/user/locker?userid=121&pageSize=10&page=1&sort=purchaseDate%20desc'
 		}
 	];
 
