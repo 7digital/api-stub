@@ -127,7 +127,7 @@ describe("should hit endpoints", function(){
 		//locker
 		{
 			name:"returns xml for user locker",
-			url: 'http://localhost:' + port + '/user/locker?userid=121&pageSize=10&page=1&sort=purchaseDate%20desc'
+			url: 'http://localhost:' + port + '/user/locker?userId=121&pageSize=10&page=1&sort=purchaseDate%20desc'
 		}
 	];
 
