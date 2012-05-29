@@ -139,6 +139,12 @@ describe("should return successful responses for ", function(){
 			url: 'http://localhost:' + port + '/user/payment/card/add',
 			method: 'POST',
 			data: { cardNumber: '4444333322221111' }
+		},
+		{
+			name:"user/payment/card/delete",
+			url: 'http://localhost:' + port + '/user/payment/card/delete',
+			method: 'POST',
+			data: { cardNumber: '4444333322221111' }
 		}
 	];
 
