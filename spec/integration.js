@@ -105,7 +105,7 @@ describe("should return successful responses for ", function(){
 			name: "basket/add when adding a release",
 			url: 'http://localhost:' + port + '/basket/add/?releaseid=2437'
 		},{
-			name: "basket add when adding a track",
+			name: "basket/add when adding a track",
 			url: 'http://localhost:' + port + '/basket/add/?trackid=2442'
 		}, {
 			name: "basket/create",
@@ -128,12 +128,34 @@ describe("should return successful responses for ", function(){
 		{
 			name:"user/locker",
 			url: 'http://localhost:' + port + '/user/locker?userId=121&pageSize=10&page=1&sort=purchaseDate%20desc'
+		},
+		{
+			name:"user/locker when requesting purchase",
+			url: 'http://localhost:' + port + '/user/locker?userId=121&pageSize=10&page=1&sort=purchaseDate%20desc&purchaseId=1'
+		},
+		//payment
+		{
+			name:"user/payment/card/add",
+			url: 'http://localhost:' + port + '/user/payment/card/add',
+			method: 'POST',
+			data: { cardNumber: '4444333322221111' }
 		}
 	];
 
 	specs.forEach(function (spec) {
 		it(spec.name, function (done) {
-			request(spec.url, function(err, response, body){
+			var requestParameters;
+
+			if(spec.method){
+				requestParameters = {};
+				requestParameters.url = spec.url;
+				requestParameters.method = spec.method;
+				requestParameters.form = spec.data;
+			}
+			else 
+				requestParameters = spec.url;
+
+			request(requestParameters, function(err, response, body){
 				if (err) {
 					console.error(err);
 					throw err;

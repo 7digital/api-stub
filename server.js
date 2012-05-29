@@ -7,6 +7,7 @@ var express = require('express'),
 
 	console.log(conventions);
 
+server.use(express.bodyParser());
 server.use(function addDefaultHeaders(req, res, next) {
 	res.header('Accept-Ranges',	'bytes');
 	res.header('Content-Type', 'text/xml; charset=utf-8');
@@ -58,6 +59,9 @@ server.get('/merchandising/list/details', conventions.key);
 
 // Territories
 server.get('/country/resolve', conventions.serveDefault);
+
+//payment
+server.post('/user/payment/card/add', conventions.cardNumber);
 
 server.listen(+process.env.PORT || 3000, function serverListening() {
 	console.log('Server listening on %s', +process.env.PORT || 3000);
