@@ -40,7 +40,8 @@ server.get('/track/details', conventions.id);
 server.get('/track/search', conventions.search);
 
 // Catalogue
-server.get('/catalogue/artist/:artistName', conventions.artistSlug);
+server.get('/catalogue/artist/:artistName', conventions.serveDefault);
+server.get('/catalogue/artist/:artistName/release/:releaseName', conventions.releaseSlug);
 
 
 // Basket

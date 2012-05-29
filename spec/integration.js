@@ -62,8 +62,12 @@ describe("should hit endpoints", function(){
 		},
 		//catalogue
 		{
-			name:"returns xml for catalogue endpoint",
+			name:"returns xml for catalogue artist endpoint",
 			url: 'http://localhost:' + port + '/catalogue/artist/webdevteam'
+		},
+		{
+			name:"returns xml for catalogue release endpoint",
+			url: 'http://localhost:' + port + '/catalogue/artist/webdevteam/release/awesomeness'
 		},
 		//release
 		{
