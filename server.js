@@ -5,15 +5,13 @@ var express = require('express'),
 	conventions = new ConventionalHandler(),
 	server = express.createServer();
 
-	console.log(conventions);
-
 server.use(express.bodyParser());
 server.use(function addDefaultHeaders(req, res, next) {
 	res.header('Accept-Ranges',	'bytes');
 	res.header('Content-Type', 'text/xml; charset=utf-8');
 	res.header('X-RateLimit-Current', '37');
 	res.header('X-RateLimit-Limit', '4000');
-	res.header('X-RateLimit-Reset','46968');
+	res.header('X-RateLimit-Reset', '46968');
 	res.header('x-7dig', 'localhost');
 	return next();
 });
