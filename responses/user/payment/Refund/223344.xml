@@ -1,9 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<response status="ok" version="1.2" xsi:noNamespaceSchemaLocation="http://api.7digital.com/1.2/static/7digitalAPI.xsd" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-	<refund id="6485213">
-		<transactionId>223344</transactionId>
-		<userId>524</userId>
-		<amount>15.45</amount>
-		<currencyCode>GBP</currencyCode>
-	</refund>
-</response>
