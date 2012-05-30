@@ -15,6 +15,7 @@ before(function(done) {
 		childProcessEnvironment = process.env;
 
 	childProcessEnvironment.PORT = port;
+	childProcessEnvironment.NODE_ENV = 'test';
 
 	console.log('spwaning node process : ' + nodeProcessPath);
 	serverProcess = childProcess.spawn('node', [nodeProcessPath], {
@@ -46,48 +47,53 @@ describe("should return successful responses for ", function(){
 		}, {
 			name: "artist/bytag/top",
 			url: '/artist/bytag/top?tags=pop'
-		},{
+		}, {
 			name: "artist/releases",
 			url: '/artist/releases?artistId=1'
-		},{
+		}, {
 			name: "artist search",
 			url: '/artist/search?q=kylie'
-		},{
+		}, {
 			name: "artist/similar",
 			url: '/artist/similar?artistid=609'
-		},{
+		}, {
 			name: "artist/tags",
 			url: '/artist/tags?artistid=1'
-		},{
+		}, {
 			name: "artist/chart",
 			url: '/artist/chart'
 		},
 		//catalogue
 		{
 			name:"catalogue/artist",
-			url: '/catalogue/artist/webdevteam'
-		},
-		{
+			url: '/catalogue/artist/keane'
+		}, {
 			name:"catalogue/artist/blah/release/blah",
-			url: '/catalogue/artist/webdevteam/release/awesomeness'
+			url: '/catalogue/artist/keane/release/awesomeness'
 		},
 		//release
 		{
+			name: "release/bytag/top",
+			url: '/release/bytag/top?tags=rock'
+		}, {
+			name: "release/bytag/new",
+			url: '/release/bytag/new?tags=rock'
+		}, {
 			name: "release/details",
 			url: '/release/details?releaseid=2431'
-		},{
+		}, {
 			name: "release/recommend",
 			url: '/release/recommend?releaseid=5'
-		},{
+		}, {
 			name: "release/search",
 			url: '/release/search?q=kylie'
-		},{
+		}, {
 			name: "release/tags",
 			url: '/release/tags?releaseid=1'
-		},{
+		}, {
 			name: "release/tracks",
 			url: '/release/tracks?releaseid=2432'
-		},{
+		}, {
 			name: "release/chart",
 			url: '/release/chart'
 		},
@@ -150,7 +156,6 @@ describe("should return successful responses for ", function(){
 			method: 'POST',
 			data: { cardNumber: '4444333322221111' }
 		}
-
 	];
 
 	specs.forEach(function (spec) {

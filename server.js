@@ -5,7 +5,15 @@ var express = require('express'),
 	conventions = new ConventionalHandler(),
 	server = express.createServer();
 
-server.use(express.bodyParser());
+server.configure('development', function configureServerForDevelopment() {
+	server.use(express.logger());
+});
+
+server.use(
+	express.bodyParser()
+);
+
+
 server.use(function addDefaultHeaders(req, res, next) {
 	res.header('Accept-Ranges',	'bytes');
 	res.header('Content-Type', 'text/xml; charset=utf-8');
@@ -26,6 +34,8 @@ server.get('/artist/similar', conventions.id);
 server.get('/artist/tags', conventions.id);
 
 // Release
+server.get('/release/bytag/top', conventions.tags);
+server.get('/release/bytag/new', conventions.tags);
 server.get('/release/chart', conventions.serveDefault);
 server.get('/release/details', conventions.id);
 server.get('/release/recommend', conventions.id);
@@ -41,7 +51,6 @@ server.get('/track/search', conventions.search);
 // Catalogue
 server.get('/catalogue/artist/:artistName', conventions.serveDefault);
 server.get('/catalogue/artist/:artistName/release/:releaseName', conventions.releaseSlug);
-
 
 // Basket
 server.get('/basket', basket.getBasket);

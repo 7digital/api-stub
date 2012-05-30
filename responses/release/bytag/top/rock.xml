@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="utf-8"?>
+<response status="ok" version="1.2" xsi:noNamespaceSchemaLocation="http://api.7digital.com/1.2/static/7digitalAPI.xsd" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<taggedResults>
+		<page>1</page>
+		<pageSize>10</pageSize>
+		<totalItems>129342</totalItems>
+		<type>release</type>
+		<taggedItem>
+			<release id="1617950">
+				<title>Wrecking Ball</title>
+				<version />
+				<type>Album</type>
+				<barcode>886443344761</barcode>
+				<year>2012</year>
+				<explicitContent>false</explicitContent>
+				<artist id="15122">
+					<name>Bruce Springsteen</name>
+					<appearsAs>Bruce Springsteen</appearsAs>
+					<url>http://www.7digital.com/artists/bruce-springsteen/?partner=1401</url>
+				</artist>
+				<url>http://www.7digital.com/artists/bruce-springsteen/wrecking-ball/?partner=1401</url>
+				<image>http://cdn.7static.com/static/img/sleeveart/00/016/179/0001617950_50.jpg</image>
+				<releaseDate>2012-03-05T00:00:00+00:00</releaseDate>
+				<addedDate>2012-02-28T05:00:44+00:00</addedDate>
+				<popularity>0.71</popularity>
+			</release>
+		</taggedItem>
+		<taggedItem>
+			<release id="1635643">
+				<title>StreetDance 2</title>
+				<version />
+				<type>Album</type>
+				<barcode>00602527952918</barcode>
+				<year>2012</year>
+				<explicitContent>false</explicitContent>
+				<artist id="209">
+					<name>Various Artists</name>
+					<appearsAs>Various Artists</appearsAs>
+					<url>http://www.7digital.com/artists/various-artists/?partner=1401</url>
+				</artist>
+				<url>http://www.7digital.com/artists/various-artists/streetdance-2-ost/?partner=1401</url>
+				<image>http://cdn.7static.com/static/img/sleeveart/00/016/356/0001635643_50.jpg</image>
+				<releaseDate>2012-04-02T00:00:00+01:00</releaseDate>
+				<addedDate>2012-03-15T15:02:51+00:00</addedDate>
+				<popularity>0.69</popularity>
+			</release>
+		</taggedItem>
+		<taggedItem>
+			<release id="81735">
+				<title>Songs About Jane</title>
+				<version />
+				<type>Album</type>
+				<barcode>00823765000128</barcode>
+				<year>2007</year>
+				<explicitContent>false</explicitContent>
+				<artist id="222">
+					<name>Maroon 5</name>
+					<appearsAs>Maroon 5</appearsAs>
+					<url>http://www.7digital.com/artists/maroon-5/?partner=1401</url>
+				</artist>
+				<url>http://www.7digital.com/artists/maroon-5/songs-about-jane-2/?partner=1401</url>
+				<image>http://cdn.7static.com/static/img/sleeveart/00/000/817/0000081735_50.jpg</image>
+				<releaseDate>2007-04-30T00:00:00+01:00</releaseDate>
+				<addedDate>2008-08-31T22:20:15+01:00</addedDate>
+				<popularity>0.69</popularity>
+			</release>
+		</taggedItem>
+		<taggedItem>
+			<release id="1374356">
+				<title>Noel Gallagher's High Flying Birds</title>
+				<version />
+				<type>Album</type>
+				<barcode>5052945010106</barcode>
+				<year>2011</year>
+				<explicitContent>true</explicitContent>
+				<artist id="1075100">
+					<name>Noel Gallagher's High Flying Birds</name>
+					<appearsAs>Noel Gallagher's High Flying Birds</appearsAs>
+					<url>http://www.7digital.com/artists/noel-gallaghers-high-flying-birds/?partner=1401</url>
+				</artist>
+				<url>http://www.7digital.com/artists/noel-gallaghers-high-flying-birds/noel-gallaghers-high-flying-birds/?partner=1401</url>
+				<image>http://cdn.7static.com/static/img/sleeveart/00/013/743/0001374356_50.jpg</image>
+				<releaseDate>2011-10-17T00:00:00+01:00</releaseDate>
+				<addedDate>2011-08-23T14:34:31+01:00</addedDate>
+				<popularity>0.68</popularity>
+			</release>
+		</taggedItem>
+		<taggedItem>
+			<release id="2288">
+				<title>Greatest Hits</title>
+				<version>EU Version</version>
+				<type>Album</type>
+				<barcode>00602498621080</barcode>
+				<year>2004</year>
+				<explicitContent>false</explicitContent>
+				<artist id="678">
+					<name>Guns N' Roses</name>
+					<appearsAs>Guns N' Roses</appearsAs>
+					<url>http://www.7digital.com/artists/guns-n-roses/?partner=1401</url>
+				</artist>
+				<url>http://www.7digital.com/artists/guns-n-roses/greatest-hits-eu-version/?partner=1401</url>
+				<image>http://cdn.7static.com/static/img/sleeveart/00/000/022/0000002288_50.jpg</image>
+				<releaseDate>2004-03-15T00:00:00+00:00</releaseDate>
+				<addedDate>2008-08-31T22:18:16+01:00</addedDate>
+				<popularity>0.68</popularity>
+			</release>
+		</taggedItem>
+		<taggedItem>
+			<release id="1652305">
+				<title>Not Your Kind Of People</title>
+				<version />
+				<type>Album</type>
+				<barcode>00602537002665</barcode>
+				<year>2012</year>
+				<explicitContent>false</explicitContent>
+				<artist id="6048">
+					<name>Garbage</name>
+					<appearsAs>Garbage</appearsAs>
+					<url>http://www.7digital.com/artists/garbage/?partner=1401</url>
+				</artist>
+				<url>http://www.7digital.com/artists/garbage/not-your-kind-of-people/?partner=1401</url>
+				<image>http://cdn.7static.com/static/img/sleeveart/00/016/523/0001652305_50.jpg</image>
+				<releaseDate>2012-05-13T00:00:00+01:00</releaseDate>
+				<addedDate>2012-03-28T15:23:09+01:00</addedDate>
+				<popularity>0.67</popularity>
+			</release>
+		</taggedItem>
+		<taggedItem>
+			<release id="1402123">
+				<title>The Dark Side Of The Moon (2011 - Remaster)</title>
+				<version />
+				<type>Album</type>
+				<barcode>5099902984056</barcode>
+				<year>2011</year>
+				<explicitContent>false</explicitContent>
+				<artist id="447">
+					<name>Pink Floyd</name>
+					<appearsAs>Pink Floyd</appearsAs>
+					<url>http://www.7digital.com/artists/pink-floyd/?partner=1401</url>
+				</artist>
+				<url>http://www.7digital.com/artists/pink-floyd/the-dark-side-of-the-moon-2011-remaster/?partner=1401</url>
+				<image>http://cdn.7static.com/static/img/sleeveart/00/014/021/0001402123_50.jpg</image>
+				<releaseDate>2011-09-26T00:00:00+01:00</releaseDate>
+				<addedDate>2011-09-19T17:58:25+01:00</addedDate>
+				<popularity>0.66</popularity>
+			</release>
+		</taggedItem>
+		<taggedItem>
+			<release id="1192901">
+				<title>Wasting Light</title>
+				<version />
+				<type>Album</type>
+				<barcode>884977880991</barcode>
+				<year>2011</year>
+				<explicitContent>false</explicitContent>
+				<artist id="8293">
+					<name>Foo Fighters</name>
+					<appearsAs>Foo Fighters</appearsAs>
+					<url>http://www.7digital.com/artists/foo-fighters/?partner=1401</url>
+				</artist>
+				<url>http://www.7digital.com/artists/foo-fighters/wasting-light/?partner=1401</url>
+				<image>http://cdn.7static.com/static/img/sleeveart/00/011/929/0001192901_50.jpg</image>
+				<releaseDate>2011-04-11T00:00:00+01:00</releaseDate>
+				<addedDate>2011-03-25T10:35:31+00:00</addedDate>
+				<popularity>0.66</popularity>
+			</release>
+		</taggedItem>
+		<taggedItem>
+			<release id="1687363">
+				<title>Born Villain</title>
+				<version />
+				<type>Album</type>
+				<barcode>0711297495409</barcode>
+				<year>2012</year>
+				<explicitContent>false</explicitContent>
+				<artist id="827">
+					<name>Marilyn Manson</name>
+					<appearsAs>Marilyn Manson</appearsAs>
+					<url>http://www.7digital.com/artists/marilyn-manson/?partner=1401</url>
+				</artist>
+				<url>http://www.7digital.com/artists/marilyn-manson/born-villain-2/?partner=1401</url>
+				<image>http://cdn.7static.com/static/img/sleeveart/00/016/873/0001687363_50.jpg</image>
+				<releaseDate>2012-04-29T00:00:00+01:00</releaseDate>
+				<addedDate>2012-04-24T16:38:05+01:00</addedDate>
+				<popularity>0.65</popularity>
+			</release>
+		</taggedItem>
+		<taggedItem>
+			<release id="1627809">
+				<title>Tonight</title>
+				<version />
+				<type>Single</type>
+				<barcode>00602527995595</barcode>
+				<year>2012</year>
+				<explicitContent>false</explicitContent>
+				<artist id="19185">
+					<name>Saint Etienne</name>
+					<appearsAs>Saint Etienne</appearsAs>
+					<url>http://www.7digital.com/artists/saint-etienne/?partner=1401</url>
+				</artist>
+				<url>http://www.7digital.com/artists/saint-etienne/tonight-1/?partner=1401</url>
+				<image>http://cdn.7static.com/static/img/sleeveart/00/016/278/0001627809_50.jpg</image>
+				<releaseDate>2012-03-12T00:00:00+00:00</releaseDate>
+				<addedDate>2012-03-09T15:07:15+00:00</addedDate>
+				<popularity>0.64</popularity>
+			</release>
+		</taggedItem>
+	</taggedResults>
+</response>
