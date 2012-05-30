@@ -114,8 +114,11 @@ describe("should return successful responses for ", function(){
 			name: "basket/additem when adding a release",
 			url: '/basket/additem?releaseid=2437&basketid=' + Guid.create()
 		},{
-			name: "basket/add when adding a track",
+			name: "basket/additem when adding a track",
 			url: '/basket/additem?trackid=2442&basketid=' + Guid.create()
+		}, {
+			name: "basket/removeitem",
+			url: '/basket/removeitem?itemId=2442&basketid=' + Guid.create()
 		}, {
 			name: "basket/create",
 			url: '/basket/create'
