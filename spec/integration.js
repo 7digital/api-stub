@@ -1,4 +1,5 @@
 var serverProcess,
+	Guid = require('../lib/guid'),
 	request = require('request'),
 	mocha = require('mocha'),
 	path = require('path'),
@@ -110,11 +111,11 @@ describe("should return successful responses for ", function(){
 		},
 		//basket
 		{
-			name: "basket/add when adding a release",
-			url: '/basket/add/?releaseid=2437'
+			name: "basket/additem when adding a release",
+			url: '/basket/additem?releaseid=2437&basketid=' + Guid.create()
 		},{
 			name: "basket/add when adding a track",
-			url: '/basket/add/?trackid=2442'
+			url: '/basket/additem?trackid=2442&basketid=' + Guid.create()
 		}, {
 			name: "basket/create",
 			url: '/basket/create'
@@ -187,11 +188,14 @@ describe("should return successful responses for ", function(){
 
 describe('when adding to basket', function(){
 	it('should return the added item in basket', function(done){
-		request(root + '/basket/add?releaseid=2437', function(err, response, addedBody){
-			var basketId = addedBody.match(/[0-9a-fA-F]{8}\-[0-9a-fA-F]{4}\-[0-9a-fA-F]{4}\-[0-9a-fA-F]{4}\-[0-9a-fA-F]{12}/);
-			request(root + '/basket?basketid=' + basketId, function(err, response, getBody){
-				assert.equal(addedBody, getBody);
-				done();
+		request(root + '/basket/create', function(err, response, createBody){
+			var basketId = createBody.match(/[0-9a-fA-F]{8}\-[0-9a-fA-F]{4}\-[0-9a-fA-F]{4}\-[0-9a-fA-F]{4}\-[0-9a-fA-F]{12}/);
+			request(root + '/basket/additem?releaseid=353302&basketid' + basketId, function(err, response, addedBody) {
+				should.not.exist(err);
+				request(root + '/basket?basketid=' + basketId, function(err, response, getBody) {
+					addedBody.should.equal(getBody);
+					done();
+				});
 			});
 		});
 	});
