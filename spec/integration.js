@@ -147,13 +147,24 @@ describe("should return successful responses for ", function(){
 			name:"user/payment/card",
 			url: '/user/payment/card?userId=380'
 		}, {
-			name:"user/payment/card/add",
-			url: '/user/payment/card/add',
+			name:"user/payment/card/select",
+			url: '/user/payment/card/select',
+			method: 'POST',
+			data: { 
+				cardId: 1,
+				userId: 380
+			}
+		}, {
+			name:"payment/card/type",
+			url: '/payment/card/type'
+		},{
+			name:"payment/card/add",
+			url: '/payment/card/add',
 			method: 'POST',
 			data: { cardNumber: '4444333322221111' }
 		}, {
-			name:"user/payment/card/delete",
-			url: '/user/payment/card/delete',
+			name:"payment/card/delete",
+			url: '/payment/card/delete',
 			method: 'POST',
 			data: { cardNumber: '4444333322221111' }
 		}

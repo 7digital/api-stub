@@ -69,8 +69,10 @@ server.get('/country/resolve', conventions.serveDefault);
 
 //payment
 server.get('/user/payment/card', conventions.userId);
-server.post('/user/payment/card/add', conventions.cardNumber);
-server.post('/user/payment/card/delete', conventions.serveDefault);
+server.post('/user/payment/card/select', conventions.serveDefault);
+server.get('/payment/card/type', conventions.serveDefault);
+server.post('/payment/card/add', conventions.cardNumber);
+server.post('/payment/card/delete', conventions.serveDefault);
 
 server.listen(+process.env.PORT || 3000, function serverListening() {
 	console.log('Server listening on %s', +process.env.PORT || 3000);
