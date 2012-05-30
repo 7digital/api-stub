@@ -1,31 +1,31 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <response status="ok" version="1.2" xsi:noNamespaceSchemaLocation="http://api.7digital.com/1.2/static/7digitalAPI.xsd" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 	<list id="833">
 		<key>tabAlbums</key>
 		<listItems>
 			<listItem id="1234113">
 				<type>release</type>
-				<release id="1234113">
-					<title>Kitsuné Maison Compilation 11: The Indie-Dance Issue</title>
-					<version />
+				<release id="320866">
+					<title>Perfect Symmetry</title>
+					<version>UK Album</version>
 					<type>Album</type>
-					<barcode>3700656500011</barcode>
-					<year>2011</year>
+					<barcode>00602517856455</barcode>
+					<year>2008</year>
 					<explicitContent>false</explicitContent>
-					<artist id="209">
-						<name>Various Artists</name>
-						<appearsAs>Various Artists</appearsAs>
-						<url>http://www.7digital.com/artists/various-artists/?partner=712</url>
+					<artist id="1">
+						<name>Keane</name>
+						<appearsAs>Keane</appearsAs>
+						<url>http://www.7digital.com/artists/keane/?partner=1401</url>
 					</artist>
-					<url>http://www.7digital.com/artists/various-artists/kitsune-maison-compilation-11-the-indie-dance-issue/?partner=712</url>
-					<image>http://cdn.7static.com/static/img/sleeveart/00/012/341/0001234113_50.jpg</image>
-					<releaseDate>2011-05-16T00:00:00+01:00</releaseDate>
+					<url>http://www.7digital.com/artists/keane/perfect-symmetry-1/?partner=1401</url>
+					<image>http://cdn.7static.com/static/img/sleeveart/00/003/208/0000320866_50.jpg</image>
+					<releaseDate>2008-10-13T00:00:00+01:00</releaseDate>
 					<price>
-						<currency code="GBP" />
-						<value>6.99</value>
-						<formattedPrice>£6.99</formattedPrice>
-						<rrp>6.99</rrp>
-						<formattedRrp>£6.99</formattedRrp>
+						<currency code="GBP">£</currency>
+						<value>5.49</value>
+						<formattedPrice>£5.99</formattedPrice>
+						<rrp>5.49</rrp>
+						<formattedRrp>£5.99</formattedRrp>
 						<onSale>false</onSale>
 					</price>
 					<formats availableDrmFree="true">
@@ -34,14 +34,9 @@
 							<bitRate>320</bitRate>
 							<drmFree>true</drmFree>
 						</format>
-						<format id="33">
-							<fileFormat>M4A</fileFormat>
-							<bitRate>320</bitRate>
-							<drmFree>true</drmFree>
-						</format>
 					</formats>
-					<label id="13267">
-						<name>Kitsuné</name>
+					<label id="3309">
+						<name>Universal Music Ireland Ltd.</name>
 					</label>
 				</release>
 			</listItem>
@@ -54,10 +49,10 @@
 					<barcode>5099909705654</barcode>
 					<year>2011</year>
 					<explicitContent>false</explicitContent>
-					<artist id="209">
-						<name>Various Artists</name>
-						<appearsAs>Various Artists</appearsAs>
-						<url>http://www.7digital.com/artists/various-artists/?partner=712</url>
+					<artist id="1">
+						<name>Keane</name>
+						<appearsAs>Keane</appearsAs>
+						<url>http://www.7digital.com/artists/keane/?partner=712</url>
 					</artist>
 					<url>http://www.7digital.com/artists/various-artists/eurovision-song-contest-dusseldorf-2011/?partner=712</url>
 					<image>http://cdn.7static.com/static/img/sleeveart/00/012/141/0001214168_50.jpg</image>
@@ -84,10 +79,10 @@
 					<barcode>00602527708621</barcode>
 					<year>2011</year>
 					<explicitContent>false</explicitContent>
-					<artist id="798849">
-						<name>Alice Gold</name>
-						<appearsAs>Alice Gold</appearsAs>
-						<url>http://www.7digital.com/artists/alice-gold/?partner=712</url>
+					<artist id="1">
+						<name>Keane</name>
+						<appearsAs>Keane</appearsAs>
+						<url>http://www.7digital.com/artists/keane/?partner=712</url>
 					</artist>
 					<url>http://www.7digital.com/artists/alice-gold/seven-rainbows/?partner=712</url>
 					<image>http://cdn.7static.com/static/img/sleeveart/00/012/793/0001279359_50.jpg</image>
@@ -121,10 +116,10 @@
 					<barcode>5051823027144</barcode>
 					<year>2011</year>
 					<explicitContent>false</explicitContent>
-					<artist id="130592">
-						<name>DJ Fresh</name>
-						<appearsAs>DJ Fresh featuring Sian Evans</appearsAs>
-						<url>http://www.7digital.com/artists/dj-fresh/?partner=712</url>
+					<artist id="1">
+						<name>Keane</name>
+						<appearsAs>Keane</appearsAs>
+						<url>http://www.7digital.com/artists/keane/?partner=712</url>
 					</artist>
 					<url>http://www.7digital.com/artists/dj-fresh/louder/?partner=712</url>
 					<image>http://cdn.7static.com/static/img/sleeveart/00/012/466/0001246693_50.jpg</image>
@@ -155,10 +150,10 @@
 					<barcode>00602527703435</barcode>
 					<year>2011</year>
 					<explicitContent>false</explicitContent>
-					<artist id="850315">
-						<name>Cocknbullkid</name>
-						<appearsAs>Cocknbullkid</appearsAs>
-						<url>http://www.7digital.com/artists/cocknbullkid/?partner=712</url>
+					<artist id="1">
+						<name>Keane</name>
+						<appearsAs>Keane</appearsAs>
+						<url>http://www.7digital.com/artists/keane/?partner=712</url>
 					</artist>
 					<url>http://www.7digital.com/artists/cocknbullkid/adulthood/?partner=712</url>
 					<image>http://cdn.7static.com/static/img/sleeveart/00/012/450/0001245091_50.jpg</image>
@@ -192,10 +187,10 @@
 					<barcode>5065001043949</barcode>
 					<year>2011</year>
 					<explicitContent>false</explicitContent>
-					<artist id="34997">
-						<name>Pete And The Pirates</name>
-						<appearsAs>Pete And The Pirates</appearsAs>
-						<url>http://www.7digital.com/artists/pete-and-the-pirates/?partner=712</url>
+					<artist id="1">
+						<name>Keane</name>
+						<appearsAs>Keane</appearsAs>
+						<url>http://www.7digital.com/artists/keane/?partner=712</url>
 					</artist>
 					<url>http://www.7digital.com/artists/pete-and-the-pirates/one-thousand-pictures/?partner=712</url>
 					<image>http://cdn.7static.com/static/img/sleeveart/00/012/121/0001212194_50.jpg</image>
@@ -234,10 +229,10 @@
 					<barcode>5051275042955</barcode>
 					<year>2011</year>
 					<explicitContent>false</explicitContent>
-					<artist id="209">
-						<name>Various Artists</name>
-						<appearsAs>Various</appearsAs>
-						<url>http://www.7digital.com/artists/various-artists/?partner=712</url>
+					<artist id="1">
+						<name>Keane</name>
+						<appearsAs>Keane</appearsAs>
+						<url>http://www.7digital.com/artists/keane/?partner=712</url>
 					</artist>
 					<url>http://www.7digital.com/artists/various-artists/ibiza-rocks-2011/?partner=712</url>
 					<image>http://cdn.7static.com/static/img/sleeveart/00/013/054/0001305498_50.jpg</image>
@@ -276,10 +271,10 @@
 					<barcode>00602527708232</barcode>
 					<year>2011</year>
 					<explicitContent>false</explicitContent>
-					<artist id="36484">
-						<name>Yuksek</name>
-						<appearsAs>Yuksek</appearsAs>
-						<url>http://www.7digital.com/artists/yuksek/?partner=712</url>
+					<artist id="1">
+						<name>Keane</name>
+						<appearsAs>Keane</appearsAs>
+						<url>http://www.7digital.com/artists/keane/?partner=712</url>
 					</artist>
 					<url>http://www.7digital.com/artists/yuksek/living-on-the-edge-of-time/?partner=712</url>
 					<image>http://cdn.7static.com/static/img/sleeveart/00/012/589/0001258943_50.jpg</image>
@@ -313,10 +308,10 @@
 					<barcode>744861095361</barcode>
 					<year>2011</year>
 					<explicitContent>false</explicitContent>
-					<artist id="24908">
-						<name>Thurston Moore</name>
-						<appearsAs>Thurston Moore</appearsAs>
-						<url>http://www.7digital.com/artists/thurston-moore/?partner=712</url>
+					<artist id="1">
+						<name>Keane</name>
+						<appearsAs>Keane</appearsAs>
+						<url>http://www.7digital.com/artists/keane/?partner=712</url>
 					</artist>
 					<url>http://www.7digital.com/artists/thurston-moore/demolished-thoughts/?partner=712</url>
 					<image>http://cdn.7static.com/static/img/sleeveart/00/012/491/0001249176_50.jpg</image>
@@ -355,10 +350,10 @@
 					<barcode>5055317213280</barcode>
 					<year>2011</year>
 					<explicitContent>false</explicitContent>
-					<artist id="209">
-						<name>Various Artists</name>
-						<appearsAs>Various Artists</appearsAs>
-						<url>http://www.7digital.com/artists/various-artists/?partner=712</url>
+					<artist id="1">
+						<name>Keane</name>
+						<appearsAs>Keane</appearsAs>
+						<url>http://www.7digital.com/artists/keane/?partner=712</url>
 					</artist>
 					<url>http://www.7digital.com/artists/various-artists/hessle-audio-116-and-rising/?partner=712</url>
 					<image>http://cdn.7static.com/static/img/sleeveart/00/012/292/0001229211_50.jpg</image>
@@ -397,10 +392,10 @@
 					<barcode>881034757869</barcode>
 					<year>2011</year>
 					<explicitContent>false</explicitContent>
-					<artist id="841281">
-						<name>Benjamin Francis Leftwich</name>
-						<appearsAs>Benjamin Francis Leftwich</appearsAs>
-						<url>http://www.7digital.com/artists/benjamin-francis-leftwich/?partner=712</url>
+					<artist id="1">
+						<name>Keane</name>
+						<appearsAs>Keane</appearsAs>
+						<url>http://www.7digital.com/artists/keane/?partner=712</url>
 					</artist>
 					<url>http://www.7digital.com/artists/benjamin-francis-leftwich/last-smoke-before-the-snowstorm/?partner=712</url>
 					<image>http://cdn.7static.com/static/img/sleeveart/00/012/624/0001262480_50.jpg</image>
@@ -439,10 +434,10 @@
 					<barcode>00602527653730</barcode>
 					<year>2011</year>
 					<explicitContent>false</explicitContent>
-					<artist id="101768">
-						<name>Thomas Dybdahl</name>
-						<appearsAs>Thomas Dybdahl</appearsAs>
-						<url>http://www.7digital.com/artists/thomas-dybdahl-(1)/?partner=712</url>
+					<artist id="1">
+						<name>Keane</name>
+						<appearsAs>Keane</appearsAs>
+						<url>http://www.7digital.com/artists/keane/?partner=712</url>
 					</artist>
 					<url>http://www.7digital.com/artists/thomas-dybdahl-(1)/songs/?partner=712</url>
 					<image>http://cdn.7static.com/static/img/sleeveart/00/012/221/0001222138_50.jpg</image>
@@ -476,10 +471,10 @@
 					<barcode>0711297880489</barcode>
 					<year>2011</year>
 					<explicitContent>false</explicitContent>
-					<artist id="13132">
-						<name>The Prodigy</name>
-						<appearsAs>The Prodigy</appearsAs>
-						<url>http://www.7digital.com/artists/the-prodigy/?partner=712</url>
+					<artist id="1">
+						<name>Keane</name>
+						<appearsAs>Keane</appearsAs>
+						<url>http://www.7digital.com/artists/keane/?partner=712</url>
 					</artist>
 					<url>http://www.7digital.com/artists/the-prodigy/live-worlds-on-fire-2/?partner=712</url>
 					<image>http://cdn.7static.com/static/img/sleeveart/00/012/491/0001249113_50.jpg</image>
@@ -518,10 +513,10 @@
 					<barcode>0711297493443</barcode>
 					<year>2011</year>
 					<explicitContent>false</explicitContent>
-					<artist id="38712">
-						<name>Art Brut</name>
-						<appearsAs>Art Brut</appearsAs>
-						<url>http://www.7digital.com/artists/art-brut/?partner=712</url>
+					<artist id="1">
+						<name>Keane</name>
+						<appearsAs>Keane</appearsAs>
+						<url>http://www.7digital.com/artists/keane/?partner=712</url>
 					</artist>
 					<url>http://www.7digital.com/artists/art-brut/brilliant-tragic/?partner=712</url>
 					<image>http://cdn.7static.com/static/img/sleeveart/00/012/382/0001238257_50.jpg</image>
@@ -560,10 +555,10 @@
 					<barcode>0730003728549</barcode>
 					<year>2011</year>
 					<explicitContent>false</explicitContent>
-					<artist id="293455">
-						<name>Motor City Drum Ensemble</name>
-						<appearsAs>Motor City Drum Ensemble</appearsAs>
-						<url>http://www.7digital.com/artists/motor-city-drum-ensemble/?partner=712</url>
+					<artist id="1">
+						<name>Keane</name>
+						<appearsAs>Keane</appearsAs>
+						<url>http://www.7digital.com/artists/keane/?partner=712</url>
 					</artist>
 					<url>http://www.7digital.com/artists/motor-city-drum-ensemble/dj-kicks/?partner=712</url>
 					<image>http://cdn.7static.com/static/img/sleeveart/00/012/914/0001291499_50.jpg</image>
@@ -602,10 +597,10 @@
 					<barcode>652637311761</barcode>
 					<year>2011</year>
 					<explicitContent>false</explicitContent>
-					<artist id="153891">
-						<name>Bon Iver</name>
-						<appearsAs>Bon Iver</appearsAs>
-						<url>http://www.7digital.com/artists/bon-iver/?partner=712</url>
+					<artist id="1">
+						<name>Keane</name>
+						<appearsAs>Keane</appearsAs>
+						<url>http://www.7digital.com/artists/keane/?partner=712</url>
 					</artist>
 					<url>http://www.7digital.com/artists/bon-iver/bon-iver/?partner=712</url>
 					<image>http://cdn.7static.com/static/img/sleeveart/00/012/443/0001244355_50.jpg</image>
@@ -644,10 +639,10 @@
 					<barcode>5414939123870</barcode>
 					<year>2011</year>
 					<explicitContent>false</explicitContent>
-					<artist id="4015">
-						<name>Morcheeba</name>
-						<appearsAs>Morcheeba</appearsAs>
-						<url>http://www.7digital.com/artists/morcheeba/?partner=712</url>
+					<artist id="1">
+						<name>Keane</name>
+						<appearsAs>Keane</appearsAs>
+						<url>http://www.7digital.com/artists/keane/?partner=712</url>
 					</artist>
 					<url>http://www.7digital.com/artists/morcheeba/blood-like-lemonade-5/?partner=712</url>
 					<image>http://cdn.7static.com/static/img/sleeveart/00/012/389/0001238988_50.jpg</image>
@@ -686,10 +681,10 @@
 					<barcode>5037300771403</barcode>
 					<year>2011</year>
 					<explicitContent>false</explicitContent>
-					<artist id="266736">
-						<name>Jon Allen</name>
-						<appearsAs>Jon Allen</appearsAs>
-						<url>http://www.7digital.com/artists/jon-allen/?partner=712</url>
+					<artist id="1">
+						<name>Keane</name>
+						<appearsAs>Keane</appearsAs>
+						<url>http://www.7digital.com/artists/keane/?partner=712</url>
 					</artist>
 					<url>http://www.7digital.com/artists/jon-allen/sweet-defeat-1/?partner=712</url>
 					<image>http://cdn.7static.com/static/img/sleeveart/00/012/543/0001254350_50.jpg</image>
@@ -728,10 +723,10 @@
 					<barcode>886443064393</barcode>
 					<year>2011</year>
 					<explicitContent>false</explicitContent>
-					<artist id="21453">
-						<name>Beyoncé</name>
-						<appearsAs>Beyoncé</appearsAs>
-						<url>http://www.7digital.com/artists/beyoncé/?partner=712</url>
+					<artist id="1">
+						<name>Keane</name>
+						<appearsAs>Keane</appearsAs>
+						<url>http://www.7digital.com/artists/keane/?partner=712</url>
 					</artist>
 					<url>http://www.7digital.com/artists/beyoncé/4-1/?partner=712</url>
 					<image>http://cdn.7static.com/static/img/sleeveart/00/012/922/0001292241_50.jpg</image>
@@ -765,10 +760,10 @@
 					<barcode>886443067721</barcode>
 					<year>2011</year>
 					<explicitContent>false</explicitContent>
-					<artist id="840758">
-						<name>Foster The People</name>
-						<appearsAs>Foster The People</appearsAs>
-						<url>http://www.7digital.com/artists/foster-the-people/?partner=712</url>
+					<artist id="1">
+						<name>Keane</name>
+						<appearsAs>Keane</appearsAs>
+						<url>http://www.7digital.com/artists/keane/?partner=712</url>
 					</artist>
 					<url>http://www.7digital.com/artists/foster-the-people/torches-1/?partner=712</url>
 					<image>http://cdn.7static.com/static/img/sleeveart/00/012/717/0001271743_50.jpg</image>
@@ -802,10 +797,10 @@
 					<barcode>881034773487</barcode>
 					<year>2011</year>
 					<explicitContent>false</explicitContent>
-					<artist id="88942">
-						<name>Kissy Sell Out</name>
-						<appearsAs>Kissy Sell Out</appearsAs>
-						<url>http://www.7digital.com/artists/kissy-sell-out/?partner=712</url>
+					<artist id="1">
+						<name>Keane</name>
+						<appearsAs>Keane</appearsAs>
+						<url>http://www.7digital.com/artists/keane/?partner=712</url>
 					</artist>
 					<url>http://www.7digital.com/artists/kissy-sell-out/wild-romance/?partner=712</url>
 					<image>http://cdn.7static.com/static/img/sleeveart/00/012/540/0001254088_50.jpg</image>
@@ -844,10 +839,10 @@
 					<barcode>00602527696607</barcode>
 					<year>2011</year>
 					<explicitContent>false</explicitContent>
-					<artist id="299421">
-						<name>Planningtorock</name>
-						<appearsAs>Planningtorock</appearsAs>
-						<url>http://www.7digital.com/artists/planningtorock/?partner=712</url>
+					<artist id="1">
+						<name>Keane</name>
+						<appearsAs>Keane</appearsAs>
+						<url>http://www.7digital.com/artists/keane/?partner=712</url>
 					</artist>
 					<url>http://www.7digital.com/artists/planningtorock/w/?partner=712</url>
 					<image>http://cdn.7static.com/static/img/sleeveart/00/012/378/0001237849_50.jpg</image>
@@ -881,10 +876,10 @@
 					<barcode>00602527695952</barcode>
 					<year>2011</year>
 					<explicitContent>false</explicitContent>
-					<artist id="298144">
-						<name>Owl City</name>
-						<appearsAs>Owl City</appearsAs>
-						<url>http://www.7digital.com/artists/owl-city/?partner=712</url>
+					<artist id="1">
+						<name>Keane</name>
+						<appearsAs>Keane</appearsAs>
+						<url>http://www.7digital.com/artists/keane/?partner=712</url>
 					</artist>
 					<url>http://www.7digital.com/artists/owl-city/all-things-bright-and-beautiful/?partner=712</url>
 					<image>http://cdn.7static.com/static/img/sleeveart/00/012/495/0001249505_50.jpg</image>
@@ -918,10 +913,10 @@
 					<barcode>5099908794857</barcode>
 					<year>2011</year>
 					<explicitContent>false</explicitContent>
-					<artist id="20">
-						<name>Coldplay</name>
-						<appearsAs>Coldplay</appearsAs>
-						<url>http://www.7digital.com/artists/coldplay/?partner=712</url>
+					<artist id="1">
+						<name>Keane</name>
+						<appearsAs>Keane</appearsAs>
+						<url>http://www.7digital.com/artists/keane/?partner=712</url>
 					</artist>
 					<url>http://www.7digital.com/artists/coldplay/every-teardrop-is-a-waterfall-2/?partner=712</url>
 					<image>http://cdn.7static.com/static/img/sleeveart/00/013/004/0001300474_50.jpg</image>
@@ -955,10 +950,10 @@
 					<barcode>826194213480</barcode>
 					<year>2011</year>
 					<explicitContent>false</explicitContent>
-					<artist id="209">
-						<name>Various Artists</name>
-						<appearsAs>Various Artists</appearsAs>
-						<url>http://www.7digital.com/artists/various-artists/?partner=712</url>
+					<artist id="1">
+						<name>Keane</name>
+						<appearsAs>Keane</appearsAs>
+						<url>http://www.7digital.com/artists/keane/?partner=712</url>
 					</artist>
 					<url>http://www.7digital.com/artists/various-artists/defected-in-the-house-ibiza-11-mixed-by-simon-dunmore/?partner=712</url>
 					<image>http://cdn.7static.com/static/img/sleeveart/00/012/463/0001246357_50.jpg</image>
@@ -992,10 +987,10 @@
 					<barcode>0846070085369</barcode>
 					<year>2011</year>
 					<explicitContent>true</explicitContent>
-					<artist id="24909">
-						<name>She Wants Revenge</name>
-						<appearsAs>She Wants Revenge</appearsAs>
-						<url>http://www.7digital.com/artists/she-wants-revenge/?partner=712</url>
+					<artist id="1">
+						<name>Keane</name>
+						<appearsAs>Keane</appearsAs>
+						<url>http://www.7digital.com/artists/keane/?partner=712</url>
 					</artist>
 					<url>http://www.7digital.com/artists/she-wants-revenge/valleyheart/?partner=712</url>
 					<image>http://cdn.7static.com/static/img/sleeveart/00/012/522/0001252207_50.jpg</image>

@@ -56,7 +56,7 @@ server.get('/catalogue/artist/:artistName/release/:releaseName', conventions.rel
 server.get('/basket', basket.getBasket);
 server.get('/basket/additem', basket.addToBasket);
 server.get('/basket/create', basket.createBasket);
-server.get('/basket/removeitem', conventions.serveDefault);
+server.get('/basket/removeitem', basket.removeItem);
 
 //your music
 server.get('/user/locker', conventions.locker);
