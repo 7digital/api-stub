@@ -159,12 +159,12 @@ describe("should return successful responses for ", function(){
 			url: '/payment/card/type'
 		},{
 			name:"payment/card/add",
-			url: '/payment/card/add',
+			url: '/user/payment/card/add',
 			method: 'POST',
 			data: { cardNumber: '4444333322221111' }
 		}, {
 			name:"payment/card/delete",
-			url: '/payment/card/delete',
+			url: '/user/payment/card/delete',
 			method: 'POST',
 			data: { cardNumber: '4444333322221111' }
 		}
