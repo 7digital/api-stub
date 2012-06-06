@@ -71,6 +71,9 @@ describe("should return successful responses for ", function(){
 		}, {
 			name:"catalogue/artist/blah/release/blah",
 			url: '/catalogue/artist/keane/release/awesomeness'
+		}, {
+			name:"catalogue/artist/blah/release/blah with explicit shopid",
+			url: '/catalogue/artist/keane/release/awesomeness/shopid/5'
 		},
 		//release
 		{
@@ -103,8 +106,8 @@ describe("should return successful responses for ", function(){
 			name: "track/chart",
 			url: '/track/chart'
 		},{
-			name: "track/search",
-			url: '/track/search?q=kylie'
+			name: "track/search2",
+			url: '/track/search2?q=kylie'
 		},{
 			name: "track/details",
 			url: '/track/details?trackid=12345'

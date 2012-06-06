@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<response status="ok" version="1.2" xsi:noNamespaceSchemaLocation="http://api.7digital.com/1.2/static/7digitalAPI.xsd" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<searchResults>
+		<page>1</page>
+		<pageSize>10</pageSize>
+		<totalItems>13</totalItems>
+		<searchResult>
+			<type>track</type>
+			<score>1</score>
+			<track id="87159">
+				<title>Spinning Around (7th Spinnin' Dizzy Dub)</title>
+				<version />
+				<artist id="1599">
+					<name>Kylie</name>
+					<appearsAs>Kylie</appearsAs>
+					<url>http://www.7digital.com/artists/kylie</url>
+				</artist>
+				<trackNumber>1</trackNumber>
+				<duration>0</duration>
+				<explicitContent>false</explicitContent>
+				<release id="8622">
+					<title>Spinning Around</title>
+					<version />
+					<type>single</type>
+					<url>http://www.7digital.com/artists/kylie/spinning-around</url>
+					<image>http://cdn.7static.com/static/img/sleeveart/00/000/086/0000008622_50.jpg</image>
+					<releaseDate>2005-03-07T00:00:00+00:00</releaseDate>
+					<formats availableDrmFree="false">
+						<format id="17">
+							<fileFormat>MP3</fileFormat>
+							<bitRate>320</bitRate>
+							<drmFree>true</drmFree>
+						</format>
+					</formats>
+					<popularity>0</popularity>
+				</release>
+				<url>http://www.7digital.com/artists/kylie/spinning-around?h=01</url>
+				<price xsi:nil="true" />
+			</track>
+		</searchResult>
+	</searchResults>
+</response>

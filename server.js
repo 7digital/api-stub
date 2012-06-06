@@ -31,7 +31,7 @@ server.get('/artist/recommend', conventions.id);
 server.get('/artist/releases', conventions.id);
 server.get('/artist/search', conventions.search);
 server.get('/artist/similar', conventions.id);
-server.get('/artist/tags', conventions.id);
+server.get('/artist/tags', conventions.serveDefault);
 
 // Release
 server.get('/release/bytag/top', conventions.tags);
@@ -40,17 +40,18 @@ server.get('/release/chart', conventions.serveDefault);
 server.get('/release/details', conventions.id);
 server.get('/release/recommend', conventions.id);
 server.get('/release/search', conventions.search);
-server.get('/release/tags', conventions.id);
+server.get('/release/tags', conventions.serveDefault);
 server.get('/release/tracks', conventions.id);
 
 //track
 server.get('/track/chart', conventions.serveDefault);
 server.get('/track/details', conventions.id);
-server.get('/track/search', conventions.search);
+server.get('/track/search2', conventions.search);
 
 // Catalogue
 server.get('/catalogue/artist/:artistName', conventions.serveDefault);
 server.get('/catalogue/artist/:artistName/release/:releaseName', conventions.releaseSlug);
+server.get('/catalogue/artist/:artistName/release/:releaseName/shopid/:shopid', conventions.releaseSlug);
 
 // Basket
 server.get('/basket', basket.getBasket);
