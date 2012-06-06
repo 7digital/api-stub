@@ -1,6 +1,8 @@
 var express = require('express'),
 	ConventionalHandler = require('./lib/conventions'),
 	BasketHandler = require('./lib/basket'),
+	FeatureHandler = require('./lib/feature'),
+	feature = new FeatureHandler(),
 	basket = new BasketHandler(),
 	conventions = new ConventionalHandler(),
 	server = express.createServer();
@@ -24,6 +26,8 @@ server.use(function addDefaultHeaders(req, res, next) {
 	return next();
 });
 
+// Feature
+server.post('/feature/start', feature.logIt);
 // Artist
 server.get('/artist/bytag/top', conventions.tags);
 server.get('/artist/chart', conventions.serveDefault);

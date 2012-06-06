@@ -41,6 +41,13 @@ after(function () {
 
 describe("should return successful responses for ", function(){
 	var suiteContext = this, specs = [
+		// feature
+		{
+			name:"feature/start",
+			url: '/feature/start',
+			method: 'POST',
+			data: { featureName: 'Test Feature', scenarioName: 'Test Scenario' }
+		},
 		//artists
 		{
 			name: "artist/recommend",
