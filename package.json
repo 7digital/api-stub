@@ -21,7 +21,8 @@
 		"mocha": "latest",
 		"chai": "latest",
 		"request": "latest",
-		"jshint": "latest"
+		"jshint": "latest",
+		"docco": "latest"
 	},
 	"optionalDependencies": {},
 	"private": "true",
