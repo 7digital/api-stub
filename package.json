@@ -9,8 +9,7 @@
 	},
 	"main": "server.js",
 	"scripts": {
-		"test": "mocha -R spec spec/integration.js",
-		"pretest": "jshint lib server.js"
+		"test": "./node_modules/.bin/mocha -R spec spec/integration.js"
 	},
 	"dependencies": {
 		"express": "2.5.9",
