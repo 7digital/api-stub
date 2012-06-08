@@ -1,7 +1,4 @@
-7Digital API Stub
-=================
-
-![7digital](http://cdn.7static.com/static/img/logo/7digital-GB.gif)
+![7digital](http://developer.7digital.net/db/Gallery/Groups/Top_Navigation/Thumbnails/CustomSize_9/logo_276x0.png)
 
 About 7digital
 ==============
@@ -20,10 +17,10 @@ WHAT IS THIS?
 
 This is a stub API which can be used for testing integrations with 7digital.
 
-NSTALLATION
+INSTALLATION
 ============
 
-The easiest way to use the stub is to clone it.
+The easiest way to install the stub is to clone it.
 
     git clone git://github.com/7digital/node-7digital-api-stub.git
 
