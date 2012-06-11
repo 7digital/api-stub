@@ -1,5 +1,3 @@
-![7digital](http://developer.7digital.net/db/Gallery/Groups/Top_Navigation/Thumbnails/CustomSize_9/logo_276x0.png)
-
 About 7digital
 ==============
 
