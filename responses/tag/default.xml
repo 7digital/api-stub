@@ -1,0 +1,564 @@
+<?xml version="1.0" ?>
+<response status="ok" version="1.2" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://api.7digital.com/1.2/static/7digitalAPI.xsd">
+  <tags>
+    <page>
+      1
+    </page>
+    <pageSize>
+      50
+    </pageSize>
+    <totalItems>
+      471
+    </totalItems>
+    <tag id="pop">
+      <text>
+        pop
+      </text>
+      <url>
+        http://www.7digital.com/tags/pop?partner=712
+      </url>
+      <count>
+        222570
+      </count>
+    </tag>
+    <tag id="electronic">
+      <text>
+        electronic
+      </text>
+      <url>
+        http://www.7digital.com/tags/electronic?partner=712
+      </url>
+      <count>
+        182993
+      </count>
+    </tag>
+    <tag id="dance">
+      <text>
+        dance
+      </text>
+      <url>
+        http://www.7digital.com/tags/dance?partner=712
+      </url>
+      <count>
+        153512
+      </count>
+    </tag>
+    <tag id="rock">
+      <text>
+        rock
+      </text>
+      <url>
+        http://www.7digital.com/tags/rock?partner=712
+      </url>
+      <count>
+        130422
+      </count>
+    </tag>
+    <tag id="world">
+      <text>
+        world
+      </text>
+      <url>
+        http://www.7digital.com/tags/world?partner=712
+      </url>
+      <count>
+        109085
+      </count>
+    </tag>
+    <tag id="compilation">
+      <text>
+        compilation
+      </text>
+      <url>
+        http://www.7digital.com/tags/compilation?partner=712
+      </url>
+      <count>
+        95846
+      </count>
+    </tag>
+    <tag id="jazz">
+      <text>
+        jazz
+      </text>
+      <url>
+        http://www.7digital.com/tags/jazz?partner=712
+      </url>
+      <count>
+        80281
+      </count>
+    </tag>
+    <tag id="classical">
+      <text>
+        classical
+      </text>
+      <url>
+        http://www.7digital.com/tags/classical?partner=712
+      </url>
+      <count>
+        67660
+      </count>
+    </tag>
+    <tag id="house">
+      <text>
+        house
+      </text>
+      <url>
+        http://www.7digital.com/tags/house?partner=712
+      </url>
+      <count>
+        60593
+      </count>
+    </tag>
+    <tag id="latin">
+      <text>
+        latin
+      </text>
+      <url>
+        http://www.7digital.com/tags/latin?partner=712
+      </url>
+      <count>
+        42430
+      </count>
+    </tag>
+    <tag id="folk">
+      <text>
+        folk
+      </text>
+      <url>
+        http://www.7digital.com/tags/folk?partner=712
+      </url>
+      <count>
+        34044
+      </count>
+    </tag>
+    <tag id="hip-hop-rap">
+      <text>
+        hip hop/rap
+      </text>
+      <url>
+        http://www.7digital.com/tags/hip-hop-rap?partner=712
+      </url>
+      <count>
+        30440
+      </count>
+    </tag>
+    <tag id="country">
+      <text>
+        country
+      </text>
+      <url>
+        http://www.7digital.com/tags/country?partner=712
+      </url>
+      <count>
+        28611
+      </count>
+    </tag>
+    <tag id="techno">
+      <text>
+        techno
+      </text>
+      <url>
+        http://www.7digital.com/tags/techno?partner=712
+      </url>
+      <count>
+        25964
+      </count>
+    </tag>
+    <tag id="hard-rock-metal">
+      <text>
+        hard rock/metal
+      </text>
+      <url>
+        http://www.7digital.com/tags/hard-rock-metal?partner=712
+      </url>
+      <count>
+        24502
+      </count>
+    </tag>
+    <tag id="randb-soul">
+      <text>
+        r&amp;b/soul
+      </text>
+      <url>
+        http://www.7digital.com/tags/randb-soul?partner=712
+      </url>
+      <count>
+        24137
+      </count>
+    </tag>
+    <tag id="reggae">
+      <text>
+        reggae
+      </text>
+      <url>
+        http://www.7digital.com/tags/reggae?partner=712
+      </url>
+      <count>
+        21294
+      </count>
+    </tag>
+    <tag id="christmas">
+      <text>
+        christmas
+      </text>
+      <url>
+        http://www.7digital.com/tags/christmas?partner=712
+      </url>
+      <count>
+        20066
+      </count>
+    </tag>
+    <tag id="tech-house">
+      <text>
+        tech house
+      </text>
+      <url>
+        http://www.7digital.com/tags/tech-house?partner=712
+      </url>
+      <count>
+        18738
+      </count>
+    </tag>
+    <tag id="instrumental">
+      <text>
+        instrumental
+      </text>
+      <url>
+        http://www.7digital.com/tags/instrumental?partner=712
+      </url>
+      <count>
+        17714
+      </count>
+    </tag>
+    <tag id="electro">
+      <text>
+        electro
+      </text>
+      <url>
+        http://www.7digital.com/tags/electro?partner=712
+      </url>
+      <count>
+        16510
+      </count>
+    </tag>
+    <tag id="blues">
+      <text>
+        blues
+      </text>
+      <url>
+        http://www.7digital.com/tags/blues?partner=712
+      </url>
+      <count>
+        16260
+      </count>
+    </tag>
+    <tag id="trance">
+      <text>
+        trance
+      </text>
+      <url>
+        http://www.7digital.com/tags/trance?partner=712
+      </url>
+      <count>
+        16091
+      </count>
+    </tag>
+    <tag id="pop-rock">
+      <text>
+        pop rock
+      </text>
+      <url>
+        http://www.7digital.com/tags/pop-rock?partner=712
+      </url>
+      <count>
+        16013
+      </count>
+    </tag>
+    <tag id="soundtrack">
+      <text>
+        soundtrack
+      </text>
+      <url>
+        http://www.7digital.com/tags/soundtrack?partner=712
+      </url>
+      <count>
+        15841
+      </count>
+    </tag>
+    <tag id="new-age">
+      <text>
+        new age
+      </text>
+      <url>
+        http://www.7digital.com/tags/new-age?partner=712
+      </url>
+      <count>
+        13093
+      </count>
+    </tag>
+    <tag id="alternative-indie">
+      <text>
+        alternative/indie
+      </text>
+      <url>
+        http://www.7digital.com/tags/alternative-indie?partner=712
+      </url>
+      <count>
+        12985
+      </count>
+    </tag>
+    <tag id="easy-listening">
+      <text>
+        easy listening
+      </text>
+      <url>
+        http://www.7digital.com/tags/easy-listening?partner=712
+      </url>
+      <count>
+        12347
+      </count>
+    </tag>
+    <tag id="punk">
+      <text>
+        punk
+      </text>
+      <url>
+        http://www.7digital.com/tags/punk?partner=712
+      </url>
+      <count>
+        11362
+      </count>
+    </tag>
+    <tag id="children">
+      <text>
+        children
+      </text>
+      <url>
+        http://www.7digital.com/tags/children?partner=712
+      </url>
+      <count>
+        10577
+      </count>
+    </tag>
+    <tag id="2000s">
+      <text>
+        2000s
+      </text>
+      <url>
+        http://www.7digital.com/tags/2000s?partner=712
+      </url>
+      <count>
+        9812
+      </count>
+    </tag>
+    <tag id="german">
+      <text>
+        german
+      </text>
+      <url>
+        http://www.7digital.com/tags/german?partner=712
+      </url>
+      <count>
+        9374
+      </count>
+    </tag>
+    <tag id="live">
+      <text>
+        live
+      </text>
+      <url>
+        http://www.7digital.com/tags/live?partner=712
+      </url>
+      <count>
+        9038
+      </count>
+    </tag>
+    <tag id="electronica">
+      <text>
+        electronica
+      </text>
+      <url>
+        http://www.7digital.com/tags/electronica?partner=712
+      </url>
+      <count>
+        8728
+      </count>
+    </tag>
+    <tag id="deep-house">
+      <text>
+        deep house
+      </text>
+      <url>
+        http://www.7digital.com/tags/deep-house?partner=712
+      </url>
+      <count>
+        8232
+      </count>
+    </tag>
+    <tag id="christian">
+      <text>
+        christian
+      </text>
+      <url>
+        http://www.7digital.com/tags/christian?partner=712
+      </url>
+      <count>
+        8009
+      </count>
+    </tag>
+    <tag id="french">
+      <text>
+        french
+      </text>
+      <url>
+        http://www.7digital.com/tags/french?partner=712
+      </url>
+      <count>
+        7420
+      </count>
+    </tag>
+    <tag id="drum-and-bass">
+      <text>
+        drum &amp; bass
+      </text>
+      <url>
+        http://www.7digital.com/tags/drum-and-bass?partner=712
+      </url>
+      <count>
+        7412
+      </count>
+    </tag>
+    <tag id="ambient">
+      <text>
+        ambient
+      </text>
+      <url>
+        http://www.7digital.com/tags/ambient?partner=712
+      </url>
+      <count>
+        7361
+      </count>
+    </tag>
+    <tag id="holiday">
+      <text>
+        holiday
+      </text>
+      <url>
+        http://www.7digital.com/tags/holiday?partner=712
+      </url>
+      <count>
+        7022
+      </count>
+    </tag>
+    <tag id="chamber-music">
+      <text>
+        chamber music
+      </text>
+      <url>
+        http://www.7digital.com/tags/chamber-music?partner=712
+      </url>
+      <count>
+        6467
+      </count>
+    </tag>
+    <tag id="downtempo">
+      <text>
+        downtempo
+      </text>
+      <url>
+        http://www.7digital.com/tags/downtempo?partner=712
+      </url>
+      <count>
+        6204
+      </count>
+    </tag>
+    <tag id="dubstep">
+      <text>
+        dubstep
+      </text>
+      <url>
+        http://www.7digital.com/tags/dubstep?partner=712
+      </url>
+      <count>
+        6152
+      </count>
+    </tag>
+    <tag id="indian">
+      <text>
+        indian
+      </text>
+      <url>
+        http://www.7digital.com/tags/indian?partner=712
+      </url>
+      <count>
+        5979
+      </count>
+    </tag>
+    <tag id="spoken-word">
+      <text>
+        spoken word
+      </text>
+      <url>
+        http://www.7digital.com/tags/spoken-word?partner=712
+      </url>
+      <count>
+        5846
+      </count>
+    </tag>
+    <tag id="orchestral">
+      <text>
+        orchestral
+      </text>
+      <url>
+        http://www.7digital.com/tags/orchestral?partner=712
+      </url>
+      <count>
+        5596
+      </count>
+    </tag>
+    <tag id="gospel">
+      <text>
+        gospel
+      </text>
+      <url>
+        http://www.7digital.com/tags/gospel?partner=712
+      </url>
+      <count>
+        5462
+      </count>
+    </tag>
+    <tag id="minimal-house">
+      <text>
+        minimal house
+      </text>
+      <url>
+        http://www.7digital.com/tags/minimal-house?partner=712
+      </url>
+      <count>
+        5391
+      </count>
+    </tag>
+    <tag id="funk">
+      <text>
+        funk
+      </text>
+      <url>
+        http://www.7digital.com/tags/funk?partner=712
+      </url>
+      <count>
+        4927
+      </count>
+    </tag>
+    <tag id="mexican">
+      <text>
+        mexican
+      </text>
+      <url>
+        http://www.7digital.com/tags/mexican?partner=712
+      </url>
+      <count>
+        4775
+      </count>
+    </tag>
+  </tags>
+</response>
