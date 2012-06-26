@@ -79,6 +79,7 @@ server.post('/user/payment/card/add', conventions.cardNumber);
 server.post('/user/payment/card/delete', conventions.serveDefault);
 server.get('/payment/card/type', conventions.serveDefault);
 
-server.listen(+process.env.PORT || 3000, function serverListening() {
-	console.log('Server listening on %s', +process.env.PORT || 3000);
+var port = process.env.PORT || 3000;
+server.listen(port, function serverListening() {
+	console.log('Server listening on %s', port);
 });
