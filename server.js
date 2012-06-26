@@ -79,6 +79,9 @@ server.post('/user/payment/card/add', conventions.cardNumber);
 server.post('/user/payment/card/delete', conventions.serveDefault);
 server.get('/payment/card/type', conventions.serveDefault);
 
+//tag
+server.get('/tag', conventions.serveDefault);
+
 server.get("/status", function(req, res){
    res.send("<status>editorial stub api is alive</status>");
 });
