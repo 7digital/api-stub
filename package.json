@@ -12,7 +12,7 @@
 		"test": "./node_modules/.bin/mocha -R spec spec/integration.js"
 	},
   "engines":{
-    "node":"0.6.19",
+    "node":"0.6.19"
   },
 	"dependencies": {
 		"express": "2.5.9",
