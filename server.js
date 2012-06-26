@@ -82,8 +82,8 @@ server.get('/payment/card/type', conventions.serveDefault);
 //tag
 server.get('/tag', conventions.serveDefault);
 
-server.get("/status", function(req, res){
-   res.send("<status>editorial stub api is alive</status>");
+server.get("/status", function (req, res) {
+	res.send("<status>editorial stub api is alive</status>");
 });
 
 var port = process.env.PORT || 3000;
