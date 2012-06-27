@@ -27,8 +27,5 @@
 		"docco": "latest"
 	},
 	"optionalDependencies": {},
-	"private": "true",
-	"engines": {
-		"node": ">=0.6.15"
-	}
+	"private": "true"
 }
