@@ -3,7 +3,7 @@ require 'IIS_apppool_builder'
 require 'IIS_self_signer'
 require 'IIS_host_adder'
 
-SITENAME = "stub.api.local"
+SITENAME = "stubapi.7digital.local"
 
 desc "deploys the iis site locally"
 task :deploy do |t, args|
