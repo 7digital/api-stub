@@ -86,9 +86,9 @@ server.get("/status", function (req, res) {
 	res.send("<status>editorial stub api is alive</status>");
 });
 
-server.get("*", function(req, res) {
-	res.send("<status>"+req.url+"</status>")
-});
+server.get("*", function (req, res) {
+	res.send("<status>" + req.url + "</status>")
+;});
 
 var port = process.env.PORT || 3000;
 server.listen(port, function serverListening() {
