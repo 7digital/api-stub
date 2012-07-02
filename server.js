@@ -87,8 +87,8 @@ server.get("/status", function (req, res) {
 });
 
 server.get("*", function (req, res) {
-	res.send("<status>" + req.url + "</status>")
-;});
+	res.send("<status>" + req.url + "</status>");
+});
 
 var port = process.env.PORT || 3000;
 server.listen(port, function serverListening() {
