@@ -83,11 +83,11 @@ server.get('/payment/card/type', conventions.serveDefault);
 server.get('/tag', conventions.serveDefault);
 
 server.get("/status", function (req, res) {
-	res.send("<status>editorial stub api is alive</status>");
+	res.send("<status>7digital stub api is alive</status>");
 });
 
 server.get("*", function (req, res) {
-	res.send("<status>" + req.url + "</status>");
+	res.send("<status>Unrecognised URL: " + req.url + "</status>", 404);
 });
 
 var port = process.env.PORT || 3000;
