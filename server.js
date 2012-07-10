@@ -80,7 +80,7 @@ server.post('/user/payment/card/delete', conventions.serveDefault);
 server.get('/payment/card/type', conventions.serveDefault);
 
 //tag
-server.get('/tag', conventions.serveDefault);
+server.get('/tag', conventions.tag);
 
 server.get("/status", function (req, res) {
 	res.send("<status>7digital stub api is alive</status>");
