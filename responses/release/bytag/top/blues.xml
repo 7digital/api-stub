@@ -1,0 +1,1209 @@
+<?xml version="1.0" encoding="utf-8"?>
+<response status="ok" version="1.2" xsi:noNamespaceSchemaLocation="http://api.7digital.com/1.2/static/7digitalAPI.xsd" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<taggedResults>
+		<page>1</page>
+		<pageSize>60</pageSize>
+		<totalItems>16327</totalItems>
+		<type>release</type>
+		<taggedItem>
+			<release id="1347421">
+				<title>7digital Essential: Blues</title>
+				<version />
+				<type>Album</type>
+				<barcode>3700551721238</barcode>
+				<year>2011</year>
+				<explicitContent>false</explicitContent>
+				<artist id="209">
+					<name>Various Artists</name>
+					<appearsAs>Various Artists</appearsAs>
+					<url>http://www.7digital.com/artists/various-artists/?partner=1401</url>
+				</artist>
+				<url>http://www.7digital.com/artists/various-artists/7digital-essential-blues/?partner=1401</url>
+				<image>http://cdn.7static.com/static/img/sleeveart/00/013/474/0001347421_50.jpg</image>
+				<releaseDate>2011-07-18T00:00:00+01:00</releaseDate>
+				<addedDate>2011-08-16T17:36:30+01:00</addedDate>
+				<popularity>0.6</popularity>
+			</release>
+		</taggedItem>
+		<taggedItem>
+			<release id="829228">
+				<title>Top 5 - Ray Charles - EP</title>
+				<version />
+				<type>Single</type>
+				<barcode>7340027013533</barcode>
+				<year>2010</year>
+				<explicitContent>false</explicitContent>
+				<artist id="4342">
+					<name>Ray Charles</name>
+					<appearsAs>Ray Charles</appearsAs>
+					<url>http://www.7digital.com/artists/ray-charles/?partner=1401</url>
+				</artist>
+				<url>http://www.7digital.com/artists/ray-charles/top-5-ray-charles-ep/?partner=1401</url>
+				<image>http://cdn.7static.com/static/img/sleeveart/00/008/292/0000829228_50.jpg</image>
+				<releaseDate>2010-05-11T00:00:00+01:00</releaseDate>
+				<addedDate>2010-05-12T16:53:37+01:00</addedDate>
+				<popularity>0.55</popularity>
+			</release>
+		</taggedItem>
+		<taggedItem>
+			<release id="1728188">
+				<title>Driving Towards The Daylight</title>
+				<version />
+				<type>Album</type>
+				<barcode>00804879354864</barcode>
+				<year>2012</year>
+				<explicitContent>false</explicitContent>
+				<artist id="140405">
+					<name>Joe Bonamassa</name>
+					<appearsAs>Joe Bonamassa</appearsAs>
+					<url>http://www.7digital.com/artists/joe-bonamassa/?partner=1401</url>
+				</artist>
+				<url>http://www.7digital.com/artists/joe-bonamassa/driving-towards-the-daylight-1/?partner=1401</url>
+				<image>http://cdn.7static.com/static/img/sleeveart/00/017/281/0001728188_50.jpg</image>
+				<releaseDate>2012-05-21T00:00:00+01:00</releaseDate>
+				<addedDate>2012-05-22T14:44:13+01:00</addedDate>
+				<popularity>0.55</popularity>
+			</release>
+		</taggedItem>
+		<taggedItem>
+			<release id="1285978">
+				<title>Blues Brothers</title>
+				<version />
+				<type>Album</type>
+				<barcode>885686868454</barcode>
+				<year>2011</year>
+				<explicitContent>false</explicitContent>
+				<artist id="209">
+					<name>Various Artists</name>
+					<appearsAs>Various Artists</appearsAs>
+					<url>http://www.7digital.com/artists/various-artists/?partner=1401</url>
+				</artist>
+				<url>http://www.7digital.com/artists/various-artists/blues-brothers/?partner=1401</url>
+				<image>http://cdn.7static.com/static/img/sleeveart/00/012/859/0001285978_50.jpg</image>
+				<releaseDate>2011-06-03T00:00:00+01:00</releaseDate>
+				<addedDate>2011-06-16T19:42:12+01:00</addedDate>
+				<popularity>0.54</popularity>
+			</release>
+		</taggedItem>
+		<taggedItem>
+			<release id="1658960">
+				<title>Blues Classics</title>
+				<version />
+				<type>Album</type>
+				<barcode>3700551730872</barcode>
+				<year>2012</year>
+				<explicitContent>false</explicitContent>
+				<artist id="10229">
+					<name>Howlin' Wolf</name>
+					<appearsAs>Howlin' Wolf</appearsAs>
+					<url>http://www.7digital.com/artists/howlin-wolf/?partner=1401</url>
+				</artist>
+				<url>http://www.7digital.com/artists/howlin-wolf/blues-classics/?partner=1401</url>
+				<image>http://cdn.7static.com/static/img/sleeveart/00/016/589/0001658960_50.jpg</image>
+				<releaseDate>2012-04-16T00:00:00+01:00</releaseDate>
+				<addedDate>2012-04-02T12:49:59+01:00</addedDate>
+				<popularity>0.53</popularity>
+			</release>
+		</taggedItem>
+		<taggedItem>
+			<release id="1235445">
+				<title>You Can´t Teach An Old Dog New Tricks</title>
+				<version />
+				<type>Album</type>
+				<barcode>5414939118876</barcode>
+				<year>2011</year>
+				<explicitContent>true</explicitContent>
+				<artist id="88051">
+					<name>Seasick Steve</name>
+					<appearsAs>Seasick Steve</appearsAs>
+					<url>http://www.7digital.com/artists/seasick-steve/?partner=1401</url>
+				</artist>
+				<url>http://www.7digital.com/artists/seasick-steve/you-cant-teach-an-old-dog-new-tricks/?partner=1401</url>
+				<image>http://cdn.7static.com/static/img/sleeveart/00/012/354/0001235445_50.jpg</image>
+				<releaseDate>2011-05-30T00:00:00+01:00</releaseDate>
+				<addedDate>2011-05-06T14:06:16+01:00</addedDate>
+				<popularity>0.52</popularity>
+			</release>
+		</taggedItem>
+		<taggedItem>
+			<release id="804505">
+				<title>Total 60s</title>
+				<version />
+				<type>Album</type>
+				<barcode>00600753269503</barcode>
+				<year>2010</year>
+				<explicitContent>false</explicitContent>
+				<artist id="209">
+					<name>Various Artists</name>
+					<appearsAs>Various Artists</appearsAs>
+					<url>http://www.7digital.com/artists/various-artists/?partner=1401</url>
+				</artist>
+				<url>http://www.7digital.com/artists/various-artists/total-60s/?partner=1401</url>
+				<image>http://cdn.7static.com/static/img/sleeveart/00/008/045/0000804505_50.jpg</image>
+				<releaseDate>2010-06-22T00:00:00+01:00</releaseDate>
+				<addedDate>2010-06-03T11:36:29+01:00</addedDate>
+				<popularity>0.51</popularity>
+			</release>
+		</taggedItem>
+		<taggedItem>
+			<release id="1225811">
+				<title>At Last - Etta James (Remastered 2011)</title>
+				<version />
+				<type>Album</type>
+				<barcode>7340070427905</barcode>
+				<year>2011</year>
+				<explicitContent>false</explicitContent>
+				<artist id="1821">
+					<name>Etta James</name>
+					<appearsAs>Etta James </appearsAs>
+					<url>http://www.7digital.com/artists/etta-james/?partner=1401</url>
+				</artist>
+				<url>http://www.7digital.com/artists/etta-james/at-last-etta-james-remastered-2011/?partner=1401</url>
+				<image>http://cdn.7static.com/static/img/sleeveart/00/012/258/0001225811_50.jpg</image>
+				<releaseDate>2011-04-19T00:00:00+01:00</releaseDate>
+				<addedDate>2011-04-21T15:19:17+01:00</addedDate>
+				<popularity>0.51</popularity>
+			</release>
+		</taggedItem>
+		<taggedItem>
+			<release id="1188397">
+				<title>Dust Bowl</title>
+				<version />
+				<type>Album</type>
+				<barcode>00044003136229</barcode>
+				<year>2011</year>
+				<explicitContent>false</explicitContent>
+				<artist id="140405">
+					<name>Joe Bonamassa</name>
+					<appearsAs>Joe Bonamassa</appearsAs>
+					<url>http://www.7digital.com/artists/joe-bonamassa/?partner=1401</url>
+				</artist>
+				<url>http://www.7digital.com/artists/joe-bonamassa/dust-bowl-1/?partner=1401</url>
+				<image>http://cdn.7static.com/static/img/sleeveart/00/011/883/0001188397_50.jpg</image>
+				<releaseDate>2011-03-22T00:00:00+00:00</releaseDate>
+				<addedDate>2011-03-22T16:32:27+00:00</addedDate>
+				<popularity>0.5</popularity>
+			</release>
+		</taggedItem>
+		<taggedItem>
+			<release id="1384056">
+				<title>Roots</title>
+				<version />
+				<type>Album</type>
+				<barcode>886443143210</barcode>
+				<year>2011</year>
+				<explicitContent>false</explicitContent>
+				<artist id="39812">
+					<name>Johnny Winter</name>
+					<appearsAs>Johnny Winter</appearsAs>
+					<url>http://www.7digital.com/artists/johnny-winter/?partner=1401</url>
+				</artist>
+				<url>http://www.7digital.com/artists/johnny-winter/roots/?partner=1401</url>
+				<image>http://cdn.7static.com/static/img/sleeveart/00/013/840/0001384056_50.jpg</image>
+				<releaseDate>2011-09-27T00:00:00+01:00</releaseDate>
+				<addedDate>2011-08-31T13:17:05+01:00</addedDate>
+				<popularity>0.49</popularity>
+			</release>
+		</taggedItem>
+		<taggedItem>
+			<release id="1607012">
+				<title>Dreamboats &amp; Petticoats Presents: Petticoat Collection</title>
+				<version>Warner Version</version>
+				<type>Album</type>
+				<barcode>00600753378632</barcode>
+				<year>2012</year>
+				<explicitContent>false</explicitContent>
+				<artist id="209">
+					<name>Various Artists</name>
+					<appearsAs>Various Artists</appearsAs>
+					<url>http://www.7digital.com/artists/various-artists/?partner=1401</url>
+				</artist>
+				<url>http://www.7digital.com/artists/various-artists/dreamboats-and-petticoats-presents-petticoat-collection/?partner=1401</url>
+				<image>http://cdn.7static.com/static/img/sleeveart/00/016/070/0001607012_50.jpg</image>
+				<releaseDate>2012-02-27T00:00:00+00:00</releaseDate>
+				<addedDate>2012-02-20T15:04:30+00:00</addedDate>
+				<popularity>0.49</popularity>
+			</release>
+		</taggedItem>
+		<taggedItem>
+			<release id="1689818">
+				<title>The Very Best Of</title>
+				<version />
+				<type>Album</type>
+				<barcode>5060143494413</barcode>
+				<year>2012</year>
+				<explicitContent>false</explicitContent>
+				<artist id="1821">
+					<name>Etta James</name>
+					<appearsAs>Etta James </appearsAs>
+					<url>http://www.7digital.com/artists/etta-james/?partner=1401</url>
+				</artist>
+				<url>http://www.7digital.com/artists/etta-james/the-very-best-of/?partner=1401</url>
+				<image>http://cdn.7static.com/static/img/sleeveart/00/016/898/0001689818_50.jpg</image>
+				<releaseDate>2012-05-11T00:00:00+01:00</releaseDate>
+				<addedDate>2012-04-26T17:36:12+01:00</addedDate>
+				<popularity>0.49</popularity>
+			</release>
+		</taggedItem>
+		<taggedItem>
+			<release id="1720578">
+				<title>Everybody's Talkin'</title>
+				<version />
+				<type>Album</type>
+				<barcode>886443449770</barcode>
+				<year>2012</year>
+				<explicitContent>false</explicitContent>
+				<artist id="987581">
+					<name>Tedeschi Trucks Band</name>
+					<appearsAs>Tedeschi Trucks Band</appearsAs>
+					<url>http://www.7digital.com/artists/tedeschi-trucks-band/?partner=1401</url>
+				</artist>
+				<url>http://www.7digital.com/artists/tedeschi-trucks-band/everybodys-talkin/?partner=1401</url>
+				<image>http://cdn.7static.com/static/img/sleeveart/00/017/205/0001720578_50.jpg</image>
+				<releaseDate>2012-06-04T00:00:00+01:00</releaseDate>
+				<addedDate>2012-05-22T00:19:10+01:00</addedDate>
+				<popularity>0.49</popularity>
+			</release>
+		</taggedItem>
+		<taggedItem>
+			<release id="1350589">
+				<title>O Brother, Where Art Thou?</title>
+				<version>10th Anniversary Deluxe Edition</version>
+				<type>Album</type>
+				<barcode>00602527489278</barcode>
+				<year>2011</year>
+				<explicitContent>false</explicitContent>
+				<artist id="209">
+					<name>Various Artists</name>
+					<appearsAs>Various Artists</appearsAs>
+					<url>http://www.7digital.com/artists/various-artists/?partner=1401</url>
+				</artist>
+				<url>http://www.7digital.com/artists/various-artists/o-brother-where-art-thou/?partner=1401</url>
+				<image>http://cdn.7static.com/static/img/sleeveart/00/013/505/0001350589_50.jpg</image>
+				<releaseDate>2011-08-29T00:00:00+01:00</releaseDate>
+				<addedDate>2011-08-08T15:08:45+01:00</addedDate>
+				<popularity>0.48</popularity>
+			</release>
+		</taggedItem>
+		<taggedItem>
+			<release id="1526776">
+				<title>Bar-B-Cue'n Blues</title>
+				<version />
+				<type>Album</type>
+				<barcode>897857001072</barcode>
+				<year>2012</year>
+				<explicitContent>false</explicitContent>
+				<artist id="209">
+					<name>Various Artists</name>
+					<appearsAs>Various Artists</appearsAs>
+					<url>http://www.7digital.com/artists/various-artists/?partner=1401</url>
+				</artist>
+				<url>http://www.7digital.com/artists/various-artists/bar-b-cuen-blues/?partner=1401</url>
+				<image>http://cdn.7static.com/static/img/sleeveart/00/015/267/0001526776_50.jpg</image>
+				<releaseDate>2012-01-10T00:00:00+00:00</releaseDate>
+				<addedDate>2011-12-20T11:18:16+00:00</addedDate>
+				<popularity>0.48</popularity>
+			</release>
+		</taggedItem>
+		<taggedItem>
+			<release id="166563">
+				<title>American Gangster</title>
+				<version>Original Motion Picture Soundtrack</version>
+				<type>Album</type>
+				<barcode>00602517496828</barcode>
+				<year>2007</year>
+				<explicitContent>false</explicitContent>
+				<artist id="311">
+					<name>Soundtrack</name>
+					<appearsAs>Soundtrack</appearsAs>
+					<url>http://www.7digital.com/artists/soundtrack/?partner=1401</url>
+				</artist>
+				<url>http://www.7digital.com/artists/soundtrack/american-gangster/?partner=1401</url>
+				<image>http://cdn.7static.com/static/img/sleeveart/00/001/665/0000166563_50.jpg</image>
+				<releaseDate>2007-11-05T00:00:00+00:00</releaseDate>
+				<addedDate>2008-08-31T22:20:50+01:00</addedDate>
+				<popularity>0.48</popularity>
+			</release>
+		</taggedItem>
+		<taggedItem>
+			<release id="1476811">
+				<title>Walkin' Man - The Best of Seasick Steve</title>
+				<version />
+				<type>Album</type>
+				<barcode>825646630141</barcode>
+				<year>2011</year>
+				<explicitContent>false</explicitContent>
+				<artist id="88051">
+					<name>Seasick Steve</name>
+					<appearsAs>Seasick Steve</appearsAs>
+					<url>http://www.7digital.com/artists/seasick-steve/?partner=1401</url>
+				</artist>
+				<url>http://www.7digital.com/artists/seasick-steve/walkin-man-the-best-of-seasick-steve/?partner=1401</url>
+				<image>http://cdn.7static.com/static/img/sleeveart/00/014/768/0001476811_50.jpg</image>
+				<releaseDate>2011-12-21T00:00:00+00:00</releaseDate>
+				<addedDate>2011-11-14T12:08:36+00:00</addedDate>
+				<popularity>0.48</popularity>
+			</release>
+		</taggedItem>
+		<taggedItem>
+			<release id="364150">
+				<title>Love Tattoo</title>
+				<version />
+				<type>Album</type>
+				<barcode>00602517937666</barcode>
+				<year>2009</year>
+				<explicitContent>false</explicitContent>
+				<artist id="253538">
+					<name>Imelda May</name>
+					<appearsAs>Imelda May</appearsAs>
+					<url>http://www.7digital.com/artists/imelda-may/?partner=1401</url>
+				</artist>
+				<url>http://www.7digital.com/artists/imelda-may/love-tattoo-1/?partner=1401</url>
+				<image>http://cdn.7static.com/static/img/sleeveart/00/003/641/0000364150_50.jpg</image>
+				<releaseDate>2009-01-26T00:00:00+00:00</releaseDate>
+				<addedDate>2009-01-19T10:18:49+00:00</addedDate>
+				<popularity>0.48</popularity>
+			</release>
+		</taggedItem>
+		<taggedItem>
+			<release id="1406404">
+				<title>Don't Explain</title>
+				<version />
+				<type>Album</type>
+				<barcode>00804879313915</barcode>
+				<year>2011</year>
+				<explicitContent>false</explicitContent>
+				<artist id="1086705">
+					<name>Beth Hart, Joe Bonamassa</name>
+					<appearsAs>Beth Hart, Joe Bonamassa</appearsAs>
+					<url>http://www.7digital.com/artists/beth-hart-joe-bonamassa/?partner=1401</url>
+				</artist>
+				<url>http://www.7digital.com/artists/beth-hart-joe-bonamassa/dont-explain/?partner=1401</url>
+				<image>http://cdn.7static.com/static/img/sleeveart/00/014/064/0001406404_50.jpg</image>
+				<releaseDate>2011-09-26T00:00:00+01:00</releaseDate>
+				<addedDate>2011-09-22T10:54:27+01:00</addedDate>
+				<popularity>0.48</popularity>
+			</release>
+		</taggedItem>
+		<taggedItem>
+			<release id="317812">
+				<title>I Started Out With Nothin And I Still Got Most Of It Left</title>
+				<version />
+				<type>Album</type>
+				<barcode>825646937189</barcode>
+				<year>2012</year>
+				<explicitContent>false</explicitContent>
+				<artist id="88051">
+					<name>Seasick Steve</name>
+					<appearsAs>Seasick Steve</appearsAs>
+					<url>http://www.7digital.com/artists/seasick-steve/?partner=1401</url>
+				</artist>
+				<url>http://www.7digital.com/artists/seasick-steve/i-started-out-with-nothin-and-i-still-got-most-of-it-left/?partner=1401</url>
+				<image>http://cdn.7static.com/static/img/sleeveart/00/003/178/0000317812_50.jpg</image>
+				<releaseDate>2012-01-03T00:00:00+00:00</releaseDate>
+				<addedDate>2008-09-19T11:31:12+01:00</addedDate>
+				<popularity>0.48</popularity>
+			</release>
+		</taggedItem>
+		<taggedItem>
+			<release id="1631802">
+				<title>Happy Piano-Blues-Party</title>
+				<version />
+				<type>Album</type>
+				<barcode>4000127630407</barcode>
+				<year>2012</year>
+				<explicitContent>false</explicitContent>
+				<artist id="1246545">
+					<name>Günter Boas, Piano &amp; Vocal; Fiete Wacker, Bass-Git.; Jim McGillivray, Drums; Cliff  Jackson, Git.; Bernie Kolbe, Bass</name>
+					<appearsAs>Günter Boas, Piano &amp; Vocal; Fiete Wacker, Bass-Git.; Jim McGillivray, Drums; Cliff  Jackson, Git.; Bernie Kolbe, Bass</appearsAs>
+					<url>http://www.7digital.com/artists/gunter-boas-piano-and-vocal-fiete-wacker-bass-git-jim-mcgillivray-drums-cliff-jackson-git-bernie-kolbe-bass/?partner=1401</url>
+				</artist>
+				<url>http://www.7digital.com/artists/gunter-boas-piano-and-vocal-fiete-wacker-bass-git-jim-mcgillivray-drums-cliff-jackson-git-bernie-kolbe-bass/happy-piano-blues-party/?partner=1401</url>
+				<image>http://cdn.7static.com/static/img/sleeveart/00/016/318/0001631802_50.jpg</image>
+				<releaseDate>2012-04-13T00:00:00+01:00</releaseDate>
+				<addedDate>2012-03-09T16:18:34+00:00</addedDate>
+				<popularity>0.47</popularity>
+			</release>
+		</taggedItem>
+		<taggedItem>
+			<release id="1700288">
+				<title>Last Love</title>
+				<version />
+				<type>Single</type>
+				<barcode>5051565303087</barcode>
+				<year>2012</year>
+				<explicitContent>false</explicitContent>
+				<artist id="1190577">
+					<name>Tristan Mackay</name>
+					<appearsAs>Tristan Mackay</appearsAs>
+					<url>http://www.7digital.com/artists/tristan-mackay/?partner=1401</url>
+				</artist>
+				<url>http://www.7digital.com/artists/tristan-mackay/last-love/?partner=1401</url>
+				<image>http://cdn.7static.com/static/img/sleeveart/00/017/002/0001700288_50.jpg</image>
+				<releaseDate>2012-05-28T00:00:00+01:00</releaseDate>
+				<addedDate>2012-05-03T12:44:13+01:00</addedDate>
+				<popularity>0.47</popularity>
+			</release>
+		</taggedItem>
+		<taggedItem>
+			<release id="325321">
+				<title>Love Tattoo</title>
+				<version />
+				<type>Album</type>
+				<barcode>00602517905610</barcode>
+				<year>2009</year>
+				<explicitContent>false</explicitContent>
+				<artist id="253538">
+					<name>Imelda May</name>
+					<appearsAs>Imelda May</appearsAs>
+					<url>http://www.7digital.com/artists/imelda-may/?partner=1401</url>
+				</artist>
+				<url>http://www.7digital.com/artists/imelda-may/love-tattoo/?partner=1401</url>
+				<image>http://cdn.7static.com/static/img/sleeveart/00/003/253/0000325321_50.jpg</image>
+				<releaseDate>2009-03-02T00:00:00+00:00</releaseDate>
+				<addedDate>2008-10-15T16:13:40+01:00</addedDate>
+				<popularity>0.47</popularity>
+			</release>
+		</taggedItem>
+		<taggedItem>
+			<release id="703040">
+				<title>Joe Bonamassa Live From The Royal Albert Hall (Live Audio Version)</title>
+				<version />
+				<type>Album</type>
+				<barcode>00044003778863</barcode>
+				<year>2010</year>
+				<explicitContent>false</explicitContent>
+				<artist id="140405">
+					<name>Joe Bonamassa</name>
+					<appearsAs>Joe Bonamassa</appearsAs>
+					<url>http://www.7digital.com/artists/joe-bonamassa/?partner=1401</url>
+				</artist>
+				<url>http://www.7digital.com/artists/joe-bonamassa/joe-bonamassa-live-from-the-royal-albert-hall-live-audio-version/?partner=1401</url>
+				<image>http://cdn.7static.com/static/img/sleeveart/00/007/030/0000703040_50.jpg</image>
+				<releaseDate>2010-01-19T00:00:00+00:00</releaseDate>
+				<addedDate>2010-01-15T17:03:47+00:00</addedDate>
+				<popularity>0.47</popularity>
+			</release>
+		</taggedItem>
+		<taggedItem>
+			<release id="1266934">
+				<title>A Tribute to Billie Holiday</title>
+				<version />
+				<type>Album</type>
+				<barcode>634457545427</barcode>
+				<year>2011</year>
+				<explicitContent>false</explicitContent>
+				<artist id="209">
+					<name>Various Artists</name>
+					<appearsAs>Various Artists</appearsAs>
+					<url>http://www.7digital.com/artists/various-artists/?partner=1401</url>
+				</artist>
+				<url>http://www.7digital.com/artists/various-artists/a-tribute-to-billie-holiday/?partner=1401</url>
+				<image>http://cdn.7static.com/static/img/sleeveart/00/012/669/0001266934_50.jpg</image>
+				<releaseDate>2011-07-05T00:00:00+01:00</releaseDate>
+				<addedDate>2011-05-30T14:14:23+01:00</addedDate>
+				<popularity>0.47</popularity>
+			</release>
+		</taggedItem>
+		<taggedItem>
+			<release id="198930">
+				<title>Dog House Music</title>
+				<version />
+				<type>Album</type>
+				<barcode>5051083012942</barcode>
+				<year>2007</year>
+				<explicitContent>false</explicitContent>
+				<artist id="88051">
+					<name>Seasick Steve</name>
+					<appearsAs>Seasick Steve</appearsAs>
+					<url>http://www.7digital.com/artists/seasick-steve/?partner=1401</url>
+				</artist>
+				<url>http://www.7digital.com/artists/seasick-steve/dog-house-music/?partner=1401</url>
+				<image>http://cdn.7static.com/static/img/sleeveart/00/001/989/0000198930_50.jpg</image>
+				<releaseDate>2007-12-31T00:00:00+00:00</releaseDate>
+				<addedDate>2009-01-20T11:55:53+00:00</addedDate>
+				<popularity>0.47</popularity>
+			</release>
+		</taggedItem>
+		<taggedItem>
+			<release id="1584467">
+				<title>Tank Full of Blues</title>
+				<version />
+				<type>Album</type>
+				<barcode>886788503175</barcode>
+				<year>2012</year>
+				<explicitContent>false</explicitContent>
+				<artist id="19257">
+					<name>Dion</name>
+					<appearsAs>Dion</appearsAs>
+					<url>http://www.7digital.com/artists/dion/?partner=1401</url>
+				</artist>
+				<url>http://www.7digital.com/artists/dion/tank-full-of-blues-1/?partner=1401</url>
+				<image>http://cdn.7static.com/static/img/sleeveart/00/015/844/0001584467_50.jpg</image>
+				<releaseDate>2012-02-13T00:00:00+00:00</releaseDate>
+				<addedDate>2012-02-09T23:47:09+00:00</addedDate>
+				<popularity>0.47</popularity>
+			</release>
+		</taggedItem>
+		<taggedItem>
+			<release id="1244257">
+				<title>One guitar master</title>
+				<version />
+				<type>Single</type>
+				<barcode>3149028004526</barcode>
+				<year>2011</year>
+				<explicitContent>false</explicitContent>
+				<artist id="40622">
+					<name>Lucky Peterson</name>
+					<appearsAs>Lucky Peterson</appearsAs>
+					<url>http://www.7digital.com/artists/lucky-peterson/?partner=1401</url>
+				</artist>
+				<url>http://www.7digital.com/artists/lucky-peterson/one-guitar-master/?partner=1401</url>
+				<image>http://cdn.7static.com/static/img/sleeveart/00/012/442/0001244257_50.jpg</image>
+				<releaseDate>2011-05-24T00:00:00+01:00</releaseDate>
+				<addedDate>2011-05-12T12:10:47+01:00</addedDate>
+				<popularity>0.47</popularity>
+			</release>
+		</taggedItem>
+		<taggedItem>
+			<release id="1742013">
+				<title>Bullet</title>
+				<version />
+				<type>Album</type>
+				<barcode>825646588299</barcode>
+				<year>2012</year>
+				<explicitContent>false</explicitContent>
+				<artist id="1295638">
+					<name>Renegade Creation</name>
+					<appearsAs>Renegade Creation</appearsAs>
+					<url>http://www.7digital.com/artists/renegade-creation/?partner=1401</url>
+				</artist>
+				<url>http://www.7digital.com/artists/renegade-creation/bullet/?partner=1401</url>
+				<image>http://cdn.7static.com/static/img/sleeveart/00/017/420/0001742013_50.jpg</image>
+				<releaseDate>2012-06-04T00:00:00+01:00</releaseDate>
+				<addedDate>2012-06-04T00:32:59+01:00</addedDate>
+				<popularity>0.47</popularity>
+			</release>
+		</taggedItem>
+		<taggedItem>
+			<release id="1574095">
+				<title>At Last - The Best Of Etta James</title>
+				<version />
+				<type>Album</type>
+				<barcode>00600753308431</barcode>
+				<year>2012</year>
+				<explicitContent>false</explicitContent>
+				<artist id="1821">
+					<name>Etta James</name>
+					<appearsAs>Etta James </appearsAs>
+					<url>http://www.7digital.com/artists/etta-james/?partner=1401</url>
+				</artist>
+				<url>http://www.7digital.com/artists/etta-james/at-last-the-best-of-etta-james/?partner=1401</url>
+				<image>http://cdn.7static.com/static/img/sleeveart/00/015/740/0001574095_50.jpg</image>
+				<releaseDate>2012-01-23T00:00:00+00:00</releaseDate>
+				<addedDate>2012-01-30T15:10:55+00:00</addedDate>
+				<popularity>0.46</popularity>
+			</release>
+		</taggedItem>
+		<taggedItem>
+			<release id="1663053">
+				<title>Frog in the Long Grass</title>
+				<version />
+				<type>Single</type>
+				<barcode>805201000152</barcode>
+				<year>2012</year>
+				<explicitContent>false</explicitContent>
+				<artist id="1264447">
+					<name>Eddie Martin Big Band</name>
+					<appearsAs>Eddie Martin Big Band</appearsAs>
+					<url>http://www.7digital.com/artists/eddie-martin-big-band/?partner=1401</url>
+				</artist>
+				<url>http://www.7digital.com/artists/eddie-martin-big-band/frog-in-the-long-grass/?partner=1401</url>
+				<image>http://cdn.7static.com/static/img/sleeveart/00/016/630/0001663053_50.jpg</image>
+				<releaseDate>2012-04-18T00:00:00+01:00</releaseDate>
+				<addedDate>2012-04-05T12:22:23+01:00</addedDate>
+				<popularity>0.46</popularity>
+			</release>
+		</taggedItem>
+		<taggedItem>
+			<release id="163920">
+				<title>Complete Clapton</title>
+				<version />
+				<type>Album</type>
+				<barcode>093624992455</barcode>
+				<year>2007</year>
+				<explicitContent>false</explicitContent>
+				<artist id="1481">
+					<name>Eric Clapton</name>
+					<appearsAs>Eric Clapton</appearsAs>
+					<url>http://www.7digital.com/artists/eric-clapton/?partner=1401</url>
+				</artist>
+				<url>http://www.7digital.com/artists/eric-clapton/complete-clapton-1/?partner=1401</url>
+				<image>http://cdn.7static.com/static/img/sleeveart/00/001/639/0000163920_50.jpg</image>
+				<releaseDate>2007-10-12T00:00:00+01:00</releaseDate>
+				<addedDate>2008-10-20T22:25:56+01:00</addedDate>
+				<popularity>0.46</popularity>
+			</release>
+		</taggedItem>
+		<taggedItem>
+			<release id="1576542">
+				<title>Late Night Morning</title>
+				<version />
+				<type>Single</type>
+				<barcode>0885014168416</barcode>
+				<year>2012</year>
+				<explicitContent>false</explicitContent>
+				<artist id="1217149">
+					<name>Jesse Levine</name>
+					<appearsAs>Jesse Levine</appearsAs>
+					<url>http://www.7digital.com/artists/jesse-levine/?partner=1401</url>
+				</artist>
+				<url>http://www.7digital.com/artists/jesse-levine/late-night-morning/?partner=1401</url>
+				<image>http://cdn.7static.com/static/img/sleeveart/00/015/765/0001576542_50.jpg</image>
+				<releaseDate>2012-02-29T00:00:00+00:00</releaseDate>
+				<addedDate>2012-01-30T14:39:17+00:00</addedDate>
+				<popularity>0.46</popularity>
+			</release>
+		</taggedItem>
+		<taggedItem>
+			<release id="1284486">
+				<title>At Last The Very Best Of</title>
+				<version />
+				<type>Album</type>
+				<barcode>0842108084977</barcode>
+				<year>2011</year>
+				<explicitContent>false</explicitContent>
+				<artist id="1821">
+					<name>Etta James</name>
+					<appearsAs>Etta James </appearsAs>
+					<url>http://www.7digital.com/artists/etta-james/?partner=1401</url>
+				</artist>
+				<url>http://www.7digital.com/artists/etta-james/at-last-the-very-best-of/?partner=1401</url>
+				<image>http://cdn.7static.com/static/img/sleeveart/00/012/844/0001284486_50.jpg</image>
+				<releaseDate>2011-05-19T00:00:00+01:00</releaseDate>
+				<addedDate>2011-06-15T14:40:13+01:00</addedDate>
+				<popularity>0.46</popularity>
+			</release>
+		</taggedItem>
+		<taggedItem>
+			<release id="1714691">
+				<title>100 Essential Hits - The Very Best Of</title>
+				<version />
+				<type>Album</type>
+				<barcode>5060209953540</barcode>
+				<year>2012</year>
+				<explicitContent>false</explicitContent>
+				<artist id="131">
+					<name>John Lee Hooker</name>
+					<appearsAs>John Lee Hooker</appearsAs>
+					<url>http://www.7digital.com/artists/john-lee-hooker/?partner=1401</url>
+				</artist>
+				<url>http://www.7digital.com/artists/john-lee-hooker/100-essential-hits-the-very-best-of/?partner=1401</url>
+				<image>http://cdn.7static.com/static/img/sleeveart/00/017/146/0001714691_50.jpg</image>
+				<releaseDate>2012-05-25T00:00:00+01:00</releaseDate>
+				<addedDate>2012-05-16T16:44:35+01:00</addedDate>
+				<popularity>0.46</popularity>
+			</release>
+		</taggedItem>
+		<taggedItem>
+			<release id="1557536">
+				<title>The Very Best of Dr. John</title>
+				<version />
+				<type>Album</type>
+				<barcode>886788296107</barcode>
+				<year>2011</year>
+				<explicitContent>false</explicitContent>
+				<artist id="7135">
+					<name>Dr John</name>
+					<appearsAs>Dr John</appearsAs>
+					<url>http://www.7digital.com/artists/dr-john/?partner=1401</url>
+				</artist>
+				<url>http://www.7digital.com/artists/dr-john/the-very-best-of-dr-john/?partner=1401</url>
+				<image>http://cdn.7static.com/static/img/sleeveart/00/015/575/0001557536_50.jpg</image>
+				<releaseDate>2011-12-13T00:00:00+00:00</releaseDate>
+				<addedDate>2012-01-17T19:14:56+00:00</addedDate>
+				<popularity>0.45</popularity>
+			</release>
+		</taggedItem>
+		<taggedItem>
+			<release id="923845">
+				<title>Hide Away</title>
+				<version />
+				<type>Album</type>
+				<barcode>8034003292553</barcode>
+				<year>2012</year>
+				<explicitContent>false</explicitContent>
+				<artist id="10221">
+					<name>Freddie King</name>
+					<appearsAs>Freddie King</appearsAs>
+					<url>http://www.7digital.com/artists/freddie-king/?partner=1401</url>
+				</artist>
+				<url>http://www.7digital.com/artists/freddie-king/hide-away/?partner=1401</url>
+				<image>http://cdn.7static.com/static/img/sleeveart/00/009/238/0000923845_50.jpg</image>
+				<releaseDate>2012-04-26T00:00:00+01:00</releaseDate>
+				<addedDate>2010-07-26T12:03:23+01:00</addedDate>
+				<popularity>0.45</popularity>
+			</release>
+		</taggedItem>
+		<taggedItem>
+			<release id="1493171">
+				<title>Mr Hound Dog's In Town / Miss Fanny Brown</title>
+				<version />
+				<type>Single</type>
+				<barcode>5050580558755</barcode>
+				<year>2011</year>
+				<explicitContent>false</explicitContent>
+				<artist id="19078">
+					<name>Roy Brown</name>
+					<appearsAs>Roy Brown</appearsAs>
+					<url>http://www.7digital.com/artists/roy-brown/?partner=1401</url>
+				</artist>
+				<url>http://www.7digital.com/artists/roy-brown/mr-hound-dogs-in-town-miss-fanny-brown/?partner=1401</url>
+				<image>http://cdn.7static.com/static/img/sleeveart/00/014/931/0001493171_50.jpg</image>
+				<releaseDate>2011-12-19T00:00:00+00:00</releaseDate>
+				<addedDate>2011-12-21T11:01:22+00:00</addedDate>
+				<popularity>0.45</popularity>
+			</release>
+		</taggedItem>
+		<taggedItem>
+			<release id="1265065">
+				<title>At Last Etta James</title>
+				<version />
+				<type>Album</type>
+				<barcode>885686837610</barcode>
+				<year>2011</year>
+				<explicitContent>false</explicitContent>
+				<artist id="1821">
+					<name>Etta James</name>
+					<appearsAs>Etta James </appearsAs>
+					<url>http://www.7digital.com/artists/etta-james/?partner=1401</url>
+				</artist>
+				<url>http://www.7digital.com/artists/etta-james/at-last-etta-james/?partner=1401</url>
+				<image>http://cdn.7static.com/static/img/sleeveart/00/012/650/0001265065_50.jpg</image>
+				<releaseDate>2011-05-06T00:00:00+01:00</releaseDate>
+				<addedDate>2011-05-27T19:29:50+01:00</addedDate>
+				<popularity>0.45</popularity>
+			</release>
+		</taggedItem>
+		<taggedItem>
+			<release id="1373185">
+				<title>B.B King Greatest Hits</title>
+				<version />
+				<type>Album</type>
+				<barcode>4050215004733</barcode>
+				<year>2011</year>
+				<explicitContent>false</explicitContent>
+				<artist id="136">
+					<name>B.B. King</name>
+					<appearsAs>B.B. King</appearsAs>
+					<url>http://www.7digital.com/artists/b-b-king/?partner=1401</url>
+				</artist>
+				<url>http://www.7digital.com/artists/b-b-king/b-b-king-greatest-hits/?partner=1401</url>
+				<image>http://cdn.7static.com/static/img/sleeveart/00/013/731/0001373185_50.jpg</image>
+				<releaseDate>2011-08-29T00:00:00+01:00</releaseDate>
+				<addedDate>2011-08-23T15:48:52+01:00</addedDate>
+				<popularity>0.45</popularity>
+			</release>
+		</taggedItem>
+		<taggedItem>
+			<release id="1333843">
+				<title>How I Go</title>
+				<version />
+				<type>Album</type>
+				<barcode>016861772307</barcode>
+				<year>2012</year>
+				<explicitContent>false</explicitContent>
+				<artist id="4667">
+					<name>Kenny Wayne Shepherd Band</name>
+					<appearsAs>Kenny Wayne Shepherd Band</appearsAs>
+					<url>http://www.7digital.com/artists/kenny-wayne-shepherd-band/?partner=1401</url>
+				</artist>
+				<url>http://www.7digital.com/artists/kenny-wayne-shepherd-band/how-i-go/?partner=1401</url>
+				<image>http://cdn.7static.com/static/img/sleeveart/00/013/338/0001333843_50.jpg</image>
+				<releaseDate>2012-03-07T00:00:00+00:00</releaseDate>
+				<addedDate>2011-07-21T12:24:22+01:00</addedDate>
+				<popularity>0.45</popularity>
+			</release>
+		</taggedItem>
+		<taggedItem>
+			<release id="1025366">
+				<title>Unforgetable Nat King Cole</title>
+				<version />
+				<type>Album</type>
+				<barcode>3661585548775</barcode>
+				<year>2010</year>
+				<explicitContent>false</explicitContent>
+				<artist id="10474">
+					<name>Nat King Cole</name>
+					<appearsAs>Nat King Cole</appearsAs>
+					<url>http://www.7digital.com/artists/nat-king-cole-(3)/?partner=1401</url>
+				</artist>
+				<url>http://www.7digital.com/artists/nat-king-cole-(3)/unforgetable-nat-king-cole/?partner=1401</url>
+				<image>http://cdn.7static.com/static/img/sleeveart/00/010/253/0001025366_50.jpg</image>
+				<releaseDate>2010-10-18T00:00:00+01:00</releaseDate>
+				<addedDate>2010-11-08T13:48:46+00:00</addedDate>
+				<popularity>0.45</popularity>
+			</release>
+		</taggedItem>
+		<taggedItem>
+			<release id="1618638">
+				<title>Dreamer in Concert</title>
+				<version />
+				<type>Album</type>
+				<barcode>5099964477558</barcode>
+				<year>2012</year>
+				<explicitContent>false</explicitContent>
+				<artist id="45222">
+					<name>Stacey Kent</name>
+					<appearsAs>Stacey Kent</appearsAs>
+					<url>http://www.7digital.com/artists/stacey-kent/?partner=1401</url>
+				</artist>
+				<url>http://www.7digital.com/artists/stacey-kent/dreamer-in-concert-2/?partner=1401</url>
+				<image>http://cdn.7static.com/static/img/sleeveart/00/016/186/0001618638_50.jpg</image>
+				<releaseDate>2012-03-19T00:00:00+00:00</releaseDate>
+				<addedDate>2012-02-29T18:35:59+00:00</addedDate>
+				<popularity>0.45</popularity>
+			</release>
+		</taggedItem>
+		<taggedItem>
+			<release id="617510">
+				<title>Man From Another Time</title>
+				<version />
+				<type>Album</type>
+				<barcode>825646855568</barcode>
+				<year>2012</year>
+				<explicitContent>false</explicitContent>
+				<artist id="88051">
+					<name>Seasick Steve</name>
+					<appearsAs>Seasick Steve</appearsAs>
+					<url>http://www.7digital.com/artists/seasick-steve/?partner=1401</url>
+				</artist>
+				<url>http://www.7digital.com/artists/seasick-steve/man-from-another-time/?partner=1401</url>
+				<image>http://cdn.7static.com/static/img/sleeveart/00/006/175/0000617510_50.jpg</image>
+				<releaseDate>2012-01-03T00:00:00+00:00</releaseDate>
+				<addedDate>2009-10-16T12:13:46+01:00</addedDate>
+				<popularity>0.45</popularity>
+			</release>
+		</taggedItem>
+		<taggedItem>
+			<release id="1287274">
+				<title>John Lee Hooker - Boom Boom 80 Essential Tracks</title>
+				<version />
+				<type>Album</type>
+				<barcode>881034792464</barcode>
+				<year>2011</year>
+				<explicitContent>false</explicitContent>
+				<artist id="131">
+					<name>John Lee Hooker</name>
+					<appearsAs>John Lee Hooker</appearsAs>
+					<url>http://www.7digital.com/artists/john-lee-hooker/?partner=1401</url>
+				</artist>
+				<url>http://www.7digital.com/artists/john-lee-hooker/john-lee-hooker-boom-boom-80-essential-tracks/?partner=1401</url>
+				<image>http://cdn.7static.com/static/img/sleeveart/00/012/872/0001287274_50.jpg</image>
+				<releaseDate>2011-06-23T00:00:00+01:00</releaseDate>
+				<addedDate>2011-06-24T16:59:27+01:00</addedDate>
+				<popularity>0.45</popularity>
+			</release>
+		</taggedItem>
+		<taggedItem>
+			<release id="1060930">
+				<title>X2 (Texas Flood/In The Beginning)</title>
+				<version />
+				<type>Album</type>
+				<barcode>884977875485</barcode>
+				<year>2010</year>
+				<explicitContent>false</explicitContent>
+				<artist id="48813">
+					<name>Stevie Ray Vaughan</name>
+					<appearsAs>Stevie Ray Vaughan</appearsAs>
+					<url>http://www.7digital.com/artists/stevie-ray-vaughan/?partner=1401</url>
+				</artist>
+				<url>http://www.7digital.com/artists/stevie-ray-vaughan/x2-texas-flood-in-the-beginning/?partner=1401</url>
+				<image>http://cdn.7static.com/static/img/sleeveart/00/010/609/0001060930_50.jpg</image>
+				<releaseDate>2010-12-27T00:00:00+00:00</releaseDate>
+				<addedDate>2010-12-20T07:01:03+00:00</addedDate>
+				<popularity>0.45</popularity>
+			</release>
+		</taggedItem>
+		<taggedItem>
+			<release id="1654820">
+				<title>Here I Am</title>
+				<version />
+				<type>Album</type>
+				<barcode>886788765573</barcode>
+				<year>2012</year>
+				<explicitContent>false</explicitContent>
+				<artist id="583739">
+					<name>Oli Brown</name>
+					<appearsAs>Oli Brown</appearsAs>
+					<url>http://www.7digital.com/artists/oli-brown/?partner=1401</url>
+				</artist>
+				<url>http://www.7digital.com/artists/oli-brown/here-i-am/?partner=1401</url>
+				<image>http://cdn.7static.com/static/img/sleeveart/00/016/548/0001654820_50.jpg</image>
+				<releaseDate>2012-04-16T00:00:00+01:00</releaseDate>
+				<addedDate>2012-04-02T15:27:09+01:00</addedDate>
+				<popularity>0.45</popularity>
+			</release>
+		</taggedItem>
+		<taggedItem>
+			<release id="1755074">
+				<title>100% American Made Blues Classics</title>
+				<version />
+				<type>Album</type>
+				<barcode>666496978829</barcode>
+				<year>2012</year>
+				<explicitContent>false</explicitContent>
+				<artist id="209">
+					<name>Various Artists</name>
+					<appearsAs>Various Artists</appearsAs>
+					<url>http://www.7digital.com/artists/various-artists/?partner=1401</url>
+				</artist>
+				<url>http://www.7digital.com/artists/various-artists/100-american-made-blues-classics/?partner=1401</url>
+				<image>http://cdn.7static.com/static/img/sleeveart/00/017/550/0001755074_50.jpg</image>
+				<releaseDate>2012-06-12T00:00:00+01:00</releaseDate>
+				<addedDate>2012-06-12T17:00:40+01:00</addedDate>
+				<popularity>0.45</popularity>
+			</release>
+		</taggedItem>
+		<taggedItem>
+			<release id="1319321">
+				<title>Delta Mudslide Blues</title>
+				<version />
+				<type>Album</type>
+				<barcode>5060268880955</barcode>
+				<year>2011</year>
+				<explicitContent>false</explicitContent>
+				<artist id="168">
+					<name>Muddy Waters</name>
+					<appearsAs>Muddy Waters</appearsAs>
+					<url>http://www.7digital.com/artists/muddy-waters/?partner=1401</url>
+				</artist>
+				<url>http://www.7digital.com/artists/muddy-waters/delta-mudslide-blues/?partner=1401</url>
+				<image>http://cdn.7static.com/static/img/sleeveart/00/013/193/0001319321_50.jpg</image>
+				<releaseDate>2011-07-11T00:00:00+01:00</releaseDate>
+				<addedDate>2011-07-13T14:13:24+01:00</addedDate>
+				<popularity>0.45</popularity>
+			</release>
+		</taggedItem>
+		<taggedItem>
+			<release id="1548364">
+				<title>Irish Tour '74</title>
+				<version />
+				<type>Album</type>
+				<barcode>886443288461</barcode>
+				<year>2012</year>
+				<explicitContent>false</explicitContent>
+				<artist id="27941">
+					<name>Rory Gallagher</name>
+					<appearsAs>Rory Gallagher</appearsAs>
+					<url>http://www.7digital.com/artists/rory-gallagher/?partner=1401</url>
+				</artist>
+				<url>http://www.7digital.com/artists/rory-gallagher/irish-tour-74/?partner=1401</url>
+				<image>http://cdn.7static.com/static/img/sleeveart/00/015/483/0001548364_50.jpg</image>
+				<releaseDate>2012-01-16T00:00:00+00:00</releaseDate>
+				<addedDate>2012-01-10T05:03:48+00:00</addedDate>
+				<popularity>0.44</popularity>
+			</release>
+		</taggedItem>
+		<taggedItem>
+			<release id="1579206">
+				<title>Simply Memories</title>
+				<version />
+				<type>Album</type>
+				<barcode>0698458244482</barcode>
+				<year>2012</year>
+				<explicitContent>false</explicitContent>
+				<artist id="209">
+					<name>Various Artists</name>
+					<appearsAs>Various Artists</appearsAs>
+					<url>http://www.7digital.com/artists/various-artists/?partner=1401</url>
+				</artist>
+				<url>http://www.7digital.com/artists/various-artists/simply-memories/?partner=1401</url>
+				<image>http://cdn.7static.com/static/img/sleeveart/00/015/792/0001579206_50.jpg</image>
+				<releaseDate>2012-02-06T00:00:00+00:00</releaseDate>
+				<addedDate>2012-01-31T13:48:24+00:00</addedDate>
+				<popularity>0.44</popularity>
+			</release>
+		</taggedItem>
+		<taggedItem>
+			<release id="220407">
+				<title>b-sides and rarities</title>
+				<version />
+				<type>Album</type>
+				<barcode>744626995820</barcode>
+				<year>2007</year>
+				<explicitContent>false</explicitContent>
+				<artist id="94744">
+					<name>Cake</name>
+					<appearsAs>Cake</appearsAs>
+					<url>http://www.7digital.com/artists/cake/?partner=1401</url>
+				</artist>
+				<url>http://www.7digital.com/artists/cake/b-sides-and-rarities/?partner=1401</url>
+				<image>http://cdn.7static.com/static/img/sleeveart/00/002/204/0000220407_50.jpg</image>
+				<releaseDate>2007-11-13T00:00:00+00:00</releaseDate>
+				<addedDate>2008-08-04T17:33:07+01:00</addedDate>
+				<popularity>0.44</popularity>
+			</release>
+		</taggedItem>
+		<taggedItem>
+			<release id="602520">
+				<title>Sloe Gin</title>
+				<version />
+				<type>Album</type>
+				<barcode>00805386028323</barcode>
+				<year>2009</year>
+				<explicitContent>false</explicitContent>
+				<artist id="140405">
+					<name>Joe Bonamassa</name>
+					<appearsAs>Joe Bonamassa</appearsAs>
+					<url>http://www.7digital.com/artists/joe-bonamassa/?partner=1401</url>
+				</artist>
+				<url>http://www.7digital.com/artists/joe-bonamassa/sloe-gin-1/?partner=1401</url>
+				<image>http://cdn.7static.com/static/img/sleeveart/00/006/025/0000602520_50.jpg</image>
+				<releaseDate>2009-06-09T00:00:00+01:00</releaseDate>
+				<addedDate>2009-10-16T12:05:38+01:00</addedDate>
+				<popularity>0.44</popularity>
+			</release>
+		</taggedItem>
+		<taggedItem>
+			<release id="1712200">
+				<title>Live at Bluesville</title>
+				<version />
+				<type>Album</type>
+				<barcode>741360352162</barcode>
+				<year>2012</year>
+				<explicitContent>false</explicitContent>
+				<artist id="333181">
+					<name>Suzie Vinnick</name>
+					<appearsAs>Suzie Vinnick</appearsAs>
+					<url>http://www.7digital.com/artists/suzie-vinnick/?partner=1401</url>
+				</artist>
+				<url>http://www.7digital.com/artists/suzie-vinnick/live-at-bluesville/?partner=1401</url>
+				<image>http://cdn.7static.com/static/img/sleeveart/00/017/122/0001712200_50.jpg</image>
+				<releaseDate>2012-05-22T00:00:00+01:00</releaseDate>
+				<addedDate>2012-05-15T15:24:12+01:00</addedDate>
+				<popularity>0.44</popularity>
+			</release>
+		</taggedItem>
+		<taggedItem>
+			<release id="1279342">
+				<title>Elvis Presley : 55 Hits from 1954 Till 1960 (Remastered - Part 1 and 2)</title>
+				<version />
+				<type>Album</type>
+				<barcode>3661585918738</barcode>
+				<year>2011</year>
+				<explicitContent>false</explicitContent>
+				<artist id="2200">
+					<name>Elvis Presley</name>
+					<appearsAs>Elvis Presley </appearsAs>
+					<url>http://www.7digital.com/artists/elvis-presley-(2)/?partner=1401</url>
+				</artist>
+				<url>http://www.7digital.com/artists/elvis-presley-(2)/elvis-presley-55-hits-from-1954-till-1960-remastered-part-1-and-2/?partner=1401</url>
+				<image>http://cdn.7static.com/static/img/sleeveart/00/012/793/0001279342_50.jpg</image>
+				<releaseDate>2011-06-27T00:00:00+01:00</releaseDate>
+				<addedDate>2011-06-10T16:30:13+01:00</addedDate>
+				<popularity>0.44</popularity>
+			</release>
+		</taggedItem>
+		<taggedItem>
+			<release id="1002791">
+				<title>Me And Mr. Johnson</title>
+				<version />
+				<type>Album</type>
+				<barcode>093624960324</barcode>
+				<year>2011</year>
+				<explicitContent>false</explicitContent>
+				<artist id="1481">
+					<name>Eric Clapton</name>
+					<appearsAs>Eric Clapton</appearsAs>
+					<url>http://www.7digital.com/artists/eric-clapton/?partner=1401</url>
+				</artist>
+				<url>http://www.7digital.com/artists/eric-clapton/me-and-mr-johnson-1/?partner=1401</url>
+				<image>http://cdn.7static.com/static/img/sleeveart/00/010/027/0001002791_50.jpg</image>
+				<releaseDate>2011-06-09T00:00:00+01:00</releaseDate>
+				<addedDate>2011-02-28T12:08:12+00:00</addedDate>
+				<popularity>0.44</popularity>
+			</release>
+		</taggedItem>
+		<taggedItem>
+			<release id="1605546">
+				<title>Barebones</title>
+				<version />
+				<type>Single</type>
+				<barcode>5060183780293</barcode>
+				<year>2012</year>
+				<explicitContent>false</explicitContent>
+				<artist id="1231223">
+					<name>Martin Harley Band</name>
+					<appearsAs>Martin Harley Band</appearsAs>
+					<url>http://www.7digital.com/artists/martin-harley-band/?partner=1401</url>
+				</artist>
+				<url>http://www.7digital.com/artists/martin-harley-band/barebones/?partner=1401</url>
+				<image>http://cdn.7static.com/static/img/sleeveart/00/016/055/0001605546_50.jpg</image>
+				<releaseDate>2012-04-08T00:00:00+01:00</releaseDate>
+				<addedDate>2012-02-15T17:32:23+00:00</addedDate>
+				<popularity>0.44</popularity>
+			</release>
+		</taggedItem>
+		<taggedItem>
+			<release id="1733961">
+				<title>Volume 2</title>
+				<version />
+				<type>Album</type>
+				<barcode>634457415225</barcode>
+				<year>2012</year>
+				<explicitContent>false</explicitContent>
+				<artist id="1303617">
+					<name>The Bluesmasters</name>
+					<appearsAs>Bluesmasters, The</appearsAs>
+					<url>http://www.7digital.com/artists/the-bluesmasters/?partner=1401</url>
+				</artist>
+				<url>http://www.7digital.com/artists/the-bluesmasters/volume-2/?partner=1401</url>
+				<image>http://cdn.7static.com/static/img/sleeveart/00/017/339/0001733961_50.jpg</image>
+				<releaseDate>2012-06-12T00:00:00+01:00</releaseDate>
+				<addedDate>2012-05-28T00:31:59+01:00</addedDate>
+				<popularity>0.44</popularity>
+			</release>
+		</taggedItem>
+		<taggedItem>
+			<release id="1700289">
+				<title>Melon Man</title>
+				<version />
+				<type>Single</type>
+				<barcode>5051565303094</barcode>
+				<year>2012</year>
+				<explicitContent>false</explicitContent>
+				<artist id="809078">
+					<name>24Pesos</name>
+					<appearsAs>24Pesos</appearsAs>
+					<url>http://www.7digital.com/artists/24pesos/?partner=1401</url>
+				</artist>
+				<url>http://www.7digital.com/artists/24pesos/melon-man/?partner=1401</url>
+				<image>http://cdn.7static.com/static/img/sleeveart/00/017/002/0001700289_50.jpg</image>
+				<releaseDate>2012-05-28T00:00:00+01:00</releaseDate>
+				<addedDate>2012-05-03T12:44:09+01:00</addedDate>
+				<popularity>0.44</popularity>
+			</release>
+		</taggedItem>
+		<taggedItem>
+			<release id="1619961">
+				<title>Robert Johnson Collection</title>
+				<version />
+				<type>Album</type>
+				<barcode>3610150272386</barcode>
+				<year>2012</year>
+				<explicitContent>false</explicitContent>
+				<artist id="8581">
+					<name>Robert Johnson</name>
+					<appearsAs>Robert Johnson</appearsAs>
+					<url>http://www.7digital.com/artists/robert-johnson/?partner=1401</url>
+				</artist>
+				<url>http://www.7digital.com/artists/robert-johnson/robert-johnson-collection/?partner=1401</url>
+				<image>http://cdn.7static.com/static/img/sleeveart/00/016/199/0001619961_50.jpg</image>
+				<releaseDate>2012-02-22T00:00:00+00:00</releaseDate>
+				<addedDate>2012-03-01T13:13:26+00:00</addedDate>
+				<popularity>0.44</popularity>
+			</release>
+		</taggedItem>
+	</taggedResults>
+</response>
