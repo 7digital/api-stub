@@ -1,0 +1,1209 @@
+<?xml version="1.0" encoding="utf-8"?>
+<response status="ok" version="1.2" xsi:noNamespaceSchemaLocation="http://api.7digital.com/1.2/static/7digitalAPI.xsd" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<taggedResults>
+		<page>1</page>
+		<pageSize>60</pageSize>
+		<totalItems>223307</totalItems>
+		<type>release</type>
+		<taggedItem>
+			<release id="1076864">
+				<title>21</title>
+				<version />
+				<type>Album</type>
+				<barcode>634904052065</barcode>
+				<year>2011</year>
+				<explicitContent>true</explicitContent>
+				<artist id="142111">
+					<name>Adele</name>
+					<appearsAs>Adele</appearsAs>
+					<url>http://www.7digital.com/artists/adele/?partner=712</url>
+				</artist>
+				<url>http://www.7digital.com/artists/adele/21/?partner=712</url>
+				<image>http://cdn.7static.com/static/img/sleeveart/00/010/768/0001076864_50.jpg</image>
+				<releaseDate>2011-01-24T00:00:00+00:00</releaseDate>
+				<addedDate>2010-12-22T15:46:20+00:00</addedDate>
+				<popularity>0.94</popularity>
+			</release>
+		</taggedItem>
+		<taggedItem>
+			<release id="1660992">
+				<title>Call Me Maybe</title>
+				<version />
+				<type>Single</type>
+				<barcode>00602537025169</barcode>
+				<year>2012</year>
+				<explicitContent>false</explicitContent>
+				<artist id="369884">
+					<name>Carly Rae Jepsen</name>
+					<appearsAs>Carly Rae Jepsen</appearsAs>
+					<url>http://www.7digital.com/artists/carly-rae-jepsen/?partner=712</url>
+				</artist>
+				<url>http://www.7digital.com/artists/carly-rae-jepsen/call-me-maybe-2/?partner=712</url>
+				<image>http://cdn.7static.com/static/img/sleeveart/00/016/609/0001660992_50.jpg</image>
+				<releaseDate>2012-04-01T00:00:00+01:00</releaseDate>
+				<addedDate>2012-04-03T12:16:06+01:00</addedDate>
+				<popularity>0.91</popularity>
+			</release>
+		</taggedItem>
+		<taggedItem>
+			<release id="1599320">
+				<title>MDNA</title>
+				<version>Deluxe Version</version>
+				<type>Album</type>
+				<barcode>00602527968162</barcode>
+				<year>2012</year>
+				<explicitContent>true</explicitContent>
+				<artist id="6051">
+					<name>Madonna</name>
+					<appearsAs>Madonna</appearsAs>
+					<url>http://www.7digital.com/artists/madonna/?partner=712</url>
+				</artist>
+				<url>http://www.7digital.com/artists/madonna/mdna-deluxe-edition/?partner=712</url>
+				<image>http://cdn.7static.com/static/img/sleeveart/00/015/993/0001599320_50.jpg</image>
+				<releaseDate>2012-03-26T00:00:00+01:00</releaseDate>
+				<addedDate>2012-02-09T17:05:38+00:00</addedDate>
+				<popularity>0.88</popularity>
+			</release>
+		</taggedItem>
+		<taggedItem>
+			<release id="1352391">
+				<title>Moves Like Jagger</title>
+				<version />
+				<type>Single</type>
+				<barcode>00602527812465</barcode>
+				<year>2011</year>
+				<explicitContent>false</explicitContent>
+				<artist id="222">
+					<name>Maroon 5</name>
+					<appearsAs>Maroon 5</appearsAs>
+					<url>http://www.7digital.com/artists/maroon-5/?partner=712</url>
+				</artist>
+				<url>http://www.7digital.com/artists/maroon-5/moves-like-jagger-1/?partner=712</url>
+				<image>http://cdn.7static.com/static/img/sleeveart/00/013/523/0001352391_50.jpg</image>
+				<releaseDate>2011-08-14T00:00:00+01:00</releaseDate>
+				<addedDate>2011-08-08T15:09:43+01:00</addedDate>
+				<popularity>0.87</popularity>
+			</release>
+		</taggedItem>
+		<taggedItem>
+			<release id="1571214">
+				<title>Born To Die</title>
+				<version />
+				<type>Album</type>
+				<barcode>00602527870915</barcode>
+				<year>2012</year>
+				<explicitContent>false</explicitContent>
+				<artist id="1107056">
+					<name>Lana Del Rey</name>
+					<appearsAs>Lana Del Rey</appearsAs>
+					<url>http://www.7digital.com/artists/lana-del-rey/?partner=712</url>
+				</artist>
+				<url>http://www.7digital.com/artists/lana-del-rey/born-to-die-3/?partner=712</url>
+				<image>http://cdn.7static.com/static/img/sleeveart/00/015/712/0001571214_50.jpg</image>
+				<releaseDate>2012-01-30T00:00:00+00:00</releaseDate>
+				<addedDate>2012-01-25T15:09:48+00:00</addedDate>
+				<popularity>0.85</popularity>
+			</release>
+		</taggedItem>
+		<taggedItem>
+			<release id="1648180">
+				<title>Now That's What I Call Music! 81</title>
+				<version />
+				<type>Album</type>
+				<barcode>5099960296351</barcode>
+				<year>2012</year>
+				<explicitContent>false</explicitContent>
+				<artist id="209">
+					<name>Various Artists</name>
+					<appearsAs>Various Artists</appearsAs>
+					<url>http://www.7digital.com/artists/various-artists/?partner=712</url>
+				</artist>
+				<url>http://www.7digital.com/artists/various-artists/now-thats-what-i-call-music-81/?partner=712</url>
+				<image>http://cdn.7static.com/static/img/sleeveart/00/016/481/0001648180_50.jpg</image>
+				<releaseDate>2012-04-02T00:00:00+01:00</releaseDate>
+				<addedDate>2012-03-22T17:23:38+00:00</addedDate>
+				<popularity>0.83</popularity>
+			</release>
+		</taggedItem>
+		<taggedItem>
+			<release id="1478300">
+				<title>Talk That Talk</title>
+				<version>Explicit Version</version>
+				<type>Album</type>
+				<barcode>00602527878409</barcode>
+				<year>2011</year>
+				<explicitContent>true</explicitContent>
+				<artist id="10653">
+					<name>Rihanna</name>
+					<appearsAs>Rihanna</appearsAs>
+					<url>http://www.7digital.com/artists/rihanna/?partner=712</url>
+				</artist>
+				<url>http://www.7digital.com/artists/rihanna/talk-that-talk/?partner=712</url>
+				<image>http://cdn.7static.com/static/img/sleeveart/00/014/783/0001478300_50.jpg</image>
+				<releaseDate>2011-11-21T00:00:00+00:00</releaseDate>
+				<addedDate>2011-11-14T15:04:54+00:00</addedDate>
+				<popularity>0.81</popularity>
+			</release>
+		</taggedItem>
+		<taggedItem>
+			<release id="1611327">
+				<title>Now That's What I Call Running!</title>
+				<version />
+				<type>Album</type>
+				<barcode>5099955907354</barcode>
+				<year>2012</year>
+				<explicitContent>false</explicitContent>
+				<artist id="209">
+					<name>Various Artists</name>
+					<appearsAs>Various Artists</appearsAs>
+					<url>http://www.7digital.com/artists/various-artists/?partner=712</url>
+				</artist>
+				<url>http://www.7digital.com/artists/various-artists/now-thats-what-i-call-running/?partner=712</url>
+				<image>http://cdn.7static.com/static/img/sleeveart/00/016/113/0001611327_50.jpg</image>
+				<releaseDate>2012-03-05T00:00:00+00:00</releaseDate>
+				<addedDate>2012-02-23T18:35:13+00:00</addedDate>
+				<popularity>0.8</popularity>
+			</release>
+		</taggedItem>
+		<taggedItem>
+			<release id="1223744">
+				<title>Born This Way</title>
+				<version>International Standard Version</version>
+				<type>Album</type>
+				<barcode>00602527718507</barcode>
+				<year>2011</year>
+				<explicitContent>false</explicitContent>
+				<artist id="237973">
+					<name>Lady GaGa</name>
+					<appearsAs>Lady GaGa</appearsAs>
+					<url>http://www.7digital.com/artists/lady-gaga/?partner=712</url>
+				</artist>
+				<url>http://www.7digital.com/artists/lady-gaga/born-this-way-4/?partner=712</url>
+				<image>http://cdn.7static.com/static/img/sleeveart/00/012/237/0001223744_50.jpg</image>
+				<releaseDate>2011-05-23T00:00:00+01:00</releaseDate>
+				<addedDate>2011-04-19T13:30:06+01:00</addedDate>
+				<popularity>0.78</popularity>
+			</release>
+		</taggedItem>
+		<taggedItem>
+			<release id="1549483">
+				<title>2012 GRAMMY Nominees</title>
+				<version />
+				<type>Album</type>
+				<barcode>00602527908755</barcode>
+				<year>2012</year>
+				<explicitContent>false</explicitContent>
+				<artist id="209">
+					<name>Various Artists</name>
+					<appearsAs>Various Artists</appearsAs>
+					<url>http://www.7digital.com/artists/various-artists/?partner=712</url>
+				</artist>
+				<url>http://www.7digital.com/artists/various-artists/2012-grammy-nominees/?partner=712</url>
+				<image>http://cdn.7static.com/static/img/sleeveart/00/015/494/0001549483_50.jpg</image>
+				<releaseDate>2012-01-25T00:00:00+00:00</releaseDate>
+				<addedDate>2012-01-09T15:03:05+00:00</addedDate>
+				<popularity>0.78</popularity>
+			</release>
+		</taggedItem>
+		<taggedItem>
+			<release id="1599528">
+				<title>MDNA</title>
+				<version />
+				<type>Album</type>
+				<barcode>00602527968155</barcode>
+				<year>2012</year>
+				<explicitContent>true</explicitContent>
+				<artist id="6051">
+					<name>Madonna</name>
+					<appearsAs>Madonna</appearsAs>
+					<url>http://www.7digital.com/artists/madonna/?partner=712</url>
+				</artist>
+				<url>http://www.7digital.com/artists/madonna/mdna-1/?partner=712</url>
+				<image>http://cdn.7static.com/static/img/sleeveart/00/015/995/0001599528_50.jpg</image>
+				<releaseDate>2012-03-26T00:00:00+01:00</releaseDate>
+				<addedDate>2012-02-09T17:38:40+00:00</addedDate>
+				<popularity>0.77</popularity>
+			</release>
+		</taggedItem>
+		<taggedItem>
+			<release id="1435450">
+				<title>Mylo Xyloto</title>
+				<version />
+				<type>Album</type>
+				<barcode>5099972930458</barcode>
+				<year>2011</year>
+				<explicitContent>false</explicitContent>
+				<artist id="20">
+					<name>Coldplay</name>
+					<appearsAs>Coldplay</appearsAs>
+					<url>http://www.7digital.com/artists/coldplay/?partner=712</url>
+				</artist>
+				<url>http://www.7digital.com/artists/coldplay/mylo-xyloto/?partner=712</url>
+				<image>http://cdn.7static.com/static/img/sleeveart/00/014/354/0001435450_50.jpg</image>
+				<releaseDate>2011-10-24T00:00:00+01:00</releaseDate>
+				<addedDate>2011-10-12T11:53:37+01:00</addedDate>
+				<popularity>0.77</popularity>
+			</release>
+		</taggedItem>
+		<taggedItem>
+			<release id="1715078">
+				<title>Call My Name</title>
+				<version />
+				<type>Single</type>
+				<barcode>00602537064526</barcode>
+				<year>2012</year>
+				<explicitContent>false</explicitContent>
+				<artist id="1293560">
+					<name>Cheryl</name>
+					<appearsAs>Cheryl</appearsAs>
+					<url>http://www.7digital.com/artists/cheryl/?partner=712</url>
+				</artist>
+				<url>http://www.7digital.com/artists/cheryl/call-my-name/?partner=712</url>
+				<image>http://cdn.7static.com/static/img/sleeveart/00/017/150/0001715078_50.jpg</image>
+				<releaseDate>2012-06-10T00:00:00+01:00</releaseDate>
+				<addedDate>2012-05-15T10:22:58+01:00</addedDate>
+				<popularity>0.76</popularity>
+			</release>
+		</taggedItem>
+		<taggedItem>
+			<release id="1751702">
+				<title>Payphone</title>
+				<version />
+				<type>Single</type>
+				<barcode>00602537072194</barcode>
+				<year>2012</year>
+				<explicitContent>true</explicitContent>
+				<artist id="222">
+					<name>Maroon 5</name>
+					<appearsAs>Maroon 5</appearsAs>
+					<url>http://www.7digital.com/artists/maroon-5/?partner=712</url>
+				</artist>
+				<url>http://www.7digital.com/artists/maroon-5/payphone-2/?partner=712</url>
+				<image>http://cdn.7static.com/static/img/sleeveart/00/017/517/0001751702_50.jpg</image>
+				<releaseDate>2012-06-17T00:00:00+01:00</releaseDate>
+				<addedDate>2012-06-12T00:38:20+01:00</addedDate>
+				<popularity>0.75</popularity>
+			</release>
+		</taggedItem>
+		<taggedItem>
+			<release id="1676885">
+				<title>Young</title>
+				<version />
+				<type>Single</type>
+				<barcode>00602537023783</barcode>
+				<year>2012</year>
+				<explicitContent>false</explicitContent>
+				<artist id="1271968">
+					<name>Tulisa</name>
+					<appearsAs>Tulisa</appearsAs>
+					<url>http://www.7digital.com/artists/tulisa/?partner=712</url>
+				</artist>
+				<url>http://www.7digital.com/artists/tulisa/young/?partner=712</url>
+				<image>http://cdn.7static.com/static/img/sleeveart/00/016/768/0001676885_50.jpg</image>
+				<releaseDate>2012-04-29T00:00:00+01:00</releaseDate>
+				<addedDate>2012-04-20T02:17:35+01:00</addedDate>
+				<popularity>0.75</popularity>
+			</release>
+		</taggedItem>
+		<taggedItem>
+			<release id="1572399">
+				<title>Our Version of Events</title>
+				<version />
+				<type>Album</type>
+				<barcode>5099967896752</barcode>
+				<year>2012</year>
+				<explicitContent>false</explicitContent>
+				<artist id="1053056">
+					<name>Emeli Sande</name>
+					<appearsAs>Emeli Sande</appearsAs>
+					<url>http://www.7digital.com/artists/emeli-sande-(1)/?partner=712</url>
+				</artist>
+				<url>http://www.7digital.com/artists/emeli-sande-(1)/our-version-of-events/?partner=712</url>
+				<image>http://cdn.7static.com/static/img/sleeveart/00/015/723/0001572399_50.jpg</image>
+				<releaseDate>2012-02-13T00:00:00+00:00</releaseDate>
+				<addedDate>2012-01-26T18:39:09+00:00</addedDate>
+				<popularity>0.74</popularity>
+			</release>
+		</taggedItem>
+		<taggedItem>
+			<release id="1635358">
+				<title>Katy Perry - Teenage Dream: The Complete Confection</title>
+				<version />
+				<type>Album</type>
+				<barcode>5099930125858</barcode>
+				<year>2012</year>
+				<explicitContent>false</explicitContent>
+				<artist id="132789">
+					<name>Katy Perry</name>
+					<appearsAs>Katy Perry</appearsAs>
+					<url>http://www.7digital.com/artists/katy-perry/?partner=712</url>
+				</artist>
+				<url>http://www.7digital.com/artists/katy-perry/katy-perry-teenage-dream-the-complete-confection/?partner=712</url>
+				<image>http://cdn.7static.com/static/img/sleeveart/00/016/353/0001635358_50.jpg</image>
+				<releaseDate>2012-03-26T00:00:00+01:00</releaseDate>
+				<addedDate>2012-04-12T01:59:38+01:00</addedDate>
+				<popularity>0.74</popularity>
+			</release>
+		</taggedItem>
+		<taggedItem>
+			<release id="1284191">
+				<title>The Lateness Of The Hour</title>
+				<version />
+				<type>Album</type>
+				<barcode>00602527766539</barcode>
+				<year>2011</year>
+				<explicitContent>false</explicitContent>
+				<artist id="883520">
+					<name>Alex Clare</name>
+					<appearsAs>Alex Clare</appearsAs>
+					<url>http://www.7digital.com/artists/alex-clare/?partner=712</url>
+				</artist>
+				<url>http://www.7digital.com/artists/alex-clare/the-lateness-of-the-hour/?partner=712</url>
+				<image>http://cdn.7static.com/static/img/sleeveart/00/012/841/0001284191_50.jpg</image>
+				<releaseDate>2011-07-11T00:00:00+01:00</releaseDate>
+				<addedDate>2011-06-14T15:06:55+01:00</addedDate>
+				<popularity>0.73</popularity>
+			</release>
+		</taggedItem>
+		<taggedItem>
+			<release id="1685630">
+				<title>Little Broken Hearts</title>
+				<version />
+				<type>Album</type>
+				<barcode>5099973154853</barcode>
+				<year>2012</year>
+				<explicitContent>false</explicitContent>
+				<artist id="360">
+					<name>Norah Jones</name>
+					<appearsAs>Norah Jones</appearsAs>
+					<url>http://www.7digital.com/artists/norah-jones/?partner=712</url>
+				</artist>
+				<url>http://www.7digital.com/artists/norah-jones/little-broken-hearts-2/?partner=712</url>
+				<image>http://cdn.7static.com/static/img/sleeveart/00/016/856/0001685630_50.jpg</image>
+				<releaseDate>2012-04-30T00:00:00+01:00</releaseDate>
+				<addedDate>2012-04-25T11:33:12+01:00</addedDate>
+				<popularity>0.73</popularity>
+			</release>
+		</taggedItem>
+		<taggedItem>
+			<release id="1292241">
+				<title>4</title>
+				<version />
+				<type>Album</type>
+				<barcode>886443064393</barcode>
+				<year>2011</year>
+				<explicitContent>false</explicitContent>
+				<artist id="21453">
+					<name>Beyoncé</name>
+					<appearsAs>Beyoncé</appearsAs>
+					<url>http://www.7digital.com/artists/beyoncé/?partner=712</url>
+				</artist>
+				<url>http://www.7digital.com/artists/beyoncé/4-1/?partner=712</url>
+				<image>http://cdn.7static.com/static/img/sleeveart/00/012/922/0001292241_50.jpg</image>
+				<releaseDate>2011-06-27T00:00:00+01:00</releaseDate>
+				<addedDate>2011-06-20T13:48:04+01:00</addedDate>
+				<popularity>0.73</popularity>
+			</release>
+		</taggedItem>
+		<taggedItem>
+			<release id="1214206">
+				<title>Too Close</title>
+				<version />
+				<type>Single</type>
+				<barcode>00602527710860</barcode>
+				<year>2011</year>
+				<explicitContent>false</explicitContent>
+				<artist id="883520">
+					<name>Alex Clare</name>
+					<appearsAs>Alex Clare</appearsAs>
+					<url>http://www.7digital.com/artists/alex-clare/?partner=712</url>
+				</artist>
+				<url>http://www.7digital.com/artists/alex-clare/too-close-1/?partner=712</url>
+				<image>http://cdn.7static.com/static/img/sleeveart/00/012/142/0001214206_50.jpg</image>
+				<releaseDate>2011-04-17T00:00:00+01:00</releaseDate>
+				<addedDate>2011-04-12T15:01:55+01:00</addedDate>
+				<popularity>0.71</popularity>
+			</release>
+		</taggedItem>
+		<taggedItem>
+			<release id="1677825">
+				<title>Chasing The Sun</title>
+				<version>EP</version>
+				<type>Single</type>
+				<barcode>00602537040995</barcode>
+				<year>2012</year>
+				<explicitContent>false</explicitContent>
+				<artist id="455792">
+					<name>The Wanted</name>
+					<appearsAs>Wanted, The</appearsAs>
+					<url>http://www.7digital.com/artists/the-wanted/?partner=712</url>
+				</artist>
+				<url>http://www.7digital.com/artists/the-wanted/chasing-the-sun/?partner=712</url>
+				<image>http://cdn.7static.com/static/img/sleeveart/00/016/778/0001677825_50.jpg</image>
+				<releaseDate>2012-05-20T00:00:00+01:00</releaseDate>
+				<addedDate>2012-04-23T02:05:19+01:00</addedDate>
+				<popularity>0.7</popularity>
+			</release>
+		</taggedItem>
+		<taggedItem>
+			<release id="1694537">
+				<title>The Absence</title>
+				<version />
+				<type>Album</type>
+				<barcode>00602527926575</barcode>
+				<year>2012</year>
+				<explicitContent>false</explicitContent>
+				<artist id="150994">
+					<name>Melody Gardot</name>
+					<appearsAs>Melody Gardot</appearsAs>
+					<url>http://www.7digital.com/artists/melody-gardot/?partner=712</url>
+				</artist>
+				<url>http://www.7digital.com/artists/melody-gardot/the-absence/?partner=712</url>
+				<image>http://cdn.7static.com/static/img/sleeveart/00/016/945/0001694537_50.jpg</image>
+				<releaseDate>2012-05-28T00:00:00+01:00</releaseDate>
+				<addedDate>2012-05-05T12:38:07+01:00</addedDate>
+				<popularity>0.7</popularity>
+			</release>
+		</taggedItem>
+		<taggedItem>
+			<release id="1769794">
+				<title>Overexposed</title>
+				<version />
+				<type>Album</type>
+				<barcode>00602537042784</barcode>
+				<year>2012</year>
+				<explicitContent>true</explicitContent>
+				<artist id="222">
+					<name>Maroon 5</name>
+					<appearsAs>Maroon 5</appearsAs>
+					<url>http://www.7digital.com/artists/maroon-5/?partner=712</url>
+				</artist>
+				<url>http://www.7digital.com/artists/maroon-5/overexposed-4/?partner=712</url>
+				<image>http://cdn.7static.com/static/img/sleeveart/00/017/697/0001769794_50.jpg</image>
+				<releaseDate>2012-06-25T00:00:00+01:00</releaseDate>
+				<addedDate>2012-06-21T12:08:29+01:00</addedDate>
+				<popularity>0.7</popularity>
+			</release>
+		</taggedItem>
+		<taggedItem>
+			<release id="1706628">
+				<title>Fall To Grace</title>
+				<version />
+				<type>Album</type>
+				<barcode>886443355521</barcode>
+				<year>2012</year>
+				<explicitContent>false</explicitContent>
+				<artist id="329482">
+					<name>Paloma Faith</name>
+					<appearsAs>Paloma Faith</appearsAs>
+					<url>http://www.7digital.com/artists/paloma-faith/?partner=712</url>
+				</artist>
+				<url>http://www.7digital.com/artists/paloma-faith/fall-to-grace/?partner=712</url>
+				<image>http://cdn.7static.com/static/img/sleeveart/00/017/066/0001706628_50.jpg</image>
+				<releaseDate>2012-05-28T00:00:00+01:00</releaseDate>
+				<addedDate>2012-05-14T00:19:20+01:00</addedDate>
+				<popularity>0.69</popularity>
+			</release>
+		</taggedItem>
+		<taggedItem>
+			<release id="1694222">
+				<title>R.I.P.</title>
+				<version />
+				<type>Single</type>
+				<barcode>886443416277</barcode>
+				<year>2012</year>
+				<explicitContent>false</explicitContent>
+				<artist id="1281060">
+					<name>RITA ORA featuring Tinie Tempah</name>
+					<appearsAs>RITA ORA featuring Tinie Tempah</appearsAs>
+					<url>http://www.7digital.com/artists/rita-ora-featuring-tinie-tempah/?partner=712</url>
+				</artist>
+				<url>http://www.7digital.com/artists/rita-ora-featuring-tinie-tempah/r-i-p/?partner=712</url>
+				<image>http://cdn.7static.com/static/img/sleeveart/00/016/942/0001694222_50.jpg</image>
+				<releaseDate>2012-05-06T00:00:00+01:00</releaseDate>
+				<addedDate>2012-04-30T01:40:23+01:00</addedDate>
+				<popularity>0.69</popularity>
+			</release>
+		</taggedItem>
+		<taggedItem>
+			<release id="1367191">
+				<title>Loud</title>
+				<version>Explicit Version</version>
+				<type>Album</type>
+				<barcode>00602527829340</barcode>
+				<year>2011</year>
+				<explicitContent>true</explicitContent>
+				<artist id="10653">
+					<name>Rihanna</name>
+					<appearsAs>Rihanna</appearsAs>
+					<url>http://www.7digital.com/artists/rihanna/?partner=712</url>
+				</artist>
+				<url>http://www.7digital.com/artists/rihanna/loud-2/?partner=712</url>
+				<image>http://cdn.7static.com/static/img/sleeveart/00/013/671/0001367191_50.jpg</image>
+				<releaseDate>2011-08-19T00:00:00+01:00</releaseDate>
+				<addedDate>2011-08-18T16:59:12+01:00</addedDate>
+				<popularity>0.69</popularity>
+			</release>
+		</taggedItem>
+		<taggedItem>
+			<release id="1475383">
+				<title>Now That's What I Call Music! 80</title>
+				<version />
+				<type>Album</type>
+				<barcode>5099967859450</barcode>
+				<year>2011</year>
+				<explicitContent>false</explicitContent>
+				<artist id="209">
+					<name>Various Artists</name>
+					<appearsAs>Various Artists</appearsAs>
+					<url>http://www.7digital.com/artists/various-artists/?partner=712</url>
+				</artist>
+				<url>http://www.7digital.com/artists/various-artists/now-thats-what-i-call-music-80/?partner=712</url>
+				<image>http://cdn.7static.com/static/img/sleeveart/00/014/753/0001475383_50.jpg</image>
+				<releaseDate>2011-11-21T00:00:00+00:00</releaseDate>
+				<addedDate>2011-11-09T12:12:52+00:00</addedDate>
+				<popularity>0.69</popularity>
+			</release>
+		</taggedItem>
+		<taggedItem>
+			<release id="1636025">
+				<title>Katy Perry - Teenage Dream: The Complete Confection</title>
+				<version />
+				<type>Album</type>
+				<barcode>5099972963753</barcode>
+				<year>2012</year>
+				<explicitContent>true</explicitContent>
+				<artist id="132789">
+					<name>Katy Perry</name>
+					<appearsAs>Katy Perry</appearsAs>
+					<url>http://www.7digital.com/artists/katy-perry/?partner=712</url>
+				</artist>
+				<url>http://www.7digital.com/artists/katy-perry/katy-perry-teenage-dream-the-complete-confection-1/?partner=712</url>
+				<image>http://cdn.7static.com/static/img/sleeveart/00/016/360/0001636025_50.jpg</image>
+				<releaseDate>2012-03-26T00:00:00+01:00</releaseDate>
+				<addedDate>2012-03-16T12:10:59+00:00</addedDate>
+				<popularity>0.69</popularity>
+			</release>
+		</taggedItem>
+		<taggedItem>
+			<release id="1729091">
+				<title>90s Groove - Ministry of Sound</title>
+				<version />
+				<type>Album</type>
+				<barcode>5051275053050</barcode>
+				<year>2012</year>
+				<explicitContent>false</explicitContent>
+				<artist id="209">
+					<name>Various Artists</name>
+					<appearsAs>Various Artists</appearsAs>
+					<url>http://www.7digital.com/artists/various-artists/?partner=712</url>
+				</artist>
+				<url>http://www.7digital.com/artists/various-artists/90s-groove-ministry-of-sound/?partner=712</url>
+				<image>http://cdn.7static.com/static/img/sleeveart/00/017/290/0001729091_50.jpg</image>
+				<releaseDate>2012-05-28T00:00:00+01:00</releaseDate>
+				<addedDate>2012-05-25T00:15:37+01:00</addedDate>
+				<popularity>0.68</popularity>
+			</release>
+		</taggedItem>
+		<taggedItem>
+			<release id="1708957">
+				<title>Picking Up The Pieces</title>
+				<version />
+				<type>Single</type>
+				<barcode>886443355545</barcode>
+				<year>2012</year>
+				<explicitContent>false</explicitContent>
+				<artist id="329482">
+					<name>Paloma Faith</name>
+					<appearsAs>Paloma Faith</appearsAs>
+					<url>http://www.7digital.com/artists/paloma-faith/?partner=712</url>
+				</artist>
+				<url>http://www.7digital.com/artists/paloma-faith/picking-up-the-pieces-1/?partner=712</url>
+				<image>http://cdn.7static.com/static/img/sleeveart/00/017/089/0001708957_50.jpg</image>
+				<releaseDate>2012-05-20T00:00:00+01:00</releaseDate>
+				<addedDate>2012-05-14T00:19:20+01:00</addedDate>
+				<popularity>0.67</popularity>
+			</release>
+		</taggedItem>
+		<taggedItem>
+			<release id="1711543">
+				<title>Call Me Maybe</title>
+				<version>Remixes</version>
+				<type>Single</type>
+				<barcode>00602537061792</barcode>
+				<year>2012</year>
+				<explicitContent>false</explicitContent>
+				<artist id="369884">
+					<name>Carly Rae Jepsen</name>
+					<appearsAs>Carly Rae Jepsen</appearsAs>
+					<url>http://www.7digital.com/artists/carly-rae-jepsen/?partner=712</url>
+				</artist>
+				<url>http://www.7digital.com/artists/carly-rae-jepsen/call-me-maybe-3/?partner=712</url>
+				<image>http://cdn.7static.com/static/img/sleeveart/00/017/115/0001711543_50.jpg</image>
+				<releaseDate>2012-05-20T00:00:00+01:00</releaseDate>
+				<addedDate>2012-05-21T00:25:53+01:00</addedDate>
+				<popularity>0.67</popularity>
+			</release>
+		</taggedItem>
+		<taggedItem>
+			<release id="1469772">
+				<title>Lioness: Hidden Treasures</title>
+				<version />
+				<type>Album</type>
+				<barcode>00602527903866</barcode>
+				<year>2011</year>
+				<explicitContent>true</explicitContent>
+				<artist id="4">
+					<name>Amy Winehouse</name>
+					<appearsAs>Amy Winehouse</appearsAs>
+					<url>http://www.7digital.com/artists/amy-winehouse/?partner=712</url>
+				</artist>
+				<url>http://www.7digital.com/artists/amy-winehouse/lioness-hidden-treasures/?partner=712</url>
+				<image>http://cdn.7static.com/static/img/sleeveart/00/014/697/0001469772_50.jpg</image>
+				<releaseDate>2011-12-05T00:00:00+00:00</releaseDate>
+				<addedDate>2011-11-07T15:05:07+00:00</addedDate>
+				<popularity>0.67</popularity>
+			</release>
+		</taggedItem>
+		<taggedItem>
+			<release id="1663483">
+				<title>California 37</title>
+				<version />
+				<type>Album</type>
+				<barcode>886443421578</barcode>
+				<year>2012</year>
+				<explicitContent>false</explicitContent>
+				<artist id="52118">
+					<name>Train</name>
+					<appearsAs>Train</appearsAs>
+					<url>http://www.7digital.com/artists/train/?partner=712</url>
+				</artist>
+				<url>http://www.7digital.com/artists/train/california-37-1/?partner=712</url>
+				<image>http://cdn.7static.com/static/img/sleeveart/00/016/634/0001663483_50.jpg</image>
+				<releaseDate>2012-04-16T00:00:00+01:00</releaseDate>
+				<addedDate>2012-04-09T01:13:57+01:00</addedDate>
+				<popularity>0.67</popularity>
+			</release>
+		</taggedItem>
+		<taggedItem>
+			<release id="1027835">
+				<title>Loud</title>
+				<version>Explicit Version</version>
+				<type>Album</type>
+				<barcode>00602527577265</barcode>
+				<year>2010</year>
+				<explicitContent>true</explicitContent>
+				<artist id="10653">
+					<name>Rihanna</name>
+					<appearsAs>Rihanna</appearsAs>
+					<url>http://www.7digital.com/artists/rihanna/?partner=712</url>
+				</artist>
+				<url>http://www.7digital.com/artists/rihanna/loud/?partner=712</url>
+				<image>http://cdn.7static.com/static/img/sleeveart/00/010/278/0001027835_50.jpg</image>
+				<releaseDate>2010-11-15T00:00:00+00:00</releaseDate>
+				<addedDate>2010-11-05T15:39:06+00:00</addedDate>
+				<popularity>0.67</popularity>
+			</release>
+		</taggedItem>
+		<taggedItem>
+			<release id="1364249">
+				<title>What Makes You Beautiful</title>
+				<version />
+				<type>Single</type>
+				<barcode>884977914931</barcode>
+				<year>2011</year>
+				<explicitContent>false</explicitContent>
+				<artist id="1076111">
+					<name>One Direction</name>
+					<appearsAs>One Direction</appearsAs>
+					<url>http://www.7digital.com/artists/one-direction-1/?partner=712</url>
+				</artist>
+				<url>http://www.7digital.com/artists/one-direction-1/what-makes-you-beautiful/?partner=712</url>
+				<image>http://cdn.7static.com/static/img/sleeveart/00/013/642/0001364249_50.jpg</image>
+				<releaseDate>2011-09-11T00:00:00+01:00</releaseDate>
+				<addedDate>2011-08-15T15:43:13+01:00</addedDate>
+				<popularity>0.66</popularity>
+			</release>
+		</taggedItem>
+		<taggedItem>
+			<release id="1434554">
+				<title>Christmas</title>
+				<version />
+				<type>Album</type>
+				<barcode>093624955399</barcode>
+				<year>2011</year>
+				<explicitContent>false</explicitContent>
+				<artist id="908">
+					<name>Michael Bublé</name>
+					<appearsAs>Michael Bublé</appearsAs>
+					<url>http://www.7digital.com/artists/michael-bublé/?partner=712</url>
+				</artist>
+				<url>http://www.7digital.com/artists/michael-bublé/christmas-1/?partner=712</url>
+				<image>http://cdn.7static.com/static/img/sleeveart/00/014/345/0001434554_50.jpg</image>
+				<releaseDate>2011-10-24T00:00:00+01:00</releaseDate>
+				<addedDate>2011-10-14T12:06:25+01:00</addedDate>
+				<popularity>0.66</popularity>
+			</release>
+		</taggedItem>
+		<taggedItem>
+			<release id="1277243">
+				<title>Planet Pit (Deluxe Version)</title>
+				<version />
+				<type>Album</type>
+				<barcode>886443007178</barcode>
+				<year>2011</year>
+				<explicitContent>true</explicitContent>
+				<artist id="11439">
+					<name>Pitbull</name>
+					<appearsAs>Pitbull</appearsAs>
+					<url>http://www.7digital.com/artists/pitbull/?partner=712</url>
+				</artist>
+				<url>http://www.7digital.com/artists/pitbull/planet-pit-deluxe-version/?partner=712</url>
+				<image>http://cdn.7static.com/static/img/sleeveart/00/012/772/0001277243_50.jpg</image>
+				<releaseDate>2011-06-20T00:00:00+01:00</releaseDate>
+				<addedDate>2011-06-06T17:40:03+01:00</addedDate>
+				<popularity>0.66</popularity>
+			</release>
+		</taggedItem>
+		<taggedItem>
+			<release id="1715072">
+				<title>Sing</title>
+				<version />
+				<type>Album</type>
+				<barcode>00602537023585</barcode>
+				<year>2012</year>
+				<explicitContent>false</explicitContent>
+				<artist id="1293553">
+					<name>Gary Barlow &amp; The Commonwealth Band</name>
+					<appearsAs>Gary Barlow &amp; The Commonwealth Band</appearsAs>
+					<url>http://www.7digital.com/artists/gary-barlow-and-the-commonwealth-band/?partner=712</url>
+				</artist>
+				<url>http://www.7digital.com/artists/gary-barlow-and-the-commonwealth-band/sing/?partner=712</url>
+				<image>http://cdn.7static.com/static/img/sleeveart/00/017/150/0001715072_50.jpg</image>
+				<releaseDate>2012-05-28T00:00:00+01:00</releaseDate>
+				<addedDate>2012-05-15T10:23:06+01:00</addedDate>
+				<popularity>0.66</popularity>
+			</release>
+		</taggedItem>
+		<taggedItem>
+			<release id="1412146">
+				<title>We Found Love</title>
+				<version />
+				<type>Single</type>
+				<barcode>00602527862590</barcode>
+				<year>2011</year>
+				<explicitContent>false</explicitContent>
+				<artist id="10653">
+					<name>Rihanna</name>
+					<appearsAs>Rihanna</appearsAs>
+					<url>http://www.7digital.com/artists/rihanna/?partner=712</url>
+				</artist>
+				<url>http://www.7digital.com/artists/rihanna/we-found-love/?partner=712</url>
+				<image>http://cdn.7static.com/static/img/sleeveart/00/014/121/0001412146_50.jpg</image>
+				<releaseDate>2011-10-05T00:00:00+01:00</releaseDate>
+				<addedDate>2011-09-30T15:05:29+01:00</addedDate>
+				<popularity>0.66</popularity>
+			</release>
+		</taggedItem>
+		<taggedItem>
+			<release id="1572167">
+				<title>Can't Say No</title>
+				<version />
+				<type>Single</type>
+				<barcode>5099955930154</barcode>
+				<year>2012</year>
+				<explicitContent>false</explicitContent>
+				<artist id="1213888">
+					<name>CONOR MAYNARD</name>
+					<appearsAs>CONOR MAYNARD</appearsAs>
+					<url>http://www.7digital.com/artists/conor-maynard/?partner=712</url>
+				</artist>
+				<url>http://www.7digital.com/artists/conor-maynard/cant-say-no/?partner=712</url>
+				<image>http://cdn.7static.com/static/img/sleeveart/00/015/721/0001572167_50.jpg</image>
+				<releaseDate>2012-04-15T00:00:00+01:00</releaseDate>
+				<addedDate>2012-01-26T18:39:10+00:00</addedDate>
+				<popularity>0.66</popularity>
+			</release>
+		</taggedItem>
+		<taggedItem>
+			<release id="1347380">
+				<title>The Awakening</title>
+				<version />
+				<type>Album</type>
+				<barcode>00602527801254</barcode>
+				<year>2011</year>
+				<explicitContent>false</explicitContent>
+				<artist id="20996">
+					<name>James Morrison</name>
+					<appearsAs>James Morrison</appearsAs>
+					<url>http://www.7digital.com/artists/james-morrison/?partner=712</url>
+				</artist>
+				<url>http://www.7digital.com/artists/james-morrison/the-awakening/?partner=712</url>
+				<image>http://cdn.7static.com/static/img/sleeveart/00/013/473/0001347380_50.jpg</image>
+				<releaseDate>2011-09-26T00:00:00+01:00</releaseDate>
+				<addedDate>2011-08-02T17:02:24+01:00</addedDate>
+				<popularity>0.66</popularity>
+			</release>
+		</taggedItem>
+		<taggedItem>
+			<release id="1663289">
+				<title>Love Is A Four Letter Word</title>
+				<version />
+				<type>Album</type>
+				<barcode>075679962805</barcode>
+				<year>2012</year>
+				<explicitContent>false</explicitContent>
+				<artist id="4260">
+					<name>Jason Mraz</name>
+					<appearsAs>Jason Mraz</appearsAs>
+					<url>http://www.7digital.com/artists/jason-mraz/?partner=712</url>
+				</artist>
+				<url>http://www.7digital.com/artists/jason-mraz/love-is-a-four-letter-word-1/?partner=712</url>
+				<image>http://cdn.7static.com/static/img/sleeveart/00/016/632/0001663289_50.jpg</image>
+				<releaseDate>2012-04-16T00:00:00+01:00</releaseDate>
+				<addedDate>2012-04-09T01:13:57+01:00</addedDate>
+				<popularity>0.66</popularity>
+			</release>
+		</taggedItem>
+		<taggedItem>
+			<release id="1114804">
+				<title>Rolling In The Deep</title>
+				<version />
+				<type>Single</type>
+				<barcode>634904152161</barcode>
+				<year>2011</year>
+				<explicitContent>true</explicitContent>
+				<artist id="142111">
+					<name>Adele</name>
+					<appearsAs>Adele</appearsAs>
+					<url>http://www.7digital.com/artists/adele/?partner=712</url>
+				</artist>
+				<url>http://www.7digital.com/artists/adele/rolling-in-the-deep-2/?partner=712</url>
+				<image>http://cdn.7static.com/static/img/sleeveart/00/011/148/0001114804_50.jpg</image>
+				<releaseDate>2011-01-16T00:00:00+00:00</releaseDate>
+				<addedDate>2011-01-17T11:08:18+00:00</addedDate>
+				<popularity>0.66</popularity>
+			</release>
+		</taggedItem>
+		<taggedItem>
+			<release id="1296836">
+				<title>Sorry For Party Rocking</title>
+				<version />
+				<type>Album</type>
+				<barcode>00602527772349</barcode>
+				<year>2011</year>
+				<explicitContent>true</explicitContent>
+				<artist id="312836">
+					<name>LMFAO</name>
+					<appearsAs>LMFAO</appearsAs>
+					<url>http://www.7digital.com/artists/lmfao/?partner=712</url>
+				</artist>
+				<url>http://www.7digital.com/artists/lmfao/sorry-for-party-rocking-4/?partner=712</url>
+				<image>http://cdn.7static.com/static/img/sleeveart/00/012/968/0001296836_50.jpg</image>
+				<releaseDate>2011-07-18T00:00:00+01:00</releaseDate>
+				<addedDate>2011-06-27T15:19:08+01:00</addedDate>
+				<popularity>0.65</popularity>
+			</release>
+		</taggedItem>
+		<taggedItem>
+			<release id="212">
+				<title>Legend</title>
+				<version>The Definitive Remasters</version>
+				<type>Album</type>
+				<barcode>00731454890427</barcode>
+				<year>2006</year>
+				<explicitContent>false</explicitContent>
+				<artist id="159">
+					<name>Bob Marley &amp; The Wailers</name>
+					<appearsAs>Bob Marley &amp; The Wailers</appearsAs>
+					<url>http://www.7digital.com/artists/bob-marley-the-wailers-(2)/?partner=712</url>
+				</artist>
+				<url>http://www.7digital.com/artists/bob-marley-the-wailers-(2)/legend-the-definitive-remasters/?partner=712</url>
+				<image>http://cdn.7static.com/static/img/sleeveart/00/000/002/0000000212_50.jpg</image>
+				<releaseDate>2006-09-05T00:00:00+01:00</releaseDate>
+				<addedDate>2008-08-31T22:18:09+01:00</addedDate>
+				<popularity>0.65</popularity>
+			</release>
+		</taggedItem>
+		<taggedItem>
+			<release id="1620893">
+				<title>Electronic Earth</title>
+				<version />
+				<type>Album</type>
+				<barcode>886443319578</barcode>
+				<year>2012</year>
+				<explicitContent>true</explicitContent>
+				<artist id="804849">
+					<name>Labrinth</name>
+					<appearsAs>Labrinth</appearsAs>
+					<url>http://www.7digital.com/artists/labrinth/?partner=712</url>
+				</artist>
+				<url>http://www.7digital.com/artists/labrinth/electronic-earth/?partner=712</url>
+				<image>http://cdn.7static.com/static/img/sleeveart/00/016/208/0001620893_50.jpg</image>
+				<releaseDate>2012-04-02T00:00:00+01:00</releaseDate>
+				<addedDate>2012-03-14T05:02:15+00:00</addedDate>
+				<popularity>0.65</popularity>
+			</release>
+		</taggedItem>
+		<taggedItem>
+			<release id="1635643">
+				<title>StreetDance 2</title>
+				<version />
+				<type>Album</type>
+				<barcode>00602527952918</barcode>
+				<year>2012</year>
+				<explicitContent>false</explicitContent>
+				<artist id="209">
+					<name>Various Artists</name>
+					<appearsAs>Various Artists</appearsAs>
+					<url>http://www.7digital.com/artists/various-artists/?partner=712</url>
+				</artist>
+				<url>http://www.7digital.com/artists/various-artists/streetdance-2-ost/?partner=712</url>
+				<image>http://cdn.7static.com/static/img/sleeveart/00/016/356/0001635643_50.jpg</image>
+				<releaseDate>2012-04-02T00:00:00+01:00</releaseDate>
+				<addedDate>2012-03-15T15:02:51+00:00</addedDate>
+				<popularity>0.65</popularity>
+			</release>
+		</taggedItem>
+		<taggedItem>
+			<release id="1448035">
+				<title>Clubland 20</title>
+				<version />
+				<type>Album</type>
+				<barcode>00600753367490</barcode>
+				<year>2011</year>
+				<explicitContent>true</explicitContent>
+				<artist id="209">
+					<name>Various Artists</name>
+					<appearsAs>Various Artists</appearsAs>
+					<url>http://www.7digital.com/artists/various-artists/?partner=712</url>
+				</artist>
+				<url>http://www.7digital.com/artists/various-artists/clubland-20/?partner=712</url>
+				<image>http://cdn.7static.com/static/img/sleeveart/00/014/480/0001448035_50.jpg</image>
+				<releaseDate>2011-11-07T00:00:00+00:00</releaseDate>
+				<addedDate>2011-10-24T15:04:32+01:00</addedDate>
+				<popularity>0.65</popularity>
+			</release>
+		</taggedItem>
+		<taggedItem>
+			<release id="1531819">
+				<title>Old Ideas</title>
+				<version />
+				<type>Album</type>
+				<barcode>886443219564</barcode>
+				<year>2012</year>
+				<explicitContent>false</explicitContent>
+				<artist id="11347">
+					<name>Leonard Cohen</name>
+					<appearsAs>Leonard Cohen</appearsAs>
+					<url>http://www.7digital.com/artists/leonard-cohen/?partner=712</url>
+				</artist>
+				<url>http://www.7digital.com/artists/leonard-cohen/old-ideas/?partner=712</url>
+				<image>http://cdn.7static.com/static/img/sleeveart/00/015/318/0001531819_50.jpg</image>
+				<releaseDate>2012-01-30T00:00:00+00:00</releaseDate>
+				<addedDate>2012-01-19T05:05:51+00:00</addedDate>
+				<popularity>0.65</popularity>
+			</release>
+		</taggedItem>
+		<taggedItem>
+			<release id="1712845">
+				<title>Where Have You Been</title>
+				<version />
+				<type>Single</type>
+				<barcode>00602537044450</barcode>
+				<year>2012</year>
+				<explicitContent>false</explicitContent>
+				<artist id="10653">
+					<name>Rihanna</name>
+					<appearsAs>Rihanna</appearsAs>
+					<url>http://www.7digital.com/artists/rihanna/?partner=712</url>
+				</artist>
+				<url>http://www.7digital.com/artists/rihanna/where-have-you-been-1/?partner=712</url>
+				<image>http://cdn.7static.com/static/img/sleeveart/00/017/128/0001712845_50.jpg</image>
+				<releaseDate>2012-05-27T00:00:00+01:00</releaseDate>
+				<addedDate>2012-05-14T16:11:41+01:00</addedDate>
+				<popularity>0.65</popularity>
+			</release>
+		</taggedItem>
+		<taggedItem>
+			<release id="1702916">
+				<title>When She Was Mine</title>
+				<version />
+				<type>Single</type>
+				<barcode>00602537024667</barcode>
+				<year>2012</year>
+				<explicitContent>false</explicitContent>
+				<artist id="429511">
+					<name>Lawson</name>
+					<appearsAs>Lawson</appearsAs>
+					<url>http://www.7digital.com/artists/lawson/?partner=712</url>
+				</artist>
+				<url>http://www.7digital.com/artists/lawson/when-she-was-mine/?partner=712</url>
+				<image>http://cdn.7static.com/static/img/sleeveart/00/017/029/0001702916_50.jpg</image>
+				<releaseDate>2012-05-27T00:00:00+01:00</releaseDate>
+				<addedDate>2012-05-11T00:35:55+01:00</addedDate>
+				<popularity>0.64</popularity>
+			</release>
+		</taggedItem>
+		<taggedItem>
+			<release id="1740550">
+				<title>Clockwork Angels</title>
+				<version />
+				<type>Album</type>
+				<barcode>016861765606</barcode>
+				<year>2012</year>
+				<explicitContent>false</explicitContent>
+				<artist id="1364">
+					<name>Rush</name>
+					<appearsAs>Rush</appearsAs>
+					<url>http://www.7digital.com/artists/rush/?partner=712</url>
+				</artist>
+				<url>http://www.7digital.com/artists/rush/clockwork-angels-1/?partner=712</url>
+				<image>http://cdn.7static.com/static/img/sleeveart/00/017/405/0001740550_50.jpg</image>
+				<releaseDate>2012-06-11T00:00:00+01:00</releaseDate>
+				<addedDate>2012-06-11T16:28:51+01:00</addedDate>
+				<popularity>0.64</popularity>
+			</release>
+		</taggedItem>
+		<taggedItem>
+			<release id="1636278">
+				<title>She Doesn't Mind</title>
+				<version />
+				<type>Single</type>
+				<barcode>075679962294</barcode>
+				<year>2012</year>
+				<explicitContent>false</explicitContent>
+				<artist id="4562">
+					<name>Sean Paul</name>
+					<appearsAs>Sean Paul</appearsAs>
+					<url>http://www.7digital.com/artists/sean-paul/?partner=712</url>
+				</artist>
+				<url>http://www.7digital.com/artists/sean-paul/she-doesnt-mind-3/?partner=712</url>
+				<image>http://cdn.7static.com/static/img/sleeveart/00/016/362/0001636278_50.jpg</image>
+				<releaseDate>2012-03-18T00:00:00+00:00</releaseDate>
+				<addedDate>2012-03-16T10:51:28+00:00</addedDate>
+				<popularity>0.64</popularity>
+			</release>
+		</taggedItem>
+		<taggedItem>
+			<release id="1465930">
+				<title>Up All Night</title>
+				<version />
+				<type>Album</type>
+				<barcode>886443150768</barcode>
+				<year>2011</year>
+				<explicitContent>false</explicitContent>
+				<artist id="1076111">
+					<name>One Direction</name>
+					<appearsAs>One Direction</appearsAs>
+					<url>http://www.7digital.com/artists/one-direction-1/?partner=712</url>
+				</artist>
+				<url>http://www.7digital.com/artists/one-direction-1/up-all-night/?partner=712</url>
+				<image>http://cdn.7static.com/static/img/sleeveart/00/014/659/0001465930_50.jpg</image>
+				<releaseDate>2011-11-21T00:00:00+00:00</releaseDate>
+				<addedDate>2011-11-03T15:20:23+00:00</addedDate>
+				<popularity>0.64</popularity>
+			</release>
+		</taggedItem>
+		<taggedItem>
+			<release id="1291756">
+				<title>When The Sun Goes Down</title>
+				<version />
+				<type>Album</type>
+				<barcode>00050087241735</barcode>
+				<year>2011</year>
+				<explicitContent>false</explicitContent>
+				<artist id="425576">
+					<name>Selena Gomez &amp; The Scene</name>
+					<appearsAs>Selena Gomez &amp; The Scene</appearsAs>
+					<url>http://www.7digital.com/artists/selena-gomez-and-the-scene-1/?partner=712</url>
+				</artist>
+				<url>http://www.7digital.com/artists/selena-gomez-and-the-scene-1/when-the-sun-goes-down/?partner=712</url>
+				<image>http://cdn.7static.com/static/img/sleeveart/00/012/917/0001291756_50.jpg</image>
+				<releaseDate>2011-07-04T00:00:00+01:00</releaseDate>
+				<addedDate>2011-07-01T11:34:06+01:00</addedDate>
+				<popularity>0.64</popularity>
+			</release>
+		</taggedItem>
+		<taggedItem>
+			<release id="1571529">
+				<title>Born To Die</title>
+				<version>Deluxe Version</version>
+				<type>Album</type>
+				<barcode>00602527929446</barcode>
+				<year>2012</year>
+				<explicitContent>false</explicitContent>
+				<artist id="1107056">
+					<name>Lana Del Rey</name>
+					<appearsAs>Lana Del Rey</appearsAs>
+					<url>http://www.7digital.com/artists/lana-del-rey/?partner=712</url>
+				</artist>
+				<url>http://www.7digital.com/artists/lana-del-rey/born-to-die-5/?partner=712</url>
+				<image>http://cdn.7static.com/static/img/sleeveart/00/015/715/0001571529_50.jpg</image>
+				<releaseDate>2012-01-30T00:00:00+00:00</releaseDate>
+				<addedDate>2012-01-24T15:32:08+00:00</addedDate>
+				<popularity>0.64</popularity>
+			</release>
+		</taggedItem>
+		<taggedItem>
+			<release id="1012153">
+				<title>6 Pack</title>
+				<version>Explicit Version</version>
+				<type>Album</type>
+				<barcode>00602527544786</barcode>
+				<year>2010</year>
+				<explicitContent>true</explicitContent>
+				<artist id="61">
+					<name>Nelly</name>
+					<appearsAs>Nelly</appearsAs>
+					<url>http://www.7digital.com/artists/nelly/?partner=712</url>
+				</artist>
+				<url>http://www.7digital.com/artists/nelly/6-pack-1/?partner=712</url>
+				<image>http://cdn.7static.com/static/img/sleeveart/00/010/121/0001012153_50.jpg</image>
+				<releaseDate>2010-10-18T00:00:00+01:00</releaseDate>
+				<addedDate>2010-10-22T15:41:47+01:00</addedDate>
+				<popularity>0.64</popularity>
+			</release>
+		</taggedItem>
+		<taggedItem>
+			<release id="1455009">
+				<title>Stronger (Deluxe Version)</title>
+				<version />
+				<type>Album</type>
+				<barcode>886443265035</barcode>
+				<year>2011</year>
+				<explicitContent>false</explicitContent>
+				<artist id="8908">
+					<name>Kelly Clarkson</name>
+					<appearsAs>Kelly Clarkson</appearsAs>
+					<url>http://www.7digital.com/artists/kelly-clarkson/?partner=712</url>
+				</artist>
+				<url>http://www.7digital.com/artists/kelly-clarkson/stronger-deluxe-version-1/?partner=712</url>
+				<image>http://cdn.7static.com/static/img/sleeveart/00/014/550/0001455009_50.jpg</image>
+				<releaseDate>2011-10-24T00:00:00+01:00</releaseDate>
+				<addedDate>2011-10-24T13:21:44+01:00</addedDate>
+				<popularity>0.63</popularity>
+			</release>
+		</taggedItem>
+		<taggedItem>
+			<release id="1730188">
+				<title>Life In A Beautiful Light</title>
+				<version />
+				<type>Album</type>
+				<barcode>00602537036158</barcode>
+				<year>2012</year>
+				<explicitContent>false</explicitContent>
+				<artist id="43474">
+					<name>Amy MacDonald</name>
+					<appearsAs>Amy MacDonald</appearsAs>
+					<url>http://www.7digital.com/artists/amy-macdonald/?partner=712</url>
+				</artist>
+				<url>http://www.7digital.com/artists/amy-macdonald/life-in-a-beautiful-light/?partner=712</url>
+				<image>http://cdn.7static.com/static/img/sleeveart/00/017/301/0001730188_50.jpg</image>
+				<releaseDate>2012-06-11T00:00:00+01:00</releaseDate>
+				<addedDate>2012-05-28T00:31:59+01:00</addedDate>
+				<popularity>0.63</popularity>
+			</release>
+		</taggedItem>
+	</taggedResults>
+</response>
