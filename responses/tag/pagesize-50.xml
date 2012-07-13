@@ -2,7 +2,7 @@
 <response status="ok" version="1.2" xsi:noNamespaceSchemaLocation="http://api.7digital.com/1.2/static/7digitalAPI.xsd" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 	<tags>
 		<page>1</page>
-		<pageSize>60</pageSize>
+		<pageSize>50</pageSize>
 		<totalItems>471</totalItems>
 		<tag id="pop">
 			<text>pop</text>
@@ -253,56 +253,6 @@
 			<text>mexican</text>
 			<url>http://www.7digital.com/tags/mexican?partner=1401</url>
 			<count>4782</count>
-		</tag>
-		<tag id="opera">
-			<text>opera</text>
-			<url>http://www.7digital.com/tags/opera?partner=1401</url>
-			<count>4730</count>
-		</tag>
-		<tag id="inspirational">
-			<text>inspirational</text>
-			<url>http://www.7digital.com/tags/inspirational?partner=1401</url>
-			<count>4422</count>
-		</tag>
-		<tag id="african">
-			<text>african</text>
-			<url>http://www.7digital.com/tags/african?partner=1401</url>
-			<count>4395</count>
-		</tag>
-		<tag id="avantgarde">
-			<text>avantgarde</text>
-			<url>http://www.7digital.com/tags/avantgarde?partner=1401</url>
-			<count>4365</count>
-		</tag>
-		<tag id="heavy-metal">
-			<text>heavy metal</text>
-			<url>http://www.7digital.com/tags/heavy-metal?partner=1401</url>
-			<count>4290</count>
-		</tag>
-		<tag id="indie-rock">
-			<text>indie rock</text>
-			<url>http://www.7digital.com/tags/indie-rock?partner=1401</url>
-			<count>4284</count>
-		</tag>
-		<tag id="middle-eastern">
-			<text>middle eastern</text>
-			<url>http://www.7digital.com/tags/middle-eastern?partner=1401</url>
-			<count>4043</count>
-		</tag>
-		<tag id="turkish">
-			<text>turkish</text>
-			<url>http://www.7digital.com/tags/turkish?partner=1401</url>
-			<count>3918</count>
-		</tag>
-		<tag id="lounge">
-			<text>lounge</text>
-			<url>http://www.7digital.com/tags/lounge?partner=1401</url>
-			<count>3849</count>
-		</tag>
-		<tag id="singer-songwriter">
-			<text>singer songwriter</text>
-			<url>http://www.7digital.com/tags/singer-songwriter?partner=1401</url>
-			<count>3839</count>
 		</tag>
 	</tags>
 </response>
