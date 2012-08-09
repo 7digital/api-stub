@@ -1,0 +1,538 @@
+<?xml version="1.0" encoding="utf-8"?>
+<response status="ok" version="1.2" xsi:noNamespaceSchemaLocation="http://api.7digital.com/1.2/static/7digitalAPI.xsd" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <searchResults>
+    <page>1</page>
+    <pageSize>10</pageSize>
+    <totalItems>1211</totalItems>
+    <searchResult>
+      <type>track</type>
+      <score>12.545035</score>
+      <track id="18409650">
+        <title>Silenced By The Night</title>
+        <version />
+        <artist id="1">
+          <name>Keane</name>
+          <appearsAs>Keane</appearsAs>
+          <url>http://www.7digital.com/artist/keane/?partner=1401</url>
+        </artist>
+        <trackNumber>2</trackNumber>
+        <duration>196</duration>
+        <explicitContent>false</explicitContent>
+        <isrc>GBUM71201137</isrc>
+        <type>audio</type>
+        <release id="1685647">
+          <title>Strangeland</title>
+          <version />
+          <type>Album</type>
+          <artist id="1">
+            <name>Keane</name>
+            <appearsAs>Keane</appearsAs>
+            <url>http://www.7digital.com/artist/keane/?partner=1401</url>
+          </artist>
+          <url>http://www.7digital.com/artist/keane/release/strangeland/?partner=1401</url>
+          <image>http://cdn.7static.com/static/img/sleeveart/00/016/856/0001685647_50.jpg</image>
+          <releaseDate>2012-05-06T23:00:00+01:00</releaseDate>
+          <formats availableDrmFree="true">
+            <format id="17">
+              <fileFormat>MP3</fileFormat>
+              <bitRate>320</bitRate>
+              <drmFree>true</drmFree>
+            </format>
+            <format id="26">
+              <fileFormat>MP3</fileFormat>
+              <bitRate>128</bitRate>
+              <drmFree>true</drmFree>
+            </format>
+          </formats>
+          <popularity>0</popularity>
+        </release>
+        <url>http://www.7digital.com/artist/keane/release/strangeland/?partner=1401&amp;h=02</url>
+        <price>
+          <currency code="GBP">ü/currency>
+            <value>0.99</value>
+            <formattedPrice>ð.99</formattedPrice>
+            <onSale>false</onSale>
+          </price>
+          <streamingReleaseDate>2012-05-06T23:00:00+01:00</streamingReleaseDate>
+        </track>
+      </searchResult>
+      <searchResult>
+        <type>track</type>
+        <score>11.923084</score>
+        <track id="18409658">
+          <title>Sovereign Light Caf鼯title>
+            <version />
+            <artist id="1">
+              <name>Keane</name>
+              <appearsAs>Keane</appearsAs>
+              <url>http://www.7digital.com/artist/keane/?partner=1401</url>
+            </artist>
+            <trackNumber>5</trackNumber>
+            <duration>219</duration>
+            <explicitContent>false</explicitContent>
+            <isrc>GBUM71201050</isrc>
+            <type>audio</type>
+            <release id="1685647">
+              <title>Strangeland</title>
+              <version />
+              <type>Album</type>
+              <artist id="1">
+                <name>Keane</name>
+                <appearsAs>Keane</appearsAs>
+                <url>http://www.7digital.com/artist/keane/?partner=1401</url>
+              </artist>
+              <url>http://www.7digital.com/artist/keane/release/strangeland/?partner=1401</url>
+              <image>http://cdn.7static.com/static/img/sleeveart/00/016/856/0001685647_50.jpg</image>
+              <releaseDate>2012-05-06T23:00:00+01:00</releaseDate>
+              <formats availableDrmFree="true">
+                <format id="17">
+                  <fileFormat>MP3</fileFormat>
+                  <bitRate>320</bitRate>
+                  <drmFree>true</drmFree>
+                </format>
+                <format id="26">
+                  <fileFormat>MP3</fileFormat>
+                  <bitRate>128</bitRate>
+                  <drmFree>true</drmFree>
+                </format>
+              </formats>
+              <popularity>0</popularity>
+            </release>
+            <url>http://www.7digital.com/artist/keane/release/strangeland/?partner=1401&amp;h=05</url>
+            <price>
+              <currency code="GBP">ü/currency>
+                <value>0.99</value>
+                <formattedPrice>ð.99</formattedPrice>
+                <onSale>false</onSale>
+              </price>
+              <streamingReleaseDate>2012-05-06T23:00:00+01:00</streamingReleaseDate>
+            </track>
+          </searchResult>
+          <searchResult>
+            <type>track</type>
+            <score>11.61997</score>
+            <track id="18409645">
+              <title>You Are Young</title>
+              <version />
+              <artist id="1">
+                <name>Keane</name>
+                <appearsAs>Keane</appearsAs>
+                <url>http://www.7digital.com/artist/keane/?partner=1401</url>
+              </artist>
+              <trackNumber>1</trackNumber>
+              <duration>215</duration>
+              <explicitContent>false</explicitContent>
+              <isrc>GBUM71201143</isrc>
+              <type>audio</type>
+              <release id="1685647">
+                <title>Strangeland</title>
+                <version />
+                <type>Album</type>
+                <artist id="1">
+                  <name>Keane</name>
+                  <appearsAs>Keane</appearsAs>
+                  <url>http://www.7digital.com/artist/keane/?partner=1401</url>
+                </artist>
+                <url>http://www.7digital.com/artist/keane/release/strangeland/?partner=1401</url>
+                <image>http://cdn.7static.com/static/img/sleeveart/00/016/856/0001685647_50.jpg</image>
+                <releaseDate>2012-05-06T23:00:00+01:00</releaseDate>
+                <formats availableDrmFree="true">
+                  <format id="17">
+                    <fileFormat>MP3</fileFormat>
+                    <bitRate>320</bitRate>
+                    <drmFree>true</drmFree>
+                  </format>
+                  <format id="26">
+                    <fileFormat>MP3</fileFormat>
+                    <bitRate>128</bitRate>
+                    <drmFree>true</drmFree>
+                  </format>
+                </formats>
+                <popularity>0</popularity>
+              </release>
+              <url>http://www.7digital.com/artist/keane/release/strangeland/?partner=1401&amp;h=01</url>
+              <price>
+                <currency code="GBP">ü/currency>
+                  <value>0.99</value>
+                  <formattedPrice>ð.99</formattedPrice>
+                  <onSale>false</onSale>
+                </price>
+                <streamingReleaseDate>2012-05-06T23:00:00+01:00</streamingReleaseDate>
+              </track>
+            </searchResult>
+            <searchResult>
+              <type>track</type>
+              <score>10.741533</score>
+              <track id="1535">
+                <title>Somewhere Only We Know</title>
+                <version />
+                <artist id="1">
+                  <name>Keane</name>
+                  <appearsAs>Keane</appearsAs>
+                  <url>http://www.7digital.com/artist/keane/?partner=1401</url>
+                </artist>
+                <trackNumber>1</trackNumber>
+                <duration>237</duration>
+                <explicitContent>false</explicitContent>
+                <isrc>GBAAN0300664</isrc>
+                <type>audio</type>
+                <release id="112">
+                  <title>Hopes And Fears</title>
+                  <version>UK version</version>
+                  <type>Album</type>
+                  <artist id="1">
+                    <name>Keane</name>
+                    <appearsAs>Keane</appearsAs>
+                    <url>http://www.7digital.com/artist/keane/?partner=1401</url>
+                  </artist>
+                  <url>http://www.7digital.com/artist/keane/release/hopes-and-fears-uk-version/?partner=1401</url>
+                  <image>http://cdn.7static.com/static/img/sleeveart/00/000/001/0000000112_50.jpg</image>
+                  <releaseDate>2004-05-01T23:00:00+01:00</releaseDate>
+                  <formats availableDrmFree="true">
+                    <format id="17">
+                      <fileFormat>MP3</fileFormat>
+                      <bitRate>320</bitRate>
+                      <drmFree>true</drmFree>
+                    </format>
+                    <format id="1">
+                      <fileFormat>WMA</fileFormat>
+                      <bitRate>192</bitRate>
+                      <drmFree>false</drmFree>
+                    </format>
+                    <format id="26">
+                      <fileFormat>MP3</fileFormat>
+                      <bitRate>128</bitRate>
+                      <drmFree>true</drmFree>
+                    </format>
+                  </formats>
+                  <popularity>0</popularity>
+                </release>
+                <url>http://www.7digital.com/artist/keane/release/hopes-and-fears-uk-version/?partner=1401&amp;h=01</url>
+                <price>
+                  <currency code="GBP">ü/currency>
+                    <value>0.99</value>
+                    <formattedPrice>ð.99</formattedPrice>
+                    <onSale>false</onSale>
+                  </price>
+                  <streamingReleaseDate>2004-02-16T00:00:00+00:00</streamingReleaseDate>
+                </track>
+              </searchResult>
+              <searchResult>
+                <type>track</type>
+                <score>10.741533</score>
+                <track id="1535">
+                  <title>Somewhere Only We Know</title>
+                  <version />
+                  <artist id="1">
+                    <name>Keane</name>
+                    <appearsAs>Keane</appearsAs>
+                    <url>http://www.7digital.com/artist/keane/?partner=1401</url>
+                  </artist>
+                  <trackNumber>1</trackNumber>
+                  <duration>237</duration>
+                  <explicitContent>false</explicitContent>
+                  <isrc>GBAAN0300664</isrc>
+                  <type>audio</type>
+                  <release id="135">
+                    <title>Somewhere Only We Know</title>
+                    <version>Enhanced</version>
+                    <type>Single</type>
+                    <artist id="1">
+                      <name>Keane</name>
+                      <appearsAs>Keane</appearsAs>
+                      <url>http://www.7digital.com/artist/keane/?partner=1401</url>
+                    </artist>
+                    <url>http://www.7digital.com/artist/keane/release/somewhere-only-we-know-enhanced/?partner=1401</url>
+                    <image>http://cdn.7static.com/static/img/sleeveart/00/000/001/0000000135_50.jpg</image>
+                    <releaseDate>2004-02-16T00:00:00+00:00</releaseDate>
+                    <formats availableDrmFree="true">
+                      <format id="17">
+                        <fileFormat>MP3</fileFormat>
+                        <bitRate>320</bitRate>
+                        <drmFree>true</drmFree>
+                      </format>
+                      <format id="1">
+                        <fileFormat>WMA</fileFormat>
+                        <bitRate>192</bitRate>
+                        <drmFree>false</drmFree>
+                      </format>
+                      <format id="26">
+                        <fileFormat>MP3</fileFormat>
+                        <bitRate>128</bitRate>
+                        <drmFree>true</drmFree>
+                      </format>
+                    </formats>
+                    <popularity>0</popularity>
+                  </release>
+                  <url>http://www.7digital.com/artist/keane/release/somewhere-only-we-know-enhanced/?partner=1401&amp;h=01</url>
+                  <price>
+                    <currency code="GBP">ü/currency>
+                      <value>0.99</value>
+                      <formattedPrice>ð.99</formattedPrice>
+                      <onSale>false</onSale>
+                    </price>
+                    <streamingReleaseDate>2004-02-16T00:00:00+00:00</streamingReleaseDate>
+                  </track>
+                </searchResult>
+                <searchResult>
+                  <type>track</type>
+                  <score>10.458876</score>
+                  <track id="18409653">
+                    <title>Disconnected</title>
+                    <version />
+                    <artist id="1">
+                      <name>Keane</name>
+                      <appearsAs>Keane</appearsAs>
+                      <url>http://www.7digital.com/artist/keane/?partner=1401</url>
+                    </artist>
+                    <trackNumber>3</trackNumber>
+                    <duration>238</duration>
+                    <explicitContent>false</explicitContent>
+                    <isrc>GBUM71201128</isrc>
+                    <type>audio</type>
+                    <release id="1685647">
+                      <title>Strangeland</title>
+                      <version />
+                      <type>Album</type>
+                      <artist id="1">
+                        <name>Keane</name>
+                        <appearsAs>Keane</appearsAs>
+                        <url>http://www.7digital.com/artist/keane/?partner=1401</url>
+                      </artist>
+                      <url>http://www.7digital.com/artist/keane/release/strangeland/?partner=1401</url>
+                      <image>http://cdn.7static.com/static/img/sleeveart/00/016/856/0001685647_50.jpg</image>
+                      <releaseDate>2012-05-06T23:00:00+01:00</releaseDate>
+                      <formats availableDrmFree="true">
+                        <format id="17">
+                          <fileFormat>MP3</fileFormat>
+                          <bitRate>320</bitRate>
+                          <drmFree>true</drmFree>
+                        </format>
+                        <format id="26">
+                          <fileFormat>MP3</fileFormat>
+                          <bitRate>128</bitRate>
+                          <drmFree>true</drmFree>
+                        </format>
+                      </formats>
+                      <popularity>0</popularity>
+                    </release>
+                    <url>http://www.7digital.com/artist/keane/release/strangeland/?partner=1401&amp;h=03</url>
+                    <price>
+                      <currency code="GBP">ü/currency>
+                        <value>0.99</value>
+                        <formattedPrice>ð.99</formattedPrice>
+                        <onSale>false</onSale>
+                      </price>
+                      <streamingReleaseDate>2012-05-06T23:00:00+01:00</streamingReleaseDate>
+                    </track>
+                  </searchResult>
+                  <searchResult>
+                    <type>track</type>
+                    <score>10.181222</score>
+                    <track id="6944484">
+                      <title>Somewhere Only We Know</title>
+                      <version />
+                      <artist id="1">
+                        <name>Keane</name>
+                        <appearsAs>Keane</appearsAs>
+                        <url>http://www.7digital.com/artist/keane/?partner=1401</url>
+                      </artist>
+                      <trackNumber>1</trackNumber>
+                      <duration>238</duration>
+                      <explicitContent>false</explicitContent>
+                      <isrc>GBAAN0300664</isrc>
+                      <type>audio</type>
+                      <release id="625642">
+                        <title>Hopes and Fears</title>
+                        <version>Deluxe Edition</version>
+                        <type>Album</type>
+                        <artist id="1">
+                          <name>Keane</name>
+                          <appearsAs>Keane</appearsAs>
+                          <url>http://www.7digital.com/artist/keane/?partner=1401</url>
+                        </artist>
+                        <url>http://www.7digital.com/artist/keane/release/hopes-and-fears-3/?partner=1401</url>
+                        <image>http://cdn.7static.com/static/img/sleeveart/00/006/256/0000625642_50.jpg</image>
+                        <releaseDate>2009-11-09T00:00:00+00:00</releaseDate>
+                        <formats availableDrmFree="true">
+                          <format id="17">
+                            <fileFormat>MP3</fileFormat>
+                            <bitRate>320</bitRate>
+                            <drmFree>true</drmFree>
+                          </format>
+                          <format id="26">
+                            <fileFormat>MP3</fileFormat>
+                            <bitRate>128</bitRate>
+                            <drmFree>true</drmFree>
+                          </format>
+                        </formats>
+                        <popularity>0</popularity>
+                      </release>
+                      <url>http://www.7digital.com/artist/keane/release/hopes-and-fears-3/?partner=1401&amp;h=01</url>
+                      <price>
+                        <currency code="GBP">ü/currency>
+                          <value>0.99</value>
+                          <formattedPrice>ð.99</formattedPrice>
+                          <onSale>false</onSale>
+                        </price>
+                        <streamingReleaseDate>2009-11-09T00:00:00+00:00</streamingReleaseDate>
+                      </track>
+                    </searchResult>
+                    <searchResult>
+                      <type>track</type>
+                      <score>10.181222</score>
+                      <track id="18409656">
+                        <title>Watch How You Go</title>
+                        <version />
+                        <artist id="1">
+                          <name>Keane</name>
+                          <appearsAs>Keane</appearsAs>
+                          <url>http://www.7digital.com/artist/keane/?partner=1401</url>
+                        </artist>
+                        <trackNumber>4</trackNumber>
+                        <duration>220</duration>
+                        <explicitContent>false</explicitContent>
+                        <isrc>GBUM71201141</isrc>
+                        <type>audio</type>
+                        <release id="1685647">
+                          <title>Strangeland</title>
+                          <version />
+                          <type>Album</type>
+                          <artist id="1">
+                            <name>Keane</name>
+                            <appearsAs>Keane</appearsAs>
+                            <url>http://www.7digital.com/artist/keane/?partner=1401</url>
+                          </artist>
+                          <url>http://www.7digital.com/artist/keane/release/strangeland/?partner=1401</url>
+                          <image>http://cdn.7static.com/static/img/sleeveart/00/016/856/0001685647_50.jpg</image>
+                          <releaseDate>2012-05-06T23:00:00+01:00</releaseDate>
+                          <formats availableDrmFree="true">
+                            <format id="17">
+                              <fileFormat>MP3</fileFormat>
+                              <bitRate>320</bitRate>
+                              <drmFree>true</drmFree>
+                            </format>
+                            <format id="26">
+                              <fileFormat>MP3</fileFormat>
+                              <bitRate>128</bitRate>
+                              <drmFree>true</drmFree>
+                            </format>
+                          </formats>
+                          <popularity>0</popularity>
+                        </release>
+                        <url>http://www.7digital.com/artist/keane/release/strangeland/?partner=1401&amp;h=04</url>
+                        <price>
+                          <currency code="GBP">ü/currency>
+                            <value>0.99</value>
+                            <formattedPrice>ð.99</formattedPrice>
+                            <onSale>false</onSale>
+                          </price>
+                          <streamingReleaseDate>2012-05-06T23:00:00+01:00</streamingReleaseDate>
+                        </track>
+                      </searchResult>
+                      <searchResult>
+                        <type>track</type>
+                        <score>10.181222</score>
+                        <track id="18409661">
+                          <title>On The Road</title>
+                          <version />
+                          <artist id="1">
+                            <name>Keane</name>
+                            <appearsAs>Keane</appearsAs>
+                            <url>http://www.7digital.com/artist/keane/?partner=1401</url>
+                          </artist>
+                          <trackNumber>6</trackNumber>
+                          <duration>237</duration>
+                          <explicitContent>false</explicitContent>
+                          <isrc>GBUM71201134</isrc>
+                          <type>audio</type>
+                          <release id="1685647">
+                            <title>Strangeland</title>
+                            <version />
+                            <type>Album</type>
+                            <artist id="1">
+                              <name>Keane</name>
+                              <appearsAs>Keane</appearsAs>
+                              <url>http://www.7digital.com/artist/keane/?partner=1401</url>
+                            </artist>
+                            <url>http://www.7digital.com/artist/keane/release/strangeland/?partner=1401</url>
+                            <image>http://cdn.7static.com/static/img/sleeveart/00/016/856/0001685647_50.jpg</image>
+                            <releaseDate>2012-05-06T23:00:00+01:00</releaseDate>
+                            <formats availableDrmFree="true">
+                              <format id="17">
+                                <fileFormat>MP3</fileFormat>
+                                <bitRate>320</bitRate>
+                                <drmFree>true</drmFree>
+                              </format>
+                              <format id="26">
+                                <fileFormat>MP3</fileFormat>
+                                <bitRate>128</bitRate>
+                                <drmFree>true</drmFree>
+                              </format>
+                            </formats>
+                            <popularity>0</popularity>
+                          </release>
+                          <url>http://www.7digital.com/artist/keane/release/strangeland/?partner=1401&amp;h=06</url>
+                          <price>
+                            <currency code="GBP">ü/currency>
+                              <value>0.99</value>
+                              <formattedPrice>ð.99</formattedPrice>
+                              <onSale>false</onSale>
+                            </price>
+                            <streamingReleaseDate>2012-05-06T23:00:00+01:00</streamingReleaseDate>
+                          </track>
+                        </searchResult>
+                        <searchResult>
+                          <type>track</type>
+                          <score>9.908525</score>
+                          <track id="18409690">
+                            <title>You Are Young</title>
+                            <version />
+                            <artist id="1">
+                              <name>Keane</name>
+                              <appearsAs>Keane</appearsAs>
+                              <url>http://www.7digital.com/artist/keane/?partner=1401</url>
+                            </artist>
+                            <trackNumber>1</trackNumber>
+                            <duration>215</duration>
+                            <explicitContent>false</explicitContent>
+                            <isrc>GBUM71201143</isrc>
+                            <type>audio</type>
+                            <release id="1685650">
+                              <title>Strangeland</title>
+                              <version>Deluxe Version</version>
+                              <type>Album</type>
+                              <artist id="1">
+                                <name>Keane</name>
+                                <appearsAs>Keane</appearsAs>
+                                <url>http://www.7digital.com/artist/keane/?partner=1401</url>
+                              </artist>
+                              <url>http://www.7digital.com/artist/keane/release/strangeland-1/?partner=1401</url>
+                              <image>http://cdn.7static.com/static/img/sleeveart/00/016/856/0001685650_50.jpg</image>
+                              <releaseDate>2012-05-06T23:00:00+01:00</releaseDate>
+                              <formats availableDrmFree="true">
+                                <format id="17">
+                                  <fileFormat>MP3</fileFormat>
+                                  <bitRate>320</bitRate>
+                                  <drmFree>true</drmFree>
+                                </format>
+                                <format id="26">
+                                  <fileFormat>MP3</fileFormat>
+                                  <bitRate>128</bitRate>
+                                  <drmFree>true</drmFree>
+                                </format>
+                              </formats>
+                              <popularity>0</popularity>
+                            </release>
+                            <url>http://www.7digital.com/artist/keane/release/strangeland-1/?partner=1401&amp;h=01</url>
+                            <price>
+                              <currency code="GBP">ü/currency>
+                                <value>0.99</value>
+                                <formattedPrice>ð.99</formattedPrice>
+                                <onSale>false</onSale>
+                              </price>
+                              <streamingReleaseDate>2012-05-06T23:00:00+01:00</streamingReleaseDate>
+                            </track>
+                          </searchResult>
+                        </searchResults>
+                      </response>
