@@ -71,7 +71,7 @@ server.get('/merchandising/list/details', conventions.key);
 
 // Territories
 server.get('/country/resolve', conventions.serveDefault);
-
+server.get('/country/georestrictions/checkout', conventions.serveDefault);
 //payment
 server.get('/user/payment/card', conventions.userId);
 server.post('/user/payment/card/select', conventions.serveDefault);
