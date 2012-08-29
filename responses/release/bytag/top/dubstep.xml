@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<response status="ok" version="1.2" xsi:noNamespaceSchemaLocation="http://api.7digital.com/1.2/static/7digitalAPI.xsd" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<taggedResults>
+		<page>1</page>
+		<pageSize>60</pageSize>
+		<totalItems>16327</totalItems>
+		<type>release</type>
+		<taggedItem>
+			<release id="1347421">
+				<title>Wub Wub Wub</title>
+				<version />
+				<type>Album</type>
+				<barcode>3700551721238</barcode>
+				<year>2011</year>
+				<explicitContent>false</explicitContent>
+				<artist id="209">
+					<name>Various Artists</name>
+					<appearsAs>Various Artists</appearsAs>
+					<url>http://www.7digital.com/artists/various-artists/?partner=1401</url>
+				</artist>
+				<url>http://www.7digital.com/artists/various-artists/7digital-essential-blues/?partner=1401</url>
+				<image>http://cdn.7static.com/static/img/sleeveart/00/013/474/0001347421_50.jpg</image>
+				<releaseDate>2011-07-18T00:00:00+01:00</releaseDate>
+				<addedDate>2011-08-16T17:36:30+01:00</addedDate>
+				<popularity>0.6</popularity>
+			</release>
+		</taggedItem>
+		<taggedItem>
+			<release id="829228">
+				<title>Wob wob wob</title>
+				<version />
+				<type>Single</type>
+				<barcode>7340027013533</barcode>
+				<year>2010</year>
+				<explicitContent>false</explicitContent>
+				<artist id="4342">
+					<name>The wob</name>
+					<appearsAs>The wob</appearsAs>
+					<url>http://www.7digital.com/artists/ray-charles/?partner=1401</url>
+				</artist>
+				<url>http://www.7digital.com/artists/ray-charles/top-5-ray-charles-ep/?partner=1401</url>
+				<image>http://cdn.7static.com/static/img/sleeveart/00/008/292/0000829228_50.jpg</image>
+				<releaseDate>2010-05-11T00:00:00+01:00</releaseDate>
+				<addedDate>2010-05-12T16:53:37+01:00</addedDate>
+				<popularity>0.55</popularity>
+			</release>
+		</taggedItem>
+		<taggedItem>
+			<release id="829228">
+				<title>Wub wob wibble winggg</title>
+				<version />
+				<type>Single</type>
+				<barcode>7340027013533</barcode>
+				<year>2010</year>
+				<explicitContent>false</explicitContent>
+				<artist id="4342">
+					<name>The wob</name>
+					<appearsAs>The wob</appearsAs>
+					<url>http://www.7digital.com/artists/ray-charles/?partner=1401</url>
+				</artist>
+				<url>http://www.7digital.com/artists/ray-charles/top-5-ray-charles-ep/?partner=1401</url>
+				<image>http://cdn.7static.com/static/img/sleeveart/00/008/292/0000829228_50.jpg</image>
+				<releaseDate>2010-05-11T00:00:00+01:00</releaseDate>
+				<addedDate>2010-05-12T16:53:37+01:00</addedDate>
+				<popularity>0.55</popularity>
+			</release>
+		</taggedItem>
+	</taggedResults>
+</response>
