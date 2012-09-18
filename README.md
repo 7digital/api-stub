@@ -26,6 +26,8 @@ Then you can install the dependencies via npm as usual (for npm >=1.0)
 
     npm install
 
+To be able to access the API through IIS you will need to install [iisnode](https://github.com/tjanczuk/iisnode/blob/master/README.md)	
+	
 USAGE
 =====
 
