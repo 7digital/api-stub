@@ -146,6 +146,10 @@ describe("should return successful responses for ", function(){
 			name:"country/resolve",
 			url: '/country/resolve?ipAddress=84.45.95.241'
 		},
+		{
+			name:"countries",
+			url: '/countries'
+		},
 		//locker
 		{
 			name:"user/locker",

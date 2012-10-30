@@ -70,6 +70,7 @@ server.get('/user/locker', conventions.locker);
 server.get('/merchandising/list/details', conventions.key);
 
 // Territories
+server.get('/countries', conventions.serveDefault);
 server.get('/country/resolve', conventions.serveDefault);
 server.get('/country/georestrictions/checkout', conventions.serveDefault);
 //payment
