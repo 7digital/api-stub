@@ -51,6 +51,7 @@ server.get('/release/tracks', conventions.id);
 server.get('/track/chart', conventions.serveDefault);
 server.get('/track/details', conventions.id);
 server.get('/track/search2', conventions.search);
+server.get('/track/search', conventions.search);
 
 // Catalogue
 server.get('/catalogue/artist/:artistName', conventions.serveDefault);
