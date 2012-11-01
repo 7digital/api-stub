@@ -81,6 +81,9 @@ server.post('/user/payment/card/add', conventions.cardNumber);
 server.post('/user/payment/card/delete', conventions.serveDefault);
 server.get('/payment/card/type', conventions.serveDefault);
 
+//trackownership
+server.post('/trackownership/user/:userId',conventions.serveTrackownership);
+
 //tag
 server.get('/tag', conventions.tag);
 
