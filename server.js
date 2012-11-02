@@ -75,7 +75,7 @@ server.get('/countries', conventions.serveDefault);
 server.get('/country/resolve', conventions.serveDefault);
 server.get('/country/georestrictions/checkout', conventions.serveDefault);
 //payment
-server.get('/user/payment/card', conventions.userId);
+server.get('/user/payment/card', conventions.serveDefault);
 server.post('/user/payment/card/select', conventions.serveDefault);
 server.post('/user/payment/card/add', conventions.cardNumber);
 server.post('/user/payment/card/delete', conventions.serveDefault);
