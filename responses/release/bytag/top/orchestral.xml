@@ -1,0 +1,218 @@
+<response status="ok" version="1.2" xsi:noNamespaceSchemaLocation="http://api.7digital.com/1.2/static/7digitalAPI.xsd" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <taggedResults>
+    <page>1</page>
+    <pageSize>10</pageSize>
+    <totalItems>8083</totalItems>
+    <type>release</type>
+    <taggedItem>
+      <release id="838472">
+        <title>101 Greatest Classics - Vol. 1</title>
+        <version />
+        <type>Album</type>
+        <barcode>5035462050015</barcode>
+        <year>2010</year>
+        <explicitContent>false</explicitContent>
+        <artist id="209">
+          <name>Various Artists</name>
+          <appearsAs>Various Artists</appearsAs>
+          <url>http://www.7digital.com/artist/various-artists/?partner=1401</url>
+        </artist>
+        <url>http://www.7digital.com/artist/various-artists/release/101-greatest-classics-vol-1/?partner=1401</url>
+        <image>http://cdn.7static.com/static/img/sleeveart/00/008/384/0000838472_50.jpg</image>
+        <releaseDate>2010-04-23T00:00:00+01:00</releaseDate>
+        <addedDate>2010-05-18T15:50:19+01:00</addedDate>
+        <popularity>0.53</popularity>
+        <streamingReleaseDate>2010-04-23T00:00:00+01:00</streamingReleaseDate>
+      </release>
+    </taggedItem>
+    <taggedItem>
+      <release id="1066267">
+        <title>The Best of Hans Zimmer</title>
+        <version />
+        <type>Album</type>
+        <barcode>738572453848</barcode>
+        <year>2011</year>
+        <explicitContent>false</explicitContent>
+        <artist id="115055">
+          <name>The City of Prague Philharmonic Orchestra</name>
+          <appearsAs>City of Prague Philharmonic Orchestra, The</appearsAs>
+          <url>http://www.7digital.com/artist/the-city-of-prague-philharmonic-orchestra/?partner=1401</url>
+        </artist>
+        <url>http://www.7digital.com/artist/the-city-of-prague-philharmonic-orchestra/release/the-best-of-hans-zimmer/?partner=1401</url>
+        <image>http://cdn.7static.com/static/img/sleeveart/00/010/662/0001066267_50.jpg</image>
+        <releaseDate>2011-02-07T00:00:00+00:00</releaseDate>
+        <addedDate>2011-01-20T12:28:39+00:00</addedDate>
+        <popularity>0.49</popularity>
+        <streamingReleaseDate>2011-02-07T00:00:00+00:00</streamingReleaseDate>
+      </release>
+    </taggedItem>
+    <taggedItem>
+      <release id="427121">
+        <title>Requiem for a Tower | Dream</title>
+        <version />
+        <type>Single</type>
+        <barcode>738572445447</barcode>
+        <year>2009</year>
+        <explicitContent>false</explicitContent>
+        <artist id="209">
+          <name>Various Artists</name>
+          <appearsAs>Various Artists</appearsAs>
+          <url>http://www.7digital.com/artist/various-artists/?partner=1401</url>
+        </artist>
+        <url>http://www.7digital.com/artist/various-artists/release/requiem-for-a-tower-dream/?partner=1401</url>
+        <image>http://cdn.7static.com/static/img/sleeveart/00/004/271/0000427121_50.jpg</image>
+        <releaseDate>2009-04-28T00:00:00+01:00</releaseDate>
+        <addedDate>2009-04-25T05:54:39+01:00</addedDate>
+        <popularity>0.47</popularity>
+        <streamingReleaseDate>2009-04-28T00:00:00+01:00</streamingReleaseDate>
+      </release>
+    </taggedItem>
+    <taggedItem>
+      <release id="1768246">
+        <title>Police Academy Theme</title>
+        <version />
+        <type>Single</type>
+        <barcode>738572464844</barcode>
+        <year>2012</year>
+        <explicitContent>false</explicitContent>
+        <artist id="166348">
+          <name>London Music Works</name>
+          <appearsAs>London Music Works</appearsAs>
+          <url>http://www.7digital.com/artist/london-music-works/?partner=1401</url>
+        </artist>
+        <url>http://www.7digital.com/artist/london-music-works/release/police-academy-theme/?partner=1401</url>
+        <image>http://cdn.7static.com/static/img/sleeveart/00/017/682/0001768246_50.jpg</image>
+        <releaseDate>2012-06-04T00:00:00+01:00</releaseDate>
+        <addedDate>2012-06-21T01:05:33+01:00</addedDate>
+        <popularity>0.46</popularity>
+        <streamingReleaseDate>3001-01-01T00:00:00+00:00</streamingReleaseDate>
+      </release>
+    </taggedItem>
+    <taggedItem>
+      <release id="777126">
+        <title>Batman Begins - Original Soundtrack</title>
+        <version />
+        <type>Album</type>
+        <barcode>738572131623</barcode>
+        <year>2010</year>
+        <explicitContent>false</explicitContent>
+        <artist id="579795">
+          <name>Hans Zimmer, James Newton Howard</name>
+          <appearsAs>Hans Zimmer, James Newton Howard</appearsAs>
+          <url>http://www.7digital.com/artist/hans-zimmer-james-newton-howard/?partner=1401</url>
+        </artist>
+        <url>http://www.7digital.com/artist/hans-zimmer-james-newton-howard/release/batman-begins-original-soundtrack/?partner=1401</url>
+        <image>http://cdn.7static.com/static/img/sleeveart/00/007/771/0000777126_50.jpg</image>
+        <releaseDate>2010-04-05T00:00:00+01:00</releaseDate>
+        <addedDate>2010-03-23T13:08:41+00:00</addedDate>
+        <popularity>0.46</popularity>
+        <streamingReleaseDate>2010-04-05T00:00:00+01:00</streamingReleaseDate>
+      </release>
+    </taggedItem>
+    <taggedItem>
+      <release id="1623634">
+        <title>The Walking Dead Theme Tune</title>
+        <version />
+        <type>Album</type>
+        <barcode>738572463045</barcode>
+        <year>2012</year>
+        <explicitContent>false</explicitContent>
+        <artist id="166348">
+          <name>London Music Works</name>
+          <appearsAs>London Music Works</appearsAs>
+          <url>http://www.7digital.com/artist/london-music-works/?partner=1401</url>
+        </artist>
+        <url>http://www.7digital.com/artist/london-music-works/release/the-walking-dead-theme-tune/?partner=1401</url>
+        <image>http://cdn.7static.com/static/img/sleeveart/00/016/236/0001623634_50.jpg</image>
+        <releaseDate>2012-02-27T00:00:00+00:00</releaseDate>
+        <addedDate>2012-03-01T17:24:28+00:00</addedDate>
+        <popularity>0.45</popularity>
+        <streamingReleaseDate>2012-02-27T00:00:00+00:00</streamingReleaseDate>
+      </release>
+    </taggedItem>
+    <taggedItem>
+      <release id="1605541">
+        <title>Music From The Twilight Saga</title>
+        <version />
+        <type>Album</type>
+        <barcode>738572138042</barcode>
+        <year>2012</year>
+        <explicitContent>false</explicitContent>
+        <artist id="115055">
+          <name>The City of Prague Philharmonic Orchestra</name>
+          <appearsAs>City of Prague Philharmonic Orchestra, The</appearsAs>
+          <url>http://www.7digital.com/artist/the-city-of-prague-philharmonic-orchestra/?partner=1401</url>
+        </artist>
+        <url>http://www.7digital.com/artist/the-city-of-prague-philharmonic-orchestra/release/music-from-the-twilight-saga/?partner=1401</url>
+        <image>http://cdn.7static.com/static/img/sleeveart/00/016/055/0001605541_50.jpg</image>
+        <releaseDate>2012-03-12T00:00:00+00:00</releaseDate>
+        <addedDate>2012-02-15T17:40:23+00:00</addedDate>
+        <popularity>0.45</popularity>
+        <streamingReleaseDate>2012-03-12T00:00:00+00:00</streamingReleaseDate>
+      </release>
+    </taggedItem>
+    <taggedItem>
+      <release id="1576116">
+        <title>Debussy: Complete Orchestral Works</title>
+        <version />
+        <type>Album</type>
+        <barcode>747313900237</barcode>
+        <year>2012</year>
+        <explicitContent>false</explicitContent>
+        <artist id="209">
+          <name>Various Artists</name>
+          <appearsAs>Various Artists</appearsAs>
+          <url>http://www.7digital.com/artist/various-artists/?partner=1401</url>
+        </artist>
+        <url>http://www.7digital.com/artist/various-artists/release/debussy-complete-orchestral-works/?partner=1401</url>
+        <image>http://cdn.7static.com/static/img/sleeveart/00/015/761/0001576116_50.jpg</image>
+        <releaseDate>2012-02-07T00:00:00+00:00</releaseDate>
+        <addedDate>2012-02-02T12:09:49+00:00</addedDate>
+        <popularity>0.45</popularity>
+        <streamingReleaseDate>2012-02-07T00:00:00+00:00</streamingReleaseDate>
+      </release>
+    </taggedItem>
+    <taggedItem>
+      <release id="1618956">
+        <title>Game Of Thrones Theme Tune</title>
+        <version />
+        <type>Single</type>
+        <barcode>738572462246</barcode>
+        <year>2012</year>
+        <explicitContent>false</explicitContent>
+        <artist id="166348">
+          <name>London Music Works</name>
+          <appearsAs>London Music Works</appearsAs>
+          <url>http://www.7digital.com/artist/london-music-works/?partner=1401</url>
+        </artist>
+        <url>http://www.7digital.com/artist/london-music-works/release/game-of-thrones-theme-tune/?partner=1401</url>
+        <image>http://cdn.7static.com/static/img/sleeveart/00/016/189/0001618956_50.jpg</image>
+        <releaseDate>2012-02-27T00:00:00+00:00</releaseDate>
+        <addedDate>2012-02-28T17:33:01+00:00</addedDate>
+        <popularity>0.44</popularity>
+        <streamingReleaseDate>2012-02-27T00:00:00+00:00</streamingReleaseDate>
+      </release>
+    </taggedItem>
+    <taggedItem>
+      <release id="1692123">
+        <title>Top Gun- Anthem from the Motion Picture (Harold Faltermeyer)</title>
+        <version />
+        <type>Album</type>
+        <barcode>084854299094</barcode>
+        <year>2012</year>
+        <explicitContent>false</explicitContent>
+        <artist id="1243400">
+          <name>Brandon K. Verrett</name>
+          <appearsAs>Brandon K. Verrett</appearsAs>
+          <url>http://www.7digital.com/artist/brandon-k-verrett/?partner=1401</url>
+        </artist>
+        <url>http://www.7digital.com/artist/brandon-k-verrett/release/top-gun-anthem-from-the-motion-picture-harold-faltermeyer/?partner=1401</url>
+        <image>http://cdn.7static.com/static/img/sleeveart/00/016/921/0001692123_50.jpg</image>
+        <releaseDate>2012-04-17T00:00:00+01:00</releaseDate>
+        <addedDate>2012-04-30T11:36:41+01:00</addedDate>
+        <popularity>0.44</popularity>
+        <streamingReleaseDate>2012-04-17T00:00:00+01:00</streamingReleaseDate>
+      </release>
+    </taggedItem>
+  </taggedResults>
+</response>

@@ -1,1209 +1,218 @@
-<?xml version="1.0" encoding="utf-8"?>
 <response status="ok" version="1.2" xsi:noNamespaceSchemaLocation="http://api.7digital.com/1.2/static/7digitalAPI.xsd" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-	<taggedResults>
-		<page>1</page>
-		<pageSize>60</pageSize>
-		<totalItems>130441</totalItems>
-		<type>release</type>
-		<taggedItem>
-			<release id="1722658">
-				<title>Born and Raised</title>
-				<version />
-				<type>Album</type>
-				<barcode>886443406308</barcode>
-				<year>2012</year>
-				<explicitContent>false</explicitContent>
-				<artist id="7032">
-					<name>John Mayer</name>
-					<appearsAs>John Mayer</appearsAs>
-					<url>http://www.7digital.com/artists/john-mayer/?partner=1401</url>
-				</artist>
-				<url>http://www.7digital.com/artists/john-mayer/born-and-raised/?partner=1401</url>
-				<image>http://cdn.7static.com/static/img/sleeveart/00/017/226/0001722658_50.jpg</image>
-				<releaseDate>2012-05-21T00:00:00+01:00</releaseDate>
-				<addedDate>2012-05-21T00:25:53+01:00</addedDate>
-				<popularity>0.72</popularity>
-			</release>
-		</taggedItem>
-		<taggedItem>
-			<release id="1635643">
-				<title>StreetDance 2</title>
-				<version />
-				<type>Album</type>
-				<barcode>00602527952918</barcode>
-				<year>2012</year>
-				<explicitContent>false</explicitContent>
-				<artist id="209">
-					<name>Various Artists</name>
-					<appearsAs>Various Artists</appearsAs>
-					<url>http://www.7digital.com/artists/various-artists/?partner=1401</url>
-				</artist>
-				<url>http://www.7digital.com/artists/various-artists/streetdance-2-ost/?partner=1401</url>
-				<image>http://cdn.7static.com/static/img/sleeveart/00/016/356/0001635643_50.jpg</image>
-				<releaseDate>2012-04-02T00:00:00+01:00</releaseDate>
-				<addedDate>2012-03-15T15:02:51+00:00</addedDate>
-				<popularity>0.69</popularity>
-			</release>
-		</taggedItem>
-		<taggedItem>
-			<release id="81735">
-				<title>Songs About Jane</title>
-				<version />
-				<type>Album</type>
-				<barcode>00823765000128</barcode>
-				<year>2007</year>
-				<explicitContent>false</explicitContent>
-				<artist id="222">
-					<name>Maroon 5</name>
-					<appearsAs>Maroon 5</appearsAs>
-					<url>http://www.7digital.com/artists/maroon-5/?partner=1401</url>
-				</artist>
-				<url>http://www.7digital.com/artists/maroon-5/songs-about-jane-2/?partner=1401</url>
-				<image>http://cdn.7static.com/static/img/sleeveart/00/000/817/0000081735_50.jpg</image>
-				<releaseDate>2007-04-30T00:00:00+01:00</releaseDate>
-				<addedDate>2008-08-31T22:20:15+01:00</addedDate>
-				<popularity>0.69</popularity>
-			</release>
-		</taggedItem>
-		<taggedItem>
-			<release id="1617950">
-				<title>Wrecking Ball</title>
-				<version />
-				<type>Album</type>
-				<barcode>886443344761</barcode>
-				<year>2012</year>
-				<explicitContent>false</explicitContent>
-				<artist id="15122">
-					<name>Bruce Springsteen</name>
-					<appearsAs>Bruce Springsteen</appearsAs>
-					<url>http://www.7digital.com/artists/bruce-springsteen/?partner=1401</url>
-				</artist>
-				<url>http://www.7digital.com/artists/bruce-springsteen/wrecking-ball/?partner=1401</url>
-				<image>http://cdn.7static.com/static/img/sleeveart/00/016/179/0001617950_50.jpg</image>
-				<releaseDate>2012-03-05T00:00:00+00:00</releaseDate>
-				<addedDate>2012-02-28T05:00:44+00:00</addedDate>
-				<popularity>0.69</popularity>
-			</release>
-		</taggedItem>
-		<taggedItem>
-			<release id="1374356">
-				<title>Noel Gallagher's High Flying Birds</title>
-				<version />
-				<type>Album</type>
-				<barcode>5052945010106</barcode>
-				<year>2011</year>
-				<explicitContent>true</explicitContent>
-				<artist id="1075100">
-					<name>Noel Gallagher's High Flying Birds</name>
-					<appearsAs>Noel Gallagher's High Flying Birds</appearsAs>
-					<url>http://www.7digital.com/artists/noel-gallaghers-high-flying-birds/?partner=1401</url>
-				</artist>
-				<url>http://www.7digital.com/artists/noel-gallaghers-high-flying-birds/noel-gallaghers-high-flying-birds/?partner=1401</url>
-				<image>http://cdn.7static.com/static/img/sleeveart/00/013/743/0001374356_50.jpg</image>
-				<releaseDate>2011-10-17T00:00:00+01:00</releaseDate>
-				<addedDate>2011-08-23T14:34:31+01:00</addedDate>
-				<popularity>0.68</popularity>
-			</release>
-		</taggedItem>
-		<taggedItem>
-			<release id="1652305">
-				<title>Not Your Kind Of People</title>
-				<version />
-				<type>Album</type>
-				<barcode>00602537002665</barcode>
-				<year>2012</year>
-				<explicitContent>false</explicitContent>
-				<artist id="6048">
-					<name>Garbage</name>
-					<appearsAs>Garbage</appearsAs>
-					<url>http://www.7digital.com/artists/garbage/?partner=1401</url>
-				</artist>
-				<url>http://www.7digital.com/artists/garbage/not-your-kind-of-people/?partner=1401</url>
-				<image>http://cdn.7static.com/static/img/sleeveart/00/016/523/0001652305_50.jpg</image>
-				<releaseDate>2012-05-13T00:00:00+01:00</releaseDate>
-				<addedDate>2012-03-28T15:23:09+01:00</addedDate>
-				<popularity>0.67</popularity>
-			</release>
-		</taggedItem>
-		<taggedItem>
-			<release id="1707967">
-				<title>Apocalyptic Love</title>
-				<version />
-				<type>Album</type>
-				<barcode>016861767808</barcode>
-				<year>2012</year>
-				<explicitContent>false</explicitContent>
-				<artist id="146136">
-					<name>Slash</name>
-					<appearsAs>Slash</appearsAs>
-					<url>http://www.7digital.com/artists/slash/?partner=1401</url>
-				</artist>
-				<url>http://www.7digital.com/artists/slash/apocalyptic-love/?partner=1401</url>
-				<image>http://cdn.7static.com/static/img/sleeveart/00/017/079/0001707967_50.jpg</image>
-				<releaseDate>2012-05-21T00:00:00+01:00</releaseDate>
-				<addedDate>2012-05-11T12:38:14+01:00</addedDate>
-				<popularity>0.67</popularity>
-			</release>
-		</taggedItem>
-		<taggedItem>
-			<release id="1718971">
-				<title>That's Why God Made the Radio</title>
-				<version />
-				<type>Album</type>
-				<barcode>5099970467659</barcode>
-				<year>2012</year>
-				<explicitContent>false</explicitContent>
-				<artist id="364">
-					<name>The Beach Boys</name>
-					<appearsAs>Beach Boys, The</appearsAs>
-					<url>http://www.7digital.com/artists/the-beach-boys/?partner=1401</url>
-				</artist>
-				<url>http://www.7digital.com/artists/the-beach-boys/thats-why-god-made-the-radio-1/?partner=1401</url>
-				<image>http://cdn.7static.com/static/img/sleeveart/00/017/189/0001718971_50.jpg</image>
-				<releaseDate>2012-06-04T00:00:00+01:00</releaseDate>
-				<addedDate>2012-05-21T00:25:53+01:00</addedDate>
-				<popularity>0.66</popularity>
-			</release>
-		</taggedItem>
-		<taggedItem>
-			<release id="1192901">
-				<title>Wasting Light</title>
-				<version />
-				<type>Album</type>
-				<barcode>884977880991</barcode>
-				<year>2011</year>
-				<explicitContent>false</explicitContent>
-				<artist id="8293">
-					<name>Foo Fighters</name>
-					<appearsAs>Foo Fighters</appearsAs>
-					<url>http://www.7digital.com/artists/foo-fighters/?partner=1401</url>
-				</artist>
-				<url>http://www.7digital.com/artists/foo-fighters/wasting-light/?partner=1401</url>
-				<image>http://cdn.7static.com/static/img/sleeveart/00/011/929/0001192901_50.jpg</image>
-				<releaseDate>2011-04-11T00:00:00+01:00</releaseDate>
-				<addedDate>2011-03-25T10:35:31+00:00</addedDate>
-				<popularity>0.65</popularity>
-			</release>
-		</taggedItem>
-		<taggedItem>
-			<release id="1402123">
-				<title>The Dark Side Of The Moon (2011 - Remaster)</title>
-				<version />
-				<type>Album</type>
-				<barcode>5099902984056</barcode>
-				<year>2011</year>
-				<explicitContent>false</explicitContent>
-				<artist id="447">
-					<name>Pink Floyd</name>
-					<appearsAs>Pink Floyd</appearsAs>
-					<url>http://www.7digital.com/artists/pink-floyd/?partner=1401</url>
-				</artist>
-				<url>http://www.7digital.com/artists/pink-floyd/the-dark-side-of-the-moon-2011-remaster/?partner=1401</url>
-				<image>http://cdn.7static.com/static/img/sleeveart/00/014/021/0001402123_50.jpg</image>
-				<releaseDate>2011-09-26T00:00:00+01:00</releaseDate>
-				<addedDate>2011-09-19T17:58:25+01:00</addedDate>
-				<popularity>0.65</popularity>
-			</release>
-		</taggedItem>
-		<taggedItem>
-			<release id="1012124">
-				<title>Bon Jovi Greatest Hits</title>
-				<version />
-				<type>Album</type>
-				<barcode>00602527523361</barcode>
-				<year>2010</year>
-				<explicitContent>false</explicitContent>
-				<artist id="289">
-					<name>Bon Jovi</name>
-					<appearsAs>Bon Jovi</appearsAs>
-					<url>http://www.7digital.com/artists/bon-jovi/?partner=1401</url>
-				</artist>
-				<url>http://www.7digital.com/artists/bon-jovi/bon-jovi-greatest-hits/?partner=1401</url>
-				<image>http://cdn.7static.com/static/img/sleeveart/00/010/121/0001012124_50.jpg</image>
-				<releaseDate>2010-11-01T00:00:00+00:00</releaseDate>
-				<addedDate>2010-10-21T10:29:17+01:00</addedDate>
-				<popularity>0.65</popularity>
-			</release>
-		</taggedItem>
-		<taggedItem>
-			<release id="1123452">
-				<title>AC/DC Mania ( AC / DC Deluxe Version ) - 10 Massive ACDC Anthems!</title>
-				<version />
-				<type>Album</type>
-				<barcode>873990123727</barcode>
-				<year>2011</year>
-				<explicitContent>false</explicitContent>
-				<artist id="147739">
-					<name>The Rock Masters</name>
-					<appearsAs>Rock Masters, The</appearsAs>
-					<url>http://www.7digital.com/artists/the-rock-masters/?partner=1401</url>
-				</artist>
-				<url>http://www.7digital.com/artists/the-rock-masters/ac-dc-mania-ac-dc-deluxe-version-10-massive-acdc-anthems/?partner=1401</url>
-				<image>http://cdn.7static.com/static/img/sleeveart/00/011/234/0001123452_50.jpg</image>
-				<releaseDate>2011-01-03T00:00:00+00:00</releaseDate>
-				<addedDate>2011-01-20T12:29:24+00:00</addedDate>
-				<popularity>0.64</popularity>
-			</release>
-		</taggedItem>
-		<taggedItem>
-			<release id="1738673">
-				<title>Banga</title>
-				<version />
-				<type>Album</type>
-				<barcode>886443451414</barcode>
-				<year>2012</year>
-				<explicitContent>false</explicitContent>
-				<artist id="1194">
-					<name>Patti Smith</name>
-					<appearsAs>Patti Smith</appearsAs>
-					<url>http://www.7digital.com/artists/patti-smith/?partner=1401</url>
-				</artist>
-				<url>http://www.7digital.com/artists/patti-smith/banga/?partner=1401</url>
-				<image>http://cdn.7static.com/static/img/sleeveart/00/017/386/0001738673_50.jpg</image>
-				<releaseDate>2012-06-04T00:00:00+01:00</releaseDate>
-				<addedDate>2012-06-04T00:32:59+01:00</addedDate>
-				<popularity>0.64</popularity>
-			</release>
-		</taggedItem>
-		<taggedItem>
-			<release id="1740550">
-				<title>Clockwork Angels</title>
-				<version />
-				<type>Album</type>
-				<barcode>016861765606</barcode>
-				<year>2012</year>
-				<explicitContent>false</explicitContent>
-				<artist id="1364">
-					<name>Rush</name>
-					<appearsAs>Rush</appearsAs>
-					<url>http://www.7digital.com/artists/rush/?partner=1401</url>
-				</artist>
-				<url>http://www.7digital.com/artists/rush/clockwork-angels-1/?partner=1401</url>
-				<image>http://cdn.7static.com/static/img/sleeveart/00/017/405/0001740550_50.jpg</image>
-				<releaseDate>2012-06-11T00:00:00+01:00</releaseDate>
-				<addedDate>2012-06-11T16:28:51+01:00</addedDate>
-				<popularity>0.64</popularity>
-			</release>
-		</taggedItem>
-		<taggedItem>
-			<release id="1549483">
-				<title>2012 GRAMMY Nominees</title>
-				<version />
-				<type>Album</type>
-				<barcode>00602527908755</barcode>
-				<year>2012</year>
-				<explicitContent>false</explicitContent>
-				<artist id="209">
-					<name>Various Artists</name>
-					<appearsAs>Various Artists</appearsAs>
-					<url>http://www.7digital.com/artists/various-artists/?partner=1401</url>
-				</artist>
-				<url>http://www.7digital.com/artists/various-artists/2012-grammy-nominees/?partner=1401</url>
-				<image>http://cdn.7static.com/static/img/sleeveart/00/015/494/0001549483_50.jpg</image>
-				<releaseDate>2012-01-25T00:00:00+00:00</releaseDate>
-				<addedDate>2012-01-09T15:03:05+00:00</addedDate>
-				<popularity>0.63</popularity>
-			</release>
-		</taggedItem>
-		<taggedItem>
-			<release id="1311335">
-				<title>Time Of My Life</title>
-				<version />
-				<type>Album</type>
-				<barcode>00602527668109</barcode>
-				<year>2011</year>
-				<explicitContent>false</explicitContent>
-				<artist id="108">
-					<name>3 Doors Down</name>
-					<appearsAs>3 Doors Down</appearsAs>
-					<url>http://www.7digital.com/artists/3-doors-down/?partner=1401</url>
-				</artist>
-				<url>http://www.7digital.com/artists/3-doors-down/time-of-my-life-2/?partner=1401</url>
-				<image>http://cdn.7static.com/static/img/sleeveart/00/013/113/0001311335_50.jpg</image>
-				<releaseDate>2011-12-06T00:00:00+00:00</releaseDate>
-				<addedDate>2011-07-06T15:17:39+01:00</addedDate>
-				<popularity>0.62</popularity>
-			</release>
-		</taggedItem>
-		<taggedItem>
-			<release id="1404558">
-				<title>The Wall (2011 - Remaster)</title>
-				<version />
-				<type>Album</type>
-				<barcode>5099908217158</barcode>
-				<year>2012</year>
-				<explicitContent>false</explicitContent>
-				<artist id="447">
-					<name>Pink Floyd</name>
-					<appearsAs>Pink Floyd</appearsAs>
-					<url>http://www.7digital.com/artists/pink-floyd/?partner=1401</url>
-				</artist>
-				<url>http://www.7digital.com/artists/pink-floyd/the-wall-2011-remaster-1/?partner=1401</url>
-				<image>http://cdn.7static.com/static/img/sleeveart/00/014/045/0001404558_50.jpg</image>
-				<releaseDate>2012-02-27T00:00:00+00:00</releaseDate>
-				<addedDate>2011-09-22T18:55:35+01:00</addedDate>
-				<popularity>0.62</popularity>
-			</release>
-		</taggedItem>
-		<taggedItem>
-			<release id="1057275">
-				<title>Greatest Hits II</title>
-				<version>2011 Remaster</version>
-				<type>Album</type>
-				<barcode>00602527583655</barcode>
-				<year>2011</year>
-				<explicitContent>false</explicitContent>
-				<artist id="204">
-					<name>Queen</name>
-					<appearsAs>Queen</appearsAs>
-					<url>http://www.7digital.com/artists/queen/?partner=1401</url>
-				</artist>
-				<url>http://www.7digital.com/artists/queen/greatest-hits-ii-1/?partner=1401</url>
-				<image>http://cdn.7static.com/static/img/sleeveart/00/010/572/0001057275_50.jpg</image>
-				<releaseDate>2011-12-02T00:00:00+00:00</releaseDate>
-				<addedDate>2010-12-08T15:31:54+00:00</addedDate>
-				<popularity>0.62</popularity>
-			</release>
-		</taggedItem>
-		<taggedItem>
-			<release id="1707854">
-				<title>Words And Music By Saint Etienne</title>
-				<version />
-				<type>Album</type>
-				<barcode>00602527961705</barcode>
-				<year>2012</year>
-				<explicitContent>false</explicitContent>
-				<artist id="19185">
-					<name>Saint Etienne</name>
-					<appearsAs>Saint Etienne</appearsAs>
-					<url>http://www.7digital.com/artists/saint-etienne/?partner=1401</url>
-				</artist>
-				<url>http://www.7digital.com/artists/saint-etienne/words-and-music-by-saint-etienne/?partner=1401</url>
-				<image>http://cdn.7static.com/static/img/sleeveart/00/017/078/0001707854_50.jpg</image>
-				<releaseDate>2012-05-21T00:00:00+01:00</releaseDate>
-				<addedDate>2012-05-11T11:29:11+01:00</addedDate>
-				<popularity>0.62</popularity>
-			</release>
-		</taggedItem>
-		<taggedItem>
-			<release id="610252">
-				<title>Greatest Hits</title>
-				<version />
-				<type>Album</type>
-				<barcode>884977373295</barcode>
-				<year>2009</year>
-				<explicitContent>false</explicitContent>
-				<artist id="8293">
-					<name>Foo Fighters</name>
-					<appearsAs>Foo Fighters</appearsAs>
-					<url>http://www.7digital.com/artists/foo-fighters/?partner=1401</url>
-				</artist>
-				<url>http://www.7digital.com/artists/foo-fighters/greatest-hits/?partner=1401</url>
-				<image>http://cdn.7static.com/static/img/sleeveart/00/006/102/0000610252_50.jpg</image>
-				<releaseDate>2009-11-02T00:00:00+00:00</releaseDate>
-				<addedDate>2009-10-12T05:44:54+01:00</addedDate>
-				<popularity>0.62</popularity>
-			</release>
-		</taggedItem>
-		<taggedItem>
-			<release id="39899">
-				<title>Parachutes</title>
-				<version />
-				<type>Album</type>
-				<barcode>0067003016254</barcode>
-				<year>2006</year>
-				<explicitContent>false</explicitContent>
-				<artist id="20">
-					<name>Coldplay</name>
-					<appearsAs>Coldplay</appearsAs>
-					<url>http://www.7digital.com/artists/coldplay/?partner=1401</url>
-				</artist>
-				<url>http://www.7digital.com/artists/coldplay/parachutes-2/?partner=1401</url>
-				<image>http://cdn.7static.com/static/img/sleeveart/00/000/398/0000039899_50.jpg</image>
-				<releaseDate>2006-08-14T00:00:00+01:00</releaseDate>
-				<addedDate>2007-09-21T13:48:45+01:00</addedDate>
-				<popularity>0.61</popularity>
-			</release>
-		</taggedItem>
-		<taggedItem>
-			<release id="1702912">
-				<title>Souvenir : The Singles 2004 - 2012</title>
-				<version />
-				<type>Album</type>
-				<barcode>00602537022649</barcode>
-				<year>2012</year>
-				<explicitContent>false</explicitContent>
-				<artist id="615">
-					<name>Kaiser Chiefs</name>
-					<appearsAs>Kaiser Chiefs</appearsAs>
-					<url>http://www.7digital.com/artists/kaiser-chiefs/?partner=1401</url>
-				</artist>
-				<url>http://www.7digital.com/artists/kaiser-chiefs/souvenir-the-singles-2004-2012/?partner=1401</url>
-				<image>http://cdn.7static.com/static/img/sleeveart/00/017/029/0001702912_50.jpg</image>
-				<releaseDate>2012-06-04T00:00:00+01:00</releaseDate>
-				<addedDate>2012-05-09T15:32:02+01:00</addedDate>
-				<popularity>0.61</popularity>
-			</release>
-		</taggedItem>
-		<taggedItem>
-			<release id="1415492">
-				<title>The Best Of Pink Floyd: A Foot In The Door (2011 - Remaster)</title>
-				<version />
-				<type>Album</type>
-				<barcode>5099968088552</barcode>
-				<year>2011</year>
-				<explicitContent>false</explicitContent>
-				<artist id="447">
-					<name>Pink Floyd</name>
-					<appearsAs>Pink Floyd</appearsAs>
-					<url>http://www.7digital.com/artists/pink-floyd/?partner=1401</url>
-				</artist>
-				<url>http://www.7digital.com/artists/pink-floyd/a-foot-in-the-door-the-best-of-pink-floyd-2011-remaster/?partner=1401</url>
-				<image>http://cdn.7static.com/static/img/sleeveart/00/014/154/0001415492_50.jpg</image>
-				<releaseDate>2011-11-07T00:00:00+00:00</releaseDate>
-				<addedDate>2011-10-19T19:42:01+01:00</addedDate>
-				<popularity>0.61</popularity>
-			</release>
-		</taggedItem>
-		<taggedItem>
-			<release id="1708969">
-				<title>Rize Of The Fenix</title>
-				<version />
-				<type>Album</type>
-				<barcode>886443390812</barcode>
-				<year>2012</year>
-				<explicitContent>true</explicitContent>
-				<artist id="47866">
-					<name>Tenacious D</name>
-					<appearsAs>Tenacious D</appearsAs>
-					<url>http://www.7digital.com/artists/tenacious-d/?partner=1401</url>
-				</artist>
-				<url>http://www.7digital.com/artists/tenacious-d/rize-of-the-fenix-2/?partner=1401</url>
-				<image>http://cdn.7static.com/static/img/sleeveart/00/017/089/0001708969_50.jpg</image>
-				<releaseDate>2012-05-14T00:00:00+01:00</releaseDate>
-				<addedDate>2012-05-17T00:31:11+01:00</addedDate>
-				<popularity>0.61</popularity>
-			</release>
-		</taggedItem>
-		<taggedItem>
-			<release id="1627832">
-				<title>Race You To The Bottom</title>
-				<version />
-				<type>Single</type>
-				<barcode>075679962362</barcode>
-				<year>2012</year>
-				<explicitContent>false</explicitContent>
-				<artist id="923392">
-					<name>New Medicine</name>
-					<appearsAs>New Medicine</appearsAs>
-					<url>http://www.7digital.com/artists/new-medicine/?partner=1401</url>
-				</artist>
-				<url>http://www.7digital.com/artists/new-medicine/race-you-to-the-bottom-2/?partner=1401</url>
-				<image>http://cdn.7static.com/static/img/sleeveart/00/016/278/0001627832_50.jpg</image>
-				<releaseDate>2012-03-26T00:00:00+01:00</releaseDate>
-				<addedDate>2012-03-26T18:16:17+01:00</addedDate>
-				<popularity>0.6</popularity>
-			</release>
-		</taggedItem>
-		<taggedItem>
-			<release id="1655750">
-				<title>Jack Johnson &amp; Friends: Best Of Kokua Festival, A Benefit For The Kokua Hawaii Foundation</title>
-				<version />
-				<type>Album</type>
-				<barcode>00602527993102</barcode>
-				<year>2012</year>
-				<explicitContent>false</explicitContent>
-				<artist id="1613">
-					<name>Jack Johnson</name>
-					<appearsAs>Jack Johnson</appearsAs>
-					<url>http://www.7digital.com/artists/jack-johnson/?partner=1401</url>
-				</artist>
-				<url>http://www.7digital.com/artists/jack-johnson/jack-johnson-and-friends-best-of-kokua-festival/?partner=1401</url>
-				<image>http://cdn.7static.com/static/img/sleeveart/00/016/557/0001655750_50.jpg</image>
-				<releaseDate>2012-04-16T00:00:00+01:00</releaseDate>
-				<addedDate>2012-04-05T02:16:56+01:00</addedDate>
-				<popularity>0.6</popularity>
-			</release>
-		</taggedItem>
-		<taggedItem>
-			<release id="1056863">
-				<title>Greatest Hits</title>
-				<version>2011 Remaster</version>
-				<type>Album</type>
-				<barcode>00602527583648</barcode>
-				<year>2011</year>
-				<explicitContent>false</explicitContent>
-				<artist id="204">
-					<name>Queen</name>
-					<appearsAs>Queen</appearsAs>
-					<url>http://www.7digital.com/artists/queen/?partner=1401</url>
-				</artist>
-				<url>http://www.7digital.com/artists/queen/greatest-hits-2/?partner=1401</url>
-				<image>http://cdn.7static.com/static/img/sleeveart/00/010/568/0001056863_50.jpg</image>
-				<releaseDate>2011-01-03T00:00:00+00:00</releaseDate>
-				<addedDate>2010-12-07T15:34:00+00:00</addedDate>
-				<popularity>0.6</popularity>
-			</release>
-		</taggedItem>
-		<taggedItem>
-			<release id="1630398">
-				<title>Into The Night</title>
-				<version />
-				<type>Single</type>
-				<barcode>886788667815</barcode>
-				<year>2012</year>
-				<explicitContent>false</explicitContent>
-				<artist id="9786">
-					<name>The Raveonettes</name>
-					<appearsAs>Raveonettes, The</appearsAs>
-					<url>http://www.7digital.com/artists/the-raveonettes/?partner=1401</url>
-				</artist>
-				<url>http://www.7digital.com/artists/the-raveonettes/into-the-night/?partner=1401</url>
-				<image>http://cdn.7static.com/static/img/sleeveart/00/016/303/0001630398_50.jpg</image>
-				<releaseDate>2012-04-23T00:00:00+01:00</releaseDate>
-				<addedDate>2012-03-12T19:33:25+00:00</addedDate>
-				<popularity>0.6</popularity>
-			</release>
-		</taggedItem>
-		<taggedItem>
-			<release id="1617951">
-				<title>Wrecking Ball</title>
-				<version />
-				<type>Album</type>
-				<barcode>886443344778</barcode>
-				<year>2012</year>
-				<explicitContent>false</explicitContent>
-				<artist id="15122">
-					<name>Bruce Springsteen</name>
-					<appearsAs>Bruce Springsteen</appearsAs>
-					<url>http://www.7digital.com/artists/bruce-springsteen/?partner=1401</url>
-				</artist>
-				<url>http://www.7digital.com/artists/bruce-springsteen/wrecking-ball-1/?partner=1401</url>
-				<image>http://cdn.7static.com/static/img/sleeveart/00/016/179/0001617951_50.jpg</image>
-				<releaseDate>2012-03-05T00:00:00+00:00</releaseDate>
-				<addedDate>2012-02-28T05:01:14+00:00</addedDate>
-				<popularity>0.6</popularity>
-			</release>
-		</taggedItem>
-		<taggedItem>
-			<release id="20891">
-				<title>Anthology</title>
-				<version>set - UK</version>
-				<type>Album</type>
-				<barcode>00602498358276</barcode>
-				<year>2005</year>
-				<explicitContent>false</explicitContent>
-				<artist id="1428">
-					<name>Bryan Adams</name>
-					<appearsAs>Bryan Adams</appearsAs>
-					<url>http://www.7digital.com/artists/bryan-adams/?partner=1401</url>
-				</artist>
-				<url>http://www.7digital.com/artists/bryan-adams/anthology-set-uk/?partner=1401</url>
-				<image>http://cdn.7static.com/static/img/sleeveart/00/000/208/0000020891_50.jpg</image>
-				<releaseDate>2005-11-21T00:00:00+00:00</releaseDate>
-				<addedDate>2008-08-31T22:18:52+01:00</addedDate>
-				<popularity>0.6</popularity>
-			</release>
-		</taggedItem>
-		<taggedItem>
-			<release id="143065">
-				<title>Complete Clapton</title>
-				<version>comm CD (set)</version>
-				<type>Album</type>
-				<barcode>00602517461932</barcode>
-				<year>2007</year>
-				<explicitContent>false</explicitContent>
-				<artist id="1481">
-					<name>Eric Clapton</name>
-					<appearsAs>Eric Clapton</appearsAs>
-					<url>http://www.7digital.com/artists/eric-clapton/?partner=1401</url>
-				</artist>
-				<url>http://www.7digital.com/artists/eric-clapton/complete-clapton/?partner=1401</url>
-				<image>http://cdn.7static.com/static/img/sleeveart/00/001/430/0000143065_50.jpg</image>
-				<releaseDate>2007-10-08T00:00:00+01:00</releaseDate>
-				<addedDate>2008-08-31T22:20:42+01:00</addedDate>
-				<popularity>0.6</popularity>
-			</release>
-		</taggedItem>
-		<taggedItem>
-			<release id="1751704">
-				<title>Late Night Tales presents Music For Pleasure (selected and mixed by Groove Armada's Tom Findlay)</title>
-				<version />
-				<type>Album</type>
-				<barcode>5099963522259</barcode>
-				<year>2012</year>
-				<explicitContent>false</explicitContent>
-				<artist id="1226">
-					<name>Groove Armada</name>
-					<appearsAs>Groove Armada </appearsAs>
-					<url>http://www.7digital.com/artists/groove-armada-(2)/?partner=1401</url>
-				</artist>
-				<url>http://www.7digital.com/artists/groove-armada-(2)/late-night-tales-presents-music-for-pleasure-selected-and-mixed-by-groove-armadas-tom-findlay-1/?partner=1401</url>
-				<image>http://cdn.7static.com/static/img/sleeveart/00/017/517/0001751704_50.jpg</image>
-				<releaseDate>2012-06-11T00:00:00+01:00</releaseDate>
-				<addedDate>2012-06-11T00:50:04+01:00</addedDate>
-				<popularity>0.6</popularity>
-			</release>
-		</taggedItem>
-		<taggedItem>
-			<release id="1694907">
-				<title>Rock &amp; Roll Hall of Fame Covers EP</title>
-				<version />
-				<type>Album</type>
-				<barcode>093624950950</barcode>
-				<year>2012</year>
-				<explicitContent>false</explicitContent>
-				<artist id="1283">
-					<name>Red Hot Chili Peppers</name>
-					<appearsAs>Red Hot Chili Peppers</appearsAs>
-					<url>http://www.7digital.com/artists/red-hot-chili-peppers/?partner=1401</url>
-				</artist>
-				<url>http://www.7digital.com/artists/red-hot-chili-peppers/rock-and-roll-hall-of-fame-covers-ep/?partner=1401</url>
-				<image>http://cdn.7static.com/static/img/sleeveart/00/016/949/0001694907_50.jpg</image>
-				<releaseDate>2012-05-22T00:00:00+01:00</releaseDate>
-				<addedDate>2012-05-09T00:29:14+01:00</addedDate>
-				<popularity>0.6</popularity>
-			</release>
-		</taggedItem>
-		<taggedItem>
-			<release id="38972">
-				<title>Metallica</title>
-				<version />
-				<type>Album</type>
-				<barcode>00731451002229</barcode>
-				<year>2008</year>
-				<explicitContent>false</explicitContent>
-				<artist id="27920">
-					<name>Metallica</name>
-					<appearsAs>Metallica</appearsAs>
-					<url>http://www.7digital.com/artists/metallica/?partner=1401</url>
-				</artist>
-				<url>http://www.7digital.com/artists/metallica/metallica/?partner=1401</url>
-				<image>http://cdn.7static.com/static/img/sleeveart/00/000/389/0000038972_50.jpg</image>
-				<releaseDate>2008-08-18T00:00:00+01:00</releaseDate>
-				<addedDate>2008-09-01T11:18:35+01:00</addedDate>
-				<popularity>0.6</popularity>
-			</release>
-		</taggedItem>
-		<taggedItem>
-			<release id="85606">
-				<title>Minutes To Midnight</title>
-				<version />
-				<type>Album</type>
-				<barcode>093624447764</barcode>
-				<year>2010</year>
-				<explicitContent>false</explicitContent>
-				<artist id="12873">
-					<name>Linkin Park</name>
-					<appearsAs>Linkin Park</appearsAs>
-					<url>http://www.7digital.com/artists/linkin-park/?partner=1401</url>
-				</artist>
-				<url>http://www.7digital.com/artists/linkin-park/minutes-to-midnight-1-1/?partner=1401</url>
-				<image>http://cdn.7static.com/static/img/sleeveart/00/000/856/0000085606_50.jpg</image>
-				<releaseDate>2010-09-28T00:00:00+01:00</releaseDate>
-				<addedDate>2008-03-03T14:12:05+00:00</addedDate>
-				<popularity>0.6</popularity>
-			</release>
-		</taggedItem>
-		<taggedItem>
-			<release id="1402423">
-				<title>Nevermind</title>
-				<version />
-				<type>Album</type>
-				<barcode>00602527856865</barcode>
-				<year>2011</year>
-				<explicitContent>false</explicitContent>
-				<artist id="169">
-					<name>Nirvana</name>
-					<appearsAs>Nirvana</appearsAs>
-					<url>http://www.7digital.com/artists/nirvana/?partner=1401</url>
-				</artist>
-				<url>http://www.7digital.com/artists/nirvana/nevermind-4/?partner=1401</url>
-				<image>http://cdn.7static.com/static/img/sleeveart/00/014/024/0001402423_50.jpg</image>
-				<releaseDate>2011-09-26T00:00:00+01:00</releaseDate>
-				<addedDate>2011-09-19T16:28:27+01:00</addedDate>
-				<popularity>0.59</popularity>
-			</release>
-		</taggedItem>
-		<taggedItem>
-			<release id="1712328">
-				<title>Streets in the Sky</title>
-				<version />
-				<type>Album</type>
-				<barcode>0711297495348</barcode>
-				<year>2012</year>
-				<explicitContent>false</explicitContent>
-				<artist id="34035">
-					<name>The Enemy</name>
-					<appearsAs>Enemy, The</appearsAs>
-					<url>http://www.7digital.com/artists/the-enemy/?partner=1401</url>
-				</artist>
-				<url>http://www.7digital.com/artists/the-enemy/streets-in-the-sky/?partner=1401</url>
-				<image>http://cdn.7static.com/static/img/sleeveart/00/017/123/0001712328_50.jpg</image>
-				<releaseDate>2012-05-20T00:00:00+01:00</releaseDate>
-				<addedDate>2012-05-18T13:09:42+01:00</addedDate>
-				<popularity>0.59</popularity>
-			</release>
-		</taggedItem>
-		<taggedItem>
-			<release id="2288">
-				<title>Greatest Hits</title>
-				<version>EU Version</version>
-				<type>Album</type>
-				<barcode>00602498621080</barcode>
-				<year>2004</year>
-				<explicitContent>false</explicitContent>
-				<artist id="678">
-					<name>Guns N' Roses</name>
-					<appearsAs>Guns N' Roses</appearsAs>
-					<url>http://www.7digital.com/artists/guns-n-roses/?partner=1401</url>
-				</artist>
-				<url>http://www.7digital.com/artists/guns-n-roses/greatest-hits-eu-version/?partner=1401</url>
-				<image>http://cdn.7static.com/static/img/sleeveart/00/000/022/0000002288_50.jpg</image>
-				<releaseDate>2004-03-15T00:00:00+00:00</releaseDate>
-				<addedDate>2008-08-31T22:18:16+01:00</addedDate>
-				<popularity>0.59</popularity>
-			</release>
-		</taggedItem>
-		<taggedItem>
-			<release id="1300474">
-				<title>Every Teardrop Is A Waterfall</title>
-				<version />
-				<type>Single</type>
-				<barcode>5099908794857</barcode>
-				<year>2011</year>
-				<explicitContent>false</explicitContent>
-				<artist id="20">
-					<name>Coldplay</name>
-					<appearsAs>Coldplay</appearsAs>
-					<url>http://www.7digital.com/artists/coldplay/?partner=1401</url>
-				</artist>
-				<url>http://www.7digital.com/artists/coldplay/every-teardrop-is-a-waterfall-2/?partner=1401</url>
-				<image>http://cdn.7static.com/static/img/sleeveart/00/013/004/0001300474_50.jpg</image>
-				<releaseDate>2011-06-26T00:00:00+01:00</releaseDate>
-				<addedDate>2011-06-24T12:06:38+01:00</addedDate>
-				<popularity>0.59</popularity>
-			</release>
-		</taggedItem>
-		<taggedItem>
-			<release id="1626360">
-				<title>Sonik Kicks</title>
-				<version />
-				<type>Album</type>
-				<barcode>00602527924601</barcode>
-				<year>2012</year>
-				<explicitContent>false</explicitContent>
-				<artist id="51">
-					<name>Paul Weller</name>
-					<appearsAs>Paul Weller</appearsAs>
-					<url>http://www.7digital.com/artists/paul-weller/?partner=1401</url>
-				</artist>
-				<url>http://www.7digital.com/artists/paul-weller/sonik-kicks-1/?partner=1401</url>
-				<image>http://cdn.7static.com/static/img/sleeveart/00/016/263/0001626360_50.jpg</image>
-				<releaseDate>2012-03-19T00:00:00+00:00</releaseDate>
-				<addedDate>2012-03-07T15:03:24+00:00</addedDate>
-				<popularity>0.58</popularity>
-			</release>
-		</taggedItem>
-		<taggedItem>
-			<release id="1729443">
-				<title>Sich fügen heißt lügen</title>
-				<version />
-				<type>Album</type>
-				<barcode>5052146825462</barcode>
-				<year>2012</year>
-				<explicitContent>false</explicitContent>
-				<artist id="317915">
-					<name>Slime</name>
-					<appearsAs>Slime</appearsAs>
-					<url>http://www.7digital.com/artists/slime/?partner=1401</url>
-				</artist>
-				<url>http://www.7digital.com/artists/slime/sich-fugen-heißt-lugen/?partner=1401</url>
-				<image>http://cdn.7static.com/static/img/sleeveart/00/017/294/0001729443_50.jpg</image>
-				<releaseDate>2012-06-18T00:00:00+01:00</releaseDate>
-				<addedDate>2012-05-25T00:15:37+01:00</addedDate>
-				<popularity>0.58</popularity>
-			</release>
-		</taggedItem>
-		<taggedItem>
-			<release id="1635777">
-				<title>Covered</title>
-				<version>Explicit</version>
-				<type>Album</type>
-				<barcode>00795041785428</barcode>
-				<year>2012</year>
-				<explicitContent>true</explicitContent>
-				<artist id="1326">
-					<name>Macy Gray</name>
-					<appearsAs>Macy Gray</appearsAs>
-					<url>http://www.7digital.com/artists/macy-gray/?partner=1401</url>
-				</artist>
-				<url>http://www.7digital.com/artists/macy-gray/covered/?partner=1401</url>
-				<image>http://cdn.7static.com/static/img/sleeveart/00/016/357/0001635777_50.jpg</image>
-				<releaseDate>2012-06-25T00:00:00+01:00</releaseDate>
-				<addedDate>2012-06-18T01:27:29+01:00</addedDate>
-				<popularity>0.58</popularity>
-			</release>
-		</taggedItem>
-		<taggedItem>
-			<release id="1681699">
-				<title>Celebration Rock</title>
-				<version />
-				<type>Album</type>
-				<barcode>0644110023896</barcode>
-				<year>2012</year>
-				<explicitContent>false</explicitContent>
-				<artist id="378707">
-					<name>Japandroids</name>
-					<appearsAs>Japandroids</appearsAs>
-					<url>http://www.7digital.com/artists/japandroids/?partner=1401</url>
-				</artist>
-				<url>http://www.7digital.com/artists/japandroids/celebration-rock/?partner=1401</url>
-				<image>http://cdn.7static.com/static/img/sleeveart/00/016/816/0001681699_50.jpg</image>
-				<releaseDate>2012-06-04T00:00:00+01:00</releaseDate>
-				<addedDate>2012-04-23T02:05:19+01:00</addedDate>
-				<popularity>0.58</popularity>
-			</release>
-		</taggedItem>
-		<taggedItem>
-			<release id="868778">
-				<title>The Final Frontier</title>
-				<version />
-				<type>Album</type>
-				<barcode>5099964776859</barcode>
-				<year>2010</year>
-				<explicitContent>false</explicitContent>
-				<artist id="1252">
-					<name>Iron Maiden</name>
-					<appearsAs>Iron Maiden</appearsAs>
-					<url>http://www.7digital.com/artists/iron-maiden/?partner=1401</url>
-				</artist>
-				<url>http://www.7digital.com/artists/iron-maiden/the-final-frontier-1/?partner=1401</url>
-				<image>http://cdn.7static.com/static/img/sleeveart/00/008/687/0000868778_50.jpg</image>
-				<releaseDate>2010-08-16T00:00:00+01:00</releaseDate>
-				<addedDate>2010-06-07T17:12:33+01:00</addedDate>
-				<popularity>0.58</popularity>
-			</release>
-		</taggedItem>
-		<taggedItem>
-			<release id="296">
-				<title>A Rush Of Blood To The Head</title>
-				<version />
-				<type>Album</type>
-				<barcode>0724354050459</barcode>
-				<year>2006</year>
-				<explicitContent>false</explicitContent>
-				<artist id="20">
-					<name>Coldplay</name>
-					<appearsAs>Coldplay</appearsAs>
-					<url>http://www.7digital.com/artists/coldplay/?partner=1401</url>
-				</artist>
-				<url>http://www.7digital.com/artists/coldplay/a-rush-of-blood-to-the-head/?partner=1401</url>
-				<image>http://cdn.7static.com/static/img/sleeveart/00/000/002/0000000296_50.jpg</image>
-				<releaseDate>2006-08-14T00:00:00+01:00</releaseDate>
-				<addedDate>2007-08-17T17:54:22+01:00</addedDate>
-				<popularity>0.58</popularity>
-			</release>
-		</taggedItem>
-		<taggedItem>
-			<release id="1404872">
-				<title>Evanescence (Deluxe Edition)</title>
-				<version />
-				<type>Album</type>
-				<barcode>5099967887859</barcode>
-				<year>2011</year>
-				<explicitContent>false</explicitContent>
-				<artist id="7033">
-					<name>Evanescence</name>
-					<appearsAs>Evanescence</appearsAs>
-					<url>http://www.7digital.com/artists/evanescence/?partner=1401</url>
-				</artist>
-				<url>http://www.7digital.com/artists/evanescence/evanescence-deluxe-edition/?partner=1401</url>
-				<image>http://cdn.7static.com/static/img/sleeveart/00/014/048/0001404872_50.jpg</image>
-				<releaseDate>2011-10-10T00:00:00+01:00</releaseDate>
-				<addedDate>2011-09-23T18:58:53+01:00</addedDate>
-				<popularity>0.58</popularity>
-			</release>
-		</taggedItem>
-		<taggedItem>
-			<release id="1687363">
-				<title>Born Villain</title>
-				<version />
-				<type>Album</type>
-				<barcode>0711297495409</barcode>
-				<year>2012</year>
-				<explicitContent>false</explicitContent>
-				<artist id="827">
-					<name>Marilyn Manson</name>
-					<appearsAs>Marilyn Manson</appearsAs>
-					<url>http://www.7digital.com/artists/marilyn-manson/?partner=1401</url>
-				</artist>
-				<url>http://www.7digital.com/artists/marilyn-manson/born-villain-2/?partner=1401</url>
-				<image>http://cdn.7static.com/static/img/sleeveart/00/016/873/0001687363_50.jpg</image>
-				<releaseDate>2012-04-29T00:00:00+01:00</releaseDate>
-				<addedDate>2012-04-24T16:38:05+01:00</addedDate>
-				<popularity>0.58</popularity>
-			</release>
-		</taggedItem>
-		<taggedItem>
-			<release id="1715807">
-				<title>This is PiL</title>
-				<version />
-				<type>Album</type>
-				<barcode>5055300336392</barcode>
-				<year>2012</year>
-				<explicitContent>false</explicitContent>
-				<artist id="105560">
-					<name>Public Image Ltd.</name>
-					<appearsAs>Public Image Ltd.</appearsAs>
-					<url>http://www.7digital.com/artists/public-image-ltd-(1)/?partner=1401</url>
-				</artist>
-				<url>http://www.7digital.com/artists/public-image-ltd-(1)/this-is-pil/?partner=1401</url>
-				<image>http://cdn.7static.com/static/img/sleeveart/00/017/158/0001715807_50.jpg</image>
-				<releaseDate>2012-05-28T00:00:00+01:00</releaseDate>
-				<addedDate>2012-05-18T00:25:49+01:00</addedDate>
-				<popularity>0.58</popularity>
-			</release>
-		</taggedItem>
-		<taggedItem>
-			<release id="1740690">
-				<title>@Reverend_Makers</title>
-				<version />
-				<type>Album</type>
-				<barcode>0711297496345</barcode>
-				<year>2012</year>
-				<explicitContent>false</explicitContent>
-				<artist id="65925">
-					<name>Reverend And The Makers</name>
-					<appearsAs>Reverend And The Makers</appearsAs>
-					<url>http://www.7digital.com/artists/reverend-and-the-makers/?partner=1401</url>
-				</artist>
-				<url>http://www.7digital.com/artists/reverend-and-the-makers/reverend_makers/?partner=1401</url>
-				<image>http://cdn.7static.com/static/img/sleeveart/00/017/406/0001740690_50.jpg</image>
-				<releaseDate>2012-06-17T00:00:00+01:00</releaseDate>
-				<addedDate>2012-06-08T14:57:00+01:00</addedDate>
-				<popularity>0.58</popularity>
-			</release>
-		</taggedItem>
-		<taggedItem>
-			<release id="1402124">
-				<title>Wish You Were Here (2011 - Remaster)</title>
-				<version />
-				<type>Album</type>
-				<barcode>5099902984452</barcode>
-				<year>2011</year>
-				<explicitContent>false</explicitContent>
-				<artist id="447">
-					<name>Pink Floyd</name>
-					<appearsAs>Pink Floyd</appearsAs>
-					<url>http://www.7digital.com/artists/pink-floyd/?partner=1401</url>
-				</artist>
-				<url>http://www.7digital.com/artists/pink-floyd/wish-you-were-here-2011-remaster/?partner=1401</url>
-				<image>http://cdn.7static.com/static/img/sleeveart/00/014/021/0001402124_50.jpg</image>
-				<releaseDate>2011-09-26T00:00:00+01:00</releaseDate>
-				<addedDate>2011-09-19T17:58:27+01:00</addedDate>
-				<popularity>0.58</popularity>
-			</release>
-		</taggedItem>
-		<taggedItem>
-			<release id="335617">
-				<title>Dark Horse</title>
-				<version />
-				<type>Album</type>
-				<barcode>016861802806</barcode>
-				<year>2008</year>
-				<explicitContent>false</explicitContent>
-				<artist id="669">
-					<name>Nickelback</name>
-					<appearsAs>Nickelback</appearsAs>
-					<url>http://www.7digital.com/artists/nickelback/?partner=1401</url>
-				</artist>
-				<url>http://www.7digital.com/artists/nickelback/dark-horse/?partner=1401</url>
-				<image>http://cdn.7static.com/static/img/sleeveart/00/003/356/0000335617_50.jpg</image>
-				<releaseDate>2008-11-17T00:00:00+00:00</releaseDate>
-				<addedDate>2008-11-06T22:25:00+00:00</addedDate>
-				<popularity>0.57</popularity>
-			</release>
-		</taggedItem>
-		<taggedItem>
-			<release id="1425802">
-				<title>New Blood</title>
-				<version />
-				<type>Album</type>
-				<barcode>5099967915651</barcode>
-				<year>2011</year>
-				<explicitContent>false</explicitContent>
-				<artist id="7134">
-					<name>Peter Gabriel</name>
-					<appearsAs>Peter Gabriel</appearsAs>
-					<url>http://www.7digital.com/artists/peter-gabriel/?partner=1401</url>
-				</artist>
-				<url>http://www.7digital.com/artists/peter-gabriel/new-blood-1/?partner=1401</url>
-				<image>http://cdn.7static.com/static/img/sleeveart/00/014/258/0001425802_50.jpg</image>
-				<releaseDate>2011-10-10T00:00:00+01:00</releaseDate>
-				<addedDate>2011-10-06T19:09:35+01:00</addedDate>
-				<popularity>0.57</popularity>
-			</release>
-		</taggedItem>
-		<taggedItem>
-			<release id="1347420">
-				<title>7digital Essential: 50s Rock</title>
-				<version />
-				<type>Album</type>
-				<barcode>3700551721221</barcode>
-				<year>2011</year>
-				<explicitContent>false</explicitContent>
-				<artist id="209">
-					<name>Various Artists</name>
-					<appearsAs>Various Artists</appearsAs>
-					<url>http://www.7digital.com/artists/various-artists/?partner=1401</url>
-				</artist>
-				<url>http://www.7digital.com/artists/various-artists/7digital-essential-50s-rock/?partner=1401</url>
-				<image>http://cdn.7static.com/static/img/sleeveart/00/013/474/0001347420_50.jpg</image>
-				<releaseDate>2011-07-18T00:00:00+01:00</releaseDate>
-				<addedDate>2011-08-16T17:36:33+01:00</addedDate>
-				<popularity>0.57</popularity>
-			</release>
-		</taggedItem>
-		<taggedItem>
-			<release id="1642392">
-				<title>Carolus Rex</title>
-				<version />
-				<type>Single</type>
-				<barcode>0727361290566</barcode>
-				<year>2012</year>
-				<explicitContent>false</explicitContent>
-				<artist id="147097">
-					<name>Sabaton</name>
-					<appearsAs>Sabaton</appearsAs>
-					<url>http://www.7digital.com/artists/sabaton/?partner=1401</url>
-				</artist>
-				<url>http://www.7digital.com/artists/sabaton/carolus-rex/?partner=1401</url>
-				<image>http://cdn.7static.com/static/img/sleeveart/00/016/423/0001642392_50.jpg</image>
-				<releaseDate>2012-04-08T00:00:00+01:00</releaseDate>
-				<addedDate>2012-03-21T14:24:05+00:00</addedDate>
-				<popularity>0.57</popularity>
-			</release>
-		</taggedItem>
-		<taggedItem>
-			<release id="875044">
-				<title>25 Beatles #1 Hits (The Best Of The Beatles)</title>
-				<version />
-				<type>Album</type>
-				<barcode>885686122938</barcode>
-				<year>2010</year>
-				<explicitContent>false</explicitContent>
-				<artist id="690611">
-					<name>The Yesteryears</name>
-					<appearsAs>Yesteryears, The</appearsAs>
-					<url>http://www.7digital.com/artists/the-yesteryears/?partner=1401</url>
-				</artist>
-				<url>http://www.7digital.com/artists/the-yesteryears/25-beatles-1-hits-the-best-of-the-beatles/?partner=1401</url>
-				<image>http://cdn.7static.com/static/img/sleeveart/00/008/750/0000875044_50.jpg</image>
-				<releaseDate>2010-06-08T00:00:00+01:00</releaseDate>
-				<addedDate>2010-06-16T19:05:28+01:00</addedDate>
-				<popularity>0.57</popularity>
-			</release>
-		</taggedItem>
-		<taggedItem>
-			<release id="332004">
-				<title>Number Ones</title>
-				<version />
-				<type>Album</type>
-				<barcode>603497975938</barcode>
-				<year>2011</year>
-				<explicitContent>false</explicitContent>
-				<artist id="4736">
-					<name>Bee Gees</name>
-					<appearsAs>Bee Gees</appearsAs>
-					<url>http://www.7digital.com/artists/bee-gees/?partner=1401</url>
-				</artist>
-				<url>http://www.7digital.com/artists/bee-gees/number-ones/?partner=1401</url>
-				<image>http://cdn.7static.com/static/img/sleeveart/00/003/320/0000332004_50.jpg</image>
-				<releaseDate>2011-10-13T00:00:00+01:00</releaseDate>
-				<addedDate>2008-11-05T22:24:53+00:00</addedDate>
-				<popularity>0.57</popularity>
-			</release>
-		</taggedItem>
-		<taggedItem>
-			<release id="1640761">
-				<title>Weapons</title>
-				<version />
-				<type>Album</type>
-				<barcode>886443336131</barcode>
-				<year>2012</year>
-				<explicitContent>false</explicitContent>
-				<artist id="18461">
-					<name>Lostprophets</name>
-					<appearsAs>Lostprophets</appearsAs>
-					<url>http://www.7digital.com/artists/lostprophets/?partner=1401</url>
-				</artist>
-				<url>http://www.7digital.com/artists/lostprophets/weapons/?partner=1401</url>
-				<image>http://cdn.7static.com/static/img/sleeveart/00/016/407/0001640761_50.jpg</image>
-				<releaseDate>2012-04-02T00:00:00+01:00</releaseDate>
-				<addedDate>2012-03-19T05:02:09+00:00</addedDate>
-				<popularity>0.57</popularity>
-			</release>
-		</taggedItem>
-		<taggedItem>
-			<release id="1011899">
-				<title>Bon Jovi Greatest Hits - The Ultimate Collection</title>
-				<version>Int'l Deluxe Package</version>
-				<type>Album</type>
-				<barcode>00602527523347</barcode>
-				<year>2010</year>
-				<explicitContent>false</explicitContent>
-				<artist id="289">
-					<name>Bon Jovi</name>
-					<appearsAs>Bon Jovi</appearsAs>
-					<url>http://www.7digital.com/artists/bon-jovi/?partner=1401</url>
-				</artist>
-				<url>http://www.7digital.com/artists/bon-jovi/bon-jovi-greatest-hits-the-ultimate-collection/?partner=1401</url>
-				<image>http://cdn.7static.com/static/img/sleeveart/00/010/118/0001011899_50.jpg</image>
-				<releaseDate>2010-11-01T00:00:00+00:00</releaseDate>
-				<addedDate>2010-10-21T10:29:17+01:00</addedDate>
-				<popularity>0.57</popularity>
-			</release>
-		</taggedItem>
-		<taggedItem>
-			<release id="174034">
-				<title>The Joshua Tree</title>
-				<version>Remastered - Standard Comm CD</version>
-				<type>Album</type>
-				<barcode>00602517449398</barcode>
-				<year>2007</year>
-				<explicitContent>false</explicitContent>
-				<artist id="106">
-					<name>U2</name>
-					<appearsAs>U2</appearsAs>
-					<url>http://www.7digital.com/artists/u2/?partner=1401</url>
-				</artist>
-				<url>http://www.7digital.com/artists/u2/the-joshua-tree-1/?partner=1401</url>
-				<image>http://cdn.7static.com/static/img/sleeveart/00/001/740/0000174034_50.jpg</image>
-				<releaseDate>2007-12-03T00:00:00+00:00</releaseDate>
-				<addedDate>2008-08-31T22:20:52+01:00</addedDate>
-				<popularity>0.57</popularity>
-			</release>
-		</taggedItem>
-		<taggedItem>
-			<release id="1574797">
-				<title>A Different Kind Of Truth</title>
-				<version />
-				<type>Album</type>
-				<barcode>00602527935270</barcode>
-				<year>2012</year>
-				<explicitContent>false</explicitContent>
-				<artist id="4741">
-					<name>Van Halen</name>
-					<appearsAs>Van Halen</appearsAs>
-					<url>http://www.7digital.com/artists/van-halen/?partner=1401</url>
-				</artist>
-				<url>http://www.7digital.com/artists/van-halen/a-different-kind-of-truth/?partner=1401</url>
-				<image>http://cdn.7static.com/static/img/sleeveart/00/015/747/0001574797_50.jpg</image>
-				<releaseDate>2012-02-06T00:00:00+00:00</releaseDate>
-				<addedDate>2012-01-30T16:17:14+00:00</addedDate>
-				<popularity>0.57</popularity>
-			</release>
-		</taggedItem>
-	</taggedResults>
+  <taggedResults>
+    <page>1</page>
+    <pageSize>10</pageSize>
+    <totalItems>9598</totalItems>
+    <type>release</type>
+    <taggedItem>
+      <release id="144">
+        <title>Beautiful Day</title>
+        <version />
+        <type>Single</type>
+        <barcode>00731456294520</barcode>
+        <year>2009</year>
+        <explicitContent>false</explicitContent>
+        <artist id="106">
+          <name>U2</name>
+          <appearsAs>U2</appearsAs>
+          <url>http://www.7digital.com/artist/u2/?partner=1401</url>
+        </artist>
+        <url>http://www.7digital.com/artist/u2/release/beautiful-day/?partner=1401</url>
+        <image>http://cdn.7static.com/static/img/sleeveart/00/000/001/0000000144_50.jpg</image>
+        <releaseDate>2009-07-14T00:00:00+01:00</releaseDate>
+        <addedDate>2008-08-31T22:18:08+01:00</addedDate>
+        <popularity>0.64</popularity>
+        <streamingReleaseDate>2002-10-31T00:00:00+00:00</streamingReleaseDate>
+      </release>
+    </taggedItem>
+    <taggedItem>
+      <release id="14319">
+        <title>Nirvana</title>
+        <version>International Version</version>
+        <type>Album</type>
+        <barcode>00606949352325</barcode>
+        <year>2002</year>
+        <explicitContent>false</explicitContent>
+        <artist id="169">
+          <name>Nirvana</name>
+          <appearsAs>Nirvana</appearsAs>
+          <url>http://www.7digital.com/artist/nirvana/?partner=1401</url>
+        </artist>
+        <url>http://www.7digital.com/artist/nirvana/release/nirvana-international-version/?partner=1401</url>
+        <image>http://cdn.7static.com/static/img/sleeveart/00/000/143/0000014319_50.jpg</image>
+        <releaseDate>2002-10-28T00:00:00+00:00</releaseDate>
+        <addedDate>2008-08-31T22:18:30+01:00</addedDate>
+        <popularity>0.63</popularity>
+        <streamingReleaseDate>2002-10-28T00:00:00+00:00</streamingReleaseDate>
+      </release>
+    </taggedItem>
+    <taggedItem>
+      <release id="85606">
+        <title>Minutes To Midnight</title>
+        <version />
+        <type>Album</type>
+        <barcode>093624447764</barcode>
+        <year>2010</year>
+        <explicitContent>false</explicitContent>
+        <artist id="12873">
+          <name>Linkin Park</name>
+          <appearsAs>Linkin Park</appearsAs>
+          <url>http://www.7digital.com/artist/linkin-park/?partner=1401</url>
+        </artist>
+        <url>http://www.7digital.com/artist/linkin-park/release/minutes-to-midnight-1-1/?partner=1401</url>
+        <image>http://cdn.7static.com/static/img/sleeveart/00/000/856/0000085606_50.jpg</image>
+        <releaseDate>2010-09-28T00:00:00+01:00</releaseDate>
+        <addedDate>2008-03-03T14:12:05+00:00</addedDate>
+        <popularity>0.62</popularity>
+        <streamingReleaseDate>2010-09-28T00:00:00+01:00</streamingReleaseDate>
+      </release>
+    </taggedItem>
+    <taggedItem>
+      <release id="39899">
+        <title>Parachutes</title>
+        <version />
+        <type>Album</type>
+        <barcode>0067003016254</barcode>
+        <year>2006</year>
+        <explicitContent>false</explicitContent>
+        <artist id="20">
+          <name>Coldplay</name>
+          <appearsAs>Coldplay</appearsAs>
+          <url>http://www.7digital.com/artist/coldplay/?partner=1401</url>
+        </artist>
+        <url>http://www.7digital.com/artist/coldplay/release/parachutes-2/?partner=1401</url>
+        <image>http://cdn.7static.com/static/img/sleeveart/00/000/398/0000039899_50.jpg</image>
+        <releaseDate>2006-08-14T00:00:00+01:00</releaseDate>
+        <addedDate>2007-09-21T13:48:45+01:00</addedDate>
+        <popularity>0.62</popularity>
+        <streamingReleaseDate>2006-08-14T00:00:00+01:00</streamingReleaseDate>
+      </release>
+    </taggedItem>
+    <taggedItem>
+      <release id="143065">
+        <title>Complete Clapton</title>
+        <version>comm CD (set)</version>
+        <type>Album</type>
+        <barcode>00602517461932</barcode>
+        <year>2007</year>
+        <explicitContent>false</explicitContent>
+        <artist id="1481">
+          <name>Eric Clapton</name>
+          <appearsAs>Eric Clapton</appearsAs>
+          <url>http://www.7digital.com/artist/eric-clapton/?partner=1401</url>
+        </artist>
+        <url>http://www.7digital.com/artist/eric-clapton/release/complete-clapton/?partner=1401</url>
+        <image>http://cdn.7static.com/static/img/sleeveart/00/001/430/0000143065_50.jpg</image>
+        <releaseDate>2007-10-08T00:00:00+01:00</releaseDate>
+        <addedDate>2008-08-31T22:20:42+01:00</addedDate>
+        <popularity>0.62</popularity>
+        <streamingReleaseDate>2007-10-08T00:00:00+01:00</streamingReleaseDate>
+      </release>
+    </taggedItem>
+    <taggedItem>
+      <release id="145204">
+        <title>Rule The World</title>
+        <version />
+        <type>Single</type>
+        <barcode>00602517462854</barcode>
+        <year>2007</year>
+        <explicitContent>false</explicitContent>
+        <artist id="3216">
+          <name>Take That</name>
+          <appearsAs>Take That </appearsAs>
+          <url>http://www.7digital.com/artist/take-that/?partner=1401</url>
+        </artist>
+        <url>http://www.7digital.com/artist/take-that/release/rule-the-world/?partner=1401</url>
+        <image>http://cdn.7static.com/static/img/sleeveart/00/001/452/0000145204_50.jpg</image>
+        <releaseDate>2007-10-22T00:00:00+01:00</releaseDate>
+        <addedDate>2008-08-31T22:20:45+01:00</addedDate>
+        <popularity>0.61</popularity>
+        <streamingReleaseDate>2007-10-22T00:00:00+01:00</streamingReleaseDate>
+      </release>
+    </taggedItem>
+    <taggedItem>
+      <release id="81735">
+        <title>Songs About Jane</title>
+        <version />
+        <type>Album</type>
+        <barcode>00823765000128</barcode>
+        <year>2007</year>
+        <explicitContent>false</explicitContent>
+        <artist id="222">
+          <name>Maroon 5</name>
+          <appearsAs>Maroon 5</appearsAs>
+          <url>http://www.7digital.com/artist/maroon-5/?partner=1401</url>
+        </artist>
+        <url>http://www.7digital.com/artist/maroon-5/release/songs-about-jane-2-1/?partner=1401</url>
+        <image>http://cdn.7static.com/static/img/sleeveart/00/000/817/0000081735_50.jpg</image>
+        <releaseDate>2007-04-30T00:00:00+01:00</releaseDate>
+        <addedDate>2008-08-31T22:20:15+01:00</addedDate>
+        <popularity>0.61</popularity>
+        <streamingReleaseDate>2007-04-30T00:00:00+01:00</streamingReleaseDate>
+      </release>
+    </taggedItem>
+    <taggedItem>
+      <release id="1614">
+        <title>Reise, Reise</title>
+        <version />
+        <type>Album</type>
+        <barcode>00602498687833</barcode>
+        <year>2004</year>
+        <explicitContent>false</explicitContent>
+        <artist id="845">
+          <name>Rammstein</name>
+          <appearsAs>Rammstein</appearsAs>
+          <url>http://www.7digital.com/artist/rammstein/?partner=1401</url>
+        </artist>
+        <url>http://www.7digital.com/artist/rammstein/release/reise-reise/?partner=1401</url>
+        <image>http://cdn.7static.com/static/img/sleeveart/00/000/016/0000001614_50.jpg</image>
+        <releaseDate>2004-09-27T00:00:00+01:00</releaseDate>
+        <addedDate>2009-02-09T15:10:37+00:00</addedDate>
+        <popularity>0.61</popularity>
+        <streamingReleaseDate>3001-01-01T00:00:00+00:00</streamingReleaseDate>
+      </release>
+    </taggedItem>
+    <taggedItem>
+      <release id="296">
+        <title>A Rush Of Blood To The Head</title>
+        <version />
+        <type>Album</type>
+        <barcode>0724354050459</barcode>
+        <year>2006</year>
+        <explicitContent>false</explicitContent>
+        <artist id="20">
+          <name>Coldplay</name>
+          <appearsAs>Coldplay</appearsAs>
+          <url>http://www.7digital.com/artist/coldplay/?partner=1401</url>
+        </artist>
+        <url>http://www.7digital.com/artist/coldplay/release/a-rush-of-blood-to-the-head/?partner=1401</url>
+        <image>http://cdn.7static.com/static/img/sleeveart/00/000/002/0000000296_50.jpg</image>
+        <releaseDate>2006-08-14T00:00:00+01:00</releaseDate>
+        <addedDate>2007-08-17T17:54:22+01:00</addedDate>
+        <popularity>0.61</popularity>
+        <streamingReleaseDate>2006-08-14T00:00:00+01:00</streamingReleaseDate>
+      </release>
+    </taggedItem>
+    <taggedItem>
+      <release id="168773">
+        <title>Flux</title>
+        <version />
+        <type>Single</type>
+        <barcode>05055036211352</barcode>
+        <year>2007</year>
+        <explicitContent>false</explicitContent>
+        <artist id="5733">
+          <name>Bloc Party</name>
+          <appearsAs>Bloc Party</appearsAs>
+          <url>http://www.7digital.com/artist/bloc-party/?partner=1401</url>
+        </artist>
+        <url>http://www.7digital.com/artist/bloc-party/release/flux/?partner=1401</url>
+        <image>http://cdn.7static.com/static/img/sleeveart/00/001/687/0000168773_50.jpg</image>
+        <releaseDate>2007-11-12T00:00:00+00:00</releaseDate>
+        <addedDate>2008-08-31T22:20:51+01:00</addedDate>
+        <popularity>0.6</popularity>
+        <streamingReleaseDate>2007-11-12T00:00:00+00:00</streamingReleaseDate>
+      </release>
+    </taggedItem>
+  </taggedResults>
 </response>

@@ -1,0 +1,218 @@
+<response status="ok" version="1.2" xsi:noNamespaceSchemaLocation="http://api.7digital.com/1.2/static/7digitalAPI.xsd" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <taggedResults>
+    <page>1</page>
+    <pageSize>10</pageSize>
+    <totalItems>111065</totalItems>
+    <type>release</type>
+    <taggedItem>
+      <release id="212">
+        <title>Legend</title>
+        <version>The Definitive Remasters</version>
+        <type>Album</type>
+        <barcode>00731454890427</barcode>
+        <year>2006</year>
+        <explicitContent>false</explicitContent>
+        <artist id="159">
+          <name>Bob Marley &amp; The Wailers</name>
+          <appearsAs>Bob Marley &amp; The Wailers</appearsAs>
+          <url>http://www.7digital.com/artist/bob-marley-the-wailers-(2)/?partner=1401</url>
+        </artist>
+        <url>http://www.7digital.com/artist/bob-marley-the-wailers-(2)/release/legend-the-definitive-remasters/?partner=1401</url>
+        <image>http://cdn.7static.com/static/img/sleeveart/00/000/002/0000000212_50.jpg</image>
+        <releaseDate>2006-09-05T00:00:00+01:00</releaseDate>
+        <addedDate>2008-08-31T22:18:09+01:00</addedDate>
+        <popularity>0.72</popularity>
+        <streamingReleaseDate>2006-09-05T00:00:00+01:00</streamingReleaseDate>
+      </release>
+    </taggedItem>
+    <taggedItem>
+      <release id="1275025">
+        <title>Ibiza Summer Vibes, Vol. 1</title>
+        <version />
+        <type>Album</type>
+        <barcode>3661585913481</barcode>
+        <year>2011</year>
+        <explicitContent>false</explicitContent>
+        <artist id="209">
+          <name>Various Artists</name>
+          <appearsAs>Various Artists</appearsAs>
+          <url>http://www.7digital.com/artist/various-artists/?partner=1401</url>
+        </artist>
+        <url>http://www.7digital.com/artist/various-artists/release/ibiza-summer-vibes-vol-1/?partner=1401</url>
+        <image>http://cdn.7static.com/static/img/sleeveart/00/012/750/0001275025_50.jpg</image>
+        <releaseDate>2011-06-25T00:00:00+01:00</releaseDate>
+        <addedDate>2011-06-03T15:11:04+01:00</addedDate>
+        <popularity>0.65</popularity>
+        <streamingReleaseDate>2011-06-25T00:00:00+01:00</streamingReleaseDate>
+      </release>
+    </taggedItem>
+    <taggedItem>
+      <release id="1222780">
+        <title>Lambada</title>
+        <version />
+        <type>Album</type>
+        <barcode>3661585831426</barcode>
+        <year>2011</year>
+        <explicitContent>false</explicitContent>
+        <artist id="930390">
+          <name>Kosa</name>
+          <appearsAs>Kosa</appearsAs>
+          <url>http://www.7digital.com/artist/kosa/?partner=1401</url>
+        </artist>
+        <url>http://www.7digital.com/artist/kosa/release/lambada/?partner=1401</url>
+        <image>http://cdn.7static.com/static/img/sleeveart/00/012/227/0001222780_50.jpg</image>
+        <releaseDate>2011-04-28T00:00:00+01:00</releaseDate>
+        <addedDate>2011-04-21T17:33:28+01:00</addedDate>
+        <popularity>0.62</popularity>
+        <streamingReleaseDate>2011-04-28T00:00:00+01:00</streamingReleaseDate>
+      </release>
+    </taggedItem>
+    <taggedItem>
+      <release id="1259579">
+        <title>Relaxing Summer Chill, Vol. 3</title>
+        <version />
+        <type>Album</type>
+        <barcode>3661585891116</barcode>
+        <year>2011</year>
+        <explicitContent>false</explicitContent>
+        <artist id="209">
+          <name>Various Artists</name>
+          <appearsAs>Various Artists</appearsAs>
+          <url>http://www.7digital.com/artist/various-artists/?partner=1401</url>
+        </artist>
+        <url>http://www.7digital.com/artist/various-artists/release/relaxing-summer-chill-vol-3/?partner=1401</url>
+        <image>http://cdn.7static.com/static/img/sleeveart/00/012/595/0001259579_50.jpg</image>
+        <releaseDate>2011-07-14T00:00:00+01:00</releaseDate>
+        <addedDate>2011-06-03T15:11:09+01:00</addedDate>
+        <popularity>0.62</popularity>
+        <streamingReleaseDate>2011-07-14T00:00:00+01:00</streamingReleaseDate>
+      </release>
+    </taggedItem>
+    <taggedItem>
+      <release id="1265725">
+        <title>Reggaeton 2011</title>
+        <version />
+        <type>Album</type>
+        <barcode>885686844250</barcode>
+        <year>2011</year>
+        <explicitContent>false</explicitContent>
+        <artist id="29579">
+          <name>Varios Artistas</name>
+          <appearsAs>Varios Artistas</appearsAs>
+          <url>http://www.7digital.com/artist/varios-artistas/?partner=1401</url>
+        </artist>
+        <url>http://www.7digital.com/artist/varios-artistas/release/reggaeton-2011/?partner=1401</url>
+        <image>http://cdn.7static.com/static/img/sleeveart/00/012/657/0001265725_50.jpg</image>
+        <releaseDate>2011-05-10T00:00:00+01:00</releaseDate>
+        <addedDate>2011-05-27T19:28:32+01:00</addedDate>
+        <popularity>0.6</popularity>
+        <streamingReleaseDate>2011-05-10T00:00:00+01:00</streamingReleaseDate>
+      </release>
+    </taggedItem>
+    <taggedItem>
+      <release id="305711">
+        <title>The Best Of</title>
+        <version />
+        <type>Album</type>
+        <barcode>5099752021727</barcode>
+        <year>2012</year>
+        <explicitContent>false</explicitContent>
+        <artist id="30031">
+          <name>Gipsy Kings</name>
+          <appearsAs>Gipsy Kings</appearsAs>
+          <url>http://www.7digital.com/artist/gipsy-kings/?partner=1401</url>
+        </artist>
+        <url>http://www.7digital.com/artist/gipsy-kings/release/the-best-of/?partner=1401</url>
+        <image>http://cdn.7static.com/static/img/sleeveart/00/003/057/0000305711_50.jpg</image>
+        <releaseDate>2012-07-30T00:00:00+01:00</releaseDate>
+        <addedDate>2008-09-15T19:39:28+01:00</addedDate>
+        <popularity>0.6</popularity>
+        <streamingReleaseDate>2012-07-30T00:00:00+01:00</streamingReleaseDate>
+      </release>
+    </taggedItem>
+    <taggedItem>
+      <release id="1171451">
+        <title>Just Salsa</title>
+        <version />
+        <type>Single</type>
+        <barcode>676296192028</barcode>
+        <year>2011</year>
+        <explicitContent>false</explicitContent>
+        <artist id="209">
+          <name>Various Artists</name>
+          <appearsAs>Various Artists</appearsAs>
+          <url>http://www.7digital.com/artist/various-artists/?partner=1401</url>
+        </artist>
+        <url>http://www.7digital.com/artist/various-artists/release/just-salsa/?partner=1401</url>
+        <image>http://cdn.7static.com/static/img/sleeveart/00/011/714/0001171451_50.jpg</image>
+        <releaseDate>2011-02-15T00:00:00+00:00</releaseDate>
+        <addedDate>2011-03-02T11:11:39+00:00</addedDate>
+        <popularity>0.58</popularity>
+        <streamingReleaseDate>2011-02-15T00:00:00+00:00</streamingReleaseDate>
+      </release>
+    </taggedItem>
+    <taggedItem>
+      <release id="1207969">
+        <title>Drama Y Luz</title>
+        <version />
+        <type>Album</type>
+        <barcode>825646733514</barcode>
+        <year>2011</year>
+        <explicitContent>false</explicitContent>
+        <artist id="5634">
+          <name>Maná</name>
+          <appearsAs>Maná</appearsAs>
+          <url>http://www.7digital.com/artist/maná/?partner=1401</url>
+        </artist>
+        <url>http://www.7digital.com/artist/maná/release/drama-y-luz/?partner=1401</url>
+        <image>http://cdn.7static.com/static/img/sleeveart/00/012/079/0001207969_50.jpg</image>
+        <releaseDate>2011-04-11T00:00:00+01:00</releaseDate>
+        <addedDate>2011-04-07T12:04:45+01:00</addedDate>
+        <popularity>0.55</popularity>
+        <streamingReleaseDate>2011-04-11T00:00:00+01:00</streamingReleaseDate>
+      </release>
+    </taggedItem>
+    <taggedItem>
+      <release id="1763541">
+        <title>Now That's What I Call Reggae</title>
+        <version />
+        <type>Album</type>
+        <barcode>00600753392485</barcode>
+        <year>2012</year>
+        <explicitContent>false</explicitContent>
+        <artist id="209">
+          <name>Various Artists</name>
+          <appearsAs>Various Artists</appearsAs>
+          <url>http://www.7digital.com/artist/various-artists/?partner=1401</url>
+        </artist>
+        <url>http://www.7digital.com/artist/various-artists/release/now-thats-what-i-call-reggae/?partner=1401</url>
+        <image>http://cdn.7static.com/static/img/sleeveart/00/017/635/0001763541_50.jpg</image>
+        <releaseDate>2012-06-25T00:00:00+01:00</releaseDate>
+        <addedDate>2012-06-18T01:27:29+01:00</addedDate>
+        <popularity>0.55</popularity>
+        <streamingReleaseDate>2012-06-25T00:00:00+01:00</streamingReleaseDate>
+      </release>
+    </taggedItem>
+    <taggedItem>
+      <release id="1237566">
+        <title>Beach Lounge 2011</title>
+        <version />
+        <type>Album</type>
+        <barcode>3661585851127</barcode>
+        <year>2011</year>
+        <explicitContent>false</explicitContent>
+        <artist id="209">
+          <name>Various Artists</name>
+          <appearsAs>Various Artists</appearsAs>
+          <url>http://www.7digital.com/artist/various-artists/?partner=1401</url>
+        </artist>
+        <url>http://www.7digital.com/artist/various-artists/release/beach-lounge-2011/?partner=1401</url>
+        <image>http://cdn.7static.com/static/img/sleeveart/00/012/375/0001237566_50.jpg</image>
+        <releaseDate>2011-05-11T00:00:00+01:00</releaseDate>
+        <addedDate>2011-05-06T15:39:52+01:00</addedDate>
+        <popularity>0.55</popularity>
+        <streamingReleaseDate>2011-05-11T00:00:00+01:00</streamingReleaseDate>
+      </release>
+    </taggedItem>
+  </taggedResults>
+</response>

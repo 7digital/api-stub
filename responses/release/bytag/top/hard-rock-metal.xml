@@ -1,0 +1,218 @@
+<response status="ok" version="1.2" xsi:noNamespaceSchemaLocation="http://api.7digital.com/1.2/static/7digitalAPI.xsd" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <taggedResults>
+    <page>1</page>
+    <pageSize>10</pageSize>
+    <totalItems>24023</totalItems>
+    <type>release</type>
+    <taggedItem>
+      <release id="1123452">
+        <title>AC/DC Mania ( AC / DC Deluxe Version ) - 10 Massive ACDC Anthems!</title>
+        <version />
+        <type>Album</type>
+        <barcode>873990123727</barcode>
+        <year>2011</year>
+        <explicitContent>false</explicitContent>
+        <artist id="147739">
+          <name>The Rock Masters</name>
+          <appearsAs>Rock Masters, The</appearsAs>
+          <url>http://www.7digital.com/artist/the-rock-masters/?partner=1401</url>
+        </artist>
+        <url>http://www.7digital.com/artist/the-rock-masters/release/ac-dc-mania-ac-dc-deluxe-version-10-massive-acdc-anthems/?partner=1401</url>
+        <image>http://cdn.7static.com/static/img/sleeveart/00/011/234/0001123452_50.jpg</image>
+        <releaseDate>2011-01-03T00:00:00+00:00</releaseDate>
+        <addedDate>2011-01-20T12:29:24+00:00</addedDate>
+        <popularity>0.66</popularity>
+        <streamingReleaseDate>2011-01-03T00:00:00+00:00</streamingReleaseDate>
+      </release>
+    </taggedItem>
+    <taggedItem>
+      <release id="85606">
+        <title>Minutes To Midnight</title>
+        <version />
+        <type>Album</type>
+        <barcode>093624447764</barcode>
+        <year>2010</year>
+        <explicitContent>false</explicitContent>
+        <artist id="12873">
+          <name>Linkin Park</name>
+          <appearsAs>Linkin Park</appearsAs>
+          <url>http://www.7digital.com/artist/linkin-park/?partner=1401</url>
+        </artist>
+        <url>http://www.7digital.com/artist/linkin-park/release/minutes-to-midnight-1-1/?partner=1401</url>
+        <image>http://cdn.7static.com/static/img/sleeveart/00/000/856/0000085606_50.jpg</image>
+        <releaseDate>2010-09-28T00:00:00+01:00</releaseDate>
+        <addedDate>2008-03-03T14:12:05+00:00</addedDate>
+        <popularity>0.62</popularity>
+        <streamingReleaseDate>2010-09-28T00:00:00+01:00</streamingReleaseDate>
+      </release>
+    </taggedItem>
+    <taggedItem>
+      <release id="2034">
+        <title>American Idiot</title>
+        <version />
+        <type>Album</type>
+        <barcode>093624877769</barcode>
+        <year>2010</year>
+        <explicitContent>false</explicitContent>
+        <artist id="610">
+          <name>Green Day</name>
+          <appearsAs>Green Day</appearsAs>
+          <url>http://www.7digital.com/artist/green-day/?partner=1401</url>
+        </artist>
+        <url>http://www.7digital.com/artist/green-day/release/american-idiot-1-1/?partner=1401</url>
+        <image>http://cdn.7static.com/static/img/sleeveart/00/000/020/0000002034_50.jpg</image>
+        <releaseDate>2010-05-06T00:00:00+01:00</releaseDate>
+        <addedDate>2008-03-03T14:04:42+00:00</addedDate>
+        <popularity>0.58</popularity>
+        <streamingReleaseDate>2010-05-06T00:00:00+01:00</streamingReleaseDate>
+      </release>
+    </taggedItem>
+    <taggedItem>
+      <release id="953058">
+        <title>Beyond Hell / Above Heaven</title>
+        <version />
+        <type>Album</type>
+        <barcode>00602527477527</barcode>
+        <year>2010</year>
+        <explicitContent>false</explicitContent>
+        <artist id="24923">
+          <name>Volbeat</name>
+          <appearsAs>Volbeat</appearsAs>
+          <url>http://www.7digital.com/artist/volbeat/?partner=1401</url>
+        </artist>
+        <url>http://www.7digital.com/artist/volbeat/release/beyond-hell-above-heaven/?partner=1401</url>
+        <image>http://cdn.7static.com/static/img/sleeveart/00/009/530/0000953058_50.jpg</image>
+        <releaseDate>2010-09-13T00:00:00+01:00</releaseDate>
+        <addedDate>2010-10-01T15:33:29+01:00</addedDate>
+        <popularity>0.57</popularity>
+        <streamingReleaseDate>2010-09-13T00:00:00+01:00</streamingReleaseDate>
+      </release>
+    </taggedItem>
+    <taggedItem>
+      <release id="1032031">
+        <title>Rock Anthems</title>
+        <version />
+        <type>Album</type>
+        <barcode>00600753317860</barcode>
+        <year>2011</year>
+        <explicitContent>false</explicitContent>
+        <artist id="209">
+          <name>Various Artists</name>
+          <appearsAs>Various Artists</appearsAs>
+          <url>http://www.7digital.com/artist/various-artists/?partner=1401</url>
+        </artist>
+        <url>http://www.7digital.com/artist/various-artists/release/rock-anthems/?partner=1401</url>
+        <image>http://cdn.7static.com/static/img/sleeveart/00/010/320/0001032031_50.jpg</image>
+        <releaseDate>2011-03-10T00:00:00+00:00</releaseDate>
+        <addedDate>2010-11-10T15:41:56+00:00</addedDate>
+        <popularity>0.56</popularity>
+        <streamingReleaseDate>3001-01-01T00:00:00+00:00</streamingReleaseDate>
+      </release>
+    </taggedItem>
+    <taggedItem>
+      <release id="18150">
+        <title>Hybrid Theory</title>
+        <version />
+        <type>Album</type>
+        <barcode>093624775560</barcode>
+        <year>2010</year>
+        <explicitContent>false</explicitContent>
+        <artist id="12873">
+          <name>Linkin Park</name>
+          <appearsAs>Linkin Park</appearsAs>
+          <url>http://www.7digital.com/artist/linkin-park/?partner=1401</url>
+        </artist>
+        <url>http://www.7digital.com/artist/linkin-park/release/hybrid-theory-3/?partner=1401</url>
+        <image>http://cdn.7static.com/static/img/sleeveart/00/000/181/0000018150_50.jpg</image>
+        <releaseDate>2010-04-21T00:00:00+01:00</releaseDate>
+        <addedDate>2009-09-18T07:44:16+01:00</addedDate>
+        <popularity>0.56</popularity>
+        <streamingReleaseDate>2010-04-21T00:00:00+01:00</streamingReleaseDate>
+      </release>
+    </taggedItem>
+    <taggedItem>
+      <release id="38972">
+        <title>Metallica</title>
+        <version />
+        <type>Album</type>
+        <barcode>00731451002229</barcode>
+        <year>2008</year>
+        <explicitContent>false</explicitContent>
+        <artist id="27920">
+          <name>Metallica</name>
+          <appearsAs>Metallica</appearsAs>
+          <url>http://www.7digital.com/artist/metallica/?partner=1401</url>
+        </artist>
+        <url>http://www.7digital.com/artist/metallica/release/metallica/?partner=1401</url>
+        <image>http://cdn.7static.com/static/img/sleeveart/00/000/389/0000038972_50.jpg</image>
+        <releaseDate>2008-08-18T00:00:00+01:00</releaseDate>
+        <addedDate>2008-09-01T11:18:35+01:00</addedDate>
+        <popularity>0.56</popularity>
+        <streamingReleaseDate>3001-01-01T00:00:00+00:00</streamingReleaseDate>
+      </release>
+    </taggedItem>
+    <taggedItem>
+      <release id="294196">
+        <title>All Hope Is Gone</title>
+        <version />
+        <type>Album</type>
+        <barcode>016861793807</barcode>
+        <year>2011</year>
+        <explicitContent>false</explicitContent>
+        <artist id="63344">
+          <name>Slipknot</name>
+          <appearsAs>Slipknot</appearsAs>
+          <url>http://www.7digital.com/artist/slipknot/?partner=1401</url>
+        </artist>
+        <url>http://www.7digital.com/artist/slipknot/release/all-hope-is-gone-1/?partner=1401</url>
+        <image>http://cdn.7static.com/static/img/sleeveart/00/002/941/0000294196_50.jpg</image>
+        <releaseDate>2011-08-11T00:00:00+01:00</releaseDate>
+        <addedDate>2008-08-18T22:24:22+01:00</addedDate>
+        <popularity>0.55</popularity>
+        <streamingReleaseDate>2011-08-11T00:00:00+01:00</streamingReleaseDate>
+      </release>
+    </taggedItem>
+    <taggedItem>
+      <release id="16060">
+        <title>Rising</title>
+        <version>Remastered</version>
+        <type>Album</type>
+        <barcode>00731454736121</barcode>
+        <year>1999</year>
+        <explicitContent>false</explicitContent>
+        <artist id="1376">
+          <name>Rainbow</name>
+          <appearsAs>Rainbow</appearsAs>
+          <url>http://www.7digital.com/artist/rainbow/?partner=1401</url>
+        </artist>
+        <url>http://www.7digital.com/artist/rainbow/release/rising-remastered-1/?partner=1401</url>
+        <image>http://cdn.7static.com/static/img/sleeveart/00/000/160/0000016060_50.jpg</image>
+        <releaseDate>1999-06-28T00:00:00+01:00</releaseDate>
+        <addedDate>2008-08-31T22:18:45+01:00</addedDate>
+        <popularity>0.55</popularity>
+        <streamingReleaseDate>1999-06-28T00:00:00+01:00</streamingReleaseDate>
+      </release>
+    </taggedItem>
+    <taggedItem>
+      <release id="16710">
+        <title>Century Child</title>
+        <version>EU Version</version>
+        <type>Album</type>
+        <barcode>00044001845925</barcode>
+        <year>2005</year>
+        <explicitContent>false</explicitContent>
+        <artist id="11846">
+          <name>Nightwish</name>
+          <appearsAs>Nightwish</appearsAs>
+          <url>http://www.7digital.com/artist/nightwish/?partner=1401</url>
+        </artist>
+        <url>http://www.7digital.com/artist/nightwish/release/century-child-eu-version/?partner=1401</url>
+        <image>http://cdn.7static.com/static/img/sleeveart/00/000/167/0000016710_50.jpg</image>
+        <releaseDate>2005-09-08T00:00:00+01:00</releaseDate>
+        <addedDate>2008-08-31T22:18:47+01:00</addedDate>
+        <popularity>0.55</popularity>
+        <streamingReleaseDate>2005-09-08T00:00:00+01:00</streamingReleaseDate>
+      </release>
+    </taggedItem>
+  </taggedResults>
+</response>

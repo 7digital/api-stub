@@ -1,0 +1,218 @@
+<response status="ok" version="1.2" xsi:noNamespaceSchemaLocation="http://api.7digital.com/1.2/static/7digitalAPI.xsd" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <taggedResults>
+    <page>1</page>
+    <pageSize>10</pageSize>
+    <totalItems>26724</totalItems>
+    <type>release</type>
+    <taggedItem>
+      <release id="442193">
+        <title>Berlin Calling - The Soundtrack by Paul Kalkbrenner</title>
+        <version />
+        <type>Album</type>
+        <barcode>880319333620</barcode>
+        <year>2008</year>
+        <explicitContent>false</explicitContent>
+        <artist id="106148">
+          <name>Paul Kalkbrenner</name>
+          <appearsAs>Paul Kalkbrenner</appearsAs>
+          <url>http://www.7digital.com/artist/paul-kalkbrenner/?partner=1401</url>
+        </artist>
+        <url>http://www.7digital.com/artist/paul-kalkbrenner/release/berlin-calling-the-soundtrack-by-paul-kalkbrenner/?partner=1401</url>
+        <image>http://cdn.7static.com/static/img/sleeveart/00/004/421/0000442193_50.jpg</image>
+        <releaseDate>2008-10-03T00:00:00+01:00</releaseDate>
+        <addedDate>2009-05-13T10:18:01+01:00</addedDate>
+        <popularity>0.56</popularity>
+        <streamingReleaseDate>2008-10-03T00:00:00+01:00</streamingReleaseDate>
+      </release>
+    </taggedItem>
+    <taggedItem>
+      <release id="1426800">
+        <title>This Silence Kills</title>
+        <version />
+        <type>Album</type>
+        <barcode>880319534829</barcode>
+        <year>2011</year>
+        <explicitContent>false</explicitContent>
+        <artist id="153006">
+          <name>Dillon</name>
+          <appearsAs>Dillon</appearsAs>
+          <url>http://www.7digital.com/artist/dillon/?partner=1401</url>
+        </artist>
+        <url>http://www.7digital.com/artist/dillon/release/this-silence-kills/?partner=1401</url>
+        <image>http://cdn.7static.com/static/img/sleeveart/00/014/268/0001426800_50.jpg</image>
+        <releaseDate>2011-11-18T00:00:00+00:00</releaseDate>
+        <addedDate>2011-10-05T15:53:54+01:00</addedDate>
+        <popularity>0.55</popularity>
+        <streamingReleaseDate>2011-11-18T00:00:00+00:00</streamingReleaseDate>
+      </release>
+    </taggedItem>
+    <taggedItem>
+      <release id="1493981">
+        <title>Invincible</title>
+        <version />
+        <type>Album</type>
+        <barcode>884502477399</barcode>
+        <year>2010</year>
+        <explicitContent>false</explicitContent>
+        <artist id="1163244">
+          <name>Two Steps From Hell</name>
+          <appearsAs>Two Steps From Hell</appearsAs>
+          <url>http://www.7digital.com/artist/two-steps-from-hell/?partner=1401</url>
+        </artist>
+        <url>http://www.7digital.com/artist/two-steps-from-hell/release/Invincible/?partner=1401</url>
+        <image>http://cdn.7static.com/static/img/sleeveart/00/014/939/0001493981_50.jpg</image>
+        <releaseDate>2010-05-03T00:00:00+01:00</releaseDate>
+        <addedDate>2011-11-29T15:44:35+00:00</addedDate>
+        <popularity>0.53</popularity>
+        <streamingReleaseDate>3001-01-01T00:00:00+00:00</streamingReleaseDate>
+      </release>
+    </taggedItem>
+    <taggedItem>
+      <release id="1669848">
+        <title>Archangel</title>
+        <version />
+        <type>Album</type>
+        <barcode>885767881051</barcode>
+        <year>2011</year>
+        <explicitContent>false</explicitContent>
+        <artist id="1163244">
+          <name>Two Steps From Hell</name>
+          <appearsAs>Two Steps From Hell</appearsAs>
+          <url>http://www.7digital.com/artist/two-steps-from-hell/?partner=1401</url>
+        </artist>
+        <url>http://www.7digital.com/artist/two-steps-from-hell/release/archangel/?partner=1401</url>
+        <image>http://cdn.7static.com/static/img/sleeveart/00/016/698/0001669848_50.jpg</image>
+        <releaseDate>2011-09-20T00:00:00+01:00</releaseDate>
+        <addedDate>2012-04-13T16:13:44+01:00</addedDate>
+        <popularity>0.52</popularity>
+        <streamingReleaseDate>3001-01-01T00:00:00+00:00</streamingReleaseDate>
+      </release>
+    </taggedItem>
+    <taggedItem>
+      <release id="591488">
+        <title>Berlin Calling Vol. 1</title>
+        <version />
+        <type>Single</type>
+        <barcode>880319433115</barcode>
+        <year>2009</year>
+        <explicitContent>false</explicitContent>
+        <artist id="106148">
+          <name>Paul Kalkbrenner</name>
+          <appearsAs>Paul Kalkbrenner</appearsAs>
+          <url>http://www.7digital.com/artist/paul-kalkbrenner/?partner=1401</url>
+        </artist>
+        <url>http://www.7digital.com/artist/paul-kalkbrenner/release/berlin-calling-vol-1/?partner=1401</url>
+        <image>http://cdn.7static.com/static/img/sleeveart/00/005/914/0000591488_50.jpg</image>
+        <releaseDate>2009-10-02T00:00:00+01:00</releaseDate>
+        <addedDate>2009-09-21T16:32:19+01:00</addedDate>
+        <popularity>0.52</popularity>
+        <streamingReleaseDate>2009-10-02T00:00:00+01:00</streamingReleaseDate>
+      </release>
+    </taggedItem>
+    <taggedItem>
+      <release id="1359554">
+        <title>Classical Chillout</title>
+        <version />
+        <type>Album</type>
+        <barcode>8033772709378</barcode>
+        <year>2011</year>
+        <explicitContent>false</explicitContent>
+        <artist id="1072326">
+          <name>Classical Chillout</name>
+          <appearsAs>Classical Chillout</appearsAs>
+          <url>http://www.7digital.com/artist/classical-chillout/?partner=1401</url>
+        </artist>
+        <url>http://www.7digital.com/artist/classical-chillout/release/classical-chillout/?partner=1401</url>
+        <image>http://cdn.7static.com/static/img/sleeveart/00/013/595/0001359554_50.jpg</image>
+        <releaseDate>2011-04-21T00:00:00+01:00</releaseDate>
+        <addedDate>2011-08-11T14:31:00+01:00</addedDate>
+        <popularity>0.47</popularity>
+        <streamingReleaseDate>3001-01-01T00:00:00+00:00</streamingReleaseDate>
+      </release>
+    </taggedItem>
+    <taggedItem>
+      <release id="1262146">
+        <title>The Edge of Glory (Lady GaGa Tribute) - Instrumental</title>
+        <version />
+        <type>Single</type>
+        <barcode>885686842706</barcode>
+        <year>2011</year>
+        <explicitContent>false</explicitContent>
+        <artist id="1005396">
+          <name>Fashion First</name>
+          <appearsAs>Fashion First</appearsAs>
+          <url>http://www.7digital.com/artist/fashion-first/?partner=1401</url>
+        </artist>
+        <url>http://www.7digital.com/artist/fashion-first/release/the-edge-of-glory-lady-gaga-tribute-instrumental/?partner=1401</url>
+        <image>http://cdn.7static.com/static/img/sleeveart/00/012/621/0001262146_50.jpg</image>
+        <releaseDate>2011-05-09T00:00:00+01:00</releaseDate>
+        <addedDate>2011-05-26T19:25:08+01:00</addedDate>
+        <popularity>0.46</popularity>
+        <streamingReleaseDate>2011-05-09T00:00:00+01:00</streamingReleaseDate>
+      </release>
+    </taggedItem>
+    <taggedItem>
+      <release id="828238">
+        <title>Dust</title>
+        <version />
+        <type>Album</type>
+        <barcode>880319466427</barcode>
+        <year>2010</year>
+        <explicitContent>false</explicitContent>
+        <artist id="52231">
+          <name>Ellen Allien</name>
+          <appearsAs>Ellen Allien</appearsAs>
+          <url>http://www.7digital.com/artist/ellen-allien/?partner=1401</url>
+        </artist>
+        <url>http://www.7digital.com/artist/ellen-allien/release/dust/?partner=1401</url>
+        <image>http://cdn.7static.com/static/img/sleeveart/00/008/282/0000828238_50.jpg</image>
+        <releaseDate>2010-05-14T00:00:00+01:00</releaseDate>
+        <addedDate>2010-05-12T16:54:15+01:00</addedDate>
+        <popularity>0.46</popularity>
+        <streamingReleaseDate>2010-05-14T00:00:00+01:00</streamingReleaseDate>
+      </release>
+    </taggedItem>
+    <taggedItem>
+      <release id="1382350">
+        <title>A Winged Victory For The Sullen</title>
+        <version />
+        <type>Album</type>
+        <barcode>4050486049495</barcode>
+        <year>2011</year>
+        <explicitContent>false</explicitContent>
+        <artist id="1090396">
+          <name>A Winged Victory For The Sullen</name>
+          <appearsAs>A Winged Victory For The Sullen</appearsAs>
+          <url>http://www.7digital.com/artist/a-winged-victory-for-the-sullen/?partner=1401</url>
+        </artist>
+        <url>http://www.7digital.com/artist/a-winged-victory-for-the-sullen/release/a-winged-victory-for-the-sullen/?partner=1401</url>
+        <image>http://cdn.7static.com/static/img/sleeveart/00/013/823/0001382350_50.jpg</image>
+        <releaseDate>2011-09-09T00:00:00+01:00</releaseDate>
+        <addedDate>2011-08-31T11:26:08+01:00</addedDate>
+        <popularity>0.46</popularity>
+        <streamingReleaseDate>2011-09-09T00:00:00+01:00</streamingReleaseDate>
+      </release>
+    </taggedItem>
+    <taggedItem>
+      <release id="1466304">
+        <title>International Battle Of The Year 2011 - The Soundtrack</title>
+        <version />
+        <type>Album</type>
+        <barcode>4042564135343</barcode>
+        <year>2011</year>
+        <explicitContent>false</explicitContent>
+        <artist id="209">
+          <name>Various Artists</name>
+          <appearsAs>Various Artists</appearsAs>
+          <url>http://www.7digital.com/artist/various-artists/?partner=1401</url>
+        </artist>
+        <url>http://www.7digital.com/artist/various-artists/release/international-battle-of-the-year-2011-the-soundtrack/?partner=1401</url>
+        <image>http://cdn.7static.com/static/img/sleeveart/00/014/663/0001466304_50.jpg</image>
+        <releaseDate>2011-11-25T00:00:00+00:00</releaseDate>
+        <addedDate>2011-11-02T16:01:33+00:00</addedDate>
+        <popularity>0.46</popularity>
+        <streamingReleaseDate>2011-11-25T00:00:00+00:00</streamingReleaseDate>
+      </release>
+    </taggedItem>
+  </taggedResults>
+</response>

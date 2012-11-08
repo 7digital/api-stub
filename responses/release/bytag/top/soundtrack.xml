@@ -1,0 +1,218 @@
+<response status="ok" version="1.2" xsi:noNamespaceSchemaLocation="http://api.7digital.com/1.2/static/7digitalAPI.xsd" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <taggedResults>
+    <page>1</page>
+    <pageSize>10</pageSize>
+    <totalItems>17454</totalItems>
+    <type>release</type>
+    <taggedItem>
+      <release id="1470627">
+        <title>The Twilight Saga: Breaking Dawn - Part 1</title>
+        <version />
+        <type>Album</type>
+        <barcode>075679968371</barcode>
+        <year>2011</year>
+        <explicitContent>false</explicitContent>
+        <artist id="209">
+          <name>Various Artists</name>
+          <appearsAs>Various Artists</appearsAs>
+          <url>http://www.7digital.com/artist/various-artists/?partner=1401</url>
+        </artist>
+        <url>http://www.7digital.com/artist/various-artists/release/the-twilight-saga-breaking-dawn-part-1-1-1/?partner=1401</url>
+        <image>http://cdn.7static.com/static/img/sleeveart/00/014/706/0001470627_50.jpg</image>
+        <releaseDate>2011-11-07T00:00:00+00:00</releaseDate>
+        <addedDate>2011-11-07T11:37:12+00:00</addedDate>
+        <popularity>0.61</popularity>
+        <streamingReleaseDate>2011-11-07T00:00:00+00:00</streamingReleaseDate>
+      </release>
+    </taggedItem>
+    <taggedItem>
+      <release id="1030759">
+        <title>Burlesque Original Motion Picture Soundtrack</title>
+        <version />
+        <type>Album</type>
+        <barcode>884977769081</barcode>
+        <year>2010</year>
+        <explicitContent>false</explicitContent>
+        <artist id="209">
+          <name>Various Artists</name>
+          <appearsAs>Various Artists</appearsAs>
+          <url>http://www.7digital.com/artist/various-artists/?partner=1401</url>
+        </artist>
+        <url>http://www.7digital.com/artist/various-artists/release/burlesque-original-motion-picture-soundtrack/?partner=1401</url>
+        <image>http://cdn.7static.com/static/img/sleeveart/00/010/307/0001030759_50.jpg</image>
+        <releaseDate>2010-11-22T00:00:00+00:00</releaseDate>
+        <addedDate>2010-11-15T11:15:48+00:00</addedDate>
+        <popularity>0.59</popularity>
+        <streamingReleaseDate>2010-11-22T00:00:00+00:00</streamingReleaseDate>
+      </release>
+    </taggedItem>
+    <taggedItem>
+      <release id="1047688">
+        <title>TRON: Legacy</title>
+        <version />
+        <type>Album</type>
+        <barcode>5099994977752</barcode>
+        <year>2010</year>
+        <explicitContent>false</explicitContent>
+        <artist id="466">
+          <name>Daft Punk</name>
+          <appearsAs>Daft Punk</appearsAs>
+          <url>http://www.7digital.com/artist/daft-punk/?partner=1401</url>
+        </artist>
+        <url>http://www.7digital.com/artist/daft-punk/release/tron-legacy/?partner=1401</url>
+        <image>http://cdn.7static.com/static/img/sleeveart/00/010/476/0001047688_50.jpg</image>
+        <releaseDate>2010-12-06T00:00:00+00:00</releaseDate>
+        <addedDate>2010-11-22T18:39:27+00:00</addedDate>
+        <popularity>0.59</popularity>
+        <streamingReleaseDate>2010-12-06T00:00:00+00:00</streamingReleaseDate>
+      </release>
+    </taggedItem>
+    <taggedItem>
+      <release id="1831870">
+        <title>Isles Of Wonder: Music For The Opening Ceremony Of The London 2012 Olympic Games</title>
+        <version />
+        <type>Album</type>
+        <barcode>00600753399255</barcode>
+        <year>2012</year>
+        <explicitContent>false</explicitContent>
+        <artist id="209">
+          <name>Various Artists</name>
+          <appearsAs>Various Artists</appearsAs>
+          <url>http://www.7digital.com/artist/various-artists/?partner=1401</url>
+        </artist>
+        <url>http://www.7digital.com/artist/various-artists/release/isles-of-wonder-music-for-the-opening-ceremony-of-the-london-2012-olympic-games/?partner=1401</url>
+        <image>http://cdn.7static.com/static/img/sleeveart/00/018/318/0001831870_50.jpg</image>
+        <releaseDate>2012-07-28T00:00:00+01:00</releaseDate>
+        <addedDate>2012-07-30T09:57:10+01:00</addedDate>
+        <popularity>0.58</popularity>
+        <streamingReleaseDate>2012-07-28T00:00:00+01:00</streamingReleaseDate>
+      </release>
+    </taggedItem>
+    <taggedItem>
+      <release id="1203914">
+        <title>Best Of British</title>
+        <version />
+        <type>Album</type>
+        <barcode>00600753333181</barcode>
+        <year>2011</year>
+        <explicitContent>false</explicitContent>
+        <artist id="209">
+          <name>Various Artists</name>
+          <appearsAs>Various Artists</appearsAs>
+          <url>http://www.7digital.com/artist/various-artists/?partner=1401</url>
+        </artist>
+        <url>http://www.7digital.com/artist/various-artists/release/best-of-british-01/?partner=1401</url>
+        <image>http://cdn.7static.com/static/img/sleeveart/00/012/039/0001203914_50.jpg</image>
+        <releaseDate>2011-04-18T00:00:00+01:00</releaseDate>
+        <addedDate>2011-04-05T15:01:30+01:00</addedDate>
+        <popularity>0.58</popularity>
+        <streamingReleaseDate>2011-04-18T00:00:00+01:00</streamingReleaseDate>
+      </release>
+    </taggedItem>
+    <taggedItem>
+      <release id="939964">
+        <title>Scott Pilgrim vs. the World (Original Motion Picture Soundtrack)</title>
+        <version />
+        <type>Album</type>
+        <barcode>00018771034322</barcode>
+        <year>2010</year>
+        <explicitContent>false</explicitContent>
+        <artist id="209">
+          <name>Various Artists</name>
+          <appearsAs>Various Artists</appearsAs>
+          <url>http://www.7digital.com/artist/various-artists/?partner=1401</url>
+        </artist>
+        <url>http://www.7digital.com/artist/various-artists/release/scott-pilgrim-vs-the-world-original-motion-picture-soundtrack/?partner=1401</url>
+        <image>http://cdn.7static.com/static/img/sleeveart/00/009/399/0000939964_50.jpg</image>
+        <releaseDate>2010-08-23T00:00:00+01:00</releaseDate>
+        <addedDate>2010-08-06T15:20:44+01:00</addedDate>
+        <popularity>0.57</popularity>
+        <streamingReleaseDate>2010-08-23T00:00:00+01:00</streamingReleaseDate>
+      </release>
+    </taggedItem>
+    <taggedItem>
+      <release id="1180888">
+        <title>Sucker Punch</title>
+        <version />
+        <type>Album</type>
+        <barcode>884977927375</barcode>
+        <year>2011</year>
+        <explicitContent>false</explicitContent>
+        <artist id="209">
+          <name>Various Artists</name>
+          <appearsAs>Various Artists</appearsAs>
+          <url>http://www.7digital.com/artist/various-artists/?partner=1401</url>
+        </artist>
+        <url>http://www.7digital.com/artist/various-artists/release/sucker-punch/?partner=1401</url>
+        <image>http://cdn.7static.com/static/img/sleeveart/00/011/808/0001180888_50.jpg</image>
+        <releaseDate>2011-08-31T00:00:00+01:00</releaseDate>
+        <addedDate>2011-03-16T05:03:56+00:00</addedDate>
+        <popularity>0.57</popularity>
+        <streamingReleaseDate>2011-08-31T00:00:00+01:00</streamingReleaseDate>
+      </release>
+    </taggedItem>
+    <taggedItem>
+      <release id="1659224">
+        <title>Top 200 Movie Classics - The Very Best Classical Music From The Cinema</title>
+        <version />
+        <type>Album</type>
+        <barcode>0848129021878</barcode>
+        <year>2012</year>
+        <explicitContent>false</explicitContent>
+        <artist id="209">
+          <name>Various Artists</name>
+          <appearsAs>Various Artists</appearsAs>
+          <url>http://www.7digital.com/artist/various-artists/?partner=1401</url>
+        </artist>
+        <url>http://www.7digital.com/artist/various-artists/release/top-200-movie-classics-the-very-best-classical-music-from-the-cinema/?partner=1401</url>
+        <image>http://cdn.7static.com/static/img/sleeveart/00/016/592/0001659224_50.jpg</image>
+        <releaseDate>2012-03-23T00:00:00+00:00</releaseDate>
+        <addedDate>2012-04-05T02:16:56+01:00</addedDate>
+        <popularity>0.57</popularity>
+        <streamingReleaseDate>2012-03-23T00:00:00+00:00</streamingReleaseDate>
+      </release>
+    </taggedItem>
+    <taggedItem>
+      <release id="312620">
+        <title>Grease</title>
+        <version>Deluxe Edition</version>
+        <type>Album</type>
+        <barcode>00602498097731</barcode>
+        <year>2005</year>
+        <explicitContent>false</explicitContent>
+        <artist id="209">
+          <name>Various Artists</name>
+          <appearsAs>Various Artists</appearsAs>
+          <url>http://www.7digital.com/artist/various-artists/?partner=1401</url>
+        </artist>
+        <url>http://www.7digital.com/artist/various-artists/release/grease-25th-anniversy-1/?partner=1401</url>
+        <image>http://cdn.7static.com/static/img/sleeveart/00/003/126/0000312620_50.jpg</image>
+        <releaseDate>2005-08-15T00:00:00+01:00</releaseDate>
+        <addedDate>2008-10-23T10:01:50+01:00</addedDate>
+        <popularity>0.56</popularity>
+        <streamingReleaseDate>2005-08-15T00:00:00+01:00</streamingReleaseDate>
+      </release>
+    </taggedItem>
+    <taggedItem>
+      <release id="1416047">
+        <title>It Will Rain</title>
+        <version />
+        <type>Single</type>
+        <barcode>075679966025</barcode>
+        <year>2011</year>
+        <explicitContent>false</explicitContent>
+        <artist id="643839">
+          <name>Bruno Mars</name>
+          <appearsAs>Bruno Mars</appearsAs>
+          <url>http://www.7digital.com/artist/bruno-mars/?partner=1401</url>
+        </artist>
+        <url>http://www.7digital.com/artist/bruno-mars/release/it-will-rain/?partner=1401</url>
+        <image>http://cdn.7static.com/static/img/sleeveart/00/014/160/0001416047_50.jpg</image>
+        <releaseDate>2011-11-05T00:00:00+00:00</releaseDate>
+        <addedDate>2011-10-26T12:06:20+01:00</addedDate>
+        <popularity>0.55</popularity>
+        <streamingReleaseDate>2011-11-05T00:00:00+00:00</streamingReleaseDate>
+      </release>
+    </taggedItem>
+  </taggedResults>
+</response>
