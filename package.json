@@ -9,7 +9,7 @@
 	},
 	"main": "server.js",
 	"scripts": {
-		"test": "./node_modules/.bin/mocha -R spec spec/integration.js"
+		"test": "./node_modules/.bin/mocha -R spec spec/*"
 	},
   "engines":{
     "node":"0.6.19"
