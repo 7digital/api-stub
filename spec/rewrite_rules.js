@@ -47,8 +47,7 @@ describe("rewriting requested urls", function(){
 
   it("should pipe to different url when given rule", function(done){
     var newUrl = "http://new.host.com/somewhere/new?please=true";
-    var oldPath = "/old/place";
-    var req = {host:"http://www.bla.com", url:oldPath};
+    var req = {host:"http://www.bla.com", url:"/old/place"};
     var res = {};
     var pipeSpy = sinon.spy();
     this.stubRequest.get = function(url){
@@ -63,7 +62,27 @@ describe("rewriting requested urls", function(){
         callback(req, res, function(){});
       }
     };
-    this.rewriteRules.apply(server, {urlRewrites:[{requestedUrl: oldPath, replacementUrl: newUrl}]});
+    this.rewriteRules.apply(server, {urlRewrites:[{requestedUrl: req.url, replacementUrl: newUrl}]});
+  });
+
+  it("should do urlRewrite before host change", function(done){
+    var newUrl = "http://new.host.com/somewhere/new?please=true";
+    var req = {host:"http://www.bla.com", url:"/old/path"};
+    var res = {};
+    var pipeSpy = sinon.spy();
+    this.stubRequest.get = function(url){
+      url.should.equal(newUrl);
+      return{ pipe: function(desination){
+        desination.should.equal(res);
+        done();
+      }};
+    };
+    var server = {
+      use:function(callback){
+        callback(req, res, function(){});
+      }
+    };
+    this.rewriteRules.apply(server, {host:"http://new.host.com", urlRewrites:[{requestedUrl: req.url, replacementUrl: newUrl}]});
   });
 
 });
