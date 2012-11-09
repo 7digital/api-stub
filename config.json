@@ -1,8 +1,12 @@
 {
 	"rules":
 	{
+		"host":"http://api.7digital.com/1.2",
 		"urlRewrites":[
 			{"requestedUrl": "/release/details", "replacementUrl": "http://www.bbc.co.uk/news"}
+		],
+		"errorEndpoints":[
+			{"requestedUrl": "/artist/details", "errorCode": "2001"}
 		]
 	}
 }

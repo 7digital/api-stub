@@ -25,15 +25,7 @@ var argv = require("optimist")
 	})
 	.usage("Usage: $0")
 	.argv
-
-if(argv.config){
-	var configPath = path.join(__dirname, argv.config)
-	var config = fs.readFileSync(configPath, "utf-8")
-	config = JSON.parse(config);
-	console.log("using config file at path: "+configPath)
-	rewriteRules.apply(server, config.rules)	
-}
-
+server.get('/rules', rewriteRules.getRules);
 
 server.use(function addDefaultHeaders(req, res, next) {
 	res.header('Accept-Ranges',	'bytes');
@@ -44,6 +36,14 @@ server.use(function addDefaultHeaders(req, res, next) {
 	res.header('x-7dig', 'localhost');
 	return next();
 });
+
+if(argv.config){
+	var configPath = path.join(__dirname, argv.config)
+	var config = fs.readFileSync(configPath, "utf-8")
+	config = JSON.parse(config);
+	console.log("using config file at path: "+configPath)
+	rewriteRules.apply(server, config.rules)	
+}
 
 // Feature
 server.post('/feature/start', feature.logIt);
@@ -99,7 +99,6 @@ server.post('/user/payment/card/select', conventions.serveDefault);
 server.post('/user/payment/card/add', conventions.cardNumber);
 server.post('/user/payment/card/delete', conventions.serveDefault);
 server.get('/payment/card/type', conventions.serveDefault);
-
 //trackownership
 server.post('/trackownership/user/:userId', conventions.serveTrackownership);
 

@@ -3,13 +3,14 @@ var should = require('chai').should();
 var SandboxedModule = require('sandboxed-module');
 var sinon = require('sinon');
 var request = require('request');
+var events = require("events");
 
 describe("rewriting requested urls", function(){
   beforeEach(function(done){
     this.stubRequest = sinon.stub();
     this.rewriteRules = SandboxedModule.require('../rewriteRules.js', {
       requires: {
-          'request':this.stubRequest
+          'request':this.stubRequest,
       }
     });
     done();
@@ -75,7 +76,7 @@ describe("rewriting requested urls", function(){
     this.stubRequest.get = function(url){
       url.should.equal(newUrl);
       return{ pipe: function(desination){
-        //desination.should.equal(res);
+        desination.should.equal(res);
         done();
       }};
     };
@@ -104,4 +105,21 @@ describe("rewriting requested urls", function(){
     }};
     this.rewriteRules.getRules({}, res);
   });
+
+  it("should return a canned error response with error rule", function(done){
+    var oldUrl = "/going/here?param=important";
+    var req = {host:"http://www.bla.com", url:oldUrl};
+    var errorCode = "2001"
+    var recivedData = ""
+    var res = {send:function(data){
+      assert.isTrue(data.indexOf(errorCode) != -1);
+      done()
+    }}
+    var server = {
+      use:function(callback){
+        callback(req, res, function(){});
+      }
+    };
+    this.rewriteRules.apply(server, {errorEndpoints:[{requestedUrl: oldUrl, errorCode: errorCode}]});
+  })
 });
