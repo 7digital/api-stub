@@ -5,7 +5,10 @@ var express = require('express'),
 	feature = new FeatureHandler(),
 	basket = new BasketHandler(),
 	conventions = new ConventionalHandler(),
-	server = express.createServer();
+	server = express.createServer(),
+	fs = require('fs')
+	path = require('path')
+	rewriteRules = require('./rewriteRules');
 
 server.configure('development', function configureServerForDevelopment() {
 	server.use(express.logger());
@@ -15,8 +18,25 @@ server.use(
 	express.bodyParser()
 );
 
+var argv = require("optimist")
+	.options("config", {
+		alias : "c",
+		description : "location of the config file"
+	})
+	.usage("Usage: $0")
+	.argv
+
+if(argv.config){
+	var configPath = path.join(__dirname, argv.config)
+	var config = fs.readFileSync(configPath, "utf-8")
+	config = JSON.parse(config);
+	console.log("using config file at path: "+configPath)
+	rewriteRules.apply(server, config.rules)	
+}
+
 
 server.use(function addDefaultHeaders(req, res, next) {
+	console.log(req);
 	res.header('Accept-Ranges',	'bytes');
 	res.header('Content-Type', 'text/xml; charset=utf-8');
 	res.header('X-RateLimit-Current', '37');
