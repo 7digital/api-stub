@@ -36,7 +36,6 @@ if(argv.config){
 
 
 server.use(function addDefaultHeaders(req, res, next) {
-	console.log(req);
 	res.header('Accept-Ranges',	'bytes');
 	res.header('Content-Type', 'text/xml; charset=utf-8');
 	res.header('X-RateLimit-Current', '37');
