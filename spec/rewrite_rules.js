@@ -26,11 +26,12 @@ describe("rewriting requested urls", function(){
   });
 
   it("should pipe request to new host when host change rule is implemented", function(done){
-    var req = {host:"http://www.bla.com"};
+    var newHost = "http://new.host.com"
+    var req = {host:"http://www.bla.com", url:"/going/here?param=important"};
     var res = {};
     var pipeSpy = sinon.spy();
     this.stubRequest.get = function(url){
-      url.should.equal(req.host);
+      url.should.equal(newHost+req.url);
       return{ pipe: function(desination){
         desination.should.equal(res);
         done();
@@ -41,6 +42,6 @@ describe("rewriting requested urls", function(){
         callback(req, res, function(){});
       }
     };
-    this.rewriteRules.apply(server, {});
+    this.rewriteRules.apply(server, {host:newHost});
   });
 });
