@@ -25,7 +25,6 @@ var argv = require("optimist")
 	})
 	.usage("Usage: $0")
 	.argv;
-server.get('/rules', rewriteRules.getRules);
 
 server.use(function addDefaultHeaders(req, res, next) {
 	res.header('Accept-Ranges',	'bytes');

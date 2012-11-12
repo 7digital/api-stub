@@ -30,16 +30,20 @@ describe("rewriting requested urls", function(){
     var newHost = "http://new.host.com";
     var req = {host:"http://www.bla.com", url:"/going/here?param=important"};
     var res = {};
+    var nextSpy = sinon.spy();
     this.stubRequest.get = function(url){
       url.should.equal(newHost+req.url);
       return{ pipe: function(desination){
-        desination.should.equal(res);
-        done();
+        setTimeout(function(){
+          desination.should.equal(res);
+          nextSpy.called.should.equal(false);
+          done(); 
+        }, 5)
       }};
     };
     var server = {
       use:function(callback){
-        callback(req, res, function(){});
+        callback(req, res, nextSpy);
       }
     };
     this.rewriteRules.apply(server, {host:newHost});
@@ -64,8 +68,6 @@ describe("rewriting requested urls", function(){
     };
     this.rewriteRules.apply(server, {urlRewrites:[{requestedUrl: oldUrl, replacementUrl: newUrl}]});
   });
-
-
 
   it("should return json of rules when requested", function(done){
     this.stubRequest.get = function(){
