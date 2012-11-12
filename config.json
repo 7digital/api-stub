@@ -3,7 +3,7 @@
 	{
 		"host":"http://api.7digital.com/1.2",
 		"urlRewrites":[
-			{"requestedUrl": "/release/details", "replacementUrl": "http://www.bbc.co.uk/news"}
+			{"requestedUrl": "/release/details", "replacementUrl": "http://thecatapi.com/api/images/get?format=xml&results_per_page=20"}
 		],
 		"errorEndpoints":[
 			{"requestedUrl": "/artist/details", "errorCode": "2001"}
