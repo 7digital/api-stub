@@ -30,7 +30,6 @@ describe("rewriting requested urls", function(){
     var newHost = "http://new.host.com";
     var req = {host:"http://www.bla.com", url:"/going/here?param=important"};
     var res = {};
-    var pipeSpy = sinon.spy();
     this.stubRequest.get = function(url){
       url.should.equal(newHost+req.url);
       return{ pipe: function(desination){
@@ -51,7 +50,6 @@ describe("rewriting requested urls", function(){
     var oldUrl = "/path/here"
     var req = {host:"http://www.bla.com", url:oldUrl+"?query=here"};
     var res = {};
-    var pipeSpy = sinon.spy();
     this.stubRequest.get = function(url){
       url.should.equal(newUrl);
       return{ pipe: function(desination){
@@ -67,30 +65,11 @@ describe("rewriting requested urls", function(){
     this.rewriteRules.apply(server, {urlRewrites:[{requestedUrl: oldUrl, replacementUrl: newUrl}]});
   });
 
-  it("should do urlRewrite before host change", function(done){
-    var newHost = "http://new.host.com";
-    var newUrl = "http://new.host.com/somewhere/new?please=true";
-    var req = {host:"http://www.bla.com", url:"/old/path"};
-    var res = {};
-    var pipeSpy = sinon.spy();
-    this.stubRequest.get = function(url){
-      url.should.equal(newUrl);
-      return{ pipe: function(desination){
-        desination.should.equal(res);
-        done();
-      }};
-    };
-    var server = {
-      use:function(callback){
-        callback(req, res, function(){});
-      }
-    };
-    this.rewriteRules.apply(server, {host:newHost, urlRewrites:[{requestedUrl: req.url, replacementUrl: newUrl}]});
-  });
+
 
   it("should return json of rules when requested", function(done){
     this.stubRequest.get = function(){
-      return{pipe:function(){}}
+      return{ pipe:function() {}}
     }
     var server = {
       use:function(callback){
@@ -110,16 +89,56 @@ describe("rewriting requested urls", function(){
     var oldUrl = "/going/here?param=important";
     var req = {host:"http://www.bla.com", url:oldUrl};
     var errorCode = "2001"
-    var recivedData = ""
+
     var res = {send:function(data){
       assert.isTrue(data.indexOf(errorCode) != -1);
       done()
     }}
+
     var server = {
       use:function(callback){
         callback(req, res, function(){});
       }
     };
     this.rewriteRules.apply(server, {errorEndpoints:[{requestedUrl: oldUrl, errorCode: errorCode}]});
-  })
+  });
+
+  it("should do url rewrite before host change", function(done){
+    var newHost = "http://new.host.com";
+    var newUrl = "http://new.host.com/path/is/new/too?look=here";
+    var req = {host:"http://www.bla.com", url:"/old/path/order/important/rewrite/first"};
+    var res = {};
+    this.stubRequest.get = function(returnedUrl){
+      returnedUrl.should.equal(newUrl);
+      return{ pipe: function(desination){
+        desination.should.equal(res);
+        done();
+      }};
+    };
+    var server = {
+      use:function(callback){
+        callback(req, res, function(){});
+      }
+    };
+    this.rewriteRules.apply(server, {host:newHost, urlRewrites:[{requestedUrl: req.url, replacementUrl: newUrl}]});
+  });
+
+  it("should return canned error response before host change rule", function(done){
+    var errorCode = "4001"
+    var newHost = "http://new.host.com/1.2";
+    var req = {host:"http://www.bla.com", url:"/this/will/error"};
+    var res = {};
+    
+    var res = {send:function(data){
+      assert.isTrue(data.indexOf(errorCode) != -1);
+      done()
+    }};
+
+    var server = {
+      use:function(callback){
+        callback(req, res, function(){});
+      }
+    };
+    this.rewriteRules.apply(server, {host:newHost, errorEndpoints:[{requestedUrl: req.url, errorCode: errorCode}]});
+  });
 });
