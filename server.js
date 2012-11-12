@@ -8,7 +8,7 @@ var express = require('express'),
 	server = express.createServer(),
 	fs = require('fs'),
 	path = require('path'),
-	rewriteRules = require('./rewriteRules');
+	rewriteRules = require('./lib/rewriteRules');
 
 server.configure('development', function configureServerForDevelopment() {
 	server.use(express.logger());

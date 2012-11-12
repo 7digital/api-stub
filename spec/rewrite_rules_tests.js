@@ -8,7 +8,7 @@ var events = require("events");
 describe("rewriting requested urls", function(){
   beforeEach(function(done){
     this.stubRequest = sinon.stub();
-    this.rewriteRules = SandboxedModule.require('../rewriteRules.js', {
+    this.rewriteRules = SandboxedModule.require('../lib/rewriteRules.js', {
       requires: {
           'request':this.stubRequest,
       }
