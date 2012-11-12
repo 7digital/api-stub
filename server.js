@@ -6,8 +6,8 @@ var express = require('express'),
 	basket = new BasketHandler(),
 	conventions = new ConventionalHandler(),
 	server = express.createServer(),
-	fs = require('fs')
-	path = require('path')
+	fs = require('fs'),
+	path = require('path'),
 	rewriteRules = require('./rewriteRules');
 
 server.configure('development', function configureServerForDevelopment() {
@@ -24,7 +24,7 @@ var argv = require("optimist")
 		description : "location of the config file"
 	})
 	.usage("Usage: $0")
-	.argv
+	.argv;
 server.get('/rules', rewriteRules.getRules);
 
 server.use(function addDefaultHeaders(req, res, next) {
@@ -37,12 +37,12 @@ server.use(function addDefaultHeaders(req, res, next) {
 	return next();
 });
 
-if(argv.config){
-	var configPath = path.join(__dirname, argv.config)
-	var config = fs.readFileSync(configPath, "utf-8")
+if (argv.config) {
+	var configPath = path.join(__dirname, argv.config);
+	var config = fs.readFileSync(configPath, "utf-8");
 	config = JSON.parse(config);
-	console.log("using config file at path: "+configPath)
-	rewriteRules.apply(server, config.rules)	
+	console.log("using config file at path: " + configPath);
+	rewriteRules.apply(server, config.rules);
 }
 
 // Feature
