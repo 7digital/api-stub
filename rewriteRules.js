@@ -29,8 +29,9 @@ module.exports = {
 	  if(rules.errorEndpoints && !proxyHappend){
 	  	rules.errorEndpoints.forEach(function(errorEndpoint){
 	  		if(urlsMatch(req.url, errorEndpoint.requestedUrl)){
-				var fullFilePath = path.join(__dirname, './responses/error/', errorEndpoint.errorCode + '.xml');
+	  			var fullFilePath = path.join(__dirname, './responses/error/template.xml');
 				var stream = fs.readFile(fullFilePath, "utf-8", function(err, data){
+					data = data.replace("error-code", errorEndpoint.errorCode);
 					res.send(data);
 				});
 	  		}
