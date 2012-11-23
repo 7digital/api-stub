@@ -26,10 +26,6 @@ var argv = require("optimist")
 	.usage("Usage: $0")
 	.argv;
 
-server.use(function(req, res, next){
-	setTimeout(next, 2000)
-});
-
 server.use(function addDefaultHeaders(req, res, next) {
 	res.header('Accept-Ranges',	'bytes');
 	res.header('Content-Type', 'text/xml; charset=utf-8');
