@@ -26,6 +26,10 @@ var argv = require("optimist")
 	.usage("Usage: $0")
 	.argv;
 
+server.use(function(req, res, next){
+	setTimeout(next, 2000)
+});
+
 server.use(function addDefaultHeaders(req, res, next) {
 	res.header('Accept-Ranges',	'bytes');
 	res.header('Content-Type', 'text/xml; charset=utf-8');
@@ -100,6 +104,11 @@ server.post('/user/payment/card/delete', conventions.serveDefault);
 server.get('/payment/card/type', conventions.serveDefault);
 //trackownership
 server.post('/trackownership/user/:userId', conventions.serveTrackownership);
+
+//Media delivery
+server.get('/media/user/downloadtrack', conventions.serveTrackFile);
+server.get('/media/user/download/release', conventions.serveZipFile);
+server.get('/media/user/download/purchase', conventions.serveZipFile);
 
 //tag
 server.get('/tag', conventions.tag);

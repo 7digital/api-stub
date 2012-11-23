@@ -184,6 +184,17 @@ describe("should return successful responses for ", function(){
 			url: '/user/payment/card/delete',
 			method: 'POST',
 			data: { cardNumber: '4444333322221111' }
+		}, 
+		//media delivery
+		{
+			name:"media/user/downloadtrack",
+			url: '/media/user/downloadtrack'			
+		},{
+			name:"media/user/download/release",
+			url: '/media/user/download/release'
+		},{
+			name:"media/user/download/purchase",
+			url: '/media/user/download/purchase'
 		}
 	];
 
