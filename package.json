@@ -1,34 +1,35 @@
 {
-	"author": "Raoul Millais <web-devteam@7digital.com>",
-	"name": "api-stub",
-	"description": "Stub 7digital API for automated testing",
-	"version": "0.0.1",
-	"repository": {
-		"type": "git",
-		"url": "git@gitorious.7digital.local:api-stub/api-stub.git"
-	},
-	"main": "server.js",
-	"scripts": {
-		"test": "./node_modules/.bin/mocha -R spec spec/integration.js"
-	},
-  "engines":{
-    "node":"0.6.19"
+  "author": "Raoul Millais <web-devteam@7digital.com>",
+  "name": "api-stub",
+  "description": "Stub 7digital API for automated testing",
+  "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "git@gitorious.7digital.local:api-stub/api-stub.git"
   },
-	"dependencies": {
-		"express": "2.5.9",
-		"underscore": "1.3.3",
-		"eyes": "0.1.7"
-	},
-	"devDependencies": {
-		"mocha": "latest",
-		"chai": "latest",
-		"request": "latest",
-		"jshint": "latest",
-		"docco": "latest"
-	},
-	"optionalDependencies": {},
-	"private": "true",
-  "engines" : { 
-    "node" : ">=0.6.0 <0.6.18"
-  }
+  "main": "server.js",
+  "scripts": {
+    "test": "./node_modules/.bin/mocha -R spec spec/*"
+  },
+  "engines": {
+    "node": ">=0.6.0 <0.6.18"
+  },
+  "dependencies": {
+    "express": "2.5.9",
+    "underscore": "1.3.3",
+    "eyes": "0.1.7",
+    "optimist": "~0.3.5",
+    "request": "~2.11.4",
+    "sinon": "~1.5.0",
+    "sandboxed-module": "~0.1.3"
+  },
+  "devDependencies": {
+    "mocha": "latest",
+    "chai": "latest",
+    "request": "latest",
+    "jshint": "latest",
+    "docco": "latest"
+  },
+  "optionalDependencies": {},
+  "private": "true"
 }

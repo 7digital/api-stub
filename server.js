@@ -5,7 +5,10 @@ var express = require('express'),
 	feature = new FeatureHandler(),
 	basket = new BasketHandler(),
 	conventions = new ConventionalHandler(),
-	server = express.createServer();
+	server = express.createServer(),
+	fs = require('fs'),
+	path = require('path'),
+	rewriteRules = require('./lib/rewriteRules');
 
 server.configure('development', function configureServerForDevelopment() {
 	server.use(express.logger());
@@ -15,6 +18,13 @@ server.use(
 	express.bodyParser()
 );
 
+var argv = require("optimist")
+	.options("config", {
+		alias : "c",
+		description : "location of the config file"
+	})
+	.usage("Usage: $0")
+	.argv;
 
 server.use(function addDefaultHeaders(req, res, next) {
 	res.header('Accept-Ranges',	'bytes');
@@ -25,6 +35,14 @@ server.use(function addDefaultHeaders(req, res, next) {
 	res.header('x-7dig', 'localhost');
 	return next();
 });
+
+if (argv.config) {
+	var configPath = path.join(__dirname, argv.config);
+	var config = fs.readFileSync(configPath, "utf-8");
+	config = JSON.parse(config);
+	console.log("using config file at path: " + configPath);
+	rewriteRules.apply(server, config.rules);
+}
 
 // Feature
 server.post('/feature/start', feature.logIt);
@@ -46,6 +64,9 @@ server.get('/release/recommend', conventions.id);
 server.get('/release/search', conventions.search);
 server.get('/release/tags', conventions.serveDefault);
 server.get('/release/tracks', conventions.id);
+
+
+server.get('/translations', conventions.serveDefault);
 
 //track
 server.get('/track/chart', conventions.serveDefault);
@@ -80,9 +101,13 @@ server.post('/user/payment/card/select', conventions.serveDefault);
 server.post('/user/payment/card/add', conventions.cardNumber);
 server.post('/user/payment/card/delete', conventions.serveDefault);
 server.get('/payment/card/type', conventions.serveDefault);
-
 //trackownership
 server.post('/trackownership/user/:userId', conventions.serveTrackownership);
+
+//Media delivery
+server.get('/media/user/downloadtrack', conventions.serveTrackFile);
+server.get('/media/user/download/release', conventions.serveZipFile);
+server.get('/media/user/download/purchase', conventions.serveZipFile);
 
 //tag
 server.get('/tag', conventions.tag);
