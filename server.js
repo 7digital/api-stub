@@ -53,7 +53,7 @@ server.get('/artist/recommend', conventions.id);
 server.get('/artist/releases', conventions.id);
 server.get('/artist/search', conventions.search);
 server.get('/artist/similar', conventions.id);
-server.get('/artist/tags', conventions.idOrDefault);
+server.get('/artist/tags', conventions.id);
 
 // Release
 server.get('/release/bytag/top', conventions.tags);
@@ -62,7 +62,7 @@ server.get('/release/chart', conventions.serveDefault);
 server.get('/release/details', conventions.id);
 server.get('/release/recommend', conventions.id);
 server.get('/release/search', conventions.search);
-server.get('/release/tags', conventions.idOrDefault);
+server.get('/release/tags', conventions.id);
 server.get('/release/tracks', conventions.id);
 
 
