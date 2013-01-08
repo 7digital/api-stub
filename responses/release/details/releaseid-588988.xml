@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8" ?><response status="ok" version="1.2"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://api.7digital.com/1.2/static/7digitalAPI.xsd" ><release id="588988"><title>Leaving Wonderland Bonus Tracks</title><version></version><type>Single</type><barcode>606673100926</barcode><year>2009</year><explicitContent>false</explicitContent><artist id="500"><name>Marcy Playground</name><appearsAs>Marcy Playground</appearsAs><url>http://www.7digital.com/artists/marcy-playground/?partner=1401</url></artist><url>http://www.7digital.com/artists/marcy-playground/leaving-wonderland-bonus-tracks/?partner=1401</url><image>http://cdn.7static.com/static/img/sleeveart/00/005/889/0000588988_50.jpg</image><releaseDate>2009-07-07T00:00:00+01:00</releaseDate><price><currency code="GBP">&#163;</currency><value>1.79</value><formattedPrice>&#163;1.79</formattedPrice><rrp>1.79</rrp><formattedRrp>&#163;1.79</formattedRrp><onSale>false</onSale></price>
+<formats availableDrmFree="true">
+<format id="17"><fileFormat>MP3</fileFormat><bitRate>320</bitRate><drmFree>true</drmFree>			
+</format>
+<format id="33"><fileFormat>M4A</fileFormat><bitRate>320</bitRate><drmFree>true</drmFree>			
+</format>
+</formats><label id="37100"><name>Woz Records/Deep South Digital</name></label></release></response>
