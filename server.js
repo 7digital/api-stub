@@ -93,7 +93,7 @@ server.get('/merchandising/list/details', conventions.key);
 
 // Territories
 server.get('/countries', conventions.serveDefault);
-server.get('/country/resolve', conventions.serveDefault);
+server.get('/country/resolve', conventions.ipAddress);
 server.get('/country/georestrictions/checkout', conventions.serveDefault);
 //payment
 server.get('/user/payment/card', conventions.serveDefault);
