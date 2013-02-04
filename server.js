@@ -60,11 +60,11 @@ server.get('/release/bytag/top', conventions.tags);
 server.get('/release/bytag/new', conventions.tags);
 server.get('/release/chart', conventions.serveDefault);
 server.get('/release/details', conventions.id);
+server.get('/release/editorial', conventions.id);
 server.get('/release/recommend', conventions.id);
 server.get('/release/search', conventions.search);
 server.get('/release/tags', conventions.id);
 server.get('/release/tracks', conventions.id);
-
 
 server.get('/translations', conventions.serveDefault);
 
