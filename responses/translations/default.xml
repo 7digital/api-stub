@@ -8838,10 +8838,6 @@ border-radius: .5em; -moz-border-radius: .5em; -webkit-border-radius: .5em;"&gt;
       <translatedText>{0} results</translatedText>
     </translation>
     <translation>
-      <key>MatchingTracksFound</key>
-      <translatedText>{0} track results</translatedText>
-    </translation>
-    <translation>
       <key>PasswordReset_Accounts_SiteRoot</key>
       <translatedText>account.7digital.com</translatedText>
     </translation>
@@ -13728,10 +13724,6 @@ Please be aware that the &lt;a href="http://player.7digital.com/"&gt;7digital Pl
 &lt;p class="intro font-size-one"&gt;You can browse other, similar artists below, or try typing the address again.&lt;/p&gt;</translatedText>
     </translation>
     <translation>
-      <key>ReleaseByArtistNotFound</key>
-      <translatedText>"{0}" by {1} Not Found</translatedText>
-    </translation>
-    <translation>
       <key>ReleaseByArtistErrorExplanation</key>
       <translatedText>Sorry, we don't have a page for "{0}" by &lt;a href="{1}"&gt;{2}&lt;/a&gt;. You might have ended up here because of a bad link, or because "{3}" isn't available in this store.</translatedText>
     </translation>
@@ -13750,10 +13742,6 @@ Please be aware that the &lt;a href="http://player.7digital.com/"&gt;7digital Pl
     <translation>
       <key>SuggestionBrowseReleases</key>
       <translatedText>You can browse all the releases we have by &lt;a href="{0}"&gt;{1}&lt;/a&gt; below:</translatedText>
-    </translation>
-    <translation>
-      <key>ArtistCalledNotFound</key>
-      <translatedText>Artist "{0}" Not Found</translatedText>
     </translation>
     <translation>
       <key>ArtistErrorExplanation</key>
