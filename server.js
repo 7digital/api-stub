@@ -66,7 +66,7 @@ server.get('/release/search', conventions.search);
 server.get('/release/tags', conventions.id);
 server.get('/release/tracks', conventions.id);
 
-server.get('/translations', conventions.serveDefault);
+server.get('/translations', conventions.country);
 
 //track
 server.get('/track/chart', conventions.serveDefault);
@@ -94,7 +94,7 @@ server.get('/merchandising/list/details', conventions.key);
 // Territories
 server.get('/countries', conventions.serveDefault);
 server.get('/country/resolve', conventions.ipAddress);
-server.get('/country/georestrictions/checkout', conventions.serveDefault);
+server.get('/country/georestrictions/checkout', conventions.ipAddress);
 //payment
 server.get('/user/payment/card', conventions.serveDefault);
 server.post('/user/payment/card/select', conventions.serveDefault);
