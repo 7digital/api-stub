@@ -89,7 +89,7 @@ server.get('/basket/removeitem', basket.removeItem);
 server.get('/user/locker', conventions.locker);
 
 // Merch
-server.get('/merchandising/list/details', conventions.key);
+server.get('/merchandising/list/details', conventions.shopIdAndKey);
 
 // Territories
 server.get('/countries', conventions.serveDefault);
