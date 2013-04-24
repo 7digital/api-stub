@@ -66,7 +66,7 @@ server.get('/release/search', conventions.search);
 server.get('/release/tags', conventions.id);
 server.get('/release/tracks', conventions.id);
 
-server.get('/translations', conventions.country);
+server.get('/translations', conventions.shopIdOrCountry);
 
 //track
 server.get('/track/chart', conventions.serveDefault);
