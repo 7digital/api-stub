@@ -1,9 +1,11 @@
 var express = require('express'),
 	ConventionalHandler = require('./lib/conventions'),
 	BasketHandler = require('./lib/basket'),
+	cardRegistrationHandler = require('./lib/cardregistration'),
 	FeatureHandler = require('./lib/feature'),
 	feature = new FeatureHandler(),
 	basket = new BasketHandler(),
+	cardRegistration = cardRegistrationHandler(),
 	conventions = new ConventionalHandler(),
 	server = express.createServer(),
 	fs = require('fs'),
@@ -100,6 +102,13 @@ server.get('/user/payment/card', conventions.serveDefault);
 server.post('/user/payment/card/select', conventions.serveDefault);
 server.post('/user/payment/card/add', conventions.cardNumber);
 server.post('/user/payment/card/delete', conventions.serveDefault);
+
+server.post('/user/payment/cardregistration', cardRegistration.createToken);
+server.get('/user/payment/cardregistration/:token', cardRegistration.checkToken);
+
+server.post('/cardregistration/:token', cardRegistration.handleCardDetails);
+
+
 server.get('/payment/card/type', conventions.serveDefault);
 //trackownership
 server.post('/trackownership/user/:userId', conventions.serveTrackownership);
