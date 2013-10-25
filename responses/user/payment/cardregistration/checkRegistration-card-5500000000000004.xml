@@ -1,8 +1,11 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <response status="ok" version="1.2" xsi:noNamespaceSchemaLocation="http://api.7digital.com/1.2/static/7digitalAPI.xsd" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-	<cardRegistration id="{{token}}" status="error">
-		<error code="3103">
-			<errorMessage>Add card failed: Please try again</errorMessage>
-		</error>
+	<cardRegistration id="{{token}}" status="complete">
+		<card id="1">
+			<type>VISA</type>
+			<last4digits>1111</last4digits>
+			<cardholderName>Bob</cardholderName>
+			<expiryDate>194209</expiryDate>
+		</card>
 	</cardRegistration>
 </response>

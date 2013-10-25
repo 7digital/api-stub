@@ -103,10 +103,10 @@ server.post('/user/payment/card/select', conventions.serveDefault);
 server.post('/user/payment/card/add', conventions.cardNumber);
 server.post('/user/payment/card/delete', conventions.serveDefault);
 
-server.post('/user/payment/cardregistration', cardRegistration.createToken);
-server.get('/user/payment/cardregistration/:token', cardRegistration.checkToken);
+server.post('/user/payment/cardregistration', cardRegistration.createRegistrationId);
+server.get('/user/payment/cardregistration/:id', cardRegistration.checkRegistrationId);
 
-server.post('/cardregistration/:token', cardRegistration.handleCardDetails);
+server.post('/cardregistration/:id', cardRegistration.handleCardDetails);
 
 
 server.get('/payment/card/type', conventions.serveDefault);
