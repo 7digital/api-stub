@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<response status="ok" version="1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://api.7digital.com/1.2/static/7digitalAPI.xsd" >
+	<release id="2443">
+		<title>The Jimi Hendrix Experience (Box Set)</title>
+		<version></version>
+		<type>Album</type>
+		<barcode>884977422931</barcode>
+		<year>2009</year>
+		<explicitContent>false</explicitContent>
+		<artist id="32">
+			<name>Jimi Hendrix</name>
+			<appearsAs>The Jimi Hendrix Experience</appearsAs>
+			<url>http://www.7digital.com/artists/jimi-hendrix/?partner=712</url>
+		</artist>
+		<url>http://www.7digital.com/artists/jimi-hendrix/the-jimi-hendrix-experience-box-set/?partner=712</url>
+		<image>http://cdn.7static.com/static/img/sleeveart/00/006/718/0000671859_50.jpg</image>
+		<releaseDate>2010-01-01T00:00:00Z</releaseDate>
+		<addedDate>2009-12-08T12:22:15Z</addedDate>
+		<pr

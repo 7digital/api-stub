@@ -18,7 +18,7 @@ before(function(done) {
 	childProcessEnvironment.PORT = port;
 	childProcessEnvironment.NODE_ENV = 'test';
 
-	console.log('spwaning node process : ' + nodeProcessPath);
+	console.log('spawning node process : ' + nodeProcessPath);
 	serverProcess = childProcess.spawn('node', [nodeProcessPath], {
 		env : childProcessEnvironment
 	});
