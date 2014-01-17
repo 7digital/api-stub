@@ -137,9 +137,15 @@ server.listen(port, function serverListening() {
 });
 
 process.on('message', function (message) {
+	var newRules;
+
 	if (message.rule) {
-		console.log(message);
 		rewriteRules.addRules(message.rule);
+		rewriteRules.getRules({}, {
+			send: function (rules) {
+				newRules = rules;
+			}
+		});
 		process.send('acknowledged');
 	}
 });
