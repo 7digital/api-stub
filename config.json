@@ -1,12 +1,12 @@
 {
-	"rules":
-	{
-		"host":"http://api.7digital.com/1.2",
-		"urlRewrites":[
-			{"requestedUrl": "/release/details", "replacementUrl": "http://thecatapi.com/api/images/get?format=xml&results_per_page=20"}
-		],
-		"errorEndpoints":[
-			{"requestedUrl": "/artist/details", "errorCode": "2001"}
-		]
+	"rules": {
+		"urls": {
+			"/release/details": {
+				"rewriteTo": "http://thecatapi.com/api/images/get?format=xml&results_per_page=21"
+			},
+			"/artist/tags": {
+				"returnError": "2001"
+			}
+		}
 	}
 }

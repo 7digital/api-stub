@@ -43,8 +43,10 @@ if (argv.config) {
 	var config = fs.readFileSync(configPath, "utf-8");
 	config = JSON.parse(config);
 	console.log("using config file at path: " + configPath);
-	rewriteRules.apply(server, config.rules);
+	rewriteRules.addRules(config.rules);
 }
+
+rewriteRules.setup(server);
 
 // Feature
 server.post('/feature/start', feature.logIt);
@@ -133,3 +135,12 @@ var port = process.env.PORT || 3000;
 server.listen(port, function serverListening() {
 	console.log('Server listening on %s', port);
 });
+
+process.on('message', function (message) {
+	if (message.rule) {
+		console.log(message);
+		rewriteRules.addRules(message.rule);
+		process.send('acknowledged');
+	}
+});
+
