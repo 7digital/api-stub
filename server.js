@@ -43,11 +43,12 @@ if (argv.config) {
 	var config = fs.readFileSync(configPath, "utf-8");
 	config = JSON.parse(config);
 	console.log("using config file at path: " + configPath);
-	rewriteRules.addRules(config.rules);
+	rewriteRules.addRules(config);
 }
 
 rewriteRules.setup(server);
 
+server.get('/rules',  rewriteRules.getRules);
 // Feature
 server.post('/feature/start', feature.logIt);
 // Artist
@@ -137,16 +138,17 @@ server.listen(port, function serverListening() {
 });
 
 process.on('message', function (message) {
-	var newRules;
+	var config;
 
-	if (message.rule) {
-		rewriteRules.addRules(message.rule);
+	if (message.rules) {
+		rewriteRules.addRules(message);
 		rewriteRules.getRules({}, {
 			send: function (rules) {
-				newRules = rules;
+				config = rules;
 			}
 		});
-		process.send('acknowledged');
+
+		process.send(config);
 	}
 });
 

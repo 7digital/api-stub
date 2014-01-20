@@ -49,10 +49,14 @@ describe("rewriting requested urls", function () {
 				}
 			};
 		};
-		var rules = { };
-		rules[oldUrl] = { rewriteTo: newUrl };
+		var config = {
+			rules: {
+				urls: {}
+			}
+		};
+		config.rules.urls[oldUrl] = { rewriteTo: newUrl };
 
-		this.rewriteRules.addRules(rules);
+		this.rewriteRules.addRules(config);
 		this.rewriteRules.setup(server);
 
 		server.sendRequest(req, res);
@@ -64,20 +68,24 @@ describe("rewriting requested urls", function () {
 				pipe: function () {}
 			};
 		};
-		var rules = {
-			"/old/url": {
-				rewriteTo:  "http://new.url.com/path"
-			},
-			"/different/old/url": {
-				rewriteTo: "http://new.other.com/path?param=important"
+		var config = {
+			rules: {
+				urls: {
+					"/old/url": {
+						rewriteTo:  "http://new.url.com/path"
+					},
+					"/different/old/url": {
+						rewriteTo: "http://new.other.com/path?param=important"
+					}
+				}
 			}
 		};
-		this.rewriteRules.addRules(rules);
+		this.rewriteRules.addRules(config);
 		this.rewriteRules.setup(createServer());
 
 		var res = {
 			send: function (data) {
-				assert.deepEqual(data, { urls: rules });
+				assert.deepEqual(data, config);
 				done();
 			}
 		};
@@ -99,11 +107,10 @@ describe("rewriting requested urls", function () {
 			}
 		};
 		var server = createServer();
-		var rules = {
-		};
-		rules[oldUrl] = { returnError: errorCode };
+		var config = { rules: { urls: {} } };
+		config.rules.urls[oldUrl] = { returnError: errorCode };
 
-		this.rewriteRules.addRules(rules);
+		this.rewriteRules.addRules(config);
 		this.rewriteRules.setup(server);
 		server.sendRequest(req, res);
 	});
@@ -123,10 +130,10 @@ describe("rewriting requested urls", function () {
 			}
 		};
 		var server = createServer();
-		var rules = { };
-		rules[oldUrl] = { serveFile: filePath };
+		var config = { rules: { urls: {} } };
+		config.rules.urls[oldUrl] = { serveFile: filePath };
 
-		this.rewriteRules.addRules(rules);
+		this.rewriteRules.addRules(config);
 		this.rewriteRules.setup(server);
 		server.sendRequest(req, res);
 	});
@@ -145,10 +152,10 @@ describe("rewriting requested urls", function () {
 			}
 		};
 		var server = createServer();
-		var rules = { };
-		rules[oldUrl] = { returnError: errorCode };
+		var config = { rules: { urls: {} } };
+		config.rules.urls[oldUrl] = { returnError: errorCode };
 
-		this.rewriteRules.addRules(rules);
+		this.rewriteRules.addRules(config);
 		this.rewriteRules.setup(server);
 		server.sendRequest(req, res);
 	});
@@ -169,12 +176,12 @@ describe("rewriting requested urls", function () {
 				}
 			};
 		};
-		var rules = { };
-		rules['/p'] = { rewriteTo: 'http://should.not.rewrite.here/' };
-		rules[oldUrl] = { rewriteTo: newUrl };
-		rules['/path'] = { rewriteTo: 'http://should.not.rewrite.here/' };
+		var config = { rules: { urls: {} } };
+		config.rules.urls['/p'] = { rewriteTo: 'http://should.not.rewrite.here/' };
+		config.rules.urls[oldUrl] = { rewriteTo: newUrl };
+		config.rules.urls['/path'] = { rewriteTo: 'http://should.not.rewrite.here/' };
 
-		this.rewriteRules.addRules(rules);
+		this.rewriteRules.addRules(config);
 		this.rewriteRules.setup(server);
 
 		server.sendRequest(req, res);
@@ -182,22 +189,30 @@ describe("rewriting requested urls", function () {
 	});
 
 	it("should merge rules if addRules is called multiple times", function (done) {
-		var initialRules = {
+		var initialConfig = {
+			rules:  {
+				urls: {
 				"/first/url": { returnError: "1234" }
+				}
+			}
 		};
-		var extraRules = {
-				"/second/url": { returnError: "2345" }
+		var extraConfig = {
+			rules:  {
+				urls: {
+					"/second/url": { returnError: "2345" }
+				}
+			}
 		};
 
-		this.rewriteRules.addRules(initialRules);
-		this.rewriteRules.addRules(extraRules);
+		this.rewriteRules.addRules(initialConfig);
+		this.rewriteRules.addRules(extraConfig);
 		this.rewriteRules.setup(createServer());
 
 		var fakeRes = {
-			send: function(rules) {
-				assert.property(rules.urls, "/first/url",
+			send: function(config) {
+				assert.property(config.rules.urls, "/first/url",
 								"expected first url to be present");
-				assert.property(rules.urls, "/second/url",
+				assert.property(config.rules.urls, "/second/url",
 								"expected second url to be present");
 				done();
 			}
