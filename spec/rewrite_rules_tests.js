@@ -49,8 +49,8 @@ describe("rewriting requested urls", function () {
 				}
 			};
 		};
-		var rules = { urls: {} };
-		rules.urls[oldUrl] = { rewriteTo: newUrl };
+		var rules = { };
+		rules[oldUrl] = { rewriteTo: newUrl };
 
 		this.rewriteRules.addRules(rules);
 		this.rewriteRules.setup(server);
@@ -65,13 +65,11 @@ describe("rewriting requested urls", function () {
 			};
 		};
 		var rules = {
-			urls: {
-				"/old/url": {
-					rewriteTo:  "http://new.url.com/path"
-				},
-				"/different/old/url": {
-					rewriteTo: "http://new.other.com/path?param=important"
-				}
+			"/old/url": {
+				rewriteTo:  "http://new.url.com/path"
+			},
+			"/different/old/url": {
+				rewriteTo: "http://new.other.com/path?param=important"
 			}
 		};
 		this.rewriteRules.addRules(rules);
@@ -79,7 +77,7 @@ describe("rewriting requested urls", function () {
 
 		var res = {
 			send: function (data) {
-				assert.deepEqual(data, rules);
+				assert.deepEqual(data, { urls: rules });
 				done();
 			}
 		};
@@ -102,9 +100,8 @@ describe("rewriting requested urls", function () {
 		};
 		var server = createServer();
 		var rules = {
-			urls: { }
 		};
-		rules.urls[oldUrl] = { returnError: errorCode };
+		rules[oldUrl] = { returnError: errorCode };
 
 		this.rewriteRules.addRules(rules);
 		this.rewriteRules.setup(server);
@@ -126,10 +123,8 @@ describe("rewriting requested urls", function () {
 			}
 		};
 		var server = createServer();
-		var rules = {
-			urls: { }
-		};
-		rules.urls[oldUrl] = { serveFile: filePath };
+		var rules = { };
+		rules[oldUrl] = { serveFile: filePath };
 
 		this.rewriteRules.addRules(rules);
 		this.rewriteRules.setup(server);
@@ -150,10 +145,8 @@ describe("rewriting requested urls", function () {
 			}
 		};
 		var server = createServer();
-		var rules = {
-			urls: { }
-		};
-		rules.urls[oldUrl] = { returnError: errorCode };
+		var rules = { };
+		rules[oldUrl] = { returnError: errorCode };
 
 		this.rewriteRules.addRules(rules);
 		this.rewriteRules.setup(server);
@@ -176,10 +169,10 @@ describe("rewriting requested urls", function () {
 				}
 			};
 		};
-		var rules = { urls: {} };
-		rules.urls['/p'] = { rewriteTo: 'http://should.not.rewrite.here/' };
-		rules.urls[oldUrl] = { rewriteTo: newUrl };
-		rules.urls['/path'] = { rewriteTo: 'http://should.not.rewrite.here/' };
+		var rules = { };
+		rules['/p'] = { rewriteTo: 'http://should.not.rewrite.here/' };
+		rules[oldUrl] = { rewriteTo: newUrl };
+		rules['/path'] = { rewriteTo: 'http://should.not.rewrite.here/' };
 
 		this.rewriteRules.addRules(rules);
 		this.rewriteRules.setup(server);
@@ -190,14 +183,10 @@ describe("rewriting requested urls", function () {
 
 	it("should merge rules if addRules is called multiple times", function (done) {
 		var initialRules = {
-			urls: {
 				"/first/url": { returnError: "1234" }
-			}
 		};
 		var extraRules = {
-			urls: {
 				"/second/url": { returnError: "2345" }
-			}
 		};
 
 		this.rewriteRules.addRules(initialRules);
