@@ -142,7 +142,8 @@ process.on('message', function (message) {
 
 	if (message.rules) {
 		rewriteRules.addRules(message);
-		rewriteRules.getRules({}, {
+		rewriteRules.resetRoutes(server);
+		rewriteRules.sendRules({}, {
 			send: function (rules) {
 				config = rules;
 			}
@@ -152,3 +153,6 @@ process.on('message', function (message) {
 	}
 });
 
+if (config) {
+	rewriteRules.resetRoutes(server);
+}
