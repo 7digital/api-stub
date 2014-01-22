@@ -1,4 +1,5 @@
-var express = require('express'),
+var util = require('util'),
+	express = require('express'),
 	ConventionalHandler = require('./lib/conventions'),
 	BasketHandler = require('./lib/basket'),
 	cardRegistrationHandler = require('./lib/cardregistration'),
@@ -28,6 +29,8 @@ var argv = require("optimist")
 	.usage("Usage: $0")
 	.argv;
 
+rewriteRules.setup(server);
+
 server.use(function addDefaultHeaders(req, res, next) {
 	res.header('Accept-Ranges',	'bytes');
 	res.header('Content-Type', 'text/xml; charset=utf-8');
@@ -38,17 +41,6 @@ server.use(function addDefaultHeaders(req, res, next) {
 	return next();
 });
 
-if (argv.config) {
-	var configPath = path.join(__dirname, argv.config);
-	var config = fs.readFileSync(configPath, "utf-8");
-	config = JSON.parse(config);
-	console.log("using config file at path: " + configPath);
-	rewriteRules.addRules(config);
-}
-
-rewriteRules.setup(server);
-
-server.get('/rules',  rewriteRules.getRules);
 // Feature
 server.post('/feature/start', feature.logIt);
 // Artist
@@ -141,14 +133,17 @@ process.on('message', function (message) {
 	var config;
 
 	if (message.rules) {
-		rewriteRules.addRules(message);
-		rewriteRules.getRules({}, {
-			send: function (rules) {
-				config = rules;
-			}
-		});
-
-		process.send(config);
+		rewriteRules.addRules(message, server);
+		config = rewriteRules.getRules();
+		process.send(config, server);
 	}
 });
+
+if (argv.config) {
+	var configPath = path.join(__dirname, argv.config);
+	var config = fs.readFileSync(configPath, "utf-8");
+	config = JSON.parse(config);
+	console.log("using config file at path: " + configPath);
+	rewriteRules.addRules(config, server);
+}
 
