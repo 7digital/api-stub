@@ -18,7 +18,9 @@ describe("rewriting requested urls", function () {
 			},
 			sendRequest: function sendRequest(req, res) {
 				middleware(req, res, function () {});
-			}
+			},
+			routes: { routes: { get: [], post: [] } },
+			get: function noop() {}
 		};
 	}
 
@@ -56,13 +58,14 @@ describe("rewriting requested urls", function () {
 		};
 		config.rules.urls[oldUrl] = { rewriteTo: newUrl };
 
-		this.rewriteRules.addRules(config);
+		this.rewriteRules.addRules(config, server);
 		this.rewriteRules.setup(server);
 
 		server.sendRequest(req, res);
 	});
 
 	it("should return json of rules when requested", function (done) {
+		var server = createServer();
 		this.stubRequest.get = function () {
 			return {
 				pipe: function () {}
@@ -80,8 +83,8 @@ describe("rewriting requested urls", function () {
 				}
 			}
 		};
-		this.rewriteRules.addRules(config);
-		this.rewriteRules.setup(createServer());
+		this.rewriteRules.addRules(config, server);
+		this.rewriteRules.setup(server);
 
 		var res = {
 			send: function (data) {
@@ -90,7 +93,7 @@ describe("rewriting requested urls", function () {
 			}
 		};
 
-		this.rewriteRules.getRules({}, res);
+		this.rewriteRules.sendRules({}, res);
 	});
 
 	it("should return a canned error response with error rule", function (done) {
@@ -110,7 +113,7 @@ describe("rewriting requested urls", function () {
 		var config = { rules: { urls: {} } };
 		config.rules.urls[oldUrl] = { returnError: errorCode };
 
-		this.rewriteRules.addRules(config);
+		this.rewriteRules.addRules(config, server);
 		this.rewriteRules.setup(server);
 		server.sendRequest(req, res);
 	});
@@ -133,7 +136,7 @@ describe("rewriting requested urls", function () {
 		var config = { rules: { urls: {} } };
 		config.rules.urls[oldUrl] = { serveFile: filePath };
 
-		this.rewriteRules.addRules(config);
+		this.rewriteRules.addRules(config, server);
 		this.rewriteRules.setup(server);
 		server.sendRequest(req, res);
 	});
@@ -155,7 +158,7 @@ describe("rewriting requested urls", function () {
 		var config = { rules: { urls: {} } };
 		config.rules.urls[oldUrl] = { returnError: errorCode };
 
-		this.rewriteRules.addRules(config);
+		this.rewriteRules.addRules(config, server);
 		this.rewriteRules.setup(server);
 		server.sendRequest(req, res);
 	});
@@ -181,14 +184,15 @@ describe("rewriting requested urls", function () {
 		config.rules.urls[oldUrl] = { rewriteTo: newUrl };
 		config.rules.urls['/path'] = { rewriteTo: 'http://should.not.rewrite.here/' };
 
-		this.rewriteRules.addRules(config);
+		this.rewriteRules.addRules(config, server);
 		this.rewriteRules.setup(server);
 
 		server.sendRequest(req, res);
 
 	});
 
-	it("should merge rules if addRules is called multiple times", function (done) {
+	it("should merge rules if addRules is called multiple times", function () {
+		var server = createServer();
 		var initialConfig = {
 			rules:  {
 				urls: {
@@ -204,20 +208,14 @@ describe("rewriting requested urls", function () {
 			}
 		};
 
-		this.rewriteRules.addRules(initialConfig);
-		this.rewriteRules.addRules(extraConfig);
-		this.rewriteRules.setup(createServer());
+		this.rewriteRules.addRules(initialConfig, server);
+		this.rewriteRules.addRules(extraConfig, server);
+		this.rewriteRules.setup(server);
 
-		var fakeRes = {
-			send: function(config) {
-				assert.property(config.rules.urls, "/first/url",
-								"expected first url to be present");
-				assert.property(config.rules.urls, "/second/url",
-								"expected second url to be present");
-				done();
-			}
-		};
-
-		this.rewriteRules.getRules({}, fakeRes);
+		var config = this.rewriteRules.getRules();
+		assert.property(config.rules.urls, "/first/url",
+						"expected first url to be present");
+		assert.property(config.rules.urls, "/second/url",
+						"expected second url to be present");
 	});
 });
