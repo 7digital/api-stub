@@ -29,15 +29,18 @@ npm as usual:
 
 To be able to deploy the API to IIS you will need to install:
 
-Visual C++ 2010 Redistributable package (exact version depends on whether you are running 32 or 64 bit windows)
-[iisnode](https://github.com/tjanczuk/iisnode/blob/master/README.md) and the [URL rewrite module](http://www.iis.net/learn/extensions/url-rewrite-module/using-the-url-rewrite-module)
+Visual C++ 2010 Redistributable package (exact version depends on whether you
+are running 32 or 64 bit windows)
+[iisnode](https://github.com/tjanczuk/iisnode/blob/master/README.md) and the
+[URL rewrite module](http://www.iis.net/learn/extensions/url-rewrite-module/using-the-url-rewrite-module)
 
 Then you can deploy to iis with the following commands:
 
     bundle install
     rake deploy
 
- Finally, you will need to add a hosts file entry for the stub url to localhost which is in the output of the last command.
+ Finally, you will need to add a hosts file entry for the stub url to localhost
+ which is in the output of the last command.
 	
 USAGE
 =====
