@@ -95,6 +95,7 @@ server.get('/user/locker', conventions.locker);
 
 // Merch
 server.get('/merchandising/list/details', conventions.shopIdAndKey);
+server.get('/editorial/list', conventions.shopIdAndKey);
 
 // Territories
 server.get('/countries', conventions.serveDefault);
@@ -135,6 +136,10 @@ server.get("*", function (req, res) {
 var port = process.env.PORT || 3000;
 server.listen(port, function serverListening() {
 	console.log('Server listening on %s', port);
+	if (process.send) {
+		//Let parent processes know the stub is ready to go
+		process.send({ ready: true });
+	}
 });
 
 process.on('message', function (message) {
