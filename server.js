@@ -158,6 +158,15 @@ process.on('message', function (message) {
 	}
 });
 
+function die() {
+	server.close(function () {
+		process.exit(0);
+	});
+}
+
+process.on('SIGTERM', die);
+process.on('SIGINT', die);
+
 if (config) {
 	rewriteRules.resetRoutes(server);
 }
