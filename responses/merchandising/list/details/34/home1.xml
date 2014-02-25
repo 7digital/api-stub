@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <response status="ok" version="1.2" xsi:noNamespaceSchemaLocation="http://api.7digital.com/1.2/static/7digitalAPI.xsd" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 	<list id="833">
-		<key>tabAlbums</key>
+		<key>home1</key>
 		<listItems>
 			<listItem id="1234113">
 				<type>release</type>
