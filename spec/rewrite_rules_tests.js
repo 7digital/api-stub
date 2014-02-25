@@ -15,7 +15,7 @@ describe("rewriting requested urls", function () {
 			host: 'http://www.bla.com',
 			url: path + (paramString ? ('?' + paramString) : ''),
 			path: path,
-			params: qs.parse(paramString)
+			query: qs.parse(paramString)
 		};
 	}
 
