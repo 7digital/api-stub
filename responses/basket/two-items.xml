@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<response xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" status="ok" version="1.2" xsi:noNamespaceSchemaLocation="http://purchasing-api.7digital.live/1.0/static/7digitalAPI.xsd">
+	<basket id="41699dd8-422c-4bd9-a992-9131cc9221a6">
+		<itemCount>2</itemCount>
+		<price>
+			<currency code="GBP">£</currency>
+			<value>1.98</value>
+			<formattedPrice>£1.98</formattedPrice>
+		</price>
+		<basketItems>
+			<basketItem id="205791050">
+				<type>release</type>
+				<itemName>Perfect Symmetry</itemName>
+				<artistName>Keane</artistName>
+				<trackId>1234</trackId>
+				<releaseId>320866</releaseId>
+				<price>
+					<currency code="GBP">£</currency>
+					<value>0.99</value>
+					<formattedPrice>£0.99</formattedPrice>
+				</price>
+				<amountDue>
+					<amount>0.99</amount>
+					<formattedAmount>£0.99</formattedAmount>
+				</amountDue>
+			</basketItem>
+			<basketItem id="205791051">
+				<type>release</type>
+				<itemName>Perfect Symmetry</itemName>
+				<artistName>Keane</artistName>
+				<trackId>1235</trackId>
+				<releaseId>320866</releaseId>
+				<price>
+					<currency code="GBP">£</currency>
+					<value>0.99</value>
+					<formattedPrice>£0.99</formattedPrice>
+				</price>
+				<amountDue>
+					<amount>0.99</amount>
+					<formattedAmount>£0.99</formattedAmount>
+				</amountDue>
+			</basketItem>
+		</basketItems>
+		<amountDue>
+			<currency code="GBP">£</currency>
+			<amount>1.98</amount>
+			<formattedAmount>£1.98</formattedAmount>
+		</amountDue>
+	</basket>
+</response>
