@@ -83,6 +83,8 @@ server.get('/track/search', conventions.search);
 server.get('/catalogue/artist/:artistName', conventions.serveDefault);
 server.get('/catalogue/artist/:artistName/release/:releaseName', conventions.releaseSlug);
 server.get('/catalogue/artist/:artistName/release/:releaseName/shopid/:shopid', conventions.releaseSlug);
+server.get('/catalogue/artist-byurl', conventions.serveDefault);
+server.get('/catalogue/release-byurl', conventions.releaseSlugQuery);
 
 // Basket
 server.get('/basket', basket.getBasket);
