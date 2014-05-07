@@ -13999,5 +13999,31 @@ Please be aware that the &lt;a href="http://player.7digital.com/"&gt;7digital Pl
       <key>YouOwnThis</key>
       <translatedText>You own this</translatedText>
     </translation>
+    <translation>
+        <key>404SorryBecause</key>
+        <translatedText>
+            Sorry, we can’t seem to find the page you're looking for. This might be because:
+        </translatedText>
+    </translation>
+    <translation>
+        <key>404NotOnNewSite</key>
+        <translatedText>This page is not available on our new site yet</translatedText>
+    </translation>
+    <translation>
+        <key>404PromotionEnded</key>
+        <translatedText>
+            You were looking for a promotion that has now ended
+        </translatedText>
+    </translation>
+    <translation>
+        <key>404IncorrectAddress</key>
+        <translatedText>The address was incorrect or mistyped</translatedText>
+    </translation>
+    <translation>
+        <key>404ContactUs</key>
+        <translatedText>
+            We’ll be introducing lots of exciting new features and functionalities to the site in the coming months but if there’s a particular feature you’d like to see again, <a href="{0}" title="Contact us">please let us know</a>.
+        </translatedText>
+    </translation>
   </translations>
 </response>
