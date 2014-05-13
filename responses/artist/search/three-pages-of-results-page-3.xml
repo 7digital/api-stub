@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="utf-8"?>
+<response xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" status="ok" version="1.2" xsi:noNamespaceSchemaLocation="http://api.7digital.com/1.2/static/7digitalAPI.xsd">
+  <searchResults>
+    <page>3</page>
+    <pageSize>36</pageSize>
+    <totalItems>90</totalItems>
+    <searchResult>
+      <type>artist</type>
+      <score>6.5752754</score>
+      <artist id="115">
+        <name>The Chemical Brothers</name>
+        <sortName>Chemical Brothers, The</sortName>
+        <url>http://www.7digital.com/artist/the-chemical-brothers/?partner=3923</url>
+        <image>http://cdn.7static.com/static/img/artistimages/00/000/001/0000000115_150.jpg</image>
+        <popularity>0.6</popularity>
+      </artist>
+    </searchResult>
+    <searchResult>
+      <type>artist</type>
+      <score>4.0468426</score>
+      <artist id="149931">
+        <name>Chemical Brothers Tribute Group</name>
+        <sortName>Chemical Brothers Tribute Group</sortName>
+        <url>http://www.7digital.com/artist/chemical-brothers-tribute-group/?partner=3923</url>
+        <image>http://cdn.7static.com/static/img/artistimages/00/001/499/0000149931_150.jpg</image>
+        <popularity>0.38</popularity>
+      </artist>
+    </searchResult>
+    <searchResult>
+      <type>artist</type>
+      <score>3.0879047</score>
+      <artist id="72040">
+        <name>The Chemical Sisters</name>
+        <sortName>Chemical Sisters, The</sortName>
+        <url>http://www.7digital.com/artist/the-chemical-sisters/?partner=3923</url>
+        <image>http://cdn.7static.com/static/img/artistimages/00/000/720/0000072040_150.jpg</image>
+        <popularity>0.32</popularity>
+      </artist>
+    </searchResult>
+    <searchResult>
+      <type>artist</type>
+      <score>2.75123</score>
+      <artist id="991085">
+        <name>Chemical</name>
+        <sortName>Chemical</sortName>
+        <url>http://www.7digital.com/artist/chemical/?partner=3923</url>
+        <image>http://cdn.7static.com/static/img/artistimages/00/009/910/0000991085_150.jpg</image>
+        <popularity>0.35</popularity>
+      </artist>
+    </searchResult>
+    <searchResult>
+      <type>artist</type>
+      <score>2.7019167</score>
+      <artist id="654840">
+        <name>The Chemical Project feat. Monohead</name>
+        <sortName>Chemical Project feat. Monohead, The</sortName>
+        <url>http://www.7digital.com/artist/the-chemical-project-feat-monohead/?partner=3923</url>
+        <image>http://cdn.7static.com/static/img/artistimages/00/006/548/0000654840_150.jpg</image>
+        <popularity>0.31</popularity>
+      </artist>
+    </searchResult>
+    <searchResult>
+      <type>artist</type>
+      <score>2.0403588</score>
+      <artist id="170831">
+        <name>The Brothers</name>
+        <sortName>Brothers, The</sortName>
+        <url>http://www.7digital.com/artist/the-brothers/?partner=3923</url>
+        <image>http://cdn.7static.com/static/img/artistimages/00/001/708/0000170831_150.jpg</image>
+        <popularity>0.36</popularity>
+      </artist>
+    </searchResult>
+    <searchResult>
+      <type>artist</type>
+      <score>1.7313018</score>
+      <artist id="959567">
+        <name>The Everly Brothers | The Isley Brothers</name>
+        <sortName>Everly Brothers | The Isley Brothers, The</sortName>
+        <url>http://www.7digital.com/artist/the-everly-brothers-the-isley-brothers/?partner=3923</url>
+        <image>http://cdn.7static.com/static/img/artistimages/00/009/595/0000959567_150.jpg</image>
+        <popularity>0.34</popularity>
+      </artist>
+    </searchResult>
+    <searchResult>
+      <type>artist</type>
+      <score>1.7195187</score>
+      <artist id="426694">
+        <name>Chemical Vocation</name>
+        <sortName>Chemical Vocation</sortName>
+        <url>http://www.7digital.com/artist/chemical-vocation/?partner=3923</url>
+        <image>http://cdn.7static.com/static/img/artistimages/00/004/266/0000426694_150.jpg</image>
+        <popularity>0.36</popularity>
+      </artist>
+    </searchResult>
+    <searchResult>
+      <type>artist</type>
+      <score>1.7195187</score>
+      <artist id="812997">
+        <name>Chemical Noize</name>
+        <sortName>Chemical Noize</sortName>
+        <url>http://www.7digital.com/artist/chemical-noize/?partner=3923</url>
+        <image>http://cdn.7static.com/static/img/artistimages/00/008/129/0000812997_150.jpg</image>
+        <popularity>0.36</popularity>
+      </artist>
+    </searchResult>
+    <searchResult>
+      <type>artist</type>
+      <score>1.7195187</score>
+      <artist id="618449">
+        <name>Chemical Solution</name>
+        <sortName>Chemical Solution</sortName>
+        <url>http://www.7digital.com/artist/chemical-solution/?partner=3923</url>
+        <image>http://cdn.7static.com/static/img/artistimages/00/006/184/0000618449_150.jpg</image>
+        <popularity>0.34</popularity>
+      </artist>
+    </searchResult>
+    <searchResult>
+      <type>artist</type>
+      <score>1.7195187</score>
+      <artist id="945929">
+        <name>Chemical G</name>
+        <sortName>Chemical G</sortName>
+        <url>http://www.7digital.com/artist/chemical-g-1/?partner=3923</url>
+        <image>http://cdn.7static.com/static/img/artistimages/00/009/459/0000945929_150.jpg</image>
+        <popularity>0.34</popularity>
+      </artist>
+    </searchResult>
+    <searchResult>
+      <type>artist</type>
+      <score>1.7195187</score>
+      <artist id="1009053">
+        <name>Chemical Chains</name>
+        <sortName>Chemical Chains</sortName>
+        <url>http://www.7digital.com/artist/chemical-chains/?partner=3923</url>
+        <image>http://cdn.7static.com/static/img/artistimages/00/010/090/0001009053_150.jpg</image>
+        <popularity>0.33</popularity>
+      </artist>
+    </searchResult>
+    <searchResult>
+      <type>artist</type>
+      <score>1.7195187</score>
+      <artist id="792092">
+        <name>Chemical Trolls</name>
+        <sortName>Chemical Trolls</sortName>
+        <url>http://www.7digital.com/artist/chemical-trolls/?partner=3923</url>
+        <image>http://cdn.7static.com/static/img/artistimages/00/007/920/0000792092_150.jpg</image>
+        <popularity>0.33</popularity>
+      </artist>
+    </searchResult>
+    <searchResult>
+      <type>artist</type>
+      <score>1.7195187</score>
+      <artist id="1279093">
+        <name>Chemical Plasma</name>
+        <sortName>Chemical Plasma</sortName>
+        <url>http://www.7digital.com/artist/chemical-plasma/?partner=3923</url>
+        <image>http://cdn.7static.com/static/img/artistimages/00/012/790/0001279093_150.jpg</image>
+        <popularity>0.33</popularity>
+      </artist>
+    </searchResult>
+    <searchResult>
+      <type>artist</type>
+      <score>1.7195187</score>
+      <artist id="502780">
+        <name>Chemical Activity</name>
+        <sortName>Chemical Activity</sortName>
+        <url>http://www.7digital.com/artist/chemical-activity/?partner=3923</url>
+        <image>http://cdn.7static.com/static/img/artistimages/00/005/027/0000502780_150.jpg</image>
+        <popularity>0.32</popularity>
+      </artist>
+    </searchResult>
+    <searchResult>
+      <type>artist</type>
+      <score>1.7195187</score>
+      <artist id="1238338">
+        <name>Pete Chemical</name>
+        <sortName>Pete Chemical</sortName>
+        <url>http://www.7digital.com/artist/pete-chemical/?partner=3923</url>
+        <image>http://cdn.7static.com/static/img/artistimages/00/012/383/0001238338_150.jpg</image>
+        <popularity>0.32</popularity>
+      </artist>
+    </searchResult>
+    <searchResult>
+      <type>artist</type>
+      <score>1.7195187</score>
+      <artist id="588405">
+        <name>Chemical Boy</name>
+        <sortName>Chemical Boy</sortName>
+        <url>http://www.7digital.com/artist/chemical-boy/?partner=3923</url>
+        <image>http://cdn.7static.com/static/img/artistimages/00/005/884/0000588405_150.jpg</image>
+        <popularity>0.31</popularity>
+      </artist>
+    </searchResult>
+    <searchResult>
+      <type>artist</type>
+      <score>1.7195187</score>
+      <artist id="14789">
+        <name>Chemical Warfare</name>
+        <sortName>Chemical Warfare</sortName>
+        <url>http://www.7digital.com/artist/chemical-warfare/?partner=3923</url>
+        <image>http://cdn.7static.com/static/img/artistimages/00/000/147/0000014789_150.jpg</image>
+        <popularity>0.31</popularity>
+      </artist>
+    </searchResult>
+  </searchResults>
+</response>
