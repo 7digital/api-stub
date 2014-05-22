@@ -91,6 +91,7 @@ server.get('/basket', basket.getBasket);
 server.get('/basket/additem', basket.addToBasket);
 server.get('/basket/create', basket.createBasket);
 server.get('/basket/removeitem', basket.removeItem);
+server.post('/basket/applyvoucher', conventions.id);
 
 //your music
 server.get('/user/locker', conventions.locker);
@@ -111,6 +112,7 @@ server.post('/user/payment/card/delete', conventions.serveDefault);
 
 server.post('/user/payment/cardregistration', cardRegistration.createRegistrationId);
 server.get('/user/payment/cardregistration/:id', cardRegistration.checkRegistrationId);
+server.get('/user/purchase/basket', conventions.id);
 
 server.post('/cardregistration/:id', cardRegistration.handleCardDetails);
 
