@@ -91,7 +91,7 @@ server.get('/basket', basket.getBasket);
 server.get('/basket/additem', basket.addToBasket);
 server.get('/basket/create', basket.createBasket);
 server.get('/basket/removeitem', basket.removeItem);
-server.post('/basket/applyvoucher', conventions.id);
+server.post('/basket/applyvoucher', conventions.voucherCode);
 
 //your music
 server.get('/user/locker', conventions.locker);
