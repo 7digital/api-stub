@@ -55,7 +55,7 @@ server.post('/feature/start', feature.logIt);
 server.get('/artist/bytag/top', conventions.tags);
 server.get('/artist/chart', conventions.serveDefault);
 server.get('/artist/recommend', conventions.id);
-server.get('/artist/releases', conventions.id);
+server.get('/artist/releases', conventions.artistIdPaging);
 server.get('/artist/search', conventions.search);
 server.get('/artist/similar', conventions.id);
 server.get('/artist/tags', conventions.id);

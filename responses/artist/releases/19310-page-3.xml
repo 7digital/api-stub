@@ -1,0 +1,692 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" status="ok" version="1.2" xsi:noNamespaceSchemaLocation="http://api.7digital.com/1.2/static/7digitalAPI.xsd">
+	<releases>
+		<page>3</page>
+		<pageSize>18</pageSize>
+		<totalItems>90</totalItems>
+		<release id="310527">
+			<title>Runaway</title>
+			<version />
+			<type>Single</type>
+			<barcode>886970233521</barcode>
+			<year>2006</year>
+			<explicitContent>false</explicitContent>
+			<artist id="19310">
+				<name>Jamiroquai</name>
+				<appearsAs>Jamiroquai</appearsAs>
+				<url>http://www.7digital.com/artist/jamiroquai/?partner=3923</url>
+			</artist>
+			<url>http://www.7digital.com/artist/jamiroquai/release/runaway-1/?partner=3923</url>
+			<image>http://cdn.7static.com/static/img/sleeveart/00/003/105/0000310527_50.jpg</image>
+			<releaseDate>2006-10-09T00:00:00+01:00</releaseDate>
+			<price>
+				<currency code="GBP">£</currency>
+				<value>1.79</value>
+				<formattedPrice>£1.79</formattedPrice>
+				<rrp>1.79</rrp>
+				<formattedRrp>£1.79</formattedRrp>
+				<onSale>false</onSale>
+			</price>
+			<formats availableDrmFree="true">
+				<format id="17">
+					<fileFormat>MP3</fileFormat>
+					<bitRate>320</bitRate>
+					<drmFree>true</drmFree>
+				</format>
+			</formats>
+			<label id="592">
+				<name>Columbia</name>
+			</label>
+			<popularity>0.29</popularity>
+			<streamingReleaseDate>2006-10-09T00:00:00+01:00</streamingReleaseDate>
+			<duration>434</duration>
+			<trackCount>2</trackCount>
+		</release>
+		<release id="310507">
+			<title>Runaway</title>
+			<version>Remastered for 2006</version>
+			<type>Single</type>
+			<barcode>888880027283</barcode>
+			<year>2006</year>
+			<explicitContent>false</explicitContent>
+			<artist id="19310">
+				<name>Jamiroquai</name>
+				<appearsAs>Jamiroquai</appearsAs>
+				<url>http://www.7digital.com/artist/jamiroquai/?partner=3923</url>
+			</artist>
+			<url>http://www.7digital.com/artist/jamiroquai/release/runaway-4-1/?partner=3923</url>
+			<image>http://cdn.7static.com/static/img/sleeveart/00/003/105/0000310507_50.jpg</image>
+			<releaseDate>2006-10-02T00:00:00+01:00</releaseDate>
+			<price>
+				<currency code="GBP">£</currency>
+				<value>0.99</value>
+				<formattedPrice>£0.99</formattedPrice>
+				<rrp xsi:nil="true" />
+				<formattedRrp>N/A</formattedRrp>
+				<onSale>false</onSale>
+			</price>
+			<formats availableDrmFree="true">
+				<format id="17">
+					<fileFormat>MP3</fileFormat>
+					<bitRate>320</bitRate>
+					<drmFree>true</drmFree>
+				</format>
+			</formats>
+			<label id="550">
+				<name>Sony BMG Music UK</name>
+			</label>
+			<popularity>0.31</popularity>
+			<streamingReleaseDate>2006-10-02T00:00:00+01:00</streamingReleaseDate>
+			<duration>225</duration>
+			<trackCount>1</trackCount>
+		</release>
+		<release id="310314">
+			<title>Cosmic Girl</title>
+			<version />
+			<type>Album</type>
+			<barcode>828768861356</barcode>
+			<year>2006</year>
+			<explicitContent>false</explicitContent>
+			<artist id="19310">
+				<name>Jamiroquai</name>
+				<appearsAs>Jamiroquai</appearsAs>
+				<url>http://www.7digital.com/artist/jamiroquai/?partner=3923</url>
+			</artist>
+			<url>http://www.7digital.com/artist/jamiroquai/release/cosmic-girl/?partner=3923</url>
+			<image>http://cdn.7static.com/static/img/sleeveart/00/003/103/0000310314_50.jpg</image>
+			<releaseDate>2006-08-07T00:00:00+01:00</releaseDate>
+			<price>
+				<currency code="GBP">£</currency>
+				<value>3.96</value>
+				<formattedPrice>£3.96</formattedPrice>
+				<rrp>3.99</rrp>
+				<formattedRrp>£3.99</formattedRrp>
+				<onSale>true</onSale>
+			</price>
+			<formats availableDrmFree="true">
+				<format id="17">
+					<fileFormat>MP3</fileFormat>
+					<bitRate>320</bitRate>
+					<drmFree>true</drmFree>
+				</format>
+			</formats>
+			<label id="592">
+				<name>Columbia</name>
+			</label>
+			<popularity>0.36</popularity>
+			<streamingReleaseDate>2006-08-07T00:00:00+01:00</streamingReleaseDate>
+			<duration>1925</duration>
+			<trackCount>4</trackCount>
+		</release>
+		<release id="1524303">
+			<title>Deeper Underground</title>
+			<version />
+			<type>Album</type>
+			<barcode>888880010582</barcode>
+			<year>2006</year>
+			<explicitContent>false</explicitContent>
+			<artist id="19310">
+				<name>Jamiroquai</name>
+				<appearsAs>Jamiroquai</appearsAs>
+				<url>http://www.7digital.com/artist/jamiroquai/?partner=3923</url>
+			</artist>
+			<url>http://www.7digital.com/artist/jamiroquai/release/deeper-underground-3/?partner=3923</url>
+			<image>http://cdn.7static.com/static/img/sleeveart/00/015/243/0001524303_50.jpg</image>
+			<releaseDate>2006-08-07T00:00:00+01:00</releaseDate>
+			<price>
+				<currency code="GBP">£</currency>
+				<value>4.49</value>
+				<formattedPrice>£4.49</formattedPrice>
+				<rrp>4.49</rrp>
+				<formattedRrp>£4.49</formattedRrp>
+				<onSale>false</onSale>
+			</price>
+			<formats availableDrmFree="true">
+				<format id="17">
+					<fileFormat>MP3</fileFormat>
+					<bitRate>320</bitRate>
+					<drmFree>true</drmFree>
+				</format>
+			</formats>
+			<label id="592">
+				<name>Columbia</name>
+			</label>
+			<popularity>0.26</popularity>
+			<streamingReleaseDate>2006-08-07T00:00:00+01:00</streamingReleaseDate>
+			<duration>2234</duration>
+			<trackCount>5</trackCount>
+		</release>
+		<release id="278849">
+			<title>Space Cowboy</title>
+			<version />
+			<type>Album</type>
+			<barcode>828768573556</barcode>
+			<year>2006</year>
+			<explicitContent>false</explicitContent>
+			<artist id="19310">
+				<name>Jamiroquai</name>
+				<appearsAs>Jamiroquai</appearsAs>
+				<url>http://www.7digital.com/artist/jamiroquai/?partner=3923</url>
+			</artist>
+			<url>http://www.7digital.com/artist/jamiroquai/release/space-cowboy/?partner=3923</url>
+			<image>http://cdn.7static.com/static/img/sleeveart/00/002/788/0000278849_50.jpg</image>
+			<releaseDate>2006-05-29T00:00:00+01:00</releaseDate>
+			<price>
+				<currency code="GBP">£</currency>
+				<value>3.96</value>
+				<formattedPrice>£3.96</formattedPrice>
+				<rrp>3.99</rrp>
+				<formattedRrp>£3.99</formattedRrp>
+				<onSale>true</onSale>
+			</price>
+			<formats availableDrmFree="true">
+				<format id="17">
+					<fileFormat>MP3</fileFormat>
+					<bitRate>320</bitRate>
+					<drmFree>true</drmFree>
+				</format>
+			</formats>
+			<label id="550">
+				<name>Sony BMG Music UK</name>
+			</label>
+			<popularity>0.35</popularity>
+			<streamingReleaseDate>2006-05-29T00:00:00+01:00</streamingReleaseDate>
+			<duration>1826</duration>
+			<trackCount>4</trackCount>
+		</release>
+		<release id="1179320">
+			<title>Dynamite</title>
+			<version />
+			<type>Album</type>
+			<barcode>884977892482</barcode>
+			<year>2005</year>
+			<explicitContent>false</explicitContent>
+			<artist id="19310">
+				<name>Jamiroquai</name>
+				<appearsAs>Jamiroquai</appearsAs>
+				<url>http://www.7digital.com/artist/jamiroquai/?partner=3923</url>
+			</artist>
+			<url>http://www.7digital.com/artist/jamiroquai/release/dynamite-7/?partner=3923</url>
+			<image>http://cdn.7static.com/static/img/sleeveart/00/011/793/0001179320_50.jpg</image>
+			<releaseDate>2005-06-20T00:00:00+01:00</releaseDate>
+			<price>
+				<currency code="GBP">£</currency>
+				<value>5.99</value>
+				<formattedPrice>£5.99</formattedPrice>
+				<rrp>5.99</rrp>
+				<formattedRrp>£5.99</formattedRrp>
+				<onSale>false</onSale>
+			</price>
+			<formats availableDrmFree="true">
+				<format id="17">
+					<fileFormat>MP3</fileFormat>
+					<bitRate>320</bitRate>
+					<drmFree>true</drmFree>
+				</format>
+			</formats>
+			<label id="3035">
+				<name>SONY MUSIC UK</name>
+			</label>
+			<popularity>0.33</popularity>
+			<streamingReleaseDate>2005-06-20T00:00:00+01:00</streamingReleaseDate>
+			<duration>3282</duration>
+			<trackCount>12</trackCount>
+		</release>
+		<release id="305737">
+			<title>Feels Just Like It Should</title>
+			<version />
+			<type>Single</type>
+			<barcode>5099767596814</barcode>
+			<year>2005</year>
+			<explicitContent>false</explicitContent>
+			<artist id="19310">
+				<name>Jamiroquai</name>
+				<appearsAs>Jamiroquai</appearsAs>
+				<url>http://www.7digital.com/artist/jamiroquai/?partner=3923</url>
+			</artist>
+			<url>http://www.7digital.com/artist/jamiroquai/release/feels-just-like-it-should-2/?partner=3923</url>
+			<image>http://cdn.7static.com/static/img/sleeveart/00/003/057/0000305737_50.jpg</image>
+			<releaseDate>2005-06-06T00:00:00+01:00</releaseDate>
+			<price>
+				<currency code="GBP">£</currency>
+				<value>1.79</value>
+				<formattedPrice>£1.79</formattedPrice>
+				<rrp>1.79</rrp>
+				<formattedRrp>£1.79</formattedRrp>
+				<onSale>false</onSale>
+			</price>
+			<formats availableDrmFree="true">
+				<format id="17">
+					<fileFormat>MP3</fileFormat>
+					<bitRate>320</bitRate>
+					<drmFree>true</drmFree>
+				</format>
+			</formats>
+			<label id="24002">
+				<name>Sony Music Entertainment</name>
+			</label>
+			<popularity>0.34</popularity>
+			<streamingReleaseDate>2005-06-06T00:00:00+01:00</streamingReleaseDate>
+			<duration>496</duration>
+			<trackCount>2</trackCount>
+		</release>
+		<release id="1598851">
+			<title>Feels Just Like It Should</title>
+			<version>Album Version (with new middle 8)</version>
+			<type>Single</type>
+			<barcode>884977892390</barcode>
+			<year>2005</year>
+			<explicitContent>false</explicitContent>
+			<artist id="19310">
+				<name>Jamiroquai</name>
+				<appearsAs>Jamiroquai</appearsAs>
+				<url>http://www.7digital.com/artist/jamiroquai/?partner=3923</url>
+			</artist>
+			<url>http://www.7digital.com/artist/jamiroquai/release/feels-just-like-it-should-5/?partner=3923</url>
+			<image>http://cdn.7static.com/static/img/sleeveart/00/015/988/0001598851_50.jpg</image>
+			<releaseDate>2005-04-15T00:00:00+01:00</releaseDate>
+			<price>
+				<currency code="GBP">£</currency>
+				<value>0.99</value>
+				<formattedPrice>£0.99</formattedPrice>
+				<rrp xsi:nil="true" />
+				<formattedRrp>N/A</formattedRrp>
+				<onSale>false</onSale>
+			</price>
+			<formats availableDrmFree="true">
+				<format id="17">
+					<fileFormat>MP3</fileFormat>
+					<bitRate>320</bitRate>
+					<drmFree>true</drmFree>
+				</format>
+			</formats>
+			<label id="3035">
+				<name>SONY MUSIC UK</name>
+			</label>
+			<popularity>0.29</popularity>
+			<streamingReleaseDate>2005-04-15T00:00:00+01:00</streamingReleaseDate>
+			<duration>272</duration>
+			<trackCount>1</trackCount>
+		</release>
+		<release id="278807">
+			<title>A Funk Odyssey</title>
+			<version />
+			<type>Album</type>
+			<barcode>5099750406922</barcode>
+			<year>2001</year>
+			<explicitContent>false</explicitContent>
+			<artist id="19310">
+				<name>Jamiroquai</name>
+				<appearsAs>Jamiroquai</appearsAs>
+				<url>http://www.7digital.com/artist/jamiroquai/?partner=3923</url>
+			</artist>
+			<url>http://www.7digital.com/artist/jamiroquai/release/a-funk-odyssey/?partner=3923</url>
+			<image>http://cdn.7static.com/static/img/sleeveart/00/002/788/0000278807_50.jpg</image>
+			<releaseDate>2004-05-17T00:00:00+01:00</releaseDate>
+			<price>
+				<currency code="GBP">£</currency>
+				<value>5.99</value>
+				<formattedPrice>£5.99</formattedPrice>
+				<rrp>5.99</rrp>
+				<formattedRrp>£5.99</formattedRrp>
+				<onSale>false</onSale>
+			</price>
+			<formats availableDrmFree="true">
+				<format id="17">
+					<fileFormat>MP3</fileFormat>
+					<bitRate>320</bitRate>
+					<drmFree>true</drmFree>
+				</format>
+			</formats>
+			<label id="3001">
+				<name>S2</name>
+			</label>
+			<popularity>0.44</popularity>
+			<streamingReleaseDate>2004-05-17T00:00:00+01:00</streamingReleaseDate>
+			<duration>2899</duration>
+			<trackCount>11</trackCount>
+		</release>
+		<release id="290090">
+			<title>Corner of The Earth</title>
+			<version />
+			<type>Single</type>
+			<barcode>5099767278826</barcode>
+			<year>2002</year>
+			<explicitContent>false</explicitContent>
+			<artist id="19310">
+				<name>Jamiroquai</name>
+				<appearsAs>Jamiroquai</appearsAs>
+				<url>http://www.7digital.com/artist/jamiroquai/?partner=3923</url>
+			</artist>
+			<url>http://www.7digital.com/artist/jamiroquai/release/corner-of-the-earth/?partner=3923</url>
+			<image>http://cdn.7static.com/static/img/sleeveart/00/002/900/0000290090_50.jpg</image>
+			<releaseDate>2002-07-08T00:00:00+01:00</releaseDate>
+			<price>
+				<currency code="GBP">£</currency>
+				<value>2.97</value>
+				<formattedPrice>£2.97</formattedPrice>
+				<rrp>3.49</rrp>
+				<formattedRrp>£3.49</formattedRrp>
+				<onSale>true</onSale>
+			</price>
+			<formats availableDrmFree="true">
+				<format id="17">
+					<fileFormat>MP3</fileFormat>
+					<bitRate>320</bitRate>
+					<drmFree>true</drmFree>
+				</format>
+			</formats>
+			<label id="3001">
+				<name>S2</name>
+			</label>
+			<popularity>0.32</popularity>
+			<streamingReleaseDate>3001-01-01T00:00:00+00:00</streamingReleaseDate>
+			<duration>1190</duration>
+			<trackCount>3</trackCount>
+		</release>
+		<release id="290022">
+			<title>Love Foolosophy</title>
+			<version />
+			<type>Single</type>
+			<barcode>5099767236512</barcode>
+			<year>2002</year>
+			<explicitContent>false</explicitContent>
+			<artist id="19310">
+				<name>Jamiroquai</name>
+				<appearsAs>Jamiroquai</appearsAs>
+				<url>http://www.7digital.com/artist/jamiroquai/?partner=3923</url>
+			</artist>
+			<url>http://www.7digital.com/artist/jamiroquai/release/love-foolosophy-2/?partner=3923</url>
+			<image>http://cdn.7static.com/static/img/sleeveart/00/002/900/0000290022_50.jpg</image>
+			<releaseDate>2002-02-25T00:00:00+00:00</releaseDate>
+			<price>
+				<currency code="GBP">£</currency>
+				<value>1.98</value>
+				<formattedPrice>£1.98</formattedPrice>
+				<rrp>2.29</rrp>
+				<formattedRrp>£2.29</formattedRrp>
+				<onSale>true</onSale>
+			</price>
+			<formats availableDrmFree="true">
+				<format id="17">
+					<fileFormat>MP3</fileFormat>
+					<bitRate>320</bitRate>
+					<drmFree>true</drmFree>
+				</format>
+			</formats>
+			<label id="3001">
+				<name>S2</name>
+			</label>
+			<popularity>0.32</popularity>
+			<streamingReleaseDate>3001-01-01T00:00:00+00:00</streamingReleaseDate>
+			<duration>660</duration>
+			<trackCount>2</trackCount>
+		</release>
+		<release id="310476">
+			<title>Space Cowboy</title>
+			<version />
+			<type>Album</type>
+			<barcode>888880025005</barcode>
+			<year>2002</year>
+			<explicitContent>false</explicitContent>
+			<artist id="19310">
+				<name>Jamiroquai</name>
+				<appearsAs>Jamiroquai</appearsAs>
+				<url>http://www.7digital.com/artist/jamiroquai/?partner=3923</url>
+			</artist>
+			<url>http://www.7digital.com/artist/jamiroquai/release/space-cowboy-2/?partner=3923</url>
+			<image>http://cdn.7static.com/static/img/sleeveart/00/003/104/0000310476_50.jpg</image>
+			<releaseDate>2002-02-25T00:00:00+00:00</releaseDate>
+			<price>
+				<currency code="GBP">£</currency>
+				<value>3.96</value>
+				<formattedPrice>£3.96</formattedPrice>
+				<rrp>3.99</rrp>
+				<formattedRrp>£3.99</formattedRrp>
+				<onSale>true</onSale>
+			</price>
+			<formats availableDrmFree="true">
+				<format id="17">
+					<fileFormat>MP3</fileFormat>
+					<bitRate>320</bitRate>
+					<drmFree>true</drmFree>
+				</format>
+			</formats>
+			<label id="1085">
+				<name>Epic</name>
+			</label>
+			<popularity>0.36</popularity>
+			<streamingReleaseDate>2002-02-25T00:00:00+00:00</streamingReleaseDate>
+			<duration>1826</duration>
+			<trackCount>4</trackCount>
+		</release>
+		<release id="1208528">
+			<title>A Funk Odyssey</title>
+			<version />
+			<type>Album</type>
+			<barcode>884977892406</barcode>
+			<year>2001</year>
+			<explicitContent>false</explicitContent>
+			<artist id="19310">
+				<name>Jamiroquai</name>
+				<appearsAs>Jamiroquai</appearsAs>
+				<url>http://www.7digital.com/artist/jamiroquai/?partner=3923</url>
+			</artist>
+			<url>http://www.7digital.com/artist/jamiroquai/release/a-funk-odyssey-3/?partner=3923</url>
+			<image>http://cdn.7static.com/static/img/sleeveart/00/012/085/0001208528_50.jpg</image>
+			<releaseDate>2001-09-11T00:00:00+01:00</releaseDate>
+			<price>
+				<currency code="GBP">£</currency>
+				<value>7.99</value>
+				<formattedPrice>£7.99</formattedPrice>
+				<rrp>7.99</rrp>
+				<formattedRrp>£7.99</formattedRrp>
+				<onSale>false</onSale>
+			</price>
+			<formats availableDrmFree="true">
+				<format id="17">
+					<fileFormat>MP3</fileFormat>
+					<bitRate>320</bitRate>
+					<drmFree>true</drmFree>
+				</format>
+			</formats>
+			<label id="1085">
+				<name>Epic</name>
+			</label>
+			<popularity>0.34</popularity>
+			<streamingReleaseDate>2001-09-11T00:00:00+01:00</streamingReleaseDate>
+			<duration>2899</duration>
+			<trackCount>11</trackCount>
+		</release>
+		<release id="278722">
+			<title>Synkronized</title>
+			<version />
+			<type>Album</type>
+			<barcode>5099749451728</barcode>
+			<year>1999</year>
+			<explicitContent>false</explicitContent>
+			<artist id="19310">
+				<name>Jamiroquai</name>
+				<appearsAs>Jamiroquai</appearsAs>
+				<url>http://www.7digital.com/artist/jamiroquai/?partner=3923</url>
+			</artist>
+			<url>http://www.7digital.com/artist/jamiroquai/release/synkronized-1/?partner=3923</url>
+			<image>http://cdn.7static.com/static/img/sleeveart/00/002/787/0000278722_50.jpg</image>
+			<releaseDate>2001-09-10T00:00:00+01:00</releaseDate>
+			<price>
+				<currency code="GBP">£</currency>
+				<value>5.99</value>
+				<formattedPrice>£5.99</formattedPrice>
+				<rrp>5.99</rrp>
+				<formattedRrp>£5.99</formattedRrp>
+				<onSale>false</onSale>
+			</price>
+			<formats availableDrmFree="true">
+				<format id="17">
+					<fileFormat>MP3</fileFormat>
+					<bitRate>320</bitRate>
+					<drmFree>true</drmFree>
+				</format>
+			</formats>
+			<label id="3001">
+				<name>S2</name>
+			</label>
+			<popularity>0.42</popularity>
+			<streamingReleaseDate>2001-09-10T00:00:00+01:00</streamingReleaseDate>
+			<duration>3161</duration>
+			<trackCount>11</trackCount>
+		</release>
+		<release id="278807">
+			<title>A Funk Odyssey</title>
+			<version />
+			<type>Album</type>
+			<barcode>5099750406922</barcode>
+			<year>2001</year>
+			<explicitContent>false</explicitContent>
+			<artist id="19310">
+				<name>Jamiroquai</name>
+				<appearsAs>Jamiroquai</appearsAs>
+				<url>http://www.7digital.com/artist/jamiroquai/?partner=3923</url>
+			</artist>
+			<url>http://www.7digital.com/artist/jamiroquai/release/a-funk-odyssey/?partner=3923</url>
+			<image>http://cdn.7static.com/static/img/sleeveart/00/002/788/0000278807_50.jpg</image>
+			<releaseDate>2004-05-17T00:00:00+01:00</releaseDate>
+			<price>
+				<currency code="GBP">£</currency>
+				<value>5.99</value>
+				<formattedPrice>£5.99</formattedPrice>
+				<rrp>5.99</rrp>
+				<formattedRrp>£5.99</formattedRrp>
+				<onSale>false</onSale>
+			</price>
+			<formats availableDrmFree="true">
+				<format id="17">
+					<fileFormat>MP3</fileFormat>
+					<bitRate>320</bitRate>
+					<drmFree>true</drmFree>
+				</format>
+			</formats>
+			<label id="3001">
+				<name>S2</name>
+			</label>
+			<popularity>0.44</popularity>
+			<streamingReleaseDate>2004-05-17T00:00:00+01:00</streamingReleaseDate>
+			<duration>2899</duration>
+			<trackCount>11</trackCount>
+		</release>
+		<release id="290090">
+			<title>Corner of The Earth</title>
+			<version />
+			<type>Single</type>
+			<barcode>5099767278826</barcode>
+			<year>2002</year>
+			<explicitContent>false</explicitContent>
+			<artist id="19310">
+				<name>Jamiroquai</name>
+				<appearsAs>Jamiroquai</appearsAs>
+				<url>http://www.7digital.com/artist/jamiroquai/?partner=3923</url>
+			</artist>
+			<url>http://www.7digital.com/artist/jamiroquai/release/corner-of-the-earth/?partner=3923</url>
+			<image>http://cdn.7static.com/static/img/sleeveart/00/002/900/0000290090_50.jpg</image>
+			<releaseDate>2002-07-08T00:00:00+01:00</releaseDate>
+			<price>
+				<currency code="GBP">£</currency>
+				<value>2.97</value>
+				<formattedPrice>£2.97</formattedPrice>
+				<rrp>3.49</rrp>
+				<formattedRrp>£3.49</formattedRrp>
+				<onSale>true</onSale>
+			</price>
+			<formats availableDrmFree="true">
+				<format id="17">
+					<fileFormat>MP3</fileFormat>
+					<bitRate>320</bitRate>
+					<drmFree>true</drmFree>
+				</format>
+			</formats>
+			<label id="3001">
+				<name>S2</name>
+			</label>
+			<popularity>0.32</popularity>
+			<streamingReleaseDate>3001-01-01T00:00:00+00:00</streamingReleaseDate>
+			<duration>1190</duration>
+			<trackCount>3</trackCount>
+		</release>
+		<release id="290022">
+			<title>Love Foolosophy</title>
+			<version />
+			<type>Single</type>
+			<barcode>5099767236512</barcode>
+			<year>2002</year>
+			<explicitContent>false</explicitContent>
+			<artist id="19310">
+				<name>Jamiroquai</name>
+				<appearsAs>Jamiroquai</appearsAs>
+				<url>http://www.7digital.com/artist/jamiroquai/?partner=3923</url>
+			</artist>
+			<url>http://www.7digital.com/artist/jamiroquai/release/love-foolosophy-2/?partner=3923</url>
+			<image>http://cdn.7static.com/static/img/sleeveart/00/002/900/0000290022_50.jpg</image>
+			<releaseDate>2002-02-25T00:00:00+00:00</releaseDate>
+			<price>
+				<currency code="GBP">£</currency>
+				<value>1.98</value>
+				<formattedPrice>£1.98</formattedPrice>
+				<rrp>2.29</rrp>
+				<formattedRrp>£2.29</formattedRrp>
+				<onSale>true</onSale>
+			</price>
+			<formats availableDrmFree="true">
+				<format id="17">
+					<fileFormat>MP3</fileFormat>
+					<bitRate>320</bitRate>
+					<drmFree>true</drmFree>
+				</format>
+			</formats>
+			<label id="3001">
+				<name>S2</name>
+			</label>
+			<popularity>0.32</popularity>
+			<streamingReleaseDate>3001-01-01T00:00:00+00:00</streamingReleaseDate>
+			<duration>660</duration>
+			<trackCount>2</trackCount>
+		</release>
+		<release id="310476">
+			<title>Space Cowboy</title>
+			<version />
+			<type>Album</type>
+			<barcode>888880025005</barcode>
+			<year>2002</year>
+			<explicitContent>false</explicitContent>
+			<artist id="19310">
+				<name>Jamiroquai</name>
+				<appearsAs>Jamiroquai</appearsAs>
+				<url>http://www.7digital.com/artist/jamiroquai/?partner=3923</url>
+			</artist>
+			<url>http://www.7digital.com/artist/jamiroquai/release/space-cowboy-2/?partner=3923</url>
+			<image>http://cdn.7static.com/static/img/sleeveart/00/003/104/0000310476_50.jpg</image>
+			<releaseDate>2002-02-25T00:00:00+00:00</releaseDate>
+			<price>
+				<currency code="GBP">£</currency>
+				<value>3.96</value>
+				<formattedPrice>£3.96</formattedPrice>
+				<rrp>3.99</rrp>
+				<formattedRrp>£3.99</formattedRrp>
+				<onSale>true</onSale>
+			</price>
+			<formats availableDrmFree="true">
+				<format id="17">
+					<fileFormat>MP3</fileFormat>
+					<bitRate>320</bitRate>
+					<drmFree>true</drmFree>
+				</format>
+			</formats>
+			<label id="1085">
+				<name>Epic</name>
+			</label>
+			<popularity>0.36</popularity>
+			<streamingReleaseDate>2002-02-25T00:00:00+00:00</streamingReleaseDate>
+			<duration>1826</duration>
+			<trackCount>4</trackCount>
+		</release>
+	</releases>
+</response>
