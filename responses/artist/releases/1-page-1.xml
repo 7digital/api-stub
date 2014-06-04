@@ -3,7 +3,7 @@
 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://api.7digital.com/1.2/static/7digitalAPI.xsd" >
 	<releases>
 		<page>1</page>
-		<pageSize>10</pageSize>
+		<pageSize>20</pageSize>
 		<totalItems>62</totalItems>
 		<release id="353302">
 			<title>Perfect Symmetry</title>
