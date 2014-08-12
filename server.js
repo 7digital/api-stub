@@ -1,5 +1,4 @@
-var express = require('express'),
-	ConventionalHandler = require('./lib/conventions'),
+var ConventionalHandler = require('./lib/conventions'),
 	BasketHandler = require('./lib/basket'),
 	cardRegistrationHandler = require('./lib/cardregistration'),
 	FeatureHandler = require('./lib/feature'),
@@ -7,14 +6,15 @@ var express = require('express'),
 	basket = new BasketHandler(),
 	cardRegistration = cardRegistrationHandler(),
 	conventions = new ConventionalHandler(),
-	server = express.createServer(),
 	fs = require('fs'),
 	path = require('path'),
-	rewriteRules = require('./lib/rewriteRules');
-
-server.configure('development', function configureServerForDevelopment() {
-	server.use(express.logger());
-});
+	rewriteRules = require('./lib/rewriteRules'),
+	express = require('express'),
+	server = express(),
+	httpServer = require('httpolyglot').createServer({
+		key: fs.readFileSync(path.join(__dirname, 'cert', 'server.key')),
+		cert: fs.readFileSync(path.join(__dirname, 'cert', 'server.cert'))
+	}, server);
 
 server.use(
 	express.bodyParser()
@@ -138,7 +138,7 @@ server.get("*", function (req, res) {
 });
 
 var port = process.env.PORT || 3000;
-server.listen(port, function serverListening() {
+httpServer.listen(port, function serverListening() {
 	console.log('Server listening on %s', port);
 	if (process.send) {
 		//Let parent processes know the stub is ready to go
