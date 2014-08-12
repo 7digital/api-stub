@@ -163,7 +163,7 @@ process.on('message', function (message) {
 });
 
 function die() {
-	server.close(function () {
+	httpServer.close(function () {
 		process.exit(0);
 	});
 }
