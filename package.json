@@ -18,6 +18,7 @@
     "node": ">=0.6.0"
   },
   "dependencies": {
+    "body-parser": "^1.6.3",
     "en-garde": "~0.0.1",
     "express": "^3.16.5",
     "eyes": "0.1.7",

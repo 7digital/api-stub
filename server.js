@@ -14,11 +14,11 @@ var ConventionalHandler = require('./lib/conventions'),
 	httpServer = require('httpolyglot').createServer({
 		key: fs.readFileSync(path.join(__dirname, 'cert', 'server.key')),
 		cert: fs.readFileSync(path.join(__dirname, 'cert', 'server.cert'))
-	}, server);
+	}, server),
+	bodyParser = require('body-parser');
 
-server.use(
-	express.bodyParser()
-);
+server.use(bodyParser.json());
+server.use(bodyParser.urlencoded({ extended: true }));
 
 var argv = require("optimist")
 	.options("config", {
