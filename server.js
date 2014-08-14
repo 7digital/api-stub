@@ -59,6 +59,7 @@ server.get('/artist/releases', conventions.artistIdPaging);
 server.get('/artist/search', conventions.search);
 server.get('/artist/similar', conventions.id);
 server.get('/artist/tags', conventions.id);
+server.get('/artist/toptracks', conventions.id);
 
 // Release
 server.get('/release/bytag/top', conventions.tags);
