@@ -141,7 +141,7 @@ server.get("*", function (req, res) {
 	res.send("<status>Unrecognised URL: " + req.url + "</status>", 404);
 });
 
-var port = process.env.PORT || 3000;
+var port = process.env.PORT || 9876;
 httpServer.listen(port, function serverListening() {
 	console.log('Server listening on %s', port);
 	if (process.send) {
