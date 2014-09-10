@@ -1,0 +1,1567 @@
+<?xml version="1.0" encoding="utf-8"?>
+<response xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" status="ok" version="1.2" xsi:noNamespaceSchemaLocation="http://api.7digital.com/1.2/static/7digitalAPI.xsd">
+  <locker>
+    <lockerReleases>
+      <page>1</page>
+      <pageSize>10</pageSize>
+      <totalItems>1</totalItems>
+      <lockerRelease>
+        <release id="3028642">
+          <title>BBC Radio 1's Live Lounge 2013</title>
+          <version />
+          <type>Album</type>
+          <barcode>886444216623</barcode>
+          <artist id="209">
+            <name>Various Artists</name>
+            <appearsAs>Various</appearsAs>
+            <url>http://www.7digital.com/artist/various-artists/?partner=5932</url>
+          </artist>
+          <url>http://www.7digital.com/artist/various-artists/release/bbc-radio-1s-live-lounge-2013-1/?partner=5932</url>
+          <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/030/286/0003028642_50.jpg</image>
+          <releaseDate>2013-11-19T00:00:00Z</releaseDate>
+          <licensor id="2" />
+        </release>
+        <lockerTracks>
+          <lockerTrack>
+            <track id="32297959">
+              <title>Waiting All Night</title>
+              <version />
+              <artist id="950679">
+                <name>Rudimental</name>
+                <appearsAs>Rudimental</appearsAs>
+                <url>http://www.7digital.com/artist/rudimental/?partner=5932</url>
+              </artist>
+              <trackNumber>1</trackNumber>
+              <duration>262</duration>
+              <isrc>GBCAD1300329</isrc>
+              <url>http://www.7digital.com/artist/various-artists/release/bbc-radio-1s-live-lounge-2013-1/?partner=5932&amp;h=01</url>
+            </track>
+            <remainingDownloads>5</remainingDownloads>
+            <purchaseId>0</purchaseId>
+            <purchaseDate>2013-11-06T12:25:59Z</purchaseDate>
+            <completeAlbumPurchase>false</completeAlbumPurchase>
+            <downloadUrls>
+              <downloadUrl>
+                <url>http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&amp;oauth_nonce=wqkl5cqf1rl691uw&amp;oauth_signature=Im%2FkR0S0%2Biop4tolAYy6FnvVAdk%3D&amp;oauth_signature_method=HMAC-SHA1&amp;oauth_timestamp=1409567388&amp;oauth_version=1.0a&amp;formatid=17&amp;partnerid=712&amp;onbehalfofpartnerid=712&amp;presigned=1&amp;releaseid=3028642&amp;shopid=34&amp;trackid=32297959&amp;userid=121404036</url>
+                <format id="17">
+                  <fileFormat>MP3</fileFormat>
+                  <bitRate>320</bitRate>
+                  <drmFree>true</drmFree>
+                </format>
+              </downloadUrl>
+            </downloadUrls>
+          </lockerTrack>
+          <lockerTrack>
+            <track id="32297960">
+              <title>Hold on, We're Going Home</title>
+              <version />
+              <artist id="8318">
+                <name>Arctic Monkeys</name>
+                <appearsAs>Arctic Monkeys</appearsAs>
+                <url>http://www.7digital.com/artist/arctic-monkeys/?partner=5932</url>
+              </artist>
+              <trackNumber>2</trackNumber>
+              <duration>199</duration>
+              <isrc>GBCAD1300717</isrc>
+              <url>http://www.7digital.com/artist/various-artists/release/bbc-radio-1s-live-lounge-2013-1/?partner=5932&amp;h=02</url>
+            </track>
+            <remainingDownloads>5</remainingDownloads>
+            <purchaseId>0</purchaseId>
+            <purchaseDate>2013-11-06T12:25:59Z</purchaseDate>
+            <completeAlbumPurchase>false</completeAlbumPurchase>
+            <downloadUrls>
+              <downloadUrl>
+                <url>http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&amp;oauth_nonce=muk83nwzahijwfzj&amp;oauth_signature=GHjnVT5MU5%2FtmsZ3pmohWQ6dw90%3D&amp;oauth_signature_method=HMAC-SHA1&amp;oauth_timestamp=1409567388&amp;oauth_version=1.0a&amp;formatid=17&amp;partnerid=712&amp;onbehalfofpartnerid=712&amp;presigned=1&amp;releaseid=3028642&amp;shopid=34&amp;trackid=32297960&amp;userid=121404036</url>
+                <format id="17">
+                  <fileFormat>MP3</fileFormat>
+                  <bitRate>320</bitRate>
+                  <drmFree>true</drmFree>
+                </format>
+              </downloadUrl>
+            </downloadUrls>
+          </lockerTrack>
+          <lockerTrack>
+            <track id="32297961">
+              <title>Pompeii</title>
+              <version />
+              <artist id="972893">
+                <name>Bastille</name>
+                <appearsAs>Bastille</appearsAs>
+                <url>http://www.7digital.com/artist/bastille/?partner=5932</url>
+              </artist>
+              <trackNumber>3</trackNumber>
+              <duration>206</duration>
+              <isrc>GBCAD1300304</isrc>
+              <url>http://www.7digital.com/artist/various-artists/release/bbc-radio-1s-live-lounge-2013-1/?partner=5932&amp;h=03</url>
+            </track>
+            <remainingDownloads>5</remainingDownloads>
+            <purchaseId>0</purchaseId>
+            <purchaseDate>2013-11-06T12:25:59Z</purchaseDate>
+            <completeAlbumPurchase>false</completeAlbumPurchase>
+            <downloadUrls>
+              <downloadUrl>
+                <url>http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&amp;oauth_nonce=9calaiwc8w70qmg3&amp;oauth_signature=Tjr0UcGIOBi4ouKJY7CZtkZZP0Y%3D&amp;oauth_signature_method=HMAC-SHA1&amp;oauth_timestamp=1409567388&amp;oauth_version=1.0a&amp;formatid=17&amp;partnerid=712&amp;onbehalfofpartnerid=712&amp;presigned=1&amp;releaseid=3028642&amp;shopid=34&amp;trackid=32297961&amp;userid=121404036</url>
+                <format id="17">
+                  <fileFormat>MP3</fileFormat>
+                  <bitRate>320</bitRate>
+                  <drmFree>true</drmFree>
+                </format>
+              </downloadUrl>
+            </downloadUrls>
+          </lockerTrack>
+          <lockerTrack>
+            <track id="32297963">
+              <title>La La La</title>
+              <version />
+              <artist id="51871">
+                <name>Naughty Boy</name>
+                <appearsAs>Naughty Boy</appearsAs>
+                <url>http://www.7digital.com/artist/naughty-boy/?partner=5932</url>
+              </artist>
+              <trackNumber>4</trackNumber>
+              <duration>218</duration>
+              <isrc>GBCAD1300384</isrc>
+              <url>http://www.7digital.com/artist/various-artists/release/bbc-radio-1s-live-lounge-2013-1/?partner=5932&amp;h=04</url>
+            </track>
+            <remainingDownloads>5</remainingDownloads>
+            <purchaseId>0</purchaseId>
+            <purchaseDate>2013-11-06T12:25:59Z</purchaseDate>
+            <completeAlbumPurchase>false</completeAlbumPurchase>
+            <downloadUrls>
+              <downloadUrl>
+                <url>http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&amp;oauth_nonce=ibkwt5kj5ukw4gtv&amp;oauth_signature=3Fb%2FtsIi9QhKm%2FfIxTfkh7tVMvs%3D&amp;oauth_signature_method=HMAC-SHA1&amp;oauth_timestamp=1409567388&amp;oauth_version=1.0a&amp;formatid=17&amp;partnerid=712&amp;onbehalfofpartnerid=712&amp;presigned=1&amp;releaseid=3028642&amp;shopid=34&amp;trackid=32297963&amp;userid=121404036</url>
+                <format id="17">
+                  <fileFormat>MP3</fileFormat>
+                  <bitRate>320</bitRate>
+                  <drmFree>true</drmFree>
+                </format>
+              </downloadUrl>
+            </downloadUrls>
+          </lockerTrack>
+          <lockerTrack>
+            <track id="32297964">
+              <title>Mirrors</title>
+              <version />
+              <artist id="468577">
+                <name>Ellie Goulding</name>
+                <appearsAs>Ellie Goulding</appearsAs>
+                <url>http://www.7digital.com/artist/ellie-goulding/?partner=5932</url>
+              </artist>
+              <trackNumber>5</trackNumber>
+              <duration>279</duration>
+              <isrc>GBCAD1300725</isrc>
+              <url>http://www.7digital.com/artist/various-artists/release/bbc-radio-1s-live-lounge-2013-1/?partner=5932&amp;h=05</url>
+            </track>
+            <remainingDownloads>5</remainingDownloads>
+            <purchaseId>0</purchaseId>
+            <purchaseDate>2013-11-06T12:25:59Z</purchaseDate>
+            <completeAlbumPurchase>false</completeAlbumPurchase>
+            <downloadUrls>
+              <downloadUrl>
+                <url>http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&amp;oauth_nonce=3c86zivd8hafqwjy&amp;oauth_signature=4%2B8I3jDXnwTlJVDJL84YPxzv3YY%3D&amp;oauth_signature_method=HMAC-SHA1&amp;oauth_timestamp=1409567388&amp;oauth_version=1.0a&amp;formatid=17&amp;partnerid=712&amp;onbehalfofpartnerid=712&amp;presigned=1&amp;releaseid=3028642&amp;shopid=34&amp;trackid=32297964&amp;userid=121404036</url>
+                <format id="17">
+                  <fileFormat>MP3</fileFormat>
+                  <bitRate>320</bitRate>
+                  <drmFree>true</drmFree>
+                </format>
+              </downloadUrl>
+            </downloadUrls>
+          </lockerTrack>
+          <lockerTrack>
+            <track id="32297966">
+              <title>Get Lucky</title>
+              <version />
+              <artist id="364252">
+                <name>Daughter</name>
+                <appearsAs>Daughter</appearsAs>
+                <url>http://www.7digital.com/artist/daughter/?partner=5932</url>
+              </artist>
+              <trackNumber>6</trackNumber>
+              <duration>292</duration>
+              <isrc>GBCAD1300316</isrc>
+              <url>http://www.7digital.com/artist/various-artists/release/bbc-radio-1s-live-lounge-2013-1/?partner=5932&amp;h=06</url>
+            </track>
+            <remainingDownloads>5</remainingDownloads>
+            <purchaseId>0</purchaseId>
+            <purchaseDate>2013-11-06T12:25:59Z</purchaseDate>
+            <completeAlbumPurchase>false</completeAlbumPurchase>
+            <downloadUrls>
+              <downloadUrl>
+                <url>http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&amp;oauth_nonce=bqbv5czd22rq8ai1&amp;oauth_signature=rynHBUF9H%2FBm%2Bf8qQdjgnBGf9b8%3D&amp;oauth_signature_method=HMAC-SHA1&amp;oauth_timestamp=1409567388&amp;oauth_version=1.0a&amp;formatid=17&amp;partnerid=712&amp;onbehalfofpartnerid=712&amp;presigned=1&amp;releaseid=3028642&amp;shopid=34&amp;trackid=32297966&amp;userid=121404036</url>
+                <format id="17">
+                  <fileFormat>MP3</fileFormat>
+                  <bitRate>320</bitRate>
+                  <drmFree>true</drmFree>
+                </format>
+              </downloadUrl>
+            </downloadUrls>
+          </lockerTrack>
+          <lockerTrack>
+            <track id="32297967">
+              <title>I Love It</title>
+              <version />
+              <artist id="54041">
+                <name>Robin Thicke</name>
+                <appearsAs>Robin Thicke</appearsAs>
+                <url>http://www.7digital.com/artist/robin-thicke/?partner=5932</url>
+              </artist>
+              <trackNumber>7</trackNumber>
+              <duration>161</duration>
+              <isrc>GBCAD1300419</isrc>
+              <url>http://www.7digital.com/artist/various-artists/release/bbc-radio-1s-live-lounge-2013-1/?partner=5932&amp;h=07</url>
+            </track>
+            <remainingDownloads>5</remainingDownloads>
+            <purchaseId>0</purchaseId>
+            <purchaseDate>2013-11-06T12:25:59Z</purchaseDate>
+            <completeAlbumPurchase>false</completeAlbumPurchase>
+            <downloadUrls>
+              <downloadUrl>
+                <url>http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&amp;oauth_nonce=dlhnokdaphzl5e3h&amp;oauth_signature=617AcW9AixcamCSb7JF6yAdI6t0%3D&amp;oauth_signature_method=HMAC-SHA1&amp;oauth_timestamp=1409567388&amp;oauth_version=1.0a&amp;formatid=17&amp;partnerid=712&amp;onbehalfofpartnerid=712&amp;presigned=1&amp;releaseid=3028642&amp;shopid=34&amp;trackid=32297967&amp;userid=121404036</url>
+                <format id="17">
+                  <fileFormat>MP3</fileFormat>
+                  <bitRate>320</bitRate>
+                  <drmFree>true</drmFree>
+                </format>
+              </downloadUrl>
+            </downloadUrls>
+          </lockerTrack>
+          <lockerTrack>
+            <track id="32297969">
+              <title>Blurred Lines</title>
+              <version />
+              <artist id="146096">
+                <name>Vampire Weekend</name>
+                <appearsAs>Vampire Weekend</appearsAs>
+                <url>http://www.7digital.com/artist/vampire-weekend/?partner=5932</url>
+              </artist>
+              <trackNumber>8</trackNumber>
+              <duration>255</duration>
+              <isrc>GBCAD1300417</isrc>
+              <url>http://www.7digital.com/artist/various-artists/release/bbc-radio-1s-live-lounge-2013-1/?partner=5932&amp;h=08</url>
+            </track>
+            <remainingDownloads>5</remainingDownloads>
+            <purchaseId>0</purchaseId>
+            <purchaseDate>2013-11-06T12:25:59Z</purchaseDate>
+            <completeAlbumPurchase>false</completeAlbumPurchase>
+            <downloadUrls>
+              <downloadUrl>
+                <url>http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&amp;oauth_nonce=kwvnf91zm5e91ff7&amp;oauth_signature=s0alWHlW3vGgglTE5cHqlUd5uaI%3D&amp;oauth_signature_method=HMAC-SHA1&amp;oauth_timestamp=1409567388&amp;oauth_version=1.0a&amp;formatid=17&amp;partnerid=712&amp;onbehalfofpartnerid=712&amp;presigned=1&amp;releaseid=3028642&amp;shopid=34&amp;trackid=32297969&amp;userid=121404036</url>
+                <format id="17">
+                  <fileFormat>MP3</fileFormat>
+                  <bitRate>320</bitRate>
+                  <drmFree>true</drmFree>
+                </format>
+              </downloadUrl>
+            </downloadUrls>
+          </lockerTrack>
+          <lockerTrack>
+            <track id="32297970">
+              <title>I Will Wait</title>
+              <version />
+              <artist id="1176242">
+                <name>Little Mix</name>
+                <appearsAs>Little Mix</appearsAs>
+                <url>http://www.7digital.com/artist/little-mix/?partner=5932</url>
+              </artist>
+              <trackNumber>9</trackNumber>
+              <duration>276</duration>
+              <isrc>GBCAD1300314</isrc>
+              <url>http://www.7digital.com/artist/various-artists/release/bbc-radio-1s-live-lounge-2013-1/?partner=5932&amp;h=09</url>
+            </track>
+            <remainingDownloads>5</remainingDownloads>
+            <purchaseId>0</purchaseId>
+            <purchaseDate>2013-11-06T12:25:59Z</purchaseDate>
+            <completeAlbumPurchase>false</completeAlbumPurchase>
+            <downloadUrls>
+              <downloadUrl>
+                <url>http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&amp;oauth_nonce=9kcfp6j1mafxnoix&amp;oauth_signature=aMuLDzKmzikKxrm0PEKUOYCx4aw%3D&amp;oauth_signature_method=HMAC-SHA1&amp;oauth_timestamp=1409567388&amp;oauth_version=1.0a&amp;formatid=17&amp;partnerid=712&amp;onbehalfofpartnerid=712&amp;presigned=1&amp;releaseid=3028642&amp;shopid=34&amp;trackid=32297970&amp;userid=121404036</url>
+                <format id="17">
+                  <fileFormat>MP3</fileFormat>
+                  <bitRate>320</bitRate>
+                  <drmFree>true</drmFree>
+                </format>
+              </downloadUrl>
+            </downloadUrls>
+          </lockerTrack>
+          <lockerTrack>
+            <track id="32297972">
+              <title>Let Her Go</title>
+              <version />
+              <artist id="79918">
+                <name>Birdy</name>
+                <appearsAs>Birdy</appearsAs>
+                <url>http://www.7digital.com/artist/birdy/?partner=5932</url>
+              </artist>
+              <trackNumber>10</trackNumber>
+              <duration>206</duration>
+              <isrc>GBCAD1300716</isrc>
+              <url>http://www.7digital.com/artist/various-artists/release/bbc-radio-1s-live-lounge-2013-1/?partner=5932&amp;h=10</url>
+            </track>
+            <remainingDownloads>5</remainingDownloads>
+            <purchaseId>0</purchaseId>
+            <purchaseDate>2013-11-06T12:25:59Z</purchaseDate>
+            <completeAlbumPurchase>false</completeAlbumPurchase>
+            <downloadUrls>
+              <downloadUrl>
+                <url>http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&amp;oauth_nonce=9kflp6ufusbugejk&amp;oauth_signature=VGHZOAKjQgJWogD2HtIJ%2FZmJxiM%3D&amp;oauth_signature_method=HMAC-SHA1&amp;oauth_timestamp=1409567388&amp;oauth_version=1.0a&amp;formatid=17&amp;partnerid=712&amp;onbehalfofpartnerid=712&amp;presigned=1&amp;releaseid=3028642&amp;shopid=34&amp;trackid=32297972&amp;userid=121404036</url>
+                <format id="17">
+                  <fileFormat>MP3</fileFormat>
+                  <bitRate>320</bitRate>
+                  <drmFree>true</drmFree>
+                </format>
+              </downloadUrl>
+            </downloadUrls>
+          </lockerTrack>
+          <lockerTrack>
+            <track id="32297973">
+              <title>Lightning Bolt</title>
+              <version />
+              <artist id="1029972">
+                <name>Jake Bugg</name>
+                <appearsAs>Jake Bugg</appearsAs>
+                <url>http://www.7digital.com/artist/jake-bugg/?partner=5932</url>
+              </artist>
+              <trackNumber>11</trackNumber>
+              <duration>135</duration>
+              <isrc>GBCAD1300416</isrc>
+              <url>http://www.7digital.com/artist/various-artists/release/bbc-radio-1s-live-lounge-2013-1/?partner=5932&amp;h=11</url>
+            </track>
+            <remainingDownloads>5</remainingDownloads>
+            <purchaseId>0</purchaseId>
+            <purchaseDate>2013-11-06T12:25:59Z</purchaseDate>
+            <completeAlbumPurchase>false</completeAlbumPurchase>
+            <downloadUrls>
+              <downloadUrl>
+                <url>http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&amp;oauth_nonce=b3mubw3pm5ae4cm9&amp;oauth_signature=MLhholSOHriDCPkXQwNh4MWYq0M%3D&amp;oauth_signature_method=HMAC-SHA1&amp;oauth_timestamp=1409567388&amp;oauth_version=1.0a&amp;formatid=17&amp;partnerid=712&amp;onbehalfofpartnerid=712&amp;presigned=1&amp;releaseid=3028642&amp;shopid=34&amp;trackid=32297973&amp;userid=121404036</url>
+                <format id="17">
+                  <fileFormat>MP3</fileFormat>
+                  <bitRate>320</bitRate>
+                  <drmFree>true</drmFree>
+                </format>
+              </downloadUrl>
+            </downloadUrls>
+          </lockerTrack>
+          <lockerTrack>
+            <track id="32297974">
+              <title>I Knew You Were Trouble</title>
+              <version />
+              <artist id="1428779">
+                <name>Tom Odell</name>
+                <appearsAs>Tom Odell</appearsAs>
+                <url>http://www.7digital.com/artist/tom-odell/?partner=5932</url>
+              </artist>
+              <trackNumber>12</trackNumber>
+              <duration>284</duration>
+              <isrc>GBCAD1300332</isrc>
+              <url>http://www.7digital.com/artist/various-artists/release/bbc-radio-1s-live-lounge-2013-1/?partner=5932&amp;h=12</url>
+            </track>
+            <remainingDownloads>5</remainingDownloads>
+            <purchaseId>0</purchaseId>
+            <purchaseDate>2013-11-06T12:25:59Z</purchaseDate>
+            <completeAlbumPurchase>false</completeAlbumPurchase>
+            <downloadUrls>
+              <downloadUrl>
+                <url>http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&amp;oauth_nonce=vqaq04rdz8u75zti&amp;oauth_signature=%2B15c5XOrAxha9j7gnMGCOy9sB%2BY%3D&amp;oauth_signature_method=HMAC-SHA1&amp;oauth_timestamp=1409567388&amp;oauth_version=1.0a&amp;formatid=17&amp;partnerid=712&amp;onbehalfofpartnerid=712&amp;presigned=1&amp;releaseid=3028642&amp;shopid=34&amp;trackid=32297974&amp;userid=121404036</url>
+                <format id="17">
+                  <fileFormat>MP3</fileFormat>
+                  <bitRate>320</bitRate>
+                  <drmFree>true</drmFree>
+                </format>
+              </downloadUrl>
+            </downloadUrls>
+          </lockerTrack>
+          <lockerTrack>
+            <track id="32297976">
+              <title>Stay</title>
+              <version />
+              <artist id="11565">
+                <name>30 Seconds To Mars</name>
+                <appearsAs>30 Seconds To Mars</appearsAs>
+                <url>http://www.7digital.com/artist/30-seconds-to-mars/?partner=5932</url>
+              </artist>
+              <trackNumber>13</trackNumber>
+              <duration>247</duration>
+              <isrc>GBCAD1300538</isrc>
+              <url>http://www.7digital.com/artist/various-artists/release/bbc-radio-1s-live-lounge-2013-1/?partner=5932&amp;h=13</url>
+            </track>
+            <remainingDownloads>5</remainingDownloads>
+            <purchaseId>0</purchaseId>
+            <purchaseDate>2013-11-06T12:25:59Z</purchaseDate>
+            <completeAlbumPurchase>false</completeAlbumPurchase>
+            <downloadUrls>
+              <downloadUrl>
+                <url>http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&amp;oauth_nonce=25wubyvls10u5plr&amp;oauth_signature=cgr00bD34mS5MLCeuGabTL2RhjA%3D&amp;oauth_signature_method=HMAC-SHA1&amp;oauth_timestamp=1409567388&amp;oauth_version=1.0a&amp;formatid=17&amp;partnerid=712&amp;onbehalfofpartnerid=712&amp;presigned=1&amp;releaseid=3028642&amp;shopid=34&amp;trackid=32297976&amp;userid=121404036</url>
+                <format id="17">
+                  <fileFormat>MP3</fileFormat>
+                  <bitRate>320</bitRate>
+                  <drmFree>true</drmFree>
+                </format>
+              </downloadUrl>
+            </downloadUrls>
+          </lockerTrack>
+          <lockerTrack>
+            <track id="32297977">
+              <title>So Good to Me</title>
+              <version />
+              <artist id="1358595">
+                <name>The 1975</name>
+                <appearsAs>The 1975</appearsAs>
+                <url>http://www.7digital.com/artist/the-1975/?partner=5932</url>
+              </artist>
+              <trackNumber>14</trackNumber>
+              <duration>237</duration>
+              <isrc>GBCAD1300330</isrc>
+              <url>http://www.7digital.com/artist/various-artists/release/bbc-radio-1s-live-lounge-2013-1/?partner=5932&amp;h=14</url>
+            </track>
+            <remainingDownloads>5</remainingDownloads>
+            <purchaseId>0</purchaseId>
+            <purchaseDate>2013-11-06T12:25:59Z</purchaseDate>
+            <completeAlbumPurchase>false</completeAlbumPurchase>
+            <downloadUrls>
+              <downloadUrl>
+                <url>http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&amp;oauth_nonce=fd01e4lhkj5ec6vx&amp;oauth_signature=fHa5PlujuGQFAjop5VvPmYwLizI%3D&amp;oauth_signature_method=HMAC-SHA1&amp;oauth_timestamp=1409567388&amp;oauth_version=1.0a&amp;formatid=17&amp;partnerid=712&amp;onbehalfofpartnerid=712&amp;presigned=1&amp;releaseid=3028642&amp;shopid=34&amp;trackid=32297977&amp;userid=121404036</url>
+                <format id="17">
+                  <fileFormat>MP3</fileFormat>
+                  <bitRate>320</bitRate>
+                  <drmFree>true</drmFree>
+                </format>
+              </downloadUrl>
+            </downloadUrls>
+          </lockerTrack>
+          <lockerTrack>
+            <track id="32297979">
+              <title>Figure 8</title>
+              <version />
+              <artist id="487026">
+                <name>Ben Howard</name>
+                <appearsAs>Ben Howard</appearsAs>
+                <url>http://www.7digital.com/artist/ben-howard/?partner=5932</url>
+              </artist>
+              <trackNumber>15</trackNumber>
+              <duration>341</duration>
+              <isrc>GBCAD1300305</isrc>
+              <url>http://www.7digital.com/artist/various-artists/release/bbc-radio-1s-live-lounge-2013-1/?partner=5932&amp;h=15</url>
+            </track>
+            <remainingDownloads>5</remainingDownloads>
+            <purchaseId>0</purchaseId>
+            <purchaseDate>2013-11-06T12:25:59Z</purchaseDate>
+            <completeAlbumPurchase>false</completeAlbumPurchase>
+            <downloadUrls>
+              <downloadUrl>
+                <url>http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&amp;oauth_nonce=k3n9q2776y8j58jk&amp;oauth_signature=1hu9eGjB8cqDVsCfTvfye9HmvHw%3D&amp;oauth_signature_method=HMAC-SHA1&amp;oauth_timestamp=1409567388&amp;oauth_version=1.0a&amp;formatid=17&amp;partnerid=712&amp;onbehalfofpartnerid=712&amp;presigned=1&amp;releaseid=3028642&amp;shopid=34&amp;trackid=32297979&amp;userid=121404036</url>
+                <format id="17">
+                  <fileFormat>MP3</fileFormat>
+                  <bitRate>320</bitRate>
+                  <drmFree>true</drmFree>
+                </format>
+              </downloadUrl>
+            </downloadUrls>
+          </lockerTrack>
+          <lockerTrack>
+            <track id="32297980">
+              <title>Don't You Worry Child</title>
+              <version />
+              <artist id="785015">
+                <name>Olly Murs</name>
+                <appearsAs>Olly Murs</appearsAs>
+                <url>http://www.7digital.com/artist/olly-murs/?partner=5932</url>
+              </artist>
+              <trackNumber>16</trackNumber>
+              <duration>217</duration>
+              <isrc>GBCAD1300324</isrc>
+              <url>http://www.7digital.com/artist/various-artists/release/bbc-radio-1s-live-lounge-2013-1/?partner=5932&amp;h=16</url>
+            </track>
+            <remainingDownloads>5</remainingDownloads>
+            <purchaseId>0</purchaseId>
+            <purchaseDate>2013-11-06T12:25:59Z</purchaseDate>
+            <completeAlbumPurchase>false</completeAlbumPurchase>
+            <downloadUrls>
+              <downloadUrl>
+                <url>http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&amp;oauth_nonce=vc11z4e8toj35qjw&amp;oauth_signature=uWKrMSgGgbmrHcCyF9ph1H1Nkts%3D&amp;oauth_signature_method=HMAC-SHA1&amp;oauth_timestamp=1409567388&amp;oauth_version=1.0a&amp;formatid=17&amp;partnerid=712&amp;onbehalfofpartnerid=712&amp;presigned=1&amp;releaseid=3028642&amp;shopid=34&amp;trackid=32297980&amp;userid=121404036</url>
+                <format id="17">
+                  <fileFormat>MP3</fileFormat>
+                  <bitRate>320</bitRate>
+                  <drmFree>true</drmFree>
+                </format>
+              </downloadUrl>
+            </downloadUrls>
+          </lockerTrack>
+          <lockerTrack>
+            <track id="32297981">
+              <title>Talk Dirty</title>
+              <version />
+              <artist id="347171">
+                <name>Jason Derulo</name>
+                <appearsAs>Jason Derulo</appearsAs>
+                <url>http://www.7digital.com/artist/jason-derulo/?partner=5932</url>
+              </artist>
+              <trackNumber>17</trackNumber>
+              <duration>170</duration>
+              <isrc>GBCAD1300726</isrc>
+              <url>http://www.7digital.com/artist/various-artists/release/bbc-radio-1s-live-lounge-2013-1/?partner=5932&amp;h=17</url>
+            </track>
+            <remainingDownloads>5</remainingDownloads>
+            <purchaseId>0</purchaseId>
+            <purchaseDate>2013-11-06T12:25:59Z</purchaseDate>
+            <completeAlbumPurchase>false</completeAlbumPurchase>
+            <downloadUrls>
+              <downloadUrl>
+                <url>http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&amp;oauth_nonce=fljbbnbohc5p6bmn&amp;oauth_signature=wlTz5WzIXrzHBNSqevaC8NTKPWE%3D&amp;oauth_signature_method=HMAC-SHA1&amp;oauth_timestamp=1409567388&amp;oauth_version=1.0a&amp;formatid=17&amp;partnerid=712&amp;onbehalfofpartnerid=712&amp;presigned=1&amp;releaseid=3028642&amp;shopid=34&amp;trackid=32297981&amp;userid=121404036</url>
+                <format id="17">
+                  <fileFormat>MP3</fileFormat>
+                  <bitRate>320</bitRate>
+                  <drmFree>true</drmFree>
+                </format>
+              </downloadUrl>
+            </downloadUrls>
+          </lockerTrack>
+          <lockerTrack>
+            <track id="32297982">
+              <title>It's My Party</title>
+              <version />
+              <artist id="341566">
+                <name>Jessie J</name>
+                <appearsAs>Jessie J</appearsAs>
+                <url>http://www.7digital.com/artist/jessie-j/?partner=5932</url>
+              </artist>
+              <trackNumber>18</trackNumber>
+              <duration>214</duration>
+              <isrc>GBCAD1300715</isrc>
+              <url>http://www.7digital.com/artist/various-artists/release/bbc-radio-1s-live-lounge-2013-1/?partner=5932&amp;h=18</url>
+            </track>
+            <remainingDownloads>5</remainingDownloads>
+            <purchaseId>0</purchaseId>
+            <purchaseDate>2013-11-06T12:25:59Z</purchaseDate>
+            <completeAlbumPurchase>false</completeAlbumPurchase>
+            <downloadUrls>
+              <downloadUrl>
+                <url>http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&amp;oauth_nonce=0ut0e58qxqpcreco&amp;oauth_signature=HjqswTvGF1pxyHZk5%2FDPLsvcL2g%3D&amp;oauth_signature_method=HMAC-SHA1&amp;oauth_timestamp=1409567388&amp;oauth_version=1.0a&amp;formatid=17&amp;partnerid=712&amp;onbehalfofpartnerid=712&amp;presigned=1&amp;releaseid=3028642&amp;shopid=34&amp;trackid=32297982&amp;userid=121404036</url>
+                <format id="17">
+                  <fileFormat>MP3</fileFormat>
+                  <bitRate>320</bitRate>
+                  <drmFree>true</drmFree>
+                </format>
+              </downloadUrl>
+            </downloadUrls>
+          </lockerTrack>
+          <lockerTrack>
+            <track id="32297983">
+              <title>Summertime Sadness</title>
+              <version />
+              <artist id="996395">
+                <name>Rizzle Kicks</name>
+                <appearsAs>Rizzle Kicks</appearsAs>
+                <url>http://www.7digital.com/artist/rizzle-kicks/?partner=5932</url>
+              </artist>
+              <trackNumber>19</trackNumber>
+              <duration>233</duration>
+              <isrc>GBCAD1300531</isrc>
+              <url>http://www.7digital.com/artist/various-artists/release/bbc-radio-1s-live-lounge-2013-1/?partner=5932&amp;h=19</url>
+            </track>
+            <remainingDownloads>5</remainingDownloads>
+            <purchaseId>0</purchaseId>
+            <purchaseDate>2013-11-06T12:25:59Z</purchaseDate>
+            <completeAlbumPurchase>false</completeAlbumPurchase>
+            <downloadUrls>
+              <downloadUrl>
+                <url>http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&amp;oauth_nonce=olesxhiibmtx9zbr&amp;oauth_signature=UOyM2Cy8PPIay4h9sKzk7SVdSk8%3D&amp;oauth_signature_method=HMAC-SHA1&amp;oauth_timestamp=1409567388&amp;oauth_version=1.0a&amp;formatid=17&amp;partnerid=712&amp;onbehalfofpartnerid=712&amp;presigned=1&amp;releaseid=3028642&amp;shopid=34&amp;trackid=32297983&amp;userid=121404036</url>
+                <format id="17">
+                  <fileFormat>MP3</fileFormat>
+                  <bitRate>320</bitRate>
+                  <drmFree>true</drmFree>
+                </format>
+              </downloadUrl>
+            </downloadUrls>
+          </lockerTrack>
+          <lockerTrack>
+            <track id="32297984">
+              <title>Same Love</title>
+              <version />
+              <artist id="1373940">
+                <name>Kodaline</name>
+                <appearsAs>Kodaline</appearsAs>
+                <url>http://www.7digital.com/artist/kodaline/?partner=5932</url>
+              </artist>
+              <trackNumber>20</trackNumber>
+              <duration>229</duration>
+              <isrc>GBCAD1300719</isrc>
+              <url>http://www.7digital.com/artist/various-artists/release/bbc-radio-1s-live-lounge-2013-1/?partner=5932&amp;h=20</url>
+            </track>
+            <remainingDownloads>5</remainingDownloads>
+            <purchaseId>0</purchaseId>
+            <purchaseDate>2013-11-06T12:25:59Z</purchaseDate>
+            <completeAlbumPurchase>false</completeAlbumPurchase>
+            <downloadUrls>
+              <downloadUrl>
+                <url>http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&amp;oauth_nonce=b73j8krko3ov807c&amp;oauth_signature=H8xR56XcbMwDpyUdGvb7eTlBJaQ%3D&amp;oauth_signature_method=HMAC-SHA1&amp;oauth_timestamp=1409567388&amp;oauth_version=1.0a&amp;formatid=17&amp;partnerid=712&amp;onbehalfofpartnerid=712&amp;presigned=1&amp;releaseid=3028642&amp;shopid=34&amp;trackid=32297984&amp;userid=121404036</url>
+                <format id="17">
+                  <fileFormat>MP3</fileFormat>
+                  <bitRate>320</bitRate>
+                  <drmFree>true</drmFree>
+                </format>
+              </downloadUrl>
+            </downloadUrls>
+          </lockerTrack>
+          <lockerTrack>
+            <track id="32297985">
+              <title>Love Me Again</title>
+              <version />
+              <artist id="1277148">
+                <name>Nina Nesbitt</name>
+                <appearsAs>Nina Nesbitt</appearsAs>
+                <url>http://www.7digital.com/artist/nina-nesbitt/?partner=5932</url>
+              </artist>
+              <trackNumber>21</trackNumber>
+              <duration>242</duration>
+              <isrc>GBCAD1300418</isrc>
+              <url>http://www.7digital.com/artist/various-artists/release/bbc-radio-1s-live-lounge-2013-1/?partner=5932&amp;h=21</url>
+            </track>
+            <remainingDownloads>5</remainingDownloads>
+            <purchaseId>0</purchaseId>
+            <purchaseDate>2013-11-06T12:25:59Z</purchaseDate>
+            <completeAlbumPurchase>false</completeAlbumPurchase>
+            <downloadUrls>
+              <downloadUrl>
+                <url>http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&amp;oauth_nonce=aqau8512mk83lks9&amp;oauth_signature=1n6GQ7HMoWrf0CJAOCnbshMFrx0%3D&amp;oauth_signature_method=HMAC-SHA1&amp;oauth_timestamp=1409567388&amp;oauth_version=1.0a&amp;formatid=17&amp;partnerid=712&amp;onbehalfofpartnerid=712&amp;presigned=1&amp;releaseid=3028642&amp;shopid=34&amp;trackid=32297985&amp;userid=121404036</url>
+                <format id="17">
+                  <fileFormat>MP3</fileFormat>
+                  <bitRate>320</bitRate>
+                  <drmFree>true</drmFree>
+                </format>
+              </downloadUrl>
+            </downloadUrls>
+          </lockerTrack>
+          <lockerTrack>
+            <track id="32297986">
+              <title>Best Song Ever</title>
+              <version />
+              <artist id="1217372">
+                <name>Gabrielle Aplin</name>
+                <appearsAs>Gabrielle Aplin</appearsAs>
+                <url>http://www.7digital.com/artist/gabrielle-aplin/?partner=5932</url>
+              </artist>
+              <trackNumber>22</trackNumber>
+              <duration>207</duration>
+              <isrc>GBCAD1300535</isrc>
+              <url>http://www.7digital.com/artist/various-artists/release/bbc-radio-1s-live-lounge-2013-1/?partner=5932&amp;h=22</url>
+            </track>
+            <remainingDownloads>5</remainingDownloads>
+            <purchaseId>0</purchaseId>
+            <purchaseDate>2013-11-06T12:25:59Z</purchaseDate>
+            <completeAlbumPurchase>false</completeAlbumPurchase>
+            <downloadUrls>
+              <downloadUrl>
+                <url>http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&amp;oauth_nonce=o8avl3qe44e54wkc&amp;oauth_signature=vSGSElcUQ1pX70iZa3o%2FQksStM4%3D&amp;oauth_signature_method=HMAC-SHA1&amp;oauth_timestamp=1409567388&amp;oauth_version=1.0a&amp;formatid=17&amp;partnerid=712&amp;onbehalfofpartnerid=712&amp;presigned=1&amp;releaseid=3028642&amp;shopid=34&amp;trackid=32297986&amp;userid=121404036</url>
+                <format id="17">
+                  <fileFormat>MP3</fileFormat>
+                  <bitRate>320</bitRate>
+                  <drmFree>true</drmFree>
+                </format>
+              </downloadUrl>
+            </downloadUrls>
+          </lockerTrack>
+          <lockerTrack>
+            <track id="32297987">
+              <title>Tessellate</title>
+              <version />
+              <artist id="406524">
+                <name>Mumford &amp; Sons</name>
+                <appearsAs>Mumford &amp; Sons</appearsAs>
+                <url>http://www.7digital.com/artist/mumford-and-sons/?partner=5932</url>
+              </artist>
+              <trackNumber>23</trackNumber>
+              <duration>179</duration>
+              <isrc>GBCAD1300322</isrc>
+              <url>http://www.7digital.com/artist/various-artists/release/bbc-radio-1s-live-lounge-2013-1/?partner=5932&amp;h=23</url>
+            </track>
+            <remainingDownloads>5</remainingDownloads>
+            <purchaseId>0</purchaseId>
+            <purchaseDate>2013-11-06T12:25:59Z</purchaseDate>
+            <completeAlbumPurchase>false</completeAlbumPurchase>
+            <downloadUrls>
+              <downloadUrl>
+                <url>http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&amp;oauth_nonce=pqwsyrthfb8wnz0e&amp;oauth_signature=DKHc%2FrSxjJjVSqhBv7OVrTSbYtY%3D&amp;oauth_signature_method=HMAC-SHA1&amp;oauth_timestamp=1409567388&amp;oauth_version=1.0a&amp;formatid=17&amp;partnerid=712&amp;onbehalfofpartnerid=712&amp;presigned=1&amp;releaseid=3028642&amp;shopid=34&amp;trackid=32297987&amp;userid=121404036</url>
+                <format id="17">
+                  <fileFormat>MP3</fileFormat>
+                  <bitRate>320</bitRate>
+                  <drmFree>true</drmFree>
+                </format>
+              </downloadUrl>
+            </downloadUrls>
+          </lockerTrack>
+          <lockerTrack>
+            <track id="32297988">
+              <title>Anything Could Happen</title>
+              <version />
+              <artist id="445777">
+                <name>fun.</name>
+                <appearsAs>fun.</appearsAs>
+                <url>http://www.7digital.com/artist/fun/?partner=5932</url>
+              </artist>
+              <trackNumber>24</trackNumber>
+              <duration>240</duration>
+              <isrc>GBCAD1300386</isrc>
+              <url>http://www.7digital.com/artist/various-artists/release/bbc-radio-1s-live-lounge-2013-1/?partner=5932&amp;h=24</url>
+            </track>
+            <remainingDownloads>5</remainingDownloads>
+            <purchaseId>0</purchaseId>
+            <purchaseDate>2013-11-06T12:25:59Z</purchaseDate>
+            <completeAlbumPurchase>false</completeAlbumPurchase>
+            <downloadUrls>
+              <downloadUrl>
+                <url>http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&amp;oauth_nonce=kqh09l2ia71e169z&amp;oauth_signature=wBpt%2BP2xYnfSmHyr5naGaVQ7Uik%3D&amp;oauth_signature_method=HMAC-SHA1&amp;oauth_timestamp=1409567388&amp;oauth_version=1.0a&amp;formatid=17&amp;partnerid=712&amp;onbehalfofpartnerid=712&amp;presigned=1&amp;releaseid=3028642&amp;shopid=34&amp;trackid=32297988&amp;userid=121404036</url>
+                <format id="17">
+                  <fileFormat>MP3</fileFormat>
+                  <bitRate>320</bitRate>
+                  <drmFree>true</drmFree>
+                </format>
+              </downloadUrl>
+            </downloadUrls>
+          </lockerTrack>
+          <lockerTrack>
+            <track id="32297989">
+              <title>It's Time</title>
+              <version />
+              <artist id="1184808">
+                <name>Imagine Dragons</name>
+                <appearsAs>Imagine Dragons</appearsAs>
+                <url>http://www.7digital.com/artist/imagine-dragons/?partner=5932</url>
+              </artist>
+              <trackNumber>25</trackNumber>
+              <duration>232</duration>
+              <isrc>GBCAD1300532</isrc>
+              <url>http://www.7digital.com/artist/various-artists/release/bbc-radio-1s-live-lounge-2013-1/?partner=5932&amp;h=25</url>
+            </track>
+            <remainingDownloads>5</remainingDownloads>
+            <purchaseId>0</purchaseId>
+            <purchaseDate>2013-11-06T12:25:59Z</purchaseDate>
+            <completeAlbumPurchase>false</completeAlbumPurchase>
+            <downloadUrls>
+              <downloadUrl>
+                <url>http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&amp;oauth_nonce=a6m5x0k7n3pk542e&amp;oauth_signature=Hw7ys4K0wedyYIJymtEHr%2Bu5t6s%3D&amp;oauth_signature_method=HMAC-SHA1&amp;oauth_timestamp=1409567388&amp;oauth_version=1.0a&amp;formatid=17&amp;partnerid=712&amp;onbehalfofpartnerid=712&amp;presigned=1&amp;releaseid=3028642&amp;shopid=34&amp;trackid=32297989&amp;userid=121404036</url>
+                <format id="17">
+                  <fileFormat>MP3</fileFormat>
+                  <bitRate>320</bitRate>
+                  <drmFree>true</drmFree>
+                </format>
+              </downloadUrl>
+            </downloadUrls>
+          </lockerTrack>
+          <lockerTrack>
+            <track id="32297990">
+              <title>Radioactive</title>
+              <version />
+              <artist id="1253941">
+                <name>Rita Ora </name>
+                <appearsAs>RITA ORA</appearsAs>
+                <url>http://www.7digital.com/artist/rita-ora/?partner=5932</url>
+              </artist>
+              <trackNumber>26</trackNumber>
+              <duration>278</duration>
+              <isrc>GBCAD1300328</isrc>
+              <url>http://www.7digital.com/artist/various-artists/release/bbc-radio-1s-live-lounge-2013-1/?partner=5932&amp;h=26</url>
+            </track>
+            <remainingDownloads>5</remainingDownloads>
+            <purchaseId>0</purchaseId>
+            <purchaseDate>2013-11-06T12:25:59Z</purchaseDate>
+            <completeAlbumPurchase>false</completeAlbumPurchase>
+            <downloadUrls>
+              <downloadUrl>
+                <url>http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&amp;oauth_nonce=50tnpkdezor21prj&amp;oauth_signature=EjjmpzMjZLu3RTtoeOghAUFri0k%3D&amp;oauth_signature_method=HMAC-SHA1&amp;oauth_timestamp=1409567388&amp;oauth_version=1.0a&amp;formatid=17&amp;partnerid=712&amp;onbehalfofpartnerid=712&amp;presigned=1&amp;releaseid=3028642&amp;shopid=34&amp;trackid=32297990&amp;userid=121404036</url>
+                <format id="17">
+                  <fileFormat>MP3</fileFormat>
+                  <bitRate>320</bitRate>
+                  <drmFree>true</drmFree>
+                </format>
+              </downloadUrl>
+            </downloadUrls>
+          </lockerTrack>
+          <lockerTrack>
+            <track id="32297991">
+              <title>Diamonds</title>
+              <version />
+              <artist id="1125092">
+                <name>Jessie Ware</name>
+                <appearsAs>Jessie Ware</appearsAs>
+                <url>http://www.7digital.com/artist/jessie-ware/?partner=5932</url>
+              </artist>
+              <trackNumber>27</trackNumber>
+              <duration>207</duration>
+              <isrc>GBCAD1300310</isrc>
+              <url>http://www.7digital.com/artist/various-artists/release/bbc-radio-1s-live-lounge-2013-1/?partner=5932&amp;h=27</url>
+            </track>
+            <remainingDownloads>5</remainingDownloads>
+            <purchaseId>0</purchaseId>
+            <purchaseDate>2013-11-06T12:25:59Z</purchaseDate>
+            <completeAlbumPurchase>false</completeAlbumPurchase>
+            <downloadUrls>
+              <downloadUrl>
+                <url>http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&amp;oauth_nonce=chwsmeqkfkvf6qng&amp;oauth_signature=hvyeg91be8h2D41dYgQr3uxPH1Y%3D&amp;oauth_signature_method=HMAC-SHA1&amp;oauth_timestamp=1409567388&amp;oauth_version=1.0a&amp;formatid=17&amp;partnerid=712&amp;onbehalfofpartnerid=712&amp;presigned=1&amp;releaseid=3028642&amp;shopid=34&amp;trackid=32297991&amp;userid=121404036</url>
+                <format id="17">
+                  <fileFormat>MP3</fileFormat>
+                  <bitRate>320</bitRate>
+                  <drmFree>true</drmFree>
+                </format>
+              </downloadUrl>
+            </downloadUrls>
+          </lockerTrack>
+          <lockerTrack>
+            <track id="32297992">
+              <title>Good Time</title>
+              <version />
+              <artist id="369884">
+                <name>Carly Rae Jepsen</name>
+                <appearsAs>Carly Rae Jepsen</appearsAs>
+                <url>http://www.7digital.com/artist/carly-rae-jepsen/?partner=5932</url>
+              </artist>
+              <trackNumber>28</trackNumber>
+              <duration>185</duration>
+              <isrc>GBCAD1300307</isrc>
+              <url>http://www.7digital.com/artist/various-artists/release/bbc-radio-1s-live-lounge-2013-1/?partner=5932&amp;h=28</url>
+            </track>
+            <remainingDownloads>5</remainingDownloads>
+            <purchaseId>0</purchaseId>
+            <purchaseDate>2013-11-06T12:25:59Z</purchaseDate>
+            <completeAlbumPurchase>false</completeAlbumPurchase>
+            <downloadUrls>
+              <downloadUrl>
+                <url>http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&amp;oauth_nonce=fwj1mvkz2ifjssg9&amp;oauth_signature=kT0Go9DxF7d78cKcHYeXwmmPpvc%3D&amp;oauth_signature_method=HMAC-SHA1&amp;oauth_timestamp=1409567388&amp;oauth_version=1.0a&amp;formatid=17&amp;partnerid=712&amp;onbehalfofpartnerid=712&amp;presigned=1&amp;releaseid=3028642&amp;shopid=34&amp;trackid=32297992&amp;userid=121404036</url>
+                <format id="17">
+                  <fileFormat>MP3</fileFormat>
+                  <bitRate>320</bitRate>
+                  <drmFree>true</drmFree>
+                </format>
+              </downloadUrl>
+            </downloadUrls>
+          </lockerTrack>
+          <lockerTrack>
+            <track id="32297993">
+              <title>Impossible</title>
+              <version />
+              <artist id="960223">
+                <name>K Koke</name>
+                <appearsAs>K Koke</appearsAs>
+                <url>http://www.7digital.com/artist/k-koke-1/?partner=5932</url>
+              </artist>
+              <trackNumber>29</trackNumber>
+              <duration>246</duration>
+              <isrc>GBCAD1300312</isrc>
+              <url>http://www.7digital.com/artist/various-artists/release/bbc-radio-1s-live-lounge-2013-1/?partner=5932&amp;h=29</url>
+            </track>
+            <remainingDownloads>5</remainingDownloads>
+            <purchaseId>0</purchaseId>
+            <purchaseDate>2013-11-06T12:25:59Z</purchaseDate>
+            <completeAlbumPurchase>false</completeAlbumPurchase>
+            <downloadUrls>
+              <downloadUrl>
+                <url>http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&amp;oauth_nonce=lfhxhj2zsihey8ii&amp;oauth_signature=lF%2B1O9N4RPsBf%2B0ngAWO%2BODl1%2Fk%3D&amp;oauth_signature_method=HMAC-SHA1&amp;oauth_timestamp=1409567388&amp;oauth_version=1.0a&amp;formatid=17&amp;partnerid=712&amp;onbehalfofpartnerid=712&amp;presigned=1&amp;releaseid=3028642&amp;shopid=34&amp;trackid=32297993&amp;userid=121404036</url>
+                <format id="17">
+                  <fileFormat>MP3</fileFormat>
+                  <bitRate>320</bitRate>
+                  <drmFree>true</drmFree>
+                </format>
+              </downloadUrl>
+            </downloadUrls>
+          </lockerTrack>
+          <lockerTrack>
+            <track id="32297995">
+              <title>Thrift Shop</title>
+              <version />
+              <artist id="1095343">
+                <name>Theme Park</name>
+                <appearsAs>Theme Park</appearsAs>
+                <url>http://www.7digital.com/artist/theme-park/?partner=5932</url>
+              </artist>
+              <trackNumber>30</trackNumber>
+              <duration>238</duration>
+              <isrc>GBCAD1300415</isrc>
+              <url>http://www.7digital.com/artist/various-artists/release/bbc-radio-1s-live-lounge-2013-1/?partner=5932&amp;h=30</url>
+            </track>
+            <remainingDownloads>5</remainingDownloads>
+            <purchaseId>0</purchaseId>
+            <purchaseDate>2013-11-06T12:25:59Z</purchaseDate>
+            <completeAlbumPurchase>false</completeAlbumPurchase>
+            <downloadUrls>
+              <downloadUrl>
+                <url>http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&amp;oauth_nonce=alveg18r771e9h3w&amp;oauth_signature=ihrESZ3nXXJR%2FFxRCQB7Y6FAKp8%3D&amp;oauth_signature_method=HMAC-SHA1&amp;oauth_timestamp=1409567388&amp;oauth_version=1.0a&amp;formatid=17&amp;partnerid=712&amp;onbehalfofpartnerid=712&amp;presigned=1&amp;releaseid=3028642&amp;shopid=34&amp;trackid=32297995&amp;userid=121404036</url>
+                <format id="17">
+                  <fileFormat>MP3</fileFormat>
+                  <bitRate>320</bitRate>
+                  <drmFree>true</drmFree>
+                </format>
+              </downloadUrl>
+            </downloadUrls>
+          </lockerTrack>
+          <lockerTrack>
+            <track id="32297996">
+              <title>Close Enemies</title>
+              <version />
+              <artist id="35902">
+                <name>Example</name>
+                <appearsAs>Example</appearsAs>
+                <url>http://www.7digital.com/artist/example/?partner=5932</url>
+              </artist>
+              <trackNumber>31</trackNumber>
+              <duration>260</duration>
+              <isrc>GBCAD1300309</isrc>
+              <url>http://www.7digital.com/artist/various-artists/release/bbc-radio-1s-live-lounge-2013-1/?partner=5932&amp;h=31</url>
+            </track>
+            <remainingDownloads>5</remainingDownloads>
+            <purchaseId>0</purchaseId>
+            <purchaseDate>2013-11-06T12:25:59Z</purchaseDate>
+            <completeAlbumPurchase>false</completeAlbumPurchase>
+            <downloadUrls>
+              <downloadUrl>
+                <url>http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&amp;oauth_nonce=ex5zi1076thdnga5&amp;oauth_signature=X%2Fly1MZsmq0XHWz5iz0EHdn8Zro%3D&amp;oauth_signature_method=HMAC-SHA1&amp;oauth_timestamp=1409567388&amp;oauth_version=1.0a&amp;formatid=17&amp;partnerid=712&amp;onbehalfofpartnerid=712&amp;presigned=1&amp;releaseid=3028642&amp;shopid=34&amp;trackid=32297996&amp;userid=121404036</url>
+                <format id="17">
+                  <fileFormat>MP3</fileFormat>
+                  <bitRate>320</bitRate>
+                  <drmFree>true</drmFree>
+                </format>
+              </downloadUrl>
+            </downloadUrls>
+          </lockerTrack>
+          <lockerTrack>
+            <track id="32297997">
+              <title>Can You Hear Me? (Ayayaya)</title>
+              <version />
+              <artist id="19204">
+                <name>Wiley</name>
+                <appearsAs>Wiley</appearsAs>
+                <url>http://www.7digital.com/artist/wiley/?partner=5932</url>
+              </artist>
+              <trackNumber>32</trackNumber>
+              <duration>159</duration>
+              <isrc>GBCAD1300334</isrc>
+              <url>http://www.7digital.com/artist/various-artists/release/bbc-radio-1s-live-lounge-2013-1/?partner=5932&amp;h=32</url>
+            </track>
+            <remainingDownloads>5</remainingDownloads>
+            <purchaseId>0</purchaseId>
+            <purchaseDate>2013-11-06T12:25:59Z</purchaseDate>
+            <completeAlbumPurchase>false</completeAlbumPurchase>
+            <downloadUrls>
+              <downloadUrl>
+                <url>http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&amp;oauth_nonce=07ig8b2ui11ksw2l&amp;oauth_signature=2xpgb19gYCBk5pO1IYiB5KCf%2F7o%3D&amp;oauth_signature_method=HMAC-SHA1&amp;oauth_timestamp=1409567388&amp;oauth_version=1.0a&amp;formatid=17&amp;partnerid=712&amp;onbehalfofpartnerid=712&amp;presigned=1&amp;releaseid=3028642&amp;shopid=34&amp;trackid=32297997&amp;userid=121404036</url>
+                <format id="17">
+                  <fileFormat>MP3</fileFormat>
+                  <bitRate>320</bitRate>
+                  <drmFree>true</drmFree>
+                </format>
+              </downloadUrl>
+            </downloadUrls>
+          </lockerTrack>
+          <lockerTrack>
+            <track id="32297998">
+              <title>Chained</title>
+              <version />
+              <artist id="707596">
+                <name>Mikky Ekko</name>
+                <appearsAs>Mikky Ekko</appearsAs>
+                <url>http://www.7digital.com/artist/mikky-ekko/?partner=5932</url>
+              </artist>
+              <trackNumber>33</trackNumber>
+              <duration>240</duration>
+              <isrc>GBCAD1300319</isrc>
+              <url>http://www.7digital.com/artist/various-artists/release/bbc-radio-1s-live-lounge-2013-1/?partner=5932&amp;h=33</url>
+            </track>
+            <remainingDownloads>5</remainingDownloads>
+            <purchaseId>0</purchaseId>
+            <purchaseDate>2013-11-06T12:25:59Z</purchaseDate>
+            <completeAlbumPurchase>false</completeAlbumPurchase>
+            <downloadUrls>
+              <downloadUrl>
+                <url>http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&amp;oauth_nonce=puabdt0kmziwt4d1&amp;oauth_signature=2x8BsDyQPm7oOV6uv5v6yRNRtGw%3D&amp;oauth_signature_method=HMAC-SHA1&amp;oauth_timestamp=1409567388&amp;oauth_version=1.0a&amp;formatid=17&amp;partnerid=712&amp;onbehalfofpartnerid=712&amp;presigned=1&amp;releaseid=3028642&amp;shopid=34&amp;trackid=32297998&amp;userid=121404036</url>
+                <format id="17">
+                  <fileFormat>MP3</fileFormat>
+                  <bitRate>320</bitRate>
+                  <drmFree>true</drmFree>
+                </format>
+              </downloadUrl>
+            </downloadUrls>
+          </lockerTrack>
+          <lockerTrack>
+            <track id="32298000">
+              <title>Beneath Your Beautiful</title>
+              <version />
+              <artist id="1333315">
+                <name>Misha B</name>
+                <appearsAs>Misha B</appearsAs>
+                <url>http://www.7digital.com/artist/misha-b/?partner=5932</url>
+              </artist>
+              <trackNumber>34</trackNumber>
+              <duration>202</duration>
+              <isrc>GBCAD1300320</isrc>
+              <url>http://www.7digital.com/artist/various-artists/release/bbc-radio-1s-live-lounge-2013-1/?partner=5932&amp;h=34</url>
+            </track>
+            <remainingDownloads>5</remainingDownloads>
+            <purchaseId>0</purchaseId>
+            <purchaseDate>2013-11-06T12:25:59Z</purchaseDate>
+            <completeAlbumPurchase>false</completeAlbumPurchase>
+            <downloadUrls>
+              <downloadUrl>
+                <url>http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&amp;oauth_nonce=77ec9wzc6jrsayni&amp;oauth_signature=rbBnBt2vNM9EFnJIpcBCGoRKJ%2BQ%3D&amp;oauth_signature_method=HMAC-SHA1&amp;oauth_timestamp=1409567388&amp;oauth_version=1.0a&amp;formatid=17&amp;partnerid=712&amp;onbehalfofpartnerid=712&amp;presigned=1&amp;releaseid=3028642&amp;shopid=34&amp;trackid=32298000&amp;userid=121404036</url>
+                <format id="17">
+                  <fileFormat>MP3</fileFormat>
+                  <bitRate>320</bitRate>
+                  <drmFree>true</drmFree>
+                </format>
+              </downloadUrl>
+            </downloadUrls>
+          </lockerTrack>
+          <lockerTrack>
+            <track id="32298001">
+              <title>Little Talks</title>
+              <version />
+              <artist id="1125990">
+                <name>Lianne La Havas</name>
+                <appearsAs>Lianne La Havas</appearsAs>
+                <url>http://www.7digital.com/artist/lianne-la-havas/?partner=5932</url>
+              </artist>
+              <trackNumber>35</trackNumber>
+              <duration>207</duration>
+              <isrc>GBCAD1300313</isrc>
+              <url>http://www.7digital.com/artist/various-artists/release/bbc-radio-1s-live-lounge-2013-1/?partner=5932&amp;h=35</url>
+            </track>
+            <remainingDownloads>5</remainingDownloads>
+            <purchaseId>0</purchaseId>
+            <purchaseDate>2013-11-06T12:25:59Z</purchaseDate>
+            <completeAlbumPurchase>false</completeAlbumPurchase>
+            <downloadUrls>
+              <downloadUrl>
+                <url>http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&amp;oauth_nonce=36x4g01q895h3fbo&amp;oauth_signature=YH5c%2BL3VuSU4dQW1hfRBJ3KD%2FXY%3D&amp;oauth_signature_method=HMAC-SHA1&amp;oauth_timestamp=1409567388&amp;oauth_version=1.0a&amp;formatid=17&amp;partnerid=712&amp;onbehalfofpartnerid=712&amp;presigned=1&amp;releaseid=3028642&amp;shopid=34&amp;trackid=32298001&amp;userid=121404036</url>
+                <format id="17">
+                  <fileFormat>MP3</fileFormat>
+                  <bitRate>320</bitRate>
+                  <drmFree>true</drmFree>
+                </format>
+              </downloadUrl>
+            </downloadUrls>
+          </lockerTrack>
+          <lockerTrack>
+            <track id="32298003">
+              <title>Thinkin Bout You</title>
+              <version />
+              <artist id="969369">
+                <name>AlunaGeorge</name>
+                <appearsAs>AlunaGeorge</appearsAs>
+                <url>http://www.7digital.com/artist/alunageorge/?partner=5932</url>
+              </artist>
+              <trackNumber>36</trackNumber>
+              <duration>194</duration>
+              <isrc>GBCAD1300302</isrc>
+              <url>http://www.7digital.com/artist/various-artists/release/bbc-radio-1s-live-lounge-2013-1/?partner=5932&amp;h=36</url>
+            </track>
+            <remainingDownloads>5</remainingDownloads>
+            <purchaseId>0</purchaseId>
+            <purchaseDate>2013-11-06T12:25:59Z</purchaseDate>
+            <completeAlbumPurchase>false</completeAlbumPurchase>
+            <downloadUrls>
+              <downloadUrl>
+                <url>http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&amp;oauth_nonce=x0nwryn458f4brjx&amp;oauth_signature=iLjGBaTYw%2Bho03tuIoopSGZZiJ8%3D&amp;oauth_signature_method=HMAC-SHA1&amp;oauth_timestamp=1409567388&amp;oauth_version=1.0a&amp;formatid=17&amp;partnerid=712&amp;onbehalfofpartnerid=712&amp;presigned=1&amp;releaseid=3028642&amp;shopid=34&amp;trackid=32298003&amp;userid=121404036</url>
+                <format id="17">
+                  <fileFormat>MP3</fileFormat>
+                  <bitRate>320</bitRate>
+                  <drmFree>true</drmFree>
+                </format>
+              </downloadUrl>
+            </downloadUrls>
+          </lockerTrack>
+          <lockerTrack>
+            <track id="32298004">
+              <title>Try</title>
+              <version />
+              <artist id="1011365">
+                <name>Mallory Knox</name>
+                <appearsAs>Mallory Knox</appearsAs>
+                <url>http://www.7digital.com/artist/mallory-knox/?partner=5932</url>
+              </artist>
+              <trackNumber>37</trackNumber>
+              <duration>207</duration>
+              <isrc>GBCAD1300315</isrc>
+              <url>http://www.7digital.com/artist/various-artists/release/bbc-radio-1s-live-lounge-2013-1/?partner=5932&amp;h=37</url>
+            </track>
+            <remainingDownloads>5</remainingDownloads>
+            <purchaseId>0</purchaseId>
+            <purchaseDate>2013-11-06T12:25:59Z</purchaseDate>
+            <completeAlbumPurchase>false</completeAlbumPurchase>
+            <downloadUrls>
+              <downloadUrl>
+                <url>http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&amp;oauth_nonce=la4xgku7fyf03sj1&amp;oauth_signature=Oyus5ZjfKzU9h5b15SYfP8bHrz8%3D&amp;oauth_signature_method=HMAC-SHA1&amp;oauth_timestamp=1409567388&amp;oauth_version=1.0a&amp;formatid=17&amp;partnerid=712&amp;onbehalfofpartnerid=712&amp;presigned=1&amp;releaseid=3028642&amp;shopid=34&amp;trackid=32298004&amp;userid=121404036</url>
+                <format id="17">
+                  <fileFormat>MP3</fileFormat>
+                  <bitRate>320</bitRate>
+                  <drmFree>true</drmFree>
+                </format>
+              </downloadUrl>
+            </downloadUrls>
+          </lockerTrack>
+          <lockerTrack>
+            <track id="32298005">
+              <title>The Way I Tend to Be</title>
+              <version />
+              <artist id="15346">
+                <name>Frank Turner</name>
+                <appearsAs>Frank Turner</appearsAs>
+                <url>http://www.7digital.com/artist/frank-turner/?partner=5932</url>
+              </artist>
+              <trackNumber>38</trackNumber>
+              <duration>216</duration>
+              <isrc>GBCAD1300348</isrc>
+              <url>http://www.7digital.com/artist/various-artists/release/bbc-radio-1s-live-lounge-2013-1/?partner=5932&amp;h=38</url>
+            </track>
+            <remainingDownloads>5</remainingDownloads>
+            <purchaseId>0</purchaseId>
+            <purchaseDate>2013-11-06T12:25:59Z</purchaseDate>
+            <completeAlbumPurchase>false</completeAlbumPurchase>
+            <downloadUrls>
+              <downloadUrl>
+                <url>http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&amp;oauth_nonce=id6ak21ds59i48op&amp;oauth_signature=kHszBMRMQ2gUNzxcLnplE0GriaM%3D&amp;oauth_signature_method=HMAC-SHA1&amp;oauth_timestamp=1409567388&amp;oauth_version=1.0a&amp;formatid=17&amp;partnerid=712&amp;onbehalfofpartnerid=712&amp;presigned=1&amp;releaseid=3028642&amp;shopid=34&amp;trackid=32298005&amp;userid=121404036</url>
+                <format id="17">
+                  <fileFormat>MP3</fileFormat>
+                  <bitRate>320</bitRate>
+                  <drmFree>true</drmFree>
+                </format>
+              </downloadUrl>
+            </downloadUrls>
+          </lockerTrack>
+          <lockerTrack>
+            <track id="32298006">
+              <title>Wild for the Night</title>
+              <version />
+              <artist id="1160422">
+                <name>A$AP Rocky</name>
+                <appearsAs>A$AP Rocky</appearsAs>
+                <url>http://www.7digital.com/artist/a-ap-rocky/?partner=5932</url>
+              </artist>
+              <trackNumber>39</trackNumber>
+              <duration>188</duration>
+              <isrc>GBCAD1300303</isrc>
+              <url>http://www.7digital.com/artist/various-artists/release/bbc-radio-1s-live-lounge-2013-1/?partner=5932&amp;h=39</url>
+            </track>
+            <remainingDownloads>5</remainingDownloads>
+            <purchaseId>0</purchaseId>
+            <purchaseDate>2013-11-06T12:25:59Z</purchaseDate>
+            <completeAlbumPurchase>false</completeAlbumPurchase>
+            <downloadUrls>
+              <downloadUrl>
+                <url>http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&amp;oauth_nonce=yg73lnimpqq4tobm&amp;oauth_signature=zf7mzBwQeQDatg5ML%2B1DCFSyiqw%3D&amp;oauth_signature_method=HMAC-SHA1&amp;oauth_timestamp=1409567388&amp;oauth_version=1.0a&amp;formatid=17&amp;partnerid=712&amp;onbehalfofpartnerid=712&amp;presigned=1&amp;releaseid=3028642&amp;shopid=34&amp;trackid=32298006&amp;userid=121404036</url>
+                <format id="17">
+                  <fileFormat>MP3</fileFormat>
+                  <bitRate>320</bitRate>
+                  <drmFree>true</drmFree>
+                </format>
+              </downloadUrl>
+            </downloadUrls>
+          </lockerTrack>
+          <lockerTrack>
+            <track id="32298008">
+              <title>Need U (100%)</title>
+              <version />
+              <artist id="773662">
+                <name>Disclosure</name>
+                <appearsAs>Disclosure</appearsAs>
+                <url>http://www.7digital.com/artist/disclosure/?partner=5932</url>
+              </artist>
+              <trackNumber>40</trackNumber>
+              <duration>230</duration>
+              <isrc>GBCAD1300317</isrc>
+              <url>http://www.7digital.com/artist/various-artists/release/bbc-radio-1s-live-lounge-2013-1/?partner=5932&amp;h=40</url>
+            </track>
+            <remainingDownloads>5</remainingDownloads>
+            <purchaseId>0</purchaseId>
+            <purchaseDate>2013-11-06T12:25:59Z</purchaseDate>
+            <completeAlbumPurchase>false</completeAlbumPurchase>
+            <downloadUrls>
+              <downloadUrl>
+                <url>http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&amp;oauth_nonce=xpu9wjmtjzfllldh&amp;oauth_signature=4gkAeVNzNPP2CUcBv4rEaKTnTmA%3D&amp;oauth_signature_method=HMAC-SHA1&amp;oauth_timestamp=1409567388&amp;oauth_version=1.0a&amp;formatid=17&amp;partnerid=712&amp;onbehalfofpartnerid=712&amp;presigned=1&amp;releaseid=3028642&amp;shopid=34&amp;trackid=32298008&amp;userid=121404036</url>
+                <format id="17">
+                  <fileFormat>MP3</fileFormat>
+                  <bitRate>320</bitRate>
+                  <drmFree>true</drmFree>
+                </format>
+              </downloadUrl>
+            </downloadUrls>
+          </lockerTrack>
+          <lockerTrack>
+            <track id="32298009">
+              <title>We Built This City</title>
+              <version />
+              <artist id="19178">
+                <name>Biffy Clyro</name>
+                <appearsAs>Biffy Clyro</appearsAs>
+                <url>http://www.7digital.com/artist/biffy-clyro/?partner=5932</url>
+              </artist>
+              <trackNumber>41</trackNumber>
+              <duration>163</duration>
+              <isrc>GBCAD1300337</isrc>
+              <url>http://www.7digital.com/artist/various-artists/release/bbc-radio-1s-live-lounge-2013-1/?partner=5932&amp;h=41</url>
+            </track>
+            <remainingDownloads>5</remainingDownloads>
+            <purchaseId>0</purchaseId>
+            <purchaseDate>2013-11-06T12:25:59Z</purchaseDate>
+            <completeAlbumPurchase>false</completeAlbumPurchase>
+            <downloadUrls>
+              <downloadUrl>
+                <url>http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&amp;oauth_nonce=kzkvvro55su4k8ud&amp;oauth_signature=6pUvImIRky8frSxpU5qkex%2F%2B3mo%3D&amp;oauth_signature_method=HMAC-SHA1&amp;oauth_timestamp=1409567388&amp;oauth_version=1.0a&amp;formatid=17&amp;partnerid=712&amp;onbehalfofpartnerid=712&amp;presigned=1&amp;releaseid=3028642&amp;shopid=34&amp;trackid=32298009&amp;userid=121404036</url>
+                <format id="17">
+                  <fileFormat>MP3</fileFormat>
+                  <bitRate>320</bitRate>
+                  <drmFree>true</drmFree>
+                </format>
+              </downloadUrl>
+            </downloadUrls>
+          </lockerTrack>
+          <lockerTrack>
+            <track id="32298010">
+              <title>What Makes You Beautiful</title>
+              <version />
+              <artist id="1358595">
+                <name>The 1975</name>
+                <appearsAs>The 1975</appearsAs>
+                <url>http://www.7digital.com/artist/the-1975/?partner=5932</url>
+              </artist>
+              <trackNumber>42</trackNumber>
+              <duration>215</duration>
+              <isrc>GBCAD1300537</isrc>
+              <url>http://www.7digital.com/artist/various-artists/release/bbc-radio-1s-live-lounge-2013-1/?partner=5932&amp;h=42</url>
+            </track>
+            <remainingDownloads>5</remainingDownloads>
+            <purchaseId>0</purchaseId>
+            <purchaseDate>2013-11-06T12:25:59Z</purchaseDate>
+            <completeAlbumPurchase>false</completeAlbumPurchase>
+            <downloadUrls>
+              <downloadUrl>
+                <url>http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&amp;oauth_nonce=4vuomp4p4mswi7be&amp;oauth_signature=UfBEKZMmBlThNVXseZfkcKplSuA%3D&amp;oauth_signature_method=HMAC-SHA1&amp;oauth_timestamp=1409567388&amp;oauth_version=1.0a&amp;formatid=17&amp;partnerid=712&amp;onbehalfofpartnerid=712&amp;presigned=1&amp;releaseid=3028642&amp;shopid=34&amp;trackid=32298010&amp;userid=121404036</url>
+                <format id="17">
+                  <fileFormat>MP3</fileFormat>
+                  <bitRate>320</bitRate>
+                  <drmFree>true</drmFree>
+                </format>
+              </downloadUrl>
+            </downloadUrls>
+          </lockerTrack>
+          <lockerTrack>
+            <track id="32298012">
+              <title>In for the Kill</title>
+              <version />
+              <artist id="1516814">
+                <name>London Grammar</name>
+                <appearsAs>London Grammar</appearsAs>
+                <url>http://www.7digital.com/artist/london-grammar/?partner=5932</url>
+              </artist>
+              <trackNumber>43</trackNumber>
+              <duration>195</duration>
+              <isrc>GBCAD1300536</isrc>
+              <url>http://www.7digital.com/artist/various-artists/release/bbc-radio-1s-live-lounge-2013-1/?partner=5932&amp;h=43</url>
+            </track>
+            <remainingDownloads>5</remainingDownloads>
+            <purchaseId>0</purchaseId>
+            <purchaseDate>2013-11-06T12:25:59Z</purchaseDate>
+            <completeAlbumPurchase>false</completeAlbumPurchase>
+            <downloadUrls>
+              <downloadUrl>
+                <url>http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&amp;oauth_nonce=njt5ep1gbzddzsjm&amp;oauth_signature=Kc3wKAX1wTU6iruZWgTbIf79gGg%3D&amp;oauth_signature_method=HMAC-SHA1&amp;oauth_timestamp=1409567388&amp;oauth_version=1.0a&amp;formatid=17&amp;partnerid=712&amp;onbehalfofpartnerid=712&amp;presigned=1&amp;releaseid=3028642&amp;shopid=34&amp;trackid=32298012&amp;userid=121404036</url>
+                <format id="17">
+                  <fileFormat>MP3</fileFormat>
+                  <bitRate>320</bitRate>
+                  <drmFree>true</drmFree>
+                </format>
+              </downloadUrl>
+            </downloadUrls>
+          </lockerTrack>
+          <lockerTrack>
+            <track id="32298013">
+              <title>Human Nature</title>
+              <version />
+              <artist id="1435708">
+                <name>Laura Mvula</name>
+                <appearsAs>Laura Mvula</appearsAs>
+                <url>http://www.7digital.com/artist/laura-mvula/?partner=5932</url>
+              </artist>
+              <trackNumber>44</trackNumber>
+              <duration>166</duration>
+              <isrc>GBCAD1300345</isrc>
+              <url>http://www.7digital.com/artist/various-artists/release/bbc-radio-1s-live-lounge-2013-1/?partner=5932&amp;h=44</url>
+            </track>
+            <remainingDownloads>5</remainingDownloads>
+            <purchaseId>0</purchaseId>
+            <purchaseDate>2013-11-06T12:25:59Z</purchaseDate>
+            <completeAlbumPurchase>false</completeAlbumPurchase>
+            <downloadUrls>
+              <downloadUrl>
+                <url>http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&amp;oauth_nonce=fbs11y65652j03w9&amp;oauth_signature=wXzsO7uqfFYjyQt5a0ATr5SBhm4%3D&amp;oauth_signature_method=HMAC-SHA1&amp;oauth_timestamp=1409567388&amp;oauth_version=1.0a&amp;formatid=17&amp;partnerid=712&amp;onbehalfofpartnerid=712&amp;presigned=1&amp;releaseid=3028642&amp;shopid=34&amp;trackid=32298013&amp;userid=121404036</url>
+                <format id="17">
+                  <fileFormat>MP3</fileFormat>
+                  <bitRate>320</bitRate>
+                  <drmFree>true</drmFree>
+                </format>
+              </downloadUrl>
+            </downloadUrls>
+          </lockerTrack>
+          <lockerTrack>
+            <track id="32298015">
+              <title>Love Machine</title>
+              <version />
+              <artist id="167">
+                <name>Girls Aloud</name>
+                <appearsAs>Girls Aloud</appearsAs>
+                <url>http://www.7digital.com/artist/girls-aloud/?partner=5932</url>
+              </artist>
+              <trackNumber>45</trackNumber>
+              <duration>193</duration>
+              <isrc>GBCAD1300343</isrc>
+              <url>http://www.7digital.com/artist/various-artists/release/bbc-radio-1s-live-lounge-2013-1/?partner=5932&amp;h=45</url>
+            </track>
+            <remainingDownloads>5</remainingDownloads>
+            <purchaseId>0</purchaseId>
+            <purchaseDate>2013-11-06T12:25:59Z</purchaseDate>
+            <completeAlbumPurchase>false</completeAlbumPurchase>
+            <downloadUrls>
+              <downloadUrl>
+                <url>http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&amp;oauth_nonce=rqqbn10n5onwlz1l&amp;oauth_signature=pCK9A%2F6TU3bp0ljysg3FfYKkW5g%3D&amp;oauth_signature_method=HMAC-SHA1&amp;oauth_timestamp=1409567388&amp;oauth_version=1.0a&amp;formatid=17&amp;partnerid=712&amp;onbehalfofpartnerid=712&amp;presigned=1&amp;releaseid=3028642&amp;shopid=34&amp;trackid=32298015&amp;userid=121404036</url>
+                <format id="17">
+                  <fileFormat>MP3</fileFormat>
+                  <bitRate>320</bitRate>
+                  <drmFree>true</drmFree>
+                </format>
+              </downloadUrl>
+            </downloadUrls>
+          </lockerTrack>
+          <lockerTrack>
+            <track id="32298016">
+              <title>My Love</title>
+              <version />
+              <artist id="782065">
+                <name>Katy B</name>
+                <appearsAs>Katy B</appearsAs>
+                <url>http://www.7digital.com/artist/katy-b/?partner=5932</url>
+              </artist>
+              <trackNumber>46</trackNumber>
+              <duration>214</duration>
+              <isrc>GBCAD1300414</isrc>
+              <url>http://www.7digital.com/artist/various-artists/release/bbc-radio-1s-live-lounge-2013-1/?partner=5932&amp;h=46</url>
+            </track>
+            <remainingDownloads>5</remainingDownloads>
+            <purchaseId>0</purchaseId>
+            <purchaseDate>2013-11-06T12:25:59Z</purchaseDate>
+            <completeAlbumPurchase>false</completeAlbumPurchase>
+            <downloadUrls>
+              <downloadUrl>
+                <url>http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&amp;oauth_nonce=dfqgnknznz9jxrhi&amp;oauth_signature=e2P5P2DUdnXC%2F2kdiHPCw%2BCaEfE%3D&amp;oauth_signature_method=HMAC-SHA1&amp;oauth_timestamp=1409567388&amp;oauth_version=1.0a&amp;formatid=17&amp;partnerid=712&amp;onbehalfofpartnerid=712&amp;presigned=1&amp;releaseid=3028642&amp;shopid=34&amp;trackid=32298016&amp;userid=121404036</url>
+                <format id="17">
+                  <fileFormat>MP3</fileFormat>
+                  <bitRate>320</bitRate>
+                  <drmFree>true</drmFree>
+                </format>
+              </downloadUrl>
+            </downloadUrls>
+          </lockerTrack>
+          <lockerTrack>
+            <track id="32298018">
+              <title>Someone Like You</title>
+              <version />
+              <artist id="960223">
+                <name>K Koke</name>
+                <appearsAs>K Koke</appearsAs>
+                <url>http://www.7digital.com/artist/k-koke-1/?partner=5932</url>
+              </artist>
+              <trackNumber>47</trackNumber>
+              <duration>260</duration>
+              <isrc>GBCAD1300344</isrc>
+              <url>http://www.7digital.com/artist/various-artists/release/bbc-radio-1s-live-lounge-2013-1/?partner=5932&amp;h=47</url>
+            </track>
+            <remainingDownloads>5</remainingDownloads>
+            <purchaseId>0</purchaseId>
+            <purchaseDate>2013-11-06T12:25:59Z</purchaseDate>
+            <completeAlbumPurchase>false</completeAlbumPurchase>
+            <downloadUrls>
+              <downloadUrl>
+                <url>http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&amp;oauth_nonce=dfwich9pcf6mkisf&amp;oauth_signature=otgKGkusZ99qTrq45bcaLk0MkWA%3D&amp;oauth_signature_method=HMAC-SHA1&amp;oauth_timestamp=1409567388&amp;oauth_version=1.0a&amp;formatid=17&amp;partnerid=712&amp;onbehalfofpartnerid=712&amp;presigned=1&amp;releaseid=3028642&amp;shopid=34&amp;trackid=32298018&amp;userid=121404036</url>
+                <format id="17">
+                  <fileFormat>MP3</fileFormat>
+                  <bitRate>320</bitRate>
+                  <drmFree>true</drmFree>
+                </format>
+              </downloadUrl>
+            </downloadUrls>
+          </lockerTrack>
+          <lockerTrack>
+            <track id="32298020">
+              <title>This Is How We Do It</title>
+              <version />
+              <artist id="969369">
+                <name>AlunaGeorge</name>
+                <appearsAs>AlunaGeorge</appearsAs>
+                <url>http://www.7digital.com/artist/alunageorge/?partner=5932</url>
+              </artist>
+              <trackNumber>48</trackNumber>
+              <duration>175</duration>
+              <isrc>GBCAD1300336</isrc>
+              <url>http://www.7digital.com/artist/various-artists/release/bbc-radio-1s-live-lounge-2013-1/?partner=5932&amp;h=48</url>
+            </track>
+            <remainingDownloads>5</remainingDownloads>
+            <purchaseId>0</purchaseId>
+            <purchaseDate>2013-11-06T12:25:59Z</purchaseDate>
+            <completeAlbumPurchase>false</completeAlbumPurchase>
+            <downloadUrls>
+              <downloadUrl>
+                <url>http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&amp;oauth_nonce=eqg4lqugc1xy21zn&amp;oauth_signature=w6VtMBQqNYEaHY%2FWOkgvGmBIWhg%3D&amp;oauth_signature_method=HMAC-SHA1&amp;oauth_timestamp=1409567388&amp;oauth_version=1.0a&amp;formatid=17&amp;partnerid=712&amp;onbehalfofpartnerid=712&amp;presigned=1&amp;releaseid=3028642&amp;shopid=34&amp;trackid=32298020&amp;userid=121404036</url>
+                <format id="17">
+                  <fileFormat>MP3</fileFormat>
+                  <bitRate>320</bitRate>
+                  <drmFree>true</drmFree>
+                </format>
+              </downloadUrl>
+            </downloadUrls>
+          </lockerTrack>
+          <lockerTrack>
+            <track id="32298021">
+              <title>My Love Is Your Love</title>
+              <version />
+              <artist id="2022862">
+                <name>George The Poet</name>
+                <appearsAs>George The Poet</appearsAs>
+                <url>http://www.7digital.com/artist/george-the-poet/?partner=5932</url>
+              </artist>
+              <trackNumber>49</trackNumber>
+              <duration>190</duration>
+              <isrc>GBCAD1300341</isrc>
+              <url>http://www.7digital.com/artist/various-artists/release/bbc-radio-1s-live-lounge-2013-1/?partner=5932&amp;h=49</url>
+            </track>
+            <remainingDownloads>5</remainingDownloads>
+            <purchaseId>0</purchaseId>
+            <purchaseDate>2013-11-06T12:25:59Z</purchaseDate>
+            <completeAlbumPurchase>false</completeAlbumPurchase>
+            <downloadUrls>
+              <downloadUrl>
+                <url>http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&amp;oauth_nonce=hetgdri6gbeipbof&amp;oauth_signature=2sGxhYmq%2Fqa70jigm9%2BAVZJUtLo%3D&amp;oauth_signature_method=HMAC-SHA1&amp;oauth_timestamp=1409567388&amp;oauth_version=1.0a&amp;formatid=17&amp;partnerid=712&amp;onbehalfofpartnerid=712&amp;presigned=1&amp;releaseid=3028642&amp;shopid=34&amp;trackid=32298021&amp;userid=121404036</url>
+                <format id="17">
+                  <fileFormat>MP3</fileFormat>
+                  <bitRate>320</bitRate>
+                  <drmFree>true</drmFree>
+                </format>
+              </downloadUrl>
+            </downloadUrls>
+          </lockerTrack>
+          <lockerTrack>
+            <track id="32298023">
+              <title>Skyfall</title>
+              <version />
+              <artist id="170484">
+                <name>Dr Meaker</name>
+                <appearsAs>Dr Meaker</appearsAs>
+                <url>http://www.7digital.com/artist/dr-meaker/?partner=5932</url>
+              </artist>
+              <trackNumber>50</trackNumber>
+              <duration>226</duration>
+              <isrc>GBCAD1300339</isrc>
+              <url>http://www.7digital.com/artist/various-artists/release/bbc-radio-1s-live-lounge-2013-1/?partner=5932&amp;h=50</url>
+            </track>
+            <remainingDownloads>5</remainingDownloads>
+            <purchaseId>0</purchaseId>
+            <purchaseDate>2013-11-06T12:25:59Z</purchaseDate>
+            <completeAlbumPurchase>false</completeAlbumPurchase>
+            <downloadUrls>
+              <downloadUrl>
+                <url>http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&amp;oauth_nonce=g3ehkn8wuqgltjyl&amp;oauth_signature=gFZ5Il953q08tzct6c7Z7Nh9VrU%3D&amp;oauth_signature_method=HMAC-SHA1&amp;oauth_timestamp=1409567388&amp;oauth_version=1.0a&amp;formatid=17&amp;partnerid=712&amp;onbehalfofpartnerid=712&amp;presigned=1&amp;releaseid=3028642&amp;shopid=34&amp;trackid=32298023&amp;userid=121404036</url>
+                <format id="17">
+                  <fileFormat>MP3</fileFormat>
+                  <bitRate>320</bitRate>
+                  <drmFree>true</drmFree>
+                </format>
+              </downloadUrl>
+            </downloadUrls>
+          </lockerTrack>
+          <lockerTrack>
+            <track id="32298024">
+              <title>All My Life</title>
+              <version />
+              <artist id="15346">
+                <name>Frank Turner</name>
+                <appearsAs>Frank Turner</appearsAs>
+                <url>http://www.7digital.com/artist/frank-turner/?partner=5932</url>
+              </artist>
+              <trackNumber>51</trackNumber>
+              <duration>209</duration>
+              <isrc>GBCAD1300340</isrc>
+              <url>http://www.7digital.com/artist/various-artists/release/bbc-radio-1s-live-lounge-2013-1/?partner=5932&amp;h=51</url>
+            </track>
+            <remainingDownloads>5</remainingDownloads>
+            <purchaseId>0</purchaseId>
+            <purchaseDate>2013-11-06T12:25:59Z</purchaseDate>
+            <completeAlbumPurchase>false</completeAlbumPurchase>
+            <downloadUrls>
+              <downloadUrl>
+                <url>http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&amp;oauth_nonce=pregymcxilwkmm1b&amp;oauth_signature=kvy2JW5i17s5sNLX9tPqxbwfWW4%3D&amp;oauth_signature_method=HMAC-SHA1&amp;oauth_timestamp=1409567388&amp;oauth_version=1.0a&amp;formatid=17&amp;partnerid=712&amp;onbehalfofpartnerid=712&amp;presigned=1&amp;releaseid=3028642&amp;shopid=34&amp;trackid=32298024&amp;userid=121404036</url>
+                <format id="17">
+                  <fileFormat>MP3</fileFormat>
+                  <bitRate>320</bitRate>
+                  <drmFree>true</drmFree>
+                </format>
+              </downloadUrl>
+            </downloadUrls>
+          </lockerTrack>
+          <lockerTrack>
+            <track id="32298026">
+              <title>Since You've Been Gone</title>
+              <version />
+              <artist id="271847">
+                <name>Lower Than Atlantis</name>
+                <appearsAs>Lower Than Atlantis</appearsAs>
+                <url>http://www.7digital.com/artist/lower-than-atlantis/?partner=5932</url>
+              </artist>
+              <trackNumber>52</trackNumber>
+              <duration>147</duration>
+              <isrc>GBCAD1300387</isrc>
+              <url>http://www.7digital.com/artist/various-artists/release/bbc-radio-1s-live-lounge-2013-1/?partner=5932&amp;h=52</url>
+            </track>
+            <remainingDownloads>5</remainingDownloads>
+            <purchaseId>0</purchaseId>
+            <purchaseDate>2013-11-06T12:25:59Z</purchaseDate>
+            <completeAlbumPurchase>false</completeAlbumPurchase>
+            <downloadUrls>
+              <downloadUrl>
+                <url>http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&amp;oauth_nonce=mss9vsc5h7vxl7l8&amp;oauth_signature=66QjXlax%2BHm7KKCZhoOCmkyrU5c%3D&amp;oauth_signature_method=HMAC-SHA1&amp;oauth_timestamp=1409567388&amp;oauth_version=1.0a&amp;formatid=17&amp;partnerid=712&amp;onbehalfofpartnerid=712&amp;presigned=1&amp;releaseid=3028642&amp;shopid=34&amp;trackid=32298026&amp;userid=121404036</url>
+                <format id="17">
+                  <fileFormat>MP3</fileFormat>
+                  <bitRate>320</bitRate>
+                  <drmFree>true</drmFree>
+                </format>
+              </downloadUrl>
+            </downloadUrls>
+          </lockerTrack>
+          <lockerTrack>
+            <track id="32298027">
+              <title>Whole Lotta Rosie</title>
+              <version />
+              <artist id="16617">
+                <name>Bullet For My Valentine</name>
+                <appearsAs>Bullet For My Valentine</appearsAs>
+                <url>http://www.7digital.com/artist/bullet-for-my-valentine/?partner=5932</url>
+              </artist>
+              <trackNumber>53</trackNumber>
+              <duration>246</duration>
+              <isrc>GBCAD1300338</isrc>
+              <url>http://www.7digital.com/artist/various-artists/release/bbc-radio-1s-live-lounge-2013-1/?partner=5932&amp;h=53</url>
+            </track>
+            <remainingDownloads>5</remainingDownloads>
+            <purchaseId>0</purchaseId>
+            <purchaseDate>2013-11-06T12:25:59Z</purchaseDate>
+            <completeAlbumPurchase>false</completeAlbumPurchase>
+            <downloadUrls>
+              <downloadUrl>
+                <url>http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&amp;oauth_nonce=n3387ir51q002wki&amp;oauth_signature=6v9AhpKlSq2Xzkn%2FY7AN0PmOIV8%3D&amp;oauth_signature_method=HMAC-SHA1&amp;oauth_timestamp=1409567388&amp;oauth_version=1.0a&amp;formatid=17&amp;partnerid=712&amp;onbehalfofpartnerid=712&amp;presigned=1&amp;releaseid=3028642&amp;shopid=34&amp;trackid=32298027&amp;userid=121404036</url>
+                <format id="17">
+                  <fileFormat>MP3</fileFormat>
+                  <bitRate>320</bitRate>
+                  <drmFree>true</drmFree>
+                </format>
+              </downloadUrl>
+            </downloadUrls>
+          </lockerTrack>
+        </lockerTracks>
+        <available>false</available>
+      </lockerRelease>
+    </lockerReleases>
+  </locker>
+</response>

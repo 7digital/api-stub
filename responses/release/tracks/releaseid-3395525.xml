@@ -1,0 +1,418 @@
+<?xml version="1.0" encoding="utf-8"?>
+<response xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" status="ok" version="1.2" xsi:noNamespaceSchemaLocation="http://api.7digital.com/1.2/static/7digitalAPI.xsd">
+  <tracks>
+    <page>1</page>
+    <pageSize>10</pageSize>
+    <totalItems>10</totalItems>
+    <track id="35796180">
+      <title>Infinity</title>
+      <version/>
+      <artist id="14697">
+        <name>Yann Tiersen</name>
+        <appearsAs>Yann Tiersen</appearsAs>
+        <url>http://www.7digital.com/artist/yann-tiersen/?partner=3923</url>
+      </artist>
+      <trackNumber>1</trackNumber>
+      <duration>178</duration>
+      <explicitContent>false</explicitContent>
+      <isrc>FRPAH1400100</isrc>
+      <type>audio</type>
+      <release id="3395525">
+        <title>Infinity</title>
+        <version/>
+        <type>Album</type>
+        <barcode>5051083079433</barcode>
+        <artist id="14697">
+          <name>Yann Tiersen</name>
+          <appearsAs>Yann Tiersen</appearsAs>
+          <url>http://www.7digital.com/artist/yann-tiersen/?partner=3923</url>
+        </artist>
+        <url>http://www.7digital.com/artist/yann-tiersen/release/infinity/?partner=3923</url>
+        <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/033/955/0003395525_50.jpg</image>
+        <releaseDate>2014-05-19T00:00:00Z</releaseDate>
+      </release>
+      <url>http://www.7digital.com/artist/yann-tiersen/release/infinity/?partner=3923&amp;h=01</url>
+      <price>
+        <currency code="GBP">£</currency>
+        <value>0.99</value>
+        <formattedPrice>£0.99</formattedPrice>
+        <rrp>0.99</rrp>
+        <formattedRrp>£0.99</formattedRrp>
+        <onSale>false</onSale>
+      </price>
+      <streamingReleaseDate>2014-05-19T00:00:00Z</streamingReleaseDate>
+      <discNumber>1</discNumber>
+      <number>1</number>
+      <previewDate>2014-05-19T00:00:00Z</previewDate>
+    </track>
+    <track id="35796183">
+      <title>Slippery Stones</title>
+      <version/>
+      <artist id="14697">
+        <name>Yann Tiersen</name>
+        <appearsAs>Yann Tiersen</appearsAs>
+        <url>http://www.7digital.com/artist/yann-tiersen/?partner=3923</url>
+      </artist>
+      <trackNumber>2</trackNumber>
+      <duration>258</duration>
+      <explicitContent>false</explicitContent>
+      <isrc>FRPAH1400010</isrc>
+      <type>audio</type>
+      <release id="3395525">
+        <title>Infinity</title>
+        <version/>
+        <type>Album</type>
+        <barcode>5051083079433</barcode>
+        <artist id="14697">
+          <name>Yann Tiersen</name>
+          <appearsAs>Yann Tiersen</appearsAs>
+          <url>http://www.7digital.com/artist/yann-tiersen/?partner=3923</url>
+        </artist>
+        <url>http://www.7digital.com/artist/yann-tiersen/release/infinity/?partner=3923</url>
+        <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/033/955/0003395525_50.jpg</image>
+        <releaseDate>2014-05-19T00:00:00Z</releaseDate>
+      </release>
+      <url>http://www.7digital.com/artist/yann-tiersen/release/infinity/?partner=3923&amp;h=02</url>
+      <price>
+        <currency code="GBP">£</currency>
+        <value>0.99</value>
+        <formattedPrice>£0.99</formattedPrice>
+        <rrp>0.99</rrp>
+        <formattedRrp>£0.99</formattedRrp>
+        <onSale>false</onSale>
+      </price>
+      <streamingReleaseDate>2014-05-19T00:00:00Z</streamingReleaseDate>
+      <discNumber>1</discNumber>
+      <number>2</number>
+      <previewDate>2014-05-19T00:00:00Z</previewDate>
+    </track>
+    <track id="35796185">
+      <title>A Midsummer Evening</title>
+      <version/>
+      <artist id="14697">
+        <name>Yann Tiersen</name>
+        <appearsAs>Yann Tiersen</appearsAs>
+        <url>http://www.7digital.com/artist/yann-tiersen/?partner=3923</url>
+      </artist>
+      <trackNumber>3</trackNumber>
+      <duration>253</duration>
+      <explicitContent>false</explicitContent>
+      <isrc>FRPAH1400020</isrc>
+      <type>audio</type>
+      <release id="3395525">
+        <title>Infinity</title>
+        <version/>
+        <type>Album</type>
+        <barcode>5051083079433</barcode>
+        <artist id="14697">
+          <name>Yann Tiersen</name>
+          <appearsAs>Yann Tiersen</appearsAs>
+          <url>http://www.7digital.com/artist/yann-tiersen/?partner=3923</url>
+        </artist>
+        <url>http://www.7digital.com/artist/yann-tiersen/release/infinity/?partner=3923</url>
+        <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/033/955/0003395525_50.jpg</image>
+        <releaseDate>2014-05-19T00:00:00Z</releaseDate>
+      </release>
+      <url>http://www.7digital.com/artist/yann-tiersen/release/infinity/?partner=3923&amp;h=03</url>
+      <price>
+        <currency code="GBP">£</currency>
+        <value>0.99</value>
+        <formattedPrice>£0.99</formattedPrice>
+        <rrp>0.99</rrp>
+        <formattedRrp>£0.99</formattedRrp>
+        <onSale>false</onSale>
+      </price>
+      <streamingReleaseDate>2014-05-19T00:00:00Z</streamingReleaseDate>
+      <discNumber>1</discNumber>
+      <number>3</number>
+      <previewDate>2014-05-19T00:00:00Z</previewDate>
+    </track>
+    <track id="35796186">
+      <title>Ar Maen Bihan</title>
+      <version/>
+      <artist id="14697">
+        <name>Yann Tiersen</name>
+        <appearsAs>Yann Tiersen</appearsAs>
+        <url>http://www.7digital.com/artist/yann-tiersen/?partner=3923</url>
+      </artist>
+      <trackNumber>4</trackNumber>
+      <duration>413</duration>
+      <explicitContent>false</explicitContent>
+      <isrc>FRPAH1400030</isrc>
+      <type>audio</type>
+      <release id="3395525">
+        <title>Infinity</title>
+        <version/>
+        <type>Album</type>
+        <barcode>5051083079433</barcode>
+        <artist id="14697">
+          <name>Yann Tiersen</name>
+          <appearsAs>Yann Tiersen</appearsAs>
+          <url>http://www.7digital.com/artist/yann-tiersen/?partner=3923</url>
+        </artist>
+        <url>http://www.7digital.com/artist/yann-tiersen/release/infinity/?partner=3923</url>
+        <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/033/955/0003395525_50.jpg</image>
+        <releaseDate>2014-05-19T00:00:00Z</releaseDate>
+      </release>
+      <url>http://www.7digital.com/artist/yann-tiersen/release/infinity/?partner=3923&amp;h=04</url>
+      <price>
+        <currency code="GBP">£</currency>
+        <value>0.99</value>
+        <formattedPrice>£0.99</formattedPrice>
+        <rrp>0.99</rrp>
+        <formattedRrp>£0.99</formattedRrp>
+        <onSale>false</onSale>
+      </price>
+      <streamingReleaseDate>2014-05-19T00:00:00Z</streamingReleaseDate>
+      <discNumber>1</discNumber>
+      <number>4</number>
+      <previewDate>2014-05-19T00:00:00Z</previewDate>
+    </track>
+    <track id="35796188">
+      <title>Lights</title>
+      <version/>
+      <artist id="14697">
+        <name>Yann Tiersen</name>
+        <appearsAs>Yann Tiersen</appearsAs>
+        <url>http://www.7digital.com/artist/yann-tiersen/?partner=3923</url>
+      </artist>
+      <trackNumber>5</trackNumber>
+      <duration>221</duration>
+      <explicitContent>false</explicitContent>
+      <isrc>FRPAH1400040</isrc>
+      <type>audio</type>
+      <release id="3395525">
+        <title>Infinity</title>
+        <version/>
+        <type>Album</type>
+        <barcode>5051083079433</barcode>
+        <artist id="14697">
+          <name>Yann Tiersen</name>
+          <appearsAs>Yann Tiersen</appearsAs>
+          <url>http://www.7digital.com/artist/yann-tiersen/?partner=3923</url>
+        </artist>
+        <url>http://www.7digital.com/artist/yann-tiersen/release/infinity/?partner=3923</url>
+        <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/033/955/0003395525_50.jpg</image>
+        <releaseDate>2014-05-19T00:00:00Z</releaseDate>
+      </release>
+      <url>http://www.7digital.com/artist/yann-tiersen/release/infinity/?partner=3923&amp;h=05</url>
+      <price>
+        <currency code="GBP">£</currency>
+        <value>0.99</value>
+        <formattedPrice>£0.99</formattedPrice>
+        <rrp>0.99</rrp>
+        <formattedRrp>£0.99</formattedRrp>
+        <onSale>false</onSale>
+      </price>
+      <streamingReleaseDate>2014-05-19T00:00:00Z</streamingReleaseDate>
+      <discNumber>1</discNumber>
+      <number>5</number>
+      <previewDate>2014-05-19T00:00:00Z</previewDate>
+    </track>
+    <track id="35796189">
+      <title>Grønjørd</title>
+      <version/>
+      <artist id="14697">
+        <name>Yann Tiersen</name>
+        <appearsAs>Yann Tiersen</appearsAs>
+        <url>http://www.7digital.com/artist/yann-tiersen/?partner=3923</url>
+      </artist>
+      <trackNumber>6</trackNumber>
+      <duration>324</duration>
+      <explicitContent>false</explicitContent>
+      <isrc>FRPAH1400050</isrc>
+      <type>audio</type>
+      <release id="3395525">
+        <title>Infinity</title>
+        <version/>
+        <type>Album</type>
+        <barcode>5051083079433</barcode>
+        <artist id="14697">
+          <name>Yann Tiersen</name>
+          <appearsAs>Yann Tiersen</appearsAs>
+          <url>http://www.7digital.com/artist/yann-tiersen/?partner=3923</url>
+        </artist>
+        <url>http://www.7digital.com/artist/yann-tiersen/release/infinity/?partner=3923</url>
+        <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/033/955/0003395525_50.jpg</image>
+        <releaseDate>2014-05-19T00:00:00Z</releaseDate>
+      </release>
+      <url>http://www.7digital.com/artist/yann-tiersen/release/infinity/?partner=3923&amp;h=06</url>
+      <price>
+        <currency code="GBP">£</currency>
+        <value>0.99</value>
+        <formattedPrice>£0.99</formattedPrice>
+        <rrp>0.99</rrp>
+        <formattedRrp>£0.99</formattedRrp>
+        <onSale>false</onSale>
+      </price>
+      <streamingReleaseDate>2014-05-19T00:00:00Z</streamingReleaseDate>
+      <discNumber>1</discNumber>
+      <number>6</number>
+      <previewDate>2014-05-19T00:00:00Z</previewDate>
+    </track>
+    <track id="35796190">
+      <title>Steinn</title>
+      <version/>
+      <artist id="14697">
+        <name>Yann Tiersen</name>
+        <appearsAs>Yann Tiersen</appearsAs>
+        <url>http://www.7digital.com/artist/yann-tiersen/?partner=3923</url>
+      </artist>
+      <trackNumber>7</trackNumber>
+      <duration>254</duration>
+      <explicitContent>false</explicitContent>
+      <isrc>FRPAH1400060</isrc>
+      <type>audio</type>
+      <release id="3395525">
+        <title>Infinity</title>
+        <version/>
+        <type>Album</type>
+        <barcode>5051083079433</barcode>
+        <artist id="14697">
+          <name>Yann Tiersen</name>
+          <appearsAs>Yann Tiersen</appearsAs>
+          <url>http://www.7digital.com/artist/yann-tiersen/?partner=3923</url>
+        </artist>
+        <url>http://www.7digital.com/artist/yann-tiersen/release/infinity/?partner=3923</url>
+        <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/033/955/0003395525_50.jpg</image>
+        <releaseDate>2014-05-19T00:00:00Z</releaseDate>
+      </release>
+      <url>http://www.7digital.com/artist/yann-tiersen/release/infinity/?partner=3923&amp;h=07</url>
+      <price>
+        <currency code="GBP">£</currency>
+        <value>0.99</value>
+        <formattedPrice>£0.99</formattedPrice>
+        <rrp>0.99</rrp>
+        <formattedRrp>£0.99</formattedRrp>
+        <onSale>false</onSale>
+      </price>
+      <streamingReleaseDate>2014-05-19T00:00:00Z</streamingReleaseDate>
+      <discNumber>1</discNumber>
+      <number>7</number>
+      <previewDate>2014-05-19T00:00:00Z</previewDate>
+    </track>
+    <track id="35796192">
+      <title>In Our Minds</title>
+      <version/>
+      <artist id="14697">
+        <name>Yann Tiersen</name>
+        <appearsAs>Yann Tiersen</appearsAs>
+        <url>http://www.7digital.com/artist/yann-tiersen/?partner=3923</url>
+      </artist>
+      <trackNumber>8</trackNumber>
+      <duration>312</duration>
+      <explicitContent>false</explicitContent>
+      <isrc>FRPAH1400070</isrc>
+      <type>audio</type>
+      <release id="3395525">
+        <title>Infinity</title>
+        <version/>
+        <type>Album</type>
+        <barcode>5051083079433</barcode>
+        <artist id="14697">
+          <name>Yann Tiersen</name>
+          <appearsAs>Yann Tiersen</appearsAs>
+          <url>http://www.7digital.com/artist/yann-tiersen/?partner=3923</url>
+        </artist>
+        <url>http://www.7digital.com/artist/yann-tiersen/release/infinity/?partner=3923</url>
+        <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/033/955/0003395525_50.jpg</image>
+        <releaseDate>2014-05-19T00:00:00Z</releaseDate>
+      </release>
+      <url>http://www.7digital.com/artist/yann-tiersen/release/infinity/?partner=3923&amp;h=08</url>
+      <price>
+        <currency code="GBP">£</currency>
+        <value>0.99</value>
+        <formattedPrice>£0.99</formattedPrice>
+        <rrp>0.99</rrp>
+        <formattedRrp>£0.99</formattedRrp>
+        <onSale>false</onSale>
+      </price>
+      <streamingReleaseDate>2014-05-19T00:00:00Z</streamingReleaseDate>
+      <discNumber>1</discNumber>
+      <number>8</number>
+      <previewDate>2014-05-19T00:00:00Z</previewDate>
+    </track>
+    <track id="35796193">
+      <title>The Crossing</title>
+      <version/>
+      <artist id="14697">
+        <name>Yann Tiersen</name>
+        <appearsAs>Yann Tiersen</appearsAs>
+        <url>http://www.7digital.com/artist/yann-tiersen/?partner=3923</url>
+      </artist>
+      <trackNumber>9</trackNumber>
+      <duration>343</duration>
+      <explicitContent>false</explicitContent>
+      <isrc>FRPAH1400080</isrc>
+      <type>audio</type>
+      <release id="3395525">
+        <title>Infinity</title>
+        <version/>
+        <type>Album</type>
+        <barcode>5051083079433</barcode>
+        <artist id="14697">
+          <name>Yann Tiersen</name>
+          <appearsAs>Yann Tiersen</appearsAs>
+          <url>http://www.7digital.com/artist/yann-tiersen/?partner=3923</url>
+        </artist>
+        <url>http://www.7digital.com/artist/yann-tiersen/release/infinity/?partner=3923</url>
+        <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/033/955/0003395525_50.jpg</image>
+        <releaseDate>2014-05-19T00:00:00Z</releaseDate>
+      </release>
+      <url>http://www.7digital.com/artist/yann-tiersen/release/infinity/?partner=3923&amp;h=09</url>
+      <price>
+        <currency code="GBP">£</currency>
+        <value>0.99</value>
+        <formattedPrice>£0.99</formattedPrice>
+        <rrp>0.99</rrp>
+        <formattedRrp>£0.99</formattedRrp>
+        <onSale>false</onSale>
+      </price>
+      <streamingReleaseDate>2014-05-19T00:00:00Z</streamingReleaseDate>
+      <discNumber>1</discNumber>
+      <number>9</number>
+      <previewDate>2014-05-19T00:00:00Z</previewDate>
+    </track>
+    <track id="35796195">
+      <title>Meteorites</title>
+      <version/>
+      <artist id="14697">
+        <name>Yann Tiersen</name>
+        <appearsAs>Yann Tiersen</appearsAs>
+        <url>http://www.7digital.com/artist/yann-tiersen/?partner=3923</url>
+      </artist>
+      <trackNumber>10</trackNumber>
+      <duration>409</duration>
+      <explicitContent>false</explicitContent>
+      <isrc>FRPAH1400090</isrc>
+      <type>audio</type>
+      <release id="3395525">
+        <title>Infinity</title>
+        <version/>
+        <type>Album</type>
+        <barcode>5051083079433</barcode>
+        <artist id="14697">
+          <name>Yann Tiersen</name>
+          <appearsAs>Yann Tiersen</appearsAs>
+          <url>http://www.7digital.com/artist/yann-tiersen/?partner=3923</url>
+        </artist>
+        <url>http://www.7digital.com/artist/yann-tiersen/release/infinity/?partner=3923</url>
+        <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/033/955/0003395525_50.jpg</image>
+        <releaseDate>2014-05-19T00:00:00Z</releaseDate>
+      </release>
+      <url>http://www.7digital.com/artist/yann-tiersen/release/infinity/?partner=3923&amp;h=10</url>
+      <price>
+        <currency code="GBP">£</currency>
+        <value>0.99</value>
+        <formattedPrice>£0.99</formattedPrice>
+        <rrp>0.99</rrp>
+        <formattedRrp>£0.99</formattedRrp>
+        <onSale>false</onSale>
+      </price>
+      <streamingReleaseDate>2014-05-19T00:00:00Z</streamingReleaseDate>
+      <discNumber>1</discNumber>
+      <number>10</number>
+      <previewDate>2014-05-19T00:00:00Z</previewDate>
+    </track>
+  </tracks>
+</response>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<response xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" status="ok" version="1.2" xsi:noNamespaceSchemaLocation="http://api.7digital.com/1.2/static/7digitalAPI.xsd">
+  <release id="3395525">
+    <title>Infinity</title>
+    <version/>
+    <type>Album</type>
+    <barcode>5051083079433</barcode>
+    <year>2014</year>
+    <explicitContent>false</explicitContent>
+    <artist id="14697">
+      <name>Yann Tiersen</name>
+      <appearsAs>Yann Tiersen</appearsAs>
+      <url>http://www.7digital.com/artist/yann-tiersen/?partner=3923</url>
+    </artist>
+    <url>http://www.7digital.com/artist/yann-tiersen/release/infinity/?partner=3923</url>
+    <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/033/955/0003395525_50.jpg</image>
+    <releaseDate>2014-05-19T00:00:00Z</releaseDate>
+    <addedDate>2014-03-24T11:46:32Z</addedDate>
+    <price>
+      <currency code="GBP">£</currency>
+      <value>7.99</value>
+      <formattedPrice>£7.99</formattedPrice>
+      <rrp>7.99</rrp>
+      <formattedRrp>£7.99</formattedRrp>
+      <onSale>false</onSale>
+    </price>
+    <formats availableDrmFree="true">
+      <format id="17">
+        <fileFormat>MP3</fileFormat>
+        <bitRate>320</bitRate>
+        <drmFree>true</drmFree>
+      </format>
+      <format id="33">
+        <fileFormat>M4A</fileFormat>
+        <bitRate>320</bitRate>
+        <drmFree>true</drmFree>
+      </format>
+    </formats>
+    <label id="160">
+      <name>Mute</name>
+    </label>
+    <licensor id="48">
+      <name>Vital</name>
+    </licensor>
+    <popularity>0</popularity>
+    <streamingReleaseDate>2014-05-19T00:00:00Z</streamingReleaseDate>
+    <duration>2965</duration>
+    <trackCount>10</trackCount>
+  </release>
+</response>
