@@ -8,7 +8,6 @@ var ConventionalHandler = require('./lib/conventions'),
 	conventions = new ConventionalHandler(),
 	fs = require('fs'),
 	path = require('path'),
-	rewriteRules = require('./lib/rewriteRules'),
 	express = require('express'),
 	server = express(),
 	httpServer = require('httpolyglot').createServer({
@@ -20,14 +19,6 @@ var ConventionalHandler = require('./lib/conventions'),
 server.use(bodyParser.json());
 server.use(bodyParser.urlencoded({ extended: true }));
 
-var argv = require("optimist")
-	.options("config", {
-		alias : "c",
-		description : "location of the config file"
-	})
-	.usage("Usage: $0")
-	.argv;
-
 server.use(function addDefaultHeaders(req, res, next) {
 	res.header('Accept-Ranges',	'bytes');
 	res.header('Content-Type', 'text/xml; charset=utf-8');
@@ -38,17 +29,6 @@ server.use(function addDefaultHeaders(req, res, next) {
 	return next();
 });
 
-if (argv.config) {
-	var configPath = path.join(__dirname, argv.config);
-	var config = fs.readFileSync(configPath, "utf-8");
-	config = JSON.parse(config);
-	console.log("using config file at path: " + configPath);
-	rewriteRules.addRules(config);
-}
-
-rewriteRules.setup(server);
-
-server.get('/rules',  rewriteRules.getRules);
 // Feature
 server.post('/feature/start', feature.logIt);
 // Artist
@@ -150,22 +130,6 @@ httpServer.listen(port, function serverListening() {
 	}
 });
 
-process.on('message', function (message) {
-	var config;
-
-	if (message.rules) {
-		rewriteRules.addRules(message);
-		rewriteRules.resetRoutes(server);
-		rewriteRules.sendRules({}, {
-			send: function (rules) {
-				config = rules;
-			}
-		});
-
-		process.send(config);
-	}
-});
-
 function die() {
 	httpServer.close(function () {
 		process.exit(0);
@@ -174,7 +138,3 @@ function die() {
 
 process.on('SIGTERM', die);
 process.on('SIGINT', die);
-
-if (config) {
-	rewriteRules.resetRoutes(server);
-}
