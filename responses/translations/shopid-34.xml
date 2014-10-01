@@ -27,6 +27,15 @@
     </translation>
 
     <translation>
+      <key>SignUpIntro</key>
+      <translatedText>Sign up for a 7digital account to discover and buy music, stream your purchased music, and enjoy heaps of exciting editorial content.</translatedText>
+    </translation>
+    <translation>
+      <key>SignUpSpam</key>
+      <translatedText>(No spam, we promise! It's where we'll send your receipts to.)</translatedText>
+    </translation>
+
+    <translation>
       <key>PromotedContent_Title_1</key>
       <translatedText>Featured promotion</translatedText>
     </translation>
@@ -6235,7 +6244,7 @@ You can get the free version at &lt;a href="http://get.adobe.com/flashplayer" ta
     </translation>
     <translation>
       <key>IAgreeToTC</key>
-      <translatedText>I agree to the 7digital &lt;a id="toc" target="_blank" href="https://www.7digital.com/termsandconditions"&gt;terms and conditions&lt;/a&gt;.</translatedText>
+      <translatedText>I agree to the 7digital &lt;a id="toc" href="https://www.7digital.com/termsandconditions"&gt;terms and conditions&lt;/a&gt;.</translatedText>
     </translation>
     <translation>
       <key>Account_SignUp</key>
