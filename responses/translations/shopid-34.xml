@@ -8666,7 +8666,7 @@ For iOS support (not fully supported - coming soon)</translatedText>
     </translation>
     <translation>
       <key>Account_SignedInAs</key>
-      <translatedText>You are signed in as {0}{1}{2}. If this is not you, please {3}click here to sign out{4}. </translatedText>
+	  <translatedText>You are signed in as {0}{1}{2}.</translatedText>
     </translation>
     <translation>
       <key>ChangePasswordSecurity</key>
