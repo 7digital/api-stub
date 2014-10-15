@@ -76,6 +76,8 @@ server.post('/basket/applyvoucher', conventions.voucherCode);
 
 //user
 server.get('/user/details', conventions.id);
+server.get('/users', conventions.emailAddress);
+server.put('/users/:id/update', conventions.usersUpdateIdSlug);
 
 //your music
 server.get('/user/locker', conventions.locker);

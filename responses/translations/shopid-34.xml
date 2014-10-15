@@ -14038,5 +14038,27 @@ Please be aware that the &lt;a href="http://player.7digital.com/"&gt;7digital Pl
 		<key>SearchResults</key>
 		<translatedText>Search Results</translatedText>
 	</translation>
+	<translation>
+		<key>PasswordReset_ReqConf1</key>
+		<translatedText>We've sent an email with details of how to reset your password to {0}</translatedText>
+	</translation>
+	<translation>
+		<key>PasswordReset_ReqConf2</key>
+		<translatedText>Please check your inbox (and junk folder). If you've not received an email and are unsure which email address you signed up with, please <a href="/help/contact">contact our Customer Services team</a>.</translatedText>
+	</translation>
+	<translation>
+		<key>PasswordReset_EmailBody</key>
+		<translatedText>You have requested a change of password for a 7digital download service. If you do not believe this to be the case then please disregard this email.
+
+Please click this link to change your password:
+
+{0}
+
+If you cannot select the link in the email then copy and paste the link into your web browser.</translatedText>
+	</translation>
+	<translation>
+		<key>PasswordReset_InvlToken1</key>
+		<translatedText>Sorry, there was a problem with accessing your password reset form.</translatedText>
+	</translation>
   </translations>
 </response>
