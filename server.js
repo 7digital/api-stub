@@ -100,6 +100,8 @@ server.post('/user/payment/cardregistration', cardRegistration.createRegistratio
 server.get('/user/payment/cardregistration/:id', cardRegistration.checkRegistrationId);
 server.get('/user/purchase/basket', conventions.id);
 
+server.post('/user/signup', conventions.serveDefault);
+
 server.post('/cardregistration/:id', cardRegistration.handleCardDetails);
 
 
