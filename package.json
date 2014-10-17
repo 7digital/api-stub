@@ -17,6 +17,9 @@
   "engines": {
     "node": ">=0.6.0"
   },
+  "scripts": {
+	  "postpublish": "echo REMEMBER TO GIT PUSH THE VERSION COMMIT"
+  },
   "dependencies": {
     "body-parser": "^1.6.3",
     "en-garde": "~0.0.1",
