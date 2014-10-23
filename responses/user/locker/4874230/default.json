@@ -1,0 +1,13 @@
+{
+    "status": "ok",
+    "version": "1.2",
+    "xsi:noNamespaceSchemaLocation": "http://api.7digital.systest/1.2/static/7digitalAPI.xsd",
+    "xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+    "locker": {
+        "lockerReleases": {
+            "page": "1",
+            "pageSize": "10",
+            "totalItems": "0"
+        }
+    }
+}

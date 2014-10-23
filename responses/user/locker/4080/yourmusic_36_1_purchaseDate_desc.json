@@ -1,0 +1,702 @@
+{
+    "xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+    "xmlns:xsd": "http://www.w3.org/2001/XMLSchema",
+    "status": "ok",
+    "version": "1.2",
+    "xsi:noNamespaceSchemaLocation": "http://api.7digital.com/1.2/static/7digitalAPI.xsd",
+    "locker": {
+        "lockerReleases": {
+            "page": "1",
+            "pageSize": "50",
+            "totalItems": "54",
+            "lockerRelease": [
+                {
+                    "release": {
+                        "id": "1627544",
+                        "title": "Elvis",
+                        "version": "",
+                        "type": "Album",
+                        "barcode": "7640138331084",
+                        "artist": {
+                            "id": "2200",
+                            "name": "Elvis Presley",
+                            "appearsAs": "Elvis Presley",
+                            "url": "http://www.7digital.com/artist/elvis-presley-(2)/?partner=5932"
+                        },
+                        "url": "http://www.7digital.com/artist/elvis-presley-(2)/release/elvis-8/?partner=5932",
+                        "image": "http://artwork-cdn.7static.com/static/img/sleeveart/00/016/275/0001627544_50.jpg",
+                        "releaseDate": "2012-02-24T00:00:00Z",
+                        "licensor": {
+                            "id": "68"
+                        }
+                    },
+                    "lockerTracks": {
+                        "lockerTrack": {
+                            "track": {
+                                "id": "17832764",
+                                "title": "King Creole",
+                                "version": "",
+                                "artist": {
+                                    "id": "2200",
+                                    "name": "Elvis Presley",
+                                    "appearsAs": "Elvis Presley",
+                                    "url": "http://www.7digital.com/artist/elvis-presley-(2)/?partner=5932"
+                                },
+                                "trackNumber": "40",
+                                "duration": "131",
+                                "isrc": "GBURZ1000969",
+                                "url": "http://www.7digital.com/artist/elvis-presley-(2)/release/elvis-8/?partner=5932&h=40"
+                            },
+                            "remainingDownloads": "5",
+                            "purchaseId": "814165778",
+                            "purchaseDate": "2014-07-30T10:55:41Z",
+                            "completeAlbumPurchase": "true",
+                            "downloadUrls": ""
+                        }
+                    },
+                    "available": "true"
+                },
+                {
+                    "release": {
+                        "id": "624250",
+                        "title": "Michael Jackson's This Is It",
+                        "version": "",
+                        "type": "Album",
+                        "barcode": "7640138331084",
+                        "artist": {
+                            "id": "2200",
+                            "name": "Elvis Presley",
+                            "appearsAs": "Elvis Presley",
+                            "url": "http://www.7digital.com/artist/michael-jackson/?partner=5932"
+                        },
+                        "url": "http://www.7digital.com/artist/michael-jackson/release/michael-jacksons-this-is-it/?partner=5932",
+                        "image": "http://artwork-cdn.7static.com/static/img/sleeveart/00/016/275/0001627544_50.jpg",
+                        "releaseDate": "2012-02-24T00:00:00Z",
+                        "licensor": {
+                            "id": "68"
+                        }
+                    },
+                    "lockerTracks": {
+                        "lockerTrack": {
+                            "track": {
+                                "id": "6930065",
+                                "title": "Thriller (Album Version)",
+                                "version": "Album Version",
+                                "artist": {
+                                    "id": "2200",
+                                    "name": "Michael Jackson",
+                                    "appearsAs": "Michael Jackson",
+                                    "url": "http://www.7digital.com/artist/michael-jackson/"
+                                },
+                                "trackNumber": "40",
+                                "duration": "131",
+                                "isrc": "GBURZ1000969",
+                                "url": "http://www.7digital.com/artist/michael-jackson/release/michael-jacksons-this-is-it/?partner=5932&h=40"
+                            },
+                            "remainingDownloads": "5",
+                            "purchaseId": "814165778",
+                            "purchaseDate": "2014-07-30T10:55:41Z",
+                            "completeAlbumPurchase": "true",
+                            "downloadUrls": ""
+                        }
+                    },
+                    "available": "true"
+                },
+                {
+                    "release": {
+                        "id": "3149362",
+                        "title": "Michael Jackson's This Is It",
+                        "version": "",
+                        "type": "Album",
+                        "barcode": "7640138331084",
+                        "artist": {
+                            "id": "2200",
+                            "name": "Elvis Presley",
+                            "appearsAs": "Elvis Presley",
+                            "url": "http://www.7digital.com/artist/michael-jackson/?partner=5932"
+                        },
+                        "url": "http://www.7digital.com/artist/michael-jackson/release/michael-jacksons-this-is-it/?partner=5932",
+                        "image": "http://artwork-cdn.7static.com/static/img/sleeveart/00/016/275/0001627544_50.jpg",
+                        "releaseDate": "2012-02-24T00:00:00Z",
+                        "licensor": {
+                            "id": "68"
+                        }
+                    },
+                    "lockerTracks": {
+                        "lockerTrack": {
+                            "track": {
+                                "id": "6930065",
+                                "title": "Thriller (Album Version)",
+                                "version": "Album Version",
+                                "artist": {
+                                    "id": "2200",
+                                    "name": "Michael Jackson",
+                                    "appearsAs": "Michael Jackson",
+                                    "url": "http://www.7digital.com/artist/michael-jackson/"
+                                },
+                                "trackNumber": "40",
+                                "duration": "131",
+                                "isrc": "GBURZ1000969",
+                                "url": "http://www.7digital.com/artist/michael-jackson/release/michael-jacksons-this-is-it/?partner=5932&h=40"
+                            },
+                            "remainingDownloads": "5",
+                            "purchaseId": "814165778",
+                            "purchaseDate": "2014-07-30T10:55:41Z",
+                            "completeAlbumPurchase": "true",
+                            "downloadUrls": ""
+                        }
+                    },
+                    "available": "true"
+                },
+                {
+                    "release": {
+                        "id": "3395525",
+                        "title": "Infinity",
+                        "version": "",
+                        "type": "Album",
+                        "barcode": "5051083079433",
+                        "artist": {
+                            "id": "14697",
+                            "name": "Yann Tiersen",
+                            "appearsAs": "Yann Tiersen",
+                            "url": "http://www.7digital.com/artist/yann-tiersen/?partner=5932"
+                        },
+                        "url": "http://www.7digital.com/artist/yann-tiersen/release/infinity/?partner=5932",
+                        "image": "http://artwork-cdn.7static.com/static/img/sleeveart/00/033/955/0003395525_50.jpg",
+                        "releaseDate": "2014-05-19T00:00:00Z",
+                        "licensor": {
+                            "id": "48"
+                        }
+                    },
+                    "lockerTracks": {
+                        "lockerTrack": [
+                            {
+                                "track": {
+                                    "id": "35796180",
+                                    "title": "Infinity",
+                                    "version": "",
+                                    "artist": {
+                                        "id": "14697",
+                                        "name": "Yann Tiersen",
+                                        "appearsAs": "Yann Tiersen",
+                                        "url": "http://www.7digital.com/artist/yann-tiersen/?partner=5932"
+                                    },
+                                    "trackNumber": "1",
+                                    "duration": "178",
+                                    "isrc": "FRPAH1400100",
+                                    "url": "http://www.7digital.com/artist/yann-tiersen/release/infinity/?partner=5932&h=01"
+                                },
+                                "remainingDownloads": "5",
+                                "purchaseId": "813028726",
+                                "purchaseDate": "2014-05-13T17:35:34Z",
+                                "completeAlbumPurchase": "true",
+                                "downloadUrls": {
+                                    "downloadUrl": [
+                                        {
+                                            "url": "http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&oauth_nonce=kny11ww5eccwkzas&oauth_signature=FEC5NRPN4Xi9xi%2F2A%2FclFao%2FTMw%3D&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1409566196&oauth_version=1.0a&formatid=17&partnerid=712&onbehalfofpartnerid=712&presigned=1&releaseid=3395525&shopid=34&trackid=35796180&userid=121404036",
+                                            "format": {
+                                                "id": "17",
+                                                "fileFormat": "MP3",
+                                                "bitRate": "320",
+                                                "drmFree": "true"
+                                            }
+                                        },
+                                        {
+                                            "url": "http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&oauth_nonce=jq0n7z5hgz3khiey&oauth_signature=7CyoA1gontDzctKchCDbc1ynqGw%3D&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1409566196&oauth_version=1.0a&formatid=33&partnerid=712&onbehalfofpartnerid=712&presigned=1&releaseid=3395525&shopid=34&trackid=35796180&userid=121404036",
+                                            "format": {
+                                                "id": "33",
+                                                "fileFormat": "M4A",
+                                                "bitRate": "320",
+                                                "drmFree": "true"
+                                            }
+                                        }
+                                    ]
+                                }
+                            },
+                            {
+                                "track": {
+                                    "id": "35796183",
+                                    "title": "Slippery Stones",
+                                    "version": "",
+                                    "artist": {
+                                        "id": "14697",
+                                        "name": "Yann Tiersen",
+                                        "appearsAs": "Yann Tiersen",
+                                        "url": "http://www.7digital.com/artist/yann-tiersen/?partner=5932"
+                                    },
+                                    "trackNumber": "2",
+                                    "duration": "258",
+                                    "isrc": "FRPAH1400010",
+                                    "url": "http://www.7digital.com/artist/yann-tiersen/release/infinity/?partner=5932&h=02"
+                                },
+                                "remainingDownloads": "5",
+                                "purchaseId": "813028726",
+                                "purchaseDate": "2014-05-13T17:35:34Z",
+                                "completeAlbumPurchase": "true",
+                                "downloadUrls": {
+                                    "downloadUrl": [
+                                        {
+                                            "url": "http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&oauth_nonce=skzf4biziu6k6gm5&oauth_signature=pAJIxKVlJZklIycz4Qy7lBYlUDc%3D&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1409566196&oauth_version=1.0a&formatid=17&partnerid=712&onbehalfofpartnerid=712&presigned=1&releaseid=3395525&shopid=34&trackid=35796183&userid=121404036",
+                                            "format": {
+                                                "id": "17",
+                                                "fileFormat": "MP3",
+                                                "bitRate": "320",
+                                                "drmFree": "true"
+                                            }
+                                        },
+                                        {
+                                            "url": "http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&oauth_nonce=2rqa2uevsrta5lx7&oauth_signature=7pZsL2H4JID4MRgGKa5nMzXR5P0%3D&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1409566196&oauth_version=1.0a&formatid=33&partnerid=712&onbehalfofpartnerid=712&presigned=1&releaseid=3395525&shopid=34&trackid=35796183&userid=121404036",
+                                            "format": {
+                                                "id": "33",
+                                                "fileFormat": "M4A",
+                                                "bitRate": "320",
+                                                "drmFree": "true"
+                                            }
+                                        }
+                                    ]
+                                }
+                            },
+                            {
+                                "track": {
+                                    "id": "35796185",
+                                    "title": "A Midsummer Evening",
+                                    "version": "",
+                                    "artist": {
+                                        "id": "14697",
+                                        "name": "Yann Tiersen",
+                                        "appearsAs": "Yann Tiersen",
+                                        "url": "http://www.7digital.com/artist/yann-tiersen/?partner=5932"
+                                    },
+                                    "trackNumber": "3",
+                                    "duration": "253",
+                                    "isrc": "FRPAH1400020",
+                                    "url": "http://www.7digital.com/artist/yann-tiersen/release/infinity/?partner=5932&h=03"
+                                },
+                                "remainingDownloads": "5",
+                                "purchaseId": "813028726",
+                                "purchaseDate": "2014-05-13T17:35:34Z",
+                                "completeAlbumPurchase": "true",
+                                "downloadUrls": {
+                                    "downloadUrl": [
+                                        {
+                                            "url": "http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&oauth_nonce=8nd006yihkem4ul0&oauth_signature=VsHulbNs%2FmYPjb5CVGRtsgmZrSU%3D&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1409566196&oauth_version=1.0a&formatid=17&partnerid=712&onbehalfofpartnerid=712&presigned=1&releaseid=3395525&shopid=34&trackid=35796185&userid=121404036",
+                                            "format": {
+                                                "id": "17",
+                                                "fileFormat": "MP3",
+                                                "bitRate": "320",
+                                                "drmFree": "true"
+                                            }
+                                        },
+                                        {
+                                            "url": "http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&oauth_nonce=m8s12e79fdwlrh68&oauth_signature=j%2FOb23FL%2FyWKjWkpfmGv1KrCxDI%3D&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1409566196&oauth_version=1.0a&formatid=33&partnerid=712&onbehalfofpartnerid=712&presigned=1&releaseid=3395525&shopid=34&trackid=35796185&userid=121404036",
+                                            "format": {
+                                                "id": "33",
+                                                "fileFormat": "M4A",
+                                                "bitRate": "320",
+                                                "drmFree": "true"
+                                            }
+                                        }
+                                    ]
+                                }
+                            },
+                            {
+                                "track": {
+                                    "id": "35796186",
+                                    "title": "Ar Maen Bihan",
+                                    "version": "",
+                                    "artist": {
+                                        "id": "14697",
+                                        "name": "Yann Tiersen",
+                                        "appearsAs": "Yann Tiersen",
+                                        "url": "http://www.7digital.com/artist/yann-tiersen/?partner=5932"
+                                    },
+                                    "trackNumber": "4",
+                                    "duration": "413",
+                                    "isrc": "FRPAH1400030",
+                                    "url": "http://www.7digital.com/artist/yann-tiersen/release/infinity/?partner=5932&h=04"
+                                },
+                                "remainingDownloads": "5",
+                                "purchaseId": "813028726",
+                                "purchaseDate": "2014-05-13T17:35:34Z",
+                                "completeAlbumPurchase": "true",
+                                "downloadUrls": {
+                                    "downloadUrl": [
+                                        {
+                                            "url": "http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&oauth_nonce=80nrcm574h3rp239&oauth_signature=cmGHwCqN7LmAp%2Fgs3kKP17ByH1k%3D&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1409566196&oauth_version=1.0a&formatid=17&partnerid=712&onbehalfofpartnerid=712&presigned=1&releaseid=3395525&shopid=34&trackid=35796186&userid=121404036",
+                                            "format": {
+                                                "id": "17",
+                                                "fileFormat": "MP3",
+                                                "bitRate": "320",
+                                                "drmFree": "true"
+                                            }
+                                        },
+                                        {
+                                            "url": "http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&oauth_nonce=guy738e4rf57im2a&oauth_signature=LvRgaoaS4gFfqqMn1rHlK%2BI757E%3D&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1409566196&oauth_version=1.0a&formatid=33&partnerid=712&onbehalfofpartnerid=712&presigned=1&releaseid=3395525&shopid=34&trackid=35796186&userid=121404036",
+                                            "format": {
+                                                "id": "33",
+                                                "fileFormat": "M4A",
+                                                "bitRate": "320",
+                                                "drmFree": "true"
+                                            }
+                                        }
+                                    ]
+                                }
+                            },
+                            {
+                                "track": {
+                                    "id": "35796188",
+                                    "title": "Lights",
+                                    "version": "",
+                                    "artist": {
+                                        "id": "14697",
+                                        "name": "Yann Tiersen",
+                                        "appearsAs": "Yann Tiersen",
+                                        "url": "http://www.7digital.com/artist/yann-tiersen/?partner=5932"
+                                    },
+                                    "trackNumber": "5",
+                                    "duration": "221",
+                                    "isrc": "FRPAH1400040",
+                                    "url": "http://www.7digital.com/artist/yann-tiersen/release/infinity/?partner=5932&h=05"
+                                },
+                                "remainingDownloads": "5",
+                                "purchaseId": "813028726",
+                                "purchaseDate": "2014-05-13T17:35:34Z",
+                                "completeAlbumPurchase": "true",
+                                "downloadUrls": {
+                                    "downloadUrl": [
+                                        {
+                                            "url": "http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&oauth_nonce=ohp5h580dw7tlotn&oauth_signature=Sg585DxxXUbaBHkCIlNJC51zzBQ%3D&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1409566196&oauth_version=1.0a&formatid=17&partnerid=712&onbehalfofpartnerid=712&presigned=1&releaseid=3395525&shopid=34&trackid=35796188&userid=121404036",
+                                            "format": {
+                                                "id": "17",
+                                                "fileFormat": "MP3",
+                                                "bitRate": "320",
+                                                "drmFree": "true"
+                                            }
+                                        },
+                                        {
+                                            "url": "http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&oauth_nonce=lyf8t9ea5t08s9yq&oauth_signature=IbH3I8kS23r6Yxr%2B1cQ2Mu2nyZg%3D&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1409566196&oauth_version=1.0a&formatid=33&partnerid=712&onbehalfofpartnerid=712&presigned=1&releaseid=3395525&shopid=34&trackid=35796188&userid=121404036",
+                                            "format": {
+                                                "id": "33",
+                                                "fileFormat": "M4A",
+                                                "bitRate": "320",
+                                                "drmFree": "true"
+                                            }
+                                        }
+                                    ]
+                                }
+                            },
+                            {
+                                "track": {
+                                    "id": "35796189",
+                                    "title": "Grønjørd",
+                                    "version": "",
+                                    "artist": {
+                                        "id": "14697",
+                                        "name": "Yann Tiersen",
+                                        "appearsAs": "Yann Tiersen",
+                                        "url": "http://www.7digital.com/artist/yann-tiersen/?partner=5932"
+                                    },
+                                    "trackNumber": "6",
+                                    "duration": "324",
+                                    "isrc": "FRPAH1400050",
+                                    "url": "http://www.7digital.com/artist/yann-tiersen/release/infinity/?partner=5932&h=06"
+                                },
+                                "remainingDownloads": "5",
+                                "purchaseId": "813028726",
+                                "purchaseDate": "2014-05-13T17:35:34Z",
+                                "completeAlbumPurchase": "true",
+                                "downloadUrls": {
+                                    "downloadUrl": [
+                                        {
+                                            "url": "http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&oauth_nonce=q3chm92lxy4gavrd&oauth_signature=OHRW6YvHaaDw7gSIL5gidx%2BDVhA%3D&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1409566196&oauth_version=1.0a&formatid=17&partnerid=712&onbehalfofpartnerid=712&presigned=1&releaseid=3395525&shopid=34&trackid=35796189&userid=121404036",
+                                            "format": {
+                                                "id": "17",
+                                                "fileFormat": "MP3",
+                                                "bitRate": "320",
+                                                "drmFree": "true"
+                                            }
+                                        },
+                                        {
+                                            "url": "http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&oauth_nonce=wquth5qqdp0x50re&oauth_signature=Pzy%2F7y8mqm8wFnE9l6mMmzMDUFM%3D&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1409566196&oauth_version=1.0a&formatid=33&partnerid=712&onbehalfofpartnerid=712&presigned=1&releaseid=3395525&shopid=34&trackid=35796189&userid=121404036",
+                                            "format": {
+                                                "id": "33",
+                                                "fileFormat": "M4A",
+                                                "bitRate": "320",
+                                                "drmFree": "true"
+                                            }
+                                        }
+                                    ]
+                                }
+                            },
+                            {
+                                "track": {
+                                    "id": "35796190",
+                                    "title": "Steinn",
+                                    "version": "",
+                                    "artist": {
+                                        "id": "14697",
+                                        "name": "Yann Tiersen",
+                                        "appearsAs": "Yann Tiersen",
+                                        "url": "http://www.7digital.com/artist/yann-tiersen/?partner=5932"
+                                    },
+                                    "trackNumber": "7",
+                                    "duration": "254",
+                                    "isrc": "FRPAH1400060",
+                                    "url": "http://www.7digital.com/artist/yann-tiersen/release/infinity/?partner=5932&h=07"
+                                },
+                                "remainingDownloads": "5",
+                                "purchaseId": "813028726",
+                                "purchaseDate": "2014-05-13T17:35:34Z",
+                                "completeAlbumPurchase": "true",
+                                "downloadUrls": {
+                                    "downloadUrl": [
+                                        {
+                                            "url": "http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&oauth_nonce=8qctllbn85k6f8aj&oauth_signature=OEOeVrq4pKQFVHQbBrnota0fvSc%3D&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1409566196&oauth_version=1.0a&formatid=17&partnerid=712&onbehalfofpartnerid=712&presigned=1&releaseid=3395525&shopid=34&trackid=35796190&userid=121404036",
+                                            "format": {
+                                                "id": "17",
+                                                "fileFormat": "MP3",
+                                                "bitRate": "320",
+                                                "drmFree": "true"
+                                            }
+                                        },
+                                        {
+                                            "url": "http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&oauth_nonce=b7lcoeiwlwe79dqx&oauth_signature=xkFXCp%2Fzeb112HGqotVuVQkqHzU%3D&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1409566196&oauth_version=1.0a&formatid=33&partnerid=712&onbehalfofpartnerid=712&presigned=1&releaseid=3395525&shopid=34&trackid=35796190&userid=121404036",
+                                            "format": {
+                                                "id": "33",
+                                                "fileFormat": "M4A",
+                                                "bitRate": "320",
+                                                "drmFree": "true"
+                                            }
+                                        }
+                                    ]
+                                }
+                            },
+                            {
+                                "track": {
+                                    "id": "35796192",
+                                    "title": "In Our Minds",
+                                    "version": "",
+                                    "artist": {
+                                        "id": "14697",
+                                        "name": "Yann Tiersen",
+                                        "appearsAs": "Yann Tiersen",
+                                        "url": "http://www.7digital.com/artist/yann-tiersen/?partner=5932"
+                                    },
+                                    "trackNumber": "8",
+                                    "duration": "312",
+                                    "isrc": "FRPAH1400070",
+                                    "url": "http://www.7digital.com/artist/yann-tiersen/release/infinity/?partner=5932&h=08"
+                                },
+                                "remainingDownloads": "5",
+                                "purchaseId": "813028726",
+                                "purchaseDate": "2014-05-13T17:35:34Z",
+                                "completeAlbumPurchase": "true",
+                                "downloadUrls": {
+                                    "downloadUrl": [
+                                        {
+                                            "url": "http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&oauth_nonce=gyjts92kogwnuvkf&oauth_signature=MRFuwTCkwu9HM%2FgrLdWtFAdGgr0%3D&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1409566196&oauth_version=1.0a&formatid=17&partnerid=712&onbehalfofpartnerid=712&presigned=1&releaseid=3395525&shopid=34&trackid=35796192&userid=121404036",
+                                            "format": {
+                                                "id": "17",
+                                                "fileFormat": "MP3",
+                                                "bitRate": "320",
+                                                "drmFree": "true"
+                                            }
+                                        },
+                                        {
+                                            "url": "http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&oauth_nonce=p1v9yo13hqizhep4&oauth_signature=FSUtKjDQv3a%2F8jbhgukO6Q1GAs4%3D&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1409566196&oauth_version=1.0a&formatid=33&partnerid=712&onbehalfofpartnerid=712&presigned=1&releaseid=3395525&shopid=34&trackid=35796192&userid=121404036",
+                                            "format": {
+                                                "id": "33",
+                                                "fileFormat": "M4A",
+                                                "bitRate": "320",
+                                                "drmFree": "true"
+                                            }
+                                        }
+                                    ]
+                                }
+                            },
+                            {
+                                "track": {
+                                    "id": "35796193",
+                                    "title": "The Crossing",
+                                    "version": "",
+                                    "artist": {
+                                        "id": "14697",
+                                        "name": "Yann Tiersen",
+                                        "appearsAs": "Yann Tiersen",
+                                        "url": "http://www.7digital.com/artist/yann-tiersen/?partner=5932"
+                                    },
+                                    "trackNumber": "9",
+                                    "duration": "343",
+                                    "isrc": "FRPAH1400080",
+                                    "url": "http://www.7digital.com/artist/yann-tiersen/release/infinity/?partner=5932&h=09"
+                                },
+                                "remainingDownloads": "5",
+                                "purchaseId": "813028726",
+                                "purchaseDate": "2014-05-13T17:35:34Z",
+                                "completeAlbumPurchase": "true",
+                                "downloadUrls": {
+                                    "downloadUrl": [
+                                        {
+                                            "url": "http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&oauth_nonce=nwyqyq1deaxhs6cz&oauth_signature=2mVA8BTtMqzPsQE8OUchOxVQW9s%3D&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1409566196&oauth_version=1.0a&formatid=17&partnerid=712&onbehalfofpartnerid=712&presigned=1&releaseid=3395525&shopid=34&trackid=35796193&userid=121404036",
+                                            "format": {
+                                                "id": "17",
+                                                "fileFormat": "MP3",
+                                                "bitRate": "320",
+                                                "drmFree": "true"
+                                            }
+                                        },
+                                        {
+                                            "url": "http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&oauth_nonce=l9rirr938qlc1cck&oauth_signature=xeg918iTtEpndkfKitQkvQjZsA8%3D&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1409566196&oauth_version=1.0a&formatid=33&partnerid=712&onbehalfofpartnerid=712&presigned=1&releaseid=3395525&shopid=34&trackid=35796193&userid=121404036",
+                                            "format": {
+                                                "id": "33",
+                                                "fileFormat": "M4A",
+                                                "bitRate": "320",
+                                                "drmFree": "true"
+                                            }
+                                        }
+                                    ]
+                                }
+                            },
+                            {
+                                "track": {
+                                    "id": "35796195",
+                                    "title": "Meteorites",
+                                    "version": "",
+                                    "artist": {
+                                        "id": "14697",
+                                        "name": "Yann Tiersen",
+                                        "appearsAs": "Yann Tiersen",
+                                        "url": "http://www.7digital.com/artist/yann-tiersen/?partner=5932"
+                                    },
+                                    "trackNumber": "10",
+                                    "duration": "409",
+                                    "isrc": "FRPAH1400090",
+                                    "url": "http://www.7digital.com/artist/yann-tiersen/release/infinity/?partner=5932&h=10"
+                                },
+                                "remainingDownloads": "5",
+                                "purchaseId": "813028726",
+                                "purchaseDate": "2014-05-13T17:35:34Z",
+                                "completeAlbumPurchase": "true",
+                                "downloadUrls": {
+                                    "downloadUrl": [
+                                        {
+                                            "url": "http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&oauth_nonce=240875r90s4x2skm&oauth_signature=TiXMZD%2Bb3CoN8%2BcbMo3DduTSiW4%3D&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1409566196&oauth_version=1.0a&formatid=17&partnerid=712&onbehalfofpartnerid=712&presigned=1&releaseid=3395525&shopid=34&trackid=35796195&userid=121404036",
+                                            "format": {
+                                                "id": "17",
+                                                "fileFormat": "MP3",
+                                                "bitRate": "320",
+                                                "drmFree": "true"
+                                            }
+                                        },
+                                        {
+                                            "url": "http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&oauth_nonce=nsnjwhl6x7tifync&oauth_signature=fV2dbrPRgSQmNEzHehWGEM%2BLJos%3D&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1409566196&oauth_version=1.0a&formatid=33&partnerid=712&onbehalfofpartnerid=712&presigned=1&releaseid=3395525&shopid=34&trackid=35796195&userid=121404036",
+                                            "format": {
+                                                "id": "33",
+                                                "fileFormat": "M4A",
+                                                "bitRate": "320",
+                                                "drmFree": "true"
+                                            }
+                                        }
+                                    ]
+                                }
+                            }
+                        ]
+                    },
+                    "available": "true"
+                },
+                {
+                    "release": {
+                        "id": "922460",
+                        "title": "Mozart something",
+                        "version": "",
+                        "type": "Album",
+                        "barcode": "7640138331084",
+                        "artist": {
+                            "id": "2200",
+                            "name": "Mozart",
+                            "appearsAs": "Mozart yo",
+                            "url": "http://www.7digital.com/artist/michael-jackson/?partner=5932"
+                        },
+                        "url": "http://www.7digital.com/artist/michael-jackson/release/michael-jacksons-this-is-it/?partner=5932",
+                        "image": "http://artwork-cdn.7static.com/static/img/sleeveart/00/016/275/0001627544_50.jpg",
+                        "releaseDate": "2012-02-24T00:00:00Z",
+                        "licensor": {
+                            "id": "68"
+                        }
+                    },
+                    "lockerTracks": {
+                        "lockerTrack": {
+                            "track": {
+                                "id": "10155263",
+                                "title": "Keepin it Mozart",
+                                "version": "Album Version",
+                                "artist": {
+                                    "id": "2200",
+                                    "name": "Mozart",
+                                    "appearsAs": "Mozart",
+                                    "url": "http://www.7digital.com/artist/michael-jackson/"
+                                },
+                                "trackNumber": "40",
+                                "duration": "131",
+                                "isrc": "GBURZ1000969",
+                                "url": "http://www.7digital.com/artist/michael-jackson/release/michael-jacksons-this-is-it/?partner=5932&h=40"
+                            },
+                            "remainingDownloads": "5",
+                            "purchaseId": "814165778",
+                            "purchaseDate": "2014-07-30T10:55:41Z",
+                            "completeAlbumPurchase": "true",
+                            "downloadUrls": ""
+                        }
+                    },
+                    "available": "true"
+                },
+                {
+                    "release": {
+                        "id": "45472",
+                        "title": "Discovery",
+                        "version": "",
+                        "type": "Album",
+                        "barcode": "7640138331084",
+                        "artist": {
+                            "id": "2200",
+                            "name": "Daft Punk",
+                            "appearsAs": "Daft Punk",
+                            "url": "http://www.7digital.com/artist/michael-jackson/?partner=5932"
+                        },
+                        "url": "http://www.7digital.com/artist/michael-jackson/release/michael-jacksons-this-is-it/?partner=5932",
+                        "image": "http://artwork-cdn.7static.com/static/img/sleeveart/00/016/275/0001627544_50.jpg",
+                        "releaseDate": "2012-02-24T00:00:00Z",
+                        "licensor": {
+                            "id": "68"
+                        }
+                    },
+                    "lockerTracks": {
+                        "lockerTrack": {
+                            "track": {
+                                "id": "485116",
+                                "title": "One More Time",
+                                "version": "",
+                                "artist": {
+                                    "id": "2200",
+                                    "name": "Daft Punk",
+                                    "appearsAs": "Daft Punk",
+                                    "url": "http://www.7digital.com/artist/michael-jackson/"
+                                },
+                                "trackNumber": "40",
+                                "duration": "131",
+                                "isrc": "GBURZ1000969",
+                                "url": "http://www.7digital.com/artist/michael-jackson/release/michael-jacksons-this-is-it/?partner=5932&h=40"
+                            },
+                            "remainingDownloads": "5",
+                            "purchaseId": "814165778",
+                            "purchaseDate": "2014-07-30T10:55:41Z",
+                            "completeAlbumPurchase": "true",
+                            "downloadUrls": ""
+                        }
+                    },
+                    "available": "true"
+                }
+            ]
+        }
+    }
+}
