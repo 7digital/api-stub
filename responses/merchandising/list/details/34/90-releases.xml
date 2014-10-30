@@ -1,0 +1,3984 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" status="ok" version="1.2" xsi:noNamespaceSchemaLocation="http://api.7digital.com/1.2/static/7digitalAPI.xsd">
+	<list id="3987">
+		<key>90-releases</key>
+		<listItems>
+			<listItem id="3918446">
+				<type>release</type>
+				<release id="3918446">
+					<title>1989</title>
+					<version />
+					<type>Album</type>
+					<barcode>00602547066886</barcode>
+					<year>2014</year>
+					<explicitContent>false</explicitContent>
+					<artist id="253545">
+						<name>Taylor Swift</name>
+						<appearsAs>Taylor Swift</appearsAs>
+						<url>http://www.7digital.com/artist/taylor-swift/?partner=0</url>
+					</artist>
+					<url>http://www.7digital.com/artist/taylor-swift/release/1989/?partner=0</url>
+					<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/039/184/0003918446_50.jpg</image>
+					<releaseDate>2014-10-27T00:00:00Z</releaseDate>
+					<addedDate>2014-10-27T10:17:02Z</addedDate>
+					<price>
+						<currency code="GBP" />
+						<value>6.99</value>
+						<formattedPrice>£6.99</formattedPrice>
+						<rrp>8.99</rrp>
+						<formattedRrp>£8.99</formattedRrp>
+						<onSale>true</onSale>
+					</price>
+					<formats availableDrmFree="true">
+						<format id="17">
+							<fileFormat>MP3</fileFormat>
+							<bitRate>320</bitRate>
+							<drmFree>true</drmFree>
+						</format>
+					</formats>
+					<label id="149943">
+						<name>Universal Music (Pty) Ltd.</name>
+					</label>
+					<licensor id="1">
+						<name>Universal</name>
+					</licensor>
+					<trackCount>13</trackCount>
+				</release>
+			</listItem>
+			<listItem id="3918447">
+				<type>release</type>
+				<release id="3918447">
+					<title>1989</title>
+					<version>Deluxe</version>
+					<type>Album</type>
+					<barcode>00602547066893</barcode>
+					<year>2014</year>
+					<explicitContent>false</explicitContent>
+					<artist id="253545">
+						<name>Taylor Swift</name>
+						<appearsAs>Taylor Swift</appearsAs>
+						<url>http://www.7digital.com/artist/taylor-swift/?partner=0</url>
+					</artist>
+					<url>http://www.7digital.com/artist/taylor-swift/release/1989-deluxe/?partner=0</url>
+					<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/039/184/0003918447_50.jpg</image>
+					<releaseDate>2014-10-27T00:00:00Z</releaseDate>
+					<addedDate>2014-10-27T10:17:39Z</addedDate>
+					<price>
+						<currency code="GBP" />
+						<value>10.99</value>
+						<formattedPrice>£10.99</formattedPrice>
+						<rrp>10.99</rrp>
+						<formattedRrp>£10.99</formattedRrp>
+						<onSale>false</onSale>
+					</price>
+					<formats availableDrmFree="true">
+						<format id="17">
+							<fileFormat>MP3</fileFormat>
+							<bitRate>320</bitRate>
+							<drmFree>true</drmFree>
+						</format>
+					</formats>
+					<label id="149943">
+						<name>Universal Music (Pty) Ltd.</name>
+					</label>
+					<licensor id="1">
+						<name>Universal</name>
+					</licensor>
+					<trackCount>19</trackCount>
+				</release>
+			</listItem>
+			<listItem id="3908022">
+				<type>release</type>
+				<release id="3908022">
+					<title>Run the Jewels 2</title>
+					<version />
+					<type>Album</type>
+					<barcode>886444890540</barcode>
+					<year>2014</year>
+					<explicitContent>false</explicitContent>
+					<artist id="2057842">
+						<name>Run The Jewels</name>
+						<appearsAs>Run The Jewels</appearsAs>
+						<url>http://www.7digital.com/artist/run-the-jewels/?partner=0</url>
+					</artist>
+					<url>http://www.7digital.com/artist/run-the-jewels/release/run-the-jewels-2/?partner=0</url>
+					<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/039/080/0003908022_50.jpg</image>
+					<releaseDate>2014-10-27T00:00:00Z</releaseDate>
+					<addedDate>2014-10-24T05:12:23Z</addedDate>
+					<price>
+						<currency code="GBP" />
+						<value>8.49</value>
+						<formattedPrice>£8.49</formattedPrice>
+						<rrp>8.49</rrp>
+						<formattedRrp>£8.49</formattedRrp>
+						<onSale>false</onSale>
+					</price>
+					<formats availableDrmFree="true">
+						<format id="17">
+							<fileFormat>MP3</fileFormat>
+							<bitRate>320</bitRate>
+							<drmFree>true</drmFree>
+						</format>
+					</formats>
+					<label id="12381">
+						<name>Mass Appeal Records</name>
+					</label>
+					<licensor id="21">
+						<name>Orchard</name>
+					</licensor>
+					<trackCount>11</trackCount>
+				</release>
+			</listItem>
+			<listItem id="3913385">
+				<type>release</type>
+				<release id="3913385">
+					<title>Nobody Wants To Be Here &amp; Nobody Wants To Leave</title>
+					<version />
+					<type>Album</type>
+					<barcode>0600116513250</barcode>
+					<year>2014</year>
+					<explicitContent>false</explicitContent>
+					<artist id="49773">
+						<name>The Twilight Sad</name>
+						<appearsAs>The Twilight Sad</appearsAs>
+						<url>http://www.7digital.com/artist/the-twilight-sad/?partner=0</url>
+					</artist>
+					<url>http://www.7digital.com/artist/the-twilight-sad/release/nobody-wants-to-be-here-and-nobody-wants-to-leave/?partner=0</url>
+					<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/039/133/0003913385_50.jpg</image>
+					<releaseDate>2014-10-26T00:00:00Z</releaseDate>
+					<addedDate>2014-10-23T17:27:26Z</addedDate>
+					<price>
+						<currency code="GBP" />
+						<value>4.99</value>
+						<formattedPrice>£4.99</formattedPrice>
+						<rrp>7.49</rrp>
+						<formattedRrp>£7.49</formattedRrp>
+						<onSale>true</onSale>
+					</price>
+					<formats availableDrmFree="true">
+						<format id="17">
+							<fileFormat>MP3</fileFormat>
+							<bitRate>320</bitRate>
+							<drmFree>true</drmFree>
+						</format>
+						<format id="33">
+							<fileFormat>M4A</fileFormat>
+							<bitRate>320</bitRate>
+							<drmFree>true</drmFree>
+						</format>
+					</formats>
+					<label id="806">
+						<name>FatCat</name>
+					</label>
+					<licensor id="336">
+						<name>Essential Music and Marketing Ltd</name>
+					</licensor>
+					<trackCount>10</trackCount>
+				</release>
+			</listItem>
+			<listItem id="3886086">
+				<type>release</type>
+				<release id="3886086">
+					<title>Nostalgia</title>
+					<version />
+					<type>Album</type>
+					<barcode>00602547045508</barcode>
+					<year>1991</year>
+					<explicitContent>false</explicitContent>
+					<artist id="3299">
+						<name>Annie Lennox</name>
+						<appearsAs>Annie Lennox</appearsAs>
+						<url>http://www.7digital.com/artist/annie-lennox/?partner=0</url>
+					</artist>
+					<url>http://www.7digital.com/artist/annie-lennox/release/nostalgia-2/?partner=0</url>
+					<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/038/860/0003886086_50.jpg</image>
+					<releaseDate>2014-10-27T00:00:00Z</releaseDate>
+					<addedDate>2014-10-14T15:18:55Z</addedDate>
+					<price>
+						<currency code="GBP" />
+						<value>8.99</value>
+						<formattedPrice>£8.99</formattedPrice>
+						<rrp>8.99</rrp>
+						<formattedRrp>£8.99</formattedRrp>
+						<onSale>false</onSale>
+					</price>
+					<formats availableDrmFree="true">
+						<format id="17">
+							<fileFormat>MP3</fileFormat>
+							<bitRate>320</bitRate>
+							<drmFree>true</drmFree>
+						</format>
+					</formats>
+					<label id="383633">
+						<name>Digital Distribution Qatar</name>
+					</label>
+					<licensor id="1">
+						<name>Universal</name>
+					</licensor>
+					<trackCount>12</trackCount>
+				</release>
+			</listItem>
+			<listItem id="3885704">
+				<type>release</type>
+				<release id="3885704">
+					<title>Nostalgia</title>
+					<version>Deluxe</version>
+					<type>Album</type>
+					<barcode>00602547046895</barcode>
+					<year>2009</year>
+					<explicitContent>false</explicitContent>
+					<artist id="3299">
+						<name>Annie Lennox</name>
+						<appearsAs>Annie Lennox</appearsAs>
+						<url>http://www.7digital.com/artist/annie-lennox/?partner=0</url>
+					</artist>
+					<url>http://www.7digital.com/artist/annie-lennox/release/nostalgia-deluxe/?partner=0</url>
+					<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/038/857/0003885704_50.jpg</image>
+					<releaseDate>2014-10-27T00:00:00Z</releaseDate>
+					<addedDate>2014-10-14T13:18:41Z</addedDate>
+					<price>
+						<currency code="GBP" />
+						<value>9.99</value>
+						<formattedPrice>£9.99</formattedPrice>
+						<rrp>9.99</rrp>
+						<formattedRrp>£9.99</formattedRrp>
+						<onSale>false</onSale>
+					</price>
+					<formats availableDrmFree="true">
+						<format id="17">
+							<fileFormat>MP3</fileFormat>
+							<bitRate>320</bitRate>
+							<drmFree>true</drmFree>
+						</format>
+					</formats>
+					<label id="47744">
+						<name>Universal Music Australia Pty. Ltd.</name>
+					</label>
+					<licensor id="1">
+						<name>Universal</name>
+					</licensor>
+					<trackCount>14</trackCount>
+				</release>
+			</listItem>
+			<listItem id="3658054">
+				<type>release</type>
+				<release id="3658054">
+					<title>Super Critical</title>
+					<version>Explicit</version>
+					<type>Album</type>
+					<barcode>5051083083553</barcode>
+					<year>2014</year>
+					<explicitContent>true</explicitContent>
+					<artist id="153504">
+						<name>The Ting Tings</name>
+						<appearsAs>The Ting Tings</appearsAs>
+						<url>http://www.7digital.com/artist/the-ting-tings/?partner=0</url>
+					</artist>
+					<url>http://www.7digital.com/artist/the-ting-tings/release/super-critical/?partner=0</url>
+					<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/036/580/0003658054_50.jpg</image>
+					<releaseDate>2014-10-27T00:00:00Z</releaseDate>
+					<addedDate>2014-07-17T13:40:56Z</addedDate>
+					<price>
+						<currency code="GBP" />
+						<value>7.99</value>
+						<formattedPrice>£7.99</formattedPrice>
+						<rrp>7.99</rrp>
+						<formattedRrp>£7.99</formattedRrp>
+						<onSale>false</onSale>
+					</price>
+					<formats availableDrmFree="true">
+						<format id="17">
+							<fileFormat>MP3</fileFormat>
+							<bitRate>320</bitRate>
+							<drmFree>true</drmFree>
+						</format>
+						<format id="33">
+							<fileFormat>M4A</fileFormat>
+							<bitRate>320</bitRate>
+							<drmFree>true</drmFree>
+						</format>
+					</formats>
+					<label id="331571">
+						<name>Finca Records</name>
+					</label>
+					<licensor id="48">
+						<name>Vital</name>
+					</licensor>
+					<trackCount>9</trackCount>
+				</release>
+			</listItem>
+			<listItem id="3903415">
+				<type>release</type>
+				<release id="3903415">
+					<title>Money Sucks, Friends Rule</title>
+					<version />
+					<type>Album</type>
+					<barcode>886444717052</barcode>
+					<year>2014</year>
+					<explicitContent>false</explicitContent>
+					<artist id="964836">
+						<name>Dillon Francis</name>
+						<appearsAs>Dillon Francis</appearsAs>
+						<url>http://www.7digital.com/artist/dillon-francis/?partner=0</url>
+					</artist>
+					<url>http://www.7digital.com/artist/dillon-francis/release/money-sucks-friends-rule/?partner=0</url>
+					<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/039/034/0003903415_50.jpg</image>
+					<releaseDate>2014-10-27T00:00:00Z</releaseDate>
+					<addedDate>2014-10-23T17:00:27Z</addedDate>
+					<price>
+						<currency code="GBP" />
+						<value>7.99</value>
+						<formattedPrice>£7.99</formattedPrice>
+						<rrp>7.99</rrp>
+						<formattedRrp>£7.99</formattedRrp>
+						<onSale>false</onSale>
+					</price>
+					<formats availableDrmFree="true">
+						<format id="17">
+							<fileFormat>MP3</fileFormat>
+							<bitRate>320</bitRate>
+							<drmFree>true</drmFree>
+						</format>
+						<format id="33">
+							<fileFormat>M4A</fileFormat>
+							<bitRate>320</bitRate>
+							<drmFree>true</drmFree>
+						</format>
+					</formats>
+					<label id="592">
+						<name>Columbia</name>
+					</label>
+					<licensor id="2">
+						<name>Sony Music</name>
+					</licensor>
+					<trackCount>12</trackCount>
+				</release>
+			</listItem>
+			<listItem id="3871125">
+				<type>release</type>
+				<release id="3871125">
+					<title>Fumes</title>
+					<version />
+					<type>Album</type>
+					<barcode>656605612867</barcode>
+					<year>2014</year>
+					<explicitContent>false</explicitContent>
+					<artist id="1544393">
+						<name>Lily &amp; Madeleine</name>
+						<appearsAs>Lily &amp; Madeleine</appearsAs>
+						<url>http://www.7digital.com/artist/lily-and-madeleine/?partner=0</url>
+					</artist>
+					<url>http://www.7digital.com/artist/lily-and-madeleine/release/fumes/?partner=0</url>
+					<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/038/711/0003871125_50.jpg</image>
+					<releaseDate>2014-10-27T00:00:00Z</releaseDate>
+					<addedDate>2014-10-08T21:21:38Z</addedDate>
+					<price>
+						<currency code="GBP" />
+						<value>7.49</value>
+						<formattedPrice>£7.49</formattedPrice>
+						<rrp>7.49</rrp>
+						<formattedRrp>£7.49</formattedRrp>
+						<onSale>false</onSale>
+					</price>
+					<formats availableDrmFree="true">
+						<format id="17">
+							<fileFormat>MP3</fileFormat>
+							<bitRate>320</bitRate>
+							<drmFree>true</drmFree>
+						</format>
+						<format id="33">
+							<fileFormat>M4A</fileFormat>
+							<bitRate>320</bitRate>
+							<drmFree>true</drmFree>
+						</format>
+					</formats>
+					<label id="157366">
+						<name>Asthmatic Kitty</name>
+					</label>
+					<licensor id="369">
+						<name>SC Distribution Company</name>
+					</licensor>
+					<trackCount>10</trackCount>
+				</release>
+			</listItem>
+			<listItem id="3878464">
+				<type>release</type>
+				<release id="3878464">
+					<title>Kiasmos</title>
+					<version />
+					<type>Album</type>
+					<barcode>4050486109618</barcode>
+					<year>2014</year>
+					<explicitContent>false</explicitContent>
+					<artist id="449359">
+						<name>Kiasmos</name>
+						<appearsAs>Kiasmos</appearsAs>
+						<url>http://www.7digital.com/artist/kiasmos/?partner=0</url>
+					</artist>
+					<url>http://www.7digital.com/artist/kiasmos/release/kiasmos/?partner=0</url>
+					<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/038/784/0003878464_50.jpg</image>
+					<releaseDate>2014-10-27T00:00:00Z</releaseDate>
+					<addedDate>2014-10-23T16:23:27Z</addedDate>
+					<price>
+						<currency code="GBP" />
+						<value>6.99</value>
+						<formattedPrice>£6.99</formattedPrice>
+						<rrp>6.99</rrp>
+						<formattedRrp>£6.99</formattedRrp>
+						<onSale>false</onSale>
+					</price>
+					<formats availableDrmFree="true">
+						<format id="17">
+							<fileFormat>MP3</fileFormat>
+							<bitRate>320</bitRate>
+							<drmFree>true</drmFree>
+						</format>
+						<format id="33">
+							<fileFormat>M4A</fileFormat>
+							<bitRate>320</bitRate>
+							<drmFree>true</drmFree>
+						</format>
+					</formats>
+					<label id="13011">
+						<name>Erased Tapes</name>
+					</label>
+					<licensor id="47">
+						<name>Finetunes</name>
+					</licensor>
+					<trackCount>8</trackCount>
+				</release>
+			</listItem>
+			<listItem id="3885766">
+				<type>release</type>
+				<release id="3885766">
+					<title>Black Veil Brides</title>
+					<version />
+					<type>Album</type>
+					<barcode>00602547041470</barcode>
+					<year>2009</year>
+					<explicitContent>false</explicitContent>
+					<artist id="677154">
+						<name>Black Veil Brides</name>
+						<appearsAs>Black Veil Brides</appearsAs>
+						<url>http://www.7digital.com/artist/black-veil-brides/?partner=0</url>
+					</artist>
+					<url>http://www.7digital.com/artist/black-veil-brides/release/black-veil-brides/?partner=0</url>
+					<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/038/857/0003885766_50.jpg</image>
+					<releaseDate>2014-10-27T00:00:00Z</releaseDate>
+					<addedDate>2014-10-14T13:31:33Z</addedDate>
+					<price>
+						<currency code="GBP" />
+						<value>8.99</value>
+						<formattedPrice>£8.99</formattedPrice>
+						<rrp>8.99</rrp>
+						<formattedRrp>£8.99</formattedRrp>
+						<onSale>false</onSale>
+					</price>
+					<formats availableDrmFree="true">
+						<format id="17">
+							<fileFormat>MP3</fileFormat>
+							<bitRate>320</bitRate>
+							<drmFree>true</drmFree>
+						</format>
+					</formats>
+					<label id="47744">
+						<name>Universal Music Australia Pty. Ltd.</name>
+					</label>
+					<licensor id="1">
+						<name>Universal</name>
+					</licensor>
+					<trackCount>11</trackCount>
+				</release>
+			</listItem>
+			<listItem id="3790138">
+				<type>release</type>
+				<release id="3790138">
+					<title>Tell 'Em I'm Gone</title>
+					<version />
+					<type>Album</type>
+					<barcode>886444794824</barcode>
+					<year>2014</year>
+					<explicitContent>false</explicitContent>
+					<artist id="357626">
+						<name>Yusuf / Cat Stevens</name>
+						<appearsAs>Yusuf / Cat Stevens</appearsAs>
+						<url>http://www.7digital.com/artist/yusuf-cat-stevens/?partner=0</url>
+					</artist>
+					<url>http://www.7digital.com/artist/yusuf-cat-stevens/release/tell-em-im-gone/?partner=0</url>
+					<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/037/901/0003790138_50.jpg</image>
+					<releaseDate>2014-10-27T00:00:00Z</releaseDate>
+					<addedDate>2014-10-21T19:03:02Z</addedDate>
+					<price>
+						<currency code="GBP" />
+						<value>8.99</value>
+						<formattedPrice>£8.99</formattedPrice>
+						<rrp>8.99</rrp>
+						<formattedRrp>£8.99</formattedRrp>
+						<onSale>false</onSale>
+					</price>
+					<formats availableDrmFree="true">
+						<format id="17">
+							<fileFormat>MP3</fileFormat>
+							<bitRate>320</bitRate>
+							<drmFree>true</drmFree>
+						</format>
+						<format id="33">
+							<fileFormat>M4A</fileFormat>
+							<bitRate>320</bitRate>
+							<drmFree>true</drmFree>
+						</format>
+					</formats>
+					<label id="12031">
+						<name>Legacy Recordings</name>
+					</label>
+					<licensor id="2">
+						<name>Sony Music</name>
+					</licensor>
+					<trackCount>10</trackCount>
+				</release>
+			</listItem>
+			<listItem id="3858861">
+				<type>release</type>
+				<release id="3858861">
+					<title>Some Songs</title>
+					<version />
+					<type>Album</type>
+					<barcode>00602537980697</barcode>
+					<year>2007</year>
+					<explicitContent>false</explicitContent>
+					<artist id="1415382">
+						<name>Bored Nothing</name>
+						<appearsAs>Bored Nothing</appearsAs>
+						<url>http://www.7digital.com/artist/bored-nothing/?partner=0</url>
+					</artist>
+					<url>http://www.7digital.com/artist/bored-nothing/release/some-songs/?partner=0</url>
+					<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/038/588/0003858861_50.jpg</image>
+					<releaseDate>2014-10-27T00:00:00Z</releaseDate>
+					<addedDate>2014-10-06T10:20:07Z</addedDate>
+					<price>
+						<currency code="GBP" />
+						<value>8.99</value>
+						<formattedPrice>£8.99</formattedPrice>
+						<rrp>8.99</rrp>
+						<formattedRrp>£8.99</formattedRrp>
+						<onSale>false</onSale>
+					</price>
+					<formats availableDrmFree="true">
+						<format id="17">
+							<fileFormat>MP3</fileFormat>
+							<bitRate>320</bitRate>
+							<drmFree>true</drmFree>
+						</format>
+					</formats>
+					<label id="87028">
+						<name>Spunk</name>
+					</label>
+					<licensor id="1">
+						<name>Universal</name>
+					</licensor>
+					<trackCount>13</trackCount>
+				</release>
+			</listItem>
+			<listItem id="3886864">
+				<type>release</type>
+				<release id="3886864">
+					<title>Collected</title>
+					<version />
+					<type>Album</type>
+					<barcode>00602537946655</barcode>
+					<year>1991</year>
+					<explicitContent>false</explicitContent>
+					<artist id="55">
+						<name>Stereo MC's</name>
+						<appearsAs>Stereo MC's</appearsAs>
+						<url>http://www.7digital.com/artist/stereo-mcs-(2)/?partner=0</url>
+					</artist>
+					<url>http://www.7digital.com/artist/stereo-mcs-(2)/release/collected/?partner=0</url>
+					<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/038/868/0003886864_50.jpg</image>
+					<releaseDate>2014-10-27T00:00:00Z</releaseDate>
+					<addedDate>2014-10-15T02:32:30Z</addedDate>
+					<price>
+						<currency code="GBP" />
+						<value>28.99</value>
+						<formattedPrice>£28.99</formattedPrice>
+						<rrp>28.99</rrp>
+						<formattedRrp>£28.99</formattedRrp>
+						<onSale>false</onSale>
+					</price>
+					<formats availableDrmFree="true">
+						<format id="17">
+							<fileFormat>MP3</fileFormat>
+							<bitRate>320</bitRate>
+							<drmFree>true</drmFree>
+						</format>
+					</formats>
+					<label id="383633">
+						<name>Digital Distribution Qatar</name>
+					</label>
+					<licensor id="1">
+						<name>Universal</name>
+					</licensor>
+					<trackCount>123</trackCount>
+				</release>
+			</listItem>
+			<listItem id="3888356">
+				<type>release</type>
+				<release id="3888356">
+					<title>Feels So Good</title>
+					<version />
+					<type>Album</type>
+					<barcode>00811790020372</barcode>
+					<year>2009</year>
+					<explicitContent>false</explicitContent>
+					<artist id="1968">
+						<name>Dionne Warwick</name>
+						<appearsAs>Dionne Warwick</appearsAs>
+						<url>http://www.7digital.com/artist/dionne-warwick/?partner=0</url>
+					</artist>
+					<url>http://www.7digital.com/artist/dionne-warwick/release/feels-so-good-1/?partner=0</url>
+					<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/038/883/0003888356_50.jpg</image>
+					<releaseDate>2014-10-26T00:00:00Z</releaseDate>
+					<addedDate>2014-10-15T11:36:50Z</addedDate>
+					<price>
+						<currency code="GBP" />
+						<value>8.99</value>
+						<formattedPrice>£8.99</formattedPrice>
+						<rrp>8.99</rrp>
+						<formattedRrp>£8.99</formattedRrp>
+						<onSale>false</onSale>
+					</price>
+					<formats availableDrmFree="true">
+						<format id="17">
+							<fileFormat>MP3</fileFormat>
+							<bitRate>320</bitRate>
+							<drmFree>true</drmFree>
+						</format>
+					</formats>
+					<label id="242879">
+						<name>Caroline International</name>
+					</label>
+					<licensor id="1">
+						<name>Universal</name>
+					</licensor>
+					<trackCount>14</trackCount>
+				</release>
+			</listItem>
+			<listItem id="3885953">
+				<type>release</type>
+				<release id="3885953">
+					<title>Down To Earth</title>
+					<version />
+					<type>Album</type>
+					<barcode>00044003177512</barcode>
+					<year>2012</year>
+					<explicitContent>false</explicitContent>
+					<artist id="585040">
+						<name>Flight Facilities</name>
+						<appearsAs>Flight Facilities</appearsAs>
+						<url>http://www.7digital.com/artist/flight-facilities/?partner=0</url>
+					</artist>
+					<url>http://www.7digital.com/artist/flight-facilities/release/down-to-earth-1/?partner=0</url>
+					<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/038/859/0003885953_50.jpg</image>
+					<releaseDate>2014-10-27T00:00:00Z</releaseDate>
+					<addedDate>2014-10-14T15:15:00Z</addedDate>
+					<price>
+						<currency code="GBP" />
+						<value>8.99</value>
+						<formattedPrice>£8.99</formattedPrice>
+						<rrp>8.99</rrp>
+						<formattedRrp>£8.99</formattedRrp>
+						<onSale>false</onSale>
+					</price>
+					<formats availableDrmFree="true">
+						<format id="17">
+							<fileFormat>MP3</fileFormat>
+							<bitRate>320</bitRate>
+							<drmFree>true</drmFree>
+						</format>
+					</formats>
+					<label id="3309">
+						<name>Universal Music Ireland Ltd.</name>
+					</label>
+					<licensor id="1">
+						<name>Universal</name>
+					</licensor>
+					<trackCount>14</trackCount>
+				</release>
+			</listItem>
+			<listItem id="3832394">
+				<type>release</type>
+				<release id="3832394">
+					<title>Alive</title>
+					<version />
+					<type>Album</type>
+					<barcode>5051083084611</barcode>
+					<year>2014</year>
+					<explicitContent>false</explicitContent>
+					<artist id="2091641">
+						<name>Glass Caves</name>
+						<appearsAs>Glass Caves</appearsAs>
+						<url>http://www.7digital.com/artist/glass-caves/?partner=0</url>
+					</artist>
+					<url>http://www.7digital.com/artist/glass-caves/release/alive/?partner=0</url>
+					<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/038/323/0003832394_50.jpg</image>
+					<releaseDate>2014-10-27T00:00:00Z</releaseDate>
+					<addedDate>2014-09-24T18:09:44Z</addedDate>
+					<price>
+						<currency code="GBP" />
+						<value>7.99</value>
+						<formattedPrice>£7.99</formattedPrice>
+						<rrp>7.99</rrp>
+						<formattedRrp>£7.99</formattedRrp>
+						<onSale>false</onSale>
+					</price>
+					<formats availableDrmFree="true">
+						<format id="17">
+							<fileFormat>MP3</fileFormat>
+							<bitRate>320</bitRate>
+							<drmFree>true</drmFree>
+						</format>
+						<format id="33">
+							<fileFormat>M4A</fileFormat>
+							<bitRate>320</bitRate>
+							<drmFree>true</drmFree>
+						</format>
+					</formats>
+					<label id="1705">
+						<name>Tri Tone</name>
+					</label>
+					<licensor id="48">
+						<name>Vital</name>
+					</licensor>
+					<trackCount>12</trackCount>
+				</release>
+			</listItem>
+			<listItem id="3885993">
+				<type>release</type>
+				<release id="3885993">
+					<title>Headhunter</title>
+					<version />
+					<type>Single</type>
+					<barcode>05052111140668</barcode>
+					<year>2012</year>
+					<explicitContent>false</explicitContent>
+					<artist id="14380">
+						<name>The Crown</name>
+						<appearsAs>The Crown</appearsAs>
+						<url>http://www.7digital.com/artist/the-crown/?partner=0</url>
+					</artist>
+					<url>http://www.7digital.com/artist/the-crown/release/headhunter-1/?partner=0</url>
+					<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/038/859/0003885993_50.jpg</image>
+					<releaseDate>2014-10-27T00:00:00Z</releaseDate>
+					<addedDate>2014-10-14T15:17:24Z</addedDate>
+					<price>
+						<currency code="GBP" />
+						<value>1.29</value>
+						<formattedPrice>£1.29</formattedPrice>
+						<rrp>1.29</rrp>
+						<formattedRrp>£1.29</formattedRrp>
+						<onSale>false</onSale>
+					</price>
+					<formats availableDrmFree="true">
+						<format id="17">
+							<fileFormat>MP3</fileFormat>
+							<bitRate>320</bitRate>
+							<drmFree>true</drmFree>
+						</format>
+					</formats>
+					<label id="242879">
+						<name>Caroline International</name>
+					</label>
+					<licensor id="1">
+						<name>Universal</name>
+					</licensor>
+					<trackCount>2</trackCount>
+				</release>
+			</listItem>
+			<listItem id="3886246">
+				<type>release</type>
+				<release id="3886246">
+					<title>Jackie - The Party Album</title>
+					<version />
+					<type>Album</type>
+					<barcode>00600753559697</barcode>
+					<year>2012</year>
+					<explicitContent>false</explicitContent>
+					<artist id="209">
+						<name>Various Artists</name>
+						<appearsAs>Various Artists</appearsAs>
+						<url>http://www.7digital.com/artist/various-artists/?partner=0</url>
+					</artist>
+					<url>http://www.7digital.com/artist/various-artists/release/jackie-the-party-album/?partner=0</url>
+					<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/038/862/0003886246_50.jpg</image>
+					<releaseDate>2014-10-27T00:00:00Z</releaseDate>
+					<addedDate>2014-10-14T15:20:49Z</addedDate>
+					<price>
+						<currency code="GBP" />
+						<value>5.99</value>
+						<formattedPrice>£5.99</formattedPrice>
+						<rrp>5.99</rrp>
+						<formattedRrp>£5.99</formattedRrp>
+						<onSale>false</onSale>
+					</price>
+					<formats availableDrmFree="true">
+						<format id="17">
+							<fileFormat>MP3</fileFormat>
+							<bitRate>320</bitRate>
+							<drmFree>true</drmFree>
+						</format>
+					</formats>
+					<label id="3309">
+						<name>Universal Music Ireland Ltd.</name>
+					</label>
+					<licensor id="1">
+						<name>Universal</name>
+					</licensor>
+					<trackCount>34</trackCount>
+				</release>
+			</listItem>
+			<listItem id="3818970">
+				<type>release</type>
+				<release id="3818970">
+					<title>Motown Christmas</title>
+					<version />
+					<type>Album</type>
+					<barcode>00602537506736</barcode>
+					<year>2007</year>
+					<explicitContent>false</explicitContent>
+					<artist id="209">
+						<name>Various Artists</name>
+						<appearsAs>Various Artists</appearsAs>
+						<url>http://www.7digital.com/artist/various-artists/?partner=0</url>
+					</artist>
+					<url>http://www.7digital.com/artist/various-artists/release/motown-christmas-1/?partner=0</url>
+					<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/038/189/0003818970_50.jpg</image>
+					<releaseDate>2014-09-30T00:00:00Z</releaseDate>
+					<addedDate>2014-09-19T12:44:53Z</addedDate>
+					<price>
+						<currency code="GBP" />
+						<value>7.99</value>
+						<formattedPrice>£7.99</formattedPrice>
+						<rrp>7.99</rrp>
+						<formattedRrp>£7.99</formattedRrp>
+						<onSale>false</onSale>
+					</price>
+					<formats availableDrmFree="true">
+						<format id="17">
+							<fileFormat>MP3</fileFormat>
+							<bitRate>320</bitRate>
+							<drmFree>true</drmFree>
+						</format>
+					</formats>
+					<label id="383291">
+						<name>Digital Distribution Nigeria</name>
+					</label>
+					<licensor id="1">
+						<name>Universal</name>
+					</licensor>
+					<trackCount>16</trackCount>
+				</release>
+			</listItem>
+			<listItem id="3885949">
+				<type>release</type>
+				<release id="3885949">
+					<title>Pop Party 13</title>
+					<version />
+					<type>Album</type>
+					<barcode>00600753553886</barcode>
+					<year>2012</year>
+					<explicitContent>false</explicitContent>
+					<artist id="209">
+						<name>Various Artists</name>
+						<appearsAs>Various Artists</appearsAs>
+						<url>http://www.7digital.com/artist/various-artists/?partner=0</url>
+					</artist>
+					<url>http://www.7digital.com/artist/various-artists/release/pop-party-13-1/?partner=0</url>
+					<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/038/859/0003885949_50.jpg</image>
+					<releaseDate>2014-10-27T00:00:00Z</releaseDate>
+					<addedDate>2014-10-14T15:14:52Z</addedDate>
+					<price>
+						<currency code="GBP" />
+						<value>9.99</value>
+						<formattedPrice>£9.99</formattedPrice>
+						<rrp>9.99</rrp>
+						<formattedRrp>£9.99</formattedRrp>
+						<onSale>false</onSale>
+					</price>
+					<formats availableDrmFree="true">
+						<format id="17">
+							<fileFormat>MP3</fileFormat>
+							<bitRate>320</bitRate>
+							<drmFree>true</drmFree>
+						</format>
+					</formats>
+					<label id="3309">
+						<name>Universal Music Ireland Ltd.</name>
+					</label>
+					<licensor id="1">
+						<name>Universal</name>
+					</licensor>
+					<trackCount>40</trackCount>
+				</release>
+			</listItem>
+			<listItem id="3883252">
+				<type>release</type>
+				<release id="3883252">
+					<title>Asymmetry</title>
+					<version />
+					<type>Album</type>
+					<barcode>886444673037</barcode>
+					<year>2014</year>
+					<explicitContent>false</explicitContent>
+					<artist id="1011365">
+						<name>Mallory Knox</name>
+						<appearsAs>Mallory Knox</appearsAs>
+						<url>http://www.7digital.com/artist/mallory-knox/?partner=0</url>
+					</artist>
+					<url>http://www.7digital.com/artist/mallory-knox/release/asymmetry-1/?partner=0</url>
+					<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/038/832/0003883252_50.jpg</image>
+					<releaseDate>2014-10-27T00:00:00Z</releaseDate>
+					<addedDate>2014-10-13T18:25:23Z</addedDate>
+					<price>
+						<currency code="GBP" />
+						<value>7.99</value>
+						<formattedPrice>£7.99</formattedPrice>
+						<rrp>7.99</rrp>
+						<formattedRrp>£7.99</formattedRrp>
+						<onSale>false</onSale>
+					</price>
+					<formats availableDrmFree="true">
+						<format id="17">
+							<fileFormat>MP3</fileFormat>
+							<bitRate>320</bitRate>
+							<drmFree>true</drmFree>
+						</format>
+						<format id="33">
+							<fileFormat>M4A</fileFormat>
+							<bitRate>320</bitRate>
+							<drmFree>true</drmFree>
+						</format>
+					</formats>
+					<label id="21726">
+						<name>Search And Destroy Records</name>
+					</label>
+					<licensor id="2">
+						<name>Sony Music</name>
+					</licensor>
+					<trackCount>11</trackCount>
+				</release>
+			</listItem>
+			<listItem id="3887139">
+				<type>release</type>
+				<release id="3887139">
+					<title>BBC Radio 1's Live Lounge 2014</title>
+					<version />
+					<type>Album</type>
+					<barcode>886444759359</barcode>
+					<year>2014</year>
+					<explicitContent>false</explicitContent>
+					<artist id="209">
+						<name>Various Artists</name>
+						<appearsAs>Various</appearsAs>
+						<url>http://www.7digital.com/artist/various-artists/?partner=0</url>
+					</artist>
+					<url>http://www.7digital.com/artist/various-artists/release/bbc-radio-1s-live-lounge-2014/?partner=0</url>
+					<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/038/871/0003887139_50.jpg</image>
+					<releaseDate>2014-10-27T00:00:00Z</releaseDate>
+					<addedDate>2014-10-24T16:58:54Z</addedDate>
+					<price>
+						<currency code="GBP" />
+						<value>10.49</value>
+						<formattedPrice>£10.49</formattedPrice>
+						<rrp>10.49</rrp>
+						<formattedRrp>£10.49</formattedRrp>
+						<onSale>false</onSale>
+					</price>
+					<formats availableDrmFree="true">
+						<format id="17">
+							<fileFormat>MP3</fileFormat>
+							<bitRate>320</bitRate>
+							<drmFree>true</drmFree>
+						</format>
+						<format id="33">
+							<fileFormat>M4A</fileFormat>
+							<bitRate>320</bitRate>
+							<drmFree>true</drmFree>
+						</format>
+					</formats>
+					<label id="198867">
+						<name>Sony Music CG</name>
+					</label>
+					<licensor id="2">
+						<name>Sony Music</name>
+					</licensor>
+					<trackCount>39</trackCount>
+				</release>
+			</listItem>
+			<listItem id="3778917">
+				<type>release</type>
+				<release id="3778917">
+					<title>High Hazels</title>
+					<version />
+					<type>Album</type>
+					<barcode>5065002066008</barcode>
+					<year>2014</year>
+					<explicitContent>false</explicitContent>
+					<artist id="1985061">
+						<name>High Hazels</name>
+						<appearsAs>High Hazels</appearsAs>
+						<url>http://www.7digital.com/artist/high-hazels/?partner=0</url>
+					</artist>
+					<url>http://www.7digital.com/artist/high-hazels/release/high-hazels/?partner=0</url>
+					<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/037/789/0003778917_50.jpg</image>
+					<releaseDate>2014-10-27T00:00:00Z</releaseDate>
+					<addedDate>2014-09-04T03:49:06Z</addedDate>
+					<price>
+						<currency code="GBP" />
+						<value>8.49</value>
+						<formattedPrice>£8.49</formattedPrice>
+						<rrp>8.49</rrp>
+						<formattedRrp>£8.49</formattedRrp>
+						<onSale>false</onSale>
+					</price>
+					<formats availableDrmFree="true">
+						<format id="17">
+							<fileFormat>MP3</fileFormat>
+							<bitRate>320</bitRate>
+							<drmFree>true</drmFree>
+						</format>
+					</formats>
+					<label id="40051">
+						<name>Heist Or Hit Records</name>
+					</label>
+					<licensor id="21">
+						<name>Orchard</name>
+					</licensor>
+					<trackCount>10</trackCount>
+				</release>
+			</listItem>
+			<listItem id="3867689">
+				<type>release</type>
+				<release id="3867689">
+					<title>Chubbed Up+</title>
+					<version />
+					<type>Album</type>
+					<barcode>888831592051</barcode>
+					<year>2014</year>
+					<explicitContent>false</explicitContent>
+					<artist id="2437259">
+						<name>Sleaford Mods</name>
+						<appearsAs>Sleaford Mods</appearsAs>
+						<url>http://www.7digital.com/artist/sleaford-mods/?partner=0</url>
+					</artist>
+					<url>http://www.7digital.com/artist/sleaford-mods/release/chubbed-upplus/?partner=0</url>
+					<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/038/676/0003867689_50.jpg</image>
+					<releaseDate>2014-10-28T00:00:00Z</releaseDate>
+					<addedDate>2014-10-10T11:56:05Z</addedDate>
+					<price>
+						<currency code="GBP" />
+						<value>8.49</value>
+						<formattedPrice>£8.49</formattedPrice>
+						<rrp>8.49</rrp>
+						<formattedRrp>£8.49</formattedRrp>
+						<onSale>false</onSale>
+					</price>
+					<formats availableDrmFree="true">
+						<format id="17">
+							<fileFormat>MP3</fileFormat>
+							<bitRate>320</bitRate>
+							<drmFree>true</drmFree>
+						</format>
+					</formats>
+					<label id="21522">
+						<name>Ipecac Recordings</name>
+					</label>
+					<licensor id="21">
+						<name>Orchard</name>
+					</licensor>
+					<trackCount>12</trackCount>
+				</release>
+			</listItem>
+			<listItem id="3893444">
+				<type>release</type>
+				<release id="3893444">
+					<title>Paperwork</title>
+					<version>Explicit</version>
+					<type>Album</type>
+					<barcode>886444791915</barcode>
+					<year>2014</year>
+					<explicitContent>true</explicitContent>
+					<artist id="1280">
+						<name>T.I.</name>
+						<appearsAs>T.I.</appearsAs>
+						<url>http://www.7digital.com/artist/t-i/?partner=0</url>
+					</artist>
+					<url>http://www.7digital.com/artist/t-i/release/paperwork-explicit-1/?partner=0</url>
+					<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/038/934/0003893444_50.jpg</image>
+					<releaseDate>2014-10-20T00:00:00Z</releaseDate>
+					<addedDate>2014-10-20T11:38:06Z</addedDate>
+					<price>
+						<currency code="GBP" />
+						<value>7.99</value>
+						<formattedPrice>£7.99</formattedPrice>
+						<rrp>7.99</rrp>
+						<formattedRrp>£7.99</formattedRrp>
+						<onSale>false</onSale>
+					</price>
+					<formats availableDrmFree="true">
+						<format id="17">
+							<fileFormat>MP3</fileFormat>
+							<bitRate>320</bitRate>
+							<drmFree>true</drmFree>
+						</format>
+						<format id="33">
+							<fileFormat>M4A</fileFormat>
+							<bitRate>320</bitRate>
+							<drmFree>true</drmFree>
+						</format>
+					</formats>
+					<label id="331893">
+						<name>Grand Hustle/Columbia</name>
+					</label>
+					<licensor id="2">
+						<name>Sony Music</name>
+					</licensor>
+					<trackCount>18</trackCount>
+				</release>
+			</listItem>
+			<listItem id="3845600">
+				<type>release</type>
+				<release id="3845600">
+					<title>Hollyoaks - The Album</title>
+					<version />
+					<type>Album</type>
+					<barcode>886444849289</barcode>
+					<year>2014</year>
+					<explicitContent>false</explicitContent>
+					<artist id="209">
+						<name>Various Artists</name>
+						<appearsAs>Various</appearsAs>
+						<url>http://www.7digital.com/artist/various-artists/?partner=0</url>
+					</artist>
+					<url>http://www.7digital.com/artist/various-artists/release/hollyoaks-the-album/?partner=0</url>
+					<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/038/456/0003845600_50.jpg</image>
+					<releaseDate>2014-10-20T00:00:00Z</releaseDate>
+					<addedDate>2014-10-20T11:22:08Z</addedDate>
+					<price>
+						<currency code="GBP" />
+						<value>9.99</value>
+						<formattedPrice>£9.99</formattedPrice>
+						<rrp>9.99</rrp>
+						<formattedRrp>£9.99</formattedRrp>
+						<onSale>false</onSale>
+					</price>
+					<formats availableDrmFree="true">
+						<format id="17">
+							<fileFormat>MP3</fileFormat>
+							<bitRate>320</bitRate>
+							<drmFree>true</drmFree>
+						</format>
+						<format id="33">
+							<fileFormat>M4A</fileFormat>
+							<bitRate>320</bitRate>
+							<drmFree>true</drmFree>
+						</format>
+					</formats>
+					<label id="198867">
+						<name>Sony Music CG</name>
+					</label>
+					<licensor id="2">
+						<name>Sony Music</name>
+					</licensor>
+					<trackCount>40</trackCount>
+				</release>
+			</listItem>
+			<listItem id="3894118">
+				<type>release</type>
+				<release id="3894118">
+					<title>DJ Mag Top 100 DJs 2014 - Ministry of Sound</title>
+					<version />
+					<type>Album</type>
+					<barcode>5051275071757</barcode>
+					<year>2014</year>
+					<explicitContent>false</explicitContent>
+					<artist id="209">
+						<name>Various Artists</name>
+						<appearsAs>Various Artists</appearsAs>
+						<url>http://www.7digital.com/artist/various-artists/?partner=0</url>
+					</artist>
+					<url>http://www.7digital.com/artist/various-artists/release/dj-mag-top-100-djs-2014-ministry-of-sound-1/?partner=0</url>
+					<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/038/941/0003894118_50.jpg</image>
+					<releaseDate>2014-10-19T00:00:00Z</releaseDate>
+					<addedDate>2014-10-20T17:37:32Z</addedDate>
+					<price>
+						<currency code="GBP" />
+						<value>9.99</value>
+						<formattedPrice>£9.99</formattedPrice>
+						<rrp>9.99</rrp>
+						<formattedRrp>£9.99</formattedRrp>
+						<onSale>false</onSale>
+					</price>
+					<formats availableDrmFree="true">
+						<format id="17">
+							<fileFormat>MP3</fileFormat>
+							<bitRate>320</bitRate>
+							<drmFree>true</drmFree>
+						</format>
+						<format id="33">
+							<fileFormat>M4A</fileFormat>
+							<bitRate>320</bitRate>
+							<drmFree>true</drmFree>
+						</format>
+						<format id="10">
+							<fileFormat>PDF</fileFormat>
+							<bitRate>0</bitRate>
+							<drmFree>true</drmFree>
+						</format>
+					</formats>
+					<label id="60924">
+						<name>Ministry of Sound Recordings Ltd</name>
+					</label>
+					<licensor id="102">
+						<name>Ministry of Sound Group Limited</name>
+					</licensor>
+					<trackCount>43</trackCount>
+				</release>
+			</listItem>
+			<listItem id="3913346">
+				<type>release</type>
+				<release id="3913346">
+					<title>Ibiza 2014 Closing Party</title>
+					<version />
+					<type>Album</type>
+					<barcode>5052075011875</barcode>
+					<year>2014</year>
+					<explicitContent>false</explicitContent>
+					<artist id="209">
+						<name>Various Artists</name>
+						<appearsAs>Various Artists</appearsAs>
+						<url>http://www.7digital.com/artist/various-artists/?partner=0</url>
+					</artist>
+					<url>http://www.7digital.com/artist/various-artists/release/ibiza-2014-closing-party-2/?partner=0</url>
+					<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/039/133/0003913346_50.jpg</image>
+					<releaseDate>2014-09-29T00:00:00Z</releaseDate>
+					<addedDate>2014-10-23T17:47:44Z</addedDate>
+					<price>
+						<currency code="GBP" />
+						<value>4.99</value>
+						<formattedPrice>£4.99</formattedPrice>
+						<rrp>4.99</rrp>
+						<formattedRrp>£4.99</formattedRrp>
+						<onSale>false</onSale>
+					</price>
+					<formats availableDrmFree="true">
+						<format id="17">
+							<fileFormat>MP3</fileFormat>
+							<bitRate>320</bitRate>
+							<drmFree>true</drmFree>
+						</format>
+						<format id="33">
+							<fileFormat>M4A</fileFormat>
+							<bitRate>320</bitRate>
+							<drmFree>true</drmFree>
+						</format>
+					</formats>
+					<label id="18795">
+						<name>Toolroom</name>
+					</label>
+					<licensor id="299">
+						<name>Toolroom Productions Ltd</name>
+					</licensor>
+					<trackCount>43</trackCount>
+				</release>
+			</listItem>
+			<listItem id="3740624">
+				<type>release</type>
+				<release id="3740624">
+					<title>Ruins</title>
+					<version />
+					<type>Album</type>
+					<barcode>888831637257</barcode>
+					<year>2014</year>
+					<explicitContent>false</explicitContent>
+					<artist id="498705">
+						<name>Grouper</name>
+						<appearsAs>Grouper</appearsAs>
+						<url>http://www.7digital.com/artist/grouper/?partner=0</url>
+					</artist>
+					<url>http://www.7digital.com/artist/grouper/release/ruins/?partner=0</url>
+					<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/037/406/0003740624_50.jpg</image>
+					<releaseDate>2014-10-28T00:00:00Z</releaseDate>
+					<addedDate>2014-08-17T21:26:04Z</addedDate>
+					<price>
+						<currency code="GBP" />
+						<value>7.92</value>
+						<formattedPrice>£7.92</formattedPrice>
+						<rrp>7.92</rrp>
+						<formattedRrp>£7.92</formattedRrp>
+						<onSale>false</onSale>
+					</price>
+					<formats availableDrmFree="true">
+						<format id="17">
+							<fileFormat>MP3</fileFormat>
+							<bitRate>320</bitRate>
+							<drmFree>true</drmFree>
+						</format>
+					</formats>
+					<label id="113052">
+						<name>kranky</name>
+					</label>
+					<licensor id="21">
+						<name>Orchard</name>
+					</licensor>
+					<trackCount>8</trackCount>
+				</release>
+			</listItem>
+			<listItem id="3889526">
+				<type>release</type>
+				<release id="3889526">
+					<title>20,000 LEAGUES UNDER THE SEA</title>
+					<version />
+					<type>Album</type>
+					<barcode>5051083085694</barcode>
+					<year>2014</year>
+					<explicitContent>false</explicitContent>
+					<artist id="1515067">
+						<name>East India Youth</name>
+						<appearsAs>East India Youth</appearsAs>
+						<url>http://www.7digital.com/artist/east-india-youth/?partner=0</url>
+					</artist>
+					<url>http://www.7digital.com/artist/east-india-youth/release/20000-leagues-under-the-sea/?partner=0</url>
+					<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/038/895/0003889526_50.jpg</image>
+					<releaseDate>2014-10-27T00:00:00Z</releaseDate>
+					<addedDate>2014-10-15T15:02:11Z</addedDate>
+					<price>
+						<currency code="GBP" />
+						<value>5.49</value>
+						<formattedPrice>£5.49</formattedPrice>
+						<rrp>5.49</rrp>
+						<formattedRrp>£5.49</formattedRrp>
+						<onSale>false</onSale>
+					</price>
+					<formats availableDrmFree="true">
+						<format id="17">
+							<fileFormat>MP3</fileFormat>
+							<bitRate>320</bitRate>
+							<drmFree>true</drmFree>
+						</format>
+						<format id="33">
+							<fileFormat>M4A</fileFormat>
+							<bitRate>320</bitRate>
+							<drmFree>true</drmFree>
+						</format>
+					</formats>
+					<label id="2389">
+						<name>Stolen Recordings</name>
+					</label>
+					<licensor id="48">
+						<name>Vital</name>
+					</licensor>
+					<trackCount>1</trackCount>
+				</release>
+			</listItem>
+			<listItem id="3885850">
+				<type>release</type>
+				<release id="3885850">
+					<title>Annie Mac Presents 2014</title>
+					<version>Explicit</version>
+					<type>Album</type>
+					<barcode>00600753544129</barcode>
+					<year>2009</year>
+					<explicitContent>true</explicitContent>
+					<artist id="209">
+						<name>Various Artists</name>
+						<appearsAs>Various Artists</appearsAs>
+						<url>http://www.7digital.com/artist/various-artists/?partner=0</url>
+					</artist>
+					<url>http://www.7digital.com/artist/various-artists/release/annie-mac-presents-2014-explicit/?partner=0</url>
+					<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/038/858/0003885850_50.jpg</image>
+					<releaseDate>2014-10-24T00:00:00Z</releaseDate>
+					<addedDate>2014-10-14T14:23:07Z</addedDate>
+					<price>
+						<currency code="GBP" />
+						<value>9.99</value>
+						<formattedPrice>£9.99</formattedPrice>
+						<rrp>9.99</rrp>
+						<formattedRrp>£9.99</formattedRrp>
+						<onSale>false</onSale>
+					</price>
+					<formats availableDrmFree="true">
+						<format id="17">
+							<fileFormat>MP3</fileFormat>
+							<bitRate>320</bitRate>
+							<drmFree>true</drmFree>
+						</format>
+					</formats>
+					<label id="3309">
+						<name>Universal Music Ireland Ltd.</name>
+					</label>
+					<licensor id="1">
+						<name>Universal</name>
+					</licensor>
+					<trackCount>37</trackCount>
+				</release>
+			</listItem>
+			<listItem id="3907669">
+				<type>release</type>
+				<release id="3907669">
+					<title>Blood I Bled</title>
+					<version />
+					<type>Album</type>
+					<barcode>825646212156</barcode>
+					<year>2014</year>
+					<explicitContent>false</explicitContent>
+					<artist id="960628">
+						<name>THE STAVES</name>
+						<appearsAs>THE STAVES</appearsAs>
+						<url>http://www.7digital.com/artist/the-staves/?partner=0</url>
+					</artist>
+					<url>http://www.7digital.com/artist/the-staves/release/blood-i-bled-1/?partner=0</url>
+					<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/039/076/0003907669_50.jpg</image>
+					<releaseDate>2014-10-28T00:00:00Z</releaseDate>
+					<addedDate>2014-10-24T07:56:08Z</addedDate>
+					<price>
+						<currency code="GBP" />
+						<value>2.29</value>
+						<formattedPrice>£2.29</formattedPrice>
+						<rrp>2.29</rrp>
+						<formattedRrp>£2.29</formattedRrp>
+						<onSale>false</onSale>
+					</price>
+					<formats availableDrmFree="true">
+						<format id="17">
+							<fileFormat>MP3</fileFormat>
+							<bitRate>320</bitRate>
+							<drmFree>true</drmFree>
+						</format>
+					</formats>
+					<label id="1373">
+						<name>Atlantic Records UK</name>
+					</label>
+					<licensor id="18">
+						<name>Warner</name>
+					</licensor>
+					<trackCount>3</trackCount>
+				</release>
+			</listItem>
+			<listItem id="3858891">
+				<type>release</type>
+				<release id="3858891">
+					<title>I Forget Where We Were</title>
+					<version />
+					<type>Album</type>
+					<barcode>00602547010292</barcode>
+					<year>1991</year>
+					<explicitContent>false</explicitContent>
+					<artist id="487026">
+						<name>Ben Howard</name>
+						<appearsAs>Ben Howard</appearsAs>
+						<url>http://www.7digital.com/artist/ben-howard/?partner=0</url>
+					</artist>
+					<url>http://www.7digital.com/artist/ben-howard/release/i-forget-where-we-were-2/?partner=0</url>
+					<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/038/588/0003858891_50.jpg</image>
+					<releaseDate>2014-10-20T00:00:00Z</releaseDate>
+					<addedDate>2014-10-06T10:23:38Z</addedDate>
+					<price>
+						<currency code="GBP" />
+						<value>8.99</value>
+						<formattedPrice>£8.99</formattedPrice>
+						<rrp>8.99</rrp>
+						<formattedRrp>£8.99</formattedRrp>
+						<onSale>false</onSale>
+					</price>
+					<formats availableDrmFree="true">
+						<format id="17">
+							<fileFormat>MP3</fileFormat>
+							<bitRate>320</bitRate>
+							<drmFree>true</drmFree>
+						</format>
+					</formats>
+					<label id="383633">
+						<name>Digital Distribution Qatar</name>
+					</label>
+					<licensor id="1">
+						<name>Universal</name>
+					</licensor>
+					<trackCount>10</trackCount>
+				</release>
+			</listItem>
+			<listItem id="3889465">
+				<type>release</type>
+				<release id="3889465">
+					<title>Soused</title>
+					<version />
+					<type>Album</type>
+					<barcode>652637342833</barcode>
+					<year>2014</year>
+					<explicitContent>false</explicitContent>
+					<artist id="2460527">
+						<name>Scott Walker + Sunn O)))</name>
+						<appearsAs>Scott Walker + Sunn O)))</appearsAs>
+						<url>http://www.7digital.com/artist/scott-walker-plus-sunn-o/?partner=0</url>
+					</artist>
+					<url>http://www.7digital.com/artist/scott-walker-plus-sunn-o/release/soused/?partner=0</url>
+					<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/038/894/0003889465_50.jpg</image>
+					<releaseDate>2014-10-20T00:00:00Z</releaseDate>
+					<addedDate>2014-10-15T14:59:35Z</addedDate>
+					<price>
+						<currency code="GBP" />
+						<value>4.95</value>
+						<formattedPrice>£4.95</formattedPrice>
+						<rrp>4.95</rrp>
+						<formattedRrp>£4.95</formattedRrp>
+						<onSale>false</onSale>
+					</price>
+					<formats availableDrmFree="true">
+						<format id="17">
+							<fileFormat>MP3</fileFormat>
+							<bitRate>320</bitRate>
+							<drmFree>true</drmFree>
+						</format>
+						<format id="33">
+							<fileFormat>M4A</fileFormat>
+							<bitRate>320</bitRate>
+							<drmFree>true</drmFree>
+						</format>
+					</formats>
+					<label id="905">
+						<name>4AD</name>
+					</label>
+					<licensor id="39">
+						<name>Beggars</name>
+					</licensor>
+					<trackCount>5</trackCount>
+				</release>
+			</listItem>
+			<listItem id="3889468">
+				<type>release</type>
+				<release id="3889468">
+					<title>The Best Day</title>
+					<version />
+					<type>Album</type>
+					<barcode>744861106258</barcode>
+					<year>2014</year>
+					<explicitContent>false</explicitContent>
+					<artist id="24908">
+						<name>Thurston Moore</name>
+						<appearsAs>Thurston Moore</appearsAs>
+						<url>http://www.7digital.com/artist/thurston-moore/?partner=0</url>
+					</artist>
+					<url>http://www.7digital.com/artist/thurston-moore/release/the-best-day-1/?partner=0</url>
+					<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/038/894/0003889468_50.jpg</image>
+					<releaseDate>2014-10-20T00:00:00Z</releaseDate>
+					<addedDate>2014-10-15T14:59:55Z</addedDate>
+					<price>
+						<currency code="GBP" />
+						<value>7.92</value>
+						<formattedPrice>£7.92</formattedPrice>
+						<rrp>7.92</rrp>
+						<formattedRrp>£7.92</formattedRrp>
+						<onSale>false</onSale>
+					</price>
+					<formats availableDrmFree="true">
+						<format id="17">
+							<fileFormat>MP3</fileFormat>
+							<bitRate>320</bitRate>
+							<drmFree>true</drmFree>
+						</format>
+						<format id="33">
+							<fileFormat>M4A</fileFormat>
+							<bitRate>320</bitRate>
+							<drmFree>true</drmFree>
+						</format>
+					</formats>
+					<label id="1221">
+						<name>Matador</name>
+					</label>
+					<licensor id="39">
+						<name>Beggars</name>
+					</licensor>
+					<trackCount>8</trackCount>
+				</release>
+			</listItem>
+			<listItem id="3810513">
+				<type>release</type>
+				<release id="3810513">
+					<title>Wait 'Til Night</title>
+					<version />
+					<type>Album</type>
+					<barcode>5055869500104</barcode>
+					<year>2014</year>
+					<explicitContent>false</explicitContent>
+					<artist id="401730">
+						<name>Cooly G</name>
+						<appearsAs>Cooly G</appearsAs>
+						<url>http://www.7digital.com/artist/cooly-g/?partner=0</url>
+					</artist>
+					<url>http://www.7digital.com/artist/cooly-g/release/wait-til-night/?partner=0</url>
+					<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/038/105/0003810513_50.jpg</image>
+					<releaseDate>2014-10-20T00:00:00Z</releaseDate>
+					<addedDate>2014-09-17T12:14:42Z</addedDate>
+					<price>
+						<currency code="GBP" />
+						<value>8.49</value>
+						<formattedPrice>£8.49</formattedPrice>
+						<rrp>8.49</rrp>
+						<formattedRrp>£8.49</formattedRrp>
+						<onSale>false</onSale>
+					</price>
+					<formats availableDrmFree="true">
+						<format id="17">
+							<fileFormat>MP3</fileFormat>
+							<bitRate>320</bitRate>
+							<drmFree>true</drmFree>
+						</format>
+					</formats>
+					<label id="13300">
+						<name>Hyperdub</name>
+					</label>
+					<licensor id="21">
+						<name>Orchard</name>
+					</licensor>
+					<trackCount>12</trackCount>
+				</release>
+			</listItem>
+			<listItem id="3858830">
+				<type>release</type>
+				<release id="3858830">
+					<title>Islands</title>
+					<version />
+					<type>Album</type>
+					<barcode>05060148572949</barcode>
+					<year>2014</year>
+					<explicitContent>false</explicitContent>
+					<artist id="1244597">
+						<name>Bear's Den</name>
+						<appearsAs>Bear's Den</appearsAs>
+						<url>http://www.7digital.com/artist/bears-den/?partner=0</url>
+					</artist>
+					<url>http://www.7digital.com/artist/bears-den/release/islands-1/?partner=0</url>
+					<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/038/588/0003858830_50.jpg</image>
+					<releaseDate>2014-10-20T00:00:00Z</releaseDate>
+					<addedDate>2014-10-06T10:15:49Z</addedDate>
+					<price>
+						<currency code="GBP" />
+						<value>5.99</value>
+						<formattedPrice>£5.99</formattedPrice>
+						<rrp>5.99</rrp>
+						<formattedRrp>£5.99</formattedRrp>
+						<onSale>false</onSale>
+					</price>
+					<formats availableDrmFree="true">
+						<format id="17">
+							<fileFormat>MP3</fileFormat>
+							<bitRate>320</bitRate>
+							<drmFree>true</drmFree>
+						</format>
+					</formats>
+					<label id="321760">
+						<name>Digital Distribution Saudi Arabia</name>
+					</label>
+					<licensor id="1">
+						<name>Universal</name>
+					</licensor>
+					<trackCount>10</trackCount>
+				</release>
+			</listItem>
+			<listItem id="3890033">
+				<type>release</type>
+				<release id="3890033">
+					<title>Melody Road</title>
+					<version>Deluxe</version>
+					<type>Album</type>
+					<barcode>00602547069733</barcode>
+					<year>2014</year>
+					<explicitContent>false</explicitContent>
+					<artist id="35">
+						<name>Neil Diamond</name>
+						<appearsAs>Neil Diamond</appearsAs>
+						<url>http://www.7digital.com/artist/neil-diamond/?partner=0</url>
+					</artist>
+					<url>http://www.7digital.com/artist/neil-diamond/release/melody-road-deluxe/?partner=0</url>
+					<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/038/900/0003890033_50.jpg</image>
+					<releaseDate>2014-10-20T00:00:00Z</releaseDate>
+					<addedDate>2014-10-15T15:17:17Z</addedDate>
+					<price>
+						<currency code="GBP" />
+						<value>9.99</value>
+						<formattedPrice>£9.99</formattedPrice>
+						<rrp>9.99</rrp>
+						<formattedRrp>£9.99</formattedRrp>
+						<onSale>false</onSale>
+					</price>
+					<formats availableDrmFree="true">
+						<format id="17">
+							<fileFormat>MP3</fileFormat>
+							<bitRate>320</bitRate>
+							<drmFree>true</drmFree>
+						</format>
+					</formats>
+					<label id="199682">
+						<name>Virgin EMI</name>
+					</label>
+					<licensor id="1">
+						<name>Universal</name>
+					</licensor>
+					<trackCount>14</trackCount>
+				</release>
+			</listItem>
+			<listItem id="3858908">
+				<type>release</type>
+				<release id="3858908">
+					<title>Melody Road</title>
+					<version />
+					<type>Album</type>
+					<barcode>00602537991372</barcode>
+					<year>1991</year>
+					<explicitContent>false</explicitContent>
+					<artist id="35">
+						<name>Neil Diamond</name>
+						<appearsAs>Neil Diamond</appearsAs>
+						<url>http://www.7digital.com/artist/neil-diamond/?partner=0</url>
+					</artist>
+					<url>http://www.7digital.com/artist/neil-diamond/release/melody-road/?partner=0</url>
+					<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/038/589/0003858908_50.jpg</image>
+					<releaseDate>2014-10-20T00:00:00Z</releaseDate>
+					<addedDate>2014-10-06T10:25:21Z</addedDate>
+					<price>
+						<currency code="GBP" />
+						<value>8.99</value>
+						<formattedPrice>£8.99</formattedPrice>
+						<rrp>8.99</rrp>
+						<formattedRrp>£8.99</formattedRrp>
+						<onSale>false</onSale>
+					</price>
+					<formats availableDrmFree="true">
+						<format id="17">
+							<fileFormat>MP3</fileFormat>
+							<bitRate>320</bitRate>
+							<drmFree>true</drmFree>
+						</format>
+					</formats>
+					<label id="383633">
+						<name>Digital Distribution Qatar</name>
+					</label>
+					<licensor id="1">
+						<name>Universal</name>
+					</licensor>
+					<trackCount>12</trackCount>
+				</release>
+			</listItem>
+			<listItem id="3874276">
+				<type>release</type>
+				<release id="3874276">
+					<title>Aquostic (Stripped Bare)</title>
+					<version />
+					<type>Album</type>
+					<barcode>825646203253</barcode>
+					<year>2014</year>
+					<explicitContent>false</explicitContent>
+					<artist id="358">
+						<name>Status Quo</name>
+						<appearsAs>Status Quo</appearsAs>
+						<url>http://www.7digital.com/artist/status-quo/?partner=0</url>
+					</artist>
+					<url>http://www.7digital.com/artist/status-quo/release/aquostic-stripped-bare/?partner=0</url>
+					<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/038/742/0003874276_50.jpg</image>
+					<releaseDate>2014-10-20T00:00:00Z</releaseDate>
+					<addedDate>2014-10-08T23:20:58Z</addedDate>
+					<price>
+						<currency code="GBP" />
+						<value>7.99</value>
+						<formattedPrice>£7.99</formattedPrice>
+						<rrp>7.99</rrp>
+						<formattedRrp>£7.99</formattedRrp>
+						<onSale>false</onSale>
+					</price>
+					<formats availableDrmFree="true">
+						<format id="17">
+							<fileFormat>MP3</fileFormat>
+							<bitRate>320</bitRate>
+							<drmFree>true</drmFree>
+						</format>
+					</formats>
+					<label id="262">
+						<name>Rhino</name>
+					</label>
+					<licensor id="18">
+						<name>Warner</name>
+					</licensor>
+					<trackCount>22</trackCount>
+				</release>
+			</listItem>
+			<listItem id="3866012">
+				<type>release</type>
+				<release id="3866012">
+					<title>Aretha Franklin Sings The Great Diva Classics</title>
+					<version />
+					<type>Album</type>
+					<barcode>886444812429</barcode>
+					<year>2014</year>
+					<explicitContent>false</explicitContent>
+					<artist id="1982">
+						<name>Aretha Franklin</name>
+						<appearsAs>Aretha Franklin</appearsAs>
+						<url>http://www.7digital.com/artist/aretha-franklin/?partner=0</url>
+					</artist>
+					<url>http://www.7digital.com/artist/aretha-franklin/release/aretha-franklin-sings-the-great-diva-classics/?partner=0</url>
+					<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/038/660/0003866012_50.jpg</image>
+					<releaseDate>2014-10-20T00:00:00Z</releaseDate>
+					<addedDate>2014-10-14T16:35:57Z</addedDate>
+					<price>
+						<currency code="GBP" />
+						<value>8.99</value>
+						<formattedPrice>£8.99</formattedPrice>
+						<rrp>8.99</rrp>
+						<formattedRrp>£8.99</formattedRrp>
+						<onSale>false</onSale>
+					</price>
+					<formats availableDrmFree="true">
+						<format id="17">
+							<fileFormat>MP3</fileFormat>
+							<bitRate>320</bitRate>
+							<drmFree>true</drmFree>
+						</format>
+						<format id="33">
+							<fileFormat>M4A</fileFormat>
+							<bitRate>320</bitRate>
+							<drmFree>true</drmFree>
+						</format>
+					</formats>
+					<label id="89">
+						<name>RCA Records Label</name>
+					</label>
+					<licensor id="2">
+						<name>Sony Music</name>
+					</licensor>
+					<trackCount>10</trackCount>
+				</release>
+			</listItem>
+			<listItem id="3918446">
+				<type>release</type>
+				<release id="3918446">
+					<title>1989</title>
+					<version />
+					<type>Album</type>
+					<barcode>00602547066886</barcode>
+					<year>2014</year>
+					<explicitContent>false</explicitContent>
+					<artist id="253545">
+						<name>Taylor Swift</name>
+						<appearsAs>Taylor Swift</appearsAs>
+						<url>http://www.7digital.com/artist/taylor-swift/?partner=0</url>
+					</artist>
+					<url>http://www.7digital.com/artist/taylor-swift/release/1989/?partner=0</url>
+					<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/039/184/0003918446_50.jpg</image>
+					<releaseDate>2014-10-27T00:00:00Z</releaseDate>
+					<addedDate>2014-10-27T10:17:02Z</addedDate>
+					<price>
+						<currency code="GBP" />
+						<value>6.99</value>
+						<formattedPrice>£6.99</formattedPrice>
+						<rrp>8.99</rrp>
+						<formattedRrp>£8.99</formattedRrp>
+						<onSale>true</onSale>
+					</price>
+					<formats availableDrmFree="true">
+						<format id="17">
+							<fileFormat>MP3</fileFormat>
+							<bitRate>320</bitRate>
+							<drmFree>true</drmFree>
+						</format>
+					</formats>
+					<label id="149943">
+						<name>Universal Music (Pty) Ltd.</name>
+					</label>
+					<licensor id="1">
+						<name>Universal</name>
+					</licensor>
+					<trackCount>13</trackCount>
+				</release>
+			</listItem>
+			<listItem id="3918447">
+				<type>release</type>
+				<release id="3918447">
+					<title>1989</title>
+					<version>Deluxe</version>
+					<type>Album</type>
+					<barcode>00602547066893</barcode>
+					<year>2014</year>
+					<explicitContent>false</explicitContent>
+					<artist id="253545">
+						<name>Taylor Swift</name>
+						<appearsAs>Taylor Swift</appearsAs>
+						<url>http://www.7digital.com/artist/taylor-swift/?partner=0</url>
+					</artist>
+					<url>http://www.7digital.com/artist/taylor-swift/release/1989-deluxe/?partner=0</url>
+					<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/039/184/0003918447_50.jpg</image>
+					<releaseDate>2014-10-27T00:00:00Z</releaseDate>
+					<addedDate>2014-10-27T10:17:39Z</addedDate>
+					<price>
+						<currency code="GBP" />
+						<value>10.99</value>
+						<formattedPrice>£10.99</formattedPrice>
+						<rrp>10.99</rrp>
+						<formattedRrp>£10.99</formattedRrp>
+						<onSale>false</onSale>
+					</price>
+					<formats availableDrmFree="true">
+						<format id="17">
+							<fileFormat>MP3</fileFormat>
+							<bitRate>320</bitRate>
+							<drmFree>true</drmFree>
+						</format>
+					</formats>
+					<label id="149943">
+						<name>Universal Music (Pty) Ltd.</name>
+					</label>
+					<licensor id="1">
+						<name>Universal</name>
+					</licensor>
+					<trackCount>19</trackCount>
+				</release>
+			</listItem>
+			<listItem id="3908022">
+				<type>release</type>
+				<release id="3908022">
+					<title>Run the Jewels 2</title>
+					<version />
+					<type>Album</type>
+					<barcode>886444890540</barcode>
+					<year>2014</year>
+					<explicitContent>false</explicitContent>
+					<artist id="2057842">
+						<name>Run The Jewels</name>
+						<appearsAs>Run The Jewels</appearsAs>
+						<url>http://www.7digital.com/artist/run-the-jewels/?partner=0</url>
+					</artist>
+					<url>http://www.7digital.com/artist/run-the-jewels/release/run-the-jewels-2/?partner=0</url>
+					<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/039/080/0003908022_50.jpg</image>
+					<releaseDate>2014-10-27T00:00:00Z</releaseDate>
+					<addedDate>2014-10-24T05:12:23Z</addedDate>
+					<price>
+						<currency code="GBP" />
+						<value>8.49</value>
+						<formattedPrice>£8.49</formattedPrice>
+						<rrp>8.49</rrp>
+						<formattedRrp>£8.49</formattedRrp>
+						<onSale>false</onSale>
+					</price>
+					<formats availableDrmFree="true">
+						<format id="17">
+							<fileFormat>MP3</fileFormat>
+							<bitRate>320</bitRate>
+							<drmFree>true</drmFree>
+						</format>
+					</formats>
+					<label id="12381">
+						<name>Mass Appeal Records</name>
+					</label>
+					<licensor id="21">
+						<name>Orchard</name>
+					</licensor>
+					<trackCount>11</trackCount>
+				</release>
+			</listItem>
+			<listItem id="3913385">
+				<type>release</type>
+				<release id="3913385">
+					<title>Nobody Wants To Be Here &amp; Nobody Wants To Leave</title>
+					<version />
+					<type>Album</type>
+					<barcode>0600116513250</barcode>
+					<year>2014</year>
+					<explicitContent>false</explicitContent>
+					<artist id="49773">
+						<name>The Twilight Sad</name>
+						<appearsAs>The Twilight Sad</appearsAs>
+						<url>http://www.7digital.com/artist/the-twilight-sad/?partner=0</url>
+					</artist>
+					<url>http://www.7digital.com/artist/the-twilight-sad/release/nobody-wants-to-be-here-and-nobody-wants-to-leave/?partner=0</url>
+					<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/039/133/0003913385_50.jpg</image>
+					<releaseDate>2014-10-26T00:00:00Z</releaseDate>
+					<addedDate>2014-10-23T17:27:26Z</addedDate>
+					<price>
+						<currency code="GBP" />
+						<value>4.99</value>
+						<formattedPrice>£4.99</formattedPrice>
+						<rrp>7.49</rrp>
+						<formattedRrp>£7.49</formattedRrp>
+						<onSale>true</onSale>
+					</price>
+					<formats availableDrmFree="true">
+						<format id="17">
+							<fileFormat>MP3</fileFormat>
+							<bitRate>320</bitRate>
+							<drmFree>true</drmFree>
+						</format>
+						<format id="33">
+							<fileFormat>M4A</fileFormat>
+							<bitRate>320</bitRate>
+							<drmFree>true</drmFree>
+						</format>
+					</formats>
+					<label id="806">
+						<name>FatCat</name>
+					</label>
+					<licensor id="336">
+						<name>Essential Music and Marketing Ltd</name>
+					</licensor>
+					<trackCount>10</trackCount>
+				</release>
+			</listItem>
+			<listItem id="3886086">
+				<type>release</type>
+				<release id="3886086">
+					<title>Nostalgia</title>
+					<version />
+					<type>Album</type>
+					<barcode>00602547045508</barcode>
+					<year>1991</year>
+					<explicitContent>false</explicitContent>
+					<artist id="3299">
+						<name>Annie Lennox</name>
+						<appearsAs>Annie Lennox</appearsAs>
+						<url>http://www.7digital.com/artist/annie-lennox/?partner=0</url>
+					</artist>
+					<url>http://www.7digital.com/artist/annie-lennox/release/nostalgia-2/?partner=0</url>
+					<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/038/860/0003886086_50.jpg</image>
+					<releaseDate>2014-10-27T00:00:00Z</releaseDate>
+					<addedDate>2014-10-14T15:18:55Z</addedDate>
+					<price>
+						<currency code="GBP" />
+						<value>8.99</value>
+						<formattedPrice>£8.99</formattedPrice>
+						<rrp>8.99</rrp>
+						<formattedRrp>£8.99</formattedRrp>
+						<onSale>false</onSale>
+					</price>
+					<formats availableDrmFree="true">
+						<format id="17">
+							<fileFormat>MP3</fileFormat>
+							<bitRate>320</bitRate>
+							<drmFree>true</drmFree>
+						</format>
+					</formats>
+					<label id="383633">
+						<name>Digital Distribution Qatar</name>
+					</label>
+					<licensor id="1">
+						<name>Universal</name>
+					</licensor>
+					<trackCount>12</trackCount>
+				</release>
+			</listItem>
+			<listItem id="3885704">
+				<type>release</type>
+				<release id="3885704">
+					<title>Nostalgia</title>
+					<version>Deluxe</version>
+					<type>Album</type>
+					<barcode>00602547046895</barcode>
+					<year>2009</year>
+					<explicitContent>false</explicitContent>
+					<artist id="3299">
+						<name>Annie Lennox</name>
+						<appearsAs>Annie Lennox</appearsAs>
+						<url>http://www.7digital.com/artist/annie-lennox/?partner=0</url>
+					</artist>
+					<url>http://www.7digital.com/artist/annie-lennox/release/nostalgia-deluxe/?partner=0</url>
+					<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/038/857/0003885704_50.jpg</image>
+					<releaseDate>2014-10-27T00:00:00Z</releaseDate>
+					<addedDate>2014-10-14T13:18:41Z</addedDate>
+					<price>
+						<currency code="GBP" />
+						<value>9.99</value>
+						<formattedPrice>£9.99</formattedPrice>
+						<rrp>9.99</rrp>
+						<formattedRrp>£9.99</formattedRrp>
+						<onSale>false</onSale>
+					</price>
+					<formats availableDrmFree="true">
+						<format id="17">
+							<fileFormat>MP3</fileFormat>
+							<bitRate>320</bitRate>
+							<drmFree>true</drmFree>
+						</format>
+					</formats>
+					<label id="47744">
+						<name>Universal Music Australia Pty. Ltd.</name>
+					</label>
+					<licensor id="1">
+						<name>Universal</name>
+					</licensor>
+					<trackCount>14</trackCount>
+				</release>
+			</listItem>
+			<listItem id="3658054">
+				<type>release</type>
+				<release id="3658054">
+					<title>Super Critical</title>
+					<version>Explicit</version>
+					<type>Album</type>
+					<barcode>5051083083553</barcode>
+					<year>2014</year>
+					<explicitContent>true</explicitContent>
+					<artist id="153504">
+						<name>The Ting Tings</name>
+						<appearsAs>The Ting Tings</appearsAs>
+						<url>http://www.7digital.com/artist/the-ting-tings/?partner=0</url>
+					</artist>
+					<url>http://www.7digital.com/artist/the-ting-tings/release/super-critical/?partner=0</url>
+					<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/036/580/0003658054_50.jpg</image>
+					<releaseDate>2014-10-27T00:00:00Z</releaseDate>
+					<addedDate>2014-07-17T13:40:56Z</addedDate>
+					<price>
+						<currency code="GBP" />
+						<value>7.99</value>
+						<formattedPrice>£7.99</formattedPrice>
+						<rrp>7.99</rrp>
+						<formattedRrp>£7.99</formattedRrp>
+						<onSale>false</onSale>
+					</price>
+					<formats availableDrmFree="true">
+						<format id="17">
+							<fileFormat>MP3</fileFormat>
+							<bitRate>320</bitRate>
+							<drmFree>true</drmFree>
+						</format>
+						<format id="33">
+							<fileFormat>M4A</fileFormat>
+							<bitRate>320</bitRate>
+							<drmFree>true</drmFree>
+						</format>
+					</formats>
+					<label id="331571">
+						<name>Finca Records</name>
+					</label>
+					<licensor id="48">
+						<name>Vital</name>
+					</licensor>
+					<trackCount>9</trackCount>
+				</release>
+			</listItem>
+			<listItem id="3903415">
+				<type>release</type>
+				<release id="3903415">
+					<title>Money Sucks, Friends Rule</title>
+					<version />
+					<type>Album</type>
+					<barcode>886444717052</barcode>
+					<year>2014</year>
+					<explicitContent>false</explicitContent>
+					<artist id="964836">
+						<name>Dillon Francis</name>
+						<appearsAs>Dillon Francis</appearsAs>
+						<url>http://www.7digital.com/artist/dillon-francis/?partner=0</url>
+					</artist>
+					<url>http://www.7digital.com/artist/dillon-francis/release/money-sucks-friends-rule/?partner=0</url>
+					<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/039/034/0003903415_50.jpg</image>
+					<releaseDate>2014-10-27T00:00:00Z</releaseDate>
+					<addedDate>2014-10-23T17:00:27Z</addedDate>
+					<price>
+						<currency code="GBP" />
+						<value>7.99</value>
+						<formattedPrice>£7.99</formattedPrice>
+						<rrp>7.99</rrp>
+						<formattedRrp>£7.99</formattedRrp>
+						<onSale>false</onSale>
+					</price>
+					<formats availableDrmFree="true">
+						<format id="17">
+							<fileFormat>MP3</fileFormat>
+							<bitRate>320</bitRate>
+							<drmFree>true</drmFree>
+						</format>
+						<format id="33">
+							<fileFormat>M4A</fileFormat>
+							<bitRate>320</bitRate>
+							<drmFree>true</drmFree>
+						</format>
+					</formats>
+					<label id="592">
+						<name>Columbia</name>
+					</label>
+					<licensor id="2">
+						<name>Sony Music</name>
+					</licensor>
+					<trackCount>12</trackCount>
+				</release>
+			</listItem>
+			<listItem id="3871125">
+				<type>release</type>
+				<release id="3871125">
+					<title>Fumes</title>
+					<version />
+					<type>Album</type>
+					<barcode>656605612867</barcode>
+					<year>2014</year>
+					<explicitContent>false</explicitContent>
+					<artist id="1544393">
+						<name>Lily &amp; Madeleine</name>
+						<appearsAs>Lily &amp; Madeleine</appearsAs>
+						<url>http://www.7digital.com/artist/lily-and-madeleine/?partner=0</url>
+					</artist>
+					<url>http://www.7digital.com/artist/lily-and-madeleine/release/fumes/?partner=0</url>
+					<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/038/711/0003871125_50.jpg</image>
+					<releaseDate>2014-10-27T00:00:00Z</releaseDate>
+					<addedDate>2014-10-08T21:21:38Z</addedDate>
+					<price>
+						<currency code="GBP" />
+						<value>7.49</value>
+						<formattedPrice>£7.49</formattedPrice>
+						<rrp>7.49</rrp>
+						<formattedRrp>£7.49</formattedRrp>
+						<onSale>false</onSale>
+					</price>
+					<formats availableDrmFree="true">
+						<format id="17">
+							<fileFormat>MP3</fileFormat>
+							<bitRate>320</bitRate>
+							<drmFree>true</drmFree>
+						</format>
+						<format id="33">
+							<fileFormat>M4A</fileFormat>
+							<bitRate>320</bitRate>
+							<drmFree>true</drmFree>
+						</format>
+					</formats>
+					<label id="157366">
+						<name>Asthmatic Kitty</name>
+					</label>
+					<licensor id="369">
+						<name>SC Distribution Company</name>
+					</licensor>
+					<trackCount>10</trackCount>
+				</release>
+			</listItem>
+			<listItem id="3878464">
+				<type>release</type>
+				<release id="3878464">
+					<title>Kiasmos</title>
+					<version />
+					<type>Album</type>
+					<barcode>4050486109618</barcode>
+					<year>2014</year>
+					<explicitContent>false</explicitContent>
+					<artist id="449359">
+						<name>Kiasmos</name>
+						<appearsAs>Kiasmos</appearsAs>
+						<url>http://www.7digital.com/artist/kiasmos/?partner=0</url>
+					</artist>
+					<url>http://www.7digital.com/artist/kiasmos/release/kiasmos/?partner=0</url>
+					<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/038/784/0003878464_50.jpg</image>
+					<releaseDate>2014-10-27T00:00:00Z</releaseDate>
+					<addedDate>2014-10-23T16:23:27Z</addedDate>
+					<price>
+						<currency code="GBP" />
+						<value>6.99</value>
+						<formattedPrice>£6.99</formattedPrice>
+						<rrp>6.99</rrp>
+						<formattedRrp>£6.99</formattedRrp>
+						<onSale>false</onSale>
+					</price>
+					<formats availableDrmFree="true">
+						<format id="17">
+							<fileFormat>MP3</fileFormat>
+							<bitRate>320</bitRate>
+							<drmFree>true</drmFree>
+						</format>
+						<format id="33">
+							<fileFormat>M4A</fileFormat>
+							<bitRate>320</bitRate>
+							<drmFree>true</drmFree>
+						</format>
+					</formats>
+					<label id="13011">
+						<name>Erased Tapes</name>
+					</label>
+					<licensor id="47">
+						<name>Finetunes</name>
+					</licensor>
+					<trackCount>8</trackCount>
+				</release>
+			</listItem>
+			<listItem id="3885766">
+				<type>release</type>
+				<release id="3885766">
+					<title>Black Veil Brides</title>
+					<version />
+					<type>Album</type>
+					<barcode>00602547041470</barcode>
+					<year>2009</year>
+					<explicitContent>false</explicitContent>
+					<artist id="677154">
+						<name>Black Veil Brides</name>
+						<appearsAs>Black Veil Brides</appearsAs>
+						<url>http://www.7digital.com/artist/black-veil-brides/?partner=0</url>
+					</artist>
+					<url>http://www.7digital.com/artist/black-veil-brides/release/black-veil-brides/?partner=0</url>
+					<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/038/857/0003885766_50.jpg</image>
+					<releaseDate>2014-10-27T00:00:00Z</releaseDate>
+					<addedDate>2014-10-14T13:31:33Z</addedDate>
+					<price>
+						<currency code="GBP" />
+						<value>8.99</value>
+						<formattedPrice>£8.99</formattedPrice>
+						<rrp>8.99</rrp>
+						<formattedRrp>£8.99</formattedRrp>
+						<onSale>false</onSale>
+					</price>
+					<formats availableDrmFree="true">
+						<format id="17">
+							<fileFormat>MP3</fileFormat>
+							<bitRate>320</bitRate>
+							<drmFree>true</drmFree>
+						</format>
+					</formats>
+					<label id="47744">
+						<name>Universal Music Australia Pty. Ltd.</name>
+					</label>
+					<licensor id="1">
+						<name>Universal</name>
+					</licensor>
+					<trackCount>11</trackCount>
+				</release>
+			</listItem>
+			<listItem id="3790138">
+				<type>release</type>
+				<release id="3790138">
+					<title>Tell 'Em I'm Gone</title>
+					<version />
+					<type>Album</type>
+					<barcode>886444794824</barcode>
+					<year>2014</year>
+					<explicitContent>false</explicitContent>
+					<artist id="357626">
+						<name>Yusuf / Cat Stevens</name>
+						<appearsAs>Yusuf / Cat Stevens</appearsAs>
+						<url>http://www.7digital.com/artist/yusuf-cat-stevens/?partner=0</url>
+					</artist>
+					<url>http://www.7digital.com/artist/yusuf-cat-stevens/release/tell-em-im-gone/?partner=0</url>
+					<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/037/901/0003790138_50.jpg</image>
+					<releaseDate>2014-10-27T00:00:00Z</releaseDate>
+					<addedDate>2014-10-21T19:03:02Z</addedDate>
+					<price>
+						<currency code="GBP" />
+						<value>8.99</value>
+						<formattedPrice>£8.99</formattedPrice>
+						<rrp>8.99</rrp>
+						<formattedRrp>£8.99</formattedRrp>
+						<onSale>false</onSale>
+					</price>
+					<formats availableDrmFree="true">
+						<format id="17">
+							<fileFormat>MP3</fileFormat>
+							<bitRate>320</bitRate>
+							<drmFree>true</drmFree>
+						</format>
+						<format id="33">
+							<fileFormat>M4A</fileFormat>
+							<bitRate>320</bitRate>
+							<drmFree>true</drmFree>
+						</format>
+					</formats>
+					<label id="12031">
+						<name>Legacy Recordings</name>
+					</label>
+					<licensor id="2">
+						<name>Sony Music</name>
+					</licensor>
+					<trackCount>10</trackCount>
+				</release>
+			</listItem>
+			<listItem id="3858861">
+				<type>release</type>
+				<release id="3858861">
+					<title>Some Songs</title>
+					<version />
+					<type>Album</type>
+					<barcode>00602537980697</barcode>
+					<year>2007</year>
+					<explicitContent>false</explicitContent>
+					<artist id="1415382">
+						<name>Bored Nothing</name>
+						<appearsAs>Bored Nothing</appearsAs>
+						<url>http://www.7digital.com/artist/bored-nothing/?partner=0</url>
+					</artist>
+					<url>http://www.7digital.com/artist/bored-nothing/release/some-songs/?partner=0</url>
+					<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/038/588/0003858861_50.jpg</image>
+					<releaseDate>2014-10-27T00:00:00Z</releaseDate>
+					<addedDate>2014-10-06T10:20:07Z</addedDate>
+					<price>
+						<currency code="GBP" />
+						<value>8.99</value>
+						<formattedPrice>£8.99</formattedPrice>
+						<rrp>8.99</rrp>
+						<formattedRrp>£8.99</formattedRrp>
+						<onSale>false</onSale>
+					</price>
+					<formats availableDrmFree="true">
+						<format id="17">
+							<fileFormat>MP3</fileFormat>
+							<bitRate>320</bitRate>
+							<drmFree>true</drmFree>
+						</format>
+					</formats>
+					<label id="87028">
+						<name>Spunk</name>
+					</label>
+					<licensor id="1">
+						<name>Universal</name>
+					</licensor>
+					<trackCount>13</trackCount>
+				</release>
+			</listItem>
+			<listItem id="3886864">
+				<type>release</type>
+				<release id="3886864">
+					<title>Collected</title>
+					<version />
+					<type>Album</type>
+					<barcode>00602537946655</barcode>
+					<year>1991</year>
+					<explicitContent>false</explicitContent>
+					<artist id="55">
+						<name>Stereo MC's</name>
+						<appearsAs>Stereo MC's</appearsAs>
+						<url>http://www.7digital.com/artist/stereo-mcs-(2)/?partner=0</url>
+					</artist>
+					<url>http://www.7digital.com/artist/stereo-mcs-(2)/release/collected/?partner=0</url>
+					<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/038/868/0003886864_50.jpg</image>
+					<releaseDate>2014-10-27T00:00:00Z</releaseDate>
+					<addedDate>2014-10-15T02:32:30Z</addedDate>
+					<price>
+						<currency code="GBP" />
+						<value>28.99</value>
+						<formattedPrice>£28.99</formattedPrice>
+						<rrp>28.99</rrp>
+						<formattedRrp>£28.99</formattedRrp>
+						<onSale>false</onSale>
+					</price>
+					<formats availableDrmFree="true">
+						<format id="17">
+							<fileFormat>MP3</fileFormat>
+							<bitRate>320</bitRate>
+							<drmFree>true</drmFree>
+						</format>
+					</formats>
+					<label id="383633">
+						<name>Digital Distribution Qatar</name>
+					</label>
+					<licensor id="1">
+						<name>Universal</name>
+					</licensor>
+					<trackCount>123</trackCount>
+				</release>
+			</listItem>
+			<listItem id="3888356">
+				<type>release</type>
+				<release id="3888356">
+					<title>Feels So Good</title>
+					<version />
+					<type>Album</type>
+					<barcode>00811790020372</barcode>
+					<year>2009</year>
+					<explicitContent>false</explicitContent>
+					<artist id="1968">
+						<name>Dionne Warwick</name>
+						<appearsAs>Dionne Warwick</appearsAs>
+						<url>http://www.7digital.com/artist/dionne-warwick/?partner=0</url>
+					</artist>
+					<url>http://www.7digital.com/artist/dionne-warwick/release/feels-so-good-1/?partner=0</url>
+					<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/038/883/0003888356_50.jpg</image>
+					<releaseDate>2014-10-26T00:00:00Z</releaseDate>
+					<addedDate>2014-10-15T11:36:50Z</addedDate>
+					<price>
+						<currency code="GBP" />
+						<value>8.99</value>
+						<formattedPrice>£8.99</formattedPrice>
+						<rrp>8.99</rrp>
+						<formattedRrp>£8.99</formattedRrp>
+						<onSale>false</onSale>
+					</price>
+					<formats availableDrmFree="true">
+						<format id="17">
+							<fileFormat>MP3</fileFormat>
+							<bitRate>320</bitRate>
+							<drmFree>true</drmFree>
+						</format>
+					</formats>
+					<label id="242879">
+						<name>Caroline International</name>
+					</label>
+					<licensor id="1">
+						<name>Universal</name>
+					</licensor>
+					<trackCount>14</trackCount>
+				</release>
+			</listItem>
+			<listItem id="3885953">
+				<type>release</type>
+				<release id="3885953">
+					<title>Down To Earth</title>
+					<version />
+					<type>Album</type>
+					<barcode>00044003177512</barcode>
+					<year>2012</year>
+					<explicitContent>false</explicitContent>
+					<artist id="585040">
+						<name>Flight Facilities</name>
+						<appearsAs>Flight Facilities</appearsAs>
+						<url>http://www.7digital.com/artist/flight-facilities/?partner=0</url>
+					</artist>
+					<url>http://www.7digital.com/artist/flight-facilities/release/down-to-earth-1/?partner=0</url>
+					<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/038/859/0003885953_50.jpg</image>
+					<releaseDate>2014-10-27T00:00:00Z</releaseDate>
+					<addedDate>2014-10-14T15:15:00Z</addedDate>
+					<price>
+						<currency code="GBP" />
+						<value>8.99</value>
+						<formattedPrice>£8.99</formattedPrice>
+						<rrp>8.99</rrp>
+						<formattedRrp>£8.99</formattedRrp>
+						<onSale>false</onSale>
+					</price>
+					<formats availableDrmFree="true">
+						<format id="17">
+							<fileFormat>MP3</fileFormat>
+							<bitRate>320</bitRate>
+							<drmFree>true</drmFree>
+						</format>
+					</formats>
+					<label id="3309">
+						<name>Universal Music Ireland Ltd.</name>
+					</label>
+					<licensor id="1">
+						<name>Universal</name>
+					</licensor>
+					<trackCount>14</trackCount>
+				</release>
+			</listItem>
+			<listItem id="3832394">
+				<type>release</type>
+				<release id="3832394">
+					<title>Alive</title>
+					<version />
+					<type>Album</type>
+					<barcode>5051083084611</barcode>
+					<year>2014</year>
+					<explicitContent>false</explicitContent>
+					<artist id="2091641">
+						<name>Glass Caves</name>
+						<appearsAs>Glass Caves</appearsAs>
+						<url>http://www.7digital.com/artist/glass-caves/?partner=0</url>
+					</artist>
+					<url>http://www.7digital.com/artist/glass-caves/release/alive/?partner=0</url>
+					<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/038/323/0003832394_50.jpg</image>
+					<releaseDate>2014-10-27T00:00:00Z</releaseDate>
+					<addedDate>2014-09-24T18:09:44Z</addedDate>
+					<price>
+						<currency code="GBP" />
+						<value>7.99</value>
+						<formattedPrice>£7.99</formattedPrice>
+						<rrp>7.99</rrp>
+						<formattedRrp>£7.99</formattedRrp>
+						<onSale>false</onSale>
+					</price>
+					<formats availableDrmFree="true">
+						<format id="17">
+							<fileFormat>MP3</fileFormat>
+							<bitRate>320</bitRate>
+							<drmFree>true</drmFree>
+						</format>
+						<format id="33">
+							<fileFormat>M4A</fileFormat>
+							<bitRate>320</bitRate>
+							<drmFree>true</drmFree>
+						</format>
+					</formats>
+					<label id="1705">
+						<name>Tri Tone</name>
+					</label>
+					<licensor id="48">
+						<name>Vital</name>
+					</licensor>
+					<trackCount>12</trackCount>
+				</release>
+			</listItem>
+			<listItem id="3885993">
+				<type>release</type>
+				<release id="3885993">
+					<title>Headhunter</title>
+					<version />
+					<type>Single</type>
+					<barcode>05052111140668</barcode>
+					<year>2012</year>
+					<explicitContent>false</explicitContent>
+					<artist id="14380">
+						<name>The Crown</name>
+						<appearsAs>The Crown</appearsAs>
+						<url>http://www.7digital.com/artist/the-crown/?partner=0</url>
+					</artist>
+					<url>http://www.7digital.com/artist/the-crown/release/headhunter-1/?partner=0</url>
+					<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/038/859/0003885993_50.jpg</image>
+					<releaseDate>2014-10-27T00:00:00Z</releaseDate>
+					<addedDate>2014-10-14T15:17:24Z</addedDate>
+					<price>
+						<currency code="GBP" />
+						<value>1.29</value>
+						<formattedPrice>£1.29</formattedPrice>
+						<rrp>1.29</rrp>
+						<formattedRrp>£1.29</formattedRrp>
+						<onSale>false</onSale>
+					</price>
+					<formats availableDrmFree="true">
+						<format id="17">
+							<fileFormat>MP3</fileFormat>
+							<bitRate>320</bitRate>
+							<drmFree>true</drmFree>
+						</format>
+					</formats>
+					<label id="242879">
+						<name>Caroline International</name>
+					</label>
+					<licensor id="1">
+						<name>Universal</name>
+					</licensor>
+					<trackCount>2</trackCount>
+				</release>
+			</listItem>
+			<listItem id="3886246">
+				<type>release</type>
+				<release id="3886246">
+					<title>Jackie - The Party Album</title>
+					<version />
+					<type>Album</type>
+					<barcode>00600753559697</barcode>
+					<year>2012</year>
+					<explicitContent>false</explicitContent>
+					<artist id="209">
+						<name>Various Artists</name>
+						<appearsAs>Various Artists</appearsAs>
+						<url>http://www.7digital.com/artist/various-artists/?partner=0</url>
+					</artist>
+					<url>http://www.7digital.com/artist/various-artists/release/jackie-the-party-album/?partner=0</url>
+					<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/038/862/0003886246_50.jpg</image>
+					<releaseDate>2014-10-27T00:00:00Z</releaseDate>
+					<addedDate>2014-10-14T15:20:49Z</addedDate>
+					<price>
+						<currency code="GBP" />
+						<value>5.99</value>
+						<formattedPrice>£5.99</formattedPrice>
+						<rrp>5.99</rrp>
+						<formattedRrp>£5.99</formattedRrp>
+						<onSale>false</onSale>
+					</price>
+					<formats availableDrmFree="true">
+						<format id="17">
+							<fileFormat>MP3</fileFormat>
+							<bitRate>320</bitRate>
+							<drmFree>true</drmFree>
+						</format>
+					</formats>
+					<label id="3309">
+						<name>Universal Music Ireland Ltd.</name>
+					</label>
+					<licensor id="1">
+						<name>Universal</name>
+					</licensor>
+					<trackCount>34</trackCount>
+				</release>
+			</listItem>
+			<listItem id="3818970">
+				<type>release</type>
+				<release id="3818970">
+					<title>Motown Christmas</title>
+					<version />
+					<type>Album</type>
+					<barcode>00602537506736</barcode>
+					<year>2007</year>
+					<explicitContent>false</explicitContent>
+					<artist id="209">
+						<name>Various Artists</name>
+						<appearsAs>Various Artists</appearsAs>
+						<url>http://www.7digital.com/artist/various-artists/?partner=0</url>
+					</artist>
+					<url>http://www.7digital.com/artist/various-artists/release/motown-christmas-1/?partner=0</url>
+					<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/038/189/0003818970_50.jpg</image>
+					<releaseDate>2014-09-30T00:00:00Z</releaseDate>
+					<addedDate>2014-09-19T12:44:53Z</addedDate>
+					<price>
+						<currency code="GBP" />
+						<value>7.99</value>
+						<formattedPrice>£7.99</formattedPrice>
+						<rrp>7.99</rrp>
+						<formattedRrp>£7.99</formattedRrp>
+						<onSale>false</onSale>
+					</price>
+					<formats availableDrmFree="true">
+						<format id="17">
+							<fileFormat>MP3</fileFormat>
+							<bitRate>320</bitRate>
+							<drmFree>true</drmFree>
+						</format>
+					</formats>
+					<label id="383291">
+						<name>Digital Distribution Nigeria</name>
+					</label>
+					<licensor id="1">
+						<name>Universal</name>
+					</licensor>
+					<trackCount>16</trackCount>
+				</release>
+			</listItem>
+			<listItem id="3885949">
+				<type>release</type>
+				<release id="3885949">
+					<title>Pop Party 13</title>
+					<version />
+					<type>Album</type>
+					<barcode>00600753553886</barcode>
+					<year>2012</year>
+					<explicitContent>false</explicitContent>
+					<artist id="209">
+						<name>Various Artists</name>
+						<appearsAs>Various Artists</appearsAs>
+						<url>http://www.7digital.com/artist/various-artists/?partner=0</url>
+					</artist>
+					<url>http://www.7digital.com/artist/various-artists/release/pop-party-13-1/?partner=0</url>
+					<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/038/859/0003885949_50.jpg</image>
+					<releaseDate>2014-10-27T00:00:00Z</releaseDate>
+					<addedDate>2014-10-14T15:14:52Z</addedDate>
+					<price>
+						<currency code="GBP" />
+						<value>9.99</value>
+						<formattedPrice>£9.99</formattedPrice>
+						<rrp>9.99</rrp>
+						<formattedRrp>£9.99</formattedRrp>
+						<onSale>false</onSale>
+					</price>
+					<formats availableDrmFree="true">
+						<format id="17">
+							<fileFormat>MP3</fileFormat>
+							<bitRate>320</bitRate>
+							<drmFree>true</drmFree>
+						</format>
+					</formats>
+					<label id="3309">
+						<name>Universal Music Ireland Ltd.</name>
+					</label>
+					<licensor id="1">
+						<name>Universal</name>
+					</licensor>
+					<trackCount>40</trackCount>
+				</release>
+			</listItem>
+			<listItem id="3883252">
+				<type>release</type>
+				<release id="3883252">
+					<title>Asymmetry</title>
+					<version />
+					<type>Album</type>
+					<barcode>886444673037</barcode>
+					<year>2014</year>
+					<explicitContent>false</explicitContent>
+					<artist id="1011365">
+						<name>Mallory Knox</name>
+						<appearsAs>Mallory Knox</appearsAs>
+						<url>http://www.7digital.com/artist/mallory-knox/?partner=0</url>
+					</artist>
+					<url>http://www.7digital.com/artist/mallory-knox/release/asymmetry-1/?partner=0</url>
+					<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/038/832/0003883252_50.jpg</image>
+					<releaseDate>2014-10-27T00:00:00Z</releaseDate>
+					<addedDate>2014-10-13T18:25:23Z</addedDate>
+					<price>
+						<currency code="GBP" />
+						<value>7.99</value>
+						<formattedPrice>£7.99</formattedPrice>
+						<rrp>7.99</rrp>
+						<formattedRrp>£7.99</formattedRrp>
+						<onSale>false</onSale>
+					</price>
+					<formats availableDrmFree="true">
+						<format id="17">
+							<fileFormat>MP3</fileFormat>
+							<bitRate>320</bitRate>
+							<drmFree>true</drmFree>
+						</format>
+						<format id="33">
+							<fileFormat>M4A</fileFormat>
+							<bitRate>320</bitRate>
+							<drmFree>true</drmFree>
+						</format>
+					</formats>
+					<label id="21726">
+						<name>Search And Destroy Records</name>
+					</label>
+					<licensor id="2">
+						<name>Sony Music</name>
+					</licensor>
+					<trackCount>11</trackCount>
+				</release>
+			</listItem>
+			<listItem id="3887139">
+				<type>release</type>
+				<release id="3887139">
+					<title>BBC Radio 1's Live Lounge 2014</title>
+					<version />
+					<type>Album</type>
+					<barcode>886444759359</barcode>
+					<year>2014</year>
+					<explicitContent>false</explicitContent>
+					<artist id="209">
+						<name>Various Artists</name>
+						<appearsAs>Various</appearsAs>
+						<url>http://www.7digital.com/artist/various-artists/?partner=0</url>
+					</artist>
+					<url>http://www.7digital.com/artist/various-artists/release/bbc-radio-1s-live-lounge-2014/?partner=0</url>
+					<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/038/871/0003887139_50.jpg</image>
+					<releaseDate>2014-10-27T00:00:00Z</releaseDate>
+					<addedDate>2014-10-24T16:58:54Z</addedDate>
+					<price>
+						<currency code="GBP" />
+						<value>10.49</value>
+						<formattedPrice>£10.49</formattedPrice>
+						<rrp>10.49</rrp>
+						<formattedRrp>£10.49</formattedRrp>
+						<onSale>false</onSale>
+					</price>
+					<formats availableDrmFree="true">
+						<format id="17">
+							<fileFormat>MP3</fileFormat>
+							<bitRate>320</bitRate>
+							<drmFree>true</drmFree>
+						</format>
+						<format id="33">
+							<fileFormat>M4A</fileFormat>
+							<bitRate>320</bitRate>
+							<drmFree>true</drmFree>
+						</format>
+					</formats>
+					<label id="198867">
+						<name>Sony Music CG</name>
+					</label>
+					<licensor id="2">
+						<name>Sony Music</name>
+					</licensor>
+					<trackCount>39</trackCount>
+				</release>
+			</listItem>
+			<listItem id="3778917">
+				<type>release</type>
+				<release id="3778917">
+					<title>High Hazels</title>
+					<version />
+					<type>Album</type>
+					<barcode>5065002066008</barcode>
+					<year>2014</year>
+					<explicitContent>false</explicitContent>
+					<artist id="1985061">
+						<name>High Hazels</name>
+						<appearsAs>High Hazels</appearsAs>
+						<url>http://www.7digital.com/artist/high-hazels/?partner=0</url>
+					</artist>
+					<url>http://www.7digital.com/artist/high-hazels/release/high-hazels/?partner=0</url>
+					<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/037/789/0003778917_50.jpg</image>
+					<releaseDate>2014-10-27T00:00:00Z</releaseDate>
+					<addedDate>2014-09-04T03:49:06Z</addedDate>
+					<price>
+						<currency code="GBP" />
+						<value>8.49</value>
+						<formattedPrice>£8.49</formattedPrice>
+						<rrp>8.49</rrp>
+						<formattedRrp>£8.49</formattedRrp>
+						<onSale>false</onSale>
+					</price>
+					<formats availableDrmFree="true">
+						<format id="17">
+							<fileFormat>MP3</fileFormat>
+							<bitRate>320</bitRate>
+							<drmFree>true</drmFree>
+						</format>
+					</formats>
+					<label id="40051">
+						<name>Heist Or Hit Records</name>
+					</label>
+					<licensor id="21">
+						<name>Orchard</name>
+					</licensor>
+					<trackCount>10</trackCount>
+				</release>
+			</listItem>
+			<listItem id="3867689">
+				<type>release</type>
+				<release id="3867689">
+					<title>Chubbed Up+</title>
+					<version />
+					<type>Album</type>
+					<barcode>888831592051</barcode>
+					<year>2014</year>
+					<explicitContent>false</explicitContent>
+					<artist id="2437259">
+						<name>Sleaford Mods</name>
+						<appearsAs>Sleaford Mods</appearsAs>
+						<url>http://www.7digital.com/artist/sleaford-mods/?partner=0</url>
+					</artist>
+					<url>http://www.7digital.com/artist/sleaford-mods/release/chubbed-upplus/?partner=0</url>
+					<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/038/676/0003867689_50.jpg</image>
+					<releaseDate>2014-10-28T00:00:00Z</releaseDate>
+					<addedDate>2014-10-10T11:56:05Z</addedDate>
+					<price>
+						<currency code="GBP" />
+						<value>8.49</value>
+						<formattedPrice>£8.49</formattedPrice>
+						<rrp>8.49</rrp>
+						<formattedRrp>£8.49</formattedRrp>
+						<onSale>false</onSale>
+					</price>
+					<formats availableDrmFree="true">
+						<format id="17">
+							<fileFormat>MP3</fileFormat>
+							<bitRate>320</bitRate>
+							<drmFree>true</drmFree>
+						</format>
+					</formats>
+					<label id="21522">
+						<name>Ipecac Recordings</name>
+					</label>
+					<licensor id="21">
+						<name>Orchard</name>
+					</licensor>
+					<trackCount>12</trackCount>
+				</release>
+			</listItem>
+			<listItem id="3893444">
+				<type>release</type>
+				<release id="3893444">
+					<title>Paperwork</title>
+					<version>Explicit</version>
+					<type>Album</type>
+					<barcode>886444791915</barcode>
+					<year>2014</year>
+					<explicitContent>true</explicitContent>
+					<artist id="1280">
+						<name>T.I.</name>
+						<appearsAs>T.I.</appearsAs>
+						<url>http://www.7digital.com/artist/t-i/?partner=0</url>
+					</artist>
+					<url>http://www.7digital.com/artist/t-i/release/paperwork-explicit-1/?partner=0</url>
+					<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/038/934/0003893444_50.jpg</image>
+					<releaseDate>2014-10-20T00:00:00Z</releaseDate>
+					<addedDate>2014-10-20T11:38:06Z</addedDate>
+					<price>
+						<currency code="GBP" />
+						<value>7.99</value>
+						<formattedPrice>£7.99</formattedPrice>
+						<rrp>7.99</rrp>
+						<formattedRrp>£7.99</formattedRrp>
+						<onSale>false</onSale>
+					</price>
+					<formats availableDrmFree="true">
+						<format id="17">
+							<fileFormat>MP3</fileFormat>
+							<bitRate>320</bitRate>
+							<drmFree>true</drmFree>
+						</format>
+						<format id="33">
+							<fileFormat>M4A</fileFormat>
+							<bitRate>320</bitRate>
+							<drmFree>true</drmFree>
+						</format>
+					</formats>
+					<label id="331893">
+						<name>Grand Hustle/Columbia</name>
+					</label>
+					<licensor id="2">
+						<name>Sony Music</name>
+					</licensor>
+					<trackCount>18</trackCount>
+				</release>
+			</listItem>
+			<listItem id="3845600">
+				<type>release</type>
+				<release id="3845600">
+					<title>Hollyoaks - The Album</title>
+					<version />
+					<type>Album</type>
+					<barcode>886444849289</barcode>
+					<year>2014</year>
+					<explicitContent>false</explicitContent>
+					<artist id="209">
+						<name>Various Artists</name>
+						<appearsAs>Various</appearsAs>
+						<url>http://www.7digital.com/artist/various-artists/?partner=0</url>
+					</artist>
+					<url>http://www.7digital.com/artist/various-artists/release/hollyoaks-the-album/?partner=0</url>
+					<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/038/456/0003845600_50.jpg</image>
+					<releaseDate>2014-10-20T00:00:00Z</releaseDate>
+					<addedDate>2014-10-20T11:22:08Z</addedDate>
+					<price>
+						<currency code="GBP" />
+						<value>9.99</value>
+						<formattedPrice>£9.99</formattedPrice>
+						<rrp>9.99</rrp>
+						<formattedRrp>£9.99</formattedRrp>
+						<onSale>false</onSale>
+					</price>
+					<formats availableDrmFree="true">
+						<format id="17">
+							<fileFormat>MP3</fileFormat>
+							<bitRate>320</bitRate>
+							<drmFree>true</drmFree>
+						</format>
+						<format id="33">
+							<fileFormat>M4A</fileFormat>
+							<bitRate>320</bitRate>
+							<drmFree>true</drmFree>
+						</format>
+					</formats>
+					<label id="198867">
+						<name>Sony Music CG</name>
+					</label>
+					<licensor id="2">
+						<name>Sony Music</name>
+					</licensor>
+					<trackCount>40</trackCount>
+				</release>
+			</listItem>
+			<listItem id="3894118">
+				<type>release</type>
+				<release id="3894118">
+					<title>DJ Mag Top 100 DJs 2014 - Ministry of Sound</title>
+					<version />
+					<type>Album</type>
+					<barcode>5051275071757</barcode>
+					<year>2014</year>
+					<explicitContent>false</explicitContent>
+					<artist id="209">
+						<name>Various Artists</name>
+						<appearsAs>Various Artists</appearsAs>
+						<url>http://www.7digital.com/artist/various-artists/?partner=0</url>
+					</artist>
+					<url>http://www.7digital.com/artist/various-artists/release/dj-mag-top-100-djs-2014-ministry-of-sound-1/?partner=0</url>
+					<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/038/941/0003894118_50.jpg</image>
+					<releaseDate>2014-10-19T00:00:00Z</releaseDate>
+					<addedDate>2014-10-20T17:37:32Z</addedDate>
+					<price>
+						<currency code="GBP" />
+						<value>9.99</value>
+						<formattedPrice>£9.99</formattedPrice>
+						<rrp>9.99</rrp>
+						<formattedRrp>£9.99</formattedRrp>
+						<onSale>false</onSale>
+					</price>
+					<formats availableDrmFree="true">
+						<format id="17">
+							<fileFormat>MP3</fileFormat>
+							<bitRate>320</bitRate>
+							<drmFree>true</drmFree>
+						</format>
+						<format id="33">
+							<fileFormat>M4A</fileFormat>
+							<bitRate>320</bitRate>
+							<drmFree>true</drmFree>
+						</format>
+						<format id="10">
+							<fileFormat>PDF</fileFormat>
+							<bitRate>0</bitRate>
+							<drmFree>true</drmFree>
+						</format>
+					</formats>
+					<label id="60924">
+						<name>Ministry of Sound Recordings Ltd</name>
+					</label>
+					<licensor id="102">
+						<name>Ministry of Sound Group Limited</name>
+					</licensor>
+					<trackCount>43</trackCount>
+				</release>
+			</listItem>
+			<listItem id="3913346">
+				<type>release</type>
+				<release id="3913346">
+					<title>Ibiza 2014 Closing Party</title>
+					<version />
+					<type>Album</type>
+					<barcode>5052075011875</barcode>
+					<year>2014</year>
+					<explicitContent>false</explicitContent>
+					<artist id="209">
+						<name>Various Artists</name>
+						<appearsAs>Various Artists</appearsAs>
+						<url>http://www.7digital.com/artist/various-artists/?partner=0</url>
+					</artist>
+					<url>http://www.7digital.com/artist/various-artists/release/ibiza-2014-closing-party-2/?partner=0</url>
+					<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/039/133/0003913346_50.jpg</image>
+					<releaseDate>2014-09-29T00:00:00Z</releaseDate>
+					<addedDate>2014-10-23T17:47:44Z</addedDate>
+					<price>
+						<currency code="GBP" />
+						<value>4.99</value>
+						<formattedPrice>£4.99</formattedPrice>
+						<rrp>4.99</rrp>
+						<formattedRrp>£4.99</formattedRrp>
+						<onSale>false</onSale>
+					</price>
+					<formats availableDrmFree="true">
+						<format id="17">
+							<fileFormat>MP3</fileFormat>
+							<bitRate>320</bitRate>
+							<drmFree>true</drmFree>
+						</format>
+						<format id="33">
+							<fileFormat>M4A</fileFormat>
+							<bitRate>320</bitRate>
+							<drmFree>true</drmFree>
+						</format>
+					</formats>
+					<label id="18795">
+						<name>Toolroom</name>
+					</label>
+					<licensor id="299">
+						<name>Toolroom Productions Ltd</name>
+					</licensor>
+					<trackCount>43</trackCount>
+				</release>
+			</listItem>
+			<listItem id="3740624">
+				<type>release</type>
+				<release id="3740624">
+					<title>Ruins</title>
+					<version />
+					<type>Album</type>
+					<barcode>888831637257</barcode>
+					<year>2014</year>
+					<explicitContent>false</explicitContent>
+					<artist id="498705">
+						<name>Grouper</name>
+						<appearsAs>Grouper</appearsAs>
+						<url>http://www.7digital.com/artist/grouper/?partner=0</url>
+					</artist>
+					<url>http://www.7digital.com/artist/grouper/release/ruins/?partner=0</url>
+					<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/037/406/0003740624_50.jpg</image>
+					<releaseDate>2014-10-28T00:00:00Z</releaseDate>
+					<addedDate>2014-08-17T21:26:04Z</addedDate>
+					<price>
+						<currency code="GBP" />
+						<value>7.92</value>
+						<formattedPrice>£7.92</formattedPrice>
+						<rrp>7.92</rrp>
+						<formattedRrp>£7.92</formattedRrp>
+						<onSale>false</onSale>
+					</price>
+					<formats availableDrmFree="true">
+						<format id="17">
+							<fileFormat>MP3</fileFormat>
+							<bitRate>320</bitRate>
+							<drmFree>true</drmFree>
+						</format>
+					</formats>
+					<label id="113052">
+						<name>kranky</name>
+					</label>
+					<licensor id="21">
+						<name>Orchard</name>
+					</licensor>
+					<trackCount>8</trackCount>
+				</release>
+			</listItem>
+			<listItem id="3889526">
+				<type>release</type>
+				<release id="3889526">
+					<title>20,000 LEAGUES UNDER THE SEA</title>
+					<version />
+					<type>Album</type>
+					<barcode>5051083085694</barcode>
+					<year>2014</year>
+					<explicitContent>false</explicitContent>
+					<artist id="1515067">
+						<name>East India Youth</name>
+						<appearsAs>East India Youth</appearsAs>
+						<url>http://www.7digital.com/artist/east-india-youth/?partner=0</url>
+					</artist>
+					<url>http://www.7digital.com/artist/east-india-youth/release/20000-leagues-under-the-sea/?partner=0</url>
+					<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/038/895/0003889526_50.jpg</image>
+					<releaseDate>2014-10-27T00:00:00Z</releaseDate>
+					<addedDate>2014-10-15T15:02:11Z</addedDate>
+					<price>
+						<currency code="GBP" />
+						<value>5.49</value>
+						<formattedPrice>£5.49</formattedPrice>
+						<rrp>5.49</rrp>
+						<formattedRrp>£5.49</formattedRrp>
+						<onSale>false</onSale>
+					</price>
+					<formats availableDrmFree="true">
+						<format id="17">
+							<fileFormat>MP3</fileFormat>
+							<bitRate>320</bitRate>
+							<drmFree>true</drmFree>
+						</format>
+						<format id="33">
+							<fileFormat>M4A</fileFormat>
+							<bitRate>320</bitRate>
+							<drmFree>true</drmFree>
+						</format>
+					</formats>
+					<label id="2389">
+						<name>Stolen Recordings</name>
+					</label>
+					<licensor id="48">
+						<name>Vital</name>
+					</licensor>
+					<trackCount>1</trackCount>
+				</release>
+			</listItem>
+			<listItem id="3885850">
+				<type>release</type>
+				<release id="3885850">
+					<title>Annie Mac Presents 2014</title>
+					<version>Explicit</version>
+					<type>Album</type>
+					<barcode>00600753544129</barcode>
+					<year>2009</year>
+					<explicitContent>true</explicitContent>
+					<artist id="209">
+						<name>Various Artists</name>
+						<appearsAs>Various Artists</appearsAs>
+						<url>http://www.7digital.com/artist/various-artists/?partner=0</url>
+					</artist>
+					<url>http://www.7digital.com/artist/various-artists/release/annie-mac-presents-2014-explicit/?partner=0</url>
+					<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/038/858/0003885850_50.jpg</image>
+					<releaseDate>2014-10-24T00:00:00Z</releaseDate>
+					<addedDate>2014-10-14T14:23:07Z</addedDate>
+					<price>
+						<currency code="GBP" />
+						<value>9.99</value>
+						<formattedPrice>£9.99</formattedPrice>
+						<rrp>9.99</rrp>
+						<formattedRrp>£9.99</formattedRrp>
+						<onSale>false</onSale>
+					</price>
+					<formats availableDrmFree="true">
+						<format id="17">
+							<fileFormat>MP3</fileFormat>
+							<bitRate>320</bitRate>
+							<drmFree>true</drmFree>
+						</format>
+					</formats>
+					<label id="3309">
+						<name>Universal Music Ireland Ltd.</name>
+					</label>
+					<licensor id="1">
+						<name>Universal</name>
+					</licensor>
+					<trackCount>37</trackCount>
+				</release>
+			</listItem>
+			<listItem id="3907669">
+				<type>release</type>
+				<release id="3907669">
+					<title>Blood I Bled</title>
+					<version />
+					<type>Album</type>
+					<barcode>825646212156</barcode>
+					<year>2014</year>
+					<explicitContent>false</explicitContent>
+					<artist id="960628">
+						<name>THE STAVES</name>
+						<appearsAs>THE STAVES</appearsAs>
+						<url>http://www.7digital.com/artist/the-staves/?partner=0</url>
+					</artist>
+					<url>http://www.7digital.com/artist/the-staves/release/blood-i-bled-1/?partner=0</url>
+					<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/039/076/0003907669_50.jpg</image>
+					<releaseDate>2014-10-28T00:00:00Z</releaseDate>
+					<addedDate>2014-10-24T07:56:08Z</addedDate>
+					<price>
+						<currency code="GBP" />
+						<value>2.29</value>
+						<formattedPrice>£2.29</formattedPrice>
+						<rrp>2.29</rrp>
+						<formattedRrp>£2.29</formattedRrp>
+						<onSale>false</onSale>
+					</price>
+					<formats availableDrmFree="true">
+						<format id="17">
+							<fileFormat>MP3</fileFormat>
+							<bitRate>320</bitRate>
+							<drmFree>true</drmFree>
+						</format>
+					</formats>
+					<label id="1373">
+						<name>Atlantic Records UK</name>
+					</label>
+					<licensor id="18">
+						<name>Warner</name>
+					</licensor>
+					<trackCount>3</trackCount>
+				</release>
+			</listItem>
+			<listItem id="3858891">
+				<type>release</type>
+				<release id="3858891">
+					<title>I Forget Where We Were</title>
+					<version />
+					<type>Album</type>
+					<barcode>00602547010292</barcode>
+					<year>1991</year>
+					<explicitContent>false</explicitContent>
+					<artist id="487026">
+						<name>Ben Howard</name>
+						<appearsAs>Ben Howard</appearsAs>
+						<url>http://www.7digital.com/artist/ben-howard/?partner=0</url>
+					</artist>
+					<url>http://www.7digital.com/artist/ben-howard/release/i-forget-where-we-were-2/?partner=0</url>
+					<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/038/588/0003858891_50.jpg</image>
+					<releaseDate>2014-10-20T00:00:00Z</releaseDate>
+					<addedDate>2014-10-06T10:23:38Z</addedDate>
+					<price>
+						<currency code="GBP" />
+						<value>8.99</value>
+						<formattedPrice>£8.99</formattedPrice>
+						<rrp>8.99</rrp>
+						<formattedRrp>£8.99</formattedRrp>
+						<onSale>false</onSale>
+					</price>
+					<formats availableDrmFree="true">
+						<format id="17">
+							<fileFormat>MP3</fileFormat>
+							<bitRate>320</bitRate>
+							<drmFree>true</drmFree>
+						</format>
+					</formats>
+					<label id="383633">
+						<name>Digital Distribution Qatar</name>
+					</label>
+					<licensor id="1">
+						<name>Universal</name>
+					</licensor>
+					<trackCount>10</trackCount>
+				</release>
+			</listItem>
+			<listItem id="3889465">
+				<type>release</type>
+				<release id="3889465">
+					<title>Soused</title>
+					<version />
+					<type>Album</type>
+					<barcode>652637342833</barcode>
+					<year>2014</year>
+					<explicitContent>false</explicitContent>
+					<artist id="2460527">
+						<name>Scott Walker + Sunn O)))</name>
+						<appearsAs>Scott Walker + Sunn O)))</appearsAs>
+						<url>http://www.7digital.com/artist/scott-walker-plus-sunn-o/?partner=0</url>
+					</artist>
+					<url>http://www.7digital.com/artist/scott-walker-plus-sunn-o/release/soused/?partner=0</url>
+					<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/038/894/0003889465_50.jpg</image>
+					<releaseDate>2014-10-20T00:00:00Z</releaseDate>
+					<addedDate>2014-10-15T14:59:35Z</addedDate>
+					<price>
+						<currency code="GBP" />
+						<value>4.95</value>
+						<formattedPrice>£4.95</formattedPrice>
+						<rrp>4.95</rrp>
+						<formattedRrp>£4.95</formattedRrp>
+						<onSale>false</onSale>
+					</price>
+					<formats availableDrmFree="true">
+						<format id="17">
+							<fileFormat>MP3</fileFormat>
+							<bitRate>320</bitRate>
+							<drmFree>true</drmFree>
+						</format>
+						<format id="33">
+							<fileFormat>M4A</fileFormat>
+							<bitRate>320</bitRate>
+							<drmFree>true</drmFree>
+						</format>
+					</formats>
+					<label id="905">
+						<name>4AD</name>
+					</label>
+					<licensor id="39">
+						<name>Beggars</name>
+					</licensor>
+					<trackCount>5</trackCount>
+				</release>
+			</listItem>
+			<listItem id="3889468">
+				<type>release</type>
+				<release id="3889468">
+					<title>The Best Day</title>
+					<version />
+					<type>Album</type>
+					<barcode>744861106258</barcode>
+					<year>2014</year>
+					<explicitContent>false</explicitContent>
+					<artist id="24908">
+						<name>Thurston Moore</name>
+						<appearsAs>Thurston Moore</appearsAs>
+						<url>http://www.7digital.com/artist/thurston-moore/?partner=0</url>
+					</artist>
+					<url>http://www.7digital.com/artist/thurston-moore/release/the-best-day-1/?partner=0</url>
+					<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/038/894/0003889468_50.jpg</image>
+					<releaseDate>2014-10-20T00:00:00Z</releaseDate>
+					<addedDate>2014-10-15T14:59:55Z</addedDate>
+					<price>
+						<currency code="GBP" />
+						<value>7.92</value>
+						<formattedPrice>£7.92</formattedPrice>
+						<rrp>7.92</rrp>
+						<formattedRrp>£7.92</formattedRrp>
+						<onSale>false</onSale>
+					</price>
+					<formats availableDrmFree="true">
+						<format id="17">
+							<fileFormat>MP3</fileFormat>
+							<bitRate>320</bitRate>
+							<drmFree>true</drmFree>
+						</format>
+						<format id="33">
+							<fileFormat>M4A</fileFormat>
+							<bitRate>320</bitRate>
+							<drmFree>true</drmFree>
+						</format>
+					</formats>
+					<label id="1221">
+						<name>Matador</name>
+					</label>
+					<licensor id="39">
+						<name>Beggars</name>
+					</licensor>
+					<trackCount>8</trackCount>
+				</release>
+			</listItem>
+			<listItem id="3810513">
+				<type>release</type>
+				<release id="3810513">
+					<title>Wait 'Til Night</title>
+					<version />
+					<type>Album</type>
+					<barcode>5055869500104</barcode>
+					<year>2014</year>
+					<explicitContent>false</explicitContent>
+					<artist id="401730">
+						<name>Cooly G</name>
+						<appearsAs>Cooly G</appearsAs>
+						<url>http://www.7digital.com/artist/cooly-g/?partner=0</url>
+					</artist>
+					<url>http://www.7digital.com/artist/cooly-g/release/wait-til-night/?partner=0</url>
+					<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/038/105/0003810513_50.jpg</image>
+					<releaseDate>2014-10-20T00:00:00Z</releaseDate>
+					<addedDate>2014-09-17T12:14:42Z</addedDate>
+					<price>
+						<currency code="GBP" />
+						<value>8.49</value>
+						<formattedPrice>£8.49</formattedPrice>
+						<rrp>8.49</rrp>
+						<formattedRrp>£8.49</formattedRrp>
+						<onSale>false</onSale>
+					</price>
+					<formats availableDrmFree="true">
+						<format id="17">
+							<fileFormat>MP3</fileFormat>
+							<bitRate>320</bitRate>
+							<drmFree>true</drmFree>
+						</format>
+					</formats>
+					<label id="13300">
+						<name>Hyperdub</name>
+					</label>
+					<licensor id="21">
+						<name>Orchard</name>
+					</licensor>
+					<trackCount>12</trackCount>
+				</release>
+			</listItem>
+			<listItem id="3858830">
+				<type>release</type>
+				<release id="3858830">
+					<title>Islands</title>
+					<version />
+					<type>Album</type>
+					<barcode>05060148572949</barcode>
+					<year>2014</year>
+					<explicitContent>false</explicitContent>
+					<artist id="1244597">
+						<name>Bear's Den</name>
+						<appearsAs>Bear's Den</appearsAs>
+						<url>http://www.7digital.com/artist/bears-den/?partner=0</url>
+					</artist>
+					<url>http://www.7digital.com/artist/bears-den/release/islands-1/?partner=0</url>
+					<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/038/588/0003858830_50.jpg</image>
+					<releaseDate>2014-10-20T00:00:00Z</releaseDate>
+					<addedDate>2014-10-06T10:15:49Z</addedDate>
+					<price>
+						<currency code="GBP" />
+						<value>5.99</value>
+						<formattedPrice>£5.99</formattedPrice>
+						<rrp>5.99</rrp>
+						<formattedRrp>£5.99</formattedRrp>
+						<onSale>false</onSale>
+					</price>
+					<formats availableDrmFree="true">
+						<format id="17">
+							<fileFormat>MP3</fileFormat>
+							<bitRate>320</bitRate>
+							<drmFree>true</drmFree>
+						</format>
+					</formats>
+					<label id="321760">
+						<name>Digital Distribution Saudi Arabia</name>
+					</label>
+					<licensor id="1">
+						<name>Universal</name>
+					</licensor>
+					<trackCount>10</trackCount>
+				</release>
+			</listItem>
+			<listItem id="3890033">
+				<type>release</type>
+				<release id="3890033">
+					<title>Melody Road</title>
+					<version>Deluxe</version>
+					<type>Album</type>
+					<barcode>00602547069733</barcode>
+					<year>2014</year>
+					<explicitContent>false</explicitContent>
+					<artist id="35">
+						<name>Neil Diamond</name>
+						<appearsAs>Neil Diamond</appearsAs>
+						<url>http://www.7digital.com/artist/neil-diamond/?partner=0</url>
+					</artist>
+					<url>http://www.7digital.com/artist/neil-diamond/release/melody-road-deluxe/?partner=0</url>
+					<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/038/900/0003890033_50.jpg</image>
+					<releaseDate>2014-10-20T00:00:00Z</releaseDate>
+					<addedDate>2014-10-15T15:17:17Z</addedDate>
+					<price>
+						<currency code="GBP" />
+						<value>9.99</value>
+						<formattedPrice>£9.99</formattedPrice>
+						<rrp>9.99</rrp>
+						<formattedRrp>£9.99</formattedRrp>
+						<onSale>false</onSale>
+					</price>
+					<formats availableDrmFree="true">
+						<format id="17">
+							<fileFormat>MP3</fileFormat>
+							<bitRate>320</bitRate>
+							<drmFree>true</drmFree>
+						</format>
+					</formats>
+					<label id="199682">
+						<name>Virgin EMI</name>
+					</label>
+					<licensor id="1">
+						<name>Universal</name>
+					</licensor>
+					<trackCount>14</trackCount>
+				</release>
+			</listItem>
+			<listItem id="3858908">
+				<type>release</type>
+				<release id="3858908">
+					<title>Melody Road</title>
+					<version />
+					<type>Album</type>
+					<barcode>00602537991372</barcode>
+					<year>1991</year>
+					<explicitContent>false</explicitContent>
+					<artist id="35">
+						<name>Neil Diamond</name>
+						<appearsAs>Neil Diamond</appearsAs>
+						<url>http://www.7digital.com/artist/neil-diamond/?partner=0</url>
+					</artist>
+					<url>http://www.7digital.com/artist/neil-diamond/release/melody-road/?partner=0</url>
+					<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/038/589/0003858908_50.jpg</image>
+					<releaseDate>2014-10-20T00:00:00Z</releaseDate>
+					<addedDate>2014-10-06T10:25:21Z</addedDate>
+					<price>
+						<currency code="GBP" />
+						<value>8.99</value>
+						<formattedPrice>£8.99</formattedPrice>
+						<rrp>8.99</rrp>
+						<formattedRrp>£8.99</formattedRrp>
+						<onSale>false</onSale>
+					</price>
+					<formats availableDrmFree="true">
+						<format id="17">
+							<fileFormat>MP3</fileFormat>
+							<bitRate>320</bitRate>
+							<drmFree>true</drmFree>
+						</format>
+					</formats>
+					<label id="383633">
+						<name>Digital Distribution Qatar</name>
+					</label>
+					<licensor id="1">
+						<name>Universal</name>
+					</licensor>
+					<trackCount>12</trackCount>
+				</release>
+			</listItem>
+			<listItem id="3874276">
+				<type>release</type>
+				<release id="3874276">
+					<title>Aquostic (Stripped Bare)</title>
+					<version />
+					<type>Album</type>
+					<barcode>825646203253</barcode>
+					<year>2014</year>
+					<explicitContent>false</explicitContent>
+					<artist id="358">
+						<name>Status Quo</name>
+						<appearsAs>Status Quo</appearsAs>
+						<url>http://www.7digital.com/artist/status-quo/?partner=0</url>
+					</artist>
+					<url>http://www.7digital.com/artist/status-quo/release/aquostic-stripped-bare/?partner=0</url>
+					<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/038/742/0003874276_50.jpg</image>
+					<releaseDate>2014-10-20T00:00:00Z</releaseDate>
+					<addedDate>2014-10-08T23:20:58Z</addedDate>
+					<price>
+						<currency code="GBP" />
+						<value>7.99</value>
+						<formattedPrice>£7.99</formattedPrice>
+						<rrp>7.99</rrp>
+						<formattedRrp>£7.99</formattedRrp>
+						<onSale>false</onSale>
+					</price>
+					<formats availableDrmFree="true">
+						<format id="17">
+							<fileFormat>MP3</fileFormat>
+							<bitRate>320</bitRate>
+							<drmFree>true</drmFree>
+						</format>
+					</formats>
+					<label id="262">
+						<name>Rhino</name>
+					</label>
+					<licensor id="18">
+						<name>Warner</name>
+					</licensor>
+					<trackCount>22</trackCount>
+				</release>
+			</listItem>
+			<listItem id="3866012">
+				<type>release</type>
+				<release id="3866012">
+					<title>Aretha Franklin Sings The Great Diva Classics</title>
+					<version />
+					<type>Album</type>
+					<barcode>886444812429</barcode>
+					<year>2014</year>
+					<explicitContent>false</explicitContent>
+					<artist id="1982">
+						<name>Aretha Franklin</name>
+						<appearsAs>Aretha Franklin</appearsAs>
+						<url>http://www.7digital.com/artist/aretha-franklin/?partner=0</url>
+					</artist>
+					<url>http://www.7digital.com/artist/aretha-franklin/release/aretha-franklin-sings-the-great-diva-classics/?partner=0</url>
+					<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/038/660/0003866012_50.jpg</image>
+					<releaseDate>2014-10-20T00:00:00Z</releaseDate>
+					<addedDate>2014-10-14T16:35:57Z</addedDate>
+					<price>
+						<currency code="GBP" />
+						<value>8.99</value>
+						<formattedPrice>£8.99</formattedPrice>
+						<rrp>8.99</rrp>
+						<formattedRrp>£8.99</formattedRrp>
+						<onSale>false</onSale>
+					</price>
+					<formats availableDrmFree="true">
+						<format id="17">
+							<fileFormat>MP3</fileFormat>
+							<bitRate>320</bitRate>
+							<drmFree>true</drmFree>
+						</format>
+						<format id="33">
+							<fileFormat>M4A</fileFormat>
+							<bitRate>320</bitRate>
+							<drmFree>true</drmFree>
+						</format>
+					</formats>
+					<label id="89">
+						<name>RCA Records Label</name>
+					</label>
+					<licensor id="2">
+						<name>Sony Music</name>
+					</licensor>
+					<trackCount>10</trackCount>
+				</release>
+			</listItem>
+			<listItem id="3918446">
+				<type>release</type>
+				<release id="3918446">
+					<title>1989</title>
+					<version />
+					<type>Album</type>
+					<barcode>00602547066886</barcode>
+					<year>2014</year>
+					<explicitContent>false</explicitContent>
+					<artist id="253545">
+						<name>Taylor Swift</name>
+						<appearsAs>Taylor Swift</appearsAs>
+						<url>http://www.7digital.com/artist/taylor-swift/?partner=0</url>
+					</artist>
+					<url>http://www.7digital.com/artist/taylor-swift/release/1989/?partner=0</url>
+					<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/039/184/0003918446_50.jpg</image>
+					<releaseDate>2014-10-27T00:00:00Z</releaseDate>
+					<addedDate>2014-10-27T10:17:02Z</addedDate>
+					<price>
+						<currency code="GBP" />
+						<value>6.99</value>
+						<formattedPrice>£6.99</formattedPrice>
+						<rrp>8.99</rrp>
+						<formattedRrp>£8.99</formattedRrp>
+						<onSale>true</onSale>
+					</price>
+					<formats availableDrmFree="true">
+						<format id="17">
+							<fileFormat>MP3</fileFormat>
+							<bitRate>320</bitRate>
+							<drmFree>true</drmFree>
+						</format>
+					</formats>
+					<label id="149943">
+						<name>Universal Music (Pty) Ltd.</name>
+					</label>
+					<licensor id="1">
+						<name>Universal</name>
+					</licensor>
+					<trackCount>13</trackCount>
+				</release>
+			</listItem>
+			<listItem id="3918447">
+				<type>release</type>
+				<release id="3918447">
+					<title>1989</title>
+					<version>Deluxe</version>
+					<type>Album</type>
+					<barcode>00602547066893</barcode>
+					<year>2014</year>
+					<explicitContent>false</explicitContent>
+					<artist id="253545">
+						<name>Taylor Swift</name>
+						<appearsAs>Taylor Swift</appearsAs>
+						<url>http://www.7digital.com/artist/taylor-swift/?partner=0</url>
+					</artist>
+					<url>http://www.7digital.com/artist/taylor-swift/release/1989-deluxe/?partner=0</url>
+					<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/039/184/0003918447_50.jpg</image>
+					<releaseDate>2014-10-27T00:00:00Z</releaseDate>
+					<addedDate>2014-10-27T10:17:39Z</addedDate>
+					<price>
+						<currency code="GBP" />
+						<value>10.99</value>
+						<formattedPrice>£10.99</formattedPrice>
+						<rrp>10.99</rrp>
+						<formattedRrp>£10.99</formattedRrp>
+						<onSale>false</onSale>
+					</price>
+					<formats availableDrmFree="true">
+						<format id="17">
+							<fileFormat>MP3</fileFormat>
+							<bitRate>320</bitRate>
+							<drmFree>true</drmFree>
+						</format>
+					</formats>
+					<label id="149943">
+						<name>Universal Music (Pty) Ltd.</name>
+					</label>
+					<licensor id="1">
+						<name>Universal</name>
+					</licensor>
+					<trackCount>19</trackCount>
+				</release>
+			</listItem>
+			<listItem id="3908022">
+				<type>release</type>
+				<release id="3908022">
+					<title>Run the Jewels 2</title>
+					<version />
+					<type>Album</type>
+					<barcode>886444890540</barcode>
+					<year>2014</year>
+					<explicitContent>false</explicitContent>
+					<artist id="2057842">
+						<name>Run The Jewels</name>
+						<appearsAs>Run The Jewels</appearsAs>
+						<url>http://www.7digital.com/artist/run-the-jewels/?partner=0</url>
+					</artist>
+					<url>http://www.7digital.com/artist/run-the-jewels/release/run-the-jewels-2/?partner=0</url>
+					<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/039/080/0003908022_50.jpg</image>
+					<releaseDate>2014-10-27T00:00:00Z</releaseDate>
+					<addedDate>2014-10-24T05:12:23Z</addedDate>
+					<price>
+						<currency code="GBP" />
+						<value>8.49</value>
+						<formattedPrice>£8.49</formattedPrice>
+						<rrp>8.49</rrp>
+						<formattedRrp>£8.49</formattedRrp>
+						<onSale>false</onSale>
+					</price>
+					<formats availableDrmFree="true">
+						<format id="17">
+							<fileFormat>MP3</fileFormat>
+							<bitRate>320</bitRate>
+							<drmFree>true</drmFree>
+						</format>
+					</formats>
+					<label id="12381">
+						<name>Mass Appeal Records</name>
+					</label>
+					<licensor id="21">
+						<name>Orchard</name>
+					</licensor>
+					<trackCount>11</trackCount>
+				</release>
+			</listItem>
+			<listItem id="3913385">
+				<type>release</type>
+				<release id="3913385">
+					<title>Nobody Wants To Be Here &amp; Nobody Wants To Leave</title>
+					<version />
+					<type>Album</type>
+					<barcode>0600116513250</barcode>
+					<year>2014</year>
+					<explicitContent>false</explicitContent>
+					<artist id="49773">
+						<name>The Twilight Sad</name>
+						<appearsAs>The Twilight Sad</appearsAs>
+						<url>http://www.7digital.com/artist/the-twilight-sad/?partner=0</url>
+					</artist>
+					<url>http://www.7digital.com/artist/the-twilight-sad/release/nobody-wants-to-be-here-and-nobody-wants-to-leave/?partner=0</url>
+					<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/039/133/0003913385_50.jpg</image>
+					<releaseDate>2014-10-26T00:00:00Z</releaseDate>
+					<addedDate>2014-10-23T17:27:26Z</addedDate>
+					<price>
+						<currency code="GBP" />
+						<value>4.99</value>
+						<formattedPrice>£4.99</formattedPrice>
+						<rrp>7.49</rrp>
+						<formattedRrp>£7.49</formattedRrp>
+						<onSale>true</onSale>
+					</price>
+					<formats availableDrmFree="true">
+						<format id="17">
+							<fileFormat>MP3</fileFormat>
+							<bitRate>320</bitRate>
+							<drmFree>true</drmFree>
+						</format>
+						<format id="33">
+							<fileFormat>M4A</fileFormat>
+							<bitRate>320</bitRate>
+							<drmFree>true</drmFree>
+						</format>
+					</formats>
+					<label id="806">
+						<name>FatCat</name>
+					</label>
+					<licensor id="336">
+						<name>Essential Music and Marketing Ltd</name>
+					</licensor>
+					<trackCount>10</trackCount>
+				</release>
+			</listItem>
+			<listItem id="3886086">
+				<type>release</type>
+				<release id="3886086">
+					<title>Nostalgia</title>
+					<version />
+					<type>Album</type>
+					<barcode>00602547045508</barcode>
+					<year>1991</year>
+					<explicitContent>false</explicitContent>
+					<artist id="3299">
+						<name>Annie Lennox</name>
+						<appearsAs>Annie Lennox</appearsAs>
+						<url>http://www.7digital.com/artist/annie-lennox/?partner=0</url>
+					</artist>
+					<url>http://www.7digital.com/artist/annie-lennox/release/nostalgia-2/?partner=0</url>
+					<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/038/860/0003886086_50.jpg</image>
+					<releaseDate>2014-10-27T00:00:00Z</releaseDate>
+					<addedDate>2014-10-14T15:18:55Z</addedDate>
+					<price>
+						<currency code="GBP" />
+						<value>8.99</value>
+						<formattedPrice>£8.99</formattedPrice>
+						<rrp>8.99</rrp>
+						<formattedRrp>£8.99</formattedRrp>
+						<onSale>false</onSale>
+					</price>
+					<formats availableDrmFree="true">
+						<format id="17">
+							<fileFormat>MP3</fileFormat>
+							<bitRate>320</bitRate>
+							<drmFree>true</drmFree>
+						</format>
+					</formats>
+					<label id="383633">
+						<name>Digital Distribution Qatar</name>
+					</label>
+					<licensor id="1">
+						<name>Universal</name>
+					</licensor>
+					<trackCount>12</trackCount>
+				</release>
+			</listItem>
+			<listItem id="3866012">
+				<type>release</type>
+				<release id="3866012">
+					<title>Aretha Franklin Sings The Great Diva Classics</title>
+					<version/>
+					<type>Album</type>
+					<barcode>886444812429</barcode>
+					<year>2014</year>
+					<explicitContent>false</explicitContent>
+					<artist id="1982">
+						<name>Aretha Franklin</name>
+						<appearsAs>Aretha Franklin</appearsAs>
+						<url>
+							http://www.7digital.com/artist/aretha-franklin/?partner=0
+						</url>
+					</artist>
+					<url>
+						http://www.7digital.com/artist/aretha-franklin/release/aretha-franklin-sings-the-great-diva-classics/?partner=0
+					</url>
+					<image>
+						http://artwork-cdn.7static.com/static/img/sleeveart/00/038/660/0003866012_50.jpg
+					</image>
+					<releaseDate>2014-10-20T00:00:00Z</releaseDate>
+					<addedDate>2014-10-14T16:35:57Z</addedDate>
+					<price>
+						<currency code="GBP"/>
+						<value>8.99</value>
+						<formattedPrice>£8.99</formattedPrice>
+						<rrp>8.99</rrp>
+						<formattedRrp>£8.99</formattedRrp>
+						<onSale>false</onSale>
+					</price>
+					<formats availableDrmFree="true">
+						<format id="17">
+							<fileFormat>MP3</fileFormat>
+							<bitRate>320</bitRate>
+							<drmFree>true</drmFree>
+						</format>
+						<format id="33">
+							<fileFormat>M4A</fileFormat>
+							<bitRate>320</bitRate>
+							<drmFree>true</drmFree>
+						</format>
+					</formats>
+					<label id="89">
+						<name>RCA Records Label</name>
+					</label>
+					<licensor id="2">
+						<name>Sony Music</name>
+					</licensor>
+					<trackCount>10</trackCount>
+				</release>
+			</listItem>
+		</listItems>
+	</list>
+</response>
