@@ -1,0 +1,625 @@
+{
+    "xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+    "xmlns:xsd": "http://www.w3.org/2001/XMLSchema",
+    "status": "ok",
+    "version": "1.2",
+    "xsi:noNamespaceSchemaLocation": "http://api.7digital.com/1.2/static/7digitalAPI.xsd",
+    "locker": {
+        "lockerReleases": {
+            "page": "1",
+            "pageSize": "10",
+            "totalItems": "2",
+            "lockerRelease": [
+                {
+                    "release": {
+                        "id": "2959123",
+                        "title": "New Pin",
+                        "version": "",
+                        "type": "Single",
+                        "barcode": "607618039462",
+                        "artist": {
+                            "id": "19180",
+                            "name": "Oceansize",
+                            "appearsAs": "Oceansize",
+                            "url": "http://www.7digital.com/artist/oceansize"
+                        },
+                        "url": "http://www.7digital.com/artist/oceansize/release/new-pin-1",
+                        "image": "http://artwork-cdn.7static.com/static/img/sleeveart/00/029/591/0002959123_50.jpg",
+                        "releaseDate": "2006-03-20T00:00:00Z",
+                        "licensor": {
+                            "id": "39"
+                        }
+                    },
+                    "lockerTracks": {
+                        "lockerTrack": {
+                            "track": {
+                                "id": "31536349",
+                                "title": "Superfluous To Requirements",
+                                "version": "",
+                                "artist": {
+                                    "id": "19180",
+                                    "name": "Oceansize",
+                                    "appearsAs": "Oceansize",
+                                    "url": "http://www.7digital.com/artist/oceansize"
+                                },
+                                "trackNumber": "2",
+                                "duration": "352",
+                                "isrc": "GBAZP0500062",
+                                "url": "http://www.7digital.com/artist/oceansize/release/new-pin-1?h=02&d=1"
+                            },
+                            "remainingDownloads": "5",
+                            "purchaseId": "814920242",
+                            "purchaseDate": "2014-11-03T14:20:37Z",
+                            "completeAlbumPurchase": "false",
+                            "downloadUrls": {
+                                "downloadUrl": [
+                                    {
+                                        "url": "http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&oauth_nonce=jabjxkymkqlib3nl&oauth_signature=rylxSJHplfSROjdskx0%2FFrYkjDc%3D&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1415101199&oauth_version=1.0a&formatid=17&partnerid=3923&onbehalfofpartnerid=3923&presigned=1&releaseid=2959123&shopid=0&trackid=31536349&userid=125043073",
+                                        "format": {
+                                            "id": "17",
+                                            "fileFormat": "MP3",
+                                            "bitRate": "320",
+                                            "drmFree": "true"
+                                        }
+                                    },
+                                    {
+                                        "url": "http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&oauth_nonce=gumjd8b618r5tqm2&oauth_signature=l238StpSba8i%2FmFP4YTKEpMzW6o%3D&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1415101199&oauth_version=1.0a&formatid=33&partnerid=3923&onbehalfofpartnerid=3923&presigned=1&releaseid=2959123&shopid=0&trackid=31536349&userid=125043073",
+                                        "format": {
+                                            "id": "33",
+                                            "fileFormat": "AAC",
+                                            "bitRate": "320",
+                                            "drmFree": "true"
+                                        }
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "available": "true"
+                },
+                {
+                    "release": {
+                        "id": "3543780",
+                        "title": "Youth Culture Forever",
+                        "version": "",
+                        "type": "Album",
+                        "barcode": "0600116512956",
+                        "artist": {
+                            "id": "1286310",
+                            "name": "PAWS",
+                            "appearsAs": "PAWS",
+                            "url": "http://www.7digital.com/artist/paws"
+                        },
+                        "url": "http://www.7digital.com/artist/paws/release/youth-culture-forever-1",
+                        "image": "http://artwork-cdn.7static.com/static/img/sleeveart/00/035/437/0003543780_50.jpg",
+                        "releaseDate": "2014-06-01T00:00:00Z",
+                        "licensor": {
+                            "id": "336"
+                        }
+                    },
+                    "lockerTracks": {
+                        "lockerTrack": [
+                            {
+                                "track": {
+                                    "id": "37255973",
+                                    "title": "Erreur Humaine",
+                                    "version": "",
+                                    "artist": {
+                                        "id": "1286355",
+                                        "name": "PAWS",
+                                        "appearsAs": "PAWS",
+                                        "url": "http://www.7digital.com/artist/paws"
+                                    },
+                                    "trackNumber": "1",
+                                    "duration": "199",
+                                    "isrc": "GBDCA1402544",
+                                    "url": "http://www.7digital.com/artist/paws/release/youth-culture-forever-1?h=01&d=1"
+                                },
+                                "remainingDownloads": "5",
+                                "purchaseId": "814920242",
+                                "purchaseDate": "2014-11-03T14:20:37Z",
+                                "completeAlbumPurchase": "true",
+                                "downloadUrls": {
+                                    "downloadUrl": [
+                                        {
+                                            "url": "http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&oauth_nonce=9jhrim6yui6f252k&oauth_signature=VDV76Ra22NP6q3RuOO1wvmrTpzc%3D&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1415101199&oauth_version=1.0a&formatid=17&partnerid=3923&onbehalfofpartnerid=3923&presigned=1&releaseid=3543780&shopid=0&trackid=37255973&userid=125043073",
+                                            "format": {
+                                                "id": "17",
+                                                "fileFormat": "MP3",
+                                                "bitRate": "320",
+                                                "drmFree": "true"
+                                            }
+                                        },
+                                        {
+                                            "url": "http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&oauth_nonce=c4fussbm0gtz4445&oauth_signature=IY%2BopXkKTdXtjPOkk%2BlU3FTh3Mk%3D&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1415101199&oauth_version=1.0a&formatid=33&partnerid=3923&onbehalfofpartnerid=3923&presigned=1&releaseid=3543780&shopid=0&trackid=37255973&userid=125043073",
+                                            "format": {
+                                                "id": "33",
+                                                "fileFormat": "AAC",
+                                                "bitRate": "320",
+                                                "drmFree": "true"
+                                            }
+                                        }
+                                    ]
+                                }
+                            },
+                            {
+                                "track": {
+                                    "id": "37255975",
+                                    "title": "Tongues",
+                                    "version": "",
+                                    "artist": {
+                                        "id": "1286355",
+                                        "name": "PAWS",
+                                        "appearsAs": "PAWS",
+                                        "url": "http://www.7digital.com/artist/paws"
+                                    },
+                                    "trackNumber": "2",
+                                    "duration": "133",
+                                    "isrc": "GBDCA1402545",
+                                    "url": "http://www.7digital.com/artist/paws/release/youth-culture-forever-1?h=02&d=1"
+                                },
+                                "remainingDownloads": "5",
+                                "purchaseId": "814920242",
+                                "purchaseDate": "2014-11-03T14:20:37Z",
+                                "completeAlbumPurchase": "true",
+                                "downloadUrls": {
+                                    "downloadUrl": [
+                                        {
+                                            "url": "http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&oauth_nonce=etj3u6c4yyy5c6d6&oauth_signature=BztLNZR1eoCp5JgEY%2FbUnsKlOJg%3D&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1415101199&oauth_version=1.0a&formatid=17&partnerid=3923&onbehalfofpartnerid=3923&presigned=1&releaseid=3543780&shopid=0&trackid=37255975&userid=125043073",
+                                            "format": {
+                                                "id": "17",
+                                                "fileFormat": "MP3",
+                                                "bitRate": "320",
+                                                "drmFree": "true"
+                                            }
+                                        },
+                                        {
+                                            "url": "http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&oauth_nonce=fg2zk2jqh5sc4f61&oauth_signature=U7Zddx72NvuHAZBQ%2FMcYfS3O2B8%3D&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1415101199&oauth_version=1.0a&formatid=33&partnerid=3923&onbehalfofpartnerid=3923&presigned=1&releaseid=3543780&shopid=0&trackid=37255975&userid=125043073",
+                                            "format": {
+                                                "id": "33",
+                                                "fileFormat": "AAC",
+                                                "bitRate": "320",
+                                                "drmFree": "true"
+                                            }
+                                        }
+                                    ]
+                                }
+                            },
+                            {
+                                "track": {
+                                    "id": "37255977",
+                                    "title": "Someone New",
+                                    "version": "",
+                                    "artist": {
+                                        "id": "1286355",
+                                        "name": "PAWS",
+                                        "appearsAs": "PAWS",
+                                        "url": "http://www.7digital.com/artist/paws"
+                                    },
+                                    "trackNumber": "3",
+                                    "duration": "143",
+                                    "isrc": "GBDCA1402546",
+                                    "url": "http://www.7digital.com/artist/paws/release/youth-culture-forever-1?h=03&d=1"
+                                },
+                                "remainingDownloads": "5",
+                                "purchaseId": "814920242",
+                                "purchaseDate": "2014-11-03T14:20:37Z",
+                                "completeAlbumPurchase": "true",
+                                "downloadUrls": {
+                                    "downloadUrl": [
+                                        {
+                                            "url": "http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&oauth_nonce=pbbhv0zh2l754gjd&oauth_signature=A3FzLm0CQ%2F2CgiUjs2cZXEnsU2c%3D&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1415101199&oauth_version=1.0a&formatid=17&partnerid=3923&onbehalfofpartnerid=3923&presigned=1&releaseid=3543780&shopid=0&trackid=37255977&userid=125043073",
+                                            "format": {
+                                                "id": "17",
+                                                "fileFormat": "MP3",
+                                                "bitRate": "320",
+                                                "drmFree": "true"
+                                            }
+                                        },
+                                        {
+                                            "url": "http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&oauth_nonce=dyuwcdtnk4u1maat&oauth_signature=7scswqKVpyLJMh2YOa6Rj8ElrpM%3D&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1415101199&oauth_version=1.0a&formatid=33&partnerid=3923&onbehalfofpartnerid=3923&presigned=1&releaseid=3543780&shopid=0&trackid=37255977&userid=125043073",
+                                            "format": {
+                                                "id": "33",
+                                                "fileFormat": "AAC",
+                                                "bitRate": "320",
+                                                "drmFree": "true"
+                                            }
+                                        }
+                                    ]
+                                }
+                            },
+                            {
+                                "track": {
+                                    "id": "37255979",
+                                    "title": "Owls Talons Clenching My Heart",
+                                    "version": "",
+                                    "artist": {
+                                        "id": "1286355",
+                                        "name": "PAWS",
+                                        "appearsAs": "PAWS",
+                                        "url": "http://www.7digital.com/artist/paws"
+                                    },
+                                    "trackNumber": "4",
+                                    "duration": "212",
+                                    "isrc": "GBDCA1402547",
+                                    "url": "http://www.7digital.com/artist/paws/release/youth-culture-forever-1?h=04&d=1"
+                                },
+                                "remainingDownloads": "5",
+                                "purchaseId": "814920242",
+                                "purchaseDate": "2014-11-03T14:20:37Z",
+                                "completeAlbumPurchase": "true",
+                                "downloadUrls": {
+                                    "downloadUrl": [
+                                        {
+                                            "url": "http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&oauth_nonce=38pb56kfrt996pxa&oauth_signature=VpC2Zi4BKpD0ob57IOigXYeM4A8%3D&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1415101199&oauth_version=1.0a&formatid=17&partnerid=3923&onbehalfofpartnerid=3923&presigned=1&releaseid=3543780&shopid=0&trackid=37255979&userid=125043073",
+                                            "format": {
+                                                "id": "17",
+                                                "fileFormat": "MP3",
+                                                "bitRate": "320",
+                                                "drmFree": "true"
+                                            }
+                                        },
+                                        {
+                                            "url": "http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&oauth_nonce=vp0evjymrx82p062&oauth_signature=gHbn3jPaJDKgZjmP32NcIUlexrs%3D&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1415101199&oauth_version=1.0a&formatid=33&partnerid=3923&onbehalfofpartnerid=3923&presigned=1&releaseid=3543780&shopid=0&trackid=37255979&userid=125043073",
+                                            "format": {
+                                                "id": "33",
+                                                "fileFormat": "AAC",
+                                                "bitRate": "320",
+                                                "drmFree": "true"
+                                            }
+                                        }
+                                    ]
+                                }
+                            },
+                            {
+                                "track": {
+                                    "id": "37255980",
+                                    "title": "Give Up",
+                                    "version": "",
+                                    "artist": {
+                                        "id": "1286355",
+                                        "name": "PAWS",
+                                        "appearsAs": "PAWS",
+                                        "url": "http://www.7digital.com/artist/paws"
+                                    },
+                                    "trackNumber": "5",
+                                    "duration": "141",
+                                    "isrc": "GBDCA1402548",
+                                    "url": "http://www.7digital.com/artist/paws/release/youth-culture-forever-1?h=05&d=1"
+                                },
+                                "remainingDownloads": "5",
+                                "purchaseId": "814920242",
+                                "purchaseDate": "2014-11-03T14:20:37Z",
+                                "completeAlbumPurchase": "true",
+                                "downloadUrls": {
+                                    "downloadUrl": [
+                                        {
+                                            "url": "http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&oauth_nonce=lmb72iihoofsfus5&oauth_signature=saLeYN3yI43t7NkmZoekEwg1z4Q%3D&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1415101199&oauth_version=1.0a&formatid=17&partnerid=3923&onbehalfofpartnerid=3923&presigned=1&releaseid=3543780&shopid=0&trackid=37255980&userid=125043073",
+                                            "format": {
+                                                "id": "17",
+                                                "fileFormat": "MP3",
+                                                "bitRate": "320",
+                                                "drmFree": "true"
+                                            }
+                                        },
+                                        {
+                                            "url": "http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&oauth_nonce=fue8b78tidth8s1r&oauth_signature=P2HoGiNqQemiuxgSVUnah113kxQ%3D&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1415101199&oauth_version=1.0a&formatid=33&partnerid=3923&onbehalfofpartnerid=3923&presigned=1&releaseid=3543780&shopid=0&trackid=37255980&userid=125043073",
+                                            "format": {
+                                                "id": "33",
+                                                "fileFormat": "AAC",
+                                                "bitRate": "320",
+                                                "drmFree": "true"
+                                            }
+                                        }
+                                    ]
+                                }
+                            },
+                            {
+                                "track": {
+                                    "id": "37255982",
+                                    "title": "Alone",
+                                    "version": "",
+                                    "artist": {
+                                        "id": "1286355",
+                                        "name": "PAWS",
+                                        "appearsAs": "PAWS",
+                                        "url": "http://www.7digital.com/artist/paws"
+                                    },
+                                    "trackNumber": "6",
+                                    "duration": "235",
+                                    "isrc": "GBDCA1402549",
+                                    "url": "http://www.7digital.com/artist/paws/release/youth-culture-forever-1?h=06&d=1"
+                                },
+                                "remainingDownloads": "5",
+                                "purchaseId": "814920242",
+                                "purchaseDate": "2014-11-03T14:20:37Z",
+                                "completeAlbumPurchase": "true",
+                                "downloadUrls": {
+                                    "downloadUrl": [
+                                        {
+                                            "url": "http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&oauth_nonce=yhxso2img21hdgg7&oauth_signature=1%2FvQdAzFAWXU%2F9CgrfcVFBO%2BNWU%3D&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1415101199&oauth_version=1.0a&formatid=17&partnerid=3923&onbehalfofpartnerid=3923&presigned=1&releaseid=3543780&shopid=0&trackid=37255982&userid=125043073",
+                                            "format": {
+                                                "id": "17",
+                                                "fileFormat": "MP3",
+                                                "bitRate": "320",
+                                                "drmFree": "true"
+                                            }
+                                        },
+                                        {
+                                            "url": "http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&oauth_nonce=fdw659zoprxyybj6&oauth_signature=wYFYi7%2BWG7LS2dS7%2FH540zIGQuc%3D&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1415101199&oauth_version=1.0a&formatid=33&partnerid=3923&onbehalfofpartnerid=3923&presigned=1&releaseid=3543780&shopid=0&trackid=37255982&userid=125043073",
+                                            "format": {
+                                                "id": "33",
+                                                "fileFormat": "AAC",
+                                                "bitRate": "320",
+                                                "drmFree": "true"
+                                            }
+                                        }
+                                    ]
+                                }
+                            },
+                            {
+                                "track": {
+                                    "id": "37255984",
+                                    "title": "An Honest Romance",
+                                    "version": "",
+                                    "artist": {
+                                        "id": "1286355",
+                                        "name": "PAWS",
+                                        "appearsAs": "PAWS",
+                                        "url": "http://www.7digital.com/artist/paws"
+                                    },
+                                    "trackNumber": "7",
+                                    "duration": "167",
+                                    "isrc": "GBDCA1402550",
+                                    "url": "http://www.7digital.com/artist/paws/release/youth-culture-forever-1?h=07&d=1"
+                                },
+                                "remainingDownloads": "5",
+                                "purchaseId": "814920242",
+                                "purchaseDate": "2014-11-03T14:20:37Z",
+                                "completeAlbumPurchase": "true",
+                                "downloadUrls": {
+                                    "downloadUrl": [
+                                        {
+                                            "url": "http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&oauth_nonce=xx498aqol31jf1pc&oauth_signature=JKazyvP4Kre2sxAjgPrmR8yvv9w%3D&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1415101199&oauth_version=1.0a&formatid=17&partnerid=3923&onbehalfofpartnerid=3923&presigned=1&releaseid=3543780&shopid=0&trackid=37255984&userid=125043073",
+                                            "format": {
+                                                "id": "17",
+                                                "fileFormat": "MP3",
+                                                "bitRate": "320",
+                                                "drmFree": "true"
+                                            }
+                                        },
+                                        {
+                                            "url": "http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&oauth_nonce=7wc576w1rid7euxf&oauth_signature=14OAP2VGWQrROgBgaZDjslJ%2BOOg%3D&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1415101199&oauth_version=1.0a&formatid=33&partnerid=3923&onbehalfofpartnerid=3923&presigned=1&releaseid=3543780&shopid=0&trackid=37255984&userid=125043073",
+                                            "format": {
+                                                "id": "33",
+                                                "fileFormat": "AAC",
+                                                "bitRate": "320",
+                                                "drmFree": "true"
+                                            }
+                                        }
+                                    ]
+                                }
+                            },
+                            {
+                                "track": {
+                                    "id": "37255986",
+                                    "title": "Narcissist",
+                                    "version": "",
+                                    "artist": {
+                                        "id": "1286355",
+                                        "name": "PAWS",
+                                        "appearsAs": "PAWS",
+                                        "url": "http://www.7digital.com/artist/paws"
+                                    },
+                                    "trackNumber": "8",
+                                    "duration": "115",
+                                    "isrc": "GBDCA1402551",
+                                    "url": "http://www.7digital.com/artist/paws/release/youth-culture-forever-1?h=08&d=1"
+                                },
+                                "remainingDownloads": "5",
+                                "purchaseId": "814920242",
+                                "purchaseDate": "2014-11-03T14:20:37Z",
+                                "completeAlbumPurchase": "true",
+                                "downloadUrls": {
+                                    "downloadUrl": [
+                                        {
+                                            "url": "http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&oauth_nonce=r5tpmi0ewhuchqjy&oauth_signature=wGHlcZxzSu6kfnZCcXMjNSZ00KE%3D&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1415101199&oauth_version=1.0a&formatid=17&partnerid=3923&onbehalfofpartnerid=3923&presigned=1&releaseid=3543780&shopid=0&trackid=37255986&userid=125043073",
+                                            "format": {
+                                                "id": "17",
+                                                "fileFormat": "MP3",
+                                                "bitRate": "320",
+                                                "drmFree": "true"
+                                            }
+                                        },
+                                        {
+                                            "url": "http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&oauth_nonce=cu3c9p03bdqy8uk1&oauth_signature=RlwLh8cfCyrkfwBXG%2FllMGpMKhs%3D&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1415101199&oauth_version=1.0a&formatid=33&partnerid=3923&onbehalfofpartnerid=3923&presigned=1&releaseid=3543780&shopid=0&trackid=37255986&userid=125043073",
+                                            "format": {
+                                                "id": "33",
+                                                "fileFormat": "AAC",
+                                                "bitRate": "320",
+                                                "drmFree": "true"
+                                            }
+                                        }
+                                    ]
+                                }
+                            },
+                            {
+                                "track": {
+                                    "id": "37255987",
+                                    "title": "Let's All Let Go",
+                                    "version": "",
+                                    "artist": {
+                                        "id": "1286355",
+                                        "name": "PAWS",
+                                        "appearsAs": "PAWS",
+                                        "url": "http://www.7digital.com/artist/paws"
+                                    },
+                                    "trackNumber": "9",
+                                    "duration": "163",
+                                    "isrc": "GBDCA1402552",
+                                    "url": "http://www.7digital.com/artist/paws/release/youth-culture-forever-1?h=09&d=1"
+                                },
+                                "remainingDownloads": "5",
+                                "purchaseId": "814920242",
+                                "purchaseDate": "2014-11-03T14:20:37Z",
+                                "completeAlbumPurchase": "true",
+                                "downloadUrls": {
+                                    "downloadUrl": [
+                                        {
+                                            "url": "http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&oauth_nonce=eu2kg01xw8hyltsa&oauth_signature=aSgt3nSikZIyEhmLnBD%2FfP06FpA%3D&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1415101199&oauth_version=1.0a&formatid=17&partnerid=3923&onbehalfofpartnerid=3923&presigned=1&releaseid=3543780&shopid=0&trackid=37255987&userid=125043073",
+                                            "format": {
+                                                "id": "17",
+                                                "fileFormat": "MP3",
+                                                "bitRate": "320",
+                                                "drmFree": "true"
+                                            }
+                                        },
+                                        {
+                                            "url": "http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&oauth_nonce=0o4t3vgc62oi2lhc&oauth_signature=PHGswy7D93HYSp0SCKttzt6Idtc%3D&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1415101199&oauth_version=1.0a&formatid=33&partnerid=3923&onbehalfofpartnerid=3923&presigned=1&releaseid=3543780&shopid=0&trackid=37255987&userid=125043073",
+                                            "format": {
+                                                "id": "33",
+                                                "fileFormat": "AAC",
+                                                "bitRate": "320",
+                                                "drmFree": "true"
+                                            }
+                                        }
+                                    ]
+                                }
+                            },
+                            {
+                                "track": {
+                                    "id": "37255989",
+                                    "title": "Great Bear",
+                                    "version": "",
+                                    "artist": {
+                                        "id": "1286355",
+                                        "name": "PAWS",
+                                        "appearsAs": "PAWS",
+                                        "url": "http://www.7digital.com/artist/paws"
+                                    },
+                                    "trackNumber": "10",
+                                    "duration": "118",
+                                    "isrc": "GBDCA1402553",
+                                    "url": "http://www.7digital.com/artist/paws/release/youth-culture-forever-1?h=10&d=1"
+                                },
+                                "remainingDownloads": "5",
+                                "purchaseId": "814920242",
+                                "purchaseDate": "2014-11-03T14:20:37Z",
+                                "completeAlbumPurchase": "true",
+                                "downloadUrls": {
+                                    "downloadUrl": [
+                                        {
+                                            "url": "http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&oauth_nonce=849xy0sc4epbhlrr&oauth_signature=XZuek0MlZx6bG9zcnaSGy4LTfMI%3D&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1415101199&oauth_version=1.0a&formatid=17&partnerid=3923&onbehalfofpartnerid=3923&presigned=1&releaseid=3543780&shopid=0&trackid=37255989&userid=125043073",
+                                            "format": {
+                                                "id": "17",
+                                                "fileFormat": "MP3",
+                                                "bitRate": "320",
+                                                "drmFree": "true"
+                                            }
+                                        },
+                                        {
+                                            "url": "http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&oauth_nonce=vqzs119snyppvr6l&oauth_signature=X9%2BbhBPZcDBK4VKtNK8K8R2B0YU%3D&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1415101199&oauth_version=1.0a&formatid=33&partnerid=3923&onbehalfofpartnerid=3923&presigned=1&releaseid=3543780&shopid=0&trackid=37255989&userid=125043073",
+                                            "format": {
+                                                "id": "33",
+                                                "fileFormat": "AAC",
+                                                "bitRate": "320",
+                                                "drmFree": "true"
+                                            }
+                                        }
+                                    ]
+                                }
+                            },
+                            {
+                                "track": {
+                                    "id": "37255991",
+                                    "title": "YCF",
+                                    "version": "",
+                                    "artist": {
+                                        "id": "1286355",
+                                        "name": "PAWS",
+                                        "appearsAs": "PAWS",
+                                        "url": "http://www.7digital.com/artist/paws"
+                                    },
+                                    "trackNumber": "11",
+                                    "duration": "171",
+                                    "isrc": "GBDCA1402554",
+                                    "url": "http://www.7digital.com/artist/paws/release/youth-culture-forever-1?h=11&d=1"
+                                },
+                                "remainingDownloads": "5",
+                                "purchaseId": "814920242",
+                                "purchaseDate": "2014-11-03T14:20:37Z",
+                                "completeAlbumPurchase": "true",
+                                "downloadUrls": {
+                                    "downloadUrl": [
+                                        {
+                                            "url": "http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&oauth_nonce=zf2sv6m072zxff6u&oauth_signature=C2YqA4ZEe%2F%2B522GYzeOfG8nyWig%3D&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1415101199&oauth_version=1.0a&formatid=17&partnerid=3923&onbehalfofpartnerid=3923&presigned=1&releaseid=3543780&shopid=0&trackid=37255991&userid=125043073",
+                                            "format": {
+                                                "id": "17",
+                                                "fileFormat": "MP3",
+                                                "bitRate": "320",
+                                                "drmFree": "true"
+                                            }
+                                        },
+                                        {
+                                            "url": "http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&oauth_nonce=j8xlwylg5pj0tcrl&oauth_signature=ihG7e1bR6Z%2FOfR%2FM5HpRirm39ew%3D&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1415101199&oauth_version=1.0a&formatid=33&partnerid=3923&onbehalfofpartnerid=3923&presigned=1&releaseid=3543780&shopid=0&trackid=37255991&userid=125043073",
+                                            "format": {
+                                                "id": "33",
+                                                "fileFormat": "AAC",
+                                                "bitRate": "320",
+                                                "drmFree": "true"
+                                            }
+                                        }
+                                    ]
+                                }
+                            },
+                            {
+                                "track": {
+                                    "id": "37255993",
+                                    "title": "War Cry",
+                                    "version": "",
+                                    "artist": {
+                                        "id": "1286355",
+                                        "name": "PAWS",
+                                        "appearsAs": "PAWS",
+                                        "url": "http://www.7digital.com/artist/paws"
+                                    },
+                                    "trackNumber": "12",
+                                    "duration": "703",
+                                    "isrc": "GBDCA1402555",
+                                    "url": "http://www.7digital.com/artist/paws/release/youth-culture-forever-1?h=12&d=1"
+                                },
+                                "remainingDownloads": "5",
+                                "purchaseId": "814920242",
+                                "purchaseDate": "2014-11-03T14:20:37Z",
+                                "completeAlbumPurchase": "true",
+                                "downloadUrls": {
+                                    "downloadUrl": [
+                                        {
+                                            "url": "http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&oauth_nonce=ielbt07zezw0almi&oauth_signature=N9lqLY2XPCTRXhdI27jevpP0ryg%3D&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1415101199&oauth_version=1.0a&formatid=17&partnerid=3923&onbehalfofpartnerid=3923&presigned=1&releaseid=3543780&shopid=0&trackid=37255993&userid=125043073",
+                                            "format": {
+                                                "id": "17",
+                                                "fileFormat": "MP3",
+                                                "bitRate": "320",
+                                                "drmFree": "true"
+                                            }
+                                        },
+                                        {
+                                            "url": "http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&oauth_nonce=46fy5tzb5vxfvmq4&oauth_signature=CMvMPuD6sUCHaW0Bgb3lukGDgTE%3D&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1415101199&oauth_version=1.0a&formatid=33&partnerid=3923&onbehalfofpartnerid=3923&presigned=1&releaseid=3543780&shopid=0&trackid=37255993&userid=125043073",
+                                            "format": {
+                                                "id": "33",
+                                                "fileFormat": "AAC",
+                                                "bitRate": "320",
+                                                "drmFree": "true"
+                                            }
+                                        }
+                                    ]
+                                }
+                            }
+                        ]
+                    },
+                    "available": "true"
+                }
+            ]
+        }
+    }
+}
