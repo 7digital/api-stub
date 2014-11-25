@@ -8,6 +8,8 @@ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocat
 			<currency code="GBP">&#163;</currency>
 			<value>0</value>
 			<formattedPrice>&#163;0.00</formattedPrice>
+			<rrp>0</rrp>
+			<formattedRrp>&#163;0.00</formattedRrp>
 		</price>
 		<basketItems></basketItems>
 		<amountDue>

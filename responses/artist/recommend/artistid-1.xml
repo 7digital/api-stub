@@ -25,8 +25,22 @@ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocat
 					<currency code="GBP">&#163;</currency>
 					<value>7.99</value>
 					<formattedPrice>&#163;7.99</formattedPrice>
+					<rrp>7.99</rrp>
+					<formattedRrp>&#163;7.99</formattedRrp>
 					<onSale>false</onSale>
 				</price>
+				<download>
+					<packages>
+						<package id="2">
+							<description>standard</description>
+							<price>
+								<currencyCode>GBP</currencyCode>
+								<sevendigitalPrice>7.99</sevendigitalPrice>
+								<recommendedRetailPrice>7.99</recommendedRetailPrice>
+							</price>
+						</package>
+					</packages>
+				</download>
 
 				<formats availableDrmFree="true">
 					<format id="17">
@@ -60,8 +74,22 @@ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocat
 					<currency code="GBP">&#163;</currency>
 					<value></value>
 					<formattedPrice>N/A</formattedPrice>
+					<rrp></rrp>
+					<formattedRrp>N/A</formattedRrp>
 					<onSale>false</onSale>
 				</price>
+				<download>
+					<packages>
+						<package id="2">
+							<description>standard</description>
+							<price>
+								<currencyCode>GBP</currencyCode>
+								<sevendigitalPrice xsi:nil="true" />
+								<recommendedRetailPrice xsi:nil="true" />
+							</price>
+						</package>
+					</packages>
+				</download>
 
 				<formats availableDrmFree="true">
 					<format id="17">
@@ -95,8 +123,22 @@ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocat
 					<currency code="GBP">&#163;</currency>
 					<value>14.99</value>
 					<formattedPrice>&#163;14.99</formattedPrice>
+					<rrp>14.99</rrp>
+					<formattedRrp>&#163;14.99</formattedRrp>
 					<onSale>false</onSale>
 				</price>
+				<download>
+					<packages>
+						<package id="2">
+							<description>standard</description>
+							<price>
+								<currencyCode>GBP</currencyCode>
+								<sevendigitalPrice>14.99</sevendigitalPrice>
+								<recommendedRetailPrice>14.99</recommendedRetailPrice>
+							</price>
+						</package>
+					</packages>
+				</download>
 
 				<formats availableDrmFree="true">
 					<format id="17">
@@ -130,8 +172,22 @@ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocat
 					<currency code="GBP">&#163;</currency>
 					<value>7.99</value>
 					<formattedPrice>&#163;7.99</formattedPrice>
+					<rrp>7.99</rrp>
+					<formattedRrp>&#163;7.99</formattedRrp>
 					<onSale>false</onSale>
 				</price>
+				<download>
+					<packages>
+						<package id="2">
+							<description>standard</description>
+							<price>
+								<currencyCode>GBP</currencyCode>
+								<sevendigitalPrice>7.99</sevendigitalPrice>
+								<recommendedRetailPrice>7.99</recommendedRetailPrice>
+							</price>
+						</package>
+					</packages>
+				</download>
 
 				<formats availableDrmFree="true">
 					<format id="48">
@@ -165,8 +221,22 @@ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocat
 					<currency code="GBP">&#163;</currency>
 					<value>10.99</value>
 					<formattedPrice>&#163;10.99</formattedPrice>
+					<rrp>10.99</rrp>
+					<formattedRrp>&#163;10.99</formattedRrp>
 					<onSale>false</onSale>
 				</price>
+				<download>
+					<packages>
+						<package id="2">
+							<description>standard</description>
+							<price>
+								<currencyCode>GBP</currencyCode>
+								<sevendigitalPrice>10.99</sevendigitalPrice>
+								<recommendedRetailPrice>10.99</recommendedRetailPrice>
+							</price>
+						</package>
+					</packages>
+				</download>
 
 				<formats availableDrmFree="true">
 					<format id="17">
@@ -205,8 +275,22 @@ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocat
 					<currency code="GBP">&#163;</currency>
 					<value>8.49</value>
 					<formattedPrice>&#163;8.49</formattedPrice>
+					<rrp>8.49</rrp>
+					<formattedRrp>&#163;8.49</formattedRrp>
 					<onSale>false</onSale>
 				</price>
+				<download>
+					<packages>
+						<package id="2">
+							<description>standard</description>
+							<price>
+								<currencyCode>GBP</currencyCode>
+								<sevendigitalPrice>8.49</sevendigitalPrice>
+								<recommendedRetailPrice>8.49</recommendedRetailPrice>
+							</price>
+						</package>
+					</packages>
+				</download>
 
 				<formats availableDrmFree="true">
 					<format id="17">
@@ -240,8 +324,22 @@ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocat
 					<currency code="GBP">&#163;</currency>
 					<value>2.29</value>
 					<formattedPrice>&#163;2.29</formattedPrice>
+					<rrp>2.29</rrp>
+					<formattedRrp>&#163;2.29</formattedRrp>
 					<onSale>false</onSale>
 				</price>
+				<download>
+					<packages>
+						<package id="2">
+							<description>standard</description>
+							<price>
+								<currencyCode>GBP</currencyCode>
+								<sevendigitalPrice>2.29</sevendigitalPrice>
+								<recommendedRetailPrice>2.29</recommendedRetailPrice>
+							</price>
+						</package>
+					</packages>
+				</download>
 
 				<formats availableDrmFree="true">
 					<format id="17">
@@ -280,8 +378,22 @@ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocat
 					<currency code="GBP">&#163;</currency>
 					<value>5.49</value>
 					<formattedPrice>&#163;5.49</formattedPrice>
+					<rrp>5.49</rrp>
+					<formattedRrp>&#163;5.49</formattedRrp>
 					<onSale>false</onSale>
 				</price>
+				<download>
+					<packages>
+						<package id="2">
+							<description>standard</description>
+							<price>
+								<currencyCode>GBP</currencyCode>
+								<sevendigitalPrice>5.49</sevendigitalPrice>
+								<recommendedRetailPrice>5.49</recommendedRetailPrice>
+							</price>
+						</package>
+					</packages>
+				</download>
 
 				<formats availableDrmFree="true">
 					<format id="48">
@@ -315,8 +427,22 @@ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocat
 					<currency code="GBP">&#163;</currency>
 					<value>0.99</value>
 					<formattedPrice>&#163;0.99</formattedPrice>
+					<rrp>0.99</rrp>
+					<formattedRrp>&#163;0.99</formattedRrp>
 					<onSale>false</onSale>
 				</price>
+				<download>
+					<packages>
+						<package id="2">
+							<description>standard</description>
+							<price>
+								<currencyCode>GBP</currencyCode>
+								<sevendigitalPrice>0.99</sevendigitalPrice>
+								<recommendedRetailPrice>0.99</recommendedRetailPrice>
+							</price>
+						</package>
+					</packages>
+				</download>
 
 				<formats availableDrmFree="true">
 					<format id="17">
@@ -350,8 +476,22 @@ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocat
 					<currency code="GBP">&#163;</currency>
 					<value>8.99</value>
 					<formattedPrice>&#163;8.99</formattedPrice>
+					<rrp>8.99</rrp>
+					<formattedRrp>&#163;8.99</formattedRrp>
 					<onSale>false</onSale>
 				</price>
+				<download>
+					<packages>
+						<package id="2">
+							<description>standard</description>
+							<price>
+								<currencyCode>GBP</currencyCode>
+								<sevendigitalPrice>8.99</sevendigitalPrice>
+								<recommendedRetailPrice>8.99</recommendedRetailPrice>
+							</price>
+						</package>
+					</packages>
+				</download>
 
 				<formats availableDrmFree="true">
 					<format id="52">

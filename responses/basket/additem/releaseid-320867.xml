@@ -6,6 +6,8 @@
 			<currency code="GBP">£</currency>
 			<value>5.99</value>
 			<formattedPrice>£5.99</formattedPrice>
+			<rrp>5.99</rrp>
+			<formattedRrp>£5.99</formattedRrp>
 		</price>
 		<basketItems>
 			<basketItem id="205791050">
@@ -18,6 +20,8 @@
 					<currency code="GBP">£</currency>
 					<value>5.99</value>
 					<formattedPrice>£5.99</formattedPrice>
+					<rrp>5.99</rrp>
+					<formattedRrp>£5.99</formattedRrp>
 				</price>
 				<amountDue>
 					<amount>5.99</amount>

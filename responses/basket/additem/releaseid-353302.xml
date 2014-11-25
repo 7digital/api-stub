@@ -8,6 +8,8 @@ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocat
 			<currency code="GBP">&#163;</currency>
 			<value>5.99</value>
 			<formattedPrice>&#163;5.99</formattedPrice>
+			<rrp>5.99</rrp>
+			<formattedRrp>&#163;5.99</formattedRrp>
 		</price>
 		<basketItems>
 			<basketItem id="15284882">
@@ -19,6 +21,8 @@ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocat
 				<price>
 					<value>5.49</value>
 					<formattedPrice>&#163;5.49</formattedPrice>
+					<rrp>5.49</rrp>
+					<formattedRrp>&#163;5.49</formattedRrp>
 				</price>
 				<amountDue>
 					<amount>5.49</amount>

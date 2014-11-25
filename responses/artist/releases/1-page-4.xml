@@ -24,6 +24,8 @@ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocat
 				<currency code="GBP">&#163;</currency>
 				<value>5.49</value>
 				<formattedPrice>&#163;5.49</formattedPrice>
+				<rrp>5.49</rrp>
+				<formattedRrp>&#163;5.49</formattedRrp>
 				<onSale>false</onSale>
 			</price>
 
@@ -57,6 +59,8 @@ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocat
 				<currency code="GBP">&#163;</currency>
 				<value>5.49</value>
 				<formattedPrice>&#163;5.49</formattedPrice>
+				<rrp>5.49</rrp>
+				<formattedRrp>&#163;5.49</formattedRrp>
 				<onSale>false</onSale>
 			</price>
 

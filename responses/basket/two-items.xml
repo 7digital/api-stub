@@ -6,6 +6,8 @@
 			<currency code="GBP">£</currency>
 			<value>1.98</value>
 			<formattedPrice>£1.98</formattedPrice>
+			<rrp>1.98</rrp>
+			<formattedRrp>£1.98</formattedRrp>
 		</price>
 		<basketItems>
 			<basketItem id="205791050">
@@ -18,6 +20,8 @@
 					<currency code="GBP">£</currency>
 					<value>0.99</value>
 					<formattedPrice>£0.99</formattedPrice>
+					<rrp>0.99</rrp>
+					<formattedRrp>£0.99</formattedRrp>
 				</price>
 				<amountDue>
 					<amount>0.99</amount>
@@ -34,6 +38,8 @@
 					<currency code="GBP">£</currency>
 					<value>0.99</value>
 					<formattedPrice>£0.99</formattedPrice>
+					<rrp>0.99</rrp>
+					<formattedRrp>£0.99</formattedRrp>
 				</price>
 				<amountDue>
 					<amount>0.99</amount>
