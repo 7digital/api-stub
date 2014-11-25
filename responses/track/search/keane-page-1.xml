@@ -51,6 +51,8 @@
           <currency code="GBP">ü/currency>
             <value>0.99</value>
             <formattedPrice>ð.99</formattedPrice>
+            <rrp>0.99</rrp>
+            <formattedRrp>ð.99</formattedRrp>
             <onSale>false</onSale>
           </price>
           <streamingReleaseDate>2012-05-06T23:00:00+01:00</streamingReleaseDate>
@@ -103,6 +105,8 @@
               <currency code="GBP">ü/currency>
                 <value>0.99</value>
                 <formattedPrice>ð.99</formattedPrice>
+                <rrp>0.99</rrp>
+                <formattedRrp>ð.99</formattedRrp>
                 <onSale>false</onSale>
               </price>
               <streamingReleaseDate>2012-05-06T23:00:00+01:00</streamingReleaseDate>
@@ -212,6 +216,8 @@
                   <currency code="GBP">ü/currency>
                     <value>0.99</value>
                     <formattedPrice>ð.99</formattedPrice>
+                    <rrp>0.99</rrp>
+                    <formattedRrp>ð.99</formattedRrp>
                     <onSale>false</onSale>
                   </price>
                   <streamingReleaseDate>2004-02-16T00:00:00+00:00</streamingReleaseDate>
@@ -321,6 +327,8 @@
                       <currency code="GBP">ü/currency>
                         <value>0.99</value>
                         <formattedPrice>ð.99</formattedPrice>
+                        <rrp>0.99</rrp>
+                        <formattedRrp>ð.99</formattedRrp>
                         <onSale>false</onSale>
                       </price>
                       <streamingReleaseDate>2012-05-06T23:00:00+01:00</streamingReleaseDate>
@@ -425,6 +433,8 @@
                           <currency code="GBP">ü/currency>
                             <value>0.99</value>
                             <formattedPrice>ð.99</formattedPrice>
+                            <rrp>0.99</rrp>
+                            <formattedRrp>ð.99</formattedRrp>
                             <onSale>false</onSale>
                           </price>
                           <streamingReleaseDate>2012-05-06T23:00:00+01:00</streamingReleaseDate>
@@ -529,6 +539,8 @@
                               <currency code="GBP">ü/currency>
                                 <value>0.99</value>
                                 <formattedPrice>ð.99</formattedPrice>
+                                <rrp>0.99</rrp>
+                                <formattedRrp>ð.99</formattedRrp>
                                 <onSale>false</onSale>
                               </price>
                               <streamingReleaseDate>2012-05-06T23:00:00+01:00</streamingReleaseDate>
