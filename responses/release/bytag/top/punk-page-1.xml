@@ -1,219 +1,219 @@
-<?xml version="1.0" encoding="utf-8" ?>
-<response status="ok" version="1.2" xsi:noNamespaceSchemaLocation="http://api.7digital.com/1.2/static/7digitalAPI.xsd" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-  <taggedResults>
-    <page>1</page>
-    <pageSize>10</pageSize>
-    <totalItems>11595</totalItems>
-    <type>release</type>
-    <taggedItem>
-      <release id="2034">
-        <title>American Idiot</title>
-        <version />
-        <type>Album</type>
-        <barcode>093624877769</barcode>
-        <year>2010</year>
-        <explicitContent>false</explicitContent>
-        <artist id="610">
-          <name>Green Day</name>
-          <appearsAs>Green Day</appearsAs>
-          <url>http://www.7digital.com/artist/green-day/?partner=1401</url>
-        </artist>
-        <url>http://www.7digital.com/artist/green-day/release/american-idiot-1-1/?partner=1401</url>
-        <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/000/020/0000002034_50.jpg</image>
-        <releaseDate>2010-05-06T00:00:00+01:00</releaseDate>
-        <addedDate>2008-03-03T14:04:42+00:00</addedDate>
-        <popularity>0.58</popularity>
-        <streamingReleaseDate>2010-05-06T00:00:00+01:00</streamingReleaseDate>
-      </release>
-    </taggedItem>
-    <taggedItem>
-      <release id="267822">
-        <title>Smash</title>
-        <version />
-        <type>Album</type>
-        <barcode>045778686865</barcode>
-        <year>2009</year>
-        <explicitContent>false</explicitContent>
-        <artist id="80079">
-          <name>The Offspring</name>
-          <appearsAs>Offspring, The</appearsAs>
-          <url>http://www.7digital.com/artist/the-offspring/?partner=1401</url>
-        </artist>
-        <url>http://www.7digital.com/artist/the-offspring/release/smash-1/?partner=1401</url>
-        <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/002/678/0000267822_50.jpg</image>
-        <releaseDate>2009-01-28T00:00:00+00:00</releaseDate>
-        <addedDate>2008-06-13T22:25:08+01:00</addedDate>
-        <popularity>0.51</popularity>
-        <streamingReleaseDate>2009-01-28T00:00:00+00:00</streamingReleaseDate>
-      </release>
-    </taggedItem>
-    <taggedItem>
-      <release id="507785">
-        <title>Billy Talent III</title>
-        <version />
-        <type>Album</type>
-        <barcode>825646898336</barcode>
-        <year>2009</year>
-        <explicitContent>false</explicitContent>
-        <artist id="4565">
-          <name>Billy Talent</name>
-          <appearsAs>Billy Talent</appearsAs>
-          <url>http://www.7digital.com/artist/billy-talent/?partner=1401</url>
-        </artist>
-        <url>http://www.7digital.com/artist/billy-talent/release/billy-talent-iii/?partner=1401</url>
-        <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/005/077/0000507785_50.jpg</image>
-        <releaseDate>2009-07-12T00:00:00+01:00</releaseDate>
-        <addedDate>2009-07-11T07:27:07+01:00</addedDate>
-        <popularity>0.51</popularity>
-        <streamingReleaseDate>2009-07-12T00:00:00+01:00</streamingReleaseDate>
-      </release>
-    </taggedItem>
-    <taggedItem>
-      <release id="45717">
-        <title>The Black Parade</title>
-        <version />
-        <type>Album</type>
-        <barcode>093624442769</barcode>
-        <year>2010</year>
-        <explicitContent>false</explicitContent>
-        <artist id="1270">
-          <name>My Chemical Romance</name>
-          <appearsAs>My Chemical Romance</appearsAs>
-          <url>http://www.7digital.com/artist/my-chemical-romance/?partner=1401</url>
-        </artist>
-        <url>http://www.7digital.com/artist/my-chemical-romance/release/the-black-parade-1/?partner=1401</url>
-        <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/000/457/0000045717_50.jpg</image>
-        <releaseDate>2010-11-30T00:00:00+00:00</releaseDate>
-        <addedDate>2008-03-03T14:09:39+00:00</addedDate>
-        <popularity>0.51</popularity>
-        <streamingReleaseDate>2010-11-30T00:00:00+00:00</streamingReleaseDate>
-      </release>
-    </taggedItem>
-    <taggedItem>
-      <release id="7429">
-        <title>Dookie</title>
-        <version />
-        <type>Album</type>
-        <barcode>093624552963</barcode>
-        <year>2009</year>
-        <explicitContent>false</explicitContent>
-        <artist id="610">
-          <name>Green Day</name>
-          <appearsAs>Green Day</appearsAs>
-          <url>http://www.7digital.com/artist/green-day/?partner=1401</url>
-        </artist>
-        <url>http://www.7digital.com/artist/green-day/release/dookie-1/?partner=1401</url>
-        <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/000/074/0000007429_50.jpg</image>
-        <releaseDate>2009-06-01T00:00:00+01:00</releaseDate>
-        <addedDate>2008-03-03T14:04:58+00:00</addedDate>
-        <popularity>0.51</popularity>
-        <streamingReleaseDate>2009-06-01T00:00:00+01:00</streamingReleaseDate>
-      </release>
-    </taggedItem>
-    <taggedItem>
-      <release id="7258">
-        <title>International Superhits!</title>
-        <version />
-        <type>Album</type>
-        <barcode>093624814566</barcode>
-        <year>2012</year>
-        <explicitContent>false</explicitContent>
-        <artist id="610">
-          <name>Green Day</name>
-          <appearsAs>Green Day</appearsAs>
-          <url>http://www.7digital.com/artist/green-day/?partner=1401</url>
-        </artist>
-        <url>http://www.7digital.com/artist/green-day/release/international-superhits-1/?partner=1401</url>
-        <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/000/072/0000007258_50.jpg</image>
-        <releaseDate>2012-07-18T00:00:00+01:00</releaseDate>
-        <addedDate>2008-03-03T14:04:57+00:00</addedDate>
-        <popularity>0.51</popularity>
-        <streamingReleaseDate>2012-07-18T00:00:00+01:00</streamingReleaseDate>
-      </release>
-    </taggedItem>
-    <taggedItem>
-      <release id="1642459">
-        <title>I Still Believe</title>
-        <version />
-        <type>Single</type>
-        <barcode>5050954268884</barcode>
-        <year>2012</year>
-        <explicitContent>false</explicitContent>
-        <artist id="15346">
-          <name>Frank Turner</name>
-          <appearsAs>Frank Turner</appearsAs>
-          <url>http://www.7digital.com/artist/frank-turner/?partner=1401</url>
-        </artist>
-        <url>http://www.7digital.com/artist/frank-turner/release/i-still-believe-1/?partner=1401</url>
-        <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/016/424/0001642459_50.jpg</image>
-        <releaseDate>2012-04-30T00:00:00+01:00</releaseDate>
-        <addedDate>2012-03-21T14:24:05+00:00</addedDate>
-        <popularity>0.5</popularity>
-        <streamingReleaseDate>2012-04-30T00:00:00+01:00</streamingReleaseDate>
-      </release>
-    </taggedItem>
-    <taggedItem>
-      <release id="1247898">
-        <title>Going Underground</title>
-        <version />
-        <type>Album</type>
-        <barcode>00600753340547</barcode>
-        <year>2011</year>
-        <explicitContent>false</explicitContent>
-        <artist id="209">
-          <name>Various Artists</name>
-          <appearsAs>Various Artists</appearsAs>
-          <url>http://www.7digital.com/artist/various-artists/?partner=1401</url>
-        </artist>
-        <url>http://www.7digital.com/artist/various-artists/release/going-underground/?partner=1401</url>
-        <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/012/478/0001247898_50.jpg</image>
-        <releaseDate>2011-05-30T00:00:00+01:00</releaseDate>
-        <addedDate>2011-05-16T15:07:21+01:00</addedDate>
-        <popularity>0.5</popularity>
-        <streamingReleaseDate>3001-01-01T00:00:00+00:00</streamingReleaseDate>
-      </release>
-    </taggedItem>
-    <taggedItem>
-      <release id="14294">
-        <title>Tragic Kingdom</title>
-        <version />
-        <type>Album</type>
-        <barcode>00606949000325</barcode>
-        <year>2001</year>
-        <explicitContent>false</explicitContent>
-        <artist id="154">
-          <name>No Doubt</name>
-          <appearsAs>No Doubt</appearsAs>
-          <url>http://www.7digital.com/artist/no-doubt/?partner=1401</url>
-        </artist>
-        <url>http://www.7digital.com/artist/no-doubt/release/tragic-kingdom/?partner=1401</url>
-        <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/000/142/0000014294_50.jpg</image>
-        <releaseDate>2001-03-19T00:00:00+00:00</releaseDate>
-        <addedDate>2008-08-31T22:18:30+01:00</addedDate>
-        <popularity>0.5</popularity>
-        <streamingReleaseDate>2001-03-19T00:00:00+00:00</streamingReleaseDate>
-      </release>
-    </taggedItem>
-    <taggedItem>
-      <release id="1020774">
-        <title>Le Pop</title>
-        <version />
-        <type>Album</type>
-        <barcode>0067003088756</barcode>
-        <year>2010</year>
-        <explicitContent>false</explicitContent>
-        <artist id="388585">
-          <name>Katzenjammer</name>
-          <appearsAs>Katzenjammer</appearsAs>
-          <url>http://www.7digital.com/artist/katzenjammer/?partner=1401</url>
-        </artist>
-        <url>http://www.7digital.com/artist/katzenjammer/release/le-pop-6/?partner=1401</url>
-        <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/010/207/0001020774_50.jpg</image>
-        <releaseDate>2010-06-29T00:00:00+01:00</releaseDate>
-        <addedDate>2010-10-29T09:39:04+01:00</addedDate>
-        <popularity>0.49</popularity>
-        <streamingReleaseDate>2010-06-29T00:00:00+01:00</streamingReleaseDate>
-      </release>
-    </taggedItem>
-  </taggedResults>
+<?xml version="1.0" encoding="utf-8"?>
+<response xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" status="ok" version="1.2" xsi:noNamespaceSchemaLocation="http://api.7digital.com/1.2/static/7digitalAPI.xsd">
+	<taggedResults>
+		<page>1</page>
+		<pageSize>10</pageSize>
+		<totalItems>11595</totalItems>
+		<type>release</type>
+		<taggedItem>
+			<release id="2034">
+				<title>American Idiot</title>
+				<version/>
+				<type>Album</type>
+				<barcode>093624877769</barcode>
+				<year>2010</year>
+				<explicitContent>false</explicitContent>
+				<artist id="610">
+					<name>Green Day</name>
+					<appearsAs>Green Day</appearsAs>
+					<url>http://www.7digital.com/artist/green-day/?partner=1401</url>
+				</artist>
+				<url>http://www.7digital.com/artist/green-day/release/american-idiot-1-1/?partner=1401</url>
+				<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/000/020/0000002034_50.jpg</image>
+				<releaseDate>2010-05-06T00:00:00+01:00</releaseDate>
+				<addedDate>2008-03-03T14:04:42+00:00</addedDate>
+				<popularity>0.58</popularity>
+				<streamingReleaseDate>2010-05-06T00:00:00+01:00</streamingReleaseDate>
+			</release>
+		</taggedItem>
+		<taggedItem>
+			<release id="267822">
+				<title>Smash</title>
+				<version/>
+				<type>Album</type>
+				<barcode>045778686865</barcode>
+				<year>2009</year>
+				<explicitContent>false</explicitContent>
+				<artist id="80079">
+					<name>The Offspring</name>
+					<appearsAs>Offspring, The</appearsAs>
+					<url>http://www.7digital.com/artist/the-offspring/?partner=1401</url>
+				</artist>
+				<url>http://www.7digital.com/artist/the-offspring/release/smash-1/?partner=1401</url>
+				<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/002/678/0000267822_50.jpg</image>
+				<releaseDate>2009-01-28T00:00:00+00:00</releaseDate>
+				<addedDate>2008-06-13T22:25:08+01:00</addedDate>
+				<popularity>0.51</popularity>
+				<streamingReleaseDate>2009-01-28T00:00:00+00:00</streamingReleaseDate>
+			</release>
+		</taggedItem>
+		<taggedItem>
+			<release id="507785">
+				<title>Billy Talent III</title>
+				<version/>
+				<type>Album</type>
+				<barcode>825646898336</barcode>
+				<year>2009</year>
+				<explicitContent>false</explicitContent>
+				<artist id="4565">
+					<name>Billy Talent</name>
+					<appearsAs>Billy Talent</appearsAs>
+					<url>http://www.7digital.com/artist/billy-talent/?partner=1401</url>
+				</artist>
+				<url>http://www.7digital.com/artist/billy-talent/release/billy-talent-iii/?partner=1401</url>
+				<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/005/077/0000507785_50.jpg</image>
+				<releaseDate>2009-07-12T00:00:00+01:00</releaseDate>
+				<addedDate>2009-07-11T07:27:07+01:00</addedDate>
+				<popularity>0.51</popularity>
+				<streamingReleaseDate>2009-07-12T00:00:00+01:00</streamingReleaseDate>
+			</release>
+		</taggedItem>
+		<taggedItem>
+			<release id="45717">
+				<title>The Black Parade</title>
+				<version/>
+				<type>Album</type>
+				<barcode>093624442769</barcode>
+				<year>2010</year>
+				<explicitContent>false</explicitContent>
+				<artist id="1270">
+					<name>My Chemical Romance</name>
+					<appearsAs>My Chemical Romance</appearsAs>
+					<url>http://www.7digital.com/artist/my-chemical-romance/?partner=1401</url>
+				</artist>
+				<url>http://www.7digital.com/artist/my-chemical-romance/release/the-black-parade-1/?partner=1401</url>
+				<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/000/457/0000045717_50.jpg</image>
+				<releaseDate>2010-11-30T00:00:00+00:00</releaseDate>
+				<addedDate>2008-03-03T14:09:39+00:00</addedDate>
+				<popularity>0.51</popularity>
+				<streamingReleaseDate>2010-11-30T00:00:00+00:00</streamingReleaseDate>
+			</release>
+		</taggedItem>
+		<taggedItem>
+			<release id="7429">
+				<title>Dookie</title>
+				<version/>
+				<type>Album</type>
+				<barcode>093624552963</barcode>
+				<year>2009</year>
+				<explicitContent>false</explicitContent>
+				<artist id="610">
+					<name>Green Day</name>
+					<appearsAs>Green Day</appearsAs>
+					<url>http://www.7digital.com/artist/green-day/?partner=1401</url>
+				</artist>
+				<url>http://www.7digital.com/artist/green-day/release/dookie-1/?partner=1401</url>
+				<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/000/074/0000007429_50.jpg</image>
+				<releaseDate>2009-06-01T00:00:00+01:00</releaseDate>
+				<addedDate>2008-03-03T14:04:58+00:00</addedDate>
+				<popularity>0.51</popularity>
+				<streamingReleaseDate>2009-06-01T00:00:00+01:00</streamingReleaseDate>
+			</release>
+		</taggedItem>
+		<taggedItem>
+			<release id="7258">
+				<title>International Superhits!</title>
+				<version/>
+				<type>Album</type>
+				<barcode>093624814566</barcode>
+				<year>2012</year>
+				<explicitContent>false</explicitContent>
+				<artist id="610">
+					<name>Green Day</name>
+					<appearsAs>Green Day</appearsAs>
+					<url>http://www.7digital.com/artist/green-day/?partner=1401</url>
+				</artist>
+				<url>http://www.7digital.com/artist/green-day/release/international-superhits-1/?partner=1401</url>
+				<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/000/072/0000007258_50.jpg</image>
+				<releaseDate>2012-07-18T00:00:00+01:00</releaseDate>
+				<addedDate>2008-03-03T14:04:57+00:00</addedDate>
+				<popularity>0.51</popularity>
+				<streamingReleaseDate>2012-07-18T00:00:00+01:00</streamingReleaseDate>
+			</release>
+		</taggedItem>
+		<taggedItem>
+			<release id="1642459">
+				<title>I Still Believe</title>
+				<version/>
+				<type>Single</type>
+				<barcode>5050954268884</barcode>
+				<year>2012</year>
+				<explicitContent>false</explicitContent>
+				<artist id="15346">
+					<name>Frank Turner</name>
+					<appearsAs>Frank Turner</appearsAs>
+					<url>http://www.7digital.com/artist/frank-turner/?partner=1401</url>
+				</artist>
+				<url>http://www.7digital.com/artist/frank-turner/release/i-still-believe-1/?partner=1401</url>
+				<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/016/424/0001642459_50.jpg</image>
+				<releaseDate>2012-04-30T00:00:00+01:00</releaseDate>
+				<addedDate>2012-03-21T14:24:05+00:00</addedDate>
+				<popularity>0.5</popularity>
+				<streamingReleaseDate>2012-04-30T00:00:00+01:00</streamingReleaseDate>
+			</release>
+		</taggedItem>
+		<taggedItem>
+			<release id="1247898">
+				<title>Going Underground</title>
+				<version/>
+				<type>Album</type>
+				<barcode>00600753340547</barcode>
+				<year>2011</year>
+				<explicitContent>false</explicitContent>
+				<artist id="209">
+					<name>Various Artists</name>
+					<appearsAs>Various Artists</appearsAs>
+					<url>http://www.7digital.com/artist/various-artists/?partner=1401</url>
+				</artist>
+				<url>http://www.7digital.com/artist/various-artists/release/going-underground/?partner=1401</url>
+				<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/012/478/0001247898_50.jpg</image>
+				<releaseDate>2011-05-30T00:00:00+01:00</releaseDate>
+				<addedDate>2011-05-16T15:07:21+01:00</addedDate>
+				<popularity>0.5</popularity>
+				<streamingReleaseDate>3001-01-01T00:00:00+00:00</streamingReleaseDate>
+			</release>
+		</taggedItem>
+		<taggedItem>
+			<release id="14294">
+				<title>Tragic Kingdom</title>
+				<version/>
+				<type>Album</type>
+				<barcode>00606949000325</barcode>
+				<year>2001</year>
+				<explicitContent>false</explicitContent>
+				<artist id="154">
+					<name>No Doubt</name>
+					<appearsAs>No Doubt</appearsAs>
+					<url>http://www.7digital.com/artist/no-doubt/?partner=1401</url>
+				</artist>
+				<url>http://www.7digital.com/artist/no-doubt/release/tragic-kingdom/?partner=1401</url>
+				<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/000/142/0000014294_50.jpg</image>
+				<releaseDate>2001-03-19T00:00:00+00:00</releaseDate>
+				<addedDate>2008-08-31T22:18:30+01:00</addedDate>
+				<popularity>0.5</popularity>
+				<streamingReleaseDate>2001-03-19T00:00:00+00:00</streamingReleaseDate>
+			</release>
+		</taggedItem>
+		<taggedItem>
+			<release id="1020774">
+				<title>Le Pop</title>
+				<version/>
+				<type>Album</type>
+				<barcode>0067003088756</barcode>
+				<year>2010</year>
+				<explicitContent>false</explicitContent>
+				<artist id="388585">
+					<name>Katzenjammer</name>
+					<appearsAs>Katzenjammer</appearsAs>
+					<url>http://www.7digital.com/artist/katzenjammer/?partner=1401</url>
+				</artist>
+				<url>http://www.7digital.com/artist/katzenjammer/release/le-pop-6/?partner=1401</url>
+				<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/010/207/0001020774_50.jpg</image>
+				<releaseDate>2010-06-29T00:00:00+01:00</releaseDate>
+				<addedDate>2010-10-29T09:39:04+01:00</addedDate>
+				<popularity>0.49</popularity>
+				<streamingReleaseDate>2010-06-29T00:00:00+01:00</streamingReleaseDate>
+			</release>
+		</taggedItem>
+	</taggedResults>
 </response>

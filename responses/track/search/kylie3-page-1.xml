@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<response status="ok" version="1.2" xsi:noNamespaceSchemaLocation="http://api.7digital.com/1.2/static/7digitalAPI.xsd" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<response xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" status="ok" version="1.2" xsi:noNamespaceSchemaLocation="http://api.7digital.com/1.2/static/7digitalAPI.xsd">
 	<searchResults>
 		<page>1</page>
 		<pageSize>10</pageSize>
@@ -12,15 +12,15 @@
 				<trackNumber>1</trackNumber>
 				<discNumber>1</discNumber>
 				<title>Spinning Around (7th Spinnin' Dizzy Dub)</title>
-				<version />
+				<version/>
 				<explicitContent>false</explicitContent>
 				<isrc>GBAYE0000440</isrc>
 				<type/>
 				<release id="8622">
 					<title>Spinning Around</title>
-					<version />
+					<version/>
 					<type>single</type>
-					<barcode xsi:nil="true" />
+					<barcode xsi:nil="true"/>
 					<year>0</year>
 					<explicitContent>false</explicitContent>
 					<url>http://www.7digital.com/artists/kylie/spinning-around</url>
@@ -35,7 +35,7 @@
 				</release>
 				<artist id="1599">
 					<name>Kylie</name>
-					<sortName xsi:nil="true" />
+					<sortName xsi:nil="true"/>
 					<url>http://www.7digital.com/artists/kylie</url>
 				</artist>
 			</track>
@@ -48,15 +48,15 @@
 				<trackNumber>1</trackNumber>
 				<discNumber>1</discNumber>
 				<title>It's So Hard (To Get Over You)</title>
-				<version />
+				<version/>
 				<explicitContent>false</explicitContent>
 				<isrc>GBAYE0000440</isrc>
 				<type/>
 				<release id="710052">
 					<title>It's So Hard (To Get Over You!)</title>
-					<version />
+					<version/>
 					<type>single</type>
-					<barcode xsi:nil="true" />
+					<barcode xsi:nil="true"/>
 					<year>0</year>
 					<explicitContent>false</explicitContent>
 					<url>http://www.7digital.com/artists/kylie/its-so-hard-to-get-over-you</url>
@@ -65,7 +65,7 @@
 				</release>
 				<artist id="1599">
 					<name>Kylie</name>
-					<sortName xsi:nil="true" />
+					<sortName xsi:nil="true"/>
 					<url>http://www.7digital.com/artists/kylie</url>
 				</artist>
 			</track>
@@ -78,15 +78,15 @@
 				<trackNumber>2</trackNumber>
 				<discNumber>1</discNumber>
 				<title>Spinning Around (Live In Manchester)</title>
-				<version />
+				<version/>
 				<explicitContent>false</explicitContent>
 				<isrc>GBAYE0000440</isrc>
 				<type/>
 				<release id="8622">
 					<title>Spinning Around</title>
-					<version />
+					<version/>
 					<type>single</type>
-					<barcode xsi:nil="true" />
+					<barcode xsi:nil="true"/>
 					<year>0</year>
 					<explicitContent>false</explicitContent>
 					<url>http://www.7digital.com/artists/kylie/spinning-around</url>
@@ -101,7 +101,7 @@
 				</release>
 				<artist id="1599">
 					<name>Kylie</name>
-					<sortName xsi:nil="true" />
+					<sortName xsi:nil="true"/>
 					<url>http://www.7digital.com/artists/kylie</url>
 				</artist>
 			</track>
@@ -114,15 +114,15 @@
 				<trackNumber>13</trackNumber>
 				<discNumber>1</discNumber>
 				<title>Kylie</title>
-				<version />
+				<version/>
 				<explicitContent>false</explicitContent>
 				<isrc>GBAYE0000440</isrc>
 				<type/>
 				<release id="311598">
 					<title>Primul Capitol</title>
-					<version />
+					<version/>
 					<type>album</type>
-					<barcode xsi:nil="true" />
+					<barcode xsi:nil="true"/>
 					<year>0</year>
 					<explicitContent>false</explicitContent>
 					<url>http://www.7digital.com/artists/akcent/primul-capitol</url>
@@ -137,7 +137,7 @@
 				</release>
 				<artist id="95676">
 					<name>Akcent</name>
-					<sortName xsi:nil="true" />
+					<sortName xsi:nil="true"/>
 					<url>http://www.7digital.com/artists/akcent</url>
 				</artist>
 			</track>
@@ -150,15 +150,15 @@
 				<trackNumber>3</trackNumber>
 				<discNumber>1</discNumber>
 				<title>Spinning Around (Sharp Double Dub)</title>
-				<version />
+				<version/>
 				<explicitContent>false</explicitContent>
 				<isrc>GBAYE0000440</isrc>
 				<type/>
 				<release id="8622">
 					<title>Spinning Around</title>
-					<version />
+					<version/>
 					<type>single</type>
-					<barcode xsi:nil="true" />
+					<barcode xsi:nil="true"/>
 					<year>0</year>
 					<explicitContent>false</explicitContent>
 					<url>http://www.7digital.com/artists/kylie/spinning-around</url>
@@ -173,7 +173,7 @@
 				</release>
 				<artist id="1599">
 					<name>Kylie</name>
-					<sortName xsi:nil="true" />
+					<sortName xsi:nil="true"/>
 					<url>http://www.7digital.com/artists/kylie</url>
 				</artist>
 			</track>
@@ -186,15 +186,15 @@
 				<trackNumber>9</trackNumber>
 				<discNumber>1</discNumber>
 				<title>Kylie</title>
-				<version />
+				<version/>
 				<explicitContent>false</explicitContent>
 				<isrc>GBAYE0000440</isrc>
 				<type/>
 				<release id="71331">
 					<title>Big Beat Vibes</title>
-					<version />
+					<version/>
 					<type>album</type>
-					<barcode xsi:nil="true" />
+					<barcode xsi:nil="true"/>
 					<year>0</year>
 					<explicitContent>false</explicitContent>
 					<url>http://www.7digital.com/artists/various-artists/big-beat-vibes</url>
@@ -209,7 +209,7 @@
 				</release>
 				<artist id="209">
 					<name>Various Artists</name>
-					<sortName xsi:nil="true" />
+					<sortName xsi:nil="true"/>
 					<url>http://www.7digital.com/artists/various-artists</url>
 				</artist>
 			</track>
@@ -222,15 +222,15 @@
 				<trackNumber>14</trackNumber>
 				<discNumber>1</discNumber>
 				<title>Kylie (Crush Rock Remix)</title>
-				<version />
+				<version/>
 				<explicitContent>false</explicitContent>
 				<isrc>GBAYE0000440</isrc>
 				<type/>
 				<release id="311598">
 					<title>Primul Capitol</title>
-					<version />
+					<version/>
 					<type>album</type>
-					<barcode xsi:nil="true" />
+					<barcode xsi:nil="true"/>
 					<year>0</year>
 					<explicitContent>false</explicitContent>
 					<url>http://www.7digital.com/artists/akcent/primul-capitol</url>
@@ -245,7 +245,7 @@
 				</release>
 				<artist id="95676">
 					<name>Akcent</name>
-					<sortName xsi:nil="true" />
+					<sortName xsi:nil="true"/>
 					<url>http://www.7digital.com/artists/akcent</url>
 				</artist>
 			</track>
@@ -258,15 +258,15 @@
 				<trackNumber>17</trackNumber>
 				<discNumber>1</discNumber>
 				<title>Kylie (Crush Thunderdoom Remix)</title>
-				<version />
+				<version/>
 				<explicitContent>false</explicitContent>
 				<isrc>GBAYE0000440</isrc>
 				<type/>
 				<release id="311598">
 					<title>Primul Capitol</title>
-					<version />
+					<version/>
 					<type>album</type>
-					<barcode xsi:nil="true" />
+					<barcode xsi:nil="true"/>
 					<year>0</year>
 					<explicitContent>false</explicitContent>
 					<url>http://www.7digital.com/artists/akcent/primul-capitol</url>
@@ -281,7 +281,7 @@
 				</release>
 				<artist id="95676">
 					<name>Akcent</name>
-					<sortName xsi:nil="true" />
+					<sortName xsi:nil="true"/>
 					<url>http://www.7digital.com/artists/akcent</url>
 				</artist>
 			</track>
@@ -294,15 +294,15 @@
 				<trackNumber>15</trackNumber>
 				<discNumber>1</discNumber>
 				<title>Kylie (Black Sea Mix)</title>
-				<version />
+				<version/>
 				<explicitContent>false</explicitContent>
 				<isrc>GBAYE0000440</isrc>
 				<type/>
 				<release id="311598">
 					<title>Primul Capitol</title>
-					<version />
+					<version/>
 					<type>album</type>
-					<barcode xsi:nil="true" />
+					<barcode xsi:nil="true"/>
 					<year>0</year>
 					<explicitContent>false</explicitContent>
 					<url>http://www.7digital.com/artists/akcent/primul-capitol</url>
@@ -317,7 +317,7 @@
 				</release>
 				<artist id="95676">
 					<name>Akcent</name>
-					<sortName xsi:nil="true" />
+					<sortName xsi:nil="true"/>
 					<url>http://www.7digital.com/artists/akcent</url>
 				</artist>
 			</track>
@@ -330,15 +330,15 @@
 				<trackNumber>16</trackNumber>
 				<discNumber>1</discNumber>
 				<title>Kylie (Dj Wins Mix)</title>
-				<version />
+				<version/>
 				<explicitContent>false</explicitContent>
 				<isrc>GBAYE0000440</isrc>
 				<type/>
 				<release id="311598">
 					<title>Primul Capitol</title>
-					<version />
+					<version/>
 					<type>album</type>
-					<barcode xsi:nil="true" />
+					<barcode xsi:nil="true"/>
 					<year>0</year>
 					<explicitContent>false</explicitContent>
 					<url>http://www.7digital.com/artists/akcent/primul-capitol</url>
@@ -353,7 +353,7 @@
 				</release>
 				<artist id="95676">
 					<name>Akcent</name>
-					<sortName xsi:nil="true" />
+					<sortName xsi:nil="true"/>
 					<url>http://www.7digital.com/artists/akcent</url>
 				</artist>
 			</track>

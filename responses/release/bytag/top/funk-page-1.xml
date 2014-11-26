@@ -1,219 +1,219 @@
-<?xml version="1.0" encoding="utf-8" ?>
-<response status="ok" version="1.2" xsi:noNamespaceSchemaLocation="http://api.7digital.com/1.2/static/7digitalAPI.xsd" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-  <taggedResults>
-    <page>1</page>
-    <pageSize>10</pageSize>
-    <totalItems>5051</totalItems>
-    <type>release</type>
-    <taggedItem>
-      <release id="829228">
-        <title>Top 5 - Ray Charles - EP</title>
-        <version />
-        <type>Single</type>
-        <barcode>7340027013533</barcode>
-        <year>2010</year>
-        <explicitContent>false</explicitContent>
-        <artist id="4342">
-          <name>Ray Charles</name>
-          <appearsAs>Ray Charles</appearsAs>
-          <url>http://www.7digital.com/artist/ray-charles/?partner=1401</url>
-        </artist>
-        <url>http://www.7digital.com/artist/ray-charles/release/top-5-ray-charles-ep/?partner=1401</url>
-        <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/008/292/0000829228_50.jpg</image>
-        <releaseDate>2010-05-11T00:00:00+01:00</releaseDate>
-        <addedDate>2010-05-12T16:53:37+01:00</addedDate>
-        <popularity>0.56</popularity>
-        <streamingReleaseDate>2010-05-11T00:00:00+01:00</streamingReleaseDate>
-      </release>
-    </taggedItem>
-    <taggedItem>
-      <release id="1221510">
-        <title>50 Chill &amp; Nu-Lounge Experience (Red Edition)</title>
-        <version />
-        <type>Album</type>
-        <barcode>3661585826576</barcode>
-        <year>2011</year>
-        <explicitContent>false</explicitContent>
-        <artist id="209">
-          <name>Various Artists</name>
-          <appearsAs>Various Artists</appearsAs>
-          <url>http://www.7digital.com/artist/various-artists/?partner=1401</url>
-        </artist>
-        <url>http://www.7digital.com/artist/various-artists/release/50-chill-and-nu-lounge-experience-red-edition/?partner=1401</url>
-        <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/012/215/0001221510_50.jpg</image>
-        <releaseDate>2011-04-29T00:00:00+01:00</releaseDate>
-        <addedDate>2011-04-15T17:09:27+01:00</addedDate>
-        <popularity>0.53</popularity>
-        <streamingReleaseDate>2011-04-29T00:00:00+01:00</streamingReleaseDate>
-      </release>
-    </taggedItem>
-    <taggedItem>
-      <release id="475199">
-        <title>R´n´B Smooth Soul Collection</title>
-        <version />
-        <type>Album</type>
-        <barcode>881969321357</barcode>
-        <year>2012</year>
-        <explicitContent>false</explicitContent>
-        <artist id="209">
-          <name>Various Artists</name>
-          <appearsAs>Various Artists</appearsAs>
-          <url>http://www.7digital.com/artist/various-artists/?partner=1401</url>
-        </artist>
-        <url>http://www.7digital.com/artist/various-artists/release/al-dorado-presents-vol-2-randb-smooth-soul-collection/?partner=1401</url>
-        <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/004/751/0000475199_50.jpg</image>
-        <releaseDate>2012-03-09T00:00:00+00:00</releaseDate>
-        <addedDate>2009-06-16T10:48:37+01:00</addedDate>
-        <popularity>0.52</popularity>
-        <streamingReleaseDate>2012-03-09T00:00:00+00:00</streamingReleaseDate>
-      </release>
-    </taggedItem>
-    <taggedItem>
-      <release id="1225811">
-        <title>At Last - Etta James (Remastered 2011)</title>
-        <version />
-        <type>Album</type>
-        <barcode>7340070427905</barcode>
-        <year>2011</year>
-        <explicitContent>false</explicitContent>
-        <artist id="1821">
-          <name>Etta James</name>
-          <appearsAs>Etta James </appearsAs>
-          <url>http://www.7digital.com/artist/etta-james/?partner=1401</url>
-        </artist>
-        <url>http://www.7digital.com/artist/etta-james/release/at-last-etta-james-remastered-2011/?partner=1401</url>
-        <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/012/258/0001225811_50.jpg</image>
-        <releaseDate>2011-04-19T00:00:00+01:00</releaseDate>
-        <addedDate>2011-04-21T15:19:17+01:00</addedDate>
-        <popularity>0.51</popularity>
-        <streamingReleaseDate>2011-04-19T00:00:00+01:00</streamingReleaseDate>
-      </release>
-    </taggedItem>
-    <taggedItem>
-      <release id="1163390">
-        <title>Funky Grooves</title>
-        <version />
-        <type>Album</type>
-        <barcode>00600753330227</barcode>
-        <year>2011</year>
-        <explicitContent>false</explicitContent>
-        <artist id="209">
-          <name>Various Artists</name>
-          <appearsAs>Various Artists</appearsAs>
-          <url>http://www.7digital.com/artist/various-artists/?partner=1401</url>
-        </artist>
-        <url>http://www.7digital.com/artist/various-artists/release/funky-grooves/?partner=1401</url>
-        <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/011/633/0001163390_50.jpg</image>
-        <releaseDate>2011-03-07T00:00:00+00:00</releaseDate>
-        <addedDate>2011-02-21T16:00:51+00:00</addedDate>
-        <popularity>0.5</popularity>
-        <streamingReleaseDate>3001-01-01T00:00:00+00:00</streamingReleaseDate>
-      </release>
-    </taggedItem>
-    <taggedItem>
-      <release id="811945">
-        <title>Respect</title>
-        <version />
-        <type>Album</type>
-        <barcode>3661585321064</barcode>
-        <year>2010</year>
-        <explicitContent>false</explicitContent>
-        <artist id="1982">
-          <name>Aretha Franklin</name>
-          <appearsAs>Aretha Franklin</appearsAs>
-          <url>http://www.7digital.com/artist/aretha-franklin/?partner=1401</url>
-        </artist>
-        <url>http://www.7digital.com/artist/aretha-franklin/release/respect/?partner=1401</url>
-        <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/008/119/0000811945_50.jpg</image>
-        <releaseDate>2010-04-20T00:00:00+01:00</releaseDate>
-        <addedDate>2010-04-23T14:53:46+01:00</addedDate>
-        <popularity>0.5</popularity>
-        <streamingReleaseDate>2010-04-20T00:00:00+01:00</streamingReleaseDate>
-      </release>
-    </taggedItem>
-    <taggedItem>
-      <release id="1343961">
-        <title>James Brown Classics (10 Hits Live)</title>
-        <version />
-        <type>Album</type>
-        <barcode>3610150052582</barcode>
-        <year>2011</year>
-        <explicitContent>false</explicitContent>
-        <artist id="187">
-          <name>James Brown</name>
-          <appearsAs>James Brown</appearsAs>
-          <url>http://www.7digital.com/artist/james-brown/?partner=1401</url>
-        </artist>
-        <url>http://www.7digital.com/artist/james-brown/release/james-brown-classics-live/?partner=1401</url>
-        <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/013/439/0001343961_50.jpg</image>
-        <releaseDate>2011-07-24T00:00:00+01:00</releaseDate>
-        <addedDate>2011-08-01T14:43:01+01:00</addedDate>
-        <popularity>0.5</popularity>
-        <streamingReleaseDate>2011-07-24T00:00:00+01:00</streamingReleaseDate>
-      </release>
-    </taggedItem>
-    <taggedItem>
-      <release id="1256800">
-        <title>Wu Tang Meets the Dub Step</title>
-        <version />
-        <type>Album</type>
-        <barcode>885686607572</barcode>
-        <year>2011</year>
-        <explicitContent>false</explicitContent>
-        <artist id="3249">
-          <name>Wu-Tang Clan</name>
-          <appearsAs>Wu-Tang Clan</appearsAs>
-          <url>http://www.7digital.com/artist/wu-tang-clan/?partner=1401</url>
-        </artist>
-        <url>http://www.7digital.com/artist/wu-tang-clan/release/wu-tang-meets-the-dub-step/?partner=1401</url>
-        <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/012/568/0001256800_50.jpg</image>
-        <releaseDate>2011-05-10T00:00:00+01:00</releaseDate>
-        <addedDate>2011-05-20T19:08:15+01:00</addedDate>
-        <popularity>0.49</popularity>
-        <streamingReleaseDate>2011-05-10T00:00:00+01:00</streamingReleaseDate>
-      </release>
-    </taggedItem>
-    <taggedItem>
-      <release id="26337">
-        <title>Mothership Connection</title>
-        <version />
-        <type>Album</type>
-        <barcode>00044007703229</barcode>
-        <year>2003</year>
-        <explicitContent>false</explicitContent>
-        <artist id="11469">
-          <name>Parliament</name>
-          <appearsAs>Parliament</appearsAs>
-          <url>http://www.7digital.com/artist/parliament/?partner=1401</url>
-        </artist>
-        <url>http://www.7digital.com/artist/parliament/release/mothership-connection-2/?partner=1401</url>
-        <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/000/263/0000026337_50.jpg</image>
-        <releaseDate>2003-03-27T00:00:00+00:00</releaseDate>
-        <addedDate>2008-08-31T22:19:08+01:00</addedDate>
-        <popularity>0.49</popularity>
-        <streamingReleaseDate>2003-03-27T00:00:00+00:00</streamingReleaseDate>
-      </release>
-    </taggedItem>
-    <taggedItem>
-      <release id="14258">
-        <title>Love Songs</title>
-        <version />
-        <type>Album</type>
-        <barcode>00044006864228</barcode>
-        <year>2003</year>
-        <explicitContent>false</explicitContent>
-        <artist id="1429">
-          <name>Barry White</name>
-          <appearsAs>Barry White</appearsAs>
-          <url>http://www.7digital.com/artist/barry-white/?partner=1401</url>
-        </artist>
-        <url>http://www.7digital.com/artist/barry-white/release/love-songs/?partner=1401</url>
-        <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/000/142/0000014258_50.jpg</image>
-        <releaseDate>2003-02-03T00:00:00+00:00</releaseDate>
-        <addedDate>2008-08-31T22:18:30+01:00</addedDate>
-        <popularity>0.49</popularity>
-        <streamingReleaseDate>2003-02-03T00:00:00+00:00</streamingReleaseDate>
-      </release>
-    </taggedItem>
-  </taggedResults>
+<?xml version="1.0" encoding="utf-8"?>
+<response xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" status="ok" version="1.2" xsi:noNamespaceSchemaLocation="http://api.7digital.com/1.2/static/7digitalAPI.xsd">
+	<taggedResults>
+		<page>1</page>
+		<pageSize>10</pageSize>
+		<totalItems>5051</totalItems>
+		<type>release</type>
+		<taggedItem>
+			<release id="829228">
+				<title>Top 5 - Ray Charles - EP</title>
+				<version/>
+				<type>Single</type>
+				<barcode>7340027013533</barcode>
+				<year>2010</year>
+				<explicitContent>false</explicitContent>
+				<artist id="4342">
+					<name>Ray Charles</name>
+					<appearsAs>Ray Charles</appearsAs>
+					<url>http://www.7digital.com/artist/ray-charles/?partner=1401</url>
+				</artist>
+				<url>http://www.7digital.com/artist/ray-charles/release/top-5-ray-charles-ep/?partner=1401</url>
+				<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/008/292/0000829228_50.jpg</image>
+				<releaseDate>2010-05-11T00:00:00+01:00</releaseDate>
+				<addedDate>2010-05-12T16:53:37+01:00</addedDate>
+				<popularity>0.56</popularity>
+				<streamingReleaseDate>2010-05-11T00:00:00+01:00</streamingReleaseDate>
+			</release>
+		</taggedItem>
+		<taggedItem>
+			<release id="1221510">
+				<title>50 Chill &amp; Nu-Lounge Experience (Red Edition)</title>
+				<version/>
+				<type>Album</type>
+				<barcode>3661585826576</barcode>
+				<year>2011</year>
+				<explicitContent>false</explicitContent>
+				<artist id="209">
+					<name>Various Artists</name>
+					<appearsAs>Various Artists</appearsAs>
+					<url>http://www.7digital.com/artist/various-artists/?partner=1401</url>
+				</artist>
+				<url>http://www.7digital.com/artist/various-artists/release/50-chill-and-nu-lounge-experience-red-edition/?partner=1401</url>
+				<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/012/215/0001221510_50.jpg</image>
+				<releaseDate>2011-04-29T00:00:00+01:00</releaseDate>
+				<addedDate>2011-04-15T17:09:27+01:00</addedDate>
+				<popularity>0.53</popularity>
+				<streamingReleaseDate>2011-04-29T00:00:00+01:00</streamingReleaseDate>
+			</release>
+		</taggedItem>
+		<taggedItem>
+			<release id="475199">
+				<title>R´n´B Smooth Soul Collection</title>
+				<version/>
+				<type>Album</type>
+				<barcode>881969321357</barcode>
+				<year>2012</year>
+				<explicitContent>false</explicitContent>
+				<artist id="209">
+					<name>Various Artists</name>
+					<appearsAs>Various Artists</appearsAs>
+					<url>http://www.7digital.com/artist/various-artists/?partner=1401</url>
+				</artist>
+				<url>http://www.7digital.com/artist/various-artists/release/al-dorado-presents-vol-2-randb-smooth-soul-collection/?partner=1401</url>
+				<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/004/751/0000475199_50.jpg</image>
+				<releaseDate>2012-03-09T00:00:00+00:00</releaseDate>
+				<addedDate>2009-06-16T10:48:37+01:00</addedDate>
+				<popularity>0.52</popularity>
+				<streamingReleaseDate>2012-03-09T00:00:00+00:00</streamingReleaseDate>
+			</release>
+		</taggedItem>
+		<taggedItem>
+			<release id="1225811">
+				<title>At Last - Etta James (Remastered 2011)</title>
+				<version/>
+				<type>Album</type>
+				<barcode>7340070427905</barcode>
+				<year>2011</year>
+				<explicitContent>false</explicitContent>
+				<artist id="1821">
+					<name>Etta James</name>
+					<appearsAs>Etta James </appearsAs>
+					<url>http://www.7digital.com/artist/etta-james/?partner=1401</url>
+				</artist>
+				<url>http://www.7digital.com/artist/etta-james/release/at-last-etta-james-remastered-2011/?partner=1401</url>
+				<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/012/258/0001225811_50.jpg</image>
+				<releaseDate>2011-04-19T00:00:00+01:00</releaseDate>
+				<addedDate>2011-04-21T15:19:17+01:00</addedDate>
+				<popularity>0.51</popularity>
+				<streamingReleaseDate>2011-04-19T00:00:00+01:00</streamingReleaseDate>
+			</release>
+		</taggedItem>
+		<taggedItem>
+			<release id="1163390">
+				<title>Funky Grooves</title>
+				<version/>
+				<type>Album</type>
+				<barcode>00600753330227</barcode>
+				<year>2011</year>
+				<explicitContent>false</explicitContent>
+				<artist id="209">
+					<name>Various Artists</name>
+					<appearsAs>Various Artists</appearsAs>
+					<url>http://www.7digital.com/artist/various-artists/?partner=1401</url>
+				</artist>
+				<url>http://www.7digital.com/artist/various-artists/release/funky-grooves/?partner=1401</url>
+				<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/011/633/0001163390_50.jpg</image>
+				<releaseDate>2011-03-07T00:00:00+00:00</releaseDate>
+				<addedDate>2011-02-21T16:00:51+00:00</addedDate>
+				<popularity>0.5</popularity>
+				<streamingReleaseDate>3001-01-01T00:00:00+00:00</streamingReleaseDate>
+			</release>
+		</taggedItem>
+		<taggedItem>
+			<release id="811945">
+				<title>Respect</title>
+				<version/>
+				<type>Album</type>
+				<barcode>3661585321064</barcode>
+				<year>2010</year>
+				<explicitContent>false</explicitContent>
+				<artist id="1982">
+					<name>Aretha Franklin</name>
+					<appearsAs>Aretha Franklin</appearsAs>
+					<url>http://www.7digital.com/artist/aretha-franklin/?partner=1401</url>
+				</artist>
+				<url>http://www.7digital.com/artist/aretha-franklin/release/respect/?partner=1401</url>
+				<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/008/119/0000811945_50.jpg</image>
+				<releaseDate>2010-04-20T00:00:00+01:00</releaseDate>
+				<addedDate>2010-04-23T14:53:46+01:00</addedDate>
+				<popularity>0.5</popularity>
+				<streamingReleaseDate>2010-04-20T00:00:00+01:00</streamingReleaseDate>
+			</release>
+		</taggedItem>
+		<taggedItem>
+			<release id="1343961">
+				<title>James Brown Classics (10 Hits Live)</title>
+				<version/>
+				<type>Album</type>
+				<barcode>3610150052582</barcode>
+				<year>2011</year>
+				<explicitContent>false</explicitContent>
+				<artist id="187">
+					<name>James Brown</name>
+					<appearsAs>James Brown</appearsAs>
+					<url>http://www.7digital.com/artist/james-brown/?partner=1401</url>
+				</artist>
+				<url>http://www.7digital.com/artist/james-brown/release/james-brown-classics-live/?partner=1401</url>
+				<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/013/439/0001343961_50.jpg</image>
+				<releaseDate>2011-07-24T00:00:00+01:00</releaseDate>
+				<addedDate>2011-08-01T14:43:01+01:00</addedDate>
+				<popularity>0.5</popularity>
+				<streamingReleaseDate>2011-07-24T00:00:00+01:00</streamingReleaseDate>
+			</release>
+		</taggedItem>
+		<taggedItem>
+			<release id="1256800">
+				<title>Wu Tang Meets the Dub Step</title>
+				<version/>
+				<type>Album</type>
+				<barcode>885686607572</barcode>
+				<year>2011</year>
+				<explicitContent>false</explicitContent>
+				<artist id="3249">
+					<name>Wu-Tang Clan</name>
+					<appearsAs>Wu-Tang Clan</appearsAs>
+					<url>http://www.7digital.com/artist/wu-tang-clan/?partner=1401</url>
+				</artist>
+				<url>http://www.7digital.com/artist/wu-tang-clan/release/wu-tang-meets-the-dub-step/?partner=1401</url>
+				<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/012/568/0001256800_50.jpg</image>
+				<releaseDate>2011-05-10T00:00:00+01:00</releaseDate>
+				<addedDate>2011-05-20T19:08:15+01:00</addedDate>
+				<popularity>0.49</popularity>
+				<streamingReleaseDate>2011-05-10T00:00:00+01:00</streamingReleaseDate>
+			</release>
+		</taggedItem>
+		<taggedItem>
+			<release id="26337">
+				<title>Mothership Connection</title>
+				<version/>
+				<type>Album</type>
+				<barcode>00044007703229</barcode>
+				<year>2003</year>
+				<explicitContent>false</explicitContent>
+				<artist id="11469">
+					<name>Parliament</name>
+					<appearsAs>Parliament</appearsAs>
+					<url>http://www.7digital.com/artist/parliament/?partner=1401</url>
+				</artist>
+				<url>http://www.7digital.com/artist/parliament/release/mothership-connection-2/?partner=1401</url>
+				<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/000/263/0000026337_50.jpg</image>
+				<releaseDate>2003-03-27T00:00:00+00:00</releaseDate>
+				<addedDate>2008-08-31T22:19:08+01:00</addedDate>
+				<popularity>0.49</popularity>
+				<streamingReleaseDate>2003-03-27T00:00:00+00:00</streamingReleaseDate>
+			</release>
+		</taggedItem>
+		<taggedItem>
+			<release id="14258">
+				<title>Love Songs</title>
+				<version/>
+				<type>Album</type>
+				<barcode>00044006864228</barcode>
+				<year>2003</year>
+				<explicitContent>false</explicitContent>
+				<artist id="1429">
+					<name>Barry White</name>
+					<appearsAs>Barry White</appearsAs>
+					<url>http://www.7digital.com/artist/barry-white/?partner=1401</url>
+				</artist>
+				<url>http://www.7digital.com/artist/barry-white/release/love-songs/?partner=1401</url>
+				<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/000/142/0000014258_50.jpg</image>
+				<releaseDate>2003-02-03T00:00:00+00:00</releaseDate>
+				<addedDate>2008-08-31T22:18:30+01:00</addedDate>
+				<popularity>0.49</popularity>
+				<streamingReleaseDate>2003-02-03T00:00:00+00:00</streamingReleaseDate>
+			</release>
+		</taggedItem>
+	</taggedResults>
 </response>

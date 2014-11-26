@@ -1,13 +1,12 @@
-<?xml version="1.0" encoding="utf-8" ?>
-<response status="ok" version="1.2"
-xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://api.7digital.com/1.2/static/7digitalAPI.xsd" >
+<?xml version="1.0" encoding="utf-8"?>
+<response xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" status="ok" version="1.2" xsi:noNamespaceSchemaLocation="http://api.7digital.com/1.2/static/7digitalAPI.xsd">
 	<tracks>
 		<page>1</page>
 		<pageSize>100</pageSize>
 		<totalItems>16</totalItems>
 		<track id="5334854">
 			<title>Supermagic</title>
-			<version></version>
+			<version/>
 			<artist id="832">
 				<name>Mos Def</name>
 				<appearsAs>Mos Def</appearsAs>
@@ -19,7 +18,7 @@ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocat
 			<isrc>USCJ80900322</isrc>
 			<release id="480766">
 				<title>The Ecstatic</title>
-				<version></version>
+				<version/>
 				<type>Album</type>
 				<barcode>00602527068442</barcode>
 				<artist id="832">
@@ -32,18 +31,17 @@ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocat
 			</release>
 			<url>http://www.7digital.com/artists/mos-def/the-ecstatic/01-Supermagic/?partner=1401</url>
 			<price>
-				<currency code="GBP">&#163;</currency>
+				<currency code="GBP">£</currency>
 				<value>0.99</value>
-				<formattedPrice>&#163;0.99</formattedPrice>
+				<formattedPrice>£0.99</formattedPrice>
 				<rrp>0.99</rrp>
-				<formattedRrp>&#163;0.99</formattedRrp>
+				<formattedRrp>£0.99</formattedRrp>
 				<onSale>false</onSale>
 			</price>
 		</track>
-
 		<track id="5334855">
 			<title>Twilight Speedball</title>
-			<version></version>
+			<version/>
 			<artist id="832">
 				<name>Mos Def</name>
 				<appearsAs>Mos Def</appearsAs>
@@ -55,7 +53,7 @@ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocat
 			<isrc>USCJ80900323</isrc>
 			<release id="480766">
 				<title>The Ecstatic</title>
-				<version></version>
+				<version/>
 				<type>Album</type>
 				<barcode>00602527068442</barcode>
 				<artist id="832">
@@ -68,18 +66,17 @@ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocat
 			</release>
 			<url>http://www.7digital.com/artists/mos-def/the-ecstatic/02-Twilight-Speedball/?partner=1401</url>
 			<price>
-				<currency code="GBP">&#163;</currency>
+				<currency code="GBP">£</currency>
 				<value>0.99</value>
-				<formattedPrice>&#163;0.99</formattedPrice>
+				<formattedPrice>£0.99</formattedPrice>
 				<rrp>0.99</rrp>
-				<formattedRrp>&#163;0.99</formattedRrp>
+				<formattedRrp>£0.99</formattedRrp>
 				<onSale>false</onSale>
 			</price>
 		</track>
-
 		<track id="5334859">
 			<title>Auditorium</title>
-			<version></version>
+			<version/>
 			<artist id="356356">
 				<name>Mos Def / Slick Rick</name>
 				<appearsAs>Mos Def / Slick Rick</appearsAs>
@@ -91,7 +88,7 @@ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocat
 			<isrc>USCJ80900324</isrc>
 			<release id="480766">
 				<title>The Ecstatic</title>
-				<version></version>
+				<version/>
 				<type>Album</type>
 				<barcode>00602527068442</barcode>
 				<artist id="832">
@@ -104,18 +101,17 @@ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocat
 			</release>
 			<url>http://www.7digital.com/artists/mos-def/the-ecstatic/03-Auditorium/?partner=1401</url>
 			<price>
-				<currency code="GBP">&#163;</currency>
+				<currency code="GBP">£</currency>
 				<value>0.99</value>
-				<formattedPrice>&#163;0.99</formattedPrice>
+				<formattedPrice>£0.99</formattedPrice>
 				<rrp>0.99</rrp>
-				<formattedRrp>&#163;0.99</formattedRrp>
+				<formattedRrp>£0.99</formattedRrp>
 				<onSale>false</onSale>
 			</price>
 		</track>
-
 		<track id="5334860">
 			<title>Wahid</title>
-			<version></version>
+			<version/>
 			<artist id="832">
 				<name>Mos Def</name>
 				<appearsAs>Mos Def</appearsAs>
@@ -127,7 +123,7 @@ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocat
 			<isrc>USCJ80900326</isrc>
 			<release id="480766">
 				<title>The Ecstatic</title>
-				<version></version>
+				<version/>
 				<type>Album</type>
 				<barcode>00602527068442</barcode>
 				<artist id="832">
@@ -140,18 +136,17 @@ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocat
 			</release>
 			<url>http://www.7digital.com/artists/mos-def/the-ecstatic/04-Wahid/?partner=1401</url>
 			<price>
-				<currency code="GBP">&#163;</currency>
+				<currency code="GBP">£</currency>
 				<value>0.99</value>
-				<formattedPrice>&#163;0.99</formattedPrice>
+				<formattedPrice>£0.99</formattedPrice>
 				<rrp>0.99</rrp>
-				<formattedRrp>&#163;0.99</formattedRrp>
+				<formattedRrp>£0.99</formattedRrp>
 				<onSale>false</onSale>
 			</price>
 		</track>
-
 		<track id="5334861">
 			<title>Priority</title>
-			<version></version>
+			<version/>
 			<artist id="832">
 				<name>Mos Def</name>
 				<appearsAs>Mos Def</appearsAs>
@@ -163,7 +158,7 @@ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocat
 			<isrc>USCJ80900325</isrc>
 			<release id="480766">
 				<title>The Ecstatic</title>
-				<version></version>
+				<version/>
 				<type>Album</type>
 				<barcode>00602527068442</barcode>
 				<artist id="832">
@@ -176,18 +171,17 @@ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocat
 			</release>
 			<url>http://www.7digital.com/artists/mos-def/the-ecstatic/05-Priority/?partner=1401</url>
 			<price>
-				<currency code="GBP">&#163;</currency>
+				<currency code="GBP">£</currency>
 				<value>0.99</value>
-				<formattedPrice>&#163;0.99</formattedPrice>
+				<formattedPrice>£0.99</formattedPrice>
 				<rrp>0.99</rrp>
-				<formattedRrp>&#163;0.99</formattedRrp>
+				<formattedRrp>£0.99</formattedRrp>
 				<onSale>false</onSale>
 			</price>
 		</track>
-
 		<track id="5334862">
 			<title>Quiet Dog</title>
-			<version></version>
+			<version/>
 			<artist id="832">
 				<name>Mos Def</name>
 				<appearsAs>Mos Def</appearsAs>
@@ -199,7 +193,7 @@ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocat
 			<isrc>USCJ80800233</isrc>
 			<release id="480766">
 				<title>The Ecstatic</title>
-				<version></version>
+				<version/>
 				<type>Album</type>
 				<barcode>00602527068442</barcode>
 				<artist id="832">
@@ -212,18 +206,17 @@ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocat
 			</release>
 			<url>http://www.7digital.com/artists/mos-def/the-ecstatic/06-Quiet-Dog/?partner=1401</url>
 			<price>
-				<currency code="GBP">&#163;</currency>
+				<currency code="GBP">£</currency>
 				<value>0.99</value>
-				<formattedPrice>&#163;0.99</formattedPrice>
+				<formattedPrice>£0.99</formattedPrice>
 				<rrp>0.99</rrp>
-				<formattedRrp>&#163;0.99</formattedRrp>
+				<formattedRrp>£0.99</formattedRrp>
 				<onSale>false</onSale>
 			</price>
 		</track>
-
 		<track id="5334864">
 			<title>Life In Marvelous Times</title>
-			<version></version>
+			<version/>
 			<artist id="832">
 				<name>Mos Def</name>
 				<appearsAs>Mos Def</appearsAs>
@@ -235,7 +228,7 @@ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocat
 			<isrc>USCJ80800217</isrc>
 			<release id="480766">
 				<title>The Ecstatic</title>
-				<version></version>
+				<version/>
 				<type>Album</type>
 				<barcode>00602527068442</barcode>
 				<artist id="832">
@@ -248,18 +241,17 @@ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocat
 			</release>
 			<url>http://www.7digital.com/artists/mos-def/the-ecstatic/07-Life-In-Marvelous-Times/?partner=1401</url>
 			<price>
-				<currency code="GBP">&#163;</currency>
+				<currency code="GBP">£</currency>
 				<value>0.99</value>
-				<formattedPrice>&#163;0.99</formattedPrice>
+				<formattedPrice>£0.99</formattedPrice>
 				<rrp>0.99</rrp>
-				<formattedRrp>&#163;0.99</formattedRrp>
+				<formattedRrp>£0.99</formattedRrp>
 				<onSale>false</onSale>
 			</price>
 		</track>
-
 		<track id="5334865">
 			<title>The Embassy</title>
-			<version></version>
+			<version/>
 			<artist id="832">
 				<name>Mos Def</name>
 				<appearsAs>Mos Def</appearsAs>
@@ -271,7 +263,7 @@ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocat
 			<isrc>USCJ80900327</isrc>
 			<release id="480766">
 				<title>The Ecstatic</title>
-				<version></version>
+				<version/>
 				<type>Album</type>
 				<barcode>00602527068442</barcode>
 				<artist id="832">
@@ -284,18 +276,17 @@ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocat
 			</release>
 			<url>http://www.7digital.com/artists/mos-def/the-ecstatic/08-The-Embassy/?partner=1401</url>
 			<price>
-				<currency code="GBP">&#163;</currency>
+				<currency code="GBP">£</currency>
 				<value>0.99</value>
-				<formattedPrice>&#163;0.99</formattedPrice>
+				<formattedPrice>£0.99</formattedPrice>
 				<rrp>0.99</rrp>
-				<formattedRrp>&#163;0.99</formattedRrp>
+				<formattedRrp>£0.99</formattedRrp>
 				<onSale>false</onSale>
 			</price>
 		</track>
-
 		<track id="5334867">
 			<title>No Hay Nada Mas</title>
-			<version></version>
+			<version/>
 			<artist id="832">
 				<name>Mos Def</name>
 				<appearsAs>Mos Def</appearsAs>
@@ -307,7 +298,7 @@ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocat
 			<isrc>USCJ80900328</isrc>
 			<release id="480766">
 				<title>The Ecstatic</title>
-				<version></version>
+				<version/>
 				<type>Album</type>
 				<barcode>00602527068442</barcode>
 				<artist id="832">
@@ -320,18 +311,17 @@ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocat
 			</release>
 			<url>http://www.7digital.com/artists/mos-def/the-ecstatic/09-No-Hay-Nada-Mas/?partner=1401</url>
 			<price>
-				<currency code="GBP">&#163;</currency>
+				<currency code="GBP">£</currency>
 				<value>0.99</value>
-				<formattedPrice>&#163;0.99</formattedPrice>
+				<formattedPrice>£0.99</formattedPrice>
 				<rrp>0.99</rrp>
-				<formattedRrp>&#163;0.99</formattedRrp>
+				<formattedRrp>£0.99</formattedRrp>
 				<onSale>false</onSale>
 			</price>
 		</track>
-
 		<track id="5334870">
 			<title>Pistola</title>
-			<version></version>
+			<version/>
 			<artist id="832">
 				<name>Mos Def</name>
 				<appearsAs>Mos Def</appearsAs>
@@ -343,7 +333,7 @@ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocat
 			<isrc>USCJ80900329</isrc>
 			<release id="480766">
 				<title>The Ecstatic</title>
-				<version></version>
+				<version/>
 				<type>Album</type>
 				<barcode>00602527068442</barcode>
 				<artist id="832">
@@ -356,18 +346,17 @@ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocat
 			</release>
 			<url>http://www.7digital.com/artists/mos-def/the-ecstatic/10-Pistola/?partner=1401</url>
 			<price>
-				<currency code="GBP">&#163;</currency>
+				<currency code="GBP">£</currency>
 				<value>0.99</value>
-				<formattedPrice>&#163;0.99</formattedPrice>
+				<formattedPrice>£0.99</formattedPrice>
 				<rrp>0.99</rrp>
-				<formattedRrp>&#163;0.99</formattedRrp>
+				<formattedRrp>£0.99</formattedRrp>
 				<onSale>false</onSale>
 			</price>
 		</track>
-
 		<track id="5334872">
 			<title>Pretty Dancer</title>
-			<version></version>
+			<version/>
 			<artist id="832">
 				<name>Mos Def</name>
 				<appearsAs>Mos Def</appearsAs>
@@ -379,7 +368,7 @@ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocat
 			<isrc>USCJ80900330</isrc>
 			<release id="480766">
 				<title>The Ecstatic</title>
-				<version></version>
+				<version/>
 				<type>Album</type>
 				<barcode>00602527068442</barcode>
 				<artist id="832">
@@ -392,18 +381,17 @@ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocat
 			</release>
 			<url>http://www.7digital.com/artists/mos-def/the-ecstatic/11-Pretty-Dancer/?partner=1401</url>
 			<price>
-				<currency code="GBP">&#163;</currency>
+				<currency code="GBP">£</currency>
 				<value>0.99</value>
-				<formattedPrice>&#163;0.99</formattedPrice>
+				<formattedPrice>£0.99</formattedPrice>
 				<rrp>0.99</rrp>
-				<formattedRrp>&#163;0.99</formattedRrp>
+				<formattedRrp>£0.99</formattedRrp>
 				<onSale>false</onSale>
 			</price>
 		</track>
-
 		<track id="5334873">
 			<title>Workers Comp</title>
-			<version></version>
+			<version/>
 			<artist id="832">
 				<name>Mos Def</name>
 				<appearsAs>Mos Def</appearsAs>
@@ -415,7 +403,7 @@ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocat
 			<isrc>USCJ80900331</isrc>
 			<release id="480766">
 				<title>The Ecstatic</title>
-				<version></version>
+				<version/>
 				<type>Album</type>
 				<barcode>00602527068442</barcode>
 				<artist id="832">
@@ -428,18 +416,17 @@ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocat
 			</release>
 			<url>http://www.7digital.com/artists/mos-def/the-ecstatic/12-Workers-Comp/?partner=1401</url>
 			<price>
-				<currency code="GBP">&#163;</currency>
+				<currency code="GBP">£</currency>
 				<value>0.99</value>
-				<formattedPrice>&#163;0.99</formattedPrice>
+				<formattedPrice>£0.99</formattedPrice>
 				<rrp>0.99</rrp>
-				<formattedRrp>&#163;0.99</formattedRrp>
+				<formattedRrp>£0.99</formattedRrp>
 				<onSale>false</onSale>
 			</price>
 		</track>
-
 		<track id="5334874">
 			<title>Revelations</title>
-			<version></version>
+			<version/>
 			<artist id="832">
 				<name>Mos Def</name>
 				<appearsAs>Mos Def</appearsAs>
@@ -451,7 +438,7 @@ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocat
 			<isrc>USCJ80900332</isrc>
 			<release id="480766">
 				<title>The Ecstatic</title>
-				<version></version>
+				<version/>
 				<type>Album</type>
 				<barcode>00602527068442</barcode>
 				<artist id="832">
@@ -464,18 +451,17 @@ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocat
 			</release>
 			<url>http://www.7digital.com/artists/mos-def/the-ecstatic/13-Revelations/?partner=1401</url>
 			<price>
-				<currency code="GBP">&#163;</currency>
+				<currency code="GBP">£</currency>
 				<value>0.99</value>
-				<formattedPrice>&#163;0.99</formattedPrice>
+				<formattedPrice>£0.99</formattedPrice>
 				<rrp>0.99</rrp>
-				<formattedRrp>&#163;0.99</formattedRrp>
+				<formattedRrp>£0.99</formattedRrp>
 				<onSale>false</onSale>
 			</price>
 		</track>
-
 		<track id="5334876">
 			<title>Roses</title>
-			<version></version>
+			<version/>
 			<artist id="356358">
 				<name>Mos Def / Georgia Anne Muldrow</name>
 				<appearsAs>Mos Def / Georgia Anne Muldrow</appearsAs>
@@ -487,7 +473,7 @@ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocat
 			<isrc>USCJ80900333</isrc>
 			<release id="480766">
 				<title>The Ecstatic</title>
-				<version></version>
+				<version/>
 				<type>Album</type>
 				<barcode>00602527068442</barcode>
 				<artist id="832">
@@ -500,18 +486,17 @@ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocat
 			</release>
 			<url>http://www.7digital.com/artists/mos-def/the-ecstatic/14-Roses/?partner=1401</url>
 			<price>
-				<currency code="GBP">&#163;</currency>
+				<currency code="GBP">£</currency>
 				<value>0.99</value>
-				<formattedPrice>&#163;0.99</formattedPrice>
+				<formattedPrice>£0.99</formattedPrice>
 				<rrp>0.99</rrp>
-				<formattedRrp>&#163;0.99</formattedRrp>
+				<formattedRrp>£0.99</formattedRrp>
 				<onSale>false</onSale>
 			</price>
 		</track>
-
 		<track id="5334879">
 			<title>History</title>
-			<version></version>
+			<version/>
 			<artist id="356359">
 				<name>Mos Def / Talib Kweli</name>
 				<appearsAs>Mos Def / Talib Kweli</appearsAs>
@@ -523,7 +508,7 @@ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocat
 			<isrc>USCJ80900334</isrc>
 			<release id="480766">
 				<title>The Ecstatic</title>
-				<version></version>
+				<version/>
 				<type>Album</type>
 				<barcode>00602527068442</barcode>
 				<artist id="832">
@@ -536,18 +521,17 @@ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocat
 			</release>
 			<url>http://www.7digital.com/artists/mos-def/the-ecstatic/15-History/?partner=1401</url>
 			<price>
-				<currency code="GBP">&#163;</currency>
+				<currency code="GBP">£</currency>
 				<value>0.99</value>
-				<formattedPrice>&#163;0.99</formattedPrice>
+				<formattedPrice>£0.99</formattedPrice>
 				<rrp>0.99</rrp>
-				<formattedRrp>&#163;0.99</formattedRrp>
+				<formattedRrp>£0.99</formattedRrp>
 				<onSale>false</onSale>
 			</price>
 		</track>
-
 		<track id="5334880">
 			<title>Casa Bey</title>
-			<version></version>
+			<version/>
 			<artist id="832">
 				<name>Mos Def</name>
 				<appearsAs>Mos Def</appearsAs>
@@ -559,7 +543,7 @@ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocat
 			<isrc>USCJ80900335</isrc>
 			<release id="480766">
 				<title>The Ecstatic</title>
-				<version></version>
+				<version/>
 				<type>Album</type>
 				<barcode>00602527068442</barcode>
 				<artist id="832">
@@ -572,14 +556,13 @@ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocat
 			</release>
 			<url>http://www.7digital.com/artists/mos-def/the-ecstatic/16-Casa-Bey/?partner=1401</url>
 			<price>
-				<currency code="GBP">&#163;</currency>
+				<currency code="GBP">£</currency>
 				<value>0.99</value>
-				<formattedPrice>&#163;0.99</formattedPrice>
+				<formattedPrice>£0.99</formattedPrice>
 				<rrp>0.99</rrp>
-				<formattedRrp>&#163;0.99</formattedRrp>
+				<formattedRrp>£0.99</formattedRrp>
 				<onSale>false</onSale>
 			</price>
 		</track>
-
 	</tracks>
 </response>

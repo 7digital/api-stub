@@ -1,51 +1,51 @@
-<?xml version="1.0" encoding="utf-8" ?>
+<?xml version="1.0" encoding="utf-8"?>
 <response xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" status="ok" version="1.2" xsi:noNamespaceSchemaLocation="http://api.7digital.com/1.2/static/7digitalAPI.xsd">
-<release id="511154">
-<title>Post-Nothing</title>
-<version/>
-<type>Album</type>
-<barcode>644110018496</barcode>
-<year>2009</year>
-<explicitContent>false</explicitContent>
-<artist id="378707">
-<name>Japandroids</name>
-<appearsAs>Japandroids</appearsAs>
-<url>
+	<release id="511154">
+		<title>Post-Nothing</title>
+		<version/>
+		<type>Album</type>
+		<barcode>644110018496</barcode>
+		<year>2009</year>
+		<explicitContent>false</explicitContent>
+		<artist id="378707">
+			<name>Japandroids</name>
+			<appearsAs>Japandroids</appearsAs>
+			<url>
 http://www.7digital.com/artist/japandroids/?partner=712
 </url>
-</artist>
-<url>
+		</artist>
+		<url>
 http://www.7digital.com/artist/japandroids/release/post-nothing/?partner=712
 </url>
-<image>
+		<image>
 http://artwork-cdn.7static.com/static/img/sleeveart/00/005/111/0000511154_50.jpg
 </image>
-<releaseDate>2013-09-17T00:00:00Z</releaseDate>
-<addedDate>2009-07-13T07:27:54Z</addedDate>
-<price>
-<currency code="GBP">£</currency>
-<value>7.92</value>
-<formattedPrice>£7.92</formattedPrice>
-<rrp>7.99</rrp>
-<formattedRrp>£7.99</formattedRrp>
-<onSale>true</onSale>
-</price>
-<formats availableDrmFree="true">
-<format id="48">
-<fileFormat>MP3</fileFormat>
-<bitRate>256</bitRate>
-<drmFree>true</drmFree>
-</format>
-</formats>
-<label id="59513">
-<name>Polyvinyl Records</name>
-</label>
-<licensor id="18">
-<name>Warner</name>
-</licensor>
-<popularity>0</popularity>
-<streamingReleaseDate>2013-09-17T00:00:00Z</streamingReleaseDate>
-<duration>2136</duration>
-<trackCount>8</trackCount>
-</release>
+		<releaseDate>2013-09-17T00:00:00Z</releaseDate>
+		<addedDate>2009-07-13T07:27:54Z</addedDate>
+		<price>
+			<currency code="GBP">£</currency>
+			<value>7.92</value>
+			<formattedPrice>£7.92</formattedPrice>
+			<rrp>7.99</rrp>
+			<formattedRrp>£7.99</formattedRrp>
+			<onSale>true</onSale>
+		</price>
+		<formats availableDrmFree="true">
+			<format id="48">
+				<fileFormat>MP3</fileFormat>
+				<bitRate>256</bitRate>
+				<drmFree>true</drmFree>
+			</format>
+		</formats>
+		<label id="59513">
+			<name>Polyvinyl Records</name>
+		</label>
+		<licensor id="18">
+			<name>Warner</name>
+		</licensor>
+		<popularity>0</popularity>
+		<streamingReleaseDate>2013-09-17T00:00:00Z</streamingReleaseDate>
+		<duration>2136</duration>
+		<trackCount>8</trackCount>
+	</release>
 </response>

@@ -1,219 +1,219 @@
-<?xml version="1.0" encoding="utf-8" ?>
-<response status="ok" version="1.2" xsi:noNamespaceSchemaLocation="http://api.7digital.com/1.2/static/7digitalAPI.xsd" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-  <taggedResults>
-    <page>1</page>
-    <pageSize>10</pageSize>
-    <totalItems>13730</totalItems>
-    <type>release</type>
-    <taggedItem>
-      <release id="1259579">
-        <title>Relaxing Summer Chill, Vol. 3</title>
-        <version />
-        <type>Album</type>
-        <barcode>3661585891116</barcode>
-        <year>2011</year>
-        <explicitContent>false</explicitContent>
-        <artist id="209">
-          <name>Various Artists</name>
-          <appearsAs>Various Artists</appearsAs>
-          <url>http://www.7digital.com/artist/various-artists/?partner=1401</url>
-        </artist>
-        <url>http://www.7digital.com/artist/various-artists/release/relaxing-summer-chill-vol-3/?partner=1401</url>
-        <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/012/595/0001259579_50.jpg</image>
-        <releaseDate>2011-07-14T00:00:00+01:00</releaseDate>
-        <addedDate>2011-06-03T15:11:09+01:00</addedDate>
-        <popularity>0.62</popularity>
-        <streamingReleaseDate>2011-07-14T00:00:00+01:00</streamingReleaseDate>
-      </release>
-    </taggedItem>
-    <taggedItem>
-      <release id="1327126">
-        <title>Incantations</title>
-        <version>2011 Remastered Version</version>
-        <type>Single</type>
-        <barcode>00600753346365</barcode>
-        <year>2011</year>
-        <explicitContent>false</explicitContent>
-        <artist id="467">
-          <name>Mike Oldfield</name>
-          <appearsAs>Mike Oldfield</appearsAs>
-          <url>http://www.7digital.com/artist/mike-oldfield/?partner=1401</url>
-        </artist>
-        <url>http://www.7digital.com/artist/mike-oldfield/release/incantations-3-1/?partner=1401</url>
-        <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/013/271/0001327126_50.jpg</image>
-        <releaseDate>2011-07-25T00:00:00+01:00</releaseDate>
-        <addedDate>2011-07-15T15:04:59+01:00</addedDate>
-        <popularity>0.58</popularity>
-        <streamingReleaseDate>2011-07-25T00:00:00+01:00</streamingReleaseDate>
-      </release>
-    </taggedItem>
-    <taggedItem>
-      <release id="1221510">
-        <title>50 Chill &amp; Nu-Lounge Experience (Red Edition)</title>
-        <version />
-        <type>Album</type>
-        <barcode>3661585826576</barcode>
-        <year>2011</year>
-        <explicitContent>false</explicitContent>
-        <artist id="209">
-          <name>Various Artists</name>
-          <appearsAs>Various Artists</appearsAs>
-          <url>http://www.7digital.com/artist/various-artists/?partner=1401</url>
-        </artist>
-        <url>http://www.7digital.com/artist/various-artists/release/50-chill-and-nu-lounge-experience-red-edition/?partner=1401</url>
-        <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/012/215/0001221510_50.jpg</image>
-        <releaseDate>2011-04-29T00:00:00+01:00</releaseDate>
-        <addedDate>2011-04-15T17:09:27+01:00</addedDate>
-        <popularity>0.53</popularity>
-        <streamingReleaseDate>2011-04-29T00:00:00+01:00</streamingReleaseDate>
-      </release>
-    </taggedItem>
-    <taggedItem>
-      <release id="1753523">
-        <title>Keep Calm With Nature Sounds: Switch Off and Relax With the Soothing Sound of Natural White Noise At It's Relaxing Best</title>
-        <version />
-        <type>Album</type>
-        <barcode>5055453630774</barcode>
-        <year>2012</year>
-        <explicitContent>false</explicitContent>
-        <artist id="1277571">
-          <name>White Noise Research</name>
-          <appearsAs>White Noise Research</appearsAs>
-          <url>http://www.7digital.com/artist/white-noise-research/?partner=1401</url>
-        </artist>
-        <url>http://www.7digital.com/artist/white-noise-research/release/keep-calm-with-nature-sounds-switch-off-and-relax-with-the-soothing-sound-of-natural-white-noise-at-its-relaxing-best/?partner=1401</url>
-        <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/017/535/0001753523_50.jpg</image>
-        <releaseDate>2012-07-22T00:00:00+01:00</releaseDate>
-        <addedDate>2012-06-14T01:06:57+01:00</addedDate>
-        <popularity>0.52</popularity>
-        <streamingReleaseDate>3001-01-01T00:00:00+00:00</streamingReleaseDate>
-      </release>
-    </taggedItem>
-    <taggedItem>
-      <release id="1160096">
-        <title>Music to Make Love (50 Sensual Tracks)</title>
-        <version />
-        <type>Album</type>
-        <barcode>3661585727651</barcode>
-        <year>2011</year>
-        <explicitContent>false</explicitContent>
-        <artist id="209">
-          <name>Various Artists</name>
-          <appearsAs>Various Artists</appearsAs>
-          <url>http://www.7digital.com/artist/various-artists/?partner=1401</url>
-        </artist>
-        <url>http://www.7digital.com/artist/various-artists/release/music-to-make-love-50-sensual-tracks/?partner=1401</url>
-        <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/011/600/0001160096_50.jpg</image>
-        <releaseDate>2011-02-09T00:00:00+00:00</releaseDate>
-        <addedDate>2011-02-18T17:08:55+00:00</addedDate>
-        <popularity>0.52</popularity>
-        <streamingReleaseDate>2011-02-09T00:00:00+00:00</streamingReleaseDate>
-      </release>
-    </taggedItem>
-    <taggedItem>
-      <release id="1360414">
-        <title>Anti-Stress, Vol. 1</title>
-        <version />
-        <type>Album</type>
-        <barcode>3760190790675</barcode>
-        <year>2011</year>
-        <explicitContent>false</explicitContent>
-        <artist id="209">
-          <name>Various Artists</name>
-          <appearsAs>Various Artists</appearsAs>
-          <url>http://www.7digital.com/artist/various-artists/?partner=1401</url>
-        </artist>
-        <url>http://www.7digital.com/artist/various-artists/release/anti-stress-vol-1/?partner=1401</url>
-        <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/013/604/0001360414_50.jpg</image>
-        <releaseDate>2011-09-05T00:00:00+01:00</releaseDate>
-        <addedDate>2011-08-15T10:40:15+01:00</addedDate>
-        <popularity>0.51</popularity>
-        <streamingReleaseDate>2011-09-05T00:00:00+01:00</streamingReleaseDate>
-      </release>
-    </taggedItem>
-    <taggedItem>
-      <release id="1259586">
-        <title>Relaxing Summer Chill, Vol. 2</title>
-        <version />
-        <type>Album</type>
-        <barcode>3661585891239</barcode>
-        <year>2011</year>
-        <explicitContent>false</explicitContent>
-        <artist id="209">
-          <name>Various Artists</name>
-          <appearsAs>Various Artists</appearsAs>
-          <url>http://www.7digital.com/artist/various-artists/?partner=1401</url>
-        </artist>
-        <url>http://www.7digital.com/artist/various-artists/release/relaxing-summer-chill-vol-2/?partner=1401</url>
-        <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/012/595/0001259586_50.jpg</image>
-        <releaseDate>2011-06-20T00:00:00+01:00</releaseDate>
-        <addedDate>2011-06-03T15:11:08+01:00</addedDate>
-        <popularity>0.51</popularity>
-        <streamingReleaseDate>2011-06-20T00:00:00+01:00</streamingReleaseDate>
-      </release>
-    </taggedItem>
-    <taggedItem>
-      <release id="1558749">
-        <title>Buddha Vibes</title>
-        <version />
-        <type>Album</type>
-        <barcode>886788343597</barcode>
-        <year>2012</year>
-        <explicitContent>false</explicitContent>
-        <artist id="209">
-          <name>Various Artists</name>
-          <appearsAs>Various Artists</appearsAs>
-          <url>http://www.7digital.com/artist/various-artists/?partner=1401</url>
-        </artist>
-        <url>http://www.7digital.com/artist/various-artists/release/buddha-vibes/?partner=1401</url>
-        <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/015/587/0001558749_50.jpg</image>
-        <releaseDate>2012-12-20T00:00:00+00:00</releaseDate>
-        <addedDate>2012-01-17T19:14:20+00:00</addedDate>
-        <popularity>0.5</popularity>
-        <streamingReleaseDate>2012-12-20T00:00:00+00:00</streamingReleaseDate>
-      </release>
-    </taggedItem>
-    <taggedItem>
-      <release id="1541412">
-        <title>Spa - Reflections: Music for Massage, Yoga, and Sensory Rejuvenation</title>
-        <version />
-        <type>Album</type>
-        <barcode>0792755581858</barcode>
-        <year>2012</year>
-        <explicitContent>false</explicitContent>
-        <artist id="960">
-          <name>David Arkenstone</name>
-          <appearsAs>David Arkenstone</appearsAs>
-          <url>http://www.7digital.com/artist/david-arkenstone/?partner=1401</url>
-        </artist>
-        <url>http://www.7digital.com/artist/david-arkenstone/release/spa-reflections-music-for-massage-yoga-and-sensory-rejuvenation/?partner=1401</url>
-        <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/015/414/0001541412_50.jpg</image>
-        <releaseDate>2012-02-13T00:00:00+00:00</releaseDate>
-        <addedDate>2012-01-02T18:34:22+00:00</addedDate>
-        <popularity>0.49</popularity>
-        <streamingReleaseDate>2012-02-13T00:00:00+00:00</streamingReleaseDate>
-      </release>
-    </taggedItem>
-    <taggedItem>
-      <release id="1338647">
-        <title>Native American Flute Meditations </title>
-        <version />
-        <type>Single</type>
-        <barcode>847108024442</barcode>
-        <year>2011</year>
-        <explicitContent>false</explicitContent>
-        <artist id="1054821">
-          <name>Native American Flute Tribe</name>
-          <appearsAs>Native American Flute Tribe</appearsAs>
-          <url>http://www.7digital.com/artist/native-american-flute-tribe/?partner=1401</url>
-        </artist>
-        <url>http://www.7digital.com/artist/native-american-flute-tribe/release/native-american-flute-meditations/?partner=1401</url>
-        <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/013/386/0001338647_50.jpg</image>
-        <releaseDate>2011-08-05T00:00:00+01:00</releaseDate>
-        <addedDate>2011-07-22T16:52:29+01:00</addedDate>
-        <popularity>0.49</popularity>
-        <streamingReleaseDate>2011-08-05T00:00:00+01:00</streamingReleaseDate>
-      </release>
-    </taggedItem>
-  </taggedResults>
+<?xml version="1.0" encoding="utf-8"?>
+<response xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" status="ok" version="1.2" xsi:noNamespaceSchemaLocation="http://api.7digital.com/1.2/static/7digitalAPI.xsd">
+	<taggedResults>
+		<page>1</page>
+		<pageSize>10</pageSize>
+		<totalItems>13730</totalItems>
+		<type>release</type>
+		<taggedItem>
+			<release id="1259579">
+				<title>Relaxing Summer Chill, Vol. 3</title>
+				<version/>
+				<type>Album</type>
+				<barcode>3661585891116</barcode>
+				<year>2011</year>
+				<explicitContent>false</explicitContent>
+				<artist id="209">
+					<name>Various Artists</name>
+					<appearsAs>Various Artists</appearsAs>
+					<url>http://www.7digital.com/artist/various-artists/?partner=1401</url>
+				</artist>
+				<url>http://www.7digital.com/artist/various-artists/release/relaxing-summer-chill-vol-3/?partner=1401</url>
+				<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/012/595/0001259579_50.jpg</image>
+				<releaseDate>2011-07-14T00:00:00+01:00</releaseDate>
+				<addedDate>2011-06-03T15:11:09+01:00</addedDate>
+				<popularity>0.62</popularity>
+				<streamingReleaseDate>2011-07-14T00:00:00+01:00</streamingReleaseDate>
+			</release>
+		</taggedItem>
+		<taggedItem>
+			<release id="1327126">
+				<title>Incantations</title>
+				<version>2011 Remastered Version</version>
+				<type>Single</type>
+				<barcode>00600753346365</barcode>
+				<year>2011</year>
+				<explicitContent>false</explicitContent>
+				<artist id="467">
+					<name>Mike Oldfield</name>
+					<appearsAs>Mike Oldfield</appearsAs>
+					<url>http://www.7digital.com/artist/mike-oldfield/?partner=1401</url>
+				</artist>
+				<url>http://www.7digital.com/artist/mike-oldfield/release/incantations-3-1/?partner=1401</url>
+				<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/013/271/0001327126_50.jpg</image>
+				<releaseDate>2011-07-25T00:00:00+01:00</releaseDate>
+				<addedDate>2011-07-15T15:04:59+01:00</addedDate>
+				<popularity>0.58</popularity>
+				<streamingReleaseDate>2011-07-25T00:00:00+01:00</streamingReleaseDate>
+			</release>
+		</taggedItem>
+		<taggedItem>
+			<release id="1221510">
+				<title>50 Chill &amp; Nu-Lounge Experience (Red Edition)</title>
+				<version/>
+				<type>Album</type>
+				<barcode>3661585826576</barcode>
+				<year>2011</year>
+				<explicitContent>false</explicitContent>
+				<artist id="209">
+					<name>Various Artists</name>
+					<appearsAs>Various Artists</appearsAs>
+					<url>http://www.7digital.com/artist/various-artists/?partner=1401</url>
+				</artist>
+				<url>http://www.7digital.com/artist/various-artists/release/50-chill-and-nu-lounge-experience-red-edition/?partner=1401</url>
+				<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/012/215/0001221510_50.jpg</image>
+				<releaseDate>2011-04-29T00:00:00+01:00</releaseDate>
+				<addedDate>2011-04-15T17:09:27+01:00</addedDate>
+				<popularity>0.53</popularity>
+				<streamingReleaseDate>2011-04-29T00:00:00+01:00</streamingReleaseDate>
+			</release>
+		</taggedItem>
+		<taggedItem>
+			<release id="1753523">
+				<title>Keep Calm With Nature Sounds: Switch Off and Relax With the Soothing Sound of Natural White Noise At It's Relaxing Best</title>
+				<version/>
+				<type>Album</type>
+				<barcode>5055453630774</barcode>
+				<year>2012</year>
+				<explicitContent>false</explicitContent>
+				<artist id="1277571">
+					<name>White Noise Research</name>
+					<appearsAs>White Noise Research</appearsAs>
+					<url>http://www.7digital.com/artist/white-noise-research/?partner=1401</url>
+				</artist>
+				<url>http://www.7digital.com/artist/white-noise-research/release/keep-calm-with-nature-sounds-switch-off-and-relax-with-the-soothing-sound-of-natural-white-noise-at-its-relaxing-best/?partner=1401</url>
+				<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/017/535/0001753523_50.jpg</image>
+				<releaseDate>2012-07-22T00:00:00+01:00</releaseDate>
+				<addedDate>2012-06-14T01:06:57+01:00</addedDate>
+				<popularity>0.52</popularity>
+				<streamingReleaseDate>3001-01-01T00:00:00+00:00</streamingReleaseDate>
+			</release>
+		</taggedItem>
+		<taggedItem>
+			<release id="1160096">
+				<title>Music to Make Love (50 Sensual Tracks)</title>
+				<version/>
+				<type>Album</type>
+				<barcode>3661585727651</barcode>
+				<year>2011</year>
+				<explicitContent>false</explicitContent>
+				<artist id="209">
+					<name>Various Artists</name>
+					<appearsAs>Various Artists</appearsAs>
+					<url>http://www.7digital.com/artist/various-artists/?partner=1401</url>
+				</artist>
+				<url>http://www.7digital.com/artist/various-artists/release/music-to-make-love-50-sensual-tracks/?partner=1401</url>
+				<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/011/600/0001160096_50.jpg</image>
+				<releaseDate>2011-02-09T00:00:00+00:00</releaseDate>
+				<addedDate>2011-02-18T17:08:55+00:00</addedDate>
+				<popularity>0.52</popularity>
+				<streamingReleaseDate>2011-02-09T00:00:00+00:00</streamingReleaseDate>
+			</release>
+		</taggedItem>
+		<taggedItem>
+			<release id="1360414">
+				<title>Anti-Stress, Vol. 1</title>
+				<version/>
+				<type>Album</type>
+				<barcode>3760190790675</barcode>
+				<year>2011</year>
+				<explicitContent>false</explicitContent>
+				<artist id="209">
+					<name>Various Artists</name>
+					<appearsAs>Various Artists</appearsAs>
+					<url>http://www.7digital.com/artist/various-artists/?partner=1401</url>
+				</artist>
+				<url>http://www.7digital.com/artist/various-artists/release/anti-stress-vol-1/?partner=1401</url>
+				<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/013/604/0001360414_50.jpg</image>
+				<releaseDate>2011-09-05T00:00:00+01:00</releaseDate>
+				<addedDate>2011-08-15T10:40:15+01:00</addedDate>
+				<popularity>0.51</popularity>
+				<streamingReleaseDate>2011-09-05T00:00:00+01:00</streamingReleaseDate>
+			</release>
+		</taggedItem>
+		<taggedItem>
+			<release id="1259586">
+				<title>Relaxing Summer Chill, Vol. 2</title>
+				<version/>
+				<type>Album</type>
+				<barcode>3661585891239</barcode>
+				<year>2011</year>
+				<explicitContent>false</explicitContent>
+				<artist id="209">
+					<name>Various Artists</name>
+					<appearsAs>Various Artists</appearsAs>
+					<url>http://www.7digital.com/artist/various-artists/?partner=1401</url>
+				</artist>
+				<url>http://www.7digital.com/artist/various-artists/release/relaxing-summer-chill-vol-2/?partner=1401</url>
+				<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/012/595/0001259586_50.jpg</image>
+				<releaseDate>2011-06-20T00:00:00+01:00</releaseDate>
+				<addedDate>2011-06-03T15:11:08+01:00</addedDate>
+				<popularity>0.51</popularity>
+				<streamingReleaseDate>2011-06-20T00:00:00+01:00</streamingReleaseDate>
+			</release>
+		</taggedItem>
+		<taggedItem>
+			<release id="1558749">
+				<title>Buddha Vibes</title>
+				<version/>
+				<type>Album</type>
+				<barcode>886788343597</barcode>
+				<year>2012</year>
+				<explicitContent>false</explicitContent>
+				<artist id="209">
+					<name>Various Artists</name>
+					<appearsAs>Various Artists</appearsAs>
+					<url>http://www.7digital.com/artist/various-artists/?partner=1401</url>
+				</artist>
+				<url>http://www.7digital.com/artist/various-artists/release/buddha-vibes/?partner=1401</url>
+				<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/015/587/0001558749_50.jpg</image>
+				<releaseDate>2012-12-20T00:00:00+00:00</releaseDate>
+				<addedDate>2012-01-17T19:14:20+00:00</addedDate>
+				<popularity>0.5</popularity>
+				<streamingReleaseDate>2012-12-20T00:00:00+00:00</streamingReleaseDate>
+			</release>
+		</taggedItem>
+		<taggedItem>
+			<release id="1541412">
+				<title>Spa - Reflections: Music for Massage, Yoga, and Sensory Rejuvenation</title>
+				<version/>
+				<type>Album</type>
+				<barcode>0792755581858</barcode>
+				<year>2012</year>
+				<explicitContent>false</explicitContent>
+				<artist id="960">
+					<name>David Arkenstone</name>
+					<appearsAs>David Arkenstone</appearsAs>
+					<url>http://www.7digital.com/artist/david-arkenstone/?partner=1401</url>
+				</artist>
+				<url>http://www.7digital.com/artist/david-arkenstone/release/spa-reflections-music-for-massage-yoga-and-sensory-rejuvenation/?partner=1401</url>
+				<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/015/414/0001541412_50.jpg</image>
+				<releaseDate>2012-02-13T00:00:00+00:00</releaseDate>
+				<addedDate>2012-01-02T18:34:22+00:00</addedDate>
+				<popularity>0.49</popularity>
+				<streamingReleaseDate>2012-02-13T00:00:00+00:00</streamingReleaseDate>
+			</release>
+		</taggedItem>
+		<taggedItem>
+			<release id="1338647">
+				<title>Native American Flute Meditations </title>
+				<version/>
+				<type>Single</type>
+				<barcode>847108024442</barcode>
+				<year>2011</year>
+				<explicitContent>false</explicitContent>
+				<artist id="1054821">
+					<name>Native American Flute Tribe</name>
+					<appearsAs>Native American Flute Tribe</appearsAs>
+					<url>http://www.7digital.com/artist/native-american-flute-tribe/?partner=1401</url>
+				</artist>
+				<url>http://www.7digital.com/artist/native-american-flute-tribe/release/native-american-flute-meditations/?partner=1401</url>
+				<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/013/386/0001338647_50.jpg</image>
+				<releaseDate>2011-08-05T00:00:00+01:00</releaseDate>
+				<addedDate>2011-07-22T16:52:29+01:00</addedDate>
+				<popularity>0.49</popularity>
+				<streamingReleaseDate>2011-08-05T00:00:00+01:00</streamingReleaseDate>
+			</release>
+		</taggedItem>
+	</taggedResults>
 </response>

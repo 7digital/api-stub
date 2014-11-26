@@ -1,1510 +1,1510 @@
 <?xml version="1.0" encoding="utf-8"?>
 <response xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" status="ok" version="1.2" xsi:noNamespaceSchemaLocation="http://api.7digital.com/1.2/static/7digitalAPI.xsd">
-  <locker>
-    <lockerReleases>
-      <page>1</page>
-      <pageSize>10</pageSize>
-      <totalItems>1</totalItems>
-      <lockerRelease>
-        <release id="1627544">
-          <title>Elvis</title>
-          <version />
-          <type>Album</type>
-          <barcode>7640138331084</barcode>
-          <artist id="2200">
-            <name>Elvis Presley</name>
-            <appearsAs>Elvis Presley</appearsAs>
-            <url>http://www.7digital.com/artist/elvis-presley-(2)/?partner=5932</url>
-          </artist>
-          <url>http://www.7digital.com/artist/elvis-presley-(2)/release/elvis-8/?partner=5932</url>
-          <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/016/275/0001627544_50.jpg</image>
-          <releaseDate>2012-02-24T00:00:00Z</releaseDate>
-          <licensor id="68" />
-        </release>
-        <lockerTracks>
-          <lockerTrack>
-            <track id="17832723">
-              <title>His Hand in Mine</title>
-              <version>Remastered</version>
-              <artist id="2200">
-                <name>Elvis Presley</name>
-                <appearsAs>Elvis Presley</appearsAs>
-                <url>http://www.7digital.com/artist/elvis-presley-(2)/?partner=5932</url>
-              </artist>
-              <trackNumber>1</trackNumber>
-              <duration>200</duration>
-              <isrc>GBURZ1100858</isrc>
-              <url>http://www.7digital.com/artist/elvis-presley-(2)/release/elvis-8/?partner=5932&amp;h=01</url>
-            </track>
-            <remainingDownloads>5</remainingDownloads>
-            <purchaseId>814716201</purchaseId>
-            <purchaseDate>2014-10-02T14:57:37Z</purchaseDate>
-            <completeAlbumPurchase>true</completeAlbumPurchase>
-            <downloadUrls>
-              <downloadUrl>
-                <url>http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&amp;oauth_nonce=i4d414b1f2xya04m&amp;oauth_signature=NPTE3ApvryrEA92t20EPFtKNu5g%3D&amp;oauth_signature_method=HMAC-SHA1&amp;oauth_timestamp=1412262342&amp;oauth_version=1.0a&amp;formatid=17&amp;partnerid=712&amp;onbehalfofpartnerid=712&amp;presigned=1&amp;releaseid=1627544&amp;shopid=34&amp;trackid=17832723&amp;userid=26876350</url>
-                <format id="17">
-                  <fileFormat>MP3</fileFormat>
-                  <bitRate>320</bitRate>
-                  <drmFree>true</drmFree>
-                </format>
-              </downloadUrl>
-              <downloadUrl>
-                <url>http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&amp;oauth_nonce=ua94kzzobndjdiab&amp;oauth_signature=tAc8yA91mGdTnv%2BHPB168C7cpD8%3D&amp;oauth_signature_method=HMAC-SHA1&amp;oauth_timestamp=1412262342&amp;oauth_version=1.0a&amp;formatid=33&amp;partnerid=712&amp;onbehalfofpartnerid=712&amp;presigned=1&amp;releaseid=1627544&amp;shopid=34&amp;trackid=17832723&amp;userid=26876350</url>
-                <format id="33">
-                  <fileFormat>M4A</fileFormat>
-                  <bitRate>320</bitRate>
-                  <drmFree>true</drmFree>
-                </format>
-              </downloadUrl>
-            </downloadUrls>
-          </lockerTrack>
-          <lockerTrack>
-            <track id="17832724">
-              <title>I'm Gonna Walk Dem Golden Stairs</title>
-              <version>Remastered</version>
-              <artist id="2200">
-                <name>Elvis Presley</name>
-                <appearsAs>Elvis Presley</appearsAs>
-                <url>http://www.7digital.com/artist/elvis-presley-(2)/?partner=5932</url>
-              </artist>
-              <trackNumber>2</trackNumber>
-              <duration>113</duration>
-              <isrc>GBURZ1100859</isrc>
-              <url>http://www.7digital.com/artist/elvis-presley-(2)/release/elvis-8/?partner=5932&amp;h=02</url>
-            </track>
-            <remainingDownloads>5</remainingDownloads>
-            <purchaseId>814716201</purchaseId>
-            <purchaseDate>2014-10-02T14:57:37Z</purchaseDate>
-            <completeAlbumPurchase>true</completeAlbumPurchase>
-            <downloadUrls>
-              <downloadUrl>
-                <url>http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&amp;oauth_nonce=j4uwnxawnvmzn32q&amp;oauth_signature=4GFg%2FxyLxlU1B076c98n4tXZNf8%3D&amp;oauth_signature_method=HMAC-SHA1&amp;oauth_timestamp=1412262342&amp;oauth_version=1.0a&amp;formatid=17&amp;partnerid=712&amp;onbehalfofpartnerid=712&amp;presigned=1&amp;releaseid=1627544&amp;shopid=34&amp;trackid=17832724&amp;userid=26876350</url>
-                <format id="17">
-                  <fileFormat>MP3</fileFormat>
-                  <bitRate>320</bitRate>
-                  <drmFree>true</drmFree>
-                </format>
-              </downloadUrl>
-              <downloadUrl>
-                <url>http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&amp;oauth_nonce=nm70krtsdz2n13x8&amp;oauth_signature=%2FoloGgX2FK7m2kLpIxz2dOQWQBk%3D&amp;oauth_signature_method=HMAC-SHA1&amp;oauth_timestamp=1412262342&amp;oauth_version=1.0a&amp;formatid=33&amp;partnerid=712&amp;onbehalfofpartnerid=712&amp;presigned=1&amp;releaseid=1627544&amp;shopid=34&amp;trackid=17832724&amp;userid=26876350</url>
-                <format id="33">
-                  <fileFormat>M4A</fileFormat>
-                  <bitRate>320</bitRate>
-                  <drmFree>true</drmFree>
-                </format>
-              </downloadUrl>
-            </downloadUrls>
-          </lockerTrack>
-          <lockerTrack>
-            <track id="17832725">
-              <title>In My Father's House</title>
-              <version>Remastered</version>
-              <artist id="2200">
-                <name>Elvis Presley</name>
-                <appearsAs>Elvis Presley</appearsAs>
-                <url>http://www.7digital.com/artist/elvis-presley-(2)/?partner=5932</url>
-              </artist>
-              <trackNumber>3</trackNumber>
-              <duration>126</duration>
-              <isrc>GBURZ1100860</isrc>
-              <url>http://www.7digital.com/artist/elvis-presley-(2)/release/elvis-8/?partner=5932&amp;h=03</url>
-            </track>
-            <remainingDownloads>5</remainingDownloads>
-            <purchaseId>814716201</purchaseId>
-            <purchaseDate>2014-10-02T14:57:37Z</purchaseDate>
-            <completeAlbumPurchase>true</completeAlbumPurchase>
-            <downloadUrls>
-              <downloadUrl>
-                <url>http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&amp;oauth_nonce=2vphpg970mqym0bj&amp;oauth_signature=1i01xAqH6jrViUklCMThHE3gSbI%3D&amp;oauth_signature_method=HMAC-SHA1&amp;oauth_timestamp=1412262342&amp;oauth_version=1.0a&amp;formatid=17&amp;partnerid=712&amp;onbehalfofpartnerid=712&amp;presigned=1&amp;releaseid=1627544&amp;shopid=34&amp;trackid=17832725&amp;userid=26876350</url>
-                <format id="17">
-                  <fileFormat>MP3</fileFormat>
-                  <bitRate>320</bitRate>
-                  <drmFree>true</drmFree>
-                </format>
-              </downloadUrl>
-              <downloadUrl>
-                <url>http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&amp;oauth_nonce=ww62mb12kbsy7x6u&amp;oauth_signature=KOplIbtUsev47rEDjz9uFAGiltY%3D&amp;oauth_signature_method=HMAC-SHA1&amp;oauth_timestamp=1412262342&amp;oauth_version=1.0a&amp;formatid=33&amp;partnerid=712&amp;onbehalfofpartnerid=712&amp;presigned=1&amp;releaseid=1627544&amp;shopid=34&amp;trackid=17832725&amp;userid=26876350</url>
-                <format id="33">
-                  <fileFormat>M4A</fileFormat>
-                  <bitRate>320</bitRate>
-                  <drmFree>true</drmFree>
-                </format>
-              </downloadUrl>
-            </downloadUrls>
-          </lockerTrack>
-          <lockerTrack>
-            <track id="17832726">
-              <title>Milky White Way</title>
-              <version />
-              <artist id="2200">
-                <name>Elvis Presley</name>
-                <appearsAs>Elvis Presley</appearsAs>
-                <url>http://www.7digital.com/artist/elvis-presley-(2)/?partner=5932</url>
-              </artist>
-              <trackNumber>4</trackNumber>
-              <duration>136</duration>
-              <isrc>GBURZ1100861</isrc>
-              <url>http://www.7digital.com/artist/elvis-presley-(2)/release/elvis-8/?partner=5932&amp;h=04</url>
-            </track>
-            <remainingDownloads>5</remainingDownloads>
-            <purchaseId>814716201</purchaseId>
-            <purchaseDate>2014-10-02T14:57:37Z</purchaseDate>
-            <completeAlbumPurchase>true</completeAlbumPurchase>
-            <downloadUrls>
-              <downloadUrl>
-                <url>http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&amp;oauth_nonce=9p92mtbhoa09b5ge&amp;oauth_signature=A2lvVNyEARoFpiBtY4UiRIsQi74%3D&amp;oauth_signature_method=HMAC-SHA1&amp;oauth_timestamp=1412262342&amp;oauth_version=1.0a&amp;formatid=17&amp;partnerid=712&amp;onbehalfofpartnerid=712&amp;presigned=1&amp;releaseid=1627544&amp;shopid=34&amp;trackid=17832726&amp;userid=26876350</url>
-                <format id="17">
-                  <fileFormat>MP3</fileFormat>
-                  <bitRate>320</bitRate>
-                  <drmFree>true</drmFree>
-                </format>
-              </downloadUrl>
-              <downloadUrl>
-                <url>http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&amp;oauth_nonce=xs2d86vz5x8oyjam&amp;oauth_signature=d0naFTZ6RgT44NEIJZG6Vz0KchA%3D&amp;oauth_signature_method=HMAC-SHA1&amp;oauth_timestamp=1412262342&amp;oauth_version=1.0a&amp;formatid=33&amp;partnerid=712&amp;onbehalfofpartnerid=712&amp;presigned=1&amp;releaseid=1627544&amp;shopid=34&amp;trackid=17832726&amp;userid=26876350</url>
-                <format id="33">
-                  <fileFormat>M4A</fileFormat>
-                  <bitRate>320</bitRate>
-                  <drmFree>true</drmFree>
-                </format>
-              </downloadUrl>
-            </downloadUrls>
-          </lockerTrack>
-          <lockerTrack>
-            <track id="17832728">
-              <title>Known Only to Him</title>
-              <version>Remastered</version>
-              <artist id="2200">
-                <name>Elvis Presley</name>
-                <appearsAs>Elvis Presley</appearsAs>
-                <url>http://www.7digital.com/artist/elvis-presley-(2)/?partner=5932</url>
-              </artist>
-              <trackNumber>5</trackNumber>
-              <duration>131</duration>
-              <isrc>GBURZ1100862</isrc>
-              <url>http://www.7digital.com/artist/elvis-presley-(2)/release/elvis-8/?partner=5932&amp;h=05</url>
-            </track>
-            <remainingDownloads>5</remainingDownloads>
-            <purchaseId>814716201</purchaseId>
-            <purchaseDate>2014-10-02T14:57:37Z</purchaseDate>
-            <completeAlbumPurchase>true</completeAlbumPurchase>
-            <downloadUrls>
-              <downloadUrl>
-                <url>http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&amp;oauth_nonce=q718ak7cvxnlb31p&amp;oauth_signature=fN%2FYI8Nqycrbo1TgcvDdYEOw5FY%3D&amp;oauth_signature_method=HMAC-SHA1&amp;oauth_timestamp=1412262342&amp;oauth_version=1.0a&amp;formatid=17&amp;partnerid=712&amp;onbehalfofpartnerid=712&amp;presigned=1&amp;releaseid=1627544&amp;shopid=34&amp;trackid=17832728&amp;userid=26876350</url>
-                <format id="17">
-                  <fileFormat>MP3</fileFormat>
-                  <bitRate>320</bitRate>
-                  <drmFree>true</drmFree>
-                </format>
-              </downloadUrl>
-              <downloadUrl>
-                <url>http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&amp;oauth_nonce=6obn73xc5j7zwxse&amp;oauth_signature=yRkhOfJk7Z222ovOD0Tc4GIm94A%3D&amp;oauth_signature_method=HMAC-SHA1&amp;oauth_timestamp=1412262342&amp;oauth_version=1.0a&amp;formatid=33&amp;partnerid=712&amp;onbehalfofpartnerid=712&amp;presigned=1&amp;releaseid=1627544&amp;shopid=34&amp;trackid=17832728&amp;userid=26876350</url>
-                <format id="33">
-                  <fileFormat>M4A</fileFormat>
-                  <bitRate>320</bitRate>
-                  <drmFree>true</drmFree>
-                </format>
-              </downloadUrl>
-            </downloadUrls>
-          </lockerTrack>
-          <lockerTrack>
-            <track id="17832729">
-              <title>I Believe in the Man in the Sky</title>
-              <version>Remastered</version>
-              <artist id="2200">
-                <name>Elvis Presley</name>
-                <appearsAs>Elvis Presley</appearsAs>
-                <url>http://www.7digital.com/artist/elvis-presley-(2)/?partner=5932</url>
-              </artist>
-              <trackNumber>6</trackNumber>
-              <duration>136</duration>
-              <isrc>GBURZ1100863</isrc>
-              <url>http://www.7digital.com/artist/elvis-presley-(2)/release/elvis-8/?partner=5932&amp;h=06</url>
-            </track>
-            <remainingDownloads>5</remainingDownloads>
-            <purchaseId>814716201</purchaseId>
-            <purchaseDate>2014-10-02T14:57:37Z</purchaseDate>
-            <completeAlbumPurchase>true</completeAlbumPurchase>
-            <downloadUrls>
-              <downloadUrl>
-                <url>http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&amp;oauth_nonce=axredjdnwzrjsjxc&amp;oauth_signature=wV6gdWS9%2BFGue%2BzzChGQGAD9FHc%3D&amp;oauth_signature_method=HMAC-SHA1&amp;oauth_timestamp=1412262342&amp;oauth_version=1.0a&amp;formatid=17&amp;partnerid=712&amp;onbehalfofpartnerid=712&amp;presigned=1&amp;releaseid=1627544&amp;shopid=34&amp;trackid=17832729&amp;userid=26876350</url>
-                <format id="17">
-                  <fileFormat>MP3</fileFormat>
-                  <bitRate>320</bitRate>
-                  <drmFree>true</drmFree>
-                </format>
-              </downloadUrl>
-              <downloadUrl>
-                <url>http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&amp;oauth_nonce=8rsjiwpyiyc2ngp9&amp;oauth_signature=67dLZm85kSdqJZR8DP%2BgghJUG%2FM%3D&amp;oauth_signature_method=HMAC-SHA1&amp;oauth_timestamp=1412262342&amp;oauth_version=1.0a&amp;formatid=33&amp;partnerid=712&amp;onbehalfofpartnerid=712&amp;presigned=1&amp;releaseid=1627544&amp;shopid=34&amp;trackid=17832729&amp;userid=26876350</url>
-                <format id="33">
-                  <fileFormat>M4A</fileFormat>
-                  <bitRate>320</bitRate>
-                  <drmFree>true</drmFree>
-                </format>
-              </downloadUrl>
-            </downloadUrls>
-          </lockerTrack>
-          <lockerTrack>
-            <track id="17832730">
-              <title>Joshua Fit the Battle</title>
-              <version>Remastered</version>
-              <artist id="2200">
-                <name>Elvis Presley</name>
-                <appearsAs>Elvis Presley</appearsAs>
-                <url>http://www.7digital.com/artist/elvis-presley-(2)/?partner=5932</url>
-              </artist>
-              <trackNumber>7</trackNumber>
-              <duration>161</duration>
-              <isrc>GBURZ1100864</isrc>
-              <url>http://www.7digital.com/artist/elvis-presley-(2)/release/elvis-8/?partner=5932&amp;h=07</url>
-            </track>
-            <remainingDownloads>5</remainingDownloads>
-            <purchaseId>814716201</purchaseId>
-            <purchaseDate>2014-10-02T14:57:37Z</purchaseDate>
-            <completeAlbumPurchase>true</completeAlbumPurchase>
-            <downloadUrls>
-              <downloadUrl>
-                <url>http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&amp;oauth_nonce=filolvlwlx1hkotv&amp;oauth_signature=AIZUaAJyIzz9qjSYRlKCK7PSRDs%3D&amp;oauth_signature_method=HMAC-SHA1&amp;oauth_timestamp=1412262342&amp;oauth_version=1.0a&amp;formatid=17&amp;partnerid=712&amp;onbehalfofpartnerid=712&amp;presigned=1&amp;releaseid=1627544&amp;shopid=34&amp;trackid=17832730&amp;userid=26876350</url>
-                <format id="17">
-                  <fileFormat>MP3</fileFormat>
-                  <bitRate>320</bitRate>
-                  <drmFree>true</drmFree>
-                </format>
-              </downloadUrl>
-              <downloadUrl>
-                <url>http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&amp;oauth_nonce=v53eej7nh37pglap&amp;oauth_signature=ppjGNcSwiStxvc4f4m4JspVx8uE%3D&amp;oauth_signature_method=HMAC-SHA1&amp;oauth_timestamp=1412262342&amp;oauth_version=1.0a&amp;formatid=33&amp;partnerid=712&amp;onbehalfofpartnerid=712&amp;presigned=1&amp;releaseid=1627544&amp;shopid=34&amp;trackid=17832730&amp;userid=26876350</url>
-                <format id="33">
-                  <fileFormat>M4A</fileFormat>
-                  <bitRate>320</bitRate>
-                  <drmFree>true</drmFree>
-                </format>
-              </downloadUrl>
-            </downloadUrls>
-          </lockerTrack>
-          <lockerTrack>
-            <track id="17832731">
-              <title>He Knows Just What I Need</title>
-              <version>Remastered</version>
-              <artist id="2200">
-                <name>Elvis Presley</name>
-                <appearsAs>Elvis Presley</appearsAs>
-                <url>http://www.7digital.com/artist/elvis-presley-(2)/?partner=5932</url>
-              </artist>
-              <trackNumber>8</trackNumber>
-              <duration>134</duration>
-              <isrc>GBURZ1100865</isrc>
-              <url>http://www.7digital.com/artist/elvis-presley-(2)/release/elvis-8/?partner=5932&amp;h=08</url>
-            </track>
-            <remainingDownloads>5</remainingDownloads>
-            <purchaseId>814716201</purchaseId>
-            <purchaseDate>2014-10-02T14:57:37Z</purchaseDate>
-            <completeAlbumPurchase>true</completeAlbumPurchase>
-            <downloadUrls>
-              <downloadUrl>
-                <url>http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&amp;oauth_nonce=jtek8j1lg79u7io5&amp;oauth_signature=O3ocCz1FRODsxwnVhV4PildUTVw%3D&amp;oauth_signature_method=HMAC-SHA1&amp;oauth_timestamp=1412262342&amp;oauth_version=1.0a&amp;formatid=17&amp;partnerid=712&amp;onbehalfofpartnerid=712&amp;presigned=1&amp;releaseid=1627544&amp;shopid=34&amp;trackid=17832731&amp;userid=26876350</url>
-                <format id="17">
-                  <fileFormat>MP3</fileFormat>
-                  <bitRate>320</bitRate>
-                  <drmFree>true</drmFree>
-                </format>
-              </downloadUrl>
-              <downloadUrl>
-                <url>http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&amp;oauth_nonce=frgsok57m9hsz7pa&amp;oauth_signature=Dm0VBdI11n0iwC%2F3QyeaYtMsyLM%3D&amp;oauth_signature_method=HMAC-SHA1&amp;oauth_timestamp=1412262342&amp;oauth_version=1.0a&amp;formatid=33&amp;partnerid=712&amp;onbehalfofpartnerid=712&amp;presigned=1&amp;releaseid=1627544&amp;shopid=34&amp;trackid=17832731&amp;userid=26876350</url>
-                <format id="33">
-                  <fileFormat>M4A</fileFormat>
-                  <bitRate>320</bitRate>
-                  <drmFree>true</drmFree>
-                </format>
-              </downloadUrl>
-            </downloadUrls>
-          </lockerTrack>
-          <lockerTrack>
-            <track id="17832732">
-              <title>Swing Down Sweet Chariot</title>
-              <version>Remastered</version>
-              <artist id="2200">
-                <name>Elvis Presley</name>
-                <appearsAs>Elvis Presley</appearsAs>
-                <url>http://www.7digital.com/artist/elvis-presley-(2)/?partner=5932</url>
-              </artist>
-              <trackNumber>9</trackNumber>
-              <duration>154</duration>
-              <isrc>GBURZ1100866</isrc>
-              <url>http://www.7digital.com/artist/elvis-presley-(2)/release/elvis-8/?partner=5932&amp;h=09</url>
-            </track>
-            <remainingDownloads>5</remainingDownloads>
-            <purchaseId>814716201</purchaseId>
-            <purchaseDate>2014-10-02T14:57:37Z</purchaseDate>
-            <completeAlbumPurchase>true</completeAlbumPurchase>
-            <downloadUrls>
-              <downloadUrl>
-                <url>http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&amp;oauth_nonce=xk91jjyleq9hkmq0&amp;oauth_signature=qvKGHTt%2BR7BwpoCs8FAB31j0RFw%3D&amp;oauth_signature_method=HMAC-SHA1&amp;oauth_timestamp=1412262342&amp;oauth_version=1.0a&amp;formatid=17&amp;partnerid=712&amp;onbehalfofpartnerid=712&amp;presigned=1&amp;releaseid=1627544&amp;shopid=34&amp;trackid=17832732&amp;userid=26876350</url>
-                <format id="17">
-                  <fileFormat>MP3</fileFormat>
-                  <bitRate>320</bitRate>
-                  <drmFree>true</drmFree>
-                </format>
-              </downloadUrl>
-              <downloadUrl>
-                <url>http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&amp;oauth_nonce=objzerb9zi89chwj&amp;oauth_signature=nHPyllxxkUo%2B4JR6uhlO2Nh4Y9o%3D&amp;oauth_signature_method=HMAC-SHA1&amp;oauth_timestamp=1412262342&amp;oauth_version=1.0a&amp;formatid=33&amp;partnerid=712&amp;onbehalfofpartnerid=712&amp;presigned=1&amp;releaseid=1627544&amp;shopid=34&amp;trackid=17832732&amp;userid=26876350</url>
-                <format id="33">
-                  <fileFormat>M4A</fileFormat>
-                  <bitRate>320</bitRate>
-                  <drmFree>true</drmFree>
-                </format>
-              </downloadUrl>
-            </downloadUrls>
-          </lockerTrack>
-          <lockerTrack>
-            <track id="17832733">
-              <title>Mansion Over the Hilltop</title>
-              <version>Remastered</version>
-              <artist id="2200">
-                <name>Elvis Presley</name>
-                <appearsAs>Elvis Presley</appearsAs>
-                <url>http://www.7digital.com/artist/elvis-presley-(2)/?partner=5932</url>
-              </artist>
-              <trackNumber>10</trackNumber>
-              <duration>179</duration>
-              <isrc>GBURZ1100867</isrc>
-              <url>http://www.7digital.com/artist/elvis-presley-(2)/release/elvis-8/?partner=5932&amp;h=10</url>
-            </track>
-            <remainingDownloads>5</remainingDownloads>
-            <purchaseId>814716201</purchaseId>
-            <purchaseDate>2014-10-02T14:57:37Z</purchaseDate>
-            <completeAlbumPurchase>true</completeAlbumPurchase>
-            <downloadUrls>
-              <downloadUrl>
-                <url>http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&amp;oauth_nonce=r97vkxu635o8mwv0&amp;oauth_signature=LMNYhcxVhZe3C6w%2BdoCpbeC6KfQ%3D&amp;oauth_signature_method=HMAC-SHA1&amp;oauth_timestamp=1412262342&amp;oauth_version=1.0a&amp;formatid=17&amp;partnerid=712&amp;onbehalfofpartnerid=712&amp;presigned=1&amp;releaseid=1627544&amp;shopid=34&amp;trackid=17832733&amp;userid=26876350</url>
-                <format id="17">
-                  <fileFormat>MP3</fileFormat>
-                  <bitRate>320</bitRate>
-                  <drmFree>true</drmFree>
-                </format>
-              </downloadUrl>
-              <downloadUrl>
-                <url>http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&amp;oauth_nonce=shexwz6gj0ablzj7&amp;oauth_signature=s0lTwOzaUDZn5pW7YGdbCVbwyRA%3D&amp;oauth_signature_method=HMAC-SHA1&amp;oauth_timestamp=1412262342&amp;oauth_version=1.0a&amp;formatid=33&amp;partnerid=712&amp;onbehalfofpartnerid=712&amp;presigned=1&amp;releaseid=1627544&amp;shopid=34&amp;trackid=17832733&amp;userid=26876350</url>
-                <format id="33">
-                  <fileFormat>M4A</fileFormat>
-                  <bitRate>320</bitRate>
-                  <drmFree>true</drmFree>
-                </format>
-              </downloadUrl>
-            </downloadUrls>
-          </lockerTrack>
-          <lockerTrack>
-            <track id="17832734">
-              <title>Working On the Building</title>
-              <version>Remastered</version>
-              <artist id="2200">
-                <name>Elvis Presley</name>
-                <appearsAs>Elvis Presley</appearsAs>
-                <url>http://www.7digital.com/artist/elvis-presley-(2)/?partner=5932</url>
-              </artist>
-              <trackNumber>11</trackNumber>
-              <duration>115</duration>
-              <isrc>GBURZ1100869</isrc>
-              <url>http://www.7digital.com/artist/elvis-presley-(2)/release/elvis-8/?partner=5932&amp;h=11</url>
-            </track>
-            <remainingDownloads>5</remainingDownloads>
-            <purchaseId>814716201</purchaseId>
-            <purchaseDate>2014-10-02T14:57:37Z</purchaseDate>
-            <completeAlbumPurchase>true</completeAlbumPurchase>
-            <downloadUrls>
-              <downloadUrl>
-                <url>http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&amp;oauth_nonce=5yzmp6y1ro7jddvc&amp;oauth_signature=W9PzqggYSyP%2B2RRye2BM%2Fg81nMw%3D&amp;oauth_signature_method=HMAC-SHA1&amp;oauth_timestamp=1412262342&amp;oauth_version=1.0a&amp;formatid=17&amp;partnerid=712&amp;onbehalfofpartnerid=712&amp;presigned=1&amp;releaseid=1627544&amp;shopid=34&amp;trackid=17832734&amp;userid=26876350</url>
-                <format id="17">
-                  <fileFormat>MP3</fileFormat>
-                  <bitRate>320</bitRate>
-                  <drmFree>true</drmFree>
-                </format>
-              </downloadUrl>
-              <downloadUrl>
-                <url>http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&amp;oauth_nonce=x8q5c9x2czmkwtud&amp;oauth_signature=qa0B01tCNhjBD642tYhd0cS214U%3D&amp;oauth_signature_method=HMAC-SHA1&amp;oauth_timestamp=1412262342&amp;oauth_version=1.0a&amp;formatid=33&amp;partnerid=712&amp;onbehalfofpartnerid=712&amp;presigned=1&amp;releaseid=1627544&amp;shopid=34&amp;trackid=17832734&amp;userid=26876350</url>
-                <format id="33">
-                  <fileFormat>M4A</fileFormat>
-                  <bitRate>320</bitRate>
-                  <drmFree>true</drmFree>
-                </format>
-              </downloadUrl>
-            </downloadUrls>
-          </lockerTrack>
-          <lockerTrack>
-            <track id="17832735">
-              <title>It Is No Secret (What God Can Do)</title>
-              <version />
-              <artist id="2200">
-                <name>Elvis Presley</name>
-                <appearsAs>Elvis Presley</appearsAs>
-                <url>http://www.7digital.com/artist/elvis-presley-(2)/?partner=5932</url>
-              </artist>
-              <trackNumber>12</trackNumber>
-              <duration>235</duration>
-              <isrc>GBURZ1100870</isrc>
-              <url>http://www.7digital.com/artist/elvis-presley-(2)/release/elvis-8/?partner=5932&amp;h=12</url>
-            </track>
-            <remainingDownloads>5</remainingDownloads>
-            <purchaseId>814716201</purchaseId>
-            <purchaseDate>2014-10-02T14:57:37Z</purchaseDate>
-            <completeAlbumPurchase>true</completeAlbumPurchase>
-            <downloadUrls>
-              <downloadUrl>
-                <url>http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&amp;oauth_nonce=vrcy7iuxtnfi4vdf&amp;oauth_signature=YA7FjSskpJk3QT1Sw%2B%2BIHqZwBNE%3D&amp;oauth_signature_method=HMAC-SHA1&amp;oauth_timestamp=1412262342&amp;oauth_version=1.0a&amp;formatid=17&amp;partnerid=712&amp;onbehalfofpartnerid=712&amp;presigned=1&amp;releaseid=1627544&amp;shopid=34&amp;trackid=17832735&amp;userid=26876350</url>
-                <format id="17">
-                  <fileFormat>MP3</fileFormat>
-                  <bitRate>320</bitRate>
-                  <drmFree>true</drmFree>
-                </format>
-              </downloadUrl>
-              <downloadUrl>
-                <url>http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&amp;oauth_nonce=n9onjp56a9j1soe9&amp;oauth_signature=plKRTxvaPDvstm%2FMcsTI5CCbCKI%3D&amp;oauth_signature_method=HMAC-SHA1&amp;oauth_timestamp=1412262342&amp;oauth_version=1.0a&amp;formatid=33&amp;partnerid=712&amp;onbehalfofpartnerid=712&amp;presigned=1&amp;releaseid=1627544&amp;shopid=34&amp;trackid=17832735&amp;userid=26876350</url>
-                <format id="33">
-                  <fileFormat>M4A</fileFormat>
-                  <bitRate>320</bitRate>
-                  <drmFree>true</drmFree>
-                </format>
-              </downloadUrl>
-            </downloadUrls>
-          </lockerTrack>
-          <lockerTrack>
-            <track id="17832736">
-              <title>You'll Never Walk Alone</title>
-              <version />
-              <artist id="2200">
-                <name>Elvis Presley</name>
-                <appearsAs>Elvis Presley</appearsAs>
-                <url>http://www.7digital.com/artist/elvis-presley-(2)/?partner=5932</url>
-              </artist>
-              <trackNumber>13</trackNumber>
-              <duration>160</duration>
-              <isrc>GBURZ1100871</isrc>
-              <url>http://www.7digital.com/artist/elvis-presley-(2)/release/elvis-8/?partner=5932&amp;h=13</url>
-            </track>
-            <remainingDownloads>5</remainingDownloads>
-            <purchaseId>814716201</purchaseId>
-            <purchaseDate>2014-10-02T14:57:37Z</purchaseDate>
-            <completeAlbumPurchase>true</completeAlbumPurchase>
-            <downloadUrls>
-              <downloadUrl>
-                <url>http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&amp;oauth_nonce=44yva8gon4ly3p9r&amp;oauth_signature=VA0wJhcCSPKkkrdilnsBy%2F41y4M%3D&amp;oauth_signature_method=HMAC-SHA1&amp;oauth_timestamp=1412262342&amp;oauth_version=1.0a&amp;formatid=17&amp;partnerid=712&amp;onbehalfofpartnerid=712&amp;presigned=1&amp;releaseid=1627544&amp;shopid=34&amp;trackid=17832736&amp;userid=26876350</url>
-                <format id="17">
-                  <fileFormat>MP3</fileFormat>
-                  <bitRate>320</bitRate>
-                  <drmFree>true</drmFree>
-                </format>
-              </downloadUrl>
-              <downloadUrl>
-                <url>http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&amp;oauth_nonce=wg8yeg4gxhx994ee&amp;oauth_signature=NvSpm%2FukV9i0xlCQRRucZa0ciJM%3D&amp;oauth_signature_method=HMAC-SHA1&amp;oauth_timestamp=1412262342&amp;oauth_version=1.0a&amp;formatid=33&amp;partnerid=712&amp;onbehalfofpartnerid=712&amp;presigned=1&amp;releaseid=1627544&amp;shopid=34&amp;trackid=17832736&amp;userid=26876350</url>
-                <format id="33">
-                  <fileFormat>M4A</fileFormat>
-                  <bitRate>320</bitRate>
-                  <drmFree>true</drmFree>
-                </format>
-              </downloadUrl>
-            </downloadUrls>
-          </lockerTrack>
-          <lockerTrack>
-            <track id="17832737">
-              <title>Who Am I</title>
-              <version />
-              <artist id="2200">
-                <name>Elvis Presley</name>
-                <appearsAs>Elvis Presley</appearsAs>
-                <url>http://www.7digital.com/artist/elvis-presley-(2)/?partner=5932</url>
-              </artist>
-              <trackNumber>14</trackNumber>
-              <duration>199</duration>
-              <isrc>GBURZ1100872</isrc>
-              <url>http://www.7digital.com/artist/elvis-presley-(2)/release/elvis-8/?partner=5932&amp;h=14</url>
-            </track>
-            <remainingDownloads>5</remainingDownloads>
-            <purchaseId>814716201</purchaseId>
-            <purchaseDate>2014-10-02T14:57:37Z</purchaseDate>
-            <completeAlbumPurchase>true</completeAlbumPurchase>
-            <downloadUrls>
-              <downloadUrl>
-                <url>http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&amp;oauth_nonce=jhoa7rfp2a0qdfcv&amp;oauth_signature=Acp6eYlfty%2B7NuZT0vI0szPpLbY%3D&amp;oauth_signature_method=HMAC-SHA1&amp;oauth_timestamp=1412262342&amp;oauth_version=1.0a&amp;formatid=17&amp;partnerid=712&amp;onbehalfofpartnerid=712&amp;presigned=1&amp;releaseid=1627544&amp;shopid=34&amp;trackid=17832737&amp;userid=26876350</url>
-                <format id="17">
-                  <fileFormat>MP3</fileFormat>
-                  <bitRate>320</bitRate>
-                  <drmFree>true</drmFree>
-                </format>
-              </downloadUrl>
-              <downloadUrl>
-                <url>http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&amp;oauth_nonce=03dmrp4x0s94khpt&amp;oauth_signature=ShLYQOj6RnS%2FIGm46R69xV9bvPU%3D&amp;oauth_signature_method=HMAC-SHA1&amp;oauth_timestamp=1412262342&amp;oauth_version=1.0a&amp;formatid=33&amp;partnerid=712&amp;onbehalfofpartnerid=712&amp;presigned=1&amp;releaseid=1627544&amp;shopid=34&amp;trackid=17832737&amp;userid=26876350</url>
-                <format id="33">
-                  <fileFormat>M4A</fileFormat>
-                  <bitRate>320</bitRate>
-                  <drmFree>true</drmFree>
-                </format>
-              </downloadUrl>
-            </downloadUrls>
-          </lockerTrack>
-          <lockerTrack>
-            <track id="17832738">
-              <title>Tonight Is So Right for Love</title>
-              <version />
-              <artist id="2200">
-                <name>Elvis Presley</name>
-                <appearsAs>Elvis Presley</appearsAs>
-                <url>http://www.7digital.com/artist/elvis-presley-(2)/?partner=5932</url>
-              </artist>
-              <trackNumber>15</trackNumber>
-              <duration>134</duration>
-              <isrc>GBURZ1100707</isrc>
-              <url>http://www.7digital.com/artist/elvis-presley-(2)/release/elvis-8/?partner=5932&amp;h=15</url>
-            </track>
-            <remainingDownloads>5</remainingDownloads>
-            <purchaseId>814716201</purchaseId>
-            <purchaseDate>2014-10-02T14:57:37Z</purchaseDate>
-            <completeAlbumPurchase>true</completeAlbumPurchase>
-            <downloadUrls>
-              <downloadUrl>
-                <url>http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&amp;oauth_nonce=zgpvb8uebr7egncs&amp;oauth_signature=oQceLKWe5LV6eIV8OGTu8CjVVAY%3D&amp;oauth_signature_method=HMAC-SHA1&amp;oauth_timestamp=1412262342&amp;oauth_version=1.0a&amp;formatid=17&amp;partnerid=712&amp;onbehalfofpartnerid=712&amp;presigned=1&amp;releaseid=1627544&amp;shopid=34&amp;trackid=17832738&amp;userid=26876350</url>
-                <format id="17">
-                  <fileFormat>MP3</fileFormat>
-                  <bitRate>320</bitRate>
-                  <drmFree>true</drmFree>
-                </format>
-              </downloadUrl>
-              <downloadUrl>
-                <url>http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&amp;oauth_nonce=eb9g12x5n1aotlfu&amp;oauth_signature=ZwAMcrh%2FhyHQeviDcznB15eu%2Ffo%3D&amp;oauth_signature_method=HMAC-SHA1&amp;oauth_timestamp=1412262342&amp;oauth_version=1.0a&amp;formatid=33&amp;partnerid=712&amp;onbehalfofpartnerid=712&amp;presigned=1&amp;releaseid=1627544&amp;shopid=34&amp;trackid=17832738&amp;userid=26876350</url>
-                <format id="33">
-                  <fileFormat>M4A</fileFormat>
-                  <bitRate>320</bitRate>
-                  <drmFree>true</drmFree>
-                </format>
-              </downloadUrl>
-            </downloadUrls>
-          </lockerTrack>
-          <lockerTrack>
-            <track id="17832739">
-              <title>What's She Really Like</title>
-              <version />
-              <artist id="2200">
-                <name>Elvis Presley</name>
-                <appearsAs>Elvis Presley</appearsAs>
-                <url>http://www.7digital.com/artist/elvis-presley-(2)/?partner=5932</url>
-              </artist>
-              <trackNumber>16</trackNumber>
-              <duration>138</duration>
-              <isrc>GBURZ1100708</isrc>
-              <url>http://www.7digital.com/artist/elvis-presley-(2)/release/elvis-8/?partner=5932&amp;h=16</url>
-            </track>
-            <remainingDownloads>5</remainingDownloads>
-            <purchaseId>814716201</purchaseId>
-            <purchaseDate>2014-10-02T14:57:37Z</purchaseDate>
-            <completeAlbumPurchase>true</completeAlbumPurchase>
-            <downloadUrls>
-              <downloadUrl>
-                <url>http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&amp;oauth_nonce=up28zrubh9l0szqv&amp;oauth_signature=IC%2BDMTirDhPNJl%2BtOwseXZJD2kg%3D&amp;oauth_signature_method=HMAC-SHA1&amp;oauth_timestamp=1412262342&amp;oauth_version=1.0a&amp;formatid=17&amp;partnerid=712&amp;onbehalfofpartnerid=712&amp;presigned=1&amp;releaseid=1627544&amp;shopid=34&amp;trackid=17832739&amp;userid=26876350</url>
-                <format id="17">
-                  <fileFormat>MP3</fileFormat>
-                  <bitRate>320</bitRate>
-                  <drmFree>true</drmFree>
-                </format>
-              </downloadUrl>
-              <downloadUrl>
-                <url>http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&amp;oauth_nonce=qpziij48svhk8fvz&amp;oauth_signature=qfBzPr1nlrb9EYwSsxh6GvZ01l4%3D&amp;oauth_signature_method=HMAC-SHA1&amp;oauth_timestamp=1412262342&amp;oauth_version=1.0a&amp;formatid=33&amp;partnerid=712&amp;onbehalfofpartnerid=712&amp;presigned=1&amp;releaseid=1627544&amp;shopid=34&amp;trackid=17832739&amp;userid=26876350</url>
-                <format id="33">
-                  <fileFormat>M4A</fileFormat>
-                  <bitRate>320</bitRate>
-                  <drmFree>true</drmFree>
-                </format>
-              </downloadUrl>
-            </downloadUrls>
-          </lockerTrack>
-          <lockerTrack>
-            <track id="17832740">
-              <title>Wooden Heart</title>
-              <version />
-              <artist id="2200">
-                <name>Elvis Presley</name>
-                <appearsAs>Elvis Presley</appearsAs>
-                <url>http://www.7digital.com/artist/elvis-presley-(2)/?partner=5932</url>
-              </artist>
-              <trackNumber>17</trackNumber>
-              <duration>122</duration>
-              <isrc>GBURZ1100710</isrc>
-              <url>http://www.7digital.com/artist/elvis-presley-(2)/release/elvis-8/?partner=5932&amp;h=17</url>
-            </track>
-            <remainingDownloads>5</remainingDownloads>
-            <purchaseId>814716201</purchaseId>
-            <purchaseDate>2014-10-02T14:57:37Z</purchaseDate>
-            <completeAlbumPurchase>true</completeAlbumPurchase>
-            <downloadUrls>
-              <downloadUrl>
-                <url>http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&amp;oauth_nonce=llu1we3wr792qxly&amp;oauth_signature=N4QGJcnAB2pQxBIUQLORhuz9dfA%3D&amp;oauth_signature_method=HMAC-SHA1&amp;oauth_timestamp=1412262342&amp;oauth_version=1.0a&amp;formatid=17&amp;partnerid=712&amp;onbehalfofpartnerid=712&amp;presigned=1&amp;releaseid=1627544&amp;shopid=34&amp;trackid=17832740&amp;userid=26876350</url>
-                <format id="17">
-                  <fileFormat>MP3</fileFormat>
-                  <bitRate>320</bitRate>
-                  <drmFree>true</drmFree>
-                </format>
-              </downloadUrl>
-              <downloadUrl>
-                <url>http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&amp;oauth_nonce=jp9ew7mkw4pekjeb&amp;oauth_signature=dNLmHshFXqG%2BfwNC2C3QU%2BUWYoA%3D&amp;oauth_signature_method=HMAC-SHA1&amp;oauth_timestamp=1412262342&amp;oauth_version=1.0a&amp;formatid=33&amp;partnerid=712&amp;onbehalfofpartnerid=712&amp;presigned=1&amp;releaseid=1627544&amp;shopid=34&amp;trackid=17832740&amp;userid=26876350</url>
-                <format id="33">
-                  <fileFormat>M4A</fileFormat>
-                  <bitRate>320</bitRate>
-                  <drmFree>true</drmFree>
-                </format>
-              </downloadUrl>
-            </downloadUrls>
-          </lockerTrack>
-          <lockerTrack>
-            <track id="17832741">
-              <title>G.I. Blues</title>
-              <version />
-              <artist id="2200">
-                <name>Elvis Presley</name>
-                <appearsAs>Elvis Presley</appearsAs>
-                <url>http://www.7digital.com/artist/elvis-presley-(2)/?partner=5932</url>
-              </artist>
-              <trackNumber>18</trackNumber>
-              <duration>157</duration>
-              <isrc>GBURZ1100711</isrc>
-              <url>http://www.7digital.com/artist/elvis-presley-(2)/release/elvis-8/?partner=5932&amp;h=18</url>
-            </track>
-            <remainingDownloads>5</remainingDownloads>
-            <purchaseId>814716201</purchaseId>
-            <purchaseDate>2014-10-02T14:57:37Z</purchaseDate>
-            <completeAlbumPurchase>true</completeAlbumPurchase>
-            <downloadUrls>
-              <downloadUrl>
-                <url>http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&amp;oauth_nonce=nvyhe10lwc2llcq5&amp;oauth_signature=mw7j3Ppqi8Cr%2Boi1qJAlfpQpQMo%3D&amp;oauth_signature_method=HMAC-SHA1&amp;oauth_timestamp=1412262342&amp;oauth_version=1.0a&amp;formatid=17&amp;partnerid=712&amp;onbehalfofpartnerid=712&amp;presigned=1&amp;releaseid=1627544&amp;shopid=34&amp;trackid=17832741&amp;userid=26876350</url>
-                <format id="17">
-                  <fileFormat>MP3</fileFormat>
-                  <bitRate>320</bitRate>
-                  <drmFree>true</drmFree>
-                </format>
-              </downloadUrl>
-              <downloadUrl>
-                <url>http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&amp;oauth_nonce=jsashrcp0je3zxlh&amp;oauth_signature=V4LfNUl0zvLNRiXF4kcMKIeiaQw%3D&amp;oauth_signature_method=HMAC-SHA1&amp;oauth_timestamp=1412262342&amp;oauth_version=1.0a&amp;formatid=33&amp;partnerid=712&amp;onbehalfofpartnerid=712&amp;presigned=1&amp;releaseid=1627544&amp;shopid=34&amp;trackid=17832741&amp;userid=26876350</url>
-                <format id="33">
-                  <fileFormat>M4A</fileFormat>
-                  <bitRate>320</bitRate>
-                  <drmFree>true</drmFree>
-                </format>
-              </downloadUrl>
-            </downloadUrls>
-          </lockerTrack>
-          <lockerTrack>
-            <track id="17832742">
-              <title>Shoppin' Around</title>
-              <version />
-              <artist id="2200">
-                <name>Elvis Presley</name>
-                <appearsAs>Elvis Presley</appearsAs>
-                <url>http://www.7digital.com/artist/elvis-presley-(2)/?partner=5932</url>
-              </artist>
-              <trackNumber>19</trackNumber>
-              <duration>143</duration>
-              <isrc>GBURZ1100713</isrc>
-              <url>http://www.7digital.com/artist/elvis-presley-(2)/release/elvis-8/?partner=5932&amp;h=19</url>
-            </track>
-            <remainingDownloads>5</remainingDownloads>
-            <purchaseId>814716201</purchaseId>
-            <purchaseDate>2014-10-02T14:57:37Z</purchaseDate>
-            <completeAlbumPurchase>true</completeAlbumPurchase>
-            <downloadUrls>
-              <downloadUrl>
-                <url>http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&amp;oauth_nonce=37n50ettqwruea0t&amp;oauth_signature=bBEkGt7nDLAB0tfqrU0BRuZrf3c%3D&amp;oauth_signature_method=HMAC-SHA1&amp;oauth_timestamp=1412262342&amp;oauth_version=1.0a&amp;formatid=17&amp;partnerid=712&amp;onbehalfofpartnerid=712&amp;presigned=1&amp;releaseid=1627544&amp;shopid=34&amp;trackid=17832742&amp;userid=26876350</url>
-                <format id="17">
-                  <fileFormat>MP3</fileFormat>
-                  <bitRate>320</bitRate>
-                  <drmFree>true</drmFree>
-                </format>
-              </downloadUrl>
-              <downloadUrl>
-                <url>http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&amp;oauth_nonce=nu63jw57tih6vgw0&amp;oauth_signature=EYU29%2FC0Ysn9IV9vj8rMDD2%2BYUM%3D&amp;oauth_signature_method=HMAC-SHA1&amp;oauth_timestamp=1412262342&amp;oauth_version=1.0a&amp;formatid=33&amp;partnerid=712&amp;onbehalfofpartnerid=712&amp;presigned=1&amp;releaseid=1627544&amp;shopid=34&amp;trackid=17832742&amp;userid=26876350</url>
-                <format id="33">
-                  <fileFormat>M4A</fileFormat>
-                  <bitRate>320</bitRate>
-                  <drmFree>true</drmFree>
-                </format>
-              </downloadUrl>
-            </downloadUrls>
-          </lockerTrack>
-          <lockerTrack>
-            <track id="17832743">
-              <title>Big Boots</title>
-              <version />
-              <artist id="2200">
-                <name>Elvis Presley</name>
-                <appearsAs>Elvis Presley</appearsAs>
-                <url>http://www.7digital.com/artist/elvis-presley-(2)/?partner=5932</url>
-              </artist>
-              <trackNumber>20</trackNumber>
-              <duration>91</duration>
-              <isrc>GBURZ1100714</isrc>
-              <url>http://www.7digital.com/artist/elvis-presley-(2)/release/elvis-8/?partner=5932&amp;h=20</url>
-            </track>
-            <remainingDownloads>5</remainingDownloads>
-            <purchaseId>814716201</purchaseId>
-            <purchaseDate>2014-10-02T14:57:37Z</purchaseDate>
-            <completeAlbumPurchase>true</completeAlbumPurchase>
-            <downloadUrls>
-              <downloadUrl>
-                <url>http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&amp;oauth_nonce=1utpyv6f9qcv0sk9&amp;oauth_signature=CdxFmW%2F%2FdpTxHFk2pAT5GksMbJY%3D&amp;oauth_signature_method=HMAC-SHA1&amp;oauth_timestamp=1412262342&amp;oauth_version=1.0a&amp;formatid=17&amp;partnerid=712&amp;onbehalfofpartnerid=712&amp;presigned=1&amp;releaseid=1627544&amp;shopid=34&amp;trackid=17832743&amp;userid=26876350</url>
-                <format id="17">
-                  <fileFormat>MP3</fileFormat>
-                  <bitRate>320</bitRate>
-                  <drmFree>true</drmFree>
-                </format>
-              </downloadUrl>
-              <downloadUrl>
-                <url>http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&amp;oauth_nonce=kupf3t8fcql17y9j&amp;oauth_signature=GRUKHgc%2FdBlFGTemiDxsDyXsoTU%3D&amp;oauth_signature_method=HMAC-SHA1&amp;oauth_timestamp=1412262342&amp;oauth_version=1.0a&amp;formatid=33&amp;partnerid=712&amp;onbehalfofpartnerid=712&amp;presigned=1&amp;releaseid=1627544&amp;shopid=34&amp;trackid=17832743&amp;userid=26876350</url>
-                <format id="33">
-                  <fileFormat>M4A</fileFormat>
-                  <bitRate>320</bitRate>
-                  <drmFree>true</drmFree>
-                </format>
-              </downloadUrl>
-            </downloadUrls>
-          </lockerTrack>
-          <lockerTrack>
-            <track id="17832744">
-              <title>Didja' Ever</title>
-              <version />
-              <artist id="2200">
-                <name>Elvis Presley</name>
-                <appearsAs>Elvis Presley</appearsAs>
-                <url>http://www.7digital.com/artist/elvis-presley-(2)/?partner=5932</url>
-              </artist>
-              <trackNumber>21</trackNumber>
-              <duration>156</duration>
-              <isrc>GBURZ1100715</isrc>
-              <url>http://www.7digital.com/artist/elvis-presley-(2)/release/elvis-8/?partner=5932&amp;h=21</url>
-            </track>
-            <remainingDownloads>5</remainingDownloads>
-            <purchaseId>814716201</purchaseId>
-            <purchaseDate>2014-10-02T14:57:37Z</purchaseDate>
-            <completeAlbumPurchase>true</completeAlbumPurchase>
-            <downloadUrls>
-              <downloadUrl>
-                <url>http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&amp;oauth_nonce=as4uru62zz43uj7a&amp;oauth_signature=acOr57lW%2FOvjbm48%2BeZmCN0dU%2BU%3D&amp;oauth_signature_method=HMAC-SHA1&amp;oauth_timestamp=1412262342&amp;oauth_version=1.0a&amp;formatid=17&amp;partnerid=712&amp;onbehalfofpartnerid=712&amp;presigned=1&amp;releaseid=1627544&amp;shopid=34&amp;trackid=17832744&amp;userid=26876350</url>
-                <format id="17">
-                  <fileFormat>MP3</fileFormat>
-                  <bitRate>320</bitRate>
-                  <drmFree>true</drmFree>
-                </format>
-              </downloadUrl>
-              <downloadUrl>
-                <url>http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&amp;oauth_nonce=9iua2rggwonhkeik&amp;oauth_signature=CArFf8mwtOYyv3x4xmBcRFIpBTE%3D&amp;oauth_signature_method=HMAC-SHA1&amp;oauth_timestamp=1412262342&amp;oauth_version=1.0a&amp;formatid=33&amp;partnerid=712&amp;onbehalfofpartnerid=712&amp;presigned=1&amp;releaseid=1627544&amp;shopid=34&amp;trackid=17832744&amp;userid=26876350</url>
-                <format id="33">
-                  <fileFormat>M4A</fileFormat>
-                  <bitRate>320</bitRate>
-                  <drmFree>true</drmFree>
-                </format>
-              </downloadUrl>
-            </downloadUrls>
-          </lockerTrack>
-          <lockerTrack>
-            <track id="17832745">
-              <title>Blue Suede Shoes</title>
-              <version />
-              <artist id="2200">
-                <name>Elvis Presley</name>
-                <appearsAs>Elvis Presley</appearsAs>
-                <url>http://www.7digital.com/artist/elvis-presley-(2)/?partner=5932</url>
-              </artist>
-              <trackNumber>22</trackNumber>
-              <duration>127</duration>
-              <isrc>GBURZ1100716</isrc>
-              <url>http://www.7digital.com/artist/elvis-presley-(2)/release/elvis-8/?partner=5932&amp;h=22</url>
-            </track>
-            <remainingDownloads>5</remainingDownloads>
-            <purchaseId>814716201</purchaseId>
-            <purchaseDate>2014-10-02T14:57:37Z</purchaseDate>
-            <completeAlbumPurchase>true</completeAlbumPurchase>
-            <downloadUrls>
-              <downloadUrl>
-                <url>http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&amp;oauth_nonce=s3vrz1r1zxpd1fu3&amp;oauth_signature=m5qACfVELrtaukhhRo60gnBkuhI%3D&amp;oauth_signature_method=HMAC-SHA1&amp;oauth_timestamp=1412262342&amp;oauth_version=1.0a&amp;formatid=17&amp;partnerid=712&amp;onbehalfofpartnerid=712&amp;presigned=1&amp;releaseid=1627544&amp;shopid=34&amp;trackid=17832745&amp;userid=26876350</url>
-                <format id="17">
-                  <fileFormat>MP3</fileFormat>
-                  <bitRate>320</bitRate>
-                  <drmFree>true</drmFree>
-                </format>
-              </downloadUrl>
-              <downloadUrl>
-                <url>http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&amp;oauth_nonce=uk3ye8sslw8chxqv&amp;oauth_signature=xqZw6dcqQ7NiJjMeXIBlih%2Bfc%2Bc%3D&amp;oauth_signature_method=HMAC-SHA1&amp;oauth_timestamp=1412262342&amp;oauth_version=1.0a&amp;formatid=33&amp;partnerid=712&amp;onbehalfofpartnerid=712&amp;presigned=1&amp;releaseid=1627544&amp;shopid=34&amp;trackid=17832745&amp;userid=26876350</url>
-                <format id="33">
-                  <fileFormat>M4A</fileFormat>
-                  <bitRate>320</bitRate>
-                  <drmFree>true</drmFree>
-                </format>
-              </downloadUrl>
-            </downloadUrls>
-          </lockerTrack>
-          <lockerTrack>
-            <track id="17832746">
-              <title>Doin' the Best I Can</title>
-              <version />
-              <artist id="2200">
-                <name>Elvis Presley</name>
-                <appearsAs>Elvis Presley</appearsAs>
-                <url>http://www.7digital.com/artist/elvis-presley-(2)/?partner=5932</url>
-              </artist>
-              <trackNumber>23</trackNumber>
-              <duration>191</duration>
-              <isrc>GBURZ1100717</isrc>
-              <url>http://www.7digital.com/artist/elvis-presley-(2)/release/elvis-8/?partner=5932&amp;h=23</url>
-            </track>
-            <remainingDownloads>5</remainingDownloads>
-            <purchaseId>814716201</purchaseId>
-            <purchaseDate>2014-10-02T14:57:37Z</purchaseDate>
-            <completeAlbumPurchase>true</completeAlbumPurchase>
-            <downloadUrls>
-              <downloadUrl>
-                <url>http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&amp;oauth_nonce=rsj3xpli14ldbcpr&amp;oauth_signature=oBF8QaJNlnKy9OS%2FrWfkfDNESaE%3D&amp;oauth_signature_method=HMAC-SHA1&amp;oauth_timestamp=1412262342&amp;oauth_version=1.0a&amp;formatid=17&amp;partnerid=712&amp;onbehalfofpartnerid=712&amp;presigned=1&amp;releaseid=1627544&amp;shopid=34&amp;trackid=17832746&amp;userid=26876350</url>
-                <format id="17">
-                  <fileFormat>MP3</fileFormat>
-                  <bitRate>320</bitRate>
-                  <drmFree>true</drmFree>
-                </format>
-              </downloadUrl>
-              <downloadUrl>
-                <url>http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&amp;oauth_nonce=4uxalufvkcfc3ptb&amp;oauth_signature=Yrjba8Z2098GssahlmeEZyF4nrI%3D&amp;oauth_signature_method=HMAC-SHA1&amp;oauth_timestamp=1412262342&amp;oauth_version=1.0a&amp;formatid=33&amp;partnerid=712&amp;onbehalfofpartnerid=712&amp;presigned=1&amp;releaseid=1627544&amp;shopid=34&amp;trackid=17832746&amp;userid=26876350</url>
-                <format id="33">
-                  <fileFormat>M4A</fileFormat>
-                  <bitRate>320</bitRate>
-                  <drmFree>true</drmFree>
-                </format>
-              </downloadUrl>
-            </downloadUrls>
-          </lockerTrack>
-          <lockerTrack>
-            <track id="17832747">
-              <title>Tonight's All Right for Love</title>
-              <version />
-              <artist id="2200">
-                <name>Elvis Presley</name>
-                <appearsAs>Elvis Presley</appearsAs>
-                <url>http://www.7digital.com/artist/elvis-presley-(2)/?partner=5932</url>
-              </artist>
-              <trackNumber>24</trackNumber>
-              <duration>81</duration>
-              <isrc>GBURZ1100718</isrc>
-              <url>http://www.7digital.com/artist/elvis-presley-(2)/release/elvis-8/?partner=5932&amp;h=24</url>
-            </track>
-            <remainingDownloads>5</remainingDownloads>
-            <purchaseId>814716201</purchaseId>
-            <purchaseDate>2014-10-02T14:57:37Z</purchaseDate>
-            <completeAlbumPurchase>true</completeAlbumPurchase>
-            <downloadUrls>
-              <downloadUrl>
-                <url>http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&amp;oauth_nonce=h5wh63ff9u8kvori&amp;oauth_signature=ryymORjGLk%2FJpPrxZH9ZqwS8b0c%3D&amp;oauth_signature_method=HMAC-SHA1&amp;oauth_timestamp=1412262342&amp;oauth_version=1.0a&amp;formatid=17&amp;partnerid=712&amp;onbehalfofpartnerid=712&amp;presigned=1&amp;releaseid=1627544&amp;shopid=34&amp;trackid=17832747&amp;userid=26876350</url>
-                <format id="17">
-                  <fileFormat>MP3</fileFormat>
-                  <bitRate>320</bitRate>
-                  <drmFree>true</drmFree>
-                </format>
-              </downloadUrl>
-              <downloadUrl>
-                <url>http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&amp;oauth_nonce=gqiwaqj7nysvjjpl&amp;oauth_signature=Q0PhXXMFpPBNnzDnX%2B7QK8%2Bod7k%3D&amp;oauth_signature_method=HMAC-SHA1&amp;oauth_timestamp=1412262342&amp;oauth_version=1.0a&amp;formatid=33&amp;partnerid=712&amp;onbehalfofpartnerid=712&amp;presigned=1&amp;releaseid=1627544&amp;shopid=34&amp;trackid=17832747&amp;userid=26876350</url>
-                <format id="33">
-                  <fileFormat>M4A</fileFormat>
-                  <bitRate>320</bitRate>
-                  <drmFree>true</drmFree>
-                </format>
-              </downloadUrl>
-            </downloadUrls>
-          </lockerTrack>
-          <lockerTrack>
-            <track id="17832748">
-              <title>There's Always Me</title>
-              <version />
-              <artist id="2200">
-                <name>Elvis Presley</name>
-                <appearsAs>Elvis Presley</appearsAs>
-                <url>http://www.7digital.com/artist/elvis-presley-(2)/?partner=5932</url>
-              </artist>
-              <trackNumber>25</trackNumber>
-              <duration>139</duration>
-              <isrc>GBURZ1104795</isrc>
-              <url>http://www.7digital.com/artist/elvis-presley-(2)/release/elvis-8/?partner=5932&amp;h=25</url>
-            </track>
-            <remainingDownloads>5</remainingDownloads>
-            <purchaseId>814716201</purchaseId>
-            <purchaseDate>2014-10-02T14:57:37Z</purchaseDate>
-            <completeAlbumPurchase>true</completeAlbumPurchase>
-            <downloadUrls>
-              <downloadUrl>
-                <url>http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&amp;oauth_nonce=jk7gqhvbpsb1w6a6&amp;oauth_signature=PzjtOHptzGjJHkYpYoQWwRt9SIY%3D&amp;oauth_signature_method=HMAC-SHA1&amp;oauth_timestamp=1412262342&amp;oauth_version=1.0a&amp;formatid=17&amp;partnerid=712&amp;onbehalfofpartnerid=712&amp;presigned=1&amp;releaseid=1627544&amp;shopid=34&amp;trackid=17832748&amp;userid=26876350</url>
-                <format id="17">
-                  <fileFormat>MP3</fileFormat>
-                  <bitRate>320</bitRate>
-                  <drmFree>true</drmFree>
-                </format>
-              </downloadUrl>
-              <downloadUrl>
-                <url>http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&amp;oauth_nonce=u86lg7b1uz5hkt7z&amp;oauth_signature=ICm46npYiH5yBSBltMHTUCTSU9g%3D&amp;oauth_signature_method=HMAC-SHA1&amp;oauth_timestamp=1412262342&amp;oauth_version=1.0a&amp;formatid=33&amp;partnerid=712&amp;onbehalfofpartnerid=712&amp;presigned=1&amp;releaseid=1627544&amp;shopid=34&amp;trackid=17832748&amp;userid=26876350</url>
-                <format id="33">
-                  <fileFormat>M4A</fileFormat>
-                  <bitRate>320</bitRate>
-                  <drmFree>true</drmFree>
-                </format>
-              </downloadUrl>
-            </downloadUrls>
-          </lockerTrack>
-          <lockerTrack>
-            <track id="17832749">
-              <title>Give Me the Right</title>
-              <version />
-              <artist id="2200">
-                <name>Elvis Presley</name>
-                <appearsAs>Elvis Presley</appearsAs>
-                <url>http://www.7digital.com/artist/elvis-presley-(2)/?partner=5932</url>
-              </artist>
-              <trackNumber>26</trackNumber>
-              <duration>156</duration>
-              <isrc>GBURZ1104796</isrc>
-              <url>http://www.7digital.com/artist/elvis-presley-(2)/release/elvis-8/?partner=5932&amp;h=26</url>
-            </track>
-            <remainingDownloads>5</remainingDownloads>
-            <purchaseId>814716201</purchaseId>
-            <purchaseDate>2014-10-02T14:57:37Z</purchaseDate>
-            <completeAlbumPurchase>true</completeAlbumPurchase>
-            <downloadUrls>
-              <downloadUrl>
-                <url>http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&amp;oauth_nonce=evalsk396hhrpskr&amp;oauth_signature=E%2FMQrpoAaNJKLxp34TiK10sJhIo%3D&amp;oauth_signature_method=HMAC-SHA1&amp;oauth_timestamp=1412262342&amp;oauth_version=1.0a&amp;formatid=17&amp;partnerid=712&amp;onbehalfofpartnerid=712&amp;presigned=1&amp;releaseid=1627544&amp;shopid=34&amp;trackid=17832749&amp;userid=26876350</url>
-                <format id="17">
-                  <fileFormat>MP3</fileFormat>
-                  <bitRate>320</bitRate>
-                  <drmFree>true</drmFree>
-                </format>
-              </downloadUrl>
-              <downloadUrl>
-                <url>http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&amp;oauth_nonce=xwamnefnifv2nn26&amp;oauth_signature=oTb6c0ZCZmxEg%2FpApt%2F1oBxVEbU%3D&amp;oauth_signature_method=HMAC-SHA1&amp;oauth_timestamp=1412262342&amp;oauth_version=1.0a&amp;formatid=33&amp;partnerid=712&amp;onbehalfofpartnerid=712&amp;presigned=1&amp;releaseid=1627544&amp;shopid=34&amp;trackid=17832749&amp;userid=26876350</url>
-                <format id="33">
-                  <fileFormat>M4A</fileFormat>
-                  <bitRate>320</bitRate>
-                  <drmFree>true</drmFree>
-                </format>
-              </downloadUrl>
-            </downloadUrls>
-          </lockerTrack>
-          <lockerTrack>
-            <track id="17832750">
-              <title>It's a Sin</title>
-              <version />
-              <artist id="2200">
-                <name>Elvis Presley</name>
-                <appearsAs>Elvis Presley</appearsAs>
-                <url>http://www.7digital.com/artist/elvis-presley-(2)/?partner=5932</url>
-              </artist>
-              <trackNumber>27</trackNumber>
-              <duration>163</duration>
-              <isrc>GBURZ1104797</isrc>
-              <url>http://www.7digital.com/artist/elvis-presley-(2)/release/elvis-8/?partner=5932&amp;h=27</url>
-            </track>
-            <remainingDownloads>5</remainingDownloads>
-            <purchaseId>814716201</purchaseId>
-            <purchaseDate>2014-10-02T14:57:37Z</purchaseDate>
-            <completeAlbumPurchase>true</completeAlbumPurchase>
-            <downloadUrls>
-              <downloadUrl>
-                <url>http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&amp;oauth_nonce=wlwa5ymke7p9ytkc&amp;oauth_signature=8t2rkBgEEFsJ6sOnPEHRv6e%2B4AE%3D&amp;oauth_signature_method=HMAC-SHA1&amp;oauth_timestamp=1412262342&amp;oauth_version=1.0a&amp;formatid=17&amp;partnerid=712&amp;onbehalfofpartnerid=712&amp;presigned=1&amp;releaseid=1627544&amp;shopid=34&amp;trackid=17832750&amp;userid=26876350</url>
-                <format id="17">
-                  <fileFormat>MP3</fileFormat>
-                  <bitRate>320</bitRate>
-                  <drmFree>true</drmFree>
-                </format>
-              </downloadUrl>
-              <downloadUrl>
-                <url>http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&amp;oauth_nonce=pmtxstmaqxcmyavr&amp;oauth_signature=7c3TRQyZ2xlr1h2jbt5HCZPXHvU%3D&amp;oauth_signature_method=HMAC-SHA1&amp;oauth_timestamp=1412262342&amp;oauth_version=1.0a&amp;formatid=33&amp;partnerid=712&amp;onbehalfofpartnerid=712&amp;presigned=1&amp;releaseid=1627544&amp;shopid=34&amp;trackid=17832750&amp;userid=26876350</url>
-                <format id="33">
-                  <fileFormat>M4A</fileFormat>
-                  <bitRate>320</bitRate>
-                  <drmFree>true</drmFree>
-                </format>
-              </downloadUrl>
-            </downloadUrls>
-          </lockerTrack>
-          <lockerTrack>
-            <track id="17832751">
-              <title>Sentimental Me</title>
-              <version />
-              <artist id="2200">
-                <name>Elvis Presley</name>
-                <appearsAs>Elvis Presley</appearsAs>
-                <url>http://www.7digital.com/artist/elvis-presley-(2)/?partner=5932</url>
-              </artist>
-              <trackNumber>28</trackNumber>
-              <duration>154</duration>
-              <isrc>GBURZ1104798</isrc>
-              <url>http://www.7digital.com/artist/elvis-presley-(2)/release/elvis-8/?partner=5932&amp;h=28</url>
-            </track>
-            <remainingDownloads>5</remainingDownloads>
-            <purchaseId>814716201</purchaseId>
-            <purchaseDate>2014-10-02T14:57:37Z</purchaseDate>
-            <completeAlbumPurchase>true</completeAlbumPurchase>
-            <downloadUrls>
-              <downloadUrl>
-                <url>http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&amp;oauth_nonce=qm6e7jx0k1hrygyz&amp;oauth_signature=7viKnfRtjOQaX6k1BsVbdshy2AA%3D&amp;oauth_signature_method=HMAC-SHA1&amp;oauth_timestamp=1412262342&amp;oauth_version=1.0a&amp;formatid=17&amp;partnerid=712&amp;onbehalfofpartnerid=712&amp;presigned=1&amp;releaseid=1627544&amp;shopid=34&amp;trackid=17832751&amp;userid=26876350</url>
-                <format id="17">
-                  <fileFormat>MP3</fileFormat>
-                  <bitRate>320</bitRate>
-                  <drmFree>true</drmFree>
-                </format>
-              </downloadUrl>
-              <downloadUrl>
-                <url>http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&amp;oauth_nonce=6tma5dnc0vugw0ve&amp;oauth_signature=qyU82HpVISE1CuDkYsH42uGBQew%3D&amp;oauth_signature_method=HMAC-SHA1&amp;oauth_timestamp=1412262342&amp;oauth_version=1.0a&amp;formatid=33&amp;partnerid=712&amp;onbehalfofpartnerid=712&amp;presigned=1&amp;releaseid=1627544&amp;shopid=34&amp;trackid=17832751&amp;userid=26876350</url>
-                <format id="33">
-                  <fileFormat>M4A</fileFormat>
-                  <bitRate>320</bitRate>
-                  <drmFree>true</drmFree>
-                </format>
-              </downloadUrl>
-            </downloadUrls>
-          </lockerTrack>
-          <lockerTrack>
-            <track id="17832752">
-              <title>Starting Today</title>
-              <version />
-              <artist id="2200">
-                <name>Elvis Presley</name>
-                <appearsAs>Elvis Presley</appearsAs>
-                <url>http://www.7digital.com/artist/elvis-presley-(2)/?partner=5932</url>
-              </artist>
-              <trackNumber>29</trackNumber>
-              <duration>126</duration>
-              <isrc>GBURZ1104799</isrc>
-              <url>http://www.7digital.com/artist/elvis-presley-(2)/release/elvis-8/?partner=5932&amp;h=29</url>
-            </track>
-            <remainingDownloads>5</remainingDownloads>
-            <purchaseId>814716201</purchaseId>
-            <purchaseDate>2014-10-02T14:57:37Z</purchaseDate>
-            <completeAlbumPurchase>true</completeAlbumPurchase>
-            <downloadUrls>
-              <downloadUrl>
-                <url>http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&amp;oauth_nonce=k8smxgffzum3m6lj&amp;oauth_signature=HyeOqyX6nkVtE%2FwmSAlnr13bpTE%3D&amp;oauth_signature_method=HMAC-SHA1&amp;oauth_timestamp=1412262342&amp;oauth_version=1.0a&amp;formatid=17&amp;partnerid=712&amp;onbehalfofpartnerid=712&amp;presigned=1&amp;releaseid=1627544&amp;shopid=34&amp;trackid=17832752&amp;userid=26876350</url>
-                <format id="17">
-                  <fileFormat>MP3</fileFormat>
-                  <bitRate>320</bitRate>
-                  <drmFree>true</drmFree>
-                </format>
-              </downloadUrl>
-              <downloadUrl>
-                <url>http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&amp;oauth_nonce=0mreyvxm04flzqmk&amp;oauth_signature=0dxBCQMI53QtVaJM1agdxmDQZeY%3D&amp;oauth_signature_method=HMAC-SHA1&amp;oauth_timestamp=1412262342&amp;oauth_version=1.0a&amp;formatid=33&amp;partnerid=712&amp;onbehalfofpartnerid=712&amp;presigned=1&amp;releaseid=1627544&amp;shopid=34&amp;trackid=17832752&amp;userid=26876350</url>
-                <format id="33">
-                  <fileFormat>M4A</fileFormat>
-                  <bitRate>320</bitRate>
-                  <drmFree>true</drmFree>
-                </format>
-              </downloadUrl>
-            </downloadUrls>
-          </lockerTrack>
-          <lockerTrack>
-            <track id="17832753">
-              <title>Gently</title>
-              <version />
-              <artist id="2200">
-                <name>Elvis Presley</name>
-                <appearsAs>Elvis Presley</appearsAs>
-                <url>http://www.7digital.com/artist/elvis-presley-(2)/?partner=5932</url>
-              </artist>
-              <trackNumber>30</trackNumber>
-              <duration>138</duration>
-              <isrc>GBURZ1104800</isrc>
-              <url>http://www.7digital.com/artist/elvis-presley-(2)/release/elvis-8/?partner=5932&amp;h=30</url>
-            </track>
-            <remainingDownloads>5</remainingDownloads>
-            <purchaseId>814716201</purchaseId>
-            <purchaseDate>2014-10-02T14:57:37Z</purchaseDate>
-            <completeAlbumPurchase>true</completeAlbumPurchase>
-            <downloadUrls>
-              <downloadUrl>
-                <url>http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&amp;oauth_nonce=ecg1ylbyogkj2uze&amp;oauth_signature=YicR%2F8Ulq0h9%2FS%2BSvk40WqwK4Us%3D&amp;oauth_signature_method=HMAC-SHA1&amp;oauth_timestamp=1412262342&amp;oauth_version=1.0a&amp;formatid=17&amp;partnerid=712&amp;onbehalfofpartnerid=712&amp;presigned=1&amp;releaseid=1627544&amp;shopid=34&amp;trackid=17832753&amp;userid=26876350</url>
-                <format id="17">
-                  <fileFormat>MP3</fileFormat>
-                  <bitRate>320</bitRate>
-                  <drmFree>true</drmFree>
-                </format>
-              </downloadUrl>
-              <downloadUrl>
-                <url>http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&amp;oauth_nonce=jkhjsrqykfn5b5qi&amp;oauth_signature=fH1%2BOiaqJ12cw%2B%2B7ShVMEtsugCE%3D&amp;oauth_signature_method=HMAC-SHA1&amp;oauth_timestamp=1412262342&amp;oauth_version=1.0a&amp;formatid=33&amp;partnerid=712&amp;onbehalfofpartnerid=712&amp;presigned=1&amp;releaseid=1627544&amp;shopid=34&amp;trackid=17832753&amp;userid=26876350</url>
-                <format id="33">
-                  <fileFormat>M4A</fileFormat>
-                  <bitRate>320</bitRate>
-                  <drmFree>true</drmFree>
-                </format>
-              </downloadUrl>
-            </downloadUrls>
-          </lockerTrack>
-          <lockerTrack>
-            <track id="17832754">
-              <title>I'm Coming Home</title>
-              <version />
-              <artist id="2200">
-                <name>Elvis Presley</name>
-                <appearsAs>Elvis Presley</appearsAs>
-                <url>http://www.7digital.com/artist/elvis-presley-(2)/?partner=5932</url>
-              </artist>
-              <trackNumber>31</trackNumber>
-              <duration>144</duration>
-              <isrc>GBURZ1104801</isrc>
-              <url>http://www.7digital.com/artist/elvis-presley-(2)/release/elvis-8/?partner=5932&amp;h=31</url>
-            </track>
-            <remainingDownloads>5</remainingDownloads>
-            <purchaseId>814716201</purchaseId>
-            <purchaseDate>2014-10-02T14:57:37Z</purchaseDate>
-            <completeAlbumPurchase>true</completeAlbumPurchase>
-            <downloadUrls>
-              <downloadUrl>
-                <url>http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&amp;oauth_nonce=hbykyvuxl41rlovo&amp;oauth_signature=P2n1bFfAuFCljRi7dkLlX%2BtLvvQ%3D&amp;oauth_signature_method=HMAC-SHA1&amp;oauth_timestamp=1412262342&amp;oauth_version=1.0a&amp;formatid=17&amp;partnerid=712&amp;onbehalfofpartnerid=712&amp;presigned=1&amp;releaseid=1627544&amp;shopid=34&amp;trackid=17832754&amp;userid=26876350</url>
-                <format id="17">
-                  <fileFormat>MP3</fileFormat>
-                  <bitRate>320</bitRate>
-                  <drmFree>true</drmFree>
-                </format>
-              </downloadUrl>
-              <downloadUrl>
-                <url>http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&amp;oauth_nonce=dbbojd3xwrqs9gxu&amp;oauth_signature=SVqbNmr3VwvAC%2F5lP4%2FuRLr2cwo%3D&amp;oauth_signature_method=HMAC-SHA1&amp;oauth_timestamp=1412262342&amp;oauth_version=1.0a&amp;formatid=33&amp;partnerid=712&amp;onbehalfofpartnerid=712&amp;presigned=1&amp;releaseid=1627544&amp;shopid=34&amp;trackid=17832754&amp;userid=26876350</url>
-                <format id="33">
-                  <fileFormat>M4A</fileFormat>
-                  <bitRate>320</bitRate>
-                  <drmFree>true</drmFree>
-                </format>
-              </downloadUrl>
-            </downloadUrls>
-          </lockerTrack>
-          <lockerTrack>
-            <track id="17832755">
-              <title>In Your Arms</title>
-              <version />
-              <artist id="2200">
-                <name>Elvis Presley</name>
-                <appearsAs>Elvis Presley</appearsAs>
-                <url>http://www.7digital.com/artist/elvis-presley-(2)/?partner=5932</url>
-              </artist>
-              <trackNumber>32</trackNumber>
-              <duration>111</duration>
-              <isrc>GBURZ1104802</isrc>
-              <url>http://www.7digital.com/artist/elvis-presley-(2)/release/elvis-8/?partner=5932&amp;h=32</url>
-            </track>
-            <remainingDownloads>5</remainingDownloads>
-            <purchaseId>814716201</purchaseId>
-            <purchaseDate>2014-10-02T14:57:37Z</purchaseDate>
-            <completeAlbumPurchase>true</completeAlbumPurchase>
-            <downloadUrls>
-              <downloadUrl>
-                <url>http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&amp;oauth_nonce=1cbz7ppy1u8y19n6&amp;oauth_signature=VbfMOKZQ5GvZiMMkmrNWrvzg4KU%3D&amp;oauth_signature_method=HMAC-SHA1&amp;oauth_timestamp=1412262342&amp;oauth_version=1.0a&amp;formatid=17&amp;partnerid=712&amp;onbehalfofpartnerid=712&amp;presigned=1&amp;releaseid=1627544&amp;shopid=34&amp;trackid=17832755&amp;userid=26876350</url>
-                <format id="17">
-                  <fileFormat>MP3</fileFormat>
-                  <bitRate>320</bitRate>
-                  <drmFree>true</drmFree>
-                </format>
-              </downloadUrl>
-              <downloadUrl>
-                <url>http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&amp;oauth_nonce=u02a3c0ejaxgebye&amp;oauth_signature=9tknb%2FfcCH8c1MUuq5h4YEJMX6k%3D&amp;oauth_signature_method=HMAC-SHA1&amp;oauth_timestamp=1412262342&amp;oauth_version=1.0a&amp;formatid=33&amp;partnerid=712&amp;onbehalfofpartnerid=712&amp;presigned=1&amp;releaseid=1627544&amp;shopid=34&amp;trackid=17832755&amp;userid=26876350</url>
-                <format id="33">
-                  <fileFormat>M4A</fileFormat>
-                  <bitRate>320</bitRate>
-                  <drmFree>true</drmFree>
-                </format>
-              </downloadUrl>
-            </downloadUrls>
-          </lockerTrack>
-          <lockerTrack>
-            <track id="17832756">
-              <title>Put the Blame On Me</title>
-              <version />
-              <artist id="2200">
-                <name>Elvis Presley</name>
-                <appearsAs>Elvis Presley</appearsAs>
-                <url>http://www.7digital.com/artist/elvis-presley-(2)/?partner=5932</url>
-              </artist>
-              <trackNumber>33</trackNumber>
-              <duration>118</duration>
-              <isrc>GBURZ1104803</isrc>
-              <url>http://www.7digital.com/artist/elvis-presley-(2)/release/elvis-8/?partner=5932&amp;h=33</url>
-            </track>
-            <remainingDownloads>5</remainingDownloads>
-            <purchaseId>814716201</purchaseId>
-            <purchaseDate>2014-10-02T14:57:37Z</purchaseDate>
-            <completeAlbumPurchase>true</completeAlbumPurchase>
-            <downloadUrls>
-              <downloadUrl>
-                <url>http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&amp;oauth_nonce=fg2jm6rxvmyyfd7x&amp;oauth_signature=2At%2FcNR0FeGVkEJoYdchg4fEElo%3D&amp;oauth_signature_method=HMAC-SHA1&amp;oauth_timestamp=1412262342&amp;oauth_version=1.0a&amp;formatid=17&amp;partnerid=712&amp;onbehalfofpartnerid=712&amp;presigned=1&amp;releaseid=1627544&amp;shopid=34&amp;trackid=17832756&amp;userid=26876350</url>
-                <format id="17">
-                  <fileFormat>MP3</fileFormat>
-                  <bitRate>320</bitRate>
-                  <drmFree>true</drmFree>
-                </format>
-              </downloadUrl>
-              <downloadUrl>
-                <url>http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&amp;oauth_nonce=eu90pw2yc7q63iuy&amp;oauth_signature=cDsecXHEdq5bl0JRZbeemgyFglY%3D&amp;oauth_signature_method=HMAC-SHA1&amp;oauth_timestamp=1412262342&amp;oauth_version=1.0a&amp;formatid=33&amp;partnerid=712&amp;onbehalfofpartnerid=712&amp;presigned=1&amp;releaseid=1627544&amp;shopid=34&amp;trackid=17832756&amp;userid=26876350</url>
-                <format id="33">
-                  <fileFormat>M4A</fileFormat>
-                  <bitRate>320</bitRate>
-                  <drmFree>true</drmFree>
-                </format>
-              </downloadUrl>
-            </downloadUrls>
-          </lockerTrack>
-          <lockerTrack>
-            <track id="17832757">
-              <title>Judy</title>
-              <version />
-              <artist id="2200">
-                <name>Elvis Presley</name>
-                <appearsAs>Elvis Presley</appearsAs>
-                <url>http://www.7digital.com/artist/elvis-presley-(2)/?partner=5932</url>
-              </artist>
-              <trackNumber>34</trackNumber>
-              <duration>130</duration>
-              <isrc>GBURZ1104804</isrc>
-              <url>http://www.7digital.com/artist/elvis-presley-(2)/release/elvis-8/?partner=5932&amp;h=34</url>
-            </track>
-            <remainingDownloads>5</remainingDownloads>
-            <purchaseId>814716201</purchaseId>
-            <purchaseDate>2014-10-02T14:57:37Z</purchaseDate>
-            <completeAlbumPurchase>true</completeAlbumPurchase>
-            <downloadUrls>
-              <downloadUrl>
-                <url>http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&amp;oauth_nonce=64suhetzrdopnk0f&amp;oauth_signature=xskAJS71vGFwhmeKe5258qEYLlc%3D&amp;oauth_signature_method=HMAC-SHA1&amp;oauth_timestamp=1412262342&amp;oauth_version=1.0a&amp;formatid=17&amp;partnerid=712&amp;onbehalfofpartnerid=712&amp;presigned=1&amp;releaseid=1627544&amp;shopid=34&amp;trackid=17832757&amp;userid=26876350</url>
-                <format id="17">
-                  <fileFormat>MP3</fileFormat>
-                  <bitRate>320</bitRate>
-                  <drmFree>true</drmFree>
-                </format>
-              </downloadUrl>
-              <downloadUrl>
-                <url>http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&amp;oauth_nonce=e0cudzztodgppw6m&amp;oauth_signature=xm9agvGPjWdf71aQW42YyStGpJQ%3D&amp;oauth_signature_method=HMAC-SHA1&amp;oauth_timestamp=1412262342&amp;oauth_version=1.0a&amp;formatid=33&amp;partnerid=712&amp;onbehalfofpartnerid=712&amp;presigned=1&amp;releaseid=1627544&amp;shopid=34&amp;trackid=17832757&amp;userid=26876350</url>
-                <format id="33">
-                  <fileFormat>M4A</fileFormat>
-                  <bitRate>320</bitRate>
-                  <drmFree>true</drmFree>
-                </format>
-              </downloadUrl>
-            </downloadUrls>
-          </lockerTrack>
-          <lockerTrack>
-            <track id="17832758">
-              <title>I Want You With Me</title>
-              <version />
-              <artist id="2200">
-                <name>Elvis Presley</name>
-                <appearsAs>Elvis Presley</appearsAs>
-                <url>http://www.7digital.com/artist/elvis-presley-(2)/?partner=5932</url>
-              </artist>
-              <trackNumber>35</trackNumber>
-              <duration>136</duration>
-              <isrc>GBURZ1104805</isrc>
-              <url>http://www.7digital.com/artist/elvis-presley-(2)/release/elvis-8/?partner=5932&amp;h=35</url>
-            </track>
-            <remainingDownloads>5</remainingDownloads>
-            <purchaseId>814716201</purchaseId>
-            <purchaseDate>2014-10-02T14:57:37Z</purchaseDate>
-            <completeAlbumPurchase>true</completeAlbumPurchase>
-            <downloadUrls>
-              <downloadUrl>
-                <url>http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&amp;oauth_nonce=3a3lulqabirlilk2&amp;oauth_signature=geifjsjQmAeEA%2FW5aBVNAfx3i%2Fk%3D&amp;oauth_signature_method=HMAC-SHA1&amp;oauth_timestamp=1412262342&amp;oauth_version=1.0a&amp;formatid=17&amp;partnerid=712&amp;onbehalfofpartnerid=712&amp;presigned=1&amp;releaseid=1627544&amp;shopid=34&amp;trackid=17832758&amp;userid=26876350</url>
-                <format id="17">
-                  <fileFormat>MP3</fileFormat>
-                  <bitRate>320</bitRate>
-                  <drmFree>true</drmFree>
-                </format>
-              </downloadUrl>
-              <downloadUrl>
-                <url>http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&amp;oauth_nonce=7l23g0ugd0ge8dj6&amp;oauth_signature=dtu7GadlNYDjWORNHt8pIGtg9og%3D&amp;oauth_signature_method=HMAC-SHA1&amp;oauth_timestamp=1412262342&amp;oauth_version=1.0a&amp;formatid=33&amp;partnerid=712&amp;onbehalfofpartnerid=712&amp;presigned=1&amp;releaseid=1627544&amp;shopid=34&amp;trackid=17832758&amp;userid=26876350</url>
-                <format id="33">
-                  <fileFormat>M4A</fileFormat>
-                  <bitRate>320</bitRate>
-                  <drmFree>true</drmFree>
-                </format>
-              </downloadUrl>
-            </downloadUrls>
-          </lockerTrack>
-          <lockerTrack>
-            <track id="17832759">
-              <title>I Slipped, I Stumbled, I Fell</title>
-              <version />
-              <artist id="2200">
-                <name>Elvis Presley</name>
-                <appearsAs>Elvis Presley</appearsAs>
-                <url>http://www.7digital.com/artist/elvis-presley-(2)/?partner=5932</url>
-              </artist>
-              <trackNumber>36</trackNumber>
-              <duration>96</duration>
-              <isrc>GBURZ1104806</isrc>
-              <url>http://www.7digital.com/artist/elvis-presley-(2)/release/elvis-8/?partner=5932&amp;h=36</url>
-            </track>
-            <remainingDownloads>5</remainingDownloads>
-            <purchaseId>814716201</purchaseId>
-            <purchaseDate>2014-10-02T14:57:37Z</purchaseDate>
-            <completeAlbumPurchase>true</completeAlbumPurchase>
-            <downloadUrls>
-              <downloadUrl>
-                <url>http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&amp;oauth_nonce=hcxnsxu3tcs6holc&amp;oauth_signature=oBGZb26ScWcwSAbdo5WFpMqvmx4%3D&amp;oauth_signature_method=HMAC-SHA1&amp;oauth_timestamp=1412262342&amp;oauth_version=1.0a&amp;formatid=17&amp;partnerid=712&amp;onbehalfofpartnerid=712&amp;presigned=1&amp;releaseid=1627544&amp;shopid=34&amp;trackid=17832759&amp;userid=26876350</url>
-                <format id="17">
-                  <fileFormat>MP3</fileFormat>
-                  <bitRate>320</bitRate>
-                  <drmFree>true</drmFree>
-                </format>
-              </downloadUrl>
-              <downloadUrl>
-                <url>http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&amp;oauth_nonce=3pte5dg3qwivflc8&amp;oauth_signature=iT%2F0TatW9H%2BUgwIoP9ANPRJ4rE8%3D&amp;oauth_signature_method=HMAC-SHA1&amp;oauth_timestamp=1412262342&amp;oauth_version=1.0a&amp;formatid=33&amp;partnerid=712&amp;onbehalfofpartnerid=712&amp;presigned=1&amp;releaseid=1627544&amp;shopid=34&amp;trackid=17832759&amp;userid=26876350</url>
-                <format id="33">
-                  <fileFormat>M4A</fileFormat>
-                  <bitRate>320</bitRate>
-                  <drmFree>true</drmFree>
-                </format>
-              </downloadUrl>
-            </downloadUrls>
-          </lockerTrack>
-          <lockerTrack>
-            <track id="17832760">
-              <title>Pocketful of Rainbows</title>
-              <version />
-              <artist id="2200">
-                <name>Elvis Presley</name>
-                <appearsAs>Elvis Presley</appearsAs>
-                <url>http://www.7digital.com/artist/elvis-presley-(2)/?partner=5932</url>
-              </artist>
-              <trackNumber>37</trackNumber>
-              <duration>155</duration>
-              <isrc>GBURZ1100712</isrc>
-              <url>http://www.7digital.com/artist/elvis-presley-(2)/release/elvis-8/?partner=5932&amp;h=37</url>
-            </track>
-            <remainingDownloads>5</remainingDownloads>
-            <purchaseId>814716201</purchaseId>
-            <purchaseDate>2014-10-02T14:57:37Z</purchaseDate>
-            <completeAlbumPurchase>true</completeAlbumPurchase>
-            <downloadUrls>
-              <downloadUrl>
-                <url>http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&amp;oauth_nonce=0wdfy7ji29ieqz0z&amp;oauth_signature=HoYH%2BMl3FsyCOyCMmJQDfiQQ6Uw%3D&amp;oauth_signature_method=HMAC-SHA1&amp;oauth_timestamp=1412262342&amp;oauth_version=1.0a&amp;formatid=17&amp;partnerid=712&amp;onbehalfofpartnerid=712&amp;presigned=1&amp;releaseid=1627544&amp;shopid=34&amp;trackid=17832760&amp;userid=26876350</url>
-                <format id="17">
-                  <fileFormat>MP3</fileFormat>
-                  <bitRate>320</bitRate>
-                  <drmFree>true</drmFree>
-                </format>
-              </downloadUrl>
-              <downloadUrl>
-                <url>http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&amp;oauth_nonce=ydlsufae6587p0xi&amp;oauth_signature=lwW9gKmzmGybWey1Zg1SfjhuT1g%3D&amp;oauth_signature_method=HMAC-SHA1&amp;oauth_timestamp=1412262342&amp;oauth_version=1.0a&amp;formatid=33&amp;partnerid=712&amp;onbehalfofpartnerid=712&amp;presigned=1&amp;releaseid=1627544&amp;shopid=34&amp;trackid=17832760&amp;userid=26876350</url>
-                <format id="33">
-                  <fileFormat>M4A</fileFormat>
-                  <bitRate>320</bitRate>
-                  <drmFree>true</drmFree>
-                </format>
-              </downloadUrl>
-            </downloadUrls>
-          </lockerTrack>
-          <lockerTrack>
-            <track id="17832761">
-              <title>Frankfort Special</title>
-              <version />
-              <artist id="2200">
-                <name>Elvis Presley</name>
-                <appearsAs>Elvis Presley</appearsAs>
-                <url>http://www.7digital.com/artist/elvis-presley-(2)/?partner=5932</url>
-              </artist>
-              <trackNumber>38</trackNumber>
-              <duration>178</duration>
-              <isrc>GBURZ1100709</isrc>
-              <url>http://www.7digital.com/artist/elvis-presley-(2)/release/elvis-8/?partner=5932&amp;h=38</url>
-            </track>
-            <remainingDownloads>5</remainingDownloads>
-            <purchaseId>814716201</purchaseId>
-            <purchaseDate>2014-10-02T14:57:37Z</purchaseDate>
-            <completeAlbumPurchase>true</completeAlbumPurchase>
-            <downloadUrls>
-              <downloadUrl>
-                <url>http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&amp;oauth_nonce=0v6ukfn6fkm76cm2&amp;oauth_signature=0kLP8HW3hmLbPwlrdTyO%2Fkp6ZyA%3D&amp;oauth_signature_method=HMAC-SHA1&amp;oauth_timestamp=1412262342&amp;oauth_version=1.0a&amp;formatid=17&amp;partnerid=712&amp;onbehalfofpartnerid=712&amp;presigned=1&amp;releaseid=1627544&amp;shopid=34&amp;trackid=17832761&amp;userid=26876350</url>
-                <format id="17">
-                  <fileFormat>MP3</fileFormat>
-                  <bitRate>320</bitRate>
-                  <drmFree>true</drmFree>
-                </format>
-              </downloadUrl>
-              <downloadUrl>
-                <url>http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&amp;oauth_nonce=wt7c0tn4w0k50m43&amp;oauth_signature=rpjBnvWmzTHVaZW%2FzIlZp4ogsFI%3D&amp;oauth_signature_method=HMAC-SHA1&amp;oauth_timestamp=1412262342&amp;oauth_version=1.0a&amp;formatid=33&amp;partnerid=712&amp;onbehalfofpartnerid=712&amp;presigned=1&amp;releaseid=1627544&amp;shopid=34&amp;trackid=17832761&amp;userid=26876350</url>
-                <format id="33">
-                  <fileFormat>M4A</fileFormat>
-                  <bitRate>320</bitRate>
-                  <drmFree>true</drmFree>
-                </format>
-              </downloadUrl>
-            </downloadUrls>
-          </lockerTrack>
-          <lockerTrack>
-            <track id="17832762">
-              <title>If We Never Meet Again</title>
-              <version>Remastered</version>
-              <artist id="2200">
-                <name>Elvis Presley</name>
-                <appearsAs>Elvis Presley</appearsAs>
-                <url>http://www.7digital.com/artist/elvis-presley-(2)/?partner=5932</url>
-              </artist>
-              <trackNumber>39</trackNumber>
-              <duration>121</duration>
-              <isrc>GBURZ1100868</isrc>
-              <url>http://www.7digital.com/artist/elvis-presley-(2)/release/elvis-8/?partner=5932&amp;h=39</url>
-            </track>
-            <remainingDownloads>5</remainingDownloads>
-            <purchaseId>814716201</purchaseId>
-            <purchaseDate>2014-10-02T14:57:37Z</purchaseDate>
-            <completeAlbumPurchase>true</completeAlbumPurchase>
-            <downloadUrls>
-              <downloadUrl>
-                <url>http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&amp;oauth_nonce=l0e64optzqmj3di4&amp;oauth_signature=1M2MO98dO4pqLJyFYbHwT%2FRfHcE%3D&amp;oauth_signature_method=HMAC-SHA1&amp;oauth_timestamp=1412262342&amp;oauth_version=1.0a&amp;formatid=17&amp;partnerid=712&amp;onbehalfofpartnerid=712&amp;presigned=1&amp;releaseid=1627544&amp;shopid=34&amp;trackid=17832762&amp;userid=26876350</url>
-                <format id="17">
-                  <fileFormat>MP3</fileFormat>
-                  <bitRate>320</bitRate>
-                  <drmFree>true</drmFree>
-                </format>
-              </downloadUrl>
-              <downloadUrl>
-                <url>http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&amp;oauth_nonce=sfj7cviphc9k5t63&amp;oauth_signature=LMiozjA6TmuFxwaaxkh2Az%2Buqk0%3D&amp;oauth_signature_method=HMAC-SHA1&amp;oauth_timestamp=1412262342&amp;oauth_version=1.0a&amp;formatid=33&amp;partnerid=712&amp;onbehalfofpartnerid=712&amp;presigned=1&amp;releaseid=1627544&amp;shopid=34&amp;trackid=17832762&amp;userid=26876350</url>
-                <format id="33">
-                  <fileFormat>M4A</fileFormat>
-                  <bitRate>320</bitRate>
-                  <drmFree>true</drmFree>
-                </format>
-              </downloadUrl>
-            </downloadUrls>
-          </lockerTrack>
-          <lockerTrack>
-            <track id="17832764">
-              <title>King Creole</title>
-              <version />
-              <artist id="2200">
-                <name>Elvis Presley</name>
-                <appearsAs>Elvis Presley</appearsAs>
-                <url>http://www.7digital.com/artist/elvis-presley-(2)/?partner=5932</url>
-              </artist>
-              <trackNumber>40</trackNumber>
-              <duration>131</duration>
-              <isrc>GBURZ1000969</isrc>
-              <url>http://www.7digital.com/artist/elvis-presley-(2)/release/elvis-8/?partner=5932&amp;h=40</url>
-            </track>
-            <remainingDownloads>5</remainingDownloads>
-            <purchaseId>814716201</purchaseId>
-            <purchaseDate>2014-10-02T14:57:37Z</purchaseDate>
-            <completeAlbumPurchase>true</completeAlbumPurchase>
-            <downloadUrls>
-              <downloadUrl>
-                <url>http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&amp;oauth_nonce=ruv69q8iemmthdas&amp;oauth_signature=fhYkL0QVziyl8NCpSTLKPp74jmU%3D&amp;oauth_signature_method=HMAC-SHA1&amp;oauth_timestamp=1412262342&amp;oauth_version=1.0a&amp;formatid=17&amp;partnerid=712&amp;onbehalfofpartnerid=712&amp;presigned=1&amp;releaseid=1627544&amp;shopid=34&amp;trackid=17832764&amp;userid=26876350</url>
-                <format id="17">
-                  <fileFormat>MP3</fileFormat>
-                  <bitRate>320</bitRate>
-                  <drmFree>true</drmFree>
-                </format>
-              </downloadUrl>
-              <downloadUrl>
-                <url>http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&amp;oauth_nonce=2rm5d7z12yy2peyg&amp;oauth_signature=jDz%2B3FqUDOJI0hfIP%2BGyNRqMiDE%3D&amp;oauth_signature_method=HMAC-SHA1&amp;oauth_timestamp=1412262342&amp;oauth_version=1.0a&amp;formatid=33&amp;partnerid=712&amp;onbehalfofpartnerid=712&amp;presigned=1&amp;releaseid=1627544&amp;shopid=34&amp;trackid=17832764&amp;userid=26876350</url>
-                <format id="33">
-                  <fileFormat>M4A</fileFormat>
-                  <bitRate>320</bitRate>
-                  <drmFree>true</drmFree>
-                </format>
-              </downloadUrl>
-            </downloadUrls>
-          </lockerTrack>
-        </lockerTracks>
-        <available>true</available>
-      </lockerRelease>
-    </lockerReleases>
-  </locker>
+	<locker>
+		<lockerReleases>
+			<page>1</page>
+			<pageSize>10</pageSize>
+			<totalItems>1</totalItems>
+			<lockerRelease>
+				<release id="1627544">
+					<title>Elvis</title>
+					<version/>
+					<type>Album</type>
+					<barcode>7640138331084</barcode>
+					<artist id="2200">
+						<name>Elvis Presley</name>
+						<appearsAs>Elvis Presley</appearsAs>
+						<url>http://www.7digital.com/artist/elvis-presley-(2)/?partner=5932</url>
+					</artist>
+					<url>http://www.7digital.com/artist/elvis-presley-(2)/release/elvis-8/?partner=5932</url>
+					<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/016/275/0001627544_50.jpg</image>
+					<releaseDate>2012-02-24T00:00:00Z</releaseDate>
+					<licensor id="68"/>
+				</release>
+				<lockerTracks>
+					<lockerTrack>
+						<track id="17832723">
+							<title>His Hand in Mine</title>
+							<version>Remastered</version>
+							<artist id="2200">
+								<name>Elvis Presley</name>
+								<appearsAs>Elvis Presley</appearsAs>
+								<url>http://www.7digital.com/artist/elvis-presley-(2)/?partner=5932</url>
+							</artist>
+							<trackNumber>1</trackNumber>
+							<duration>200</duration>
+							<isrc>GBURZ1100858</isrc>
+							<url>http://www.7digital.com/artist/elvis-presley-(2)/release/elvis-8/?partner=5932&amp;h=01</url>
+						</track>
+						<remainingDownloads>5</remainingDownloads>
+						<purchaseId>814716201</purchaseId>
+						<purchaseDate>2014-10-02T14:57:37Z</purchaseDate>
+						<completeAlbumPurchase>true</completeAlbumPurchase>
+						<downloadUrls>
+							<downloadUrl>
+								<url>http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&amp;oauth_nonce=i4d414b1f2xya04m&amp;oauth_signature=NPTE3ApvryrEA92t20EPFtKNu5g%3D&amp;oauth_signature_method=HMAC-SHA1&amp;oauth_timestamp=1412262342&amp;oauth_version=1.0a&amp;formatid=17&amp;partnerid=712&amp;onbehalfofpartnerid=712&amp;presigned=1&amp;releaseid=1627544&amp;shopid=34&amp;trackid=17832723&amp;userid=26876350</url>
+								<format id="17">
+									<fileFormat>MP3</fileFormat>
+									<bitRate>320</bitRate>
+									<drmFree>true</drmFree>
+								</format>
+							</downloadUrl>
+							<downloadUrl>
+								<url>http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&amp;oauth_nonce=ua94kzzobndjdiab&amp;oauth_signature=tAc8yA91mGdTnv%2BHPB168C7cpD8%3D&amp;oauth_signature_method=HMAC-SHA1&amp;oauth_timestamp=1412262342&amp;oauth_version=1.0a&amp;formatid=33&amp;partnerid=712&amp;onbehalfofpartnerid=712&amp;presigned=1&amp;releaseid=1627544&amp;shopid=34&amp;trackid=17832723&amp;userid=26876350</url>
+								<format id="33">
+									<fileFormat>M4A</fileFormat>
+									<bitRate>320</bitRate>
+									<drmFree>true</drmFree>
+								</format>
+							</downloadUrl>
+						</downloadUrls>
+					</lockerTrack>
+					<lockerTrack>
+						<track id="17832724">
+							<title>I'm Gonna Walk Dem Golden Stairs</title>
+							<version>Remastered</version>
+							<artist id="2200">
+								<name>Elvis Presley</name>
+								<appearsAs>Elvis Presley</appearsAs>
+								<url>http://www.7digital.com/artist/elvis-presley-(2)/?partner=5932</url>
+							</artist>
+							<trackNumber>2</trackNumber>
+							<duration>113</duration>
+							<isrc>GBURZ1100859</isrc>
+							<url>http://www.7digital.com/artist/elvis-presley-(2)/release/elvis-8/?partner=5932&amp;h=02</url>
+						</track>
+						<remainingDownloads>5</remainingDownloads>
+						<purchaseId>814716201</purchaseId>
+						<purchaseDate>2014-10-02T14:57:37Z</purchaseDate>
+						<completeAlbumPurchase>true</completeAlbumPurchase>
+						<downloadUrls>
+							<downloadUrl>
+								<url>http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&amp;oauth_nonce=j4uwnxawnvmzn32q&amp;oauth_signature=4GFg%2FxyLxlU1B076c98n4tXZNf8%3D&amp;oauth_signature_method=HMAC-SHA1&amp;oauth_timestamp=1412262342&amp;oauth_version=1.0a&amp;formatid=17&amp;partnerid=712&amp;onbehalfofpartnerid=712&amp;presigned=1&amp;releaseid=1627544&amp;shopid=34&amp;trackid=17832724&amp;userid=26876350</url>
+								<format id="17">
+									<fileFormat>MP3</fileFormat>
+									<bitRate>320</bitRate>
+									<drmFree>true</drmFree>
+								</format>
+							</downloadUrl>
+							<downloadUrl>
+								<url>http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&amp;oauth_nonce=nm70krtsdz2n13x8&amp;oauth_signature=%2FoloGgX2FK7m2kLpIxz2dOQWQBk%3D&amp;oauth_signature_method=HMAC-SHA1&amp;oauth_timestamp=1412262342&amp;oauth_version=1.0a&amp;formatid=33&amp;partnerid=712&amp;onbehalfofpartnerid=712&amp;presigned=1&amp;releaseid=1627544&amp;shopid=34&amp;trackid=17832724&amp;userid=26876350</url>
+								<format id="33">
+									<fileFormat>M4A</fileFormat>
+									<bitRate>320</bitRate>
+									<drmFree>true</drmFree>
+								</format>
+							</downloadUrl>
+						</downloadUrls>
+					</lockerTrack>
+					<lockerTrack>
+						<track id="17832725">
+							<title>In My Father's House</title>
+							<version>Remastered</version>
+							<artist id="2200">
+								<name>Elvis Presley</name>
+								<appearsAs>Elvis Presley</appearsAs>
+								<url>http://www.7digital.com/artist/elvis-presley-(2)/?partner=5932</url>
+							</artist>
+							<trackNumber>3</trackNumber>
+							<duration>126</duration>
+							<isrc>GBURZ1100860</isrc>
+							<url>http://www.7digital.com/artist/elvis-presley-(2)/release/elvis-8/?partner=5932&amp;h=03</url>
+						</track>
+						<remainingDownloads>5</remainingDownloads>
+						<purchaseId>814716201</purchaseId>
+						<purchaseDate>2014-10-02T14:57:37Z</purchaseDate>
+						<completeAlbumPurchase>true</completeAlbumPurchase>
+						<downloadUrls>
+							<downloadUrl>
+								<url>http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&amp;oauth_nonce=2vphpg970mqym0bj&amp;oauth_signature=1i01xAqH6jrViUklCMThHE3gSbI%3D&amp;oauth_signature_method=HMAC-SHA1&amp;oauth_timestamp=1412262342&amp;oauth_version=1.0a&amp;formatid=17&amp;partnerid=712&amp;onbehalfofpartnerid=712&amp;presigned=1&amp;releaseid=1627544&amp;shopid=34&amp;trackid=17832725&amp;userid=26876350</url>
+								<format id="17">
+									<fileFormat>MP3</fileFormat>
+									<bitRate>320</bitRate>
+									<drmFree>true</drmFree>
+								</format>
+							</downloadUrl>
+							<downloadUrl>
+								<url>http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&amp;oauth_nonce=ww62mb12kbsy7x6u&amp;oauth_signature=KOplIbtUsev47rEDjz9uFAGiltY%3D&amp;oauth_signature_method=HMAC-SHA1&amp;oauth_timestamp=1412262342&amp;oauth_version=1.0a&amp;formatid=33&amp;partnerid=712&amp;onbehalfofpartnerid=712&amp;presigned=1&amp;releaseid=1627544&amp;shopid=34&amp;trackid=17832725&amp;userid=26876350</url>
+								<format id="33">
+									<fileFormat>M4A</fileFormat>
+									<bitRate>320</bitRate>
+									<drmFree>true</drmFree>
+								</format>
+							</downloadUrl>
+						</downloadUrls>
+					</lockerTrack>
+					<lockerTrack>
+						<track id="17832726">
+							<title>Milky White Way</title>
+							<version/>
+							<artist id="2200">
+								<name>Elvis Presley</name>
+								<appearsAs>Elvis Presley</appearsAs>
+								<url>http://www.7digital.com/artist/elvis-presley-(2)/?partner=5932</url>
+							</artist>
+							<trackNumber>4</trackNumber>
+							<duration>136</duration>
+							<isrc>GBURZ1100861</isrc>
+							<url>http://www.7digital.com/artist/elvis-presley-(2)/release/elvis-8/?partner=5932&amp;h=04</url>
+						</track>
+						<remainingDownloads>5</remainingDownloads>
+						<purchaseId>814716201</purchaseId>
+						<purchaseDate>2014-10-02T14:57:37Z</purchaseDate>
+						<completeAlbumPurchase>true</completeAlbumPurchase>
+						<downloadUrls>
+							<downloadUrl>
+								<url>http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&amp;oauth_nonce=9p92mtbhoa09b5ge&amp;oauth_signature=A2lvVNyEARoFpiBtY4UiRIsQi74%3D&amp;oauth_signature_method=HMAC-SHA1&amp;oauth_timestamp=1412262342&amp;oauth_version=1.0a&amp;formatid=17&amp;partnerid=712&amp;onbehalfofpartnerid=712&amp;presigned=1&amp;releaseid=1627544&amp;shopid=34&amp;trackid=17832726&amp;userid=26876350</url>
+								<format id="17">
+									<fileFormat>MP3</fileFormat>
+									<bitRate>320</bitRate>
+									<drmFree>true</drmFree>
+								</format>
+							</downloadUrl>
+							<downloadUrl>
+								<url>http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&amp;oauth_nonce=xs2d86vz5x8oyjam&amp;oauth_signature=d0naFTZ6RgT44NEIJZG6Vz0KchA%3D&amp;oauth_signature_method=HMAC-SHA1&amp;oauth_timestamp=1412262342&amp;oauth_version=1.0a&amp;formatid=33&amp;partnerid=712&amp;onbehalfofpartnerid=712&amp;presigned=1&amp;releaseid=1627544&amp;shopid=34&amp;trackid=17832726&amp;userid=26876350</url>
+								<format id="33">
+									<fileFormat>M4A</fileFormat>
+									<bitRate>320</bitRate>
+									<drmFree>true</drmFree>
+								</format>
+							</downloadUrl>
+						</downloadUrls>
+					</lockerTrack>
+					<lockerTrack>
+						<track id="17832728">
+							<title>Known Only to Him</title>
+							<version>Remastered</version>
+							<artist id="2200">
+								<name>Elvis Presley</name>
+								<appearsAs>Elvis Presley</appearsAs>
+								<url>http://www.7digital.com/artist/elvis-presley-(2)/?partner=5932</url>
+							</artist>
+							<trackNumber>5</trackNumber>
+							<duration>131</duration>
+							<isrc>GBURZ1100862</isrc>
+							<url>http://www.7digital.com/artist/elvis-presley-(2)/release/elvis-8/?partner=5932&amp;h=05</url>
+						</track>
+						<remainingDownloads>5</remainingDownloads>
+						<purchaseId>814716201</purchaseId>
+						<purchaseDate>2014-10-02T14:57:37Z</purchaseDate>
+						<completeAlbumPurchase>true</completeAlbumPurchase>
+						<downloadUrls>
+							<downloadUrl>
+								<url>http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&amp;oauth_nonce=q718ak7cvxnlb31p&amp;oauth_signature=fN%2FYI8Nqycrbo1TgcvDdYEOw5FY%3D&amp;oauth_signature_method=HMAC-SHA1&amp;oauth_timestamp=1412262342&amp;oauth_version=1.0a&amp;formatid=17&amp;partnerid=712&amp;onbehalfofpartnerid=712&amp;presigned=1&amp;releaseid=1627544&amp;shopid=34&amp;trackid=17832728&amp;userid=26876350</url>
+								<format id="17">
+									<fileFormat>MP3</fileFormat>
+									<bitRate>320</bitRate>
+									<drmFree>true</drmFree>
+								</format>
+							</downloadUrl>
+							<downloadUrl>
+								<url>http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&amp;oauth_nonce=6obn73xc5j7zwxse&amp;oauth_signature=yRkhOfJk7Z222ovOD0Tc4GIm94A%3D&amp;oauth_signature_method=HMAC-SHA1&amp;oauth_timestamp=1412262342&amp;oauth_version=1.0a&amp;formatid=33&amp;partnerid=712&amp;onbehalfofpartnerid=712&amp;presigned=1&amp;releaseid=1627544&amp;shopid=34&amp;trackid=17832728&amp;userid=26876350</url>
+								<format id="33">
+									<fileFormat>M4A</fileFormat>
+									<bitRate>320</bitRate>
+									<drmFree>true</drmFree>
+								</format>
+							</downloadUrl>
+						</downloadUrls>
+					</lockerTrack>
+					<lockerTrack>
+						<track id="17832729">
+							<title>I Believe in the Man in the Sky</title>
+							<version>Remastered</version>
+							<artist id="2200">
+								<name>Elvis Presley</name>
+								<appearsAs>Elvis Presley</appearsAs>
+								<url>http://www.7digital.com/artist/elvis-presley-(2)/?partner=5932</url>
+							</artist>
+							<trackNumber>6</trackNumber>
+							<duration>136</duration>
+							<isrc>GBURZ1100863</isrc>
+							<url>http://www.7digital.com/artist/elvis-presley-(2)/release/elvis-8/?partner=5932&amp;h=06</url>
+						</track>
+						<remainingDownloads>5</remainingDownloads>
+						<purchaseId>814716201</purchaseId>
+						<purchaseDate>2014-10-02T14:57:37Z</purchaseDate>
+						<completeAlbumPurchase>true</completeAlbumPurchase>
+						<downloadUrls>
+							<downloadUrl>
+								<url>http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&amp;oauth_nonce=axredjdnwzrjsjxc&amp;oauth_signature=wV6gdWS9%2BFGue%2BzzChGQGAD9FHc%3D&amp;oauth_signature_method=HMAC-SHA1&amp;oauth_timestamp=1412262342&amp;oauth_version=1.0a&amp;formatid=17&amp;partnerid=712&amp;onbehalfofpartnerid=712&amp;presigned=1&amp;releaseid=1627544&amp;shopid=34&amp;trackid=17832729&amp;userid=26876350</url>
+								<format id="17">
+									<fileFormat>MP3</fileFormat>
+									<bitRate>320</bitRate>
+									<drmFree>true</drmFree>
+								</format>
+							</downloadUrl>
+							<downloadUrl>
+								<url>http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&amp;oauth_nonce=8rsjiwpyiyc2ngp9&amp;oauth_signature=67dLZm85kSdqJZR8DP%2BgghJUG%2FM%3D&amp;oauth_signature_method=HMAC-SHA1&amp;oauth_timestamp=1412262342&amp;oauth_version=1.0a&amp;formatid=33&amp;partnerid=712&amp;onbehalfofpartnerid=712&amp;presigned=1&amp;releaseid=1627544&amp;shopid=34&amp;trackid=17832729&amp;userid=26876350</url>
+								<format id="33">
+									<fileFormat>M4A</fileFormat>
+									<bitRate>320</bitRate>
+									<drmFree>true</drmFree>
+								</format>
+							</downloadUrl>
+						</downloadUrls>
+					</lockerTrack>
+					<lockerTrack>
+						<track id="17832730">
+							<title>Joshua Fit the Battle</title>
+							<version>Remastered</version>
+							<artist id="2200">
+								<name>Elvis Presley</name>
+								<appearsAs>Elvis Presley</appearsAs>
+								<url>http://www.7digital.com/artist/elvis-presley-(2)/?partner=5932</url>
+							</artist>
+							<trackNumber>7</trackNumber>
+							<duration>161</duration>
+							<isrc>GBURZ1100864</isrc>
+							<url>http://www.7digital.com/artist/elvis-presley-(2)/release/elvis-8/?partner=5932&amp;h=07</url>
+						</track>
+						<remainingDownloads>5</remainingDownloads>
+						<purchaseId>814716201</purchaseId>
+						<purchaseDate>2014-10-02T14:57:37Z</purchaseDate>
+						<completeAlbumPurchase>true</completeAlbumPurchase>
+						<downloadUrls>
+							<downloadUrl>
+								<url>http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&amp;oauth_nonce=filolvlwlx1hkotv&amp;oauth_signature=AIZUaAJyIzz9qjSYRlKCK7PSRDs%3D&amp;oauth_signature_method=HMAC-SHA1&amp;oauth_timestamp=1412262342&amp;oauth_version=1.0a&amp;formatid=17&amp;partnerid=712&amp;onbehalfofpartnerid=712&amp;presigned=1&amp;releaseid=1627544&amp;shopid=34&amp;trackid=17832730&amp;userid=26876350</url>
+								<format id="17">
+									<fileFormat>MP3</fileFormat>
+									<bitRate>320</bitRate>
+									<drmFree>true</drmFree>
+								</format>
+							</downloadUrl>
+							<downloadUrl>
+								<url>http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&amp;oauth_nonce=v53eej7nh37pglap&amp;oauth_signature=ppjGNcSwiStxvc4f4m4JspVx8uE%3D&amp;oauth_signature_method=HMAC-SHA1&amp;oauth_timestamp=1412262342&amp;oauth_version=1.0a&amp;formatid=33&amp;partnerid=712&amp;onbehalfofpartnerid=712&amp;presigned=1&amp;releaseid=1627544&amp;shopid=34&amp;trackid=17832730&amp;userid=26876350</url>
+								<format id="33">
+									<fileFormat>M4A</fileFormat>
+									<bitRate>320</bitRate>
+									<drmFree>true</drmFree>
+								</format>
+							</downloadUrl>
+						</downloadUrls>
+					</lockerTrack>
+					<lockerTrack>
+						<track id="17832731">
+							<title>He Knows Just What I Need</title>
+							<version>Remastered</version>
+							<artist id="2200">
+								<name>Elvis Presley</name>
+								<appearsAs>Elvis Presley</appearsAs>
+								<url>http://www.7digital.com/artist/elvis-presley-(2)/?partner=5932</url>
+							</artist>
+							<trackNumber>8</trackNumber>
+							<duration>134</duration>
+							<isrc>GBURZ1100865</isrc>
+							<url>http://www.7digital.com/artist/elvis-presley-(2)/release/elvis-8/?partner=5932&amp;h=08</url>
+						</track>
+						<remainingDownloads>5</remainingDownloads>
+						<purchaseId>814716201</purchaseId>
+						<purchaseDate>2014-10-02T14:57:37Z</purchaseDate>
+						<completeAlbumPurchase>true</completeAlbumPurchase>
+						<downloadUrls>
+							<downloadUrl>
+								<url>http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&amp;oauth_nonce=jtek8j1lg79u7io5&amp;oauth_signature=O3ocCz1FRODsxwnVhV4PildUTVw%3D&amp;oauth_signature_method=HMAC-SHA1&amp;oauth_timestamp=1412262342&amp;oauth_version=1.0a&amp;formatid=17&amp;partnerid=712&amp;onbehalfofpartnerid=712&amp;presigned=1&amp;releaseid=1627544&amp;shopid=34&amp;trackid=17832731&amp;userid=26876350</url>
+								<format id="17">
+									<fileFormat>MP3</fileFormat>
+									<bitRate>320</bitRate>
+									<drmFree>true</drmFree>
+								</format>
+							</downloadUrl>
+							<downloadUrl>
+								<url>http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&amp;oauth_nonce=frgsok57m9hsz7pa&amp;oauth_signature=Dm0VBdI11n0iwC%2F3QyeaYtMsyLM%3D&amp;oauth_signature_method=HMAC-SHA1&amp;oauth_timestamp=1412262342&amp;oauth_version=1.0a&amp;formatid=33&amp;partnerid=712&amp;onbehalfofpartnerid=712&amp;presigned=1&amp;releaseid=1627544&amp;shopid=34&amp;trackid=17832731&amp;userid=26876350</url>
+								<format id="33">
+									<fileFormat>M4A</fileFormat>
+									<bitRate>320</bitRate>
+									<drmFree>true</drmFree>
+								</format>
+							</downloadUrl>
+						</downloadUrls>
+					</lockerTrack>
+					<lockerTrack>
+						<track id="17832732">
+							<title>Swing Down Sweet Chariot</title>
+							<version>Remastered</version>
+							<artist id="2200">
+								<name>Elvis Presley</name>
+								<appearsAs>Elvis Presley</appearsAs>
+								<url>http://www.7digital.com/artist/elvis-presley-(2)/?partner=5932</url>
+							</artist>
+							<trackNumber>9</trackNumber>
+							<duration>154</duration>
+							<isrc>GBURZ1100866</isrc>
+							<url>http://www.7digital.com/artist/elvis-presley-(2)/release/elvis-8/?partner=5932&amp;h=09</url>
+						</track>
+						<remainingDownloads>5</remainingDownloads>
+						<purchaseId>814716201</purchaseId>
+						<purchaseDate>2014-10-02T14:57:37Z</purchaseDate>
+						<completeAlbumPurchase>true</completeAlbumPurchase>
+						<downloadUrls>
+							<downloadUrl>
+								<url>http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&amp;oauth_nonce=xk91jjyleq9hkmq0&amp;oauth_signature=qvKGHTt%2BR7BwpoCs8FAB31j0RFw%3D&amp;oauth_signature_method=HMAC-SHA1&amp;oauth_timestamp=1412262342&amp;oauth_version=1.0a&amp;formatid=17&amp;partnerid=712&amp;onbehalfofpartnerid=712&amp;presigned=1&amp;releaseid=1627544&amp;shopid=34&amp;trackid=17832732&amp;userid=26876350</url>
+								<format id="17">
+									<fileFormat>MP3</fileFormat>
+									<bitRate>320</bitRate>
+									<drmFree>true</drmFree>
+								</format>
+							</downloadUrl>
+							<downloadUrl>
+								<url>http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&amp;oauth_nonce=objzerb9zi89chwj&amp;oauth_signature=nHPyllxxkUo%2B4JR6uhlO2Nh4Y9o%3D&amp;oauth_signature_method=HMAC-SHA1&amp;oauth_timestamp=1412262342&amp;oauth_version=1.0a&amp;formatid=33&amp;partnerid=712&amp;onbehalfofpartnerid=712&amp;presigned=1&amp;releaseid=1627544&amp;shopid=34&amp;trackid=17832732&amp;userid=26876350</url>
+								<format id="33">
+									<fileFormat>M4A</fileFormat>
+									<bitRate>320</bitRate>
+									<drmFree>true</drmFree>
+								</format>
+							</downloadUrl>
+						</downloadUrls>
+					</lockerTrack>
+					<lockerTrack>
+						<track id="17832733">
+							<title>Mansion Over the Hilltop</title>
+							<version>Remastered</version>
+							<artist id="2200">
+								<name>Elvis Presley</name>
+								<appearsAs>Elvis Presley</appearsAs>
+								<url>http://www.7digital.com/artist/elvis-presley-(2)/?partner=5932</url>
+							</artist>
+							<trackNumber>10</trackNumber>
+							<duration>179</duration>
+							<isrc>GBURZ1100867</isrc>
+							<url>http://www.7digital.com/artist/elvis-presley-(2)/release/elvis-8/?partner=5932&amp;h=10</url>
+						</track>
+						<remainingDownloads>5</remainingDownloads>
+						<purchaseId>814716201</purchaseId>
+						<purchaseDate>2014-10-02T14:57:37Z</purchaseDate>
+						<completeAlbumPurchase>true</completeAlbumPurchase>
+						<downloadUrls>
+							<downloadUrl>
+								<url>http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&amp;oauth_nonce=r97vkxu635o8mwv0&amp;oauth_signature=LMNYhcxVhZe3C6w%2BdoCpbeC6KfQ%3D&amp;oauth_signature_method=HMAC-SHA1&amp;oauth_timestamp=1412262342&amp;oauth_version=1.0a&amp;formatid=17&amp;partnerid=712&amp;onbehalfofpartnerid=712&amp;presigned=1&amp;releaseid=1627544&amp;shopid=34&amp;trackid=17832733&amp;userid=26876350</url>
+								<format id="17">
+									<fileFormat>MP3</fileFormat>
+									<bitRate>320</bitRate>
+									<drmFree>true</drmFree>
+								</format>
+							</downloadUrl>
+							<downloadUrl>
+								<url>http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&amp;oauth_nonce=shexwz6gj0ablzj7&amp;oauth_signature=s0lTwOzaUDZn5pW7YGdbCVbwyRA%3D&amp;oauth_signature_method=HMAC-SHA1&amp;oauth_timestamp=1412262342&amp;oauth_version=1.0a&amp;formatid=33&amp;partnerid=712&amp;onbehalfofpartnerid=712&amp;presigned=1&amp;releaseid=1627544&amp;shopid=34&amp;trackid=17832733&amp;userid=26876350</url>
+								<format id="33">
+									<fileFormat>M4A</fileFormat>
+									<bitRate>320</bitRate>
+									<drmFree>true</drmFree>
+								</format>
+							</downloadUrl>
+						</downloadUrls>
+					</lockerTrack>
+					<lockerTrack>
+						<track id="17832734">
+							<title>Working On the Building</title>
+							<version>Remastered</version>
+							<artist id="2200">
+								<name>Elvis Presley</name>
+								<appearsAs>Elvis Presley</appearsAs>
+								<url>http://www.7digital.com/artist/elvis-presley-(2)/?partner=5932</url>
+							</artist>
+							<trackNumber>11</trackNumber>
+							<duration>115</duration>
+							<isrc>GBURZ1100869</isrc>
+							<url>http://www.7digital.com/artist/elvis-presley-(2)/release/elvis-8/?partner=5932&amp;h=11</url>
+						</track>
+						<remainingDownloads>5</remainingDownloads>
+						<purchaseId>814716201</purchaseId>
+						<purchaseDate>2014-10-02T14:57:37Z</purchaseDate>
+						<completeAlbumPurchase>true</completeAlbumPurchase>
+						<downloadUrls>
+							<downloadUrl>
+								<url>http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&amp;oauth_nonce=5yzmp6y1ro7jddvc&amp;oauth_signature=W9PzqggYSyP%2B2RRye2BM%2Fg81nMw%3D&amp;oauth_signature_method=HMAC-SHA1&amp;oauth_timestamp=1412262342&amp;oauth_version=1.0a&amp;formatid=17&amp;partnerid=712&amp;onbehalfofpartnerid=712&amp;presigned=1&amp;releaseid=1627544&amp;shopid=34&amp;trackid=17832734&amp;userid=26876350</url>
+								<format id="17">
+									<fileFormat>MP3</fileFormat>
+									<bitRate>320</bitRate>
+									<drmFree>true</drmFree>
+								</format>
+							</downloadUrl>
+							<downloadUrl>
+								<url>http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&amp;oauth_nonce=x8q5c9x2czmkwtud&amp;oauth_signature=qa0B01tCNhjBD642tYhd0cS214U%3D&amp;oauth_signature_method=HMAC-SHA1&amp;oauth_timestamp=1412262342&amp;oauth_version=1.0a&amp;formatid=33&amp;partnerid=712&amp;onbehalfofpartnerid=712&amp;presigned=1&amp;releaseid=1627544&amp;shopid=34&amp;trackid=17832734&amp;userid=26876350</url>
+								<format id="33">
+									<fileFormat>M4A</fileFormat>
+									<bitRate>320</bitRate>
+									<drmFree>true</drmFree>
+								</format>
+							</downloadUrl>
+						</downloadUrls>
+					</lockerTrack>
+					<lockerTrack>
+						<track id="17832735">
+							<title>It Is No Secret (What God Can Do)</title>
+							<version/>
+							<artist id="2200">
+								<name>Elvis Presley</name>
+								<appearsAs>Elvis Presley</appearsAs>
+								<url>http://www.7digital.com/artist/elvis-presley-(2)/?partner=5932</url>
+							</artist>
+							<trackNumber>12</trackNumber>
+							<duration>235</duration>
+							<isrc>GBURZ1100870</isrc>
+							<url>http://www.7digital.com/artist/elvis-presley-(2)/release/elvis-8/?partner=5932&amp;h=12</url>
+						</track>
+						<remainingDownloads>5</remainingDownloads>
+						<purchaseId>814716201</purchaseId>
+						<purchaseDate>2014-10-02T14:57:37Z</purchaseDate>
+						<completeAlbumPurchase>true</completeAlbumPurchase>
+						<downloadUrls>
+							<downloadUrl>
+								<url>http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&amp;oauth_nonce=vrcy7iuxtnfi4vdf&amp;oauth_signature=YA7FjSskpJk3QT1Sw%2B%2BIHqZwBNE%3D&amp;oauth_signature_method=HMAC-SHA1&amp;oauth_timestamp=1412262342&amp;oauth_version=1.0a&amp;formatid=17&amp;partnerid=712&amp;onbehalfofpartnerid=712&amp;presigned=1&amp;releaseid=1627544&amp;shopid=34&amp;trackid=17832735&amp;userid=26876350</url>
+								<format id="17">
+									<fileFormat>MP3</fileFormat>
+									<bitRate>320</bitRate>
+									<drmFree>true</drmFree>
+								</format>
+							</downloadUrl>
+							<downloadUrl>
+								<url>http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&amp;oauth_nonce=n9onjp56a9j1soe9&amp;oauth_signature=plKRTxvaPDvstm%2FMcsTI5CCbCKI%3D&amp;oauth_signature_method=HMAC-SHA1&amp;oauth_timestamp=1412262342&amp;oauth_version=1.0a&amp;formatid=33&amp;partnerid=712&amp;onbehalfofpartnerid=712&amp;presigned=1&amp;releaseid=1627544&amp;shopid=34&amp;trackid=17832735&amp;userid=26876350</url>
+								<format id="33">
+									<fileFormat>M4A</fileFormat>
+									<bitRate>320</bitRate>
+									<drmFree>true</drmFree>
+								</format>
+							</downloadUrl>
+						</downloadUrls>
+					</lockerTrack>
+					<lockerTrack>
+						<track id="17832736">
+							<title>You'll Never Walk Alone</title>
+							<version/>
+							<artist id="2200">
+								<name>Elvis Presley</name>
+								<appearsAs>Elvis Presley</appearsAs>
+								<url>http://www.7digital.com/artist/elvis-presley-(2)/?partner=5932</url>
+							</artist>
+							<trackNumber>13</trackNumber>
+							<duration>160</duration>
+							<isrc>GBURZ1100871</isrc>
+							<url>http://www.7digital.com/artist/elvis-presley-(2)/release/elvis-8/?partner=5932&amp;h=13</url>
+						</track>
+						<remainingDownloads>5</remainingDownloads>
+						<purchaseId>814716201</purchaseId>
+						<purchaseDate>2014-10-02T14:57:37Z</purchaseDate>
+						<completeAlbumPurchase>true</completeAlbumPurchase>
+						<downloadUrls>
+							<downloadUrl>
+								<url>http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&amp;oauth_nonce=44yva8gon4ly3p9r&amp;oauth_signature=VA0wJhcCSPKkkrdilnsBy%2F41y4M%3D&amp;oauth_signature_method=HMAC-SHA1&amp;oauth_timestamp=1412262342&amp;oauth_version=1.0a&amp;formatid=17&amp;partnerid=712&amp;onbehalfofpartnerid=712&amp;presigned=1&amp;releaseid=1627544&amp;shopid=34&amp;trackid=17832736&amp;userid=26876350</url>
+								<format id="17">
+									<fileFormat>MP3</fileFormat>
+									<bitRate>320</bitRate>
+									<drmFree>true</drmFree>
+								</format>
+							</downloadUrl>
+							<downloadUrl>
+								<url>http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&amp;oauth_nonce=wg8yeg4gxhx994ee&amp;oauth_signature=NvSpm%2FukV9i0xlCQRRucZa0ciJM%3D&amp;oauth_signature_method=HMAC-SHA1&amp;oauth_timestamp=1412262342&amp;oauth_version=1.0a&amp;formatid=33&amp;partnerid=712&amp;onbehalfofpartnerid=712&amp;presigned=1&amp;releaseid=1627544&amp;shopid=34&amp;trackid=17832736&amp;userid=26876350</url>
+								<format id="33">
+									<fileFormat>M4A</fileFormat>
+									<bitRate>320</bitRate>
+									<drmFree>true</drmFree>
+								</format>
+							</downloadUrl>
+						</downloadUrls>
+					</lockerTrack>
+					<lockerTrack>
+						<track id="17832737">
+							<title>Who Am I</title>
+							<version/>
+							<artist id="2200">
+								<name>Elvis Presley</name>
+								<appearsAs>Elvis Presley</appearsAs>
+								<url>http://www.7digital.com/artist/elvis-presley-(2)/?partner=5932</url>
+							</artist>
+							<trackNumber>14</trackNumber>
+							<duration>199</duration>
+							<isrc>GBURZ1100872</isrc>
+							<url>http://www.7digital.com/artist/elvis-presley-(2)/release/elvis-8/?partner=5932&amp;h=14</url>
+						</track>
+						<remainingDownloads>5</remainingDownloads>
+						<purchaseId>814716201</purchaseId>
+						<purchaseDate>2014-10-02T14:57:37Z</purchaseDate>
+						<completeAlbumPurchase>true</completeAlbumPurchase>
+						<downloadUrls>
+							<downloadUrl>
+								<url>http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&amp;oauth_nonce=jhoa7rfp2a0qdfcv&amp;oauth_signature=Acp6eYlfty%2B7NuZT0vI0szPpLbY%3D&amp;oauth_signature_method=HMAC-SHA1&amp;oauth_timestamp=1412262342&amp;oauth_version=1.0a&amp;formatid=17&amp;partnerid=712&amp;onbehalfofpartnerid=712&amp;presigned=1&amp;releaseid=1627544&amp;shopid=34&amp;trackid=17832737&amp;userid=26876350</url>
+								<format id="17">
+									<fileFormat>MP3</fileFormat>
+									<bitRate>320</bitRate>
+									<drmFree>true</drmFree>
+								</format>
+							</downloadUrl>
+							<downloadUrl>
+								<url>http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&amp;oauth_nonce=03dmrp4x0s94khpt&amp;oauth_signature=ShLYQOj6RnS%2FIGm46R69xV9bvPU%3D&amp;oauth_signature_method=HMAC-SHA1&amp;oauth_timestamp=1412262342&amp;oauth_version=1.0a&amp;formatid=33&amp;partnerid=712&amp;onbehalfofpartnerid=712&amp;presigned=1&amp;releaseid=1627544&amp;shopid=34&amp;trackid=17832737&amp;userid=26876350</url>
+								<format id="33">
+									<fileFormat>M4A</fileFormat>
+									<bitRate>320</bitRate>
+									<drmFree>true</drmFree>
+								</format>
+							</downloadUrl>
+						</downloadUrls>
+					</lockerTrack>
+					<lockerTrack>
+						<track id="17832738">
+							<title>Tonight Is So Right for Love</title>
+							<version/>
+							<artist id="2200">
+								<name>Elvis Presley</name>
+								<appearsAs>Elvis Presley</appearsAs>
+								<url>http://www.7digital.com/artist/elvis-presley-(2)/?partner=5932</url>
+							</artist>
+							<trackNumber>15</trackNumber>
+							<duration>134</duration>
+							<isrc>GBURZ1100707</isrc>
+							<url>http://www.7digital.com/artist/elvis-presley-(2)/release/elvis-8/?partner=5932&amp;h=15</url>
+						</track>
+						<remainingDownloads>5</remainingDownloads>
+						<purchaseId>814716201</purchaseId>
+						<purchaseDate>2014-10-02T14:57:37Z</purchaseDate>
+						<completeAlbumPurchase>true</completeAlbumPurchase>
+						<downloadUrls>
+							<downloadUrl>
+								<url>http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&amp;oauth_nonce=zgpvb8uebr7egncs&amp;oauth_signature=oQceLKWe5LV6eIV8OGTu8CjVVAY%3D&amp;oauth_signature_method=HMAC-SHA1&amp;oauth_timestamp=1412262342&amp;oauth_version=1.0a&amp;formatid=17&amp;partnerid=712&amp;onbehalfofpartnerid=712&amp;presigned=1&amp;releaseid=1627544&amp;shopid=34&amp;trackid=17832738&amp;userid=26876350</url>
+								<format id="17">
+									<fileFormat>MP3</fileFormat>
+									<bitRate>320</bitRate>
+									<drmFree>true</drmFree>
+								</format>
+							</downloadUrl>
+							<downloadUrl>
+								<url>http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&amp;oauth_nonce=eb9g12x5n1aotlfu&amp;oauth_signature=ZwAMcrh%2FhyHQeviDcznB15eu%2Ffo%3D&amp;oauth_signature_method=HMAC-SHA1&amp;oauth_timestamp=1412262342&amp;oauth_version=1.0a&amp;formatid=33&amp;partnerid=712&amp;onbehalfofpartnerid=712&amp;presigned=1&amp;releaseid=1627544&amp;shopid=34&amp;trackid=17832738&amp;userid=26876350</url>
+								<format id="33">
+									<fileFormat>M4A</fileFormat>
+									<bitRate>320</bitRate>
+									<drmFree>true</drmFree>
+								</format>
+							</downloadUrl>
+						</downloadUrls>
+					</lockerTrack>
+					<lockerTrack>
+						<track id="17832739">
+							<title>What's She Really Like</title>
+							<version/>
+							<artist id="2200">
+								<name>Elvis Presley</name>
+								<appearsAs>Elvis Presley</appearsAs>
+								<url>http://www.7digital.com/artist/elvis-presley-(2)/?partner=5932</url>
+							</artist>
+							<trackNumber>16</trackNumber>
+							<duration>138</duration>
+							<isrc>GBURZ1100708</isrc>
+							<url>http://www.7digital.com/artist/elvis-presley-(2)/release/elvis-8/?partner=5932&amp;h=16</url>
+						</track>
+						<remainingDownloads>5</remainingDownloads>
+						<purchaseId>814716201</purchaseId>
+						<purchaseDate>2014-10-02T14:57:37Z</purchaseDate>
+						<completeAlbumPurchase>true</completeAlbumPurchase>
+						<downloadUrls>
+							<downloadUrl>
+								<url>http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&amp;oauth_nonce=up28zrubh9l0szqv&amp;oauth_signature=IC%2BDMTirDhPNJl%2BtOwseXZJD2kg%3D&amp;oauth_signature_method=HMAC-SHA1&amp;oauth_timestamp=1412262342&amp;oauth_version=1.0a&amp;formatid=17&amp;partnerid=712&amp;onbehalfofpartnerid=712&amp;presigned=1&amp;releaseid=1627544&amp;shopid=34&amp;trackid=17832739&amp;userid=26876350</url>
+								<format id="17">
+									<fileFormat>MP3</fileFormat>
+									<bitRate>320</bitRate>
+									<drmFree>true</drmFree>
+								</format>
+							</downloadUrl>
+							<downloadUrl>
+								<url>http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&amp;oauth_nonce=qpziij48svhk8fvz&amp;oauth_signature=qfBzPr1nlrb9EYwSsxh6GvZ01l4%3D&amp;oauth_signature_method=HMAC-SHA1&amp;oauth_timestamp=1412262342&amp;oauth_version=1.0a&amp;formatid=33&amp;partnerid=712&amp;onbehalfofpartnerid=712&amp;presigned=1&amp;releaseid=1627544&amp;shopid=34&amp;trackid=17832739&amp;userid=26876350</url>
+								<format id="33">
+									<fileFormat>M4A</fileFormat>
+									<bitRate>320</bitRate>
+									<drmFree>true</drmFree>
+								</format>
+							</downloadUrl>
+						</downloadUrls>
+					</lockerTrack>
+					<lockerTrack>
+						<track id="17832740">
+							<title>Wooden Heart</title>
+							<version/>
+							<artist id="2200">
+								<name>Elvis Presley</name>
+								<appearsAs>Elvis Presley</appearsAs>
+								<url>http://www.7digital.com/artist/elvis-presley-(2)/?partner=5932</url>
+							</artist>
+							<trackNumber>17</trackNumber>
+							<duration>122</duration>
+							<isrc>GBURZ1100710</isrc>
+							<url>http://www.7digital.com/artist/elvis-presley-(2)/release/elvis-8/?partner=5932&amp;h=17</url>
+						</track>
+						<remainingDownloads>5</remainingDownloads>
+						<purchaseId>814716201</purchaseId>
+						<purchaseDate>2014-10-02T14:57:37Z</purchaseDate>
+						<completeAlbumPurchase>true</completeAlbumPurchase>
+						<downloadUrls>
+							<downloadUrl>
+								<url>http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&amp;oauth_nonce=llu1we3wr792qxly&amp;oauth_signature=N4QGJcnAB2pQxBIUQLORhuz9dfA%3D&amp;oauth_signature_method=HMAC-SHA1&amp;oauth_timestamp=1412262342&amp;oauth_version=1.0a&amp;formatid=17&amp;partnerid=712&amp;onbehalfofpartnerid=712&amp;presigned=1&amp;releaseid=1627544&amp;shopid=34&amp;trackid=17832740&amp;userid=26876350</url>
+								<format id="17">
+									<fileFormat>MP3</fileFormat>
+									<bitRate>320</bitRate>
+									<drmFree>true</drmFree>
+								</format>
+							</downloadUrl>
+							<downloadUrl>
+								<url>http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&amp;oauth_nonce=jp9ew7mkw4pekjeb&amp;oauth_signature=dNLmHshFXqG%2BfwNC2C3QU%2BUWYoA%3D&amp;oauth_signature_method=HMAC-SHA1&amp;oauth_timestamp=1412262342&amp;oauth_version=1.0a&amp;formatid=33&amp;partnerid=712&amp;onbehalfofpartnerid=712&amp;presigned=1&amp;releaseid=1627544&amp;shopid=34&amp;trackid=17832740&amp;userid=26876350</url>
+								<format id="33">
+									<fileFormat>M4A</fileFormat>
+									<bitRate>320</bitRate>
+									<drmFree>true</drmFree>
+								</format>
+							</downloadUrl>
+						</downloadUrls>
+					</lockerTrack>
+					<lockerTrack>
+						<track id="17832741">
+							<title>G.I. Blues</title>
+							<version/>
+							<artist id="2200">
+								<name>Elvis Presley</name>
+								<appearsAs>Elvis Presley</appearsAs>
+								<url>http://www.7digital.com/artist/elvis-presley-(2)/?partner=5932</url>
+							</artist>
+							<trackNumber>18</trackNumber>
+							<duration>157</duration>
+							<isrc>GBURZ1100711</isrc>
+							<url>http://www.7digital.com/artist/elvis-presley-(2)/release/elvis-8/?partner=5932&amp;h=18</url>
+						</track>
+						<remainingDownloads>5</remainingDownloads>
+						<purchaseId>814716201</purchaseId>
+						<purchaseDate>2014-10-02T14:57:37Z</purchaseDate>
+						<completeAlbumPurchase>true</completeAlbumPurchase>
+						<downloadUrls>
+							<downloadUrl>
+								<url>http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&amp;oauth_nonce=nvyhe10lwc2llcq5&amp;oauth_signature=mw7j3Ppqi8Cr%2Boi1qJAlfpQpQMo%3D&amp;oauth_signature_method=HMAC-SHA1&amp;oauth_timestamp=1412262342&amp;oauth_version=1.0a&amp;formatid=17&amp;partnerid=712&amp;onbehalfofpartnerid=712&amp;presigned=1&amp;releaseid=1627544&amp;shopid=34&amp;trackid=17832741&amp;userid=26876350</url>
+								<format id="17">
+									<fileFormat>MP3</fileFormat>
+									<bitRate>320</bitRate>
+									<drmFree>true</drmFree>
+								</format>
+							</downloadUrl>
+							<downloadUrl>
+								<url>http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&amp;oauth_nonce=jsashrcp0je3zxlh&amp;oauth_signature=V4LfNUl0zvLNRiXF4kcMKIeiaQw%3D&amp;oauth_signature_method=HMAC-SHA1&amp;oauth_timestamp=1412262342&amp;oauth_version=1.0a&amp;formatid=33&amp;partnerid=712&amp;onbehalfofpartnerid=712&amp;presigned=1&amp;releaseid=1627544&amp;shopid=34&amp;trackid=17832741&amp;userid=26876350</url>
+								<format id="33">
+									<fileFormat>M4A</fileFormat>
+									<bitRate>320</bitRate>
+									<drmFree>true</drmFree>
+								</format>
+							</downloadUrl>
+						</downloadUrls>
+					</lockerTrack>
+					<lockerTrack>
+						<track id="17832742">
+							<title>Shoppin' Around</title>
+							<version/>
+							<artist id="2200">
+								<name>Elvis Presley</name>
+								<appearsAs>Elvis Presley</appearsAs>
+								<url>http://www.7digital.com/artist/elvis-presley-(2)/?partner=5932</url>
+							</artist>
+							<trackNumber>19</trackNumber>
+							<duration>143</duration>
+							<isrc>GBURZ1100713</isrc>
+							<url>http://www.7digital.com/artist/elvis-presley-(2)/release/elvis-8/?partner=5932&amp;h=19</url>
+						</track>
+						<remainingDownloads>5</remainingDownloads>
+						<purchaseId>814716201</purchaseId>
+						<purchaseDate>2014-10-02T14:57:37Z</purchaseDate>
+						<completeAlbumPurchase>true</completeAlbumPurchase>
+						<downloadUrls>
+							<downloadUrl>
+								<url>http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&amp;oauth_nonce=37n50ettqwruea0t&amp;oauth_signature=bBEkGt7nDLAB0tfqrU0BRuZrf3c%3D&amp;oauth_signature_method=HMAC-SHA1&amp;oauth_timestamp=1412262342&amp;oauth_version=1.0a&amp;formatid=17&amp;partnerid=712&amp;onbehalfofpartnerid=712&amp;presigned=1&amp;releaseid=1627544&amp;shopid=34&amp;trackid=17832742&amp;userid=26876350</url>
+								<format id="17">
+									<fileFormat>MP3</fileFormat>
+									<bitRate>320</bitRate>
+									<drmFree>true</drmFree>
+								</format>
+							</downloadUrl>
+							<downloadUrl>
+								<url>http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&amp;oauth_nonce=nu63jw57tih6vgw0&amp;oauth_signature=EYU29%2FC0Ysn9IV9vj8rMDD2%2BYUM%3D&amp;oauth_signature_method=HMAC-SHA1&amp;oauth_timestamp=1412262342&amp;oauth_version=1.0a&amp;formatid=33&amp;partnerid=712&amp;onbehalfofpartnerid=712&amp;presigned=1&amp;releaseid=1627544&amp;shopid=34&amp;trackid=17832742&amp;userid=26876350</url>
+								<format id="33">
+									<fileFormat>M4A</fileFormat>
+									<bitRate>320</bitRate>
+									<drmFree>true</drmFree>
+								</format>
+							</downloadUrl>
+						</downloadUrls>
+					</lockerTrack>
+					<lockerTrack>
+						<track id="17832743">
+							<title>Big Boots</title>
+							<version/>
+							<artist id="2200">
+								<name>Elvis Presley</name>
+								<appearsAs>Elvis Presley</appearsAs>
+								<url>http://www.7digital.com/artist/elvis-presley-(2)/?partner=5932</url>
+							</artist>
+							<trackNumber>20</trackNumber>
+							<duration>91</duration>
+							<isrc>GBURZ1100714</isrc>
+							<url>http://www.7digital.com/artist/elvis-presley-(2)/release/elvis-8/?partner=5932&amp;h=20</url>
+						</track>
+						<remainingDownloads>5</remainingDownloads>
+						<purchaseId>814716201</purchaseId>
+						<purchaseDate>2014-10-02T14:57:37Z</purchaseDate>
+						<completeAlbumPurchase>true</completeAlbumPurchase>
+						<downloadUrls>
+							<downloadUrl>
+								<url>http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&amp;oauth_nonce=1utpyv6f9qcv0sk9&amp;oauth_signature=CdxFmW%2F%2FdpTxHFk2pAT5GksMbJY%3D&amp;oauth_signature_method=HMAC-SHA1&amp;oauth_timestamp=1412262342&amp;oauth_version=1.0a&amp;formatid=17&amp;partnerid=712&amp;onbehalfofpartnerid=712&amp;presigned=1&amp;releaseid=1627544&amp;shopid=34&amp;trackid=17832743&amp;userid=26876350</url>
+								<format id="17">
+									<fileFormat>MP3</fileFormat>
+									<bitRate>320</bitRate>
+									<drmFree>true</drmFree>
+								</format>
+							</downloadUrl>
+							<downloadUrl>
+								<url>http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&amp;oauth_nonce=kupf3t8fcql17y9j&amp;oauth_signature=GRUKHgc%2FdBlFGTemiDxsDyXsoTU%3D&amp;oauth_signature_method=HMAC-SHA1&amp;oauth_timestamp=1412262342&amp;oauth_version=1.0a&amp;formatid=33&amp;partnerid=712&amp;onbehalfofpartnerid=712&amp;presigned=1&amp;releaseid=1627544&amp;shopid=34&amp;trackid=17832743&amp;userid=26876350</url>
+								<format id="33">
+									<fileFormat>M4A</fileFormat>
+									<bitRate>320</bitRate>
+									<drmFree>true</drmFree>
+								</format>
+							</downloadUrl>
+						</downloadUrls>
+					</lockerTrack>
+					<lockerTrack>
+						<track id="17832744">
+							<title>Didja' Ever</title>
+							<version/>
+							<artist id="2200">
+								<name>Elvis Presley</name>
+								<appearsAs>Elvis Presley</appearsAs>
+								<url>http://www.7digital.com/artist/elvis-presley-(2)/?partner=5932</url>
+							</artist>
+							<trackNumber>21</trackNumber>
+							<duration>156</duration>
+							<isrc>GBURZ1100715</isrc>
+							<url>http://www.7digital.com/artist/elvis-presley-(2)/release/elvis-8/?partner=5932&amp;h=21</url>
+						</track>
+						<remainingDownloads>5</remainingDownloads>
+						<purchaseId>814716201</purchaseId>
+						<purchaseDate>2014-10-02T14:57:37Z</purchaseDate>
+						<completeAlbumPurchase>true</completeAlbumPurchase>
+						<downloadUrls>
+							<downloadUrl>
+								<url>http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&amp;oauth_nonce=as4uru62zz43uj7a&amp;oauth_signature=acOr57lW%2FOvjbm48%2BeZmCN0dU%2BU%3D&amp;oauth_signature_method=HMAC-SHA1&amp;oauth_timestamp=1412262342&amp;oauth_version=1.0a&amp;formatid=17&amp;partnerid=712&amp;onbehalfofpartnerid=712&amp;presigned=1&amp;releaseid=1627544&amp;shopid=34&amp;trackid=17832744&amp;userid=26876350</url>
+								<format id="17">
+									<fileFormat>MP3</fileFormat>
+									<bitRate>320</bitRate>
+									<drmFree>true</drmFree>
+								</format>
+							</downloadUrl>
+							<downloadUrl>
+								<url>http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&amp;oauth_nonce=9iua2rggwonhkeik&amp;oauth_signature=CArFf8mwtOYyv3x4xmBcRFIpBTE%3D&amp;oauth_signature_method=HMAC-SHA1&amp;oauth_timestamp=1412262342&amp;oauth_version=1.0a&amp;formatid=33&amp;partnerid=712&amp;onbehalfofpartnerid=712&amp;presigned=1&amp;releaseid=1627544&amp;shopid=34&amp;trackid=17832744&amp;userid=26876350</url>
+								<format id="33">
+									<fileFormat>M4A</fileFormat>
+									<bitRate>320</bitRate>
+									<drmFree>true</drmFree>
+								</format>
+							</downloadUrl>
+						</downloadUrls>
+					</lockerTrack>
+					<lockerTrack>
+						<track id="17832745">
+							<title>Blue Suede Shoes</title>
+							<version/>
+							<artist id="2200">
+								<name>Elvis Presley</name>
+								<appearsAs>Elvis Presley</appearsAs>
+								<url>http://www.7digital.com/artist/elvis-presley-(2)/?partner=5932</url>
+							</artist>
+							<trackNumber>22</trackNumber>
+							<duration>127</duration>
+							<isrc>GBURZ1100716</isrc>
+							<url>http://www.7digital.com/artist/elvis-presley-(2)/release/elvis-8/?partner=5932&amp;h=22</url>
+						</track>
+						<remainingDownloads>5</remainingDownloads>
+						<purchaseId>814716201</purchaseId>
+						<purchaseDate>2014-10-02T14:57:37Z</purchaseDate>
+						<completeAlbumPurchase>true</completeAlbumPurchase>
+						<downloadUrls>
+							<downloadUrl>
+								<url>http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&amp;oauth_nonce=s3vrz1r1zxpd1fu3&amp;oauth_signature=m5qACfVELrtaukhhRo60gnBkuhI%3D&amp;oauth_signature_method=HMAC-SHA1&amp;oauth_timestamp=1412262342&amp;oauth_version=1.0a&amp;formatid=17&amp;partnerid=712&amp;onbehalfofpartnerid=712&amp;presigned=1&amp;releaseid=1627544&amp;shopid=34&amp;trackid=17832745&amp;userid=26876350</url>
+								<format id="17">
+									<fileFormat>MP3</fileFormat>
+									<bitRate>320</bitRate>
+									<drmFree>true</drmFree>
+								</format>
+							</downloadUrl>
+							<downloadUrl>
+								<url>http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&amp;oauth_nonce=uk3ye8sslw8chxqv&amp;oauth_signature=xqZw6dcqQ7NiJjMeXIBlih%2Bfc%2Bc%3D&amp;oauth_signature_method=HMAC-SHA1&amp;oauth_timestamp=1412262342&amp;oauth_version=1.0a&amp;formatid=33&amp;partnerid=712&amp;onbehalfofpartnerid=712&amp;presigned=1&amp;releaseid=1627544&amp;shopid=34&amp;trackid=17832745&amp;userid=26876350</url>
+								<format id="33">
+									<fileFormat>M4A</fileFormat>
+									<bitRate>320</bitRate>
+									<drmFree>true</drmFree>
+								</format>
+							</downloadUrl>
+						</downloadUrls>
+					</lockerTrack>
+					<lockerTrack>
+						<track id="17832746">
+							<title>Doin' the Best I Can</title>
+							<version/>
+							<artist id="2200">
+								<name>Elvis Presley</name>
+								<appearsAs>Elvis Presley</appearsAs>
+								<url>http://www.7digital.com/artist/elvis-presley-(2)/?partner=5932</url>
+							</artist>
+							<trackNumber>23</trackNumber>
+							<duration>191</duration>
+							<isrc>GBURZ1100717</isrc>
+							<url>http://www.7digital.com/artist/elvis-presley-(2)/release/elvis-8/?partner=5932&amp;h=23</url>
+						</track>
+						<remainingDownloads>5</remainingDownloads>
+						<purchaseId>814716201</purchaseId>
+						<purchaseDate>2014-10-02T14:57:37Z</purchaseDate>
+						<completeAlbumPurchase>true</completeAlbumPurchase>
+						<downloadUrls>
+							<downloadUrl>
+								<url>http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&amp;oauth_nonce=rsj3xpli14ldbcpr&amp;oauth_signature=oBF8QaJNlnKy9OS%2FrWfkfDNESaE%3D&amp;oauth_signature_method=HMAC-SHA1&amp;oauth_timestamp=1412262342&amp;oauth_version=1.0a&amp;formatid=17&amp;partnerid=712&amp;onbehalfofpartnerid=712&amp;presigned=1&amp;releaseid=1627544&amp;shopid=34&amp;trackid=17832746&amp;userid=26876350</url>
+								<format id="17">
+									<fileFormat>MP3</fileFormat>
+									<bitRate>320</bitRate>
+									<drmFree>true</drmFree>
+								</format>
+							</downloadUrl>
+							<downloadUrl>
+								<url>http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&amp;oauth_nonce=4uxalufvkcfc3ptb&amp;oauth_signature=Yrjba8Z2098GssahlmeEZyF4nrI%3D&amp;oauth_signature_method=HMAC-SHA1&amp;oauth_timestamp=1412262342&amp;oauth_version=1.0a&amp;formatid=33&amp;partnerid=712&amp;onbehalfofpartnerid=712&amp;presigned=1&amp;releaseid=1627544&amp;shopid=34&amp;trackid=17832746&amp;userid=26876350</url>
+								<format id="33">
+									<fileFormat>M4A</fileFormat>
+									<bitRate>320</bitRate>
+									<drmFree>true</drmFree>
+								</format>
+							</downloadUrl>
+						</downloadUrls>
+					</lockerTrack>
+					<lockerTrack>
+						<track id="17832747">
+							<title>Tonight's All Right for Love</title>
+							<version/>
+							<artist id="2200">
+								<name>Elvis Presley</name>
+								<appearsAs>Elvis Presley</appearsAs>
+								<url>http://www.7digital.com/artist/elvis-presley-(2)/?partner=5932</url>
+							</artist>
+							<trackNumber>24</trackNumber>
+							<duration>81</duration>
+							<isrc>GBURZ1100718</isrc>
+							<url>http://www.7digital.com/artist/elvis-presley-(2)/release/elvis-8/?partner=5932&amp;h=24</url>
+						</track>
+						<remainingDownloads>5</remainingDownloads>
+						<purchaseId>814716201</purchaseId>
+						<purchaseDate>2014-10-02T14:57:37Z</purchaseDate>
+						<completeAlbumPurchase>true</completeAlbumPurchase>
+						<downloadUrls>
+							<downloadUrl>
+								<url>http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&amp;oauth_nonce=h5wh63ff9u8kvori&amp;oauth_signature=ryymORjGLk%2FJpPrxZH9ZqwS8b0c%3D&amp;oauth_signature_method=HMAC-SHA1&amp;oauth_timestamp=1412262342&amp;oauth_version=1.0a&amp;formatid=17&amp;partnerid=712&amp;onbehalfofpartnerid=712&amp;presigned=1&amp;releaseid=1627544&amp;shopid=34&amp;trackid=17832747&amp;userid=26876350</url>
+								<format id="17">
+									<fileFormat>MP3</fileFormat>
+									<bitRate>320</bitRate>
+									<drmFree>true</drmFree>
+								</format>
+							</downloadUrl>
+							<downloadUrl>
+								<url>http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&amp;oauth_nonce=gqiwaqj7nysvjjpl&amp;oauth_signature=Q0PhXXMFpPBNnzDnX%2B7QK8%2Bod7k%3D&amp;oauth_signature_method=HMAC-SHA1&amp;oauth_timestamp=1412262342&amp;oauth_version=1.0a&amp;formatid=33&amp;partnerid=712&amp;onbehalfofpartnerid=712&amp;presigned=1&amp;releaseid=1627544&amp;shopid=34&amp;trackid=17832747&amp;userid=26876350</url>
+								<format id="33">
+									<fileFormat>M4A</fileFormat>
+									<bitRate>320</bitRate>
+									<drmFree>true</drmFree>
+								</format>
+							</downloadUrl>
+						</downloadUrls>
+					</lockerTrack>
+					<lockerTrack>
+						<track id="17832748">
+							<title>There's Always Me</title>
+							<version/>
+							<artist id="2200">
+								<name>Elvis Presley</name>
+								<appearsAs>Elvis Presley</appearsAs>
+								<url>http://www.7digital.com/artist/elvis-presley-(2)/?partner=5932</url>
+							</artist>
+							<trackNumber>25</trackNumber>
+							<duration>139</duration>
+							<isrc>GBURZ1104795</isrc>
+							<url>http://www.7digital.com/artist/elvis-presley-(2)/release/elvis-8/?partner=5932&amp;h=25</url>
+						</track>
+						<remainingDownloads>5</remainingDownloads>
+						<purchaseId>814716201</purchaseId>
+						<purchaseDate>2014-10-02T14:57:37Z</purchaseDate>
+						<completeAlbumPurchase>true</completeAlbumPurchase>
+						<downloadUrls>
+							<downloadUrl>
+								<url>http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&amp;oauth_nonce=jk7gqhvbpsb1w6a6&amp;oauth_signature=PzjtOHptzGjJHkYpYoQWwRt9SIY%3D&amp;oauth_signature_method=HMAC-SHA1&amp;oauth_timestamp=1412262342&amp;oauth_version=1.0a&amp;formatid=17&amp;partnerid=712&amp;onbehalfofpartnerid=712&amp;presigned=1&amp;releaseid=1627544&amp;shopid=34&amp;trackid=17832748&amp;userid=26876350</url>
+								<format id="17">
+									<fileFormat>MP3</fileFormat>
+									<bitRate>320</bitRate>
+									<drmFree>true</drmFree>
+								</format>
+							</downloadUrl>
+							<downloadUrl>
+								<url>http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&amp;oauth_nonce=u86lg7b1uz5hkt7z&amp;oauth_signature=ICm46npYiH5yBSBltMHTUCTSU9g%3D&amp;oauth_signature_method=HMAC-SHA1&amp;oauth_timestamp=1412262342&amp;oauth_version=1.0a&amp;formatid=33&amp;partnerid=712&amp;onbehalfofpartnerid=712&amp;presigned=1&amp;releaseid=1627544&amp;shopid=34&amp;trackid=17832748&amp;userid=26876350</url>
+								<format id="33">
+									<fileFormat>M4A</fileFormat>
+									<bitRate>320</bitRate>
+									<drmFree>true</drmFree>
+								</format>
+							</downloadUrl>
+						</downloadUrls>
+					</lockerTrack>
+					<lockerTrack>
+						<track id="17832749">
+							<title>Give Me the Right</title>
+							<version/>
+							<artist id="2200">
+								<name>Elvis Presley</name>
+								<appearsAs>Elvis Presley</appearsAs>
+								<url>http://www.7digital.com/artist/elvis-presley-(2)/?partner=5932</url>
+							</artist>
+							<trackNumber>26</trackNumber>
+							<duration>156</duration>
+							<isrc>GBURZ1104796</isrc>
+							<url>http://www.7digital.com/artist/elvis-presley-(2)/release/elvis-8/?partner=5932&amp;h=26</url>
+						</track>
+						<remainingDownloads>5</remainingDownloads>
+						<purchaseId>814716201</purchaseId>
+						<purchaseDate>2014-10-02T14:57:37Z</purchaseDate>
+						<completeAlbumPurchase>true</completeAlbumPurchase>
+						<downloadUrls>
+							<downloadUrl>
+								<url>http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&amp;oauth_nonce=evalsk396hhrpskr&amp;oauth_signature=E%2FMQrpoAaNJKLxp34TiK10sJhIo%3D&amp;oauth_signature_method=HMAC-SHA1&amp;oauth_timestamp=1412262342&amp;oauth_version=1.0a&amp;formatid=17&amp;partnerid=712&amp;onbehalfofpartnerid=712&amp;presigned=1&amp;releaseid=1627544&amp;shopid=34&amp;trackid=17832749&amp;userid=26876350</url>
+								<format id="17">
+									<fileFormat>MP3</fileFormat>
+									<bitRate>320</bitRate>
+									<drmFree>true</drmFree>
+								</format>
+							</downloadUrl>
+							<downloadUrl>
+								<url>http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&amp;oauth_nonce=xwamnefnifv2nn26&amp;oauth_signature=oTb6c0ZCZmxEg%2FpApt%2F1oBxVEbU%3D&amp;oauth_signature_method=HMAC-SHA1&amp;oauth_timestamp=1412262342&amp;oauth_version=1.0a&amp;formatid=33&amp;partnerid=712&amp;onbehalfofpartnerid=712&amp;presigned=1&amp;releaseid=1627544&amp;shopid=34&amp;trackid=17832749&amp;userid=26876350</url>
+								<format id="33">
+									<fileFormat>M4A</fileFormat>
+									<bitRate>320</bitRate>
+									<drmFree>true</drmFree>
+								</format>
+							</downloadUrl>
+						</downloadUrls>
+					</lockerTrack>
+					<lockerTrack>
+						<track id="17832750">
+							<title>It's a Sin</title>
+							<version/>
+							<artist id="2200">
+								<name>Elvis Presley</name>
+								<appearsAs>Elvis Presley</appearsAs>
+								<url>http://www.7digital.com/artist/elvis-presley-(2)/?partner=5932</url>
+							</artist>
+							<trackNumber>27</trackNumber>
+							<duration>163</duration>
+							<isrc>GBURZ1104797</isrc>
+							<url>http://www.7digital.com/artist/elvis-presley-(2)/release/elvis-8/?partner=5932&amp;h=27</url>
+						</track>
+						<remainingDownloads>5</remainingDownloads>
+						<purchaseId>814716201</purchaseId>
+						<purchaseDate>2014-10-02T14:57:37Z</purchaseDate>
+						<completeAlbumPurchase>true</completeAlbumPurchase>
+						<downloadUrls>
+							<downloadUrl>
+								<url>http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&amp;oauth_nonce=wlwa5ymke7p9ytkc&amp;oauth_signature=8t2rkBgEEFsJ6sOnPEHRv6e%2B4AE%3D&amp;oauth_signature_method=HMAC-SHA1&amp;oauth_timestamp=1412262342&amp;oauth_version=1.0a&amp;formatid=17&amp;partnerid=712&amp;onbehalfofpartnerid=712&amp;presigned=1&amp;releaseid=1627544&amp;shopid=34&amp;trackid=17832750&amp;userid=26876350</url>
+								<format id="17">
+									<fileFormat>MP3</fileFormat>
+									<bitRate>320</bitRate>
+									<drmFree>true</drmFree>
+								</format>
+							</downloadUrl>
+							<downloadUrl>
+								<url>http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&amp;oauth_nonce=pmtxstmaqxcmyavr&amp;oauth_signature=7c3TRQyZ2xlr1h2jbt5HCZPXHvU%3D&amp;oauth_signature_method=HMAC-SHA1&amp;oauth_timestamp=1412262342&amp;oauth_version=1.0a&amp;formatid=33&amp;partnerid=712&amp;onbehalfofpartnerid=712&amp;presigned=1&amp;releaseid=1627544&amp;shopid=34&amp;trackid=17832750&amp;userid=26876350</url>
+								<format id="33">
+									<fileFormat>M4A</fileFormat>
+									<bitRate>320</bitRate>
+									<drmFree>true</drmFree>
+								</format>
+							</downloadUrl>
+						</downloadUrls>
+					</lockerTrack>
+					<lockerTrack>
+						<track id="17832751">
+							<title>Sentimental Me</title>
+							<version/>
+							<artist id="2200">
+								<name>Elvis Presley</name>
+								<appearsAs>Elvis Presley</appearsAs>
+								<url>http://www.7digital.com/artist/elvis-presley-(2)/?partner=5932</url>
+							</artist>
+							<trackNumber>28</trackNumber>
+							<duration>154</duration>
+							<isrc>GBURZ1104798</isrc>
+							<url>http://www.7digital.com/artist/elvis-presley-(2)/release/elvis-8/?partner=5932&amp;h=28</url>
+						</track>
+						<remainingDownloads>5</remainingDownloads>
+						<purchaseId>814716201</purchaseId>
+						<purchaseDate>2014-10-02T14:57:37Z</purchaseDate>
+						<completeAlbumPurchase>true</completeAlbumPurchase>
+						<downloadUrls>
+							<downloadUrl>
+								<url>http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&amp;oauth_nonce=qm6e7jx0k1hrygyz&amp;oauth_signature=7viKnfRtjOQaX6k1BsVbdshy2AA%3D&amp;oauth_signature_method=HMAC-SHA1&amp;oauth_timestamp=1412262342&amp;oauth_version=1.0a&amp;formatid=17&amp;partnerid=712&amp;onbehalfofpartnerid=712&amp;presigned=1&amp;releaseid=1627544&amp;shopid=34&amp;trackid=17832751&amp;userid=26876350</url>
+								<format id="17">
+									<fileFormat>MP3</fileFormat>
+									<bitRate>320</bitRate>
+									<drmFree>true</drmFree>
+								</format>
+							</downloadUrl>
+							<downloadUrl>
+								<url>http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&amp;oauth_nonce=6tma5dnc0vugw0ve&amp;oauth_signature=qyU82HpVISE1CuDkYsH42uGBQew%3D&amp;oauth_signature_method=HMAC-SHA1&amp;oauth_timestamp=1412262342&amp;oauth_version=1.0a&amp;formatid=33&amp;partnerid=712&amp;onbehalfofpartnerid=712&amp;presigned=1&amp;releaseid=1627544&amp;shopid=34&amp;trackid=17832751&amp;userid=26876350</url>
+								<format id="33">
+									<fileFormat>M4A</fileFormat>
+									<bitRate>320</bitRate>
+									<drmFree>true</drmFree>
+								</format>
+							</downloadUrl>
+						</downloadUrls>
+					</lockerTrack>
+					<lockerTrack>
+						<track id="17832752">
+							<title>Starting Today</title>
+							<version/>
+							<artist id="2200">
+								<name>Elvis Presley</name>
+								<appearsAs>Elvis Presley</appearsAs>
+								<url>http://www.7digital.com/artist/elvis-presley-(2)/?partner=5932</url>
+							</artist>
+							<trackNumber>29</trackNumber>
+							<duration>126</duration>
+							<isrc>GBURZ1104799</isrc>
+							<url>http://www.7digital.com/artist/elvis-presley-(2)/release/elvis-8/?partner=5932&amp;h=29</url>
+						</track>
+						<remainingDownloads>5</remainingDownloads>
+						<purchaseId>814716201</purchaseId>
+						<purchaseDate>2014-10-02T14:57:37Z</purchaseDate>
+						<completeAlbumPurchase>true</completeAlbumPurchase>
+						<downloadUrls>
+							<downloadUrl>
+								<url>http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&amp;oauth_nonce=k8smxgffzum3m6lj&amp;oauth_signature=HyeOqyX6nkVtE%2FwmSAlnr13bpTE%3D&amp;oauth_signature_method=HMAC-SHA1&amp;oauth_timestamp=1412262342&amp;oauth_version=1.0a&amp;formatid=17&amp;partnerid=712&amp;onbehalfofpartnerid=712&amp;presigned=1&amp;releaseid=1627544&amp;shopid=34&amp;trackid=17832752&amp;userid=26876350</url>
+								<format id="17">
+									<fileFormat>MP3</fileFormat>
+									<bitRate>320</bitRate>
+									<drmFree>true</drmFree>
+								</format>
+							</downloadUrl>
+							<downloadUrl>
+								<url>http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&amp;oauth_nonce=0mreyvxm04flzqmk&amp;oauth_signature=0dxBCQMI53QtVaJM1agdxmDQZeY%3D&amp;oauth_signature_method=HMAC-SHA1&amp;oauth_timestamp=1412262342&amp;oauth_version=1.0a&amp;formatid=33&amp;partnerid=712&amp;onbehalfofpartnerid=712&amp;presigned=1&amp;releaseid=1627544&amp;shopid=34&amp;trackid=17832752&amp;userid=26876350</url>
+								<format id="33">
+									<fileFormat>M4A</fileFormat>
+									<bitRate>320</bitRate>
+									<drmFree>true</drmFree>
+								</format>
+							</downloadUrl>
+						</downloadUrls>
+					</lockerTrack>
+					<lockerTrack>
+						<track id="17832753">
+							<title>Gently</title>
+							<version/>
+							<artist id="2200">
+								<name>Elvis Presley</name>
+								<appearsAs>Elvis Presley</appearsAs>
+								<url>http://www.7digital.com/artist/elvis-presley-(2)/?partner=5932</url>
+							</artist>
+							<trackNumber>30</trackNumber>
+							<duration>138</duration>
+							<isrc>GBURZ1104800</isrc>
+							<url>http://www.7digital.com/artist/elvis-presley-(2)/release/elvis-8/?partner=5932&amp;h=30</url>
+						</track>
+						<remainingDownloads>5</remainingDownloads>
+						<purchaseId>814716201</purchaseId>
+						<purchaseDate>2014-10-02T14:57:37Z</purchaseDate>
+						<completeAlbumPurchase>true</completeAlbumPurchase>
+						<downloadUrls>
+							<downloadUrl>
+								<url>http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&amp;oauth_nonce=ecg1ylbyogkj2uze&amp;oauth_signature=YicR%2F8Ulq0h9%2FS%2BSvk40WqwK4Us%3D&amp;oauth_signature_method=HMAC-SHA1&amp;oauth_timestamp=1412262342&amp;oauth_version=1.0a&amp;formatid=17&amp;partnerid=712&amp;onbehalfofpartnerid=712&amp;presigned=1&amp;releaseid=1627544&amp;shopid=34&amp;trackid=17832753&amp;userid=26876350</url>
+								<format id="17">
+									<fileFormat>MP3</fileFormat>
+									<bitRate>320</bitRate>
+									<drmFree>true</drmFree>
+								</format>
+							</downloadUrl>
+							<downloadUrl>
+								<url>http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&amp;oauth_nonce=jkhjsrqykfn5b5qi&amp;oauth_signature=fH1%2BOiaqJ12cw%2B%2B7ShVMEtsugCE%3D&amp;oauth_signature_method=HMAC-SHA1&amp;oauth_timestamp=1412262342&amp;oauth_version=1.0a&amp;formatid=33&amp;partnerid=712&amp;onbehalfofpartnerid=712&amp;presigned=1&amp;releaseid=1627544&amp;shopid=34&amp;trackid=17832753&amp;userid=26876350</url>
+								<format id="33">
+									<fileFormat>M4A</fileFormat>
+									<bitRate>320</bitRate>
+									<drmFree>true</drmFree>
+								</format>
+							</downloadUrl>
+						</downloadUrls>
+					</lockerTrack>
+					<lockerTrack>
+						<track id="17832754">
+							<title>I'm Coming Home</title>
+							<version/>
+							<artist id="2200">
+								<name>Elvis Presley</name>
+								<appearsAs>Elvis Presley</appearsAs>
+								<url>http://www.7digital.com/artist/elvis-presley-(2)/?partner=5932</url>
+							</artist>
+							<trackNumber>31</trackNumber>
+							<duration>144</duration>
+							<isrc>GBURZ1104801</isrc>
+							<url>http://www.7digital.com/artist/elvis-presley-(2)/release/elvis-8/?partner=5932&amp;h=31</url>
+						</track>
+						<remainingDownloads>5</remainingDownloads>
+						<purchaseId>814716201</purchaseId>
+						<purchaseDate>2014-10-02T14:57:37Z</purchaseDate>
+						<completeAlbumPurchase>true</completeAlbumPurchase>
+						<downloadUrls>
+							<downloadUrl>
+								<url>http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&amp;oauth_nonce=hbykyvuxl41rlovo&amp;oauth_signature=P2n1bFfAuFCljRi7dkLlX%2BtLvvQ%3D&amp;oauth_signature_method=HMAC-SHA1&amp;oauth_timestamp=1412262342&amp;oauth_version=1.0a&amp;formatid=17&amp;partnerid=712&amp;onbehalfofpartnerid=712&amp;presigned=1&amp;releaseid=1627544&amp;shopid=34&amp;trackid=17832754&amp;userid=26876350</url>
+								<format id="17">
+									<fileFormat>MP3</fileFormat>
+									<bitRate>320</bitRate>
+									<drmFree>true</drmFree>
+								</format>
+							</downloadUrl>
+							<downloadUrl>
+								<url>http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&amp;oauth_nonce=dbbojd3xwrqs9gxu&amp;oauth_signature=SVqbNmr3VwvAC%2F5lP4%2FuRLr2cwo%3D&amp;oauth_signature_method=HMAC-SHA1&amp;oauth_timestamp=1412262342&amp;oauth_version=1.0a&amp;formatid=33&amp;partnerid=712&amp;onbehalfofpartnerid=712&amp;presigned=1&amp;releaseid=1627544&amp;shopid=34&amp;trackid=17832754&amp;userid=26876350</url>
+								<format id="33">
+									<fileFormat>M4A</fileFormat>
+									<bitRate>320</bitRate>
+									<drmFree>true</drmFree>
+								</format>
+							</downloadUrl>
+						</downloadUrls>
+					</lockerTrack>
+					<lockerTrack>
+						<track id="17832755">
+							<title>In Your Arms</title>
+							<version/>
+							<artist id="2200">
+								<name>Elvis Presley</name>
+								<appearsAs>Elvis Presley</appearsAs>
+								<url>http://www.7digital.com/artist/elvis-presley-(2)/?partner=5932</url>
+							</artist>
+							<trackNumber>32</trackNumber>
+							<duration>111</duration>
+							<isrc>GBURZ1104802</isrc>
+							<url>http://www.7digital.com/artist/elvis-presley-(2)/release/elvis-8/?partner=5932&amp;h=32</url>
+						</track>
+						<remainingDownloads>5</remainingDownloads>
+						<purchaseId>814716201</purchaseId>
+						<purchaseDate>2014-10-02T14:57:37Z</purchaseDate>
+						<completeAlbumPurchase>true</completeAlbumPurchase>
+						<downloadUrls>
+							<downloadUrl>
+								<url>http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&amp;oauth_nonce=1cbz7ppy1u8y19n6&amp;oauth_signature=VbfMOKZQ5GvZiMMkmrNWrvzg4KU%3D&amp;oauth_signature_method=HMAC-SHA1&amp;oauth_timestamp=1412262342&amp;oauth_version=1.0a&amp;formatid=17&amp;partnerid=712&amp;onbehalfofpartnerid=712&amp;presigned=1&amp;releaseid=1627544&amp;shopid=34&amp;trackid=17832755&amp;userid=26876350</url>
+								<format id="17">
+									<fileFormat>MP3</fileFormat>
+									<bitRate>320</bitRate>
+									<drmFree>true</drmFree>
+								</format>
+							</downloadUrl>
+							<downloadUrl>
+								<url>http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&amp;oauth_nonce=u02a3c0ejaxgebye&amp;oauth_signature=9tknb%2FfcCH8c1MUuq5h4YEJMX6k%3D&amp;oauth_signature_method=HMAC-SHA1&amp;oauth_timestamp=1412262342&amp;oauth_version=1.0a&amp;formatid=33&amp;partnerid=712&amp;onbehalfofpartnerid=712&amp;presigned=1&amp;releaseid=1627544&amp;shopid=34&amp;trackid=17832755&amp;userid=26876350</url>
+								<format id="33">
+									<fileFormat>M4A</fileFormat>
+									<bitRate>320</bitRate>
+									<drmFree>true</drmFree>
+								</format>
+							</downloadUrl>
+						</downloadUrls>
+					</lockerTrack>
+					<lockerTrack>
+						<track id="17832756">
+							<title>Put the Blame On Me</title>
+							<version/>
+							<artist id="2200">
+								<name>Elvis Presley</name>
+								<appearsAs>Elvis Presley</appearsAs>
+								<url>http://www.7digital.com/artist/elvis-presley-(2)/?partner=5932</url>
+							</artist>
+							<trackNumber>33</trackNumber>
+							<duration>118</duration>
+							<isrc>GBURZ1104803</isrc>
+							<url>http://www.7digital.com/artist/elvis-presley-(2)/release/elvis-8/?partner=5932&amp;h=33</url>
+						</track>
+						<remainingDownloads>5</remainingDownloads>
+						<purchaseId>814716201</purchaseId>
+						<purchaseDate>2014-10-02T14:57:37Z</purchaseDate>
+						<completeAlbumPurchase>true</completeAlbumPurchase>
+						<downloadUrls>
+							<downloadUrl>
+								<url>http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&amp;oauth_nonce=fg2jm6rxvmyyfd7x&amp;oauth_signature=2At%2FcNR0FeGVkEJoYdchg4fEElo%3D&amp;oauth_signature_method=HMAC-SHA1&amp;oauth_timestamp=1412262342&amp;oauth_version=1.0a&amp;formatid=17&amp;partnerid=712&amp;onbehalfofpartnerid=712&amp;presigned=1&amp;releaseid=1627544&amp;shopid=34&amp;trackid=17832756&amp;userid=26876350</url>
+								<format id="17">
+									<fileFormat>MP3</fileFormat>
+									<bitRate>320</bitRate>
+									<drmFree>true</drmFree>
+								</format>
+							</downloadUrl>
+							<downloadUrl>
+								<url>http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&amp;oauth_nonce=eu90pw2yc7q63iuy&amp;oauth_signature=cDsecXHEdq5bl0JRZbeemgyFglY%3D&amp;oauth_signature_method=HMAC-SHA1&amp;oauth_timestamp=1412262342&amp;oauth_version=1.0a&amp;formatid=33&amp;partnerid=712&amp;onbehalfofpartnerid=712&amp;presigned=1&amp;releaseid=1627544&amp;shopid=34&amp;trackid=17832756&amp;userid=26876350</url>
+								<format id="33">
+									<fileFormat>M4A</fileFormat>
+									<bitRate>320</bitRate>
+									<drmFree>true</drmFree>
+								</format>
+							</downloadUrl>
+						</downloadUrls>
+					</lockerTrack>
+					<lockerTrack>
+						<track id="17832757">
+							<title>Judy</title>
+							<version/>
+							<artist id="2200">
+								<name>Elvis Presley</name>
+								<appearsAs>Elvis Presley</appearsAs>
+								<url>http://www.7digital.com/artist/elvis-presley-(2)/?partner=5932</url>
+							</artist>
+							<trackNumber>34</trackNumber>
+							<duration>130</duration>
+							<isrc>GBURZ1104804</isrc>
+							<url>http://www.7digital.com/artist/elvis-presley-(2)/release/elvis-8/?partner=5932&amp;h=34</url>
+						</track>
+						<remainingDownloads>5</remainingDownloads>
+						<purchaseId>814716201</purchaseId>
+						<purchaseDate>2014-10-02T14:57:37Z</purchaseDate>
+						<completeAlbumPurchase>true</completeAlbumPurchase>
+						<downloadUrls>
+							<downloadUrl>
+								<url>http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&amp;oauth_nonce=64suhetzrdopnk0f&amp;oauth_signature=xskAJS71vGFwhmeKe5258qEYLlc%3D&amp;oauth_signature_method=HMAC-SHA1&amp;oauth_timestamp=1412262342&amp;oauth_version=1.0a&amp;formatid=17&amp;partnerid=712&amp;onbehalfofpartnerid=712&amp;presigned=1&amp;releaseid=1627544&amp;shopid=34&amp;trackid=17832757&amp;userid=26876350</url>
+								<format id="17">
+									<fileFormat>MP3</fileFormat>
+									<bitRate>320</bitRate>
+									<drmFree>true</drmFree>
+								</format>
+							</downloadUrl>
+							<downloadUrl>
+								<url>http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&amp;oauth_nonce=e0cudzztodgppw6m&amp;oauth_signature=xm9agvGPjWdf71aQW42YyStGpJQ%3D&amp;oauth_signature_method=HMAC-SHA1&amp;oauth_timestamp=1412262342&amp;oauth_version=1.0a&amp;formatid=33&amp;partnerid=712&amp;onbehalfofpartnerid=712&amp;presigned=1&amp;releaseid=1627544&amp;shopid=34&amp;trackid=17832757&amp;userid=26876350</url>
+								<format id="33">
+									<fileFormat>M4A</fileFormat>
+									<bitRate>320</bitRate>
+									<drmFree>true</drmFree>
+								</format>
+							</downloadUrl>
+						</downloadUrls>
+					</lockerTrack>
+					<lockerTrack>
+						<track id="17832758">
+							<title>I Want You With Me</title>
+							<version/>
+							<artist id="2200">
+								<name>Elvis Presley</name>
+								<appearsAs>Elvis Presley</appearsAs>
+								<url>http://www.7digital.com/artist/elvis-presley-(2)/?partner=5932</url>
+							</artist>
+							<trackNumber>35</trackNumber>
+							<duration>136</duration>
+							<isrc>GBURZ1104805</isrc>
+							<url>http://www.7digital.com/artist/elvis-presley-(2)/release/elvis-8/?partner=5932&amp;h=35</url>
+						</track>
+						<remainingDownloads>5</remainingDownloads>
+						<purchaseId>814716201</purchaseId>
+						<purchaseDate>2014-10-02T14:57:37Z</purchaseDate>
+						<completeAlbumPurchase>true</completeAlbumPurchase>
+						<downloadUrls>
+							<downloadUrl>
+								<url>http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&amp;oauth_nonce=3a3lulqabirlilk2&amp;oauth_signature=geifjsjQmAeEA%2FW5aBVNAfx3i%2Fk%3D&amp;oauth_signature_method=HMAC-SHA1&amp;oauth_timestamp=1412262342&amp;oauth_version=1.0a&amp;formatid=17&amp;partnerid=712&amp;onbehalfofpartnerid=712&amp;presigned=1&amp;releaseid=1627544&amp;shopid=34&amp;trackid=17832758&amp;userid=26876350</url>
+								<format id="17">
+									<fileFormat>MP3</fileFormat>
+									<bitRate>320</bitRate>
+									<drmFree>true</drmFree>
+								</format>
+							</downloadUrl>
+							<downloadUrl>
+								<url>http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&amp;oauth_nonce=7l23g0ugd0ge8dj6&amp;oauth_signature=dtu7GadlNYDjWORNHt8pIGtg9og%3D&amp;oauth_signature_method=HMAC-SHA1&amp;oauth_timestamp=1412262342&amp;oauth_version=1.0a&amp;formatid=33&amp;partnerid=712&amp;onbehalfofpartnerid=712&amp;presigned=1&amp;releaseid=1627544&amp;shopid=34&amp;trackid=17832758&amp;userid=26876350</url>
+								<format id="33">
+									<fileFormat>M4A</fileFormat>
+									<bitRate>320</bitRate>
+									<drmFree>true</drmFree>
+								</format>
+							</downloadUrl>
+						</downloadUrls>
+					</lockerTrack>
+					<lockerTrack>
+						<track id="17832759">
+							<title>I Slipped, I Stumbled, I Fell</title>
+							<version/>
+							<artist id="2200">
+								<name>Elvis Presley</name>
+								<appearsAs>Elvis Presley</appearsAs>
+								<url>http://www.7digital.com/artist/elvis-presley-(2)/?partner=5932</url>
+							</artist>
+							<trackNumber>36</trackNumber>
+							<duration>96</duration>
+							<isrc>GBURZ1104806</isrc>
+							<url>http://www.7digital.com/artist/elvis-presley-(2)/release/elvis-8/?partner=5932&amp;h=36</url>
+						</track>
+						<remainingDownloads>5</remainingDownloads>
+						<purchaseId>814716201</purchaseId>
+						<purchaseDate>2014-10-02T14:57:37Z</purchaseDate>
+						<completeAlbumPurchase>true</completeAlbumPurchase>
+						<downloadUrls>
+							<downloadUrl>
+								<url>http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&amp;oauth_nonce=hcxnsxu3tcs6holc&amp;oauth_signature=oBGZb26ScWcwSAbdo5WFpMqvmx4%3D&amp;oauth_signature_method=HMAC-SHA1&amp;oauth_timestamp=1412262342&amp;oauth_version=1.0a&amp;formatid=17&amp;partnerid=712&amp;onbehalfofpartnerid=712&amp;presigned=1&amp;releaseid=1627544&amp;shopid=34&amp;trackid=17832759&amp;userid=26876350</url>
+								<format id="17">
+									<fileFormat>MP3</fileFormat>
+									<bitRate>320</bitRate>
+									<drmFree>true</drmFree>
+								</format>
+							</downloadUrl>
+							<downloadUrl>
+								<url>http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&amp;oauth_nonce=3pte5dg3qwivflc8&amp;oauth_signature=iT%2F0TatW9H%2BUgwIoP9ANPRJ4rE8%3D&amp;oauth_signature_method=HMAC-SHA1&amp;oauth_timestamp=1412262342&amp;oauth_version=1.0a&amp;formatid=33&amp;partnerid=712&amp;onbehalfofpartnerid=712&amp;presigned=1&amp;releaseid=1627544&amp;shopid=34&amp;trackid=17832759&amp;userid=26876350</url>
+								<format id="33">
+									<fileFormat>M4A</fileFormat>
+									<bitRate>320</bitRate>
+									<drmFree>true</drmFree>
+								</format>
+							</downloadUrl>
+						</downloadUrls>
+					</lockerTrack>
+					<lockerTrack>
+						<track id="17832760">
+							<title>Pocketful of Rainbows</title>
+							<version/>
+							<artist id="2200">
+								<name>Elvis Presley</name>
+								<appearsAs>Elvis Presley</appearsAs>
+								<url>http://www.7digital.com/artist/elvis-presley-(2)/?partner=5932</url>
+							</artist>
+							<trackNumber>37</trackNumber>
+							<duration>155</duration>
+							<isrc>GBURZ1100712</isrc>
+							<url>http://www.7digital.com/artist/elvis-presley-(2)/release/elvis-8/?partner=5932&amp;h=37</url>
+						</track>
+						<remainingDownloads>5</remainingDownloads>
+						<purchaseId>814716201</purchaseId>
+						<purchaseDate>2014-10-02T14:57:37Z</purchaseDate>
+						<completeAlbumPurchase>true</completeAlbumPurchase>
+						<downloadUrls>
+							<downloadUrl>
+								<url>http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&amp;oauth_nonce=0wdfy7ji29ieqz0z&amp;oauth_signature=HoYH%2BMl3FsyCOyCMmJQDfiQQ6Uw%3D&amp;oauth_signature_method=HMAC-SHA1&amp;oauth_timestamp=1412262342&amp;oauth_version=1.0a&amp;formatid=17&amp;partnerid=712&amp;onbehalfofpartnerid=712&amp;presigned=1&amp;releaseid=1627544&amp;shopid=34&amp;trackid=17832760&amp;userid=26876350</url>
+								<format id="17">
+									<fileFormat>MP3</fileFormat>
+									<bitRate>320</bitRate>
+									<drmFree>true</drmFree>
+								</format>
+							</downloadUrl>
+							<downloadUrl>
+								<url>http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&amp;oauth_nonce=ydlsufae6587p0xi&amp;oauth_signature=lwW9gKmzmGybWey1Zg1SfjhuT1g%3D&amp;oauth_signature_method=HMAC-SHA1&amp;oauth_timestamp=1412262342&amp;oauth_version=1.0a&amp;formatid=33&amp;partnerid=712&amp;onbehalfofpartnerid=712&amp;presigned=1&amp;releaseid=1627544&amp;shopid=34&amp;trackid=17832760&amp;userid=26876350</url>
+								<format id="33">
+									<fileFormat>M4A</fileFormat>
+									<bitRate>320</bitRate>
+									<drmFree>true</drmFree>
+								</format>
+							</downloadUrl>
+						</downloadUrls>
+					</lockerTrack>
+					<lockerTrack>
+						<track id="17832761">
+							<title>Frankfort Special</title>
+							<version/>
+							<artist id="2200">
+								<name>Elvis Presley</name>
+								<appearsAs>Elvis Presley</appearsAs>
+								<url>http://www.7digital.com/artist/elvis-presley-(2)/?partner=5932</url>
+							</artist>
+							<trackNumber>38</trackNumber>
+							<duration>178</duration>
+							<isrc>GBURZ1100709</isrc>
+							<url>http://www.7digital.com/artist/elvis-presley-(2)/release/elvis-8/?partner=5932&amp;h=38</url>
+						</track>
+						<remainingDownloads>5</remainingDownloads>
+						<purchaseId>814716201</purchaseId>
+						<purchaseDate>2014-10-02T14:57:37Z</purchaseDate>
+						<completeAlbumPurchase>true</completeAlbumPurchase>
+						<downloadUrls>
+							<downloadUrl>
+								<url>http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&amp;oauth_nonce=0v6ukfn6fkm76cm2&amp;oauth_signature=0kLP8HW3hmLbPwlrdTyO%2Fkp6ZyA%3D&amp;oauth_signature_method=HMAC-SHA1&amp;oauth_timestamp=1412262342&amp;oauth_version=1.0a&amp;formatid=17&amp;partnerid=712&amp;onbehalfofpartnerid=712&amp;presigned=1&amp;releaseid=1627544&amp;shopid=34&amp;trackid=17832761&amp;userid=26876350</url>
+								<format id="17">
+									<fileFormat>MP3</fileFormat>
+									<bitRate>320</bitRate>
+									<drmFree>true</drmFree>
+								</format>
+							</downloadUrl>
+							<downloadUrl>
+								<url>http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&amp;oauth_nonce=wt7c0tn4w0k50m43&amp;oauth_signature=rpjBnvWmzTHVaZW%2FzIlZp4ogsFI%3D&amp;oauth_signature_method=HMAC-SHA1&amp;oauth_timestamp=1412262342&amp;oauth_version=1.0a&amp;formatid=33&amp;partnerid=712&amp;onbehalfofpartnerid=712&amp;presigned=1&amp;releaseid=1627544&amp;shopid=34&amp;trackid=17832761&amp;userid=26876350</url>
+								<format id="33">
+									<fileFormat>M4A</fileFormat>
+									<bitRate>320</bitRate>
+									<drmFree>true</drmFree>
+								</format>
+							</downloadUrl>
+						</downloadUrls>
+					</lockerTrack>
+					<lockerTrack>
+						<track id="17832762">
+							<title>If We Never Meet Again</title>
+							<version>Remastered</version>
+							<artist id="2200">
+								<name>Elvis Presley</name>
+								<appearsAs>Elvis Presley</appearsAs>
+								<url>http://www.7digital.com/artist/elvis-presley-(2)/?partner=5932</url>
+							</artist>
+							<trackNumber>39</trackNumber>
+							<duration>121</duration>
+							<isrc>GBURZ1100868</isrc>
+							<url>http://www.7digital.com/artist/elvis-presley-(2)/release/elvis-8/?partner=5932&amp;h=39</url>
+						</track>
+						<remainingDownloads>5</remainingDownloads>
+						<purchaseId>814716201</purchaseId>
+						<purchaseDate>2014-10-02T14:57:37Z</purchaseDate>
+						<completeAlbumPurchase>true</completeAlbumPurchase>
+						<downloadUrls>
+							<downloadUrl>
+								<url>http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&amp;oauth_nonce=l0e64optzqmj3di4&amp;oauth_signature=1M2MO98dO4pqLJyFYbHwT%2FRfHcE%3D&amp;oauth_signature_method=HMAC-SHA1&amp;oauth_timestamp=1412262342&amp;oauth_version=1.0a&amp;formatid=17&amp;partnerid=712&amp;onbehalfofpartnerid=712&amp;presigned=1&amp;releaseid=1627544&amp;shopid=34&amp;trackid=17832762&amp;userid=26876350</url>
+								<format id="17">
+									<fileFormat>MP3</fileFormat>
+									<bitRate>320</bitRate>
+									<drmFree>true</drmFree>
+								</format>
+							</downloadUrl>
+							<downloadUrl>
+								<url>http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&amp;oauth_nonce=sfj7cviphc9k5t63&amp;oauth_signature=LMiozjA6TmuFxwaaxkh2Az%2Buqk0%3D&amp;oauth_signature_method=HMAC-SHA1&amp;oauth_timestamp=1412262342&amp;oauth_version=1.0a&amp;formatid=33&amp;partnerid=712&amp;onbehalfofpartnerid=712&amp;presigned=1&amp;releaseid=1627544&amp;shopid=34&amp;trackid=17832762&amp;userid=26876350</url>
+								<format id="33">
+									<fileFormat>M4A</fileFormat>
+									<bitRate>320</bitRate>
+									<drmFree>true</drmFree>
+								</format>
+							</downloadUrl>
+						</downloadUrls>
+					</lockerTrack>
+					<lockerTrack>
+						<track id="17832764">
+							<title>King Creole</title>
+							<version/>
+							<artist id="2200">
+								<name>Elvis Presley</name>
+								<appearsAs>Elvis Presley</appearsAs>
+								<url>http://www.7digital.com/artist/elvis-presley-(2)/?partner=5932</url>
+							</artist>
+							<trackNumber>40</trackNumber>
+							<duration>131</duration>
+							<isrc>GBURZ1000969</isrc>
+							<url>http://www.7digital.com/artist/elvis-presley-(2)/release/elvis-8/?partner=5932&amp;h=40</url>
+						</track>
+						<remainingDownloads>5</remainingDownloads>
+						<purchaseId>814716201</purchaseId>
+						<purchaseDate>2014-10-02T14:57:37Z</purchaseDate>
+						<completeAlbumPurchase>true</completeAlbumPurchase>
+						<downloadUrls>
+							<downloadUrl>
+								<url>http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&amp;oauth_nonce=ruv69q8iemmthdas&amp;oauth_signature=fhYkL0QVziyl8NCpSTLKPp74jmU%3D&amp;oauth_signature_method=HMAC-SHA1&amp;oauth_timestamp=1412262342&amp;oauth_version=1.0a&amp;formatid=17&amp;partnerid=712&amp;onbehalfofpartnerid=712&amp;presigned=1&amp;releaseid=1627544&amp;shopid=34&amp;trackid=17832764&amp;userid=26876350</url>
+								<format id="17">
+									<fileFormat>MP3</fileFormat>
+									<bitRate>320</bitRate>
+									<drmFree>true</drmFree>
+								</format>
+							</downloadUrl>
+							<downloadUrl>
+								<url>http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&amp;oauth_nonce=2rm5d7z12yy2peyg&amp;oauth_signature=jDz%2B3FqUDOJI0hfIP%2BGyNRqMiDE%3D&amp;oauth_signature_method=HMAC-SHA1&amp;oauth_timestamp=1412262342&amp;oauth_version=1.0a&amp;formatid=33&amp;partnerid=712&amp;onbehalfofpartnerid=712&amp;presigned=1&amp;releaseid=1627544&amp;shopid=34&amp;trackid=17832764&amp;userid=26876350</url>
+								<format id="33">
+									<fileFormat>M4A</fileFormat>
+									<bitRate>320</bitRate>
+									<drmFree>true</drmFree>
+								</format>
+							</downloadUrl>
+						</downloadUrls>
+					</lockerTrack>
+				</lockerTracks>
+				<available>true</available>
+			</lockerRelease>
+		</lockerReleases>
+	</locker>
 </response>

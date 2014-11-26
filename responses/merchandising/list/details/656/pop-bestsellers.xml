@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<response status="ok" version="1.2" xsi:noNamespaceSchemaLocation="http://api.7digital.com/1.2/static/7digitalAPI.xsd" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<response xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" status="ok" version="1.2" xsi:noNamespaceSchemaLocation="http://api.7digital.com/1.2/static/7digitalAPI.xsd">
 	<list id="833">
 		<key>tabAlbums</key>
 		<listItems>
@@ -44,7 +44,7 @@
 				<type>release</type>
 				<release id="1214168">
 					<title>Eurovision Song Contest Düsseldorf 2011</title>
-					<version />
+					<version/>
 					<type>Album</type>
 					<barcode>5099909705654</barcode>
 					<year>2011</year>
@@ -57,7 +57,7 @@
 					<url>http://www.7digital.com/artists/various-artists/eurovision-song-contest-dusseldorf-2011/?partner=712</url>
 					<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/012/141/0001214168_50.jpg</image>
 					<releaseDate>2011-04-18T00:00:00+01:00</releaseDate>
-					<price />
+					<price/>
 					<formats availableDrmFree="true">
 						<format id="17">
 							<fileFormat>MP3</fileFormat>
@@ -74,7 +74,7 @@
 				<type>release</type>
 				<release id="1279359">
 					<title>Seven Rainbows</title>
-					<version />
+					<version/>
 					<type>Album</type>
 					<barcode>00602527708621</barcode>
 					<year>2011</year>
@@ -88,7 +88,7 @@
 					<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/012/793/0001279359_50.jpg</image>
 					<releaseDate>2011-07-04T00:00:00+01:00</releaseDate>
 					<price>
-						<currency code="GBP" />
+						<currency code="GBP"/>
 						<value>N/A</value>
 						<formattedPrice>N/A</formattedPrice>
 						<rrp>N/A</rrp>
@@ -111,7 +111,7 @@
 				<type>release</type>
 				<release id="1246693">
 					<title>Louder</title>
-					<version />
+					<version/>
 					<type>Single</type>
 					<barcode>5051823027144</barcode>
 					<year>2011</year>
@@ -145,7 +145,7 @@
 				<type>release</type>
 				<release id="1245091">
 					<title>Adulthood</title>
-					<version />
+					<version/>
 					<type>Album</type>
 					<barcode>00602527703435</barcode>
 					<year>2011</year>
@@ -159,11 +159,11 @@
 					<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/012/450/0001245091_50.jpg</image>
 					<releaseDate>2011-05-23T00:00:00+01:00</releaseDate>
 					<price>
-						<currency code="GBP" />
-						<value></value>
-						<formattedPrice></formattedPrice>
-						<rrp></rrp>
-						<formattedRrp></formattedRrp>
+						<currency code="GBP"/>
+						<value/>
+						<formattedPrice/>
+						<rrp/>
+						<formattedRrp/>
 						<onSale>false</onSale>
 					</price>
 					<formats availableDrmFree="true">
@@ -182,7 +182,7 @@
 				<type>release</type>
 				<release id="1212194">
 					<title>One Thousand Pictures</title>
-					<version />
+					<version/>
 					<type>Album</type>
 					<barcode>5065001043949</barcode>
 					<year>2011</year>
@@ -196,7 +196,7 @@
 					<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/012/121/0001212194_50.jpg</image>
 					<releaseDate>2011-05-23T00:00:00+01:00</releaseDate>
 					<price>
-						<currency code="GBP" />
+						<currency code="GBP"/>
 						<value>7.99</value>
 						<formattedPrice>£7.99</formattedPrice>
 						<rrp>7.99</rrp>
@@ -224,7 +224,7 @@
 				<type>release</type>
 				<release id="1305498">
 					<title>Ibiza Rocks 2011</title>
-					<version />
+					<version/>
 					<type>Album</type>
 					<barcode>5051275042955</barcode>
 					<year>2011</year>
@@ -238,7 +238,7 @@
 					<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/013/054/0001305498_50.jpg</image>
 					<releaseDate>2011-07-03T00:00:00+01:00</releaseDate>
 					<price>
-						<currency code="GBP" />
+						<currency code="GBP"/>
 						<value>9.99</value>
 						<formattedPrice>£9.99</formattedPrice>
 						<rrp>9.99</rrp>
@@ -266,7 +266,7 @@
 				<type>release</type>
 				<release id="1258943">
 					<title>Living On The Edge Of Time</title>
-					<version />
+					<version/>
 					<type>Album</type>
 					<barcode>00602527708232</barcode>
 					<year>2011</year>
@@ -280,7 +280,7 @@
 					<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/012/589/0001258943_50.jpg</image>
 					<releaseDate>2011-07-04T00:00:00+01:00</releaseDate>
 					<price>
-						<currency code="GBP" />
+						<currency code="GBP"/>
 						<value>5.49</value>
 						<formattedPrice>£5.49</formattedPrice>
 						<rrp>5.49</rrp>
@@ -303,7 +303,7 @@
 				<type>release</type>
 				<release id="1249176">
 					<title>Demolished Thoughts</title>
-					<version />
+					<version/>
 					<type>Album</type>
 					<barcode>744861095361</barcode>
 					<year>2011</year>
@@ -317,7 +317,7 @@
 					<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/012/491/0001249176_50.jpg</image>
 					<releaseDate>2011-05-23T00:00:00+01:00</releaseDate>
 					<price>
-						<currency code="GBP" />
+						<currency code="GBP"/>
 						<value>7.99</value>
 						<formattedPrice>£7.99</formattedPrice>
 						<rrp>7.99</rrp>
@@ -345,7 +345,7 @@
 				<type>release</type>
 				<release id="1229211">
 					<title>Hessle Audio : 116 &amp; Rising</title>
-					<version />
+					<version/>
 					<type>Album</type>
 					<barcode>5055317213280</barcode>
 					<year>2011</year>
@@ -359,7 +359,7 @@
 					<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/012/292/0001229211_50.jpg</image>
 					<releaseDate>2011-05-23T00:00:00+01:00</releaseDate>
 					<price>
-						<currency code="GBP" />
+						<currency code="GBP"/>
 						<value>7.49</value>
 						<formattedPrice>£7.49</formattedPrice>
 						<rrp>7.49</rrp>
@@ -387,7 +387,7 @@
 				<type>release</type>
 				<release id="1262480">
 					<title>Last Smoke Before The Snowstorm</title>
-					<version />
+					<version/>
 					<type>Album</type>
 					<barcode>881034757869</barcode>
 					<year>2011</year>
@@ -401,7 +401,7 @@
 					<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/012/624/0001262480_50.jpg</image>
 					<releaseDate>2011-07-03T00:00:00+01:00</releaseDate>
 					<price>
-						<currency code="GBP" />
+						<currency code="GBP"/>
 						<value>7.49</value>
 						<formattedPrice>£7.49</formattedPrice>
 						<rrp>7.49</rrp>
@@ -429,7 +429,7 @@
 				<type>release</type>
 				<release id="1222138">
 					<title>Songs</title>
-					<version />
+					<version/>
 					<type>Album</type>
 					<barcode>00602527653730</barcode>
 					<year>2011</year>
@@ -443,7 +443,7 @@
 					<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/012/221/0001222138_50.jpg</image>
 					<releaseDate>2011-07-04T00:00:00+01:00</releaseDate>
 					<price>
-						<currency code="GBP" />
+						<currency code="GBP"/>
 						<value>7.99</value>
 						<formattedPrice>£7.99</formattedPrice>
 						<rrp>7.99</rrp>
@@ -466,7 +466,7 @@
 				<type>release</type>
 				<release id="1249113">
 					<title>Live - World's On Fire</title>
-					<version />
+					<version/>
 					<type>Album</type>
 					<barcode>0711297880489</barcode>
 					<year>2011</year>
@@ -480,7 +480,7 @@
 					<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/012/491/0001249113_50.jpg</image>
 					<releaseDate>2011-05-22T00:00:00+01:00</releaseDate>
 					<price>
-						<currency code="GBP" />
+						<currency code="GBP"/>
 						<value>7.99</value>
 						<formattedPrice>£7.99</formattedPrice>
 						<rrp>7.99</rrp>
@@ -508,7 +508,7 @@
 				<type>release</type>
 				<release id="1238257">
 					<title>Brilliant! Tragic!</title>
-					<version />
+					<version/>
 					<type>Album</type>
 					<barcode>0711297493443</barcode>
 					<year>2011</year>
@@ -522,7 +522,7 @@
 					<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/012/382/0001238257_50.jpg</image>
 					<releaseDate>2011-05-22T00:00:00+01:00</releaseDate>
 					<price>
-						<currency code="GBP" />
+						<currency code="GBP"/>
 						<value>7.99</value>
 						<formattedPrice>£7.99</formattedPrice>
 						<rrp>7.99</rrp>
@@ -550,7 +550,7 @@
 				<type>release</type>
 				<release id="1291499">
 					<title>DJ-Kicks</title>
-					<version />
+					<version/>
 					<type>Album</type>
 					<barcode>0730003728549</barcode>
 					<year>2011</year>
@@ -564,7 +564,7 @@
 					<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/012/914/0001291499_50.jpg</image>
 					<releaseDate>2011-07-04T00:00:00+01:00</releaseDate>
 					<price>
-						<currency code="GBP" />
+						<currency code="GBP"/>
 						<value>7.99</value>
 						<formattedPrice>£7.99</formattedPrice>
 						<rrp>7.99</rrp>
@@ -592,7 +592,7 @@
 				<type>release</type>
 				<release id="1244355">
 					<title>Bon Iver</title>
-					<version />
+					<version/>
 					<type>Album</type>
 					<barcode>652637311761</barcode>
 					<year>2011</year>
@@ -606,7 +606,7 @@
 					<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/012/443/0001244355_50.jpg</image>
 					<releaseDate>2011-06-20T00:00:00+01:00</releaseDate>
 					<price>
-						<currency code="GBP" />
+						<currency code="GBP"/>
 						<value>7.99</value>
 						<formattedPrice>£7.99</formattedPrice>
 						<rrp>7.99</rrp>
@@ -634,7 +634,7 @@
 				<type>release</type>
 				<release id="1238988">
 					<title>Blood Like Lemonade</title>
-					<version />
+					<version/>
 					<type>Album</type>
 					<barcode>5414939123870</barcode>
 					<year>2011</year>
@@ -648,7 +648,7 @@
 					<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/012/389/0001238988_50.jpg</image>
 					<releaseDate>2011-05-23T00:00:00+01:00</releaseDate>
 					<price>
-						<currency code="GBP" />
+						<currency code="GBP"/>
 						<value>3.99</value>
 						<formattedPrice>£3.99</formattedPrice>
 						<rrp>3.99</rrp>
@@ -676,7 +676,7 @@
 				<type>release</type>
 				<release id="1254350">
 					<title>Sweet Defeat</title>
-					<version />
+					<version/>
 					<type>Album</type>
 					<barcode>5037300771403</barcode>
 					<year>2011</year>
@@ -690,7 +690,7 @@
 					<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/012/543/0001254350_50.jpg</image>
 					<releaseDate>2011-05-22T00:00:00+01:00</releaseDate>
 					<price>
-						<currency code="GBP" />
+						<currency code="GBP"/>
 						<value>7.49</value>
 						<formattedPrice>£7.49</formattedPrice>
 						<rrp>7.49</rrp>
@@ -718,7 +718,7 @@
 				<type>release</type>
 				<release id="1292241">
 					<title>4</title>
-					<version />
+					<version/>
 					<type>Album</type>
 					<barcode>886443064393</barcode>
 					<year>2011</year>
@@ -732,7 +732,7 @@
 					<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/012/922/0001292241_50.jpg</image>
 					<releaseDate>2011-06-27T00:00:00+01:00</releaseDate>
 					<price>
-						<currency code="GBP" />
+						<currency code="GBP"/>
 						<value>7.99</value>
 						<formattedPrice>£7.99</formattedPrice>
 						<rrp>7.99</rrp>
@@ -755,7 +755,7 @@
 				<type>release</type>
 				<release id="1271743">
 					<title>Torches</title>
-					<version />
+					<version/>
 					<type>Album</type>
 					<barcode>886443067721</barcode>
 					<year>2011</year>
@@ -769,7 +769,7 @@
 					<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/012/717/0001271743_50.jpg</image>
 					<releaseDate>2011-06-27T00:00:00+01:00</releaseDate>
 					<price>
-						<currency code="GBP" />
+						<currency code="GBP"/>
 						<value>0</value>
 						<formattedPrice>£0.00</formattedPrice>
 						<rrp>0</rrp>
@@ -792,7 +792,7 @@
 				<type>release</type>
 				<release id="1254088">
 					<title>Wild Romance</title>
-					<version />
+					<version/>
 					<type>Album</type>
 					<barcode>881034773487</barcode>
 					<year>2011</year>
@@ -806,7 +806,7 @@
 					<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/012/540/0001254088_50.jpg</image>
 					<releaseDate>2011-05-23T00:00:00+01:00</releaseDate>
 					<price>
-						<currency code="GBP" />
+						<currency code="GBP"/>
 						<value>7.49</value>
 						<formattedPrice>£7.49</formattedPrice>
 						<rrp>7.49</rrp>

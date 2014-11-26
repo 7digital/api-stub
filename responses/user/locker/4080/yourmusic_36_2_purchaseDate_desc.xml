@@ -1,170 +1,170 @@
 <?xml version="1.0" encoding="utf-8"?>
 <response xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" status="ok" version="1.2" xsi:noNamespaceSchemaLocation="http://api.7digital.com/1.2/static/7digitalAPI.xsd">
-  <locker>
-    <lockerReleases>
-      <page>2</page>
-      <pageSize>50</pageSize>
-      <totalItems>54</totalItems>
-      <lockerRelease>
-        <release id="1192901">
-          <title>Wasting Light</title>
-          <version />
-          <type>Album</type>
-          <barcode>7640138331084</barcode>
-          <artist id="2200">
-            <name>Foo Fighters</name>
-            <appearsAs>Foo Fighters</appearsAs>
-            <url>http://www.7digital.com/artist/elvis-presley-(2)/?partner=5932</url>
-          </artist>
-          <url>http://www.7digital.com/artist/elvis-presley-(2)/release/elvis-8/?partner=5932</url>
-          <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/016/275/0001627544_50.jpg</image>
-          <releaseDate>2012-02-24T00:00:00Z</releaseDate>
-          <licensor id="68" />
-        </release>
-        <lockerTracks>
-          <lockerTrack>
-            <track id="17832764">
-              <title>King Creole</title>
-              <version />
-              <artist id="2200">
-                  <name>Foo Fighters</name>
-                  <appearsAs>Foo Fighters</appearsAs>
-                  <url>http://www.7digital.com/artist/elvis-presley-(2)/?partner=5932</url>
-              </artist>
-              <trackNumber>40</trackNumber>
-              <duration>131</duration>
-              <isrc>GBURZ1000969</isrc>
-              <url>http://www.7digital.com/artist/elvis-presley-(2)/release/elvis-8/?partner=5932&amp;h=40</url>
-            </track>
-            <remainingDownloads>5</remainingDownloads>
-            <purchaseId>814165778</purchaseId>
-            <purchaseDate>2014-07-30T10:55:41Z</purchaseDate>
-            <completeAlbumPurchase>true</completeAlbumPurchase>
-            <downloadUrls />
-          </lockerTrack>
-        </lockerTracks>
-        <available>true</available>
-      </lockerRelease>
-      <lockerRelease>
-        <release id="1148928">
-          <title>On The Floor</title>
-          <version />
-          <type>Album</type>
-          <barcode>7640138331084</barcode>
-          <artist id="2200">
-            <name>Jennifer Lopez / Pitbull</name>
-            <appearsAs>Jennifer Lopez / Pitbull</appearsAs>
-            <url>http://www.7digital.com/artist/michael-jackson/?partner=5932</url>
-          </artist>
-          <url>http://www.7digital.com/artist/michael-jackson/release/michael-jacksons-this-is-it/?partner=5932</url>
-          <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/016/275/0001627544_50.jpg</image>
-          <releaseDate>2012-02-24T00:00:00Z</releaseDate>
-          <licensor id="68" />
-        </release>
-        <lockerTracks>
-          <lockerTrack>
-            <track id="12709872">
-              <title>On The Floor</title>
-              <version/>
-              <artist id="2200">
-                <name>Jennifer Lopez / Pitbull</name>
-                <appearsAs>Jennifer Lopez / Pitbull</appearsAs>
-                <url>http://www.7digital.com/artist/michael-jackson/</url>
-              </artist>
-              <trackNumber>40</trackNumber>
-              <duration>131</duration>
-              <isrc>GBURZ1000969</isrc>
-              <url>http://www.7digital.com/artist/michael-jackson/release/michael-jacksons-this-is-it/?partner=5932&amp;h=40</url>
-            </track>
-            <remainingDownloads>5</remainingDownloads>
-            <purchaseId>814165778</purchaseId>
-            <purchaseDate>2014-07-30T10:55:41Z</purchaseDate>
-            <completeAlbumPurchase>true</completeAlbumPurchase>
-            <downloadUrls />
-          </lockerTrack>
-        </lockerTracks>
-        <available>true</available>
-      </lockerRelease>
-      <lockerRelease>
-        <release id="1279359">
-          <title>Seven Rainbows</title>
-          <version />
-          <type>Album</type>
-          <barcode>7640138331084</barcode>
-          <artist id="2200">
-            <name>Keane</name>
-            <appearsAs>Keane</appearsAs>
-            <url>http://www.7digital.com/artist/michael-jackson/?partner=5932</url>
-          </artist>
-          <url>http://www.7digital.com/artist/michael-jackson/release/michael-jacksons-this-is-it/?partner=5932</url>
-          <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/016/275/0001627544_50.jpg</image>
-          <releaseDate>2012-02-24T00:00:00Z</releaseDate>
-          <licensor id="68" />
-        </release>
-        <lockerTracks>
-          <lockerTrack>
-            <track id="12709872">
-              <title>On The Floor</title>
-              <version/>
-              <artist id="2200">
-                <name>Jennifer Lopez / Pitbull</name>
-                <appearsAs>Jennifer Lopez / Pitbull</appearsAs>
-                <url>http://www.7digital.com/artist/michael-jackson/</url>
-              </artist>
-              <trackNumber>40</trackNumber>
-              <duration>131</duration>
-              <isrc>GBURZ1000969</isrc>
-              <url>http://www.7digital.com/artist/michael-jackson/release/michael-jacksons-this-is-it/?partner=5932&amp;h=40</url>
-            </track>
-            <remainingDownloads>5</remainingDownloads>
-            <purchaseId>814165778</purchaseId>
-            <purchaseDate>2014-07-30T10:55:41Z</purchaseDate>
-            <completeAlbumPurchase>true</completeAlbumPurchase>
-            <downloadUrls />
-          </lockerTrack>
-        </lockerTracks>
-        <available>true</available>
-      </lockerRelease>
-      <lockerRelease>
-        <release id="3664691">
-          <title>Kym Larsen</title>
-          <version />
-          <type>Album</type>
-          <barcode>7640138331084</barcode>
-          <artist id="2200">
-            <name>Kym Larsen</name>
-            <appearsAs>Kym Larsen</appearsAs>
-            <url>http://www.7digital.com/artist/michael-jackson/?partner=5932</url>
-          </artist>
-          <url>http://www.7digital.com/artist/michael-jackson/release/michael-jacksons-this-is-it/?partner=5932</url>
-          <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/016/275/0001627544_50.jpg</image>
-          <releaseDate>2012-02-24T00:00:00Z</releaseDate>
-          <licensor id="68" />
-        </release>
-        <lockerTracks>
-          <lockerTrack>
-            <track id="12709872">
-              <title>On The Floor</title>
-              <version/>
-              <artist id="2200">
-                <name>Kym Larsen</name>
-                <appearsAs>Kym Larsen</appearsAs>
-                <url>http://www.7digital.com/artist/michael-jackson/</url>
-              </artist>
-              <trackNumber>40</trackNumber>
-              <duration>131</duration>
-              <isrc>GBURZ1000969</isrc>
-              <url>http://www.7digital.com/artist/michael-jackson/release/michael-jacksons-this-is-it/?partner=5932&amp;h=40</url>
-            </track>
-            <remainingDownloads>5</remainingDownloads>
-            <purchaseId>814165778</purchaseId>
-            <purchaseDate>2014-07-30T10:55:41Z</purchaseDate>
-            <completeAlbumPurchase>true</completeAlbumPurchase>
-            <downloadUrls />
-          </lockerTrack>
-        </lockerTracks>
-        <available>true</available>
-      </lockerRelease>
-    </lockerReleases>
-  </locker>
+	<locker>
+		<lockerReleases>
+			<page>2</page>
+			<pageSize>50</pageSize>
+			<totalItems>54</totalItems>
+			<lockerRelease>
+				<release id="1192901">
+					<title>Wasting Light</title>
+					<version/>
+					<type>Album</type>
+					<barcode>7640138331084</barcode>
+					<artist id="2200">
+						<name>Foo Fighters</name>
+						<appearsAs>Foo Fighters</appearsAs>
+						<url>http://www.7digital.com/artist/elvis-presley-(2)/?partner=5932</url>
+					</artist>
+					<url>http://www.7digital.com/artist/elvis-presley-(2)/release/elvis-8/?partner=5932</url>
+					<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/016/275/0001627544_50.jpg</image>
+					<releaseDate>2012-02-24T00:00:00Z</releaseDate>
+					<licensor id="68"/>
+				</release>
+				<lockerTracks>
+					<lockerTrack>
+						<track id="17832764">
+							<title>King Creole</title>
+							<version/>
+							<artist id="2200">
+								<name>Foo Fighters</name>
+								<appearsAs>Foo Fighters</appearsAs>
+								<url>http://www.7digital.com/artist/elvis-presley-(2)/?partner=5932</url>
+							</artist>
+							<trackNumber>40</trackNumber>
+							<duration>131</duration>
+							<isrc>GBURZ1000969</isrc>
+							<url>http://www.7digital.com/artist/elvis-presley-(2)/release/elvis-8/?partner=5932&amp;h=40</url>
+						</track>
+						<remainingDownloads>5</remainingDownloads>
+						<purchaseId>814165778</purchaseId>
+						<purchaseDate>2014-07-30T10:55:41Z</purchaseDate>
+						<completeAlbumPurchase>true</completeAlbumPurchase>
+						<downloadUrls/>
+					</lockerTrack>
+				</lockerTracks>
+				<available>true</available>
+			</lockerRelease>
+			<lockerRelease>
+				<release id="1148928">
+					<title>On The Floor</title>
+					<version/>
+					<type>Album</type>
+					<barcode>7640138331084</barcode>
+					<artist id="2200">
+						<name>Jennifer Lopez / Pitbull</name>
+						<appearsAs>Jennifer Lopez / Pitbull</appearsAs>
+						<url>http://www.7digital.com/artist/michael-jackson/?partner=5932</url>
+					</artist>
+					<url>http://www.7digital.com/artist/michael-jackson/release/michael-jacksons-this-is-it/?partner=5932</url>
+					<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/016/275/0001627544_50.jpg</image>
+					<releaseDate>2012-02-24T00:00:00Z</releaseDate>
+					<licensor id="68"/>
+				</release>
+				<lockerTracks>
+					<lockerTrack>
+						<track id="12709872">
+							<title>On The Floor</title>
+							<version/>
+							<artist id="2200">
+								<name>Jennifer Lopez / Pitbull</name>
+								<appearsAs>Jennifer Lopez / Pitbull</appearsAs>
+								<url>http://www.7digital.com/artist/michael-jackson/</url>
+							</artist>
+							<trackNumber>40</trackNumber>
+							<duration>131</duration>
+							<isrc>GBURZ1000969</isrc>
+							<url>http://www.7digital.com/artist/michael-jackson/release/michael-jacksons-this-is-it/?partner=5932&amp;h=40</url>
+						</track>
+						<remainingDownloads>5</remainingDownloads>
+						<purchaseId>814165778</purchaseId>
+						<purchaseDate>2014-07-30T10:55:41Z</purchaseDate>
+						<completeAlbumPurchase>true</completeAlbumPurchase>
+						<downloadUrls/>
+					</lockerTrack>
+				</lockerTracks>
+				<available>true</available>
+			</lockerRelease>
+			<lockerRelease>
+				<release id="1279359">
+					<title>Seven Rainbows</title>
+					<version/>
+					<type>Album</type>
+					<barcode>7640138331084</barcode>
+					<artist id="2200">
+						<name>Keane</name>
+						<appearsAs>Keane</appearsAs>
+						<url>http://www.7digital.com/artist/michael-jackson/?partner=5932</url>
+					</artist>
+					<url>http://www.7digital.com/artist/michael-jackson/release/michael-jacksons-this-is-it/?partner=5932</url>
+					<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/016/275/0001627544_50.jpg</image>
+					<releaseDate>2012-02-24T00:00:00Z</releaseDate>
+					<licensor id="68"/>
+				</release>
+				<lockerTracks>
+					<lockerTrack>
+						<track id="12709872">
+							<title>On The Floor</title>
+							<version/>
+							<artist id="2200">
+								<name>Jennifer Lopez / Pitbull</name>
+								<appearsAs>Jennifer Lopez / Pitbull</appearsAs>
+								<url>http://www.7digital.com/artist/michael-jackson/</url>
+							</artist>
+							<trackNumber>40</trackNumber>
+							<duration>131</duration>
+							<isrc>GBURZ1000969</isrc>
+							<url>http://www.7digital.com/artist/michael-jackson/release/michael-jacksons-this-is-it/?partner=5932&amp;h=40</url>
+						</track>
+						<remainingDownloads>5</remainingDownloads>
+						<purchaseId>814165778</purchaseId>
+						<purchaseDate>2014-07-30T10:55:41Z</purchaseDate>
+						<completeAlbumPurchase>true</completeAlbumPurchase>
+						<downloadUrls/>
+					</lockerTrack>
+				</lockerTracks>
+				<available>true</available>
+			</lockerRelease>
+			<lockerRelease>
+				<release id="3664691">
+					<title>Kym Larsen</title>
+					<version/>
+					<type>Album</type>
+					<barcode>7640138331084</barcode>
+					<artist id="2200">
+						<name>Kym Larsen</name>
+						<appearsAs>Kym Larsen</appearsAs>
+						<url>http://www.7digital.com/artist/michael-jackson/?partner=5932</url>
+					</artist>
+					<url>http://www.7digital.com/artist/michael-jackson/release/michael-jacksons-this-is-it/?partner=5932</url>
+					<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/016/275/0001627544_50.jpg</image>
+					<releaseDate>2012-02-24T00:00:00Z</releaseDate>
+					<licensor id="68"/>
+				</release>
+				<lockerTracks>
+					<lockerTrack>
+						<track id="12709872">
+							<title>On The Floor</title>
+							<version/>
+							<artist id="2200">
+								<name>Kym Larsen</name>
+								<appearsAs>Kym Larsen</appearsAs>
+								<url>http://www.7digital.com/artist/michael-jackson/</url>
+							</artist>
+							<trackNumber>40</trackNumber>
+							<duration>131</duration>
+							<isrc>GBURZ1000969</isrc>
+							<url>http://www.7digital.com/artist/michael-jackson/release/michael-jacksons-this-is-it/?partner=5932&amp;h=40</url>
+						</track>
+						<remainingDownloads>5</remainingDownloads>
+						<purchaseId>814165778</purchaseId>
+						<purchaseDate>2014-07-30T10:55:41Z</purchaseDate>
+						<completeAlbumPurchase>true</completeAlbumPurchase>
+						<downloadUrls/>
+					</lockerTrack>
+				</lockerTracks>
+				<available>true</available>
+			</lockerRelease>
+		</lockerReleases>
+	</locker>
 </response>

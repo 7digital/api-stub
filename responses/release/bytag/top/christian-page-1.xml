@@ -1,219 +1,219 @@
-<?xml version="1.0" encoding="utf-8" ?>
-<response status="ok" version="1.2" xsi:noNamespaceSchemaLocation="http://api.7digital.com/1.2/static/7digitalAPI.xsd" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-  <taggedResults>
-    <page>1</page>
-    <pageSize>10</pageSize>
-    <totalItems>8624</totalItems>
-    <type>release</type>
-    <taggedItem>
-      <release id="1454790">
-        <title>How Great Is Our God: The Essential Collection</title>
-        <version />
-        <type>Album</type>
-        <barcode>5099994636451</barcode>
-        <year>2011</year>
-        <explicitContent>false</explicitContent>
-        <artist id="20071">
-          <name>Chris Tomlin</name>
-          <appearsAs>Chris Tomlin</appearsAs>
-          <url>http://www.7digital.com/artist/chris-tomlin/?partner=1401</url>
-        </artist>
-        <url>http://www.7digital.com/artist/chris-tomlin/release/how-great-is-our-god-the-essential-collection/?partner=1401</url>
-        <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/014/547/0001454790_50.jpg</image>
-        <releaseDate>2011-11-14T00:00:00+00:00</releaseDate>
-        <addedDate>2011-10-26T18:51:23+01:00</addedDate>
-        <popularity>0.56</popularity>
-        <streamingReleaseDate>2011-11-14T00:00:00+00:00</streamingReleaseDate>
-      </release>
-    </taggedItem>
-    <taggedItem>
-      <release id="1184951">
-        <title>Hello Fear</title>
-        <version />
-        <type>Album</type>
-        <barcode>884977928556</barcode>
-        <year>2011</year>
-        <explicitContent>false</explicitContent>
-        <artist id="60705">
-          <name>Kirk Franklin</name>
-          <appearsAs>Kirk Franklin</appearsAs>
-          <url>http://www.7digital.com/artist/kirk-franklin/?partner=1401</url>
-        </artist>
-        <url>http://www.7digital.com/artist/kirk-franklin/release/hello-fear/?partner=1401</url>
-        <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/011/849/0001184951_50.jpg</image>
-        <releaseDate>2011-03-21T00:00:00+00:00</releaseDate>
-        <addedDate>2011-03-18T05:03:36+00:00</addedDate>
-        <popularity>0.55</popularity>
-        <streamingReleaseDate>2011-03-21T00:00:00+00:00</streamingReleaseDate>
-      </release>
-    </taggedItem>
-    <taggedItem>
-      <release id="1017174">
-        <title>And If Our God Is For Us...</title>
-        <version />
-        <type>Album</type>
-        <barcode>5099969344459</barcode>
-        <year>2010</year>
-        <explicitContent>false</explicitContent>
-        <artist id="20071">
-          <name>Chris Tomlin</name>
-          <appearsAs>Chris Tomlin</appearsAs>
-          <url>http://www.7digital.com/artist/chris-tomlin/?partner=1401</url>
-        </artist>
-        <url>http://www.7digital.com/artist/chris-tomlin/release/and-if-our-god-is-for-us/?partner=1401</url>
-        <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/010/171/0001017174_50.jpg</image>
-        <releaseDate>2010-11-15T00:00:00+00:00</releaseDate>
-        <addedDate>2010-10-27T18:36:37+01:00</addedDate>
-        <popularity>0.52</popularity>
-        <streamingReleaseDate>2010-11-15T00:00:00+00:00</streamingReleaseDate>
-      </release>
-    </taggedItem>
-    <taggedItem>
-      <release id="1000222">
-        <title>Move</title>
-        <version />
-        <type>Album</type>
-        <barcode>884977701616</barcode>
-        <year>2010</year>
-        <explicitContent>false</explicitContent>
-        <artist id="83525">
-          <name>Third Day</name>
-          <appearsAs>Third Day</appearsAs>
-          <url>http://www.7digital.com/artist/third-day/?partner=1401</url>
-        </artist>
-        <url>http://www.7digital.com/artist/third-day/release/move/?partner=1401</url>
-        <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/010/002/0001000222_50.jpg</image>
-        <releaseDate>2010-10-18T00:00:00+01:00</releaseDate>
-        <addedDate>2010-10-11T07:00:51+01:00</addedDate>
-        <popularity>0.52</popularity>
-        <streamingReleaseDate>2010-10-18T00:00:00+01:00</streamingReleaseDate>
-      </release>
-    </taggedItem>
-    <taggedItem>
-      <release id="1392654">
-        <title>WOW Hits 2012 (Deluxe Edition)</title>
-        <version />
-        <type>Album</type>
-        <barcode>5099994808650</barcode>
-        <year>2011</year>
-        <explicitContent>false</explicitContent>
-        <artist id="209">
-          <name>Various Artists</name>
-          <appearsAs>Various Artists</appearsAs>
-          <url>http://www.7digital.com/artist/various-artists/?partner=1401</url>
-        </artist>
-        <url>http://www.7digital.com/artist/various-artists/release/wow-hits-2012-deluxe-edition/?partner=1401</url>
-        <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/013/926/0001392654_50.jpg</image>
-        <releaseDate>2011-09-26T00:00:00+01:00</releaseDate>
-        <addedDate>2011-09-08T19:03:46+01:00</addedDate>
-        <popularity>0.52</popularity>
-        <streamingReleaseDate>3001-01-01T00:00:00+00:00</streamingReleaseDate>
-      </release>
-    </taggedItem>
-    <taggedItem>
-      <release id="1611105">
-        <title>Passion: White Flag</title>
-        <version />
-        <type>Album</type>
-        <barcode>5099944066857</barcode>
-        <year>2012</year>
-        <explicitContent>false</explicitContent>
-        <artist id="7771">
-          <name>Passion</name>
-          <appearsAs>Passion</appearsAs>
-          <url>http://www.7digital.com/artist/passion/?partner=1401</url>
-        </artist>
-        <url>http://www.7digital.com/artist/passion/release/passion-white-flag/?partner=1401</url>
-        <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/016/111/0001611105_50.jpg</image>
-        <releaseDate>2012-03-12T00:00:00+00:00</releaseDate>
-        <addedDate>2012-02-23T18:36:56+00:00</addedDate>
-        <popularity>0.51</popularity>
-        <streamingReleaseDate>2012-03-12T00:00:00+00:00</streamingReleaseDate>
-      </release>
-    </taggedItem>
-    <taggedItem>
-      <release id="1435185">
-        <title>God's Not Dead</title>
-        <version />
-        <type>Album</type>
-        <barcode>0804147159252</barcode>
-        <year>2011</year>
-        <explicitContent>false</explicitContent>
-        <artist id="19777">
-          <name>Newsboys</name>
-          <appearsAs>Newsboys</appearsAs>
-          <url>http://www.7digital.com/artist/newsboys/?partner=1401</url>
-        </artist>
-        <url>http://www.7digital.com/artist/newsboys/release/gods-not-dead/?partner=1401</url>
-        <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/014/351/0001435185_50.jpg</image>
-        <releaseDate>2011-11-15T00:00:00+00:00</releaseDate>
-        <addedDate>2011-10-14T19:18:02+01:00</addedDate>
-        <popularity>0.51</popularity>
-        <streamingReleaseDate>2011-11-14T00:00:00+00:00</streamingReleaseDate>
-      </release>
-    </taggedItem>
-    <taggedItem>
-      <release id="1541505">
-        <title>Believer</title>
-        <version />
-        <type>Album</type>
-        <barcode>5099932789256</barcode>
-        <year>2012</year>
-        <explicitContent>false</explicitContent>
-        <artist id="20073">
-          <name>Kutless</name>
-          <appearsAs>Kutless</appearsAs>
-          <url>http://www.7digital.com/artist/kutless/?partner=1401</url>
-        </artist>
-        <url>http://www.7digital.com/artist/kutless/release/believer/?partner=1401</url>
-        <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/015/415/0001541505_50.jpg</image>
-        <releaseDate>2012-02-27T00:00:00+00:00</releaseDate>
-        <addedDate>2012-01-02T18:34:20+00:00</addedDate>
-        <popularity>0.51</popularity>
-        <streamingReleaseDate>2012-02-27T00:00:00+00:00</streamingReleaseDate>
-      </release>
-    </taggedItem>
-    <taggedItem>
-      <release id="1544927">
-        <title>Where I Find You</title>
-        <version />
-        <type>Album</type>
-        <barcode>5099908312853</barcode>
-        <year>2012</year>
-        <explicitContent>false</explicitContent>
-        <artist id="285620">
-          <name>Kari Jobe</name>
-          <appearsAs>Kari Jobe</appearsAs>
-          <url>http://www.7digital.com/artist/kari-jobe/?partner=1401</url>
-        </artist>
-        <url>http://www.7digital.com/artist/kari-jobe/release/where-i-find-you/?partner=1401</url>
-        <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/015/449/0001544927_50.jpg</image>
-        <releaseDate>2012-01-23T00:00:00+00:00</releaseDate>
-        <addedDate>2012-01-05T18:37:50+00:00</addedDate>
-        <popularity>0.51</popularity>
-        <streamingReleaseDate>2012-01-23T00:00:00+00:00</streamingReleaseDate>
-      </release>
-    </taggedItem>
-    <taggedItem>
-      <release id="624184">
-        <title>Until The Whole World Hears</title>
-        <version />
-        <type>Album</type>
-        <barcode>884977332179</barcode>
-        <year>2009</year>
-        <explicitContent>false</explicitContent>
-        <artist id="83527">
-          <name>Casting Crowns</name>
-          <appearsAs>Casting Crowns</appearsAs>
-          <url>http://www.7digital.com/artist/casting-crowns/?partner=1401</url>
-        </artist>
-        <url>http://www.7digital.com/artist/casting-crowns/release/until-the-whole-world-hears-1/?partner=1401</url>
-        <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/006/241/0000624184_50.jpg</image>
-        <releaseDate>2009-11-16T00:00:00+00:00</releaseDate>
-        <addedDate>2009-11-09T05:45:12+00:00</addedDate>
-        <popularity>0.5</popularity>
-        <streamingReleaseDate>2009-11-16T00:00:00+00:00</streamingReleaseDate>
-      </release>
-    </taggedItem>
-  </taggedResults>
+<?xml version="1.0" encoding="utf-8"?>
+<response xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" status="ok" version="1.2" xsi:noNamespaceSchemaLocation="http://api.7digital.com/1.2/static/7digitalAPI.xsd">
+	<taggedResults>
+		<page>1</page>
+		<pageSize>10</pageSize>
+		<totalItems>8624</totalItems>
+		<type>release</type>
+		<taggedItem>
+			<release id="1454790">
+				<title>How Great Is Our God: The Essential Collection</title>
+				<version/>
+				<type>Album</type>
+				<barcode>5099994636451</barcode>
+				<year>2011</year>
+				<explicitContent>false</explicitContent>
+				<artist id="20071">
+					<name>Chris Tomlin</name>
+					<appearsAs>Chris Tomlin</appearsAs>
+					<url>http://www.7digital.com/artist/chris-tomlin/?partner=1401</url>
+				</artist>
+				<url>http://www.7digital.com/artist/chris-tomlin/release/how-great-is-our-god-the-essential-collection/?partner=1401</url>
+				<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/014/547/0001454790_50.jpg</image>
+				<releaseDate>2011-11-14T00:00:00+00:00</releaseDate>
+				<addedDate>2011-10-26T18:51:23+01:00</addedDate>
+				<popularity>0.56</popularity>
+				<streamingReleaseDate>2011-11-14T00:00:00+00:00</streamingReleaseDate>
+			</release>
+		</taggedItem>
+		<taggedItem>
+			<release id="1184951">
+				<title>Hello Fear</title>
+				<version/>
+				<type>Album</type>
+				<barcode>884977928556</barcode>
+				<year>2011</year>
+				<explicitContent>false</explicitContent>
+				<artist id="60705">
+					<name>Kirk Franklin</name>
+					<appearsAs>Kirk Franklin</appearsAs>
+					<url>http://www.7digital.com/artist/kirk-franklin/?partner=1401</url>
+				</artist>
+				<url>http://www.7digital.com/artist/kirk-franklin/release/hello-fear/?partner=1401</url>
+				<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/011/849/0001184951_50.jpg</image>
+				<releaseDate>2011-03-21T00:00:00+00:00</releaseDate>
+				<addedDate>2011-03-18T05:03:36+00:00</addedDate>
+				<popularity>0.55</popularity>
+				<streamingReleaseDate>2011-03-21T00:00:00+00:00</streamingReleaseDate>
+			</release>
+		</taggedItem>
+		<taggedItem>
+			<release id="1017174">
+				<title>And If Our God Is For Us...</title>
+				<version/>
+				<type>Album</type>
+				<barcode>5099969344459</barcode>
+				<year>2010</year>
+				<explicitContent>false</explicitContent>
+				<artist id="20071">
+					<name>Chris Tomlin</name>
+					<appearsAs>Chris Tomlin</appearsAs>
+					<url>http://www.7digital.com/artist/chris-tomlin/?partner=1401</url>
+				</artist>
+				<url>http://www.7digital.com/artist/chris-tomlin/release/and-if-our-god-is-for-us/?partner=1401</url>
+				<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/010/171/0001017174_50.jpg</image>
+				<releaseDate>2010-11-15T00:00:00+00:00</releaseDate>
+				<addedDate>2010-10-27T18:36:37+01:00</addedDate>
+				<popularity>0.52</popularity>
+				<streamingReleaseDate>2010-11-15T00:00:00+00:00</streamingReleaseDate>
+			</release>
+		</taggedItem>
+		<taggedItem>
+			<release id="1000222">
+				<title>Move</title>
+				<version/>
+				<type>Album</type>
+				<barcode>884977701616</barcode>
+				<year>2010</year>
+				<explicitContent>false</explicitContent>
+				<artist id="83525">
+					<name>Third Day</name>
+					<appearsAs>Third Day</appearsAs>
+					<url>http://www.7digital.com/artist/third-day/?partner=1401</url>
+				</artist>
+				<url>http://www.7digital.com/artist/third-day/release/move/?partner=1401</url>
+				<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/010/002/0001000222_50.jpg</image>
+				<releaseDate>2010-10-18T00:00:00+01:00</releaseDate>
+				<addedDate>2010-10-11T07:00:51+01:00</addedDate>
+				<popularity>0.52</popularity>
+				<streamingReleaseDate>2010-10-18T00:00:00+01:00</streamingReleaseDate>
+			</release>
+		</taggedItem>
+		<taggedItem>
+			<release id="1392654">
+				<title>WOW Hits 2012 (Deluxe Edition)</title>
+				<version/>
+				<type>Album</type>
+				<barcode>5099994808650</barcode>
+				<year>2011</year>
+				<explicitContent>false</explicitContent>
+				<artist id="209">
+					<name>Various Artists</name>
+					<appearsAs>Various Artists</appearsAs>
+					<url>http://www.7digital.com/artist/various-artists/?partner=1401</url>
+				</artist>
+				<url>http://www.7digital.com/artist/various-artists/release/wow-hits-2012-deluxe-edition/?partner=1401</url>
+				<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/013/926/0001392654_50.jpg</image>
+				<releaseDate>2011-09-26T00:00:00+01:00</releaseDate>
+				<addedDate>2011-09-08T19:03:46+01:00</addedDate>
+				<popularity>0.52</popularity>
+				<streamingReleaseDate>3001-01-01T00:00:00+00:00</streamingReleaseDate>
+			</release>
+		</taggedItem>
+		<taggedItem>
+			<release id="1611105">
+				<title>Passion: White Flag</title>
+				<version/>
+				<type>Album</type>
+				<barcode>5099944066857</barcode>
+				<year>2012</year>
+				<explicitContent>false</explicitContent>
+				<artist id="7771">
+					<name>Passion</name>
+					<appearsAs>Passion</appearsAs>
+					<url>http://www.7digital.com/artist/passion/?partner=1401</url>
+				</artist>
+				<url>http://www.7digital.com/artist/passion/release/passion-white-flag/?partner=1401</url>
+				<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/016/111/0001611105_50.jpg</image>
+				<releaseDate>2012-03-12T00:00:00+00:00</releaseDate>
+				<addedDate>2012-02-23T18:36:56+00:00</addedDate>
+				<popularity>0.51</popularity>
+				<streamingReleaseDate>2012-03-12T00:00:00+00:00</streamingReleaseDate>
+			</release>
+		</taggedItem>
+		<taggedItem>
+			<release id="1435185">
+				<title>God's Not Dead</title>
+				<version/>
+				<type>Album</type>
+				<barcode>0804147159252</barcode>
+				<year>2011</year>
+				<explicitContent>false</explicitContent>
+				<artist id="19777">
+					<name>Newsboys</name>
+					<appearsAs>Newsboys</appearsAs>
+					<url>http://www.7digital.com/artist/newsboys/?partner=1401</url>
+				</artist>
+				<url>http://www.7digital.com/artist/newsboys/release/gods-not-dead/?partner=1401</url>
+				<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/014/351/0001435185_50.jpg</image>
+				<releaseDate>2011-11-15T00:00:00+00:00</releaseDate>
+				<addedDate>2011-10-14T19:18:02+01:00</addedDate>
+				<popularity>0.51</popularity>
+				<streamingReleaseDate>2011-11-14T00:00:00+00:00</streamingReleaseDate>
+			</release>
+		</taggedItem>
+		<taggedItem>
+			<release id="1541505">
+				<title>Believer</title>
+				<version/>
+				<type>Album</type>
+				<barcode>5099932789256</barcode>
+				<year>2012</year>
+				<explicitContent>false</explicitContent>
+				<artist id="20073">
+					<name>Kutless</name>
+					<appearsAs>Kutless</appearsAs>
+					<url>http://www.7digital.com/artist/kutless/?partner=1401</url>
+				</artist>
+				<url>http://www.7digital.com/artist/kutless/release/believer/?partner=1401</url>
+				<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/015/415/0001541505_50.jpg</image>
+				<releaseDate>2012-02-27T00:00:00+00:00</releaseDate>
+				<addedDate>2012-01-02T18:34:20+00:00</addedDate>
+				<popularity>0.51</popularity>
+				<streamingReleaseDate>2012-02-27T00:00:00+00:00</streamingReleaseDate>
+			</release>
+		</taggedItem>
+		<taggedItem>
+			<release id="1544927">
+				<title>Where I Find You</title>
+				<version/>
+				<type>Album</type>
+				<barcode>5099908312853</barcode>
+				<year>2012</year>
+				<explicitContent>false</explicitContent>
+				<artist id="285620">
+					<name>Kari Jobe</name>
+					<appearsAs>Kari Jobe</appearsAs>
+					<url>http://www.7digital.com/artist/kari-jobe/?partner=1401</url>
+				</artist>
+				<url>http://www.7digital.com/artist/kari-jobe/release/where-i-find-you/?partner=1401</url>
+				<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/015/449/0001544927_50.jpg</image>
+				<releaseDate>2012-01-23T00:00:00+00:00</releaseDate>
+				<addedDate>2012-01-05T18:37:50+00:00</addedDate>
+				<popularity>0.51</popularity>
+				<streamingReleaseDate>2012-01-23T00:00:00+00:00</streamingReleaseDate>
+			</release>
+		</taggedItem>
+		<taggedItem>
+			<release id="624184">
+				<title>Until The Whole World Hears</title>
+				<version/>
+				<type>Album</type>
+				<barcode>884977332179</barcode>
+				<year>2009</year>
+				<explicitContent>false</explicitContent>
+				<artist id="83527">
+					<name>Casting Crowns</name>
+					<appearsAs>Casting Crowns</appearsAs>
+					<url>http://www.7digital.com/artist/casting-crowns/?partner=1401</url>
+				</artist>
+				<url>http://www.7digital.com/artist/casting-crowns/release/until-the-whole-world-hears-1/?partner=1401</url>
+				<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/006/241/0000624184_50.jpg</image>
+				<releaseDate>2009-11-16T00:00:00+00:00</releaseDate>
+				<addedDate>2009-11-09T05:45:12+00:00</addedDate>
+				<popularity>0.5</popularity>
+				<streamingReleaseDate>2009-11-16T00:00:00+00:00</streamingReleaseDate>
+			</release>
+		</taggedItem>
+	</taggedResults>
 </response>

@@ -1,1 +1,50 @@
-<?xml version="1.0" encoding="utf-8"?><response status="ok" version="1.2" xsi:noNamespaceSchemaLocation="http://api.7digital.com/1.2/static/7digitalAPI.xsd" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><release id="263431"><title>KylieFever2002 Live In Manchester</title><version /><type>Video</type><barcode>0724349010154</barcode><year>2008</year><explicitContent>false</explicitContent><artist id="1599"><name>Kylie</name><appearsAs>Kylie Minogue</appearsAs><url>http://www.7digital.com/artist/kylie/?partner=3923</url></artist><url>http://www.7digital.com/artist/kylie/release/kyliefever2002-live-in-manchester/?partner=3923</url><image>http://artwork-cdn.7static.com/static/img/sleeveart/00/002/634/0000263431_50.jpg</image><releaseDate>2008-05-26T00:00:00Z</releaseDate><addedDate>2011-08-11T15:37:00Z</addedDate><price><currency code="GBP">£</currency><value>39.38</value><formattedPrice>£39.38</formattedPrice><rrp>39.38</rrp><formattedRrp>£39.38</formattedRrp><onSale>false</onSale></price><formats availableDrmFree="true"><format id="21"><fileFormat>MP4</fileFormat><bitRate>0</bitRate><drmFree>true</drmFree></format><format id="9"><fileFormat>MP4</fileFormat><bitRate>0</bitRate><drmFree>true</drmFree></format></formats><label id="77"><name>EMI UK</name></label><licensor id="18"><name>Warner</name></licensor><popularity>0</popularity><streamingReleaseDate xsi:nil="true" /><duration>6065</duration><trackCount>22</trackCount></release></response>
+<?xml version="1.0" encoding="utf-8"?>
+<response xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" status="ok" version="1.2" xsi:noNamespaceSchemaLocation="http://api.7digital.com/1.2/static/7digitalAPI.xsd">
+	<release id="263431">
+		<title>KylieFever2002 Live In Manchester</title>
+		<version/>
+		<type>Video</type>
+		<barcode>0724349010154</barcode>
+		<year>2008</year>
+		<explicitContent>false</explicitContent>
+		<artist id="1599">
+			<name>Kylie</name>
+			<appearsAs>Kylie Minogue</appearsAs>
+			<url>http://www.7digital.com/artist/kylie/?partner=3923</url>
+		</artist>
+		<url>http://www.7digital.com/artist/kylie/release/kyliefever2002-live-in-manchester/?partner=3923</url>
+		<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/002/634/0000263431_50.jpg</image>
+		<releaseDate>2008-05-26T00:00:00Z</releaseDate>
+		<addedDate>2011-08-11T15:37:00Z</addedDate>
+		<price>
+			<currency code="GBP">£</currency>
+			<value>39.38</value>
+			<formattedPrice>£39.38</formattedPrice>
+			<rrp>39.38</rrp>
+			<formattedRrp>£39.38</formattedRrp>
+			<onSale>false</onSale>
+		</price>
+		<formats availableDrmFree="true">
+			<format id="21">
+				<fileFormat>MP4</fileFormat>
+				<bitRate>0</bitRate>
+				<drmFree>true</drmFree>
+			</format>
+			<format id="9">
+				<fileFormat>MP4</fileFormat>
+				<bitRate>0</bitRate>
+				<drmFree>true</drmFree>
+			</format>
+		</formats>
+		<label id="77">
+			<name>EMI UK</name>
+		</label>
+		<licensor id="18">
+			<name>Warner</name>
+		</licensor>
+		<popularity>0</popularity>
+		<streamingReleaseDate xsi:nil="true"/>
+		<duration>6065</duration>
+		<trackCount>22</trackCount>
+	</release>
+</response>

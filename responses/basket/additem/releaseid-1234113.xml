@@ -1,39 +1,38 @@
-<?xml version="1.0" encoding="utf-8" ?>
-<response status="ok" version="1.2"
-xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://api.7digital.com/1.2/static/7digitalAPI.xsd" >
-	<basket id="00000000-0000-0000-0000-000000000000" >
+<?xml version="1.0" encoding="utf-8"?>
+<response xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" status="ok" version="1.2" xsi:noNamespaceSchemaLocation="http://api.7digital.com/1.2/static/7digitalAPI.xsd">
+	<basket id="00000000-0000-0000-0000-000000000000">
 		<itemCount>1</itemCount>
 		<price>
-			<currency code="GBP">&#163;</currency>
+			<currency code="GBP">£</currency>
 			<value>6.99</value>
-			<formattedPrice>&#163;6.99</formattedPrice>
+			<formattedPrice>£6.99</formattedPrice>
 			<rrp>6.99</rrp>
-			<formattedRrp>&#163;6.99</formattedRrp>
+			<formattedRrp>£6.99</formattedRrp>
 		</price>
 		<basketItems>
 			<basketItem id="147423630">
 				<type>release</type>
-				<itemName>Kitsun&#233; Maison Compilation 11: The Indie-Dance Issue</itemName>
+				<itemName>Kitsuné Maison Compilation 11: The Indie-Dance Issue</itemName>
 				<artistName>Various Artists</artistName>
-				<trackId></trackId>
+				<trackId/>
 				<releaseId>1234113</releaseId>
 				<price>
-					<currency code="GBP">&#163;</currency>
+					<currency code="GBP">£</currency>
 					<value>6.99</value>
-					<formattedPrice>&#163;6.99</formattedPrice>
+					<formattedPrice>£6.99</formattedPrice>
 					<rrp>6.99</rrp>
-					<formattedRrp>&#163;6.99</formattedRrp>
+					<formattedRrp>£6.99</formattedRrp>
 				</price>
 				<amountDue>
 					<amount>6.99</amount>
-					<formattedAmount>&#163;6.99</formattedAmount>
+					<formattedAmount>£6.99</formattedAmount>
 				</amountDue>
 			</basketItem>
 		</basketItems>
 		<amountDue>
-			<currency code="GBP">&#163;</currency>
+			<currency code="GBP">£</currency>
 			<amount>6.99</amount>
-			<formattedAmount>&#163;6.99</formattedAmount>
+			<formattedAmount>£6.99</formattedAmount>
 		</amountDue>
 	</basket>
 </response>

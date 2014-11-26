@@ -1,8 +1,8 @@
-<?xml version="1.0" encoding="utf-8" ?>
-<response status="ok" version="1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://api.7digital.com/1.2/static/7digitalAPI.xsd" >
+<?xml version="1.0" encoding="utf-8"?>
+<response xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" status="ok" version="1.2" xsi:noNamespaceSchemaLocation="http://api.7digital.com/1.2/static/7digitalAPI.xsd">
 	<release id="2443">
 		<title>The Jimi Hendrix Experience (Box Set)</title>
-		<version></version>
+		<version/>
 		<type>Album</type>
 		<barcode>884977422931</barcode>
 		<year>2009</year>
@@ -17,11 +17,11 @@
 		<releaseDate>2010-01-01T00:00:00Z</releaseDate>
 		<addedDate>2009-12-08T12:22:15Z</addedDate>
 		<price>
-			<currency code="GBP">&#163;</currency>
+			<currency code="GBP">£</currency>
 			<value>22.99</value>
-			<formattedPrice>&#163;22.99</formattedPrice>
+			<formattedPrice>£22.99</formattedPrice>
 			<rrp>22.99</rrp>
-			<formattedRrp>&#163;22.99</formattedRrp>
+			<formattedRrp>£22.99</formattedRrp>
 			<onSale>false</onSale>
 		</price>
 		<formats availableDrmFree="true">

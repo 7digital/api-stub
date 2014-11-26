@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="utf-8" ?>
-<response status="ok" version="1.2"
-	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://api.7digital.com/1.2/static/7digitalAPI.xsd" >
+<?xml version="1.0" encoding="utf-8"?>
+<response xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" status="ok" version="1.2" xsi:noNamespaceSchemaLocation="http://api.7digital.com/1.2/static/7digitalAPI.xsd">
 	<chart>
 		<page>1</page>
 		<pageSize>10</pageSize>
@@ -13,7 +12,7 @@
 			<change>New</change>
 			<track id="12463944">
 				<title>Nick is a boob</title>
-				<version></version>
+				<version/>
 				<artist id="312836">
 					<name>LMFAO</name>
 					<appearsAs>LMFAO / GoonRock / Lauren Bennett</appearsAs>
@@ -23,7 +22,7 @@
 				<duration>263</duration>
 				<release id="1127570">
 					<title>Party Rock Anthem</title>
-					<version></version>
+					<version/>
 					<type>Single</type>
 					<barcode>00602527629773</barcode>
 					<artist id="312836">
@@ -50,7 +49,7 @@
 			<change>New</change>
 			<track id="12709872">
 				<title>On The Floor</title>
-				<version></version>
+				<version/>
 				<artist id="21255">
 					<name>Jennifer Lopez</name>
 					<appearsAs>Jennifer Lopez / Pitbull</appearsAs>
@@ -60,7 +59,7 @@
 				<duration>231</duration>
 				<release id="1148928">
 					<title>On The Floor</title>
-					<version></version>
+					<version/>
 					<type>Single</type>
 					<barcode>00602527636436</barcode>
 					<artist id="21255">
@@ -86,7 +85,7 @@
 			<change>New</change>
 			<track id="13066765">
 				<title>Sweat (Snoop Dogg vs. David Guetta) [Remix]</title>
-				<version></version>
+				<version/>
 				<artist id="1130">
 					<name>Snoop Dogg</name>
 					<appearsAs>Snoop Dogg vs. David Guetta</appearsAs>
@@ -96,7 +95,7 @@
 				<duration>196</duration>
 				<release id="1179600">
 					<title>Sweat (Snoop Dogg vs. David Guetta) [Remix]</title>
-					<version></version>
+					<version/>
 					<type>Single</type>
 					<barcode>5099902734453</barcode>
 					<artist id="1130">
@@ -123,7 +122,7 @@
 			<change>New</change>
 			<track id="12888839">
 				<title>E.T. (feat. Kanye West)</title>
-				<version></version>
+				<version/>
 				<artist id="132789">
 					<name>Katy Perry</name>
 					<appearsAs>Katy Perry</appearsAs>
@@ -133,7 +132,7 @@
 				<duration>229</duration>
 				<release id="1164194">
 					<title>E.T. (featuring Kanye West)</title>
-					<version></version>
+					<version/>
 					<type>Single</type>
 					<barcode>5099909812956</barcode>
 					<artist id="132789">
@@ -160,7 +159,7 @@
 			<change>New</change>
 			<track id="11811836">
 				<title>Someone Like You</title>
-				<version></version>
+				<version/>
 				<artist id="142111">
 					<name>Adele</name>
 					<appearsAs>Adele</appearsAs>
@@ -170,7 +169,7 @@
 				<duration>285</duration>
 				<release id="1076864">
 					<title>21</title>
-					<version></version>
+					<version/>
 					<type>Album</type>
 					<barcode>634904052065</barcode>
 					<artist id="142111">
@@ -196,7 +195,7 @@
 			<change>New</change>
 			<track id="13523564">
 				<title>Judas</title>
-				<version></version>
+				<version/>
 				<artist id="237973">
 					<name>Lady GaGa</name>
 					<appearsAs>Lady GaGa</appearsAs>
@@ -206,7 +205,7 @@
 				<duration>250</duration>
 				<release id="1222117">
 					<title>Judas</title>
-					<version></version>
+					<version/>
 					<type>Single</type>
 					<barcode>00602527704630</barcode>
 					<artist id="237973">
@@ -243,7 +242,7 @@
 				<duration>225</duration>
 				<release id="1199062">
 					<title>F.A.M.E. (Deluxe Version)</title>
-					<version></version>
+					<version/>
 					<type>Album</type>
 					<barcode>886443000704</barcode>
 					<artist id="15239">
@@ -269,7 +268,7 @@
 			<change>New</change>
 			<track id="13541989">
 				<title>Penny Arcade (Rangers FC Charity Single)</title>
-				<version></version>
+				<version/>
 				<artist id="982647">
 					<name>Sammy King</name>
 					<appearsAs>Sammy King</appearsAs>
@@ -279,7 +278,7 @@
 				<duration>210</duration>
 				<release id="1223853">
 					<title>Penny Arcade (Rangers FC Charity Single)</title>
-					<version></version>
+					<version/>
 					<type>Single</type>
 					<barcode>5055028963221</barcode>
 					<artist id="982647">
@@ -316,7 +315,7 @@
 				<duration>219</duration>
 				<release id="1041028">
 					<title>The Beginning</title>
-					<version></version>
+					<version/>
 					<type>Album</type>
 					<barcode>00602527548999</barcode>
 					<artist id="263">

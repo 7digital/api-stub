@@ -1,9 +1,8 @@
-<?xml version="1.0" encoding="utf-8" ?>
-<response status="ok" version="1.2"
-xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://api.7digital.com/1.2/static/7digitalAPI.xsd" >
+<?xml version="1.0" encoding="utf-8"?>
+<response xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" status="ok" version="1.2" xsi:noNamespaceSchemaLocation="http://api.7digital.com/1.2/static/7digitalAPI.xsd">
 	<release id="1234113">
-		<title>Kitsun&#233; Maison Compilation 11: The Indie-Dance Issue</title>
-		<version></version>
+		<title>Kitsuné Maison Compilation 11: The Indie-Dance Issue</title>
+		<version/>
 		<type>Album</type>
 		<barcode>3700656500011</barcode>
 		<year>2011</year>
@@ -17,11 +16,11 @@ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocat
 		<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/012/341/0001234113_50.jpg</image>
 		<releaseDate>2011-05-16T00:00:00+01:00</releaseDate>
 		<price>
-			<currency code="GBP">&#163;</currency>
+			<currency code="GBP">£</currency>
 			<value>6.99</value>
-			<formattedPrice>&#163;6.99</formattedPrice>
+			<formattedPrice>£6.99</formattedPrice>
 			<rrp>6.99</rrp>
-			<formattedRrp>&#163;6.99</formattedRrp>
+			<formattedRrp>£6.99</formattedRrp>
 			<onSale>false</onSale>
 		</price>
 		<formats availableDrmFree="true">
@@ -37,7 +36,7 @@ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocat
 			</format>
 		</formats>
 		<label id="13267">
-			<name>Kitsun&#233;</name>
+			<name>Kitsuné</name>
 		</label>
 	</release>
 </response>

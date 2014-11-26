@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="utf-8" ?>
-<response status="ok" version="1.2"
-xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://api.7digital.com/1.2/static/7digitalAPI.xsd" >
+<?xml version="1.0" encoding="utf-8"?>
+<response xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" status="ok" version="1.2" xsi:noNamespaceSchemaLocation="http://api.7digital.com/1.2/static/7digitalAPI.xsd">
 	<recommendations>
 		<page>1</page>
 		<pageSize>10</pageSize>
@@ -22,11 +21,11 @@ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocat
 				<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/006/282/0000628228_50.jpg</image>
 				<releaseDate>2009-11-16T00:00:00Z</releaseDate>
 				<price>
-					<currency code="GBP">&#163;</currency>
+					<currency code="GBP">£</currency>
 					<value>7.99</value>
-					<formattedPrice>&#163;7.99</formattedPrice>
+					<formattedPrice>£7.99</formattedPrice>
 					<rrp>7.99</rrp>
-					<formattedRrp>&#163;7.99</formattedRrp>
+					<formattedRrp>£7.99</formattedRrp>
 					<onSale>false</onSale>
 				</price>
 				<download>
@@ -41,7 +40,6 @@ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocat
 						</package>
 					</packages>
 				</download>
-
 				<formats availableDrmFree="true">
 					<format id="17">
 						<fileFormat>MP3</fileFormat>
@@ -57,7 +55,7 @@ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocat
 		<recommendedItem>
 			<release id="112835">
 				<title>Nothing Changes Around Here</title>
-				<version></version>
+				<version/>
 				<type>Single</type>
 				<barcode>5099950068852</barcode>
 				<year>2007</year>
@@ -71,10 +69,10 @@ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocat
 				<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/001/128/0000112835_50.jpg</image>
 				<releaseDate>2007-07-16T00:00:00+01:00</releaseDate>
 				<price>
-					<currency code="GBP">&#163;</currency>
-					<value></value>
+					<currency code="GBP">£</currency>
+					<value/>
 					<formattedPrice>N/A</formattedPrice>
-					<rrp></rrp>
+					<rrp/>
 					<formattedRrp>N/A</formattedRrp>
 					<onSale>false</onSale>
 				</price>
@@ -84,13 +82,12 @@ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocat
 							<description>standard</description>
 							<price>
 								<currencyCode>GBP</currencyCode>
-								<sevendigitalPrice xsi:nil="true" />
-								<recommendedRetailPrice xsi:nil="true" />
+								<sevendigitalPrice xsi:nil="true"/>
+								<recommendedRetailPrice xsi:nil="true"/>
 							</price>
 						</package>
 					</packages>
 				</download>
-
 				<formats availableDrmFree="true">
 					<format id="17">
 						<fileFormat>MP3</fileFormat>
@@ -106,7 +103,7 @@ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocat
 		<recommendedItem>
 			<release id="1158553">
 				<title>Moseley Shoals Deluxe Edition</title>
-				<version></version>
+				<version/>
 				<type>Album</type>
 				<barcode>00600753324332</barcode>
 				<year>2011</year>
@@ -120,11 +117,11 @@ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocat
 				<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/011/585/0001158553_50.jpg</image>
 				<releaseDate>2011-03-07T00:00:00Z</releaseDate>
 				<price>
-					<currency code="GBP">&#163;</currency>
+					<currency code="GBP">£</currency>
 					<value>14.99</value>
-					<formattedPrice>&#163;14.99</formattedPrice>
+					<formattedPrice>£14.99</formattedPrice>
 					<rrp>14.99</rrp>
-					<formattedRrp>&#163;14.99</formattedRrp>
+					<formattedRrp>£14.99</formattedRrp>
 					<onSale>false</onSale>
 				</price>
 				<download>
@@ -139,7 +136,6 @@ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocat
 						</package>
 					</packages>
 				</download>
-
 				<formats availableDrmFree="true">
 					<format id="17">
 						<fileFormat>MP3</fileFormat>
@@ -155,7 +151,7 @@ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocat
 		<recommendedItem>
 			<release id="1105">
 				<title>O</title>
-				<version></version>
+				<version/>
 				<type>Album</type>
 				<barcode>643443219266</barcode>
 				<year>2003</year>
@@ -169,11 +165,11 @@ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocat
 				<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/000/011/0000001105_50.jpg</image>
 				<releaseDate>2007-07-24T00:00:00+01:00</releaseDate>
 				<price>
-					<currency code="GBP">&#163;</currency>
+					<currency code="GBP">£</currency>
 					<value>7.99</value>
-					<formattedPrice>&#163;7.99</formattedPrice>
+					<formattedPrice>£7.99</formattedPrice>
 					<rrp>7.99</rrp>
-					<formattedRrp>&#163;7.99</formattedRrp>
+					<formattedRrp>£7.99</formattedRrp>
 					<onSale>false</onSale>
 				</price>
 				<download>
@@ -188,7 +184,6 @@ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocat
 						</package>
 					</packages>
 				</download>
-
 				<formats availableDrmFree="true">
 					<format id="48">
 						<fileFormat>MP3</fileFormat>
@@ -204,7 +199,7 @@ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocat
 		<recommendedItem>
 			<release id="807208">
 				<title>Some Friendly - Expanded Edition</title>
-				<version></version>
+				<version/>
 				<type>Album</type>
 				<barcode>607618206864</barcode>
 				<year>2010</year>
@@ -218,11 +213,11 @@ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocat
 				<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/008/072/0000807208_50.jpg</image>
 				<releaseDate>2010-05-17T00:00:00+01:00</releaseDate>
 				<price>
-					<currency code="GBP">&#163;</currency>
+					<currency code="GBP">£</currency>
 					<value>10.99</value>
-					<formattedPrice>&#163;10.99</formattedPrice>
+					<formattedPrice>£10.99</formattedPrice>
 					<rrp>10.99</rrp>
-					<formattedRrp>&#163;10.99</formattedRrp>
+					<formattedRrp>£10.99</formattedRrp>
 					<onSale>false</onSale>
 				</price>
 				<download>
@@ -237,7 +232,6 @@ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocat
 						</package>
 					</packages>
 				</download>
-
 				<formats availableDrmFree="true">
 					<format id="17">
 						<fileFormat>MP3</fileFormat>
@@ -258,7 +252,7 @@ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocat
 		<recommendedItem>
 			<release id="112654">
 				<title>Teenager</title>
-				<version></version>
+				<version/>
 				<type>Album</type>
 				<barcode>0094639530656</barcode>
 				<year>2007</year>
@@ -272,11 +266,11 @@ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocat
 				<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/001/126/0000112654_50.jpg</image>
 				<releaseDate>2007-07-23T00:00:00+01:00</releaseDate>
 				<price>
-					<currency code="GBP">&#163;</currency>
+					<currency code="GBP">£</currency>
 					<value>8.49</value>
-					<formattedPrice>&#163;8.49</formattedPrice>
+					<formattedPrice>£8.49</formattedPrice>
 					<rrp>8.49</rrp>
-					<formattedRrp>&#163;8.49</formattedRrp>
+					<formattedRrp>£8.49</formattedRrp>
 					<onSale>false</onSale>
 				</price>
 				<download>
@@ -291,7 +285,6 @@ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocat
 						</package>
 					</packages>
 				</download>
-
 				<formats availableDrmFree="true">
 					<format id="17">
 						<fileFormat>MP3</fileFormat>
@@ -307,7 +300,7 @@ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocat
 		<recommendedItem>
 			<release id="268569">
 				<title>J.Smith</title>
-				<version></version>
+				<version/>
 				<type>Single</type>
 				<barcode>5024545521887</barcode>
 				<year>2008</year>
@@ -321,11 +314,11 @@ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocat
 				<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/002/685/0000268569_50.jpg</image>
 				<releaseDate>2008-06-29T00:00:00+01:00</releaseDate>
 				<price>
-					<currency code="GBP">&#163;</currency>
+					<currency code="GBP">£</currency>
 					<value>2.29</value>
-					<formattedPrice>&#163;2.29</formattedPrice>
+					<formattedPrice>£2.29</formattedPrice>
 					<rrp>2.29</rrp>
-					<formattedRrp>&#163;2.29</formattedRrp>
+					<formattedRrp>£2.29</formattedRrp>
 					<onSale>false</onSale>
 				</price>
 				<download>
@@ -340,7 +333,6 @@ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocat
 						</package>
 					</packages>
 				</download>
-
 				<formats availableDrmFree="true">
 					<format id="17">
 						<fileFormat>MP3</fileFormat>
@@ -361,7 +353,7 @@ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocat
 		<recommendedItem>
 			<release id="8771">
 				<title>Aqualung</title>
-				<version></version>
+				<version/>
 				<type>Album</type>
 				<barcode>643443208666</barcode>
 				<year>2002</year>
@@ -375,11 +367,11 @@ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocat
 				<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/000/087/0000008771_50.jpg</image>
 				<releaseDate>2007-01-29T00:00:00Z</releaseDate>
 				<price>
-					<currency code="GBP">&#163;</currency>
+					<currency code="GBP">£</currency>
 					<value>5.49</value>
-					<formattedPrice>&#163;5.49</formattedPrice>
+					<formattedPrice>£5.49</formattedPrice>
 					<rrp>5.49</rrp>
-					<formattedRrp>&#163;5.49</formattedRrp>
+					<formattedRrp>£5.49</formattedRrp>
 					<onSale>false</onSale>
 				</price>
 				<download>
@@ -394,7 +386,6 @@ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocat
 						</package>
 					</packages>
 				</download>
-
 				<formats availableDrmFree="true">
 					<format id="48">
 						<fileFormat>MP3</fileFormat>
@@ -409,8 +400,8 @@ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocat
 		</recommendedItem>
 		<recommendedItem>
 			<release id="541855">
-				<title>It&#39;s The End Of The World As We Know It...</title>
-				<version></version>
+				<title>It's The End Of The World As We Know It...</title>
+				<version/>
 				<type>Single</type>
 				<barcode>5099996890554</barcode>
 				<year>2009</year>
@@ -424,11 +415,11 @@ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocat
 				<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/005/418/0000541855_50.jpg</image>
 				<releaseDate>2009-07-14T00:00:00+01:00</releaseDate>
 				<price>
-					<currency code="GBP">&#163;</currency>
+					<currency code="GBP">£</currency>
 					<value>0.99</value>
-					<formattedPrice>&#163;0.99</formattedPrice>
+					<formattedPrice>£0.99</formattedPrice>
 					<rrp>0.99</rrp>
-					<formattedRrp>&#163;0.99</formattedRrp>
+					<formattedRrp>£0.99</formattedRrp>
 					<onSale>false</onSale>
 				</price>
 				<download>
@@ -443,7 +434,6 @@ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocat
 						</package>
 					</packages>
 				</download>
-
 				<formats availableDrmFree="true">
 					<format id="17">
 						<fileFormat>MP3</fileFormat>
@@ -459,7 +449,7 @@ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocat
 		<recommendedItem>
 			<release id="1193196">
 				<title>The King Of Limbs (Deluxe FLAC Version)</title>
-				<version></version>
+				<version/>
 				<type>Album</type>
 				<barcode>827565057719</barcode>
 				<year>2011</year>
@@ -473,11 +463,11 @@ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocat
 				<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/011/931/0001193196_50.jpg</image>
 				<releaseDate>2011-03-28T00:00:00+01:00</releaseDate>
 				<price>
-					<currency code="GBP">&#163;</currency>
+					<currency code="GBP">£</currency>
 					<value>8.99</value>
-					<formattedPrice>&#163;8.99</formattedPrice>
+					<formattedPrice>£8.99</formattedPrice>
 					<rrp>8.99</rrp>
-					<formattedRrp>&#163;8.99</formattedRrp>
+					<formattedRrp>£8.99</formattedRrp>
 					<onSale>false</onSale>
 				</price>
 				<download>
@@ -492,11 +482,10 @@ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocat
 						</package>
 					</packages>
 				</download>
-
 				<formats availableDrmFree="true">
 					<format id="52">
 						<fileFormat>FLAC</fileFormat>
-						<bitRate></bitRate>
+						<bitRate/>
 						<drmFree>true</drmFree>
 					</format>
 					<format id="17">

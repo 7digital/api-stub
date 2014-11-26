@@ -1,219 +1,219 @@
-<?xml version="1.0" encoding="utf-8" ?>
-<response status="ok" version="1.2" xsi:noNamespaceSchemaLocation="http://api.7digital.com/1.2/static/7digitalAPI.xsd" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-  <taggedResults>
-    <page>1</page>
-    <pageSize>10</pageSize>
-    <totalItems>10462</totalItems>
-    <type>release</type>
-    <taggedItem>
-      <release id="1234664">
-        <title>Dragonball Z - The Ultra Super Saiyan</title>
-        <version />
-        <type>Single</type>
-        <barcode>885686791721</barcode>
-        <year>2011</year>
-        <explicitContent>false</explicitContent>
-        <artist id="989092">
-          <name>Jason,The Ultimate Goku!!!</name>
-          <appearsAs>Jason,The Ultimate Goku!!!</appearsAs>
-          <url>http://www.7digital.com/artist/jason-the-ultimate-goku/?partner=1401</url>
-        </artist>
-        <url>http://www.7digital.com/artist/jason-the-ultimate-goku/release/dragonball-z-the-ultra-super-saiyan/?partner=1401</url>
-        <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/012/346/0001234664_50.jpg</image>
-        <releaseDate>2011-05-09T00:00:00+01:00</releaseDate>
-        <addedDate>2011-05-05T19:33:23+01:00</addedDate>
-        <popularity>0.59</popularity>
-        <streamingReleaseDate>2011-05-09T00:00:00+01:00</streamingReleaseDate>
-      </release>
-    </taggedItem>
-    <taggedItem>
-      <release id="923513">
-        <title>We Did It! Dora's Greatest Hits</title>
-        <version />
-        <type>Album</type>
-        <barcode>884977663044</barcode>
-        <year>2010</year>
-        <explicitContent>false</explicitContent>
-        <artist id="244556">
-          <name>Dora The Explorer</name>
-          <appearsAs>Dora The Explorer</appearsAs>
-          <url>http://www.7digital.com/artist/dora-the-explorer/?partner=1401</url>
-        </artist>
-        <url>http://www.7digital.com/artist/dora-the-explorer/release/we-did-it-doras-greatest-hits/?partner=1401</url>
-        <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/009/235/0000923513_50.jpg</image>
-        <releaseDate>2010-08-23T00:00:00+01:00</releaseDate>
-        <addedDate>2010-07-26T07:04:07+01:00</addedDate>
-        <popularity>0.54</popularity>
-        <streamingReleaseDate>2010-08-23T00:00:00+01:00</streamingReleaseDate>
-      </release>
-    </taggedItem>
-    <taggedItem>
-      <release id="1357347">
-        <title>KIDS PARTY MUSIC</title>
-        <version />
-        <type>Album</type>
-        <barcode>886788022485</barcode>
-        <year>2011</year>
-        <explicitContent>false</explicitContent>
-        <artist id="1069225">
-          <name>Kids Party Music</name>
-          <appearsAs>Kids Party Music</appearsAs>
-          <url>http://www.7digital.com/artist/kids-party-music/?partner=1401</url>
-        </artist>
-        <url>http://www.7digital.com/artist/kids-party-music/release/kids-party-music/?partner=1401</url>
-        <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/013/573/0001357347_50.jpg</image>
-        <releaseDate>2011-07-22T00:00:00+01:00</releaseDate>
-        <addedDate>2011-08-10T01:15:12+01:00</addedDate>
-        <popularity>0.49</popularity>
-        <streamingReleaseDate>2011-07-22T00:00:00+01:00</streamingReleaseDate>
-      </release>
-    </taggedItem>
-    <taggedItem>
-      <release id="1015610">
-        <title>Mini Pop Kids 7</title>
-        <version />
-        <type>Album</type>
-        <barcode>805087884907</barcode>
-        <year>2010</year>
-        <explicitContent>false</explicitContent>
-        <artist id="370485">
-          <name>Minipop Kids</name>
-          <appearsAs>Minipop Kids</appearsAs>
-          <url>http://www.7digital.com/artist/minipop-kids/?partner=1401</url>
-        </artist>
-        <url>http://www.7digital.com/artist/minipop-kids/release/mini-pop-kids-7-1/?partner=1401</url>
-        <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/010/156/0001015610_50.jpg</image>
-        <releaseDate>2010-09-17T00:00:00+01:00</releaseDate>
-        <addedDate>2010-10-27T16:29:43+01:00</addedDate>
-        <popularity>0.48</popularity>
-        <streamingReleaseDate>2010-09-17T00:00:00+01:00</streamingReleaseDate>
-      </release>
-    </taggedItem>
-    <taggedItem>
-      <release id="1310627">
-        <title>My Favourite Mini Disco Songs</title>
-        <version />
-        <type>Album</type>
-        <barcode>0698458974983</barcode>
-        <year>2011</year>
-        <explicitContent>false</explicitContent>
-        <artist id="209">
-          <name>Various Artists</name>
-          <appearsAs>Various Artists</appearsAs>
-          <url>http://www.7digital.com/artist/various-artists/?partner=1401</url>
-        </artist>
-        <url>http://www.7digital.com/artist/various-artists/release/my-favourite-mini-disco-songs-2/?partner=1401</url>
-        <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/013/106/0001310627_50.jpg</image>
-        <releaseDate>2011-07-18T00:00:00+01:00</releaseDate>
-        <addedDate>2011-07-04T14:24:41+01:00</addedDate>
-        <popularity>0.48</popularity>
-        <streamingReleaseDate>2011-07-18T00:00:00+01:00</streamingReleaseDate>
-      </release>
-    </taggedItem>
-    <taggedItem>
-      <release id="558148">
-        <title>The Elephant Princess</title>
-        <version />
-        <type>Album</type>
-        <barcode>884977056471</barcode>
-        <year>2009</year>
-        <explicitContent>false</explicitContent>
-        <artist id="1795">
-          <name>Original Soundtrack</name>
-          <appearsAs>Original Soundtrack</appearsAs>
-          <url>http://www.7digital.com/artist/original-soundtrack/?partner=1401</url>
-        </artist>
-        <url>http://www.7digital.com/artist/original-soundtrack/release/the-elephant-princess/?partner=1401</url>
-        <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/005/581/0000558148_50.jpg</image>
-        <releaseDate>2009-11-11T00:00:00+00:00</releaseDate>
-        <addedDate>2009-12-04T05:44:17+00:00</addedDate>
-        <popularity>0.48</popularity>
-        <streamingReleaseDate>2009-11-11T00:00:00+00:00</streamingReleaseDate>
-      </release>
-    </taggedItem>
-    <taggedItem>
-      <release id="1198995">
-        <title>Lemonade Mouth</title>
-        <version />
-        <type>Album</type>
-        <barcode>5099909791954</barcode>
-        <year>2011</year>
-        <explicitContent>false</explicitContent>
-        <artist id="209">
-          <name>Various Artists</name>
-          <appearsAs>Various Artists</appearsAs>
-          <url>http://www.7digital.com/artist/various-artists/?partner=1401</url>
-        </artist>
-        <url>http://www.7digital.com/artist/various-artists/release/lemonade-mouth/?partner=1401</url>
-        <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/011/989/0001198995_50.jpg</image>
-        <releaseDate>2011-04-11T00:00:00+01:00</releaseDate>
-        <addedDate>2011-03-28T19:23:57+01:00</addedDate>
-        <popularity>0.47</popularity>
-        <streamingReleaseDate>2011-04-11T00:00:00+01:00</streamingReleaseDate>
-      </release>
-    </taggedItem>
-    <taggedItem>
-      <release id="1051161">
-        <title>Disney Soundtracks Collection</title>
-        <version />
-        <type>Album</type>
-        <barcode>5099994993950</barcode>
-        <year>2010</year>
-        <explicitContent>false</explicitContent>
-        <artist id="209">
-          <name>Various Artists</name>
-          <appearsAs>Various Artists</appearsAs>
-          <url>http://www.7digital.com/artist/various-artists/?partner=1401</url>
-        </artist>
-        <url>http://www.7digital.com/artist/various-artists/release/disney-soundtracks-collection/?partner=1401</url>
-        <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/010/511/0001051161_50.jpg</image>
-        <releaseDate>2010-12-13T00:00:00+00:00</releaseDate>
-        <addedDate>2010-11-26T18:51:15+00:00</addedDate>
-        <popularity>0.46</popularity>
-        <streamingReleaseDate>2010-12-13T00:00:00+00:00</streamingReleaseDate>
-      </release>
-    </taggedItem>
-    <taggedItem>
-      <release id="506183">
-        <title>SpongeBob's Greatest Hits</title>
-        <version />
-        <type>Album</type>
-        <barcode>884977260540</barcode>
-        <year>2009</year>
-        <explicitContent>false</explicitContent>
-        <artist id="101640">
-          <name>Spongebob Squarepants</name>
-          <appearsAs>Spongebob Squarepants</appearsAs>
-          <url>http://www.7digital.com/artist/spongebob-squarepants-(1)/?partner=1401</url>
-        </artist>
-        <url>http://www.7digital.com/artist/spongebob-squarepants-(1)/release/spongebobs-greatest-hits-2/?partner=1401</url>
-        <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/005/061/0000506183_50.jpg</image>
-        <releaseDate>2009-11-09T00:00:00+00:00</releaseDate>
-        <addedDate>2009-07-13T05:44:57+01:00</addedDate>
-        <popularity>0.46</popularity>
-        <streamingReleaseDate>2009-11-09T00:00:00+00:00</streamingReleaseDate>
-      </release>
-    </taggedItem>
-    <taggedItem>
-      <release id="650984">
-        <title>Hello Kitty LP</title>
-        <version />
-        <type>Album</type>
-        <barcode>780163402827</barcode>
-        <year>2008</year>
-        <explicitContent>false</explicitContent>
-        <artist id="209">
-          <name>Various Artists</name>
-          <appearsAs>Various Artists</appearsAs>
-          <url>http://www.7digital.com/artist/various-artists/?partner=1401</url>
-        </artist>
-        <url>http://www.7digital.com/artist/various-artists/release/hello-kitty-lp/?partner=1401</url>
-        <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/006/509/0000650984_50.jpg</image>
-        <releaseDate>2008-10-07T00:00:00+01:00</releaseDate>
-        <addedDate>2009-11-25T12:35:58+00:00</addedDate>
-        <popularity>0.46</popularity>
-        <streamingReleaseDate>2008-10-07T00:00:00+01:00</streamingReleaseDate>
-      </release>
-    </taggedItem>
-  </taggedResults>
+<?xml version="1.0" encoding="utf-8"?>
+<response xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" status="ok" version="1.2" xsi:noNamespaceSchemaLocation="http://api.7digital.com/1.2/static/7digitalAPI.xsd">
+	<taggedResults>
+		<page>1</page>
+		<pageSize>10</pageSize>
+		<totalItems>10462</totalItems>
+		<type>release</type>
+		<taggedItem>
+			<release id="1234664">
+				<title>Dragonball Z - The Ultra Super Saiyan</title>
+				<version/>
+				<type>Single</type>
+				<barcode>885686791721</barcode>
+				<year>2011</year>
+				<explicitContent>false</explicitContent>
+				<artist id="989092">
+					<name>Jason,The Ultimate Goku!!!</name>
+					<appearsAs>Jason,The Ultimate Goku!!!</appearsAs>
+					<url>http://www.7digital.com/artist/jason-the-ultimate-goku/?partner=1401</url>
+				</artist>
+				<url>http://www.7digital.com/artist/jason-the-ultimate-goku/release/dragonball-z-the-ultra-super-saiyan/?partner=1401</url>
+				<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/012/346/0001234664_50.jpg</image>
+				<releaseDate>2011-05-09T00:00:00+01:00</releaseDate>
+				<addedDate>2011-05-05T19:33:23+01:00</addedDate>
+				<popularity>0.59</popularity>
+				<streamingReleaseDate>2011-05-09T00:00:00+01:00</streamingReleaseDate>
+			</release>
+		</taggedItem>
+		<taggedItem>
+			<release id="923513">
+				<title>We Did It! Dora's Greatest Hits</title>
+				<version/>
+				<type>Album</type>
+				<barcode>884977663044</barcode>
+				<year>2010</year>
+				<explicitContent>false</explicitContent>
+				<artist id="244556">
+					<name>Dora The Explorer</name>
+					<appearsAs>Dora The Explorer</appearsAs>
+					<url>http://www.7digital.com/artist/dora-the-explorer/?partner=1401</url>
+				</artist>
+				<url>http://www.7digital.com/artist/dora-the-explorer/release/we-did-it-doras-greatest-hits/?partner=1401</url>
+				<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/009/235/0000923513_50.jpg</image>
+				<releaseDate>2010-08-23T00:00:00+01:00</releaseDate>
+				<addedDate>2010-07-26T07:04:07+01:00</addedDate>
+				<popularity>0.54</popularity>
+				<streamingReleaseDate>2010-08-23T00:00:00+01:00</streamingReleaseDate>
+			</release>
+		</taggedItem>
+		<taggedItem>
+			<release id="1357347">
+				<title>KIDS PARTY MUSIC</title>
+				<version/>
+				<type>Album</type>
+				<barcode>886788022485</barcode>
+				<year>2011</year>
+				<explicitContent>false</explicitContent>
+				<artist id="1069225">
+					<name>Kids Party Music</name>
+					<appearsAs>Kids Party Music</appearsAs>
+					<url>http://www.7digital.com/artist/kids-party-music/?partner=1401</url>
+				</artist>
+				<url>http://www.7digital.com/artist/kids-party-music/release/kids-party-music/?partner=1401</url>
+				<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/013/573/0001357347_50.jpg</image>
+				<releaseDate>2011-07-22T00:00:00+01:00</releaseDate>
+				<addedDate>2011-08-10T01:15:12+01:00</addedDate>
+				<popularity>0.49</popularity>
+				<streamingReleaseDate>2011-07-22T00:00:00+01:00</streamingReleaseDate>
+			</release>
+		</taggedItem>
+		<taggedItem>
+			<release id="1015610">
+				<title>Mini Pop Kids 7</title>
+				<version/>
+				<type>Album</type>
+				<barcode>805087884907</barcode>
+				<year>2010</year>
+				<explicitContent>false</explicitContent>
+				<artist id="370485">
+					<name>Minipop Kids</name>
+					<appearsAs>Minipop Kids</appearsAs>
+					<url>http://www.7digital.com/artist/minipop-kids/?partner=1401</url>
+				</artist>
+				<url>http://www.7digital.com/artist/minipop-kids/release/mini-pop-kids-7-1/?partner=1401</url>
+				<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/010/156/0001015610_50.jpg</image>
+				<releaseDate>2010-09-17T00:00:00+01:00</releaseDate>
+				<addedDate>2010-10-27T16:29:43+01:00</addedDate>
+				<popularity>0.48</popularity>
+				<streamingReleaseDate>2010-09-17T00:00:00+01:00</streamingReleaseDate>
+			</release>
+		</taggedItem>
+		<taggedItem>
+			<release id="1310627">
+				<title>My Favourite Mini Disco Songs</title>
+				<version/>
+				<type>Album</type>
+				<barcode>0698458974983</barcode>
+				<year>2011</year>
+				<explicitContent>false</explicitContent>
+				<artist id="209">
+					<name>Various Artists</name>
+					<appearsAs>Various Artists</appearsAs>
+					<url>http://www.7digital.com/artist/various-artists/?partner=1401</url>
+				</artist>
+				<url>http://www.7digital.com/artist/various-artists/release/my-favourite-mini-disco-songs-2/?partner=1401</url>
+				<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/013/106/0001310627_50.jpg</image>
+				<releaseDate>2011-07-18T00:00:00+01:00</releaseDate>
+				<addedDate>2011-07-04T14:24:41+01:00</addedDate>
+				<popularity>0.48</popularity>
+				<streamingReleaseDate>2011-07-18T00:00:00+01:00</streamingReleaseDate>
+			</release>
+		</taggedItem>
+		<taggedItem>
+			<release id="558148">
+				<title>The Elephant Princess</title>
+				<version/>
+				<type>Album</type>
+				<barcode>884977056471</barcode>
+				<year>2009</year>
+				<explicitContent>false</explicitContent>
+				<artist id="1795">
+					<name>Original Soundtrack</name>
+					<appearsAs>Original Soundtrack</appearsAs>
+					<url>http://www.7digital.com/artist/original-soundtrack/?partner=1401</url>
+				</artist>
+				<url>http://www.7digital.com/artist/original-soundtrack/release/the-elephant-princess/?partner=1401</url>
+				<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/005/581/0000558148_50.jpg</image>
+				<releaseDate>2009-11-11T00:00:00+00:00</releaseDate>
+				<addedDate>2009-12-04T05:44:17+00:00</addedDate>
+				<popularity>0.48</popularity>
+				<streamingReleaseDate>2009-11-11T00:00:00+00:00</streamingReleaseDate>
+			</release>
+		</taggedItem>
+		<taggedItem>
+			<release id="1198995">
+				<title>Lemonade Mouth</title>
+				<version/>
+				<type>Album</type>
+				<barcode>5099909791954</barcode>
+				<year>2011</year>
+				<explicitContent>false</explicitContent>
+				<artist id="209">
+					<name>Various Artists</name>
+					<appearsAs>Various Artists</appearsAs>
+					<url>http://www.7digital.com/artist/various-artists/?partner=1401</url>
+				</artist>
+				<url>http://www.7digital.com/artist/various-artists/release/lemonade-mouth/?partner=1401</url>
+				<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/011/989/0001198995_50.jpg</image>
+				<releaseDate>2011-04-11T00:00:00+01:00</releaseDate>
+				<addedDate>2011-03-28T19:23:57+01:00</addedDate>
+				<popularity>0.47</popularity>
+				<streamingReleaseDate>2011-04-11T00:00:00+01:00</streamingReleaseDate>
+			</release>
+		</taggedItem>
+		<taggedItem>
+			<release id="1051161">
+				<title>Disney Soundtracks Collection</title>
+				<version/>
+				<type>Album</type>
+				<barcode>5099994993950</barcode>
+				<year>2010</year>
+				<explicitContent>false</explicitContent>
+				<artist id="209">
+					<name>Various Artists</name>
+					<appearsAs>Various Artists</appearsAs>
+					<url>http://www.7digital.com/artist/various-artists/?partner=1401</url>
+				</artist>
+				<url>http://www.7digital.com/artist/various-artists/release/disney-soundtracks-collection/?partner=1401</url>
+				<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/010/511/0001051161_50.jpg</image>
+				<releaseDate>2010-12-13T00:00:00+00:00</releaseDate>
+				<addedDate>2010-11-26T18:51:15+00:00</addedDate>
+				<popularity>0.46</popularity>
+				<streamingReleaseDate>2010-12-13T00:00:00+00:00</streamingReleaseDate>
+			</release>
+		</taggedItem>
+		<taggedItem>
+			<release id="506183">
+				<title>SpongeBob's Greatest Hits</title>
+				<version/>
+				<type>Album</type>
+				<barcode>884977260540</barcode>
+				<year>2009</year>
+				<explicitContent>false</explicitContent>
+				<artist id="101640">
+					<name>Spongebob Squarepants</name>
+					<appearsAs>Spongebob Squarepants</appearsAs>
+					<url>http://www.7digital.com/artist/spongebob-squarepants-(1)/?partner=1401</url>
+				</artist>
+				<url>http://www.7digital.com/artist/spongebob-squarepants-(1)/release/spongebobs-greatest-hits-2/?partner=1401</url>
+				<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/005/061/0000506183_50.jpg</image>
+				<releaseDate>2009-11-09T00:00:00+00:00</releaseDate>
+				<addedDate>2009-07-13T05:44:57+01:00</addedDate>
+				<popularity>0.46</popularity>
+				<streamingReleaseDate>2009-11-09T00:00:00+00:00</streamingReleaseDate>
+			</release>
+		</taggedItem>
+		<taggedItem>
+			<release id="650984">
+				<title>Hello Kitty LP</title>
+				<version/>
+				<type>Album</type>
+				<barcode>780163402827</barcode>
+				<year>2008</year>
+				<explicitContent>false</explicitContent>
+				<artist id="209">
+					<name>Various Artists</name>
+					<appearsAs>Various Artists</appearsAs>
+					<url>http://www.7digital.com/artist/various-artists/?partner=1401</url>
+				</artist>
+				<url>http://www.7digital.com/artist/various-artists/release/hello-kitty-lp/?partner=1401</url>
+				<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/006/509/0000650984_50.jpg</image>
+				<releaseDate>2008-10-07T00:00:00+01:00</releaseDate>
+				<addedDate>2009-11-25T12:35:58+00:00</addedDate>
+				<popularity>0.46</popularity>
+				<streamingReleaseDate>2008-10-07T00:00:00+01:00</streamingReleaseDate>
+			</release>
+		</taggedItem>
+	</taggedResults>
 </response>

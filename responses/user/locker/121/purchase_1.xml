@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<response status="ok" version="1.2" xsi:noNamespaceSchemaLocation="http://api.7digital.systest/1.2/static/7digitalAPI.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<response xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" status="ok" version="1.2" xsi:noNamespaceSchemaLocation="http://api.7digital.systest/1.2/static/7digitalAPI.xsd">
 	<locker>
 		<lockerReleases>
 			<page>1</page>
@@ -39,7 +39,7 @@
 								<url>http://media3.7digital.com/media/user/downloadtrack?formatid=17&amp;oauth_consumer_key=7digital.com&amp;oauth_nonce=193446&amp;oauth_signature_method=HMAC-SHA1&amp;oauth_timestamp=1302786566&amp;releaseid=188863&amp;shopid=34&amp;trackid=2052636&amp;oauth_signature=fky3BN0gEGrCeCviP%2FdefDnEPNU%3D</url>
 								<format id="45">
 									<fileFormat>FLAC</fileFormat>
-									<bitRate />
+									<bitRate/>
 									<drmFree>true</drmFree>
 								</format>
 							</downloadUrl>

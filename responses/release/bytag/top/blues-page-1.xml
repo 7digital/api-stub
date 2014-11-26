@@ -1,219 +1,219 @@
-<?xml version="1.0" encoding="utf-8" ?>
-<response status="ok" version="1.2" xsi:noNamespaceSchemaLocation="http://api.7digital.com/1.2/static/7digitalAPI.xsd" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-  <taggedResults>
-    <page>1</page>
-    <pageSize>10</pageSize>
-    <totalItems>17843</totalItems>
-    <type>release</type>
-    <taggedItem>
-      <release id="1347421">
-        <title>7digital Essential: Blues</title>
-        <version />
-        <type>Album</type>
-        <barcode>3700551721238</barcode>
-        <year>2011</year>
-        <explicitContent>false</explicitContent>
-        <artist id="209">
-          <name>Various Artists</name>
-          <appearsAs>Various Artists</appearsAs>
-          <url>http://www.7digital.com/artist/various-artists/?partner=1401</url>
-        </artist>
-        <url>http://www.7digital.com/artist/various-artists/release/7digital-essential-blues/?partner=1401</url>
-        <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/013/474/0001347421_50.jpg</image>
-        <releaseDate>2011-07-18T00:00:00+01:00</releaseDate>
-        <addedDate>2011-08-16T17:36:30+01:00</addedDate>
-        <popularity>0.61</popularity>
-        <streamingReleaseDate>3001-01-01T00:00:00+00:00</streamingReleaseDate>
-      </release>
-    </taggedItem>
-    <taggedItem>
-      <release id="325321">
-        <title>Love Tattoo</title>
-        <version />
-        <type>Album</type>
-        <barcode>00602517905610</barcode>
-        <year>2009</year>
-        <explicitContent>false</explicitContent>
-        <artist id="253538">
-          <name>Imelda May</name>
-          <appearsAs>Imelda May</appearsAs>
-          <url>http://www.7digital.com/artist/imelda-may/?partner=1401</url>
-        </artist>
-        <url>http://www.7digital.com/artist/imelda-may/release/love-tattoo/?partner=1401</url>
-        <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/003/253/0000325321_50.jpg</image>
-        <releaseDate>2009-03-02T00:00:00+00:00</releaseDate>
-        <addedDate>2008-10-15T16:13:40+01:00</addedDate>
-        <popularity>0.57</popularity>
-        <streamingReleaseDate>2009-03-02T00:00:00+00:00</streamingReleaseDate>
-      </release>
-    </taggedItem>
-    <taggedItem>
-      <release id="1285978">
-        <title>Blues Brothers</title>
-        <version />
-        <type>Album</type>
-        <barcode>885686868454</barcode>
-        <year>2011</year>
-        <explicitContent>false</explicitContent>
-        <artist id="209">
-          <name>Various Artists</name>
-          <appearsAs>Various Artists</appearsAs>
-          <url>http://www.7digital.com/artist/various-artists/?partner=1401</url>
-        </artist>
-        <url>http://www.7digital.com/artist/various-artists/release/blues-brothers/?partner=1401</url>
-        <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/012/859/0001285978_50.jpg</image>
-        <releaseDate>2011-06-03T00:00:00+01:00</releaseDate>
-        <addedDate>2011-06-16T19:42:12+01:00</addedDate>
-        <popularity>0.56</popularity>
-        <streamingReleaseDate>2011-06-03T00:00:00+01:00</streamingReleaseDate>
-      </release>
-    </taggedItem>
-    <taggedItem>
-      <release id="829228">
-        <title>Top 5 - Ray Charles - EP</title>
-        <version />
-        <type>Single</type>
-        <barcode>7340027013533</barcode>
-        <year>2010</year>
-        <explicitContent>false</explicitContent>
-        <artist id="4342">
-          <name>Ray Charles</name>
-          <appearsAs>Ray Charles</appearsAs>
-          <url>http://www.7digital.com/artist/ray-charles/?partner=1401</url>
-        </artist>
-        <url>http://www.7digital.com/artist/ray-charles/release/top-5-ray-charles-ep/?partner=1401</url>
-        <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/008/292/0000829228_50.jpg</image>
-        <releaseDate>2010-05-11T00:00:00+01:00</releaseDate>
-        <addedDate>2010-05-12T16:53:37+01:00</addedDate>
-        <popularity>0.56</popularity>
-        <streamingReleaseDate>2010-05-11T00:00:00+01:00</streamingReleaseDate>
-      </release>
-    </taggedItem>
-    <taggedItem>
-      <release id="1728188">
-        <title>Driving Towards The Daylight</title>
-        <version />
-        <type>Album</type>
-        <barcode>00804879354864</barcode>
-        <year>2012</year>
-        <explicitContent>false</explicitContent>
-        <artist id="140405">
-          <name>Joe Bonamassa</name>
-          <appearsAs>Joe Bonamassa</appearsAs>
-          <url>http://www.7digital.com/artist/joe-bonamassa/?partner=1401</url>
-        </artist>
-        <url>http://www.7digital.com/artist/joe-bonamassa/release/driving-towards-the-daylight-1/?partner=1401</url>
-        <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/017/281/0001728188_50.jpg</image>
-        <releaseDate>2012-05-22T00:00:00+01:00</releaseDate>
-        <addedDate>2012-05-22T14:44:13+01:00</addedDate>
-        <popularity>0.54</popularity>
-        <streamingReleaseDate>2012-05-22T00:00:00+01:00</streamingReleaseDate>
-      </release>
-    </taggedItem>
-    <taggedItem>
-      <release id="1235445">
-        <title>You Can´t Teach An Old Dog New Tricks</title>
-        <version />
-        <type>Album</type>
-        <barcode>5414939118876</barcode>
-        <year>2011</year>
-        <explicitContent>true</explicitContent>
-        <artist id="88051">
-          <name>Seasick Steve</name>
-          <appearsAs>Seasick Steve</appearsAs>
-          <url>http://www.7digital.com/artist/seasick-steve/?partner=1401</url>
-        </artist>
-        <url>http://www.7digital.com/artist/seasick-steve/release/you-cant-teach-an-old-dog-new-tricks/?partner=1401</url>
-        <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/012/354/0001235445_50.jpg</image>
-        <releaseDate>2011-05-30T00:00:00+01:00</releaseDate>
-        <addedDate>2011-05-06T14:06:16+01:00</addedDate>
-        <popularity>0.53</popularity>
-        <streamingReleaseDate>2011-05-30T00:00:00+01:00</streamingReleaseDate>
-      </release>
-    </taggedItem>
-    <taggedItem>
-      <release id="323467">
-        <title>Genius Loves Company</title>
-        <version />
-        <type>Album</type>
-        <barcode>00013431224822</barcode>
-        <year>2009</year>
-        <explicitContent>false</explicitContent>
-        <artist id="4342">
-          <name>Ray Charles</name>
-          <appearsAs>Ray Charles</appearsAs>
-          <url>http://www.7digital.com/artist/ray-charles/?partner=1401</url>
-        </artist>
-        <url>http://www.7digital.com/artist/ray-charles/release/genius-loves-company-1-1/?partner=1401</url>
-        <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/003/234/0000323467_50.jpg</image>
-        <releaseDate>2009-07-14T00:00:00+01:00</releaseDate>
-        <addedDate>2008-10-08T16:31:43+01:00</addedDate>
-        <popularity>0.52</popularity>
-        <streamingReleaseDate>2009-07-14T00:00:00+01:00</streamingReleaseDate>
-      </release>
-    </taggedItem>
-    <taggedItem>
-      <release id="1689818">
-        <title>The Very Best Of</title>
-        <version />
-        <type>Album</type>
-        <barcode>5060143494413</barcode>
-        <year>2012</year>
-        <explicitContent>false</explicitContent>
-        <artist id="1821">
-          <name>Etta James</name>
-          <appearsAs>Etta James </appearsAs>
-          <url>http://www.7digital.com/artist/etta-james/?partner=1401</url>
-        </artist>
-        <url>http://www.7digital.com/artist/etta-james/release/the-very-best-of/?partner=1401</url>
-        <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/016/898/0001689818_50.jpg</image>
-        <releaseDate>2012-05-11T00:00:00+01:00</releaseDate>
-        <addedDate>2012-04-26T17:36:12+01:00</addedDate>
-        <popularity>0.51</popularity>
-        <streamingReleaseDate>2012-05-11T00:00:00+01:00</streamingReleaseDate>
-      </release>
-    </taggedItem>
-    <taggedItem>
-      <release id="1805016">
-        <title>Deluxe: Greatest Hits</title>
-        <version />
-        <type>Album</type>
-        <barcode>3700551736003</barcode>
-        <year>2012</year>
-        <explicitContent>false</explicitContent>
-        <artist id="4342">
-          <name>Ray Charles</name>
-          <appearsAs>Ray Charles</appearsAs>
-          <url>http://www.7digital.com/artist/ray-charles/?partner=1401</url>
-        </artist>
-        <url>http://www.7digital.com/artist/ray-charles/release/deluxe-greatest-hits/?partner=1401</url>
-        <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/018/050/0001805016_50.jpg</image>
-        <releaseDate>2012-07-16T00:00:00+01:00</releaseDate>
-        <addedDate>2012-07-18T10:22:08+01:00</addedDate>
-        <popularity>0.51</popularity>
-        <streamingReleaseDate>3001-01-01T00:00:00+00:00</streamingReleaseDate>
-      </release>
-    </taggedItem>
-    <taggedItem>
-      <release id="1225811">
-        <title>At Last - Etta James (Remastered 2011)</title>
-        <version />
-        <type>Album</type>
-        <barcode>7340070427905</barcode>
-        <year>2011</year>
-        <explicitContent>false</explicitContent>
-        <artist id="1821">
-          <name>Etta James</name>
-          <appearsAs>Etta James </appearsAs>
-          <url>http://www.7digital.com/artist/etta-james/?partner=1401</url>
-        </artist>
-        <url>http://www.7digital.com/artist/etta-james/release/at-last-etta-james-remastered-2011/?partner=1401</url>
-        <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/012/258/0001225811_50.jpg</image>
-        <releaseDate>2011-04-19T00:00:00+01:00</releaseDate>
-        <addedDate>2011-04-21T15:19:17+01:00</addedDate>
-        <popularity>0.51</popularity>
-        <streamingReleaseDate>2011-04-19T00:00:00+01:00</streamingReleaseDate>
-      </release>
-    </taggedItem>
-  </taggedResults>
+<?xml version="1.0" encoding="utf-8"?>
+<response xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" status="ok" version="1.2" xsi:noNamespaceSchemaLocation="http://api.7digital.com/1.2/static/7digitalAPI.xsd">
+	<taggedResults>
+		<page>1</page>
+		<pageSize>10</pageSize>
+		<totalItems>17843</totalItems>
+		<type>release</type>
+		<taggedItem>
+			<release id="1347421">
+				<title>7digital Essential: Blues</title>
+				<version/>
+				<type>Album</type>
+				<barcode>3700551721238</barcode>
+				<year>2011</year>
+				<explicitContent>false</explicitContent>
+				<artist id="209">
+					<name>Various Artists</name>
+					<appearsAs>Various Artists</appearsAs>
+					<url>http://www.7digital.com/artist/various-artists/?partner=1401</url>
+				</artist>
+				<url>http://www.7digital.com/artist/various-artists/release/7digital-essential-blues/?partner=1401</url>
+				<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/013/474/0001347421_50.jpg</image>
+				<releaseDate>2011-07-18T00:00:00+01:00</releaseDate>
+				<addedDate>2011-08-16T17:36:30+01:00</addedDate>
+				<popularity>0.61</popularity>
+				<streamingReleaseDate>3001-01-01T00:00:00+00:00</streamingReleaseDate>
+			</release>
+		</taggedItem>
+		<taggedItem>
+			<release id="325321">
+				<title>Love Tattoo</title>
+				<version/>
+				<type>Album</type>
+				<barcode>00602517905610</barcode>
+				<year>2009</year>
+				<explicitContent>false</explicitContent>
+				<artist id="253538">
+					<name>Imelda May</name>
+					<appearsAs>Imelda May</appearsAs>
+					<url>http://www.7digital.com/artist/imelda-may/?partner=1401</url>
+				</artist>
+				<url>http://www.7digital.com/artist/imelda-may/release/love-tattoo/?partner=1401</url>
+				<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/003/253/0000325321_50.jpg</image>
+				<releaseDate>2009-03-02T00:00:00+00:00</releaseDate>
+				<addedDate>2008-10-15T16:13:40+01:00</addedDate>
+				<popularity>0.57</popularity>
+				<streamingReleaseDate>2009-03-02T00:00:00+00:00</streamingReleaseDate>
+			</release>
+		</taggedItem>
+		<taggedItem>
+			<release id="1285978">
+				<title>Blues Brothers</title>
+				<version/>
+				<type>Album</type>
+				<barcode>885686868454</barcode>
+				<year>2011</year>
+				<explicitContent>false</explicitContent>
+				<artist id="209">
+					<name>Various Artists</name>
+					<appearsAs>Various Artists</appearsAs>
+					<url>http://www.7digital.com/artist/various-artists/?partner=1401</url>
+				</artist>
+				<url>http://www.7digital.com/artist/various-artists/release/blues-brothers/?partner=1401</url>
+				<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/012/859/0001285978_50.jpg</image>
+				<releaseDate>2011-06-03T00:00:00+01:00</releaseDate>
+				<addedDate>2011-06-16T19:42:12+01:00</addedDate>
+				<popularity>0.56</popularity>
+				<streamingReleaseDate>2011-06-03T00:00:00+01:00</streamingReleaseDate>
+			</release>
+		</taggedItem>
+		<taggedItem>
+			<release id="829228">
+				<title>Top 5 - Ray Charles - EP</title>
+				<version/>
+				<type>Single</type>
+				<barcode>7340027013533</barcode>
+				<year>2010</year>
+				<explicitContent>false</explicitContent>
+				<artist id="4342">
+					<name>Ray Charles</name>
+					<appearsAs>Ray Charles</appearsAs>
+					<url>http://www.7digital.com/artist/ray-charles/?partner=1401</url>
+				</artist>
+				<url>http://www.7digital.com/artist/ray-charles/release/top-5-ray-charles-ep/?partner=1401</url>
+				<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/008/292/0000829228_50.jpg</image>
+				<releaseDate>2010-05-11T00:00:00+01:00</releaseDate>
+				<addedDate>2010-05-12T16:53:37+01:00</addedDate>
+				<popularity>0.56</popularity>
+				<streamingReleaseDate>2010-05-11T00:00:00+01:00</streamingReleaseDate>
+			</release>
+		</taggedItem>
+		<taggedItem>
+			<release id="1728188">
+				<title>Driving Towards The Daylight</title>
+				<version/>
+				<type>Album</type>
+				<barcode>00804879354864</barcode>
+				<year>2012</year>
+				<explicitContent>false</explicitContent>
+				<artist id="140405">
+					<name>Joe Bonamassa</name>
+					<appearsAs>Joe Bonamassa</appearsAs>
+					<url>http://www.7digital.com/artist/joe-bonamassa/?partner=1401</url>
+				</artist>
+				<url>http://www.7digital.com/artist/joe-bonamassa/release/driving-towards-the-daylight-1/?partner=1401</url>
+				<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/017/281/0001728188_50.jpg</image>
+				<releaseDate>2012-05-22T00:00:00+01:00</releaseDate>
+				<addedDate>2012-05-22T14:44:13+01:00</addedDate>
+				<popularity>0.54</popularity>
+				<streamingReleaseDate>2012-05-22T00:00:00+01:00</streamingReleaseDate>
+			</release>
+		</taggedItem>
+		<taggedItem>
+			<release id="1235445">
+				<title>You Can´t Teach An Old Dog New Tricks</title>
+				<version/>
+				<type>Album</type>
+				<barcode>5414939118876</barcode>
+				<year>2011</year>
+				<explicitContent>true</explicitContent>
+				<artist id="88051">
+					<name>Seasick Steve</name>
+					<appearsAs>Seasick Steve</appearsAs>
+					<url>http://www.7digital.com/artist/seasick-steve/?partner=1401</url>
+				</artist>
+				<url>http://www.7digital.com/artist/seasick-steve/release/you-cant-teach-an-old-dog-new-tricks/?partner=1401</url>
+				<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/012/354/0001235445_50.jpg</image>
+				<releaseDate>2011-05-30T00:00:00+01:00</releaseDate>
+				<addedDate>2011-05-06T14:06:16+01:00</addedDate>
+				<popularity>0.53</popularity>
+				<streamingReleaseDate>2011-05-30T00:00:00+01:00</streamingReleaseDate>
+			</release>
+		</taggedItem>
+		<taggedItem>
+			<release id="323467">
+				<title>Genius Loves Company</title>
+				<version/>
+				<type>Album</type>
+				<barcode>00013431224822</barcode>
+				<year>2009</year>
+				<explicitContent>false</explicitContent>
+				<artist id="4342">
+					<name>Ray Charles</name>
+					<appearsAs>Ray Charles</appearsAs>
+					<url>http://www.7digital.com/artist/ray-charles/?partner=1401</url>
+				</artist>
+				<url>http://www.7digital.com/artist/ray-charles/release/genius-loves-company-1-1/?partner=1401</url>
+				<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/003/234/0000323467_50.jpg</image>
+				<releaseDate>2009-07-14T00:00:00+01:00</releaseDate>
+				<addedDate>2008-10-08T16:31:43+01:00</addedDate>
+				<popularity>0.52</popularity>
+				<streamingReleaseDate>2009-07-14T00:00:00+01:00</streamingReleaseDate>
+			</release>
+		</taggedItem>
+		<taggedItem>
+			<release id="1689818">
+				<title>The Very Best Of</title>
+				<version/>
+				<type>Album</type>
+				<barcode>5060143494413</barcode>
+				<year>2012</year>
+				<explicitContent>false</explicitContent>
+				<artist id="1821">
+					<name>Etta James</name>
+					<appearsAs>Etta James </appearsAs>
+					<url>http://www.7digital.com/artist/etta-james/?partner=1401</url>
+				</artist>
+				<url>http://www.7digital.com/artist/etta-james/release/the-very-best-of/?partner=1401</url>
+				<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/016/898/0001689818_50.jpg</image>
+				<releaseDate>2012-05-11T00:00:00+01:00</releaseDate>
+				<addedDate>2012-04-26T17:36:12+01:00</addedDate>
+				<popularity>0.51</popularity>
+				<streamingReleaseDate>2012-05-11T00:00:00+01:00</streamingReleaseDate>
+			</release>
+		</taggedItem>
+		<taggedItem>
+			<release id="1805016">
+				<title>Deluxe: Greatest Hits</title>
+				<version/>
+				<type>Album</type>
+				<barcode>3700551736003</barcode>
+				<year>2012</year>
+				<explicitContent>false</explicitContent>
+				<artist id="4342">
+					<name>Ray Charles</name>
+					<appearsAs>Ray Charles</appearsAs>
+					<url>http://www.7digital.com/artist/ray-charles/?partner=1401</url>
+				</artist>
+				<url>http://www.7digital.com/artist/ray-charles/release/deluxe-greatest-hits/?partner=1401</url>
+				<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/018/050/0001805016_50.jpg</image>
+				<releaseDate>2012-07-16T00:00:00+01:00</releaseDate>
+				<addedDate>2012-07-18T10:22:08+01:00</addedDate>
+				<popularity>0.51</popularity>
+				<streamingReleaseDate>3001-01-01T00:00:00+00:00</streamingReleaseDate>
+			</release>
+		</taggedItem>
+		<taggedItem>
+			<release id="1225811">
+				<title>At Last - Etta James (Remastered 2011)</title>
+				<version/>
+				<type>Album</type>
+				<barcode>7340070427905</barcode>
+				<year>2011</year>
+				<explicitContent>false</explicitContent>
+				<artist id="1821">
+					<name>Etta James</name>
+					<appearsAs>Etta James </appearsAs>
+					<url>http://www.7digital.com/artist/etta-james/?partner=1401</url>
+				</artist>
+				<url>http://www.7digital.com/artist/etta-james/release/at-last-etta-james-remastered-2011/?partner=1401</url>
+				<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/012/258/0001225811_50.jpg</image>
+				<releaseDate>2011-04-19T00:00:00+01:00</releaseDate>
+				<addedDate>2011-04-21T15:19:17+01:00</addedDate>
+				<popularity>0.51</popularity>
+				<streamingReleaseDate>2011-04-19T00:00:00+01:00</streamingReleaseDate>
+			</release>
+		</taggedItem>
+	</taggedResults>
 </response>

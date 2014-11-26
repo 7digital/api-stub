@@ -1,219 +1,219 @@
-<?xml version="1.0" encoding="utf-8" ?>
-<response status="ok" version="1.2" xsi:noNamespaceSchemaLocation="http://api.7digital.com/1.2/static/7digitalAPI.xsd" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-  <taggedResults>
-    <page>1</page>
-    <pageSize>10</pageSize>
-    <totalItems>7398</totalItems>
-    <type>release</type>
-    <taggedItem>
-      <release id="697091">
-        <title>A Real Hero EP</title>
-        <version />
-        <type>Album</type>
-        <barcode>3661585247869</barcode>
-        <year>2010</year>
-        <explicitContent>false</explicitContent>
-        <artist id="240867">
-          <name>College</name>
-          <appearsAs>College</appearsAs>
-          <url>http://www.7digital.com/artist/college/?partner=1401</url>
-        </artist>
-        <url>http://www.7digital.com/artist/college/release/a-real-hero-ep/?partner=1401</url>
-        <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/006/970/0000697091_50.jpg</image>
-        <releaseDate>2010-01-11T00:00:00+00:00</releaseDate>
-        <addedDate>2010-01-08T12:29:56+00:00</addedDate>
-        <popularity>0.53</popularity>
-        <streamingReleaseDate>2010-01-11T00:00:00+00:00</streamingReleaseDate>
-      </release>
-    </taggedItem>
-    <taggedItem>
-      <release id="224142">
-        <title>100 Classic French Songs (Volume 1)</title>
-        <version />
-        <type>Album</type>
-        <barcode>3661585001553</barcode>
-        <year>2012</year>
-        <explicitContent>false</explicitContent>
-        <artist id="209">
-          <name>Various Artists</name>
-          <appearsAs>Various Artists</appearsAs>
-          <url>http://www.7digital.com/artist/various-artists/?partner=1401</url>
-        </artist>
-        <url>http://www.7digital.com/artist/various-artists/release/100-classic-french-songs-volume-1/?partner=1401</url>
-        <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/002/241/0000224142_50.jpg</image>
-        <releaseDate>2012-05-12T00:00:00+01:00</releaseDate>
-        <addedDate>2008-04-21T10:55:13+01:00</addedDate>
-        <popularity>0.5</popularity>
-        <streamingReleaseDate>2012-05-12T00:00:00+01:00</streamingReleaseDate>
-      </release>
-    </taggedItem>
-    <taggedItem>
-      <release id="1271447">
-        <title>Pourquoi tu pleures ?</title>
-        <version>Musiques inspirées du film "Pourquoi tu pleures ?"</version>
-        <type>Album</type>
-        <barcode>3298499018850</barcode>
-        <year>2011</year>
-        <explicitContent>false</explicitContent>
-        <artist id="65934">
-          <name>Benjamin Biolay</name>
-          <appearsAs>Benjamin Biolay</appearsAs>
-          <url>http://www.7digital.com/artist/benjamin-biolay/?partner=1401</url>
-        </artist>
-        <url>http://www.7digital.com/artist/benjamin-biolay/release/pourquoi-tu-pleures/?partner=1401</url>
-        <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/012/714/0001271447_50.jpg</image>
-        <releaseDate>2011-06-13T00:00:00+01:00</releaseDate>
-        <addedDate>2011-06-03T14:16:47+01:00</addedDate>
-        <popularity>0.45</popularity>
-        <streamingReleaseDate>3001-01-01T00:00:00+00:00</streamingReleaseDate>
-      </release>
-    </taggedItem>
-    <taggedItem>
-      <release id="1801320">
-        <title>A La Youv</title>
-        <version />
-        <type>Album</type>
-        <barcode>825646574896</barcode>
-        <year>2012</year>
-        <explicitContent>false</explicitContent>
-        <artist id="169679">
-          <name>Canardo</name>
-          <appearsAs>Canardo</appearsAs>
-          <url>http://www.7digital.com/artist/canardo/?partner=1401</url>
-        </artist>
-        <url>http://www.7digital.com/artist/canardo/release/a-la-youv/?partner=1401</url>
-        <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/018/013/0001801320_50.jpg</image>
-        <releaseDate>2012-08-06T00:00:00+01:00</releaseDate>
-        <addedDate>2012-08-10T00:49:45+01:00</addedDate>
-        <popularity>0.45</popularity>
-        <streamingReleaseDate>2012-08-06T00:00:00+01:00</streamingReleaseDate>
-      </release>
-    </taggedItem>
-    <taggedItem>
-      <release id="1168306">
-        <title>Le renouveau</title>
-        <version />
-        <type>Album</type>
-        <barcode>3661585746485</barcode>
-        <year>2008</year>
-        <explicitContent>false</explicitContent>
-        <artist id="257207">
-          <name>Sexion d'Assaut</name>
-          <appearsAs>Sexion d'Assaut</appearsAs>
-          <url>http://www.7digital.com/artist/sexion-dassaut/?partner=1401</url>
-        </artist>
-        <url>http://www.7digital.com/artist/sexion-dassaut/release/le-renouveau-1/?partner=1401</url>
-        <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/011/683/0001168306_50.jpg</image>
-        <releaseDate>2008-06-16T00:00:00+01:00</releaseDate>
-        <addedDate>2011-02-25T17:40:42+00:00</addedDate>
-        <popularity>0.43</popularity>
-        <streamingReleaseDate>2008-06-16T00:00:00+01:00</streamingReleaseDate>
-      </release>
-    </taggedItem>
-    <taggedItem>
-      <release id="1307902">
-        <title>Edith Piaf : La vie en rose</title>
-        <version />
-        <type>Single</type>
-        <barcode>3661585949657</barcode>
-        <year>2011</year>
-        <explicitContent>false</explicitContent>
-        <artist id="15964">
-          <name>Edith Piaf</name>
-          <appearsAs>Edith Piaf</appearsAs>
-          <url>http://www.7digital.com/artist/edith-piaf/?partner=1401</url>
-        </artist>
-        <url>http://www.7digital.com/artist/edith-piaf/release/edith-piaf-la-vie-en-rose/?partner=1401</url>
-        <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/013/079/0001307902_50.jpg</image>
-        <releaseDate>2011-06-30T00:00:00+01:00</releaseDate>
-        <addedDate>2011-07-11T14:55:33+01:00</addedDate>
-        <popularity>0.43</popularity>
-        <streamingReleaseDate>2011-06-30T00:00:00+01:00</streamingReleaseDate>
-      </release>
-    </taggedItem>
-    <taggedItem>
-      <release id="980348">
-        <title>Paroles et musique</title>
-        <version />
-        <type>Album</type>
-        <barcode>064027790320</barcode>
-        <year>2010</year>
-        <explicitContent>false</explicitContent>
-        <artist id="483585">
-          <name>Étienne Drapeau</name>
-          <appearsAs>Étienne Drapeau</appearsAs>
-          <url>http://www.7digital.com/artist/etienne-drapeau/?partner=1401</url>
-        </artist>
-        <url>http://www.7digital.com/artist/etienne-drapeau/release/paroles-et-musique/?partner=1401</url>
-        <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/009/803/0000980348_50.jpg</image>
-        <releaseDate>2010-09-21T00:00:00+01:00</releaseDate>
-        <addedDate>2010-09-16T17:45:39+01:00</addedDate>
-        <popularity>0.43</popularity>
-        <streamingReleaseDate>2010-09-21T00:00:00+01:00</streamingReleaseDate>
-      </release>
-    </taggedItem>
-    <taggedItem>
-      <release id="1139873">
-        <title>Comment je suis devenu voyageur</title>
-        <version />
-        <type>Album</type>
-        <barcode>3760063730623</barcode>
-        <year>2011</year>
-        <explicitContent>false</explicitContent>
-        <artist id="171021">
-          <name>Les Ogres De Barback</name>
-          <appearsAs>Les Ogres De Barback</appearsAs>
-          <url>http://www.7digital.com/artist/les-ogres-de-barback/?partner=1401</url>
-        </artist>
-        <url>http://www.7digital.com/artist/les-ogres-de-barback/release/comment-je-suis-devenu-voyageur/?partner=1401</url>
-        <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/011/398/0001139873_50.jpg</image>
-        <releaseDate>2011-03-14T00:00:00+00:00</releaseDate>
-        <addedDate>2011-01-28T12:24:07+00:00</addedDate>
-        <popularity>0.43</popularity>
-        <streamingReleaseDate>2011-03-14T00:00:00+00:00</streamingReleaseDate>
-      </release>
-    </taggedItem>
-    <taggedItem>
-      <release id="647451">
-        <title>Le monde tourne fort</title>
-        <version />
-        <type>Album</type>
-        <barcode>064027781328</barcode>
-        <year>2009</year>
-        <explicitContent>false</explicitContent>
-        <artist id="481988">
-          <name>Vincent Vallières</name>
-          <appearsAs>Vincent Vallières</appearsAs>
-          <url>http://www.7digital.com/artist/vincent-vallieres/?partner=1401</url>
-        </artist>
-        <url>http://www.7digital.com/artist/vincent-vallieres/release/le-monde-tourne-fort/?partner=1401</url>
-        <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/006/474/0000647451_50.jpg</image>
-        <releaseDate>2009-09-01T00:00:00+01:00</releaseDate>
-        <addedDate>2009-11-25T16:57:50+00:00</addedDate>
-        <popularity>0.43</popularity>
-        <streamingReleaseDate>2009-09-01T00:00:00+01:00</streamingReleaseDate>
-      </release>
-    </taggedItem>
-    <taggedItem>
-      <release id="311507">
-        <title>Teenage color Ep</title>
-        <version />
-        <type>Album</type>
-        <barcode>3700368496879</barcode>
-        <year>2008</year>
-        <explicitContent>false</explicitContent>
-        <artist id="240867">
-          <name>College</name>
-          <appearsAs>College</appearsAs>
-          <url>http://www.7digital.com/artist/college/?partner=1401</url>
-        </artist>
-        <url>http://www.7digital.com/artist/college/release/teenage-color-ep/?partner=1401</url>
-        <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/003/115/0000311507_50.jpg</image>
-        <releaseDate>2008-03-03T00:00:00+00:00</releaseDate>
-        <addedDate>2008-09-05T13:26:17+01:00</addedDate>
-        <popularity>0.42</popularity>
-        <streamingReleaseDate>2008-03-03T00:00:00+00:00</streamingReleaseDate>
-      </release>
-    </taggedItem>
-  </taggedResults>
+<?xml version="1.0" encoding="utf-8"?>
+<response xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" status="ok" version="1.2" xsi:noNamespaceSchemaLocation="http://api.7digital.com/1.2/static/7digitalAPI.xsd">
+	<taggedResults>
+		<page>1</page>
+		<pageSize>10</pageSize>
+		<totalItems>7398</totalItems>
+		<type>release</type>
+		<taggedItem>
+			<release id="697091">
+				<title>A Real Hero EP</title>
+				<version/>
+				<type>Album</type>
+				<barcode>3661585247869</barcode>
+				<year>2010</year>
+				<explicitContent>false</explicitContent>
+				<artist id="240867">
+					<name>College</name>
+					<appearsAs>College</appearsAs>
+					<url>http://www.7digital.com/artist/college/?partner=1401</url>
+				</artist>
+				<url>http://www.7digital.com/artist/college/release/a-real-hero-ep/?partner=1401</url>
+				<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/006/970/0000697091_50.jpg</image>
+				<releaseDate>2010-01-11T00:00:00+00:00</releaseDate>
+				<addedDate>2010-01-08T12:29:56+00:00</addedDate>
+				<popularity>0.53</popularity>
+				<streamingReleaseDate>2010-01-11T00:00:00+00:00</streamingReleaseDate>
+			</release>
+		</taggedItem>
+		<taggedItem>
+			<release id="224142">
+				<title>100 Classic French Songs (Volume 1)</title>
+				<version/>
+				<type>Album</type>
+				<barcode>3661585001553</barcode>
+				<year>2012</year>
+				<explicitContent>false</explicitContent>
+				<artist id="209">
+					<name>Various Artists</name>
+					<appearsAs>Various Artists</appearsAs>
+					<url>http://www.7digital.com/artist/various-artists/?partner=1401</url>
+				</artist>
+				<url>http://www.7digital.com/artist/various-artists/release/100-classic-french-songs-volume-1/?partner=1401</url>
+				<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/002/241/0000224142_50.jpg</image>
+				<releaseDate>2012-05-12T00:00:00+01:00</releaseDate>
+				<addedDate>2008-04-21T10:55:13+01:00</addedDate>
+				<popularity>0.5</popularity>
+				<streamingReleaseDate>2012-05-12T00:00:00+01:00</streamingReleaseDate>
+			</release>
+		</taggedItem>
+		<taggedItem>
+			<release id="1271447">
+				<title>Pourquoi tu pleures ?</title>
+				<version>Musiques inspirées du film "Pourquoi tu pleures ?"</version>
+				<type>Album</type>
+				<barcode>3298499018850</barcode>
+				<year>2011</year>
+				<explicitContent>false</explicitContent>
+				<artist id="65934">
+					<name>Benjamin Biolay</name>
+					<appearsAs>Benjamin Biolay</appearsAs>
+					<url>http://www.7digital.com/artist/benjamin-biolay/?partner=1401</url>
+				</artist>
+				<url>http://www.7digital.com/artist/benjamin-biolay/release/pourquoi-tu-pleures/?partner=1401</url>
+				<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/012/714/0001271447_50.jpg</image>
+				<releaseDate>2011-06-13T00:00:00+01:00</releaseDate>
+				<addedDate>2011-06-03T14:16:47+01:00</addedDate>
+				<popularity>0.45</popularity>
+				<streamingReleaseDate>3001-01-01T00:00:00+00:00</streamingReleaseDate>
+			</release>
+		</taggedItem>
+		<taggedItem>
+			<release id="1801320">
+				<title>A La Youv</title>
+				<version/>
+				<type>Album</type>
+				<barcode>825646574896</barcode>
+				<year>2012</year>
+				<explicitContent>false</explicitContent>
+				<artist id="169679">
+					<name>Canardo</name>
+					<appearsAs>Canardo</appearsAs>
+					<url>http://www.7digital.com/artist/canardo/?partner=1401</url>
+				</artist>
+				<url>http://www.7digital.com/artist/canardo/release/a-la-youv/?partner=1401</url>
+				<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/018/013/0001801320_50.jpg</image>
+				<releaseDate>2012-08-06T00:00:00+01:00</releaseDate>
+				<addedDate>2012-08-10T00:49:45+01:00</addedDate>
+				<popularity>0.45</popularity>
+				<streamingReleaseDate>2012-08-06T00:00:00+01:00</streamingReleaseDate>
+			</release>
+		</taggedItem>
+		<taggedItem>
+			<release id="1168306">
+				<title>Le renouveau</title>
+				<version/>
+				<type>Album</type>
+				<barcode>3661585746485</barcode>
+				<year>2008</year>
+				<explicitContent>false</explicitContent>
+				<artist id="257207">
+					<name>Sexion d'Assaut</name>
+					<appearsAs>Sexion d'Assaut</appearsAs>
+					<url>http://www.7digital.com/artist/sexion-dassaut/?partner=1401</url>
+				</artist>
+				<url>http://www.7digital.com/artist/sexion-dassaut/release/le-renouveau-1/?partner=1401</url>
+				<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/011/683/0001168306_50.jpg</image>
+				<releaseDate>2008-06-16T00:00:00+01:00</releaseDate>
+				<addedDate>2011-02-25T17:40:42+00:00</addedDate>
+				<popularity>0.43</popularity>
+				<streamingReleaseDate>2008-06-16T00:00:00+01:00</streamingReleaseDate>
+			</release>
+		</taggedItem>
+		<taggedItem>
+			<release id="1307902">
+				<title>Edith Piaf : La vie en rose</title>
+				<version/>
+				<type>Single</type>
+				<barcode>3661585949657</barcode>
+				<year>2011</year>
+				<explicitContent>false</explicitContent>
+				<artist id="15964">
+					<name>Edith Piaf</name>
+					<appearsAs>Edith Piaf</appearsAs>
+					<url>http://www.7digital.com/artist/edith-piaf/?partner=1401</url>
+				</artist>
+				<url>http://www.7digital.com/artist/edith-piaf/release/edith-piaf-la-vie-en-rose/?partner=1401</url>
+				<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/013/079/0001307902_50.jpg</image>
+				<releaseDate>2011-06-30T00:00:00+01:00</releaseDate>
+				<addedDate>2011-07-11T14:55:33+01:00</addedDate>
+				<popularity>0.43</popularity>
+				<streamingReleaseDate>2011-06-30T00:00:00+01:00</streamingReleaseDate>
+			</release>
+		</taggedItem>
+		<taggedItem>
+			<release id="980348">
+				<title>Paroles et musique</title>
+				<version/>
+				<type>Album</type>
+				<barcode>064027790320</barcode>
+				<year>2010</year>
+				<explicitContent>false</explicitContent>
+				<artist id="483585">
+					<name>Étienne Drapeau</name>
+					<appearsAs>Étienne Drapeau</appearsAs>
+					<url>http://www.7digital.com/artist/etienne-drapeau/?partner=1401</url>
+				</artist>
+				<url>http://www.7digital.com/artist/etienne-drapeau/release/paroles-et-musique/?partner=1401</url>
+				<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/009/803/0000980348_50.jpg</image>
+				<releaseDate>2010-09-21T00:00:00+01:00</releaseDate>
+				<addedDate>2010-09-16T17:45:39+01:00</addedDate>
+				<popularity>0.43</popularity>
+				<streamingReleaseDate>2010-09-21T00:00:00+01:00</streamingReleaseDate>
+			</release>
+		</taggedItem>
+		<taggedItem>
+			<release id="1139873">
+				<title>Comment je suis devenu voyageur</title>
+				<version/>
+				<type>Album</type>
+				<barcode>3760063730623</barcode>
+				<year>2011</year>
+				<explicitContent>false</explicitContent>
+				<artist id="171021">
+					<name>Les Ogres De Barback</name>
+					<appearsAs>Les Ogres De Barback</appearsAs>
+					<url>http://www.7digital.com/artist/les-ogres-de-barback/?partner=1401</url>
+				</artist>
+				<url>http://www.7digital.com/artist/les-ogres-de-barback/release/comment-je-suis-devenu-voyageur/?partner=1401</url>
+				<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/011/398/0001139873_50.jpg</image>
+				<releaseDate>2011-03-14T00:00:00+00:00</releaseDate>
+				<addedDate>2011-01-28T12:24:07+00:00</addedDate>
+				<popularity>0.43</popularity>
+				<streamingReleaseDate>2011-03-14T00:00:00+00:00</streamingReleaseDate>
+			</release>
+		</taggedItem>
+		<taggedItem>
+			<release id="647451">
+				<title>Le monde tourne fort</title>
+				<version/>
+				<type>Album</type>
+				<barcode>064027781328</barcode>
+				<year>2009</year>
+				<explicitContent>false</explicitContent>
+				<artist id="481988">
+					<name>Vincent Vallières</name>
+					<appearsAs>Vincent Vallières</appearsAs>
+					<url>http://www.7digital.com/artist/vincent-vallieres/?partner=1401</url>
+				</artist>
+				<url>http://www.7digital.com/artist/vincent-vallieres/release/le-monde-tourne-fort/?partner=1401</url>
+				<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/006/474/0000647451_50.jpg</image>
+				<releaseDate>2009-09-01T00:00:00+01:00</releaseDate>
+				<addedDate>2009-11-25T16:57:50+00:00</addedDate>
+				<popularity>0.43</popularity>
+				<streamingReleaseDate>2009-09-01T00:00:00+01:00</streamingReleaseDate>
+			</release>
+		</taggedItem>
+		<taggedItem>
+			<release id="311507">
+				<title>Teenage color Ep</title>
+				<version/>
+				<type>Album</type>
+				<barcode>3700368496879</barcode>
+				<year>2008</year>
+				<explicitContent>false</explicitContent>
+				<artist id="240867">
+					<name>College</name>
+					<appearsAs>College</appearsAs>
+					<url>http://www.7digital.com/artist/college/?partner=1401</url>
+				</artist>
+				<url>http://www.7digital.com/artist/college/release/teenage-color-ep/?partner=1401</url>
+				<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/003/115/0000311507_50.jpg</image>
+				<releaseDate>2008-03-03T00:00:00+00:00</releaseDate>
+				<addedDate>2008-09-05T13:26:17+01:00</addedDate>
+				<popularity>0.42</popularity>
+				<streamingReleaseDate>2008-03-03T00:00:00+00:00</streamingReleaseDate>
+			</release>
+		</taggedItem>
+	</taggedResults>
 </response>

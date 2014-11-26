@@ -1,219 +1,219 @@
-<?xml version="1.0" encoding="utf-8" ?>
-<response status="ok" version="1.2" xsi:noNamespaceSchemaLocation="http://api.7digital.com/1.2/static/7digitalAPI.xsd" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-  <taggedResults>
-    <page>1</page>
-    <pageSize>10</pageSize>
-    <totalItems>24159</totalItems>
-    <type>release</type>
-    <taggedItem>
-      <release id="212">
-        <title>Legend</title>
-        <version>The Definitive Remasters</version>
-        <type>Album</type>
-        <barcode>00731454890427</barcode>
-        <year>2006</year>
-        <explicitContent>false</explicitContent>
-        <artist id="159">
-          <name>Bob Marley &amp; The Wailers</name>
-          <appearsAs>Bob Marley &amp; The Wailers</appearsAs>
-          <url>http://www.7digital.com/artist/bob-marley-the-wailers-(2)/?partner=1401</url>
-        </artist>
-        <url>http://www.7digital.com/artist/bob-marley-the-wailers-(2)/release/legend-the-definitive-remasters/?partner=1401</url>
-        <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/000/002/0000000212_50.jpg</image>
-        <releaseDate>2006-09-05T00:00:00+01:00</releaseDate>
-        <addedDate>2008-08-31T22:18:09+01:00</addedDate>
-        <popularity>0.72</popularity>
-        <streamingReleaseDate>2006-09-05T00:00:00+01:00</streamingReleaseDate>
-      </release>
-    </taggedItem>
-    <taggedItem>
-      <release id="1265725">
-        <title>Reggaeton 2011</title>
-        <version />
-        <type>Album</type>
-        <barcode>885686844250</barcode>
-        <year>2011</year>
-        <explicitContent>false</explicitContent>
-        <artist id="29579">
-          <name>Varios Artistas</name>
-          <appearsAs>Varios Artistas</appearsAs>
-          <url>http://www.7digital.com/artist/varios-artistas/?partner=1401</url>
-        </artist>
-        <url>http://www.7digital.com/artist/varios-artistas/release/reggaeton-2011/?partner=1401</url>
-        <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/012/657/0001265725_50.jpg</image>
-        <releaseDate>2011-05-10T00:00:00+01:00</releaseDate>
-        <addedDate>2011-05-27T19:28:32+01:00</addedDate>
-        <popularity>0.6</popularity>
-        <streamingReleaseDate>2011-05-10T00:00:00+01:00</streamingReleaseDate>
-      </release>
-    </taggedItem>
-    <taggedItem>
-      <release id="1290309">
-        <title>Kingston Story</title>
-        <version />
-        <type>Album</type>
-        <barcode>628586471443</barcode>
-        <year>2011</year>
-        <explicitContent>true</explicitContent>
-        <artist id="278">
-          <name>Vybz Kartel</name>
-          <appearsAs>Vybz Kartel</appearsAs>
-          <url>http://www.7digital.com/artist/vybz-kartel/?partner=1401</url>
-        </artist>
-        <url>http://www.7digital.com/artist/vybz-kartel/release/kingston-story/?partner=1401</url>
-        <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/012/903/0001290309_50.jpg</image>
-        <releaseDate>2011-06-21T00:00:00+01:00</releaseDate>
-        <addedDate>2011-06-20T15:12:05+01:00</addedDate>
-        <popularity>0.55</popularity>
-        <streamingReleaseDate>2011-06-21T00:00:00+01:00</streamingReleaseDate>
-      </release>
-    </taggedItem>
-    <taggedItem>
-      <release id="1763541">
-        <title>Now That's What I Call Reggae</title>
-        <version />
-        <type>Album</type>
-        <barcode>00600753392485</barcode>
-        <year>2012</year>
-        <explicitContent>false</explicitContent>
-        <artist id="209">
-          <name>Various Artists</name>
-          <appearsAs>Various Artists</appearsAs>
-          <url>http://www.7digital.com/artist/various-artists/?partner=1401</url>
-        </artist>
-        <url>http://www.7digital.com/artist/various-artists/release/now-thats-what-i-call-reggae/?partner=1401</url>
-        <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/017/635/0001763541_50.jpg</image>
-        <releaseDate>2012-06-25T00:00:00+01:00</releaseDate>
-        <addedDate>2012-06-18T01:27:29+01:00</addedDate>
-        <popularity>0.55</popularity>
-        <streamingReleaseDate>2012-06-25T00:00:00+01:00</streamingReleaseDate>
-      </release>
-    </taggedItem>
-    <taggedItem>
-      <release id="1657152">
-        <title>Marley</title>
-        <version />
-        <type>Album</type>
-        <barcode>886788797505</barcode>
-        <year>2012</year>
-        <explicitContent>false</explicitContent>
-        <artist id="19">
-          <name>Bob Marley</name>
-          <appearsAs>Bob Marley</appearsAs>
-          <url>http://www.7digital.com/artist/bob-marley/?partner=1401</url>
-        </artist>
-        <url>http://www.7digital.com/artist/bob-marley/release/marley/?partner=1401</url>
-        <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/016/571/0001657152_50.jpg</image>
-        <releaseDate>2012-04-17T00:00:00+01:00</releaseDate>
-        <addedDate>2012-04-02T15:27:09+01:00</addedDate>
-        <popularity>0.55</popularity>
-        <streamingReleaseDate>2012-04-17T00:00:00+01:00</streamingReleaseDate>
-      </release>
-    </taggedItem>
-    <taggedItem>
-      <release id="1648638">
-        <title>Marley OST</title>
-        <version />
-        <type>Album</type>
-        <barcode>00602527999302</barcode>
-        <year>2012</year>
-        <explicitContent>false</explicitContent>
-        <artist id="159">
-          <name>Bob Marley &amp; The Wailers</name>
-          <appearsAs>Bob Marley &amp; The Wailers</appearsAs>
-          <url>http://www.7digital.com/artist/bob-marley-the-wailers-(2)/?partner=1401</url>
-        </artist>
-        <url>http://www.7digital.com/artist/bob-marley-the-wailers-(2)/release/marley-ost/?partner=1401</url>
-        <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/016/486/0001648638_50.jpg</image>
-        <releaseDate>2012-04-16T00:00:00+01:00</releaseDate>
-        <addedDate>2012-03-26T15:03:31+01:00</addedDate>
-        <popularity>0.54</popularity>
-        <streamingReleaseDate>2012-04-16T00:00:00+01:00</streamingReleaseDate>
-      </release>
-    </taggedItem>
-    <taggedItem>
-      <release id="31662">
-        <title>A Girl Like Me</title>
-        <version>UK</version>
-        <type>Album</type>
-        <barcode>00602498785751</barcode>
-        <year>2012</year>
-        <explicitContent>false</explicitContent>
-        <artist id="10653">
-          <name>Rihanna</name>
-          <appearsAs>Rihanna</appearsAs>
-          <url>http://www.7digital.com/artist/rihanna/?partner=1401</url>
-        </artist>
-        <url>http://www.7digital.com/artist/rihanna/release/a-girl-like-me-uk/?partner=1401</url>
-        <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/000/316/0000031662_50.jpg</image>
-        <releaseDate>2012-01-11T00:00:00+00:00</releaseDate>
-        <addedDate>2008-08-31T22:24:21+01:00</addedDate>
-        <popularity>0.54</popularity>
-        <streamingReleaseDate>2012-01-11T00:00:00+00:00</streamingReleaseDate>
-      </release>
-    </taggedItem>
-    <taggedItem>
-      <release id="1618386">
-        <title>Essential</title>
-        <version />
-        <type>Album</type>
-        <barcode>5099944032258</barcode>
-        <year>2012</year>
-        <explicitContent>true</explicitContent>
-        <artist id="10206">
-          <name>Shaggy</name>
-          <appearsAs>Shaggy</appearsAs>
-          <url>http://www.7digital.com/artist/shaggy/?partner=1401</url>
-        </artist>
-        <url>http://www.7digital.com/artist/shaggy/release/essential-1/?partner=1401</url>
-        <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/016/183/0001618386_50.jpg</image>
-        <releaseDate>2012-03-19T00:00:00+00:00</releaseDate>
-        <addedDate>2012-02-29T18:35:57+00:00</addedDate>
-        <popularity>0.54</popularity>
-        <streamingReleaseDate>2012-03-19T00:00:00+00:00</streamingReleaseDate>
-      </release>
-    </taggedItem>
-    <taggedItem>
-      <release id="1194">
-        <title>Blue Lines</title>
-        <version />
-        <type>Album</type>
-        <barcode>0077778622857</barcode>
-        <year>2006</year>
-        <explicitContent>false</explicitContent>
-        <artist id="416">
-          <name>Massive Attack</name>
-          <appearsAs>Massive Attack</appearsAs>
-          <url>http://www.7digital.com/artist/massive-attack/?partner=1401</url>
-        </artist>
-        <url>http://www.7digital.com/artist/massive-attack/release/blue-lines/?partner=1401</url>
-        <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/000/011/0000001194_50.jpg</image>
-        <releaseDate>2006-08-28T00:00:00+01:00</releaseDate>
-        <addedDate>2007-09-21T13:48:28+01:00</addedDate>
-        <popularity>0.53</popularity>
-        <streamingReleaseDate>2006-08-28T00:00:00+01:00</streamingReleaseDate>
-      </release>
-    </taggedItem>
-    <taggedItem>
-      <release id="1818606">
-        <title>Jamaica's Finest Vol. 1</title>
-        <version />
-        <type>Album</type>
-        <barcode>887158143465</barcode>
-        <year>2012</year>
-        <explicitContent>false</explicitContent>
-        <artist id="209">
-          <name>Various Artists</name>
-          <appearsAs>Various Artists</appearsAs>
-          <url>http://www.7digital.com/artist/various-artists/?partner=1401</url>
-        </artist>
-        <url>http://www.7digital.com/artist/various-artists/release/jamaicas-finest-vol-1/?partner=1401</url>
-        <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/018/186/0001818606_50.jpg</image>
-        <releaseDate>2012-08-01T00:00:00+01:00</releaseDate>
-        <addedDate>2012-07-25T17:02:38+01:00</addedDate>
-        <popularity>0.53</popularity>
-        <streamingReleaseDate>2012-08-01T00:00:00+01:00</streamingReleaseDate>
-      </release>
-    </taggedItem>
-  </taggedResults>
+<?xml version="1.0" encoding="utf-8"?>
+<response xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" status="ok" version="1.2" xsi:noNamespaceSchemaLocation="http://api.7digital.com/1.2/static/7digitalAPI.xsd">
+	<taggedResults>
+		<page>1</page>
+		<pageSize>10</pageSize>
+		<totalItems>24159</totalItems>
+		<type>release</type>
+		<taggedItem>
+			<release id="212">
+				<title>Legend</title>
+				<version>The Definitive Remasters</version>
+				<type>Album</type>
+				<barcode>00731454890427</barcode>
+				<year>2006</year>
+				<explicitContent>false</explicitContent>
+				<artist id="159">
+					<name>Bob Marley &amp; The Wailers</name>
+					<appearsAs>Bob Marley &amp; The Wailers</appearsAs>
+					<url>http://www.7digital.com/artist/bob-marley-the-wailers-(2)/?partner=1401</url>
+				</artist>
+				<url>http://www.7digital.com/artist/bob-marley-the-wailers-(2)/release/legend-the-definitive-remasters/?partner=1401</url>
+				<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/000/002/0000000212_50.jpg</image>
+				<releaseDate>2006-09-05T00:00:00+01:00</releaseDate>
+				<addedDate>2008-08-31T22:18:09+01:00</addedDate>
+				<popularity>0.72</popularity>
+				<streamingReleaseDate>2006-09-05T00:00:00+01:00</streamingReleaseDate>
+			</release>
+		</taggedItem>
+		<taggedItem>
+			<release id="1265725">
+				<title>Reggaeton 2011</title>
+				<version/>
+				<type>Album</type>
+				<barcode>885686844250</barcode>
+				<year>2011</year>
+				<explicitContent>false</explicitContent>
+				<artist id="29579">
+					<name>Varios Artistas</name>
+					<appearsAs>Varios Artistas</appearsAs>
+					<url>http://www.7digital.com/artist/varios-artistas/?partner=1401</url>
+				</artist>
+				<url>http://www.7digital.com/artist/varios-artistas/release/reggaeton-2011/?partner=1401</url>
+				<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/012/657/0001265725_50.jpg</image>
+				<releaseDate>2011-05-10T00:00:00+01:00</releaseDate>
+				<addedDate>2011-05-27T19:28:32+01:00</addedDate>
+				<popularity>0.6</popularity>
+				<streamingReleaseDate>2011-05-10T00:00:00+01:00</streamingReleaseDate>
+			</release>
+		</taggedItem>
+		<taggedItem>
+			<release id="1290309">
+				<title>Kingston Story</title>
+				<version/>
+				<type>Album</type>
+				<barcode>628586471443</barcode>
+				<year>2011</year>
+				<explicitContent>true</explicitContent>
+				<artist id="278">
+					<name>Vybz Kartel</name>
+					<appearsAs>Vybz Kartel</appearsAs>
+					<url>http://www.7digital.com/artist/vybz-kartel/?partner=1401</url>
+				</artist>
+				<url>http://www.7digital.com/artist/vybz-kartel/release/kingston-story/?partner=1401</url>
+				<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/012/903/0001290309_50.jpg</image>
+				<releaseDate>2011-06-21T00:00:00+01:00</releaseDate>
+				<addedDate>2011-06-20T15:12:05+01:00</addedDate>
+				<popularity>0.55</popularity>
+				<streamingReleaseDate>2011-06-21T00:00:00+01:00</streamingReleaseDate>
+			</release>
+		</taggedItem>
+		<taggedItem>
+			<release id="1763541">
+				<title>Now That's What I Call Reggae</title>
+				<version/>
+				<type>Album</type>
+				<barcode>00600753392485</barcode>
+				<year>2012</year>
+				<explicitContent>false</explicitContent>
+				<artist id="209">
+					<name>Various Artists</name>
+					<appearsAs>Various Artists</appearsAs>
+					<url>http://www.7digital.com/artist/various-artists/?partner=1401</url>
+				</artist>
+				<url>http://www.7digital.com/artist/various-artists/release/now-thats-what-i-call-reggae/?partner=1401</url>
+				<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/017/635/0001763541_50.jpg</image>
+				<releaseDate>2012-06-25T00:00:00+01:00</releaseDate>
+				<addedDate>2012-06-18T01:27:29+01:00</addedDate>
+				<popularity>0.55</popularity>
+				<streamingReleaseDate>2012-06-25T00:00:00+01:00</streamingReleaseDate>
+			</release>
+		</taggedItem>
+		<taggedItem>
+			<release id="1657152">
+				<title>Marley</title>
+				<version/>
+				<type>Album</type>
+				<barcode>886788797505</barcode>
+				<year>2012</year>
+				<explicitContent>false</explicitContent>
+				<artist id="19">
+					<name>Bob Marley</name>
+					<appearsAs>Bob Marley</appearsAs>
+					<url>http://www.7digital.com/artist/bob-marley/?partner=1401</url>
+				</artist>
+				<url>http://www.7digital.com/artist/bob-marley/release/marley/?partner=1401</url>
+				<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/016/571/0001657152_50.jpg</image>
+				<releaseDate>2012-04-17T00:00:00+01:00</releaseDate>
+				<addedDate>2012-04-02T15:27:09+01:00</addedDate>
+				<popularity>0.55</popularity>
+				<streamingReleaseDate>2012-04-17T00:00:00+01:00</streamingReleaseDate>
+			</release>
+		</taggedItem>
+		<taggedItem>
+			<release id="1648638">
+				<title>Marley OST</title>
+				<version/>
+				<type>Album</type>
+				<barcode>00602527999302</barcode>
+				<year>2012</year>
+				<explicitContent>false</explicitContent>
+				<artist id="159">
+					<name>Bob Marley &amp; The Wailers</name>
+					<appearsAs>Bob Marley &amp; The Wailers</appearsAs>
+					<url>http://www.7digital.com/artist/bob-marley-the-wailers-(2)/?partner=1401</url>
+				</artist>
+				<url>http://www.7digital.com/artist/bob-marley-the-wailers-(2)/release/marley-ost/?partner=1401</url>
+				<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/016/486/0001648638_50.jpg</image>
+				<releaseDate>2012-04-16T00:00:00+01:00</releaseDate>
+				<addedDate>2012-03-26T15:03:31+01:00</addedDate>
+				<popularity>0.54</popularity>
+				<streamingReleaseDate>2012-04-16T00:00:00+01:00</streamingReleaseDate>
+			</release>
+		</taggedItem>
+		<taggedItem>
+			<release id="31662">
+				<title>A Girl Like Me</title>
+				<version>UK</version>
+				<type>Album</type>
+				<barcode>00602498785751</barcode>
+				<year>2012</year>
+				<explicitContent>false</explicitContent>
+				<artist id="10653">
+					<name>Rihanna</name>
+					<appearsAs>Rihanna</appearsAs>
+					<url>http://www.7digital.com/artist/rihanna/?partner=1401</url>
+				</artist>
+				<url>http://www.7digital.com/artist/rihanna/release/a-girl-like-me-uk/?partner=1401</url>
+				<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/000/316/0000031662_50.jpg</image>
+				<releaseDate>2012-01-11T00:00:00+00:00</releaseDate>
+				<addedDate>2008-08-31T22:24:21+01:00</addedDate>
+				<popularity>0.54</popularity>
+				<streamingReleaseDate>2012-01-11T00:00:00+00:00</streamingReleaseDate>
+			</release>
+		</taggedItem>
+		<taggedItem>
+			<release id="1618386">
+				<title>Essential</title>
+				<version/>
+				<type>Album</type>
+				<barcode>5099944032258</barcode>
+				<year>2012</year>
+				<explicitContent>true</explicitContent>
+				<artist id="10206">
+					<name>Shaggy</name>
+					<appearsAs>Shaggy</appearsAs>
+					<url>http://www.7digital.com/artist/shaggy/?partner=1401</url>
+				</artist>
+				<url>http://www.7digital.com/artist/shaggy/release/essential-1/?partner=1401</url>
+				<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/016/183/0001618386_50.jpg</image>
+				<releaseDate>2012-03-19T00:00:00+00:00</releaseDate>
+				<addedDate>2012-02-29T18:35:57+00:00</addedDate>
+				<popularity>0.54</popularity>
+				<streamingReleaseDate>2012-03-19T00:00:00+00:00</streamingReleaseDate>
+			</release>
+		</taggedItem>
+		<taggedItem>
+			<release id="1194">
+				<title>Blue Lines</title>
+				<version/>
+				<type>Album</type>
+				<barcode>0077778622857</barcode>
+				<year>2006</year>
+				<explicitContent>false</explicitContent>
+				<artist id="416">
+					<name>Massive Attack</name>
+					<appearsAs>Massive Attack</appearsAs>
+					<url>http://www.7digital.com/artist/massive-attack/?partner=1401</url>
+				</artist>
+				<url>http://www.7digital.com/artist/massive-attack/release/blue-lines/?partner=1401</url>
+				<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/000/011/0000001194_50.jpg</image>
+				<releaseDate>2006-08-28T00:00:00+01:00</releaseDate>
+				<addedDate>2007-09-21T13:48:28+01:00</addedDate>
+				<popularity>0.53</popularity>
+				<streamingReleaseDate>2006-08-28T00:00:00+01:00</streamingReleaseDate>
+			</release>
+		</taggedItem>
+		<taggedItem>
+			<release id="1818606">
+				<title>Jamaica's Finest Vol. 1</title>
+				<version/>
+				<type>Album</type>
+				<barcode>887158143465</barcode>
+				<year>2012</year>
+				<explicitContent>false</explicitContent>
+				<artist id="209">
+					<name>Various Artists</name>
+					<appearsAs>Various Artists</appearsAs>
+					<url>http://www.7digital.com/artist/various-artists/?partner=1401</url>
+				</artist>
+				<url>http://www.7digital.com/artist/various-artists/release/jamaicas-finest-vol-1/?partner=1401</url>
+				<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/018/186/0001818606_50.jpg</image>
+				<releaseDate>2012-08-01T00:00:00+01:00</releaseDate>
+				<addedDate>2012-07-25T17:02:38+01:00</addedDate>
+				<popularity>0.53</popularity>
+				<streamingReleaseDate>2012-08-01T00:00:00+01:00</streamingReleaseDate>
+			</release>
+		</taggedItem>
+	</taggedResults>
 </response>

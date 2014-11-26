@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" ?>
+<?xml version="1.0" encoding="utf-8"?>
 <response status="ok" version="1.2">
 	<tracks>
 		<page>1</page>
@@ -17,7 +17,7 @@
 			<isrc>GBUM71000080</isrc>
 			<release id="799025">
 				<title>Night Train</title>
-				<version></version>
+				<version/>
 				<type>Album</type>
 				<barcode>00602527392622</barcode>
 				<artist id="1">
@@ -30,11 +30,11 @@
 			</release>
 			<url>http://www.7digital.com/artists/keane/night-train/01-House-Lights/?partner=712</url>
 			<price>
-				<currency code="GBP">&#163;</currency>
-				<formattedPrice>&#163;0.99</formattedPrice>
+				<currency code="GBP">£</currency>
+				<formattedPrice>£0.99</formattedPrice>
 				<value>0.99</value>
 				<rrp>0.99</rrp>
-				<formattedRrp>&#163;0.99</formattedRrp>
+				<formattedRrp>£0.99</formattedRrp>
 				<onSale>false</onSale>
 			</price>
 		</track>

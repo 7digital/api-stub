@@ -82,7 +82,7 @@
 		</release>
 		<release id="1524286">
 			<title>Beyond Magnetic</title>
-			<version />
+			<version/>
 			<type>Album</type>
 			<barcode>00602527935188</barcode>
 			<year>2014</year>
@@ -120,7 +120,7 @@
 		</release>
 		<release id="455051">
 			<title>The Metallica Collection</title>
-			<version />
+			<version/>
 			<type>Album</type>
 			<barcode>00602527022192</barcode>
 			<year>1984</year>
@@ -292,7 +292,7 @@
 		</release>
 		<release id="278687">
 			<title>Death Magnetic</title>
-			<version />
+			<version/>
 			<type>Album</type>
 			<barcode>00602517737303</barcode>
 			<year>2014</year>
@@ -347,7 +347,7 @@
 				<currency code="GBP">£</currency>
 				<value>0.99</value>
 				<formattedPrice>£0.99</formattedPrice>
-				<rrp xsi:nil="true" />
+				<rrp xsi:nil="true"/>
 				<formattedRrp>N/A</formattedRrp>
 				<onSale>false</onSale>
 			</price>
@@ -385,7 +385,7 @@
 				<currency code="GBP">£</currency>
 				<value>0.99</value>
 				<formattedPrice>£0.99</formattedPrice>
-				<rrp xsi:nil="true" />
+				<rrp xsi:nil="true"/>
 				<formattedRrp>N/A</formattedRrp>
 				<onSale>false</onSale>
 			</price>
@@ -423,7 +423,7 @@
 				<currency code="GBP">£</currency>
 				<value>0.99</value>
 				<formattedPrice>£0.99</formattedPrice>
-				<rrp xsi:nil="true" />
+				<rrp xsi:nil="true"/>
 				<formattedRrp>N/A</formattedRrp>
 				<onSale>false</onSale>
 			</price>
@@ -461,7 +461,7 @@
 				<currency code="GBP">£</currency>
 				<value>0.99</value>
 				<formattedPrice>£0.99</formattedPrice>
-				<rrp xsi:nil="true" />
+				<rrp xsi:nil="true"/>
 				<formattedRrp>N/A</formattedRrp>
 				<onSale>false</onSale>
 			</price>
@@ -482,7 +482,7 @@
 		</release>
 		<release id="311757">
 			<title>Some Kind Of Monster</title>
-			<version />
+			<version/>
 			<type>Album</type>
 			<barcode>00602498678107</barcode>
 			<year>1984</year>
@@ -520,7 +520,7 @@
 		</release>
 		<release id="38952">
 			<title>Kill 'Em All</title>
-			<version />
+			<version/>
 			<type>Album</type>
 			<barcode>00602517054660</barcode>
 			<year>2014</year>
@@ -558,7 +558,7 @@
 		</release>
 		<release id="38953">
 			<title>Ride The Lightning</title>
-			<version />
+			<version/>
 			<type>Album</type>
 			<barcode>00602517054677</barcode>
 			<year>2014</year>
@@ -596,7 +596,7 @@
 		</release>
 		<release id="38956">
 			<title>Master Of Puppets</title>
-			<version />
+			<version/>
 			<type>Album</type>
 			<barcode>00602517055001</barcode>
 			<year>2014</year>
@@ -651,7 +651,7 @@
 				<currency code="GBP">£</currency>
 				<value>0.99</value>
 				<formattedPrice>£0.99</formattedPrice>
-				<rrp xsi:nil="true" />
+				<rrp xsi:nil="true"/>
 				<formattedRrp>N/A</formattedRrp>
 				<onSale>false</onSale>
 			</price>

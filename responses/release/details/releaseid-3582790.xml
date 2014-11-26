@@ -2,7 +2,7 @@
 <response xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" status="ok" version="1.2" xsi:noNamespaceSchemaLocation="http://api.7digital.com/1.2/static/7digitalAPI.xsd">
 	<release id="3582790">
 		<title>Now That's What I Call Summer</title>
-		<version />
+		<version/>
 		<type>Album</type>
 		<barcode>886444577052</barcode>
 		<year>2014</year>
@@ -38,7 +38,7 @@
 			<name>NOW Thats Music</name>
 		</licensor>
 		<popularity>0</popularity>
-		<streamingReleaseDate xsi:nil="true" />
+		<streamingReleaseDate xsi:nil="true"/>
 		<duration>13978</duration>
 		<trackCount>64</trackCount>
 	</release>

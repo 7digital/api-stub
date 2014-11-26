@@ -1,219 +1,219 @@
-<?xml version="1.0" encoding="utf-8" ?>
-<response status="ok" version="1.2" xsi:noNamespaceSchemaLocation="http://api.7digital.com/1.2/static/7digitalAPI.xsd" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-  <taggedResults>
-    <page>1</page>
-    <pageSize>10</pageSize>
-    <totalItems>10093</totalItems>
-    <type>release</type>
-    <taggedItem>
-      <release id="1347417">
-        <title>7digital Essential: Jazz</title>
-        <version />
-        <type>Album</type>
-        <barcode>3700551721191</barcode>
-        <year>2011</year>
-        <explicitContent>false</explicitContent>
-        <artist id="209">
-          <name>Various Artists</name>
-          <appearsAs>Various Artists</appearsAs>
-          <url>http://www.7digital.com/artist/various-artists/?partner=1401</url>
-        </artist>
-        <url>http://www.7digital.com/artist/various-artists/release/7digital-essential-jazz/?partner=1401</url>
-        <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/013/474/0001347417_50.jpg</image>
-        <releaseDate>2011-07-18T00:00:00+01:00</releaseDate>
-        <addedDate>2011-08-16T17:36:31+01:00</addedDate>
-        <popularity>0.64</popularity>
-        <streamingReleaseDate>3001-01-01T00:00:00+00:00</streamingReleaseDate>
-      </release>
-    </taggedItem>
-    <taggedItem>
-      <release id="1347421">
-        <title>7digital Essential: Blues</title>
-        <version />
-        <type>Album</type>
-        <barcode>3700551721238</barcode>
-        <year>2011</year>
-        <explicitContent>false</explicitContent>
-        <artist id="209">
-          <name>Various Artists</name>
-          <appearsAs>Various Artists</appearsAs>
-          <url>http://www.7digital.com/artist/various-artists/?partner=1401</url>
-        </artist>
-        <url>http://www.7digital.com/artist/various-artists/release/7digital-essential-blues/?partner=1401</url>
-        <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/013/474/0001347421_50.jpg</image>
-        <releaseDate>2011-07-18T00:00:00+01:00</releaseDate>
-        <addedDate>2011-08-16T17:36:30+01:00</addedDate>
-        <popularity>0.61</popularity>
-        <streamingReleaseDate>3001-01-01T00:00:00+00:00</streamingReleaseDate>
-      </release>
-    </taggedItem>
-    <taggedItem>
-      <release id="1347420">
-        <title>7digital Essential: 50s Rock</title>
-        <version />
-        <type>Album</type>
-        <barcode>3700551721221</barcode>
-        <year>2011</year>
-        <explicitContent>false</explicitContent>
-        <artist id="209">
-          <name>Various Artists</name>
-          <appearsAs>Various Artists</appearsAs>
-          <url>http://www.7digital.com/artist/various-artists/?partner=1401</url>
-        </artist>
-        <url>http://www.7digital.com/artist/various-artists/release/7digital-essential-50s-rock/?partner=1401</url>
-        <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/013/474/0001347420_50.jpg</image>
-        <releaseDate>2011-07-18T00:00:00+01:00</releaseDate>
-        <addedDate>2011-08-16T17:36:33+01:00</addedDate>
-        <popularity>0.6</popularity>
-        <streamingReleaseDate>3001-01-01T00:00:00+00:00</streamingReleaseDate>
-      </release>
-    </taggedItem>
-    <taggedItem>
-      <release id="1347415">
-        <title>7digital Essential: Elvis Presley</title>
-        <version />
-        <type>Album</type>
-        <barcode>3700551721160</barcode>
-        <year>2011</year>
-        <explicitContent>false</explicitContent>
-        <artist id="2200">
-          <name>Elvis Presley</name>
-          <appearsAs>Elvis Presley </appearsAs>
-          <url>http://www.7digital.com/artist/elvis-presley-(2)/?partner=1401</url>
-        </artist>
-        <url>http://www.7digital.com/artist/elvis-presley-(2)/release/7digital-essential-elvis-presley/?partner=1401</url>
-        <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/013/474/0001347415_50.jpg</image>
-        <releaseDate>2011-07-18T00:00:00+01:00</releaseDate>
-        <addedDate>2011-08-16T17:36:23+01:00</addedDate>
-        <popularity>0.59</popularity>
-        <streamingReleaseDate>3001-01-01T00:00:00+00:00</streamingReleaseDate>
-      </release>
-    </taggedItem>
-    <taggedItem>
-      <release id="1347419">
-        <title>7digital Essential: Miles Davis</title>
-        <version />
-        <type>Album</type>
-        <barcode>3700551721214</barcode>
-        <year>2011</year>
-        <explicitContent>false</explicitContent>
-        <artist id="363">
-          <name>Miles Davis</name>
-          <appearsAs>Miles Davis</appearsAs>
-          <url>http://www.7digital.com/artist/miles-davis/?partner=1401</url>
-        </artist>
-        <url>http://www.7digital.com/artist/miles-davis/release/7digital-essential-miles-davis/?partner=1401</url>
-        <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/013/474/0001347419_50.jpg</image>
-        <releaseDate>2011-07-18T00:00:00+01:00</releaseDate>
-        <addedDate>2011-08-16T17:36:28+01:00</addedDate>
-        <popularity>0.58</popularity>
-        <streamingReleaseDate>3001-01-01T00:00:00+00:00</streamingReleaseDate>
-      </release>
-    </taggedItem>
-    <taggedItem>
-      <release id="1347418">
-        <title>7digital Essential: Louis Armstrong</title>
-        <version />
-        <type>Album</type>
-        <barcode>3700551721207</barcode>
-        <year>2011</year>
-        <explicitContent>false</explicitContent>
-        <artist id="3792">
-          <name>Louis Armstrong</name>
-          <appearsAs>Louis Armstrong </appearsAs>
-          <url>http://www.7digital.com/artist/louis-armstrong-(3)/?partner=1401</url>
-        </artist>
-        <url>http://www.7digital.com/artist/louis-armstrong-(3)/release/7digital-essential-louis-armstrong/?partner=1401</url>
-        <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/013/474/0001347418_50.jpg</image>
-        <releaseDate>2011-07-18T00:00:00+01:00</releaseDate>
-        <addedDate>2011-08-16T17:36:27+01:00</addedDate>
-        <popularity>0.58</popularity>
-        <streamingReleaseDate>3001-01-01T00:00:00+00:00</streamingReleaseDate>
-      </release>
-    </taggedItem>
-    <taggedItem>
-      <release id="1347423">
-        <title>7digital Essential: Chansons Françaises</title>
-        <version />
-        <type>Album</type>
-        <barcode>3700551721252</barcode>
-        <year>2011</year>
-        <explicitContent>false</explicitContent>
-        <artist id="209">
-          <name>Various Artists</name>
-          <appearsAs>Various Artists</appearsAs>
-          <url>http://www.7digital.com/artist/various-artists/?partner=1401</url>
-        </artist>
-        <url>http://www.7digital.com/artist/various-artists/release/7digital-essential-chansons-francaises/?partner=1401</url>
-        <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/013/474/0001347423_50.jpg</image>
-        <releaseDate>2011-07-18T00:00:00+01:00</releaseDate>
-        <addedDate>2011-08-16T17:36:31+01:00</addedDate>
-        <popularity>0.56</popularity>
-        <streamingReleaseDate>3001-01-01T00:00:00+00:00</streamingReleaseDate>
-      </release>
-    </taggedItem>
-    <taggedItem>
-      <release id="1347424">
-        <title>7digital Essential: Classic R&amp;B</title>
-        <version />
-        <type>Album</type>
-        <barcode>3700551721269</barcode>
-        <year>2011</year>
-        <explicitContent>false</explicitContent>
-        <artist id="209">
-          <name>Various Artists</name>
-          <appearsAs>Various Artists</appearsAs>
-          <url>http://www.7digital.com/artist/various-artists/?partner=1401</url>
-        </artist>
-        <url>http://www.7digital.com/artist/various-artists/release/7digital-essential-classic-randb/?partner=1401</url>
-        <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/013/474/0001347424_50.jpg</image>
-        <releaseDate>2011-07-18T00:00:00+01:00</releaseDate>
-        <addedDate>2011-08-16T17:36:31+01:00</addedDate>
-        <popularity>0.56</popularity>
-        <streamingReleaseDate>3001-01-01T00:00:00+00:00</streamingReleaseDate>
-      </release>
-    </taggedItem>
-    <taggedItem>
-      <release id="1277762">
-        <title>Far Nearer / Beat For - EP</title>
-        <version />
-        <type>Single</type>
-        <barcode>5060163490396</barcode>
-        <year>2011</year>
-        <explicitContent>false</explicitContent>
-        <artist id="942352">
-          <name>Jamie xx</name>
-          <appearsAs>Jamie xx</appearsAs>
-          <url>http://www.7digital.com/artist/jamie-xx/?partner=1401</url>
-        </artist>
-        <url>http://www.7digital.com/artist/jamie-xx/release/far-nearer-beat-for-ep/?partner=1401</url>
-        <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/012/777/0001277762_50.jpg</image>
-        <releaseDate>2011-06-06T00:00:00+01:00</releaseDate>
-        <addedDate>2011-06-06T17:13:02+01:00</addedDate>
-        <popularity>0.53</popularity>
-        <streamingReleaseDate>3001-01-01T00:00:00+00:00</streamingReleaseDate>
-      </release>
-    </taggedItem>
-    <taggedItem>
-      <release id="1347416">
-        <title>7digital Essential: Billie Holiday</title>
-        <version />
-        <type>Album</type>
-        <barcode>3700551721177</barcode>
-        <year>2011</year>
-        <explicitContent>false</explicitContent>
-        <artist id="49">
-          <name>Billie Holiday</name>
-          <appearsAs>Billie Holiday</appearsAs>
-          <url>http://www.7digital.com/artist/billie-holiday/?partner=1401</url>
-        </artist>
-        <url>http://www.7digital.com/artist/billie-holiday/release/7digital-essential-billie-holiday/?partner=1401</url>
-        <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/013/474/0001347416_50.jpg</image>
-        <releaseDate>2011-07-18T00:00:00+01:00</releaseDate>
-        <addedDate>2011-08-16T17:36:20+01:00</addedDate>
-        <popularity>0.53</popularity>
-        <streamingReleaseDate>3001-01-01T00:00:00+00:00</streamingReleaseDate>
-      </release>
-    </taggedItem>
-  </taggedResults>
+<?xml version="1.0" encoding="utf-8"?>
+<response xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" status="ok" version="1.2" xsi:noNamespaceSchemaLocation="http://api.7digital.com/1.2/static/7digitalAPI.xsd">
+	<taggedResults>
+		<page>1</page>
+		<pageSize>10</pageSize>
+		<totalItems>10093</totalItems>
+		<type>release</type>
+		<taggedItem>
+			<release id="1347417">
+				<title>7digital Essential: Jazz</title>
+				<version/>
+				<type>Album</type>
+				<barcode>3700551721191</barcode>
+				<year>2011</year>
+				<explicitContent>false</explicitContent>
+				<artist id="209">
+					<name>Various Artists</name>
+					<appearsAs>Various Artists</appearsAs>
+					<url>http://www.7digital.com/artist/various-artists/?partner=1401</url>
+				</artist>
+				<url>http://www.7digital.com/artist/various-artists/release/7digital-essential-jazz/?partner=1401</url>
+				<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/013/474/0001347417_50.jpg</image>
+				<releaseDate>2011-07-18T00:00:00+01:00</releaseDate>
+				<addedDate>2011-08-16T17:36:31+01:00</addedDate>
+				<popularity>0.64</popularity>
+				<streamingReleaseDate>3001-01-01T00:00:00+00:00</streamingReleaseDate>
+			</release>
+		</taggedItem>
+		<taggedItem>
+			<release id="1347421">
+				<title>7digital Essential: Blues</title>
+				<version/>
+				<type>Album</type>
+				<barcode>3700551721238</barcode>
+				<year>2011</year>
+				<explicitContent>false</explicitContent>
+				<artist id="209">
+					<name>Various Artists</name>
+					<appearsAs>Various Artists</appearsAs>
+					<url>http://www.7digital.com/artist/various-artists/?partner=1401</url>
+				</artist>
+				<url>http://www.7digital.com/artist/various-artists/release/7digital-essential-blues/?partner=1401</url>
+				<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/013/474/0001347421_50.jpg</image>
+				<releaseDate>2011-07-18T00:00:00+01:00</releaseDate>
+				<addedDate>2011-08-16T17:36:30+01:00</addedDate>
+				<popularity>0.61</popularity>
+				<streamingReleaseDate>3001-01-01T00:00:00+00:00</streamingReleaseDate>
+			</release>
+		</taggedItem>
+		<taggedItem>
+			<release id="1347420">
+				<title>7digital Essential: 50s Rock</title>
+				<version/>
+				<type>Album</type>
+				<barcode>3700551721221</barcode>
+				<year>2011</year>
+				<explicitContent>false</explicitContent>
+				<artist id="209">
+					<name>Various Artists</name>
+					<appearsAs>Various Artists</appearsAs>
+					<url>http://www.7digital.com/artist/various-artists/?partner=1401</url>
+				</artist>
+				<url>http://www.7digital.com/artist/various-artists/release/7digital-essential-50s-rock/?partner=1401</url>
+				<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/013/474/0001347420_50.jpg</image>
+				<releaseDate>2011-07-18T00:00:00+01:00</releaseDate>
+				<addedDate>2011-08-16T17:36:33+01:00</addedDate>
+				<popularity>0.6</popularity>
+				<streamingReleaseDate>3001-01-01T00:00:00+00:00</streamingReleaseDate>
+			</release>
+		</taggedItem>
+		<taggedItem>
+			<release id="1347415">
+				<title>7digital Essential: Elvis Presley</title>
+				<version/>
+				<type>Album</type>
+				<barcode>3700551721160</barcode>
+				<year>2011</year>
+				<explicitContent>false</explicitContent>
+				<artist id="2200">
+					<name>Elvis Presley</name>
+					<appearsAs>Elvis Presley </appearsAs>
+					<url>http://www.7digital.com/artist/elvis-presley-(2)/?partner=1401</url>
+				</artist>
+				<url>http://www.7digital.com/artist/elvis-presley-(2)/release/7digital-essential-elvis-presley/?partner=1401</url>
+				<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/013/474/0001347415_50.jpg</image>
+				<releaseDate>2011-07-18T00:00:00+01:00</releaseDate>
+				<addedDate>2011-08-16T17:36:23+01:00</addedDate>
+				<popularity>0.59</popularity>
+				<streamingReleaseDate>3001-01-01T00:00:00+00:00</streamingReleaseDate>
+			</release>
+		</taggedItem>
+		<taggedItem>
+			<release id="1347419">
+				<title>7digital Essential: Miles Davis</title>
+				<version/>
+				<type>Album</type>
+				<barcode>3700551721214</barcode>
+				<year>2011</year>
+				<explicitContent>false</explicitContent>
+				<artist id="363">
+					<name>Miles Davis</name>
+					<appearsAs>Miles Davis</appearsAs>
+					<url>http://www.7digital.com/artist/miles-davis/?partner=1401</url>
+				</artist>
+				<url>http://www.7digital.com/artist/miles-davis/release/7digital-essential-miles-davis/?partner=1401</url>
+				<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/013/474/0001347419_50.jpg</image>
+				<releaseDate>2011-07-18T00:00:00+01:00</releaseDate>
+				<addedDate>2011-08-16T17:36:28+01:00</addedDate>
+				<popularity>0.58</popularity>
+				<streamingReleaseDate>3001-01-01T00:00:00+00:00</streamingReleaseDate>
+			</release>
+		</taggedItem>
+		<taggedItem>
+			<release id="1347418">
+				<title>7digital Essential: Louis Armstrong</title>
+				<version/>
+				<type>Album</type>
+				<barcode>3700551721207</barcode>
+				<year>2011</year>
+				<explicitContent>false</explicitContent>
+				<artist id="3792">
+					<name>Louis Armstrong</name>
+					<appearsAs>Louis Armstrong </appearsAs>
+					<url>http://www.7digital.com/artist/louis-armstrong-(3)/?partner=1401</url>
+				</artist>
+				<url>http://www.7digital.com/artist/louis-armstrong-(3)/release/7digital-essential-louis-armstrong/?partner=1401</url>
+				<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/013/474/0001347418_50.jpg</image>
+				<releaseDate>2011-07-18T00:00:00+01:00</releaseDate>
+				<addedDate>2011-08-16T17:36:27+01:00</addedDate>
+				<popularity>0.58</popularity>
+				<streamingReleaseDate>3001-01-01T00:00:00+00:00</streamingReleaseDate>
+			</release>
+		</taggedItem>
+		<taggedItem>
+			<release id="1347423">
+				<title>7digital Essential: Chansons Françaises</title>
+				<version/>
+				<type>Album</type>
+				<barcode>3700551721252</barcode>
+				<year>2011</year>
+				<explicitContent>false</explicitContent>
+				<artist id="209">
+					<name>Various Artists</name>
+					<appearsAs>Various Artists</appearsAs>
+					<url>http://www.7digital.com/artist/various-artists/?partner=1401</url>
+				</artist>
+				<url>http://www.7digital.com/artist/various-artists/release/7digital-essential-chansons-francaises/?partner=1401</url>
+				<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/013/474/0001347423_50.jpg</image>
+				<releaseDate>2011-07-18T00:00:00+01:00</releaseDate>
+				<addedDate>2011-08-16T17:36:31+01:00</addedDate>
+				<popularity>0.56</popularity>
+				<streamingReleaseDate>3001-01-01T00:00:00+00:00</streamingReleaseDate>
+			</release>
+		</taggedItem>
+		<taggedItem>
+			<release id="1347424">
+				<title>7digital Essential: Classic R&amp;B</title>
+				<version/>
+				<type>Album</type>
+				<barcode>3700551721269</barcode>
+				<year>2011</year>
+				<explicitContent>false</explicitContent>
+				<artist id="209">
+					<name>Various Artists</name>
+					<appearsAs>Various Artists</appearsAs>
+					<url>http://www.7digital.com/artist/various-artists/?partner=1401</url>
+				</artist>
+				<url>http://www.7digital.com/artist/various-artists/release/7digital-essential-classic-randb/?partner=1401</url>
+				<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/013/474/0001347424_50.jpg</image>
+				<releaseDate>2011-07-18T00:00:00+01:00</releaseDate>
+				<addedDate>2011-08-16T17:36:31+01:00</addedDate>
+				<popularity>0.56</popularity>
+				<streamingReleaseDate>3001-01-01T00:00:00+00:00</streamingReleaseDate>
+			</release>
+		</taggedItem>
+		<taggedItem>
+			<release id="1277762">
+				<title>Far Nearer / Beat For - EP</title>
+				<version/>
+				<type>Single</type>
+				<barcode>5060163490396</barcode>
+				<year>2011</year>
+				<explicitContent>false</explicitContent>
+				<artist id="942352">
+					<name>Jamie xx</name>
+					<appearsAs>Jamie xx</appearsAs>
+					<url>http://www.7digital.com/artist/jamie-xx/?partner=1401</url>
+				</artist>
+				<url>http://www.7digital.com/artist/jamie-xx/release/far-nearer-beat-for-ep/?partner=1401</url>
+				<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/012/777/0001277762_50.jpg</image>
+				<releaseDate>2011-06-06T00:00:00+01:00</releaseDate>
+				<addedDate>2011-06-06T17:13:02+01:00</addedDate>
+				<popularity>0.53</popularity>
+				<streamingReleaseDate>3001-01-01T00:00:00+00:00</streamingReleaseDate>
+			</release>
+		</taggedItem>
+		<taggedItem>
+			<release id="1347416">
+				<title>7digital Essential: Billie Holiday</title>
+				<version/>
+				<type>Album</type>
+				<barcode>3700551721177</barcode>
+				<year>2011</year>
+				<explicitContent>false</explicitContent>
+				<artist id="49">
+					<name>Billie Holiday</name>
+					<appearsAs>Billie Holiday</appearsAs>
+					<url>http://www.7digital.com/artist/billie-holiday/?partner=1401</url>
+				</artist>
+				<url>http://www.7digital.com/artist/billie-holiday/release/7digital-essential-billie-holiday/?partner=1401</url>
+				<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/013/474/0001347416_50.jpg</image>
+				<releaseDate>2011-07-18T00:00:00+01:00</releaseDate>
+				<addedDate>2011-08-16T17:36:20+01:00</addedDate>
+				<popularity>0.53</popularity>
+				<streamingReleaseDate>3001-01-01T00:00:00+00:00</streamingReleaseDate>
+			</release>
+		</taggedItem>
+	</taggedResults>
 </response>

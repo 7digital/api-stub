@@ -1,219 +1,219 @@
-<?xml version="1.0" encoding="utf-8" ?>
-<response status="ok" version="1.2" xsi:noNamespaceSchemaLocation="http://api.7digital.com/1.2/static/7digitalAPI.xsd" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-  <taggedResults>
-    <page>1</page>
-    <pageSize>10</pageSize>
-    <totalItems>24545</totalItems>
-    <type>release</type>
-    <taggedItem>
-      <release id="21281">
-        <title>Curtain Call</title>
-        <version>Explicit Version</version>
-        <type>Album</type>
-        <barcode>00602498878934</barcode>
-        <year>2005</year>
-        <explicitContent>false</explicitContent>
-        <artist id="262">
-          <name>Eminem</name>
-          <appearsAs>Eminem</appearsAs>
-          <url>http://www.7digital.com/artist/eminem/?partner=1401</url>
-        </artist>
-        <url>http://www.7digital.com/artist/eminem/release/curtain-call-explicit-version/?partner=1401</url>
-        <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/000/212/0000021281_50.jpg</image>
-        <releaseDate>2005-12-02T00:00:00+00:00</releaseDate>
-        <addedDate>2009-04-28T14:24:13+01:00</addedDate>
-        <popularity>0.69</popularity>
-        <streamingReleaseDate>2005-12-02T00:00:00+00:00</streamingReleaseDate>
-      </release>
-    </taggedItem>
-    <taggedItem>
-      <release id="1729091">
-        <title>90s Groove - Ministry of Sound</title>
-        <version />
-        <type>Album</type>
-        <barcode>5051275053050</barcode>
-        <year>2012</year>
-        <explicitContent>false</explicitContent>
-        <artist id="209">
-          <name>Various Artists</name>
-          <appearsAs>Various Artists</appearsAs>
-          <url>http://www.7digital.com/artist/various-artists/?partner=1401</url>
-        </artist>
-        <url>http://www.7digital.com/artist/various-artists/release/90s-groove-ministry-of-sound/?partner=1401</url>
-        <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/017/290/0001729091_50.jpg</image>
-        <releaseDate>2012-05-28T00:00:00+01:00</releaseDate>
-        <addedDate>2012-05-25T00:15:37+01:00</addedDate>
-        <popularity>0.66</popularity>
-        <streamingReleaseDate>3001-01-01T00:00:00+00:00</streamingReleaseDate>
-      </release>
-    </taggedItem>
-    <taggedItem>
-      <release id="1612747">
-        <title>One R&amp;B</title>
-        <version />
-        <type>Album</type>
-        <barcode>5051275048759</barcode>
-        <year>2012</year>
-        <explicitContent>false</explicitContent>
-        <artist id="209">
-          <name>Various Artists</name>
-          <appearsAs>Various Artists</appearsAs>
-          <url>http://www.7digital.com/artist/various-artists/?partner=1401</url>
-        </artist>
-        <url>http://www.7digital.com/artist/various-artists/release/one-randb/?partner=1401</url>
-        <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/016/127/0001612747_50.jpg</image>
-        <releaseDate>2012-03-05T00:00:00+00:00</releaseDate>
-        <addedDate>2012-02-21T17:22:44+00:00</addedDate>
-        <popularity>0.65</popularity>
-        <streamingReleaseDate>3001-01-01T00:00:00+00:00</streamingReleaseDate>
-      </release>
-    </taggedItem>
-    <taggedItem>
-      <release id="1024526">
-        <title>The Hits Collection Volume One</title>
-        <version>International Version (Explicit)</version>
-        <type>Album</type>
-        <barcode>00602527577081</barcode>
-        <year>2010</year>
-        <explicitContent>true</explicitContent>
-        <artist id="1298">
-          <name>Jay-Z</name>
-          <appearsAs>Jay-Z</appearsAs>
-          <url>http://www.7digital.com/artist/jay-z/?partner=1401</url>
-        </artist>
-        <url>http://www.7digital.com/artist/jay-z/release/the-hits-collection-volume-one/?partner=1401</url>
-        <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/010/245/0001024526_50.jpg</image>
-        <releaseDate>2010-11-08T00:00:00+00:00</releaseDate>
-        <addedDate>2010-11-03T15:26:23+00:00</addedDate>
-        <popularity>0.64</popularity>
-        <streamingReleaseDate>2010-11-08T00:00:00+00:00</streamingReleaseDate>
-      </release>
-    </taggedItem>
-    <taggedItem>
-      <release id="662632">
-        <title>The Element Of Freedom</title>
-        <version />
-        <type>Album</type>
-        <barcode>884977002508</barcode>
-        <year>2009</year>
-        <explicitContent>false</explicitContent>
-        <artist id="1237">
-          <name>Alicia Keys</name>
-          <appearsAs>Alicia Keys </appearsAs>
-          <url>http://www.7digital.com/artist/alicia-keys-(2)/?partner=1401</url>
-        </artist>
-        <url>http://www.7digital.com/artist/alicia-keys-(2)/release/the-element-of-freedom/?partner=1401</url>
-        <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/006/626/0000662632_50.jpg</image>
-        <releaseDate>2009-12-14T00:00:00+00:00</releaseDate>
-        <addedDate>2009-12-03T05:44:58+00:00</addedDate>
-        <popularity>0.62</popularity>
-        <streamingReleaseDate>2009-12-14T00:00:00+00:00</streamingReleaseDate>
-      </release>
-    </taggedItem>
-    <taggedItem>
-      <release id="1326877">
-        <title>Heaven</title>
-        <version />
-        <type>Single</type>
-        <barcode>5099908721952</barcode>
-        <year>2011</year>
-        <explicitContent>false</explicitContent>
-        <artist id="1053056">
-          <name>Emeli Sande</name>
-          <appearsAs>Emeli Sande</appearsAs>
-          <url>http://www.7digital.com/artist/emeli-sande-(1)/?partner=1401</url>
-        </artist>
-        <url>http://www.7digital.com/artist/emeli-sande-(1)/release/heaven/?partner=1401</url>
-        <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/013/268/0001326877_50.jpg</image>
-        <releaseDate>2011-08-14T00:00:00+01:00</releaseDate>
-        <addedDate>2011-07-15T19:09:13+01:00</addedDate>
-        <popularity>0.61</popularity>
-        <streamingReleaseDate>2011-08-14T00:00:00+01:00</streamingReleaseDate>
-      </release>
-    </taggedItem>
-    <taggedItem>
-      <release id="1057708">
-        <title>The Workout Mix 2011</title>
-        <version />
-        <type>Album</type>
-        <barcode>00600753318782</barcode>
-        <year>2011</year>
-        <explicitContent>false</explicitContent>
-        <artist id="209">
-          <name>Various Artists</name>
-          <appearsAs>Various Artists</appearsAs>
-          <url>http://www.7digital.com/artist/various-artists/?partner=1401</url>
-        </artist>
-        <url>http://www.7digital.com/artist/various-artists/release/the-workout-mix-2011/?partner=1401</url>
-        <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/010/577/0001057708_50.jpg</image>
-        <releaseDate>2011-03-11T00:00:00+00:00</releaseDate>
-        <addedDate>2010-12-08T15:31:54+00:00</addedDate>
-        <popularity>0.6</popularity>
-        <streamingReleaseDate>3001-01-01T00:00:00+00:00</streamingReleaseDate>
-      </release>
-    </taggedItem>
-    <taggedItem>
-      <release id="968508">
-        <title>Passion, Pain &amp; Pleasure</title>
-        <version />
-        <type>Album</type>
-        <barcode>075679973658</barcode>
-        <year>2012</year>
-        <explicitContent>false</explicitContent>
-        <artist id="12019">
-          <name>Trey Songz</name>
-          <appearsAs>Trey Songz</appearsAs>
-          <url>http://www.7digital.com/artist/trey-songz/?partner=1401</url>
-        </artist>
-        <url>http://www.7digital.com/artist/trey-songz/release/passion-pain-and-pleasure/?partner=1401</url>
-        <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/009/685/0000968508_50.jpg</image>
-        <releaseDate>2012-10-30T00:00:00+00:00</releaseDate>
-        <addedDate>2010-10-01T12:08:04+01:00</addedDate>
-        <popularity>0.59</popularity>
-        <streamingReleaseDate>2012-10-30T00:00:00+00:00</streamingReleaseDate>
-      </release>
-    </taggedItem>
-    <taggedItem>
-      <release id="343559">
-        <title>The Fame</title>
-        <version>Revised International Version</version>
-        <type>Album</type>
-        <barcode>00602517913974</barcode>
-        <year>2008</year>
-        <explicitContent>false</explicitContent>
-        <artist id="237973">
-          <name>Lady GaGa</name>
-          <appearsAs>Lady GaGa</appearsAs>
-          <url>http://www.7digital.com/artist/lady-gaga/?partner=1401</url>
-        </artist>
-        <url>http://www.7digital.com/artist/lady-gaga/release/the-fame-1/?partner=1401</url>
-        <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/003/435/0000343559_50.jpg</image>
-        <releaseDate>2008-11-24T00:00:00+00:00</releaseDate>
-        <addedDate>2011-07-28T15:05:04+01:00</addedDate>
-        <popularity>0.59</popularity>
-        <streamingReleaseDate>3001-01-01T00:00:00+00:00</streamingReleaseDate>
-      </release>
-    </taggedItem>
-    <taggedItem>
-      <release id="890848">
-        <title>Deuces featuring Tyga &amp; Kevin McCall</title>
-        <version />
-        <type>Single</type>
-        <barcode>884977673159</barcode>
-        <year>2010</year>
-        <explicitContent>true</explicitContent>
-        <artist id="15239">
-          <name>Chris Brown</name>
-          <appearsAs>Chris Brown</appearsAs>
-          <url>http://www.7digital.com/artist/chris-brown-(2)/?partner=1401</url>
-        </artist>
-        <url>http://www.7digital.com/artist/chris-brown-(2)/release/deuces-featuring-tyga-and-kevin-mccall/?partner=1401</url>
-        <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/008/908/0000890848_50.jpg</image>
-        <releaseDate>2010-07-11T00:00:00+01:00</releaseDate>
-        <addedDate>2010-07-05T07:03:11+01:00</addedDate>
-        <popularity>0.59</popularity>
-        <streamingReleaseDate>2010-07-11T00:00:00+01:00</streamingReleaseDate>
-      </release>
-    </taggedItem>
-  </taggedResults>
+<?xml version="1.0" encoding="utf-8"?>
+<response xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" status="ok" version="1.2" xsi:noNamespaceSchemaLocation="http://api.7digital.com/1.2/static/7digitalAPI.xsd">
+	<taggedResults>
+		<page>1</page>
+		<pageSize>10</pageSize>
+		<totalItems>24545</totalItems>
+		<type>release</type>
+		<taggedItem>
+			<release id="21281">
+				<title>Curtain Call</title>
+				<version>Explicit Version</version>
+				<type>Album</type>
+				<barcode>00602498878934</barcode>
+				<year>2005</year>
+				<explicitContent>false</explicitContent>
+				<artist id="262">
+					<name>Eminem</name>
+					<appearsAs>Eminem</appearsAs>
+					<url>http://www.7digital.com/artist/eminem/?partner=1401</url>
+				</artist>
+				<url>http://www.7digital.com/artist/eminem/release/curtain-call-explicit-version/?partner=1401</url>
+				<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/000/212/0000021281_50.jpg</image>
+				<releaseDate>2005-12-02T00:00:00+00:00</releaseDate>
+				<addedDate>2009-04-28T14:24:13+01:00</addedDate>
+				<popularity>0.69</popularity>
+				<streamingReleaseDate>2005-12-02T00:00:00+00:00</streamingReleaseDate>
+			</release>
+		</taggedItem>
+		<taggedItem>
+			<release id="1729091">
+				<title>90s Groove - Ministry of Sound</title>
+				<version/>
+				<type>Album</type>
+				<barcode>5051275053050</barcode>
+				<year>2012</year>
+				<explicitContent>false</explicitContent>
+				<artist id="209">
+					<name>Various Artists</name>
+					<appearsAs>Various Artists</appearsAs>
+					<url>http://www.7digital.com/artist/various-artists/?partner=1401</url>
+				</artist>
+				<url>http://www.7digital.com/artist/various-artists/release/90s-groove-ministry-of-sound/?partner=1401</url>
+				<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/017/290/0001729091_50.jpg</image>
+				<releaseDate>2012-05-28T00:00:00+01:00</releaseDate>
+				<addedDate>2012-05-25T00:15:37+01:00</addedDate>
+				<popularity>0.66</popularity>
+				<streamingReleaseDate>3001-01-01T00:00:00+00:00</streamingReleaseDate>
+			</release>
+		</taggedItem>
+		<taggedItem>
+			<release id="1612747">
+				<title>One R&amp;B</title>
+				<version/>
+				<type>Album</type>
+				<barcode>5051275048759</barcode>
+				<year>2012</year>
+				<explicitContent>false</explicitContent>
+				<artist id="209">
+					<name>Various Artists</name>
+					<appearsAs>Various Artists</appearsAs>
+					<url>http://www.7digital.com/artist/various-artists/?partner=1401</url>
+				</artist>
+				<url>http://www.7digital.com/artist/various-artists/release/one-randb/?partner=1401</url>
+				<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/016/127/0001612747_50.jpg</image>
+				<releaseDate>2012-03-05T00:00:00+00:00</releaseDate>
+				<addedDate>2012-02-21T17:22:44+00:00</addedDate>
+				<popularity>0.65</popularity>
+				<streamingReleaseDate>3001-01-01T00:00:00+00:00</streamingReleaseDate>
+			</release>
+		</taggedItem>
+		<taggedItem>
+			<release id="1024526">
+				<title>The Hits Collection Volume One</title>
+				<version>International Version (Explicit)</version>
+				<type>Album</type>
+				<barcode>00602527577081</barcode>
+				<year>2010</year>
+				<explicitContent>true</explicitContent>
+				<artist id="1298">
+					<name>Jay-Z</name>
+					<appearsAs>Jay-Z</appearsAs>
+					<url>http://www.7digital.com/artist/jay-z/?partner=1401</url>
+				</artist>
+				<url>http://www.7digital.com/artist/jay-z/release/the-hits-collection-volume-one/?partner=1401</url>
+				<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/010/245/0001024526_50.jpg</image>
+				<releaseDate>2010-11-08T00:00:00+00:00</releaseDate>
+				<addedDate>2010-11-03T15:26:23+00:00</addedDate>
+				<popularity>0.64</popularity>
+				<streamingReleaseDate>2010-11-08T00:00:00+00:00</streamingReleaseDate>
+			</release>
+		</taggedItem>
+		<taggedItem>
+			<release id="662632">
+				<title>The Element Of Freedom</title>
+				<version/>
+				<type>Album</type>
+				<barcode>884977002508</barcode>
+				<year>2009</year>
+				<explicitContent>false</explicitContent>
+				<artist id="1237">
+					<name>Alicia Keys</name>
+					<appearsAs>Alicia Keys </appearsAs>
+					<url>http://www.7digital.com/artist/alicia-keys-(2)/?partner=1401</url>
+				</artist>
+				<url>http://www.7digital.com/artist/alicia-keys-(2)/release/the-element-of-freedom/?partner=1401</url>
+				<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/006/626/0000662632_50.jpg</image>
+				<releaseDate>2009-12-14T00:00:00+00:00</releaseDate>
+				<addedDate>2009-12-03T05:44:58+00:00</addedDate>
+				<popularity>0.62</popularity>
+				<streamingReleaseDate>2009-12-14T00:00:00+00:00</streamingReleaseDate>
+			</release>
+		</taggedItem>
+		<taggedItem>
+			<release id="1326877">
+				<title>Heaven</title>
+				<version/>
+				<type>Single</type>
+				<barcode>5099908721952</barcode>
+				<year>2011</year>
+				<explicitContent>false</explicitContent>
+				<artist id="1053056">
+					<name>Emeli Sande</name>
+					<appearsAs>Emeli Sande</appearsAs>
+					<url>http://www.7digital.com/artist/emeli-sande-(1)/?partner=1401</url>
+				</artist>
+				<url>http://www.7digital.com/artist/emeli-sande-(1)/release/heaven/?partner=1401</url>
+				<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/013/268/0001326877_50.jpg</image>
+				<releaseDate>2011-08-14T00:00:00+01:00</releaseDate>
+				<addedDate>2011-07-15T19:09:13+01:00</addedDate>
+				<popularity>0.61</popularity>
+				<streamingReleaseDate>2011-08-14T00:00:00+01:00</streamingReleaseDate>
+			</release>
+		</taggedItem>
+		<taggedItem>
+			<release id="1057708">
+				<title>The Workout Mix 2011</title>
+				<version/>
+				<type>Album</type>
+				<barcode>00600753318782</barcode>
+				<year>2011</year>
+				<explicitContent>false</explicitContent>
+				<artist id="209">
+					<name>Various Artists</name>
+					<appearsAs>Various Artists</appearsAs>
+					<url>http://www.7digital.com/artist/various-artists/?partner=1401</url>
+				</artist>
+				<url>http://www.7digital.com/artist/various-artists/release/the-workout-mix-2011/?partner=1401</url>
+				<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/010/577/0001057708_50.jpg</image>
+				<releaseDate>2011-03-11T00:00:00+00:00</releaseDate>
+				<addedDate>2010-12-08T15:31:54+00:00</addedDate>
+				<popularity>0.6</popularity>
+				<streamingReleaseDate>3001-01-01T00:00:00+00:00</streamingReleaseDate>
+			</release>
+		</taggedItem>
+		<taggedItem>
+			<release id="968508">
+				<title>Passion, Pain &amp; Pleasure</title>
+				<version/>
+				<type>Album</type>
+				<barcode>075679973658</barcode>
+				<year>2012</year>
+				<explicitContent>false</explicitContent>
+				<artist id="12019">
+					<name>Trey Songz</name>
+					<appearsAs>Trey Songz</appearsAs>
+					<url>http://www.7digital.com/artist/trey-songz/?partner=1401</url>
+				</artist>
+				<url>http://www.7digital.com/artist/trey-songz/release/passion-pain-and-pleasure/?partner=1401</url>
+				<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/009/685/0000968508_50.jpg</image>
+				<releaseDate>2012-10-30T00:00:00+00:00</releaseDate>
+				<addedDate>2010-10-01T12:08:04+01:00</addedDate>
+				<popularity>0.59</popularity>
+				<streamingReleaseDate>2012-10-30T00:00:00+00:00</streamingReleaseDate>
+			</release>
+		</taggedItem>
+		<taggedItem>
+			<release id="343559">
+				<title>The Fame</title>
+				<version>Revised International Version</version>
+				<type>Album</type>
+				<barcode>00602517913974</barcode>
+				<year>2008</year>
+				<explicitContent>false</explicitContent>
+				<artist id="237973">
+					<name>Lady GaGa</name>
+					<appearsAs>Lady GaGa</appearsAs>
+					<url>http://www.7digital.com/artist/lady-gaga/?partner=1401</url>
+				</artist>
+				<url>http://www.7digital.com/artist/lady-gaga/release/the-fame-1/?partner=1401</url>
+				<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/003/435/0000343559_50.jpg</image>
+				<releaseDate>2008-11-24T00:00:00+00:00</releaseDate>
+				<addedDate>2011-07-28T15:05:04+01:00</addedDate>
+				<popularity>0.59</popularity>
+				<streamingReleaseDate>3001-01-01T00:00:00+00:00</streamingReleaseDate>
+			</release>
+		</taggedItem>
+		<taggedItem>
+			<release id="890848">
+				<title>Deuces featuring Tyga &amp; Kevin McCall</title>
+				<version/>
+				<type>Single</type>
+				<barcode>884977673159</barcode>
+				<year>2010</year>
+				<explicitContent>true</explicitContent>
+				<artist id="15239">
+					<name>Chris Brown</name>
+					<appearsAs>Chris Brown</appearsAs>
+					<url>http://www.7digital.com/artist/chris-brown-(2)/?partner=1401</url>
+				</artist>
+				<url>http://www.7digital.com/artist/chris-brown-(2)/release/deuces-featuring-tyga-and-kevin-mccall/?partner=1401</url>
+				<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/008/908/0000890848_50.jpg</image>
+				<releaseDate>2010-07-11T00:00:00+01:00</releaseDate>
+				<addedDate>2010-07-05T07:03:11+01:00</addedDate>
+				<popularity>0.59</popularity>
+				<streamingReleaseDate>2010-07-11T00:00:00+01:00</streamingReleaseDate>
+			</release>
+		</taggedItem>
+	</taggedResults>
 </response>

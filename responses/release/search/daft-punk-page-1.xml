@@ -1,1 +1,284 @@
-<?xml version="1.0" encoding="utf-8"?><response status="ok" version="1.2" xsi:noNamespaceSchemaLocation="http://api.7digital.com/1.2/static/7digitalAPI.xsd" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><searchResults><page>1</page><pageSize>6</pageSize><totalItems>46</totalItems><searchResult><type>release</type><score>14.340332</score><release id="45472"><title>Discovery</title><version /><type>Album</type><barcode>0724384960650</barcode><year>2005</year><explicitContent>false</explicitContent><artist id="466"><name>Daft Punk</name><appearsAs>Daft Punk</appearsAs><url>http://www.7digital.com/artist/daft-punk/?partner=3923</url></artist><url>http://www.7digital.com/artist/daft-punk/release/discovery-1/?partner=3923</url><image>http://artwork-cdn.7static.com/static/img/sleeveart/00/000/454/0000045472_50.jpg</image><releaseDate>2005-01-24T00:00:00+00:00</releaseDate><addedDate>2006-10-09T19:05:42+01:00</addedDate><price><currency code="GBP">£</currency><value>4.49</value><formattedPrice>£4.49</formattedPrice><rrp>4.49</rrp><formattedRrp>£4.49</formattedRrp><onSale>false</onSale></price><formats availableDrmFree="true"><format id="17"><fileFormat>MP3</fileFormat><bitRate>320</bitRate><drmFree>true</drmFree></format></formats><label id="226465"><name>Parlophone France</name></label><licensor id="18"><name>Warner</name></licensor><popularity>0.61</popularity><streamingReleaseDate>2005-01-24T00:00:00+00:00</streamingReleaseDate><duration>3668</duration><trackCount>14</trackCount></release></searchResult><searchResult><type>release</type><score>14.33145</score><release id="28815"><title>Homework</title><version /><type>Album</type><barcode>0724384260958</barcode><year>1997</year><explicitContent>false</explicitContent><artist id="466"><name>Daft Punk</name><appearsAs>Daft Punk</appearsAs><url>http://www.7digital.com/artist/daft-punk/?partner=3923</url></artist><url>http://www.7digital.com/artist/daft-punk/release/homework/?partner=3923</url><image>http://artwork-cdn.7static.com/static/img/sleeveart/00/000/288/0000028815_50.jpg</image><releaseDate>1997-01-17T00:00:00+00:00</releaseDate><addedDate>2006-02-03T20:06:16+00:00</addedDate><price><currency code="GBP">£</currency><value>3.49</value><formattedPrice>£3.49</formattedPrice><rrp>3.49</rrp><formattedRrp>£3.49</formattedRrp><onSale>false</onSale></price><formats availableDrmFree="true"><format id="17"><fileFormat>MP3</fileFormat><bitRate>320</bitRate><drmFree>true</drmFree></format></formats><label id="226465"><name>Parlophone France</name></label><licensor id="18"><name>Warner</name></licensor><popularity>0.52</popularity><streamingReleaseDate>1997-01-17T00:00:00+00:00</streamingReleaseDate><duration>4443</duration><trackCount>16</trackCount></release></searchResult><searchResult><type>release</type><score>14.324228</score><release id="20368"><title>Technologic</title><version>Digitalism Remix</version><type>Single</type><barcode>0094634642453</barcode><year>2005</year><explicitContent>false</explicitContent><artist id="466"><name>Daft Punk</name><appearsAs>Daft Punk</appearsAs><url>http://www.7digital.com/artist/daft-punk/?partner=3923</url></artist><url>http://www.7digital.com/artist/daft-punk/release/technologic-digitalism-remix/?partner=3923</url><image>http://artwork-cdn.7static.com/static/img/sleeveart/00/000/203/0000020368_50.jpg</image><releaseDate>2005-11-07T00:00:00+00:00</releaseDate><addedDate>2005-11-04T11:16:50+00:00</addedDate><price><currency code="GBP">£</currency><value>0.99</value><formattedPrice>£0.99</formattedPrice><rrp xsi:nil="true" /><formattedRrp>N/A</formattedRrp><onSale>false</onSale></price><formats availableDrmFree="true"><format id="17"><fileFormat>MP3</fileFormat><bitRate>320</bitRate><drmFree>true</drmFree></format></formats><label id="226465"><name>Parlophone France</name></label><licensor id="18"><name>Warner</name></licensor><popularity>0.42</popularity><streamingReleaseDate>2005-11-07T00:00:00+00:00</streamingReleaseDate><duration>361</duration><trackCount>1</trackCount></release></searchResult><searchResult><type>release</type><score>14.324228</score><release id="10606"><title>Technologic</title><version /><type>Single</type><barcode>0724387259652</barcode><year>2005</year><explicitContent>false</explicitContent><artist id="466"><name>Daft Punk</name><appearsAs>Daft Punk</appearsAs><url>http://www.7digital.com/artist/daft-punk/?partner=3923</url></artist><url>http://www.7digital.com/artist/daft-punk/release/technologic/?partner=3923</url><image>http://artwork-cdn.7static.com/static/img/sleeveart/00/000/106/0000010606_50.jpg</image><releaseDate>2005-04-25T00:00:00+01:00</releaseDate><addedDate>2005-04-20T14:08:43+01:00</addedDate><price><currency code="GBP">£</currency><value>0.99</value><formattedPrice>£0.99</formattedPrice><rrp xsi:nil="true" /><formattedRrp>N/A</formattedRrp><onSale>false</onSale></price><formats availableDrmFree="true"><format id="17"><fileFormat>MP3</fileFormat><bitRate>320</bitRate><drmFree>true</drmFree></format></formats><label id="226465"><name>Parlophone France</name></label><licensor id="18"><name>Warner</name></licensor><popularity>0.42</popularity><streamingReleaseDate>2005-04-25T00:00:00+01:00</streamingReleaseDate><duration>167</duration><trackCount>1</trackCount></release></searchResult><searchResult><type>release</type><score>14.323059</score><release id="148830"><title>Aerodynamic</title><version /><type>Single</type><barcode>0724389747652</barcode><year>2001</year><explicitContent>false</explicitContent><artist id="466"><name>Daft Punk</name><appearsAs>Daft Punk</appearsAs><url>http://www.7digital.com/artist/daft-punk/?partner=3923</url></artist><url>http://www.7digital.com/artist/daft-punk/release/aerodynamic/?partner=3923</url><image>http://artwork-cdn.7static.com/static/img/sleeveart/00/001/488/0000148830_50.jpg</image><releaseDate>2001-03-26T00:00:00+01:00</releaseDate><addedDate>2007-10-08T08:55:39+01:00</addedDate><price><currency code="GBP">£</currency><value>1.98</value><formattedPrice>£1.98</formattedPrice><rrp>1.99</rrp><formattedRrp>£1.99</formattedRrp><onSale>true</onSale></price><formats availableDrmFree="true"><format id="17"><fileFormat>MP3</fileFormat><bitRate>320</bitRate><drmFree>true</drmFree></format></formats><label id="226465"><name>Parlophone France</name></label><licensor id="18"><name>Warner</name></licensor><popularity>0.4</popularity><streamingReleaseDate>2001-03-26T00:00:00+01:00</streamingReleaseDate><duration>681</duration><trackCount>2</trackCount></release></searchResult><searchResult><type>release</type><score>14.323059</score><release id="12094"><title>Technologic</title><version>Vitalic Remix</version><type>Single</type><barcode>0094633005457</barcode><year>2005</year><explicitContent>false</explicitContent><artist id="466"><name>Daft Punk</name><appearsAs>Daft Punk</appearsAs><url>http://www.7digital.com/artist/daft-punk/?partner=3923</url></artist><url>http://www.7digital.com/artist/daft-punk/release/technologic-vitalic-remix/?partner=3923</url><image>http://artwork-cdn.7static.com/static/img/sleeveart/00/000/120/0000012094_50.jpg</image><releaseDate>2005-06-13T00:00:00+01:00</releaseDate><addedDate>2005-06-22T18:05:30+01:00</addedDate><price><currency code="GBP">£</currency><value>0.99</value><formattedPrice>£0.99</formattedPrice><rrp xsi:nil="true" /><formattedRrp>N/A</formattedRrp><onSale>false</onSale></price><formats availableDrmFree="true"><format id="17"><fileFormat>MP3</fileFormat><bitRate>320</bitRate><drmFree>true</drmFree></format></formats><label id="226465"><name>Parlophone France</name></label><licensor id="18"><name>Warner</name></licensor><popularity>0.4</popularity><streamingReleaseDate>2005-06-13T00:00:00+01:00</streamingReleaseDate><duration>325</duration><trackCount>1</trackCount></release></searchResult></searchResults></response>
+<?xml version="1.0" encoding="utf-8"?>
+<response xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" status="ok" version="1.2" xsi:noNamespaceSchemaLocation="http://api.7digital.com/1.2/static/7digitalAPI.xsd">
+	<searchResults>
+		<page>1</page>
+		<pageSize>6</pageSize>
+		<totalItems>46</totalItems>
+		<searchResult>
+			<type>release</type>
+			<score>14.340332</score>
+			<release id="45472">
+				<title>Discovery</title>
+				<version/>
+				<type>Album</type>
+				<barcode>0724384960650</barcode>
+				<year>2005</year>
+				<explicitContent>false</explicitContent>
+				<artist id="466">
+					<name>Daft Punk</name>
+					<appearsAs>Daft Punk</appearsAs>
+					<url>http://www.7digital.com/artist/daft-punk/?partner=3923</url>
+				</artist>
+				<url>http://www.7digital.com/artist/daft-punk/release/discovery-1/?partner=3923</url>
+				<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/000/454/0000045472_50.jpg</image>
+				<releaseDate>2005-01-24T00:00:00+00:00</releaseDate>
+				<addedDate>2006-10-09T19:05:42+01:00</addedDate>
+				<price>
+					<currency code="GBP">£</currency>
+					<value>4.49</value>
+					<formattedPrice>£4.49</formattedPrice>
+					<rrp>4.49</rrp>
+					<formattedRrp>£4.49</formattedRrp>
+					<onSale>false</onSale>
+				</price>
+				<formats availableDrmFree="true">
+					<format id="17">
+						<fileFormat>MP3</fileFormat>
+						<bitRate>320</bitRate>
+						<drmFree>true</drmFree>
+					</format>
+				</formats>
+				<label id="226465">
+					<name>Parlophone France</name>
+				</label>
+				<licensor id="18">
+					<name>Warner</name>
+				</licensor>
+				<popularity>0.61</popularity>
+				<streamingReleaseDate>2005-01-24T00:00:00+00:00</streamingReleaseDate>
+				<duration>3668</duration>
+				<trackCount>14</trackCount>
+			</release>
+		</searchResult>
+		<searchResult>
+			<type>release</type>
+			<score>14.33145</score>
+			<release id="28815">
+				<title>Homework</title>
+				<version/>
+				<type>Album</type>
+				<barcode>0724384260958</barcode>
+				<year>1997</year>
+				<explicitContent>false</explicitContent>
+				<artist id="466">
+					<name>Daft Punk</name>
+					<appearsAs>Daft Punk</appearsAs>
+					<url>http://www.7digital.com/artist/daft-punk/?partner=3923</url>
+				</artist>
+				<url>http://www.7digital.com/artist/daft-punk/release/homework/?partner=3923</url>
+				<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/000/288/0000028815_50.jpg</image>
+				<releaseDate>1997-01-17T00:00:00+00:00</releaseDate>
+				<addedDate>2006-02-03T20:06:16+00:00</addedDate>
+				<price>
+					<currency code="GBP">£</currency>
+					<value>3.49</value>
+					<formattedPrice>£3.49</formattedPrice>
+					<rrp>3.49</rrp>
+					<formattedRrp>£3.49</formattedRrp>
+					<onSale>false</onSale>
+				</price>
+				<formats availableDrmFree="true">
+					<format id="17">
+						<fileFormat>MP3</fileFormat>
+						<bitRate>320</bitRate>
+						<drmFree>true</drmFree>
+					</format>
+				</formats>
+				<label id="226465">
+					<name>Parlophone France</name>
+				</label>
+				<licensor id="18">
+					<name>Warner</name>
+				</licensor>
+				<popularity>0.52</popularity>
+				<streamingReleaseDate>1997-01-17T00:00:00+00:00</streamingReleaseDate>
+				<duration>4443</duration>
+				<trackCount>16</trackCount>
+			</release>
+		</searchResult>
+		<searchResult>
+			<type>release</type>
+			<score>14.324228</score>
+			<release id="20368">
+				<title>Technologic</title>
+				<version>Digitalism Remix</version>
+				<type>Single</type>
+				<barcode>0094634642453</barcode>
+				<year>2005</year>
+				<explicitContent>false</explicitContent>
+				<artist id="466">
+					<name>Daft Punk</name>
+					<appearsAs>Daft Punk</appearsAs>
+					<url>http://www.7digital.com/artist/daft-punk/?partner=3923</url>
+				</artist>
+				<url>http://www.7digital.com/artist/daft-punk/release/technologic-digitalism-remix/?partner=3923</url>
+				<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/000/203/0000020368_50.jpg</image>
+				<releaseDate>2005-11-07T00:00:00+00:00</releaseDate>
+				<addedDate>2005-11-04T11:16:50+00:00</addedDate>
+				<price>
+					<currency code="GBP">£</currency>
+					<value>0.99</value>
+					<formattedPrice>£0.99</formattedPrice>
+					<rrp xsi:nil="true"/>
+					<formattedRrp>N/A</formattedRrp>
+					<onSale>false</onSale>
+				</price>
+				<formats availableDrmFree="true">
+					<format id="17">
+						<fileFormat>MP3</fileFormat>
+						<bitRate>320</bitRate>
+						<drmFree>true</drmFree>
+					</format>
+				</formats>
+				<label id="226465">
+					<name>Parlophone France</name>
+				</label>
+				<licensor id="18">
+					<name>Warner</name>
+				</licensor>
+				<popularity>0.42</popularity>
+				<streamingReleaseDate>2005-11-07T00:00:00+00:00</streamingReleaseDate>
+				<duration>361</duration>
+				<trackCount>1</trackCount>
+			</release>
+		</searchResult>
+		<searchResult>
+			<type>release</type>
+			<score>14.324228</score>
+			<release id="10606">
+				<title>Technologic</title>
+				<version/>
+				<type>Single</type>
+				<barcode>0724387259652</barcode>
+				<year>2005</year>
+				<explicitContent>false</explicitContent>
+				<artist id="466">
+					<name>Daft Punk</name>
+					<appearsAs>Daft Punk</appearsAs>
+					<url>http://www.7digital.com/artist/daft-punk/?partner=3923</url>
+				</artist>
+				<url>http://www.7digital.com/artist/daft-punk/release/technologic/?partner=3923</url>
+				<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/000/106/0000010606_50.jpg</image>
+				<releaseDate>2005-04-25T00:00:00+01:00</releaseDate>
+				<addedDate>2005-04-20T14:08:43+01:00</addedDate>
+				<price>
+					<currency code="GBP">£</currency>
+					<value>0.99</value>
+					<formattedPrice>£0.99</formattedPrice>
+					<rrp xsi:nil="true"/>
+					<formattedRrp>N/A</formattedRrp>
+					<onSale>false</onSale>
+				</price>
+				<formats availableDrmFree="true">
+					<format id="17">
+						<fileFormat>MP3</fileFormat>
+						<bitRate>320</bitRate>
+						<drmFree>true</drmFree>
+					</format>
+				</formats>
+				<label id="226465">
+					<name>Parlophone France</name>
+				</label>
+				<licensor id="18">
+					<name>Warner</name>
+				</licensor>
+				<popularity>0.42</popularity>
+				<streamingReleaseDate>2005-04-25T00:00:00+01:00</streamingReleaseDate>
+				<duration>167</duration>
+				<trackCount>1</trackCount>
+			</release>
+		</searchResult>
+		<searchResult>
+			<type>release</type>
+			<score>14.323059</score>
+			<release id="148830">
+				<title>Aerodynamic</title>
+				<version/>
+				<type>Single</type>
+				<barcode>0724389747652</barcode>
+				<year>2001</year>
+				<explicitContent>false</explicitContent>
+				<artist id="466">
+					<name>Daft Punk</name>
+					<appearsAs>Daft Punk</appearsAs>
+					<url>http://www.7digital.com/artist/daft-punk/?partner=3923</url>
+				</artist>
+				<url>http://www.7digital.com/artist/daft-punk/release/aerodynamic/?partner=3923</url>
+				<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/001/488/0000148830_50.jpg</image>
+				<releaseDate>2001-03-26T00:00:00+01:00</releaseDate>
+				<addedDate>2007-10-08T08:55:39+01:00</addedDate>
+				<price>
+					<currency code="GBP">£</currency>
+					<value>1.98</value>
+					<formattedPrice>£1.98</formattedPrice>
+					<rrp>1.99</rrp>
+					<formattedRrp>£1.99</formattedRrp>
+					<onSale>true</onSale>
+				</price>
+				<formats availableDrmFree="true">
+					<format id="17">
+						<fileFormat>MP3</fileFormat>
+						<bitRate>320</bitRate>
+						<drmFree>true</drmFree>
+					</format>
+				</formats>
+				<label id="226465">
+					<name>Parlophone France</name>
+				</label>
+				<licensor id="18">
+					<name>Warner</name>
+				</licensor>
+				<popularity>0.4</popularity>
+				<streamingReleaseDate>2001-03-26T00:00:00+01:00</streamingReleaseDate>
+				<duration>681</duration>
+				<trackCount>2</trackCount>
+			</release>
+		</searchResult>
+		<searchResult>
+			<type>release</type>
+			<score>14.323059</score>
+			<release id="12094">
+				<title>Technologic</title>
+				<version>Vitalic Remix</version>
+				<type>Single</type>
+				<barcode>0094633005457</barcode>
+				<year>2005</year>
+				<explicitContent>false</explicitContent>
+				<artist id="466">
+					<name>Daft Punk</name>
+					<appearsAs>Daft Punk</appearsAs>
+					<url>http://www.7digital.com/artist/daft-punk/?partner=3923</url>
+				</artist>
+				<url>http://www.7digital.com/artist/daft-punk/release/technologic-vitalic-remix/?partner=3923</url>
+				<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/000/120/0000012094_50.jpg</image>
+				<releaseDate>2005-06-13T00:00:00+01:00</releaseDate>
+				<addedDate>2005-06-22T18:05:30+01:00</addedDate>
+				<price>
+					<currency code="GBP">£</currency>
+					<value>0.99</value>
+					<formattedPrice>£0.99</formattedPrice>
+					<rrp xsi:nil="true"/>
+					<formattedRrp>N/A</formattedRrp>
+					<onSale>false</onSale>
+				</price>
+				<formats availableDrmFree="true">
+					<format id="17">
+						<fileFormat>MP3</fileFormat>
+						<bitRate>320</bitRate>
+						<drmFree>true</drmFree>
+					</format>
+				</formats>
+				<label id="226465">
+					<name>Parlophone France</name>
+				</label>
+				<licensor id="18">
+					<name>Warner</name>
+				</licensor>
+				<popularity>0.4</popularity>
+				<streamingReleaseDate>2005-06-13T00:00:00+01:00</streamingReleaseDate>
+				<duration>325</duration>
+				<trackCount>1</trackCount>
+			</release>
+		</searchResult>
+	</searchResults>
+</response>

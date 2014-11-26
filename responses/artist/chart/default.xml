@@ -1,92 +1,91 @@
-<?xml version="1.0" encoding="utf-8" ?>
-<response status="ok" version="1.2"
-xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://api.7digital.com/1.2/static/7digitalAPI.xsd" >
-  <chart>
-    <page>1</page>
-    <pageSize>10</pageSize>
-    <totalItems>20</totalItems>
-    <type>artist</type>
-    <fromDate>2009-05-26T00:00:00+01:00</fromDate>
-    <toDate>2009-06-01T00:00:00+01:00</toDate>
-    <chartItem>
-      <position>1</position>
-      <change>Up</change>
-      <artist id="171648">
-        <name>Grizzly Bear</name>
-        <url>http://www.7digital.com/artists/grizzly-bear/?partner=1401</url>
-      </artist>
-    </chartItem>
-    <chartItem>
-      <position>2</position>
-      <change>Up</change>
-      <artist id="23720">
-        <name>Paolo Nutini</name>
-        <url>http://www.7digital.com/artists/paolo-nutini/?partner=1401</url>
-      </artist>
-    </chartItem>
-    <chartItem>
-      <position>3</position>
-      <change>Up</change>
-      <artist id="8814">
-        <name>Phoenix</name>
-        <url>http://www.7digital.com/artists/phoenix/?partner=1401</url>
-      </artist>
-    </chartItem>
-    <chartItem>
-      <position>4</position>
-      <change>Down</change>
-      <artist id="209">
-        <name>Various Artists</name>
-        <url>http://www.7digital.com/artists/various-artists/?partner=1401</url>
-      </artist>
-    </chartItem>
-    <chartItem>
-      <position>5</position>
-      <change>Up</change>
-      <artist id="275222">
-        <name>Little Boots</name>
-        <url>http://www.7digital.com/artists/little-boots/?partner=1401</url>
-      </artist>
-    </chartItem>
-    <chartItem>
-      <position>6</position>
-      <change>Up</change>
-      <artist id="221551">
-        <name>Empire Of The Sun</name>
-        <url>http://www.7digital.com/artists/empire-of-the-sun/?partner=1401</url>
-      </artist>
-    </chartItem>
-    <chartItem>
-      <position>7</position>
-      <change>Down</change>
-      <artist id="209">
-        <name>Various Artists</name>
-        <url>http://www.7digital.com/artists/various-artists/?partner=1401</url>
-      </artist>
-    </chartItem>
-    <chartItem>
-      <position>8</position>
-      <change>Down</change>
-      <artist id="16269">
-        <name>Simple Minds</name>
-        <url>http://www.7digital.com/artists/simple-minds/?partner=1401</url>
-      </artist>
-    </chartItem>
-    <chartItem>
-      <position>9</position>
-      <change>Down</change>
-      <artist id="271469">
-        <name>La Roux</name>
-        <url>http://www.7digital.com/artists/la-roux/?partner=1401</url>
-      </artist>
-    </chartItem>
-    <chartItem>
-      <position>10</position>
-      <change>Down</change>
-      <artist id="262">
-        <name>Eminem</name>
-        <url>http://www.7digital.com/artists/eminem/?partner=1401</url>
-      </artist>
-    </chartItem>
-  </chart>
+<?xml version="1.0" encoding="utf-8"?>
+<response xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" status="ok" version="1.2" xsi:noNamespaceSchemaLocation="http://api.7digital.com/1.2/static/7digitalAPI.xsd">
+	<chart>
+		<page>1</page>
+		<pageSize>10</pageSize>
+		<totalItems>20</totalItems>
+		<type>artist</type>
+		<fromDate>2009-05-26T00:00:00+01:00</fromDate>
+		<toDate>2009-06-01T00:00:00+01:00</toDate>
+		<chartItem>
+			<position>1</position>
+			<change>Up</change>
+			<artist id="171648">
+				<name>Grizzly Bear</name>
+				<url>http://www.7digital.com/artists/grizzly-bear/?partner=1401</url>
+			</artist>
+		</chartItem>
+		<chartItem>
+			<position>2</position>
+			<change>Up</change>
+			<artist id="23720">
+				<name>Paolo Nutini</name>
+				<url>http://www.7digital.com/artists/paolo-nutini/?partner=1401</url>
+			</artist>
+		</chartItem>
+		<chartItem>
+			<position>3</position>
+			<change>Up</change>
+			<artist id="8814">
+				<name>Phoenix</name>
+				<url>http://www.7digital.com/artists/phoenix/?partner=1401</url>
+			</artist>
+		</chartItem>
+		<chartItem>
+			<position>4</position>
+			<change>Down</change>
+			<artist id="209">
+				<name>Various Artists</name>
+				<url>http://www.7digital.com/artists/various-artists/?partner=1401</url>
+			</artist>
+		</chartItem>
+		<chartItem>
+			<position>5</position>
+			<change>Up</change>
+			<artist id="275222">
+				<name>Little Boots</name>
+				<url>http://www.7digital.com/artists/little-boots/?partner=1401</url>
+			</artist>
+		</chartItem>
+		<chartItem>
+			<position>6</position>
+			<change>Up</change>
+			<artist id="221551">
+				<name>Empire Of The Sun</name>
+				<url>http://www.7digital.com/artists/empire-of-the-sun/?partner=1401</url>
+			</artist>
+		</chartItem>
+		<chartItem>
+			<position>7</position>
+			<change>Down</change>
+			<artist id="209">
+				<name>Various Artists</name>
+				<url>http://www.7digital.com/artists/various-artists/?partner=1401</url>
+			</artist>
+		</chartItem>
+		<chartItem>
+			<position>8</position>
+			<change>Down</change>
+			<artist id="16269">
+				<name>Simple Minds</name>
+				<url>http://www.7digital.com/artists/simple-minds/?partner=1401</url>
+			</artist>
+		</chartItem>
+		<chartItem>
+			<position>9</position>
+			<change>Down</change>
+			<artist id="271469">
+				<name>La Roux</name>
+				<url>http://www.7digital.com/artists/la-roux/?partner=1401</url>
+			</artist>
+		</chartItem>
+		<chartItem>
+			<position>10</position>
+			<change>Down</change>
+			<artist id="262">
+				<name>Eminem</name>
+				<url>http://www.7digital.com/artists/eminem/?partner=1401</url>
+			</artist>
+		</chartItem>
+	</chart>
 </response>

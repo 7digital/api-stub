@@ -1,13 +1,12 @@
-<?xml version="1.0" encoding="utf-8" ?>
-<response status="ok" version="1.2"
-xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://api.7digital.com/1.2/static/7digitalAPI.xsd" >
+<?xml version="1.0" encoding="utf-8"?>
+<response xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" status="ok" version="1.2" xsi:noNamespaceSchemaLocation="http://api.7digital.com/1.2/static/7digitalAPI.xsd">
 	<releases>
 		<page>2</page>
 		<pageSize>20</pageSize>
 		<totalItems>62</totalItems>
 		<release id="353302">
 			<title>Perfect Symmetry</title>
-			<version></version>
+			<version/>
 			<type>Single</type>
 			<barcode>00602517969414</barcode>
 			<year>2012</year>
@@ -21,16 +20,15 @@ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocat
 			<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/003/533/0000353302_50.jpg</image>
 			<releaseDate>2012-05-25T00:00:00Z</releaseDate>
 			<price>
-				<currency code="GBP">&#163;</currency>
+				<currency code="GBP">£</currency>
 				<value>5.49</value>
-				<formattedPrice>&#163;5.49</formattedPrice>
+				<formattedPrice>£5.49</formattedPrice>
 				<rrp>5.49</rrp>
-				<formattedRrp>&#163;5.49</formattedRrp>
+				<formattedRrp>£5.49</formattedRrp>
 				<rrp>5.49</rrp>
-				<formattedRrp>&#163;5.49</formattedRrp>
+				<formattedRrp>£5.49</formattedRrp>
 				<onSale>false</onSale>
 			</price>
-
 			<formats availableDrmFree="true">
 				<format id="17">
 					<fileFormat>MP3</fileFormat>
@@ -44,7 +42,7 @@ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocat
 		</release>
 		<release id="799025">
 			<title>Night Train</title>
-			<version></version>
+			<version/>
 			<type>Album</type>
 			<barcode>00602527392622</barcode>
 			<year>2010</year>
@@ -58,14 +56,13 @@ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocat
 			<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/007/990/0000799025_50.jpg</image>
 			<releaseDate>2012-05-24T00:00:00Z</releaseDate>
 			<price>
-				<currency code="GBP">&#163;</currency>
+				<currency code="GBP">£</currency>
 				<value>5.49</value>
-				<formattedPrice>&#163;5.49</formattedPrice>
+				<formattedPrice>£5.49</formattedPrice>
 				<rrp>5.49</rrp>
-				<formattedRrp>&#163;5.49</formattedRrp>
+				<formattedRrp>£5.49</formattedRrp>
 				<onSale>false</onSale>
 			</price>
-
 			<formats availableDrmFree="true">
 				<format id="17">
 					<fileFormat>MP3</fileFormat>
@@ -79,7 +76,7 @@ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocat
 		</release>
 		<release id="809798">
 			<title>A Bad Dream</title>
-			<version></version>
+			<version/>
 			<type>Single</type>
 			<barcode>00602527390970</barcode>
 			<year>2010</year>
@@ -93,14 +90,13 @@ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocat
 			<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/008/097/0000809798_50.jpg</image>
 			<releaseDate>2012-05-23T00:00:00Z</releaseDate>
 			<price>
-				<currency code="GBP">&#163;</currency>
+				<currency code="GBP">£</currency>
 				<value>5.49</value>
-				<formattedPrice>&#163;5.49</formattedPrice>
+				<formattedPrice>£5.49</formattedPrice>
 				<rrp>5.49</rrp>
-				<formattedRrp>&#163;5.49</formattedRrp>
+				<formattedRrp>£5.49</formattedRrp>
 				<onSale>false</onSale>
 			</price>
-
 			<formats availableDrmFree="true">
 				<format id="17">
 					<fileFormat>MP3</fileFormat>
@@ -114,7 +110,7 @@ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocat
 		</release>
 		<release id="809795">
 			<title>Bedshaped</title>
-			<version></version>
+			<version/>
 			<type>Single</type>
 			<barcode>00602527390147</barcode>
 			<year>2010</year>
@@ -128,14 +124,13 @@ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocat
 			<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/008/097/0000809795_50.jpg</image>
 			<releaseDate>2012-05-22T00:00:00Z</releaseDate>
 			<price>
-				<currency code="GBP">&#163;</currency>
+				<currency code="GBP">£</currency>
 				<value>5.49</value>
-				<formattedPrice>&#163;5.49</formattedPrice>
+				<formattedPrice>£5.49</formattedPrice>
 				<rrp>5.49</rrp>
-				<formattedRrp>&#163;5.49</formattedRrp>
+				<formattedRrp>£5.49</formattedRrp>
 				<onSale>false</onSale>
 			</price>
-
 			<formats availableDrmFree="true">
 				<format id="17">
 					<fileFormat>MP3</fileFormat>
@@ -149,7 +144,7 @@ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocat
 		</release>
 		<release id="809800">
 			<title>Better Than This</title>
-			<version></version>
+			<version/>
 			<type>Single</type>
 			<barcode>00602527391465</barcode>
 			<year>2010</year>
@@ -163,14 +158,13 @@ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocat
 			<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/008/098/0000809800_50.jpg</image>
 			<releaseDate>2012-05-20T00:00:00Z</releaseDate>
 			<price>
-				<currency code="GBP">&#163;</currency>
+				<currency code="GBP">£</currency>
 				<value>5.49</value>
-				<formattedPrice>&#163;5.49</formattedPrice>
+				<formattedPrice>£5.49</formattedPrice>
 				<rrp>5.49</rrp>
-				<formattedRrp>&#163;5.49</formattedRrp>
+				<formattedRrp>£5.49</formattedRrp>
 				<onSale>false</onSale>
 			</price>
-
 			<formats availableDrmFree="true">
 				<format id="17">
 					<fileFormat>MP3</fileFormat>
@@ -184,7 +178,7 @@ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocat
 		</release>
 		<release id="809797">
 			<title>Crystal Ball</title>
-			<version></version>
+			<version/>
 			<type>Single</type>
 			<barcode>00602527390932</barcode>
 			<year>2010</year>
@@ -198,14 +192,13 @@ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocat
 			<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/008/097/0000809797_50.jpg</image>
 			<releaseDate>2006-08-21T00:00:00+01:00</releaseDate>
 			<price>
-				<currency code="GBP">&#163;</currency>
+				<currency code="GBP">£</currency>
 				<value>5.49</value>
-				<formattedPrice>&#163;5.49</formattedPrice>
+				<formattedPrice>£5.49</formattedPrice>
 				<rrp>5.49</rrp>
-				<formattedRrp>&#163;5.49</formattedRrp>
+				<formattedRrp>£5.49</formattedRrp>
 				<onSale>false</onSale>
 			</price>
-
 			<formats availableDrmFree="true">
 				<format id="17">
 					<fileFormat>MP3</fileFormat>
@@ -218,8 +211,8 @@ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocat
 			</label>
 		</release>
 		<release id="809794">
-			<title>Everybody&#39;s Changing</title>
-			<version></version>
+			<title>Everybody's Changing</title>
+			<version/>
 			<type>Single</type>
 			<barcode>00602527390093</barcode>
 			<year>2010</year>
@@ -233,14 +226,13 @@ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocat
 			<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/008/097/0000809794_50.jpg</image>
 			<releaseDate>2004-05-03T00:00:00+01:00</releaseDate>
 			<price>
-				<currency code="GBP">&#163;</currency>
+				<currency code="GBP">£</currency>
 				<value>5.49</value>
-				<formattedPrice>&#163;5.49</formattedPrice>
+				<formattedPrice>£5.49</formattedPrice>
 				<rrp>5.49</rrp>
-				<formattedRrp>&#163;5.49</formattedRrp>
+				<formattedRrp>£5.49</formattedRrp>
 				<onSale>false</onSale>
 			</price>
-
 			<formats availableDrmFree="true">
 				<format id="17">
 					<fileFormat>MP3</fileFormat>
@@ -254,7 +246,7 @@ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocat
 		</release>
 		<release id="813455">
 			<title>Perfect Symmetry</title>
-			<version></version>
+			<version/>
 			<type>Single</type>
 			<barcode>00602527391441</barcode>
 			<year>2010</year>
@@ -268,14 +260,13 @@ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocat
 			<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/008/134/0000813455_50.jpg</image>
 			<releaseDate>2008-12-28T00:00:00Z</releaseDate>
 			<price>
-				<currency code="GBP">&#163;</currency>
+				<currency code="GBP">£</currency>
 				<value>5.49</value>
-				<formattedPrice>&#163;5.49</formattedPrice>
+				<formattedPrice>£5.49</formattedPrice>
 				<rrp>5.49</rrp>
-				<formattedRrp>&#163;5.49</formattedRrp>
+				<formattedRrp>£5.49</formattedRrp>
 				<onSale>false</onSale>
 			</price>
-
 			<formats availableDrmFree="true">
 				<format id="17">
 					<fileFormat>MP3</fileFormat>
@@ -289,7 +280,7 @@ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocat
 		</release>
 		<release id="809793">
 			<title>Somewhere Only We Know</title>
-			<version></version>
+			<version/>
 			<type>Single</type>
 			<barcode>00602527390062</barcode>
 			<year>2010</year>
@@ -303,14 +294,13 @@ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocat
 			<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/008/097/0000809793_50.jpg</image>
 			<releaseDate>2004-02-16T00:00:00Z</releaseDate>
 			<price>
-				<currency code="GBP">&#163;</currency>
+				<currency code="GBP">£</currency>
 				<value>5.49</value>
-				<formattedPrice>&#163;5.49</formattedPrice>
+				<formattedPrice>£5.49</formattedPrice>
 				<rrp>5.49</rrp>
-				<formattedRrp>&#163;5.49</formattedRrp>
+				<formattedRrp>£5.49</formattedRrp>
 				<onSale>false</onSale>
 			</price>
-
 			<formats availableDrmFree="true">
 				<format id="17">
 					<fileFormat>MP3</fileFormat>
@@ -324,7 +314,7 @@ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocat
 		</release>
 		<release id="809799">
 			<title>Spiralling</title>
-			<version></version>
+			<version/>
 			<type>Single</type>
 			<barcode>00602527390987</barcode>
 			<year>2010</year>
@@ -338,14 +328,13 @@ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocat
 			<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/008/097/0000809799_50.jpg</image>
 			<releaseDate>2008-08-10T00:00:00+01:00</releaseDate>
 			<price>
-				<currency code="GBP">&#163;</currency>
+				<currency code="GBP">£</currency>
 				<value>5.49</value>
-				<formattedPrice>&#163;5.49</formattedPrice>
+				<formattedPrice>£5.49</formattedPrice>
 				<rrp>5.49</rrp>
-				<formattedRrp>&#163;5.49</formattedRrp>
+				<formattedRrp>£5.49</formattedRrp>
 				<onSale>false</onSale>
 			</price>
-
 			<formats availableDrmFree="true">
 				<format id="17">
 					<fileFormat>MP3</fileFormat>
@@ -359,7 +348,7 @@ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocat
 		</release>
 		<release id="353302">
 			<title>Perfect Symmetry</title>
-			<version></version>
+			<version/>
 			<type>Single</type>
 			<barcode>00602517969414</barcode>
 			<year>2012</year>
@@ -373,14 +362,13 @@ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocat
 			<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/003/533/0000353302_50.jpg</image>
 			<releaseDate>2008-12-21T00:00:00Z</releaseDate>
 			<price>
-				<currency code="GBP">&#163;</currency>
+				<currency code="GBP">£</currency>
 				<value>5.49</value>
-				<formattedPrice>&#163;5.49</formattedPrice>
+				<formattedPrice>£5.49</formattedPrice>
 				<rrp>5.49</rrp>
-				<formattedRrp>&#163;5.49</formattedRrp>
+				<formattedRrp>£5.49</formattedRrp>
 				<onSale>false</onSale>
 			</price>
-
 			<formats availableDrmFree="true">
 				<format id="17">
 					<fileFormat>MP3</fileFormat>
@@ -394,7 +382,7 @@ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocat
 		</release>
 		<release id="809798">
 			<title>A Bad Dream</title>
-			<version></version>
+			<version/>
 			<type>Single</type>
 			<barcode>00602527390970</barcode>
 			<year>2010</year>
@@ -408,14 +396,13 @@ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocat
 			<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/008/097/0000809798_50.jpg</image>
 			<releaseDate>2007-01-22T00:00:00Z</releaseDate>
 			<price>
-				<currency code="GBP">&#163;</currency>
+				<currency code="GBP">£</currency>
 				<value>5.49</value>
-				<formattedPrice>&#163;5.49</formattedPrice>
+				<formattedPrice>£5.49</formattedPrice>
 				<rrp>5.49</rrp>
-				<formattedRrp>&#163;5.49</formattedRrp>
+				<formattedRrp>£5.49</formattedRrp>
 				<onSale>false</onSale>
 			</price>
-
 			<formats availableDrmFree="true">
 				<format id="17">
 					<fileFormat>MP3</fileFormat>
@@ -429,7 +416,7 @@ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocat
 		</release>
 		<release id="809795">
 			<title>Bedshaped</title>
-			<version></version>
+			<version/>
 			<type>Single</type>
 			<barcode>00602527390147</barcode>
 			<year>2010</year>
@@ -443,14 +430,13 @@ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocat
 			<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/008/097/0000809795_50.jpg</image>
 			<releaseDate>2004-08-16T00:00:00+01:00</releaseDate>
 			<price>
-				<currency code="GBP">&#163;</currency>
+				<currency code="GBP">£</currency>
 				<value>5.49</value>
-				<formattedPrice>&#163;5.49</formattedPrice>
+				<formattedPrice>£5.49</formattedPrice>
 				<rrp>5.49</rrp>
-				<formattedRrp>&#163;5.49</formattedRrp>
+				<formattedRrp>£5.49</formattedRrp>
 				<onSale>false</onSale>
 			</price>
-
 			<formats availableDrmFree="true">
 				<format id="17">
 					<fileFormat>MP3</fileFormat>
@@ -464,7 +450,7 @@ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocat
 		</release>
 		<release id="809797">
 			<title>Crystal Ball</title>
-			<version></version>
+			<version/>
 			<type>Single</type>
 			<barcode>00602527390932</barcode>
 			<year>2010</year>
@@ -478,14 +464,13 @@ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocat
 			<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/008/097/0000809797_50.jpg</image>
 			<releaseDate>2006-08-21T00:00:00+01:00</releaseDate>
 			<price>
-				<currency code="GBP">&#163;</currency>
+				<currency code="GBP">£</currency>
 				<value>5.49</value>
-				<formattedPrice>&#163;5.49</formattedPrice>
+				<formattedPrice>£5.49</formattedPrice>
 				<rrp>5.49</rrp>
-				<formattedRrp>&#163;5.49</formattedRrp>
+				<formattedRrp>£5.49</formattedRrp>
 				<onSale>false</onSale>
 			</price>
-
 			<formats availableDrmFree="true">
 				<format id="17">
 					<fileFormat>MP3</fileFormat>
@@ -498,8 +483,8 @@ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocat
 			</label>
 		</release>
 		<release id="809794">
-			<title>Everybody&#39;s Changing</title>
-			<version></version>
+			<title>Everybody's Changing</title>
+			<version/>
 			<type>Single</type>
 			<barcode>00602527390093</barcode>
 			<year>2010</year>
@@ -513,14 +498,13 @@ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocat
 			<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/008/097/0000809794_50.jpg</image>
 			<releaseDate>2004-05-03T00:00:00+01:00</releaseDate>
 			<price>
-				<currency code="GBP">&#163;</currency>
+				<currency code="GBP">£</currency>
 				<value>5.49</value>
-				<formattedPrice>&#163;5.49</formattedPrice>
+				<formattedPrice>£5.49</formattedPrice>
 				<rrp>5.49</rrp>
-				<formattedRrp>&#163;5.49</formattedRrp>
+				<formattedRrp>£5.49</formattedRrp>
 				<onSale>false</onSale>
 			</price>
-
 			<formats availableDrmFree="true">
 				<format id="17">
 					<fileFormat>MP3</fileFormat>
@@ -534,7 +518,7 @@ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocat
 		</release>
 		<release id="813455">
 			<title>Perfect Symmetry</title>
-			<version></version>
+			<version/>
 			<type>Single</type>
 			<barcode>00602527391441</barcode>
 			<year>2010</year>
@@ -548,14 +532,13 @@ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocat
 			<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/008/134/0000813455_50.jpg</image>
 			<releaseDate>2008-12-28T00:00:00Z</releaseDate>
 			<price>
-				<currency code="GBP">&#163;</currency>
+				<currency code="GBP">£</currency>
 				<value>5.49</value>
-				<formattedPrice>&#163;5.49</formattedPrice>
+				<formattedPrice>£5.49</formattedPrice>
 				<rrp>5.49</rrp>
-				<formattedRrp>&#163;5.49</formattedRrp>
+				<formattedRrp>£5.49</formattedRrp>
 				<onSale>false</onSale>
 			</price>
-
 			<formats availableDrmFree="true">
 				<format id="17">
 					<fileFormat>MP3</fileFormat>
@@ -569,7 +552,7 @@ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocat
 		</release>
 		<release id="809793">
 			<title>Somewhere Only We Know</title>
-			<version></version>
+			<version/>
 			<type>Single</type>
 			<barcode>00602527390062</barcode>
 			<year>2010</year>
@@ -583,14 +566,13 @@ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocat
 			<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/008/097/0000809793_50.jpg</image>
 			<releaseDate>2004-02-16T00:00:00Z</releaseDate>
 			<price>
-				<currency code="GBP">&#163;</currency>
+				<currency code="GBP">£</currency>
 				<value>5.49</value>
-				<formattedPrice>&#163;5.49</formattedPrice>
+				<formattedPrice>£5.49</formattedPrice>
 				<rrp>5.49</rrp>
-				<formattedRrp>&#163;5.49</formattedRrp>
+				<formattedRrp>£5.49</formattedRrp>
 				<onSale>false</onSale>
 			</price>
-
 			<formats availableDrmFree="true">
 				<format id="17">
 					<fileFormat>MP3</fileFormat>
@@ -604,7 +586,7 @@ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocat
 		</release>
 		<release id="809799">
 			<title>Spiralling</title>
-			<version></version>
+			<version/>
 			<type>Single</type>
 			<barcode>00602527390987</barcode>
 			<year>2010</year>
@@ -618,14 +600,13 @@ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocat
 			<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/008/097/0000809799_50.jpg</image>
 			<releaseDate>2008-08-10T00:00:00+01:00</releaseDate>
 			<price>
-				<currency code="GBP">&#163;</currency>
+				<currency code="GBP">£</currency>
 				<value>5.49</value>
-				<formattedPrice>&#163;5.49</formattedPrice>
+				<formattedPrice>£5.49</formattedPrice>
 				<rrp>5.49</rrp>
-				<formattedRrp>&#163;5.49</formattedRrp>
+				<formattedRrp>£5.49</formattedRrp>
 				<onSale>false</onSale>
 			</price>
-
 			<formats availableDrmFree="true">
 				<format id="17">
 					<fileFormat>MP3</fileFormat>
@@ -639,7 +620,7 @@ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocat
 		</release>
 		<release id="809793">
 			<title>Somewhere Only We Know</title>
-			<version></version>
+			<version/>
 			<type>Single</type>
 			<barcode>00602527390062</barcode>
 			<year>2010</year>
@@ -653,14 +634,13 @@ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocat
 			<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/008/097/0000809793_50.jpg</image>
 			<releaseDate>2004-02-16T00:00:00Z</releaseDate>
 			<price>
-				<currency code="GBP">&#163;</currency>
+				<currency code="GBP">£</currency>
 				<value>5.49</value>
-				<formattedPrice>&#163;5.49</formattedPrice>
+				<formattedPrice>£5.49</formattedPrice>
 				<rrp>5.49</rrp>
-				<formattedRrp>&#163;5.49</formattedRrp>
+				<formattedRrp>£5.49</formattedRrp>
 				<onSale>false</onSale>
 			</price>
-
 			<formats availableDrmFree="true">
 				<format id="17">
 					<fileFormat>MP3</fileFormat>
@@ -674,7 +654,7 @@ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocat
 		</release>
 		<release id="809799">
 			<title>Spiralling</title>
-			<version></version>
+			<version/>
 			<type>Single</type>
 			<barcode>00602527390987</barcode>
 			<year>2010</year>
@@ -688,14 +668,13 @@ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocat
 			<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/008/097/0000809799_50.jpg</image>
 			<releaseDate>2008-08-10T00:00:00+01:00</releaseDate>
 			<price>
-				<currency code="GBP">&#163;</currency>
+				<currency code="GBP">£</currency>
 				<value>5.49</value>
-				<formattedPrice>&#163;5.49</formattedPrice>
+				<formattedPrice>£5.49</formattedPrice>
 				<rrp>5.49</rrp>
-				<formattedRrp>&#163;5.49</formattedRrp>
+				<formattedRrp>£5.49</formattedRrp>
 				<onSale>false</onSale>
 			</price>
-
 			<formats availableDrmFree="true">
 				<format id="17">
 					<fileFormat>MP3</fileFormat>

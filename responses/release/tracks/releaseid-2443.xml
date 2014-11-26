@@ -1,5 +1,5 @@
-<?xml version="1.0" encoding="utf-8" ?>
-<response status="ok" version="1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://api.7digital.com/1.2/static/7digitalAPI.xsd" >
+<?xml version="1.0" encoding="utf-8"?>
+<response xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" status="ok" version="1.2" xsi:noNamespaceSchemaLocation="http://api.7digital.com/1.2/static/7digitalAPI.xsd">
 	<tracks>
 		<page>1</page>
 		<pageSize>500</pageSize>
@@ -18,7 +18,7 @@
 			<isrc>USQX90900910</isrc>
 			<release id="671859">
 				<title>The Jimi Hendrix Experience (Box Set)</title>
-				<version></version>
+				<version/>
 				<type>Album</type>
 				<barcode>884977422931</barcode>
 				<artist id="32">
@@ -31,11 +31,11 @@
 			</release>
 			<url>http://www.7digital.com/artists/jimi-hendrix/the-jimi-hendrix-experience-box-set/01-Purple-Haze-(DeLane-Lea-Studios-London-UK-January-11-1967)/?partner=712</url>
 			<price>
-				<currency code="GBP">&#163;</currency>
+				<currency code="GBP">£</currency>
 				<value>0.99</value>
-				<formattedPrice>&#163;0.99</formattedPrice>
+				<formattedPrice>£0.99</formattedPrice>
 				<rrp>0.99</rrp>
-				<formattedRrp>&#163;0.99</formattedRrp>
+				<formattedRrp>£0.99</formattedRrp>
 				<onSale>false</onSale>
 			</price>
 		</track>
@@ -53,7 +53,7 @@
 			<isrc>USQX90900911</isrc>
 			<release id="671859">
 				<title>The Jimi Hendrix Experience (Box Set)</title>
-				<version></version>
+				<version/>
 				<type>Album</type>
 				<barcode>884977422931</barcode>
 				<artist id="32">
@@ -66,11 +66,11 @@
 			</release>
 			<url>http://www.7digital.com/artists/jimi-hendrix/the-jimi-hendrix-experience-box-set/02-Killing-Floor-(Olympia-Theater-Paris-France-October-18-1966)/?partner=712</url>
 			<price>
-				<currency code="GBP">&#163;</currency>
+				<currency code="GBP">£</currency>
 				<value>0.99</value>
-				<formattedPrice>&#163;0.99</formattedPrice>
+				<formattedPrice>£0.99</formattedPrice>
 				<rrp>0.99</rrp>
-				<formattedRrp>&#163;0.99</formattedRrp>
+				<formattedRrp>£0.99</formattedRrp>
 				<onSale>false</onSale>
 			</price>
 		</track>
@@ -88,7 +88,7 @@
 			<isrc>USQX90900912</isrc>
 			<release id="671859">
 				<title>The Jimi Hendrix Experience (Box Set)</title>
-				<version></version>
+				<version/>
 				<type>Album</type>
 				<barcode>884977422931</barcode>
 				<artist id="32">
@@ -101,11 +101,11 @@
 			</release>
 			<url>http://www.7digital.com/artists/jimi-hendrix/the-jimi-hendrix-experience-box-set/03-Hey-Joe-(Olympia-Theater-Paris-France-October-18-1966)/?partner=712</url>
 			<price>
-				<currency code="GBP">&#163;</currency>
+				<currency code="GBP">£</currency>
 				<value>0.99</value>
-				<formattedPrice>&#163;0.99</formattedPrice>
+				<formattedPrice>£0.99</formattedPrice>
 				<rrp>0.99</rrp>
-				<formattedRrp>&#163;0.99</formattedRrp>
+				<formattedRrp>£0.99</formattedRrp>
 				<onSale>false</onSale>
 			</price>
 		</track>
@@ -123,7 +123,7 @@
 			<isrc>USQX90900913</isrc>
 			<release id="671859">
 				<title>The Jimi Hendrix Experience (Box Set)</title>
-				<version></version>
+				<version/>
 				<type>Album</type>
 				<barcode>884977422931</barcode>
 				<artist id="32">
@@ -136,11 +136,11 @@
 			</release>
 			<url>http://www.7digital.com/artists/jimi-hendrix/the-jimi-hendrix-experience-box-set/04-Foxey-Lady-(CBS-Studios-London-UK-December-13-1966)/?partner=712</url>
 			<price>
-				<currency code="GBP">&#163;</currency>
+				<currency code="GBP">£</currency>
 				<value>0.99</value>
-				<formattedPrice>&#163;0.99</formattedPrice>
+				<formattedPrice>£0.99</formattedPrice>
 				<rrp>0.99</rrp>
-				<formattedRrp>&#163;0.99</formattedRrp>
+				<formattedRrp>£0.99</formattedRrp>
 				<onSale>false</onSale>
 			</price>
 		</track>
@@ -158,7 +158,7 @@
 			<isrc>USQX90900914</isrc>
 			<release id="671859">
 				<title>The Jimi Hendrix Experience (Box Set)</title>
-				<version></version>
+				<version/>
 				<type>Album</type>
 				<barcode>884977422931</barcode>
 				<artist id="32">
@@ -171,11 +171,11 @@
 			</release>
 			<url>http://www.7digital.com/artists/jimi-hendrix/the-jimi-hendrix-experience-box-set/05-Highway-Chile-(Olympic-Studios-London-UK-April-3-1967)/?partner=712</url>
 			<price>
-				<currency code="GBP">&#163;</currency>
+				<currency code="GBP">£</currency>
 				<value>0.99</value>
-				<formattedPrice>&#163;0.99</formattedPrice>
+				<formattedPrice>£0.99</formattedPrice>
 				<rrp>0.99</rrp>
-				<formattedRrp>&#163;0.99</formattedRrp>
+				<formattedRrp>£0.99</formattedRrp>
 				<onSale>false</onSale>
 			</price>
 		</track>
@@ -193,7 +193,7 @@
 			<isrc>USQX90900915</isrc>
 			<release id="671859">
 				<title>The Jimi Hendrix Experience (Box Set)</title>
-				<version></version>
+				<version/>
 				<type>Album</type>
 				<barcode>884977422931</barcode>
 				<artist id="32">
@@ -206,11 +206,11 @@
 			</release>
 			<url>http://www.7digital.com/artists/jimi-hendrix/the-jimi-hendrix-experience-box-set/06-Hey-Joe-(Pye-Studios-London-UK-October-1966)/?partner=712</url>
 			<price>
-				<currency code="GBP">&#163;</currency>
+				<currency code="GBP">£</currency>
 				<value>0.99</value>
-				<formattedPrice>&#163;0.99</formattedPrice>
+				<formattedPrice>£0.99</formattedPrice>
 				<rrp>0.99</rrp>
-				<formattedRrp>&#163;0.99</formattedRrp>
+				<formattedRrp>£0.99</formattedRrp>
 				<onSale>false</onSale>
 			</price>
 		</track>
@@ -228,7 +228,7 @@
 			<isrc>USQX90900916</isrc>
 			<release id="671859">
 				<title>The Jimi Hendrix Experience (Box Set)</title>
-				<version></version>
+				<version/>
 				<type>Album</type>
 				<barcode>884977422931</barcode>
 				<artist id="32">
@@ -241,11 +241,11 @@
 			</release>
 			<url>http://www.7digital.com/artists/jimi-hendrix/the-jimi-hendrix-experience-box-set/07-Title-3-(Olympic-Studios-London-UK-April-3-1967)/?partner=712</url>
 			<price>
-				<currency code="GBP">&#163;</currency>
+				<currency code="GBP">£</currency>
 				<value>0.99</value>
-				<formattedPrice>&#163;0.99</formattedPrice>
+				<formattedPrice>£0.99</formattedPrice>
 				<rrp>0.99</rrp>
-				<formattedRrp>&#163;0.99</formattedRrp>
+				<formattedRrp>£0.99</formattedRrp>
 				<onSale>false</onSale>
 			</price>
 		</track>
@@ -263,7 +263,7 @@
 			<isrc>USQX90900917</isrc>
 			<release id="671859">
 				<title>The Jimi Hendrix Experience (Box Set)</title>
-				<version></version>
+				<version/>
 				<type>Album</type>
 				<barcode>884977422931</barcode>
 				<artist id="32">
@@ -276,11 +276,11 @@
 			</release>
 			<url>http://www.7digital.com/artists/jimi-hendrix/the-jimi-hendrix-experience-box-set/08-3rd-Stone-From-The-Sun-(DeLane-Lea-Studios-London-UK-January-11-1967)/?partner=712</url>
 			<price>
-				<currency code="GBP">&#163;</currency>
+				<currency code="GBP">£</currency>
 				<value>0.99</value>
-				<formattedPrice>&#163;0.99</formattedPrice>
+				<formattedPrice>£0.99</formattedPrice>
 				<rrp>0.99</rrp>
-				<formattedRrp>&#163;0.99</formattedRrp>
+				<formattedRrp>£0.99</formattedRrp>
 				<onSale>false</onSale>
 			</price>
 		</track>
@@ -298,7 +298,7 @@
 			<isrc>USQX90900918</isrc>
 			<release id="671859">
 				<title>The Jimi Hendrix Experience (Box Set)</title>
-				<version></version>
+				<version/>
 				<type>Album</type>
 				<barcode>884977422931</barcode>
 				<artist id="32">
@@ -311,11 +311,11 @@
 			</release>
 			<url>http://www.7digital.com/artists/jimi-hendrix/the-jimi-hendrix-experience-box-set/09-Taking-Care-Of-No-Business-(Olympic-Studios-London-UK-May-4-1967)/?partner=712</url>
 			<price>
-				<currency code="GBP">&#163;</currency>
+				<currency code="GBP">£</currency>
 				<value>0.99</value>
-				<formattedPrice>&#163;0.99</formattedPrice>
+				<formattedPrice>£0.99</formattedPrice>
 				<rrp>0.99</rrp>
-				<formattedRrp>&#163;0.99</formattedRrp>
+				<formattedRrp>£0.99</formattedRrp>
 				<onSale>false</onSale>
 			</price>
 		</track>
@@ -333,7 +333,7 @@
 			<isrc>USQX90900919</isrc>
 			<release id="671859">
 				<title>The Jimi Hendrix Experience (Box Set)</title>
-				<version></version>
+				<version/>
 				<type>Album</type>
 				<barcode>884977422931</barcode>
 				<artist id="32">
@@ -346,11 +346,11 @@
 			</release>
 			<url>http://www.7digital.com/artists/jimi-hendrix/the-jimi-hendrix-experience-box-set/10-Here-He-Comes-(Lover-Man)-(Olympic-Studios-London-UK-April-4-1967)/?partner=712</url>
 			<price>
-				<currency code="GBP">&#163;</currency>
+				<currency code="GBP">£</currency>
 				<value>0.99</value>
-				<formattedPrice>&#163;0.99</formattedPrice>
+				<formattedPrice>£0.99</formattedPrice>
 				<rrp>0.99</rrp>
-				<formattedRrp>&#163;0.99</formattedRrp>
+				<formattedRrp>£0.99</formattedRrp>
 				<onSale>false</onSale>
 			</price>
 		</track>
@@ -368,7 +368,7 @@
 			<isrc>USQX90900920</isrc>
 			<release id="671859">
 				<title>The Jimi Hendrix Experience (Box Set)</title>
-				<version></version>
+				<version/>
 				<type>Album</type>
 				<barcode>884977422931</barcode>
 				<artist id="32">
@@ -381,11 +381,11 @@
 			</release>
 			<url>http://www.7digital.com/artists/jimi-hendrix/the-jimi-hendrix-experience-box-set/11-Burning-Of-The-Midnight-Lamp-(Olympic-Studios-London-UK-May-9-1967)/?partner=712</url>
 			<price>
-				<currency code="GBP">&#163;</currency>
+				<currency code="GBP">£</currency>
 				<value>0.99</value>
-				<formattedPrice>&#163;0.99</formattedPrice>
+				<formattedPrice>£0.99</formattedPrice>
 				<rrp>0.99</rrp>
-				<formattedRrp>&#163;0.99</formattedRrp>
+				<formattedRrp>£0.99</formattedRrp>
 				<onSale>false</onSale>
 			</price>
 		</track>
@@ -403,7 +403,7 @@
 			<isrc>USQX90900921</isrc>
 			<release id="671859">
 				<title>The Jimi Hendrix Experience (Box Set)</title>
-				<version></version>
+				<version/>
 				<type>Album</type>
 				<barcode>884977422931</barcode>
 				<artist id="32">
@@ -416,11 +416,11 @@
 			</release>
 			<url>http://www.7digital.com/artists/jimi-hendrix/the-jimi-hendrix-experience-box-set/12-If-6-Was-9-(Olympic-Studios-London-UK-May-4-1967)/?partner=712</url>
 			<price>
-				<currency code="GBP">&#163;</currency>
+				<currency code="GBP">£</currency>
 				<value>0.99</value>
-				<formattedPrice>&#163;0.99</formattedPrice>
+				<formattedPrice>£0.99</formattedPrice>
 				<rrp>0.99</rrp>
-				<formattedRrp>&#163;0.99</formattedRrp>
+				<formattedRrp>£0.99</formattedRrp>
 				<onSale>false</onSale>
 			</price>
 		</track>
@@ -438,7 +438,7 @@
 			<isrc>USQX90900922</isrc>
 			<release id="671859">
 				<title>The Jimi Hendrix Experience (Box Set)</title>
-				<version></version>
+				<version/>
 				<type>Album</type>
 				<barcode>884977422931</barcode>
 				<artist id="32">
@@ -451,11 +451,11 @@
 			</release>
 			<url>http://www.7digital.com/artists/jimi-hendrix/the-jimi-hendrix-experience-box-set/13-Rock-Me-Baby-(Monterey-International-Pop-Festival-Los-Angeles-CA-June-18-1967)/?partner=712</url>
 			<price>
-				<currency code="GBP">&#163;</currency>
+				<currency code="GBP">£</currency>
 				<value>0.99</value>
-				<formattedPrice>&#163;0.99</formattedPrice>
+				<formattedPrice>£0.99</formattedPrice>
 				<rrp>0.99</rrp>
-				<formattedRrp>&#163;0.99</formattedRrp>
+				<formattedRrp>£0.99</formattedRrp>
 				<onSale>false</onSale>
 			</price>
 		</track>
@@ -473,7 +473,7 @@
 			<isrc>USQX90900923</isrc>
 			<release id="671859">
 				<title>The Jimi Hendrix Experience (Box Set)</title>
-				<version></version>
+				<version/>
 				<type>Album</type>
 				<barcode>884977422931</barcode>
 				<artist id="32">
@@ -486,17 +486,17 @@
 			</release>
 			<url>http://www.7digital.com/artists/jimi-hendrix/the-jimi-hendrix-experience-box-set/14-Like-A-Rolling-Stone-(Monterey-International-Pop-Festival-Los-Angeles-CA-June-18-1967)/?partner=712</url>
 			<price>
-				<currency code="GBP">&#163;</currency>
+				<currency code="GBP">£</currency>
 				<value>0.99</value>
-				<formattedPrice>&#163;0.99</formattedPrice>
+				<formattedPrice>£0.99</formattedPrice>
 				<rrp>0.99</rrp>
-				<formattedRrp>&#163;0.99</formattedRrp>
+				<formattedRrp>£0.99</formattedRrp>
 				<onSale>false</onSale>
 			</price>
 		</track>
 		<track id="7451257">
 			<title>Sgt. Pepper's Lonely Hearts Club Band, Stockholm, Sweden, September 5, 1967)</title>
-			<version></version>
+			<version/>
 			<artist id="32">
 				<name>Jimi Hendrix</name>
 				<appearsAs>The Jimi Hendrix Experience</appearsAs>
@@ -508,7 +508,7 @@
 			<isrc>USQX90900924</isrc>
 			<release id="671859">
 				<title>The Jimi Hendrix Experience (Box Set)</title>
-				<version></version>
+				<version/>
 				<type>Album</type>
 				<barcode>884977422931</barcode>
 				<artist id="32">
@@ -521,17 +521,17 @@
 			</release>
 			<url>http://www.7digital.com/artists/jimi-hendrix/the-jimi-hendrix-experience-box-set/201-Sgt-Peppers-Lonely-Hearts-Club-Band-Stockholm-Sweden-September-5-1967)/?partner=712</url>
 			<price>
-				<currency code="GBP">&#163;</currency>
+				<currency code="GBP">£</currency>
 				<value>0.99</value>
-				<formattedPrice>&#163;0.99</formattedPrice>
+				<formattedPrice>£0.99</formattedPrice>
 				<rrp>0.99</rrp>
-				<formattedRrp>&#163;0.99</formattedRrp>
+				<formattedRrp>£0.99</formattedRrp>
 				<onSale>false</onSale>
 			</price>
 		</track>
 		<track id="7451259">
 			<title>Burning Of The Midnight Lamp, (Stockholm, Sweden, September 5, 1967)</title>
-			<version></version>
+			<version/>
 			<artist id="32">
 				<name>Jimi Hendrix</name>
 				<appearsAs>The Jimi Hendrix Experience</appearsAs>
@@ -543,7 +543,7 @@
 			<isrc>USQX90900925</isrc>
 			<release id="671859">
 				<title>The Jimi Hendrix Experience (Box Set)</title>
-				<version></version>
+				<version/>
 				<type>Album</type>
 				<barcode>884977422931</barcode>
 				<artist id="32">
@@ -556,11 +556,11 @@
 			</release>
 			<url>http://www.7digital.com/artists/jimi-hendrix/the-jimi-hendrix-experience-box-set/202-Burning-Of-The-Midnight-Lamp-(Stockholm-Sweden-September-5-1967)/?partner=712</url>
 			<price>
-				<currency code="GBP">&#163;</currency>
+				<currency code="GBP">£</currency>
 				<value>0.99</value>
-				<formattedPrice>&#163;0.99</formattedPrice>
+				<formattedPrice>£0.99</formattedPrice>
 				<rrp>0.99</rrp>
-				<formattedRrp>&#163;0.99</formattedRrp>
+				<formattedRrp>£0.99</formattedRrp>
 				<onSale>false</onSale>
 			</price>
 		</track>
@@ -578,7 +578,7 @@
 			<isrc>USQX90900926</isrc>
 			<release id="671859">
 				<title>The Jimi Hendrix Experience (Box Set)</title>
-				<version></version>
+				<version/>
 				<type>Album</type>
 				<barcode>884977422931</barcode>
 				<artist id="32">
@@ -591,11 +591,11 @@
 			</release>
 			<url>http://www.7digital.com/artists/jimi-hendrix/the-jimi-hendrix-experience-box-set/203-Little-Wing-(Olympic-Studios-London-UK-October-25-1967)/?partner=712</url>
 			<price>
-				<currency code="GBP">&#163;</currency>
+				<currency code="GBP">£</currency>
 				<value>0.99</value>
-				<formattedPrice>&#163;0.99</formattedPrice>
+				<formattedPrice>£0.99</formattedPrice>
 				<rrp>0.99</rrp>
-				<formattedRrp>&#163;0.99</formattedRrp>
+				<formattedRrp>£0.99</formattedRrp>
 				<onSale>false</onSale>
 			</price>
 		</track>
@@ -613,7 +613,7 @@
 			<isrc>USQX90900927</isrc>
 			<release id="671859">
 				<title>The Jimi Hendrix Experience (Box Set)</title>
-				<version></version>
+				<version/>
 				<type>Album</type>
 				<barcode>884977422931</barcode>
 				<artist id="32">
@@ -626,11 +626,11 @@
 			</release>
 			<url>http://www.7digital.com/artists/jimi-hendrix/the-jimi-hendrix-experience-box-set/204-Little-Miss-Lover-(Olympic-Studios-London-UK-October-1-1967)/?partner=712</url>
 			<price>
-				<currency code="GBP">&#163;</currency>
+				<currency code="GBP">£</currency>
 				<value>0.99</value>
-				<formattedPrice>&#163;0.99</formattedPrice>
+				<formattedPrice>£0.99</formattedPrice>
 				<rrp>0.99</rrp>
-				<formattedRrp>&#163;0.99</formattedRrp>
+				<formattedRrp>£0.99</formattedRrp>
 				<onSale>false</onSale>
 			</price>
 		</track>
@@ -648,7 +648,7 @@
 			<isrc>USQX90900928</isrc>
 			<release id="671859">
 				<title>The Jimi Hendrix Experience (Box Set)</title>
-				<version></version>
+				<version/>
 				<type>Album</type>
 				<barcode>884977422931</barcode>
 				<artist id="32">
@@ -661,11 +661,11 @@
 			</release>
 			<url>http://www.7digital.com/artists/jimi-hendrix/the-jimi-hendrix-experience-box-set/205-The-Wind-Cries-Mary-(Olympia-Theater-Paris-France-October-19-1967)/?partner=712</url>
 			<price>
-				<currency code="GBP">&#163;</currency>
+				<currency code="GBP">£</currency>
 				<value>0.99</value>
-				<formattedPrice>&#163;0.99</formattedPrice>
+				<formattedPrice>£0.99</formattedPrice>
 				<rrp>0.99</rrp>
-				<formattedRrp>&#163;0.99</formattedRrp>
+				<formattedRrp>£0.99</formattedRrp>
 				<onSale>false</onSale>
 			</price>
 		</track>
@@ -683,7 +683,7 @@
 			<isrc>USQX90900929</isrc>
 			<release id="671859">
 				<title>The Jimi Hendrix Experience (Box Set)</title>
-				<version></version>
+				<version/>
 				<type>Album</type>
 				<barcode>884977422931</barcode>
 				<artist id="32">
@@ -696,11 +696,11 @@
 			</release>
 			<url>http://www.7digital.com/artists/jimi-hendrix/the-jimi-hendrix-experience-box-set/206-Catfish-Blues-(Olympia-Theater-Paris-France-October-19-1967)/?partner=712</url>
 			<price>
-				<currency code="GBP">&#163;</currency>
+				<currency code="GBP">£</currency>
 				<value>0.99</value>
-				<formattedPrice>&#163;0.99</formattedPrice>
+				<formattedPrice>£0.99</formattedPrice>
 				<rrp>0.99</rrp>
-				<formattedRrp>&#163;0.99</formattedRrp>
+				<formattedRrp>£0.99</formattedRrp>
 				<onSale>false</onSale>
 			</price>
 		</track>
@@ -718,7 +718,7 @@
 			<isrc>USQX90900930</isrc>
 			<release id="671859">
 				<title>The Jimi Hendrix Experience (Box Set)</title>
-				<version></version>
+				<version/>
 				<type>Album</type>
 				<barcode>884977422931</barcode>
 				<artist id="32">
@@ -731,11 +731,11 @@
 			</release>
 			<url>http://www.7digital.com/artists/jimi-hendrix/the-jimi-hendrix-experience-box-set/207-Bold-As-Love-(Olympic-Studios-London-UK-October-5-1967)/?partner=712</url>
 			<price>
-				<currency code="GBP">&#163;</currency>
+				<currency code="GBP">£</currency>
 				<value>0.99</value>
-				<formattedPrice>&#163;0.99</formattedPrice>
+				<formattedPrice>£0.99</formattedPrice>
 				<rrp>0.99</rrp>
-				<formattedRrp>&#163;0.99</formattedRrp>
+				<formattedRrp>£0.99</formattedRrp>
 				<onSale>false</onSale>
 			</price>
 		</track>
@@ -753,7 +753,7 @@
 			<isrc>USQX90900931</isrc>
 			<release id="671859">
 				<title>The Jimi Hendrix Experience (Box Set)</title>
-				<version></version>
+				<version/>
 				<type>Album</type>
 				<barcode>884977422931</barcode>
 				<artist id="32">
@@ -766,11 +766,11 @@
 			</release>
 			<url>http://www.7digital.com/artists/jimi-hendrix/the-jimi-hendrix-experience-box-set/208-Sweet-Angel-(Olympic-Studios-London-UK-November-13-1967)/?partner=712</url>
 			<price>
-				<currency code="GBP">&#163;</currency>
+				<currency code="GBP">£</currency>
 				<value>0.99</value>
-				<formattedPrice>&#163;0.99</formattedPrice>
+				<formattedPrice>£0.99</formattedPrice>
 				<rrp>0.99</rrp>
-				<formattedRrp>&#163;0.99</formattedRrp>
+				<formattedRrp>£0.99</formattedRrp>
 				<onSale>false</onSale>
 			</price>
 		</track>
@@ -788,7 +788,7 @@
 			<isrc>USQX90900932</isrc>
 			<release id="671859">
 				<title>The Jimi Hendrix Experience (Box Set)</title>
-				<version></version>
+				<version/>
 				<type>Album</type>
 				<barcode>884977422931</barcode>
 				<artist id="32">
@@ -801,11 +801,11 @@
 			</release>
 			<url>http://www.7digital.com/artists/jimi-hendrix/the-jimi-hendrix-experience-box-set/209-Fire-(Clark-University-Worcester-MA-March-15-1968)/?partner=712</url>
 			<price>
-				<currency code="GBP">&#163;</currency>
+				<currency code="GBP">£</currency>
 				<value>0.99</value>
-				<formattedPrice>&#163;0.99</formattedPrice>
+				<formattedPrice>£0.99</formattedPrice>
 				<rrp>0.99</rrp>
-				<formattedRrp>&#163;0.99</formattedRrp>
+				<formattedRrp>£0.99</formattedRrp>
 				<onSale>false</onSale>
 			</price>
 		</track>
@@ -823,7 +823,7 @@
 			<isrc>USQX90900933</isrc>
 			<release id="671859">
 				<title>The Jimi Hendrix Experience (Box Set)</title>
-				<version></version>
+				<version/>
 				<type>Album</type>
 				<barcode>884977422931</barcode>
 				<artist id="32">
@@ -836,17 +836,17 @@
 			</release>
 			<url>http://www.7digital.com/artists/jimi-hendrix/the-jimi-hendrix-experience-box-set/210-Somewhere-(Sound-Center-New-York-NY-March-1968)/?partner=712</url>
 			<price>
-				<currency code="GBP">&#163;</currency>
+				<currency code="GBP">£</currency>
 				<value>0.99</value>
-				<formattedPrice>&#163;0.99</formattedPrice>
+				<formattedPrice>£0.99</formattedPrice>
 				<rrp>0.99</rrp>
-				<formattedRrp>&#163;0.99</formattedRrp>
+				<formattedRrp>£0.99</formattedRrp>
 				<onSale>false</onSale>
 			</price>
 		</track>
 		<track id="7451274">
 			<title>(Have You Ever Been To) Electric Ladyland (Record Plant, New York, NY, June 14, 1968)</title>
-			<version></version>
+			<version/>
 			<artist id="32">
 				<name>Jimi Hendrix</name>
 				<appearsAs>The Jimi Hendrix Experience</appearsAs>
@@ -858,7 +858,7 @@
 			<isrc>USQX90900934</isrc>
 			<release id="671859">
 				<title>The Jimi Hendrix Experience (Box Set)</title>
-				<version></version>
+				<version/>
 				<type>Album</type>
 				<barcode>884977422931</barcode>
 				<artist id="32">
@@ -871,11 +871,11 @@
 			</release>
 			<url>http://www.7digital.com/artists/jimi-hendrix/the-jimi-hendrix-experience-box-set/211-(Have-You-Ever-Been-To)-Electric-Ladyland-(Record-Plant-New-York-NY-June-14-1968)/?partner=712</url>
 			<price>
-				<currency code="GBP">&#163;</currency>
+				<currency code="GBP">£</currency>
 				<value>0.99</value>
-				<formattedPrice>&#163;0.99</formattedPrice>
+				<formattedPrice>£0.99</formattedPrice>
 				<rrp>0.99</rrp>
-				<formattedRrp>&#163;0.99</formattedRrp>
+				<formattedRrp>£0.99</formattedRrp>
 				<onSale>false</onSale>
 			</price>
 		</track>
@@ -893,7 +893,7 @@
 			<isrc>USQX90900935</isrc>
 			<release id="671859">
 				<title>The Jimi Hendrix Experience (Box Set)</title>
-				<version></version>
+				<version/>
 				<type>Album</type>
 				<barcode>884977422931</barcode>
 				<artist id="32">
@@ -906,11 +906,11 @@
 			</release>
 			<url>http://www.7digital.com/artists/jimi-hendrix/the-jimi-hendrix-experience-box-set/212-Gypsy-Eyes-(Record-Plant-New-York-NY-April-22-1968)/?partner=712</url>
 			<price>
-				<currency code="GBP">&#163;</currency>
+				<currency code="GBP">£</currency>
 				<value>0.99</value>
-				<formattedPrice>&#163;0.99</formattedPrice>
+				<formattedPrice>£0.99</formattedPrice>
 				<rrp>0.99</rrp>
-				<formattedRrp>&#163;0.99</formattedRrp>
+				<formattedRrp>£0.99</formattedRrp>
 				<onSale>false</onSale>
 			</price>
 		</track>
@@ -928,7 +928,7 @@
 			<isrc>USQX90900936</isrc>
 			<release id="671859">
 				<title>The Jimi Hendrix Experience (Box Set)</title>
-				<version></version>
+				<version/>
 				<type>Album</type>
 				<barcode>884977422931</barcode>
 				<artist id="32">
@@ -941,11 +941,11 @@
 			</release>
 			<url>http://www.7digital.com/artists/jimi-hendrix/the-jimi-hendrix-experience-box-set/213-Room-Full-Of-Mirrors-(Record-Plant-New-York-NY-August-12-1968)/?partner=712</url>
 			<price>
-				<currency code="GBP">&#163;</currency>
+				<currency code="GBP">£</currency>
 				<value>0.99</value>
-				<formattedPrice>&#163;0.99</formattedPrice>
+				<formattedPrice>£0.99</formattedPrice>
 				<rrp>0.99</rrp>
-				<formattedRrp>&#163;0.99</formattedRrp>
+				<formattedRrp>£0.99</formattedRrp>
 				<onSale>false</onSale>
 			</price>
 		</track>
@@ -963,7 +963,7 @@
 			<isrc>USQX90900937</isrc>
 			<release id="671859">
 				<title>The Jimi Hendrix Experience (Box Set)</title>
-				<version></version>
+				<version/>
 				<type>Album</type>
 				<barcode>884977422931</barcode>
 				<artist id="32">
@@ -976,11 +976,11 @@
 			</release>
 			<url>http://www.7digital.com/artists/jimi-hendrix/the-jimi-hendrix-experience-box-set/214-Gloria-(TTG-Studios-Hollywood-CA-October-29-1968)/?partner=712</url>
 			<price>
-				<currency code="GBP">&#163;</currency>
+				<currency code="GBP">£</currency>
 				<value>0.99</value>
-				<formattedPrice>&#163;0.99</formattedPrice>
+				<formattedPrice>£0.99</formattedPrice>
 				<rrp>0.99</rrp>
-				<formattedRrp>&#163;0.99</formattedRrp>
+				<formattedRrp>£0.99</formattedRrp>
 				<onSale>false</onSale>
 			</price>
 		</track>
@@ -998,7 +998,7 @@
 			<isrc>USQX90900938</isrc>
 			<release id="671859">
 				<title>The Jimi Hendrix Experience (Box Set)</title>
-				<version></version>
+				<version/>
 				<type>Album</type>
 				<barcode>884977422931</barcode>
 				<artist id="32">
@@ -1011,17 +1011,17 @@
 			</release>
 			<url>http://www.7digital.com/artists/jimi-hendrix/the-jimi-hendrix-experience-box-set/215-Its-Too-Bad-(Record-Plant-New-York-NY-February-11-1969)/?partner=712</url>
 			<price>
-				<currency code="GBP">&#163;</currency>
+				<currency code="GBP">£</currency>
 				<value>0.99</value>
-				<formattedPrice>&#163;0.99</formattedPrice>
+				<formattedPrice>£0.99</formattedPrice>
 				<rrp>0.99</rrp>
-				<formattedRrp>&#163;0.99</formattedRrp>
+				<formattedRrp>£0.99</formattedRrp>
 				<onSale>false</onSale>
 			</price>
 		</track>
 		<track id="7451283">
 			<title>Star Spangled Banner (Record Plant, New York, NY, March 18, 1969)</title>
-			<version></version>
+			<version/>
 			<artist id="32">
 				<name>Jimi Hendrix</name>
 				<appearsAs>The Jimi Hendrix Experience</appearsAs>
@@ -1033,7 +1033,7 @@
 			<isrc>USQX90900939</isrc>
 			<release id="671859">
 				<title>The Jimi Hendrix Experience (Box Set)</title>
-				<version></version>
+				<version/>
 				<type>Album</type>
 				<barcode>884977422931</barcode>
 				<artist id="32">
@@ -1046,11 +1046,11 @@
 			</release>
 			<url>http://www.7digital.com/artists/jimi-hendrix/the-jimi-hendrix-experience-box-set/216-Star-Spangled-Banner-(Record-Plant-New-York-NY-March-18-1969)/?partner=712</url>
 			<price>
-				<currency code="GBP">&#163;</currency>
+				<currency code="GBP">£</currency>
 				<value>0.99</value>
-				<formattedPrice>&#163;0.99</formattedPrice>
+				<formattedPrice>£0.99</formattedPrice>
 				<rrp>0.99</rrp>
-				<formattedRrp>&#163;0.99</formattedRrp>
+				<formattedRrp>£0.99</formattedRrp>
 				<onSale>false</onSale>
 			</price>
 		</track>
@@ -1068,7 +1068,7 @@
 			<isrc>USQX90900940</isrc>
 			<release id="671859">
 				<title>The Jimi Hendrix Experience (Box Set)</title>
-				<version></version>
+				<version/>
 				<type>Album</type>
 				<barcode>884977422931</barcode>
 				<artist id="32">
@@ -1081,11 +1081,11 @@
 			</release>
 			<url>http://www.7digital.com/artists/jimi-hendrix/the-jimi-hendrix-experience-box-set/301-Stone-Free-(Record-Plant-New-York-NY-April-7-1969)/?partner=712</url>
 			<price>
-				<currency code="GBP">&#163;</currency>
+				<currency code="GBP">£</currency>
 				<value>0.99</value>
-				<formattedPrice>&#163;0.99</formattedPrice>
+				<formattedPrice>£0.99</formattedPrice>
 				<rrp>0.99</rrp>
-				<formattedRrp>&#163;0.99</formattedRrp>
+				<formattedRrp>£0.99</formattedRrp>
 				<onSale>false</onSale>
 			</price>
 		</track>
@@ -1103,7 +1103,7 @@
 			<isrc>USQX90900941</isrc>
 			<release id="671859">
 				<title>The Jimi Hendrix Experience (Box Set)</title>
-				<version></version>
+				<version/>
 				<type>Album</type>
 				<barcode>884977422931</barcode>
 				<artist id="32">
@@ -1116,11 +1116,11 @@
 			</release>
 			<url>http://www.7digital.com/artists/jimi-hendrix/the-jimi-hendrix-experience-box-set/302-Spanish-Magic-Castle-(Olympic-Studios-London-UK-February-17-1969)/?partner=712</url>
 			<price>
-				<currency code="GBP">&#163;</currency>
+				<currency code="GBP">£</currency>
 				<value>0.99</value>
-				<formattedPrice>&#163;0.99</formattedPrice>
+				<formattedPrice>£0.99</formattedPrice>
 				<rrp>0.99</rrp>
-				<formattedRrp>&#163;0.99</formattedRrp>
+				<formattedRrp>£0.99</formattedRrp>
 				<onSale>false</onSale>
 			</price>
 		</track>
@@ -1138,7 +1138,7 @@
 			<isrc>USQX90900942</isrc>
 			<release id="671859">
 				<title>The Jimi Hendrix Experience (Box Set)</title>
-				<version></version>
+				<version/>
 				<type>Album</type>
 				<barcode>884977422931</barcode>
 				<artist id="32">
@@ -1151,11 +1151,11 @@
 			</release>
 			<url>http://www.7digital.com/artists/jimi-hendrix/the-jimi-hendrix-experience-box-set/303-Hear-My-Train-A-Comin-(Olympic-Studios-London-UK-February-17-1969)/?partner=712</url>
 			<price>
-				<currency code="GBP">&#163;</currency>
+				<currency code="GBP">£</currency>
 				<value>0.99</value>
-				<formattedPrice>&#163;0.99</formattedPrice>
+				<formattedPrice>£0.99</formattedPrice>
 				<rrp>0.99</rrp>
-				<formattedRrp>&#163;0.99</formattedRrp>
+				<formattedRrp>£0.99</formattedRrp>
 				<onSale>false</onSale>
 			</price>
 		</track>
@@ -1173,7 +1173,7 @@
 			<isrc>USQX90900943</isrc>
 			<release id="671859">
 				<title>The Jimi Hendrix Experience (Box Set)</title>
-				<version></version>
+				<version/>
 				<type>Album</type>
 				<barcode>884977422931</barcode>
 				<artist id="32">
@@ -1186,11 +1186,11 @@
 			</release>
 			<url>http://www.7digital.com/artists/jimi-hendrix/the-jimi-hendrix-experience-box-set/304-Room-Full-Of-Mirrors-(Record-Plant-New-York-NY-April-21-1969)/?partner=712</url>
 			<price>
-				<currency code="GBP">&#163;</currency>
+				<currency code="GBP">£</currency>
 				<value>0.99</value>
-				<formattedPrice>&#163;0.99</formattedPrice>
+				<formattedPrice>£0.99</formattedPrice>
 				<rrp>0.99</rrp>
-				<formattedRrp>&#163;0.99</formattedRrp>
+				<formattedRrp>£0.99</formattedRrp>
 				<onSale>false</onSale>
 			</price>
 		</track>
@@ -1208,7 +1208,7 @@
 			<isrc>USQX90900944</isrc>
 			<release id="671859">
 				<title>The Jimi Hendrix Experience (Box Set)</title>
-				<version></version>
+				<version/>
 				<type>Album</type>
 				<barcode>884977422931</barcode>
 				<artist id="32">
@@ -1221,11 +1221,11 @@
 			</release>
 			<url>http://www.7digital.com/artists/jimi-hendrix/the-jimi-hendrix-experience-box-set/305-I-Dont-Live-Today-(Los-Angeles-Forum-CA-April-26-1969)/?partner=712</url>
 			<price>
-				<currency code="GBP">&#163;</currency>
+				<currency code="GBP">£</currency>
 				<value>0.99</value>
-				<formattedPrice>&#163;0.99</formattedPrice>
+				<formattedPrice>£0.99</formattedPrice>
 				<rrp>0.99</rrp>
-				<formattedRrp>&#163;0.99</formattedRrp>
+				<formattedRrp>£0.99</formattedRrp>
 				<onSale>false</onSale>
 			</price>
 		</track>
@@ -1243,7 +1243,7 @@
 			<isrc>USQX90900945</isrc>
 			<release id="671859">
 				<title>The Jimi Hendrix Experience (Box Set)</title>
-				<version></version>
+				<version/>
 				<type>Album</type>
 				<barcode>884977422931</barcode>
 				<artist id="32">
@@ -1256,11 +1256,11 @@
 			</release>
 			<url>http://www.7digital.com/artists/jimi-hendrix/the-jimi-hendrix-experience-box-set/306-Little-Wing-(Royal-Albert-Hall-London-UK-February-24-1969)/?partner=712</url>
 			<price>
-				<currency code="GBP">&#163;</currency>
+				<currency code="GBP">£</currency>
 				<value>0.99</value>
-				<formattedPrice>&#163;0.99</formattedPrice>
+				<formattedPrice>£0.99</formattedPrice>
 				<rrp>0.99</rrp>
-				<formattedRrp>&#163;0.99</formattedRrp>
+				<formattedRrp>£0.99</formattedRrp>
 				<onSale>false</onSale>
 			</price>
 		</track>
@@ -1278,7 +1278,7 @@
 			<isrc>USQX90900946</isrc>
 			<release id="671859">
 				<title>The Jimi Hendrix Experience (Box Set)</title>
-				<version></version>
+				<version/>
 				<type>Album</type>
 				<barcode>884977422931</barcode>
 				<artist id="32">
@@ -1291,11 +1291,11 @@
 			</release>
 			<url>http://www.7digital.com/artists/jimi-hendrix/the-jimi-hendrix-experience-box-set/307-Red-House-(San-Diego-Sports-Arena-CA-May-25-1969)/?partner=712</url>
 			<price>
-				<currency code="GBP">&#163;</currency>
+				<currency code="GBP">£</currency>
 				<value>0.99</value>
-				<formattedPrice>&#163;0.99</formattedPrice>
+				<formattedPrice>£0.99</formattedPrice>
 				<rrp>0.99</rrp>
-				<formattedRrp>&#163;0.99</formattedRrp>
+				<formattedRrp>£0.99</formattedRrp>
 				<onSale>false</onSale>
 			</price>
 		</track>
@@ -1313,7 +1313,7 @@
 			<isrc>USQX90900947</isrc>
 			<release id="671859">
 				<title>The Jimi Hendrix Experience (Box Set)</title>
-				<version></version>
+				<version/>
 				<type>Album</type>
 				<barcode>884977422931</barcode>
 				<artist id="32">
@@ -1326,11 +1326,11 @@
 			</release>
 			<url>http://www.7digital.com/artists/jimi-hendrix/the-jimi-hendrix-experience-box-set/308-Purple-Haze-(San-Diego-Sports-Arena-CA-May-25-1969)/?partner=712</url>
 			<price>
-				<currency code="GBP">&#163;</currency>
+				<currency code="GBP">£</currency>
 				<value>0.99</value>
-				<formattedPrice>&#163;0.99</formattedPrice>
+				<formattedPrice>£0.99</formattedPrice>
 				<rrp>0.99</rrp>
-				<formattedRrp>&#163;0.99</formattedRrp>
+				<formattedRrp>£0.99</formattedRrp>
 				<onSale>false</onSale>
 			</price>
 		</track>
@@ -1348,7 +1348,7 @@
 			<isrc>USQX90900948</isrc>
 			<release id="671859">
 				<title>The Jimi Hendrix Experience (Box Set)</title>
-				<version></version>
+				<version/>
 				<type>Album</type>
 				<barcode>884977422931</barcode>
 				<artist id="32">
@@ -1361,11 +1361,11 @@
 			</release>
 			<url>http://www.7digital.com/artists/jimi-hendrix/the-jimi-hendrix-experience-box-set/309-Voodoo-Child-(Slight-Return)-(Royal-Albert-Hall-London-UK-February-24-1969)/?partner=712</url>
 			<price>
-				<currency code="GBP">&#163;</currency>
+				<currency code="GBP">£</currency>
 				<value>0.99</value>
-				<formattedPrice>&#163;0.99</formattedPrice>
+				<formattedPrice>£0.99</formattedPrice>
 				<rrp>0.99</rrp>
-				<formattedRrp>&#163;0.99</formattedRrp>
+				<formattedRrp>£0.99</formattedRrp>
 				<onSale>false</onSale>
 			</price>
 		</track>
@@ -1383,7 +1383,7 @@
 			<isrc>USQX90900949</isrc>
 			<release id="671859">
 				<title>The Jimi Hendrix Experience (Box Set)</title>
-				<version></version>
+				<version/>
 				<type>Album</type>
 				<barcode>884977422931</barcode>
 				<artist id="32">
@@ -1396,11 +1396,11 @@
 			</release>
 			<url>http://www.7digital.com/artists/jimi-hendrix/the-jimi-hendrix-experience-box-set/310-Izabella-(Hit-Factory-New-York-NY-August-29-1969)/?partner=712</url>
 			<price>
-				<currency code="GBP">&#163;</currency>
+				<currency code="GBP">£</currency>
 				<value>0.99</value>
-				<formattedPrice>&#163;0.99</formattedPrice>
+				<formattedPrice>£0.99</formattedPrice>
 				<rrp>0.99</rrp>
-				<formattedRrp>&#163;0.99</formattedRrp>
+				<formattedRrp>£0.99</formattedRrp>
 				<onSale>false</onSale>
 			</price>
 		</track>
@@ -1418,7 +1418,7 @@
 			<isrc>USQX90900950</isrc>
 			<release id="671859">
 				<title>The Jimi Hendrix Experience (Box Set)</title>
-				<version></version>
+				<version/>
 				<type>Album</type>
 				<barcode>884977422931</barcode>
 				<artist id="32">
@@ -1431,11 +1431,11 @@
 			</release>
 			<url>http://www.7digital.com/artists/jimi-hendrix/the-jimi-hendrix-experience-box-set/401-Message-To-Love-(Record-Plant-New-York-NY-December-19-1969)/?partner=712</url>
 			<price>
-				<currency code="GBP">&#163;</currency>
+				<currency code="GBP">£</currency>
 				<value>0.99</value>
-				<formattedPrice>&#163;0.99</formattedPrice>
+				<formattedPrice>£0.99</formattedPrice>
 				<rrp>0.99</rrp>
-				<formattedRrp>&#163;0.99</formattedRrp>
+				<formattedRrp>£0.99</formattedRrp>
 				<onSale>false</onSale>
 			</price>
 		</track>
@@ -1453,7 +1453,7 @@
 			<isrc>USQX90900951</isrc>
 			<release id="671859">
 				<title>The Jimi Hendrix Experience (Box Set)</title>
-				<version></version>
+				<version/>
 				<type>Album</type>
 				<barcode>884977422931</barcode>
 				<artist id="32">
@@ -1466,11 +1466,11 @@
 			</release>
 			<url>http://www.7digital.com/artists/jimi-hendrix/the-jimi-hendrix-experience-box-set/402-Earth-Blues-(Record-Plant-New-York-NY-December-19-1969)/?partner=712</url>
 			<price>
-				<currency code="GBP">&#163;</currency>
+				<currency code="GBP">£</currency>
 				<value>0.99</value>
-				<formattedPrice>&#163;0.99</formattedPrice>
+				<formattedPrice>£0.99</formattedPrice>
 				<rrp>0.99</rrp>
-				<formattedRrp>&#163;0.99</formattedRrp>
+				<formattedRrp>£0.99</formattedRrp>
 				<onSale>false</onSale>
 			</price>
 		</track>
@@ -1488,7 +1488,7 @@
 			<isrc>USQX90900952</isrc>
 			<release id="671859">
 				<title>The Jimi Hendrix Experience (Box Set)</title>
-				<version></version>
+				<version/>
 				<type>Album</type>
 				<barcode>884977422931</barcode>
 				<artist id="32">
@@ -1501,11 +1501,11 @@
 			</release>
 			<url>http://www.7digital.com/artists/jimi-hendrix/the-jimi-hendrix-experience-box-set/403-Astro-Man-(Record-Plant-New-York-NY-January-21-1970)/?partner=712</url>
 			<price>
-				<currency code="GBP">&#163;</currency>
+				<currency code="GBP">£</currency>
 				<value>0.99</value>
-				<formattedPrice>&#163;0.99</formattedPrice>
+				<formattedPrice>£0.99</formattedPrice>
 				<rrp>0.99</rrp>
-				<formattedRrp>&#163;0.99</formattedRrp>
+				<formattedRrp>£0.99</formattedRrp>
 				<onSale>false</onSale>
 			</price>
 		</track>
@@ -1523,7 +1523,7 @@
 			<isrc>USQX90900953</isrc>
 			<release id="671859">
 				<title>The Jimi Hendrix Experience (Box Set)</title>
-				<version></version>
+				<version/>
 				<type>Album</type>
 				<barcode>884977422931</barcode>
 				<artist id="32">
@@ -1536,11 +1536,11 @@
 			</release>
 			<url>http://www.7digital.com/artists/jimi-hendrix/the-jimi-hendrix-experience-box-set/404-Country-Blues-(Record-Plant-New-York-NY-January-23-1970)/?partner=712</url>
 			<price>
-				<currency code="GBP">&#163;</currency>
+				<currency code="GBP">£</currency>
 				<value>0.99</value>
-				<formattedPrice>&#163;0.99</formattedPrice>
+				<formattedPrice>£0.99</formattedPrice>
 				<rrp>0.99</rrp>
-				<formattedRrp>&#163;0.99</formattedRrp>
+				<formattedRrp>£0.99</formattedRrp>
 				<onSale>false</onSale>
 			</price>
 		</track>
@@ -1558,7 +1558,7 @@
 			<isrc>USQX90900954</isrc>
 			<release id="671859">
 				<title>The Jimi Hendrix Experience (Box Set)</title>
-				<version></version>
+				<version/>
 				<type>Album</type>
 				<barcode>884977422931</barcode>
 				<artist id="32">
@@ -1571,11 +1571,11 @@
 			</release>
 			<url>http://www.7digital.com/artists/jimi-hendrix/the-jimi-hendrix-experience-box-set/405-Freedom-(Record-Plant-New-York-NY-February-16-1970)/?partner=712</url>
 			<price>
-				<currency code="GBP">&#163;</currency>
+				<currency code="GBP">£</currency>
 				<value>0.99</value>
-				<formattedPrice>&#163;0.99</formattedPrice>
+				<formattedPrice>£0.99</formattedPrice>
 				<rrp>0.99</rrp>
-				<formattedRrp>&#163;0.99</formattedRrp>
+				<formattedRrp>£0.99</formattedRrp>
 				<onSale>false</onSale>
 			</price>
 		</track>
@@ -1593,7 +1593,7 @@
 			<isrc>USQX90900955</isrc>
 			<release id="671859">
 				<title>The Jimi Hendrix Experience (Box Set)</title>
-				<version></version>
+				<version/>
 				<type>Album</type>
 				<barcode>884977422931</barcode>
 				<artist id="32">
@@ -1606,11 +1606,11 @@
 			</release>
 			<url>http://www.7digital.com/artists/jimi-hendrix/the-jimi-hendrix-experience-box-set/406-Johnny-B-Goode-(Berkeley-Community-Theater-Berkeley-CA-May-30-1970)/?partner=712</url>
 			<price>
-				<currency code="GBP">&#163;</currency>
+				<currency code="GBP">£</currency>
 				<value>0.99</value>
-				<formattedPrice>&#163;0.99</formattedPrice>
+				<formattedPrice>£0.99</formattedPrice>
 				<rrp>0.99</rrp>
-				<formattedRrp>&#163;0.99</formattedRrp>
+				<formattedRrp>£0.99</formattedRrp>
 				<onSale>false</onSale>
 			</price>
 		</track>
@@ -1628,7 +1628,7 @@
 			<isrc>USQX90900956</isrc>
 			<release id="671859">
 				<title>The Jimi Hendrix Experience (Box Set)</title>
-				<version></version>
+				<version/>
 				<type>Album</type>
 				<barcode>884977422931</barcode>
 				<artist id="32">
@@ -1641,11 +1641,11 @@
 			</release>
 			<url>http://www.7digital.com/artists/jimi-hendrix/the-jimi-hendrix-experience-box-set/407-Lover-Man-(Electric-Lady-Studios-New-York-NY-July-20-1970)/?partner=712</url>
 			<price>
-				<currency code="GBP">&#163;</currency>
+				<currency code="GBP">£</currency>
 				<value>0.99</value>
-				<formattedPrice>&#163;0.99</formattedPrice>
+				<formattedPrice>£0.99</formattedPrice>
 				<rrp>0.99</rrp>
-				<formattedRrp>&#163;0.99</formattedRrp>
+				<formattedRrp>£0.99</formattedRrp>
 				<onSale>false</onSale>
 			</price>
 		</track>
@@ -1663,7 +1663,7 @@
 			<isrc>USQX90900957</isrc>
 			<release id="671859">
 				<title>The Jimi Hendrix Experience (Box Set)</title>
-				<version></version>
+				<version/>
 				<type>Album</type>
 				<barcode>884977422931</barcode>
 				<artist id="32">
@@ -1676,11 +1676,11 @@
 			</release>
 			<url>http://www.7digital.com/artists/jimi-hendrix/the-jimi-hendrix-experience-box-set/408-Blue-Suede-Shoes-(Berkeley-Community-Theater-Berkeley-CA-May-30-1970)/?partner=712</url>
 			<price>
-				<currency code="GBP">&#163;</currency>
+				<currency code="GBP">£</currency>
 				<value>0.99</value>
-				<formattedPrice>&#163;0.99</formattedPrice>
+				<formattedPrice>£0.99</formattedPrice>
 				<rrp>0.99</rrp>
-				<formattedRrp>&#163;0.99</formattedRrp>
+				<formattedRrp>£0.99</formattedRrp>
 				<onSale>false</onSale>
 			</price>
 		</track>
@@ -1698,7 +1698,7 @@
 			<isrc>USQX90900958</isrc>
 			<release id="671859">
 				<title>The Jimi Hendrix Experience (Box Set)</title>
-				<version></version>
+				<version/>
 				<type>Album</type>
 				<barcode>884977422931</barcode>
 				<artist id="32">
@@ -1711,11 +1711,11 @@
 			</release>
 			<url>http://www.7digital.com/artists/jimi-hendrix/the-jimi-hendrix-experience-box-set/409-Cherokee-Mist-(Electric-Lady-Studios-New-York-NY-June-14-1970)/?partner=712</url>
 			<price>
-				<currency code="GBP">&#163;</currency>
+				<currency code="GBP">£</currency>
 				<value>0.99</value>
-				<formattedPrice>&#163;0.99</formattedPrice>
+				<formattedPrice>£0.99</formattedPrice>
 				<rrp>0.99</rrp>
-				<formattedRrp>&#163;0.99</formattedRrp>
+				<formattedRrp>£0.99</formattedRrp>
 				<onSale>false</onSale>
 			</price>
 		</track>
@@ -1733,7 +1733,7 @@
 			<isrc>USQX90900959</isrc>
 			<release id="671859">
 				<title>The Jimi Hendrix Experience (Box Set)</title>
-				<version></version>
+				<version/>
 				<type>Album</type>
 				<barcode>884977422931</barcode>
 				<artist id="32">
@@ -1746,11 +1746,11 @@
 			</release>
 			<url>http://www.7digital.com/artists/jimi-hendrix/the-jimi-hendrix-experience-box-set/410-Come-Down-Hard-On-Me-(Electric-Lady-Studios-New-York-NY-July-15-1970)/?partner=712</url>
 			<price>
-				<currency code="GBP">&#163;</currency>
+				<currency code="GBP">£</currency>
 				<value>0.99</value>
-				<formattedPrice>&#163;0.99</formattedPrice>
+				<formattedPrice>£0.99</formattedPrice>
 				<rrp>0.99</rrp>
-				<formattedRrp>&#163;0.99</formattedRrp>
+				<formattedRrp>£0.99</formattedRrp>
 				<onSale>false</onSale>
 			</price>
 		</track>
@@ -1768,7 +1768,7 @@
 			<isrc>USQX90900960</isrc>
 			<release id="671859">
 				<title>The Jimi Hendrix Experience (Box Set)</title>
-				<version></version>
+				<version/>
 				<type>Album</type>
 				<barcode>884977422931</barcode>
 				<artist id="32">
@@ -1781,11 +1781,11 @@
 			</release>
 			<url>http://www.7digital.com/artists/jimi-hendrix/the-jimi-hendrix-experience-box-set/411-Hey-Baby-In-From-The-Storm-(Maui-Hawaii-July-30-1970)/?partner=712</url>
 			<price>
-				<currency code="GBP">&#163;</currency>
+				<currency code="GBP">£</currency>
 				<value>0.99</value>
-				<formattedPrice>&#163;0.99</formattedPrice>
+				<formattedPrice>£0.99</formattedPrice>
 				<rrp>0.99</rrp>
-				<formattedRrp>&#163;0.99</formattedRrp>
+				<formattedRrp>£0.99</formattedRrp>
 				<onSale>false</onSale>
 			</price>
 		</track>
@@ -1803,7 +1803,7 @@
 			<isrc>USQX90900961</isrc>
 			<release id="671859">
 				<title>The Jimi Hendrix Experience (Box Set)</title>
-				<version></version>
+				<version/>
 				<type>Album</type>
 				<barcode>884977422931</barcode>
 				<artist id="32">
@@ -1816,11 +1816,11 @@
 			</release>
 			<url>http://www.7digital.com/artists/jimi-hendrix/the-jimi-hendrix-experience-box-set/412-Ezy-Ryder-(Record-Plant-New-York-NY-December-18-1969)/?partner=712</url>
 			<price>
-				<currency code="GBP">&#163;</currency>
+				<currency code="GBP">£</currency>
 				<value>0.99</value>
-				<formattedPrice>&#163;0.99</formattedPrice>
+				<formattedPrice>£0.99</formattedPrice>
 				<rrp>0.99</rrp>
-				<formattedRrp>&#163;0.99</formattedRrp>
+				<formattedRrp>£0.99</formattedRrp>
 				<onSale>false</onSale>
 			</price>
 		</track>
@@ -1838,7 +1838,7 @@
 			<isrc>USQX90900962</isrc>
 			<release id="671859">
 				<title>The Jimi Hendrix Experience (Box Set)</title>
-				<version></version>
+				<version/>
 				<type>Album</type>
 				<barcode>884977422931</barcode>
 				<artist id="32">
@@ -1851,11 +1851,11 @@
 			</release>
 			<url>http://www.7digital.com/artists/jimi-hendrix/the-jimi-hendrix-experience-box-set/413-Night-Bird-Flying-(Electric-Lady-Studios-New-York-NY-June-16-1970)/?partner=712</url>
 			<price>
-				<currency code="GBP">&#163;</currency>
+				<currency code="GBP">£</currency>
 				<value>0.99</value>
-				<formattedPrice>&#163;0.99</formattedPrice>
+				<formattedPrice>£0.99</formattedPrice>
 				<rrp>0.99</rrp>
-				<formattedRrp>&#163;0.99</formattedRrp>
+				<formattedRrp>£0.99</formattedRrp>
 				<onSale>false</onSale>
 			</price>
 		</track>
@@ -1873,7 +1873,7 @@
 			<isrc>USQX90900963</isrc>
 			<release id="671859">
 				<title>The Jimi Hendrix Experience (Box Set)</title>
-				<version></version>
+				<version/>
 				<type>Album</type>
 				<barcode>884977422931</barcode>
 				<artist id="32">
@@ -1886,11 +1886,11 @@
 			</release>
 			<url>http://www.7digital.com/artists/jimi-hendrix/the-jimi-hendrix-experience-box-set/414-All-Along-The-Watchtower-(Isle-Of-Wight-England-UK-August-30-1970)/?partner=712</url>
 			<price>
-				<currency code="GBP">&#163;</currency>
+				<currency code="GBP">£</currency>
 				<value>0.99</value>
-				<formattedPrice>&#163;0.99</formattedPrice>
+				<formattedPrice>£0.99</formattedPrice>
 				<rrp>0.99</rrp>
-				<formattedRrp>&#163;0.99</formattedRrp>
+				<formattedRrp>£0.99</formattedRrp>
 				<onSale>false</onSale>
 			</price>
 		</track>
@@ -1908,7 +1908,7 @@
 			<isrc>USQX90900964</isrc>
 			<release id="671859">
 				<title>The Jimi Hendrix Experience (Box Set)</title>
-				<version></version>
+				<version/>
 				<type>Album</type>
 				<barcode>884977422931</barcode>
 				<artist id="32">
@@ -1921,11 +1921,11 @@
 			</release>
 			<url>http://www.7digital.com/artists/jimi-hendrix/the-jimi-hendrix-experience-box-set/415-In-From-The-Storm-(Isle-Of-Wight-England-UK-August-30-1970)/?partner=712</url>
 			<price>
-				<currency code="GBP">&#163;</currency>
+				<currency code="GBP">£</currency>
 				<value>0.99</value>
-				<formattedPrice>&#163;0.99</formattedPrice>
+				<formattedPrice>£0.99</formattedPrice>
 				<rrp>0.99</rrp>
-				<formattedRrp>&#163;0.99</formattedRrp>
+				<formattedRrp>£0.99</formattedRrp>
 				<onSale>false</onSale>
 			</price>
 		</track>
@@ -1943,7 +1943,7 @@
 			<isrc>USQX90900965</isrc>
 			<release id="671859">
 				<title>The Jimi Hendrix Experience (Box Set)</title>
-				<version></version>
+				<version/>
 				<type>Album</type>
 				<barcode>884977422931</barcode>
 				<artist id="32">
@@ -1956,11 +1956,11 @@
 			</release>
 			<url>http://www.7digital.com/artists/jimi-hendrix/the-jimi-hendrix-experience-box-set/416-Slow-Blues-(Electric-Lady-Studios-New-York-NY-August-20-1970)/?partner=712</url>
 			<price>
-				<currency code="GBP">&#163;</currency>
+				<currency code="GBP">£</currency>
 				<value>0.99</value>
-				<formattedPrice>&#163;0.99</formattedPrice>
+				<formattedPrice>£0.99</formattedPrice>
 				<rrp>0.99</rrp>
-				<formattedRrp>&#163;0.99</formattedRrp>
+				<formattedRrp>£0.99</formattedRrp>
 				<onSale>false</onSale>
 			</price>
 		</track>

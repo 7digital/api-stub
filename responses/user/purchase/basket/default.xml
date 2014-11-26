@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="utf-8" ?>
-<response status="ok" version="1.2"
-xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://purchasing-api.7digital.live/1.0/static/7digitalAPI.xsd" >
+<?xml version="1.0" encoding="utf-8"?>
+<response xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" status="ok" version="1.2" xsi:noNamespaceSchemaLocation="http://purchasing-api.7digital.live/1.0/static/7digitalAPI.xsd">
 	<purchase id="1">
 		<purchaseDate>2009-08-10T11:00:00+01:00</purchaseDate>
 		<lockerReleases>
@@ -26,7 +25,7 @@ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocat
 					<lockerTrack>
 						<track id="3615513">
 							<title>Spiralling</title>
-							<version></version>
+							<version/>
 							<artist id="1">
 								<name>Keane</name>
 								<appearsAs>Keane</appearsAs>
@@ -52,7 +51,7 @@ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocat
 					<lockerTrack>
 						<track id="3615515">
 							<title>The Lovers Are Losing</title>
-							<version></version>
+							<version/>
 							<artist id="1">
 								<name>Keane</name>
 								<appearsAs>Keane</appearsAs>
@@ -78,7 +77,7 @@ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocat
 					<lockerTrack>
 						<track id="3615516">
 							<title>Better Than This</title>
-							<version></version>
+							<version/>
 							<artist id="1">
 								<name>Keane</name>
 								<appearsAs>Keane</appearsAs>
@@ -103,8 +102,8 @@ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocat
 					</lockerTrack>
 					<lockerTrack>
 						<track id="3615518">
-							<title>You Haven&#39;t Told Me Anything</title>
-							<version></version>
+							<title>You Haven't Told Me Anything</title>
+							<version/>
 							<artist id="1">
 								<name>Keane</name>
 								<appearsAs>Keane</appearsAs>
@@ -130,7 +129,7 @@ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocat
 					<lockerTrack>
 						<track id="3615519">
 							<title>Perfect Symmetry</title>
-							<version></version>
+							<version/>
 							<artist id="1">
 								<name>Keane</name>
 								<appearsAs>Keane</appearsAs>
@@ -155,8 +154,8 @@ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocat
 					</lockerTrack>
 					<lockerTrack>
 						<track id="3615520">
-							<title>You Don&#39;t See Me</title>
-							<version></version>
+							<title>You Don't See Me</title>
+							<version/>
 							<artist id="1">
 								<name>Keane</name>
 								<appearsAs>Keane</appearsAs>
@@ -182,7 +181,7 @@ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocat
 					<lockerTrack>
 						<track id="3615522">
 							<title>Again &amp; Again</title>
-							<version></version>
+							<version/>
 							<artist id="1">
 								<name>Keane</name>
 								<appearsAs>Keane</appearsAs>
@@ -208,7 +207,7 @@ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocat
 					<lockerTrack>
 						<track id="3615523">
 							<title>Playing Along</title>
-							<version></version>
+							<version/>
 							<artist id="1">
 								<name>Keane</name>
 								<appearsAs>Keane</appearsAs>
@@ -233,8 +232,8 @@ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocat
 					</lockerTrack>
 					<lockerTrack>
 						<track id="3615524">
-							<title>Pretend That You&#39;re Alone</title>
-							<version></version>
+							<title>Pretend That You're Alone</title>
+							<version/>
 							<artist id="1">
 								<name>Keane</name>
 								<appearsAs>Keane</appearsAs>
@@ -260,7 +259,7 @@ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocat
 					<lockerTrack>
 						<track id="3615526">
 							<title>Black Burning Heart</title>
-							<version></version>
+							<version/>
 							<artist id="1">
 								<name>Keane</name>
 								<appearsAs>Keane</appearsAs>
@@ -286,7 +285,7 @@ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocat
 					<lockerTrack>
 						<track id="3615527">
 							<title>Love Is The End</title>
-							<version></version>
+							<version/>
 							<artist id="1">
 								<name>Keane</name>
 								<appearsAs>Keane</appearsAs>

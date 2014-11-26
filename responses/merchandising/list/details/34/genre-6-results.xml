@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<response status="ok" version="1.2" xsi:noNamespaceSchemaLocation="http://api.7digital.com/1.2/static/7digitalAPI.xsd" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<response xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" status="ok" version="1.2" xsi:noNamespaceSchemaLocation="http://api.7digital.com/1.2/static/7digitalAPI.xsd">
 	<list id="833">
 		<key>genre-6-results</key>
 		<listItems>
@@ -44,7 +44,7 @@
 				<type>release</type>
 				<release id="1214168">
 					<title>Eurovision Song Contest Düsseldorf 2011</title>
-					<version />
+					<version/>
 					<type>Album</type>
 					<barcode>5099909705654</barcode>
 					<year>2011</year>
@@ -81,7 +81,7 @@
 				<type>release</type>
 				<release id="1279359">
 					<title>Seven Rainbows</title>
-					<version />
+					<version/>
 					<type>Album</type>
 					<barcode>00602527708621</barcode>
 					<year>2011</year>
@@ -95,7 +95,7 @@
 					<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/012/793/0001279359_50.jpg</image>
 					<releaseDate>2011-07-04T00:00:00+01:00</releaseDate>
 					<price>
-						<currency code="GBP" />
+						<currency code="GBP"/>
 						<value>N/A</value>
 						<formattedPrice>N/A</formattedPrice>
 						<rrp>N/A</rrp>
@@ -118,7 +118,7 @@
 				<type>release</type>
 				<release id="1246693">
 					<title>Louder</title>
-					<version />
+					<version/>
 					<type>Single</type>
 					<barcode>5051823027144</barcode>
 					<year>2011</year>
@@ -132,7 +132,7 @@
 					<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/012/466/0001246693_50.jpg</image>
 					<releaseDate>2011-07-03T00:00:00+01:00</releaseDate>
 					<price>
-						<currency code="GBP" />
+						<currency code="GBP"/>
 						<value>N/A</value>
 						<formattedPrice>N/A</formattedPrice>
 						<rrp>N/A</rrp>
@@ -160,7 +160,7 @@
 				<type>release</type>
 				<release id="1245091">
 					<title>Adulthood</title>
-					<version />
+					<version/>
 					<type>Album</type>
 					<barcode>00602527703435</barcode>
 					<year>2011</year>
@@ -174,11 +174,11 @@
 					<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/012/450/0001245091_50.jpg</image>
 					<releaseDate>2011-05-23T00:00:00+01:00</releaseDate>
 					<price>
-						<currency code="GBP" />
-						<value></value>
-						<formattedPrice></formattedPrice>
-						<rrp></rrp>
-						<formattedRrp></formattedRrp>
+						<currency code="GBP"/>
+						<value/>
+						<formattedPrice/>
+						<rrp/>
+						<formattedRrp/>
 						<onSale>false</onSale>
 					</price>
 					<formats availableDrmFree="true">
@@ -197,7 +197,7 @@
 				<type>release</type>
 				<release id="1212194">
 					<title>One Thousand Pictures</title>
-					<version />
+					<version/>
 					<type>Album</type>
 					<barcode>5065001043949</barcode>
 					<year>2011</year>
@@ -211,7 +211,7 @@
 					<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/012/121/0001212194_50.jpg</image>
 					<releaseDate>2011-05-23T00:00:00+01:00</releaseDate>
 					<price>
-						<currency code="GBP" />
+						<currency code="GBP"/>
 						<value>7.99</value>
 						<formattedPrice>£7.99</formattedPrice>
 						<rrp>7.99</rrp>
