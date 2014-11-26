@@ -35,7 +35,27 @@
 					<popularity>0</popularity>
 				</release>
 				<url>http://www.7digital.com/artists/kylie/spinning-around?h=01</url>
-				<price xsi:nil="true"/>
+				<price xsi:nil="true">
+					<rrp/>
+					<formattedRrp/>
+				</price>
+				<download>
+					<packages>
+						<package id="2">
+							<description>standard</description>
+							<price>
+								<currencyCode/>
+								<sevendigitalPrice xsi:nil="true"/>
+								<recommendedRetailPrice xsi:nil="true"/>
+							</price>
+							<formats>
+								<format id="17">
+									<description>MP3 320</description>
+								</format>
+							</formats>
+						</package>
+					</packages>
+				</download>
 			</track>
 		</searchResult>
 	</searchResults>

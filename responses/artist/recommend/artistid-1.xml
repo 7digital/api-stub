@@ -37,6 +37,9 @@
 								<sevendigitalPrice>7.99</sevendigitalPrice>
 								<recommendedRetailPrice>7.99</recommendedRetailPrice>
 							</price>
+							<format id="17">
+								<description>MP3 320</description>
+							</format>
 						</package>
 					</packages>
 				</download>
@@ -85,6 +88,9 @@
 								<sevendigitalPrice xsi:nil="true"/>
 								<recommendedRetailPrice xsi:nil="true"/>
 							</price>
+							<format id="17">
+								<description>MP3 320</description>
+							</format>
 						</package>
 					</packages>
 				</download>
@@ -133,6 +139,9 @@
 								<sevendigitalPrice>14.99</sevendigitalPrice>
 								<recommendedRetailPrice>14.99</recommendedRetailPrice>
 							</price>
+							<format id="17">
+								<description>MP3 320</description>
+							</format>
 						</package>
 					</packages>
 				</download>
@@ -181,6 +190,9 @@
 								<sevendigitalPrice>7.99</sevendigitalPrice>
 								<recommendedRetailPrice>7.99</recommendedRetailPrice>
 							</price>
+							<format id="48">
+								<description>MP3 256</description>
+							</format>
 						</package>
 					</packages>
 				</download>
@@ -229,6 +241,12 @@
 								<sevendigitalPrice>10.99</sevendigitalPrice>
 								<recommendedRetailPrice>10.99</recommendedRetailPrice>
 							</price>
+							<format id="17">
+								<description>MP3 320</description>
+							</format>
+							<format id="33">
+								<description>M4A 320</description>
+							</format>
 						</package>
 					</packages>
 				</download>
@@ -282,6 +300,9 @@
 								<sevendigitalPrice>8.49</sevendigitalPrice>
 								<recommendedRetailPrice>8.49</recommendedRetailPrice>
 							</price>
+							<format id="17">
+								<description>MP3 320</description>
+							</format>
 						</package>
 					</packages>
 				</download>
@@ -330,6 +351,12 @@
 								<sevendigitalPrice>2.29</sevendigitalPrice>
 								<recommendedRetailPrice>2.29</recommendedRetailPrice>
 							</price>
+							<format id="17">
+								<description>MP3 320</description>
+							</format>
+							<format id="33">
+								<description>M4A 320</description>
+							</format>
 						</package>
 					</packages>
 				</download>
@@ -383,6 +410,9 @@
 								<sevendigitalPrice>5.49</sevendigitalPrice>
 								<recommendedRetailPrice>5.49</recommendedRetailPrice>
 							</price>
+							<format id="48">
+								<description>MP3 256</description>
+							</format>
 						</package>
 					</packages>
 				</download>
@@ -431,6 +461,9 @@
 								<sevendigitalPrice>0.99</sevendigitalPrice>
 								<recommendedRetailPrice>0.99</recommendedRetailPrice>
 							</price>
+							<format id="17">
+								<description>MP3 320</description>
+							</format>
 						</package>
 					</packages>
 				</download>
@@ -479,6 +512,15 @@
 								<sevendigitalPrice>8.99</sevendigitalPrice>
 								<recommendedRetailPrice>8.99</recommendedRetailPrice>
 							</price>
+							<format id="52">
+								<description>FLAC </description>
+							</format>
+							<format id="17">
+								<description>MP3 320</description>
+							</format>
+							<format id="33">
+								<description>M4A 320</description>
+							</format>
 						</package>
 					</packages>
 				</download>

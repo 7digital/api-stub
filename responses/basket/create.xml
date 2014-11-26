@@ -9,6 +9,23 @@
 			<rrp>0</rrp>
 			<formattedRrp>£0.00</formattedRrp>
 		</price>
+		<download>
+			<packages>
+				<package id="2">
+					<description>standard</description>
+					<price>
+						<currencyCode>GBP</currencyCode>
+						<sevendigitalPrice>0</sevendigitalPrice>
+						<recommendedRetailPrice>0</recommendedRetailPrice>
+					</price>
+					<formats>
+						<format id="17">
+							<description>MP3 320</description>
+						</format>
+					</formats>
+				</package>
+			</packages>
+		</download>
 		<basketItems/>
 		<amountDue>
 			<currency code="GBP">£</currency>

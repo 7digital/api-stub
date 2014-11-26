@@ -55,6 +55,12 @@
 						<sevendigitalPrice>5.99</sevendigitalPrice>
 						<recommendedRetailPrice>7.99</recommendedRetailPrice>
 					</price>
+					<format id="17">
+						<description>MP3 320</description>
+					</format>
+					<format id="33">
+						<description>M4A 320</description>
+					</format>
 					<formats>
 						<format id="17">
 							<description>MP3 320</description>

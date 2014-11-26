@@ -38,6 +38,23 @@
 				<formattedRrp>£0.99</formattedRrp>
 				<onSale>false</onSale>
 			</price>
+			<download>
+				<packages>
+					<package id="2">
+						<description>standard</description>
+						<price>
+							<currencyCode>GBP</currencyCode>
+							<sevendigitalPrice>0.99</sevendigitalPrice>
+							<recommendedRetailPrice>0.99</recommendedRetailPrice>
+						</price>
+						<formats>
+							<format id="17">
+								<description>MP3 320</description>
+							</format>
+						</formats>
+					</package>
+				</packages>
+			</download>
 		</track>
 		<track id="2">
 			<title>Item 2</title>
@@ -73,6 +90,23 @@
 				<formattedRrp>£0.99</formattedRrp>
 				<onSale>false</onSale>
 			</price>
+			<download>
+				<packages>
+					<package id="2">
+						<description>standard</description>
+						<price>
+							<currencyCode>GBP</currencyCode>
+							<sevendigitalPrice>0.99</sevendigitalPrice>
+							<recommendedRetailPrice>0.99</recommendedRetailPrice>
+						</price>
+						<formats>
+							<format id="17">
+								<description>MP3 320</description>
+							</format>
+						</formats>
+					</package>
+				</packages>
+			</download>
 		</track>
 		<track id="3">
 			<title>Item 3</title>
@@ -108,6 +142,23 @@
 				<formattedRrp>£0.99</formattedRrp>
 				<onSale>false</onSale>
 			</price>
+			<download>
+				<packages>
+					<package id="2">
+						<description>standard</description>
+						<price>
+							<currencyCode>GBP</currencyCode>
+							<sevendigitalPrice>0.99</sevendigitalPrice>
+							<recommendedRetailPrice>0.99</recommendedRetailPrice>
+						</price>
+						<formats>
+							<format id="17">
+								<description>MP3 320</description>
+							</format>
+						</formats>
+					</package>
+				</packages>
+			</download>
 		</track>
 		<track id="4">
 			<title>Item 4</title>
@@ -143,6 +194,23 @@
 				<formattedRrp>£0.99</formattedRrp>
 				<onSale>false</onSale>
 			</price>
+			<download>
+				<packages>
+					<package id="2">
+						<description>standard</description>
+						<price>
+							<currencyCode>GBP</currencyCode>
+							<sevendigitalPrice>0.99</sevendigitalPrice>
+							<recommendedRetailPrice>0.99</recommendedRetailPrice>
+						</price>
+						<formats>
+							<format id="17">
+								<description>MP3 320</description>
+							</format>
+						</formats>
+					</package>
+				</packages>
+			</download>
 		</track>
 		<track id="5">
 			<title>Item 5</title>
@@ -178,6 +246,23 @@
 				<formattedRrp>£0.99</formattedRrp>
 				<onSale>false</onSale>
 			</price>
+			<download>
+				<packages>
+					<package id="2">
+						<description>standard</description>
+						<price>
+							<currencyCode>GBP</currencyCode>
+							<sevendigitalPrice>0.99</sevendigitalPrice>
+							<recommendedRetailPrice>0.99</recommendedRetailPrice>
+						</price>
+						<formats>
+							<format id="17">
+								<description>MP3 320</description>
+							</format>
+						</formats>
+					</package>
+				</packages>
+			</download>
 		</track>
 	</tracks>
 </response>

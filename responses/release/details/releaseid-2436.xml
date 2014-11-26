@@ -24,6 +24,23 @@
 			<formattedRrp>£2.99</formattedRrp>
 			<onSale>false</onSale>
 		</price>
+		<download>
+			<packages>
+				<package id="2">
+					<description>standard</description>
+					<price>
+						<currencyCode>GBP</currencyCode>
+						<sevendigitalPrice>2.99</sevendigitalPrice>
+						<recommendedRetailPrice>2.99</recommendedRetailPrice>
+					</price>
+					<formats>
+						<format id="17">
+							<description>MP3 320</description>
+						</format>
+					</formats>
+				</package>
+			</packages>
+		</download>
 		<formats availableDrmFree="true">
 			<format id="17">
 				<fileFormat>MP3</fileFormat>

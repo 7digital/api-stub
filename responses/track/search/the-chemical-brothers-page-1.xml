@@ -50,6 +50,23 @@
 					<formattedRrp>£0.99</formattedRrp>
 					<onSale>false</onSale>
 				</price>
+				<download>
+					<packages>
+						<package id="2">
+							<description>standard</description>
+							<price>
+								<currencyCode>GBP</currencyCode>
+								<sevendigitalPrice>0.99</sevendigitalPrice>
+								<recommendedRetailPrice>0.99</recommendedRetailPrice>
+							</price>
+							<formats>
+								<format id="17">
+									<description>MP3 320</description>
+								</format>
+							</formats>
+						</package>
+					</packages>
+				</download>
 				<streamingReleaseDate>2003-03-03T00:00:00+00:00</streamingReleaseDate>
 				<discNumber>1</discNumber>
 				<popularity>0.46</popularity>
@@ -101,6 +118,23 @@
 					<formattedRrp>£0.99</formattedRrp>
 					<onSale>false</onSale>
 				</price>
+				<download>
+					<packages>
+						<package id="2">
+							<description>standard</description>
+							<price>
+								<currencyCode>GBP</currencyCode>
+								<sevendigitalPrice>0.99</sevendigitalPrice>
+								<recommendedRetailPrice>0.99</recommendedRetailPrice>
+							</price>
+							<formats>
+								<format id="17">
+									<description>MP3 320</description>
+								</format>
+							</formats>
+						</package>
+					</packages>
+				</download>
 				<streamingReleaseDate>2008-09-01T00:00:00+01:00</streamingReleaseDate>
 				<discNumber>1</discNumber>
 				<popularity>0.45</popularity>
@@ -150,7 +184,25 @@
 					<formattedPrice>£0.99</formattedPrice>
 					<rrp>0.99</rrp>
 					<onSale>false</onSale>
+					<formattedRrp>£0.99</formattedRrp>
 				</price>
+				<download>
+					<packages>
+						<package id="2">
+							<description>standard</description>
+							<price>
+								<currencyCode>GBP</currencyCode>
+								<sevendigitalPrice>0.99</sevendigitalPrice>
+								<recommendedRetailPrice>0.99</recommendedRetailPrice>
+							</price>
+							<formats>
+								<format id="17">
+									<description>MP3 320</description>
+								</format>
+							</formats>
+						</package>
+					</packages>
+				</download>
 				<streamingReleaseDate>2005-01-24T00:00:00+00:00</streamingReleaseDate>
 				<discNumber>1</discNumber>
 				<popularity>0.43</popularity>
@@ -202,6 +254,23 @@
 					<formattedRrp>£0.99</formattedRrp>
 					<onSale>false</onSale>
 				</price>
+				<download>
+					<packages>
+						<package id="2">
+							<description>standard</description>
+							<price>
+								<currencyCode>GBP</currencyCode>
+								<sevendigitalPrice>0.99</sevendigitalPrice>
+								<recommendedRetailPrice>0.99</recommendedRetailPrice>
+							</price>
+							<formats>
+								<format id="17">
+									<description>MP3 320</description>
+								</format>
+							</formats>
+						</package>
+					</packages>
+				</download>
 				<streamingReleaseDate>2010-06-14T00:00:00+01:00</streamingReleaseDate>
 				<discNumber>1</discNumber>
 				<popularity>0.43</popularity>
@@ -251,7 +320,25 @@
 					<formattedPrice>£0.99</formattedPrice>
 					<rrp>0.99</rrp>
 					<onSale>false</onSale>
+					<formattedRrp>£0.99</formattedRrp>
 				</price>
+				<download>
+					<packages>
+						<package id="2">
+							<description>standard</description>
+							<price>
+								<currencyCode>GBP</currencyCode>
+								<sevendigitalPrice>0.99</sevendigitalPrice>
+								<recommendedRetailPrice>0.99</recommendedRetailPrice>
+							</price>
+							<formats>
+								<format id="17">
+									<description>MP3 320</description>
+								</format>
+							</formats>
+						</package>
+					</packages>
+				</download>
 				<streamingReleaseDate>2004-11-22T00:00:00+00:00</streamingReleaseDate>
 				<discNumber>1</discNumber>
 				<popularity>0.43</popularity>
@@ -303,6 +390,23 @@
 					<formattedRrp>£2.79</formattedRrp>
 					<onSale>false</onSale>
 				</price>
+				<download>
+					<packages>
+						<package id="2">
+							<description>standard</description>
+							<price>
+								<currencyCode>GBP</currencyCode>
+								<sevendigitalPrice>2.79</sevendigitalPrice>
+								<recommendedRetailPrice>2.79</recommendedRetailPrice>
+							</price>
+							<formats>
+								<format id="17">
+									<description>MP3 320</description>
+								</format>
+							</formats>
+						</package>
+					</packages>
+				</download>
 				<streamingReleaseDate>2010-06-14T00:00:00+01:00</streamingReleaseDate>
 				<discNumber>1</discNumber>
 				<popularity>0.41</popularity>
@@ -352,7 +456,25 @@
 					<formattedPrice>£0.99</formattedPrice>
 					<rrp>0.99</rrp>
 					<onSale>false</onSale>
+					<formattedRrp>£0.99</formattedRrp>
 				</price>
+				<download>
+					<packages>
+						<package id="2">
+							<description>standard</description>
+							<price>
+								<currencyCode>GBP</currencyCode>
+								<sevendigitalPrice>0.99</sevendigitalPrice>
+								<recommendedRetailPrice>0.99</recommendedRetailPrice>
+							</price>
+							<formats>
+								<format id="17">
+									<description>MP3 320</description>
+								</format>
+							</formats>
+						</package>
+					</packages>
+				</download>
 				<streamingReleaseDate>2007-05-07T00:00:00+01:00</streamingReleaseDate>
 				<discNumber>1</discNumber>
 				<popularity>0.41</popularity>
@@ -404,6 +526,23 @@
 					<formattedRrp>£0.99</formattedRrp>
 					<onSale>false</onSale>
 				</price>
+				<download>
+					<packages>
+						<package id="2">
+							<description>standard</description>
+							<price>
+								<currencyCode>GBP</currencyCode>
+								<sevendigitalPrice>0.99</sevendigitalPrice>
+								<recommendedRetailPrice>0.99</recommendedRetailPrice>
+							</price>
+							<formats>
+								<format id="17">
+									<description>MP3 320</description>
+								</format>
+							</formats>
+						</package>
+					</packages>
+				</download>
 				<streamingReleaseDate>2008-09-01T00:00:00+01:00</streamingReleaseDate>
 				<discNumber>1</discNumber>
 				<popularity>0.41</popularity>
@@ -453,7 +592,25 @@
 					<formattedPrice>£1.29</formattedPrice>
 					<rrp>1.29</rrp>
 					<onSale>false</onSale>
+					<formattedRrp>£1.29</formattedRrp>
 				</price>
+				<download>
+					<packages>
+						<package id="2">
+							<description>standard</description>
+							<price>
+								<currencyCode>GBP</currencyCode>
+								<sevendigitalPrice>1.29</sevendigitalPrice>
+								<recommendedRetailPrice>1.29</recommendedRetailPrice>
+							</price>
+							<formats>
+								<format id="17">
+									<description>MP3 320</description>
+								</format>
+							</formats>
+						</package>
+					</packages>
+				</download>
 				<streamingReleaseDate>2011-07-04T00:00:00+01:00</streamingReleaseDate>
 				<discNumber>1</discNumber>
 				<popularity>0.41</popularity>
@@ -505,6 +662,23 @@
 					<formattedRrp>£0.99</formattedRrp>
 					<onSale>false</onSale>
 				</price>
+				<download>
+					<packages>
+						<package id="2">
+							<description>standard</description>
+							<price>
+								<currencyCode>GBP</currencyCode>
+								<sevendigitalPrice>0.99</sevendigitalPrice>
+								<recommendedRetailPrice>0.99</recommendedRetailPrice>
+							</price>
+							<formats>
+								<format id="17">
+									<description>MP3 320</description>
+								</format>
+							</formats>
+						</package>
+					</packages>
+				</download>
 				<streamingReleaseDate>2010-06-14T00:00:00+01:00</streamingReleaseDate>
 				<discNumber>1</discNumber>
 				<popularity>0.4</popularity>
@@ -554,7 +728,25 @@
 					<formattedPrice>£0.99</formattedPrice>
 					<rrp>0.99</rrp>
 					<onSale>false</onSale>
+					<formattedRrp>£0.99</formattedRrp>
 				</price>
+				<download>
+					<packages>
+						<package id="2">
+							<description>standard</description>
+							<price>
+								<currencyCode>GBP</currencyCode>
+								<sevendigitalPrice>0.99</sevendigitalPrice>
+								<recommendedRetailPrice>0.99</recommendedRetailPrice>
+							</price>
+							<formats>
+								<format id="17">
+									<description>MP3 320</description>
+								</format>
+							</formats>
+						</package>
+					</packages>
+				</download>
 				<streamingReleaseDate>2010-06-14T00:00:00+01:00</streamingReleaseDate>
 				<discNumber>1</discNumber>
 				<popularity>0.39</popularity>
@@ -606,6 +798,23 @@
 					<formattedRrp>£0.99</formattedRrp>
 					<onSale>false</onSale>
 				</price>
+				<download>
+					<packages>
+						<package id="2">
+							<description>standard</description>
+							<price>
+								<currencyCode>GBP</currencyCode>
+								<sevendigitalPrice>0.99</sevendigitalPrice>
+								<recommendedRetailPrice>0.99</recommendedRetailPrice>
+							</price>
+							<formats>
+								<format id="17">
+									<description>MP3 320</description>
+								</format>
+							</formats>
+						</package>
+					</packages>
+				</download>
 				<streamingReleaseDate>2010-06-14T00:00:00+01:00</streamingReleaseDate>
 				<discNumber>1</discNumber>
 				<popularity>0.39</popularity>
@@ -655,7 +864,25 @@
 					<formattedPrice>£0.99</formattedPrice>
 					<rrp>0.99</rrp>
 					<onSale>false</onSale>
+					<formattedRrp>£0.99</formattedRrp>
 				</price>
+				<download>
+					<packages>
+						<package id="2">
+							<description>standard</description>
+							<price>
+								<currencyCode>GBP</currencyCode>
+								<sevendigitalPrice>0.99</sevendigitalPrice>
+								<recommendedRetailPrice>0.99</recommendedRetailPrice>
+							</price>
+							<formats>
+								<format id="17">
+									<description>MP3 320</description>
+								</format>
+							</formats>
+						</package>
+					</packages>
+				</download>
 				<streamingReleaseDate>2008-09-01T00:00:00+01:00</streamingReleaseDate>
 				<discNumber>1</discNumber>
 				<popularity>0.39</popularity>
@@ -707,6 +934,23 @@
 					<formattedRrp>£0.99</formattedRrp>
 					<onSale>false</onSale>
 				</price>
+				<download>
+					<packages>
+						<package id="2">
+							<description>standard</description>
+							<price>
+								<currencyCode>GBP</currencyCode>
+								<sevendigitalPrice>0.99</sevendigitalPrice>
+								<recommendedRetailPrice>0.99</recommendedRetailPrice>
+							</price>
+							<formats>
+								<format id="17">
+									<description>MP3 320</description>
+								</format>
+							</formats>
+						</package>
+					</packages>
+				</download>
 				<streamingReleaseDate>2008-09-01T00:00:00+01:00</streamingReleaseDate>
 				<discNumber>1</discNumber>
 				<popularity>0.39</popularity>
@@ -756,7 +1000,25 @@
 					<formattedPrice>£0.99</formattedPrice>
 					<rrp>0.99</rrp>
 					<onSale>false</onSale>
+					<formattedRrp>£0.99</formattedRrp>
 				</price>
+				<download>
+					<packages>
+						<package id="2">
+							<description>standard</description>
+							<price>
+								<currencyCode>GBP</currencyCode>
+								<sevendigitalPrice>0.99</sevendigitalPrice>
+								<recommendedRetailPrice>0.99</recommendedRetailPrice>
+							</price>
+							<formats>
+								<format id="17">
+									<description>MP3 320</description>
+								</format>
+							</formats>
+						</package>
+					</packages>
+				</download>
 				<streamingReleaseDate>2008-09-01T00:00:00+01:00</streamingReleaseDate>
 				<discNumber>2</discNumber>
 				<popularity>0.39</popularity>
@@ -808,6 +1070,23 @@
 					<formattedRrp>£0.99</formattedRrp>
 					<onSale>false</onSale>
 				</price>
+				<download>
+					<packages>
+						<package id="2">
+							<description>standard</description>
+							<price>
+								<currencyCode>GBP</currencyCode>
+								<sevendigitalPrice>0.99</sevendigitalPrice>
+								<recommendedRetailPrice>0.99</recommendedRetailPrice>
+							</price>
+							<formats>
+								<format id="17">
+									<description>MP3 320</description>
+								</format>
+							</formats>
+						</package>
+					</packages>
+				</download>
 				<streamingReleaseDate>2008-09-01T00:00:00+01:00</streamingReleaseDate>
 				<discNumber>1</discNumber>
 				<popularity>0.39</popularity>
@@ -857,7 +1136,25 @@
 					<formattedPrice>£0.99</formattedPrice>
 					<rrp>0.99</rrp>
 					<onSale>false</onSale>
+					<formattedRrp>£0.99</formattedRrp>
 				</price>
+				<download>
+					<packages>
+						<package id="2">
+							<description>standard</description>
+							<price>
+								<currencyCode>GBP</currencyCode>
+								<sevendigitalPrice>0.99</sevendigitalPrice>
+								<recommendedRetailPrice>0.99</recommendedRetailPrice>
+							</price>
+							<formats>
+								<format id="17">
+									<description>MP3 320</description>
+								</format>
+							</formats>
+						</package>
+					</packages>
+				</download>
 				<streamingReleaseDate>2008-09-01T00:00:00+01:00</streamingReleaseDate>
 				<discNumber>1</discNumber>
 				<popularity>0.39</popularity>
@@ -909,6 +1206,23 @@
 					<formattedRrp>£1.29</formattedRrp>
 					<onSale>false</onSale>
 				</price>
+				<download>
+					<packages>
+						<package id="2">
+							<description>standard</description>
+							<price>
+								<currencyCode>GBP</currencyCode>
+								<sevendigitalPrice>1.29</sevendigitalPrice>
+								<recommendedRetailPrice>1.29</recommendedRetailPrice>
+							</price>
+							<formats>
+								<format id="17">
+									<description>MP3 320</description>
+								</format>
+							</formats>
+						</package>
+					</packages>
+				</download>
 				<streamingReleaseDate>2011-07-04T00:00:00+01:00</streamingReleaseDate>
 				<discNumber>1</discNumber>
 				<popularity>0.38</popularity>
@@ -958,7 +1272,25 @@
 					<formattedPrice>£0.99</formattedPrice>
 					<rrp>0.99</rrp>
 					<onSale>false</onSale>
+					<formattedRrp>£0.99</formattedRrp>
 				</price>
+				<download>
+					<packages>
+						<package id="2">
+							<description>standard</description>
+							<price>
+								<currencyCode>GBP</currencyCode>
+								<sevendigitalPrice>0.99</sevendigitalPrice>
+								<recommendedRetailPrice>0.99</recommendedRetailPrice>
+							</price>
+							<formats>
+								<format id="17">
+									<description>MP3 320</description>
+								</format>
+							</formats>
+						</package>
+					</packages>
+				</download>
 				<streamingReleaseDate>2003-03-03T00:00:00+00:00</streamingReleaseDate>
 				<discNumber>1</discNumber>
 				<popularity>0.38</popularity>
@@ -1010,6 +1342,23 @@
 					<formattedRrp>£0.99</formattedRrp>
 					<onSale>false</onSale>
 				</price>
+				<download>
+					<packages>
+						<package id="2">
+							<description>standard</description>
+							<price>
+								<currencyCode>GBP</currencyCode>
+								<sevendigitalPrice>0.99</sevendigitalPrice>
+								<recommendedRetailPrice>0.99</recommendedRetailPrice>
+							</price>
+							<formats>
+								<format id="17">
+									<description>MP3 320</description>
+								</format>
+							</formats>
+						</package>
+					</packages>
+				</download>
 				<streamingReleaseDate>2010-06-14T00:00:00+01:00</streamingReleaseDate>
 				<discNumber>1</discNumber>
 				<popularity>0.38</popularity>
@@ -1059,7 +1408,25 @@
 					<formattedPrice>£0.99</formattedPrice>
 					<rrp>0.99</rrp>
 					<onSale>false</onSale>
+					<formattedRrp>£0.99</formattedRrp>
 				</price>
+				<download>
+					<packages>
+						<package id="2">
+							<description>standard</description>
+							<price>
+								<currencyCode>GBP</currencyCode>
+								<sevendigitalPrice>0.99</sevendigitalPrice>
+								<recommendedRetailPrice>0.99</recommendedRetailPrice>
+							</price>
+							<formats>
+								<format id="17">
+									<description>MP3 320</description>
+								</format>
+							</formats>
+						</package>
+					</packages>
+				</download>
 				<streamingReleaseDate>2010-06-14T00:00:00+01:00</streamingReleaseDate>
 				<discNumber>1</discNumber>
 				<popularity>0.38</popularity>
@@ -1111,6 +1478,23 @@
 					<formattedRrp>£0.99</formattedRrp>
 					<onSale>false</onSale>
 				</price>
+				<download>
+					<packages>
+						<package id="2">
+							<description>standard</description>
+							<price>
+								<currencyCode>GBP</currencyCode>
+								<sevendigitalPrice>0.99</sevendigitalPrice>
+								<recommendedRetailPrice>0.99</recommendedRetailPrice>
+							</price>
+							<formats>
+								<format id="17">
+									<description>MP3 320</description>
+								</format>
+							</formats>
+						</package>
+					</packages>
+				</download>
 				<streamingReleaseDate>2003-03-03T00:00:00+00:00</streamingReleaseDate>
 				<discNumber>1</discNumber>
 				<popularity>0.38</popularity>
@@ -1160,7 +1544,25 @@
 					<formattedPrice>£0.99</formattedPrice>
 					<rrp>0.99</rrp>
 					<onSale>false</onSale>
+					<formattedRrp>£0.99</formattedRrp>
 				</price>
+				<download>
+					<packages>
+						<package id="2">
+							<description>standard</description>
+							<price>
+								<currencyCode>GBP</currencyCode>
+								<sevendigitalPrice>0.99</sevendigitalPrice>
+								<recommendedRetailPrice>0.99</recommendedRetailPrice>
+							</price>
+							<formats>
+								<format id="17">
+									<description>MP3 320</description>
+								</format>
+							</formats>
+						</package>
+					</packages>
+				</download>
 				<streamingReleaseDate>2008-09-01T00:00:00+01:00</streamingReleaseDate>
 				<discNumber>1</discNumber>
 				<popularity>0.38</popularity>
@@ -1212,6 +1614,23 @@
 					<formattedRrp>£1.29</formattedRrp>
 					<onSale>false</onSale>
 				</price>
+				<download>
+					<packages>
+						<package id="2">
+							<description>standard</description>
+							<price>
+								<currencyCode>GBP</currencyCode>
+								<sevendigitalPrice>1.29</sevendigitalPrice>
+								<recommendedRetailPrice>1.29</recommendedRetailPrice>
+							</price>
+							<formats>
+								<format id="17">
+									<description>MP3 320</description>
+								</format>
+							</formats>
+						</package>
+					</packages>
+				</download>
 				<streamingReleaseDate>2011-07-04T00:00:00+01:00</streamingReleaseDate>
 				<discNumber>1</discNumber>
 				<popularity>0.38</popularity>
@@ -1261,7 +1680,25 @@
 					<formattedPrice>£0.99</formattedPrice>
 					<rrp>0.99</rrp>
 					<onSale>false</onSale>
+					<formattedRrp>£0.99</formattedRrp>
 				</price>
+				<download>
+					<packages>
+						<package id="2">
+							<description>standard</description>
+							<price>
+								<currencyCode>GBP</currencyCode>
+								<sevendigitalPrice>0.99</sevendigitalPrice>
+								<recommendedRetailPrice>0.99</recommendedRetailPrice>
+							</price>
+							<formats>
+								<format id="17">
+									<description>MP3 320</description>
+								</format>
+							</formats>
+						</package>
+					</packages>
+				</download>
 				<streamingReleaseDate>2010-06-14T00:00:00+01:00</streamingReleaseDate>
 				<discNumber>1</discNumber>
 				<popularity>0.37</popularity>
@@ -1313,6 +1750,23 @@
 					<formattedRrp>£0.99</formattedRrp>
 					<onSale>false</onSale>
 				</price>
+				<download>
+					<packages>
+						<package id="2">
+							<description>standard</description>
+							<price>
+								<currencyCode>GBP</currencyCode>
+								<sevendigitalPrice>0.99</sevendigitalPrice>
+								<recommendedRetailPrice>0.99</recommendedRetailPrice>
+							</price>
+							<formats>
+								<format id="17">
+									<description>MP3 320</description>
+								</format>
+							</formats>
+						</package>
+					</packages>
+				</download>
 				<streamingReleaseDate>2003-03-03T00:00:00+00:00</streamingReleaseDate>
 				<discNumber>1</discNumber>
 				<popularity>0.37</popularity>
@@ -1362,7 +1816,25 @@
 					<formattedPrice>£0.99</formattedPrice>
 					<rrp>0.99</rrp>
 					<onSale>false</onSale>
+					<formattedRrp>£0.99</formattedRrp>
 				</price>
+				<download>
+					<packages>
+						<package id="2">
+							<description>standard</description>
+							<price>
+								<currencyCode>GBP</currencyCode>
+								<sevendigitalPrice>0.99</sevendigitalPrice>
+								<recommendedRetailPrice>0.99</recommendedRetailPrice>
+							</price>
+							<formats>
+								<format id="17">
+									<description>MP3 320</description>
+								</format>
+							</formats>
+						</package>
+					</packages>
+				</download>
 				<streamingReleaseDate>1999-06-01T00:00:00+01:00</streamingReleaseDate>
 				<discNumber>1</discNumber>
 				<popularity>0.37</popularity>
@@ -1414,6 +1886,23 @@
 					<formattedRrp>£0.99</formattedRrp>
 					<onSale>false</onSale>
 				</price>
+				<download>
+					<packages>
+						<package id="2">
+							<description>standard</description>
+							<price>
+								<currencyCode>GBP</currencyCode>
+								<sevendigitalPrice>0.99</sevendigitalPrice>
+								<recommendedRetailPrice>0.99</recommendedRetailPrice>
+							</price>
+							<formats>
+								<format id="17">
+									<description>MP3 320</description>
+								</format>
+							</formats>
+						</package>
+					</packages>
+				</download>
 				<streamingReleaseDate>2007-05-07T00:00:00+01:00</streamingReleaseDate>
 				<discNumber>1</discNumber>
 				<popularity>0.37</popularity>
@@ -1463,7 +1952,25 @@
 					<formattedPrice>£0.99</formattedPrice>
 					<rrp>0.99</rrp>
 					<onSale>false</onSale>
+					<formattedRrp>£0.99</formattedRrp>
 				</price>
+				<download>
+					<packages>
+						<package id="2">
+							<description>standard</description>
+							<price>
+								<currencyCode>GBP</currencyCode>
+								<sevendigitalPrice>0.99</sevendigitalPrice>
+								<recommendedRetailPrice>0.99</recommendedRetailPrice>
+							</price>
+							<formats>
+								<format id="17">
+									<description>MP3 320</description>
+								</format>
+							</formats>
+						</package>
+					</packages>
+				</download>
 				<streamingReleaseDate>2008-09-01T00:00:00+01:00</streamingReleaseDate>
 				<discNumber>1</discNumber>
 				<popularity>0.37</popularity>
@@ -1515,6 +2022,23 @@
 					<formattedRrp>£0.99</formattedRrp>
 					<onSale>false</onSale>
 				</price>
+				<download>
+					<packages>
+						<package id="2">
+							<description>standard</description>
+							<price>
+								<currencyCode>GBP</currencyCode>
+								<sevendigitalPrice>0.99</sevendigitalPrice>
+								<recommendedRetailPrice>0.99</recommendedRetailPrice>
+							</price>
+							<formats>
+								<format id="17">
+									<description>MP3 320</description>
+								</format>
+							</formats>
+						</package>
+					</packages>
+				</download>
 				<streamingReleaseDate>2008-09-01T00:00:00+01:00</streamingReleaseDate>
 				<discNumber>1</discNumber>
 				<popularity>0.37</popularity>
@@ -1564,7 +2088,25 @@
 					<formattedPrice>£0.99</formattedPrice>
 					<rrp>0.99</rrp>
 					<onSale>false</onSale>
+					<formattedRrp>£0.99</formattedRrp>
 				</price>
+				<download>
+					<packages>
+						<package id="2">
+							<description>standard</description>
+							<price>
+								<currencyCode>GBP</currencyCode>
+								<sevendigitalPrice>0.99</sevendigitalPrice>
+								<recommendedRetailPrice>0.99</recommendedRetailPrice>
+							</price>
+							<formats>
+								<format id="17">
+									<description>MP3 320</description>
+								</format>
+							</formats>
+						</package>
+					</packages>
+				</download>
 				<streamingReleaseDate>2008-09-01T00:00:00+01:00</streamingReleaseDate>
 				<discNumber>1</discNumber>
 				<popularity>0.37</popularity>
@@ -1616,6 +2158,23 @@
 					<formattedRrp>£0.99</formattedRrp>
 					<onSale>false</onSale>
 				</price>
+				<download>
+					<packages>
+						<package id="2">
+							<description>standard</description>
+							<price>
+								<currencyCode>GBP</currencyCode>
+								<sevendigitalPrice>0.99</sevendigitalPrice>
+								<recommendedRetailPrice>0.99</recommendedRetailPrice>
+							</price>
+							<formats>
+								<format id="17">
+									<description>MP3 320</description>
+								</format>
+							</formats>
+						</package>
+					</packages>
+				</download>
 				<streamingReleaseDate>2008-09-01T00:00:00+01:00</streamingReleaseDate>
 				<discNumber>1</discNumber>
 				<popularity>0.37</popularity>
@@ -1665,7 +2224,25 @@
 					<formattedPrice>£1.29</formattedPrice>
 					<rrp>1.29</rrp>
 					<onSale>false</onSale>
+					<formattedRrp>£1.29</formattedRrp>
 				</price>
+				<download>
+					<packages>
+						<package id="2">
+							<description>standard</description>
+							<price>
+								<currencyCode>GBP</currencyCode>
+								<sevendigitalPrice>1.29</sevendigitalPrice>
+								<recommendedRetailPrice>1.29</recommendedRetailPrice>
+							</price>
+							<formats>
+								<format id="17">
+									<description>MP3 320</description>
+								</format>
+							</formats>
+						</package>
+					</packages>
+				</download>
 				<streamingReleaseDate>2011-07-04T00:00:00+01:00</streamingReleaseDate>
 				<discNumber>1</discNumber>
 				<popularity>0.37</popularity>
@@ -1717,6 +2294,23 @@
 					<formattedRrp>£0.99</formattedRrp>
 					<onSale>false</onSale>
 				</price>
+				<download>
+					<packages>
+						<package id="2">
+							<description>standard</description>
+							<price>
+								<currencyCode>GBP</currencyCode>
+								<sevendigitalPrice>0.99</sevendigitalPrice>
+								<recommendedRetailPrice>0.99</recommendedRetailPrice>
+							</price>
+							<formats>
+								<format id="17">
+									<description>MP3 320</description>
+								</format>
+							</formats>
+						</package>
+					</packages>
+				</download>
 				<streamingReleaseDate>2005-01-24T00:00:00+00:00</streamingReleaseDate>
 				<discNumber>1</discNumber>
 				<popularity>0.36</popularity>
@@ -1766,7 +2360,25 @@
 					<formattedPrice>£0.99</formattedPrice>
 					<rrp>0.99</rrp>
 					<onSale>false</onSale>
+					<formattedRrp>£0.99</formattedRrp>
 				</price>
+				<download>
+					<packages>
+						<package id="2">
+							<description>standard</description>
+							<price>
+								<currencyCode>GBP</currencyCode>
+								<sevendigitalPrice>0.99</sevendigitalPrice>
+								<recommendedRetailPrice>0.99</recommendedRetailPrice>
+							</price>
+							<formats>
+								<format id="17">
+									<description>MP3 320</description>
+								</format>
+							</formats>
+						</package>
+					</packages>
+				</download>
 				<streamingReleaseDate>2003-03-03T00:00:00+00:00</streamingReleaseDate>
 				<discNumber>1</discNumber>
 				<popularity>0.36</popularity>
@@ -1818,6 +2430,23 @@
 					<formattedRrp>£0.99</formattedRrp>
 					<onSale>false</onSale>
 				</price>
+				<download>
+					<packages>
+						<package id="2">
+							<description>standard</description>
+							<price>
+								<currencyCode>GBP</currencyCode>
+								<sevendigitalPrice>0.99</sevendigitalPrice>
+								<recommendedRetailPrice>0.99</recommendedRetailPrice>
+							</price>
+							<formats>
+								<format id="17">
+									<description>MP3 320</description>
+								</format>
+							</formats>
+						</package>
+					</packages>
+				</download>
 				<streamingReleaseDate>2008-09-01T00:00:00+01:00</streamingReleaseDate>
 				<discNumber>1</discNumber>
 				<popularity>0.35</popularity>

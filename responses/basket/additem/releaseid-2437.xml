@@ -9,6 +9,23 @@
 			<rrp>5.99</rrp>
 			<formattedRrp>£5.99</formattedRrp>
 		</price>
+		<download>
+			<packages>
+				<package id="2">
+					<description>standard</description>
+					<price>
+						<currencyCode>GBP</currencyCode>
+						<sevendigitalPrice>5.99</sevendigitalPrice>
+						<recommendedRetailPrice>5.99</recommendedRetailPrice>
+					</price>
+					<formats>
+						<format id="17">
+							<description>MP3 320</description>
+						</format>
+					</formats>
+				</package>
+			</packages>
+		</download>
 		<basketItems>
 			<basketItem id="15284882">
 				<type>track</type>
@@ -22,6 +39,23 @@
 					<rrp>5.99</rrp>
 					<formattedRrp>£5.99</formattedRrp>
 				</price>
+				<download>
+					<packages>
+						<package id="2">
+							<description>standard</description>
+							<price>
+								<currencyCode/>
+								<sevendigitalPrice>5.99</sevendigitalPrice>
+								<recommendedRetailPrice>5.99</recommendedRetailPrice>
+							</price>
+							<formats>
+								<format id="17">
+									<description>MP3 320</description>
+								</format>
+							</formats>
+						</package>
+					</packages>
+				</download>
 				<amountDue>
 					<amount>5.99</amount>
 					<formattedAmount>£5.99</formattedAmount>

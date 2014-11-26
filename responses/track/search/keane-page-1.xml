@@ -55,6 +55,23 @@
 					<formattedRrp>ð.99</formattedRrp>
 					<onSale>false</onSale>
 				</price>
+				<download>
+					<packages>
+						<package id="2">
+							<description>standard</description>
+							<price>
+								<currencyCode>GBP</currencyCode>
+								<sevendigitalPrice>0.99</sevendigitalPrice>
+								<recommendedRetailPrice>0.99</recommendedRetailPrice>
+							</price>
+							<formats>
+								<format id="17">
+									<description>MP3 320</description>
+								</format>
+							</formats>
+						</package>
+					</packages>
+				</download>
 				<streamingReleaseDate>2012-05-06T23:00:00+01:00</streamingReleaseDate>
 			</track>
 		</searchResult>
@@ -109,6 +126,23 @@
 					<formattedRrp>£0.99</formattedRrp>
 					<onSale>false</onSale>
 				</price>
+				<download>
+					<packages>
+						<package id="2">
+							<description>standard</description>
+							<price>
+								<currencyCode>GBP</currencyCode>
+								<sevendigitalPrice>0.99</sevendigitalPrice>
+								<recommendedRetailPrice>0.99</recommendedRetailPrice>
+							</price>
+							<formats>
+								<format id="17">
+									<description>MP3 320</description>
+								</format>
+							</formats>
+						</package>
+					</packages>
+				</download>
 				<streamingReleaseDate>2012-05-06T23:00:00+01:00</streamingReleaseDate>
 			</track>
 		</searchResult>
@@ -160,7 +194,26 @@
 					<value>0.99</value>
 					<formattedPrice>ð.99</formattedPrice>
 					<onSale>false</onSale>
+					<rrp>0.99</rrp>
+					<formattedRrp>ð.99</formattedRrp>
 				</price>
+				<download>
+					<packages>
+						<package id="2">
+							<description>standard</description>
+							<price>
+								<currencyCode>GBP</currencyCode>
+								<sevendigitalPrice>0.99</sevendigitalPrice>
+								<recommendedRetailPrice>0.99</recommendedRetailPrice>
+							</price>
+							<formats>
+								<format id="17">
+									<description>MP3 320</description>
+								</format>
+							</formats>
+						</package>
+					</packages>
+				</download>
 				<streamingReleaseDate>2012-05-06T23:00:00+01:00</streamingReleaseDate>
 			</track>
 		</searchResult>
@@ -220,6 +273,23 @@
 					<formattedRrp>ð.99</formattedRrp>
 					<onSale>false</onSale>
 				</price>
+				<download>
+					<packages>
+						<package id="2">
+							<description>standard</description>
+							<price>
+								<currencyCode>GBP</currencyCode>
+								<sevendigitalPrice>0.99</sevendigitalPrice>
+								<recommendedRetailPrice>0.99</recommendedRetailPrice>
+							</price>
+							<formats>
+								<format id="17">
+									<description>MP3 320</description>
+								</format>
+							</formats>
+						</package>
+					</packages>
+				</download>
 				<streamingReleaseDate>2004-02-16T00:00:00+00:00</streamingReleaseDate>
 			</track>
 		</searchResult>
@@ -276,7 +346,26 @@
 					<value>0.99</value>
 					<formattedPrice>ð.99</formattedPrice>
 					<onSale>false</onSale>
+					<rrp>0.99</rrp>
+					<formattedRrp>ð.99</formattedRrp>
 				</price>
+				<download>
+					<packages>
+						<package id="2">
+							<description>standard</description>
+							<price>
+								<currencyCode>GBP</currencyCode>
+								<sevendigitalPrice>0.99</sevendigitalPrice>
+								<recommendedRetailPrice>0.99</recommendedRetailPrice>
+							</price>
+							<formats>
+								<format id="17">
+									<description>MP3 320</description>
+								</format>
+							</formats>
+						</package>
+					</packages>
+				</download>
 				<streamingReleaseDate>2004-02-16T00:00:00+00:00</streamingReleaseDate>
 			</track>
 		</searchResult>
@@ -331,6 +420,23 @@
 					<formattedRrp>ð.99</formattedRrp>
 					<onSale>false</onSale>
 				</price>
+				<download>
+					<packages>
+						<package id="2">
+							<description>standard</description>
+							<price>
+								<currencyCode>GBP</currencyCode>
+								<sevendigitalPrice>0.99</sevendigitalPrice>
+								<recommendedRetailPrice>0.99</recommendedRetailPrice>
+							</price>
+							<formats>
+								<format id="17">
+									<description>MP3 320</description>
+								</format>
+							</formats>
+						</package>
+					</packages>
+				</download>
 				<streamingReleaseDate>2012-05-06T23:00:00+01:00</streamingReleaseDate>
 			</track>
 		</searchResult>
@@ -382,7 +488,26 @@
 					<value>0.99</value>
 					<formattedPrice>ð.99</formattedPrice>
 					<onSale>false</onSale>
+					<rrp>0.99</rrp>
+					<formattedRrp>ð.99</formattedRrp>
 				</price>
+				<download>
+					<packages>
+						<package id="2">
+							<description>standard</description>
+							<price>
+								<currencyCode>GBP</currencyCode>
+								<sevendigitalPrice>0.99</sevendigitalPrice>
+								<recommendedRetailPrice>0.99</recommendedRetailPrice>
+							</price>
+							<formats>
+								<format id="17">
+									<description>MP3 320</description>
+								</format>
+							</formats>
+						</package>
+					</packages>
+				</download>
 				<streamingReleaseDate>2009-11-09T00:00:00+00:00</streamingReleaseDate>
 			</track>
 		</searchResult>
@@ -437,6 +562,23 @@
 					<formattedRrp>ð.99</formattedRrp>
 					<onSale>false</onSale>
 				</price>
+				<download>
+					<packages>
+						<package id="2">
+							<description>standard</description>
+							<price>
+								<currencyCode>GBP</currencyCode>
+								<sevendigitalPrice>0.99</sevendigitalPrice>
+								<recommendedRetailPrice>0.99</recommendedRetailPrice>
+							</price>
+							<formats>
+								<format id="17">
+									<description>MP3 320</description>
+								</format>
+							</formats>
+						</package>
+					</packages>
+				</download>
 				<streamingReleaseDate>2012-05-06T23:00:00+01:00</streamingReleaseDate>
 			</track>
 		</searchResult>
@@ -488,7 +630,26 @@
 					<value>0.99</value>
 					<formattedPrice>ð.99</formattedPrice>
 					<onSale>false</onSale>
+					<rrp>0.99</rrp>
+					<formattedRrp>ð.99</formattedRrp>
 				</price>
+				<download>
+					<packages>
+						<package id="2">
+							<description>standard</description>
+							<price>
+								<currencyCode>GBP</currencyCode>
+								<sevendigitalPrice>0.99</sevendigitalPrice>
+								<recommendedRetailPrice>0.99</recommendedRetailPrice>
+							</price>
+							<formats>
+								<format id="17">
+									<description>MP3 320</description>
+								</format>
+							</formats>
+						</package>
+					</packages>
+				</download>
 				<streamingReleaseDate>2012-05-06T23:00:00+01:00</streamingReleaseDate>
 			</track>
 		</searchResult>
@@ -543,6 +704,23 @@
 					<formattedRrp>ð.99</formattedRrp>
 					<onSale>false</onSale>
 				</price>
+				<download>
+					<packages>
+						<package id="2">
+							<description>standard</description>
+							<price>
+								<currencyCode>GBP</currencyCode>
+								<sevendigitalPrice>0.99</sevendigitalPrice>
+								<recommendedRetailPrice>0.99</recommendedRetailPrice>
+							</price>
+							<formats>
+								<format id="17">
+									<description>MP3 320</description>
+								</format>
+							</formats>
+						</package>
+					</packages>
+				</download>
 				<streamingReleaseDate>2012-05-06T23:00:00+01:00</streamingReleaseDate>
 			</track>
 		</searchResult>

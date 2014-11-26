@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <response xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" status="ok" version="1.2" xsi:noNamespaceSchemaLocation="http://api.7digital.com/1.2/static/7digitalAPI.xsd">
 	<list id="3987">
 		<key>best-of-2014-so-far-1</key>
@@ -29,6 +29,23 @@
 						<formattedRrp>£8.99</formattedRrp>
 						<onSale>true</onSale>
 					</price>
+					<download>
+						<packages>
+							<package id="2">
+								<description>standard</description>
+								<price>
+									<currencyCode>GBP</currencyCode>
+									<sevendigitalPrice>6.99</sevendigitalPrice>
+									<recommendedRetailPrice>8.99</recommendedRetailPrice>
+								</price>
+								<formats>
+									<format id="17">
+										<description>MP3 320</description>
+									</format>
+								</formats>
+							</package>
+						</packages>
+					</download>
 					<formats availableDrmFree="true">
 						<format id="17">
 							<fileFormat>MP3</fileFormat>
@@ -71,6 +88,23 @@
 						<formattedRrp>£10.99</formattedRrp>
 						<onSale>false</onSale>
 					</price>
+					<download>
+						<packages>
+							<package id="2">
+								<description>standard</description>
+								<price>
+									<currencyCode>GBP</currencyCode>
+									<sevendigitalPrice>10.99</sevendigitalPrice>
+									<recommendedRetailPrice>10.99</recommendedRetailPrice>
+								</price>
+								<formats>
+									<format id="17">
+										<description>MP3 320</description>
+									</format>
+								</formats>
+							</package>
+						</packages>
+					</download>
 					<formats availableDrmFree="true">
 						<format id="17">
 							<fileFormat>MP3</fileFormat>
@@ -113,6 +147,23 @@
 						<formattedRrp>£8.49</formattedRrp>
 						<onSale>false</onSale>
 					</price>
+					<download>
+						<packages>
+							<package id="2">
+								<description>standard</description>
+								<price>
+									<currencyCode>GBP</currencyCode>
+									<sevendigitalPrice>8.49</sevendigitalPrice>
+									<recommendedRetailPrice>8.49</recommendedRetailPrice>
+								</price>
+								<formats>
+									<format id="17">
+										<description>MP3 320</description>
+									</format>
+								</formats>
+							</package>
+						</packages>
+					</download>
 					<formats availableDrmFree="true">
 						<format id="17">
 							<fileFormat>MP3</fileFormat>
@@ -155,6 +206,26 @@
 						<formattedRrp>£7.49</formattedRrp>
 						<onSale>true</onSale>
 					</price>
+					<download>
+						<packages>
+							<package id="2">
+								<description>standard</description>
+								<price>
+									<currencyCode>GBP</currencyCode>
+									<sevendigitalPrice>4.99</sevendigitalPrice>
+									<recommendedRetailPrice>7.49</recommendedRetailPrice>
+								</price>
+								<formats>
+									<format id="17">
+										<description>MP3 320</description>
+									</format>
+									<format id="33">
+										<description>M4A 320</description>
+									</format>
+								</formats>
+							</package>
+						</packages>
+					</download>
 					<formats availableDrmFree="true">
 						<format id="17">
 							<fileFormat>MP3</fileFormat>
@@ -202,6 +273,23 @@
 						<formattedRrp>£8.99</formattedRrp>
 						<onSale>false</onSale>
 					</price>
+					<download>
+						<packages>
+							<package id="2">
+								<description>standard</description>
+								<price>
+									<currencyCode>GBP</currencyCode>
+									<sevendigitalPrice>8.99</sevendigitalPrice>
+									<recommendedRetailPrice>8.99</recommendedRetailPrice>
+								</price>
+								<formats>
+									<format id="17">
+										<description>MP3 320</description>
+									</format>
+								</formats>
+							</package>
+						</packages>
+					</download>
 					<formats availableDrmFree="true">
 						<format id="17">
 							<fileFormat>MP3</fileFormat>
@@ -244,6 +332,23 @@
 						<formattedRrp>£9.99</formattedRrp>
 						<onSale>false</onSale>
 					</price>
+					<download>
+						<packages>
+							<package id="2">
+								<description>standard</description>
+								<price>
+									<currencyCode>GBP</currencyCode>
+									<sevendigitalPrice>9.99</sevendigitalPrice>
+									<recommendedRetailPrice>9.99</recommendedRetailPrice>
+								</price>
+								<formats>
+									<format id="17">
+										<description>MP3 320</description>
+									</format>
+								</formats>
+							</package>
+						</packages>
+					</download>
 					<formats availableDrmFree="true">
 						<format id="17">
 							<fileFormat>MP3</fileFormat>
@@ -286,6 +391,26 @@
 						<formattedRrp>£7.99</formattedRrp>
 						<onSale>false</onSale>
 					</price>
+					<download>
+						<packages>
+							<package id="2">
+								<description>standard</description>
+								<price>
+									<currencyCode>GBP</currencyCode>
+									<sevendigitalPrice>7.99</sevendigitalPrice>
+									<recommendedRetailPrice>7.99</recommendedRetailPrice>
+								</price>
+								<formats>
+									<format id="17">
+										<description>MP3 320</description>
+									</format>
+									<format id="33">
+										<description>M4A 320</description>
+									</format>
+								</formats>
+							</package>
+						</packages>
+					</download>
 					<formats availableDrmFree="true">
 						<format id="17">
 							<fileFormat>MP3</fileFormat>
@@ -333,6 +458,26 @@
 						<formattedRrp>£7.99</formattedRrp>
 						<onSale>false</onSale>
 					</price>
+					<download>
+						<packages>
+							<package id="2">
+								<description>standard</description>
+								<price>
+									<currencyCode>GBP</currencyCode>
+									<sevendigitalPrice>7.99</sevendigitalPrice>
+									<recommendedRetailPrice>7.99</recommendedRetailPrice>
+								</price>
+								<formats>
+									<format id="17">
+										<description>MP3 320</description>
+									</format>
+									<format id="33">
+										<description>M4A 320</description>
+									</format>
+								</formats>
+							</package>
+						</packages>
+					</download>
 					<formats availableDrmFree="true">
 						<format id="17">
 							<fileFormat>MP3</fileFormat>
