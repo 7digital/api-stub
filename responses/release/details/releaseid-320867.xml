@@ -19,9 +19,9 @@
 			<currency code="GBP">£</currency>
 			<value>5.99</value>
 			<formattedPrice>£5.99</formattedPrice>
-			<rrp>5.99</rrp>
-			<formattedRrp>£5.99</formattedRrp>
-			<onSale>false</onSale>
+			<rrp>6.99</rrp>
+			<formattedRrp>£6.99</formattedRrp>
+			<onSale>true</onSale>
 		</price>
 		<download>
 			<packages>
@@ -30,7 +30,7 @@
 					<price>
 						<currencyCode>GBP</currencyCode>
 						<sevendigitalPrice>5.99</sevendigitalPrice>
-						<recommendedRetailPrice>5.99</recommendedRetailPrice>
+						<recommendedRetailPrice>6.99</recommendedRetailPrice>
 					</price>
 					<formats>
 						<format id="17">
