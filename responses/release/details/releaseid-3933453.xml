@@ -70,6 +70,22 @@
 						</format>
 					</formats>
 				</package>
+				<package id="16">
+					<description>standard</description>
+					<price>
+						<currencyCode>GBP</currencyCode>
+						<sevendigitalPrice>8.99</sevendigitalPrice>
+						<recommendedRetailPrice>9.99</recommendedRetailPrice>
+					</price>
+					<format id="62">
+						<description>FLAC 24-bit 192kHz</description>
+					</format>
+					<formats>
+						<format id="62">
+							<description>FLAC 24-bit 192kHz</description>
+						</format>
+					</formats>
+				</package>
 			</packages>
 		</download>
 	</release>
