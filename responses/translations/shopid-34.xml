@@ -3,7 +3,11 @@
 	<translations>
 		<page>1</page>
 		<pageSize>5000</pageSize>
-		<totalItems>2892</totalItems>
+		<totalItems>2893</totalItems>
+		<translation>
+			<key>PriceFrom</key>
+			<translatedText>From</translatedText>
+		</translation>
 		<translation>
 			<key>InstallNotice</key>
 			<translatedText>Google Chrome users: Due to a change beyond our control, the 7digital Download Manager is currently unavailable for use with Google Chrome. Please use the zip file download option or an alternative browser while we seek a fix. Thanks for your patience.</translatedText>
