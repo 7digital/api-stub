@@ -8,6 +8,9 @@
         "pageSize": "5000",
         "totalItems": "2893",
         "translation": [
+            {   "key": "format_17",
+                "translatedText": "320kbps MP3"
+            },
             {   "key": "PriceFrom",
 		"translatedText": "From"
             },
