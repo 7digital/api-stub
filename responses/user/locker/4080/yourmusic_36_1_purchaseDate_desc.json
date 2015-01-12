@@ -97,7 +97,28 @@
                             "purchaseId": "814165778",
                             "purchaseDate": "2014-07-30T10:55:41Z",
                             "completeAlbumPurchase": "true",
-                            "downloadUrls": ""
+                                "downloadUrls": {
+                                    "downloadUrl": [
+                                        {
+                                            "url": "http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&oauth_nonce=kny11ww5eccwkzas&oauth_signature=FEC5NRPN4Xi9xi%2F2A%2FclFao%2FTMw%3D&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1409566196&oauth_version=1.0a&formatid=17&partnerid=712&onbehalfofpartnerid=712&presigned=1&releaseid=3395525&shopid=34&trackid=35796180&userid=121404036",
+                                            "format": {
+                                                "id": "17",
+                                                "fileFormat": "MP3",
+                                                "bitRate": "320",
+                                                "drmFree": "true"
+                                            }
+                                        },
+                                        {
+                                            "url": "http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&oauth_nonce=jq0n7z5hgz3khiey&oauth_signature=7CyoA1gontDzctKchCDbc1ynqGw%3D&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1409566196&oauth_version=1.0a&formatid=33&partnerid=712&onbehalfofpartnerid=712&presigned=1&releaseid=3395525&shopid=34&trackid=35796180&userid=121404036",
+                                            "format": {
+                                                "id": "33",
+                                                "fileFormat": "M4A",
+                                                "bitRate": "320",
+                                                "drmFree": "true"
+                                            }
+                                        }
+                                    ]
+                                }
                         }
                     },
                     "available": "true"
@@ -645,7 +666,28 @@
                             "purchaseId": "814165778",
                             "purchaseDate": "2014-07-30T10:55:41Z",
                             "completeAlbumPurchase": "true",
-                            "downloadUrls": ""
+                                "downloadUrls": {
+                                    "downloadUrl": [
+                                        {
+                                            "url": "http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&oauth_nonce=240875r90s4x2skm&oauth_signature=TiXMZD%2Bb3CoN8%2BcbMo3DduTSiW4%3D&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1409566196&oauth_version=1.0a&formatid=17&partnerid=712&onbehalfofpartnerid=712&presigned=1&releaseid=3395525&shopid=34&trackid=35796195&userid=121404036",
+                                            "format": {
+                                                "id": "17",
+                                                "fileFormat": "MP3",
+                                                "bitRate": "320",
+                                                "drmFree": "true"
+                                            }
+                                        },
+                                        {
+                                            "url": "http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&oauth_nonce=nsnjwhl6x7tifync&oauth_signature=fV2dbrPRgSQmNEzHehWGEM%2BLJos%3D&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1409566196&oauth_version=1.0a&formatid=33&partnerid=712&onbehalfofpartnerid=712&presigned=1&releaseid=3395525&shopid=34&trackid=35796195&userid=121404036",
+                                            "format": {
+                                                "id": "33",
+                                                "fileFormat": "M4A",
+                                                "bitRate": "320",
+                                                "drmFree": "true"
+                                            }
+                                        }
+                                    ]
+                                }
                         }
                     },
                     "available": "true"
@@ -691,7 +733,28 @@
                             "purchaseId": "814165778",
                             "purchaseDate": "2014-07-30T10:55:41Z",
                             "completeAlbumPurchase": "true",
-                            "downloadUrls": ""
+                                "downloadUrls": {
+                                    "downloadUrl": [
+                                        {
+                                            "url": "http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&oauth_nonce=240875r90s4x2skm&oauth_signature=TiXMZD%2Bb3CoN8%2BcbMo3DduTSiW4%3D&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1409566196&oauth_version=1.0a&formatid=17&partnerid=712&onbehalfofpartnerid=712&presigned=1&releaseid=3395525&shopid=34&trackid=35796195&userid=121404036",
+                                            "format": {
+                                                "id": "17",
+                                                "fileFormat": "MP3",
+                                                "bitRate": "320",
+                                                "drmFree": "true"
+                                            }
+                                        },
+                                        {
+                                            "url": "http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&oauth_nonce=nsnjwhl6x7tifync&oauth_signature=fV2dbrPRgSQmNEzHehWGEM%2BLJos%3D&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1409566196&oauth_version=1.0a&formatid=33&partnerid=712&onbehalfofpartnerid=712&presigned=1&releaseid=3395525&shopid=34&trackid=35796195&userid=121404036",
+                                            "format": {
+                                                "id": "33",
+                                                "fileFormat": "M4A",
+                                                "bitRate": "320",
+                                                "drmFree": "true"
+                                            }
+                                        }
+                                    ]
+                                }
                         }
                     },
                     "available": "true"
