@@ -76,8 +76,9 @@ server.post('/basket/applyvoucher', conventions.voucherCode);
 
 //user
 server.get('/user/details', conventions.id);
-server.get('/users', conventions.emailAddress);
+server.get('/users', conventions.findByEmailAddress);
 server.put('/users/:id/update', conventions.usersUpdateIdSlug);
+server.post('/user/authenticate', conventions.emailAddress);
 
 //your music
 server.get('/user/locker', conventions.locker);
@@ -103,7 +104,6 @@ server.get('/user/purchase/basket', conventions.id);
 server.post('/user/signup', conventions.serveDefault);
 
 server.post('/cardregistration/:id', cardRegistration.handleCardDetails);
-
 
 server.get('/payment/card/type', conventions.serveDefault);
 //trackownership
