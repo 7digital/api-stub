@@ -1,0 +1,618 @@
+<?xml version="1.0" encoding="utf-8"?>
+<response xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" status="ok" version="1.2" xsi:noNamespaceSchemaLocation="http://purchasing-api.7digital.live/1.0/static/7digitalAPI.xsd">
+	<locker>
+		<lockerReleases>
+			<page>1</page>
+			<pageSize>10</pageSize>
+			<totalItems>1</totalItems>
+			<lockerRelease>
+				<release id="320866">
+					<title>Perfect Symmetry</title>
+					<version>UK Album</version>
+					<type>Album</type>
+					<barcode>00602517856455</barcode>
+					<artist id="1">
+						<name>Keane</name>
+						<appearsAs>Keane</appearsAs>
+						<url>http://www.7digital.com/artists/keane/?partner=712</url>
+					</artist>
+					<url>http://www.7digital.com/artists/keane/perfect-symmetry-1/?partner=712</url>
+					<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/003/208/0000320866_50.jpg</image>
+					<releaseDate>2008-10-13T00:00:00+01:00</releaseDate>
+				</release>
+				<lockerTracks>
+					<lockerTrack>
+						<track id="3615513">
+							<title>Spiralling</title>
+							<version/>
+							<artist id="1">
+								<name>Keane</name>
+								<appearsAs>Keane</appearsAs>
+								<url>http://www.7digital.com/artists/keane/?partner=712</url>
+							</artist>
+							<trackNumber>1</trackNumber>
+							<duration>258</duration>
+							<url>http://www.7digital.com/artists/keane/perfect-symmetry-1/01-Spiralling?partner=712&amp;partner=712</url>
+						</track>
+						<remainingDownloads>5</remainingDownloads>
+						<purchaseDate>2012-05-28T14:01:14+01:00</purchaseDate>
+						<downloadUrls>
+							<downloadUrl>
+								<url>http://media3.7digital.com/media/user/downloadtrack?formatid=17&amp;oauth_consumer_key=7digital.com&amp;oauth_nonce=994269588&amp;oauth_signature_method=HMAC-SHA1&amp;oauth_timestamp=1338210356&amp;releaseid=320866&amp;shopid=34&amp;trackid=3615513&amp;oauth_signature=q2nXVXkHhKWlLwq7Q7QJvKMTYv8%3D</url>
+								<format id="17">
+									<fileFormat>MP3</fileFormat>
+									<bitRate>320</bitRate>
+									<drmFree>true</drmFree>
+								</format>
+							</downloadUrl>
+						</downloadUrls>
+					</lockerTrack>
+					<lockerTrack>
+						<track id="3615515">
+							<title>The Lovers Are Losing</title>
+							<version/>
+							<artist id="1">
+								<name>Keane</name>
+								<appearsAs>Keane</appearsAs>
+								<url>http://www.7digital.com/artists/keane/?partner=712</url>
+							</artist>
+							<trackNumber>2</trackNumber>
+							<duration>303</duration>
+							<url>http://www.7digital.com/artists/keane/perfect-symmetry-1/02-The-Lovers-Are-Losing?partner=712&amp;partner=712</url>
+						</track>
+						<remainingDownloads>5</remainingDownloads>
+						<purchaseDate>2012-05-28T14:01:14+01:00</purchaseDate>
+						<downloadUrls>
+							<downloadUrl>
+								<url>http://media3.7digital.com/media/user/downloadtrack?formatid=17&amp;oauth_consumer_key=7digital.com&amp;oauth_nonce=124933499&amp;oauth_signature_method=HMAC-SHA1&amp;oauth_timestamp=1338210356&amp;releaseid=320866&amp;shopid=34&amp;trackid=3615515&amp;oauth_signature=%2B0bb76C%2FdKNdb9NEbkWHWwBeNfo%3D</url>
+								<format id="17">
+									<fileFormat>MP3</fileFormat>
+									<bitRate>320</bitRate>
+									<drmFree>true</drmFree>
+								</format>
+							</downloadUrl>
+						</downloadUrls>
+					</lockerTrack>
+					<lockerTrack>
+						<track id="3615516">
+							<title>Better Than This</title>
+							<version/>
+							<artist id="1">
+								<name>Keane</name>
+								<appearsAs>Keane</appearsAs>
+								<url>http://www.7digital.com/artists/keane/?partner=712</url>
+							</artist>
+							<trackNumber>3</trackNumber>
+							<duration>242</duration>
+							<url>http://www.7digital.com/artists/keane/perfect-symmetry-1/03-Better-Than-This?partner=712&amp;partner=712</url>
+						</track>
+						<remainingDownloads>5</remainingDownloads>
+						<purchaseDate>2012-05-28T14:01:14+01:00</purchaseDate>
+						<downloadUrls>
+							<downloadUrl>
+								<url>http://media3.7digital.com/media/user/downloadtrack?formatid=17&amp;oauth_consumer_key=7digital.com&amp;oauth_nonce=58400880&amp;oauth_signature_method=HMAC-SHA1&amp;oauth_timestamp=1338210356&amp;releaseid=320866&amp;shopid=34&amp;trackid=3615516&amp;oauth_signature=eov0UkR10d7A4%2FPWMcq9Q1K6GVY%3D</url>
+								<format id="17">
+									<fileFormat>MP3</fileFormat>
+									<bitRate>320</bitRate>
+									<drmFree>true</drmFree>
+								</format>
+							</downloadUrl>
+						</downloadUrls>
+					</lockerTrack>
+					<lockerTrack>
+						<track id="3615518">
+							<title>You Haven't Told Me Anything</title>
+							<version/>
+							<artist id="1">
+								<name>Keane</name>
+								<appearsAs>Keane</appearsAs>
+								<url>http://www.7digital.com/artists/keane/?partner=712</url>
+							</artist>
+							<trackNumber>4</trackNumber>
+							<duration>227</duration>
+							<url>http://www.7digital.com/artists/keane/perfect-symmetry-1/04-You-Havent-Told-Me-Anything?partner=712&amp;partner=712</url>
+						</track>
+						<remainingDownloads>5</remainingDownloads>
+						<purchaseDate>2012-05-28T14:01:14+01:00</purchaseDate>
+						<downloadUrls>
+							<downloadUrl>
+								<url>http://media3.7digital.com/media/user/downloadtrack?formatid=17&amp;oauth_consumer_key=7digital.com&amp;oauth_nonce=1683834263&amp;oauth_signature_method=HMAC-SHA1&amp;oauth_timestamp=1338210356&amp;releaseid=320866&amp;shopid=34&amp;trackid=3615518&amp;oauth_signature=4kNliSKL4n928JYAxcLt%2F9qhAMA%3D</url>
+								<format id="17">
+									<fileFormat>MP3</fileFormat>
+									<bitRate>320</bitRate>
+									<drmFree>true</drmFree>
+								</format>
+							</downloadUrl>
+						</downloadUrls>
+					</lockerTrack>
+					<lockerTrack>
+						<track id="3615519">
+							<title>Perfect Symmetry</title>
+							<version/>
+							<artist id="1">
+								<name>Keane</name>
+								<appearsAs>Keane</appearsAs>
+								<url>http://www.7digital.com/artists/keane/?partner=712</url>
+							</artist>
+							<trackNumber>5</trackNumber>
+							<duration>310</duration>
+							<url>http://www.7digital.com/artists/keane/perfect-symmetry-1/05-Perfect-Symmetry?partner=712&amp;partner=712</url>
+						</track>
+						<remainingDownloads>5</remainingDownloads>
+						<purchaseDate>2012-05-28T14:01:14+01:00</purchaseDate>
+						<downloadUrls>
+							<downloadUrl>
+								<url>http://media3.7digital.com/media/user/downloadtrack?formatid=17&amp;oauth_consumer_key=7digital.com&amp;oauth_nonce=867995858&amp;oauth_signature_method=HMAC-SHA1&amp;oauth_timestamp=1338210356&amp;releaseid=320866&amp;shopid=34&amp;trackid=3615519&amp;oauth_signature=%2FgKt9bwwMjiSGjXm6veEt5tbOkc%3D</url>
+								<format id="17">
+									<fileFormat>MP3</fileFormat>
+									<bitRate>320</bitRate>
+									<drmFree>true</drmFree>
+								</format>
+							</downloadUrl>
+						</downloadUrls>
+					</lockerTrack>
+					<lockerTrack>
+						<track id="3615520">
+							<title>You Don't See Me</title>
+							<version/>
+							<artist id="1">
+								<name>Keane</name>
+								<appearsAs>Keane</appearsAs>
+								<url>http://www.7digital.com/artists/keane/?partner=712</url>
+							</artist>
+							<trackNumber>6</trackNumber>
+							<duration>243</duration>
+							<url>http://www.7digital.com/artists/keane/perfect-symmetry-1/06-You-Dont-See-Me?partner=712&amp;partner=712</url>
+						</track>
+						<remainingDownloads>5</remainingDownloads>
+						<purchaseDate>2012-05-28T14:01:14+01:00</purchaseDate>
+						<downloadUrls>
+							<downloadUrl>
+								<url>http://media3.7digital.com/media/user/downloadtrack?formatid=17&amp;oauth_consumer_key=7digital.com&amp;oauth_nonce=1105008255&amp;oauth_signature_method=HMAC-SHA1&amp;oauth_timestamp=1338210356&amp;releaseid=320866&amp;shopid=34&amp;trackid=3615520&amp;oauth_signature=j7TpQbzPpDATwzwIZ84JBqnwgd0%3D</url>
+								<format id="17">
+									<fileFormat>MP3</fileFormat>
+									<bitRate>320</bitRate>
+									<drmFree>true</drmFree>
+								</format>
+							</downloadUrl>
+						</downloadUrls>
+					</lockerTrack>
+					<lockerTrack>
+						<track id="3615522">
+							<title>Again &amp; Again</title>
+							<version/>
+							<artist id="1">
+								<name>Keane</name>
+								<appearsAs>Keane</appearsAs>
+								<url>http://www.7digital.com/artists/keane/?partner=712</url>
+							</artist>
+							<trackNumber>7</trackNumber>
+							<duration>230</duration>
+							<url>http://www.7digital.com/artists/keane/perfect-symmetry-1/07-Again-and-Again?partner=712&amp;partner=712</url>
+						</track>
+						<remainingDownloads>5</remainingDownloads>
+						<purchaseDate>2012-05-28T14:01:14+01:00</purchaseDate>
+						<downloadUrls>
+							<downloadUrl>
+								<url>http://media3.7digital.com/media/user/downloadtrack?formatid=17&amp;oauth_consumer_key=7digital.com&amp;oauth_nonce=1250053515&amp;oauth_signature_method=HMAC-SHA1&amp;oauth_timestamp=1338210356&amp;releaseid=320866&amp;shopid=34&amp;trackid=3615522&amp;oauth_signature=vovvW3g1ekzmlxnB%2Bpt1DZFweSE%3D</url>
+								<format id="17">
+									<fileFormat>MP3</fileFormat>
+									<bitRate>320</bitRate>
+									<drmFree>true</drmFree>
+								</format>
+							</downloadUrl>
+						</downloadUrls>
+					</lockerTrack>
+					<lockerTrack>
+						<track id="3615523">
+							<title>Playing Along</title>
+							<version/>
+							<artist id="1">
+								<name>Keane</name>
+								<appearsAs>Keane</appearsAs>
+								<url>http://www.7digital.com/artists/keane/?partner=712</url>
+							</artist>
+							<trackNumber>8</trackNumber>
+							<duration>333</duration>
+							<url>http://www.7digital.com/artists/keane/perfect-symmetry-1/08-Playing-Along?partner=712&amp;partner=712</url>
+						</track>
+						<remainingDownloads>5</remainingDownloads>
+						<purchaseDate>2012-05-28T14:01:14+01:00</purchaseDate>
+						<downloadUrls>
+							<downloadUrl>
+								<url>http://media3.7digital.com/media/user/downloadtrack?formatid=17&amp;oauth_consumer_key=7digital.com&amp;oauth_nonce=712897357&amp;oauth_signature_method=HMAC-SHA1&amp;oauth_timestamp=1338210356&amp;releaseid=320866&amp;shopid=34&amp;trackid=3615523&amp;oauth_signature=24XouraZxBiuUvip6qKz3otbleI%3D</url>
+								<format id="17">
+									<fileFormat>MP3</fileFormat>
+									<bitRate>320</bitRate>
+									<drmFree>true</drmFree>
+								</format>
+							</downloadUrl>
+						</downloadUrls>
+					</lockerTrack>
+					<lockerTrack>
+						<track id="3615524">
+							<title>Pretend That You're Alone</title>
+							<version/>
+							<artist id="1">
+								<name>Keane</name>
+								<appearsAs>Keane</appearsAs>
+								<url>http://www.7digital.com/artists/keane/?partner=712</url>
+							</artist>
+							<trackNumber>9</trackNumber>
+							<duration>227</duration>
+							<url>http://www.7digital.com/artists/keane/perfect-symmetry-1/09-Pretend-That-Youre-Alone?partner=712&amp;partner=712</url>
+						</track>
+						<remainingDownloads>5</remainingDownloads>
+						<purchaseDate>2012-05-28T14:01:14+01:00</purchaseDate>
+						<downloadUrls>
+							<downloadUrl>
+								<url>http://media3.7digital.com/media/user/downloadtrack?formatid=17&amp;oauth_consumer_key=7digital.com&amp;oauth_nonce=795556436&amp;oauth_signature_method=HMAC-SHA1&amp;oauth_timestamp=1338210356&amp;releaseid=320866&amp;shopid=34&amp;trackid=3615524&amp;oauth_signature=V%2BwrJABdEqD%2BK5Tiqs09rSuHNw8%3D</url>
+								<format id="17">
+									<fileFormat>MP3</fileFormat>
+									<bitRate>320</bitRate>
+									<drmFree>true</drmFree>
+								</format>
+							</downloadUrl>
+						</downloadUrls>
+					</lockerTrack>
+					<lockerTrack>
+						<track id="3615526">
+							<title>Black Burning Heart</title>
+							<version/>
+							<artist id="1">
+								<name>Keane</name>
+								<appearsAs>Keane</appearsAs>
+								<url>http://www.7digital.com/artists/keane/?partner=712</url>
+							</artist>
+							<trackNumber>10</trackNumber>
+							<duration>321</duration>
+							<url>http://www.7digital.com/artists/keane/perfect-symmetry-1/10-Black-Burning-Heart?partner=712&amp;partner=712</url>
+						</track>
+						<remainingDownloads>5</remainingDownloads>
+						<purchaseDate>2012-05-28T14:01:14+01:00</purchaseDate>
+						<downloadUrls>
+							<downloadUrl>
+								<url>http://media3.7digital.com/media/user/downloadtrack?formatid=17&amp;oauth_consumer_key=7digital.com&amp;oauth_nonce=1000838283&amp;oauth_signature_method=HMAC-SHA1&amp;oauth_timestamp=1338210356&amp;releaseid=320866&amp;shopid=34&amp;trackid=3615526&amp;oauth_signature=WHNsIdqvrsdH9HbKqmVvxPVJPn8%3D</url>
+								<format id="17">
+									<fileFormat>MP3</fileFormat>
+									<bitRate>320</bitRate>
+									<drmFree>true</drmFree>
+								</format>
+							</downloadUrl>
+						</downloadUrls>
+					</lockerTrack>
+					<lockerTrack>
+						<track id="3615527">
+							<title>Love Is The End</title>
+							<version/>
+							<artist id="1">
+								<name>Keane</name>
+								<appearsAs>Keane</appearsAs>
+								<url>http://www.7digital.com/artists/keane/?partner=712</url>
+							</artist>
+							<trackNumber>11</trackNumber>
+							<duration>337</duration>
+							<url>http://www.7digital.com/artists/keane/perfect-symmetry-1/11-Love-Is-The-End?partner=712&amp;partner=712</url>
+						</track>
+						<remainingDownloads>5</remainingDownloads>
+						<purchaseDate>2012-05-28T14:01:14+01:00</purchaseDate>
+						<downloadUrls>
+							<downloadUrl>
+								<url>http://media3.7digital.com/media/user/downloadtrack?formatid=17&amp;oauth_consumer_key=7digital.com&amp;oauth_nonce=239673126&amp;oauth_signature_method=HMAC-SHA1&amp;oauth_timestamp=1338210356&amp;releaseid=320866&amp;shopid=34&amp;trackid=3615527&amp;oauth_signature=yhBd9vpx5X4eu5aa%2FfZCJ%2BJjem0%3D</url>
+								<format id="17">
+									<fileFormat>MP3</fileFormat>
+									<bitRate>320</bitRate>
+									<drmFree>true</drmFree>
+								</format>
+							</downloadUrl>
+						</downloadUrls>
+					</lockerTrack>
+				</lockerTracks>
+			</lockerRelease>
+			<lockerRelease>
+				<release id="320866">
+					<title>Perfect Symmetry</title>
+					<version>UK Album</version>
+					<type>Album</type>
+					<barcode>00602517856455</barcode>
+					<artist id="1">
+						<name>Keane</name>
+						<appearsAs>Keane</appearsAs>
+						<url>http://www.7digital.com/artists/keane/?partner=712</url>
+					</artist>
+					<url>http://www.7digital.com/artists/keane/perfect-symmetry-1/?partner=712</url>
+					<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/003/208/0000320866_50.jpg</image>
+					<releaseDate>2100-10-13T00:00:00+01:00</releaseDate>
+				</release>
+				<lockerTracks>
+					<lockerTrack>
+						<track id="3615513">
+							<title>Spiralling</title>
+							<version/>
+							<artist id="1">
+								<name>Keane</name>
+								<appearsAs>Keane</appearsAs>
+								<url>http://www.7digital.com/artists/keane/?partner=712</url>
+							</artist>
+							<trackNumber>1</trackNumber>
+							<duration>258</duration>
+							<url>http://www.7digital.com/artists/keane/perfect-symmetry-1/01-Spiralling?partner=712&amp;partner=712</url>
+						</track>
+						<remainingDownloads>5</remainingDownloads>
+						<purchaseDate>2012-05-28T14:01:14+01:00</purchaseDate>
+						<downloadUrls>
+							<downloadUrl>
+								<url>http://media3.7digital.com/media/user/downloadtrack?formatid=17&amp;oauth_consumer_key=7digital.com&amp;oauth_nonce=994269588&amp;oauth_signature_method=HMAC-SHA1&amp;oauth_timestamp=1338210356&amp;releaseid=320866&amp;shopid=34&amp;trackid=3615513&amp;oauth_signature=q2nXVXkHhKWlLwq7Q7QJvKMTYv8%3D</url>
+								<format id="17">
+									<fileFormat>MP3</fileFormat>
+									<bitRate>320</bitRate>
+									<drmFree>true</drmFree>
+								</format>
+							</downloadUrl>
+						</downloadUrls>
+					</lockerTrack>
+					<lockerTrack>
+						<track id="3615515">
+							<title>The Lovers Are Losing</title>
+							<version/>
+							<artist id="1">
+								<name>Keane</name>
+								<appearsAs>Keane</appearsAs>
+								<url>http://www.7digital.com/artists/keane/?partner=712</url>
+							</artist>
+							<trackNumber>2</trackNumber>
+							<duration>303</duration>
+							<url>http://www.7digital.com/artists/keane/perfect-symmetry-1/02-The-Lovers-Are-Losing?partner=712&amp;partner=712</url>
+						</track>
+						<remainingDownloads>5</remainingDownloads>
+						<purchaseDate>2012-05-28T14:01:14+01:00</purchaseDate>
+						<downloadUrls>
+							<downloadUrl>
+								<url>http://media3.7digital.com/media/user/downloadtrack?formatid=17&amp;oauth_consumer_key=7digital.com&amp;oauth_nonce=124933499&amp;oauth_signature_method=HMAC-SHA1&amp;oauth_timestamp=1338210356&amp;releaseid=320866&amp;shopid=34&amp;trackid=3615515&amp;oauth_signature=%2B0bb76C%2FdKNdb9NEbkWHWwBeNfo%3D</url>
+								<format id="17">
+									<fileFormat>MP3</fileFormat>
+									<bitRate>320</bitRate>
+									<drmFree>true</drmFree>
+								</format>
+							</downloadUrl>
+						</downloadUrls>
+					</lockerTrack>
+					<lockerTrack>
+						<track id="3615516">
+							<title>Better Than This</title>
+							<version/>
+							<artist id="1">
+								<name>Keane</name>
+								<appearsAs>Keane</appearsAs>
+								<url>http://www.7digital.com/artists/keane/?partner=712</url>
+							</artist>
+							<trackNumber>3</trackNumber>
+							<duration>242</duration>
+							<url>http://www.7digital.com/artists/keane/perfect-symmetry-1/03-Better-Than-This?partner=712&amp;partner=712</url>
+						</track>
+						<remainingDownloads>5</remainingDownloads>
+						<purchaseDate>2012-05-28T14:01:14+01:00</purchaseDate>
+						<downloadUrls>
+							<downloadUrl>
+								<url>http://media3.7digital.com/media/user/downloadtrack?formatid=17&amp;oauth_consumer_key=7digital.com&amp;oauth_nonce=58400880&amp;oauth_signature_method=HMAC-SHA1&amp;oauth_timestamp=1338210356&amp;releaseid=320866&amp;shopid=34&amp;trackid=3615516&amp;oauth_signature=eov0UkR10d7A4%2FPWMcq9Q1K6GVY%3D</url>
+								<format id="17">
+									<fileFormat>MP3</fileFormat>
+									<bitRate>320</bitRate>
+									<drmFree>true</drmFree>
+								</format>
+							</downloadUrl>
+						</downloadUrls>
+					</lockerTrack>
+					<lockerTrack>
+						<track id="3615518">
+							<title>You Haven't Told Me Anything</title>
+							<version/>
+							<artist id="1">
+								<name>Keane</name>
+								<appearsAs>Keane</appearsAs>
+								<url>http://www.7digital.com/artists/keane/?partner=712</url>
+							</artist>
+							<trackNumber>4</trackNumber>
+							<duration>227</duration>
+							<url>http://www.7digital.com/artists/keane/perfect-symmetry-1/04-You-Havent-Told-Me-Anything?partner=712&amp;partner=712</url>
+						</track>
+						<remainingDownloads>5</remainingDownloads>
+						<purchaseDate>2012-05-28T14:01:14+01:00</purchaseDate>
+						<downloadUrls>
+							<downloadUrl>
+								<url>http://media3.7digital.com/media/user/downloadtrack?formatid=17&amp;oauth_consumer_key=7digital.com&amp;oauth_nonce=1683834263&amp;oauth_signature_method=HMAC-SHA1&amp;oauth_timestamp=1338210356&amp;releaseid=320866&amp;shopid=34&amp;trackid=3615518&amp;oauth_signature=4kNliSKL4n928JYAxcLt%2F9qhAMA%3D</url>
+								<format id="17">
+									<fileFormat>MP3</fileFormat>
+									<bitRate>320</bitRate>
+									<drmFree>true</drmFree>
+								</format>
+							</downloadUrl>
+						</downloadUrls>
+					</lockerTrack>
+					<lockerTrack>
+						<track id="3615519">
+							<title>Perfect Symmetry</title>
+							<version/>
+							<artist id="1">
+								<name>Keane</name>
+								<appearsAs>Keane</appearsAs>
+								<url>http://www.7digital.com/artists/keane/?partner=712</url>
+							</artist>
+							<trackNumber>5</trackNumber>
+							<duration>310</duration>
+							<url>http://www.7digital.com/artists/keane/perfect-symmetry-1/05-Perfect-Symmetry?partner=712&amp;partner=712</url>
+						</track>
+						<remainingDownloads>5</remainingDownloads>
+						<purchaseDate>2012-05-28T14:01:14+01:00</purchaseDate>
+						<downloadUrls>
+							<downloadUrl>
+								<url>http://media3.7digital.com/media/user/downloadtrack?formatid=17&amp;oauth_consumer_key=7digital.com&amp;oauth_nonce=867995858&amp;oauth_signature_method=HMAC-SHA1&amp;oauth_timestamp=1338210356&amp;releaseid=320866&amp;shopid=34&amp;trackid=3615519&amp;oauth_signature=%2FgKt9bwwMjiSGjXm6veEt5tbOkc%3D</url>
+								<format id="17">
+									<fileFormat>MP3</fileFormat>
+									<bitRate>320</bitRate>
+									<drmFree>true</drmFree>
+								</format>
+							</downloadUrl>
+						</downloadUrls>
+					</lockerTrack>
+					<lockerTrack>
+						<track id="3615520">
+							<title>You Don't See Me</title>
+							<version/>
+							<artist id="1">
+								<name>Keane</name>
+								<appearsAs>Keane</appearsAs>
+								<url>http://www.7digital.com/artists/keane/?partner=712</url>
+							</artist>
+							<trackNumber>6</trackNumber>
+							<duration>243</duration>
+							<url>http://www.7digital.com/artists/keane/perfect-symmetry-1/06-You-Dont-See-Me?partner=712&amp;partner=712</url>
+						</track>
+						<remainingDownloads>5</remainingDownloads>
+						<purchaseDate>2012-05-28T14:01:14+01:00</purchaseDate>
+						<downloadUrls>
+							<downloadUrl>
+								<url>http://media3.7digital.com/media/user/downloadtrack?formatid=17&amp;oauth_consumer_key=7digital.com&amp;oauth_nonce=1105008255&amp;oauth_signature_method=HMAC-SHA1&amp;oauth_timestamp=1338210356&amp;releaseid=320866&amp;shopid=34&amp;trackid=3615520&amp;oauth_signature=j7TpQbzPpDATwzwIZ84JBqnwgd0%3D</url>
+								<format id="17">
+									<fileFormat>MP3</fileFormat>
+									<bitRate>320</bitRate>
+									<drmFree>true</drmFree>
+								</format>
+							</downloadUrl>
+						</downloadUrls>
+					</lockerTrack>
+					<lockerTrack>
+						<track id="3615522">
+							<title>Again &amp; Again</title>
+							<version/>
+							<artist id="1">
+								<name>Keane</name>
+								<appearsAs>Keane</appearsAs>
+								<url>http://www.7digital.com/artists/keane/?partner=712</url>
+							</artist>
+							<trackNumber>7</trackNumber>
+							<duration>230</duration>
+							<url>http://www.7digital.com/artists/keane/perfect-symmetry-1/07-Again-and-Again?partner=712&amp;partner=712</url>
+						</track>
+						<remainingDownloads>5</remainingDownloads>
+						<purchaseDate>2012-05-28T14:01:14+01:00</purchaseDate>
+						<downloadUrls>
+							<downloadUrl>
+								<url>http://media3.7digital.com/media/user/downloadtrack?formatid=17&amp;oauth_consumer_key=7digital.com&amp;oauth_nonce=1250053515&amp;oauth_signature_method=HMAC-SHA1&amp;oauth_timestamp=1338210356&amp;releaseid=320866&amp;shopid=34&amp;trackid=3615522&amp;oauth_signature=vovvW3g1ekzmlxnB%2Bpt1DZFweSE%3D</url>
+								<format id="17">
+									<fileFormat>MP3</fileFormat>
+									<bitRate>320</bitRate>
+									<drmFree>true</drmFree>
+								</format>
+							</downloadUrl>
+						</downloadUrls>
+					</lockerTrack>
+					<lockerTrack>
+						<track id="3615523">
+							<title>Playing Along</title>
+							<version/>
+							<artist id="1">
+								<name>Keane</name>
+								<appearsAs>Keane</appearsAs>
+								<url>http://www.7digital.com/artists/keane/?partner=712</url>
+							</artist>
+							<trackNumber>8</trackNumber>
+							<duration>333</duration>
+							<url>http://www.7digital.com/artists/keane/perfect-symmetry-1/08-Playing-Along?partner=712&amp;partner=712</url>
+						</track>
+						<remainingDownloads>5</remainingDownloads>
+						<purchaseDate>2012-05-28T14:01:14+01:00</purchaseDate>
+						<downloadUrls>
+							<downloadUrl>
+								<url>http://media3.7digital.com/media/user/downloadtrack?formatid=17&amp;oauth_consumer_key=7digital.com&amp;oauth_nonce=712897357&amp;oauth_signature_method=HMAC-SHA1&amp;oauth_timestamp=1338210356&amp;releaseid=320866&amp;shopid=34&amp;trackid=3615523&amp;oauth_signature=24XouraZxBiuUvip6qKz3otbleI%3D</url>
+								<format id="17">
+									<fileFormat>MP3</fileFormat>
+									<bitRate>320</bitRate>
+									<drmFree>true</drmFree>
+								</format>
+							</downloadUrl>
+						</downloadUrls>
+					</lockerTrack>
+					<lockerTrack>
+						<track id="3615524">
+							<title>Pretend That You're Alone</title>
+							<version/>
+							<artist id="1">
+								<name>Keane</name>
+								<appearsAs>Keane</appearsAs>
+								<url>http://www.7digital.com/artists/keane/?partner=712</url>
+							</artist>
+							<trackNumber>9</trackNumber>
+							<duration>227</duration>
+							<url>http://www.7digital.com/artists/keane/perfect-symmetry-1/09-Pretend-That-Youre-Alone?partner=712&amp;partner=712</url>
+						</track>
+						<remainingDownloads>5</remainingDownloads>
+						<purchaseDate>2012-05-28T14:01:14+01:00</purchaseDate>
+						<downloadUrls>
+							<downloadUrl>
+								<url>http://media3.7digital.com/media/user/downloadtrack?formatid=17&amp;oauth_consumer_key=7digital.com&amp;oauth_nonce=795556436&amp;oauth_signature_method=HMAC-SHA1&amp;oauth_timestamp=1338210356&amp;releaseid=320866&amp;shopid=34&amp;trackid=3615524&amp;oauth_signature=V%2BwrJABdEqD%2BK5Tiqs09rSuHNw8%3D</url>
+								<format id="17">
+									<fileFormat>MP3</fileFormat>
+									<bitRate>320</bitRate>
+									<drmFree>true</drmFree>
+								</format>
+							</downloadUrl>
+						</downloadUrls>
+					</lockerTrack>
+					<lockerTrack>
+						<track id="3615526">
+							<title>Black Burning Heart</title>
+							<version/>
+							<artist id="1">
+								<name>Keane</name>
+								<appearsAs>Keane</appearsAs>
+								<url>http://www.7digital.com/artists/keane/?partner=712</url>
+							</artist>
+							<trackNumber>10</trackNumber>
+							<duration>321</duration>
+							<url>http://www.7digital.com/artists/keane/perfect-symmetry-1/10-Black-Burning-Heart?partner=712&amp;partner=712</url>
+						</track>
+						<remainingDownloads>5</remainingDownloads>
+						<purchaseDate>2012-05-28T14:01:14+01:00</purchaseDate>
+						<downloadUrls>
+							<downloadUrl>
+								<url>http://media3.7digital.com/media/user/downloadtrack?formatid=17&amp;oauth_consumer_key=7digital.com&amp;oauth_nonce=1000838283&amp;oauth_signature_method=HMAC-SHA1&amp;oauth_timestamp=1338210356&amp;releaseid=320866&amp;shopid=34&amp;trackid=3615526&amp;oauth_signature=WHNsIdqvrsdH9HbKqmVvxPVJPn8%3D</url>
+								<format id="17">
+									<fileFormat>MP3</fileFormat>
+									<bitRate>320</bitRate>
+									<drmFree>true</drmFree>
+								</format>
+							</downloadUrl>
+						</downloadUrls>
+					</lockerTrack>
+					<lockerTrack>
+						<track id="3615527">
+							<title>Love Is The End</title>
+							<version/>
+							<artist id="1">
+								<name>Keane</name>
+								<appearsAs>Keane</appearsAs>
+								<url>http://www.7digital.com/artists/keane/?partner=712</url>
+							</artist>
+							<trackNumber>11</trackNumber>
+							<duration>337</duration>
+							<url>http://www.7digital.com/artists/keane/perfect-symmetry-1/11-Love-Is-The-End?partner=712&amp;partner=712</url>
+						</track>
+						<remainingDownloads>5</remainingDownloads>
+						<purchaseDate>2012-05-28T14:01:14+01:00</purchaseDate>
+						<downloadUrls>
+							<downloadUrl>
+								<url>http://media3.7digital.com/media/user/downloadtrack?formatid=17&amp;oauth_consumer_key=7digital.com&amp;oauth_nonce=239673126&amp;oauth_signature_method=HMAC-SHA1&amp;oauth_timestamp=1338210356&amp;releaseid=320866&amp;shopid=34&amp;trackid=3615527&amp;oauth_signature=yhBd9vpx5X4eu5aa%2FfZCJ%2BJjem0%3D</url>
+								<format id="17">
+									<fileFormat>MP3</fileFormat>
+									<bitRate>320</bitRate>
+									<drmFree>true</drmFree>
+								</format>
+							</downloadUrl>
+						</downloadUrls>
+					</lockerTrack>
+				</lockerTracks>
+			</lockerRelease>
+		</lockerReleases>
+	</locker>
+</response>
