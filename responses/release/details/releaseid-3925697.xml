@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<response xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" status="ok" version="1.2" xsi:noNamespaceSchemaLocation="http://api.7digital.com/1.2/static/7digitalAPI.xsd">
+	<release id="3923529">
+		<title>Only Human</title>
+		<version>Explicit</version>
+		<type>Album</type>
+		<barcode>00602547075727</barcode>
+		<year>2014</year>
+		<explicitContent>true</explicitContent>
+		<artist id="1293560">
+			<name>Cheryl</name>
+			<appearsAs>Cheryl</appearsAs>
+			<url>http://www.7digital.com/artist/cheryl/?partner=3923</url>
+		</artist>
+		<url>http://www.7digital.com/artist/cheryl/release/only-human-explicit/?partner=3923</url>
+		<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/039/235/0003923529_50.jpg</image>
+		<releaseDate>2014-11-10T00:00:00Z</releaseDate>
+		<addedDate>2014-10-29T13:02:41Z</addedDate>
+		<price>
+			<currency code="GBP">£</currency>
+			<value>8.99</value>
+			<formattedPrice>£8.99</formattedPrice>
+			<rrp>8.99</rrp>
+			<formattedRrp>£8.99</formattedRrp>
+			<onSale>false</onSale>
+		</price>
+		<formats availableDrmFree="true">
+			<format id="17">
+				<fileFormat>MP3</fileFormat>
+				<bitRate>320</bitRate>
+				<drmFree>true</drmFree>
+			</format>
+		</formats>
+		<label id="149943">
+			<name>Universal Music (Pty) Ltd.</name>
+		</label>
+		<licensor id="1">
+			<name>Universal</name>
+		</licensor>
+		<popularity>0</popularity>
+		<streamingReleaseDate>2014-11-10T00:00:00Z</streamingReleaseDate>
+		<duration>3098</duration>
+		<trackCount>15</trackCount>
+		<download>
+			<packages>
+				<package id="2">
+					<description>standard</description>
+					<price>
+						<currencyCode>GBP</currencyCode>
+						<sevendigitalPrice>8.99</sevendigitalPrice>
+						<recommendedRetailPrice>8.99</recommendedRetailPrice>
+					</price>
+					<format id="17">
+						<description>MP3 320</description>
+					</format>
+					<formats>
+						<format id="17">
+							<description>MP3 320</description>
+						</format>
+					</formats>
+				</package>
+			</packages>
+		</download>
+	</release>
+</response>
