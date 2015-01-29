@@ -1,0 +1,433 @@
+<?xml version="1.0" encoding="utf-8"?>
+<response xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" status="ok" version="1.2" xsi:noNamespaceSchemaLocation="http://api.7digital.com/1.2/static/7digitalAPI.xsd">
+  <locker>
+    <lockerReleases>
+      <page>1</page>
+      <pageSize>10</pageSize>
+      <totalItems>1</totalItems>
+      <lockerRelease>
+        <release id="438137">
+          <title>Decksandrumsandrockandroll</title>
+          <version/>
+          <type>Album</type>
+          <barcode>00600445003125</barcode>
+          <artist id="45369">
+            <name>Propellerheads</name>
+            <appearsAs>Propellerheads</appearsAs>
+            <url>http://www.7digital.com/artist/propellerheads/</url>
+          </artist>
+          <url>http://www.7digital.com/artist/propellerheads/release/decksandrumsandrockandroll/</url>
+          <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/004/381/0000438137_50.jpg</image>
+          <releaseDate>2030-04-26T00:00:00Z</releaseDate>
+          <licensor id="1"/>
+        </release>
+        <lockerTracks>
+          <lockerTrack>
+            <track id="4903562">
+              <title>Take California</title>
+              <version/>
+              <artist id="45369">
+                <name>Propellerheads</name>
+                <appearsAs>Propellerheads</appearsAs>
+                <url>http://www.7digital.com/artist/propellerheads/</url>
+              </artist>
+              <trackNumber>1</trackNumber>
+              <duration>442</duration>
+              <isrc>USDW19703101</isrc>
+              <url>http://www.7digital.com/artist/propellerheads/release/decksandrumsandrockandroll/?h=01&amp;d=1</url>
+              <discNumber>1</discNumber>
+              <number>1</number>
+            </track>
+            <remainingDownloads>10</remainingDownloads>
+            <purchaseId>815404983</purchaseId>
+            <purchaseDate>2015-01-29T16:14:53.22Z</purchaseDate>
+            <completeAlbumPurchase>true</completeAlbumPurchase>
+            <downloadUrls>
+              <downloadUrl>
+                <url>http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&amp;oauth_nonce=xc1stny0omlxjnso&amp;oauth_signature=iERhBoS0Y32RjlBv0scIDbHN%2FXA%3D&amp;oauth_signature_method=HMAC-SHA1&amp;oauth_timestamp=1422548281&amp;oauth_version=1.0a&amp;formatid=17&amp;partnerid=3923&amp;onbehalfofpartnerid=3923&amp;presigned=1&amp;releaseid=438137&amp;shopid=34&amp;trackid=4903562&amp;userid=122349221</url>
+                <format id="17">
+                  <fileFormat>MP3</fileFormat>
+                  <bitRate>320</bitRate>
+                  <drmFree>true</drmFree>
+                </format>
+              </downloadUrl>
+            </downloadUrls>
+          </lockerTrack>
+          <lockerTrack>
+            <track id="4903565">
+              <title>Velvet Pants</title>
+              <version/>
+              <artist id="45369">
+                <name>Propellerheads</name>
+                <appearsAs>Propellerheads</appearsAs>
+                <url>http://www.7digital.com/artist/propellerheads/</url>
+              </artist>
+              <trackNumber>2</trackNumber>
+              <duration>347</duration>
+              <isrc>USDW19703109</isrc>
+              <url>http://www.7digital.com/artist/propellerheads/release/decksandrumsandrockandroll/?h=02&amp;d=1</url>
+              <discNumber>1</discNumber>
+              <number>2</number>
+            </track>
+            <remainingDownloads>10</remainingDownloads>
+            <purchaseId>815404983</purchaseId>
+            <purchaseDate>2015-01-29T16:14:53.22Z</purchaseDate>
+            <completeAlbumPurchase>true</completeAlbumPurchase>
+            <downloadUrls>
+              <downloadUrl>
+                <url>http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&amp;oauth_nonce=pmvep4yfv3jukjd1&amp;oauth_signature=Of0xGbWGdmNr4%2FX8nV%2FfJiwgDiA%3D&amp;oauth_signature_method=HMAC-SHA1&amp;oauth_timestamp=1422548281&amp;oauth_version=1.0a&amp;formatid=17&amp;partnerid=3923&amp;onbehalfofpartnerid=3923&amp;presigned=1&amp;releaseid=438137&amp;shopid=34&amp;trackid=4903565&amp;userid=122349221</url>
+                <format id="17">
+                  <fileFormat>MP3</fileFormat>
+                  <bitRate>320</bitRate>
+                  <drmFree>true</drmFree>
+                </format>
+              </downloadUrl>
+            </downloadUrls>
+          </lockerTrack>
+          <lockerTrack>
+            <track id="4903567">
+              <title>Better?</title>
+              <version/>
+              <artist id="45369">
+                <name>Propellerheads</name>
+                <appearsAs>Propellerheads</appearsAs>
+                <url>http://www.7digital.com/artist/propellerheads/</url>
+              </artist>
+              <trackNumber>3</trackNumber>
+              <duration>123</duration>
+              <isrc>USDW19703113</isrc>
+              <url>http://www.7digital.com/artist/propellerheads/release/decksandrumsandrockandroll/?h=03&amp;d=1</url>
+              <discNumber>1</discNumber>
+              <number>3</number>
+            </track>
+            <remainingDownloads>10</remainingDownloads>
+            <purchaseId>815404983</purchaseId>
+            <purchaseDate>2015-01-29T16:14:53.22Z</purchaseDate>
+            <completeAlbumPurchase>true</completeAlbumPurchase>
+            <downloadUrls>
+              <downloadUrl>
+                <url>http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&amp;oauth_nonce=lvvqnehx1ee59owb&amp;oauth_signature=JTBS7mqmqKrwb%2FCYA%2Fg1I%2FcYyO0%3D&amp;oauth_signature_method=HMAC-SHA1&amp;oauth_timestamp=1422548281&amp;oauth_version=1.0a&amp;formatid=17&amp;partnerid=3923&amp;onbehalfofpartnerid=3923&amp;presigned=1&amp;releaseid=438137&amp;shopid=34&amp;trackid=4903567&amp;userid=122349221</url>
+                <format id="17">
+                  <fileFormat>MP3</fileFormat>
+                  <bitRate>320</bitRate>
+                  <drmFree>true</drmFree>
+                </format>
+              </downloadUrl>
+            </downloadUrls>
+          </lockerTrack>
+          <lockerTrack>
+            <track id="4903569">
+              <title>360? (Oh Yeah?)</title>
+              <version/>
+              <artist id="327699">
+                <name>Propellerheads / De La Soul</name>
+                <appearsAs>Propellerheads / De La Soul</appearsAs>
+                <url>http://www.7digital.com/artist/propellerheads-de-la-soul/</url>
+              </artist>
+              <trackNumber>4</trackNumber>
+              <duration>268</duration>
+              <isrc>USDW19703117</isrc>
+              <url>http://www.7digital.com/artist/propellerheads/release/decksandrumsandrockandroll/?h=04&amp;d=1</url>
+              <discNumber>1</discNumber>
+              <number>4</number>
+            </track>
+            <remainingDownloads>10</remainingDownloads>
+            <purchaseId>815404983</purchaseId>
+            <purchaseDate>2015-01-29T16:14:53.22Z</purchaseDate>
+            <completeAlbumPurchase>true</completeAlbumPurchase>
+            <downloadUrls>
+              <downloadUrl>
+                <url>http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&amp;oauth_nonce=oc009a54nu72dezf&amp;oauth_signature=ZBC4q1HuS9pAs7iVDUjRdyrgLAY%3D&amp;oauth_signature_method=HMAC-SHA1&amp;oauth_timestamp=1422548281&amp;oauth_version=1.0a&amp;formatid=17&amp;partnerid=3923&amp;onbehalfofpartnerid=3923&amp;presigned=1&amp;releaseid=438137&amp;shopid=34&amp;trackid=4903569&amp;userid=122349221</url>
+                <format id="17">
+                  <fileFormat>MP3</fileFormat>
+                  <bitRate>320</bitRate>
+                  <drmFree>true</drmFree>
+                </format>
+              </downloadUrl>
+            </downloadUrls>
+          </lockerTrack>
+          <lockerTrack>
+            <track id="4903571">
+              <title>History Repeating</title>
+              <version/>
+              <artist id="327700">
+                <name>Propellerheads / Shirley Bassey</name>
+                <appearsAs>Propellerheads / Shirley Bassey</appearsAs>
+                <url>http://www.7digital.com/artist/propellerheads-shirley-bassey/</url>
+              </artist>
+              <trackNumber>5</trackNumber>
+              <duration>243</duration>
+              <isrc>USDW19703110</isrc>
+              <url>http://www.7digital.com/artist/propellerheads/release/decksandrumsandrockandroll/?h=05&amp;d=1</url>
+              <discNumber>1</discNumber>
+              <number>5</number>
+            </track>
+            <remainingDownloads>10</remainingDownloads>
+            <purchaseId>815404983</purchaseId>
+            <purchaseDate>2015-01-29T16:14:53.22Z</purchaseDate>
+            <completeAlbumPurchase>true</completeAlbumPurchase>
+            <downloadUrls>
+              <downloadUrl>
+                <url>http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&amp;oauth_nonce=jvly2cale9okz5gh&amp;oauth_signature=gtexNQfA9Tz4oR9s1Exw5z6vhg8%3D&amp;oauth_signature_method=HMAC-SHA1&amp;oauth_timestamp=1422548281&amp;oauth_version=1.0a&amp;formatid=17&amp;partnerid=3923&amp;onbehalfofpartnerid=3923&amp;presigned=1&amp;releaseid=438137&amp;shopid=34&amp;trackid=4903571&amp;userid=122349221</url>
+                <format id="17">
+                  <fileFormat>MP3</fileFormat>
+                  <bitRate>320</bitRate>
+                  <drmFree>true</drmFree>
+                </format>
+              </downloadUrl>
+            </downloadUrls>
+          </lockerTrack>
+          <lockerTrack>
+            <track id="4903573">
+              <title>Winning Style</title>
+              <version/>
+              <artist id="45369">
+                <name>Propellerheads</name>
+                <appearsAs>Propellerheads</appearsAs>
+                <url>http://www.7digital.com/artist/propellerheads/</url>
+              </artist>
+              <trackNumber>6</trackNumber>
+              <duration>358</duration>
+              <isrc>USDW19703111</isrc>
+              <url>http://www.7digital.com/artist/propellerheads/release/decksandrumsandrockandroll/?h=06&amp;d=1</url>
+              <discNumber>1</discNumber>
+              <number>6</number>
+            </track>
+            <remainingDownloads>10</remainingDownloads>
+            <purchaseId>815404983</purchaseId>
+            <purchaseDate>2015-01-29T16:14:53.22Z</purchaseDate>
+            <completeAlbumPurchase>true</completeAlbumPurchase>
+            <downloadUrls>
+              <downloadUrl>
+                <url>http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&amp;oauth_nonce=ghgijd3l13d4hqtv&amp;oauth_signature=PpEf8i6ps7VE9xNH92oC%2FbI4BTw%3D&amp;oauth_signature_method=HMAC-SHA1&amp;oauth_timestamp=1422548281&amp;oauth_version=1.0a&amp;formatid=17&amp;partnerid=3923&amp;onbehalfofpartnerid=3923&amp;presigned=1&amp;releaseid=438137&amp;shopid=34&amp;trackid=4903573&amp;userid=122349221</url>
+                <format id="17">
+                  <fileFormat>MP3</fileFormat>
+                  <bitRate>320</bitRate>
+                  <drmFree>true</drmFree>
+                </format>
+              </downloadUrl>
+            </downloadUrls>
+          </lockerTrack>
+          <lockerTrack>
+            <track id="4903575">
+              <title>Bang On!</title>
+              <version/>
+              <artist id="45369">
+                <name>Propellerheads</name>
+                <appearsAs>Propellerheads</appearsAs>
+                <url>http://www.7digital.com/artist/propellerheads/</url>
+              </artist>
+              <trackNumber>7</trackNumber>
+              <duration>345</duration>
+              <isrc>USDW19703106</isrc>
+              <url>http://www.7digital.com/artist/propellerheads/release/decksandrumsandrockandroll/?h=07&amp;d=1</url>
+              <discNumber>1</discNumber>
+              <number>7</number>
+            </track>
+            <remainingDownloads>10</remainingDownloads>
+            <purchaseId>815404983</purchaseId>
+            <purchaseDate>2015-01-29T16:14:53.22Z</purchaseDate>
+            <completeAlbumPurchase>true</completeAlbumPurchase>
+            <downloadUrls>
+              <downloadUrl>
+                <url>http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&amp;oauth_nonce=o0vnc9jmby60wudt&amp;oauth_signature=8q%2Bk7eGIyhcZVsXqoFW4YR5iKoc%3D&amp;oauth_signature_method=HMAC-SHA1&amp;oauth_timestamp=1422548281&amp;oauth_version=1.0a&amp;formatid=17&amp;partnerid=3923&amp;onbehalfofpartnerid=3923&amp;presigned=1&amp;releaseid=438137&amp;shopid=34&amp;trackid=4903575&amp;userid=122349221</url>
+                <format id="17">
+                  <fileFormat>MP3</fileFormat>
+                  <bitRate>320</bitRate>
+                  <drmFree>true</drmFree>
+                </format>
+              </downloadUrl>
+            </downloadUrls>
+          </lockerTrack>
+          <lockerTrack>
+            <track id="4903578">
+              <title>A Number Of Microphones</title>
+              <version/>
+              <artist id="45369">
+                <name>Propellerheads</name>
+                <appearsAs>Propellerheads</appearsAs>
+                <url>http://www.7digital.com/artist/propellerheads/</url>
+              </artist>
+              <trackNumber>8</trackNumber>
+              <duration>46</duration>
+              <isrc>USDW19703112</isrc>
+              <url>http://www.7digital.com/artist/propellerheads/release/decksandrumsandrockandroll/?h=08&amp;d=1</url>
+              <discNumber>1</discNumber>
+              <number>8</number>
+            </track>
+            <remainingDownloads>10</remainingDownloads>
+            <purchaseId>815404983</purchaseId>
+            <purchaseDate>2015-01-29T16:14:53.22Z</purchaseDate>
+            <completeAlbumPurchase>true</completeAlbumPurchase>
+            <downloadUrls>
+              <downloadUrl>
+                <url>http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&amp;oauth_nonce=nzu68r6f4a809hdx&amp;oauth_signature=yUrz45JnPTv%2BYKVvZkIPMZJqEZc%3D&amp;oauth_signature_method=HMAC-SHA1&amp;oauth_timestamp=1422548281&amp;oauth_version=1.0a&amp;formatid=17&amp;partnerid=3923&amp;onbehalfofpartnerid=3923&amp;presigned=1&amp;releaseid=438137&amp;shopid=34&amp;trackid=4903578&amp;userid=122349221</url>
+                <format id="17">
+                  <fileFormat>MP3</fileFormat>
+                  <bitRate>320</bitRate>
+                  <drmFree>true</drmFree>
+                </format>
+              </downloadUrl>
+            </downloadUrls>
+          </lockerTrack>
+          <lockerTrack>
+            <track id="4903579">
+              <title>On Her Majesty's Secret Service</title>
+              <version/>
+              <artist id="45369">
+                <name>Propellerheads</name>
+                <appearsAs>Propellerheads</appearsAs>
+                <url>http://www.7digital.com/artist/propellerheads/</url>
+              </artist>
+              <trackNumber>9</trackNumber>
+              <duration>561</duration>
+              <isrc>USDW19703114</isrc>
+              <url>http://www.7digital.com/artist/propellerheads/release/decksandrumsandrockandroll/?h=09&amp;d=1</url>
+              <discNumber>1</discNumber>
+              <number>9</number>
+            </track>
+            <remainingDownloads>10</remainingDownloads>
+            <purchaseId>815404983</purchaseId>
+            <purchaseDate>2015-01-29T16:14:53.22Z</purchaseDate>
+            <completeAlbumPurchase>true</completeAlbumPurchase>
+            <downloadUrls>
+              <downloadUrl>
+                <url>http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&amp;oauth_nonce=p371i4ei94gui3yg&amp;oauth_signature=nmGzp31sJDdNOhOxx%2FmpSF79Em8%3D&amp;oauth_signature_method=HMAC-SHA1&amp;oauth_timestamp=1422548281&amp;oauth_version=1.0a&amp;formatid=17&amp;partnerid=3923&amp;onbehalfofpartnerid=3923&amp;presigned=1&amp;releaseid=438137&amp;shopid=34&amp;trackid=4903579&amp;userid=122349221</url>
+                <format id="17">
+                  <fileFormat>MP3</fileFormat>
+                  <bitRate>320</bitRate>
+                  <drmFree>true</drmFree>
+                </format>
+              </downloadUrl>
+            </downloadUrls>
+          </lockerTrack>
+          <lockerTrack>
+            <track id="4903581">
+              <title>Bigger?</title>
+              <version/>
+              <artist id="45369">
+                <name>Propellerheads</name>
+                <appearsAs>Propellerheads</appearsAs>
+                <url>http://www.7digital.com/artist/propellerheads/</url>
+              </artist>
+              <trackNumber>10</trackNumber>
+              <duration>140</duration>
+              <isrc>USDW19703115</isrc>
+              <url>http://www.7digital.com/artist/propellerheads/release/decksandrumsandrockandroll/?h=10&amp;d=1</url>
+              <discNumber>1</discNumber>
+              <number>10</number>
+            </track>
+            <remainingDownloads>10</remainingDownloads>
+            <purchaseId>815404983</purchaseId>
+            <purchaseDate>2015-01-29T16:14:53.22Z</purchaseDate>
+            <completeAlbumPurchase>true</completeAlbumPurchase>
+            <downloadUrls>
+              <downloadUrl>
+                <url>http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&amp;oauth_nonce=yups6xx7dptcakn4&amp;oauth_signature=ZINMxNM%2B4bUUkWITrjHpPiBc5bs%3D&amp;oauth_signature_method=HMAC-SHA1&amp;oauth_timestamp=1422548281&amp;oauth_version=1.0a&amp;formatid=17&amp;partnerid=3923&amp;onbehalfofpartnerid=3923&amp;presigned=1&amp;releaseid=438137&amp;shopid=34&amp;trackid=4903581&amp;userid=122349221</url>
+                <format id="17">
+                  <fileFormat>MP3</fileFormat>
+                  <bitRate>320</bitRate>
+                  <drmFree>true</drmFree>
+                </format>
+              </downloadUrl>
+            </downloadUrls>
+          </lockerTrack>
+          <lockerTrack>
+            <track id="4903583">
+              <title>Cominagetcha</title>
+              <version/>
+              <artist id="45369">
+                <name>Propellerheads</name>
+                <appearsAs>Propellerheads</appearsAs>
+                <url>http://www.7digital.com/artist/propellerheads/</url>
+              </artist>
+              <trackNumber>11</trackNumber>
+              <duration>423</duration>
+              <isrc>USDW19703116</isrc>
+              <url>http://www.7digital.com/artist/propellerheads/release/decksandrumsandrockandroll/?h=11&amp;d=1</url>
+              <discNumber>1</discNumber>
+              <number>11</number>
+            </track>
+            <remainingDownloads>10</remainingDownloads>
+            <purchaseId>815404983</purchaseId>
+            <purchaseDate>2015-01-29T16:14:53.22Z</purchaseDate>
+            <completeAlbumPurchase>true</completeAlbumPurchase>
+            <downloadUrls>
+              <downloadUrl>
+                <url>http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&amp;oauth_nonce=vhu5xnktvm8ekl7a&amp;oauth_signature=gJvBkKQGlrVU%2BBrkJpXTicgHsOY%3D&amp;oauth_signature_method=HMAC-SHA1&amp;oauth_timestamp=1422548281&amp;oauth_version=1.0a&amp;formatid=17&amp;partnerid=3923&amp;onbehalfofpartnerid=3923&amp;presigned=1&amp;releaseid=438137&amp;shopid=34&amp;trackid=4903583&amp;userid=122349221</url>
+                <format id="17">
+                  <fileFormat>MP3</fileFormat>
+                  <bitRate>320</bitRate>
+                  <drmFree>true</drmFree>
+                </format>
+              </downloadUrl>
+            </downloadUrls>
+          </lockerTrack>
+          <lockerTrack>
+            <track id="4903586">
+              <title>Spybreak!</title>
+              <version/>
+              <artist id="45369">
+                <name>Propellerheads</name>
+                <appearsAs>Propellerheads</appearsAs>
+                <url>http://www.7digital.com/artist/propellerheads/</url>
+              </artist>
+              <trackNumber>12</trackNumber>
+              <duration>418</duration>
+              <isrc>USDW19703102</isrc>
+              <url>http://www.7digital.com/artist/propellerheads/release/decksandrumsandrockandroll/?h=12&amp;d=1</url>
+              <discNumber>1</discNumber>
+              <number>12</number>
+            </track>
+            <remainingDownloads>10</remainingDownloads>
+            <purchaseId>815404983</purchaseId>
+            <purchaseDate>2015-01-29T16:14:53.22Z</purchaseDate>
+            <completeAlbumPurchase>true</completeAlbumPurchase>
+            <downloadUrls>
+              <downloadUrl>
+                <url>http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&amp;oauth_nonce=m1ko2v32e0w3kbhx&amp;oauth_signature=qTjxVVt1HAKMGKULL0xz%2FIxZnqg%3D&amp;oauth_signature_method=HMAC-SHA1&amp;oauth_timestamp=1422548281&amp;oauth_version=1.0a&amp;formatid=17&amp;partnerid=3923&amp;onbehalfofpartnerid=3923&amp;presigned=1&amp;releaseid=438137&amp;shopid=34&amp;trackid=4903586&amp;userid=122349221</url>
+                <format id="17">
+                  <fileFormat>MP3</fileFormat>
+                  <bitRate>320</bitRate>
+                  <drmFree>true</drmFree>
+                </format>
+              </downloadUrl>
+            </downloadUrls>
+          </lockerTrack>
+          <lockerTrack>
+            <track id="4903590">
+              <title>You Want It Back</title>
+              <version/>
+              <artist id="327701">
+                <name>Propellerheads / Jungle Brothers</name>
+                <appearsAs>Propellerheads / Jungle Brothers</appearsAs>
+                <url>http://www.7digital.com/artist/propellerheads-jungle-brothers/</url>
+              </artist>
+              <trackNumber>13</trackNumber>
+              <duration>359</duration>
+              <isrc>USDW19703118</isrc>
+              <url>http://www.7digital.com/artist/propellerheads/release/decksandrumsandrockandroll/?h=13&amp;d=1</url>
+              <discNumber>1</discNumber>
+              <number>13</number>
+            </track>
+            <remainingDownloads>10</remainingDownloads>
+            <purchaseId>815404983</purchaseId>
+            <purchaseDate>2015-01-29T16:14:53.22Z</purchaseDate>
+            <completeAlbumPurchase>true</completeAlbumPurchase>
+            <downloadUrls>
+              <downloadUrl>
+                <url>http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&amp;oauth_nonce=pn0bi4skj77sztw2&amp;oauth_signature=CqY56ppRYjQqK2mBdmVna1RuAxU%3D&amp;oauth_signature_method=HMAC-SHA1&amp;oauth_timestamp=1422548281&amp;oauth_version=1.0a&amp;formatid=17&amp;partnerid=3923&amp;onbehalfofpartnerid=3923&amp;presigned=1&amp;releaseid=438137&amp;shopid=34&amp;trackid=4903590&amp;userid=122349221</url>
+                <format id="17">
+                  <fileFormat>MP3</fileFormat>
+                  <bitRate>320</bitRate>
+                  <drmFree>true</drmFree>
+                </format>
+              </downloadUrl>
+            </downloadUrls>
+          </lockerTrack>
+        </lockerTracks>
+        <available>true</available>
+      </lockerRelease>
+    </lockerReleases>
+  </locker>
+</response>
