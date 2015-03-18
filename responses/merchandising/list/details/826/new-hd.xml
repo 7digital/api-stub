@@ -1,0 +1,3405 @@
+<?xml version="1.0" encoding="utf-8"?>
+<response xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" status="ok" version="1.2" xsi:noNamespaceSchemaLocation="http://api.7digital.com/1.2/static/7digitalAPI.xsd">
+  <list id="17190">
+    <key>new-hd</key>
+    <listItems>
+      <listItem id="4034982">
+        <type>release</type>
+        <release id="4034982">
+          <title>Control</title>
+          <version />
+          <type>Album</type>
+          <barcode>3610159479236</barcode>
+          <year>2015</year>
+          <explicitContent>false</explicitContent>
+          <artist id="1533111">
+            <name>Fyfe</name>
+            <appearsAs>Fyfe</appearsAs>
+            <url>http://fr.7digital.com/artist/fyfe/?partner=3923</url>
+          </artist>
+          <url>http://fr.7digital.com/artist/fyfe/release/control-1/?partner=3923</url>
+          <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/040/349/0004034982_50.jpg</image>
+          <releaseDate>2015-03-09T00:00:00Z</releaseDate>
+          <addedDate>2014-12-16T10:30:11Z</addedDate>
+          <price>
+            <currency code="EUR">€</currency>
+            <value>7.49</value>
+            <formattedPrice>7,49€</formattedPrice>
+            <rrp>7.49</rrp>
+            <formattedRrp>7,49€</formattedRrp>
+            <onSale>false</onSale>
+          </price>
+          <formats availableDrmFree="true">
+            <format id="17">
+              <fileFormat>MP3</fileFormat>
+              <bitRate>320</bitRate>
+              <drmFree>true</drmFree>
+            </format>
+            <format id="33">
+              <fileFormat>M4A</fileFormat>
+              <bitRate>320</bitRate>
+              <drmFree>true</drmFree>
+            </format>
+          </formats>
+          <label id="110049">
+            <name>Believe Recordings</name>
+          </label>
+          <licensor id="166">
+            <name>Believe</name>
+          </licensor>
+          <streamingReleaseDate>2015-03-09T00:00:00Z</streamingReleaseDate>
+          <duration>2453</duration>
+          <trackCount>11</trackCount>
+          <download>
+            <packages>
+              <package id="12">
+                <description>deluxe tier 1</description>
+                <price>
+                  <currencyCode>EUR</currencyCode>
+                  <sevendigitalPrice>8.99</sevendigitalPrice>
+                  <recommendedRetailPrice>8.99</recommendedRetailPrice>
+                </price>
+                <formats>
+                  <format id="52">
+                    <description>FLAC 24-bit 44.1kHz</description>
+                  </format>
+                </formats>
+              </package>
+              <package id="9">
+                <description>premium</description>
+                <price>
+                  <currencyCode>EUR</currencyCode>
+                  <sevendigitalPrice>8.49</sevendigitalPrice>
+                  <recommendedRetailPrice>8.49</recommendedRetailPrice>
+                </price>
+                <formats>
+                  <format id="45">
+                    <description>FLAC 16-bit 44.1kHz</description>
+                  </format>
+                </formats>
+              </package>
+              <package id="2">
+                <description>standard</description>
+                <price>
+                  <currencyCode>EUR</currencyCode>
+                  <sevendigitalPrice>7.49</sevendigitalPrice>
+                  <recommendedRetailPrice>7.49</recommendedRetailPrice>
+                </price>
+                <formats>
+                  <format id="17">
+                    <description>MP3 320</description>
+                  </format>
+                  <format id="33">
+                    <description>AAC 320</description>
+                  </format>
+                </formats>
+              </package>
+            </packages>
+          </download>
+        </release>
+      </listItem>
+      <listItem id="4126077">
+        <type>release</type>
+        <release id="4126077">
+          <title>L'âge d'or</title>
+          <version />
+          <type>Album</type>
+          <barcode>886445058833</barcode>
+          <year>2015</year>
+          <explicitContent>false</explicitContent>
+          <artist id="11546">
+            <name>Cali</name>
+            <appearsAs>Cali</appearsAs>
+            <url>http://fr.7digital.com/artist/cali/?partner=3923</url>
+          </artist>
+          <url>http://fr.7digital.com/artist/cali/release/lage-dor/?partner=3923</url>
+          <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/041/260/0004126077_50.jpg</image>
+          <releaseDate>2015-03-09T00:00:00Z</releaseDate>
+          <addedDate>2015-02-24T17:54:41Z</addedDate>
+          <price>
+            <currency code="EUR">€</currency>
+            <value>9.79</value>
+            <formattedPrice>9,79€</formattedPrice>
+            <rrp>9.79</rrp>
+            <formattedRrp>9,79€</formattedRrp>
+            <onSale>false</onSale>
+          </price>
+          <formats availableDrmFree="true">
+            <format id="17">
+              <fileFormat>MP3</fileFormat>
+              <bitRate>320</bitRate>
+              <drmFree>true</drmFree>
+            </format>
+            <format id="33">
+              <fileFormat>M4A</fileFormat>
+              <bitRate>320</bitRate>
+              <drmFree>true</drmFree>
+            </format>
+          </formats>
+          <label id="592">
+            <name>Columbia</name>
+          </label>
+          <licensor id="2">
+            <name>Sony Music</name>
+          </licensor>
+          <streamingReleaseDate>2015-03-09T00:00:00Z</streamingReleaseDate>
+          <duration>2695</duration>
+          <trackCount>13</trackCount>
+          <download>
+            <packages>
+              <package id="2">
+                <description>standard</description>
+                <price>
+                  <currencyCode>EUR</currencyCode>
+                  <sevendigitalPrice>9.79</sevendigitalPrice>
+                  <recommendedRetailPrice>9.79</recommendedRetailPrice>
+                </price>
+                <formats>
+                  <format id="17">
+                    <description>MP3 320</description>
+                  </format>
+                  <format id="33">
+                    <description>AAC 320</description>
+                  </format>
+                </formats>
+              </package>
+              <package id="9">
+                <description>premium</description>
+                <price>
+                  <currencyCode>EUR</currencyCode>
+                  <sevendigitalPrice>12.49</sevendigitalPrice>
+                  <recommendedRetailPrice>12.49</recommendedRetailPrice>
+                </price>
+                <formats>
+                  <format id="45">
+                    <description>FLAC 16-bit 44.1kHz</description>
+                  </format>
+                </formats>
+              </package>
+              <package id="12">
+                <description>deluxe tier 1</description>
+                <price>
+                  <currencyCode>EUR</currencyCode>
+                  <sevendigitalPrice>14.99</sevendigitalPrice>
+                  <recommendedRetailPrice>14.99</recommendedRetailPrice>
+                </price>
+                <formats>
+                  <format id="52">
+                    <description>FLAC 24-bit 44.1kHz</description>
+                  </format>
+                </formats>
+              </package>
+            </packages>
+          </download>
+        </release>
+      </listItem>
+      <listItem id="4205655">
+        <type>release</type>
+        <release id="4205655">
+          <title>Chasing Yesterday</title>
+          <version>Deluxe Version</version>
+          <type>Album</type>
+          <barcode>5052945018119</barcode>
+          <year>2015</year>
+          <explicitContent>false</explicitContent>
+          <artist id="1075100">
+            <name>Noel Gallagher's High Flying Birds</name>
+            <appearsAs>Noel Gallagher's High Flying Birds</appearsAs>
+            <url>http://fr.7digital.com/artist/noel-gallaghers-high-flying-birds/?partner=3923</url>
+          </artist>
+          <url>http://fr.7digital.com/artist/noel-gallaghers-high-flying-birds/release/chasing-yesterday-deluxe-version-1/?partner=3923</url>
+          <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/042/056/0004205655_50.jpg</image>
+          <releaseDate>2015-03-02T00:00:00Z</releaseDate>
+          <addedDate>2015-02-26T15:51:05Z</addedDate>
+          <price>
+            <currency code="EUR">€</currency>
+            <value>10.99</value>
+            <formattedPrice>10,99€</formattedPrice>
+            <rrp>10.99</rrp>
+            <formattedRrp>10,99€</formattedRrp>
+            <onSale>false</onSale>
+          </price>
+          <formats availableDrmFree="true">
+            <format id="17">
+              <fileFormat>MP3</fileFormat>
+              <bitRate>320</bitRate>
+              <drmFree>true</drmFree>
+            </format>
+            <format id="33">
+              <fileFormat>M4A</fileFormat>
+              <bitRate>320</bitRate>
+              <drmFree>true</drmFree>
+            </format>
+          </formats>
+          <label id="1385">
+            <name>Sour Mash</name>
+          </label>
+          <licensor id="48">
+            <name>Vital</name>
+          </licensor>
+          <streamingReleaseDate>2015-03-02T00:00:00Z</streamingReleaseDate>
+          <duration>3626</duration>
+          <trackCount>14</trackCount>
+          <download>
+            <packages>
+              <package id="16">
+                <description>deluxe tier 2</description>
+                <price>
+                  <currencyCode>EUR</currencyCode>
+                  <sevendigitalPrice>16.49</sevendigitalPrice>
+                  <recommendedRetailPrice>16.49</recommendedRetailPrice>
+                </price>
+                <formats>
+                  <format id="60">
+                    <description>FLAC 24-bit 96kHz</description>
+                  </format>
+                </formats>
+              </package>
+              <package id="2">
+                <description>standard</description>
+                <price>
+                  <currencyCode>EUR</currencyCode>
+                  <sevendigitalPrice>10.99</sevendigitalPrice>
+                  <recommendedRetailPrice>10.99</recommendedRetailPrice>
+                </price>
+                <formats>
+                  <format id="17">
+                    <description>MP3 320</description>
+                  </format>
+                  <format id="33">
+                    <description>AAC 320</description>
+                  </format>
+                </formats>
+              </package>
+              <package id="9">
+                <description>premium</description>
+                <price>
+                  <currencyCode>EUR</currencyCode>
+                  <sevendigitalPrice>13.49</sevendigitalPrice>
+                  <recommendedRetailPrice>13.49</recommendedRetailPrice>
+                </price>
+                <formats>
+                  <format id="45">
+                    <description>FLAC 16-bit 44.1kHz</description>
+                  </format>
+                </formats>
+              </package>
+            </packages>
+          </download>
+        </release>
+      </listItem>
+      <listItem id="4122985">
+        <type>release</type>
+        <release id="4122985">
+          <title>Hommage à Jean Ferrat : Des airs de liberté</title>
+          <version />
+          <type>Album</type>
+          <barcode>886445085983</barcode>
+          <year>2015</year>
+          <explicitContent>false</explicitContent>
+          <artist id="209">
+            <name>Various Artists</name>
+            <appearsAs>Various</appearsAs>
+            <url>http://fr.7digital.com/artist/various-artists/?partner=3923</url>
+          </artist>
+          <url>http://fr.7digital.com/artist/various-artists/release/des-airs-de-liberte/?partner=3923</url>
+          <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/041/229/0004122985_50.jpg</image>
+          <releaseDate>2015-03-02T00:00:00Z</releaseDate>
+          <addedDate>2015-02-19T14:32:49Z</addedDate>
+          <price>
+            <currency code="EUR">€</currency>
+            <value>9.79</value>
+            <formattedPrice>9,79€</formattedPrice>
+            <rrp>9.79</rrp>
+            <formattedRrp>9,79€</formattedRrp>
+            <onSale>false</onSale>
+          </price>
+          <formats availableDrmFree="true">
+            <format id="17">
+              <fileFormat>MP3</fileFormat>
+              <bitRate>320</bitRate>
+              <drmFree>true</drmFree>
+            </format>
+            <format id="33">
+              <fileFormat>M4A</fileFormat>
+              <bitRate>320</bitRate>
+              <drmFree>true</drmFree>
+            </format>
+          </formats>
+          <label id="592">
+            <name>Columbia</name>
+          </label>
+          <licensor id="2">
+            <name>Sony Music</name>
+          </licensor>
+          <streamingReleaseDate>2015-03-02T00:00:00Z</streamingReleaseDate>
+          <duration>2977</duration>
+          <trackCount>15</trackCount>
+          <download>
+            <packages>
+              <package id="2">
+                <description>standard</description>
+                <price>
+                  <currencyCode>EUR</currencyCode>
+                  <sevendigitalPrice>9.79</sevendigitalPrice>
+                  <recommendedRetailPrice>9.79</recommendedRetailPrice>
+                </price>
+                <formats>
+                  <format id="17">
+                    <description>MP3 320</description>
+                  </format>
+                  <format id="33">
+                    <description>AAC 320</description>
+                  </format>
+                </formats>
+              </package>
+              <package id="9">
+                <description>premium</description>
+                <price>
+                  <currencyCode>EUR</currencyCode>
+                  <sevendigitalPrice>12.49</sevendigitalPrice>
+                  <recommendedRetailPrice>12.49</recommendedRetailPrice>
+                </price>
+                <formats>
+                  <format id="45">
+                    <description>FLAC 16-bit 44.1kHz</description>
+                  </format>
+                </formats>
+              </package>
+              <package id="12">
+                <description>deluxe tier 1</description>
+                <price>
+                  <currencyCode>EUR</currencyCode>
+                  <sevendigitalPrice>14.99</sevendigitalPrice>
+                  <recommendedRetailPrice>14.99</recommendedRetailPrice>
+                </price>
+                <formats>
+                  <format id="52">
+                    <description>FLAC 24-bit 44.1kHz</description>
+                  </format>
+                </formats>
+              </package>
+            </packages>
+          </download>
+        </release>
+      </listItem>
+      <listItem id="4200156">
+        <type>release</type>
+        <release id="4200156">
+          <title>We Won't Let You Down</title>
+          <version />
+          <type>Album</type>
+          <barcode>886445025989</barcode>
+          <year>2015</year>
+          <explicitContent>false</explicitContent>
+          <artist id="1151832">
+            <name>Théodore, Paul et Gabriel</name>
+            <appearsAs>Théodore, Paul et Gabriel</appearsAs>
+            <url>http://fr.7digital.com/artist/theodore-paul-et-gabriel/?partner=3923</url>
+          </artist>
+          <url>http://fr.7digital.com/artist/theodore-paul-et-gabriel/release/we-wont-let-you-down-1/?partner=3923</url>
+          <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/042/001/0004200156_50.jpg</image>
+          <releaseDate>2015-03-09T00:00:00Z</releaseDate>
+          <addedDate>2015-02-25T18:51:10Z</addedDate>
+          <price>
+            <currency code="EUR">€</currency>
+            <value>9.79</value>
+            <formattedPrice>9,79€</formattedPrice>
+            <rrp>9.79</rrp>
+            <formattedRrp>9,79€</formattedRrp>
+            <onSale>false</onSale>
+          </price>
+          <formats availableDrmFree="true">
+            <format id="17">
+              <fileFormat>MP3</fileFormat>
+              <bitRate>320</bitRate>
+              <drmFree>true</drmFree>
+            </format>
+            <format id="33">
+              <fileFormat>M4A</fileFormat>
+              <bitRate>320</bitRate>
+              <drmFree>true</drmFree>
+            </format>
+          </formats>
+          <label id="99450">
+            <name>Belleville Music</name>
+          </label>
+          <licensor id="2">
+            <name>Sony Music</name>
+          </licensor>
+          <streamingReleaseDate>2015-03-09T00:00:00Z</streamingReleaseDate>
+          <duration>2328</duration>
+          <trackCount>12</trackCount>
+          <download>
+            <packages>
+              <package id="2">
+                <description>standard</description>
+                <price>
+                  <currencyCode>EUR</currencyCode>
+                  <sevendigitalPrice>9.79</sevendigitalPrice>
+                  <recommendedRetailPrice>9.79</recommendedRetailPrice>
+                </price>
+                <formats>
+                  <format id="17">
+                    <description>MP3 320</description>
+                  </format>
+                  <format id="33">
+                    <description>AAC 320</description>
+                  </format>
+                </formats>
+              </package>
+              <package id="12">
+                <description>deluxe tier 1</description>
+                <price>
+                  <currencyCode>EUR</currencyCode>
+                  <sevendigitalPrice>14.99</sevendigitalPrice>
+                  <recommendedRetailPrice>14.99</recommendedRetailPrice>
+                </price>
+                <formats>
+                  <format id="52">
+                    <description>FLAC 24-bit 44.1kHz</description>
+                  </format>
+                </formats>
+              </package>
+              <package id="9">
+                <description>premium</description>
+                <price>
+                  <currencyCode>EUR</currencyCode>
+                  <sevendigitalPrice>12.49</sevendigitalPrice>
+                  <recommendedRetailPrice>12.49</recommendedRetailPrice>
+                </price>
+                <formats>
+                  <format id="45">
+                    <description>FLAC 16-bit 44.1kHz</description>
+                  </format>
+                </formats>
+              </package>
+            </packages>
+          </download>
+        </release>
+      </listItem>
+      <listItem id="4099438">
+        <type>release</type>
+        <release id="4099438">
+          <title>Vulnicura</title>
+          <version />
+          <type>Album</type>
+          <barcode>3614590872625</barcode>
+          <year>2015</year>
+          <explicitContent>false</explicitContent>
+          <artist id="23127">
+            <name>Björk</name>
+            <appearsAs>Björk</appearsAs>
+            <url>http://fr.7digital.com/artist/björk/?partner=3923</url>
+          </artist>
+          <url>http://fr.7digital.com/artist/björk/release/vulnicura/?partner=3923</url>
+          <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/040/994/0004099438_50.jpg</image>
+          <releaseDate>2015-01-26T00:00:00Z</releaseDate>
+          <addedDate>2015-01-23T12:07:43Z</addedDate>
+          <price>
+            <currency code="EUR">€</currency>
+            <value>7.49</value>
+            <formattedPrice>7,49€</formattedPrice>
+            <rrp>7.49</rrp>
+            <formattedRrp>7,49€</formattedRrp>
+            <onSale>false</onSale>
+          </price>
+          <formats availableDrmFree="true">
+            <format id="17">
+              <fileFormat>MP3</fileFormat>
+              <bitRate>320</bitRate>
+              <drmFree>true</drmFree>
+            </format>
+            <format id="33">
+              <fileFormat>M4A</fileFormat>
+              <bitRate>320</bitRate>
+              <drmFree>true</drmFree>
+            </format>
+          </formats>
+          <label id="2695">
+            <name>One Little Indian Records</name>
+          </label>
+          <licensor id="166">
+            <name>Believe</name>
+          </licensor>
+          <streamingReleaseDate xsi:nil="true" />
+          <duration>3516</duration>
+          <trackCount>9</trackCount>
+          <download>
+            <packages>
+              <package id="16">
+                <description>deluxe tier 2</description>
+                <price>
+                  <currencyCode>EUR</currencyCode>
+                  <sevendigitalPrice>9.99</sevendigitalPrice>
+                  <recommendedRetailPrice>9.99</recommendedRetailPrice>
+                </price>
+                <formats>
+                  <format id="60">
+                    <description>FLAC 24-bit 96kHz</description>
+                  </format>
+                </formats>
+              </package>
+              <package id="2">
+                <description>standard</description>
+                <price>
+                  <currencyCode>EUR</currencyCode>
+                  <sevendigitalPrice>7.49</sevendigitalPrice>
+                  <recommendedRetailPrice>7.49</recommendedRetailPrice>
+                </price>
+                <formats>
+                  <format id="17">
+                    <description>MP3 320</description>
+                  </format>
+                  <format id="33">
+                    <description>AAC 320</description>
+                  </format>
+                </formats>
+              </package>
+              <package id="9">
+                <description>premium</description>
+                <price>
+                  <currencyCode>EUR</currencyCode>
+                  <sevendigitalPrice>8.49</sevendigitalPrice>
+                  <recommendedRetailPrice>8.49</recommendedRetailPrice>
+                </price>
+                <formats>
+                  <format id="45">
+                    <description>FLAC 16-bit 44.1kHz</description>
+                  </format>
+                </formats>
+              </package>
+            </packages>
+          </download>
+        </release>
+      </listItem>
+      <listItem id="3119112">
+        <type>release</type>
+        <release id="3119112">
+          <title>RAVE TAPES</title>
+          <version />
+          <type>Album</type>
+          <barcode>5051083076838</barcode>
+          <year>2014</year>
+          <explicitContent>false</explicitContent>
+          <artist id="16604">
+            <name>Mogwai</name>
+            <appearsAs>Mogwai</appearsAs>
+            <url>http://fr.7digital.com/artist/mogwai/?partner=3923</url>
+          </artist>
+          <url>http://fr.7digital.com/artist/mogwai/release/rave-tapes/?partner=3923</url>
+          <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/031/191/0003119112_50.jpg</image>
+          <releaseDate>2014-01-20T00:00:00Z</releaseDate>
+          <addedDate>2013-12-04T17:51:41Z</addedDate>
+          <price>
+            <currency code="EUR">€</currency>
+            <value>7.99</value>
+            <formattedPrice>7,99€</formattedPrice>
+            <rrp>7.99</rrp>
+            <formattedRrp>7,99€</formattedRrp>
+            <onSale>false</onSale>
+          </price>
+          <formats availableDrmFree="true">
+            <format id="17">
+              <fileFormat>MP3</fileFormat>
+              <bitRate>320</bitRate>
+              <drmFree>true</drmFree>
+            </format>
+            <format id="33">
+              <fileFormat>M4A</fileFormat>
+              <bitRate>320</bitRate>
+              <drmFree>true</drmFree>
+            </format>
+          </formats>
+          <label id="17510">
+            <name>Rock Action Records</name>
+          </label>
+          <licensor id="48">
+            <name>Vital</name>
+          </licensor>
+          <streamingReleaseDate>2014-01-20T00:00:00Z</streamingReleaseDate>
+          <duration>2939</duration>
+          <trackCount>10</trackCount>
+          <download>
+            <packages>
+              <package id="2">
+                <description>standard</description>
+                <price>
+                  <currencyCode>EUR</currencyCode>
+                  <sevendigitalPrice>7.99</sevendigitalPrice>
+                  <recommendedRetailPrice>7.99</recommendedRetailPrice>
+                </price>
+                <formats>
+                  <format id="17">
+                    <description>MP3 320</description>
+                  </format>
+                  <format id="33">
+                    <description>AAC 320</description>
+                  </format>
+                </formats>
+              </package>
+              <package id="12">
+                <description>deluxe tier 1</description>
+                <price>
+                  <currencyCode>EUR</currencyCode>
+                  <sevendigitalPrice>10.99</sevendigitalPrice>
+                  <recommendedRetailPrice>10.99</recommendedRetailPrice>
+                </price>
+                <formats>
+                  <format id="52">
+                    <description>FLAC 24-bit 44.1kHz</description>
+                  </format>
+                </formats>
+              </package>
+              <package id="9">
+                <description>premium</description>
+                <price>
+                  <currencyCode>EUR</currencyCode>
+                  <sevendigitalPrice>9.99</sevendigitalPrice>
+                  <recommendedRetailPrice>9.99</recommendedRetailPrice>
+                </price>
+                <formats>
+                  <format id="45">
+                    <description>FLAC 16-bit 44.1kHz</description>
+                  </format>
+                </formats>
+              </package>
+              <package id="16">
+                <description>deluxe tier 2</description>
+                <price>
+                  <currencyCode>EUR</currencyCode>
+                  <sevendigitalPrice>11.99</sevendigitalPrice>
+                  <recommendedRetailPrice>11.99</recommendedRetailPrice>
+                </price>
+                <formats>
+                  <format id="60">
+                    <description>FLAC 24-bit 96kHz</description>
+                  </format>
+                </formats>
+              </package>
+            </packages>
+          </download>
+        </release>
+      </listItem>
+      <listItem id="3754620">
+        <type>release</type>
+        <release id="3754620">
+          <title>Aventine</title>
+          <version>Deluxe Version</version>
+          <type>Album</type>
+          <barcode>5414939772573</barcode>
+          <year>2013</year>
+          <explicitContent>false</explicitContent>
+          <artist id="612923">
+            <name>Agnes Obel</name>
+            <appearsAs>Agnes Obel</appearsAs>
+            <url>http://fr.7digital.com/artist/agnes-obel/?partner=3923</url>
+          </artist>
+          <url>http://fr.7digital.com/artist/agnes-obel/release/aventine-deluxe-version/?partner=3923</url>
+          <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/037/546/0003754620_50.jpg</image>
+          <releaseDate>2014-10-06T00:00:00Z</releaseDate>
+          <addedDate>2014-08-22T19:34:17Z</addedDate>
+          <price>
+            <currency code="EUR">€</currency>
+            <value>11.99</value>
+            <formattedPrice>11,99€</formattedPrice>
+            <rrp>11.99</rrp>
+            <formattedRrp>11,99€</formattedRrp>
+            <onSale>false</onSale>
+          </price>
+          <formats availableDrmFree="true">
+            <format id="17">
+              <fileFormat>MP3</fileFormat>
+              <bitRate>320</bitRate>
+              <drmFree>true</drmFree>
+            </format>
+            <format id="33">
+              <fileFormat>M4A</fileFormat>
+              <bitRate>320</bitRate>
+              <drmFree>true</drmFree>
+            </format>
+          </formats>
+          <label id="802">
+            <name>Play It Again Sam</name>
+          </label>
+          <licensor id="48">
+            <name>Vital</name>
+          </licensor>
+          <streamingReleaseDate>2014-10-06T00:00:00Z</streamingReleaseDate>
+          <duration>5353</duration>
+          <trackCount>22</trackCount>
+          <download>
+            <packages>
+              <package id="12">
+                <description>deluxe tier 1</description>
+                <price>
+                  <currencyCode>EUR</currencyCode>
+                  <sevendigitalPrice>16.49</sevendigitalPrice>
+                  <recommendedRetailPrice>16.49</recommendedRetailPrice>
+                </price>
+                <formats>
+                  <format id="52">
+                    <description>FLAC 24-bit 44.1kHz</description>
+                  </format>
+                </formats>
+              </package>
+              <package id="2">
+                <description>standard</description>
+                <price>
+                  <currencyCode>EUR</currencyCode>
+                  <sevendigitalPrice>11.99</sevendigitalPrice>
+                  <recommendedRetailPrice>11.99</recommendedRetailPrice>
+                </price>
+                <formats>
+                  <format id="17">
+                    <description>MP3 320</description>
+                  </format>
+                  <format id="33">
+                    <description>AAC 320</description>
+                  </format>
+                </formats>
+              </package>
+            </packages>
+          </download>
+        </release>
+      </listItem>
+      <listItem id="3591446">
+        <type>release</type>
+        <release id="3591446">
+          <title>Wanted On Voyage</title>
+          <version />
+          <type>Album</type>
+          <barcode>886444539401</barcode>
+          <year>2014</year>
+          <explicitContent>false</explicitContent>
+          <artist id="2023111">
+            <name>George Ezra</name>
+            <appearsAs>George Ezra</appearsAs>
+            <url>http://fr.7digital.com/artist/george-ezra/?partner=3923</url>
+          </artist>
+          <url>http://fr.7digital.com/artist/george-ezra/release/wanted-on-voyage-1/?partner=3923</url>
+          <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/035/914/0003591446_50.jpg</image>
+          <releaseDate>2014-09-22T00:00:00Z</releaseDate>
+          <addedDate>2014-07-03T17:57:14Z</addedDate>
+          <price>
+            <currency code="EUR">€</currency>
+            <value>9.79</value>
+            <formattedPrice>9,79€</formattedPrice>
+            <rrp>9.79</rrp>
+            <formattedRrp>9,79€</formattedRrp>
+            <onSale>false</onSale>
+          </price>
+          <formats availableDrmFree="true">
+            <format id="17">
+              <fileFormat>MP3</fileFormat>
+              <bitRate>320</bitRate>
+              <drmFree>true</drmFree>
+            </format>
+            <format id="33">
+              <fileFormat>M4A</fileFormat>
+              <bitRate>320</bitRate>
+              <drmFree>true</drmFree>
+            </format>
+          </formats>
+          <label id="592">
+            <name>Columbia</name>
+          </label>
+          <licensor id="2">
+            <name>Sony Music</name>
+          </licensor>
+          <streamingReleaseDate>2014-09-22T00:00:00Z</streamingReleaseDate>
+          <duration>2616</duration>
+          <trackCount>12</trackCount>
+          <download>
+            <packages>
+              <package id="16">
+                <description>deluxe tier 2</description>
+                <price>
+                  <currencyCode>EUR</currencyCode>
+                  <sevendigitalPrice>14.99</sevendigitalPrice>
+                  <recommendedRetailPrice>14.99</recommendedRetailPrice>
+                </price>
+                <formats>
+                  <format id="60">
+                    <description>FLAC 24-bit 96kHz</description>
+                  </format>
+                </formats>
+              </package>
+              <package id="2">
+                <description>standard</description>
+                <price>
+                  <currencyCode>EUR</currencyCode>
+                  <sevendigitalPrice>9.79</sevendigitalPrice>
+                  <recommendedRetailPrice>9.79</recommendedRetailPrice>
+                </price>
+                <formats>
+                  <format id="17">
+                    <description>MP3 320</description>
+                  </format>
+                  <format id="33">
+                    <description>AAC 320</description>
+                  </format>
+                </formats>
+              </package>
+            </packages>
+          </download>
+        </release>
+      </listItem>
+      <listItem id="4201061">
+        <type>release</type>
+        <release id="4201061">
+          <title>another eternity</title>
+          <version />
+          <type>Album</type>
+          <barcode>652637350142</barcode>
+          <year>2015</year>
+          <explicitContent>false</explicitContent>
+          <artist id="1096402">
+            <name>Purity Ring</name>
+            <appearsAs>Purity Ring</appearsAs>
+            <url>http://fr.7digital.com/artist/purity-ring/?partner=3923</url>
+          </artist>
+          <url>http://fr.7digital.com/artist/purity-ring/release/another-eternity-1/?partner=3923</url>
+          <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/042/010/0004201061_50.jpg</image>
+          <releaseDate>2015-03-02T00:00:00Z</releaseDate>
+          <addedDate>2015-02-25T18:00:53Z</addedDate>
+          <price>
+            <currency code="EUR">€</currency>
+            <value>15.49</value>
+            <formattedPrice>15,49€</formattedPrice>
+            <rrp>15.49</rrp>
+            <formattedRrp>15,49€</formattedRrp>
+            <onSale>false</onSale>
+          </price>
+          <formats availableDrmFree="true">
+            <format id="60">
+              <fileFormat>FLAC</fileFormat>
+              <bitRate>0</bitRate>
+              <drmFree>true</drmFree>
+            </format>
+          </formats>
+          <label id="905">
+            <name>4AD</name>
+          </label>
+          <licensor id="39">
+            <name>Beggars</name>
+          </licensor>
+          <streamingReleaseDate xsi:nil="true" />
+          <duration>2123</duration>
+          <trackCount>10</trackCount>
+          <download>
+            <packages>
+              <package id="16">
+                <description>deluxe tier 2</description>
+                <price>
+                  <currencyCode>EUR</currencyCode>
+                  <sevendigitalPrice>15.49</sevendigitalPrice>
+                  <recommendedRetailPrice>15.49</recommendedRetailPrice>
+                </price>
+                <formats>
+                  <format id="60">
+                    <description>FLAC 24-bit 96kHz</description>
+                  </format>
+                </formats>
+              </package>
+            </packages>
+          </download>
+        </release>
+      </listItem>
+      <listItem id="4129034">
+        <type>release</type>
+        <release id="4129034">
+          <title>Run</title>
+          <version>Deluxe</version>
+          <type>Album</type>
+          <barcode>00602547216335</barcode>
+          <year>2015</year>
+          <explicitContent>false</explicitContent>
+          <artist id="1449397">
+            <name>Talisco</name>
+            <appearsAs>Talisco</appearsAs>
+            <url>http://fr.7digital.com/artist/talisco/?partner=3923</url>
+          </artist>
+          <url>http://fr.7digital.com/artist/talisco/release/run-deluxe-1/?partner=3923</url>
+          <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/041/290/0004129034_50.jpg</image>
+          <releaseDate>2015-02-02T00:00:00Z</releaseDate>
+          <addedDate>2015-02-06T13:23:12Z</addedDate>
+          <price>
+            <currency code="EUR">€</currency>
+            <value>22.49</value>
+            <formattedPrice>22,49€</formattedPrice>
+            <rrp>22.49</rrp>
+            <formattedRrp>22,49€</formattedRrp>
+            <onSale>false</onSale>
+          </price>
+          <formats availableDrmFree="true">
+            <format id="52">
+              <fileFormat>FLAC</fileFormat>
+              <bitRate>0</bitRate>
+              <drmFree>true</drmFree>
+            </format>
+          </formats>
+          <label id="54929">
+            <name>Universal Music Distribution Deal</name>
+          </label>
+          <licensor id="1">
+            <name>Universal</name>
+          </licensor>
+          <streamingReleaseDate xsi:nil="true" />
+          <duration>3132</duration>
+          <trackCount>14</trackCount>
+          <download>
+            <packages>
+              <package id="12">
+                <description>deluxe tier 1</description>
+                <price>
+                  <currencyCode>EUR</currencyCode>
+                  <sevendigitalPrice>22.49</sevendigitalPrice>
+                  <recommendedRetailPrice>22.49</recommendedRetailPrice>
+                </price>
+                <formats>
+                  <format id="52">
+                    <description>FLAC 24-bit 44.1kHz</description>
+                  </format>
+                </formats>
+              </package>
+            </packages>
+          </download>
+        </release>
+      </listItem>
+      <listItem id="4154467">
+        <type>release</type>
+        <release id="4154467">
+          <title>Physical Graffiti</title>
+          <version />
+          <type>Album</type>
+          <barcode>603497894352</barcode>
+          <year>1975</year>
+          <explicitContent>false</explicitContent>
+          <artist id="128187">
+            <name>Led Zeppelin</name>
+            <appearsAs>Led Zeppelin</appearsAs>
+            <url>http://fr.7digital.com/artist/led-zeppelin/?partner=3923</url>
+          </artist>
+          <url>http://fr.7digital.com/artist/led-zeppelin/release/physical-graffiti-3/?partner=3923</url>
+          <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/041/544/0004154467_50.jpg</image>
+          <releaseDate>2015-02-23T00:00:00Z</releaseDate>
+          <addedDate>2015-02-17T17:50:58Z</addedDate>
+          <price>
+            <currency code="EUR">€</currency>
+            <value>19.99</value>
+            <formattedPrice>19,99€</formattedPrice>
+            <rrp>19.99</rrp>
+            <formattedRrp>19,99€</formattedRrp>
+            <onSale>false</onSale>
+          </price>
+          <formats availableDrmFree="true">
+            <format id="60">
+              <fileFormat>FLAC</fileFormat>
+              <bitRate>0</bitRate>
+              <drmFree>true</drmFree>
+            </format>
+          </formats>
+          <label id="116">
+            <name>Atlantic Records</name>
+          </label>
+          <licensor id="18">
+            <name>Warner</name>
+          </licensor>
+          <streamingReleaseDate xsi:nil="true" />
+          <duration>4975</duration>
+          <trackCount>15</trackCount>
+          <download>
+            <packages>
+              <package id="16">
+                <description>deluxe tier 2</description>
+                <price>
+                  <currencyCode>EUR</currencyCode>
+                  <sevendigitalPrice>19.99</sevendigitalPrice>
+                  <recommendedRetailPrice>19.99</recommendedRetailPrice>
+                </price>
+                <formats>
+                  <format id="60">
+                    <description>FLAC 24-bit 96kHz</description>
+                  </format>
+                </formats>
+              </package>
+            </packages>
+          </download>
+        </release>
+      </listItem>
+      <listItem id="4068743">
+        <type>release</type>
+        <release id="4068743">
+          <title>Panda Bear Meets The Grim Reaper</title>
+          <version />
+          <type>Album</type>
+          <barcode>887828034567</barcode>
+          <year>2015</year>
+          <explicitContent>false</explicitContent>
+          <artist id="34108">
+            <name>Panda Bear</name>
+            <appearsAs>Panda Bear</appearsAs>
+            <url>http://fr.7digital.com/artist/panda-bear/?partner=3923</url>
+          </artist>
+          <url>http://fr.7digital.com/artist/panda-bear/release/panda-bear-meets-the-grim-reaper-1/?partner=3923</url>
+          <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/040/687/0004068743_50.jpg</image>
+          <releaseDate>2015-01-12T00:00:00Z</releaseDate>
+          <addedDate>2015-01-07T18:13:07Z</addedDate>
+          <price>
+            <currency code="EUR">€</currency>
+            <value>10.99</value>
+            <formattedPrice>10,99€</formattedPrice>
+            <rrp>10.99</rrp>
+            <formattedRrp>10,99€</formattedRrp>
+            <onSale>false</onSale>
+          </price>
+          <formats availableDrmFree="true">
+            <format id="17">
+              <fileFormat>MP3</fileFormat>
+              <bitRate>320</bitRate>
+              <drmFree>true</drmFree>
+            </format>
+            <format id="33">
+              <fileFormat>M4A</fileFormat>
+              <bitRate>320</bitRate>
+              <drmFree>true</drmFree>
+            </format>
+          </formats>
+          <label id="26572">
+            <name>Domino Recording Co</name>
+          </label>
+          <licensor id="103">
+            <name>Domino</name>
+          </licensor>
+          <streamingReleaseDate>2015-01-12T00:00:00Z</streamingReleaseDate>
+          <duration>3071</duration>
+          <trackCount>13</trackCount>
+          <download>
+            <packages>
+              <package id="2">
+                <description>standard</description>
+                <price>
+                  <currencyCode>EUR</currencyCode>
+                  <sevendigitalPrice>10.99</sevendigitalPrice>
+                  <recommendedRetailPrice>10.99</recommendedRetailPrice>
+                </price>
+                <formats>
+                  <format id="17">
+                    <description>MP3 320</description>
+                  </format>
+                  <format id="33">
+                    <description>AAC 320</description>
+                  </format>
+                </formats>
+              </package>
+              <package id="9">
+                <description>premium</description>
+                <price>
+                  <currencyCode>EUR</currencyCode>
+                  <sevendigitalPrice>12.99</sevendigitalPrice>
+                  <recommendedRetailPrice>12.99</recommendedRetailPrice>
+                </price>
+                <formats>
+                  <format id="45">
+                    <description>FLAC 16-bit 44.1kHz</description>
+                  </format>
+                </formats>
+              </package>
+              <package id="12">
+                <description>deluxe tier 1</description>
+                <price>
+                  <currencyCode>EUR</currencyCode>
+                  <sevendigitalPrice>14.99</sevendigitalPrice>
+                  <recommendedRetailPrice>14.99</recommendedRetailPrice>
+                </price>
+                <formats>
+                  <format id="52">
+                    <description>FLAC 24-bit 44.1kHz</description>
+                  </format>
+                </formats>
+              </package>
+            </packages>
+          </download>
+        </release>
+      </listItem>
+      <listItem id="4046600">
+        <type>release</type>
+        <release id="4046600">
+          <title>Morrison Hotel</title>
+          <version />
+          <type>Album</type>
+          <barcode>603497927890</barcode>
+          <year>1970</year>
+          <explicitContent>false</explicitContent>
+          <artist id="4073">
+            <name>The Doors</name>
+            <appearsAs>The Doors</appearsAs>
+            <url>http://fr.7digital.com/artist/the-doors/?partner=3923</url>
+          </artist>
+          <url>http://fr.7digital.com/artist/the-doors/release/morrison-hotel-2/?partner=3923</url>
+          <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/040/466/0004046600_50.jpg</image>
+          <releaseDate>2015-03-02T00:00:00Z</releaseDate>
+          <addedDate>2014-12-25T04:02:06Z</addedDate>
+          <price>
+            <currency code="EUR">€</currency>
+            <value>17.99</value>
+            <formattedPrice>17,99€</formattedPrice>
+            <rrp>17.99</rrp>
+            <formattedRrp>17,99€</formattedRrp>
+            <onSale>false</onSale>
+          </price>
+          <formats availableDrmFree="true">
+            <format id="60">
+              <fileFormat>FLAC</fileFormat>
+              <bitRate>0</bitRate>
+              <drmFree>true</drmFree>
+            </format>
+          </formats>
+          <label id="13346">
+            <name>Rhino/Elektra</name>
+          </label>
+          <licensor id="18">
+            <name>Warner</name>
+          </licensor>
+          <streamingReleaseDate xsi:nil="true" />
+          <duration>2241</duration>
+          <trackCount>11</trackCount>
+          <download>
+            <packages>
+              <package id="16">
+                <description>deluxe tier 2</description>
+                <price>
+                  <currencyCode>EUR</currencyCode>
+                  <sevendigitalPrice>17.99</sevendigitalPrice>
+                  <recommendedRetailPrice>17.99</recommendedRetailPrice>
+                </price>
+                <formats>
+                  <format id="60">
+                    <description>FLAC 24-bit 96kHz</description>
+                  </format>
+                </formats>
+              </package>
+            </packages>
+          </download>
+        </release>
+      </listItem>
+      <listItem id="3988951">
+        <type>release</type>
+        <release id="3988951">
+          <title>Rock or Bust</title>
+          <version />
+          <type>Album</type>
+          <barcode>886444865623</barcode>
+          <year>2014</year>
+          <explicitContent>false</explicitContent>
+          <artist id="59363">
+            <name>AC/DC</name>
+            <appearsAs>AC/DC</appearsAs>
+            <url>http://fr.7digital.com/artist/ac-dc/?partner=3923</url>
+          </artist>
+          <url>http://fr.7digital.com/artist/ac-dc/release/rock-or-bust/?partner=3923</url>
+          <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/039/889/0003988951_50.jpg</image>
+          <releaseDate>2014-12-01T00:00:00Z</releaseDate>
+          <addedDate>2014-11-27T11:02:52Z</addedDate>
+          <price>
+            <currency code="EUR">€</currency>
+            <value>9.79</value>
+            <formattedPrice>9,79€</formattedPrice>
+            <rrp>9.79</rrp>
+            <formattedRrp>9,79€</formattedRrp>
+            <onSale>false</onSale>
+          </price>
+          <formats availableDrmFree="true">
+            <format id="17">
+              <fileFormat>MP3</fileFormat>
+              <bitRate>320</bitRate>
+              <drmFree>true</drmFree>
+            </format>
+            <format id="33">
+              <fileFormat>M4A</fileFormat>
+              <bitRate>320</bitRate>
+              <drmFree>true</drmFree>
+            </format>
+          </formats>
+          <label id="592">
+            <name>Columbia</name>
+          </label>
+          <licensor id="2">
+            <name>Sony Music</name>
+          </licensor>
+          <streamingReleaseDate xsi:nil="true" />
+          <duration>2095</duration>
+          <trackCount>11</trackCount>
+          <download>
+            <packages>
+              <package id="16">
+                <description>deluxe tier 2</description>
+                <price>
+                  <currencyCode>EUR</currencyCode>
+                  <sevendigitalPrice>14.99</sevendigitalPrice>
+                  <recommendedRetailPrice>14.99</recommendedRetailPrice>
+                </price>
+                <formats>
+                  <format id="60">
+                    <description>FLAC 24-bit 96kHz</description>
+                  </format>
+                </formats>
+              </package>
+              <package id="2">
+                <description>standard</description>
+                <price>
+                  <currencyCode>EUR</currencyCode>
+                  <sevendigitalPrice>9.79</sevendigitalPrice>
+                  <recommendedRetailPrice>9.79</recommendedRetailPrice>
+                </price>
+                <formats>
+                  <format id="17">
+                    <description>MP3 320</description>
+                  </format>
+                  <format id="33">
+                    <description>AAC 320</description>
+                  </format>
+                </formats>
+              </package>
+            </packages>
+          </download>
+        </release>
+      </listItem>
+      <listItem id="3876193">
+        <type>release</type>
+        <release id="3876193">
+          <title>Otherness</title>
+          <version />
+          <type>Album</type>
+          <barcode>5414939778575</barcode>
+          <year>2014</year>
+          <explicitContent>false</explicitContent>
+          <artist id="579735">
+            <name>Kindness</name>
+            <appearsAs>Kindness</appearsAs>
+            <url>http://fr.7digital.com/artist/kindness/?partner=3923</url>
+          </artist>
+          <url>http://fr.7digital.com/artist/kindness/release/otherness-1/?partner=3923</url>
+          <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/038/761/0003876193_50.jpg</image>
+          <releaseDate>2014-10-13T00:00:00Z</releaseDate>
+          <addedDate>2014-10-09T12:02:00Z</addedDate>
+          <price>
+            <currency code="EUR">€</currency>
+            <value>10.90</value>
+            <formattedPrice>10,90€</formattedPrice>
+            <rrp>10.90</rrp>
+            <formattedRrp>10,90€</formattedRrp>
+            <onSale>false</onSale>
+          </price>
+          <formats availableDrmFree="true">
+            <format id="17">
+              <fileFormat>MP3</fileFormat>
+              <bitRate>320</bitRate>
+              <drmFree>true</drmFree>
+            </format>
+            <format id="33">
+              <fileFormat>M4A</fileFormat>
+              <bitRate>320</bitRate>
+              <drmFree>true</drmFree>
+            </format>
+          </formats>
+          <label id="358044">
+            <name>Female Energy Records</name>
+          </label>
+          <licensor id="48">
+            <name>Vital</name>
+          </licensor>
+          <streamingReleaseDate>2014-10-13T00:00:00Z</streamingReleaseDate>
+          <duration>2775</duration>
+          <trackCount>10</trackCount>
+          <download>
+            <packages>
+              <package id="2">
+                <description>standard</description>
+                <price>
+                  <currencyCode>EUR</currencyCode>
+                  <sevendigitalPrice>10.90</sevendigitalPrice>
+                  <recommendedRetailPrice>10.90</recommendedRetailPrice>
+                </price>
+                <formats>
+                  <format id="17">
+                    <description>MP3 320</description>
+                  </format>
+                  <format id="33">
+                    <description>AAC 320</description>
+                  </format>
+                </formats>
+              </package>
+              <package id="12">
+                <description>deluxe tier 1</description>
+                <price>
+                  <currencyCode>EUR</currencyCode>
+                  <sevendigitalPrice>13.90</sevendigitalPrice>
+                  <recommendedRetailPrice>13.90</recommendedRetailPrice>
+                </price>
+                <formats>
+                  <format id="52">
+                    <description>FLAC 24-bit 44.1kHz</description>
+                  </format>
+                </formats>
+              </package>
+            </packages>
+          </download>
+        </release>
+      </listItem>
+      <listItem id="4056840">
+        <type>release</type>
+        <release id="4056840">
+          <title>Uptown Special</title>
+          <version>Explicit</version>
+          <type>Album</type>
+          <barcode>886444959797</barcode>
+          <year>2015</year>
+          <explicitContent>true</explicitContent>
+          <artist id="26437">
+            <name>Mark Ronson</name>
+            <appearsAs>Mark Ronson</appearsAs>
+            <url>http://fr.7digital.com/artist/mark-ronson/?partner=3923</url>
+          </artist>
+          <url>http://fr.7digital.com/artist/mark-ronson/release/uptown-special-explicit/?partner=3923</url>
+          <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/040/568/0004056840_50.jpg</image>
+          <releaseDate>2015-01-12T00:00:00Z</releaseDate>
+          <addedDate>2015-01-07T17:26:39Z</addedDate>
+          <price>
+            <currency code="EUR">€</currency>
+            <value>9.79</value>
+            <formattedPrice>9,79€</formattedPrice>
+            <rrp>9.79</rrp>
+            <formattedRrp>9,79€</formattedRrp>
+            <onSale>false</onSale>
+          </price>
+          <formats availableDrmFree="true">
+            <format id="17">
+              <fileFormat>MP3</fileFormat>
+              <bitRate>320</bitRate>
+              <drmFree>true</drmFree>
+            </format>
+            <format id="33">
+              <fileFormat>M4A</fileFormat>
+              <bitRate>320</bitRate>
+              <drmFree>true</drmFree>
+            </format>
+          </formats>
+          <label id="592">
+            <name>Columbia</name>
+          </label>
+          <licensor id="2">
+            <name>Sony Music</name>
+          </licensor>
+          <streamingReleaseDate>2015-01-12T00:00:00Z</streamingReleaseDate>
+          <duration>2324</duration>
+          <trackCount>11</trackCount>
+          <download>
+            <packages>
+              <package id="2">
+                <description>standard</description>
+                <price>
+                  <currencyCode>EUR</currencyCode>
+                  <sevendigitalPrice>9.79</sevendigitalPrice>
+                  <recommendedRetailPrice>9.79</recommendedRetailPrice>
+                </price>
+                <formats>
+                  <format id="17">
+                    <description>MP3 320</description>
+                  </format>
+                  <format id="33">
+                    <description>AAC 320</description>
+                  </format>
+                </formats>
+              </package>
+              <package id="16">
+                <description>deluxe tier 2</description>
+                <price>
+                  <currencyCode>EUR</currencyCode>
+                  <sevendigitalPrice>14.99</sevendigitalPrice>
+                  <recommendedRetailPrice>14.99</recommendedRetailPrice>
+                </price>
+                <formats>
+                  <format id="58">
+                    <description>FLAC 24-bit 88.2kHz</description>
+                  </format>
+                </formats>
+              </package>
+              <package id="9">
+                <description>premium</description>
+                <price>
+                  <currencyCode>EUR</currencyCode>
+                  <sevendigitalPrice>12.49</sevendigitalPrice>
+                  <recommendedRetailPrice>12.49</recommendedRetailPrice>
+                </price>
+                <formats>
+                  <format id="45">
+                    <description>FLAC 16-bit 44.1kHz</description>
+                  </format>
+                </formats>
+              </package>
+            </packages>
+          </download>
+        </release>
+      </listItem>
+      <listItem id="4047216">
+        <type>release</type>
+        <release id="4047216">
+          <title>The Endless River</title>
+          <version />
+          <type>Album</type>
+          <barcode>825646184729</barcode>
+          <year>2014</year>
+          <explicitContent>false</explicitContent>
+          <artist id="447">
+            <name>Pink Floyd</name>
+            <appearsAs>Pink Floyd</appearsAs>
+            <url>http://fr.7digital.com/artist/pink-floyd/?partner=3923</url>
+          </artist>
+          <url>http://fr.7digital.com/artist/pink-floyd/release/the-endless-river-4/?partner=3923</url>
+          <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/040/472/0004047216_50.jpg</image>
+          <releaseDate>2014-11-10T00:00:00Z</releaseDate>
+          <addedDate>2014-12-25T08:00:44Z</addedDate>
+          <price>
+            <currency code="EUR">€</currency>
+            <value>16.99</value>
+            <formattedPrice>16,99€</formattedPrice>
+            <rrp>16.99</rrp>
+            <formattedRrp>16,99€</formattedRrp>
+            <onSale>false</onSale>
+          </price>
+          <formats availableDrmFree="true">
+            <format id="60">
+              <fileFormat>FLAC</fileFormat>
+              <bitRate>0</bitRate>
+              <drmFree>true</drmFree>
+            </format>
+          </formats>
+          <label id="227575">
+            <name>Parlophone UK</name>
+          </label>
+          <licensor id="18">
+            <name>Warner</name>
+          </licensor>
+          <streamingReleaseDate xsi:nil="true" />
+          <duration>3177</duration>
+          <trackCount>18</trackCount>
+          <download>
+            <packages>
+              <package id="16">
+                <description>deluxe tier 2</description>
+                <price>
+                  <currencyCode>EUR</currencyCode>
+                  <sevendigitalPrice>16.99</sevendigitalPrice>
+                  <recommendedRetailPrice>16.99</recommendedRetailPrice>
+                </price>
+                <formats>
+                  <format id="60">
+                    <description>FLAC 24-bit 96kHz</description>
+                  </format>
+                </formats>
+              </package>
+            </packages>
+          </download>
+        </release>
+      </listItem>
+      <listItem id="4106028">
+        <type>release</type>
+        <release id="4106028">
+          <title>Shadows in the Night</title>
+          <version />
+          <type>Album</type>
+          <barcode>886444988650</barcode>
+          <year>2015</year>
+          <explicitContent>false</explicitContent>
+          <artist id="11350">
+            <name>Bob Dylan</name>
+            <appearsAs>Bob Dylan</appearsAs>
+            <url>http://fr.7digital.com/artist/bob-dylan/?partner=3923</url>
+          </artist>
+          <url>http://fr.7digital.com/artist/bob-dylan/release/shadows-in-the-night/?partner=3923</url>
+          <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/041/060/0004106028_50.jpg</image>
+          <releaseDate>2015-02-02T00:00:00Z</releaseDate>
+          <addedDate>2015-01-28T10:17:19Z</addedDate>
+          <price>
+            <currency code="EUR">€</currency>
+            <value>9.79</value>
+            <formattedPrice>9,79€</formattedPrice>
+            <rrp>9.79</rrp>
+            <formattedRrp>9,79€</formattedRrp>
+            <onSale>false</onSale>
+          </price>
+          <formats availableDrmFree="true">
+            <format id="17">
+              <fileFormat>MP3</fileFormat>
+              <bitRate>320</bitRate>
+              <drmFree>true</drmFree>
+            </format>
+            <format id="33">
+              <fileFormat>M4A</fileFormat>
+              <bitRate>320</bitRate>
+              <drmFree>true</drmFree>
+            </format>
+          </formats>
+          <label id="592">
+            <name>Columbia</name>
+          </label>
+          <licensor id="2">
+            <name>Sony Music</name>
+          </licensor>
+          <streamingReleaseDate>2015-02-02T00:00:00Z</streamingReleaseDate>
+          <duration>2122</duration>
+          <trackCount>10</trackCount>
+          <download>
+            <packages>
+              <package id="9">
+                <description>premium</description>
+                <price>
+                  <currencyCode>EUR</currencyCode>
+                  <sevendigitalPrice>12.49</sevendigitalPrice>
+                  <recommendedRetailPrice>12.49</recommendedRetailPrice>
+                </price>
+                <formats>
+                  <format id="45">
+                    <description>FLAC 16-bit 44.1kHz</description>
+                  </format>
+                </formats>
+              </package>
+              <package id="12">
+                <description>deluxe tier 1</description>
+                <price>
+                  <currencyCode>EUR</currencyCode>
+                  <sevendigitalPrice>14.99</sevendigitalPrice>
+                  <recommendedRetailPrice>14.99</recommendedRetailPrice>
+                </price>
+                <formats>
+                  <format id="52">
+                    <description>FLAC 24-bit 44.1kHz</description>
+                  </format>
+                </formats>
+              </package>
+              <package id="2">
+                <description>standard</description>
+                <price>
+                  <currencyCode>EUR</currencyCode>
+                  <sevendigitalPrice>9.79</sevendigitalPrice>
+                  <recommendedRetailPrice>9.79</recommendedRetailPrice>
+                </price>
+                <formats>
+                  <format id="17">
+                    <description>MP3 320</description>
+                  </format>
+                  <format id="33">
+                    <description>AAC 320</description>
+                  </format>
+                </formats>
+              </package>
+            </packages>
+          </download>
+        </release>
+      </listItem>
+      <listItem id="3865756">
+        <type>release</type>
+        <release id="3865756">
+          <title>Our Love</title>
+          <version />
+          <type>Album</type>
+          <barcode>5414939739477</barcode>
+          <year>2014</year>
+          <explicitContent>false</explicitContent>
+          <artist id="6735">
+            <name>Caribou</name>
+            <appearsAs>Caribou</appearsAs>
+            <url>http://fr.7digital.com/artist/caribou/?partner=3923</url>
+          </artist>
+          <url>http://fr.7digital.com/artist/caribou/release/our-love-11/?partner=3923</url>
+          <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/038/657/0003865756_50.jpg</image>
+          <releaseDate>2014-10-06T00:00:00Z</releaseDate>
+          <addedDate>2014-10-06T17:37:26Z</addedDate>
+          <price>
+            <currency code="EUR">€</currency>
+            <value>10.49</value>
+            <formattedPrice>10,49€</formattedPrice>
+            <rrp>10.49</rrp>
+            <formattedRrp>10,49€</formattedRrp>
+            <onSale>false</onSale>
+          </price>
+          <formats availableDrmFree="true">
+            <format id="17">
+              <fileFormat>MP3</fileFormat>
+              <bitRate>320</bitRate>
+              <drmFree>true</drmFree>
+            </format>
+            <format id="33">
+              <fileFormat>M4A</fileFormat>
+              <bitRate>320</bitRate>
+              <drmFree>true</drmFree>
+            </format>
+          </formats>
+          <label id="1356">
+            <name>City Slang</name>
+          </label>
+          <licensor id="48">
+            <name>Vital</name>
+          </licensor>
+          <streamingReleaseDate>2014-10-06T00:00:00Z</streamingReleaseDate>
+          <duration>2512</duration>
+          <trackCount>10</trackCount>
+          <download>
+            <packages>
+              <package id="12">
+                <description>deluxe tier 1</description>
+                <price>
+                  <currencyCode>EUR</currencyCode>
+                  <sevendigitalPrice>13.90</sevendigitalPrice>
+                  <recommendedRetailPrice>13.90</recommendedRetailPrice>
+                </price>
+                <formats>
+                  <format id="52">
+                    <description>FLAC 24-bit 44.1kHz</description>
+                  </format>
+                </formats>
+              </package>
+              <package id="2">
+                <description>standard</description>
+                <price>
+                  <currencyCode>EUR</currencyCode>
+                  <sevendigitalPrice>10.49</sevendigitalPrice>
+                  <recommendedRetailPrice>10.49</recommendedRetailPrice>
+                </price>
+                <formats>
+                  <format id="17">
+                    <description>MP3 320</description>
+                  </format>
+                  <format id="33">
+                    <description>AAC 320</description>
+                  </format>
+                </formats>
+              </package>
+            </packages>
+          </download>
+        </release>
+      </listItem>
+      <listItem id="4115649">
+        <type>release</type>
+        <release id="4115649">
+          <title>Løve Live</title>
+          <version />
+          <type>Album</type>
+          <barcode>886445061819</barcode>
+          <year>2015</year>
+          <explicitContent>false</explicitContent>
+          <artist id="100568">
+            <name>Julien Doré</name>
+            <appearsAs>Julien Doré</appearsAs>
+            <url>http://fr.7digital.com/artist/julien-doré-(1)/?partner=3923</url>
+          </artist>
+          <url>http://fr.7digital.com/artist/julien-doré-(1)/release/løve-live/?partner=3923</url>
+          <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/041/156/0004115649_50.jpg</image>
+          <releaseDate>2015-02-09T00:00:00Z</releaseDate>
+          <addedDate>2015-02-03T10:09:23Z</addedDate>
+          <price>
+            <currency code="EUR">€</currency>
+            <value>9.79</value>
+            <formattedPrice>9,79€</formattedPrice>
+            <rrp>9.79</rrp>
+            <formattedRrp>9,79€</formattedRrp>
+            <onSale>false</onSale>
+          </price>
+          <formats availableDrmFree="true">
+            <format id="17">
+              <fileFormat>MP3</fileFormat>
+              <bitRate>320</bitRate>
+              <drmFree>true</drmFree>
+            </format>
+            <format id="33">
+              <fileFormat>M4A</fileFormat>
+              <bitRate>320</bitRate>
+              <drmFree>true</drmFree>
+            </format>
+          </formats>
+          <label id="592">
+            <name>Columbia</name>
+          </label>
+          <licensor id="2">
+            <name>Sony Music</name>
+          </licensor>
+          <streamingReleaseDate>2015-02-03T00:00:00Z</streamingReleaseDate>
+          <duration>5718</duration>
+          <trackCount>18</trackCount>
+          <download>
+            <packages>
+              <package id="2">
+                <description>standard</description>
+                <price>
+                  <currencyCode>EUR</currencyCode>
+                  <sevendigitalPrice>9.79</sevendigitalPrice>
+                  <recommendedRetailPrice>9.79</recommendedRetailPrice>
+                </price>
+                <formats>
+                  <format id="17">
+                    <description>MP3 320</description>
+                  </format>
+                  <format id="33">
+                    <description>AAC 320</description>
+                  </format>
+                </formats>
+              </package>
+              <package id="9">
+                <description>premium</description>
+                <price>
+                  <currencyCode>EUR</currencyCode>
+                  <sevendigitalPrice>12.49</sevendigitalPrice>
+                  <recommendedRetailPrice>12.49</recommendedRetailPrice>
+                </price>
+                <formats>
+                  <format id="45">
+                    <description>FLAC 16-bit 44.1kHz</description>
+                  </format>
+                </formats>
+              </package>
+              <package id="12">
+                <description>deluxe tier 1</description>
+                <price>
+                  <currencyCode>EUR</currencyCode>
+                  <sevendigitalPrice>14.99</sevendigitalPrice>
+                  <recommendedRetailPrice>14.99</recommendedRetailPrice>
+                </price>
+                <formats>
+                  <format id="52">
+                    <description>FLAC 24-bit 44.1kHz</description>
+                  </format>
+                </formats>
+              </package>
+            </packages>
+          </download>
+        </release>
+      </listItem>
+      <listItem id="4019340">
+        <type>release</type>
+        <release id="4019340">
+          <title>Super Discount 3</title>
+          <version>Explicit</version>
+          <type>Album</type>
+          <barcode>886444957762</barcode>
+          <year>2015</year>
+          <explicitContent>true</explicitContent>
+          <artist id="98574">
+            <name>Etienne De Crécy</name>
+            <appearsAs>Etienne De Crécy</appearsAs>
+            <url>http://fr.7digital.com/artist/etienne-de-crécy-(1)/?partner=3923</url>
+          </artist>
+          <url>http://fr.7digital.com/artist/etienne-de-crécy-(1)/release/super-discount-3-explicit/?partner=3923</url>
+          <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/040/193/0004019340_50.jpg</image>
+          <releaseDate>2015-01-19T00:00:00Z</releaseDate>
+          <addedDate>2015-01-14T10:33:58Z</addedDate>
+          <price>
+            <currency code="EUR">€</currency>
+            <value>9.79</value>
+            <formattedPrice>9,79€</formattedPrice>
+            <rrp>9.79</rrp>
+            <formattedRrp>9,79€</formattedRrp>
+            <onSale>false</onSale>
+          </price>
+          <formats availableDrmFree="true">
+            <format id="17">
+              <fileFormat>MP3</fileFormat>
+              <bitRate>320</bitRate>
+              <drmFree>true</drmFree>
+            </format>
+            <format id="33">
+              <fileFormat>M4A</fileFormat>
+              <bitRate>320</bitRate>
+              <drmFree>true</drmFree>
+            </format>
+          </formats>
+          <label id="356745">
+            <name>A+LSO</name>
+          </label>
+          <licensor id="2">
+            <name>Sony Music</name>
+          </licensor>
+          <streamingReleaseDate>2015-01-19T00:00:00Z</streamingReleaseDate>
+          <duration>2416</duration>
+          <trackCount>10</trackCount>
+          <download>
+            <packages>
+              <package id="16">
+                <description>deluxe tier 2</description>
+                <price>
+                  <currencyCode>EUR</currencyCode>
+                  <sevendigitalPrice>14.99</sevendigitalPrice>
+                  <recommendedRetailPrice>14.99</recommendedRetailPrice>
+                </price>
+                <formats>
+                  <format id="58">
+                    <description>FLAC 24-bit 88.2kHz</description>
+                  </format>
+                </formats>
+              </package>
+              <package id="2">
+                <description>standard</description>
+                <price>
+                  <currencyCode>EUR</currencyCode>
+                  <sevendigitalPrice>9.79</sevendigitalPrice>
+                  <recommendedRetailPrice>9.79</recommendedRetailPrice>
+                </price>
+                <formats>
+                  <format id="17">
+                    <description>MP3 320</description>
+                  </format>
+                  <format id="33">
+                    <description>AAC 320</description>
+                  </format>
+                </formats>
+              </package>
+              <package id="9">
+                <description>premium</description>
+                <price>
+                  <currencyCode>EUR</currencyCode>
+                  <sevendigitalPrice>12.49</sevendigitalPrice>
+                  <recommendedRetailPrice>12.49</recommendedRetailPrice>
+                </price>
+                <formats>
+                  <format id="45">
+                    <description>FLAC 16-bit 44.1kHz</description>
+                  </format>
+                </formats>
+              </package>
+            </packages>
+          </download>
+        </release>
+      </listItem>
+      <listItem id="4018144">
+        <type>release</type>
+        <release id="4018144">
+          <title>Celloverse</title>
+          <version />
+          <type>Album</type>
+          <barcode>886444645072</barcode>
+          <year>2015</year>
+          <explicitContent>false</explicitContent>
+          <artist id="976486">
+            <name>2Cellos</name>
+            <appearsAs>2Cellos</appearsAs>
+            <url>http://fr.7digital.com/artist/2cellos/?partner=3923</url>
+          </artist>
+          <url>http://fr.7digital.com/artist/2cellos/release/celloverse/?partner=3923</url>
+          <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/040/181/0004018144_50.jpg</image>
+          <releaseDate>2015-01-26T00:00:00Z</releaseDate>
+          <addedDate>2014-12-23T18:05:52Z</addedDate>
+          <price>
+            <currency code="EUR">€</currency>
+            <value>9.79</value>
+            <formattedPrice>9,79€</formattedPrice>
+            <rrp>9.79</rrp>
+            <formattedRrp>9,79€</formattedRrp>
+            <onSale>false</onSale>
+          </price>
+          <formats availableDrmFree="true">
+            <format id="17">
+              <fileFormat>MP3</fileFormat>
+              <bitRate>320</bitRate>
+              <drmFree>true</drmFree>
+            </format>
+            <format id="33">
+              <fileFormat>M4A</fileFormat>
+              <bitRate>320</bitRate>
+              <drmFree>true</drmFree>
+            </format>
+          </formats>
+          <label id="285281">
+            <name>Portrait/Sony Masterworks</name>
+          </label>
+          <licensor id="2">
+            <name>Sony Music</name>
+          </licensor>
+          <streamingReleaseDate>2015-01-26T00:00:00Z</streamingReleaseDate>
+          <duration>2892</duration>
+          <trackCount>13</trackCount>
+          <download>
+            <packages>
+              <package id="2">
+                <description>standard</description>
+                <price>
+                  <currencyCode>EUR</currencyCode>
+                  <sevendigitalPrice>9.79</sevendigitalPrice>
+                  <recommendedRetailPrice>9.79</recommendedRetailPrice>
+                </price>
+                <formats>
+                  <format id="17">
+                    <description>MP3 320</description>
+                  </format>
+                  <format id="33">
+                    <description>AAC 320</description>
+                  </format>
+                </formats>
+              </package>
+              <package id="9">
+                <description>premium</description>
+                <price>
+                  <currencyCode>EUR</currencyCode>
+                  <sevendigitalPrice>12.49</sevendigitalPrice>
+                  <recommendedRetailPrice>12.49</recommendedRetailPrice>
+                </price>
+                <formats>
+                  <format id="45">
+                    <description>FLAC 16-bit 44.1kHz</description>
+                  </format>
+                </formats>
+              </package>
+              <package id="12">
+                <description>deluxe tier 1</description>
+                <price>
+                  <currencyCode>EUR</currencyCode>
+                  <sevendigitalPrice>14.99</sevendigitalPrice>
+                  <recommendedRetailPrice>14.99</recommendedRetailPrice>
+                </price>
+                <formats>
+                  <format id="52">
+                    <description>FLAC 24-bit 44.1kHz</description>
+                  </format>
+                </formats>
+              </package>
+            </packages>
+          </download>
+        </release>
+      </listItem>
+      <listItem id="4184276">
+        <type>release</type>
+        <release id="4184276">
+          <title>(What's The Story) Morning Glory? (Remastered)</title>
+          <version>Deluxe Version</version>
+          <type>Album</type>
+          <barcode>5051961073171</barcode>
+          <year>2014</year>
+          <explicitContent>false</explicitContent>
+          <artist id="8329">
+            <name>Oasis</name>
+            <appearsAs>Oasis</appearsAs>
+            <url>http://fr.7digital.com/artist/oasis/?partner=3923</url>
+          </artist>
+          <url>http://fr.7digital.com/artist/oasis/release/whats-the-story-morning-glory-remastered-deluxe-version-2/?partner=3923</url>
+          <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/041/842/0004184276_50.jpg</image>
+          <releaseDate>2014-09-29T00:00:00Z</releaseDate>
+          <addedDate>2015-02-21T10:53:19Z</addedDate>
+          <price>
+            <currency code="EUR">€</currency>
+            <value>17.99</value>
+            <formattedPrice>17,99€</formattedPrice>
+            <rrp>17.99</rrp>
+            <formattedRrp>17,99€</formattedRrp>
+            <onSale>false</onSale>
+          </price>
+          <formats availableDrmFree="true">
+            <format id="52">
+              <fileFormat>FLAC</fileFormat>
+              <bitRate>0</bitRate>
+              <drmFree>true</drmFree>
+            </format>
+          </formats>
+          <label id="738">
+            <name>Big Brother</name>
+          </label>
+          <licensor id="48">
+            <name>Vital</name>
+          </licensor>
+          <streamingReleaseDate xsi:nil="true" />
+          <duration>6331</duration>
+          <trackCount>26</trackCount>
+          <download>
+            <packages>
+              <package id="12">
+                <description>deluxe tier 1</description>
+                <price>
+                  <currencyCode>EUR</currencyCode>
+                  <sevendigitalPrice>17.99</sevendigitalPrice>
+                  <recommendedRetailPrice>17.99</recommendedRetailPrice>
+                </price>
+                <formats>
+                  <format id="52">
+                    <description>FLAC 24-bit 44.1kHz</description>
+                  </format>
+                </formats>
+              </package>
+            </packages>
+          </download>
+        </release>
+      </listItem>
+      <listItem id="4200192">
+        <type>release</type>
+        <release id="4200192">
+          <title>Indie Cindy</title>
+          <version />
+          <type>Album</type>
+          <barcode>5051083080385</barcode>
+          <year>2014</year>
+          <explicitContent>false</explicitContent>
+          <artist id="11698">
+            <name>Pixies</name>
+            <appearsAs>Pixies</appearsAs>
+            <url>http://fr.7digital.com/artist/pixies/?partner=3923</url>
+          </artist>
+          <url>http://fr.7digital.com/artist/pixies/release/indie-cindy-4/?partner=3923</url>
+          <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/042/001/0004200192_50.jpg</image>
+          <releaseDate>2014-04-28T00:00:00Z</releaseDate>
+          <addedDate>2015-02-25T01:03:46Z</addedDate>
+          <price>
+            <currency code="EUR">€</currency>
+            <value>17.99</value>
+            <formattedPrice>17,99€</formattedPrice>
+            <rrp>17.99</rrp>
+            <formattedRrp>17,99€</formattedRrp>
+            <onSale>false</onSale>
+          </price>
+          <formats availableDrmFree="true">
+            <format id="52">
+              <fileFormat>FLAC</fileFormat>
+              <bitRate>0</bitRate>
+              <drmFree>true</drmFree>
+            </format>
+          </formats>
+          <label id="234047">
+            <name>Pixies Music</name>
+          </label>
+          <licensor id="48">
+            <name>Vital</name>
+          </licensor>
+          <streamingReleaseDate xsi:nil="true" />
+          <duration>4865</duration>
+          <trackCount>25</trackCount>
+          <download>
+            <packages>
+              <package id="12">
+                <description>deluxe tier 1</description>
+                <price>
+                  <currencyCode>EUR</currencyCode>
+                  <sevendigitalPrice>17.99</sevendigitalPrice>
+                  <recommendedRetailPrice>17.99</recommendedRetailPrice>
+                </price>
+                <formats>
+                  <format id="52">
+                    <description>FLAC 24-bit 44.1kHz</description>
+                  </format>
+                </formats>
+              </package>
+            </packages>
+          </download>
+        </release>
+      </listItem>
+      <listItem id="4045799">
+        <type>release</type>
+        <release id="4045799">
+          <title>¡TRÉ!</title>
+          <version>Explicit</version>
+          <type>Album</type>
+          <barcode>093624947899</barcode>
+          <year>2012</year>
+          <explicitContent>true</explicitContent>
+          <artist id="610">
+            <name>Green Day</name>
+            <appearsAs>Green Day</appearsAs>
+            <url>http://fr.7digital.com/artist/green-day/?partner=3923</url>
+          </artist>
+          <url>http://fr.7digital.com/artist/green-day/release/¡tre-explicit/?partner=3923</url>
+          <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/040/457/0004045799_50.jpg</image>
+          <releaseDate>2015-03-02T00:00:00Z</releaseDate>
+          <addedDate>2014-12-23T01:43:12Z</addedDate>
+          <price>
+            <currency code="EUR">€</currency>
+            <value>16.99</value>
+            <formattedPrice>16,99€</formattedPrice>
+            <rrp>16.99</rrp>
+            <formattedRrp>16,99€</formattedRrp>
+            <onSale>false</onSale>
+          </price>
+          <formats availableDrmFree="true">
+            <format id="60">
+              <fileFormat>FLAC</fileFormat>
+              <bitRate>0</bitRate>
+              <drmFree>true</drmFree>
+            </format>
+          </formats>
+          <label id="253">
+            <name>Reprise</name>
+          </label>
+          <licensor id="18">
+            <name>Warner</name>
+          </licensor>
+          <streamingReleaseDate xsi:nil="true" />
+          <duration>2804</duration>
+          <trackCount>12</trackCount>
+          <download>
+            <packages>
+              <package id="16">
+                <description>deluxe tier 2</description>
+                <price>
+                  <currencyCode>EUR</currencyCode>
+                  <sevendigitalPrice>16.99</sevendigitalPrice>
+                  <recommendedRetailPrice>16.99</recommendedRetailPrice>
+                </price>
+                <formats>
+                  <format id="60">
+                    <description>FLAC 24-bit 96kHz</description>
+                  </format>
+                </formats>
+              </package>
+            </packages>
+          </download>
+        </release>
+      </listItem>
+      <listItem id="4129032">
+        <type>release</type>
+        <release id="4129032">
+          <title>The Wanderings Of The Avener</title>
+          <version />
+          <type>Album</type>
+          <barcode>00602547175137</barcode>
+          <year>2015</year>
+          <explicitContent>false</explicitContent>
+          <artist id="2036467">
+            <name>The Avener</name>
+            <appearsAs>The Avener</appearsAs>
+            <url>http://fr.7digital.com/artist/the-avener/?partner=3923</url>
+          </artist>
+          <url>http://fr.7digital.com/artist/the-avener/release/the-wanderings-of-the-avener-2/?partner=3923</url>
+          <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/041/290/0004129032_50.jpg</image>
+          <releaseDate>2015-01-19T00:00:00Z</releaseDate>
+          <addedDate>2015-02-06T13:23:09Z</addedDate>
+          <price>
+            <currency code="EUR">€</currency>
+            <value>22.49</value>
+            <formattedPrice>22,49€</formattedPrice>
+            <rrp>22.49</rrp>
+            <formattedRrp>22,49€</formattedRrp>
+            <onSale>false</onSale>
+          </price>
+          <formats availableDrmFree="true">
+            <format id="52">
+              <fileFormat>FLAC</fileFormat>
+              <bitRate>0</bitRate>
+              <drmFree>true</drmFree>
+            </format>
+          </formats>
+          <label id="223204">
+            <name>Universal Music Division Capitol Music France</name>
+          </label>
+          <licensor id="1">
+            <name>Universal</name>
+          </licensor>
+          <streamingReleaseDate xsi:nil="true" />
+          <duration>6794</duration>
+          <trackCount>16</trackCount>
+          <download>
+            <packages>
+              <package id="12">
+                <description>deluxe tier 1</description>
+                <price>
+                  <currencyCode>EUR</currencyCode>
+                  <sevendigitalPrice>22.49</sevendigitalPrice>
+                  <recommendedRetailPrice>22.49</recommendedRetailPrice>
+                </price>
+                <formats>
+                  <format id="52">
+                    <description>FLAC 24-bit 44.1kHz</description>
+                  </format>
+                </formats>
+              </package>
+            </packages>
+          </download>
+        </release>
+      </listItem>
+      <listItem id="4127659">
+        <type>release</type>
+        <release id="4127659">
+          <title>Getz/Gilberto</title>
+          <version>Expanded Edition</version>
+          <type>Album</type>
+          <barcode>00602537858170</barcode>
+          <year>2014</year>
+          <explicitContent>false</explicitContent>
+          <artist id="16810">
+            <name>Stan Getz</name>
+            <appearsAs>Stan Getz / João Gilberto</appearsAs>
+            <url>http://fr.7digital.com/artist/stan-getz/?partner=3923</url>
+          </artist>
+          <url>http://fr.7digital.com/artist/stan-getz/release/getzgilberto-expanded-edition/?partner=3923</url>
+          <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/041/276/0004127659_50.jpg</image>
+          <releaseDate>2015-01-19T00:00:00Z</releaseDate>
+          <addedDate>2015-02-05T18:26:38Z</addedDate>
+          <price>
+            <currency code="EUR">€</currency>
+            <value>22.49</value>
+            <formattedPrice>22,49€</formattedPrice>
+            <rrp>22.49</rrp>
+            <formattedRrp>22,49€</formattedRrp>
+            <onSale>false</onSale>
+          </price>
+          <formats availableDrmFree="true">
+            <format id="62">
+              <fileFormat>FLAC</fileFormat>
+              <bitRate>0</bitRate>
+              <drmFree>true</drmFree>
+            </format>
+          </formats>
+          <label id="149943">
+            <name>Universal Music (Pty) Ltd.</name>
+          </label>
+          <licensor id="1">
+            <name>Universal</name>
+          </licensor>
+          <streamingReleaseDate xsi:nil="true" />
+          <duration>4328</duration>
+          <trackCount>18</trackCount>
+          <download>
+            <packages>
+              <package id="17">
+                <description>deluxe tier 3</description>
+                <price>
+                  <currencyCode>EUR</currencyCode>
+                  <sevendigitalPrice>22.49</sevendigitalPrice>
+                  <recommendedRetailPrice>22.49</recommendedRetailPrice>
+                </price>
+                <formats>
+                  <format id="62">
+                    <description>FLAC 24-bit 192kHz</description>
+                  </format>
+                </formats>
+              </package>
+            </packages>
+          </download>
+        </release>
+      </listItem>
+      <listItem id="4128968">
+        <type>release</type>
+        <release id="4128968">
+          <title>The Velvet Underground</title>
+          <version>45th Anniversary / Super Deluxe</version>
+          <type>Album</type>
+          <barcode>00602547152268</barcode>
+          <year>1969</year>
+          <explicitContent>false</explicitContent>
+          <artist id="9604">
+            <name>The Velvet Underground</name>
+            <appearsAs>The Velvet Underground</appearsAs>
+            <url>http://fr.7digital.com/artist/the-velvet-underground/?partner=3923</url>
+          </artist>
+          <url>http://fr.7digital.com/artist/the-velvet-underground/release/the-velvet-underground-45th-anniversary-super-deluxe-2/?partner=3923</url>
+          <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/041/289/0004128968_50.jpg</image>
+          <releaseDate>2014-12-08T00:00:00Z</releaseDate>
+          <addedDate>2015-02-06T13:23:07Z</addedDate>
+          <price>
+            <currency code="EUR">€</currency>
+            <value>44.99</value>
+            <formattedPrice>44,99€</formattedPrice>
+            <rrp>44.99</rrp>
+            <formattedRrp>44,99€</formattedRrp>
+            <onSale>false</onSale>
+          </price>
+          <formats availableDrmFree="true">
+            <format id="60">
+              <fileFormat>FLAC</fileFormat>
+              <bitRate>0</bitRate>
+              <drmFree>true</drmFree>
+            </format>
+          </formats>
+          <label id="149943">
+            <name>Universal Music (Pty) Ltd.</name>
+          </label>
+          <licensor id="1">
+            <name>Universal</name>
+          </licensor>
+          <streamingReleaseDate xsi:nil="true" />
+          <duration>19287</duration>
+          <trackCount>65</trackCount>
+          <download>
+            <packages>
+              <package id="16">
+                <description>deluxe tier 2</description>
+                <price>
+                  <currencyCode>EUR</currencyCode>
+                  <sevendigitalPrice>44.99</sevendigitalPrice>
+                  <recommendedRetailPrice>44.99</recommendedRetailPrice>
+                </price>
+                <formats>
+                  <format id="60">
+                    <description>FLAC 24-bit 96kHz</description>
+                  </format>
+                </formats>
+              </package>
+            </packages>
+          </download>
+        </release>
+      </listItem>
+      <listItem id="4032885">
+        <type>release</type>
+        <release id="4032885">
+          <title>Black Messiah</title>
+          <version />
+          <type>Album</type>
+          <barcode>886444977449</barcode>
+          <year>2014</year>
+          <explicitContent>false</explicitContent>
+          <artist id="2528948">
+            <name>D'Angelo and The Vanguard</name>
+            <appearsAs>D'Angelo and The Vanguard</appearsAs>
+            <url>http://fr.7digital.com/artist/dangelo-and-the-vanguard/?partner=3923</url>
+          </artist>
+          <url>http://fr.7digital.com/artist/dangelo-and-the-vanguard/release/black-messiah/?partner=3923</url>
+          <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/040/328/0004032885_50.jpg</image>
+          <releaseDate>2014-12-15T00:00:00Z</releaseDate>
+          <addedDate>2014-12-15T13:02:22Z</addedDate>
+          <price>
+            <currency code="EUR">€</currency>
+            <value>9.79</value>
+            <formattedPrice>9,79€</formattedPrice>
+            <rrp>9.79</rrp>
+            <formattedRrp>9,79€</formattedRrp>
+            <onSale>false</onSale>
+          </price>
+          <formats availableDrmFree="true">
+            <format id="17">
+              <fileFormat>MP3</fileFormat>
+              <bitRate>320</bitRate>
+              <drmFree>true</drmFree>
+            </format>
+            <format id="33">
+              <fileFormat>M4A</fileFormat>
+              <bitRate>320</bitRate>
+              <drmFree>true</drmFree>
+            </format>
+          </formats>
+          <label id="89">
+            <name>RCA Records Label</name>
+          </label>
+          <licensor id="2">
+            <name>Sony Music</name>
+          </licensor>
+          <streamingReleaseDate>2014-12-15T00:00:00Z</streamingReleaseDate>
+          <duration>3354</duration>
+          <trackCount>12</trackCount>
+          <download>
+            <packages>
+              <package id="9">
+                <description>premium</description>
+                <price>
+                  <currencyCode>EUR</currencyCode>
+                  <sevendigitalPrice>12.49</sevendigitalPrice>
+                  <recommendedRetailPrice>12.49</recommendedRetailPrice>
+                </price>
+                <formats>
+                  <format id="45">
+                    <description>FLAC 16-bit 44.1kHz</description>
+                  </format>
+                </formats>
+              </package>
+              <package id="16">
+                <description>deluxe tier 2</description>
+                <price>
+                  <currencyCode>EUR</currencyCode>
+                  <sevendigitalPrice>14.99</sevendigitalPrice>
+                  <recommendedRetailPrice>14.99</recommendedRetailPrice>
+                </price>
+                <formats>
+                  <format id="60">
+                    <description>FLAC 24-bit 96kHz</description>
+                  </format>
+                </formats>
+              </package>
+              <package id="2">
+                <description>standard</description>
+                <price>
+                  <currencyCode>EUR</currencyCode>
+                  <sevendigitalPrice>9.79</sevendigitalPrice>
+                  <recommendedRetailPrice>9.79</recommendedRetailPrice>
+                </price>
+                <formats>
+                  <format id="17">
+                    <description>MP3 320</description>
+                  </format>
+                  <format id="33">
+                    <description>AAC 320</description>
+                  </format>
+                </formats>
+              </package>
+            </packages>
+          </download>
+        </release>
+      </listItem>
+      <listItem id="3987024">
+        <type>release</type>
+        <release id="3987024">
+          <title>Black City Tour</title>
+          <version />
+          <type>Album</type>
+          <barcode>886444962391</barcode>
+          <year>2014</year>
+          <explicitContent>false</explicitContent>
+          <artist id="3014">
+            <name>Indochine</name>
+            <appearsAs>Indochine</appearsAs>
+            <url>http://fr.7digital.com/artist/indochine/?partner=3923</url>
+          </artist>
+          <url>http://fr.7digital.com/artist/indochine/release/black-city-tour/?partner=3923</url>
+          <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/039/870/0003987024_50.jpg</image>
+          <releaseDate>2014-12-01T00:00:00Z</releaseDate>
+          <addedDate>2014-11-18T19:44:54Z</addedDate>
+          <price>
+            <currency code="EUR">€</currency>
+            <value>9.79</value>
+            <formattedPrice>9,79€</formattedPrice>
+            <rrp>9.79</rrp>
+            <formattedRrp>9,79€</formattedRrp>
+            <onSale>false</onSale>
+          </price>
+          <formats availableDrmFree="true">
+            <format id="17">
+              <fileFormat>MP3</fileFormat>
+              <bitRate>320</bitRate>
+              <drmFree>true</drmFree>
+            </format>
+            <format id="33">
+              <fileFormat>M4A</fileFormat>
+              <bitRate>320</bitRate>
+              <drmFree>true</drmFree>
+            </format>
+          </formats>
+          <label id="394240">
+            <name>Indochine Records</name>
+          </label>
+          <licensor id="2">
+            <name>Sony Music</name>
+          </licensor>
+          <streamingReleaseDate>2014-12-01T00:00:00Z</streamingReleaseDate>
+          <duration>7989</duration>
+          <trackCount>23</trackCount>
+          <download>
+            <packages>
+              <package id="2">
+                <description>standard</description>
+                <price>
+                  <currencyCode>EUR</currencyCode>
+                  <sevendigitalPrice>9.79</sevendigitalPrice>
+                  <recommendedRetailPrice>9.79</recommendedRetailPrice>
+                </price>
+                <formats>
+                  <format id="17">
+                    <description>MP3 320</description>
+                  </format>
+                  <format id="33">
+                    <description>AAC 320</description>
+                  </format>
+                </formats>
+              </package>
+              <package id="12">
+                <description>deluxe tier 1</description>
+                <price>
+                  <currencyCode>EUR</currencyCode>
+                  <sevendigitalPrice>14.99</sevendigitalPrice>
+                  <recommendedRetailPrice>14.99</recommendedRetailPrice>
+                </price>
+                <formats>
+                  <format id="52">
+                    <description>FLAC 24-bit 44.1kHz</description>
+                  </format>
+                </formats>
+              </package>
+              <package id="9">
+                <description>premium</description>
+                <price>
+                  <currencyCode>EUR</currencyCode>
+                  <sevendigitalPrice>12.49</sevendigitalPrice>
+                  <recommendedRetailPrice>12.49</recommendedRetailPrice>
+                </price>
+                <formats>
+                  <format id="45">
+                    <description>FLAC 16-bit 44.1kHz</description>
+                  </format>
+                </formats>
+              </package>
+            </packages>
+          </download>
+        </release>
+      </listItem>
+      <listItem id="4186065">
+        <type>release</type>
+        <release id="4186065">
+          <title>El Pintor</title>
+          <version />
+          <type>Album</type>
+          <barcode>5414939742071</barcode>
+          <year>2014</year>
+          <explicitContent>false</explicitContent>
+          <artist id="565">
+            <name>Interpol</name>
+            <appearsAs>Interpol</appearsAs>
+            <url>http://fr.7digital.com/artist/interpol/?partner=3923</url>
+          </artist>
+          <url>http://fr.7digital.com/artist/interpol/release/el-pintor-3/?partner=3923</url>
+          <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/041/860/0004186065_50.jpg</image>
+          <releaseDate>2014-09-08T00:00:00Z</releaseDate>
+          <addedDate>2015-02-21T11:58:47Z</addedDate>
+          <price>
+            <currency code="EUR">€</currency>
+            <value>14.99</value>
+            <formattedPrice>14,99€</formattedPrice>
+            <rrp>14.99</rrp>
+            <formattedRrp>14,99€</formattedRrp>
+            <onSale>false</onSale>
+          </price>
+          <formats availableDrmFree="true">
+            <format id="52">
+              <fileFormat>FLAC</fileFormat>
+              <bitRate>0</bitRate>
+              <drmFree>true</drmFree>
+            </format>
+          </formats>
+          <label id="58643">
+            <name>Soft Limit</name>
+          </label>
+          <licensor id="48">
+            <name>Vital</name>
+          </licensor>
+          <streamingReleaseDate xsi:nil="true" />
+          <duration>2638</duration>
+          <trackCount>11</trackCount>
+          <download>
+            <packages>
+              <package id="12">
+                <description>deluxe tier 1</description>
+                <price>
+                  <currencyCode>EUR</currencyCode>
+                  <sevendigitalPrice>14.99</sevendigitalPrice>
+                  <recommendedRetailPrice>14.99</recommendedRetailPrice>
+                </price>
+                <formats>
+                  <format id="52">
+                    <description>FLAC 24-bit 44.1kHz</description>
+                  </format>
+                </formats>
+              </package>
+            </packages>
+          </download>
+        </release>
+      </listItem>
+      <listItem id="3563048">
+        <type>release</type>
+        <release id="3563048">
+          <title>This Is All Yours</title>
+          <version>Explicit</version>
+          <type>Album</type>
+          <barcode>5050954421883</barcode>
+          <year>2014</year>
+          <explicitContent>true</explicitContent>
+          <artist id="1221028">
+            <name>alt-J</name>
+            <appearsAs>alt-J</appearsAs>
+            <url>http://fr.7digital.com/artist/alt-j-1/?partner=3923</url>
+          </artist>
+          <url>http://fr.7digital.com/artist/alt-j-1/release/this-is-all-yours/?partner=3923</url>
+          <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/035/630/0003563048_50.jpg</image>
+          <releaseDate>2014-09-22T00:00:00Z</releaseDate>
+          <addedDate>2014-09-16T10:33:30Z</addedDate>
+          <price>
+            <currency code="EUR">€</currency>
+            <value>10.99</value>
+            <formattedPrice>10,99€</formattedPrice>
+            <rrp>10.99</rrp>
+            <formattedRrp>10,99€</formattedRrp>
+            <onSale>false</onSale>
+          </price>
+          <formats availableDrmFree="true">
+            <format id="17">
+              <fileFormat>MP3</fileFormat>
+              <bitRate>320</bitRate>
+              <drmFree>true</drmFree>
+            </format>
+            <format id="33">
+              <fileFormat>M4A</fileFormat>
+              <bitRate>320</bitRate>
+              <drmFree>true</drmFree>
+            </format>
+          </formats>
+          <label id="25901">
+            <name>Infectious</name>
+          </label>
+          <licensor id="48">
+            <name>Vital</name>
+          </licensor>
+          <streamingReleaseDate>2014-09-22T00:00:00Z</streamingReleaseDate>
+          <duration>3328</duration>
+          <trackCount>14</trackCount>
+          <download>
+            <packages>
+              <package id="12">
+                <description>deluxe tier 1</description>
+                <price>
+                  <currencyCode>EUR</currencyCode>
+                  <sevendigitalPrice>14.99</sevendigitalPrice>
+                  <recommendedRetailPrice>14.99</recommendedRetailPrice>
+                </price>
+                <formats>
+                  <format id="52">
+                    <description>FLAC 24-bit 44.1kHz</description>
+                  </format>
+                </formats>
+              </package>
+              <package id="16">
+                <description>deluxe tier 2</description>
+                <price>
+                  <currencyCode>EUR</currencyCode>
+                  <sevendigitalPrice>16.49</sevendigitalPrice>
+                  <recommendedRetailPrice>16.49</recommendedRetailPrice>
+                </price>
+                <formats>
+                  <format id="60">
+                    <description>FLAC 24-bit 96kHz</description>
+                  </format>
+                </formats>
+              </package>
+              <package id="2">
+                <description>standard</description>
+                <price>
+                  <currencyCode>EUR</currencyCode>
+                  <sevendigitalPrice>10.99</sevendigitalPrice>
+                  <recommendedRetailPrice>10.99</recommendedRetailPrice>
+                </price>
+                <formats>
+                  <format id="17">
+                    <description>MP3 320</description>
+                  </format>
+                  <format id="33">
+                    <description>AAC 320</description>
+                  </format>
+                </formats>
+              </package>
+            </packages>
+          </download>
+        </release>
+      </listItem>
+      <listItem id="3398893">
+        <type>release</type>
+        <release id="3398893">
+          <title>Master Of Reality</title>
+          <version>Remastered</version>
+          <type>Album</type>
+          <barcode>0602537422722</barcode>
+          <year>1971</year>
+          <explicitContent>false</explicitContent>
+          <artist id="15920">
+            <name>Black Sabbath</name>
+            <appearsAs>Black Sabbath</appearsAs>
+            <url>http://fr.7digital.com/artist/black-sabbath/?partner=3923</url>
+          </artist>
+          <url>http://fr.7digital.com/artist/black-sabbath/release/master-of-reality-remastered/?partner=3923</url>
+          <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/033/988/0003398893_50.jpg</image>
+          <releaseDate>2014-03-28T00:00:00Z</releaseDate>
+          <addedDate>2014-03-25T13:33:44Z</addedDate>
+          <price>
+            <currency code="EUR">€</currency>
+            <value>8.72</value>
+            <formattedPrice>8,72€</formattedPrice>
+            <rrp>8.72</rrp>
+            <formattedRrp>8,72€</formattedRrp>
+            <onSale>false</onSale>
+          </price>
+          <formats availableDrmFree="true">
+            <format id="17">
+              <fileFormat>MP3</fileFormat>
+              <bitRate>320</bitRate>
+              <drmFree>true</drmFree>
+            </format>
+            <format id="33">
+              <fileFormat>M4A</fileFormat>
+              <bitRate>320</bitRate>
+              <drmFree>true</drmFree>
+            </format>
+          </formats>
+          <label id="1244">
+            <name>Sanctuary</name>
+          </label>
+          <licensor id="48">
+            <name>Vital</name>
+          </licensor>
+          <streamingReleaseDate>2014-03-28T00:00:00Z</streamingReleaseDate>
+          <duration>2061</duration>
+          <trackCount>8</trackCount>
+          <download>
+            <packages>
+              <package id="2">
+                <description>standard</description>
+                <price>
+                  <currencyCode>EUR</currencyCode>
+                  <sevendigitalPrice>8.72</sevendigitalPrice>
+                  <recommendedRetailPrice>8.72</recommendedRetailPrice>
+                </price>
+                <formats>
+                  <format id="17">
+                    <description>MP3 320</description>
+                  </format>
+                  <format id="33">
+                    <description>AAC 320</description>
+                  </format>
+                </formats>
+              </package>
+              <package id="9">
+                <description>premium</description>
+                <price>
+                  <currencyCode>EUR</currencyCode>
+                  <sevendigitalPrice>10.32</sevendigitalPrice>
+                  <recommendedRetailPrice>10.32</recommendedRetailPrice>
+                </price>
+                <formats>
+                  <format id="45">
+                    <description>FLAC 16-bit 44.1kHz</description>
+                  </format>
+                </formats>
+              </package>
+              <package id="12">
+                <description>deluxe tier 1</description>
+                <price>
+                  <currencyCode>EUR</currencyCode>
+                  <sevendigitalPrice>11.12</sevendigitalPrice>
+                  <recommendedRetailPrice>11.12</recommendedRetailPrice>
+                </price>
+                <formats>
+                  <format id="52">
+                    <description>FLAC 24-bit 44.1kHz</description>
+                  </format>
+                </formats>
+              </package>
+            </packages>
+          </download>
+        </release>
+      </listItem>
+      <listItem id="13083">
+        <type>release</type>
+        <release id="13083">
+          <title>You All Look The Same To Me</title>
+          <version />
+          <type>Album</type>
+          <barcode>809274327864</barcode>
+          <year>2002</year>
+          <explicitContent>false</explicitContent>
+          <artist id="6076">
+            <name>Archive</name>
+            <appearsAs>Archive</appearsAs>
+            <url>http://fr.7digital.com/artist/archive/?partner=3923</url>
+          </artist>
+          <url>http://fr.7digital.com/artist/archive/release/you-all-look-the-same-to-me-5/?partner=3923</url>
+          <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/000/130/0000013083_50.jpg</image>
+          <releaseDate>2015-01-02T00:00:00Z</releaseDate>
+          <addedDate>2008-03-03T14:32:29Z</addedDate>
+          <price>
+            <currency code="EUR">€</currency>
+            <value>6.99</value>
+            <formattedPrice>6,99€</formattedPrice>
+            <rrp>6.99</rrp>
+            <formattedRrp>6,99€</formattedRrp>
+            <onSale>false</onSale>
+          </price>
+          <formats availableDrmFree="true">
+            <format id="17">
+              <fileFormat>MP3</fileFormat>
+              <bitRate>320</bitRate>
+              <drmFree>true</drmFree>
+            </format>
+            <format id="48">
+              <fileFormat>MP3</fileFormat>
+              <bitRate>256</bitRate>
+              <drmFree>true</drmFree>
+            </format>
+            <format id="33">
+              <fileFormat>M4A</fileFormat>
+              <bitRate>320</bitRate>
+              <drmFree>true</drmFree>
+            </format>
+          </formats>
+          <label id="1853">
+            <name>EastWest France</name>
+          </label>
+          <licensor id="18">
+            <name>Warner</name>
+          </licensor>
+          <streamingReleaseDate>2010-08-17T00:00:00Z</streamingReleaseDate>
+          <duration>4009</duration>
+          <trackCount>10</trackCount>
+          <download>
+            <packages>
+              <package id="2">
+                <description>standard</description>
+                <price>
+                  <currencyCode>EUR</currencyCode>
+                  <sevendigitalPrice>6.99</sevendigitalPrice>
+                  <recommendedRetailPrice>6.99</recommendedRetailPrice>
+                </price>
+                <formats>
+                  <format id="17">
+                    <description>MP3 320</description>
+                  </format>
+                  <format id="33">
+                    <description>AAC 320</description>
+                  </format>
+                  <format id="48">
+                    <description>MP3 256</description>
+                  </format>
+                </formats>
+              </package>
+              <package id="9">
+                <description>premium</description>
+                <price>
+                  <currencyCode>EUR</currencyCode>
+                  <sevendigitalPrice>8.49</sevendigitalPrice>
+                  <recommendedRetailPrice>8.49</recommendedRetailPrice>
+                </price>
+                <formats>
+                  <format id="45">
+                    <description>FLAC 16-bit 44.1kHz</description>
+                  </format>
+                </formats>
+              </package>
+            </packages>
+          </download>
+        </release>
+      </listItem>
+      <listItem id="3534839">
+        <type>release</type>
+        <release id="3534839">
+          <title>Stay Gold</title>
+          <version>Explicit</version>
+          <type>Album</type>
+          <barcode>886444547642</barcode>
+          <year>2014</year>
+          <explicitContent>true</explicitContent>
+          <artist id="263631">
+            <name>First Aid Kit</name>
+            <appearsAs>First Aid Kit</appearsAs>
+            <url>http://fr.7digital.com/artist/first-aid-kit/?partner=3923</url>
+          </artist>
+          <url>http://fr.7digital.com/artist/first-aid-kit/release/stay-gold/?partner=3923</url>
+          <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/035/348/0003534839_50.jpg</image>
+          <releaseDate>2014-06-09T00:00:00Z</releaseDate>
+          <addedDate>2014-05-30T11:54:11Z</addedDate>
+          <price>
+            <currency code="EUR">€</currency>
+            <value>7.99</value>
+            <formattedPrice>7,99€</formattedPrice>
+            <rrp>7.99</rrp>
+            <formattedRrp>7,99€</formattedRrp>
+            <onSale>false</onSale>
+          </price>
+          <formats availableDrmFree="true">
+            <format id="17">
+              <fileFormat>MP3</fileFormat>
+              <bitRate>320</bitRate>
+              <drmFree>true</drmFree>
+            </format>
+          </formats>
+          <label id="592">
+            <name>Columbia</name>
+          </label>
+          <licensor id="2">
+            <name>Sony Music</name>
+          </licensor>
+          <streamingReleaseDate>2014-06-09T00:00:00Z</streamingReleaseDate>
+          <duration>2305</duration>
+          <trackCount>10</trackCount>
+          <download>
+            <packages>
+              <package id="12">
+                <description>deluxe tier 1</description>
+                <price>
+                  <currencyCode>EUR</currencyCode>
+                  <sevendigitalPrice>14.99</sevendigitalPrice>
+                  <recommendedRetailPrice>14.99</recommendedRetailPrice>
+                </price>
+                <formats>
+                  <format id="52">
+                    <description>FLAC 24-bit 44.1kHz</description>
+                  </format>
+                </formats>
+              </package>
+              <package id="2">
+                <description>standard</description>
+                <price>
+                  <currencyCode>EUR</currencyCode>
+                  <sevendigitalPrice>7.99</sevendigitalPrice>
+                  <recommendedRetailPrice>7.99</recommendedRetailPrice>
+                </price>
+                <formats>
+                  <format id="17">
+                    <description>MP3 320</description>
+                  </format>
+                </formats>
+              </package>
+            </packages>
+          </download>
+        </release>
+      </listItem>
+      <listItem id="4200386">
+        <type>release</type>
+        <release id="4200386">
+          <title>Ici-bas, Ici même</title>
+          <version />
+          <type>Album</type>
+          <barcode>5414939673276</barcode>
+          <year>2014</year>
+          <explicitContent>false</explicitContent>
+          <artist id="26669">
+            <name>Miossec</name>
+            <appearsAs>Miossec</appearsAs>
+            <url>http://fr.7digital.com/artist/miossec/?partner=3923</url>
+          </artist>
+          <url>http://fr.7digital.com/artist/miossec/release/ici-bas-ici-meme-2/?partner=3923</url>
+          <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/042/003/0004200386_50.jpg</image>
+          <releaseDate>2014-04-14T00:00:00Z</releaseDate>
+          <addedDate>2015-02-25T22:05:07Z</addedDate>
+          <price>
+            <currency code="EUR">€</currency>
+            <value>13.99</value>
+            <formattedPrice>13,99€</formattedPrice>
+            <rrp>13.99</rrp>
+            <formattedRrp>13,99€</formattedRrp>
+            <onSale>false</onSale>
+          </price>
+          <formats availableDrmFree="true">
+            <format id="52">
+              <fileFormat>FLAC</fileFormat>
+              <bitRate>0</bitRate>
+              <drmFree>true</drmFree>
+            </format>
+          </formats>
+          <label id="154614">
+            <name>[PIAS] Le Label</name>
+          </label>
+          <licensor id="48">
+            <name>Vital</name>
+          </licensor>
+          <streamingReleaseDate xsi:nil="true" />
+          <duration>2027</duration>
+          <trackCount>11</trackCount>
+          <download>
+            <packages>
+              <package id="12">
+                <description>deluxe tier 1</description>
+                <price>
+                  <currencyCode>EUR</currencyCode>
+                  <sevendigitalPrice>13.99</sevendigitalPrice>
+                  <recommendedRetailPrice>13.99</recommendedRetailPrice>
+                </price>
+                <formats>
+                  <format id="52">
+                    <description>FLAC 24-bit 44.1kHz</description>
+                  </format>
+                </formats>
+              </package>
+            </packages>
+          </download>
+        </release>
+      </listItem>
+      <listItem id="4185702">
+        <type>release</type>
+        <release id="4185702">
+          <title>Close To The Glass</title>
+          <version />
+          <type>Album</type>
+          <barcode>5414939625473</barcode>
+          <year>2014</year>
+          <explicitContent>false</explicitContent>
+          <artist id="18914">
+            <name>The Notwist</name>
+            <appearsAs>The Notwist</appearsAs>
+            <url>http://fr.7digital.com/artist/the-notwist/?partner=3923</url>
+          </artist>
+          <url>http://fr.7digital.com/artist/the-notwist/release/close-to-the-glass-10/?partner=3923</url>
+          <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/041/857/0004185702_50.jpg</image>
+          <releaseDate>2014-02-24T00:00:00Z</releaseDate>
+          <addedDate>2015-02-21T11:54:42Z</addedDate>
+          <price>
+            <currency code="EUR">€</currency>
+            <value>13.99</value>
+            <formattedPrice>13,99€</formattedPrice>
+            <rrp>13.99</rrp>
+            <formattedRrp>13,99€</formattedRrp>
+            <onSale>false</onSale>
+          </price>
+          <formats availableDrmFree="true">
+            <format id="52">
+              <fileFormat>FLAC</fileFormat>
+              <bitRate>0</bitRate>
+              <drmFree>true</drmFree>
+            </format>
+          </formats>
+          <label id="1356">
+            <name>City Slang</name>
+          </label>
+          <licensor id="48">
+            <name>Vital</name>
+          </licensor>
+          <streamingReleaseDate xsi:nil="true" />
+          <duration>2864</duration>
+          <trackCount>12</trackCount>
+          <download>
+            <packages>
+              <package id="12">
+                <description>deluxe tier 1</description>
+                <price>
+                  <currencyCode>EUR</currencyCode>
+                  <sevendigitalPrice>13.99</sevendigitalPrice>
+                  <recommendedRetailPrice>13.99</recommendedRetailPrice>
+                </price>
+                <formats>
+                  <format id="52">
+                    <description>FLAC 24-bit 44.1kHz</description>
+                  </format>
+                </formats>
+              </package>
+            </packages>
+          </download>
+        </release>
+      </listItem>
+      <listItem id="4022230">
+        <type>release</type>
+        <release id="4022230">
+          <title>Back Into the Woods (Expanded Edition)</title>
+          <version />
+          <type>Album</type>
+          <barcode>5051083086943</barcode>
+          <year>2014</year>
+          <explicitContent>false</explicitContent>
+          <artist id="366">
+            <name>Ed Harcourt</name>
+            <appearsAs>Ed Harcourt</appearsAs>
+            <url>http://fr.7digital.com/artist/ed-harcourt/?partner=3923</url>
+          </artist>
+          <url>http://fr.7digital.com/artist/ed-harcourt/release/back-into-the-woods-expanded-edition/?partner=3923</url>
+          <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/040/222/0004022230_50.jpg</image>
+          <releaseDate>2014-12-15T00:00:00Z</releaseDate>
+          <addedDate>2014-12-05T12:38:29Z</addedDate>
+          <price>
+            <currency code="EUR">€</currency>
+            <value>7.99</value>
+            <formattedPrice>7,99€</formattedPrice>
+            <rrp>7.99</rrp>
+            <formattedRrp>7,99€</formattedRrp>
+            <onSale>false</onSale>
+          </price>
+          <formats availableDrmFree="true">
+            <format id="17">
+              <fileFormat>MP3</fileFormat>
+              <bitRate>320</bitRate>
+              <drmFree>true</drmFree>
+            </format>
+            <format id="33">
+              <fileFormat>M4A</fileFormat>
+              <bitRate>320</bitRate>
+              <drmFree>true</drmFree>
+            </format>
+          </formats>
+          <label id="151327">
+            <name>CCCLX Music</name>
+          </label>
+          <licensor id="48">
+            <name>Vital</name>
+          </licensor>
+          <streamingReleaseDate>2014-12-15T00:00:00Z</streamingReleaseDate>
+          <duration>2954</duration>
+          <trackCount>12</trackCount>
+          <download>
+            <packages>
+              <package id="2">
+                <description>standard</description>
+                <price>
+                  <currencyCode>EUR</currencyCode>
+                  <sevendigitalPrice>7.99</sevendigitalPrice>
+                  <recommendedRetailPrice>7.99</recommendedRetailPrice>
+                </price>
+                <formats>
+                  <format id="17">
+                    <description>MP3 320</description>
+                  </format>
+                  <format id="33">
+                    <description>AAC 320</description>
+                  </format>
+                </formats>
+              </package>
+              <package id="9">
+                <description>premium</description>
+                <price>
+                  <currencyCode>EUR</currencyCode>
+                  <sevendigitalPrice>9.99</sevendigitalPrice>
+                  <recommendedRetailPrice>9.99</recommendedRetailPrice>
+                </price>
+                <formats>
+                  <format id="45">
+                    <description>FLAC 16-bit 44.1kHz</description>
+                  </format>
+                </formats>
+              </package>
+              <package id="12">
+                <description>deluxe tier 1</description>
+                <price>
+                  <currencyCode>EUR</currencyCode>
+                  <sevendigitalPrice>10.99</sevendigitalPrice>
+                  <recommendedRetailPrice>10.99</recommendedRetailPrice>
+                </price>
+                <formats>
+                  <format id="52">
+                    <description>FLAC 24-bit 44.1kHz</description>
+                  </format>
+                </formats>
+              </package>
+            </packages>
+          </download>
+        </release>
+      </listItem>
+      <listItem id="3919942">
+        <type>release</type>
+        <release id="3919942">
+          <title>With A Little Help From My Fwends</title>
+          <version />
+          <type>Album</type>
+          <barcode>5051083081955</barcode>
+          <year>2014</year>
+          <explicitContent>false</explicitContent>
+          <artist id="4021">
+            <name>The Flaming Lips</name>
+            <appearsAs>The Flaming Lips</appearsAs>
+            <url>http://fr.7digital.com/artist/the-flaming-lips/?partner=3923</url>
+          </artist>
+          <url>http://fr.7digital.com/artist/the-flaming-lips/release/with-a-little-help-from-my-fwends-2/?partner=3923</url>
+          <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/039/199/0003919942_50.jpg</image>
+          <releaseDate>2014-11-03T00:00:00Z</releaseDate>
+          <addedDate>2014-10-27T17:26:06Z</addedDate>
+          <price>
+            <currency code="EUR">€</currency>
+            <value>10.99</value>
+            <formattedPrice>10,99€</formattedPrice>
+            <rrp>10.99</rrp>
+            <formattedRrp>10,99€</formattedRrp>
+            <onSale>false</onSale>
+          </price>
+          <formats availableDrmFree="true">
+            <format id="17">
+              <fileFormat>MP3</fileFormat>
+              <bitRate>320</bitRate>
+              <drmFree>true</drmFree>
+            </format>
+            <format id="33">
+              <fileFormat>M4A</fileFormat>
+              <bitRate>320</bitRate>
+              <drmFree>true</drmFree>
+            </format>
+          </formats>
+          <label id="528">
+            <name>Bella Union</name>
+          </label>
+          <licensor id="48">
+            <name>Vital</name>
+          </licensor>
+          <streamingReleaseDate>2014-11-03T00:00:00Z</streamingReleaseDate>
+          <duration>3078</duration>
+          <trackCount>13</trackCount>
+          <download>
+            <packages>
+              <package id="12">
+                <description>deluxe tier 1</description>
+                <price>
+                  <currencyCode>EUR</currencyCode>
+                  <sevendigitalPrice>14.99</sevendigitalPrice>
+                  <recommendedRetailPrice>14.99</recommendedRetailPrice>
+                </price>
+                <formats>
+                  <format id="52">
+                    <description>FLAC 24-bit 44.1kHz</description>
+                  </format>
+                </formats>
+              </package>
+              <package id="2">
+                <description>standard</description>
+                <price>
+                  <currencyCode>EUR</currencyCode>
+                  <sevendigitalPrice>10.99</sevendigitalPrice>
+                  <recommendedRetailPrice>10.99</recommendedRetailPrice>
+                </price>
+                <formats>
+                  <format id="17">
+                    <description>MP3 320</description>
+                  </format>
+                  <format id="33">
+                    <description>AAC 320</description>
+                  </format>
+                </formats>
+              </package>
+            </packages>
+          </download>
+        </release>
+      </listItem>
+      <listItem id="3654790">
+        <type>release</type>
+        <release id="3654790">
+          <title>Junto</title>
+          <version>Special Edition</version>
+          <type>Album</type>
+          <barcode>5414939722370</barcode>
+          <year>2014</year>
+          <explicitContent>false</explicitContent>
+          <artist id="11509">
+            <name>Basement Jaxx</name>
+            <appearsAs>Basement Jaxx</appearsAs>
+            <url>http://fr.7digital.com/artist/basement-jaxx/?partner=3923</url>
+          </artist>
+          <url>http://fr.7digital.com/artist/basement-jaxx/release/junto-special-edition-2/?partner=3923</url>
+          <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/036/547/0003654790_50.jpg</image>
+          <releaseDate>2014-08-25T00:00:00Z</releaseDate>
+          <addedDate>2014-07-16T14:02:03Z</addedDate>
+          <price>
+            <currency code="EUR">€</currency>
+            <value>14.99</value>
+            <formattedPrice>14,99€</formattedPrice>
+            <rrp>14.99</rrp>
+            <formattedRrp>14,99€</formattedRrp>
+            <onSale>false</onSale>
+          </price>
+          <formats availableDrmFree="true">
+            <format id="17">
+              <fileFormat>MP3</fileFormat>
+              <bitRate>320</bitRate>
+              <drmFree>true</drmFree>
+            </format>
+            <format id="33">
+              <fileFormat>M4A</fileFormat>
+              <bitRate>320</bitRate>
+              <drmFree>true</drmFree>
+            </format>
+          </formats>
+          <label id="3039">
+            <name>Atlantic Jaxx Recordings</name>
+          </label>
+          <licensor id="48">
+            <name>Vital</name>
+          </licensor>
+          <streamingReleaseDate>2014-08-25T00:00:00Z</streamingReleaseDate>
+          <duration>10269</duration>
+          <trackCount>26</trackCount>
+          <download>
+            <packages>
+              <package id="2">
+                <description>standard</description>
+                <price>
+                  <currencyCode>EUR</currencyCode>
+                  <sevendigitalPrice>14.99</sevendigitalPrice>
+                  <recommendedRetailPrice>14.99</recommendedRetailPrice>
+                </price>
+                <formats>
+                  <format id="17">
+                    <description>MP3 320</description>
+                  </format>
+                  <format id="33">
+                    <description>AAC 320</description>
+                  </format>
+                </formats>
+              </package>
+              <package id="12">
+                <description>deluxe tier 1</description>
+                <price>
+                  <currencyCode>EUR</currencyCode>
+                  <sevendigitalPrice>20.49</sevendigitalPrice>
+                  <recommendedRetailPrice>20.49</recommendedRetailPrice>
+                </price>
+                <formats>
+                  <format id="52">
+                    <description>FLAC 24-bit 44.1kHz</description>
+                  </format>
+                </formats>
+              </package>
+            </packages>
+          </download>
+        </release>
+      </listItem>
+      <listItem id="3871076">
+        <type>release</type>
+        <release id="3871076">
+          <title>INSIDE / OUTSIDE</title>
+          <version />
+          <type>Album</type>
+          <barcode>5414939796074</barcode>
+          <year>2014</year>
+          <explicitContent>false</explicitContent>
+          <artist id="12237">
+            <name>Tinariwen</name>
+            <appearsAs>Tinariwen</appearsAs>
+            <url>http://fr.7digital.com/artist/tinariwen/?partner=3923</url>
+          </artist>
+          <url>http://fr.7digital.com/artist/tinariwen/release/inside-outside-1/?partner=3923</url>
+          <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/038/710/0003871076_50.jpg</image>
+          <releaseDate>2014-10-07T00:00:00Z</releaseDate>
+          <addedDate>2014-10-08T19:28:42Z</addedDate>
+          <price>
+            <currency code="EUR">€</currency>
+            <value>4.99</value>
+            <formattedPrice>4,99€</formattedPrice>
+            <rrp>4.99</rrp>
+            <formattedRrp>4,99€</formattedRrp>
+            <onSale>false</onSale>
+          </price>
+          <formats availableDrmFree="true">
+            <format id="17">
+              <fileFormat>MP3</fileFormat>
+              <bitRate>320</bitRate>
+              <drmFree>true</drmFree>
+            </format>
+            <format id="33">
+              <fileFormat>M4A</fileFormat>
+              <bitRate>320</bitRate>
+              <drmFree>true</drmFree>
+            </format>
+          </formats>
+          <label id="67206">
+            <name>WEDGE</name>
+          </label>
+          <licensor id="48">
+            <name>Vital</name>
+          </licensor>
+          <streamingReleaseDate>2014-10-07T00:00:00Z</streamingReleaseDate>
+          <duration>1622</duration>
+          <trackCount>5</trackCount>
+          <download>
+            <packages>
+              <package id="2">
+                <description>standard</description>
+                <price>
+                  <currencyCode>EUR</currencyCode>
+                  <sevendigitalPrice>4.99</sevendigitalPrice>
+                  <recommendedRetailPrice>4.99</recommendedRetailPrice>
+                </price>
+                <formats>
+                  <format id="17">
+                    <description>MP3 320</description>
+                  </format>
+                  <format id="33">
+                    <description>AAC 320</description>
+                  </format>
+                </formats>
+              </package>
+              <package id="12">
+                <description>deluxe tier 1</description>
+                <price>
+                  <currencyCode>EUR</currencyCode>
+                  <sevendigitalPrice>6.95</sevendigitalPrice>
+                  <recommendedRetailPrice>6.95</recommendedRetailPrice>
+                </price>
+                <formats>
+                  <format id="52">
+                    <description>FLAC 24-bit 44.1kHz</description>
+                  </format>
+                </formats>
+              </package>
+            </packages>
+          </download>
+        </release>
+      </listItem>
+    </listItems>
+  </list>
+</response>
