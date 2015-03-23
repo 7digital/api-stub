@@ -1,0 +1,681 @@
+<?xml version="1.0" encoding="utf-8"?>
+<response xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" status="ok" version="1.2" xsi:noNamespaceSchemaLocation="http://api.7digital.com/1.2/static/7digitalAPI.xsd">
+  <list id="17746">
+    <key>BRITS2015-2</key>
+    <listItems>
+      <listItem id="3338142">
+        <type>release</type>
+        <release id="3338142">
+          <title>Summer</title>
+          <version />
+          <type>Single</type>
+          <barcode>886444521352</barcode>
+          <year>2014</year>
+          <explicitContent>false</explicitContent>
+          <artist id="49225">
+            <name>Calvin Harris</name>
+            <appearsAs>Calvin Harris</appearsAs>
+            <url>http://www.7digital.com/artist/calvin-harris/?partner=3923</url>
+          </artist>
+          <url>http://www.7digital.com/artist/calvin-harris/release/summer/?partner=3923</url>
+          <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/033/381/0003338142_50.jpg</image>
+          <releaseDate>2014-04-27T00:00:00Z</releaseDate>
+          <addedDate>2014-04-01T19:45:11Z</addedDate>
+          <price>
+            <currency code="GBP">£</currency>
+            <value>0.99</value>
+            <formattedPrice>£0.99</formattedPrice>
+            <rrp>0.99</rrp>
+            <formattedRrp>£0.99</formattedRrp>
+            <onSale>false</onSale>
+          </price>
+          <formats availableDrmFree="true">
+            <format id="17">
+              <fileFormat>MP3</fileFormat>
+              <bitRate>320</bitRate>
+              <drmFree>true</drmFree>
+            </format>
+          </formats>
+          <label id="592">
+            <name>Columbia</name>
+          </label>
+          <licensor id="2">
+            <name>Sony Music</name>
+          </licensor>
+          <streamingReleaseDate>2014-04-27T00:00:00Z</streamingReleaseDate>
+          <duration>221</duration>
+          <trackCount>1</trackCount>
+          <download>
+            <packages>
+              <package id="2">
+                <description>standard</description>
+                <price>
+                  <currencyCode>GBP</currencyCode>
+                  <sevendigitalPrice>0.99</sevendigitalPrice>
+                  <recommendedRetailPrice>0.99</recommendedRetailPrice>
+                </price>
+                <formats>
+                  <format id="17">
+                    <description>MP3 320</description>
+                  </format>
+                </formats>
+              </package>
+            </packages>
+          </download>
+        </release>
+      </listItem>
+      <listItem id="3191984">
+        <type>release</type>
+        <release id="3191984">
+          <title>Rather Be (feat. Jess Glynne)</title>
+          <version />
+          <type>Single</type>
+          <barcode>825646347636</barcode>
+          <year>2014</year>
+          <explicitContent>false</explicitContent>
+          <artist id="1285435">
+            <name>Clean Bandit</name>
+            <appearsAs>Clean Bandit</appearsAs>
+            <url>http://www.7digital.com/artist/clean-bandit/?partner=3923</url>
+          </artist>
+          <url>http://www.7digital.com/artist/clean-bandit/release/rather-be-feat-jess-glynne-1/?partner=3923</url>
+          <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/031/919/0003191984_50.jpg</image>
+          <releaseDate>2014-01-19T00:00:00Z</releaseDate>
+          <addedDate>2014-01-07T10:45:15Z</addedDate>
+          <price>
+            <currency code="GBP">£</currency>
+            <value>0.99</value>
+            <formattedPrice>£0.99</formattedPrice>
+            <rrp>0.99</rrp>
+            <formattedRrp>£0.99</formattedRrp>
+            <onSale>false</onSale>
+          </price>
+          <formats availableDrmFree="true">
+            <format id="17">
+              <fileFormat>MP3</fileFormat>
+              <bitRate>320</bitRate>
+              <drmFree>true</drmFree>
+            </format>
+          </formats>
+          <label id="116">
+            <name>Atlantic Records</name>
+          </label>
+          <licensor id="18">
+            <name>Warner</name>
+          </licensor>
+          <streamingReleaseDate>2014-01-19T00:00:00Z</streamingReleaseDate>
+          <duration>228</duration>
+          <trackCount>1</trackCount>
+          <download>
+            <packages>
+              <package id="2">
+                <description>standard</description>
+                <price>
+                  <currencyCode>GBP</currencyCode>
+                  <sevendigitalPrice>0.99</sevendigitalPrice>
+                  <recommendedRetailPrice>0.99</recommendedRetailPrice>
+                </price>
+                <formats>
+                  <format id="17">
+                    <description>MP3 320</description>
+                  </format>
+                </formats>
+              </package>
+            </packages>
+          </download>
+        </release>
+      </listItem>
+      <listItem id="3208368">
+        <type>release</type>
+        <release id="3208368">
+          <title>I Got U</title>
+          <version />
+          <type>Single</type>
+          <barcode>00602537704620</barcode>
+          <year>2014</year>
+          <explicitContent>false</explicitContent>
+          <artist id="2134412">
+            <name>Duke Dumont / Jax Jones</name>
+            <appearsAs>Duke Dumont / Jax Jones</appearsAs>
+            <url>http://www.7digital.com/artist/duke-dumont-jax-jones/?partner=3923</url>
+          </artist>
+          <url>http://www.7digital.com/artist/duke-dumont-jax-jones/release/i-got-u/?partner=3923</url>
+          <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/032/083/0003208368_50.jpg</image>
+          <releaseDate>2014-03-16T00:00:00Z</releaseDate>
+          <addedDate>2014-01-13T10:35:28Z</addedDate>
+          <price>
+            <currency code="GBP">£</currency>
+            <value>0.99</value>
+            <formattedPrice>£0.99</formattedPrice>
+            <rrp>0.99</rrp>
+            <formattedRrp>£0.99</formattedRrp>
+            <onSale>false</onSale>
+          </price>
+          <formats availableDrmFree="true">
+            <format id="17">
+              <fileFormat>MP3</fileFormat>
+              <bitRate>320</bitRate>
+              <drmFree>true</drmFree>
+            </format>
+          </formats>
+          <label id="353622">
+            <name>Blasé Boys Club</name>
+          </label>
+          <licensor id="1">
+            <name>Universal</name>
+          </licensor>
+          <streamingReleaseDate>2014-03-16T00:00:00Z</streamingReleaseDate>
+          <duration>286</duration>
+          <trackCount>1</trackCount>
+          <download>
+            <packages>
+              <package id="2">
+                <description>standard</description>
+                <price>
+                  <currencyCode>GBP</currencyCode>
+                  <sevendigitalPrice>0.99</sevendigitalPrice>
+                  <recommendedRetailPrice>0.99</recommendedRetailPrice>
+                </price>
+                <formats>
+                  <format id="17">
+                    <description>MP3 320</description>
+                  </format>
+                </formats>
+              </package>
+            </packages>
+          </download>
+        </release>
+      </listItem>
+      <listItem id="3948836">
+        <type>release</type>
+        <release id="3948836">
+          <title>Thinking Out Loud</title>
+          <version />
+          <type>Single</type>
+          <barcode>825646172986</barcode>
+          <year>2014</year>
+          <explicitContent>false</explicitContent>
+          <artist id="603309">
+            <name>Ed Sheeran</name>
+            <appearsAs>Ed Sheeran</appearsAs>
+            <url>http://www.7digital.com/artist/ed-sheeran/?partner=3923</url>
+          </artist>
+          <url>http://www.7digital.com/artist/ed-sheeran/release/thinking-out-loud-1/?partner=3923</url>
+          <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/039/488/0003948836_50.jpg</image>
+          <releaseDate>2014-11-07T00:00:00Z</releaseDate>
+          <addedDate>2014-11-06T14:31:17Z</addedDate>
+          <price>
+            <currency code="GBP">£</currency>
+            <value>0.99</value>
+            <formattedPrice>£0.99</formattedPrice>
+            <rrp>0.99</rrp>
+            <formattedRrp>£0.99</formattedRrp>
+            <onSale>false</onSale>
+          </price>
+          <formats availableDrmFree="true">
+            <format id="17">
+              <fileFormat>MP3</fileFormat>
+              <bitRate>320</bitRate>
+              <drmFree>true</drmFree>
+            </format>
+          </formats>
+          <label id="1373">
+            <name>Atlantic Records UK</name>
+          </label>
+          <licensor id="18">
+            <name>Warner</name>
+          </licensor>
+          <streamingReleaseDate>2014-11-07T00:00:00Z</streamingReleaseDate>
+          <duration>182</duration>
+          <trackCount>1</trackCount>
+          <download>
+            <packages>
+              <package id="2">
+                <description>standard</description>
+                <price>
+                  <currencyCode>GBP</currencyCode>
+                  <sevendigitalPrice>0.99</sevendigitalPrice>
+                  <recommendedRetailPrice>0.99</recommendedRetailPrice>
+                </price>
+                <formats>
+                  <format id="17">
+                    <description>MP3 320</description>
+                  </format>
+                </formats>
+              </package>
+              <package id="9">
+                <description>premium</description>
+                <price>
+                  <currencyCode>GBP</currencyCode>
+                  <sevendigitalPrice>1.59</sevendigitalPrice>
+                  <recommendedRetailPrice>1.59</recommendedRetailPrice>
+                </price>
+                <formats>
+                  <format id="45">
+                    <description>FLAC 16-bit 44.1kHz</description>
+                  </format>
+                </formats>
+              </package>
+            </packages>
+          </download>
+        </release>
+      </listItem>
+      <listItem id="3497457">
+        <type>release</type>
+        <release id="3497457">
+          <title>Ghost</title>
+          <version />
+          <type>Single</type>
+          <barcode>886444568876</barcode>
+          <year>2014</year>
+          <explicitContent>false</explicitContent>
+          <artist id="2267033">
+            <name>Ella Henderson</name>
+            <appearsAs>Ella Henderson</appearsAs>
+            <url>http://www.7digital.com/artist/ella-henderson/?partner=3923</url>
+          </artist>
+          <url>http://www.7digital.com/artist/ella-henderson/release/ghost/?partner=3923</url>
+          <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/034/974/0003497457_50.jpg</image>
+          <releaseDate>2014-06-08T00:00:00Z</releaseDate>
+          <addedDate>2014-05-15T14:26:49Z</addedDate>
+          <price>
+            <currency code="GBP">£</currency>
+            <value>0.99</value>
+            <formattedPrice>£0.99</formattedPrice>
+            <rrp>0.99</rrp>
+            <formattedRrp>£0.99</formattedRrp>
+            <onSale>false</onSale>
+          </price>
+          <formats availableDrmFree="true">
+            <format id="17">
+              <fileFormat>MP3</fileFormat>
+              <bitRate>320</bitRate>
+              <drmFree>true</drmFree>
+            </format>
+          </formats>
+          <label id="511">
+            <name>Syco Music</name>
+          </label>
+          <licensor id="2">
+            <name>Sony Music</name>
+          </licensor>
+          <streamingReleaseDate>2014-06-08T00:00:00Z</streamingReleaseDate>
+          <duration>213</duration>
+          <trackCount>1</trackCount>
+          <download>
+            <packages>
+              <package id="2">
+                <description>standard</description>
+                <price>
+                  <currencyCode>GBP</currencyCode>
+                  <sevendigitalPrice>0.99</sevendigitalPrice>
+                  <recommendedRetailPrice>0.99</recommendedRetailPrice>
+                </price>
+                <formats>
+                  <format id="17">
+                    <description>MP3 320</description>
+                  </format>
+                </formats>
+              </package>
+            </packages>
+          </download>
+        </release>
+      </listItem>
+      <listItem id="3959164">
+        <type>release</type>
+        <release id="3959164">
+          <title>Uptown Funk</title>
+          <version />
+          <type>Single</type>
+          <barcode>886444933049</barcode>
+          <year>2014</year>
+          <explicitContent>false</explicitContent>
+          <artist id="2490941">
+            <name>Mark Ronson feat. Bruno Mars</name>
+            <appearsAs>Mark Ronson feat. Bruno Mars</appearsAs>
+            <url>http://www.7digital.com/artist/mark-ronson-feat-bruno-mars/?partner=3923</url>
+          </artist>
+          <url>http://www.7digital.com/artist/mark-ronson-feat-bruno-mars/release/uptown-funk-explicit/?partner=3923</url>
+          <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/039/591/0003959164_50.jpg</image>
+          <releaseDate>2014-12-08T00:00:00Z</releaseDate>
+          <addedDate>2014-11-10T12:35:23Z</addedDate>
+          <price>
+            <currency code="GBP">£</currency>
+            <value>0.99</value>
+            <formattedPrice>£0.99</formattedPrice>
+            <rrp>0.99</rrp>
+            <formattedRrp>£0.99</formattedRrp>
+            <onSale>false</onSale>
+          </price>
+          <formats availableDrmFree="true">
+            <format id="17">
+              <fileFormat>MP3</fileFormat>
+              <bitRate>320</bitRate>
+              <drmFree>true</drmFree>
+            </format>
+            <format id="33">
+              <fileFormat>M4A</fileFormat>
+              <bitRate>320</bitRate>
+              <drmFree>true</drmFree>
+            </format>
+          </formats>
+          <label id="592">
+            <name>Columbia</name>
+          </label>
+          <licensor id="2">
+            <name>Sony Music</name>
+          </licensor>
+          <streamingReleaseDate>2014-12-08T00:00:00Z</streamingReleaseDate>
+          <duration>270</duration>
+          <trackCount>1</trackCount>
+          <download>
+            <packages>
+              <package id="2">
+                <description>standard</description>
+                <price>
+                  <currencyCode>GBP</currencyCode>
+                  <sevendigitalPrice>0.99</sevendigitalPrice>
+                  <recommendedRetailPrice>0.99</recommendedRetailPrice>
+                </price>
+                <formats>
+                  <format id="17">
+                    <description>MP3 320</description>
+                  </format>
+                  <format id="33">
+                    <description>AAC 320</description>
+                  </format>
+                </formats>
+              </package>
+              <package id="12">
+                <description>deluxe tier 1</description>
+                <price>
+                  <currencyCode>GBP</currencyCode>
+                  <sevendigitalPrice>2.59</sevendigitalPrice>
+                  <recommendedRetailPrice>2.59</recommendedRetailPrice>
+                </price>
+                <formats>
+                  <format id="52">
+                    <description>FLAC 24-bit 44.1kHz</description>
+                  </format>
+                </formats>
+              </package>
+            </packages>
+          </download>
+        </release>
+      </listItem>
+      <listItem id="3591446">
+        <type>release</type>
+        <release id="3591446">
+          <title>Wanted On Voyage</title>
+          <version />
+          <type>Album</type>
+          <barcode>886444539401</barcode>
+          <year>2014</year>
+          <explicitContent>false</explicitContent>
+          <artist id="2023111">
+            <name>George Ezra</name>
+            <appearsAs>George Ezra</appearsAs>
+            <url>http://www.7digital.com/artist/george-ezra/?partner=3923</url>
+          </artist>
+          <url>http://www.7digital.com/artist/george-ezra/release/wanted-on-voyage-1/?partner=3923</url>
+          <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/035/914/0003591446_50.jpg</image>
+          <releaseDate>2014-06-30T00:00:00Z</releaseDate>
+          <addedDate>2014-07-03T17:57:14Z</addedDate>
+          <price>
+            <currency code="GBP">£</currency>
+            <value>8.99</value>
+            <formattedPrice>£8.99</formattedPrice>
+            <rrp>8.99</rrp>
+            <formattedRrp>£8.99</formattedRrp>
+            <onSale>false</onSale>
+          </price>
+          <formats availableDrmFree="true">
+            <format id="17">
+              <fileFormat>MP3</fileFormat>
+              <bitRate>320</bitRate>
+              <drmFree>true</drmFree>
+            </format>
+            <format id="33">
+              <fileFormat>M4A</fileFormat>
+              <bitRate>320</bitRate>
+              <drmFree>true</drmFree>
+            </format>
+          </formats>
+          <label id="592">
+            <name>Columbia</name>
+          </label>
+          <licensor id="2">
+            <name>Sony Music</name>
+          </licensor>
+          <streamingReleaseDate>2014-06-30T00:00:00Z</streamingReleaseDate>
+          <duration>2616</duration>
+          <trackCount>12</trackCount>
+          <download>
+            <packages>
+              <package id="16">
+                <description>deluxe tier 2</description>
+                <price>
+                  <currencyCode>GBP</currencyCode>
+                  <sevendigitalPrice>12.99</sevendigitalPrice>
+                  <recommendedRetailPrice>12.99</recommendedRetailPrice>
+                </price>
+                <formats>
+                  <format id="60">
+                    <description>FLAC 24-bit 96kHz</description>
+                  </format>
+                </formats>
+              </package>
+              <package id="2">
+                <description>standard</description>
+                <price>
+                  <currencyCode>GBP</currencyCode>
+                  <sevendigitalPrice>8.99</sevendigitalPrice>
+                  <recommendedRetailPrice>8.99</recommendedRetailPrice>
+                </price>
+                <formats>
+                  <format id="17">
+                    <description>MP3 320</description>
+                  </format>
+                  <format id="33">
+                    <description>AAC 320</description>
+                  </format>
+                </formats>
+              </package>
+            </packages>
+          </download>
+        </release>
+      </listItem>
+      <listItem id="3302434">
+        <type>release</type>
+        <release id="3302434">
+          <title>My Love</title>
+          <version />
+          <type>Single</type>
+          <barcode>00602537647491</barcode>
+          <year>2014</year>
+          <explicitContent>false</explicitContent>
+          <artist id="2024165">
+            <name>Route 94 / Jess Glynne</name>
+            <appearsAs>Route 94 / Jess Glynne</appearsAs>
+            <url>http://www.7digital.com/artist/route-94-jess-glynne/?partner=3923</url>
+          </artist>
+          <url>http://www.7digital.com/artist/route-94-jess-glynne/release/my-love-1/?partner=3923</url>
+          <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/033/024/0003302434_50.jpg</image>
+          <releaseDate>2014-03-02T00:00:00Z</releaseDate>
+          <addedDate>2014-02-21T12:04:30Z</addedDate>
+          <price>
+            <currency code="GBP">£</currency>
+            <value>0.99</value>
+            <formattedPrice>£0.99</formattedPrice>
+            <rrp>0.99</rrp>
+            <formattedRrp>£0.99</formattedRrp>
+            <onSale>false</onSale>
+          </price>
+          <formats availableDrmFree="true">
+            <format id="17">
+              <fileFormat>MP3</fileFormat>
+              <bitRate>320</bitRate>
+              <drmFree>true</drmFree>
+            </format>
+          </formats>
+          <label id="383633">
+            <name>Digital Distribution Qatar</name>
+          </label>
+          <licensor id="1">
+            <name>Universal</name>
+          </licensor>
+          <streamingReleaseDate>2014-03-02T00:00:00Z</streamingReleaseDate>
+          <duration>262</duration>
+          <trackCount>1</trackCount>
+          <download>
+            <packages>
+              <package id="2">
+                <description>standard</description>
+                <price>
+                  <currencyCode>GBP</currencyCode>
+                  <sevendigitalPrice>0.99</sevendigitalPrice>
+                  <recommendedRetailPrice>0.99</recommendedRetailPrice>
+                </price>
+                <formats>
+                  <format id="17">
+                    <description>MP3 320</description>
+                  </format>
+                </formats>
+              </package>
+            </packages>
+          </download>
+        </release>
+      </listItem>
+      <listItem id="3470287">
+        <type>release</type>
+        <release id="3470287">
+          <title>Stay With Me</title>
+          <version />
+          <type>Single</type>
+          <barcode>00602537802623</barcode>
+          <year>2014</year>
+          <explicitContent>false</explicitContent>
+          <artist id="250807">
+            <name>Sam Smith</name>
+            <appearsAs>Sam Smith</appearsAs>
+            <url>http://www.7digital.com/artist/sam-smith/?partner=3923</url>
+          </artist>
+          <url>http://www.7digital.com/artist/sam-smith/release/stay-with-me-1/?partner=3923</url>
+          <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/034/702/0003470287_50.jpg</image>
+          <releaseDate>2014-05-18T00:00:00Z</releaseDate>
+          <addedDate>2014-04-29T10:19:29Z</addedDate>
+          <price>
+            <currency code="GBP">£</currency>
+            <value>1.99</value>
+            <formattedPrice>£1.99</formattedPrice>
+            <rrp>1.99</rrp>
+            <formattedRrp>£1.99</formattedRrp>
+            <onSale>false</onSale>
+          </price>
+          <formats availableDrmFree="true">
+            <format id="17">
+              <fileFormat>MP3</fileFormat>
+              <bitRate>320</bitRate>
+              <drmFree>true</drmFree>
+            </format>
+            <format id="33">
+              <fileFormat>M4A</fileFormat>
+              <bitRate>320</bitRate>
+              <drmFree>true</drmFree>
+            </format>
+          </formats>
+          <label id="35827">
+            <name>Universal Music AS</name>
+          </label>
+          <licensor id="1">
+            <name>Universal</name>
+          </licensor>
+          <streamingReleaseDate>2014-05-18T00:00:00Z</streamingReleaseDate>
+          <duration>839</duration>
+          <trackCount>4</trackCount>
+          <download>
+            <packages>
+              <package id="2">
+                <description>standard</description>
+                <price>
+                  <currencyCode>GBP</currencyCode>
+                  <sevendigitalPrice>1.99</sevendigitalPrice>
+                  <recommendedRetailPrice>1.99</recommendedRetailPrice>
+                </price>
+                <formats>
+                  <format id="17">
+                    <description>MP3 320</description>
+                  </format>
+                  <format id="33">
+                    <description>AAC 320</description>
+                  </format>
+                </formats>
+              </package>
+            </packages>
+          </download>
+        </release>
+      </listItem>
+      <listItem id="3412020">
+        <type>release</type>
+        <release id="3412020">
+          <title>Nobody To Love</title>
+          <version />
+          <type>Single</type>
+          <barcode>05037128209256</barcode>
+          <year>2014</year>
+          <explicitContent>false</explicitContent>
+          <artist id="334462">
+            <name>Sigma</name>
+            <appearsAs>Sigma</appearsAs>
+            <url>http://www.7digital.com/artist/sigma/?partner=3923</url>
+          </artist>
+          <url>http://www.7digital.com/artist/sigma/release/nobody-to-love/?partner=3923</url>
+          <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/034/120/0003412020_50.jpg</image>
+          <releaseDate>2014-04-06T00:00:00Z</releaseDate>
+          <addedDate>2014-03-31T11:55:52Z</addedDate>
+          <price>
+            <currency code="GBP">£</currency>
+            <value>0.99</value>
+            <formattedPrice>£0.99</formattedPrice>
+            <rrp>0.99</rrp>
+            <formattedRrp>£0.99</formattedRrp>
+            <onSale>false</onSale>
+          </price>
+          <formats availableDrmFree="true">
+            <format id="17">
+              <fileFormat>MP3</fileFormat>
+              <bitRate>320</bitRate>
+              <drmFree>true</drmFree>
+            </format>
+          </formats>
+          <label id="383289">
+            <name>Digital Distribution Jordan</name>
+          </label>
+          <licensor id="1">
+            <name>Universal</name>
+          </licensor>
+          <streamingReleaseDate xsi:nil="true" />
+          <duration>252</duration>
+          <trackCount>1</trackCount>
+          <download>
+            <packages>
+              <package id="2">
+                <description>standard</description>
+                <price>
+                  <currencyCode>GBP</currencyCode>
+                  <sevendigitalPrice>0.99</sevendigitalPrice>
+                  <recommendedRetailPrice>0.99</recommendedRetailPrice>
+                </price>
+                <formats>
+                  <format id="17">
+                    <description>MP3 320</description>
+                  </format>
+                </formats>
+              </package>
+            </packages>
+          </download>
+        </release>
+      </listItem>
+    </listItems>
+  </list>
+</response>

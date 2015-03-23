@@ -1,0 +1,376 @@
+<?xml version="1.0" encoding="utf-8"?>
+<response xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" status="ok" version="1.2" xsi:noNamespaceSchemaLocation="http://api.7digital.com/1.2/static/7digitalAPI.xsd">
+  <list id="17743">
+    <key>BRITS2015-1</key>
+    <listItems>
+      <listItem id="3563048">
+        <type>release</type>
+        <release id="3563048">
+          <title>This Is All Yours</title>
+          <version>Explicit</version>
+          <type>Album</type>
+          <barcode>5050954421883</barcode>
+          <year>2014</year>
+          <explicitContent>true</explicitContent>
+          <artist id="1221028">
+            <name>alt-J</name>
+            <appearsAs>alt-J</appearsAs>
+            <url>http://www.7digital.com/artist/alt-j-1/?partner=3923</url>
+          </artist>
+          <url>http://www.7digital.com/artist/alt-j-1/release/this-is-all-yours/?partner=3923</url>
+          <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/035/630/0003563048_50.jpg</image>
+          <releaseDate>2014-09-22T00:00:00Z</releaseDate>
+          <addedDate>2014-06-09T16:40:49Z</addedDate>
+          <price>
+            <currency code="GBP">£</currency>
+            <value>9.49</value>
+            <formattedPrice>£9.49</formattedPrice>
+            <rrp>9.49</rrp>
+            <formattedRrp>£9.49</formattedRrp>
+            <onSale>false</onSale>
+          </price>
+          <formats availableDrmFree="true">
+            <format id="17">
+              <fileFormat>MP3</fileFormat>
+              <bitRate>320</bitRate>
+              <drmFree>true</drmFree>
+            </format>
+            <format id="33">
+              <fileFormat>M4A</fileFormat>
+              <bitRate>320</bitRate>
+              <drmFree>true</drmFree>
+            </format>
+          </formats>
+          <label id="25901">
+            <name>Infectious</name>
+          </label>
+          <licensor id="48">
+            <name>Vital</name>
+          </licensor>
+          <streamingReleaseDate>2014-09-22T00:00:00Z</streamingReleaseDate>
+          <duration>3328</duration>
+          <trackCount>14</trackCount>
+          <download>
+            <packages>
+              <package id="12">
+                <description>deluxe tier 1</description>
+                <price>
+                  <currencyCode>GBP</currencyCode>
+                  <sevendigitalPrice>12.99</sevendigitalPrice>
+                  <recommendedRetailPrice>12.99</recommendedRetailPrice>
+                </price>
+                <formats>
+                  <format id="52">
+                    <description>FLAC 24-bit 44.1kHz</description>
+                  </format>
+                </formats>
+              </package>
+              <package id="16">
+                <description>deluxe tier 2</description>
+                <price>
+                  <currencyCode>GBP</currencyCode>
+                  <sevendigitalPrice>13.99</sevendigitalPrice>
+                  <recommendedRetailPrice>13.99</recommendedRetailPrice>
+                </price>
+                <formats>
+                  <format id="60">
+                    <description>FLAC 24-bit 96kHz</description>
+                  </format>
+                </formats>
+              </package>
+              <package id="2">
+                <description>standard</description>
+                <price>
+                  <currencyCode>GBP</currencyCode>
+                  <sevendigitalPrice>9.49</sevendigitalPrice>
+                  <recommendedRetailPrice>9.49</recommendedRetailPrice>
+                </price>
+                <formats>
+                  <format id="17">
+                    <description>MP3 320</description>
+                  </format>
+                  <format id="33">
+                    <description>AAC 320</description>
+                  </format>
+                </formats>
+              </package>
+            </packages>
+          </download>
+        </release>
+      </listItem>
+      <listItem id="3585165">
+        <type>release</type>
+        <release id="3585165">
+          <title>x</title>
+          <version />
+          <type>Album</type>
+          <barcode>825646283835</barcode>
+          <year>2014</year>
+          <explicitContent>false</explicitContent>
+          <artist id="603309">
+            <name>Ed Sheeran</name>
+            <appearsAs>Ed Sheeran</appearsAs>
+            <url>http://www.7digital.com/artist/ed-sheeran/?partner=3923</url>
+          </artist>
+          <url>http://www.7digital.com/artist/ed-sheeran/release/x-1/?partner=3923</url>
+          <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/035/851/0003585165_50.jpg</image>
+          <releaseDate>2014-06-23T00:00:00Z</releaseDate>
+          <addedDate>2014-06-18T12:40:42Z</addedDate>
+          <price>
+            <currency code="GBP">£</currency>
+            <value>8.99</value>
+            <formattedPrice>£8.99</formattedPrice>
+            <rrp>8.99</rrp>
+            <formattedRrp>£8.99</formattedRrp>
+            <onSale>false</onSale>
+          </price>
+          <formats availableDrmFree="true">
+            <format id="17">
+              <fileFormat>MP3</fileFormat>
+              <bitRate>320</bitRate>
+              <drmFree>true</drmFree>
+            </format>
+          </formats>
+          <label id="1373">
+            <name>Atlantic Records UK</name>
+          </label>
+          <licensor id="18">
+            <name>Warner</name>
+          </licensor>
+          <streamingReleaseDate xsi:nil="true" />
+          <duration>3030</duration>
+          <trackCount>12</trackCount>
+          <download>
+            <packages>
+              <package id="2">
+                <description>standard</description>
+                <price>
+                  <currencyCode>GBP</currencyCode>
+                  <sevendigitalPrice>8.99</sevendigitalPrice>
+                  <recommendedRetailPrice>8.99</recommendedRetailPrice>
+                </price>
+                <formats>
+                  <format id="17">
+                    <description>MP3 320</description>
+                  </format>
+                </formats>
+              </package>
+            </packages>
+          </download>
+        </release>
+      </listItem>
+      <listItem id="3591446">
+        <type>release</type>
+        <release id="3591446">
+          <title>Wanted On Voyage</title>
+          <version />
+          <type>Album</type>
+          <barcode>886444539401</barcode>
+          <year>2014</year>
+          <explicitContent>false</explicitContent>
+          <artist id="2023111">
+            <name>George Ezra</name>
+            <appearsAs>George Ezra</appearsAs>
+            <url>http://www.7digital.com/artist/george-ezra/?partner=3923</url>
+          </artist>
+          <url>http://www.7digital.com/artist/george-ezra/release/wanted-on-voyage-1/?partner=3923</url>
+          <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/035/914/0003591446_50.jpg</image>
+          <releaseDate>2014-06-30T00:00:00Z</releaseDate>
+          <addedDate>2014-07-03T17:57:14Z</addedDate>
+          <price>
+            <currency code="GBP">£</currency>
+            <value>8.99</value>
+            <formattedPrice>£8.99</formattedPrice>
+            <rrp>8.99</rrp>
+            <formattedRrp>£8.99</formattedRrp>
+            <onSale>false</onSale>
+          </price>
+          <formats availableDrmFree="true">
+            <format id="17">
+              <fileFormat>MP3</fileFormat>
+              <bitRate>320</bitRate>
+              <drmFree>true</drmFree>
+            </format>
+            <format id="33">
+              <fileFormat>M4A</fileFormat>
+              <bitRate>320</bitRate>
+              <drmFree>true</drmFree>
+            </format>
+          </formats>
+          <label id="592">
+            <name>Columbia</name>
+          </label>
+          <licensor id="2">
+            <name>Sony Music</name>
+          </licensor>
+          <streamingReleaseDate>2014-06-30T00:00:00Z</streamingReleaseDate>
+          <duration>2616</duration>
+          <trackCount>12</trackCount>
+          <download>
+            <packages>
+              <package id="16">
+                <description>deluxe tier 2</description>
+                <price>
+                  <currencyCode>GBP</currencyCode>
+                  <sevendigitalPrice>12.99</sevendigitalPrice>
+                  <recommendedRetailPrice>12.99</recommendedRetailPrice>
+                </price>
+                <formats>
+                  <format id="60">
+                    <description>FLAC 24-bit 96kHz</description>
+                  </format>
+                </formats>
+              </package>
+              <package id="2">
+                <description>standard</description>
+                <price>
+                  <currencyCode>GBP</currencyCode>
+                  <sevendigitalPrice>8.99</sevendigitalPrice>
+                  <recommendedRetailPrice>8.99</recommendedRetailPrice>
+                </price>
+                <formats>
+                  <format id="17">
+                    <description>MP3 320</description>
+                  </format>
+                  <format id="33">
+                    <description>AAC 320</description>
+                  </format>
+                </formats>
+              </package>
+            </packages>
+          </download>
+        </release>
+      </listItem>
+      <listItem id="3734294">
+        <type>release</type>
+        <release id="3734294">
+          <title>Royal Blood</title>
+          <version />
+          <type>Album</type>
+          <barcode>825646266593</barcode>
+          <year>2014</year>
+          <explicitContent>false</explicitContent>
+          <artist id="1410166">
+            <name>Royal Blood</name>
+            <appearsAs>Royal Blood</appearsAs>
+            <url>http://www.7digital.com/artist/royal-blood/?partner=3923</url>
+          </artist>
+          <url>http://www.7digital.com/artist/royal-blood/release/royal-blood-1/?partner=3923</url>
+          <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/037/342/0003734294_50.jpg</image>
+          <releaseDate>2015-02-02T00:00:00Z</releaseDate>
+          <addedDate>2014-08-20T16:34:10Z</addedDate>
+          <price>
+            <currency code="GBP">£</currency>
+            <value>7.99</value>
+            <formattedPrice>£7.99</formattedPrice>
+            <rrp>7.99</rrp>
+            <formattedRrp>£7.99</formattedRrp>
+            <onSale>false</onSale>
+          </price>
+          <formats availableDrmFree="true">
+            <format id="17">
+              <fileFormat>MP3</fileFormat>
+              <bitRate>320</bitRate>
+              <drmFree>true</drmFree>
+            </format>
+          </formats>
+          <label id="273">
+            <name>Warner Bros.</name>
+          </label>
+          <licensor id="18">
+            <name>Warner</name>
+          </licensor>
+          <streamingReleaseDate>2015-02-02T00:00:00Z</streamingReleaseDate>
+          <duration>1958</duration>
+          <trackCount>10</trackCount>
+          <download>
+            <packages>
+              <package id="2">
+                <description>standard</description>
+                <price>
+                  <currencyCode>GBP</currencyCode>
+                  <sevendigitalPrice>7.99</sevendigitalPrice>
+                  <recommendedRetailPrice>7.99</recommendedRetailPrice>
+                </price>
+                <formats>
+                  <format id="17">
+                    <description>MP3 320</description>
+                  </format>
+                </formats>
+              </package>
+            </packages>
+          </download>
+        </release>
+      </listItem>
+      <listItem id="3470864">
+        <type>release</type>
+        <release id="3470864">
+          <title>In The Lonely Hour</title>
+          <version />
+          <type>Album</type>
+          <barcode>00602537691722</barcode>
+          <year>2014</year>
+          <explicitContent>false</explicitContent>
+          <artist id="250807">
+            <name>Sam Smith</name>
+            <appearsAs>Sam Smith</appearsAs>
+            <url>http://www.7digital.com/artist/sam-smith/?partner=3923</url>
+          </artist>
+          <url>http://www.7digital.com/artist/sam-smith/release/in-the-lonely-hour/?partner=3923</url>
+          <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/034/708/0003470864_50.jpg</image>
+          <releaseDate>2014-05-26T00:00:00Z</releaseDate>
+          <addedDate>2014-04-29T10:50:47Z</addedDate>
+          <price>
+            <currency code="GBP">£</currency>
+            <value>8.49</value>
+            <formattedPrice>£8.49</formattedPrice>
+            <rrp>8.49</rrp>
+            <formattedRrp>£8.49</formattedRrp>
+            <onSale>false</onSale>
+          </price>
+          <formats availableDrmFree="true">
+            <format id="17">
+              <fileFormat>MP3</fileFormat>
+              <bitRate>320</bitRate>
+              <drmFree>true</drmFree>
+            </format>
+            <format id="33">
+              <fileFormat>M4A</fileFormat>
+              <bitRate>320</bitRate>
+              <drmFree>true</drmFree>
+            </format>
+          </formats>
+          <label id="47744">
+            <name>Universal Music Australia Pty. Ltd.</name>
+          </label>
+          <licensor id="1">
+            <name>Universal</name>
+          </licensor>
+          <streamingReleaseDate xsi:nil="true" />
+          <duration>1969</duration>
+          <trackCount>10</trackCount>
+          <download>
+            <packages>
+              <package id="2">
+                <description>standard</description>
+                <price>
+                  <currencyCode>GBP</currencyCode>
+                  <sevendigitalPrice>8.49</sevendigitalPrice>
+                  <recommendedRetailPrice>8.49</recommendedRetailPrice>
+                </price>
+                <formats>
+                  <format id="17">
+                    <description>MP3 320</description>
+                  </format>
+                  <format id="33">
+                    <description>AAC 320</description>
+                  </format>
+                </formats>
+              </package>
+            </packages>
+          </download>
+        </release>
+      </listItem>
+    </listItems>
+  </list>
+</response>
