@@ -97,6 +97,19 @@
                   </format>
                 </formats>
               </package>
+              <package id="9">
+                <description>premium</description>
+                <price>
+                  <currencyCode>GBP</currencyCode>
+                  <sevendigitalPrice>12.99</sevendigitalPrice>
+                  <recommendedRetailPrice>12.99</recommendedRetailPrice>
+                </price>
+                <formats>
+                  <format id="45">
+                    <description>FLAC 16-bit 44.1kHz</description>
+                  </format>
+                </formats>
+              </package>
             </packages>
           </download>
           <formats availableDrmFree="true">
