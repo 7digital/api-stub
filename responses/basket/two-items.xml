@@ -11,11 +11,11 @@
 		</price>
 		<basketItems>
 			<basketItem id="205791050">
-				<type>release</type>
-				<itemName>Perfect Symmetry</itemName>
+				<type>track</type>
+				<itemName>Somewhere Only We Know</itemName>
 				<artistName>Keane</artistName>
-				<trackId>1234</trackId>
-				<releaseId>320866</releaseId>
+				<trackId>1535</trackId>
+				<releaseId>320867</releaseId>
 				<price>
 					<currency code="GBP">£</currency>
 					<value>0.99</value>
@@ -33,14 +33,13 @@
 				<type>release</type>
 				<itemName>Perfect Symmetry</itemName>
 				<artistName>Keane</artistName>
-				<trackId>1235</trackId>
 				<releaseId>320866</releaseId>
 				<price>
 					<currency code="GBP">£</currency>
-					<value>0.99</value>
-					<formattedPrice>£0.99</formattedPrice>
-					<rrp>0.99</rrp>
-					<formattedRrp>£0.99</formattedRrp>
+					<value>4.99</value>
+					<formattedPrice>£4.99</formattedPrice>
+					<rrp>4.99</rrp>
+					<formattedRrp>£4.99</formattedRrp>
 				</price>
 				<package id="2" />
 				<amountDue>
