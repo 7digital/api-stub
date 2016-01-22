@@ -1,1 +1,69 @@
-<?xml version="1.0" encoding="utf-8"?><response xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" status="ok" version="1.2" xsi:noNamespaceSchemaLocation="http://api.7digital.com/1.2/static/7digitalAPI.xsd"><tracks><page>1</page><pageSize>1</pageSize><totalItems>1</totalItems><track id="43723878"><title>Samurai Thunder</title><version /><artist id="853076"><name>Gerry Read</name><appearsAs>Gerry Read</appearsAs><url>http://www.7digital.com/artist/gerry-read/?partner=3923</url></artist><trackNumber>1</trackNumber><duration>288</duration><explicitContent>false</explicitContent><isrc>GBKMS1500002</isrc><type>audio</type><release id="4252234"><title>Samurai Thunder</title><version /><type>Single</type><barcode>5050580632349</barcode><artist id="853076"><name>Gerry Read</name><appearsAs>Gerry Read</appearsAs><url>http://www.7digital.com/artist/gerry-read/?partner=3923</url></artist><url>http://www.7digital.com/artist/gerry-read/release/samurai-thunder/?partner=3923</url><image>http://artwork-cdn.7static.com/static/img/sleeveart/00/042/522/0004252234_50.jpg</image><releaseDate>2015-03-16T00:00:00Z</releaseDate></release><url>http://www.7digital.com/artist/gerry-read/release/samurai-thunder/?partner=3923&amp;h=01</url><price><currency code="GBP">£</currency><value>0.00</value><formattedPrice>£0.00</formattedPrice><rrp>0.00</rrp><formattedRrp>£0.00</formattedRrp><onSale>false</onSale></price><streamingReleaseDate>2015-03-16T00:00:00Z</streamingReleaseDate><discNumber>1</discNumber><number>1</number><previewDate>2015-03-16T00:00:00Z</previewDate><download><packages><package id="2"><description>standard</description><price><currencyCode>GBP</currencyCode><sevendigitalPrice>0.00</sevendigitalPrice><recommendedRetailPrice>0.00</recommendedRetailPrice></price><formats><format id="17"><description>MP3 320</description></format><format id="33"><description>AAC 320</description></format></formats></package></packages></download></track></tracks></response>
+<?xml version="1.0" encoding="utf-8"?>
+<response xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" status="ok" version="1.2" xsi:noNamespaceSchemaLocation="http://api.7digital.com/1.2/static/7digitalAPI.xsd">
+  <tracks>
+    <page>1</page>
+    <pageSize>1</pageSize>
+    <totalItems>1</totalItems>
+    <track id="43723878">
+      <title>Samurai Thunder</title>
+      <version/>
+      <artist id="853076">
+        <name>Gerry Read</name>
+        <appearsAs>Gerry Read</appearsAs>
+        <url>http://www.7digital.com/artist/gerry-read/?partner=3923</url>
+      </artist>
+      <trackNumber>1</trackNumber>
+      <duration>288</duration>
+      <explicitContent>false</explicitContent>
+      <isrc>GBKMS1500002</isrc>
+      <type>audio</type>
+      <release id="4252234">
+        <title>Samurai Thunder</title>
+        <version/>
+        <type>Single</type>
+        <barcode>5050580632349</barcode>
+        <artist id="853076">
+          <name>Gerry Read</name>
+          <appearsAs>Gerry Read</appearsAs>
+          <url>http://www.7digital.com/artist/gerry-read/?partner=3923</url>
+        </artist>
+        <url>http://www.7digital.com/artist/gerry-read/release/samurai-thunder/?partner=3923</url>
+        <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/042/522/0004252234_50.jpg</image>
+        <releaseDate>2015-03-16T00:00:00Z</releaseDate>
+      </release>
+      <url>http://www.7digital.com/artist/gerry-read/release/samurai-thunder/?partner=3923&amp;h=01</url>
+      <price>
+        <currency code="GBP">£</currency>
+        <value>0.00</value>
+        <formattedPrice>£0.00</formattedPrice>
+        <rrp>0.00</rrp>
+        <formattedRrp>£0.00</formattedRrp>
+        <onSale>false</onSale>
+      </price>
+      <streamingReleaseDate>2015-03-16T00:00:00Z</streamingReleaseDate>
+      <discNumber>1</discNumber>
+      <number>1</number>
+      <previewDate>2015-03-16T00:00:00Z</previewDate>
+      <download>
+        <packages>
+          <package id="2">
+            <description>standard</description>
+            <price>
+              <currencyCode>GBP</currencyCode>
+              <sevendigitalPrice>0.00</sevendigitalPrice>
+              <recommendedRetailPrice>0.00</recommendedRetailPrice>
+            </price>
+            <formats>
+              <format id="17">
+                <description>MP3 320</description>
+              </format>
+              <format id="33">
+                <description>AAC 320</description>
+              </format>
+            </formats>
+          </package>
+        </packages>
+      </download>
+    </track>
+  </tracks>
+</response>

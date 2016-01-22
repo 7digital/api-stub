@@ -1,219 +1,219 @@
 <?xml version="1.0" encoding="utf-8"?>
 <response xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" status="ok" version="1.2" xsi:noNamespaceSchemaLocation="http://api.7digital.com/1.2/static/7digitalAPI.xsd">
-	<taggedResults>
-		<page>1</page>
-		<pageSize>10</pageSize>
-		<totalItems>8431</totalItems>
-		<type>release</type>
-		<taggedItem>
-			<release id="1268689">
-				<title>Freedom For Palestine</title>
-				<version/>
-				<type>Single</type>
-				<barcode>5060193564067</barcode>
-				<year>2011</year>
-				<explicitContent>false</explicitContent>
-				<artist id="317721">
-					<name>OneWorld</name>
-					<appearsAs>OneWorld</appearsAs>
-					<url>http://www.7digital.com/artist/oneworld/?partner=1401</url>
-				</artist>
-				<url>http://www.7digital.com/artist/oneworld/release/freedom-for-palestine/?partner=1401</url>
-				<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/012/686/0001268689_50.jpg</image>
-				<releaseDate>2011-07-03T00:00:00+01:00</releaseDate>
-				<addedDate>2011-05-30T14:07:26+01:00</addedDate>
-				<popularity>0.63</popularity>
-				<streamingReleaseDate>3001-01-01T00:00:00+00:00</streamingReleaseDate>
-			</release>
-		</taggedItem>
-		<taggedItem>
-			<release id="1805895">
-				<title>Through The Night (feat. Tom Cane)</title>
-				<version/>
-				<type>Single</type>
-				<barcode>885012012070</barcode>
-				<year>2012</year>
-				<explicitContent>false</explicitContent>
-				<artist id="165105">
-					<name>Drumsound &amp; Bassline Smith</name>
-					<appearsAs>Drumsound &amp; Bassline Smith</appearsAs>
-					<url>http://www.7digital.com/artist/drumsound-and-bassline-smith/?partner=1401</url>
-				</artist>
-				<url>http://www.7digital.com/artist/drumsound-and-bassline-smith/release/through-the-night-feat-tom-cane/?partner=1401</url>
-				<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/018/058/0001805895_50.jpg</image>
-				<releaseDate>2012-07-29T00:00:00+01:00</releaseDate>
-				<addedDate>2012-07-16T13:24:00+01:00</addedDate>
-				<popularity>0.56</popularity>
-				<streamingReleaseDate>3001-01-01T00:00:00+00:00</streamingReleaseDate>
-			</release>
-		</taggedItem>
-		<taggedItem>
-			<release id="1794163">
-				<title>Drum&amp;BassArena Summer Selection 2012</title>
-				<version/>
-				<type>Album</type>
-				<barcode>5055199504650</barcode>
-				<year>2012</year>
-				<explicitContent>false</explicitContent>
-				<artist id="209">
-					<name>Various Artists</name>
-					<appearsAs>Various Artists</appearsAs>
-					<url>http://www.7digital.com/artist/various-artists/?partner=1401</url>
-				</artist>
-				<url>http://www.7digital.com/artist/various-artists/release/drumandbassarena-summer-selection-2012/?partner=1401</url>
-				<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/017/941/0001794163_50.jpg</image>
-				<releaseDate>2012-07-15T00:00:00+01:00</releaseDate>
-				<addedDate>2012-07-09T00:46:50+01:00</addedDate>
-				<popularity>0.54</popularity>
-				<streamingReleaseDate>2012-07-15T00:00:00+01:00</streamingReleaseDate>
-			</release>
-		</taggedItem>
-		<taggedItem>
-			<release id="1758141">
-				<title>Passenger / Bomber</title>
-				<version/>
-				<type>Single</type>
-				<barcode>5024441884475</barcode>
-				<year>2012</year>
-				<explicitContent>false</explicitContent>
-				<artist id="831090">
-					<name>Loadstar</name>
-					<appearsAs>Loadstar</appearsAs>
-					<url>http://www.7digital.com/artist/loadstar/?partner=1401</url>
-				</artist>
-				<url>http://www.7digital.com/artist/loadstar/release/passenger-bomber/?partner=1401</url>
-				<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/017/581/0001758141_50.jpg</image>
-				<releaseDate>2012-07-08T00:00:00+01:00</releaseDate>
-				<addedDate>2012-06-18T01:27:29+01:00</addedDate>
-				<popularity>0.53</popularity>
-				<streamingReleaseDate>3001-01-01T00:00:00+00:00</streamingReleaseDate>
-			</release>
-		</taggedItem>
-		<taggedItem>
-			<release id="1441411">
-				<title>X Rated</title>
-				<version/>
-				<type>Album</type>
-				<barcode>0883958009130</barcode>
-				<year>2011</year>
-				<explicitContent>false</explicitContent>
-				<artist id="479303">
-					<name>Excision</name>
-					<appearsAs>Excision</appearsAs>
-					<url>http://www.7digital.com/artist/excision/?partner=1401</url>
-				</artist>
-				<url>http://www.7digital.com/artist/excision/release/x-rated/?partner=1401</url>
-				<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/014/414/0001441411_50.jpg</image>
-				<releaseDate>2011-10-10T00:00:00+01:00</releaseDate>
-				<addedDate>2011-10-17T14:39:43+01:00</addedDate>
-				<popularity>0.5</popularity>
-				<streamingReleaseDate>2011-10-10T00:00:00+01:00</streamingReleaseDate>
-			</release>
-		</taggedItem>
-		<taggedItem>
-			<release id="1788469">
-				<title>Absolute Monster EP</title>
-				<version/>
-				<type>Single</type>
-				<barcode>5024441884482</barcode>
-				<year>2012</year>
-				<explicitContent>false</explicitContent>
-				<artist id="610206">
-					<name>Rene LaVice</name>
-					<appearsAs>Rene LaVice</appearsAs>
-					<url>http://www.7digital.com/artist/rene-lavice/?partner=1401</url>
-				</artist>
-				<url>http://www.7digital.com/artist/rene-lavice/release/absolute-monster-ep/?partner=1401</url>
-				<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/017/884/0001788469_50.jpg</image>
-				<releaseDate>2012-07-22T00:00:00+01:00</releaseDate>
-				<addedDate>2012-07-04T01:01:55+01:00</addedDate>
-				<popularity>0.5</popularity>
-				<streamingReleaseDate>3001-01-01T00:00:00+00:00</streamingReleaseDate>
-			</release>
-		</taggedItem>
-		<taggedItem>
-			<release id="1511037">
-				<title>Dimensions 5 EP</title>
-				<version/>
-				<type>Single</type>
-				<barcode>5024441884406</barcode>
-				<year>2012</year>
-				<explicitContent>false</explicitContent>
-				<artist id="209">
-					<name>Various Artists</name>
-					<appearsAs>Various Artists</appearsAs>
-					<url>http://www.7digital.com/artist/various-artists/?partner=1401</url>
-				</artist>
-				<url>http://www.7digital.com/artist/various-artists/release/dimensions-5-ep/?partner=1401</url>
-				<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/015/110/0001511037_50.jpg</image>
-				<releaseDate>2012-01-15T00:00:00+00:00</releaseDate>
-				<addedDate>2011-12-12T14:18:33+00:00</addedDate>
-				<popularity>0.5</popularity>
-				<streamingReleaseDate>3001-01-01T00:00:00+00:00</streamingReleaseDate>
-			</release>
-		</taggedItem>
-		<taggedItem>
-			<release id="242175">
-				<title>In Silico</title>
-				<version/>
-				<type>Album</type>
-				<barcode>825646952564</barcode>
-				<year>2010</year>
-				<explicitContent>false</explicitContent>
-				<artist id="45491">
-					<name>Pendulum</name>
-					<appearsAs>Pendulum</appearsAs>
-					<url>http://www.7digital.com/artist/pendulum/?partner=1401</url>
-				</artist>
-				<url>http://www.7digital.com/artist/pendulum/release/in-silico-2/?partner=1401</url>
-				<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/002/421/0000242175_50.jpg</image>
-				<releaseDate>2010-05-06T00:00:00+01:00</releaseDate>
-				<addedDate>2008-05-08T16:54:08+01:00</addedDate>
-				<popularity>0.49</popularity>
-				<streamingReleaseDate>2010-05-06T00:00:00+01:00</streamingReleaseDate>
-			</release>
-		</taggedItem>
-		<taggedItem>
-			<release id="1402085">
-				<title>Spitfire</title>
-				<version/>
-				<type>Album</type>
-				<barcode>881034877758</barcode>
-				<year>2011</year>
-				<explicitContent>false</explicitContent>
-				<artist id="589326">
-					<name>Porter Robinson</name>
-					<appearsAs>Porter Robinson</appearsAs>
-					<url>http://www.7digital.com/artist/porter-robinson/?partner=1401</url>
-				</artist>
-				<url>http://www.7digital.com/artist/porter-robinson/release/spitfire/?partner=1401</url>
-				<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/014/020/0001402085_50.jpg</image>
-				<releaseDate>2011-10-11T00:00:00+01:00</releaseDate>
-				<addedDate>2011-09-20T16:04:34+01:00</addedDate>
-				<popularity>0.48</popularity>
-				<streamingReleaseDate>2011-10-11T00:00:00+01:00</streamingReleaseDate>
-			</release>
-		</taggedItem>
-		<taggedItem>
-			<release id="1672421">
-				<title>Firez EP</title>
-				<version/>
-				<type>Single</type>
-				<barcode>5024441884437</barcode>
-				<year>2012</year>
-				<explicitContent>false</explicitContent>
-				<artist id="307452">
-					<name>DC Breaks</name>
-					<appearsAs>DC Breaks</appearsAs>
-					<url>http://www.7digital.com/artist/dc-breaks/?partner=1401</url>
-				</artist>
-				<url>http://www.7digital.com/artist/dc-breaks/release/firez-ep/?partner=1401</url>
-				<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/016/724/0001672421_50.jpg</image>
-				<releaseDate>2012-05-06T00:00:00+01:00</releaseDate>
-				<addedDate>2012-04-18T00:57:34+01:00</addedDate>
-				<popularity>0.48</popularity>
-				<streamingReleaseDate>3001-01-01T00:00:00+00:00</streamingReleaseDate>
-			</release>
-		</taggedItem>
-	</taggedResults>
+  <taggedResults>
+    <page>1</page>
+    <pageSize>10</pageSize>
+    <totalItems>8431</totalItems>
+    <type>release</type>
+    <taggedItem>
+      <release id="1268689">
+        <title>Freedom For Palestine</title>
+        <version/>
+        <type>Single</type>
+        <barcode>5060193564067</barcode>
+        <year>2011</year>
+        <explicitContent>false</explicitContent>
+        <artist id="317721">
+          <name>OneWorld</name>
+          <appearsAs>OneWorld</appearsAs>
+          <url>http://www.7digital.com/artist/oneworld/?partner=1401</url>
+        </artist>
+        <url>http://www.7digital.com/artist/oneworld/release/freedom-for-palestine/?partner=1401</url>
+        <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/012/686/0001268689_50.jpg</image>
+        <releaseDate>2011-07-03T00:00:00+01:00</releaseDate>
+        <addedDate>2011-05-30T14:07:26+01:00</addedDate>
+        <popularity>0.63</popularity>
+        <streamingReleaseDate>3001-01-01T00:00:00+00:00</streamingReleaseDate>
+      </release>
+    </taggedItem>
+    <taggedItem>
+      <release id="1805895">
+        <title>Through The Night (feat. Tom Cane)</title>
+        <version/>
+        <type>Single</type>
+        <barcode>885012012070</barcode>
+        <year>2012</year>
+        <explicitContent>false</explicitContent>
+        <artist id="165105">
+          <name>Drumsound &amp; Bassline Smith</name>
+          <appearsAs>Drumsound &amp; Bassline Smith</appearsAs>
+          <url>http://www.7digital.com/artist/drumsound-and-bassline-smith/?partner=1401</url>
+        </artist>
+        <url>http://www.7digital.com/artist/drumsound-and-bassline-smith/release/through-the-night-feat-tom-cane/?partner=1401</url>
+        <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/018/058/0001805895_50.jpg</image>
+        <releaseDate>2012-07-29T00:00:00+01:00</releaseDate>
+        <addedDate>2012-07-16T13:24:00+01:00</addedDate>
+        <popularity>0.56</popularity>
+        <streamingReleaseDate>3001-01-01T00:00:00+00:00</streamingReleaseDate>
+      </release>
+    </taggedItem>
+    <taggedItem>
+      <release id="1794163">
+        <title>Drum&amp;BassArena Summer Selection 2012</title>
+        <version/>
+        <type>Album</type>
+        <barcode>5055199504650</barcode>
+        <year>2012</year>
+        <explicitContent>false</explicitContent>
+        <artist id="209">
+          <name>Various Artists</name>
+          <appearsAs>Various Artists</appearsAs>
+          <url>http://www.7digital.com/artist/various-artists/?partner=1401</url>
+        </artist>
+        <url>http://www.7digital.com/artist/various-artists/release/drumandbassarena-summer-selection-2012/?partner=1401</url>
+        <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/017/941/0001794163_50.jpg</image>
+        <releaseDate>2012-07-15T00:00:00+01:00</releaseDate>
+        <addedDate>2012-07-09T00:46:50+01:00</addedDate>
+        <popularity>0.54</popularity>
+        <streamingReleaseDate>2012-07-15T00:00:00+01:00</streamingReleaseDate>
+      </release>
+    </taggedItem>
+    <taggedItem>
+      <release id="1758141">
+        <title>Passenger / Bomber</title>
+        <version/>
+        <type>Single</type>
+        <barcode>5024441884475</barcode>
+        <year>2012</year>
+        <explicitContent>false</explicitContent>
+        <artist id="831090">
+          <name>Loadstar</name>
+          <appearsAs>Loadstar</appearsAs>
+          <url>http://www.7digital.com/artist/loadstar/?partner=1401</url>
+        </artist>
+        <url>http://www.7digital.com/artist/loadstar/release/passenger-bomber/?partner=1401</url>
+        <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/017/581/0001758141_50.jpg</image>
+        <releaseDate>2012-07-08T00:00:00+01:00</releaseDate>
+        <addedDate>2012-06-18T01:27:29+01:00</addedDate>
+        <popularity>0.53</popularity>
+        <streamingReleaseDate>3001-01-01T00:00:00+00:00</streamingReleaseDate>
+      </release>
+    </taggedItem>
+    <taggedItem>
+      <release id="1441411">
+        <title>X Rated</title>
+        <version/>
+        <type>Album</type>
+        <barcode>0883958009130</barcode>
+        <year>2011</year>
+        <explicitContent>false</explicitContent>
+        <artist id="479303">
+          <name>Excision</name>
+          <appearsAs>Excision</appearsAs>
+          <url>http://www.7digital.com/artist/excision/?partner=1401</url>
+        </artist>
+        <url>http://www.7digital.com/artist/excision/release/x-rated/?partner=1401</url>
+        <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/014/414/0001441411_50.jpg</image>
+        <releaseDate>2011-10-10T00:00:00+01:00</releaseDate>
+        <addedDate>2011-10-17T14:39:43+01:00</addedDate>
+        <popularity>0.5</popularity>
+        <streamingReleaseDate>2011-10-10T00:00:00+01:00</streamingReleaseDate>
+      </release>
+    </taggedItem>
+    <taggedItem>
+      <release id="1788469">
+        <title>Absolute Monster EP</title>
+        <version/>
+        <type>Single</type>
+        <barcode>5024441884482</barcode>
+        <year>2012</year>
+        <explicitContent>false</explicitContent>
+        <artist id="610206">
+          <name>Rene LaVice</name>
+          <appearsAs>Rene LaVice</appearsAs>
+          <url>http://www.7digital.com/artist/rene-lavice/?partner=1401</url>
+        </artist>
+        <url>http://www.7digital.com/artist/rene-lavice/release/absolute-monster-ep/?partner=1401</url>
+        <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/017/884/0001788469_50.jpg</image>
+        <releaseDate>2012-07-22T00:00:00+01:00</releaseDate>
+        <addedDate>2012-07-04T01:01:55+01:00</addedDate>
+        <popularity>0.5</popularity>
+        <streamingReleaseDate>3001-01-01T00:00:00+00:00</streamingReleaseDate>
+      </release>
+    </taggedItem>
+    <taggedItem>
+      <release id="1511037">
+        <title>Dimensions 5 EP</title>
+        <version/>
+        <type>Single</type>
+        <barcode>5024441884406</barcode>
+        <year>2012</year>
+        <explicitContent>false</explicitContent>
+        <artist id="209">
+          <name>Various Artists</name>
+          <appearsAs>Various Artists</appearsAs>
+          <url>http://www.7digital.com/artist/various-artists/?partner=1401</url>
+        </artist>
+        <url>http://www.7digital.com/artist/various-artists/release/dimensions-5-ep/?partner=1401</url>
+        <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/015/110/0001511037_50.jpg</image>
+        <releaseDate>2012-01-15T00:00:00+00:00</releaseDate>
+        <addedDate>2011-12-12T14:18:33+00:00</addedDate>
+        <popularity>0.5</popularity>
+        <streamingReleaseDate>3001-01-01T00:00:00+00:00</streamingReleaseDate>
+      </release>
+    </taggedItem>
+    <taggedItem>
+      <release id="242175">
+        <title>In Silico</title>
+        <version/>
+        <type>Album</type>
+        <barcode>825646952564</barcode>
+        <year>2010</year>
+        <explicitContent>false</explicitContent>
+        <artist id="45491">
+          <name>Pendulum</name>
+          <appearsAs>Pendulum</appearsAs>
+          <url>http://www.7digital.com/artist/pendulum/?partner=1401</url>
+        </artist>
+        <url>http://www.7digital.com/artist/pendulum/release/in-silico-2/?partner=1401</url>
+        <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/002/421/0000242175_50.jpg</image>
+        <releaseDate>2010-05-06T00:00:00+01:00</releaseDate>
+        <addedDate>2008-05-08T16:54:08+01:00</addedDate>
+        <popularity>0.49</popularity>
+        <streamingReleaseDate>2010-05-06T00:00:00+01:00</streamingReleaseDate>
+      </release>
+    </taggedItem>
+    <taggedItem>
+      <release id="1402085">
+        <title>Spitfire</title>
+        <version/>
+        <type>Album</type>
+        <barcode>881034877758</barcode>
+        <year>2011</year>
+        <explicitContent>false</explicitContent>
+        <artist id="589326">
+          <name>Porter Robinson</name>
+          <appearsAs>Porter Robinson</appearsAs>
+          <url>http://www.7digital.com/artist/porter-robinson/?partner=1401</url>
+        </artist>
+        <url>http://www.7digital.com/artist/porter-robinson/release/spitfire/?partner=1401</url>
+        <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/014/020/0001402085_50.jpg</image>
+        <releaseDate>2011-10-11T00:00:00+01:00</releaseDate>
+        <addedDate>2011-09-20T16:04:34+01:00</addedDate>
+        <popularity>0.48</popularity>
+        <streamingReleaseDate>2011-10-11T00:00:00+01:00</streamingReleaseDate>
+      </release>
+    </taggedItem>
+    <taggedItem>
+      <release id="1672421">
+        <title>Firez EP</title>
+        <version/>
+        <type>Single</type>
+        <barcode>5024441884437</barcode>
+        <year>2012</year>
+        <explicitContent>false</explicitContent>
+        <artist id="307452">
+          <name>DC Breaks</name>
+          <appearsAs>DC Breaks</appearsAs>
+          <url>http://www.7digital.com/artist/dc-breaks/?partner=1401</url>
+        </artist>
+        <url>http://www.7digital.com/artist/dc-breaks/release/firez-ep/?partner=1401</url>
+        <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/016/724/0001672421_50.jpg</image>
+        <releaseDate>2012-05-06T00:00:00+01:00</releaseDate>
+        <addedDate>2012-04-18T00:57:34+01:00</addedDate>
+        <popularity>0.48</popularity>
+        <streamingReleaseDate>3001-01-01T00:00:00+00:00</streamingReleaseDate>
+      </release>
+    </taggedItem>
+  </taggedResults>
 </response>

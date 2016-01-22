@@ -1,624 +1,624 @@
 <?xml version="1.0" encoding="utf-8"?>
 <response xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" status="ok" version="1.2" xsi:noNamespaceSchemaLocation="http://api.7digital.com/1.2/static/7digitalAPI.xsd">
-	<searchResults>
-		<page>1</page>
-		<pageSize>10</pageSize>
-		<totalItems>103</totalItems>
-		<searchResult>
-			<type>release</type>
-			<score>1.7025796</score>
-			<release id="320866">
-				<title>Perfect Symmetry</title>
-				<version>UK Album</version>
-				<type>Album</type>
-				<barcode>00602517856455</barcode>
-				<year>2008</year>
-				<explicitContent>false</explicitContent>
-				<artist id="1">
-					<name>Keane</name>
-					<appearsAs>Keane</appearsAs>
-					<url>http://www.7digital.com/artist/keane/?partner=1401</url>
-				</artist>
-				<url>http://www.7digital.com/artist/keane/release/perfect-symmetry-1/?partner=1401</url>
-				<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/003/208/0000320866_50.jpg</image>
-				<releaseDate>2008-10-13T00:00:00+01:00</releaseDate>
-				<addedDate>2008-09-25T15:18:46+01:00</addedDate>
-				<price>
-					<currency code="GBP">£</currency>
-					<value>5.49</value>
-					<formattedPrice>£5.49</formattedPrice>
-					<onSale>false</onSale>
-					<rrp>5.49</rrp>
-					<formattedRrp>£5.49</formattedRrp>
-				</price>
-				<download>
-					<packages>
-						<package id="2">
-							<description>standard</description>
-							<price>
-								<currencyCode>GBP</currencyCode>
-								<sevendigitalPrice>5.49</sevendigitalPrice>
-								<recommendedRetailPrice>5.49</recommendedRetailPrice>
-							</price>
-							<formats>
-								<format id="17">
-									<description>MP3 320</description>
-								</format>
-							</formats>
-						</package>
-					</packages>
-				</download>
-				<formats availableDrmFree="true">
-					<format id="17">
-						<fileFormat>MP3</fileFormat>
-						<bitRate>320</bitRate>
-						<drmFree>true</drmFree>
-					</format>
-				</formats>
-				<label id="3309">
-					<name>Universal Music Ireland Ltd.</name>
-				</label>
-				<licensor id="1">
-					<name>Universal</name>
-				</licensor>
-				<popularity>0.46</popularity>
-			</release>
-		</searchResult>
-		<searchResult>
-			<type>release</type>
-			<score>2.6958754</score>
-			<release id="1685647">
-				<title>Strangeland</title>
-				<version/>
-				<type>Album</type>
-				<barcode>00602527947952</barcode>
-				<year>2012</year>
-				<explicitContent>false</explicitContent>
-				<artist id="1">
-					<name>Keane</name>
-					<appearsAs>Keane</appearsAs>
-					<url>http://www.7digital.com/artist/keane/?partner=1401</url>
-				</artist>
-				<url>http://www.7digital.com/artist/keane/release/strangeland/?partner=1401</url>
-				<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/016/856/0001685647_50.jpg</image>
-				<releaseDate>2012-05-07T00:00:00+01:00</releaseDate>
-				<addedDate>2012-04-27T11:15:24+01:00</addedDate>
-				<price>
-					<currency code="GBP">£</currency>
-					<value>7.99</value>
-					<formattedPrice>£7.99</formattedPrice>
-					<onSale>false</onSale>
-					<rrp>7.99</rrp>
-					<formattedRrp>£7.99</formattedRrp>
-				</price>
-				<download>
-					<packages>
-						<package id="2">
-							<description>standard</description>
-							<price>
-								<currencyCode>GBP</currencyCode>
-								<sevendigitalPrice>7.99</sevendigitalPrice>
-								<recommendedRetailPrice>7.99</recommendedRetailPrice>
-							</price>
-							<formats>
-								<format id="17">
-									<description>MP3 320</description>
-								</format>
-							</formats>
-						</package>
-					</packages>
-				</download>
-				<formats availableDrmFree="true">
-					<format id="17">
-						<fileFormat>MP3</fileFormat>
-						<bitRate>320</bitRate>
-						<drmFree>true</drmFree>
-					</format>
-				</formats>
-				<label id="670">
-					<name>Interscope</name>
-				</label>
-				<licensor id="1">
-					<name>Universal</name>
-				</licensor>
-				<popularity>0.71</popularity>
-			</release>
-		</searchResult>
-		<searchResult>
-			<type>release</type>
-			<score>2.6958754</score>
-			<release id="1685650">
-				<title>Strangeland</title>
-				<version>Deluxe Version</version>
-				<type>Album</type>
-				<barcode>00602527947969</barcode>
-				<year>2012</year>
-				<explicitContent>false</explicitContent>
-				<artist id="1">
-					<name>Keane</name>
-					<appearsAs>Keane</appearsAs>
-					<url>http://www.7digital.com/artist/keane/?partner=1401</url>
-				</artist>
-				<url>http://www.7digital.com/artist/keane/release/strangeland-1/?partner=1401</url>
-				<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/016/856/0001685650_50.jpg</image>
-				<releaseDate>2012-05-07T00:00:00+01:00</releaseDate>
-				<addedDate>2012-04-27T11:15:24+01:00</addedDate>
-				<price>
-					<currency code="GBP">£</currency>
-					<value>8.99</value>
-					<formattedPrice>£8.99</formattedPrice>
-					<onSale>false</onSale>
-					<rrp>8.99</rrp>
-					<formattedRrp>£8.99</formattedRrp>
-				</price>
-				<download>
-					<packages>
-						<package id="2">
-							<description>standard</description>
-							<price>
-								<currencyCode>GBP</currencyCode>
-								<sevendigitalPrice>8.99</sevendigitalPrice>
-								<recommendedRetailPrice>8.99</recommendedRetailPrice>
-							</price>
-							<formats>
-								<format id="17">
-									<description>MP3 320</description>
-								</format>
-							</formats>
-						</package>
-					</packages>
-				</download>
-				<formats availableDrmFree="true">
-					<format id="17">
-						<fileFormat>MP3</fileFormat>
-						<bitRate>320</bitRate>
-						<drmFree>true</drmFree>
-					</format>
-				</formats>
-				<label id="110578">
-					<name>PT. Universal Music Indonesia</name>
-				</label>
-				<licensor id="1">
-					<name>Universal</name>
-				</licensor>
-				<popularity>0.63</popularity>
-			</release>
-		</searchResult>
-		<searchResult>
-			<type>release</type>
-			<score>1.7025796</score>
-			<release id="112">
-				<title>Hopes And Fears</title>
-				<version>UK version</version>
-				<type>Album</type>
-				<barcode>00602498665732</barcode>
-				<year>2004</year>
-				<explicitContent>false</explicitContent>
-				<artist id="1">
-					<name>Keane</name>
-					<appearsAs>Keane</appearsAs>
-					<url>http://www.7digital.com/artist/keane/?partner=1401</url>
-				</artist>
-				<url>http://www.7digital.com/artist/keane/release/hopes-and-fears-uk-version/?partner=1401</url>
-				<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/000/001/0000000112_50.jpg</image>
-				<releaseDate>2004-05-02T00:00:00+01:00</releaseDate>
-				<addedDate>2008-08-31T22:18:08+01:00</addedDate>
-				<price>
-					<currency code="GBP">£</currency>
-					<value>5.49</value>
-					<formattedPrice>£5.49</formattedPrice>
-					<onSale>false</onSale>
-					<rrp>5.49</rrp>
-					<formattedRrp>£5.49</formattedRrp>
-				</price>
-				<download>
-					<packages>
-						<package id="2">
-							<description>standard</description>
-							<price>
-								<currencyCode>GBP</currencyCode>
-								<sevendigitalPrice>5.49</sevendigitalPrice>
-								<recommendedRetailPrice>5.49</recommendedRetailPrice>
-							</price>
-							<formats>
-								<format id="17">
-									<description>MP3 320</description>
-								</format>
-							</formats>
-						</package>
-					</packages>
-				</download>
-				<formats availableDrmFree="true">
-					<format id="17">
-						<fileFormat>MP3</fileFormat>
-						<bitRate>320</bitRate>
-						<drmFree>true</drmFree>
-					</format>
-				</formats>
-				<label id="30303">
-					<name>Universal Music Division Barclay</name>
-				</label>
-				<licensor id="1">
-					<name>Universal</name>
-				</licensor>
-				<popularity>0.56</popularity>
-			</release>
-		</searchResult>
-		<searchResult>
-			<type>release</type>
-			<score>1.7025796</score>
-			<release id="625642">
-				<title>Hopes and Fears</title>
-				<version>Deluxe Edition</version>
-				<type>Album</type>
-				<barcode>00600753225530</barcode>
-				<year>2009</year>
-				<explicitContent>false</explicitContent>
-				<artist id="1">
-					<name>Keane</name>
-					<appearsAs>Keane</appearsAs>
-					<url>http://www.7digital.com/artist/keane/?partner=1401</url>
-				</artist>
-				<url>http://www.7digital.com/artist/keane/release/hopes-and-fears-3/?partner=1401</url>
-				<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/006/256/0000625642_50.jpg</image>
-				<releaseDate>2009-11-09T00:00:00+00:00</releaseDate>
-				<addedDate>2009-11-11T10:46:53+00:00</addedDate>
-				<price>
-					<currency code="GBP">£</currency>
-					<value>10.99</value>
-					<formattedPrice>£10.99</formattedPrice>
-					<onSale>false</onSale>
-					<rrp>10.99</rrp>
-					<formattedRrp>£10.99</formattedRrp>
-				</price>
-				<download>
-					<packages>
-						<package id="2">
-							<description>standard</description>
-							<price>
-								<currencyCode>GBP</currencyCode>
-								<sevendigitalPrice>10.99</sevendigitalPrice>
-								<recommendedRetailPrice>10.99</recommendedRetailPrice>
-							</price>
-							<formats>
-								<format id="17">
-									<description>MP3 320</description>
-								</format>
-							</formats>
-						</package>
-					</packages>
-				</download>
-				<formats availableDrmFree="true">
-					<format id="17">
-						<fileFormat>MP3</fileFormat>
-						<bitRate>320</bitRate>
-						<drmFree>true</drmFree>
-					</format>
-				</formats>
-				<label id="670">
-					<name>Interscope</name>
-				</label>
-				<licensor id="1">
-					<name>Universal</name>
-				</licensor>
-				<popularity>0.5</popularity>
-			</release>
-		</searchResult>
-		<searchResult>
-			<type>release</type>
-			<score>1.7025796</score>
-			<release id="1729795">
-				<title>Strangeland</title>
-				<version>Deluxe Version</version>
-				<type>Album</type>
-				<barcode>00602527988740</barcode>
-				<year>2012</year>
-				<explicitContent>false</explicitContent>
-				<artist id="1">
-					<name>Keane</name>
-					<appearsAs>Keane</appearsAs>
-					<url>http://www.7digital.com/artist/keane/?partner=1401</url>
-				</artist>
-				<url>http://www.7digital.com/artist/keane/release/strangeland-2/?partner=1401</url>
-				<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/017/297/0001729795_50.jpg</image>
-				<releaseDate>2012-05-07T00:00:00+01:00</releaseDate>
-				<addedDate>2012-05-28T00:31:59+01:00</addedDate>
-				<price>
-					<currency code="GBP">£</currency>
-					<value>11.99</value>
-					<formattedPrice>£11.99</formattedPrice>
-					<onSale>false</onSale>
-					<rrp>11.99</rrp>
-					<formattedRrp>£11.99</formattedRrp>
-				</price>
-				<download>
-					<packages>
-						<package id="2">
-							<description>standard</description>
-							<price>
-								<currencyCode>GBP</currencyCode>
-								<sevendigitalPrice>11.99</sevendigitalPrice>
-								<recommendedRetailPrice>11.99</recommendedRetailPrice>
-							</price>
-							<formats>
-								<format id="17">
-									<description>MP3 320</description>
-								</format>
-								<format id="21">
-									<description>MP4 0</description>
-								</format>
-								<format id="9">
-									<description>MP4 0</description>
-								</format>
-							</formats>
-						</package>
-					</packages>
-				</download>
-				<formats availableDrmFree="true">
-					<format id="17">
-						<fileFormat>MP3</fileFormat>
-						<bitRate>320</bitRate>
-						<drmFree>true</drmFree>
-					</format>
-					<format id="21">
-						<fileFormat>MP4</fileFormat>
-						<bitRate>0</bitRate>
-						<drmFree>true</drmFree>
-					</format>
-					<format id="9">
-						<fileFormat>MP4</fileFormat>
-						<bitRate>0</bitRate>
-						<drmFree>true</drmFree>
-					</format>
-				</formats>
-				<label id="41180">
-					<name>Universal Music Portugal SA</name>
-				</label>
-				<licensor id="1">
-					<name>Universal</name>
-				</licensor>
-				<popularity>0.44</popularity>
-			</release>
-		</searchResult>
-		<searchResult>
-			<type>release</type>
-			<score>1.7025796</score>
-			<release id="309745">
-				<title>Spiralling</title>
-				<version>Radio Edit</version>
-				<type>Single</type>
-				<barcode>00602517834934</barcode>
-				<year>2008</year>
-				<explicitContent>false</explicitContent>
-				<artist id="1">
-					<name>Keane</name>
-					<appearsAs>Keane</appearsAs>
-					<url>http://www.7digital.com/artist/keane/?partner=1401</url>
-				</artist>
-				<url>http://www.7digital.com/artist/keane/release/spiralling/?partner=1401</url>
-				<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/003/097/0000309745_50.jpg</image>
-				<releaseDate>2008-08-10T00:00:00+01:00</releaseDate>
-				<addedDate>2008-09-01T12:02:02+01:00</addedDate>
-				<price>
-					<currency code="GBP">£</currency>
-					<value>0.99</value>
-					<formattedPrice>£0.99</formattedPrice>
-					<onSale>false</onSale>
-					<rrp>0.99</rrp>
-					<formattedRrp>£0.99</formattedRrp>
-				</price>
-				<download>
-					<packages>
-						<package id="2">
-							<description>standard</description>
-							<price>
-								<currencyCode>GBP</currencyCode>
-								<sevendigitalPrice>0.99</sevendigitalPrice>
-								<recommendedRetailPrice>0.99</recommendedRetailPrice>
-							</price>
-							<formats>
-								<format id="17">
-									<description>MP3 320</description>
-								</format>
-							</formats>
-						</package>
-					</packages>
-				</download>
-				<formats availableDrmFree="true">
-					<format id="17">
-						<fileFormat>MP3</fileFormat>
-						<bitRate>320</bitRate>
-						<drmFree>true</drmFree>
-					</format>
-				</formats>
-				<label id="670">
-					<name>Interscope</name>
-				</label>
-				<licensor id="1">
-					<name>Universal</name>
-				</licensor>
-				<popularity>0.42</popularity>
-			</release>
-		</searchResult>
-		<searchResult>
-			<type>release</type>
-			<score>1.7025796</score>
-			<release id="779276">
-				<title>Atlantic</title>
-				<version/>
-				<type>Single</type>
-				<barcode>00602498586563</barcode>
-				<year>2010</year>
-				<explicitContent>false</explicitContent>
-				<artist id="1">
-					<name>Keane</name>
-					<appearsAs>Keane</appearsAs>
-					<url>http://www.7digital.com/artist/keane/?partner=1401</url>
-				</artist>
-				<url>http://www.7digital.com/artist/keane/release/atlantic-1/?partner=1401</url>
-				<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/007/792/0000779276_50.jpg</image>
-				<releaseDate>2010-03-23T00:00:00+00:00</releaseDate>
-				<addedDate>2010-03-25T13:41:29+00:00</addedDate>
-				<price>
-					<currency code="GBP">£</currency>
-					<value>0.99</value>
-					<formattedPrice>£0.99</formattedPrice>
-					<onSale>false</onSale>
-					<rrp>0.99</rrp>
-					<formattedRrp>£0.99</formattedRrp>
-				</price>
-				<download>
-					<packages>
-						<package id="2">
-							<description>standard</description>
-							<price>
-								<currencyCode>GBP</currencyCode>
-								<sevendigitalPrice>0.99</sevendigitalPrice>
-								<recommendedRetailPrice>0.99</recommendedRetailPrice>
-							</price>
-							<formats>
-								<format id="17">
-									<description>MP3 320</description>
-								</format>
-							</formats>
-						</package>
-					</packages>
-				</download>
-				<formats availableDrmFree="true">
-					<format id="17">
-						<fileFormat>MP3</fileFormat>
-						<bitRate>320</bitRate>
-						<drmFree>true</drmFree>
-					</format>
-				</formats>
-				<label id="3309">
-					<name>Universal Music Ireland Ltd.</name>
-				</label>
-				<licensor id="1">
-					<name>Universal</name>
-				</licensor>
-				<popularity>0.39</popularity>
-			</release>
-		</searchResult>
-		<searchResult>
-			<type>release</type>
-			<score>1.3714811</score>
-			<release id="135">
-				<title>Somewhere Only We Know</title>
-				<version>Enhanced</version>
-				<type>Single</type>
-				<barcode>00602498164181</barcode>
-				<year>2004</year>
-				<explicitContent>false</explicitContent>
-				<artist id="1">
-					<name>Keane</name>
-					<appearsAs>Keane</appearsAs>
-					<url>http://www.7digital.com/artist/keane/?partner=1401</url>
-				</artist>
-				<url>http://www.7digital.com/artist/keane/release/somewhere-only-we-know-enhanced/?partner=1401</url>
-				<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/000/001/0000000135_50.jpg</image>
-				<releaseDate>2004-02-16T00:00:00+00:00</releaseDate>
-				<addedDate>2008-08-31T22:18:08+01:00</addedDate>
-				<price>
-					<currency code="GBP">£</currency>
-					<value>1.99</value>
-					<formattedPrice>£1.99</formattedPrice>
-					<onSale>false</onSale>
-					<rrp>1.99</rrp>
-					<formattedRrp>£1.99</formattedRrp>
-				</price>
-				<download>
-					<packages>
-						<package id="2">
-							<description>standard</description>
-							<price>
-								<currencyCode>GBP</currencyCode>
-								<sevendigitalPrice>1.99</sevendigitalPrice>
-								<recommendedRetailPrice>1.99</recommendedRetailPrice>
-							</price>
-							<formats>
-								<format id="17">
-									<description>MP3 320</description>
-								</format>
-							</formats>
-						</package>
-					</packages>
-				</download>
-				<formats availableDrmFree="true">
-					<format id="17">
-						<fileFormat>MP3</fileFormat>
-						<bitRate>320</bitRate>
-						<drmFree>true</drmFree>
-					</format>
-				</formats>
-				<label id="110578">
-					<name>PT. Universal Music Indonesia</name>
-				</label>
-				<licensor id="1">
-					<name>Universal</name>
-				</licensor>
-				<popularity>0.53</popularity>
-			</release>
-		</searchResult>
-		<searchResult>
-			<type>release</type>
-			<score>1.3714811</score>
-			<release id="36567">
-				<title>Under The Iron Sea</title>
-				<version>UK edition</version>
-				<type>Album</type>
-				<barcode>00602498782279</barcode>
-				<year>2006</year>
-				<explicitContent>false</explicitContent>
-				<artist id="1">
-					<name>Keane</name>
-					<appearsAs>Keane</appearsAs>
-					<url>http://www.7digital.com/artist/keane/?partner=1401</url>
-				</artist>
-				<url>http://www.7digital.com/artist/keane/release/under-the-iron-sea-uk-edition/?partner=1401</url>
-				<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/000/365/0000036567_50.jpg</image>
-				<releaseDate>2006-06-12T00:00:00+01:00</releaseDate>
-				<addedDate>2008-08-31T22:19:23+01:00</addedDate>
-				<price>
-					<currency code="GBP">£</currency>
-					<value>5.49</value>
-					<formattedPrice>£5.49</formattedPrice>
-					<onSale>false</onSale>
-					<rrp>5.49</rrp>
-					<formattedRrp>£5.49</formattedRrp>
-				</price>
-				<download>
-					<packages>
-						<package id="2">
-							<description>standard</description>
-							<price>
-								<currencyCode>GBP</currencyCode>
-								<sevendigitalPrice>5.49</sevendigitalPrice>
-								<recommendedRetailPrice>5.49</recommendedRetailPrice>
-							</price>
-							<formats>
-								<format id="17">
-									<description>MP3 320</description>
-								</format>
-							</formats>
-						</package>
-					</packages>
-				</download>
-				<formats availableDrmFree="true">
-					<format id="17">
-						<fileFormat>MP3</fileFormat>
-						<bitRate>320</bitRate>
-						<drmFree>true</drmFree>
-					</format>
-				</formats>
-				<label id="100389">
-					<name>Universal Music (Thailand) Ltd.</name>
-				</label>
-				<licensor id="1">
-					<name>Universal</name>
-				</licensor>
-				<popularity>0.53</popularity>
-			</release>
-		</searchResult>
-	</searchResults>
+  <searchResults>
+    <page>1</page>
+    <pageSize>10</pageSize>
+    <totalItems>103</totalItems>
+    <searchResult>
+      <type>release</type>
+      <score>1.7025796</score>
+      <release id="320866">
+        <title>Perfect Symmetry</title>
+        <version>UK Album</version>
+        <type>Album</type>
+        <barcode>00602517856455</barcode>
+        <year>2008</year>
+        <explicitContent>false</explicitContent>
+        <artist id="1">
+          <name>Keane</name>
+          <appearsAs>Keane</appearsAs>
+          <url>http://www.7digital.com/artist/keane/?partner=1401</url>
+        </artist>
+        <url>http://www.7digital.com/artist/keane/release/perfect-symmetry-1/?partner=1401</url>
+        <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/003/208/0000320866_50.jpg</image>
+        <releaseDate>2008-10-13T00:00:00+01:00</releaseDate>
+        <addedDate>2008-09-25T15:18:46+01:00</addedDate>
+        <price>
+          <currency code="GBP">£</currency>
+          <value>5.49</value>
+          <formattedPrice>£5.49</formattedPrice>
+          <onSale>false</onSale>
+          <rrp>5.49</rrp>
+          <formattedRrp>£5.49</formattedRrp>
+        </price>
+        <download>
+          <packages>
+            <package id="2">
+              <description>standard</description>
+              <price>
+                <currencyCode>GBP</currencyCode>
+                <sevendigitalPrice>5.49</sevendigitalPrice>
+                <recommendedRetailPrice>5.49</recommendedRetailPrice>
+              </price>
+              <formats>
+                <format id="17">
+                  <description>MP3 320</description>
+                </format>
+              </formats>
+            </package>
+          </packages>
+        </download>
+        <formats availableDrmFree="true">
+          <format id="17">
+            <fileFormat>MP3</fileFormat>
+            <bitRate>320</bitRate>
+            <drmFree>true</drmFree>
+          </format>
+        </formats>
+        <label id="3309">
+          <name>Universal Music Ireland Ltd.</name>
+        </label>
+        <licensor id="1">
+          <name>Universal</name>
+        </licensor>
+        <popularity>0.46</popularity>
+      </release>
+    </searchResult>
+    <searchResult>
+      <type>release</type>
+      <score>2.6958754</score>
+      <release id="1685647">
+        <title>Strangeland</title>
+        <version/>
+        <type>Album</type>
+        <barcode>00602527947952</barcode>
+        <year>2012</year>
+        <explicitContent>false</explicitContent>
+        <artist id="1">
+          <name>Keane</name>
+          <appearsAs>Keane</appearsAs>
+          <url>http://www.7digital.com/artist/keane/?partner=1401</url>
+        </artist>
+        <url>http://www.7digital.com/artist/keane/release/strangeland/?partner=1401</url>
+        <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/016/856/0001685647_50.jpg</image>
+        <releaseDate>2012-05-07T00:00:00+01:00</releaseDate>
+        <addedDate>2012-04-27T11:15:24+01:00</addedDate>
+        <price>
+          <currency code="GBP">£</currency>
+          <value>7.99</value>
+          <formattedPrice>£7.99</formattedPrice>
+          <onSale>false</onSale>
+          <rrp>7.99</rrp>
+          <formattedRrp>£7.99</formattedRrp>
+        </price>
+        <download>
+          <packages>
+            <package id="2">
+              <description>standard</description>
+              <price>
+                <currencyCode>GBP</currencyCode>
+                <sevendigitalPrice>7.99</sevendigitalPrice>
+                <recommendedRetailPrice>7.99</recommendedRetailPrice>
+              </price>
+              <formats>
+                <format id="17">
+                  <description>MP3 320</description>
+                </format>
+              </formats>
+            </package>
+          </packages>
+        </download>
+        <formats availableDrmFree="true">
+          <format id="17">
+            <fileFormat>MP3</fileFormat>
+            <bitRate>320</bitRate>
+            <drmFree>true</drmFree>
+          </format>
+        </formats>
+        <label id="670">
+          <name>Interscope</name>
+        </label>
+        <licensor id="1">
+          <name>Universal</name>
+        </licensor>
+        <popularity>0.71</popularity>
+      </release>
+    </searchResult>
+    <searchResult>
+      <type>release</type>
+      <score>2.6958754</score>
+      <release id="1685650">
+        <title>Strangeland</title>
+        <version>Deluxe Version</version>
+        <type>Album</type>
+        <barcode>00602527947969</barcode>
+        <year>2012</year>
+        <explicitContent>false</explicitContent>
+        <artist id="1">
+          <name>Keane</name>
+          <appearsAs>Keane</appearsAs>
+          <url>http://www.7digital.com/artist/keane/?partner=1401</url>
+        </artist>
+        <url>http://www.7digital.com/artist/keane/release/strangeland-1/?partner=1401</url>
+        <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/016/856/0001685650_50.jpg</image>
+        <releaseDate>2012-05-07T00:00:00+01:00</releaseDate>
+        <addedDate>2012-04-27T11:15:24+01:00</addedDate>
+        <price>
+          <currency code="GBP">£</currency>
+          <value>8.99</value>
+          <formattedPrice>£8.99</formattedPrice>
+          <onSale>false</onSale>
+          <rrp>8.99</rrp>
+          <formattedRrp>£8.99</formattedRrp>
+        </price>
+        <download>
+          <packages>
+            <package id="2">
+              <description>standard</description>
+              <price>
+                <currencyCode>GBP</currencyCode>
+                <sevendigitalPrice>8.99</sevendigitalPrice>
+                <recommendedRetailPrice>8.99</recommendedRetailPrice>
+              </price>
+              <formats>
+                <format id="17">
+                  <description>MP3 320</description>
+                </format>
+              </formats>
+            </package>
+          </packages>
+        </download>
+        <formats availableDrmFree="true">
+          <format id="17">
+            <fileFormat>MP3</fileFormat>
+            <bitRate>320</bitRate>
+            <drmFree>true</drmFree>
+          </format>
+        </formats>
+        <label id="110578">
+          <name>PT. Universal Music Indonesia</name>
+        </label>
+        <licensor id="1">
+          <name>Universal</name>
+        </licensor>
+        <popularity>0.63</popularity>
+      </release>
+    </searchResult>
+    <searchResult>
+      <type>release</type>
+      <score>1.7025796</score>
+      <release id="112">
+        <title>Hopes And Fears</title>
+        <version>UK version</version>
+        <type>Album</type>
+        <barcode>00602498665732</barcode>
+        <year>2004</year>
+        <explicitContent>false</explicitContent>
+        <artist id="1">
+          <name>Keane</name>
+          <appearsAs>Keane</appearsAs>
+          <url>http://www.7digital.com/artist/keane/?partner=1401</url>
+        </artist>
+        <url>http://www.7digital.com/artist/keane/release/hopes-and-fears-uk-version/?partner=1401</url>
+        <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/000/001/0000000112_50.jpg</image>
+        <releaseDate>2004-05-02T00:00:00+01:00</releaseDate>
+        <addedDate>2008-08-31T22:18:08+01:00</addedDate>
+        <price>
+          <currency code="GBP">£</currency>
+          <value>5.49</value>
+          <formattedPrice>£5.49</formattedPrice>
+          <onSale>false</onSale>
+          <rrp>5.49</rrp>
+          <formattedRrp>£5.49</formattedRrp>
+        </price>
+        <download>
+          <packages>
+            <package id="2">
+              <description>standard</description>
+              <price>
+                <currencyCode>GBP</currencyCode>
+                <sevendigitalPrice>5.49</sevendigitalPrice>
+                <recommendedRetailPrice>5.49</recommendedRetailPrice>
+              </price>
+              <formats>
+                <format id="17">
+                  <description>MP3 320</description>
+                </format>
+              </formats>
+            </package>
+          </packages>
+        </download>
+        <formats availableDrmFree="true">
+          <format id="17">
+            <fileFormat>MP3</fileFormat>
+            <bitRate>320</bitRate>
+            <drmFree>true</drmFree>
+          </format>
+        </formats>
+        <label id="30303">
+          <name>Universal Music Division Barclay</name>
+        </label>
+        <licensor id="1">
+          <name>Universal</name>
+        </licensor>
+        <popularity>0.56</popularity>
+      </release>
+    </searchResult>
+    <searchResult>
+      <type>release</type>
+      <score>1.7025796</score>
+      <release id="625642">
+        <title>Hopes and Fears</title>
+        <version>Deluxe Edition</version>
+        <type>Album</type>
+        <barcode>00600753225530</barcode>
+        <year>2009</year>
+        <explicitContent>false</explicitContent>
+        <artist id="1">
+          <name>Keane</name>
+          <appearsAs>Keane</appearsAs>
+          <url>http://www.7digital.com/artist/keane/?partner=1401</url>
+        </artist>
+        <url>http://www.7digital.com/artist/keane/release/hopes-and-fears-3/?partner=1401</url>
+        <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/006/256/0000625642_50.jpg</image>
+        <releaseDate>2009-11-09T00:00:00+00:00</releaseDate>
+        <addedDate>2009-11-11T10:46:53+00:00</addedDate>
+        <price>
+          <currency code="GBP">£</currency>
+          <value>10.99</value>
+          <formattedPrice>£10.99</formattedPrice>
+          <onSale>false</onSale>
+          <rrp>10.99</rrp>
+          <formattedRrp>£10.99</formattedRrp>
+        </price>
+        <download>
+          <packages>
+            <package id="2">
+              <description>standard</description>
+              <price>
+                <currencyCode>GBP</currencyCode>
+                <sevendigitalPrice>10.99</sevendigitalPrice>
+                <recommendedRetailPrice>10.99</recommendedRetailPrice>
+              </price>
+              <formats>
+                <format id="17">
+                  <description>MP3 320</description>
+                </format>
+              </formats>
+            </package>
+          </packages>
+        </download>
+        <formats availableDrmFree="true">
+          <format id="17">
+            <fileFormat>MP3</fileFormat>
+            <bitRate>320</bitRate>
+            <drmFree>true</drmFree>
+          </format>
+        </formats>
+        <label id="670">
+          <name>Interscope</name>
+        </label>
+        <licensor id="1">
+          <name>Universal</name>
+        </licensor>
+        <popularity>0.5</popularity>
+      </release>
+    </searchResult>
+    <searchResult>
+      <type>release</type>
+      <score>1.7025796</score>
+      <release id="1729795">
+        <title>Strangeland</title>
+        <version>Deluxe Version</version>
+        <type>Album</type>
+        <barcode>00602527988740</barcode>
+        <year>2012</year>
+        <explicitContent>false</explicitContent>
+        <artist id="1">
+          <name>Keane</name>
+          <appearsAs>Keane</appearsAs>
+          <url>http://www.7digital.com/artist/keane/?partner=1401</url>
+        </artist>
+        <url>http://www.7digital.com/artist/keane/release/strangeland-2/?partner=1401</url>
+        <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/017/297/0001729795_50.jpg</image>
+        <releaseDate>2012-05-07T00:00:00+01:00</releaseDate>
+        <addedDate>2012-05-28T00:31:59+01:00</addedDate>
+        <price>
+          <currency code="GBP">£</currency>
+          <value>11.99</value>
+          <formattedPrice>£11.99</formattedPrice>
+          <onSale>false</onSale>
+          <rrp>11.99</rrp>
+          <formattedRrp>£11.99</formattedRrp>
+        </price>
+        <download>
+          <packages>
+            <package id="2">
+              <description>standard</description>
+              <price>
+                <currencyCode>GBP</currencyCode>
+                <sevendigitalPrice>11.99</sevendigitalPrice>
+                <recommendedRetailPrice>11.99</recommendedRetailPrice>
+              </price>
+              <formats>
+                <format id="17">
+                  <description>MP3 320</description>
+                </format>
+                <format id="21">
+                  <description>MP4 0</description>
+                </format>
+                <format id="9">
+                  <description>MP4 0</description>
+                </format>
+              </formats>
+            </package>
+          </packages>
+        </download>
+        <formats availableDrmFree="true">
+          <format id="17">
+            <fileFormat>MP3</fileFormat>
+            <bitRate>320</bitRate>
+            <drmFree>true</drmFree>
+          </format>
+          <format id="21">
+            <fileFormat>MP4</fileFormat>
+            <bitRate>0</bitRate>
+            <drmFree>true</drmFree>
+          </format>
+          <format id="9">
+            <fileFormat>MP4</fileFormat>
+            <bitRate>0</bitRate>
+            <drmFree>true</drmFree>
+          </format>
+        </formats>
+        <label id="41180">
+          <name>Universal Music Portugal SA</name>
+        </label>
+        <licensor id="1">
+          <name>Universal</name>
+        </licensor>
+        <popularity>0.44</popularity>
+      </release>
+    </searchResult>
+    <searchResult>
+      <type>release</type>
+      <score>1.7025796</score>
+      <release id="309745">
+        <title>Spiralling</title>
+        <version>Radio Edit</version>
+        <type>Single</type>
+        <barcode>00602517834934</barcode>
+        <year>2008</year>
+        <explicitContent>false</explicitContent>
+        <artist id="1">
+          <name>Keane</name>
+          <appearsAs>Keane</appearsAs>
+          <url>http://www.7digital.com/artist/keane/?partner=1401</url>
+        </artist>
+        <url>http://www.7digital.com/artist/keane/release/spiralling/?partner=1401</url>
+        <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/003/097/0000309745_50.jpg</image>
+        <releaseDate>2008-08-10T00:00:00+01:00</releaseDate>
+        <addedDate>2008-09-01T12:02:02+01:00</addedDate>
+        <price>
+          <currency code="GBP">£</currency>
+          <value>0.99</value>
+          <formattedPrice>£0.99</formattedPrice>
+          <onSale>false</onSale>
+          <rrp>0.99</rrp>
+          <formattedRrp>£0.99</formattedRrp>
+        </price>
+        <download>
+          <packages>
+            <package id="2">
+              <description>standard</description>
+              <price>
+                <currencyCode>GBP</currencyCode>
+                <sevendigitalPrice>0.99</sevendigitalPrice>
+                <recommendedRetailPrice>0.99</recommendedRetailPrice>
+              </price>
+              <formats>
+                <format id="17">
+                  <description>MP3 320</description>
+                </format>
+              </formats>
+            </package>
+          </packages>
+        </download>
+        <formats availableDrmFree="true">
+          <format id="17">
+            <fileFormat>MP3</fileFormat>
+            <bitRate>320</bitRate>
+            <drmFree>true</drmFree>
+          </format>
+        </formats>
+        <label id="670">
+          <name>Interscope</name>
+        </label>
+        <licensor id="1">
+          <name>Universal</name>
+        </licensor>
+        <popularity>0.42</popularity>
+      </release>
+    </searchResult>
+    <searchResult>
+      <type>release</type>
+      <score>1.7025796</score>
+      <release id="779276">
+        <title>Atlantic</title>
+        <version/>
+        <type>Single</type>
+        <barcode>00602498586563</barcode>
+        <year>2010</year>
+        <explicitContent>false</explicitContent>
+        <artist id="1">
+          <name>Keane</name>
+          <appearsAs>Keane</appearsAs>
+          <url>http://www.7digital.com/artist/keane/?partner=1401</url>
+        </artist>
+        <url>http://www.7digital.com/artist/keane/release/atlantic-1/?partner=1401</url>
+        <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/007/792/0000779276_50.jpg</image>
+        <releaseDate>2010-03-23T00:00:00+00:00</releaseDate>
+        <addedDate>2010-03-25T13:41:29+00:00</addedDate>
+        <price>
+          <currency code="GBP">£</currency>
+          <value>0.99</value>
+          <formattedPrice>£0.99</formattedPrice>
+          <onSale>false</onSale>
+          <rrp>0.99</rrp>
+          <formattedRrp>£0.99</formattedRrp>
+        </price>
+        <download>
+          <packages>
+            <package id="2">
+              <description>standard</description>
+              <price>
+                <currencyCode>GBP</currencyCode>
+                <sevendigitalPrice>0.99</sevendigitalPrice>
+                <recommendedRetailPrice>0.99</recommendedRetailPrice>
+              </price>
+              <formats>
+                <format id="17">
+                  <description>MP3 320</description>
+                </format>
+              </formats>
+            </package>
+          </packages>
+        </download>
+        <formats availableDrmFree="true">
+          <format id="17">
+            <fileFormat>MP3</fileFormat>
+            <bitRate>320</bitRate>
+            <drmFree>true</drmFree>
+          </format>
+        </formats>
+        <label id="3309">
+          <name>Universal Music Ireland Ltd.</name>
+        </label>
+        <licensor id="1">
+          <name>Universal</name>
+        </licensor>
+        <popularity>0.39</popularity>
+      </release>
+    </searchResult>
+    <searchResult>
+      <type>release</type>
+      <score>1.3714811</score>
+      <release id="135">
+        <title>Somewhere Only We Know</title>
+        <version>Enhanced</version>
+        <type>Single</type>
+        <barcode>00602498164181</barcode>
+        <year>2004</year>
+        <explicitContent>false</explicitContent>
+        <artist id="1">
+          <name>Keane</name>
+          <appearsAs>Keane</appearsAs>
+          <url>http://www.7digital.com/artist/keane/?partner=1401</url>
+        </artist>
+        <url>http://www.7digital.com/artist/keane/release/somewhere-only-we-know-enhanced/?partner=1401</url>
+        <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/000/001/0000000135_50.jpg</image>
+        <releaseDate>2004-02-16T00:00:00+00:00</releaseDate>
+        <addedDate>2008-08-31T22:18:08+01:00</addedDate>
+        <price>
+          <currency code="GBP">£</currency>
+          <value>1.99</value>
+          <formattedPrice>£1.99</formattedPrice>
+          <onSale>false</onSale>
+          <rrp>1.99</rrp>
+          <formattedRrp>£1.99</formattedRrp>
+        </price>
+        <download>
+          <packages>
+            <package id="2">
+              <description>standard</description>
+              <price>
+                <currencyCode>GBP</currencyCode>
+                <sevendigitalPrice>1.99</sevendigitalPrice>
+                <recommendedRetailPrice>1.99</recommendedRetailPrice>
+              </price>
+              <formats>
+                <format id="17">
+                  <description>MP3 320</description>
+                </format>
+              </formats>
+            </package>
+          </packages>
+        </download>
+        <formats availableDrmFree="true">
+          <format id="17">
+            <fileFormat>MP3</fileFormat>
+            <bitRate>320</bitRate>
+            <drmFree>true</drmFree>
+          </format>
+        </formats>
+        <label id="110578">
+          <name>PT. Universal Music Indonesia</name>
+        </label>
+        <licensor id="1">
+          <name>Universal</name>
+        </licensor>
+        <popularity>0.53</popularity>
+      </release>
+    </searchResult>
+    <searchResult>
+      <type>release</type>
+      <score>1.3714811</score>
+      <release id="36567">
+        <title>Under The Iron Sea</title>
+        <version>UK edition</version>
+        <type>Album</type>
+        <barcode>00602498782279</barcode>
+        <year>2006</year>
+        <explicitContent>false</explicitContent>
+        <artist id="1">
+          <name>Keane</name>
+          <appearsAs>Keane</appearsAs>
+          <url>http://www.7digital.com/artist/keane/?partner=1401</url>
+        </artist>
+        <url>http://www.7digital.com/artist/keane/release/under-the-iron-sea-uk-edition/?partner=1401</url>
+        <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/000/365/0000036567_50.jpg</image>
+        <releaseDate>2006-06-12T00:00:00+01:00</releaseDate>
+        <addedDate>2008-08-31T22:19:23+01:00</addedDate>
+        <price>
+          <currency code="GBP">£</currency>
+          <value>5.49</value>
+          <formattedPrice>£5.49</formattedPrice>
+          <onSale>false</onSale>
+          <rrp>5.49</rrp>
+          <formattedRrp>£5.49</formattedRrp>
+        </price>
+        <download>
+          <packages>
+            <package id="2">
+              <description>standard</description>
+              <price>
+                <currencyCode>GBP</currencyCode>
+                <sevendigitalPrice>5.49</sevendigitalPrice>
+                <recommendedRetailPrice>5.49</recommendedRetailPrice>
+              </price>
+              <formats>
+                <format id="17">
+                  <description>MP3 320</description>
+                </format>
+              </formats>
+            </package>
+          </packages>
+        </download>
+        <formats availableDrmFree="true">
+          <format id="17">
+            <fileFormat>MP3</fileFormat>
+            <bitRate>320</bitRate>
+            <drmFree>true</drmFree>
+          </format>
+        </formats>
+        <label id="100389">
+          <name>Universal Music (Thailand) Ltd.</name>
+        </label>
+        <licensor id="1">
+          <name>Universal</name>
+        </licensor>
+        <popularity>0.53</popularity>
+      </release>
+    </searchResult>
+  </searchResults>
 </response>

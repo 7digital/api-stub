@@ -1,1 +1,500 @@
-<?xml version="1.0" encoding="utf-8"?><response xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" status="ok" version="1.2" xsi:noNamespaceSchemaLocation="http://api.7digital.com/1.2/static/7digitalAPI.xsd"><releases><page>3</page><pageSize>7</pageSize><totalItems>23</totalItems><release id="135197"><title>Ghost Reveries</title><version /><type>Album</type><barcode>016861812300</barcode><year>2005</year><explicitContent>false</explicitContent><artist id="8576"><name>Opeth</name><appearsAs>Opeth</appearsAs><url>http://www.7digital.com/artist/opeth/?partner=712</url></artist><url>http://www.7digital.com/artist/opeth/release/ghost-reveries-1/?partner=712</url><image>http://artwork-cdn.7static.com/static/img/sleeveart/00/001/351/0000135197_50.jpg</image><releaseDate>2008-06-01T00:00:00Z</releaseDate><addedDate>2008-03-03T14:14:59.227Z</addedDate><price><currency code="GBP">£</currency><value>5.99</value><formattedPrice>£5.99</formattedPrice><rrp>5.99</rrp><formattedRrp>£5.99</formattedRrp><onSale>false</onSale></price><formats availableDrmFree="true"><format id="17"><fileFormat>MP3</fileFormat><bitRate>320</bitRate><drmFree>true</drmFree></format></formats><label id="973"><name>Roadrunner Records</name></label><licensor id="18"><name>Warner</name></licensor><popularity>0</popularity><streamingReleaseDate>2008-07-31T00:00:00Z</streamingReleaseDate><duration>4006</duration><trackCount>8</trackCount><download><packages><package id="2"><description>standard</description><price><currencyCode>GBP</currencyCode><sevendigitalPrice>5.99</sevendigitalPrice><recommendedRetailPrice>5.99</recommendedRetailPrice></price><formats><format id="17"><description>MP3 320</description></format></formats></package></packages></download></release><release id="137766"><title>The Grand Conjuration</title><version /><type>Single</type><barcode>016861101800</barcode><year>2005</year><explicitContent>false</explicitContent><artist id="8576"><name>Opeth</name><appearsAs>Opeth</appearsAs><url>http://www.7digital.com/artist/opeth/?partner=712</url></artist><url>http://www.7digital.com/artist/opeth/release/the-grand-conjuration/?partner=712</url><image>http://artwork-cdn.7static.com/static/img/sleeveart/00/001/377/0000137766_50.jpg</image><releaseDate>2007-03-06T00:00:00Z</releaseDate><addedDate>2008-10-16T22:25:21.67Z</addedDate><price><currency code="GBP">£</currency><value>0.99</value><formattedPrice>£0.99</formattedPrice><rrp>0.99</rrp><formattedRrp>£0.99</formattedRrp><onSale>false</onSale></price><formats availableDrmFree="true"><format id="48"><fileFormat>MP3</fileFormat><bitRate>256</bitRate><drmFree>true</drmFree></format></formats><label id="973"><name>Roadrunner Records</name></label><licensor id="18"><name>Warner</name></licensor><popularity>0</popularity><streamingReleaseDate>2007-03-06T00:00:00Z</streamingReleaseDate><duration>303</duration><trackCount>1</trackCount><download><packages><package id="2"><description>standard</description><price><currencyCode>GBP</currencyCode><sevendigitalPrice>0.99</sevendigitalPrice><recommendedRetailPrice>0.99</recommendedRetailPrice></price><formats><format id="48"><description>MP3 256</description></format></formats></package></packages></download></release><release id="278850"><title>Damnation</title><version /><type>Album</type><barcode>828768291122</barcode><year>2003</year><explicitContent>false</explicitContent><artist id="8576"><name>Opeth</name><appearsAs>Opeth</appearsAs><url>http://www.7digital.com/artist/opeth/?partner=712</url></artist><url>http://www.7digital.com/artist/opeth/release/damnation/?partner=712</url><image>http://artwork-cdn.7static.com/static/img/sleeveart/00/002/788/0000278850_50.jpg</image><releaseDate>2006-06-03T00:00:00Z</releaseDate><addedDate>2008-09-15T19:10:04.607Z</addedDate><price><currency code="GBP">£</currency><value>4.49</value><formattedPrice>£4.49</formattedPrice><rrp>4.49</rrp><formattedRrp>£4.49</formattedRrp><onSale>false</onSale></price><formats availableDrmFree="true"><format id="17"><fileFormat>MP3</fileFormat><bitRate>320</bitRate><drmFree>true</drmFree></format><format id="33"><fileFormat>M4A</fileFormat><bitRate>320</bitRate><drmFree>true</drmFree></format></formats><label id="1036"><name>Sony BMG Music Entertainment</name></label><licensor id="2"><name>Sony Music</name></licensor><popularity>0</popularity><streamingReleaseDate>2006-06-03T00:00:00Z</streamingReleaseDate><duration>2599</duration><trackCount>8</trackCount><download><packages><package id="9"><description>premium</description><price><currencyCode>GBP</currencyCode><sevendigitalPrice>5.49</sevendigitalPrice><recommendedRetailPrice>5.49</recommendedRetailPrice></price><formats><format id="45"><description>FLAC 16-bit 44.1kHz</description></format></formats></package><package id="2"><description>standard</description><price><currencyCode>GBP</currencyCode><sevendigitalPrice>4.49</sevendigitalPrice><recommendedRetailPrice>4.49</recommendedRetailPrice></price><formats><format id="17"><description>MP3 320</description></format><format id="33"><description>AAC 320</description></format></formats></package></packages></download></release><release id="278853"><title>Deliverance</title><version /><type>Album</type><barcode>828768327326</barcode><year>2002</year><explicitContent>false</explicitContent><artist id="8576"><name>Opeth</name><appearsAs>Opeth</appearsAs><url>http://www.7digital.com/artist/opeth/?partner=712</url></artist><url>http://www.7digital.com/artist/opeth/release/deliverance/?partner=712</url><image>http://artwork-cdn.7static.com/static/img/sleeveart/00/002/788/0000278853_50.jpg</image><releaseDate>2006-06-03T00:00:00Z</releaseDate><addedDate>2008-09-15T19:10:04.623Z</addedDate><price><currency code="GBP">£</currency><value>4.49</value><formattedPrice>£4.49</formattedPrice><rrp>4.49</rrp><formattedRrp>£4.49</formattedRrp><onSale>false</onSale></price><formats availableDrmFree="true"><format id="17"><fileFormat>MP3</fileFormat><bitRate>320</bitRate><drmFree>true</drmFree></format><format id="33"><fileFormat>M4A</fileFormat><bitRate>320</bitRate><drmFree>true</drmFree></format></formats><label id="1036"><name>Sony BMG Music Entertainment</name></label><licensor id="2"><name>Sony Music</name></licensor><popularity>0</popularity><streamingReleaseDate>2006-06-03T00:00:00Z</streamingReleaseDate><duration>3705</duration><trackCount>6</trackCount><download><packages><package id="9"><description>premium</description><price><currencyCode>GBP</currencyCode><sevendigitalPrice>5.49</sevendigitalPrice><recommendedRetailPrice>5.49</recommendedRetailPrice></price><formats><format id="45"><description>FLAC 16-bit 44.1kHz</description></format></formats></package><package id="2"><description>standard</description><price><currencyCode>GBP</currencyCode><sevendigitalPrice>4.49</sevendigitalPrice><recommendedRetailPrice>4.49</recommendedRetailPrice></price><formats><format id="17"><description>MP3 320</description></format><format id="33"><description>AAC 320</description></format></formats></package></packages></download></release><release id="278852"><title>Blackwater Park</title><version /><type>Album</type><barcode>828768291221</barcode><year>2001</year><explicitContent>false</explicitContent><artist id="8576"><name>Opeth</name><appearsAs>Opeth</appearsAs><url>http://www.7digital.com/artist/opeth/?partner=712</url></artist><url>http://www.7digital.com/artist/opeth/release/blackwater-park/?partner=712</url><image>http://artwork-cdn.7static.com/static/img/sleeveart/00/002/788/0000278852_50.jpg</image><releaseDate>2006-06-03T00:00:00Z</releaseDate><addedDate>2008-09-15T19:10:04.607Z</addedDate><price><currency code="GBP">£</currency><value>4.49</value><formattedPrice>£4.49</formattedPrice><rrp>4.49</rrp><formattedRrp>£4.49</formattedRrp><onSale>false</onSale></price><formats availableDrmFree="true"><format id="17"><fileFormat>MP3</fileFormat><bitRate>320</bitRate><drmFree>true</drmFree></format><format id="33"><fileFormat>M4A</fileFormat><bitRate>320</bitRate><drmFree>true</drmFree></format></formats><label id="1036"><name>Sony BMG Music Entertainment</name></label><licensor id="2"><name>Sony Music</name></licensor><popularity>0</popularity><streamingReleaseDate>2006-06-03T00:00:00Z</streamingReleaseDate><duration>4029</duration><trackCount>8</trackCount><download><packages><package id="2"><description>standard</description><price><currencyCode>GBP</currencyCode><sevendigitalPrice>4.49</sevendigitalPrice><recommendedRetailPrice>4.49</recommendedRetailPrice></price><formats><format id="17"><description>MP3 320</description></format><format id="33"><description>AAC 320</description></format></formats></package><package id="9"><description>premium</description><price><currencyCode>GBP</currencyCode><sevendigitalPrice>5.49</sevendigitalPrice><recommendedRetailPrice>5.49</recommendedRetailPrice></price><formats><format id="45"><description>FLAC 16-bit 44.1kHz</description></format></formats></package></packages></download></release><release id="1441080"><title>Still Life</title><version /><type>Album</type><barcode>0801056707826</barcode><year>1999</year><explicitContent>false</explicitContent><artist id="8576"><name>Opeth</name><appearsAs>Opeth</appearsAs><url>http://www.7digital.com/artist/opeth/?partner=712</url></artist><url>http://www.7digital.com/artist/opeth/release/still-life-4/?partner=712</url><image>http://artwork-cdn.7static.com/static/img/sleeveart/00/014/410/0001441080_50.jpg</image><releaseDate>2003-01-01T00:00:00Z</releaseDate><addedDate>2011-11-07T12:37:21.083Z</addedDate><price><currency code="GBP">£</currency><value>4.99</value><formattedPrice>£4.99</formattedPrice><rrp>4.99</rrp><formattedRrp>£4.99</formattedRrp><onSale>false</onSale></price><formats availableDrmFree="true"><format id="17"><fileFormat>MP3</fileFormat><bitRate>320</bitRate><drmFree>true</drmFree></format><format id="33"><fileFormat>M4A</fileFormat><bitRate>320</bitRate><drmFree>true</drmFree></format></formats><label id="3665"><name>Peaceville Records</name></label><licensor id="336"><name>Essential Music and Marketing Ltd</name></licensor><popularity>0</popularity><streamingReleaseDate>2003-01-01T00:00:00Z</streamingReleaseDate><duration>3746</duration><trackCount>7</trackCount><download><packages><package id="2"><description>standard</description><price><currencyCode>GBP</currencyCode><sevendigitalPrice>4.99</sevendigitalPrice><recommendedRetailPrice>4.99</recommendedRetailPrice></price><formats><format id="17"><description>MP3 320</description></format><format id="33"><description>AAC 320</description></format></formats></package></packages></download></release><release id="2072779"><title>Still Life (Remastered Edition)</title><version /><type>Album</type><barcode>0801056818324</barcode><year>1999</year><explicitContent>false</explicitContent><artist id="8576"><name>Opeth</name><appearsAs>Opeth</appearsAs><url>http://www.7digital.com/artist/opeth/?partner=712</url></artist><url>http://www.7digital.com/artist/opeth/release/still-life-remastered-edition-1/?partner=712</url><image>http://artwork-cdn.7static.com/static/img/sleeveart/00/020/727/0002072779_50.jpg</image><releaseDate>2012-12-11T00:00:00Z</releaseDate><addedDate>2012-12-17T00:45:06.627Z</addedDate><price><currency code="GBP">£</currency><value>6.93</value><formattedPrice>£6.93</formattedPrice><rrp>6.93</rrp><formattedRrp>£6.93</formattedRrp><onSale>false</onSale></price><formats availableDrmFree="true"><format id="17"><fileFormat>MP3</fileFormat><bitRate>320</bitRate><drmFree>true</drmFree></format><format id="33"><fileFormat>M4A</fileFormat><bitRate>320</bitRate><drmFree>true</drmFree></format></formats><label id="3665"><name>Peaceville Records</name></label><licensor id="336"><name>Essential Music and Marketing Ltd</name></licensor><popularity>0</popularity><streamingReleaseDate>2012-12-11T00:00:00Z</streamingReleaseDate><duration>3749</duration><trackCount>7</trackCount><download><packages><package id="2"><description>standard</description><price><currencyCode>GBP</currencyCode><sevendigitalPrice>6.93</sevendigitalPrice><recommendedRetailPrice>6.93</recommendedRetailPrice></price><formats><format id="17"><description>MP3 320</description></format><format id="33"><description>AAC 320</description></format></formats></package></packages></download></release></releases></response>
+<?xml version="1.0" encoding="utf-8"?>
+<response xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" status="ok" version="1.2" xsi:noNamespaceSchemaLocation="http://api.7digital.com/1.2/static/7digitalAPI.xsd">
+  <releases>
+    <page>3</page>
+    <pageSize>7</pageSize>
+    <totalItems>23</totalItems>
+    <release id="135197">
+      <title>Ghost Reveries</title>
+      <version/>
+      <type>Album</type>
+      <barcode>016861812300</barcode>
+      <year>2005</year>
+      <explicitContent>false</explicitContent>
+      <artist id="8576">
+        <name>Opeth</name>
+        <appearsAs>Opeth</appearsAs>
+        <url>http://www.7digital.com/artist/opeth/?partner=712</url>
+      </artist>
+      <url>http://www.7digital.com/artist/opeth/release/ghost-reveries-1/?partner=712</url>
+      <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/001/351/0000135197_50.jpg</image>
+      <releaseDate>2008-06-01T00:00:00Z</releaseDate>
+      <addedDate>2008-03-03T14:14:59.227Z</addedDate>
+      <price>
+        <currency code="GBP">£</currency>
+        <value>5.99</value>
+        <formattedPrice>£5.99</formattedPrice>
+        <rrp>5.99</rrp>
+        <formattedRrp>£5.99</formattedRrp>
+        <onSale>false</onSale>
+      </price>
+      <formats availableDrmFree="true">
+        <format id="17">
+          <fileFormat>MP3</fileFormat>
+          <bitRate>320</bitRate>
+          <drmFree>true</drmFree>
+        </format>
+      </formats>
+      <label id="973">
+        <name>Roadrunner Records</name>
+      </label>
+      <licensor id="18">
+        <name>Warner</name>
+      </licensor>
+      <popularity>0</popularity>
+      <streamingReleaseDate>2008-07-31T00:00:00Z</streamingReleaseDate>
+      <duration>4006</duration>
+      <trackCount>8</trackCount>
+      <download>
+        <packages>
+          <package id="2">
+            <description>standard</description>
+            <price>
+              <currencyCode>GBP</currencyCode>
+              <sevendigitalPrice>5.99</sevendigitalPrice>
+              <recommendedRetailPrice>5.99</recommendedRetailPrice>
+            </price>
+            <formats>
+              <format id="17">
+                <description>MP3 320</description>
+              </format>
+            </formats>
+          </package>
+        </packages>
+      </download>
+    </release>
+    <release id="137766">
+      <title>The Grand Conjuration</title>
+      <version/>
+      <type>Single</type>
+      <barcode>016861101800</barcode>
+      <year>2005</year>
+      <explicitContent>false</explicitContent>
+      <artist id="8576">
+        <name>Opeth</name>
+        <appearsAs>Opeth</appearsAs>
+        <url>http://www.7digital.com/artist/opeth/?partner=712</url>
+      </artist>
+      <url>http://www.7digital.com/artist/opeth/release/the-grand-conjuration/?partner=712</url>
+      <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/001/377/0000137766_50.jpg</image>
+      <releaseDate>2007-03-06T00:00:00Z</releaseDate>
+      <addedDate>2008-10-16T22:25:21.67Z</addedDate>
+      <price>
+        <currency code="GBP">£</currency>
+        <value>0.99</value>
+        <formattedPrice>£0.99</formattedPrice>
+        <rrp>0.99</rrp>
+        <formattedRrp>£0.99</formattedRrp>
+        <onSale>false</onSale>
+      </price>
+      <formats availableDrmFree="true">
+        <format id="48">
+          <fileFormat>MP3</fileFormat>
+          <bitRate>256</bitRate>
+          <drmFree>true</drmFree>
+        </format>
+      </formats>
+      <label id="973">
+        <name>Roadrunner Records</name>
+      </label>
+      <licensor id="18">
+        <name>Warner</name>
+      </licensor>
+      <popularity>0</popularity>
+      <streamingReleaseDate>2007-03-06T00:00:00Z</streamingReleaseDate>
+      <duration>303</duration>
+      <trackCount>1</trackCount>
+      <download>
+        <packages>
+          <package id="2">
+            <description>standard</description>
+            <price>
+              <currencyCode>GBP</currencyCode>
+              <sevendigitalPrice>0.99</sevendigitalPrice>
+              <recommendedRetailPrice>0.99</recommendedRetailPrice>
+            </price>
+            <formats>
+              <format id="48">
+                <description>MP3 256</description>
+              </format>
+            </formats>
+          </package>
+        </packages>
+      </download>
+    </release>
+    <release id="278850">
+      <title>Damnation</title>
+      <version/>
+      <type>Album</type>
+      <barcode>828768291122</barcode>
+      <year>2003</year>
+      <explicitContent>false</explicitContent>
+      <artist id="8576">
+        <name>Opeth</name>
+        <appearsAs>Opeth</appearsAs>
+        <url>http://www.7digital.com/artist/opeth/?partner=712</url>
+      </artist>
+      <url>http://www.7digital.com/artist/opeth/release/damnation/?partner=712</url>
+      <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/002/788/0000278850_50.jpg</image>
+      <releaseDate>2006-06-03T00:00:00Z</releaseDate>
+      <addedDate>2008-09-15T19:10:04.607Z</addedDate>
+      <price>
+        <currency code="GBP">£</currency>
+        <value>4.49</value>
+        <formattedPrice>£4.49</formattedPrice>
+        <rrp>4.49</rrp>
+        <formattedRrp>£4.49</formattedRrp>
+        <onSale>false</onSale>
+      </price>
+      <formats availableDrmFree="true">
+        <format id="17">
+          <fileFormat>MP3</fileFormat>
+          <bitRate>320</bitRate>
+          <drmFree>true</drmFree>
+        </format>
+        <format id="33">
+          <fileFormat>M4A</fileFormat>
+          <bitRate>320</bitRate>
+          <drmFree>true</drmFree>
+        </format>
+      </formats>
+      <label id="1036">
+        <name>Sony BMG Music Entertainment</name>
+      </label>
+      <licensor id="2">
+        <name>Sony Music</name>
+      </licensor>
+      <popularity>0</popularity>
+      <streamingReleaseDate>2006-06-03T00:00:00Z</streamingReleaseDate>
+      <duration>2599</duration>
+      <trackCount>8</trackCount>
+      <download>
+        <packages>
+          <package id="9">
+            <description>premium</description>
+            <price>
+              <currencyCode>GBP</currencyCode>
+              <sevendigitalPrice>5.49</sevendigitalPrice>
+              <recommendedRetailPrice>5.49</recommendedRetailPrice>
+            </price>
+            <formats>
+              <format id="45">
+                <description>FLAC 16-bit 44.1kHz</description>
+              </format>
+            </formats>
+          </package>
+          <package id="2">
+            <description>standard</description>
+            <price>
+              <currencyCode>GBP</currencyCode>
+              <sevendigitalPrice>4.49</sevendigitalPrice>
+              <recommendedRetailPrice>4.49</recommendedRetailPrice>
+            </price>
+            <formats>
+              <format id="17">
+                <description>MP3 320</description>
+              </format>
+              <format id="33">
+                <description>AAC 320</description>
+              </format>
+            </formats>
+          </package>
+        </packages>
+      </download>
+    </release>
+    <release id="278853">
+      <title>Deliverance</title>
+      <version/>
+      <type>Album</type>
+      <barcode>828768327326</barcode>
+      <year>2002</year>
+      <explicitContent>false</explicitContent>
+      <artist id="8576">
+        <name>Opeth</name>
+        <appearsAs>Opeth</appearsAs>
+        <url>http://www.7digital.com/artist/opeth/?partner=712</url>
+      </artist>
+      <url>http://www.7digital.com/artist/opeth/release/deliverance/?partner=712</url>
+      <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/002/788/0000278853_50.jpg</image>
+      <releaseDate>2006-06-03T00:00:00Z</releaseDate>
+      <addedDate>2008-09-15T19:10:04.623Z</addedDate>
+      <price>
+        <currency code="GBP">£</currency>
+        <value>4.49</value>
+        <formattedPrice>£4.49</formattedPrice>
+        <rrp>4.49</rrp>
+        <formattedRrp>£4.49</formattedRrp>
+        <onSale>false</onSale>
+      </price>
+      <formats availableDrmFree="true">
+        <format id="17">
+          <fileFormat>MP3</fileFormat>
+          <bitRate>320</bitRate>
+          <drmFree>true</drmFree>
+        </format>
+        <format id="33">
+          <fileFormat>M4A</fileFormat>
+          <bitRate>320</bitRate>
+          <drmFree>true</drmFree>
+        </format>
+      </formats>
+      <label id="1036">
+        <name>Sony BMG Music Entertainment</name>
+      </label>
+      <licensor id="2">
+        <name>Sony Music</name>
+      </licensor>
+      <popularity>0</popularity>
+      <streamingReleaseDate>2006-06-03T00:00:00Z</streamingReleaseDate>
+      <duration>3705</duration>
+      <trackCount>6</trackCount>
+      <download>
+        <packages>
+          <package id="9">
+            <description>premium</description>
+            <price>
+              <currencyCode>GBP</currencyCode>
+              <sevendigitalPrice>5.49</sevendigitalPrice>
+              <recommendedRetailPrice>5.49</recommendedRetailPrice>
+            </price>
+            <formats>
+              <format id="45">
+                <description>FLAC 16-bit 44.1kHz</description>
+              </format>
+            </formats>
+          </package>
+          <package id="2">
+            <description>standard</description>
+            <price>
+              <currencyCode>GBP</currencyCode>
+              <sevendigitalPrice>4.49</sevendigitalPrice>
+              <recommendedRetailPrice>4.49</recommendedRetailPrice>
+            </price>
+            <formats>
+              <format id="17">
+                <description>MP3 320</description>
+              </format>
+              <format id="33">
+                <description>AAC 320</description>
+              </format>
+            </formats>
+          </package>
+        </packages>
+      </download>
+    </release>
+    <release id="278852">
+      <title>Blackwater Park</title>
+      <version/>
+      <type>Album</type>
+      <barcode>828768291221</barcode>
+      <year>2001</year>
+      <explicitContent>false</explicitContent>
+      <artist id="8576">
+        <name>Opeth</name>
+        <appearsAs>Opeth</appearsAs>
+        <url>http://www.7digital.com/artist/opeth/?partner=712</url>
+      </artist>
+      <url>http://www.7digital.com/artist/opeth/release/blackwater-park/?partner=712</url>
+      <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/002/788/0000278852_50.jpg</image>
+      <releaseDate>2006-06-03T00:00:00Z</releaseDate>
+      <addedDate>2008-09-15T19:10:04.607Z</addedDate>
+      <price>
+        <currency code="GBP">£</currency>
+        <value>4.49</value>
+        <formattedPrice>£4.49</formattedPrice>
+        <rrp>4.49</rrp>
+        <formattedRrp>£4.49</formattedRrp>
+        <onSale>false</onSale>
+      </price>
+      <formats availableDrmFree="true">
+        <format id="17">
+          <fileFormat>MP3</fileFormat>
+          <bitRate>320</bitRate>
+          <drmFree>true</drmFree>
+        </format>
+        <format id="33">
+          <fileFormat>M4A</fileFormat>
+          <bitRate>320</bitRate>
+          <drmFree>true</drmFree>
+        </format>
+      </formats>
+      <label id="1036">
+        <name>Sony BMG Music Entertainment</name>
+      </label>
+      <licensor id="2">
+        <name>Sony Music</name>
+      </licensor>
+      <popularity>0</popularity>
+      <streamingReleaseDate>2006-06-03T00:00:00Z</streamingReleaseDate>
+      <duration>4029</duration>
+      <trackCount>8</trackCount>
+      <download>
+        <packages>
+          <package id="2">
+            <description>standard</description>
+            <price>
+              <currencyCode>GBP</currencyCode>
+              <sevendigitalPrice>4.49</sevendigitalPrice>
+              <recommendedRetailPrice>4.49</recommendedRetailPrice>
+            </price>
+            <formats>
+              <format id="17">
+                <description>MP3 320</description>
+              </format>
+              <format id="33">
+                <description>AAC 320</description>
+              </format>
+            </formats>
+          </package>
+          <package id="9">
+            <description>premium</description>
+            <price>
+              <currencyCode>GBP</currencyCode>
+              <sevendigitalPrice>5.49</sevendigitalPrice>
+              <recommendedRetailPrice>5.49</recommendedRetailPrice>
+            </price>
+            <formats>
+              <format id="45">
+                <description>FLAC 16-bit 44.1kHz</description>
+              </format>
+            </formats>
+          </package>
+        </packages>
+      </download>
+    </release>
+    <release id="1441080">
+      <title>Still Life</title>
+      <version/>
+      <type>Album</type>
+      <barcode>0801056707826</barcode>
+      <year>1999</year>
+      <explicitContent>false</explicitContent>
+      <artist id="8576">
+        <name>Opeth</name>
+        <appearsAs>Opeth</appearsAs>
+        <url>http://www.7digital.com/artist/opeth/?partner=712</url>
+      </artist>
+      <url>http://www.7digital.com/artist/opeth/release/still-life-4/?partner=712</url>
+      <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/014/410/0001441080_50.jpg</image>
+      <releaseDate>2003-01-01T00:00:00Z</releaseDate>
+      <addedDate>2011-11-07T12:37:21.083Z</addedDate>
+      <price>
+        <currency code="GBP">£</currency>
+        <value>4.99</value>
+        <formattedPrice>£4.99</formattedPrice>
+        <rrp>4.99</rrp>
+        <formattedRrp>£4.99</formattedRrp>
+        <onSale>false</onSale>
+      </price>
+      <formats availableDrmFree="true">
+        <format id="17">
+          <fileFormat>MP3</fileFormat>
+          <bitRate>320</bitRate>
+          <drmFree>true</drmFree>
+        </format>
+        <format id="33">
+          <fileFormat>M4A</fileFormat>
+          <bitRate>320</bitRate>
+          <drmFree>true</drmFree>
+        </format>
+      </formats>
+      <label id="3665">
+        <name>Peaceville Records</name>
+      </label>
+      <licensor id="336">
+        <name>Essential Music and Marketing Ltd</name>
+      </licensor>
+      <popularity>0</popularity>
+      <streamingReleaseDate>2003-01-01T00:00:00Z</streamingReleaseDate>
+      <duration>3746</duration>
+      <trackCount>7</trackCount>
+      <download>
+        <packages>
+          <package id="2">
+            <description>standard</description>
+            <price>
+              <currencyCode>GBP</currencyCode>
+              <sevendigitalPrice>4.99</sevendigitalPrice>
+              <recommendedRetailPrice>4.99</recommendedRetailPrice>
+            </price>
+            <formats>
+              <format id="17">
+                <description>MP3 320</description>
+              </format>
+              <format id="33">
+                <description>AAC 320</description>
+              </format>
+            </formats>
+          </package>
+        </packages>
+      </download>
+    </release>
+    <release id="2072779">
+      <title>Still Life (Remastered Edition)</title>
+      <version/>
+      <type>Album</type>
+      <barcode>0801056818324</barcode>
+      <year>1999</year>
+      <explicitContent>false</explicitContent>
+      <artist id="8576">
+        <name>Opeth</name>
+        <appearsAs>Opeth</appearsAs>
+        <url>http://www.7digital.com/artist/opeth/?partner=712</url>
+      </artist>
+      <url>http://www.7digital.com/artist/opeth/release/still-life-remastered-edition-1/?partner=712</url>
+      <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/020/727/0002072779_50.jpg</image>
+      <releaseDate>2012-12-11T00:00:00Z</releaseDate>
+      <addedDate>2012-12-17T00:45:06.627Z</addedDate>
+      <price>
+        <currency code="GBP">£</currency>
+        <value>6.93</value>
+        <formattedPrice>£6.93</formattedPrice>
+        <rrp>6.93</rrp>
+        <formattedRrp>£6.93</formattedRrp>
+        <onSale>false</onSale>
+      </price>
+      <formats availableDrmFree="true">
+        <format id="17">
+          <fileFormat>MP3</fileFormat>
+          <bitRate>320</bitRate>
+          <drmFree>true</drmFree>
+        </format>
+        <format id="33">
+          <fileFormat>M4A</fileFormat>
+          <bitRate>320</bitRate>
+          <drmFree>true</drmFree>
+        </format>
+      </formats>
+      <label id="3665">
+        <name>Peaceville Records</name>
+      </label>
+      <licensor id="336">
+        <name>Essential Music and Marketing Ltd</name>
+      </licensor>
+      <popularity>0</popularity>
+      <streamingReleaseDate>2012-12-11T00:00:00Z</streamingReleaseDate>
+      <duration>3749</duration>
+      <trackCount>7</trackCount>
+      <download>
+        <packages>
+          <package id="2">
+            <description>standard</description>
+            <price>
+              <currencyCode>GBP</currencyCode>
+              <sevendigitalPrice>6.93</sevendigitalPrice>
+              <recommendedRetailPrice>6.93</recommendedRetailPrice>
+            </price>
+            <formats>
+              <format id="17">
+                <description>MP3 320</description>
+              </format>
+              <format id="33">
+                <description>AAC 320</description>
+              </format>
+            </formats>
+          </package>
+        </packages>
+      </download>
+    </release>
+  </releases>
+</response>

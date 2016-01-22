@@ -1,219 +1,219 @@
 <?xml version="1.0" encoding="utf-8"?>
 <response xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" status="ok" version="1.2" xsi:noNamespaceSchemaLocation="http://api.7digital.com/1.2/static/7digitalAPI.xsd">
-	<taggedResults>
-		<page>1</page>
-		<pageSize>10</pageSize>
-		<totalItems>88757</totalItems>
-		<type>release</type>
-		<taggedItem>
-			<release id="1347417">
-				<title>7digital Essential: Jazz</title>
-				<version/>
-				<type>Album</type>
-				<barcode>3700551721191</barcode>
-				<year>2011</year>
-				<explicitContent>false</explicitContent>
-				<artist id="209">
-					<name>Various Artists</name>
-					<appearsAs>Various Artists</appearsAs>
-					<url>http://www.7digital.com/artist/various-artists/?partner=1401</url>
-				</artist>
-				<url>http://www.7digital.com/artist/various-artists/release/7digital-essential-jazz/?partner=1401</url>
-				<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/013/474/0001347417_50.jpg</image>
-				<releaseDate>2011-07-18T00:00:00+01:00</releaseDate>
-				<addedDate>2011-08-16T17:36:31+01:00</addedDate>
-				<popularity>0.64</popularity>
-				<streamingReleaseDate>3001-01-01T00:00:00+00:00</streamingReleaseDate>
-			</release>
-		</taggedItem>
-		<taggedItem>
-			<release id="1259579">
-				<title>Relaxing Summer Chill, Vol. 3</title>
-				<version/>
-				<type>Album</type>
-				<barcode>3661585891116</barcode>
-				<year>2011</year>
-				<explicitContent>false</explicitContent>
-				<artist id="209">
-					<name>Various Artists</name>
-					<appearsAs>Various Artists</appearsAs>
-					<url>http://www.7digital.com/artist/various-artists/?partner=1401</url>
-				</artist>
-				<url>http://www.7digital.com/artist/various-artists/release/relaxing-summer-chill-vol-3/?partner=1401</url>
-				<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/012/595/0001259579_50.jpg</image>
-				<releaseDate>2011-07-14T00:00:00+01:00</releaseDate>
-				<addedDate>2011-06-03T15:11:09+01:00</addedDate>
-				<popularity>0.62</popularity>
-				<streamingReleaseDate>2011-07-14T00:00:00+01:00</streamingReleaseDate>
-			</release>
-		</taggedItem>
-		<taggedItem>
-			<release id="1347421">
-				<title>7digital Essential: Blues</title>
-				<version/>
-				<type>Album</type>
-				<barcode>3700551721238</barcode>
-				<year>2011</year>
-				<explicitContent>false</explicitContent>
-				<artist id="209">
-					<name>Various Artists</name>
-					<appearsAs>Various Artists</appearsAs>
-					<url>http://www.7digital.com/artist/various-artists/?partner=1401</url>
-				</artist>
-				<url>http://www.7digital.com/artist/various-artists/release/7digital-essential-blues/?partner=1401</url>
-				<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/013/474/0001347421_50.jpg</image>
-				<releaseDate>2011-07-18T00:00:00+01:00</releaseDate>
-				<addedDate>2011-08-16T17:36:30+01:00</addedDate>
-				<popularity>0.61</popularity>
-				<streamingReleaseDate>3001-01-01T00:00:00+00:00</streamingReleaseDate>
-			</release>
-		</taggedItem>
-		<taggedItem>
-			<release id="1347419">
-				<title>7digital Essential: Miles Davis</title>
-				<version/>
-				<type>Album</type>
-				<barcode>3700551721214</barcode>
-				<year>2011</year>
-				<explicitContent>false</explicitContent>
-				<artist id="363">
-					<name>Miles Davis</name>
-					<appearsAs>Miles Davis</appearsAs>
-					<url>http://www.7digital.com/artist/miles-davis/?partner=1401</url>
-				</artist>
-				<url>http://www.7digital.com/artist/miles-davis/release/7digital-essential-miles-davis/?partner=1401</url>
-				<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/013/474/0001347419_50.jpg</image>
-				<releaseDate>2011-07-18T00:00:00+01:00</releaseDate>
-				<addedDate>2011-08-16T17:36:28+01:00</addedDate>
-				<popularity>0.58</popularity>
-				<streamingReleaseDate>3001-01-01T00:00:00+00:00</streamingReleaseDate>
-			</release>
-		</taggedItem>
-		<taggedItem>
-			<release id="1347418">
-				<title>7digital Essential: Louis Armstrong</title>
-				<version/>
-				<type>Album</type>
-				<barcode>3700551721207</barcode>
-				<year>2011</year>
-				<explicitContent>false</explicitContent>
-				<artist id="3792">
-					<name>Louis Armstrong</name>
-					<appearsAs>Louis Armstrong </appearsAs>
-					<url>http://www.7digital.com/artist/louis-armstrong-(3)/?partner=1401</url>
-				</artist>
-				<url>http://www.7digital.com/artist/louis-armstrong-(3)/release/7digital-essential-louis-armstrong/?partner=1401</url>
-				<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/013/474/0001347418_50.jpg</image>
-				<releaseDate>2011-07-18T00:00:00+01:00</releaseDate>
-				<addedDate>2011-08-16T17:36:27+01:00</addedDate>
-				<popularity>0.58</popularity>
-				<streamingReleaseDate>3001-01-01T00:00:00+00:00</streamingReleaseDate>
-			</release>
-		</taggedItem>
-		<taggedItem>
-			<release id="325321">
-				<title>Love Tattoo</title>
-				<version/>
-				<type>Album</type>
-				<barcode>00602517905610</barcode>
-				<year>2009</year>
-				<explicitContent>false</explicitContent>
-				<artist id="253538">
-					<name>Imelda May</name>
-					<appearsAs>Imelda May</appearsAs>
-					<url>http://www.7digital.com/artist/imelda-may/?partner=1401</url>
-				</artist>
-				<url>http://www.7digital.com/artist/imelda-may/release/love-tattoo/?partner=1401</url>
-				<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/003/253/0000325321_50.jpg</image>
-				<releaseDate>2009-03-02T00:00:00+00:00</releaseDate>
-				<addedDate>2008-10-15T16:13:40+01:00</addedDate>
-				<popularity>0.57</popularity>
-				<streamingReleaseDate>2009-03-02T00:00:00+00:00</streamingReleaseDate>
-			</release>
-		</taggedItem>
-		<taggedItem>
-			<release id="1654638">
-				<title>Smooth And Sexy; Smooth Jazz For Lovers!</title>
-				<version/>
-				<type>Album</type>
-				<barcode>016351519429</barcode>
-				<year>2012</year>
-				<explicitContent>false</explicitContent>
-				<artist id="209">
-					<name>Various Artists</name>
-					<appearsAs>Various Artists</appearsAs>
-					<url>http://www.7digital.com/artist/various-artists/?partner=1401</url>
-				</artist>
-				<url>http://www.7digital.com/artist/various-artists/release/smooth-and-sexy-smooth-jazz-for-lovers/?partner=1401</url>
-				<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/016/546/0001654638_50.jpg</image>
-				<releaseDate>2012-04-10T00:00:00+01:00</releaseDate>
-				<addedDate>2012-03-30T15:17:28+01:00</addedDate>
-				<popularity>0.56</popularity>
-				<streamingReleaseDate>2012-04-10T00:00:00+01:00</streamingReleaseDate>
-			</release>
-		</taggedItem>
-		<taggedItem>
-			<release id="1763541">
-				<title>Now That's What I Call Reggae</title>
-				<version/>
-				<type>Album</type>
-				<barcode>00600753392485</barcode>
-				<year>2012</year>
-				<explicitContent>false</explicitContent>
-				<artist id="209">
-					<name>Various Artists</name>
-					<appearsAs>Various Artists</appearsAs>
-					<url>http://www.7digital.com/artist/various-artists/?partner=1401</url>
-				</artist>
-				<url>http://www.7digital.com/artist/various-artists/release/now-thats-what-i-call-reggae/?partner=1401</url>
-				<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/017/635/0001763541_50.jpg</image>
-				<releaseDate>2012-06-25T00:00:00+01:00</releaseDate>
-				<addedDate>2012-06-18T01:27:29+01:00</addedDate>
-				<popularity>0.55</popularity>
-				<streamingReleaseDate>2012-06-25T00:00:00+01:00</streamingReleaseDate>
-			</release>
-		</taggedItem>
-		<taggedItem>
-			<release id="325079">
-				<title>Feeling Good Hit Pack</title>
-				<version/>
-				<type>Single</type>
-				<barcode>00602517361737</barcode>
-				<year>2007</year>
-				<explicitContent>false</explicitContent>
-				<artist id="459">
-					<name>Nina Simone</name>
-					<appearsAs>Nina Simone</appearsAs>
-					<url>http://www.7digital.com/artist/nina-simone/?partner=1401</url>
-				</artist>
-				<url>http://www.7digital.com/artist/nina-simone/release/feeling-good-hit-pack/?partner=1401</url>
-				<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/003/250/0000325079_50.jpg</image>
-				<releaseDate>2007-12-24T00:00:00+00:00</releaseDate>
-				<addedDate>2010-05-24T15:16:49+01:00</addedDate>
-				<popularity>0.55</popularity>
-				<streamingReleaseDate>3001-01-01T00:00:00+00:00</streamingReleaseDate>
-			</release>
-		</taggedItem>
-		<taggedItem>
-			<release id="1654435">
-				<title>The Kyteman Orchestra</title>
-				<version/>
-				<type>Album</type>
-				<barcode>8714835093763</barcode>
-				<year>2012</year>
-				<explicitContent>false</explicitContent>
-				<artist id="1253892">
-					<name>The Kyteman Orchestra</name>
-					<appearsAs>Kyteman Orchestra, The</appearsAs>
-					<url>http://www.7digital.com/artist/the-kyteman-orchestra/?partner=1401</url>
-				</artist>
-				<url>http://www.7digital.com/artist/the-kyteman-orchestra/release/the-kyteman-orchestra/?partner=1401</url>
-				<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/016/544/0001654435_50.jpg</image>
-				<releaseDate>2012-03-29T00:00:00+01:00</releaseDate>
-				<addedDate>2012-04-02T15:27:09+01:00</addedDate>
-				<popularity>0.55</popularity>
-				<streamingReleaseDate>3001-01-01T00:00:00+00:00</streamingReleaseDate>
-			</release>
-		</taggedItem>
-	</taggedResults>
+  <taggedResults>
+    <page>1</page>
+    <pageSize>10</pageSize>
+    <totalItems>88757</totalItems>
+    <type>release</type>
+    <taggedItem>
+      <release id="1347417">
+        <title>7digital Essential: Jazz</title>
+        <version/>
+        <type>Album</type>
+        <barcode>3700551721191</barcode>
+        <year>2011</year>
+        <explicitContent>false</explicitContent>
+        <artist id="209">
+          <name>Various Artists</name>
+          <appearsAs>Various Artists</appearsAs>
+          <url>http://www.7digital.com/artist/various-artists/?partner=1401</url>
+        </artist>
+        <url>http://www.7digital.com/artist/various-artists/release/7digital-essential-jazz/?partner=1401</url>
+        <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/013/474/0001347417_50.jpg</image>
+        <releaseDate>2011-07-18T00:00:00+01:00</releaseDate>
+        <addedDate>2011-08-16T17:36:31+01:00</addedDate>
+        <popularity>0.64</popularity>
+        <streamingReleaseDate>3001-01-01T00:00:00+00:00</streamingReleaseDate>
+      </release>
+    </taggedItem>
+    <taggedItem>
+      <release id="1259579">
+        <title>Relaxing Summer Chill, Vol. 3</title>
+        <version/>
+        <type>Album</type>
+        <barcode>3661585891116</barcode>
+        <year>2011</year>
+        <explicitContent>false</explicitContent>
+        <artist id="209">
+          <name>Various Artists</name>
+          <appearsAs>Various Artists</appearsAs>
+          <url>http://www.7digital.com/artist/various-artists/?partner=1401</url>
+        </artist>
+        <url>http://www.7digital.com/artist/various-artists/release/relaxing-summer-chill-vol-3/?partner=1401</url>
+        <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/012/595/0001259579_50.jpg</image>
+        <releaseDate>2011-07-14T00:00:00+01:00</releaseDate>
+        <addedDate>2011-06-03T15:11:09+01:00</addedDate>
+        <popularity>0.62</popularity>
+        <streamingReleaseDate>2011-07-14T00:00:00+01:00</streamingReleaseDate>
+      </release>
+    </taggedItem>
+    <taggedItem>
+      <release id="1347421">
+        <title>7digital Essential: Blues</title>
+        <version/>
+        <type>Album</type>
+        <barcode>3700551721238</barcode>
+        <year>2011</year>
+        <explicitContent>false</explicitContent>
+        <artist id="209">
+          <name>Various Artists</name>
+          <appearsAs>Various Artists</appearsAs>
+          <url>http://www.7digital.com/artist/various-artists/?partner=1401</url>
+        </artist>
+        <url>http://www.7digital.com/artist/various-artists/release/7digital-essential-blues/?partner=1401</url>
+        <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/013/474/0001347421_50.jpg</image>
+        <releaseDate>2011-07-18T00:00:00+01:00</releaseDate>
+        <addedDate>2011-08-16T17:36:30+01:00</addedDate>
+        <popularity>0.61</popularity>
+        <streamingReleaseDate>3001-01-01T00:00:00+00:00</streamingReleaseDate>
+      </release>
+    </taggedItem>
+    <taggedItem>
+      <release id="1347419">
+        <title>7digital Essential: Miles Davis</title>
+        <version/>
+        <type>Album</type>
+        <barcode>3700551721214</barcode>
+        <year>2011</year>
+        <explicitContent>false</explicitContent>
+        <artist id="363">
+          <name>Miles Davis</name>
+          <appearsAs>Miles Davis</appearsAs>
+          <url>http://www.7digital.com/artist/miles-davis/?partner=1401</url>
+        </artist>
+        <url>http://www.7digital.com/artist/miles-davis/release/7digital-essential-miles-davis/?partner=1401</url>
+        <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/013/474/0001347419_50.jpg</image>
+        <releaseDate>2011-07-18T00:00:00+01:00</releaseDate>
+        <addedDate>2011-08-16T17:36:28+01:00</addedDate>
+        <popularity>0.58</popularity>
+        <streamingReleaseDate>3001-01-01T00:00:00+00:00</streamingReleaseDate>
+      </release>
+    </taggedItem>
+    <taggedItem>
+      <release id="1347418">
+        <title>7digital Essential: Louis Armstrong</title>
+        <version/>
+        <type>Album</type>
+        <barcode>3700551721207</barcode>
+        <year>2011</year>
+        <explicitContent>false</explicitContent>
+        <artist id="3792">
+          <name>Louis Armstrong</name>
+          <appearsAs>Louis Armstrong </appearsAs>
+          <url>http://www.7digital.com/artist/louis-armstrong-(3)/?partner=1401</url>
+        </artist>
+        <url>http://www.7digital.com/artist/louis-armstrong-(3)/release/7digital-essential-louis-armstrong/?partner=1401</url>
+        <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/013/474/0001347418_50.jpg</image>
+        <releaseDate>2011-07-18T00:00:00+01:00</releaseDate>
+        <addedDate>2011-08-16T17:36:27+01:00</addedDate>
+        <popularity>0.58</popularity>
+        <streamingReleaseDate>3001-01-01T00:00:00+00:00</streamingReleaseDate>
+      </release>
+    </taggedItem>
+    <taggedItem>
+      <release id="325321">
+        <title>Love Tattoo</title>
+        <version/>
+        <type>Album</type>
+        <barcode>00602517905610</barcode>
+        <year>2009</year>
+        <explicitContent>false</explicitContent>
+        <artist id="253538">
+          <name>Imelda May</name>
+          <appearsAs>Imelda May</appearsAs>
+          <url>http://www.7digital.com/artist/imelda-may/?partner=1401</url>
+        </artist>
+        <url>http://www.7digital.com/artist/imelda-may/release/love-tattoo/?partner=1401</url>
+        <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/003/253/0000325321_50.jpg</image>
+        <releaseDate>2009-03-02T00:00:00+00:00</releaseDate>
+        <addedDate>2008-10-15T16:13:40+01:00</addedDate>
+        <popularity>0.57</popularity>
+        <streamingReleaseDate>2009-03-02T00:00:00+00:00</streamingReleaseDate>
+      </release>
+    </taggedItem>
+    <taggedItem>
+      <release id="1654638">
+        <title>Smooth And Sexy; Smooth Jazz For Lovers!</title>
+        <version/>
+        <type>Album</type>
+        <barcode>016351519429</barcode>
+        <year>2012</year>
+        <explicitContent>false</explicitContent>
+        <artist id="209">
+          <name>Various Artists</name>
+          <appearsAs>Various Artists</appearsAs>
+          <url>http://www.7digital.com/artist/various-artists/?partner=1401</url>
+        </artist>
+        <url>http://www.7digital.com/artist/various-artists/release/smooth-and-sexy-smooth-jazz-for-lovers/?partner=1401</url>
+        <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/016/546/0001654638_50.jpg</image>
+        <releaseDate>2012-04-10T00:00:00+01:00</releaseDate>
+        <addedDate>2012-03-30T15:17:28+01:00</addedDate>
+        <popularity>0.56</popularity>
+        <streamingReleaseDate>2012-04-10T00:00:00+01:00</streamingReleaseDate>
+      </release>
+    </taggedItem>
+    <taggedItem>
+      <release id="1763541">
+        <title>Now That's What I Call Reggae</title>
+        <version/>
+        <type>Album</type>
+        <barcode>00600753392485</barcode>
+        <year>2012</year>
+        <explicitContent>false</explicitContent>
+        <artist id="209">
+          <name>Various Artists</name>
+          <appearsAs>Various Artists</appearsAs>
+          <url>http://www.7digital.com/artist/various-artists/?partner=1401</url>
+        </artist>
+        <url>http://www.7digital.com/artist/various-artists/release/now-thats-what-i-call-reggae/?partner=1401</url>
+        <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/017/635/0001763541_50.jpg</image>
+        <releaseDate>2012-06-25T00:00:00+01:00</releaseDate>
+        <addedDate>2012-06-18T01:27:29+01:00</addedDate>
+        <popularity>0.55</popularity>
+        <streamingReleaseDate>2012-06-25T00:00:00+01:00</streamingReleaseDate>
+      </release>
+    </taggedItem>
+    <taggedItem>
+      <release id="325079">
+        <title>Feeling Good Hit Pack</title>
+        <version/>
+        <type>Single</type>
+        <barcode>00602517361737</barcode>
+        <year>2007</year>
+        <explicitContent>false</explicitContent>
+        <artist id="459">
+          <name>Nina Simone</name>
+          <appearsAs>Nina Simone</appearsAs>
+          <url>http://www.7digital.com/artist/nina-simone/?partner=1401</url>
+        </artist>
+        <url>http://www.7digital.com/artist/nina-simone/release/feeling-good-hit-pack/?partner=1401</url>
+        <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/003/250/0000325079_50.jpg</image>
+        <releaseDate>2007-12-24T00:00:00+00:00</releaseDate>
+        <addedDate>2010-05-24T15:16:49+01:00</addedDate>
+        <popularity>0.55</popularity>
+        <streamingReleaseDate>3001-01-01T00:00:00+00:00</streamingReleaseDate>
+      </release>
+    </taggedItem>
+    <taggedItem>
+      <release id="1654435">
+        <title>The Kyteman Orchestra</title>
+        <version/>
+        <type>Album</type>
+        <barcode>8714835093763</barcode>
+        <year>2012</year>
+        <explicitContent>false</explicitContent>
+        <artist id="1253892">
+          <name>The Kyteman Orchestra</name>
+          <appearsAs>Kyteman Orchestra, The</appearsAs>
+          <url>http://www.7digital.com/artist/the-kyteman-orchestra/?partner=1401</url>
+        </artist>
+        <url>http://www.7digital.com/artist/the-kyteman-orchestra/release/the-kyteman-orchestra/?partner=1401</url>
+        <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/016/544/0001654435_50.jpg</image>
+        <releaseDate>2012-03-29T00:00:00+01:00</releaseDate>
+        <addedDate>2012-04-02T15:27:09+01:00</addedDate>
+        <popularity>0.55</popularity>
+        <streamingReleaseDate>3001-01-01T00:00:00+00:00</streamingReleaseDate>
+      </release>
+    </taggedItem>
+  </taggedResults>
 </response>

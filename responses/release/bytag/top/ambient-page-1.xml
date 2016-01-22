@@ -1,219 +1,219 @@
 <?xml version="1.0" encoding="utf-8"?>
 <response xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" status="ok" version="1.2" xsi:noNamespaceSchemaLocation="http://api.7digital.com/1.2/static/7digitalAPI.xsd">
-	<taggedResults>
-		<page>1</page>
-		<pageSize>10</pageSize>
-		<totalItems>7521</totalItems>
-		<type>release</type>
-		<taggedItem>
-			<release id="1259579">
-				<title>Relaxing Summer Chill, Vol. 3</title>
-				<version/>
-				<type>Album</type>
-				<barcode>3661585891116</barcode>
-				<year>2011</year>
-				<explicitContent>false</explicitContent>
-				<artist id="209">
-					<name>Various Artists</name>
-					<appearsAs>Various Artists</appearsAs>
-					<url>http://www.7digital.com/artist/various-artists/?partner=1401</url>
-				</artist>
-				<url>http://www.7digital.com/artist/various-artists/release/relaxing-summer-chill-vol-3/?partner=1401</url>
-				<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/012/595/0001259579_50.jpg</image>
-				<releaseDate>2011-07-14T00:00:00+01:00</releaseDate>
-				<addedDate>2011-06-03T15:11:09+01:00</addedDate>
-				<popularity>0.62</popularity>
-				<streamingReleaseDate>2011-07-14T00:00:00+01:00</streamingReleaseDate>
-			</release>
-		</taggedItem>
-		<taggedItem>
-			<release id="1221510">
-				<title>50 Chill &amp; Nu-Lounge Experience (Red Edition)</title>
-				<version/>
-				<type>Album</type>
-				<barcode>3661585826576</barcode>
-				<year>2011</year>
-				<explicitContent>false</explicitContent>
-				<artist id="209">
-					<name>Various Artists</name>
-					<appearsAs>Various Artists</appearsAs>
-					<url>http://www.7digital.com/artist/various-artists/?partner=1401</url>
-				</artist>
-				<url>http://www.7digital.com/artist/various-artists/release/50-chill-and-nu-lounge-experience-red-edition/?partner=1401</url>
-				<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/012/215/0001221510_50.jpg</image>
-				<releaseDate>2011-04-29T00:00:00+01:00</releaseDate>
-				<addedDate>2011-04-15T17:09:27+01:00</addedDate>
-				<popularity>0.53</popularity>
-				<streamingReleaseDate>2011-04-29T00:00:00+01:00</streamingReleaseDate>
-			</release>
-		</taggedItem>
-		<taggedItem>
-			<release id="1160096">
-				<title>Music to Make Love (50 Sensual Tracks)</title>
-				<version/>
-				<type>Album</type>
-				<barcode>3661585727651</barcode>
-				<year>2011</year>
-				<explicitContent>false</explicitContent>
-				<artist id="209">
-					<name>Various Artists</name>
-					<appearsAs>Various Artists</appearsAs>
-					<url>http://www.7digital.com/artist/various-artists/?partner=1401</url>
-				</artist>
-				<url>http://www.7digital.com/artist/various-artists/release/music-to-make-love-50-sensual-tracks/?partner=1401</url>
-				<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/011/600/0001160096_50.jpg</image>
-				<releaseDate>2011-02-09T00:00:00+00:00</releaseDate>
-				<addedDate>2011-02-18T17:08:55+00:00</addedDate>
-				<popularity>0.52</popularity>
-				<streamingReleaseDate>2011-02-09T00:00:00+00:00</streamingReleaseDate>
-			</release>
-		</taggedItem>
-		<taggedItem>
-			<release id="1360414">
-				<title>Anti-Stress, Vol. 1</title>
-				<version/>
-				<type>Album</type>
-				<barcode>3760190790675</barcode>
-				<year>2011</year>
-				<explicitContent>false</explicitContent>
-				<artist id="209">
-					<name>Various Artists</name>
-					<appearsAs>Various Artists</appearsAs>
-					<url>http://www.7digital.com/artist/various-artists/?partner=1401</url>
-				</artist>
-				<url>http://www.7digital.com/artist/various-artists/release/anti-stress-vol-1/?partner=1401</url>
-				<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/013/604/0001360414_50.jpg</image>
-				<releaseDate>2011-09-05T00:00:00+01:00</releaseDate>
-				<addedDate>2011-08-15T10:40:15+01:00</addedDate>
-				<popularity>0.51</popularity>
-				<streamingReleaseDate>2011-09-05T00:00:00+01:00</streamingReleaseDate>
-			</release>
-		</taggedItem>
-		<taggedItem>
-			<release id="1259586">
-				<title>Relaxing Summer Chill, Vol. 2</title>
-				<version/>
-				<type>Album</type>
-				<barcode>3661585891239</barcode>
-				<year>2011</year>
-				<explicitContent>false</explicitContent>
-				<artist id="209">
-					<name>Various Artists</name>
-					<appearsAs>Various Artists</appearsAs>
-					<url>http://www.7digital.com/artist/various-artists/?partner=1401</url>
-				</artist>
-				<url>http://www.7digital.com/artist/various-artists/release/relaxing-summer-chill-vol-2/?partner=1401</url>
-				<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/012/595/0001259586_50.jpg</image>
-				<releaseDate>2011-06-20T00:00:00+01:00</releaseDate>
-				<addedDate>2011-06-03T15:11:08+01:00</addedDate>
-				<popularity>0.51</popularity>
-				<streamingReleaseDate>2011-06-20T00:00:00+01:00</streamingReleaseDate>
-			</release>
-		</taggedItem>
-		<taggedItem>
-			<release id="15901">
-				<title>Antarctica</title>
-				<version>Ost</version>
-				<type>Album</type>
-				<barcode>00042281573224</barcode>
-				<year>1996</year>
-				<explicitContent>false</explicitContent>
-				<artist id="6309">
-					<name>Vangelis</name>
-					<appearsAs>Vangelis</appearsAs>
-					<url>http://www.7digital.com/artist/vangelis/?partner=1401</url>
-				</artist>
-				<url>http://www.7digital.com/artist/vangelis/release/antarctica-ost-1/?partner=1401</url>
-				<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/000/159/0000015901_50.jpg</image>
-				<releaseDate>1996-03-18T00:00:00+00:00</releaseDate>
-				<addedDate>2008-08-31T22:18:43+01:00</addedDate>
-				<popularity>0.5</popularity>
-				<streamingReleaseDate>1996-03-18T00:00:00+00:00</streamingReleaseDate>
-			</release>
-		</taggedItem>
-		<taggedItem>
-			<release id="313627">
-				<title>Seven Lives Many Faces</title>
-				<version/>
-				<type>Album</type>
-				<barcode>5099922712455</barcode>
-				<year>2008</year>
-				<explicitContent>false</explicitContent>
-				<artist id="14511">
-					<name>Enigma</name>
-					<appearsAs>Enigma</appearsAs>
-					<url>http://www.7digital.com/artist/enigma/?partner=1401</url>
-				</artist>
-				<url>http://www.7digital.com/artist/enigma/release/seven-lives-many-faces/?partner=1401</url>
-				<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/003/136/0000313627_50.jpg</image>
-				<releaseDate>2008-09-19T00:00:00+01:00</releaseDate>
-				<addedDate>2008-09-03T21:34:50+01:00</addedDate>
-				<popularity>0.49</popularity>
-				<streamingReleaseDate>2008-09-19T00:00:00+01:00</streamingReleaseDate>
-			</release>
-		</taggedItem>
-		<taggedItem>
-			<release id="1313223">
-				<title>Summer Lounge Edition</title>
-				<version/>
-				<type>Album</type>
-				<barcode>3661585938439</barcode>
-				<year>2011</year>
-				<explicitContent>false</explicitContent>
-				<artist id="209">
-					<name>Various Artists</name>
-					<appearsAs>Various Artists</appearsAs>
-					<url>http://www.7digital.com/artist/various-artists/?partner=1401</url>
-				</artist>
-				<url>http://www.7digital.com/artist/various-artists/release/summer-lounge-edition/?partner=1401</url>
-				<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/013/132/0001313223_50.jpg</image>
-				<releaseDate>2011-07-07T00:00:00+01:00</releaseDate>
-				<addedDate>2011-07-11T15:18:51+01:00</addedDate>
-				<popularity>0.49</popularity>
-				<streamingReleaseDate>2011-07-07T00:00:00+01:00</streamingReleaseDate>
-			</release>
-		</taggedItem>
-		<taggedItem>
-			<release id="46965">
-				<title>Chariots Of Fire</title>
-				<version>Remastered</version>
-				<type>Album</type>
-				<barcode>00602498413982</barcode>
-				<year>2006</year>
-				<explicitContent>false</explicitContent>
-				<artist id="6309">
-					<name>Vangelis</name>
-					<appearsAs>Vangelis</appearsAs>
-					<url>http://www.7digital.com/artist/vangelis/?partner=1401</url>
-				</artist>
-				<url>http://www.7digital.com/artist/vangelis/release/chariots-of-fire-remastered/?partner=1401</url>
-				<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/000/469/0000046965_50.jpg</image>
-				<releaseDate>2006-11-06T00:00:00+00:00</releaseDate>
-				<addedDate>2008-08-31T22:19:38+01:00</addedDate>
-				<popularity>0.49</popularity>
-				<streamingReleaseDate>2006-11-06T00:00:00+00:00</streamingReleaseDate>
-			</release>
-		</taggedItem>
-		<taggedItem>
-			<release id="110390">
-				<title>Watermark</title>
-				<version/>
-				<type>Album</type>
-				<barcode>081227779863</barcode>
-				<year>2005</year>
-				<explicitContent>false</explicitContent>
-				<artist id="4099">
-					<name>Enya</name>
-					<appearsAs>Enya</appearsAs>
-					<url>http://www.7digital.com/artist/enya/?partner=1401</url>
-				</artist>
-				<url>http://www.7digital.com/artist/enya/release/watermark-2-1/?partner=1401</url>
-				<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/001/103/0000110390_50.jpg</image>
-				<releaseDate>2005-05-17T00:00:00+01:00</releaseDate>
-				<addedDate>2008-04-14T18:59:16+01:00</addedDate>
-				<popularity>0.48</popularity>
-				<streamingReleaseDate>2005-05-17T00:00:00+01:00</streamingReleaseDate>
-			</release>
-		</taggedItem>
-	</taggedResults>
+  <taggedResults>
+    <page>1</page>
+    <pageSize>10</pageSize>
+    <totalItems>7521</totalItems>
+    <type>release</type>
+    <taggedItem>
+      <release id="1259579">
+        <title>Relaxing Summer Chill, Vol. 3</title>
+        <version/>
+        <type>Album</type>
+        <barcode>3661585891116</barcode>
+        <year>2011</year>
+        <explicitContent>false</explicitContent>
+        <artist id="209">
+          <name>Various Artists</name>
+          <appearsAs>Various Artists</appearsAs>
+          <url>http://www.7digital.com/artist/various-artists/?partner=1401</url>
+        </artist>
+        <url>http://www.7digital.com/artist/various-artists/release/relaxing-summer-chill-vol-3/?partner=1401</url>
+        <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/012/595/0001259579_50.jpg</image>
+        <releaseDate>2011-07-14T00:00:00+01:00</releaseDate>
+        <addedDate>2011-06-03T15:11:09+01:00</addedDate>
+        <popularity>0.62</popularity>
+        <streamingReleaseDate>2011-07-14T00:00:00+01:00</streamingReleaseDate>
+      </release>
+    </taggedItem>
+    <taggedItem>
+      <release id="1221510">
+        <title>50 Chill &amp; Nu-Lounge Experience (Red Edition)</title>
+        <version/>
+        <type>Album</type>
+        <barcode>3661585826576</barcode>
+        <year>2011</year>
+        <explicitContent>false</explicitContent>
+        <artist id="209">
+          <name>Various Artists</name>
+          <appearsAs>Various Artists</appearsAs>
+          <url>http://www.7digital.com/artist/various-artists/?partner=1401</url>
+        </artist>
+        <url>http://www.7digital.com/artist/various-artists/release/50-chill-and-nu-lounge-experience-red-edition/?partner=1401</url>
+        <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/012/215/0001221510_50.jpg</image>
+        <releaseDate>2011-04-29T00:00:00+01:00</releaseDate>
+        <addedDate>2011-04-15T17:09:27+01:00</addedDate>
+        <popularity>0.53</popularity>
+        <streamingReleaseDate>2011-04-29T00:00:00+01:00</streamingReleaseDate>
+      </release>
+    </taggedItem>
+    <taggedItem>
+      <release id="1160096">
+        <title>Music to Make Love (50 Sensual Tracks)</title>
+        <version/>
+        <type>Album</type>
+        <barcode>3661585727651</barcode>
+        <year>2011</year>
+        <explicitContent>false</explicitContent>
+        <artist id="209">
+          <name>Various Artists</name>
+          <appearsAs>Various Artists</appearsAs>
+          <url>http://www.7digital.com/artist/various-artists/?partner=1401</url>
+        </artist>
+        <url>http://www.7digital.com/artist/various-artists/release/music-to-make-love-50-sensual-tracks/?partner=1401</url>
+        <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/011/600/0001160096_50.jpg</image>
+        <releaseDate>2011-02-09T00:00:00+00:00</releaseDate>
+        <addedDate>2011-02-18T17:08:55+00:00</addedDate>
+        <popularity>0.52</popularity>
+        <streamingReleaseDate>2011-02-09T00:00:00+00:00</streamingReleaseDate>
+      </release>
+    </taggedItem>
+    <taggedItem>
+      <release id="1360414">
+        <title>Anti-Stress, Vol. 1</title>
+        <version/>
+        <type>Album</type>
+        <barcode>3760190790675</barcode>
+        <year>2011</year>
+        <explicitContent>false</explicitContent>
+        <artist id="209">
+          <name>Various Artists</name>
+          <appearsAs>Various Artists</appearsAs>
+          <url>http://www.7digital.com/artist/various-artists/?partner=1401</url>
+        </artist>
+        <url>http://www.7digital.com/artist/various-artists/release/anti-stress-vol-1/?partner=1401</url>
+        <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/013/604/0001360414_50.jpg</image>
+        <releaseDate>2011-09-05T00:00:00+01:00</releaseDate>
+        <addedDate>2011-08-15T10:40:15+01:00</addedDate>
+        <popularity>0.51</popularity>
+        <streamingReleaseDate>2011-09-05T00:00:00+01:00</streamingReleaseDate>
+      </release>
+    </taggedItem>
+    <taggedItem>
+      <release id="1259586">
+        <title>Relaxing Summer Chill, Vol. 2</title>
+        <version/>
+        <type>Album</type>
+        <barcode>3661585891239</barcode>
+        <year>2011</year>
+        <explicitContent>false</explicitContent>
+        <artist id="209">
+          <name>Various Artists</name>
+          <appearsAs>Various Artists</appearsAs>
+          <url>http://www.7digital.com/artist/various-artists/?partner=1401</url>
+        </artist>
+        <url>http://www.7digital.com/artist/various-artists/release/relaxing-summer-chill-vol-2/?partner=1401</url>
+        <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/012/595/0001259586_50.jpg</image>
+        <releaseDate>2011-06-20T00:00:00+01:00</releaseDate>
+        <addedDate>2011-06-03T15:11:08+01:00</addedDate>
+        <popularity>0.51</popularity>
+        <streamingReleaseDate>2011-06-20T00:00:00+01:00</streamingReleaseDate>
+      </release>
+    </taggedItem>
+    <taggedItem>
+      <release id="15901">
+        <title>Antarctica</title>
+        <version>Ost</version>
+        <type>Album</type>
+        <barcode>00042281573224</barcode>
+        <year>1996</year>
+        <explicitContent>false</explicitContent>
+        <artist id="6309">
+          <name>Vangelis</name>
+          <appearsAs>Vangelis</appearsAs>
+          <url>http://www.7digital.com/artist/vangelis/?partner=1401</url>
+        </artist>
+        <url>http://www.7digital.com/artist/vangelis/release/antarctica-ost-1/?partner=1401</url>
+        <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/000/159/0000015901_50.jpg</image>
+        <releaseDate>1996-03-18T00:00:00+00:00</releaseDate>
+        <addedDate>2008-08-31T22:18:43+01:00</addedDate>
+        <popularity>0.5</popularity>
+        <streamingReleaseDate>1996-03-18T00:00:00+00:00</streamingReleaseDate>
+      </release>
+    </taggedItem>
+    <taggedItem>
+      <release id="313627">
+        <title>Seven Lives Many Faces</title>
+        <version/>
+        <type>Album</type>
+        <barcode>5099922712455</barcode>
+        <year>2008</year>
+        <explicitContent>false</explicitContent>
+        <artist id="14511">
+          <name>Enigma</name>
+          <appearsAs>Enigma</appearsAs>
+          <url>http://www.7digital.com/artist/enigma/?partner=1401</url>
+        </artist>
+        <url>http://www.7digital.com/artist/enigma/release/seven-lives-many-faces/?partner=1401</url>
+        <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/003/136/0000313627_50.jpg</image>
+        <releaseDate>2008-09-19T00:00:00+01:00</releaseDate>
+        <addedDate>2008-09-03T21:34:50+01:00</addedDate>
+        <popularity>0.49</popularity>
+        <streamingReleaseDate>2008-09-19T00:00:00+01:00</streamingReleaseDate>
+      </release>
+    </taggedItem>
+    <taggedItem>
+      <release id="1313223">
+        <title>Summer Lounge Edition</title>
+        <version/>
+        <type>Album</type>
+        <barcode>3661585938439</barcode>
+        <year>2011</year>
+        <explicitContent>false</explicitContent>
+        <artist id="209">
+          <name>Various Artists</name>
+          <appearsAs>Various Artists</appearsAs>
+          <url>http://www.7digital.com/artist/various-artists/?partner=1401</url>
+        </artist>
+        <url>http://www.7digital.com/artist/various-artists/release/summer-lounge-edition/?partner=1401</url>
+        <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/013/132/0001313223_50.jpg</image>
+        <releaseDate>2011-07-07T00:00:00+01:00</releaseDate>
+        <addedDate>2011-07-11T15:18:51+01:00</addedDate>
+        <popularity>0.49</popularity>
+        <streamingReleaseDate>2011-07-07T00:00:00+01:00</streamingReleaseDate>
+      </release>
+    </taggedItem>
+    <taggedItem>
+      <release id="46965">
+        <title>Chariots Of Fire</title>
+        <version>Remastered</version>
+        <type>Album</type>
+        <barcode>00602498413982</barcode>
+        <year>2006</year>
+        <explicitContent>false</explicitContent>
+        <artist id="6309">
+          <name>Vangelis</name>
+          <appearsAs>Vangelis</appearsAs>
+          <url>http://www.7digital.com/artist/vangelis/?partner=1401</url>
+        </artist>
+        <url>http://www.7digital.com/artist/vangelis/release/chariots-of-fire-remastered/?partner=1401</url>
+        <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/000/469/0000046965_50.jpg</image>
+        <releaseDate>2006-11-06T00:00:00+00:00</releaseDate>
+        <addedDate>2008-08-31T22:19:38+01:00</addedDate>
+        <popularity>0.49</popularity>
+        <streamingReleaseDate>2006-11-06T00:00:00+00:00</streamingReleaseDate>
+      </release>
+    </taggedItem>
+    <taggedItem>
+      <release id="110390">
+        <title>Watermark</title>
+        <version/>
+        <type>Album</type>
+        <barcode>081227779863</barcode>
+        <year>2005</year>
+        <explicitContent>false</explicitContent>
+        <artist id="4099">
+          <name>Enya</name>
+          <appearsAs>Enya</appearsAs>
+          <url>http://www.7digital.com/artist/enya/?partner=1401</url>
+        </artist>
+        <url>http://www.7digital.com/artist/enya/release/watermark-2-1/?partner=1401</url>
+        <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/001/103/0000110390_50.jpg</image>
+        <releaseDate>2005-05-17T00:00:00+01:00</releaseDate>
+        <addedDate>2008-04-14T18:59:16+01:00</addedDate>
+        <popularity>0.48</popularity>
+        <streamingReleaseDate>2005-05-17T00:00:00+01:00</streamingReleaseDate>
+      </release>
+    </taggedItem>
+  </taggedResults>
 </response>

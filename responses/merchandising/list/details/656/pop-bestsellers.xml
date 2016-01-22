@@ -1,1214 +1,1214 @@
 <?xml version="1.0" encoding="utf-8"?>
 <response xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" status="ok" version="1.2" xsi:noNamespaceSchemaLocation="http://api.7digital.com/1.2/static/7digitalAPI.xsd">
-	<list id="833">
-		<key>tabAlbums</key>
-		<listItems>
-			<listItem id="1234113">
-				<type>release</type>
-				<release id="320866">
-					<title>Perfect Symmetry</title>
-					<version>UK Album</version>
-					<type>Album</type>
-					<barcode>00602517856455</barcode>
-					<year>2008</year>
-					<explicitContent>false</explicitContent>
-					<artist id="1">
-						<name>Keane</name>
-						<appearsAs>Keane</appearsAs>
-						<url>http://www.7digital.com/artists/keane/?partner=1401</url>
-					</artist>
-					<url>http://www.7digital.com/artists/keane/perfect-symmetry-1/?partner=1401</url>
-					<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/003/208/0000320866_50.jpg</image>
-					<releaseDate>2008-10-13T00:00:00+01:00</releaseDate>
-					<price>
-						<currency code="GBP">£</currency>
-						<value>5.49</value>
-						<formattedPrice>£5.99</formattedPrice>
-						<rrp>5.49</rrp>
-						<formattedRrp>£5.99</formattedRrp>
-						<onSale>false</onSale>
-					</price>
-					<download>
-						<packages>
-							<package id="2">
-								<description>standard</description>
-								<price>
-									<currencyCode>GBP</currencyCode>
-									<sevendigitalPrice>5.49</sevendigitalPrice>
-									<recommendedRetailPrice>5.49</recommendedRetailPrice>
-								</price>
-								<formats>
-									<format id="17">
-										<description>MP3 320</description>
-									</format>
-								</formats>
-							</package>
-						</packages>
-					</download>
-					<formats availableDrmFree="true">
-						<format id="17">
-							<fileFormat>MP3</fileFormat>
-							<bitRate>320</bitRate>
-							<drmFree>true</drmFree>
-						</format>
-					</formats>
-					<label id="3309">
-						<name>Universal Music Ireland Ltd.</name>
-					</label>
-				</release>
-			</listItem>
-			<listItem id="1214168">
-				<type>release</type>
-				<release id="1214168">
-					<title>Eurovision Song Contest Düsseldorf 2011</title>
-					<version/>
-					<type>Album</type>
-					<barcode>5099909705654</barcode>
-					<year>2011</year>
-					<explicitContent>false</explicitContent>
-					<artist id="1">
-						<name>Keane</name>
-						<appearsAs>Keane</appearsAs>
-						<url>http://www.7digital.com/artists/keane/?partner=712</url>
-					</artist>
-					<url>http://www.7digital.com/artists/various-artists/eurovision-song-contest-dusseldorf-2011/?partner=712</url>
-					<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/012/141/0001214168_50.jpg</image>
-					<releaseDate>2011-04-18T00:00:00+01:00</releaseDate>
-					<price>
-						<rrp/>
-						<formattedRrp/>
-					</price>
-					<download>
-						<packages>
-							<package id="2">
-								<description>standard</description>
-								<price>
-									<currencyCode/>
-									<sevendigitalPrice xsi:nil="true"/>
-									<recommendedRetailPrice xsi:nil="true"/>
-								</price>
-								<formats>
-									<format id="17">
-										<description>MP3 320</description>
-									</format>
-								</formats>
-							</package>
-						</packages>
-					</download>
-					<formats availableDrmFree="true">
-						<format id="17">
-							<fileFormat>MP3</fileFormat>
-							<bitRate>320</bitRate>
-							<drmFree>true</drmFree>
-						</format>
-					</formats>
-					<label id="2061">
-						<name>EMI Music Marketing - Germany</name>
-					</label>
-				</release>
-			</listItem>
-			<listItem id="1279359">
-				<type>release</type>
-				<release id="1279359">
-					<title>Seven Rainbows</title>
-					<version/>
-					<type>Album</type>
-					<barcode>00602527708621</barcode>
-					<year>2011</year>
-					<explicitContent>false</explicitContent>
-					<artist id="1">
-						<name>Keane</name>
-						<appearsAs>Keane</appearsAs>
-						<url>http://www.7digital.com/artists/keane/?partner=712</url>
-					</artist>
-					<url>http://www.7digital.com/artists/alice-gold/seven-rainbows/?partner=712</url>
-					<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/012/793/0001279359_50.jpg</image>
-					<releaseDate>2011-07-04T00:00:00+01:00</releaseDate>
-					<price>
-						<currency code="GBP"/>
-						<value>N/A</value>
-						<formattedPrice>N/A</formattedPrice>
-						<rrp>N/A</rrp>
-						<formattedRrp>N/A</formattedRrp>
-						<onSale>false</onSale>
-					</price>
-					<download>
-						<packages>
-							<package id="2">
-								<description>standard</description>
-								<price>
-									<currencyCode>GBP</currencyCode>
-									<sevendigitalPrice>N/A</sevendigitalPrice>
-									<recommendedRetailPrice>N/A</recommendedRetailPrice>
-								</price>
-								<formats>
-									<format id="17">
-										<description>MP3 320</description>
-									</format>
-								</formats>
-							</package>
-						</packages>
-					</download>
-					<formats availableDrmFree="true">
-						<format id="17">
-							<fileFormat>MP3</fileFormat>
-							<bitRate>320</bitRate>
-							<drmFree>true</drmFree>
-						</format>
-					</formats>
-					<label id="78690">
-						<name>Universal Music Digital Luxembourg</name>
-					</label>
-				</release>
-			</listItem>
-			<listItem id="1246693">
-				<type>release</type>
-				<release id="1246693">
-					<title>Louder</title>
-					<version/>
-					<type>Single</type>
-					<barcode>5051823027144</barcode>
-					<year>2011</year>
-					<explicitContent>false</explicitContent>
-					<artist id="1">
-						<name>Keane</name>
-						<appearsAs>Keane</appearsAs>
-						<url>http://www.7digital.com/artists/keane/?partner=712</url>
-					</artist>
-					<url>http://www.7digital.com/artists/dj-fresh/louder/?partner=712</url>
-					<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/012/466/0001246693_50.jpg</image>
-					<releaseDate>2011-07-03T00:00:00+01:00</releaseDate>
-					<formats availableDrmFree="true">
-						<format id="17">
-							<fileFormat>MP3</fileFormat>
-							<bitRate>320</bitRate>
-							<drmFree>true</drmFree>
-						</format>
-						<format id="33">
-							<fileFormat>M4A</fileFormat>
-							<bitRate>320</bitRate>
-							<drmFree>true</drmFree>
-						</format>
-					</formats>
-					<label id="60924">
-						<name>Ministry of Sound Recordings Ltd</name>
-					</label>
-				</release>
-			</listItem>
-			<listItem id="1245091">
-				<type>release</type>
-				<release id="1245091">
-					<title>Adulthood</title>
-					<version/>
-					<type>Album</type>
-					<barcode>00602527703435</barcode>
-					<year>2011</year>
-					<explicitContent>false</explicitContent>
-					<artist id="1">
-						<name>Keane</name>
-						<appearsAs>Keane</appearsAs>
-						<url>http://www.7digital.com/artists/keane/?partner=712</url>
-					</artist>
-					<url>http://www.7digital.com/artists/cocknbullkid/adulthood/?partner=712</url>
-					<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/012/450/0001245091_50.jpg</image>
-					<releaseDate>2011-05-23T00:00:00+01:00</releaseDate>
-					<price>
-						<currency code="GBP"/>
-						<value/>
-						<formattedPrice/>
-						<rrp/>
-						<formattedRrp/>
-						<onSale>false</onSale>
-					</price>
-					<download>
-						<packages>
-							<package id="2">
-								<description>standard</description>
-								<price>
-									<currencyCode>GBP</currencyCode>
-									<sevendigitalPrice xsi:nil="true"/>
-									<recommendedRetailPrice xsi:nil="true"/>
-								</price>
-								<formats>
-									<format id="17">
-										<description>MP3 320</description>
-									</format>
-								</formats>
-							</package>
-						</packages>
-					</download>
-					<formats availableDrmFree="true">
-						<format id="17">
-							<fileFormat>MP3</fileFormat>
-							<bitRate>320</bitRate>
-							<drmFree>true</drmFree>
-						</format>
-					</formats>
-					<label id="38718">
-						<name>Universal Music B.V.</name>
-					</label>
-				</release>
-			</listItem>
-			<listItem id="1212194">
-				<type>release</type>
-				<release id="1212194">
-					<title>One Thousand Pictures</title>
-					<version/>
-					<type>Album</type>
-					<barcode>5065001043949</barcode>
-					<year>2011</year>
-					<explicitContent>false</explicitContent>
-					<artist id="1">
-						<name>Keane</name>
-						<appearsAs>Keane</appearsAs>
-						<url>http://www.7digital.com/artists/keane/?partner=712</url>
-					</artist>
-					<url>http://www.7digital.com/artists/pete-and-the-pirates/one-thousand-pictures/?partner=712</url>
-					<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/012/121/0001212194_50.jpg</image>
-					<releaseDate>2011-05-23T00:00:00+01:00</releaseDate>
-					<price>
-						<currency code="GBP"/>
-						<value>7.99</value>
-						<formattedPrice>£7.99</formattedPrice>
-						<rrp>7.99</rrp>
-						<formattedRrp>£7.99</formattedRrp>
-						<onSale>false</onSale>
-					</price>
-					<download>
-						<packages>
-							<package id="2">
-								<description>standard</description>
-								<price>
-									<currencyCode>GBP</currencyCode>
-									<sevendigitalPrice>7.99</sevendigitalPrice>
-									<recommendedRetailPrice>7.99</recommendedRetailPrice>
-								</price>
-								<formats>
-									<format id="17">
-										<description>MP3 320</description>
-									</format>
-									<format id="33">
-										<description>M4A 320</description>
-									</format>
-								</formats>
-							</package>
-						</packages>
-					</download>
-					<formats availableDrmFree="true">
-						<format id="17">
-							<fileFormat>MP3</fileFormat>
-							<bitRate>320</bitRate>
-							<drmFree>true</drmFree>
-						</format>
-						<format id="33">
-							<fileFormat>M4A</fileFormat>
-							<bitRate>320</bitRate>
-							<drmFree>true</drmFree>
-						</format>
-					</formats>
-					<label id="2389">
-						<name>Stolen Recordings</name>
-					</label>
-				</release>
-			</listItem>
-			<listItem id="1305498">
-				<type>release</type>
-				<release id="1305498">
-					<title>Ibiza Rocks 2011</title>
-					<version/>
-					<type>Album</type>
-					<barcode>5051275042955</barcode>
-					<year>2011</year>
-					<explicitContent>false</explicitContent>
-					<artist id="1">
-						<name>Keane</name>
-						<appearsAs>Keane</appearsAs>
-						<url>http://www.7digital.com/artists/keane/?partner=712</url>
-					</artist>
-					<url>http://www.7digital.com/artists/various-artists/ibiza-rocks-2011/?partner=712</url>
-					<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/013/054/0001305498_50.jpg</image>
-					<releaseDate>2011-07-03T00:00:00+01:00</releaseDate>
-					<price>
-						<currency code="GBP"/>
-						<value>9.99</value>
-						<formattedPrice>£9.99</formattedPrice>
-						<rrp>9.99</rrp>
-						<formattedRrp>£9.99</formattedRrp>
-						<onSale>false</onSale>
-					</price>
-					<download>
-						<packages>
-							<package id="2">
-								<description>standard</description>
-								<price>
-									<currencyCode>GBP</currencyCode>
-									<sevendigitalPrice>9.99</sevendigitalPrice>
-									<recommendedRetailPrice>9.99</recommendedRetailPrice>
-								</price>
-								<formats>
-									<format id="17">
-										<description>MP3 320</description>
-									</format>
-									<format id="33">
-										<description>M4A 320</description>
-									</format>
-								</formats>
-							</package>
-						</packages>
-					</download>
-					<formats availableDrmFree="true">
-						<format id="17">
-							<fileFormat>MP3</fileFormat>
-							<bitRate>320</bitRate>
-							<drmFree>true</drmFree>
-						</format>
-						<format id="33">
-							<fileFormat>M4A</fileFormat>
-							<bitRate>320</bitRate>
-							<drmFree>true</drmFree>
-						</format>
-					</formats>
-					<label id="77064">
-						<name>Ministry of Sound Recordings Limited</name>
-					</label>
-				</release>
-			</listItem>
-			<listItem id="1258943">
-				<type>release</type>
-				<release id="1258943">
-					<title>Living On The Edge Of Time</title>
-					<version/>
-					<type>Album</type>
-					<barcode>00602527708232</barcode>
-					<year>2011</year>
-					<explicitContent>false</explicitContent>
-					<artist id="1">
-						<name>Keane</name>
-						<appearsAs>Keane</appearsAs>
-						<url>http://www.7digital.com/artists/keane/?partner=712</url>
-					</artist>
-					<url>http://www.7digital.com/artists/yuksek/living-on-the-edge-of-time/?partner=712</url>
-					<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/012/589/0001258943_50.jpg</image>
-					<releaseDate>2011-07-04T00:00:00+01:00</releaseDate>
-					<price>
-						<currency code="GBP"/>
-						<value>5.49</value>
-						<formattedPrice>£5.49</formattedPrice>
-						<rrp>5.49</rrp>
-						<formattedRrp>£5.49</formattedRrp>
-						<onSale>false</onSale>
-					</price>
-					<download>
-						<packages>
-							<package id="2">
-								<description>standard</description>
-								<price>
-									<currencyCode>GBP</currencyCode>
-									<sevendigitalPrice>5.49</sevendigitalPrice>
-									<recommendedRetailPrice>5.49</recommendedRetailPrice>
-								</price>
-								<formats>
-									<format id="17">
-										<description>MP3 320</description>
-									</format>
-								</formats>
-							</package>
-						</packages>
-					</download>
-					<formats availableDrmFree="true">
-						<format id="17">
-							<fileFormat>MP3</fileFormat>
-							<bitRate>320</bitRate>
-							<drmFree>true</drmFree>
-						</format>
-					</formats>
-					<label id="35827">
-						<name>Universal Music AS</name>
-					</label>
-				</release>
-			</listItem>
-			<listItem id="1249176">
-				<type>release</type>
-				<release id="1249176">
-					<title>Demolished Thoughts</title>
-					<version/>
-					<type>Album</type>
-					<barcode>744861095361</barcode>
-					<year>2011</year>
-					<explicitContent>false</explicitContent>
-					<artist id="1">
-						<name>Keane</name>
-						<appearsAs>Keane</appearsAs>
-						<url>http://www.7digital.com/artists/keane/?partner=712</url>
-					</artist>
-					<url>http://www.7digital.com/artists/thurston-moore/demolished-thoughts/?partner=712</url>
-					<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/012/491/0001249176_50.jpg</image>
-					<releaseDate>2011-05-23T00:00:00+01:00</releaseDate>
-					<price>
-						<currency code="GBP"/>
-						<value>7.99</value>
-						<formattedPrice>£7.99</formattedPrice>
-						<rrp>7.99</rrp>
-						<formattedRrp>£7.99</formattedRrp>
-						<onSale>false</onSale>
-					</price>
-					<download>
-						<packages>
-							<package id="2">
-								<description>standard</description>
-								<price>
-									<currencyCode>GBP</currencyCode>
-									<sevendigitalPrice>7.99</sevendigitalPrice>
-									<recommendedRetailPrice>7.99</recommendedRetailPrice>
-								</price>
-								<formats>
-									<format id="17">
-										<description>MP3 320</description>
-									</format>
-									<format id="33">
-										<description>M4A 320</description>
-									</format>
-								</formats>
-							</package>
-						</packages>
-					</download>
-					<formats availableDrmFree="true">
-						<format id="17">
-							<fileFormat>MP3</fileFormat>
-							<bitRate>320</bitRate>
-							<drmFree>true</drmFree>
-						</format>
-						<format id="33">
-							<fileFormat>M4A</fileFormat>
-							<bitRate>320</bitRate>
-							<drmFree>true</drmFree>
-						</format>
-					</formats>
-					<label id="1221">
-						<name>Matador</name>
-					</label>
-				</release>
-			</listItem>
-			<listItem id="1229211">
-				<type>release</type>
-				<release id="1229211">
-					<title>Hessle Audio : 116 &amp; Rising</title>
-					<version/>
-					<type>Album</type>
-					<barcode>5055317213280</barcode>
-					<year>2011</year>
-					<explicitContent>false</explicitContent>
-					<artist id="1">
-						<name>Keane</name>
-						<appearsAs>Keane</appearsAs>
-						<url>http://www.7digital.com/artists/keane/?partner=712</url>
-					</artist>
-					<url>http://www.7digital.com/artists/various-artists/hessle-audio-116-and-rising/?partner=712</url>
-					<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/012/292/0001229211_50.jpg</image>
-					<releaseDate>2011-05-23T00:00:00+01:00</releaseDate>
-					<price>
-						<currency code="GBP"/>
-						<value>7.49</value>
-						<formattedPrice>£7.49</formattedPrice>
-						<rrp>7.49</rrp>
-						<formattedRrp>£7.49</formattedRrp>
-						<onSale>false</onSale>
-					</price>
-					<download>
-						<packages>
-							<package id="2">
-								<description>standard</description>
-								<price>
-									<currencyCode>GBP</currencyCode>
-									<sevendigitalPrice>7.49</sevendigitalPrice>
-									<recommendedRetailPrice>7.49</recommendedRetailPrice>
-								</price>
-								<formats>
-									<format id="17">
-										<description>MP3 320</description>
-									</format>
-									<format id="33">
-										<description>M4A 320</description>
-									</format>
-								</formats>
-							</package>
-						</packages>
-					</download>
-					<formats availableDrmFree="true">
-						<format id="17">
-							<fileFormat>MP3</fileFormat>
-							<bitRate>320</bitRate>
-							<drmFree>true</drmFree>
-						</format>
-						<format id="33">
-							<fileFormat>M4A</fileFormat>
-							<bitRate>320</bitRate>
-							<drmFree>true</drmFree>
-						</format>
-					</formats>
-					<label id="42014">
-						<name>Hessle Audio</name>
-					</label>
-				</release>
-			</listItem>
-			<listItem id="1262480">
-				<type>release</type>
-				<release id="1262480">
-					<title>Last Smoke Before The Snowstorm</title>
-					<version/>
-					<type>Album</type>
-					<barcode>881034757869</barcode>
-					<year>2011</year>
-					<explicitContent>false</explicitContent>
-					<artist id="1">
-						<name>Keane</name>
-						<appearsAs>Keane</appearsAs>
-						<url>http://www.7digital.com/artists/keane/?partner=712</url>
-					</artist>
-					<url>http://www.7digital.com/artists/benjamin-francis-leftwich/last-smoke-before-the-snowstorm/?partner=712</url>
-					<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/012/624/0001262480_50.jpg</image>
-					<releaseDate>2011-07-03T00:00:00+01:00</releaseDate>
-					<price>
-						<currency code="GBP"/>
-						<value>7.49</value>
-						<formattedPrice>£7.49</formattedPrice>
-						<rrp>7.49</rrp>
-						<formattedRrp>£7.49</formattedRrp>
-						<onSale>false</onSale>
-					</price>
-					<download>
-						<packages>
-							<package id="2">
-								<description>standard</description>
-								<price>
-									<currencyCode>GBP</currencyCode>
-									<sevendigitalPrice>7.49</sevendigitalPrice>
-									<recommendedRetailPrice>7.49</recommendedRetailPrice>
-								</price>
-								<formats>
-									<format id="17">
-										<description>MP3 320</description>
-									</format>
-									<format id="33">
-										<description>M4A 320</description>
-									</format>
-								</formats>
-							</package>
-						</packages>
-					</download>
-					<formats availableDrmFree="true">
-						<format id="17">
-							<fileFormat>MP3</fileFormat>
-							<bitRate>320</bitRate>
-							<drmFree>true</drmFree>
-						</format>
-						<format id="33">
-							<fileFormat>M4A</fileFormat>
-							<bitRate>320</bitRate>
-							<drmFree>true</drmFree>
-						</format>
-					</formats>
-					<label id="64254">
-						<name>Dirty Hit</name>
-					</label>
-				</release>
-			</listItem>
-			<listItem id="1222138">
-				<type>release</type>
-				<release id="1222138">
-					<title>Songs</title>
-					<version/>
-					<type>Album</type>
-					<barcode>00602527653730</barcode>
-					<year>2011</year>
-					<explicitContent>false</explicitContent>
-					<artist id="1">
-						<name>Keane</name>
-						<appearsAs>Keane</appearsAs>
-						<url>http://www.7digital.com/artists/keane/?partner=712</url>
-					</artist>
-					<url>http://www.7digital.com/artists/thomas-dybdahl-(1)/songs/?partner=712</url>
-					<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/012/221/0001222138_50.jpg</image>
-					<releaseDate>2011-07-04T00:00:00+01:00</releaseDate>
-					<price>
-						<currency code="GBP"/>
-						<value>7.99</value>
-						<formattedPrice>£7.99</formattedPrice>
-						<rrp>7.99</rrp>
-						<formattedRrp>£7.99</formattedRrp>
-						<onSale>false</onSale>
-					</price>
-					<download>
-						<packages>
-							<package id="2">
-								<description>standard</description>
-								<price>
-									<currencyCode>GBP</currencyCode>
-									<sevendigitalPrice>7.99</sevendigitalPrice>
-									<recommendedRetailPrice>7.99</recommendedRetailPrice>
-								</price>
-								<formats>
-									<format id="17">
-										<description>MP3 320</description>
-									</format>
-								</formats>
-							</package>
-						</packages>
-					</download>
-					<formats availableDrmFree="true">
-						<format id="17">
-							<fileFormat>MP3</fileFormat>
-							<bitRate>320</bitRate>
-							<drmFree>true</drmFree>
-						</format>
-					</formats>
-					<label id="3048">
-						<name>Universal Music Group International</name>
-					</label>
-				</release>
-			</listItem>
-			<listItem id="1249113">
-				<type>release</type>
-				<release id="1249113">
-					<title>Live - World's On Fire</title>
-					<version/>
-					<type>Album</type>
-					<barcode>0711297880489</barcode>
-					<year>2011</year>
-					<explicitContent>false</explicitContent>
-					<artist id="1">
-						<name>Keane</name>
-						<appearsAs>Keane</appearsAs>
-						<url>http://www.7digital.com/artists/keane/?partner=712</url>
-					</artist>
-					<url>http://www.7digital.com/artists/the-prodigy/live-worlds-on-fire-2/?partner=712</url>
-					<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/012/491/0001249113_50.jpg</image>
-					<releaseDate>2011-05-22T00:00:00+01:00</releaseDate>
-					<price>
-						<currency code="GBP"/>
-						<value>7.99</value>
-						<formattedPrice>£7.99</formattedPrice>
-						<rrp>7.99</rrp>
-						<formattedRrp>£7.99</formattedRrp>
-						<onSale>false</onSale>
-					</price>
-					<download>
-						<packages>
-							<package id="2">
-								<description>standard</description>
-								<price>
-									<currencyCode>GBP</currencyCode>
-									<sevendigitalPrice>7.99</sevendigitalPrice>
-									<recommendedRetailPrice>7.99</recommendedRetailPrice>
-								</price>
-								<formats>
-									<format id="17">
-										<description>MP3 320</description>
-									</format>
-									<format id="33">
-										<description>M4A 320</description>
-									</format>
-								</formats>
-							</package>
-						</packages>
-					</download>
-					<formats availableDrmFree="true">
-						<format id="17">
-							<fileFormat>MP3</fileFormat>
-							<bitRate>320</bitRate>
-							<drmFree>true</drmFree>
-						</format>
-						<format id="33">
-							<fileFormat>M4A</fileFormat>
-							<bitRate>320</bitRate>
-							<drmFree>true</drmFree>
-						</format>
-					</formats>
-					<label id="24291">
-						<name>Take Me To The Hospital</name>
-					</label>
-				</release>
-			</listItem>
-			<listItem id="1238257">
-				<type>release</type>
-				<release id="1238257">
-					<title>Brilliant! Tragic!</title>
-					<version/>
-					<type>Album</type>
-					<barcode>0711297493443</barcode>
-					<year>2011</year>
-					<explicitContent>false</explicitContent>
-					<artist id="1">
-						<name>Keane</name>
-						<appearsAs>Keane</appearsAs>
-						<url>http://www.7digital.com/artists/keane/?partner=712</url>
-					</artist>
-					<url>http://www.7digital.com/artists/art-brut/brilliant-tragic/?partner=712</url>
-					<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/012/382/0001238257_50.jpg</image>
-					<releaseDate>2011-05-22T00:00:00+01:00</releaseDate>
-					<price>
-						<currency code="GBP"/>
-						<value>7.99</value>
-						<formattedPrice>£7.99</formattedPrice>
-						<rrp>7.99</rrp>
-						<formattedRrp>£7.99</formattedRrp>
-						<onSale>false</onSale>
-					</price>
-					<download>
-						<packages>
-							<package id="2">
-								<description>standard</description>
-								<price>
-									<currencyCode>GBP</currencyCode>
-									<sevendigitalPrice>7.99</sevendigitalPrice>
-									<recommendedRetailPrice>7.99</recommendedRetailPrice>
-								</price>
-								<formats>
-									<format id="17">
-										<description>MP3 320</description>
-									</format>
-									<format id="33">
-										<description>M4A 320</description>
-									</format>
-								</formats>
-							</package>
-						</packages>
-					</download>
-					<formats availableDrmFree="true">
-						<format id="17">
-							<fileFormat>MP3</fileFormat>
-							<bitRate>320</bitRate>
-							<drmFree>true</drmFree>
-						</format>
-						<format id="33">
-							<fileFormat>M4A</fileFormat>
-							<bitRate>320</bitRate>
-							<drmFree>true</drmFree>
-						</format>
-					</formats>
-					<label id="606">
-						<name>Cooking Vinyl</name>
-					</label>
-				</release>
-			</listItem>
-			<listItem id="1291499">
-				<type>release</type>
-				<release id="1291499">
-					<title>DJ-Kicks</title>
-					<version/>
-					<type>Album</type>
-					<barcode>0730003728549</barcode>
-					<year>2011</year>
-					<explicitContent>false</explicitContent>
-					<artist id="1">
-						<name>Keane</name>
-						<appearsAs>Keane</appearsAs>
-						<url>http://www.7digital.com/artists/keane/?partner=712</url>
-					</artist>
-					<url>http://www.7digital.com/artists/motor-city-drum-ensemble/dj-kicks/?partner=712</url>
-					<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/012/914/0001291499_50.jpg</image>
-					<releaseDate>2011-07-04T00:00:00+01:00</releaseDate>
-					<price>
-						<currency code="GBP"/>
-						<value>7.99</value>
-						<formattedPrice>£7.99</formattedPrice>
-						<rrp>7.99</rrp>
-						<formattedRrp>£7.99</formattedRrp>
-						<onSale>false</onSale>
-					</price>
-					<download>
-						<packages>
-							<package id="2">
-								<description>standard</description>
-								<price>
-									<currencyCode>GBP</currencyCode>
-									<sevendigitalPrice>7.99</sevendigitalPrice>
-									<recommendedRetailPrice>7.99</recommendedRetailPrice>
-								</price>
-								<formats>
-									<format id="17">
-										<description>MP3 320</description>
-									</format>
-									<format id="33">
-										<description>M4A 320</description>
-									</format>
-								</formats>
-							</package>
-						</packages>
-					</download>
-					<formats availableDrmFree="true">
-						<format id="17">
-							<fileFormat>MP3</fileFormat>
-							<bitRate>320</bitRate>
-							<drmFree>true</drmFree>
-						</format>
-						<format id="33">
-							<fileFormat>M4A</fileFormat>
-							<bitRate>320</bitRate>
-							<drmFree>true</drmFree>
-						</format>
-					</formats>
-					<label id="1287">
-						<name>!K7 Records</name>
-					</label>
-				</release>
-			</listItem>
-			<listItem id="1244355">
-				<type>release</type>
-				<release id="1244355">
-					<title>Bon Iver</title>
-					<version/>
-					<type>Album</type>
-					<barcode>652637311761</barcode>
-					<year>2011</year>
-					<explicitContent>false</explicitContent>
-					<artist id="1">
-						<name>Keane</name>
-						<appearsAs>Keane</appearsAs>
-						<url>http://www.7digital.com/artists/keane/?partner=712</url>
-					</artist>
-					<url>http://www.7digital.com/artists/bon-iver/bon-iver/?partner=712</url>
-					<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/012/443/0001244355_50.jpg</image>
-					<releaseDate>2011-06-20T00:00:00+01:00</releaseDate>
-					<price>
-						<currency code="GBP"/>
-						<value>7.99</value>
-						<formattedPrice>£7.99</formattedPrice>
-						<rrp>7.99</rrp>
-						<formattedRrp>£7.99</formattedRrp>
-						<onSale>false</onSale>
-					</price>
-					<download>
-						<packages>
-							<package id="2">
-								<description>standard</description>
-								<price>
-									<currencyCode>GBP</currencyCode>
-									<sevendigitalPrice>7.99</sevendigitalPrice>
-									<recommendedRetailPrice>7.99</recommendedRetailPrice>
-								</price>
-								<formats>
-									<format id="17">
-										<description>MP3 320</description>
-									</format>
-									<format id="33">
-										<description>M4A 320</description>
-									</format>
-								</formats>
-							</package>
-						</packages>
-					</download>
-					<formats availableDrmFree="true">
-						<format id="17">
-							<fileFormat>MP3</fileFormat>
-							<bitRate>320</bitRate>
-							<drmFree>true</drmFree>
-						</format>
-						<format id="33">
-							<fileFormat>M4A</fileFormat>
-							<bitRate>320</bitRate>
-							<drmFree>true</drmFree>
-						</format>
-					</formats>
-					<label id="905">
-						<name>4AD</name>
-					</label>
-				</release>
-			</listItem>
-			<listItem id="1238988">
-				<type>release</type>
-				<release id="1238988">
-					<title>Blood Like Lemonade</title>
-					<version/>
-					<type>Album</type>
-					<barcode>5414939123870</barcode>
-					<year>2011</year>
-					<explicitContent>false</explicitContent>
-					<artist id="1">
-						<name>Keane</name>
-						<appearsAs>Keane</appearsAs>
-						<url>http://www.7digital.com/artists/keane/?partner=712</url>
-					</artist>
-					<url>http://www.7digital.com/artists/morcheeba/blood-like-lemonade-5/?partner=712</url>
-					<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/012/389/0001238988_50.jpg</image>
-					<releaseDate>2011-05-23T00:00:00+01:00</releaseDate>
-					<price>
-						<currency code="GBP"/>
-						<value>3.99</value>
-						<formattedPrice>£3.99</formattedPrice>
-						<rrp>3.99</rrp>
-						<formattedRrp>£3.99</formattedRrp>
-						<onSale>false</onSale>
-					</price>
-					<download>
-						<packages>
-							<package id="2">
-								<description>standard</description>
-								<price>
-									<currencyCode>GBP</currencyCode>
-									<sevendigitalPrice>3.99</sevendigitalPrice>
-									<recommendedRetailPrice>3.99</recommendedRetailPrice>
-								</price>
-								<formats>
-									<format id="17">
-										<description>MP3 320</description>
-									</format>
-									<format id="33">
-										<description>M4A 320</description>
-									</format>
-								</formats>
-							</package>
-						</packages>
-					</download>
-					<formats availableDrmFree="true">
-						<format id="17">
-							<fileFormat>MP3</fileFormat>
-							<bitRate>320</bitRate>
-							<drmFree>true</drmFree>
-						</format>
-						<format id="33">
-							<fileFormat>M4A</fileFormat>
-							<bitRate>320</bitRate>
-							<drmFree>true</drmFree>
-						</format>
-					</formats>
-					<label id="50656">
-						<name>[PIAS] Recordings</name>
-					</label>
-				</release>
-			</listItem>
-			<listItem id="1254350">
-				<type>release</type>
-				<release id="1254350">
-					<title>Sweet Defeat</title>
-					<version/>
-					<type>Album</type>
-					<barcode>5037300771403</barcode>
-					<year>2011</year>
-					<explicitContent>false</explicitContent>
-					<artist id="1">
-						<name>Keane</name>
-						<appearsAs>Keane</appearsAs>
-						<url>http://www.7digital.com/artists/keane/?partner=712</url>
-					</artist>
-					<url>http://www.7digital.com/artists/jon-allen/sweet-defeat-1/?partner=712</url>
-					<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/012/543/0001254350_50.jpg</image>
-					<releaseDate>2011-05-22T00:00:00+01:00</releaseDate>
-					<price>
-						<currency code="GBP"/>
-						<value>7.49</value>
-						<formattedPrice>£7.49</formattedPrice>
-						<rrp>7.49</rrp>
-						<formattedRrp>£7.49</formattedRrp>
-						<onSale>false</onSale>
-					</price>
-					<download>
-						<packages>
-							<package id="2">
-								<description>standard</description>
-								<price>
-									<currencyCode>GBP</currencyCode>
-									<sevendigitalPrice>7.49</sevendigitalPrice>
-									<recommendedRetailPrice>7.49</recommendedRetailPrice>
-								</price>
-								<formats>
-									<format id="17">
-										<description>MP3 320</description>
-									</format>
-									<format id="33">
-										<description>M4A 320</description>
-									</format>
-								</formats>
-							</package>
-						</packages>
-					</download>
-					<formats availableDrmFree="true">
-						<format id="17">
-							<fileFormat>MP3</fileFormat>
-							<bitRate>320</bitRate>
-							<drmFree>true</drmFree>
-						</format>
-						<format id="33">
-							<fileFormat>M4A</fileFormat>
-							<bitRate>320</bitRate>
-							<drmFree>true</drmFree>
-						</format>
-					</formats>
-					<label id="22262">
-						<name>Monologue Records</name>
-					</label>
-				</release>
-			</listItem>
-			<listItem id="1292241">
-				<type>release</type>
-				<release id="1292241">
-					<title>4</title>
-					<version/>
-					<type>Album</type>
-					<barcode>886443064393</barcode>
-					<year>2011</year>
-					<explicitContent>false</explicitContent>
-					<artist id="1">
-						<name>Keane</name>
-						<appearsAs>Keane</appearsAs>
-						<url>http://www.7digital.com/artists/keane/?partner=712</url>
-					</artist>
-					<url>http://www.7digital.com/artists/beyoncé/4-1/?partner=712</url>
-					<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/012/922/0001292241_50.jpg</image>
-					<releaseDate>2011-06-27T00:00:00+01:00</releaseDate>
-					<price>
-						<currency code="GBP"/>
-						<value>7.99</value>
-						<formattedPrice>£7.99</formattedPrice>
-						<rrp>7.99</rrp>
-						<formattedRrp>£7.99</formattedRrp>
-						<onSale>false</onSale>
-					</price>
-					<download>
-						<packages>
-							<package id="2">
-								<description>standard</description>
-								<price>
-									<currencyCode>GBP</currencyCode>
-									<sevendigitalPrice>7.99</sevendigitalPrice>
-									<recommendedRetailPrice>7.99</recommendedRetailPrice>
-								</price>
-								<formats>
-									<format id="17">
-										<description>MP3 320</description>
-									</format>
-								</formats>
-							</package>
-						</packages>
-					</download>
-					<formats availableDrmFree="true">
-						<format id="17">
-							<fileFormat>MP3</fileFormat>
-							<bitRate>320</bitRate>
-							<drmFree>true</drmFree>
-						</format>
-					</formats>
-					<label id="81250">
-						<name>Parkwood Entertainment/Columbia</name>
-					</label>
-				</release>
-			</listItem>
-			<listItem id="1271743">
-				<type>release</type>
-				<release id="1271743">
-					<title>Torches</title>
-					<version/>
-					<type>Album</type>
-					<barcode>886443067721</barcode>
-					<year>2011</year>
-					<explicitContent>false</explicitContent>
-					<artist id="1">
-						<name>Keane</name>
-						<appearsAs>Keane</appearsAs>
-						<url>http://www.7digital.com/artists/keane/?partner=712</url>
-					</artist>
-					<url>http://www.7digital.com/artists/foster-the-people/torches-1/?partner=712</url>
-					<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/012/717/0001271743_50.jpg</image>
-					<releaseDate>2011-06-27T00:00:00+01:00</releaseDate>
-					<price>
-						<currency code="GBP"/>
-						<value>0</value>
-						<formattedPrice>£0.00</formattedPrice>
-						<rrp>0</rrp>
-						<formattedRrp>£0.00</formattedRrp>
-						<onSale>true</onSale>
-					</price>
-					<download>
-						<packages>
-							<package id="2">
-								<description>standard</description>
-								<price>
-									<currencyCode>GBP</currencyCode>
-									<sevendigitalPrice>0</sevendigitalPrice>
-									<recommendedRetailPrice>0</recommendedRetailPrice>
-								</price>
-								<formats>
-									<format id="17">
-										<description>MP3 320</description>
-									</format>
-								</formats>
-							</package>
-						</packages>
-					</download>
-					<formats availableDrmFree="true">
-						<format id="17">
-							<fileFormat>MP3</fileFormat>
-							<bitRate>320</bitRate>
-							<drmFree>true</drmFree>
-						</format>
-					</formats>
-					<label id="592">
-						<name>Columbia</name>
-					</label>
-				</release>
-			</listItem>
-			<listItem id="1254088">
-				<type>release</type>
-				<release id="1254088">
-					<title>Wild Romance</title>
-					<version/>
-					<type>Album</type>
-					<barcode>881034773487</barcode>
-					<year>2011</year>
-					<explicitContent>false</explicitContent>
-					<artist id="1">
-						<name>Keane</name>
-						<appearsAs>Keane</appearsAs>
-						<url>http://www.7digital.com/artists/keane/?partner=712</url>
-					</artist>
-					<url>http://www.7digital.com/artists/kissy-sell-out/wild-romance/?partner=712</url>
-					<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/012/540/0001254088_50.jpg</image>
-					<releaseDate>2011-05-23T00:00:00+01:00</releaseDate>
-					<price>
-						<currency code="GBP"/>
-						<value>7.49</value>
-						<formattedPrice>£7.49</formattedPrice>
-						<rrp>7.49</rrp>
-						<formattedRrp>£7.49</formattedRrp>
-						<onSale>true</onSale>
-					</price>
-					<download>
-						<packages>
-							<package id="2">
-								<description>standard</description>
-								<price>
-									<currencyCode>GBP</currencyCode>
-									<sevendigitalPrice>7.49</sevendigitalPrice>
-									<recommendedRetailPrice>7.49</recommendedRetailPrice>
-								</price>
-								<formats>
-									<format id="17">
-										<description>MP3 320</description>
-									</format>
-									<format id="33">
-										<description>M4A 320</description>
-									</format>
-								</formats>
-							</package>
-						</packages>
-					</download>
-					<formats availableDrmFree="true">
-						<format id="17">
-							<fileFormat>MP3</fileFormat>
-							<bitRate>320</bitRate>
-							<drmFree>true</drmFree>
-						</format>
-						<format id="33">
-							<fileFormat>M4A</fileFormat>
-							<bitRate>320</bitRate>
-							<drmFree>true</drmFree>
-						</format>
-					</formats>
-					<label id="52201">
-						<name>San City High</name>
-					</label>
-				</release>
-			</listItem>
-		</listItems>
-	</list>
+  <list id="833">
+    <key>tabAlbums</key>
+    <listItems>
+      <listItem id="1234113">
+        <type>release</type>
+        <release id="320866">
+          <title>Perfect Symmetry</title>
+          <version>UK Album</version>
+          <type>Album</type>
+          <barcode>00602517856455</barcode>
+          <year>2008</year>
+          <explicitContent>false</explicitContent>
+          <artist id="1">
+            <name>Keane</name>
+            <appearsAs>Keane</appearsAs>
+            <url>http://www.7digital.com/artists/keane/?partner=1401</url>
+          </artist>
+          <url>http://www.7digital.com/artists/keane/perfect-symmetry-1/?partner=1401</url>
+          <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/003/208/0000320866_50.jpg</image>
+          <releaseDate>2008-10-13T00:00:00+01:00</releaseDate>
+          <price>
+            <currency code="GBP">£</currency>
+            <value>5.49</value>
+            <formattedPrice>£5.99</formattedPrice>
+            <rrp>5.49</rrp>
+            <formattedRrp>£5.99</formattedRrp>
+            <onSale>false</onSale>
+          </price>
+          <download>
+            <packages>
+              <package id="2">
+                <description>standard</description>
+                <price>
+                  <currencyCode>GBP</currencyCode>
+                  <sevendigitalPrice>5.49</sevendigitalPrice>
+                  <recommendedRetailPrice>5.49</recommendedRetailPrice>
+                </price>
+                <formats>
+                  <format id="17">
+                    <description>MP3 320</description>
+                  </format>
+                </formats>
+              </package>
+            </packages>
+          </download>
+          <formats availableDrmFree="true">
+            <format id="17">
+              <fileFormat>MP3</fileFormat>
+              <bitRate>320</bitRate>
+              <drmFree>true</drmFree>
+            </format>
+          </formats>
+          <label id="3309">
+            <name>Universal Music Ireland Ltd.</name>
+          </label>
+        </release>
+      </listItem>
+      <listItem id="1214168">
+        <type>release</type>
+        <release id="1214168">
+          <title>Eurovision Song Contest Düsseldorf 2011</title>
+          <version/>
+          <type>Album</type>
+          <barcode>5099909705654</barcode>
+          <year>2011</year>
+          <explicitContent>false</explicitContent>
+          <artist id="1">
+            <name>Keane</name>
+            <appearsAs>Keane</appearsAs>
+            <url>http://www.7digital.com/artists/keane/?partner=712</url>
+          </artist>
+          <url>http://www.7digital.com/artists/various-artists/eurovision-song-contest-dusseldorf-2011/?partner=712</url>
+          <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/012/141/0001214168_50.jpg</image>
+          <releaseDate>2011-04-18T00:00:00+01:00</releaseDate>
+          <price>
+            <rrp/>
+            <formattedRrp/>
+          </price>
+          <download>
+            <packages>
+              <package id="2">
+                <description>standard</description>
+                <price>
+                  <currencyCode/>
+                  <sevendigitalPrice xsi:nil="true"/>
+                  <recommendedRetailPrice xsi:nil="true"/>
+                </price>
+                <formats>
+                  <format id="17">
+                    <description>MP3 320</description>
+                  </format>
+                </formats>
+              </package>
+            </packages>
+          </download>
+          <formats availableDrmFree="true">
+            <format id="17">
+              <fileFormat>MP3</fileFormat>
+              <bitRate>320</bitRate>
+              <drmFree>true</drmFree>
+            </format>
+          </formats>
+          <label id="2061">
+            <name>EMI Music Marketing - Germany</name>
+          </label>
+        </release>
+      </listItem>
+      <listItem id="1279359">
+        <type>release</type>
+        <release id="1279359">
+          <title>Seven Rainbows</title>
+          <version/>
+          <type>Album</type>
+          <barcode>00602527708621</barcode>
+          <year>2011</year>
+          <explicitContent>false</explicitContent>
+          <artist id="1">
+            <name>Keane</name>
+            <appearsAs>Keane</appearsAs>
+            <url>http://www.7digital.com/artists/keane/?partner=712</url>
+          </artist>
+          <url>http://www.7digital.com/artists/alice-gold/seven-rainbows/?partner=712</url>
+          <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/012/793/0001279359_50.jpg</image>
+          <releaseDate>2011-07-04T00:00:00+01:00</releaseDate>
+          <price>
+            <currency code="GBP"/>
+            <value>N/A</value>
+            <formattedPrice>N/A</formattedPrice>
+            <rrp>N/A</rrp>
+            <formattedRrp>N/A</formattedRrp>
+            <onSale>false</onSale>
+          </price>
+          <download>
+            <packages>
+              <package id="2">
+                <description>standard</description>
+                <price>
+                  <currencyCode>GBP</currencyCode>
+                  <sevendigitalPrice>N/A</sevendigitalPrice>
+                  <recommendedRetailPrice>N/A</recommendedRetailPrice>
+                </price>
+                <formats>
+                  <format id="17">
+                    <description>MP3 320</description>
+                  </format>
+                </formats>
+              </package>
+            </packages>
+          </download>
+          <formats availableDrmFree="true">
+            <format id="17">
+              <fileFormat>MP3</fileFormat>
+              <bitRate>320</bitRate>
+              <drmFree>true</drmFree>
+            </format>
+          </formats>
+          <label id="78690">
+            <name>Universal Music Digital Luxembourg</name>
+          </label>
+        </release>
+      </listItem>
+      <listItem id="1246693">
+        <type>release</type>
+        <release id="1246693">
+          <title>Louder</title>
+          <version/>
+          <type>Single</type>
+          <barcode>5051823027144</barcode>
+          <year>2011</year>
+          <explicitContent>false</explicitContent>
+          <artist id="1">
+            <name>Keane</name>
+            <appearsAs>Keane</appearsAs>
+            <url>http://www.7digital.com/artists/keane/?partner=712</url>
+          </artist>
+          <url>http://www.7digital.com/artists/dj-fresh/louder/?partner=712</url>
+          <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/012/466/0001246693_50.jpg</image>
+          <releaseDate>2011-07-03T00:00:00+01:00</releaseDate>
+          <formats availableDrmFree="true">
+            <format id="17">
+              <fileFormat>MP3</fileFormat>
+              <bitRate>320</bitRate>
+              <drmFree>true</drmFree>
+            </format>
+            <format id="33">
+              <fileFormat>M4A</fileFormat>
+              <bitRate>320</bitRate>
+              <drmFree>true</drmFree>
+            </format>
+          </formats>
+          <label id="60924">
+            <name>Ministry of Sound Recordings Ltd</name>
+          </label>
+        </release>
+      </listItem>
+      <listItem id="1245091">
+        <type>release</type>
+        <release id="1245091">
+          <title>Adulthood</title>
+          <version/>
+          <type>Album</type>
+          <barcode>00602527703435</barcode>
+          <year>2011</year>
+          <explicitContent>false</explicitContent>
+          <artist id="1">
+            <name>Keane</name>
+            <appearsAs>Keane</appearsAs>
+            <url>http://www.7digital.com/artists/keane/?partner=712</url>
+          </artist>
+          <url>http://www.7digital.com/artists/cocknbullkid/adulthood/?partner=712</url>
+          <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/012/450/0001245091_50.jpg</image>
+          <releaseDate>2011-05-23T00:00:00+01:00</releaseDate>
+          <price>
+            <currency code="GBP"/>
+            <value/>
+            <formattedPrice/>
+            <rrp/>
+            <formattedRrp/>
+            <onSale>false</onSale>
+          </price>
+          <download>
+            <packages>
+              <package id="2">
+                <description>standard</description>
+                <price>
+                  <currencyCode>GBP</currencyCode>
+                  <sevendigitalPrice xsi:nil="true"/>
+                  <recommendedRetailPrice xsi:nil="true"/>
+                </price>
+                <formats>
+                  <format id="17">
+                    <description>MP3 320</description>
+                  </format>
+                </formats>
+              </package>
+            </packages>
+          </download>
+          <formats availableDrmFree="true">
+            <format id="17">
+              <fileFormat>MP3</fileFormat>
+              <bitRate>320</bitRate>
+              <drmFree>true</drmFree>
+            </format>
+          </formats>
+          <label id="38718">
+            <name>Universal Music B.V.</name>
+          </label>
+        </release>
+      </listItem>
+      <listItem id="1212194">
+        <type>release</type>
+        <release id="1212194">
+          <title>One Thousand Pictures</title>
+          <version/>
+          <type>Album</type>
+          <barcode>5065001043949</barcode>
+          <year>2011</year>
+          <explicitContent>false</explicitContent>
+          <artist id="1">
+            <name>Keane</name>
+            <appearsAs>Keane</appearsAs>
+            <url>http://www.7digital.com/artists/keane/?partner=712</url>
+          </artist>
+          <url>http://www.7digital.com/artists/pete-and-the-pirates/one-thousand-pictures/?partner=712</url>
+          <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/012/121/0001212194_50.jpg</image>
+          <releaseDate>2011-05-23T00:00:00+01:00</releaseDate>
+          <price>
+            <currency code="GBP"/>
+            <value>7.99</value>
+            <formattedPrice>£7.99</formattedPrice>
+            <rrp>7.99</rrp>
+            <formattedRrp>£7.99</formattedRrp>
+            <onSale>false</onSale>
+          </price>
+          <download>
+            <packages>
+              <package id="2">
+                <description>standard</description>
+                <price>
+                  <currencyCode>GBP</currencyCode>
+                  <sevendigitalPrice>7.99</sevendigitalPrice>
+                  <recommendedRetailPrice>7.99</recommendedRetailPrice>
+                </price>
+                <formats>
+                  <format id="17">
+                    <description>MP3 320</description>
+                  </format>
+                  <format id="33">
+                    <description>M4A 320</description>
+                  </format>
+                </formats>
+              </package>
+            </packages>
+          </download>
+          <formats availableDrmFree="true">
+            <format id="17">
+              <fileFormat>MP3</fileFormat>
+              <bitRate>320</bitRate>
+              <drmFree>true</drmFree>
+            </format>
+            <format id="33">
+              <fileFormat>M4A</fileFormat>
+              <bitRate>320</bitRate>
+              <drmFree>true</drmFree>
+            </format>
+          </formats>
+          <label id="2389">
+            <name>Stolen Recordings</name>
+          </label>
+        </release>
+      </listItem>
+      <listItem id="1305498">
+        <type>release</type>
+        <release id="1305498">
+          <title>Ibiza Rocks 2011</title>
+          <version/>
+          <type>Album</type>
+          <barcode>5051275042955</barcode>
+          <year>2011</year>
+          <explicitContent>false</explicitContent>
+          <artist id="1">
+            <name>Keane</name>
+            <appearsAs>Keane</appearsAs>
+            <url>http://www.7digital.com/artists/keane/?partner=712</url>
+          </artist>
+          <url>http://www.7digital.com/artists/various-artists/ibiza-rocks-2011/?partner=712</url>
+          <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/013/054/0001305498_50.jpg</image>
+          <releaseDate>2011-07-03T00:00:00+01:00</releaseDate>
+          <price>
+            <currency code="GBP"/>
+            <value>9.99</value>
+            <formattedPrice>£9.99</formattedPrice>
+            <rrp>9.99</rrp>
+            <formattedRrp>£9.99</formattedRrp>
+            <onSale>false</onSale>
+          </price>
+          <download>
+            <packages>
+              <package id="2">
+                <description>standard</description>
+                <price>
+                  <currencyCode>GBP</currencyCode>
+                  <sevendigitalPrice>9.99</sevendigitalPrice>
+                  <recommendedRetailPrice>9.99</recommendedRetailPrice>
+                </price>
+                <formats>
+                  <format id="17">
+                    <description>MP3 320</description>
+                  </format>
+                  <format id="33">
+                    <description>M4A 320</description>
+                  </format>
+                </formats>
+              </package>
+            </packages>
+          </download>
+          <formats availableDrmFree="true">
+            <format id="17">
+              <fileFormat>MP3</fileFormat>
+              <bitRate>320</bitRate>
+              <drmFree>true</drmFree>
+            </format>
+            <format id="33">
+              <fileFormat>M4A</fileFormat>
+              <bitRate>320</bitRate>
+              <drmFree>true</drmFree>
+            </format>
+          </formats>
+          <label id="77064">
+            <name>Ministry of Sound Recordings Limited</name>
+          </label>
+        </release>
+      </listItem>
+      <listItem id="1258943">
+        <type>release</type>
+        <release id="1258943">
+          <title>Living On The Edge Of Time</title>
+          <version/>
+          <type>Album</type>
+          <barcode>00602527708232</barcode>
+          <year>2011</year>
+          <explicitContent>false</explicitContent>
+          <artist id="1">
+            <name>Keane</name>
+            <appearsAs>Keane</appearsAs>
+            <url>http://www.7digital.com/artists/keane/?partner=712</url>
+          </artist>
+          <url>http://www.7digital.com/artists/yuksek/living-on-the-edge-of-time/?partner=712</url>
+          <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/012/589/0001258943_50.jpg</image>
+          <releaseDate>2011-07-04T00:00:00+01:00</releaseDate>
+          <price>
+            <currency code="GBP"/>
+            <value>5.49</value>
+            <formattedPrice>£5.49</formattedPrice>
+            <rrp>5.49</rrp>
+            <formattedRrp>£5.49</formattedRrp>
+            <onSale>false</onSale>
+          </price>
+          <download>
+            <packages>
+              <package id="2">
+                <description>standard</description>
+                <price>
+                  <currencyCode>GBP</currencyCode>
+                  <sevendigitalPrice>5.49</sevendigitalPrice>
+                  <recommendedRetailPrice>5.49</recommendedRetailPrice>
+                </price>
+                <formats>
+                  <format id="17">
+                    <description>MP3 320</description>
+                  </format>
+                </formats>
+              </package>
+            </packages>
+          </download>
+          <formats availableDrmFree="true">
+            <format id="17">
+              <fileFormat>MP3</fileFormat>
+              <bitRate>320</bitRate>
+              <drmFree>true</drmFree>
+            </format>
+          </formats>
+          <label id="35827">
+            <name>Universal Music AS</name>
+          </label>
+        </release>
+      </listItem>
+      <listItem id="1249176">
+        <type>release</type>
+        <release id="1249176">
+          <title>Demolished Thoughts</title>
+          <version/>
+          <type>Album</type>
+          <barcode>744861095361</barcode>
+          <year>2011</year>
+          <explicitContent>false</explicitContent>
+          <artist id="1">
+            <name>Keane</name>
+            <appearsAs>Keane</appearsAs>
+            <url>http://www.7digital.com/artists/keane/?partner=712</url>
+          </artist>
+          <url>http://www.7digital.com/artists/thurston-moore/demolished-thoughts/?partner=712</url>
+          <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/012/491/0001249176_50.jpg</image>
+          <releaseDate>2011-05-23T00:00:00+01:00</releaseDate>
+          <price>
+            <currency code="GBP"/>
+            <value>7.99</value>
+            <formattedPrice>£7.99</formattedPrice>
+            <rrp>7.99</rrp>
+            <formattedRrp>£7.99</formattedRrp>
+            <onSale>false</onSale>
+          </price>
+          <download>
+            <packages>
+              <package id="2">
+                <description>standard</description>
+                <price>
+                  <currencyCode>GBP</currencyCode>
+                  <sevendigitalPrice>7.99</sevendigitalPrice>
+                  <recommendedRetailPrice>7.99</recommendedRetailPrice>
+                </price>
+                <formats>
+                  <format id="17">
+                    <description>MP3 320</description>
+                  </format>
+                  <format id="33">
+                    <description>M4A 320</description>
+                  </format>
+                </formats>
+              </package>
+            </packages>
+          </download>
+          <formats availableDrmFree="true">
+            <format id="17">
+              <fileFormat>MP3</fileFormat>
+              <bitRate>320</bitRate>
+              <drmFree>true</drmFree>
+            </format>
+            <format id="33">
+              <fileFormat>M4A</fileFormat>
+              <bitRate>320</bitRate>
+              <drmFree>true</drmFree>
+            </format>
+          </formats>
+          <label id="1221">
+            <name>Matador</name>
+          </label>
+        </release>
+      </listItem>
+      <listItem id="1229211">
+        <type>release</type>
+        <release id="1229211">
+          <title>Hessle Audio : 116 &amp; Rising</title>
+          <version/>
+          <type>Album</type>
+          <barcode>5055317213280</barcode>
+          <year>2011</year>
+          <explicitContent>false</explicitContent>
+          <artist id="1">
+            <name>Keane</name>
+            <appearsAs>Keane</appearsAs>
+            <url>http://www.7digital.com/artists/keane/?partner=712</url>
+          </artist>
+          <url>http://www.7digital.com/artists/various-artists/hessle-audio-116-and-rising/?partner=712</url>
+          <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/012/292/0001229211_50.jpg</image>
+          <releaseDate>2011-05-23T00:00:00+01:00</releaseDate>
+          <price>
+            <currency code="GBP"/>
+            <value>7.49</value>
+            <formattedPrice>£7.49</formattedPrice>
+            <rrp>7.49</rrp>
+            <formattedRrp>£7.49</formattedRrp>
+            <onSale>false</onSale>
+          </price>
+          <download>
+            <packages>
+              <package id="2">
+                <description>standard</description>
+                <price>
+                  <currencyCode>GBP</currencyCode>
+                  <sevendigitalPrice>7.49</sevendigitalPrice>
+                  <recommendedRetailPrice>7.49</recommendedRetailPrice>
+                </price>
+                <formats>
+                  <format id="17">
+                    <description>MP3 320</description>
+                  </format>
+                  <format id="33">
+                    <description>M4A 320</description>
+                  </format>
+                </formats>
+              </package>
+            </packages>
+          </download>
+          <formats availableDrmFree="true">
+            <format id="17">
+              <fileFormat>MP3</fileFormat>
+              <bitRate>320</bitRate>
+              <drmFree>true</drmFree>
+            </format>
+            <format id="33">
+              <fileFormat>M4A</fileFormat>
+              <bitRate>320</bitRate>
+              <drmFree>true</drmFree>
+            </format>
+          </formats>
+          <label id="42014">
+            <name>Hessle Audio</name>
+          </label>
+        </release>
+      </listItem>
+      <listItem id="1262480">
+        <type>release</type>
+        <release id="1262480">
+          <title>Last Smoke Before The Snowstorm</title>
+          <version/>
+          <type>Album</type>
+          <barcode>881034757869</barcode>
+          <year>2011</year>
+          <explicitContent>false</explicitContent>
+          <artist id="1">
+            <name>Keane</name>
+            <appearsAs>Keane</appearsAs>
+            <url>http://www.7digital.com/artists/keane/?partner=712</url>
+          </artist>
+          <url>http://www.7digital.com/artists/benjamin-francis-leftwich/last-smoke-before-the-snowstorm/?partner=712</url>
+          <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/012/624/0001262480_50.jpg</image>
+          <releaseDate>2011-07-03T00:00:00+01:00</releaseDate>
+          <price>
+            <currency code="GBP"/>
+            <value>7.49</value>
+            <formattedPrice>£7.49</formattedPrice>
+            <rrp>7.49</rrp>
+            <formattedRrp>£7.49</formattedRrp>
+            <onSale>false</onSale>
+          </price>
+          <download>
+            <packages>
+              <package id="2">
+                <description>standard</description>
+                <price>
+                  <currencyCode>GBP</currencyCode>
+                  <sevendigitalPrice>7.49</sevendigitalPrice>
+                  <recommendedRetailPrice>7.49</recommendedRetailPrice>
+                </price>
+                <formats>
+                  <format id="17">
+                    <description>MP3 320</description>
+                  </format>
+                  <format id="33">
+                    <description>M4A 320</description>
+                  </format>
+                </formats>
+              </package>
+            </packages>
+          </download>
+          <formats availableDrmFree="true">
+            <format id="17">
+              <fileFormat>MP3</fileFormat>
+              <bitRate>320</bitRate>
+              <drmFree>true</drmFree>
+            </format>
+            <format id="33">
+              <fileFormat>M4A</fileFormat>
+              <bitRate>320</bitRate>
+              <drmFree>true</drmFree>
+            </format>
+          </formats>
+          <label id="64254">
+            <name>Dirty Hit</name>
+          </label>
+        </release>
+      </listItem>
+      <listItem id="1222138">
+        <type>release</type>
+        <release id="1222138">
+          <title>Songs</title>
+          <version/>
+          <type>Album</type>
+          <barcode>00602527653730</barcode>
+          <year>2011</year>
+          <explicitContent>false</explicitContent>
+          <artist id="1">
+            <name>Keane</name>
+            <appearsAs>Keane</appearsAs>
+            <url>http://www.7digital.com/artists/keane/?partner=712</url>
+          </artist>
+          <url>http://www.7digital.com/artists/thomas-dybdahl-(1)/songs/?partner=712</url>
+          <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/012/221/0001222138_50.jpg</image>
+          <releaseDate>2011-07-04T00:00:00+01:00</releaseDate>
+          <price>
+            <currency code="GBP"/>
+            <value>7.99</value>
+            <formattedPrice>£7.99</formattedPrice>
+            <rrp>7.99</rrp>
+            <formattedRrp>£7.99</formattedRrp>
+            <onSale>false</onSale>
+          </price>
+          <download>
+            <packages>
+              <package id="2">
+                <description>standard</description>
+                <price>
+                  <currencyCode>GBP</currencyCode>
+                  <sevendigitalPrice>7.99</sevendigitalPrice>
+                  <recommendedRetailPrice>7.99</recommendedRetailPrice>
+                </price>
+                <formats>
+                  <format id="17">
+                    <description>MP3 320</description>
+                  </format>
+                </formats>
+              </package>
+            </packages>
+          </download>
+          <formats availableDrmFree="true">
+            <format id="17">
+              <fileFormat>MP3</fileFormat>
+              <bitRate>320</bitRate>
+              <drmFree>true</drmFree>
+            </format>
+          </formats>
+          <label id="3048">
+            <name>Universal Music Group International</name>
+          </label>
+        </release>
+      </listItem>
+      <listItem id="1249113">
+        <type>release</type>
+        <release id="1249113">
+          <title>Live - World's On Fire</title>
+          <version/>
+          <type>Album</type>
+          <barcode>0711297880489</barcode>
+          <year>2011</year>
+          <explicitContent>false</explicitContent>
+          <artist id="1">
+            <name>Keane</name>
+            <appearsAs>Keane</appearsAs>
+            <url>http://www.7digital.com/artists/keane/?partner=712</url>
+          </artist>
+          <url>http://www.7digital.com/artists/the-prodigy/live-worlds-on-fire-2/?partner=712</url>
+          <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/012/491/0001249113_50.jpg</image>
+          <releaseDate>2011-05-22T00:00:00+01:00</releaseDate>
+          <price>
+            <currency code="GBP"/>
+            <value>7.99</value>
+            <formattedPrice>£7.99</formattedPrice>
+            <rrp>7.99</rrp>
+            <formattedRrp>£7.99</formattedRrp>
+            <onSale>false</onSale>
+          </price>
+          <download>
+            <packages>
+              <package id="2">
+                <description>standard</description>
+                <price>
+                  <currencyCode>GBP</currencyCode>
+                  <sevendigitalPrice>7.99</sevendigitalPrice>
+                  <recommendedRetailPrice>7.99</recommendedRetailPrice>
+                </price>
+                <formats>
+                  <format id="17">
+                    <description>MP3 320</description>
+                  </format>
+                  <format id="33">
+                    <description>M4A 320</description>
+                  </format>
+                </formats>
+              </package>
+            </packages>
+          </download>
+          <formats availableDrmFree="true">
+            <format id="17">
+              <fileFormat>MP3</fileFormat>
+              <bitRate>320</bitRate>
+              <drmFree>true</drmFree>
+            </format>
+            <format id="33">
+              <fileFormat>M4A</fileFormat>
+              <bitRate>320</bitRate>
+              <drmFree>true</drmFree>
+            </format>
+          </formats>
+          <label id="24291">
+            <name>Take Me To The Hospital</name>
+          </label>
+        </release>
+      </listItem>
+      <listItem id="1238257">
+        <type>release</type>
+        <release id="1238257">
+          <title>Brilliant! Tragic!</title>
+          <version/>
+          <type>Album</type>
+          <barcode>0711297493443</barcode>
+          <year>2011</year>
+          <explicitContent>false</explicitContent>
+          <artist id="1">
+            <name>Keane</name>
+            <appearsAs>Keane</appearsAs>
+            <url>http://www.7digital.com/artists/keane/?partner=712</url>
+          </artist>
+          <url>http://www.7digital.com/artists/art-brut/brilliant-tragic/?partner=712</url>
+          <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/012/382/0001238257_50.jpg</image>
+          <releaseDate>2011-05-22T00:00:00+01:00</releaseDate>
+          <price>
+            <currency code="GBP"/>
+            <value>7.99</value>
+            <formattedPrice>£7.99</formattedPrice>
+            <rrp>7.99</rrp>
+            <formattedRrp>£7.99</formattedRrp>
+            <onSale>false</onSale>
+          </price>
+          <download>
+            <packages>
+              <package id="2">
+                <description>standard</description>
+                <price>
+                  <currencyCode>GBP</currencyCode>
+                  <sevendigitalPrice>7.99</sevendigitalPrice>
+                  <recommendedRetailPrice>7.99</recommendedRetailPrice>
+                </price>
+                <formats>
+                  <format id="17">
+                    <description>MP3 320</description>
+                  </format>
+                  <format id="33">
+                    <description>M4A 320</description>
+                  </format>
+                </formats>
+              </package>
+            </packages>
+          </download>
+          <formats availableDrmFree="true">
+            <format id="17">
+              <fileFormat>MP3</fileFormat>
+              <bitRate>320</bitRate>
+              <drmFree>true</drmFree>
+            </format>
+            <format id="33">
+              <fileFormat>M4A</fileFormat>
+              <bitRate>320</bitRate>
+              <drmFree>true</drmFree>
+            </format>
+          </formats>
+          <label id="606">
+            <name>Cooking Vinyl</name>
+          </label>
+        </release>
+      </listItem>
+      <listItem id="1291499">
+        <type>release</type>
+        <release id="1291499">
+          <title>DJ-Kicks</title>
+          <version/>
+          <type>Album</type>
+          <barcode>0730003728549</barcode>
+          <year>2011</year>
+          <explicitContent>false</explicitContent>
+          <artist id="1">
+            <name>Keane</name>
+            <appearsAs>Keane</appearsAs>
+            <url>http://www.7digital.com/artists/keane/?partner=712</url>
+          </artist>
+          <url>http://www.7digital.com/artists/motor-city-drum-ensemble/dj-kicks/?partner=712</url>
+          <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/012/914/0001291499_50.jpg</image>
+          <releaseDate>2011-07-04T00:00:00+01:00</releaseDate>
+          <price>
+            <currency code="GBP"/>
+            <value>7.99</value>
+            <formattedPrice>£7.99</formattedPrice>
+            <rrp>7.99</rrp>
+            <formattedRrp>£7.99</formattedRrp>
+            <onSale>false</onSale>
+          </price>
+          <download>
+            <packages>
+              <package id="2">
+                <description>standard</description>
+                <price>
+                  <currencyCode>GBP</currencyCode>
+                  <sevendigitalPrice>7.99</sevendigitalPrice>
+                  <recommendedRetailPrice>7.99</recommendedRetailPrice>
+                </price>
+                <formats>
+                  <format id="17">
+                    <description>MP3 320</description>
+                  </format>
+                  <format id="33">
+                    <description>M4A 320</description>
+                  </format>
+                </formats>
+              </package>
+            </packages>
+          </download>
+          <formats availableDrmFree="true">
+            <format id="17">
+              <fileFormat>MP3</fileFormat>
+              <bitRate>320</bitRate>
+              <drmFree>true</drmFree>
+            </format>
+            <format id="33">
+              <fileFormat>M4A</fileFormat>
+              <bitRate>320</bitRate>
+              <drmFree>true</drmFree>
+            </format>
+          </formats>
+          <label id="1287">
+            <name>!K7 Records</name>
+          </label>
+        </release>
+      </listItem>
+      <listItem id="1244355">
+        <type>release</type>
+        <release id="1244355">
+          <title>Bon Iver</title>
+          <version/>
+          <type>Album</type>
+          <barcode>652637311761</barcode>
+          <year>2011</year>
+          <explicitContent>false</explicitContent>
+          <artist id="1">
+            <name>Keane</name>
+            <appearsAs>Keane</appearsAs>
+            <url>http://www.7digital.com/artists/keane/?partner=712</url>
+          </artist>
+          <url>http://www.7digital.com/artists/bon-iver/bon-iver/?partner=712</url>
+          <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/012/443/0001244355_50.jpg</image>
+          <releaseDate>2011-06-20T00:00:00+01:00</releaseDate>
+          <price>
+            <currency code="GBP"/>
+            <value>7.99</value>
+            <formattedPrice>£7.99</formattedPrice>
+            <rrp>7.99</rrp>
+            <formattedRrp>£7.99</formattedRrp>
+            <onSale>false</onSale>
+          </price>
+          <download>
+            <packages>
+              <package id="2">
+                <description>standard</description>
+                <price>
+                  <currencyCode>GBP</currencyCode>
+                  <sevendigitalPrice>7.99</sevendigitalPrice>
+                  <recommendedRetailPrice>7.99</recommendedRetailPrice>
+                </price>
+                <formats>
+                  <format id="17">
+                    <description>MP3 320</description>
+                  </format>
+                  <format id="33">
+                    <description>M4A 320</description>
+                  </format>
+                </formats>
+              </package>
+            </packages>
+          </download>
+          <formats availableDrmFree="true">
+            <format id="17">
+              <fileFormat>MP3</fileFormat>
+              <bitRate>320</bitRate>
+              <drmFree>true</drmFree>
+            </format>
+            <format id="33">
+              <fileFormat>M4A</fileFormat>
+              <bitRate>320</bitRate>
+              <drmFree>true</drmFree>
+            </format>
+          </formats>
+          <label id="905">
+            <name>4AD</name>
+          </label>
+        </release>
+      </listItem>
+      <listItem id="1238988">
+        <type>release</type>
+        <release id="1238988">
+          <title>Blood Like Lemonade</title>
+          <version/>
+          <type>Album</type>
+          <barcode>5414939123870</barcode>
+          <year>2011</year>
+          <explicitContent>false</explicitContent>
+          <artist id="1">
+            <name>Keane</name>
+            <appearsAs>Keane</appearsAs>
+            <url>http://www.7digital.com/artists/keane/?partner=712</url>
+          </artist>
+          <url>http://www.7digital.com/artists/morcheeba/blood-like-lemonade-5/?partner=712</url>
+          <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/012/389/0001238988_50.jpg</image>
+          <releaseDate>2011-05-23T00:00:00+01:00</releaseDate>
+          <price>
+            <currency code="GBP"/>
+            <value>3.99</value>
+            <formattedPrice>£3.99</formattedPrice>
+            <rrp>3.99</rrp>
+            <formattedRrp>£3.99</formattedRrp>
+            <onSale>false</onSale>
+          </price>
+          <download>
+            <packages>
+              <package id="2">
+                <description>standard</description>
+                <price>
+                  <currencyCode>GBP</currencyCode>
+                  <sevendigitalPrice>3.99</sevendigitalPrice>
+                  <recommendedRetailPrice>3.99</recommendedRetailPrice>
+                </price>
+                <formats>
+                  <format id="17">
+                    <description>MP3 320</description>
+                  </format>
+                  <format id="33">
+                    <description>M4A 320</description>
+                  </format>
+                </formats>
+              </package>
+            </packages>
+          </download>
+          <formats availableDrmFree="true">
+            <format id="17">
+              <fileFormat>MP3</fileFormat>
+              <bitRate>320</bitRate>
+              <drmFree>true</drmFree>
+            </format>
+            <format id="33">
+              <fileFormat>M4A</fileFormat>
+              <bitRate>320</bitRate>
+              <drmFree>true</drmFree>
+            </format>
+          </formats>
+          <label id="50656">
+            <name>[PIAS] Recordings</name>
+          </label>
+        </release>
+      </listItem>
+      <listItem id="1254350">
+        <type>release</type>
+        <release id="1254350">
+          <title>Sweet Defeat</title>
+          <version/>
+          <type>Album</type>
+          <barcode>5037300771403</barcode>
+          <year>2011</year>
+          <explicitContent>false</explicitContent>
+          <artist id="1">
+            <name>Keane</name>
+            <appearsAs>Keane</appearsAs>
+            <url>http://www.7digital.com/artists/keane/?partner=712</url>
+          </artist>
+          <url>http://www.7digital.com/artists/jon-allen/sweet-defeat-1/?partner=712</url>
+          <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/012/543/0001254350_50.jpg</image>
+          <releaseDate>2011-05-22T00:00:00+01:00</releaseDate>
+          <price>
+            <currency code="GBP"/>
+            <value>7.49</value>
+            <formattedPrice>£7.49</formattedPrice>
+            <rrp>7.49</rrp>
+            <formattedRrp>£7.49</formattedRrp>
+            <onSale>false</onSale>
+          </price>
+          <download>
+            <packages>
+              <package id="2">
+                <description>standard</description>
+                <price>
+                  <currencyCode>GBP</currencyCode>
+                  <sevendigitalPrice>7.49</sevendigitalPrice>
+                  <recommendedRetailPrice>7.49</recommendedRetailPrice>
+                </price>
+                <formats>
+                  <format id="17">
+                    <description>MP3 320</description>
+                  </format>
+                  <format id="33">
+                    <description>M4A 320</description>
+                  </format>
+                </formats>
+              </package>
+            </packages>
+          </download>
+          <formats availableDrmFree="true">
+            <format id="17">
+              <fileFormat>MP3</fileFormat>
+              <bitRate>320</bitRate>
+              <drmFree>true</drmFree>
+            </format>
+            <format id="33">
+              <fileFormat>M4A</fileFormat>
+              <bitRate>320</bitRate>
+              <drmFree>true</drmFree>
+            </format>
+          </formats>
+          <label id="22262">
+            <name>Monologue Records</name>
+          </label>
+        </release>
+      </listItem>
+      <listItem id="1292241">
+        <type>release</type>
+        <release id="1292241">
+          <title>4</title>
+          <version/>
+          <type>Album</type>
+          <barcode>886443064393</barcode>
+          <year>2011</year>
+          <explicitContent>false</explicitContent>
+          <artist id="1">
+            <name>Keane</name>
+            <appearsAs>Keane</appearsAs>
+            <url>http://www.7digital.com/artists/keane/?partner=712</url>
+          </artist>
+          <url>http://www.7digital.com/artists/beyoncé/4-1/?partner=712</url>
+          <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/012/922/0001292241_50.jpg</image>
+          <releaseDate>2011-06-27T00:00:00+01:00</releaseDate>
+          <price>
+            <currency code="GBP"/>
+            <value>7.99</value>
+            <formattedPrice>£7.99</formattedPrice>
+            <rrp>7.99</rrp>
+            <formattedRrp>£7.99</formattedRrp>
+            <onSale>false</onSale>
+          </price>
+          <download>
+            <packages>
+              <package id="2">
+                <description>standard</description>
+                <price>
+                  <currencyCode>GBP</currencyCode>
+                  <sevendigitalPrice>7.99</sevendigitalPrice>
+                  <recommendedRetailPrice>7.99</recommendedRetailPrice>
+                </price>
+                <formats>
+                  <format id="17">
+                    <description>MP3 320</description>
+                  </format>
+                </formats>
+              </package>
+            </packages>
+          </download>
+          <formats availableDrmFree="true">
+            <format id="17">
+              <fileFormat>MP3</fileFormat>
+              <bitRate>320</bitRate>
+              <drmFree>true</drmFree>
+            </format>
+          </formats>
+          <label id="81250">
+            <name>Parkwood Entertainment/Columbia</name>
+          </label>
+        </release>
+      </listItem>
+      <listItem id="1271743">
+        <type>release</type>
+        <release id="1271743">
+          <title>Torches</title>
+          <version/>
+          <type>Album</type>
+          <barcode>886443067721</barcode>
+          <year>2011</year>
+          <explicitContent>false</explicitContent>
+          <artist id="1">
+            <name>Keane</name>
+            <appearsAs>Keane</appearsAs>
+            <url>http://www.7digital.com/artists/keane/?partner=712</url>
+          </artist>
+          <url>http://www.7digital.com/artists/foster-the-people/torches-1/?partner=712</url>
+          <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/012/717/0001271743_50.jpg</image>
+          <releaseDate>2011-06-27T00:00:00+01:00</releaseDate>
+          <price>
+            <currency code="GBP"/>
+            <value>0</value>
+            <formattedPrice>£0.00</formattedPrice>
+            <rrp>0</rrp>
+            <formattedRrp>£0.00</formattedRrp>
+            <onSale>true</onSale>
+          </price>
+          <download>
+            <packages>
+              <package id="2">
+                <description>standard</description>
+                <price>
+                  <currencyCode>GBP</currencyCode>
+                  <sevendigitalPrice>0</sevendigitalPrice>
+                  <recommendedRetailPrice>0</recommendedRetailPrice>
+                </price>
+                <formats>
+                  <format id="17">
+                    <description>MP3 320</description>
+                  </format>
+                </formats>
+              </package>
+            </packages>
+          </download>
+          <formats availableDrmFree="true">
+            <format id="17">
+              <fileFormat>MP3</fileFormat>
+              <bitRate>320</bitRate>
+              <drmFree>true</drmFree>
+            </format>
+          </formats>
+          <label id="592">
+            <name>Columbia</name>
+          </label>
+        </release>
+      </listItem>
+      <listItem id="1254088">
+        <type>release</type>
+        <release id="1254088">
+          <title>Wild Romance</title>
+          <version/>
+          <type>Album</type>
+          <barcode>881034773487</barcode>
+          <year>2011</year>
+          <explicitContent>false</explicitContent>
+          <artist id="1">
+            <name>Keane</name>
+            <appearsAs>Keane</appearsAs>
+            <url>http://www.7digital.com/artists/keane/?partner=712</url>
+          </artist>
+          <url>http://www.7digital.com/artists/kissy-sell-out/wild-romance/?partner=712</url>
+          <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/012/540/0001254088_50.jpg</image>
+          <releaseDate>2011-05-23T00:00:00+01:00</releaseDate>
+          <price>
+            <currency code="GBP"/>
+            <value>7.49</value>
+            <formattedPrice>£7.49</formattedPrice>
+            <rrp>7.49</rrp>
+            <formattedRrp>£7.49</formattedRrp>
+            <onSale>true</onSale>
+          </price>
+          <download>
+            <packages>
+              <package id="2">
+                <description>standard</description>
+                <price>
+                  <currencyCode>GBP</currencyCode>
+                  <sevendigitalPrice>7.49</sevendigitalPrice>
+                  <recommendedRetailPrice>7.49</recommendedRetailPrice>
+                </price>
+                <formats>
+                  <format id="17">
+                    <description>MP3 320</description>
+                  </format>
+                  <format id="33">
+                    <description>M4A 320</description>
+                  </format>
+                </formats>
+              </package>
+            </packages>
+          </download>
+          <formats availableDrmFree="true">
+            <format id="17">
+              <fileFormat>MP3</fileFormat>
+              <bitRate>320</bitRate>
+              <drmFree>true</drmFree>
+            </format>
+            <format id="33">
+              <fileFormat>M4A</fileFormat>
+              <bitRate>320</bitRate>
+              <drmFree>true</drmFree>
+            </format>
+          </formats>
+          <label id="52201">
+            <name>San City High</name>
+          </label>
+        </release>
+      </listItem>
+    </listItems>
+  </list>
 </response>

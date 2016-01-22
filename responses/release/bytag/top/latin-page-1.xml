@@ -1,219 +1,219 @@
 <?xml version="1.0" encoding="utf-8"?>
 <response xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" status="ok" version="1.2" xsi:noNamespaceSchemaLocation="http://api.7digital.com/1.2/static/7digitalAPI.xsd">
-	<taggedResults>
-		<page>1</page>
-		<pageSize>10</pageSize>
-		<totalItems>43598</totalItems>
-		<type>release</type>
-		<taggedItem>
-			<release id="1275025">
-				<title>Ibiza Summer Vibes, Vol. 1</title>
-				<version/>
-				<type>Album</type>
-				<barcode>3661585913481</barcode>
-				<year>2011</year>
-				<explicitContent>false</explicitContent>
-				<artist id="209">
-					<name>Various Artists</name>
-					<appearsAs>Various Artists</appearsAs>
-					<url>http://www.7digital.com/artist/various-artists/?partner=1401</url>
-				</artist>
-				<url>http://www.7digital.com/artist/various-artists/release/ibiza-summer-vibes-vol-1/?partner=1401</url>
-				<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/012/750/0001275025_50.jpg</image>
-				<releaseDate>2011-06-25T00:00:00+01:00</releaseDate>
-				<addedDate>2011-06-03T15:11:04+01:00</addedDate>
-				<popularity>0.65</popularity>
-				<streamingReleaseDate>2011-06-25T00:00:00+01:00</streamingReleaseDate>
-			</release>
-		</taggedItem>
-		<taggedItem>
-			<release id="1222780">
-				<title>Lambada</title>
-				<version/>
-				<type>Album</type>
-				<barcode>3661585831426</barcode>
-				<year>2011</year>
-				<explicitContent>false</explicitContent>
-				<artist id="930390">
-					<name>Kosa</name>
-					<appearsAs>Kosa</appearsAs>
-					<url>http://www.7digital.com/artist/kosa/?partner=1401</url>
-				</artist>
-				<url>http://www.7digital.com/artist/kosa/release/lambada/?partner=1401</url>
-				<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/012/227/0001222780_50.jpg</image>
-				<releaseDate>2011-04-28T00:00:00+01:00</releaseDate>
-				<addedDate>2011-04-21T17:33:28+01:00</addedDate>
-				<popularity>0.62</popularity>
-				<streamingReleaseDate>2011-04-28T00:00:00+01:00</streamingReleaseDate>
-			</release>
-		</taggedItem>
-		<taggedItem>
-			<release id="1259579">
-				<title>Relaxing Summer Chill, Vol. 3</title>
-				<version/>
-				<type>Album</type>
-				<barcode>3661585891116</barcode>
-				<year>2011</year>
-				<explicitContent>false</explicitContent>
-				<artist id="209">
-					<name>Various Artists</name>
-					<appearsAs>Various Artists</appearsAs>
-					<url>http://www.7digital.com/artist/various-artists/?partner=1401</url>
-				</artist>
-				<url>http://www.7digital.com/artist/various-artists/release/relaxing-summer-chill-vol-3/?partner=1401</url>
-				<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/012/595/0001259579_50.jpg</image>
-				<releaseDate>2011-07-14T00:00:00+01:00</releaseDate>
-				<addedDate>2011-06-03T15:11:09+01:00</addedDate>
-				<popularity>0.62</popularity>
-				<streamingReleaseDate>2011-07-14T00:00:00+01:00</streamingReleaseDate>
-			</release>
-		</taggedItem>
-		<taggedItem>
-			<release id="1265725">
-				<title>Reggaeton 2011</title>
-				<version/>
-				<type>Album</type>
-				<barcode>885686844250</barcode>
-				<year>2011</year>
-				<explicitContent>false</explicitContent>
-				<artist id="29579">
-					<name>Varios Artistas</name>
-					<appearsAs>Varios Artistas</appearsAs>
-					<url>http://www.7digital.com/artist/varios-artistas/?partner=1401</url>
-				</artist>
-				<url>http://www.7digital.com/artist/varios-artistas/release/reggaeton-2011/?partner=1401</url>
-				<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/012/657/0001265725_50.jpg</image>
-				<releaseDate>2011-05-10T00:00:00+01:00</releaseDate>
-				<addedDate>2011-05-27T19:28:32+01:00</addedDate>
-				<popularity>0.6</popularity>
-				<streamingReleaseDate>2011-05-10T00:00:00+01:00</streamingReleaseDate>
-			</release>
-		</taggedItem>
-		<taggedItem>
-			<release id="1171451">
-				<title>Just Salsa</title>
-				<version/>
-				<type>Single</type>
-				<barcode>676296192028</barcode>
-				<year>2011</year>
-				<explicitContent>false</explicitContent>
-				<artist id="209">
-					<name>Various Artists</name>
-					<appearsAs>Various Artists</appearsAs>
-					<url>http://www.7digital.com/artist/various-artists/?partner=1401</url>
-				</artist>
-				<url>http://www.7digital.com/artist/various-artists/release/just-salsa/?partner=1401</url>
-				<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/011/714/0001171451_50.jpg</image>
-				<releaseDate>2011-02-15T00:00:00+00:00</releaseDate>
-				<addedDate>2011-03-02T11:11:39+00:00</addedDate>
-				<popularity>0.58</popularity>
-				<streamingReleaseDate>2011-02-15T00:00:00+00:00</streamingReleaseDate>
-			</release>
-		</taggedItem>
-		<taggedItem>
-			<release id="1207969">
-				<title>Drama Y Luz</title>
-				<version/>
-				<type>Album</type>
-				<barcode>825646733514</barcode>
-				<year>2011</year>
-				<explicitContent>false</explicitContent>
-				<artist id="5634">
-					<name>Maná</name>
-					<appearsAs>Maná</appearsAs>
-					<url>http://www.7digital.com/artist/maná/?partner=1401</url>
-				</artist>
-				<url>http://www.7digital.com/artist/maná/release/drama-y-luz/?partner=1401</url>
-				<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/012/079/0001207969_50.jpg</image>
-				<releaseDate>2011-04-11T00:00:00+01:00</releaseDate>
-				<addedDate>2011-04-07T12:04:45+01:00</addedDate>
-				<popularity>0.55</popularity>
-				<streamingReleaseDate>2011-04-11T00:00:00+01:00</streamingReleaseDate>
-			</release>
-		</taggedItem>
-		<taggedItem>
-			<release id="1237566">
-				<title>Beach Lounge 2011</title>
-				<version/>
-				<type>Album</type>
-				<barcode>3661585851127</barcode>
-				<year>2011</year>
-				<explicitContent>false</explicitContent>
-				<artist id="209">
-					<name>Various Artists</name>
-					<appearsAs>Various Artists</appearsAs>
-					<url>http://www.7digital.com/artist/various-artists/?partner=1401</url>
-				</artist>
-				<url>http://www.7digital.com/artist/various-artists/release/beach-lounge-2011/?partner=1401</url>
-				<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/012/375/0001237566_50.jpg</image>
-				<releaseDate>2011-05-11T00:00:00+01:00</releaseDate>
-				<addedDate>2011-05-06T15:39:52+01:00</addedDate>
-				<popularity>0.55</popularity>
-				<streamingReleaseDate>2011-05-11T00:00:00+01:00</streamingReleaseDate>
-			</release>
-		</taggedItem>
-		<taggedItem>
-			<release id="1302742">
-				<title>Ao Vivo</title>
-				<version/>
-				<type>Album</type>
-				<barcode>7891430171223</barcode>
-				<year>2011</year>
-				<explicitContent>false</explicitContent>
-				<artist id="595937">
-					<name>Michel Teló</name>
-					<appearsAs>Michel Teló</appearsAs>
-					<url>http://www.7digital.com/artist/michel-telo/?partner=1401</url>
-				</artist>
-				<url>http://www.7digital.com/artist/michel-telo/release/ao-vivo/?partner=1401</url>
-				<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/013/027/0001302742_50.jpg</image>
-				<releaseDate>2011-07-26T00:00:00+01:00</releaseDate>
-				<addedDate>2011-06-29T12:07:12+01:00</addedDate>
-				<popularity>0.54</popularity>
-				<streamingReleaseDate>2011-07-26T00:00:00+01:00</streamingReleaseDate>
-			</release>
-		</taggedItem>
-		<taggedItem>
-			<release id="833582">
-				<title>Prince Royce</title>
-				<version/>
-				<type>Album</type>
-				<barcode>8033462902362</barcode>
-				<year>2012</year>
-				<explicitContent>false</explicitContent>
-				<artist id="469694">
-					<name>Prince Royce</name>
-					<appearsAs>Prince Royce</appearsAs>
-					<url>http://www.7digital.com/artist/prince-royce/?partner=1401</url>
-				</artist>
-				<url>http://www.7digital.com/artist/prince-royce/release/prince-royce-1/?partner=1401</url>
-				<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/008/335/0000833582_50.jpg</image>
-				<releaseDate>2012-01-18T00:00:00+00:00</releaseDate>
-				<addedDate>2010-05-14T16:49:35+01:00</addedDate>
-				<popularity>0.54</popularity>
-				<streamingReleaseDate>2012-01-18T00:00:00+00:00</streamingReleaseDate>
-			</release>
-		</taggedItem>
-		<taggedItem>
-			<release id="1235166">
-				<title>The Best Of Santana</title>
-				<version/>
-				<type>Album</type>
-				<barcode>886443001282</barcode>
-				<year>2011</year>
-				<explicitContent>false</explicitContent>
-				<artist id="3815">
-					<name>Santana</name>
-					<appearsAs>Santana</appearsAs>
-					<url>http://www.7digital.com/artist/santana/?partner=1401</url>
-				</artist>
-				<url>http://www.7digital.com/artist/santana/release/the-best-of-santana-8/?partner=1401</url>
-				<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/012/351/0001235166_50.jpg</image>
-				<releaseDate>2011-05-16T00:00:00+01:00</releaseDate>
-				<addedDate>2011-05-06T05:01:00+01:00</addedDate>
-				<popularity>0.54</popularity>
-				<streamingReleaseDate>2011-05-16T00:00:00+01:00</streamingReleaseDate>
-			</release>
-		</taggedItem>
-	</taggedResults>
+  <taggedResults>
+    <page>1</page>
+    <pageSize>10</pageSize>
+    <totalItems>43598</totalItems>
+    <type>release</type>
+    <taggedItem>
+      <release id="1275025">
+        <title>Ibiza Summer Vibes, Vol. 1</title>
+        <version/>
+        <type>Album</type>
+        <barcode>3661585913481</barcode>
+        <year>2011</year>
+        <explicitContent>false</explicitContent>
+        <artist id="209">
+          <name>Various Artists</name>
+          <appearsAs>Various Artists</appearsAs>
+          <url>http://www.7digital.com/artist/various-artists/?partner=1401</url>
+        </artist>
+        <url>http://www.7digital.com/artist/various-artists/release/ibiza-summer-vibes-vol-1/?partner=1401</url>
+        <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/012/750/0001275025_50.jpg</image>
+        <releaseDate>2011-06-25T00:00:00+01:00</releaseDate>
+        <addedDate>2011-06-03T15:11:04+01:00</addedDate>
+        <popularity>0.65</popularity>
+        <streamingReleaseDate>2011-06-25T00:00:00+01:00</streamingReleaseDate>
+      </release>
+    </taggedItem>
+    <taggedItem>
+      <release id="1222780">
+        <title>Lambada</title>
+        <version/>
+        <type>Album</type>
+        <barcode>3661585831426</barcode>
+        <year>2011</year>
+        <explicitContent>false</explicitContent>
+        <artist id="930390">
+          <name>Kosa</name>
+          <appearsAs>Kosa</appearsAs>
+          <url>http://www.7digital.com/artist/kosa/?partner=1401</url>
+        </artist>
+        <url>http://www.7digital.com/artist/kosa/release/lambada/?partner=1401</url>
+        <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/012/227/0001222780_50.jpg</image>
+        <releaseDate>2011-04-28T00:00:00+01:00</releaseDate>
+        <addedDate>2011-04-21T17:33:28+01:00</addedDate>
+        <popularity>0.62</popularity>
+        <streamingReleaseDate>2011-04-28T00:00:00+01:00</streamingReleaseDate>
+      </release>
+    </taggedItem>
+    <taggedItem>
+      <release id="1259579">
+        <title>Relaxing Summer Chill, Vol. 3</title>
+        <version/>
+        <type>Album</type>
+        <barcode>3661585891116</barcode>
+        <year>2011</year>
+        <explicitContent>false</explicitContent>
+        <artist id="209">
+          <name>Various Artists</name>
+          <appearsAs>Various Artists</appearsAs>
+          <url>http://www.7digital.com/artist/various-artists/?partner=1401</url>
+        </artist>
+        <url>http://www.7digital.com/artist/various-artists/release/relaxing-summer-chill-vol-3/?partner=1401</url>
+        <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/012/595/0001259579_50.jpg</image>
+        <releaseDate>2011-07-14T00:00:00+01:00</releaseDate>
+        <addedDate>2011-06-03T15:11:09+01:00</addedDate>
+        <popularity>0.62</popularity>
+        <streamingReleaseDate>2011-07-14T00:00:00+01:00</streamingReleaseDate>
+      </release>
+    </taggedItem>
+    <taggedItem>
+      <release id="1265725">
+        <title>Reggaeton 2011</title>
+        <version/>
+        <type>Album</type>
+        <barcode>885686844250</barcode>
+        <year>2011</year>
+        <explicitContent>false</explicitContent>
+        <artist id="29579">
+          <name>Varios Artistas</name>
+          <appearsAs>Varios Artistas</appearsAs>
+          <url>http://www.7digital.com/artist/varios-artistas/?partner=1401</url>
+        </artist>
+        <url>http://www.7digital.com/artist/varios-artistas/release/reggaeton-2011/?partner=1401</url>
+        <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/012/657/0001265725_50.jpg</image>
+        <releaseDate>2011-05-10T00:00:00+01:00</releaseDate>
+        <addedDate>2011-05-27T19:28:32+01:00</addedDate>
+        <popularity>0.6</popularity>
+        <streamingReleaseDate>2011-05-10T00:00:00+01:00</streamingReleaseDate>
+      </release>
+    </taggedItem>
+    <taggedItem>
+      <release id="1171451">
+        <title>Just Salsa</title>
+        <version/>
+        <type>Single</type>
+        <barcode>676296192028</barcode>
+        <year>2011</year>
+        <explicitContent>false</explicitContent>
+        <artist id="209">
+          <name>Various Artists</name>
+          <appearsAs>Various Artists</appearsAs>
+          <url>http://www.7digital.com/artist/various-artists/?partner=1401</url>
+        </artist>
+        <url>http://www.7digital.com/artist/various-artists/release/just-salsa/?partner=1401</url>
+        <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/011/714/0001171451_50.jpg</image>
+        <releaseDate>2011-02-15T00:00:00+00:00</releaseDate>
+        <addedDate>2011-03-02T11:11:39+00:00</addedDate>
+        <popularity>0.58</popularity>
+        <streamingReleaseDate>2011-02-15T00:00:00+00:00</streamingReleaseDate>
+      </release>
+    </taggedItem>
+    <taggedItem>
+      <release id="1207969">
+        <title>Drama Y Luz</title>
+        <version/>
+        <type>Album</type>
+        <barcode>825646733514</barcode>
+        <year>2011</year>
+        <explicitContent>false</explicitContent>
+        <artist id="5634">
+          <name>Maná</name>
+          <appearsAs>Maná</appearsAs>
+          <url>http://www.7digital.com/artist/maná/?partner=1401</url>
+        </artist>
+        <url>http://www.7digital.com/artist/maná/release/drama-y-luz/?partner=1401</url>
+        <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/012/079/0001207969_50.jpg</image>
+        <releaseDate>2011-04-11T00:00:00+01:00</releaseDate>
+        <addedDate>2011-04-07T12:04:45+01:00</addedDate>
+        <popularity>0.55</popularity>
+        <streamingReleaseDate>2011-04-11T00:00:00+01:00</streamingReleaseDate>
+      </release>
+    </taggedItem>
+    <taggedItem>
+      <release id="1237566">
+        <title>Beach Lounge 2011</title>
+        <version/>
+        <type>Album</type>
+        <barcode>3661585851127</barcode>
+        <year>2011</year>
+        <explicitContent>false</explicitContent>
+        <artist id="209">
+          <name>Various Artists</name>
+          <appearsAs>Various Artists</appearsAs>
+          <url>http://www.7digital.com/artist/various-artists/?partner=1401</url>
+        </artist>
+        <url>http://www.7digital.com/artist/various-artists/release/beach-lounge-2011/?partner=1401</url>
+        <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/012/375/0001237566_50.jpg</image>
+        <releaseDate>2011-05-11T00:00:00+01:00</releaseDate>
+        <addedDate>2011-05-06T15:39:52+01:00</addedDate>
+        <popularity>0.55</popularity>
+        <streamingReleaseDate>2011-05-11T00:00:00+01:00</streamingReleaseDate>
+      </release>
+    </taggedItem>
+    <taggedItem>
+      <release id="1302742">
+        <title>Ao Vivo</title>
+        <version/>
+        <type>Album</type>
+        <barcode>7891430171223</barcode>
+        <year>2011</year>
+        <explicitContent>false</explicitContent>
+        <artist id="595937">
+          <name>Michel Teló</name>
+          <appearsAs>Michel Teló</appearsAs>
+          <url>http://www.7digital.com/artist/michel-telo/?partner=1401</url>
+        </artist>
+        <url>http://www.7digital.com/artist/michel-telo/release/ao-vivo/?partner=1401</url>
+        <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/013/027/0001302742_50.jpg</image>
+        <releaseDate>2011-07-26T00:00:00+01:00</releaseDate>
+        <addedDate>2011-06-29T12:07:12+01:00</addedDate>
+        <popularity>0.54</popularity>
+        <streamingReleaseDate>2011-07-26T00:00:00+01:00</streamingReleaseDate>
+      </release>
+    </taggedItem>
+    <taggedItem>
+      <release id="833582">
+        <title>Prince Royce</title>
+        <version/>
+        <type>Album</type>
+        <barcode>8033462902362</barcode>
+        <year>2012</year>
+        <explicitContent>false</explicitContent>
+        <artist id="469694">
+          <name>Prince Royce</name>
+          <appearsAs>Prince Royce</appearsAs>
+          <url>http://www.7digital.com/artist/prince-royce/?partner=1401</url>
+        </artist>
+        <url>http://www.7digital.com/artist/prince-royce/release/prince-royce-1/?partner=1401</url>
+        <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/008/335/0000833582_50.jpg</image>
+        <releaseDate>2012-01-18T00:00:00+00:00</releaseDate>
+        <addedDate>2010-05-14T16:49:35+01:00</addedDate>
+        <popularity>0.54</popularity>
+        <streamingReleaseDate>2012-01-18T00:00:00+00:00</streamingReleaseDate>
+      </release>
+    </taggedItem>
+    <taggedItem>
+      <release id="1235166">
+        <title>The Best Of Santana</title>
+        <version/>
+        <type>Album</type>
+        <barcode>886443001282</barcode>
+        <year>2011</year>
+        <explicitContent>false</explicitContent>
+        <artist id="3815">
+          <name>Santana</name>
+          <appearsAs>Santana</appearsAs>
+          <url>http://www.7digital.com/artist/santana/?partner=1401</url>
+        </artist>
+        <url>http://www.7digital.com/artist/santana/release/the-best-of-santana-8/?partner=1401</url>
+        <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/012/351/0001235166_50.jpg</image>
+        <releaseDate>2011-05-16T00:00:00+01:00</releaseDate>
+        <addedDate>2011-05-06T05:01:00+01:00</addedDate>
+        <popularity>0.54</popularity>
+        <streamingReleaseDate>2011-05-16T00:00:00+01:00</streamingReleaseDate>
+      </release>
+    </taggedItem>
+  </taggedResults>
 </response>

@@ -1,1 +1,83 @@
-<?xml version="1.0" encoding="utf-8"?><response xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" status="ok" version="1.2" xsi:noNamespaceSchemaLocation="http://api.7digital.com/1.2/static/7digitalAPI.xsd"><release id="4256606"><title>Short Movie</title><version>Explicit</version><type>Album</type><barcode>00602547171733</barcode><year>2015</year><explicitContent>true</explicitContent><artist id="131086"><name>Laura Marling</name><appearsAs>Laura Marling</appearsAs><url>http://www.7digital.com/artist/laura-marling/?partner=3923</url></artist><url>http://www.7digital.com/artist/laura-marling/release/short-movie-explicit-2/?partner=3923</url><image>http://artwork-cdn.7static.com/static/img/sleeveart/00/042/566/0004256606_50.jpg</image><releaseDate>2015-03-23T00:00:00Z</releaseDate><addedDate>2015-03-13T12:30:28Z</addedDate><price><currency code="GBP">£</currency><value>4.99</value><formattedPrice>£4.99</formattedPrice><rrp>8.49</rrp><formattedRrp>£8.49</formattedRrp><onSale>true</onSale></price><formats availableDrmFree="true"><format id="17"><fileFormat>MP3</fileFormat><bitRate>320</bitRate><drmFree>true</drmFree></format><format id="33"><fileFormat>M4A</fileFormat><bitRate>320</bitRate><drmFree>true</drmFree></format></formats><label id="149943"><name>Universal Music (Pty) Ltd.</name></label><licensor id="1"><name>Universal</name></licensor><popularity>0</popularity><streamingReleaseDate>2015-03-23T00:00:00Z</streamingReleaseDate><duration>3003</duration><trackCount>13</trackCount><download><packages><package id="9"><description>premium</description><price><currencyCode>GBP</currencyCode><sevendigitalPrice>7.99</sevendigitalPrice><recommendedRetailPrice>12.99</recommendedRetailPrice></price><formats><format id="45"><description>FLAC 16-bit 44.1kHz</description></format></formats></package><package id="2"><description>standard</description><price><currencyCode>GBP</currencyCode><sevendigitalPrice>4.99</sevendigitalPrice><recommendedRetailPrice>8.49</recommendedRetailPrice></price><formats><format id="17"><description>MP3 320</description></format><format id="33"><description>AAC 320</description></format></formats></package></packages></download></release></response>
+<?xml version="1.0" encoding="utf-8"?>
+<response xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" status="ok" version="1.2" xsi:noNamespaceSchemaLocation="http://api.7digital.com/1.2/static/7digitalAPI.xsd">
+  <release id="4256606">
+    <title>Short Movie</title>
+    <version>Explicit</version>
+    <type>Album</type>
+    <barcode>00602547171733</barcode>
+    <year>2015</year>
+    <explicitContent>true</explicitContent>
+    <artist id="131086">
+      <name>Laura Marling</name>
+      <appearsAs>Laura Marling</appearsAs>
+      <url>http://www.7digital.com/artist/laura-marling/?partner=3923</url>
+    </artist>
+    <url>http://www.7digital.com/artist/laura-marling/release/short-movie-explicit-2/?partner=3923</url>
+    <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/042/566/0004256606_50.jpg</image>
+    <releaseDate>2015-03-23T00:00:00Z</releaseDate>
+    <addedDate>2015-03-13T12:30:28Z</addedDate>
+    <price>
+      <currency code="GBP">£</currency>
+      <value>4.99</value>
+      <formattedPrice>£4.99</formattedPrice>
+      <rrp>8.49</rrp>
+      <formattedRrp>£8.49</formattedRrp>
+      <onSale>true</onSale>
+    </price>
+    <formats availableDrmFree="true">
+      <format id="17">
+        <fileFormat>MP3</fileFormat>
+        <bitRate>320</bitRate>
+        <drmFree>true</drmFree>
+      </format>
+      <format id="33">
+        <fileFormat>M4A</fileFormat>
+        <bitRate>320</bitRate>
+        <drmFree>true</drmFree>
+      </format>
+    </formats>
+    <label id="149943">
+      <name>Universal Music (Pty) Ltd.</name>
+    </label>
+    <licensor id="1">
+      <name>Universal</name>
+    </licensor>
+    <popularity>0</popularity>
+    <streamingReleaseDate>2015-03-23T00:00:00Z</streamingReleaseDate>
+    <duration>3003</duration>
+    <trackCount>13</trackCount>
+    <download>
+      <packages>
+        <package id="9">
+          <description>premium</description>
+          <price>
+            <currencyCode>GBP</currencyCode>
+            <sevendigitalPrice>7.99</sevendigitalPrice>
+            <recommendedRetailPrice>12.99</recommendedRetailPrice>
+          </price>
+          <formats>
+            <format id="45">
+              <description>FLAC 16-bit 44.1kHz</description>
+            </format>
+          </formats>
+        </package>
+        <package id="2">
+          <description>standard</description>
+          <price>
+            <currencyCode>GBP</currencyCode>
+            <sevendigitalPrice>4.99</sevendigitalPrice>
+            <recommendedRetailPrice>8.49</recommendedRetailPrice>
+          </price>
+          <formats>
+            <format id="17">
+              <description>MP3 320</description>
+            </format>
+            <format id="33">
+              <description>AAC 320</description>
+            </format>
+          </formats>
+        </package>
+      </packages>
+    </download>
+  </release>
+</response>

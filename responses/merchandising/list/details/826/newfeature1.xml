@@ -1,780 +1,780 @@
 <?xml version="1.0" encoding="utf-8"?>
 <response xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" status="ok" version="1.2" xsi:noNamespaceSchemaLocation="http://api.7digital.com/1.2/static/7digitalAPI.xsd">
-	<list id="194">
-		<key>NewFeature1</key>
-		<listItems>
-			<listItem id="1705329">
-				<type>release</type>
-				<release id="1705329">
-					<title>FRENCH - LIVING THINGS</title>
-					<version/>
-					<type>Album</type>
-					<barcode>093624950479</barcode>
-					<year>2012</year>
-					<explicitContent>false</explicitContent>
-					<artist id="12873">
-						<name>Linkin Park</name>
-						<appearsAs>FRENCH - Linkin Park</appearsAs>
-						<url>http://www.7digital.com/artists/linkin-park/?partner=1401</url>
-					</artist>
-					<url>http://www.7digital.com/artists/linkin-park/living-things/?partner=1401</url>
-					<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/017/053/0001705329_50.jpg</image>
-					<releaseDate>2012-06-25T00:00:00+01:00</releaseDate>
-					<price>
-						<currency code="GBP"/>
-						<value>8.99</value>
-						<formattedPrice>£8.99</formattedPrice>
-						<rrp>8.99</rrp>
-						<formattedRrp>£8.99</formattedRrp>
-						<onSale>false</onSale>
-					</price>
-					<download>
-						<packages>
-							<package id="2">
-								<description>standard</description>
-								<price>
-									<currencyCode>GBP</currencyCode>
-									<sevendigitalPrice>8.99</sevendigitalPrice>
-									<recommendedRetailPrice>8.99</recommendedRetailPrice>
-								</price>
-								<formats>
-									<format id="48">
-										<description>MP3 256</description>
-									</format>
-								</formats>
-							</package>
-						</packages>
-					</download>
-					<formats availableDrmFree="true">
-						<format id="48">
-							<fileFormat>MP3</fileFormat>
-							<bitRate>256</bitRate>
-							<drmFree>true</drmFree>
-						</format>
-					</formats>
-					<label id="273">
-						<name>Warner Bros.</name>
-					</label>
-				</release>
-			</listItem>
-			<listItem id="1723995">
-				<type>release</type>
-				<release id="1723995">
-					<title>The Very Best Of</title>
-					<version/>
-					<type>Album</type>
-					<barcode>886443449473</barcode>
-					<year>2012</year>
-					<explicitContent>false</explicitContent>
-					<artist id="13562">
-						<name>The Stone Roses</name>
-						<appearsAs>The Stone Roses</appearsAs>
-						<url>http://www.7digital.com/artists/the-stone-roses/?partner=1401</url>
-					</artist>
-					<url>http://www.7digital.com/artists/the-stone-roses/the-very-best-of/?partner=1401</url>
-					<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/017/239/0001723995_50.jpg</image>
-					<releaseDate>2012-06-11T00:00:00+01:00</releaseDate>
-					<price>
-						<currency code="GBP"/>
-						<value>5.99</value>
-						<formattedPrice>£5.99</formattedPrice>
-						<rrp>5.99</rrp>
-						<formattedRrp>£5.99</formattedRrp>
-						<onSale>false</onSale>
-					</price>
-					<download>
-						<packages>
-							<package id="2">
-								<description>standard</description>
-								<price>
-									<currencyCode>GBP</currencyCode>
-									<sevendigitalPrice>5.99</sevendigitalPrice>
-									<recommendedRetailPrice>5.99</recommendedRetailPrice>
-								</price>
-								<formats>
-									<format id="17">
-										<description>MP3 320</description>
-									</format>
-								</formats>
-							</package>
-						</packages>
-					</download>
-					<formats availableDrmFree="true">
-						<format id="17">
-							<fileFormat>MP3</fileFormat>
-							<bitRate>320</bitRate>
-							<drmFree>true</drmFree>
-						</format>
-					</formats>
-					<label id="3035">
-						<name>SONY MUSIC UK</name>
-					</label>
-				</release>
-			</listItem>
-			<listItem id="1722320">
-				<type>release</type>
-				<release id="1722320">
-					<title>Valtari</title>
-					<version/>
-					<type>Album</type>
-					<barcode>5099962355551</barcode>
-					<year>2012</year>
-					<explicitContent>false</explicitContent>
-					<artist id="13168">
-						<name>Sigur Rós</name>
-						<appearsAs>Sigur Rós</appearsAs>
-						<url>http://www.7digital.com/artists/sigur-rós/?partner=1401</url>
-					</artist>
-					<url>http://www.7digital.com/artists/sigur-rós/valtari-2/?partner=1401</url>
-					<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/017/223/0001722320_50.jpg</image>
-					<releaseDate>2012-05-28T00:00:00+01:00</releaseDate>
-					<price>
-						<currency code="GBP"/>
-						<value>7.92</value>
-						<formattedPrice>£7.92</formattedPrice>
-						<rrp>7.92</rrp>
-						<formattedRrp>£7.92</formattedRrp>
-						<onSale>false</onSale>
-					</price>
-					<download>
-						<packages>
-							<package id="2">
-								<description>standard</description>
-								<price>
-									<currencyCode>GBP</currencyCode>
-									<sevendigitalPrice>7.92</sevendigitalPrice>
-									<recommendedRetailPrice>7.92</recommendedRetailPrice>
-								</price>
-								<formats>
-									<format id="17">
-										<description>MP3 320</description>
-									</format>
-								</formats>
-							</package>
-						</packages>
-					</download>
-					<formats availableDrmFree="true">
-						<format id="17">
-							<fileFormat>MP3</fileFormat>
-							<bitRate>320</bitRate>
-							<drmFree>true</drmFree>
-						</format>
-					</formats>
-					<label id="77">
-						<name>EMI UK</name>
-					</label>
-				</release>
-			</listItem>
-			<listItem id="1718038">
-				<type>release</type>
-				<release id="1718038">
-					<title>One Day I'm Going to Soar</title>
-					<version/>
-					<type>Album</type>
-					<barcode>4050538002010</barcode>
-					<year>2012</year>
-					<explicitContent>false</explicitContent>
-					<artist id="1279738">
-						<name>Dexys</name>
-						<appearsAs>Dexys</appearsAs>
-						<url>http://www.7digital.com/artists/dexys/?partner=1401</url>
-					</artist>
-					<url>http://www.7digital.com/artists/dexys/one-day-im-going-to-soar/?partner=1401</url>
-					<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/017/180/0001718038_50.jpg</image>
-					<releaseDate>2012-06-03T00:00:00+01:00</releaseDate>
-					<price>
-						<currency code="GBP"/>
-						<value>7.99</value>
-						<formattedPrice>£7.99</formattedPrice>
-						<rrp>7.99</rrp>
-						<formattedRrp>£7.99</formattedRrp>
-						<onSale>false</onSale>
-					</price>
-					<download>
-						<packages>
-							<package id="2">
-								<description>standard</description>
-								<price>
-									<currencyCode>GBP</currencyCode>
-									<sevendigitalPrice>7.99</sevendigitalPrice>
-									<recommendedRetailPrice>7.99</recommendedRetailPrice>
-								</price>
-								<formats>
-									<format id="17">
-										<description>MP3 320</description>
-									</format>
-								</formats>
-							</package>
-						</packages>
-					</download>
-					<formats availableDrmFree="true">
-						<format id="17">
-							<fileFormat>MP3</fileFormat>
-							<bitRate>320</bitRate>
-							<drmFree>true</drmFree>
-						</format>
-					</formats>
-					<label id="31929">
-						<name>BMG Rights Management</name>
-					</label>
-				</release>
-			</listItem>
-			<listItem id="1717888">
-				<type>release</type>
-				<release id="1717888">
-					<title>Boys Don't Cry</title>
-					<version/>
-					<type>Album</type>
-					<barcode>825646581474</barcode>
-					<year>2012</year>
-					<explicitContent>false</explicitContent>
-					<artist id="351189">
-						<name>Rumer</name>
-						<appearsAs>Rumer</appearsAs>
-						<url>http://www.7digital.com/artists/rumer/?partner=1401</url>
-					</artist>
-					<url>http://www.7digital.com/artists/rumer/boys-dont-cry/?partner=1401</url>
-					<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/017/178/0001717888_50.jpg</image>
-					<releaseDate>2012-05-28T00:00:00+01:00</releaseDate>
-					<price>
-						<currency code="GBP"/>
-						<value>7.99</value>
-						<formattedPrice>£7.99</formattedPrice>
-						<rrp>7.99</rrp>
-						<formattedRrp>£7.99</formattedRrp>
-						<onSale>false</onSale>
-					</price>
-					<download>
-						<packages>
-							<package id="2">
-								<description>standard</description>
-								<price>
-									<currencyCode>GBP</currencyCode>
-									<sevendigitalPrice>7.99</sevendigitalPrice>
-									<recommendedRetailPrice>7.99</recommendedRetailPrice>
-								</price>
-								<formats>
-									<format id="48">
-										<description>MP3 256</description>
-									</format>
-								</formats>
-							</package>
-						</packages>
-					</download>
-					<formats availableDrmFree="true">
-						<format id="48">
-							<fileFormat>MP3</fileFormat>
-							<bitRate>256</bitRate>
-							<drmFree>true</drmFree>
-						</format>
-					</formats>
-					<label id="1373">
-						<name>Atlantic Records UK</name>
-					</label>
-				</release>
-			</listItem>
-			<listItem id="1712328">
-				<type>release</type>
-				<release id="1712328">
-					<title>Streets in the Sky</title>
-					<version/>
-					<type>Album</type>
-					<barcode>0711297495348</barcode>
-					<year>2012</year>
-					<explicitContent>false</explicitContent>
-					<artist id="34035">
-						<name>The Enemy</name>
-						<appearsAs>The Enemy</appearsAs>
-						<url>http://www.7digital.com/artists/the-enemy/?partner=1401</url>
-					</artist>
-					<url>http://www.7digital.com/artists/the-enemy/streets-in-the-sky/?partner=1401</url>
-					<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/017/123/0001712328_50.jpg</image>
-					<releaseDate>2012-05-20T00:00:00+01:00</releaseDate>
-					<price>
-						<currency code="GBP"/>
-						<value>3.99</value>
-						<formattedPrice>£3.99</formattedPrice>
-						<rrp>7.49</rrp>
-						<formattedRrp>£7.49</formattedRrp>
-						<onSale>true</onSale>
-					</price>
-					<download>
-						<packages>
-							<package id="2">
-								<description>standard</description>
-								<price>
-									<currencyCode>GBP</currencyCode>
-									<sevendigitalPrice>3.99</sevendigitalPrice>
-									<recommendedRetailPrice>7.49</recommendedRetailPrice>
-								</price>
-								<formats>
-									<format id="17">
-										<description>MP3 320</description>
-									</format>
-									<format id="33">
-										<description>M4A 320</description>
-									</format>
-								</formats>
-							</package>
-						</packages>
-					</download>
-					<formats availableDrmFree="true">
-						<format id="17">
-							<fileFormat>MP3</fileFormat>
-							<bitRate>320</bitRate>
-							<drmFree>true</drmFree>
-						</format>
-						<format id="33">
-							<fileFormat>M4A</fileFormat>
-							<bitRate>320</bitRate>
-							<drmFree>true</drmFree>
-						</format>
-					</formats>
-					<label id="606">
-						<name>Cooking Vinyl</name>
-					</label>
-				</release>
-			</listItem>
-			<listItem id="1706628">
-				<type>release</type>
-				<release id="1706628">
-					<title>Fall To Grace</title>
-					<version/>
-					<type>Album</type>
-					<barcode>886443355521</barcode>
-					<year>2012</year>
-					<explicitContent>false</explicitContent>
-					<artist id="329482">
-						<name>Paloma Faith</name>
-						<appearsAs>Paloma Faith</appearsAs>
-						<url>http://www.7digital.com/artists/paloma-faith/?partner=1401</url>
-					</artist>
-					<url>http://www.7digital.com/artists/paloma-faith/fall-to-grace/?partner=1401</url>
-					<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/017/066/0001706628_50.jpg</image>
-					<releaseDate>2012-05-28T00:00:00+01:00</releaseDate>
-					<price>
-						<currency code="GBP"/>
-						<value>5.99</value>
-						<formattedPrice>£5.99</formattedPrice>
-						<rrp>5.99</rrp>
-						<formattedRrp>£5.99</formattedRrp>
-						<onSale>false</onSale>
-					</price>
-					<download>
-						<packages>
-							<package id="2">
-								<description>standard</description>
-								<price>
-									<currencyCode>GBP</currencyCode>
-									<sevendigitalPrice>5.99</sevendigitalPrice>
-									<recommendedRetailPrice>5.99</recommendedRetailPrice>
-								</price>
-								<formats>
-									<format id="17">
-										<description>MP3 320</description>
-									</format>
-								</formats>
-							</package>
-						</packages>
-					</download>
-					<formats availableDrmFree="true">
-						<format id="17">
-							<fileFormat>MP3</fileFormat>
-							<bitRate>320</bitRate>
-							<drmFree>true</drmFree>
-						</format>
-					</formats>
-					<label id="89">
-						<name>RCA Records Label</name>
-					</label>
-				</release>
-			</listItem>
-			<listItem id="1702912">
-				<type>release</type>
-				<release id="1702912">
-					<title>Souvenir : The Singles 2004 - 2012</title>
-					<version/>
-					<type>Album</type>
-					<barcode>00602537022649</barcode>
-					<year>2012</year>
-					<explicitContent>false</explicitContent>
-					<artist id="615">
-						<name>Kaiser Chiefs</name>
-						<appearsAs>Kaiser Chiefs</appearsAs>
-						<url>http://www.7digital.com/artists/kaiser-chiefs/?partner=1401</url>
-					</artist>
-					<url>http://www.7digital.com/artists/kaiser-chiefs/souvenir-the-singles-2004-2012/?partner=1401</url>
-					<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/017/029/0001702912_50.jpg</image>
-					<releaseDate>2012-06-04T00:00:00+01:00</releaseDate>
-					<price>
-						<currency code="GBP"/>
-						<value>7.99</value>
-						<formattedPrice>£7.99</formattedPrice>
-						<rrp>7.99</rrp>
-						<formattedRrp>£7.99</formattedRrp>
-						<onSale>false</onSale>
-					</price>
-					<download>
-						<packages>
-							<package id="2">
-								<description>standard</description>
-								<price>
-									<currencyCode>GBP</currencyCode>
-									<sevendigitalPrice>7.99</sevendigitalPrice>
-									<recommendedRetailPrice>7.99</recommendedRetailPrice>
-								</price>
-								<formats>
-									<format id="17">
-										<description>MP3 320</description>
-									</format>
-								</formats>
-							</package>
-						</packages>
-					</download>
-					<formats availableDrmFree="true">
-						<format id="17">
-							<fileFormat>MP3</fileFormat>
-							<bitRate>320</bitRate>
-							<drmFree>true</drmFree>
-						</format>
-					</formats>
-					<label id="36354">
-						<name>Universal Music A/S</name>
-					</label>
-				</release>
-			</listItem>
-			<listItem id="1694341">
-				<type>release</type>
-				<release id="1694341">
-					<title>Anxiety</title>
-					<version/>
-					<type>Album</type>
-					<barcode>00602527933597</barcode>
-					<year>2012</year>
-					<explicitContent>false</explicitContent>
-					<artist id="163333">
-						<name>Ladyhawke</name>
-						<appearsAs>Ladyhawke</appearsAs>
-						<url>http://www.7digital.com/artists/ladyhawke/?partner=1401</url>
-					</artist>
-					<url>http://www.7digital.com/artists/ladyhawke/anxiety/?partner=1401</url>
-					<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/016/943/0001694341_50.jpg</image>
-					<releaseDate>2012-06-04T00:00:00+01:00</releaseDate>
-					<price>
-						<currency code="GBP"/>
-						<value>7.99</value>
-						<formattedPrice>£7.99</formattedPrice>
-						<rrp>7.99</rrp>
-						<formattedRrp>£7.99</formattedRrp>
-						<onSale>false</onSale>
-					</price>
-					<download>
-						<packages>
-							<package id="2">
-								<description>standard</description>
-								<price>
-									<currencyCode>GBP</currencyCode>
-									<sevendigitalPrice>7.99</sevendigitalPrice>
-									<recommendedRetailPrice>7.99</recommendedRetailPrice>
-								</price>
-								<formats>
-									<format id="17">
-										<description>MP3 320</description>
-									</format>
-								</formats>
-							</package>
-						</packages>
-					</download>
-					<formats availableDrmFree="true">
-						<format id="17">
-							<fileFormat>MP3</fileFormat>
-							<bitRate>320</bitRate>
-							<drmFree>true</drmFree>
-						</format>
-					</formats>
-					<label id="25736">
-						<name>Republic Records</name>
-					</label>
-				</release>
-			</listItem>
-			<listItem id="1572624">
-				<type>release</type>
-				<release id="1572624">
-					<title>Mylo Xyloto</title>
-					<version/>
-					<type>Album</type>
-					<barcode>5099955960458</barcode>
-					<year>2012</year>
-					<explicitContent>false</explicitContent>
-					<artist id="20">
-						<name>Coldplay</name>
-						<appearsAs>Coldplay</appearsAs>
-						<url>http://www.7digital.com/artists/coldplay/?partner=1401</url>
-					</artist>
-					<url>http://www.7digital.com/artists/coldplay/mylo-xyloto-1/?partner=1401</url>
-					<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/015/726/0001572624_50.jpg</image>
-					<releaseDate>2012-02-01T00:00:00Z</releaseDate>
-					<price>
-						<currency code="GBP"/>
-						<value>4.99</value>
-						<formattedPrice>£4.99</formattedPrice>
-						<rrp>4.99</rrp>
-						<formattedRrp>£4.99</formattedRrp>
-						<onSale>false</onSale>
-					</price>
-					<download>
-						<packages>
-							<package id="2">
-								<description>standard</description>
-								<price>
-									<currencyCode>GBP</currencyCode>
-									<sevendigitalPrice>4.99</sevendigitalPrice>
-									<recommendedRetailPrice>4.99</recommendedRetailPrice>
-								</price>
-								<formats>
-									<format id="17">
-										<description>MP3 320</description>
-									</format>
-								</formats>
-							</package>
-						</packages>
-					</download>
-					<formats availableDrmFree="true">
-						<format id="17">
-							<fileFormat>MP3</fileFormat>
-							<bitRate>320</bitRate>
-							<drmFree>true</drmFree>
-						</format>
-					</formats>
-					<label id="77">
-						<name>EMI UK</name>
-					</label>
-				</release>
-			</listItem>
-			<listItem id="1572399">
-				<type>release</type>
-				<release id="1572399">
-					<title>Our Version of Events</title>
-					<version/>
-					<type>Album</type>
-					<barcode>5099967896752</barcode>
-					<year>2012</year>
-					<explicitContent>false</explicitContent>
-					<artist id="1053056">
-						<name>Emeli Sande</name>
-						<appearsAs>Emeli Sandé</appearsAs>
-						<url>http://www.7digital.com/artists/emeli-sande-(1)/?partner=1401</url>
-					</artist>
-					<url>http://www.7digital.com/artists/emeli-sande-(1)/our-version-of-events/?partner=1401</url>
-					<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/015/723/0001572399_50.jpg</image>
-					<releaseDate>2012-02-13T00:00:00Z</releaseDate>
-					<price>
-						<currency code="GBP"/>
-						<value>4.99</value>
-						<formattedPrice>£4.99</formattedPrice>
-						<rrp>4.99</rrp>
-						<formattedRrp>£4.99</formattedRrp>
-						<onSale>false</onSale>
-					</price>
-					<download>
-						<packages>
-							<package id="2">
-								<description>standard</description>
-								<price>
-									<currencyCode>GBP</currencyCode>
-									<sevendigitalPrice>4.99</sevendigitalPrice>
-									<recommendedRetailPrice>4.99</recommendedRetailPrice>
-								</price>
-								<formats>
-									<format id="17">
-										<description>MP3 320</description>
-									</format>
-								</formats>
-							</package>
-						</packages>
-					</download>
-					<formats availableDrmFree="true">
-						<format id="17">
-							<fileFormat>MP3</fileFormat>
-							<bitRate>320</bitRate>
-							<drmFree>true</drmFree>
-						</format>
-					</formats>
-					<label id="48">
-						<name>Virgin UK</name>
-					</label>
-				</release>
-			</listItem>
-			<listItem id="1335111">
-				<type>release</type>
-				<release id="1335111">
-					<title>+</title>
-					<version/>
-					<type>Album</type>
-					<barcode>825646658640</barcode>
-					<year>2011</year>
-					<explicitContent>false</explicitContent>
-					<artist id="603309">
-						<name>Ed Sheeran</name>
-						<appearsAs>Ed Sheeran</appearsAs>
-						<url>http://www.7digital.com/artists/ed-sheeran/?partner=1401</url>
-					</artist>
-					<url>http://www.7digital.com/artists/ed-sheeran/plus/?partner=1401</url>
-					<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/013/351/0001335111_50.jpg</image>
-					<releaseDate>2011-12-21T00:00:00Z</releaseDate>
-					<price>
-						<currency code="GBP"/>
-						<value>7.99</value>
-						<formattedPrice>£7.99</formattedPrice>
-						<rrp>7.99</rrp>
-						<formattedRrp>£7.99</formattedRrp>
-						<onSale>false</onSale>
-					</price>
-					<download>
-						<packages>
-							<package id="2">
-								<description>standard</description>
-								<price>
-									<currencyCode>GBP</currencyCode>
-									<sevendigitalPrice>7.99</sevendigitalPrice>
-									<recommendedRetailPrice>7.99</recommendedRetailPrice>
-								</price>
-								<formats>
-									<format id="48">
-										<description>MP3 256</description>
-									</format>
-								</formats>
-							</package>
-						</packages>
-					</download>
-					<formats availableDrmFree="true">
-						<format id="48">
-							<fileFormat>MP3</fileFormat>
-							<bitRate>256</bitRate>
-							<drmFree>true</drmFree>
-						</format>
-					</formats>
-					<label id="1373">
-						<name>Atlantic Records UK</name>
-					</label>
-				</release>
-			</listItem>
-			<listItem id="1284191">
-				<type>release</type>
-				<release id="1284191">
-					<title>The Lateness Of The Hour</title>
-					<version/>
-					<type>Album</type>
-					<barcode>00602527766539</barcode>
-					<year>2012</year>
-					<explicitContent>false</explicitContent>
-					<artist id="883520">
-						<name>Alex Clare</name>
-						<appearsAs>Alex Clare</appearsAs>
-						<url>http://www.7digital.com/artists/alex-clare/?partner=1401</url>
-					</artist>
-					<url>http://www.7digital.com/artists/alex-clare/the-lateness-of-the-hour/?partner=1401</url>
-					<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/012/841/0001284191_50.jpg</image>
-					<releaseDate>2011-07-11T00:00:00+01:00</releaseDate>
-					<price>
-						<currency code="GBP"/>
-						<value>5.49</value>
-						<formattedPrice>£5.49</formattedPrice>
-						<rrp>5.49</rrp>
-						<formattedRrp>£5.49</formattedRrp>
-						<onSale>false</onSale>
-					</price>
-					<download>
-						<packages>
-							<package id="2">
-								<description>standard</description>
-								<price>
-									<currencyCode>GBP</currencyCode>
-									<sevendigitalPrice>5.49</sevendigitalPrice>
-									<recommendedRetailPrice>5.49</recommendedRetailPrice>
-								</price>
-								<formats>
-									<format id="17">
-										<description>MP3 320</description>
-									</format>
-								</formats>
-							</package>
-						</packages>
-					</download>
-					<formats availableDrmFree="true">
-						<format id="17">
-							<fileFormat>MP3</fileFormat>
-							<bitRate>320</bitRate>
-							<drmFree>true</drmFree>
-						</format>
-					</formats>
-					<label id="91940">
-						<name>Universal Music Pte. Ltd.</name>
-					</label>
-				</release>
-			</listItem>
-			<listItem id="1076864">
-				<type>release</type>
-				<release id="1076864">
-					<title>21</title>
-					<version/>
-					<type>Album</type>
-					<barcode>634904052065</barcode>
-					<year>2011</year>
-					<explicitContent>true</explicitContent>
-					<artist id="142111">
-						<name>Adele</name>
-						<appearsAs>Adele</appearsAs>
-						<url>http://www.7digital.com/artists/adele/?partner=1401</url>
-					</artist>
-					<url>http://www.7digital.com/artists/adele/21/?partner=1401</url>
-					<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/010/768/0001076864_50.jpg</image>
-					<releaseDate>2011-01-24T00:00:00Z</releaseDate>
-					<price>
-						<currency code="GBP"/>
-						<value>7.99</value>
-						<formattedPrice>£7.99</formattedPrice>
-						<rrp>7.99</rrp>
-						<formattedRrp>£7.99</formattedRrp>
-						<onSale>false</onSale>
-					</price>
-					<download>
-						<packages>
-							<package id="2">
-								<description>standard</description>
-								<price>
-									<currencyCode>GBP</currencyCode>
-									<sevendigitalPrice>7.99</sevendigitalPrice>
-									<recommendedRetailPrice>7.99</recommendedRetailPrice>
-								</price>
-								<formats>
-									<format id="17">
-										<description>MP3 320</description>
-									</format>
-									<format id="33">
-										<description>M4A 320</description>
-									</format>
-								</formats>
-							</package>
-						</packages>
-					</download>
-					<formats availableDrmFree="true">
-						<format id="17">
-							<fileFormat>MP3</fileFormat>
-							<bitRate>320</bitRate>
-							<drmFree>true</drmFree>
-						</format>
-						<format id="33">
-							<fileFormat>M4A</fileFormat>
-							<bitRate>320</bitRate>
-							<drmFree>true</drmFree>
-						</format>
-					</formats>
-					<label id="3172">
-						<name>XL</name>
-					</label>
-				</release>
-			</listItem>
-		</listItems>
-	</list>
+  <list id="194">
+    <key>NewFeature1</key>
+    <listItems>
+      <listItem id="1705329">
+        <type>release</type>
+        <release id="1705329">
+          <title>FRENCH - LIVING THINGS</title>
+          <version/>
+          <type>Album</type>
+          <barcode>093624950479</barcode>
+          <year>2012</year>
+          <explicitContent>false</explicitContent>
+          <artist id="12873">
+            <name>Linkin Park</name>
+            <appearsAs>FRENCH - Linkin Park</appearsAs>
+            <url>http://www.7digital.com/artists/linkin-park/?partner=1401</url>
+          </artist>
+          <url>http://www.7digital.com/artists/linkin-park/living-things/?partner=1401</url>
+          <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/017/053/0001705329_50.jpg</image>
+          <releaseDate>2012-06-25T00:00:00+01:00</releaseDate>
+          <price>
+            <currency code="GBP"/>
+            <value>8.99</value>
+            <formattedPrice>£8.99</formattedPrice>
+            <rrp>8.99</rrp>
+            <formattedRrp>£8.99</formattedRrp>
+            <onSale>false</onSale>
+          </price>
+          <download>
+            <packages>
+              <package id="2">
+                <description>standard</description>
+                <price>
+                  <currencyCode>GBP</currencyCode>
+                  <sevendigitalPrice>8.99</sevendigitalPrice>
+                  <recommendedRetailPrice>8.99</recommendedRetailPrice>
+                </price>
+                <formats>
+                  <format id="48">
+                    <description>MP3 256</description>
+                  </format>
+                </formats>
+              </package>
+            </packages>
+          </download>
+          <formats availableDrmFree="true">
+            <format id="48">
+              <fileFormat>MP3</fileFormat>
+              <bitRate>256</bitRate>
+              <drmFree>true</drmFree>
+            </format>
+          </formats>
+          <label id="273">
+            <name>Warner Bros.</name>
+          </label>
+        </release>
+      </listItem>
+      <listItem id="1723995">
+        <type>release</type>
+        <release id="1723995">
+          <title>The Very Best Of</title>
+          <version/>
+          <type>Album</type>
+          <barcode>886443449473</barcode>
+          <year>2012</year>
+          <explicitContent>false</explicitContent>
+          <artist id="13562">
+            <name>The Stone Roses</name>
+            <appearsAs>The Stone Roses</appearsAs>
+            <url>http://www.7digital.com/artists/the-stone-roses/?partner=1401</url>
+          </artist>
+          <url>http://www.7digital.com/artists/the-stone-roses/the-very-best-of/?partner=1401</url>
+          <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/017/239/0001723995_50.jpg</image>
+          <releaseDate>2012-06-11T00:00:00+01:00</releaseDate>
+          <price>
+            <currency code="GBP"/>
+            <value>5.99</value>
+            <formattedPrice>£5.99</formattedPrice>
+            <rrp>5.99</rrp>
+            <formattedRrp>£5.99</formattedRrp>
+            <onSale>false</onSale>
+          </price>
+          <download>
+            <packages>
+              <package id="2">
+                <description>standard</description>
+                <price>
+                  <currencyCode>GBP</currencyCode>
+                  <sevendigitalPrice>5.99</sevendigitalPrice>
+                  <recommendedRetailPrice>5.99</recommendedRetailPrice>
+                </price>
+                <formats>
+                  <format id="17">
+                    <description>MP3 320</description>
+                  </format>
+                </formats>
+              </package>
+            </packages>
+          </download>
+          <formats availableDrmFree="true">
+            <format id="17">
+              <fileFormat>MP3</fileFormat>
+              <bitRate>320</bitRate>
+              <drmFree>true</drmFree>
+            </format>
+          </formats>
+          <label id="3035">
+            <name>SONY MUSIC UK</name>
+          </label>
+        </release>
+      </listItem>
+      <listItem id="1722320">
+        <type>release</type>
+        <release id="1722320">
+          <title>Valtari</title>
+          <version/>
+          <type>Album</type>
+          <barcode>5099962355551</barcode>
+          <year>2012</year>
+          <explicitContent>false</explicitContent>
+          <artist id="13168">
+            <name>Sigur Rós</name>
+            <appearsAs>Sigur Rós</appearsAs>
+            <url>http://www.7digital.com/artists/sigur-rós/?partner=1401</url>
+          </artist>
+          <url>http://www.7digital.com/artists/sigur-rós/valtari-2/?partner=1401</url>
+          <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/017/223/0001722320_50.jpg</image>
+          <releaseDate>2012-05-28T00:00:00+01:00</releaseDate>
+          <price>
+            <currency code="GBP"/>
+            <value>7.92</value>
+            <formattedPrice>£7.92</formattedPrice>
+            <rrp>7.92</rrp>
+            <formattedRrp>£7.92</formattedRrp>
+            <onSale>false</onSale>
+          </price>
+          <download>
+            <packages>
+              <package id="2">
+                <description>standard</description>
+                <price>
+                  <currencyCode>GBP</currencyCode>
+                  <sevendigitalPrice>7.92</sevendigitalPrice>
+                  <recommendedRetailPrice>7.92</recommendedRetailPrice>
+                </price>
+                <formats>
+                  <format id="17">
+                    <description>MP3 320</description>
+                  </format>
+                </formats>
+              </package>
+            </packages>
+          </download>
+          <formats availableDrmFree="true">
+            <format id="17">
+              <fileFormat>MP3</fileFormat>
+              <bitRate>320</bitRate>
+              <drmFree>true</drmFree>
+            </format>
+          </formats>
+          <label id="77">
+            <name>EMI UK</name>
+          </label>
+        </release>
+      </listItem>
+      <listItem id="1718038">
+        <type>release</type>
+        <release id="1718038">
+          <title>One Day I'm Going to Soar</title>
+          <version/>
+          <type>Album</type>
+          <barcode>4050538002010</barcode>
+          <year>2012</year>
+          <explicitContent>false</explicitContent>
+          <artist id="1279738">
+            <name>Dexys</name>
+            <appearsAs>Dexys</appearsAs>
+            <url>http://www.7digital.com/artists/dexys/?partner=1401</url>
+          </artist>
+          <url>http://www.7digital.com/artists/dexys/one-day-im-going-to-soar/?partner=1401</url>
+          <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/017/180/0001718038_50.jpg</image>
+          <releaseDate>2012-06-03T00:00:00+01:00</releaseDate>
+          <price>
+            <currency code="GBP"/>
+            <value>7.99</value>
+            <formattedPrice>£7.99</formattedPrice>
+            <rrp>7.99</rrp>
+            <formattedRrp>£7.99</formattedRrp>
+            <onSale>false</onSale>
+          </price>
+          <download>
+            <packages>
+              <package id="2">
+                <description>standard</description>
+                <price>
+                  <currencyCode>GBP</currencyCode>
+                  <sevendigitalPrice>7.99</sevendigitalPrice>
+                  <recommendedRetailPrice>7.99</recommendedRetailPrice>
+                </price>
+                <formats>
+                  <format id="17">
+                    <description>MP3 320</description>
+                  </format>
+                </formats>
+              </package>
+            </packages>
+          </download>
+          <formats availableDrmFree="true">
+            <format id="17">
+              <fileFormat>MP3</fileFormat>
+              <bitRate>320</bitRate>
+              <drmFree>true</drmFree>
+            </format>
+          </formats>
+          <label id="31929">
+            <name>BMG Rights Management</name>
+          </label>
+        </release>
+      </listItem>
+      <listItem id="1717888">
+        <type>release</type>
+        <release id="1717888">
+          <title>Boys Don't Cry</title>
+          <version/>
+          <type>Album</type>
+          <barcode>825646581474</barcode>
+          <year>2012</year>
+          <explicitContent>false</explicitContent>
+          <artist id="351189">
+            <name>Rumer</name>
+            <appearsAs>Rumer</appearsAs>
+            <url>http://www.7digital.com/artists/rumer/?partner=1401</url>
+          </artist>
+          <url>http://www.7digital.com/artists/rumer/boys-dont-cry/?partner=1401</url>
+          <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/017/178/0001717888_50.jpg</image>
+          <releaseDate>2012-05-28T00:00:00+01:00</releaseDate>
+          <price>
+            <currency code="GBP"/>
+            <value>7.99</value>
+            <formattedPrice>£7.99</formattedPrice>
+            <rrp>7.99</rrp>
+            <formattedRrp>£7.99</formattedRrp>
+            <onSale>false</onSale>
+          </price>
+          <download>
+            <packages>
+              <package id="2">
+                <description>standard</description>
+                <price>
+                  <currencyCode>GBP</currencyCode>
+                  <sevendigitalPrice>7.99</sevendigitalPrice>
+                  <recommendedRetailPrice>7.99</recommendedRetailPrice>
+                </price>
+                <formats>
+                  <format id="48">
+                    <description>MP3 256</description>
+                  </format>
+                </formats>
+              </package>
+            </packages>
+          </download>
+          <formats availableDrmFree="true">
+            <format id="48">
+              <fileFormat>MP3</fileFormat>
+              <bitRate>256</bitRate>
+              <drmFree>true</drmFree>
+            </format>
+          </formats>
+          <label id="1373">
+            <name>Atlantic Records UK</name>
+          </label>
+        </release>
+      </listItem>
+      <listItem id="1712328">
+        <type>release</type>
+        <release id="1712328">
+          <title>Streets in the Sky</title>
+          <version/>
+          <type>Album</type>
+          <barcode>0711297495348</barcode>
+          <year>2012</year>
+          <explicitContent>false</explicitContent>
+          <artist id="34035">
+            <name>The Enemy</name>
+            <appearsAs>The Enemy</appearsAs>
+            <url>http://www.7digital.com/artists/the-enemy/?partner=1401</url>
+          </artist>
+          <url>http://www.7digital.com/artists/the-enemy/streets-in-the-sky/?partner=1401</url>
+          <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/017/123/0001712328_50.jpg</image>
+          <releaseDate>2012-05-20T00:00:00+01:00</releaseDate>
+          <price>
+            <currency code="GBP"/>
+            <value>3.99</value>
+            <formattedPrice>£3.99</formattedPrice>
+            <rrp>7.49</rrp>
+            <formattedRrp>£7.49</formattedRrp>
+            <onSale>true</onSale>
+          </price>
+          <download>
+            <packages>
+              <package id="2">
+                <description>standard</description>
+                <price>
+                  <currencyCode>GBP</currencyCode>
+                  <sevendigitalPrice>3.99</sevendigitalPrice>
+                  <recommendedRetailPrice>7.49</recommendedRetailPrice>
+                </price>
+                <formats>
+                  <format id="17">
+                    <description>MP3 320</description>
+                  </format>
+                  <format id="33">
+                    <description>M4A 320</description>
+                  </format>
+                </formats>
+              </package>
+            </packages>
+          </download>
+          <formats availableDrmFree="true">
+            <format id="17">
+              <fileFormat>MP3</fileFormat>
+              <bitRate>320</bitRate>
+              <drmFree>true</drmFree>
+            </format>
+            <format id="33">
+              <fileFormat>M4A</fileFormat>
+              <bitRate>320</bitRate>
+              <drmFree>true</drmFree>
+            </format>
+          </formats>
+          <label id="606">
+            <name>Cooking Vinyl</name>
+          </label>
+        </release>
+      </listItem>
+      <listItem id="1706628">
+        <type>release</type>
+        <release id="1706628">
+          <title>Fall To Grace</title>
+          <version/>
+          <type>Album</type>
+          <barcode>886443355521</barcode>
+          <year>2012</year>
+          <explicitContent>false</explicitContent>
+          <artist id="329482">
+            <name>Paloma Faith</name>
+            <appearsAs>Paloma Faith</appearsAs>
+            <url>http://www.7digital.com/artists/paloma-faith/?partner=1401</url>
+          </artist>
+          <url>http://www.7digital.com/artists/paloma-faith/fall-to-grace/?partner=1401</url>
+          <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/017/066/0001706628_50.jpg</image>
+          <releaseDate>2012-05-28T00:00:00+01:00</releaseDate>
+          <price>
+            <currency code="GBP"/>
+            <value>5.99</value>
+            <formattedPrice>£5.99</formattedPrice>
+            <rrp>5.99</rrp>
+            <formattedRrp>£5.99</formattedRrp>
+            <onSale>false</onSale>
+          </price>
+          <download>
+            <packages>
+              <package id="2">
+                <description>standard</description>
+                <price>
+                  <currencyCode>GBP</currencyCode>
+                  <sevendigitalPrice>5.99</sevendigitalPrice>
+                  <recommendedRetailPrice>5.99</recommendedRetailPrice>
+                </price>
+                <formats>
+                  <format id="17">
+                    <description>MP3 320</description>
+                  </format>
+                </formats>
+              </package>
+            </packages>
+          </download>
+          <formats availableDrmFree="true">
+            <format id="17">
+              <fileFormat>MP3</fileFormat>
+              <bitRate>320</bitRate>
+              <drmFree>true</drmFree>
+            </format>
+          </formats>
+          <label id="89">
+            <name>RCA Records Label</name>
+          </label>
+        </release>
+      </listItem>
+      <listItem id="1702912">
+        <type>release</type>
+        <release id="1702912">
+          <title>Souvenir : The Singles 2004 - 2012</title>
+          <version/>
+          <type>Album</type>
+          <barcode>00602537022649</barcode>
+          <year>2012</year>
+          <explicitContent>false</explicitContent>
+          <artist id="615">
+            <name>Kaiser Chiefs</name>
+            <appearsAs>Kaiser Chiefs</appearsAs>
+            <url>http://www.7digital.com/artists/kaiser-chiefs/?partner=1401</url>
+          </artist>
+          <url>http://www.7digital.com/artists/kaiser-chiefs/souvenir-the-singles-2004-2012/?partner=1401</url>
+          <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/017/029/0001702912_50.jpg</image>
+          <releaseDate>2012-06-04T00:00:00+01:00</releaseDate>
+          <price>
+            <currency code="GBP"/>
+            <value>7.99</value>
+            <formattedPrice>£7.99</formattedPrice>
+            <rrp>7.99</rrp>
+            <formattedRrp>£7.99</formattedRrp>
+            <onSale>false</onSale>
+          </price>
+          <download>
+            <packages>
+              <package id="2">
+                <description>standard</description>
+                <price>
+                  <currencyCode>GBP</currencyCode>
+                  <sevendigitalPrice>7.99</sevendigitalPrice>
+                  <recommendedRetailPrice>7.99</recommendedRetailPrice>
+                </price>
+                <formats>
+                  <format id="17">
+                    <description>MP3 320</description>
+                  </format>
+                </formats>
+              </package>
+            </packages>
+          </download>
+          <formats availableDrmFree="true">
+            <format id="17">
+              <fileFormat>MP3</fileFormat>
+              <bitRate>320</bitRate>
+              <drmFree>true</drmFree>
+            </format>
+          </formats>
+          <label id="36354">
+            <name>Universal Music A/S</name>
+          </label>
+        </release>
+      </listItem>
+      <listItem id="1694341">
+        <type>release</type>
+        <release id="1694341">
+          <title>Anxiety</title>
+          <version/>
+          <type>Album</type>
+          <barcode>00602527933597</barcode>
+          <year>2012</year>
+          <explicitContent>false</explicitContent>
+          <artist id="163333">
+            <name>Ladyhawke</name>
+            <appearsAs>Ladyhawke</appearsAs>
+            <url>http://www.7digital.com/artists/ladyhawke/?partner=1401</url>
+          </artist>
+          <url>http://www.7digital.com/artists/ladyhawke/anxiety/?partner=1401</url>
+          <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/016/943/0001694341_50.jpg</image>
+          <releaseDate>2012-06-04T00:00:00+01:00</releaseDate>
+          <price>
+            <currency code="GBP"/>
+            <value>7.99</value>
+            <formattedPrice>£7.99</formattedPrice>
+            <rrp>7.99</rrp>
+            <formattedRrp>£7.99</formattedRrp>
+            <onSale>false</onSale>
+          </price>
+          <download>
+            <packages>
+              <package id="2">
+                <description>standard</description>
+                <price>
+                  <currencyCode>GBP</currencyCode>
+                  <sevendigitalPrice>7.99</sevendigitalPrice>
+                  <recommendedRetailPrice>7.99</recommendedRetailPrice>
+                </price>
+                <formats>
+                  <format id="17">
+                    <description>MP3 320</description>
+                  </format>
+                </formats>
+              </package>
+            </packages>
+          </download>
+          <formats availableDrmFree="true">
+            <format id="17">
+              <fileFormat>MP3</fileFormat>
+              <bitRate>320</bitRate>
+              <drmFree>true</drmFree>
+            </format>
+          </formats>
+          <label id="25736">
+            <name>Republic Records</name>
+          </label>
+        </release>
+      </listItem>
+      <listItem id="1572624">
+        <type>release</type>
+        <release id="1572624">
+          <title>Mylo Xyloto</title>
+          <version/>
+          <type>Album</type>
+          <barcode>5099955960458</barcode>
+          <year>2012</year>
+          <explicitContent>false</explicitContent>
+          <artist id="20">
+            <name>Coldplay</name>
+            <appearsAs>Coldplay</appearsAs>
+            <url>http://www.7digital.com/artists/coldplay/?partner=1401</url>
+          </artist>
+          <url>http://www.7digital.com/artists/coldplay/mylo-xyloto-1/?partner=1401</url>
+          <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/015/726/0001572624_50.jpg</image>
+          <releaseDate>2012-02-01T00:00:00Z</releaseDate>
+          <price>
+            <currency code="GBP"/>
+            <value>4.99</value>
+            <formattedPrice>£4.99</formattedPrice>
+            <rrp>4.99</rrp>
+            <formattedRrp>£4.99</formattedRrp>
+            <onSale>false</onSale>
+          </price>
+          <download>
+            <packages>
+              <package id="2">
+                <description>standard</description>
+                <price>
+                  <currencyCode>GBP</currencyCode>
+                  <sevendigitalPrice>4.99</sevendigitalPrice>
+                  <recommendedRetailPrice>4.99</recommendedRetailPrice>
+                </price>
+                <formats>
+                  <format id="17">
+                    <description>MP3 320</description>
+                  </format>
+                </formats>
+              </package>
+            </packages>
+          </download>
+          <formats availableDrmFree="true">
+            <format id="17">
+              <fileFormat>MP3</fileFormat>
+              <bitRate>320</bitRate>
+              <drmFree>true</drmFree>
+            </format>
+          </formats>
+          <label id="77">
+            <name>EMI UK</name>
+          </label>
+        </release>
+      </listItem>
+      <listItem id="1572399">
+        <type>release</type>
+        <release id="1572399">
+          <title>Our Version of Events</title>
+          <version/>
+          <type>Album</type>
+          <barcode>5099967896752</barcode>
+          <year>2012</year>
+          <explicitContent>false</explicitContent>
+          <artist id="1053056">
+            <name>Emeli Sande</name>
+            <appearsAs>Emeli Sandé</appearsAs>
+            <url>http://www.7digital.com/artists/emeli-sande-(1)/?partner=1401</url>
+          </artist>
+          <url>http://www.7digital.com/artists/emeli-sande-(1)/our-version-of-events/?partner=1401</url>
+          <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/015/723/0001572399_50.jpg</image>
+          <releaseDate>2012-02-13T00:00:00Z</releaseDate>
+          <price>
+            <currency code="GBP"/>
+            <value>4.99</value>
+            <formattedPrice>£4.99</formattedPrice>
+            <rrp>4.99</rrp>
+            <formattedRrp>£4.99</formattedRrp>
+            <onSale>false</onSale>
+          </price>
+          <download>
+            <packages>
+              <package id="2">
+                <description>standard</description>
+                <price>
+                  <currencyCode>GBP</currencyCode>
+                  <sevendigitalPrice>4.99</sevendigitalPrice>
+                  <recommendedRetailPrice>4.99</recommendedRetailPrice>
+                </price>
+                <formats>
+                  <format id="17">
+                    <description>MP3 320</description>
+                  </format>
+                </formats>
+              </package>
+            </packages>
+          </download>
+          <formats availableDrmFree="true">
+            <format id="17">
+              <fileFormat>MP3</fileFormat>
+              <bitRate>320</bitRate>
+              <drmFree>true</drmFree>
+            </format>
+          </formats>
+          <label id="48">
+            <name>Virgin UK</name>
+          </label>
+        </release>
+      </listItem>
+      <listItem id="1335111">
+        <type>release</type>
+        <release id="1335111">
+          <title>+</title>
+          <version/>
+          <type>Album</type>
+          <barcode>825646658640</barcode>
+          <year>2011</year>
+          <explicitContent>false</explicitContent>
+          <artist id="603309">
+            <name>Ed Sheeran</name>
+            <appearsAs>Ed Sheeran</appearsAs>
+            <url>http://www.7digital.com/artists/ed-sheeran/?partner=1401</url>
+          </artist>
+          <url>http://www.7digital.com/artists/ed-sheeran/plus/?partner=1401</url>
+          <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/013/351/0001335111_50.jpg</image>
+          <releaseDate>2011-12-21T00:00:00Z</releaseDate>
+          <price>
+            <currency code="GBP"/>
+            <value>7.99</value>
+            <formattedPrice>£7.99</formattedPrice>
+            <rrp>7.99</rrp>
+            <formattedRrp>£7.99</formattedRrp>
+            <onSale>false</onSale>
+          </price>
+          <download>
+            <packages>
+              <package id="2">
+                <description>standard</description>
+                <price>
+                  <currencyCode>GBP</currencyCode>
+                  <sevendigitalPrice>7.99</sevendigitalPrice>
+                  <recommendedRetailPrice>7.99</recommendedRetailPrice>
+                </price>
+                <formats>
+                  <format id="48">
+                    <description>MP3 256</description>
+                  </format>
+                </formats>
+              </package>
+            </packages>
+          </download>
+          <formats availableDrmFree="true">
+            <format id="48">
+              <fileFormat>MP3</fileFormat>
+              <bitRate>256</bitRate>
+              <drmFree>true</drmFree>
+            </format>
+          </formats>
+          <label id="1373">
+            <name>Atlantic Records UK</name>
+          </label>
+        </release>
+      </listItem>
+      <listItem id="1284191">
+        <type>release</type>
+        <release id="1284191">
+          <title>The Lateness Of The Hour</title>
+          <version/>
+          <type>Album</type>
+          <barcode>00602527766539</barcode>
+          <year>2012</year>
+          <explicitContent>false</explicitContent>
+          <artist id="883520">
+            <name>Alex Clare</name>
+            <appearsAs>Alex Clare</appearsAs>
+            <url>http://www.7digital.com/artists/alex-clare/?partner=1401</url>
+          </artist>
+          <url>http://www.7digital.com/artists/alex-clare/the-lateness-of-the-hour/?partner=1401</url>
+          <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/012/841/0001284191_50.jpg</image>
+          <releaseDate>2011-07-11T00:00:00+01:00</releaseDate>
+          <price>
+            <currency code="GBP"/>
+            <value>5.49</value>
+            <formattedPrice>£5.49</formattedPrice>
+            <rrp>5.49</rrp>
+            <formattedRrp>£5.49</formattedRrp>
+            <onSale>false</onSale>
+          </price>
+          <download>
+            <packages>
+              <package id="2">
+                <description>standard</description>
+                <price>
+                  <currencyCode>GBP</currencyCode>
+                  <sevendigitalPrice>5.49</sevendigitalPrice>
+                  <recommendedRetailPrice>5.49</recommendedRetailPrice>
+                </price>
+                <formats>
+                  <format id="17">
+                    <description>MP3 320</description>
+                  </format>
+                </formats>
+              </package>
+            </packages>
+          </download>
+          <formats availableDrmFree="true">
+            <format id="17">
+              <fileFormat>MP3</fileFormat>
+              <bitRate>320</bitRate>
+              <drmFree>true</drmFree>
+            </format>
+          </formats>
+          <label id="91940">
+            <name>Universal Music Pte. Ltd.</name>
+          </label>
+        </release>
+      </listItem>
+      <listItem id="1076864">
+        <type>release</type>
+        <release id="1076864">
+          <title>21</title>
+          <version/>
+          <type>Album</type>
+          <barcode>634904052065</barcode>
+          <year>2011</year>
+          <explicitContent>true</explicitContent>
+          <artist id="142111">
+            <name>Adele</name>
+            <appearsAs>Adele</appearsAs>
+            <url>http://www.7digital.com/artists/adele/?partner=1401</url>
+          </artist>
+          <url>http://www.7digital.com/artists/adele/21/?partner=1401</url>
+          <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/010/768/0001076864_50.jpg</image>
+          <releaseDate>2011-01-24T00:00:00Z</releaseDate>
+          <price>
+            <currency code="GBP"/>
+            <value>7.99</value>
+            <formattedPrice>£7.99</formattedPrice>
+            <rrp>7.99</rrp>
+            <formattedRrp>£7.99</formattedRrp>
+            <onSale>false</onSale>
+          </price>
+          <download>
+            <packages>
+              <package id="2">
+                <description>standard</description>
+                <price>
+                  <currencyCode>GBP</currencyCode>
+                  <sevendigitalPrice>7.99</sevendigitalPrice>
+                  <recommendedRetailPrice>7.99</recommendedRetailPrice>
+                </price>
+                <formats>
+                  <format id="17">
+                    <description>MP3 320</description>
+                  </format>
+                  <format id="33">
+                    <description>M4A 320</description>
+                  </format>
+                </formats>
+              </package>
+            </packages>
+          </download>
+          <formats availableDrmFree="true">
+            <format id="17">
+              <fileFormat>MP3</fileFormat>
+              <bitRate>320</bitRate>
+              <drmFree>true</drmFree>
+            </format>
+            <format id="33">
+              <fileFormat>M4A</fileFormat>
+              <bitRate>320</bitRate>
+              <drmFree>true</drmFree>
+            </format>
+          </formats>
+          <label id="3172">
+            <name>XL</name>
+          </label>
+        </release>
+      </listItem>
+    </listItems>
+  </list>
 </response>

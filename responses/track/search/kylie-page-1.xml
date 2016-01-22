@@ -1,428 +1,428 @@
 <?xml version="1.0" encoding="utf-8"?>
 <response xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" status="ok" version="1.2" xsi:noNamespaceSchemaLocation="http://api.7digital.com/1.2/static/7digitalAPI.xsd">
-	<searchResults>
-		<page>1</page>
-		<pageSize>10</pageSize>
-		<totalItems>13</totalItems>
-		<searchResult>
-			<type>track</type>
-			<score>1</score>
-			<track id="87159">
-				<url>http://www.7digital.com/artists/kylie/spinning-around?h=01</url>
-				<trackNumber>1</trackNumber>
-				<discNumber>1</discNumber>
-				<title>Spinning Around (7th Spinnin' Dizzy Dub)</title>
-				<version/>
-				<release id="8622">
-					<title>Spinning Around</title>
-					<version/>
-					<type>single</type>
-					<barcode xsi:nil="true"/>
-					<year>0</year>
-					<explicitContent>false</explicitContent>
-					<url>http://www.7digital.com/artists/kylie/spinning-around</url>
-					<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/000/086/0000008622_50.jpg</image>
-					<releaseDate>2005-03-07T00:00:00+00:00</releaseDate>
-					<formats>
-						<format priority="11" id="17">
-							<fileFormat>mp3</fileFormat>
-							<bitRate>320</bitRate>
-						</format>
-					</formats>
-				</release>
-				<artist id="1599">
-					<name>Kylie</name>
-					<sortName xsi:nil="true"/>
-					<url>http://www.7digital.com/artists/kylie</url>
-					<image xsi:nil="true"/>
-					<appearsAs>Kylie</appearsAs>
-					<popularity>0</popularity>
-				</artist>
-				<formats>
-					<format priority="11" id="17">
-						<fileFormat>mp3</fileFormat>
-						<bitRate>320</bitRate>
-					</format>
-				</formats>
-			</track>
-		</searchResult>
-		<searchResult>
-			<type>track</type>
-			<score>2</score>
-			<track id="7874503">
-				<url>http://www.7digital.com/artists/kylie/its-so-hard-to-get-over-you?h=01</url>
-				<trackNumber>1</trackNumber>
-				<discNumber>1</discNumber>
-				<title>It's So Hard (To Get Over You)</title>
-				<version/>
-				<release id="710052">
-					<title>It's So Hard (To Get Over You!)</title>
-					<version/>
-					<type>single</type>
-					<barcode xsi:nil="true"/>
-					<year>0</year>
-					<explicitContent>false</explicitContent>
-					<url>http://www.7digital.com/artists/kylie/its-so-hard-to-get-over-you</url>
-					<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/007/100/0000710052_50.jpg</image>
-					<releaseDate>2009-04-24T23:00:00+01:00</releaseDate>
-					<formats>
-						<format priority="15" id="6">
-							<fileFormat>mp3</fileFormat>
-							<bitRate>192</bitRate>
-						</format>
-					</formats>
-				</release>
-				<artist id="1599">
-					<name>Kylie</name>
-					<sortName xsi:nil="true"/>
-					<url>http://www.7digital.com/artists/kylie</url>
-					<image xsi:nil="true"/>
-					<appearsAs>Kylie</appearsAs>
-					<popularity>0</popularity>
-				</artist>
-				<formats>
-					<format priority="15" id="6">
-						<fileFormat>mp3</fileFormat>
-						<bitRate>192</bitRate>
-					</format>
-				</formats>
-			</track>
-		</searchResult>
-		<searchResult>
-			<type>track</type>
-			<score>3</score>
-			<track id="87160">
-				<url>http://www.7digital.com/artists/kylie/spinning-around?h=02</url>
-				<trackNumber>2</trackNumber>
-				<discNumber>1</discNumber>
-				<title>Spinning Around (Live In Manchester)</title>
-				<version/>
-				<release id="8622">
-					<title>Spinning Around</title>
-					<version/>
-					<type>single</type>
-					<barcode xsi:nil="true"/>
-					<year>0</year>
-					<explicitContent>false</explicitContent>
-					<url>http://www.7digital.com/artists/kylie/spinning-around</url>
-					<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/000/086/0000008622_50.jpg</image>
-					<releaseDate>2005-03-07T00:00:00+00:00</releaseDate>
-					<formats>
-						<format priority="11" id="17">
-							<fileFormat>mp3</fileFormat>
-							<bitRate>320</bitRate>
-						</format>
-					</formats>
-				</release>
-				<artist id="1599">
-					<name>Kylie</name>
-					<sortName xsi:nil="true"/>
-					<url>http://www.7digital.com/artists/kylie</url>
-					<image xsi:nil="true"/>
-					<appearsAs>Kylie</appearsAs>
-					<popularity>0</popularity>
-				</artist>
-				<formats>
-					<format priority="11" id="17">
-						<fileFormat>mp3</fileFormat>
-						<bitRate>320</bitRate>
-					</format>
-				</formats>
-			</track>
-		</searchResult>
-		<searchResult>
-			<type>track</type>
-			<score>4</score>
-			<track id="3519010">
-				<url>http://www.7digital.com/artists/akcent/primul-capitol?h=13</url>
-				<trackNumber>13</trackNumber>
-				<discNumber>1</discNumber>
-				<title>Kylie</title>
-				<version/>
-				<release id="311598">
-					<title>Primul Capitol</title>
-					<version/>
-					<type>album</type>
-					<barcode xsi:nil="true"/>
-					<year>0</year>
-					<explicitContent>false</explicitContent>
-					<url>http://www.7digital.com/artists/akcent/primul-capitol</url>
-					<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/003/115/0000311598_50.jpg</image>
-					<releaseDate>2009-07-13T23:00:00+01:00</releaseDate>
-					<formats>
-						<format priority="11" id="17">
-							<fileFormat>mp3</fileFormat>
-							<bitRate>320</bitRate>
-						</format>
-					</formats>
-				</release>
-				<artist id="95676">
-					<name>Akcent</name>
-					<sortName xsi:nil="true"/>
-					<url>http://www.7digital.com/artists/akcent</url>
-					<image xsi:nil="true"/>
-					<appearsAs>Akcent</appearsAs>
-					<popularity>0</popularity>
-				</artist>
-				<formats>
-					<format priority="11" id="17">
-						<fileFormat>mp3</fileFormat>
-						<bitRate>320</bitRate>
-					</format>
-				</formats>
-			</track>
-		</searchResult>
-		<searchResult>
-			<type>track</type>
-			<score>5</score>
-			<track id="87161">
-				<url>http://www.7digital.com/artists/kylie/spinning-around?h=03</url>
-				<trackNumber>3</trackNumber>
-				<discNumber>1</discNumber>
-				<title>Spinning Around (Sharp Double Dub)</title>
-				<version/>
-				<release id="8622">
-					<title>Spinning Around</title>
-					<version/>
-					<type>single</type>
-					<barcode xsi:nil="true"/>
-					<year>0</year>
-					<explicitContent>false</explicitContent>
-					<url>http://www.7digital.com/artists/kylie/spinning-around</url>
-					<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/000/086/0000008622_50.jpg</image>
-					<releaseDate>2005-03-07T00:00:00+00:00</releaseDate>
-					<formats>
-						<format priority="11" id="17">
-							<fileFormat>mp3</fileFormat>
-							<bitRate>320</bitRate>
-						</format>
-					</formats>
-				</release>
-				<artist id="1599">
-					<name>Kylie</name>
-					<sortName xsi:nil="true"/>
-					<url>http://www.7digital.com/artists/kylie</url>
-					<image xsi:nil="true"/>
-					<appearsAs>Kylie</appearsAs>
-					<popularity>0</popularity>
-				</artist>
-				<formats>
-					<format priority="11" id="17">
-						<fileFormat>mp3</fileFormat>
-						<bitRate>320</bitRate>
-					</format>
-				</formats>
-			</track>
-		</searchResult>
-		<searchResult>
-			<type>track</type>
-			<score>6</score>
-			<track id="747668">
-				<url>http://www.7digital.com/artists/various-artists/big-beat-vibes?h=09</url>
-				<trackNumber>9</trackNumber>
-				<discNumber>1</discNumber>
-				<title>Kylie</title>
-				<version/>
-				<release id="71331">
-					<title>Big Beat Vibes</title>
-					<version/>
-					<type>album</type>
-					<barcode xsi:nil="true"/>
-					<year>0</year>
-					<explicitContent>false</explicitContent>
-					<url>http://www.7digital.com/artists/various-artists/big-beat-vibes</url>
-					<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/000/713/0000071331_50.jpg</image>
-					<releaseDate>1998-09-28T23:00:00+01:00</releaseDate>
-					<formats>
-						<format priority="15" id="6">
-							<fileFormat>mp3</fileFormat>
-							<bitRate>192</bitRate>
-						</format>
-					</formats>
-				</release>
-				<artist id="209">
-					<name>Various Artists</name>
-					<sortName xsi:nil="true"/>
-					<url>http://www.7digital.com/artists/various-artists</url>
-					<image xsi:nil="true"/>
-					<appearsAs>Various Artists</appearsAs>
-					<popularity>0</popularity>
-				</artist>
-				<formats>
-					<format priority="15" id="6">
-						<fileFormat>mp3</fileFormat>
-						<bitRate>192</bitRate>
-					</format>
-				</formats>
-			</track>
-		</searchResult>
-		<searchResult>
-			<type>track</type>
-			<score>7</score>
-			<track id="3519012">
-				<url>http://www.7digital.com/artists/akcent/primul-capitol?h=14</url>
-				<trackNumber>14</trackNumber>
-				<discNumber>1</discNumber>
-				<title>Kylie (Crush Rock Remix)</title>
-				<version/>
-				<release id="311598">
-					<title>Primul Capitol</title>
-					<version/>
-					<type>album</type>
-					<barcode xsi:nil="true"/>
-					<year>0</year>
-					<explicitContent>false</explicitContent>
-					<url>http://www.7digital.com/artists/akcent/primul-capitol</url>
-					<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/003/115/0000311598_50.jpg</image>
-					<releaseDate>2009-07-13T23:00:00+01:00</releaseDate>
-					<formats>
-						<format priority="11" id="17">
-							<fileFormat>mp3</fileFormat>
-							<bitRate>320</bitRate>
-						</format>
-					</formats>
-				</release>
-				<artist id="95676">
-					<name>Akcent</name>
-					<sortName xsi:nil="true"/>
-					<url>http://www.7digital.com/artists/akcent</url>
-					<image xsi:nil="true"/>
-					<appearsAs>Akcent</appearsAs>
-					<popularity>0</popularity>
-				</artist>
-				<formats>
-					<format priority="11" id="17">
-						<fileFormat>mp3</fileFormat>
-						<bitRate>320</bitRate>
-					</format>
-				</formats>
-			</track>
-		</searchResult>
-		<searchResult>
-			<type>track</type>
-			<score>8</score>
-			<track id="3519018">
-				<url>http://www.7digital.com/artists/akcent/primul-capitol?h=17</url>
-				<trackNumber>17</trackNumber>
-				<discNumber>1</discNumber>
-				<title>Kylie (Crush Thunderdoom Remix)</title>
-				<version/>
-				<release id="311598">
-					<title>Primul Capitol</title>
-					<version/>
-					<type>album</type>
-					<barcode xsi:nil="true"/>
-					<year>0</year>
-					<explicitContent>false</explicitContent>
-					<url>http://www.7digital.com/artists/akcent/primul-capitol</url>
-					<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/003/115/0000311598_50.jpg</image>
-					<releaseDate>2009-07-13T23:00:00+01:00</releaseDate>
-					<formats>
-						<format priority="11" id="17">
-							<fileFormat>mp3</fileFormat>
-							<bitRate>320</bitRate>
-						</format>
-					</formats>
-				</release>
-				<artist id="95676">
-					<name>Akcent</name>
-					<sortName xsi:nil="true"/>
-					<url>http://www.7digital.com/artists/akcent</url>
-					<image xsi:nil="true"/>
-					<appearsAs>Akcent</appearsAs>
-					<popularity>0</popularity>
-				</artist>
-				<formats>
-					<format priority="11" id="17">
-						<fileFormat>mp3</fileFormat>
-						<bitRate>320</bitRate>
-					</format>
-				</formats>
-			</track>
-		</searchResult>
-		<searchResult>
-			<type>track</type>
-			<score>9</score>
-			<track id="3519014">
-				<url>http://www.7digital.com/artists/akcent/primul-capitol?h=15</url>
-				<trackNumber>15</trackNumber>
-				<discNumber>1</discNumber>
-				<title>Kylie (Black Sea Mix)</title>
-				<version/>
-				<release id="311598">
-					<title>Primul Capitol</title>
-					<version/>
-					<type>album</type>
-					<barcode xsi:nil="true"/>
-					<year>0</year>
-					<explicitContent>false</explicitContent>
-					<url>http://www.7digital.com/artists/akcent/primul-capitol</url>
-					<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/003/115/0000311598_50.jpg</image>
-					<releaseDate>2009-07-13T23:00:00+01:00</releaseDate>
-					<formats>
-						<format priority="11" id="17">
-							<fileFormat>mp3</fileFormat>
-							<bitRate>320</bitRate>
-						</format>
-					</formats>
-				</release>
-				<artist id="95676">
-					<name>Akcent</name>
-					<sortName xsi:nil="true"/>
-					<url>http://www.7digital.com/artists/akcent</url>
-					<image xsi:nil="true"/>
-					<appearsAs>Akcent</appearsAs>
-					<popularity>0</popularity>
-				</artist>
-				<formats>
-					<format priority="11" id="17">
-						<fileFormat>mp3</fileFormat>
-						<bitRate>320</bitRate>
-					</format>
-				</formats>
-			</track>
-		</searchResult>
-		<searchResult>
-			<type>track</type>
-			<score>10</score>
-			<track id="3519016">
-				<url>http://www.7digital.com/artists/akcent/primul-capitol?h=16</url>
-				<trackNumber>16</trackNumber>
-				<discNumber>1</discNumber>
-				<title>Kylie (Dj Wins Mix)</title>
-				<version/>
-				<release id="311598">
-					<title>Primul Capitol</title>
-					<version/>
-					<type>album</type>
-					<barcode xsi:nil="true"/>
-					<year>0</year>
-					<explicitContent>false</explicitContent>
-					<url>http://www.7digital.com/artists/akcent/primul-capitol</url>
-					<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/003/115/0000311598_50.jpg</image>
-					<releaseDate>2009-07-13T23:00:00+01:00</releaseDate>
-					<formats>
-						<format priority="11" id="17">
-							<fileFormat>mp3</fileFormat>
-							<bitRate>320</bitRate>
-						</format>
-					</formats>
-				</release>
-				<artist id="95676">
-					<name>Akcent</name>
-					<sortName xsi:nil="true"/>
-					<url>http://www.7digital.com/artists/akcent</url>
-					<image xsi:nil="true"/>
-					<appearsAs>Akcent</appearsAs>
-					<popularity>0</popularity>
-				</artist>
-				<formats>
-					<format priority="11" id="17">
-						<fileFormat>mp3</fileFormat>
-						<bitRate>320</bitRate>
-					</format>
-				</formats>
-			</track>
-		</searchResult>
-	</searchResults>
+  <searchResults>
+    <page>1</page>
+    <pageSize>10</pageSize>
+    <totalItems>13</totalItems>
+    <searchResult>
+      <type>track</type>
+      <score>1</score>
+      <track id="87159">
+        <url>http://www.7digital.com/artists/kylie/spinning-around?h=01</url>
+        <trackNumber>1</trackNumber>
+        <discNumber>1</discNumber>
+        <title>Spinning Around (7th Spinnin' Dizzy Dub)</title>
+        <version/>
+        <release id="8622">
+          <title>Spinning Around</title>
+          <version/>
+          <type>single</type>
+          <barcode xsi:nil="true"/>
+          <year>0</year>
+          <explicitContent>false</explicitContent>
+          <url>http://www.7digital.com/artists/kylie/spinning-around</url>
+          <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/000/086/0000008622_50.jpg</image>
+          <releaseDate>2005-03-07T00:00:00+00:00</releaseDate>
+          <formats>
+            <format priority="11" id="17">
+              <fileFormat>mp3</fileFormat>
+              <bitRate>320</bitRate>
+            </format>
+          </formats>
+        </release>
+        <artist id="1599">
+          <name>Kylie</name>
+          <sortName xsi:nil="true"/>
+          <url>http://www.7digital.com/artists/kylie</url>
+          <image xsi:nil="true"/>
+          <appearsAs>Kylie</appearsAs>
+          <popularity>0</popularity>
+        </artist>
+        <formats>
+          <format priority="11" id="17">
+            <fileFormat>mp3</fileFormat>
+            <bitRate>320</bitRate>
+          </format>
+        </formats>
+      </track>
+    </searchResult>
+    <searchResult>
+      <type>track</type>
+      <score>2</score>
+      <track id="7874503">
+        <url>http://www.7digital.com/artists/kylie/its-so-hard-to-get-over-you?h=01</url>
+        <trackNumber>1</trackNumber>
+        <discNumber>1</discNumber>
+        <title>It's So Hard (To Get Over You)</title>
+        <version/>
+        <release id="710052">
+          <title>It's So Hard (To Get Over You!)</title>
+          <version/>
+          <type>single</type>
+          <barcode xsi:nil="true"/>
+          <year>0</year>
+          <explicitContent>false</explicitContent>
+          <url>http://www.7digital.com/artists/kylie/its-so-hard-to-get-over-you</url>
+          <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/007/100/0000710052_50.jpg</image>
+          <releaseDate>2009-04-24T23:00:00+01:00</releaseDate>
+          <formats>
+            <format priority="15" id="6">
+              <fileFormat>mp3</fileFormat>
+              <bitRate>192</bitRate>
+            </format>
+          </formats>
+        </release>
+        <artist id="1599">
+          <name>Kylie</name>
+          <sortName xsi:nil="true"/>
+          <url>http://www.7digital.com/artists/kylie</url>
+          <image xsi:nil="true"/>
+          <appearsAs>Kylie</appearsAs>
+          <popularity>0</popularity>
+        </artist>
+        <formats>
+          <format priority="15" id="6">
+            <fileFormat>mp3</fileFormat>
+            <bitRate>192</bitRate>
+          </format>
+        </formats>
+      </track>
+    </searchResult>
+    <searchResult>
+      <type>track</type>
+      <score>3</score>
+      <track id="87160">
+        <url>http://www.7digital.com/artists/kylie/spinning-around?h=02</url>
+        <trackNumber>2</trackNumber>
+        <discNumber>1</discNumber>
+        <title>Spinning Around (Live In Manchester)</title>
+        <version/>
+        <release id="8622">
+          <title>Spinning Around</title>
+          <version/>
+          <type>single</type>
+          <barcode xsi:nil="true"/>
+          <year>0</year>
+          <explicitContent>false</explicitContent>
+          <url>http://www.7digital.com/artists/kylie/spinning-around</url>
+          <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/000/086/0000008622_50.jpg</image>
+          <releaseDate>2005-03-07T00:00:00+00:00</releaseDate>
+          <formats>
+            <format priority="11" id="17">
+              <fileFormat>mp3</fileFormat>
+              <bitRate>320</bitRate>
+            </format>
+          </formats>
+        </release>
+        <artist id="1599">
+          <name>Kylie</name>
+          <sortName xsi:nil="true"/>
+          <url>http://www.7digital.com/artists/kylie</url>
+          <image xsi:nil="true"/>
+          <appearsAs>Kylie</appearsAs>
+          <popularity>0</popularity>
+        </artist>
+        <formats>
+          <format priority="11" id="17">
+            <fileFormat>mp3</fileFormat>
+            <bitRate>320</bitRate>
+          </format>
+        </formats>
+      </track>
+    </searchResult>
+    <searchResult>
+      <type>track</type>
+      <score>4</score>
+      <track id="3519010">
+        <url>http://www.7digital.com/artists/akcent/primul-capitol?h=13</url>
+        <trackNumber>13</trackNumber>
+        <discNumber>1</discNumber>
+        <title>Kylie</title>
+        <version/>
+        <release id="311598">
+          <title>Primul Capitol</title>
+          <version/>
+          <type>album</type>
+          <barcode xsi:nil="true"/>
+          <year>0</year>
+          <explicitContent>false</explicitContent>
+          <url>http://www.7digital.com/artists/akcent/primul-capitol</url>
+          <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/003/115/0000311598_50.jpg</image>
+          <releaseDate>2009-07-13T23:00:00+01:00</releaseDate>
+          <formats>
+            <format priority="11" id="17">
+              <fileFormat>mp3</fileFormat>
+              <bitRate>320</bitRate>
+            </format>
+          </formats>
+        </release>
+        <artist id="95676">
+          <name>Akcent</name>
+          <sortName xsi:nil="true"/>
+          <url>http://www.7digital.com/artists/akcent</url>
+          <image xsi:nil="true"/>
+          <appearsAs>Akcent</appearsAs>
+          <popularity>0</popularity>
+        </artist>
+        <formats>
+          <format priority="11" id="17">
+            <fileFormat>mp3</fileFormat>
+            <bitRate>320</bitRate>
+          </format>
+        </formats>
+      </track>
+    </searchResult>
+    <searchResult>
+      <type>track</type>
+      <score>5</score>
+      <track id="87161">
+        <url>http://www.7digital.com/artists/kylie/spinning-around?h=03</url>
+        <trackNumber>3</trackNumber>
+        <discNumber>1</discNumber>
+        <title>Spinning Around (Sharp Double Dub)</title>
+        <version/>
+        <release id="8622">
+          <title>Spinning Around</title>
+          <version/>
+          <type>single</type>
+          <barcode xsi:nil="true"/>
+          <year>0</year>
+          <explicitContent>false</explicitContent>
+          <url>http://www.7digital.com/artists/kylie/spinning-around</url>
+          <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/000/086/0000008622_50.jpg</image>
+          <releaseDate>2005-03-07T00:00:00+00:00</releaseDate>
+          <formats>
+            <format priority="11" id="17">
+              <fileFormat>mp3</fileFormat>
+              <bitRate>320</bitRate>
+            </format>
+          </formats>
+        </release>
+        <artist id="1599">
+          <name>Kylie</name>
+          <sortName xsi:nil="true"/>
+          <url>http://www.7digital.com/artists/kylie</url>
+          <image xsi:nil="true"/>
+          <appearsAs>Kylie</appearsAs>
+          <popularity>0</popularity>
+        </artist>
+        <formats>
+          <format priority="11" id="17">
+            <fileFormat>mp3</fileFormat>
+            <bitRate>320</bitRate>
+          </format>
+        </formats>
+      </track>
+    </searchResult>
+    <searchResult>
+      <type>track</type>
+      <score>6</score>
+      <track id="747668">
+        <url>http://www.7digital.com/artists/various-artists/big-beat-vibes?h=09</url>
+        <trackNumber>9</trackNumber>
+        <discNumber>1</discNumber>
+        <title>Kylie</title>
+        <version/>
+        <release id="71331">
+          <title>Big Beat Vibes</title>
+          <version/>
+          <type>album</type>
+          <barcode xsi:nil="true"/>
+          <year>0</year>
+          <explicitContent>false</explicitContent>
+          <url>http://www.7digital.com/artists/various-artists/big-beat-vibes</url>
+          <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/000/713/0000071331_50.jpg</image>
+          <releaseDate>1998-09-28T23:00:00+01:00</releaseDate>
+          <formats>
+            <format priority="15" id="6">
+              <fileFormat>mp3</fileFormat>
+              <bitRate>192</bitRate>
+            </format>
+          </formats>
+        </release>
+        <artist id="209">
+          <name>Various Artists</name>
+          <sortName xsi:nil="true"/>
+          <url>http://www.7digital.com/artists/various-artists</url>
+          <image xsi:nil="true"/>
+          <appearsAs>Various Artists</appearsAs>
+          <popularity>0</popularity>
+        </artist>
+        <formats>
+          <format priority="15" id="6">
+            <fileFormat>mp3</fileFormat>
+            <bitRate>192</bitRate>
+          </format>
+        </formats>
+      </track>
+    </searchResult>
+    <searchResult>
+      <type>track</type>
+      <score>7</score>
+      <track id="3519012">
+        <url>http://www.7digital.com/artists/akcent/primul-capitol?h=14</url>
+        <trackNumber>14</trackNumber>
+        <discNumber>1</discNumber>
+        <title>Kylie (Crush Rock Remix)</title>
+        <version/>
+        <release id="311598">
+          <title>Primul Capitol</title>
+          <version/>
+          <type>album</type>
+          <barcode xsi:nil="true"/>
+          <year>0</year>
+          <explicitContent>false</explicitContent>
+          <url>http://www.7digital.com/artists/akcent/primul-capitol</url>
+          <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/003/115/0000311598_50.jpg</image>
+          <releaseDate>2009-07-13T23:00:00+01:00</releaseDate>
+          <formats>
+            <format priority="11" id="17">
+              <fileFormat>mp3</fileFormat>
+              <bitRate>320</bitRate>
+            </format>
+          </formats>
+        </release>
+        <artist id="95676">
+          <name>Akcent</name>
+          <sortName xsi:nil="true"/>
+          <url>http://www.7digital.com/artists/akcent</url>
+          <image xsi:nil="true"/>
+          <appearsAs>Akcent</appearsAs>
+          <popularity>0</popularity>
+        </artist>
+        <formats>
+          <format priority="11" id="17">
+            <fileFormat>mp3</fileFormat>
+            <bitRate>320</bitRate>
+          </format>
+        </formats>
+      </track>
+    </searchResult>
+    <searchResult>
+      <type>track</type>
+      <score>8</score>
+      <track id="3519018">
+        <url>http://www.7digital.com/artists/akcent/primul-capitol?h=17</url>
+        <trackNumber>17</trackNumber>
+        <discNumber>1</discNumber>
+        <title>Kylie (Crush Thunderdoom Remix)</title>
+        <version/>
+        <release id="311598">
+          <title>Primul Capitol</title>
+          <version/>
+          <type>album</type>
+          <barcode xsi:nil="true"/>
+          <year>0</year>
+          <explicitContent>false</explicitContent>
+          <url>http://www.7digital.com/artists/akcent/primul-capitol</url>
+          <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/003/115/0000311598_50.jpg</image>
+          <releaseDate>2009-07-13T23:00:00+01:00</releaseDate>
+          <formats>
+            <format priority="11" id="17">
+              <fileFormat>mp3</fileFormat>
+              <bitRate>320</bitRate>
+            </format>
+          </formats>
+        </release>
+        <artist id="95676">
+          <name>Akcent</name>
+          <sortName xsi:nil="true"/>
+          <url>http://www.7digital.com/artists/akcent</url>
+          <image xsi:nil="true"/>
+          <appearsAs>Akcent</appearsAs>
+          <popularity>0</popularity>
+        </artist>
+        <formats>
+          <format priority="11" id="17">
+            <fileFormat>mp3</fileFormat>
+            <bitRate>320</bitRate>
+          </format>
+        </formats>
+      </track>
+    </searchResult>
+    <searchResult>
+      <type>track</type>
+      <score>9</score>
+      <track id="3519014">
+        <url>http://www.7digital.com/artists/akcent/primul-capitol?h=15</url>
+        <trackNumber>15</trackNumber>
+        <discNumber>1</discNumber>
+        <title>Kylie (Black Sea Mix)</title>
+        <version/>
+        <release id="311598">
+          <title>Primul Capitol</title>
+          <version/>
+          <type>album</type>
+          <barcode xsi:nil="true"/>
+          <year>0</year>
+          <explicitContent>false</explicitContent>
+          <url>http://www.7digital.com/artists/akcent/primul-capitol</url>
+          <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/003/115/0000311598_50.jpg</image>
+          <releaseDate>2009-07-13T23:00:00+01:00</releaseDate>
+          <formats>
+            <format priority="11" id="17">
+              <fileFormat>mp3</fileFormat>
+              <bitRate>320</bitRate>
+            </format>
+          </formats>
+        </release>
+        <artist id="95676">
+          <name>Akcent</name>
+          <sortName xsi:nil="true"/>
+          <url>http://www.7digital.com/artists/akcent</url>
+          <image xsi:nil="true"/>
+          <appearsAs>Akcent</appearsAs>
+          <popularity>0</popularity>
+        </artist>
+        <formats>
+          <format priority="11" id="17">
+            <fileFormat>mp3</fileFormat>
+            <bitRate>320</bitRate>
+          </format>
+        </formats>
+      </track>
+    </searchResult>
+    <searchResult>
+      <type>track</type>
+      <score>10</score>
+      <track id="3519016">
+        <url>http://www.7digital.com/artists/akcent/primul-capitol?h=16</url>
+        <trackNumber>16</trackNumber>
+        <discNumber>1</discNumber>
+        <title>Kylie (Dj Wins Mix)</title>
+        <version/>
+        <release id="311598">
+          <title>Primul Capitol</title>
+          <version/>
+          <type>album</type>
+          <barcode xsi:nil="true"/>
+          <year>0</year>
+          <explicitContent>false</explicitContent>
+          <url>http://www.7digital.com/artists/akcent/primul-capitol</url>
+          <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/003/115/0000311598_50.jpg</image>
+          <releaseDate>2009-07-13T23:00:00+01:00</releaseDate>
+          <formats>
+            <format priority="11" id="17">
+              <fileFormat>mp3</fileFormat>
+              <bitRate>320</bitRate>
+            </format>
+          </formats>
+        </release>
+        <artist id="95676">
+          <name>Akcent</name>
+          <sortName xsi:nil="true"/>
+          <url>http://www.7digital.com/artists/akcent</url>
+          <image xsi:nil="true"/>
+          <appearsAs>Akcent</appearsAs>
+          <popularity>0</popularity>
+        </artist>
+        <formats>
+          <format priority="11" id="17">
+            <fileFormat>mp3</fileFormat>
+            <bitRate>320</bitRate>
+          </format>
+        </formats>
+      </track>
+    </searchResult>
+  </searchResults>
 </response>

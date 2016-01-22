@@ -1,580 +1,580 @@
 <?xml version="1.0" encoding="utf-8"?>
 <response xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" status="ok" version="1.2" xsi:noNamespaceSchemaLocation="http://api.7digital.com/1.2/static/7digitalAPI.xsd">
-	<recommendations>
-		<page>1</page>
-		<pageSize>10</pageSize>
-		<totalItems>63</totalItems>
-		<recommendedItem>
-			<release id="1182">
-				<title>Pablo Honey</title>
-				<version/>
-				<type>Album</type>
-				<barcode>0077778140955</barcode>
-				<year>2003</year>
-				<explicitContent>true</explicitContent>
-				<artist id="304">
-					<name>Radiohead</name>
-					<appearsAs>Radiohead</appearsAs>
-					<url>http://www.7digital.com/artists/radiohead/?partner=712</url>
-				</artist>
-				<url>http://www.7digital.com/artists/radiohead/pablo-honey/?partner=712</url>
-				<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/000/011/0000001182_50.jpg</image>
-				<releaseDate>2003-03-03T00:00:00Z</releaseDate>
-				<addedDate>2004-10-15T16:44:39+01:00</addedDate>
-				<price>
-					<currency code="GBP">£</currency>
-					<value>6.99</value>
-					<formattedPrice>£6.99</formattedPrice>
-					<onSale>true</onSale>
-					<rrp>6.99</rrp>
-					<formattedRrp>£6.99</formattedRrp>
-				</price>
-				<download>
-					<packages>
-						<package id="2">
-							<description>standard</description>
-							<price>
-								<currencyCode>GBP</currencyCode>
-								<sevendigitalPrice>6.99</sevendigitalPrice>
-								<recommendedRetailPrice>6.99</recommendedRetailPrice>
-							</price>
-							<formats>
-								<format id="17">
-									<description>MP3 320</description>
-								</format>
-							</formats>
-						</package>
-					</packages>
-				</download>
-				<formats availableDrmFree="true">
-					<format id="17">
-						<fileFormat>MP3</fileFormat>
-						<bitRate>320</bitRate>
-						<drmFree>true</drmFree>
-					</format>
-				</formats>
-				<label id="77">
-					<name>EMI UK</name>
-				</label>
-			</release>
-		</recommendedItem>
-		<recommendedItem>
-			<release id="980972">
-				<title>My Foolish Pride</title>
-				<version/>
-				<type>Single</type>
-				<barcode>711297584141</barcode>
-				<year>2010</year>
-				<explicitContent>false</explicitContent>
-				<artist id="14">
-					<name>The Charlatans</name>
-					<appearsAs>The Charlatans</appearsAs>
-					<url>http://www.7digital.com/artists/the-charlatans/?partner=712</url>
-				</artist>
-				<url>http://www.7digital.com/artists/the-charlatans/my-foolish-pride/?partner=712</url>
-				<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/009/809/0000980972_50.jpg</image>
-				<releaseDate>2010-09-19T00:00:00+01:00</releaseDate>
-				<addedDate>2010-09-16T13:16:31+01:00</addedDate>
-				<price>
-					<currency code="GBP">£</currency>
-					<value>1.79</value>
-					<formattedPrice>£1.79</formattedPrice>
-					<onSale>true</onSale>
-					<rrp>1.79</rrp>
-					<formattedRrp>£1.79</formattedRrp>
-				</price>
-				<download>
-					<packages>
-						<package id="2">
-							<description>standard</description>
-							<price>
-								<currencyCode>GBP</currencyCode>
-								<sevendigitalPrice>1.79</sevendigitalPrice>
-								<recommendedRetailPrice>1.79</recommendedRetailPrice>
-							</price>
-							<formats>
-								<format id="17">
-									<description>MP3 320</description>
-								</format>
-								<format id="33">
-									<description>M4A 320</description>
-								</format>
-							</formats>
-						</package>
-					</packages>
-				</download>
-				<formats availableDrmFree="true">
-					<format id="17">
-						<fileFormat>MP3</fileFormat>
-						<bitRate>320</bitRate>
-						<drmFree>true</drmFree>
-					</format>
-					<format id="33">
-						<fileFormat>M4A</fileFormat>
-						<bitRate>320</bitRate>
-						<drmFree>true</drmFree>
-					</format>
-				</formats>
-				<label id="606">
-					<name>Cooking Vinyl</name>
-				</label>
-			</release>
-		</recommendedItem>
-		<recommendedItem>
-			<release id="322258">
-				<title>Wire To Wire</title>
-				<version>eSingle</version>
-				<type>Single</type>
-				<barcode>00602517881273</barcode>
-				<year>2008</year>
-				<explicitContent>false</explicitContent>
-				<artist id="170">
-					<name>Razorlight</name>
-					<appearsAs>Razorlight</appearsAs>
-					<url>http://www.7digital.com/artists/razorlight/?partner=712</url>
-				</artist>
-				<url>http://www.7digital.com/artists/razorlight/wire-to-wire/?partner=712</url>
-				<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/003/222/0000322258_50.jpg</image>
-				<releaseDate>2008-10-17T00:00:00+01:00</releaseDate>
-				<addedDate>2008-09-30T15:20:08+01:00</addedDate>
-				<price>
-					<currency code="GBP">£</currency>
-					<value>1.39</value>
-					<formattedPrice>£1.39</formattedPrice>
-					<onSale>true</onSale>
-					<rrp>1.39</rrp>
-					<formattedRrp>£1.39</formattedRrp>
-				</price>
-				<download>
-					<packages>
-						<package id="2">
-							<description>standard</description>
-							<price>
-								<currencyCode>GBP</currencyCode>
-								<sevendigitalPrice>1.39</sevendigitalPrice>
-								<recommendedRetailPrice>1.39</recommendedRetailPrice>
-							</price>
-							<formats>
-								<format id="17">
-									<description>MP3 320</description>
-								</format>
-							</formats>
-						</package>
-					</packages>
-				</download>
-				<formats availableDrmFree="true">
-					<format id="17">
-						<fileFormat>MP3</fileFormat>
-						<bitRate>320</bitRate>
-						<drmFree>true</drmFree>
-					</format>
-				</formats>
-				<label id="3309">
-					<name>Universal Music Ireland Ltd.</name>
-				</label>
-			</release>
-		</recommendedItem>
-		<recommendedItem>
-			<release id="8509">
-				<title>Employment</title>
-				<version>B-Unique Version</version>
-				<type>Album</type>
-				<barcode>05055052813028</barcode>
-				<year>2005</year>
-				<explicitContent>false</explicitContent>
-				<artist id="615">
-					<name>Kaiser Chiefs</name>
-					<appearsAs>Kaiser Chiefs</appearsAs>
-					<url>http://www.7digital.com/artists/kaiser-chiefs/?partner=712</url>
-				</artist>
-				<url>http://www.7digital.com/artists/kaiser-chiefs/employment-b-unique-version/?partner=712</url>
-				<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/000/085/0000008509_50.jpg</image>
-				<releaseDate>2005-03-07T00:00:00Z</releaseDate>
-				<addedDate>2005-02-24T16:10:44Z</addedDate>
-				<price>
-					<currency code="GBP">£</currency>
-					<value>4.99</value>
-					<formattedPrice>£4.99</formattedPrice>
-					<onSale>true</onSale>
-					<rrp>4.99</rrp>
-					<formattedRrp>£4.99</formattedRrp>
-				</price>
-				<download>
-					<packages>
-						<package id="2">
-							<description>standard</description>
-							<price>
-								<currencyCode>GBP</currencyCode>
-								<sevendigitalPrice>4.99</sevendigitalPrice>
-								<recommendedRetailPrice>4.99</recommendedRetailPrice>
-							</price>
-							<formats>
-								<format id="17">
-									<description>MP3 320</description>
-								</format>
-							</formats>
-						</package>
-					</packages>
-				</download>
-				<formats availableDrmFree="true">
-					<format id="17">
-						<fileFormat>MP3</fileFormat>
-						<bitRate>320</bitRate>
-						<drmFree>true</drmFree>
-					</format>
-				</formats>
-				<label id="35827">
-					<name>Universal Music AS</name>
-				</label>
-			</release>
-		</recommendedItem>
-		<recommendedItem>
-			<release id="326338">
-				<title>A Hundred Million Suns</title>
-				<version>EU Version</version>
-				<type>Album</type>
-				<barcode>00602517852631</barcode>
-				<year>2008</year>
-				<explicitContent>false</explicitContent>
-				<artist id="269">
-					<name>Snow Patrol</name>
-					<appearsAs>Snow Patrol</appearsAs>
-					<url>http://www.7digital.com/artists/snow-patrol/?partner=712</url>
-				</artist>
-				<url>http://www.7digital.com/artists/snow-patrol/a-hundred-million-suns-1/?partner=712</url>
-				<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/003/263/0000326338_50.jpg</image>
-				<releaseDate>2008-10-27T00:00:00Z</releaseDate>
-				<addedDate>2008-10-14T17:53:32+01:00</addedDate>
-				<price>
-					<currency code="GBP">£</currency>
-					<value>7.99</value>
-					<formattedPrice>£7.99</formattedPrice>
-					<onSale>true</onSale>
-					<rrp>7.99</rrp>
-					<formattedRrp>£7.99</formattedRrp>
-				</price>
-				<download>
-					<packages>
-						<package id="2">
-							<description>standard</description>
-							<price>
-								<currencyCode>GBP</currencyCode>
-								<sevendigitalPrice>7.99</sevendigitalPrice>
-								<recommendedRetailPrice>7.99</recommendedRetailPrice>
-							</price>
-							<formats>
-								<format id="17">
-									<description>MP3 320</description>
-								</format>
-							</formats>
-						</package>
-					</packages>
-				</download>
-				<formats availableDrmFree="true">
-					<format id="17">
-						<fileFormat>MP3</fileFormat>
-						<bitRate>320</bitRate>
-						<drmFree>true</drmFree>
-					</format>
-				</formats>
-				<label id="3295">
-					<name>Universal Music International Div.</name>
-				</label>
-			</release>
-		</recommendedItem>
-		<recommendedItem>
-			<release id="394300">
-				<title>All The Plans</title>
-				<version/>
-				<type>Album</type>
-				<barcode>5099969342059</barcode>
-				<year>2009</year>
-				<explicitContent>false</explicitContent>
-				<artist id="122">
-					<name>Starsailor</name>
-					<appearsAs>Starsailor</appearsAs>
-					<url>http://www.7digital.com/artists/starsailor/?partner=712</url>
-				</artist>
-				<url>http://www.7digital.com/artists/starsailor/all-the-plans-2/?partner=712</url>
-				<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/003/943/0000394300_50.jpg</image>
-				<releaseDate>2009-03-09T00:00:00Z</releaseDate>
-				<addedDate>2009-02-27T14:10:46Z</addedDate>
-				<price>
-					<currency code="GBP">£</currency>
-					<value>7.99</value>
-					<formattedPrice>£7.99</formattedPrice>
-					<onSale>true</onSale>
-					<rrp>7.99</rrp>
-					<formattedRrp>£7.99</formattedRrp>
-				</price>
-				<download>
-					<packages>
-						<package id="2">
-							<description>standard</description>
-							<price>
-								<currencyCode>GBP</currencyCode>
-								<sevendigitalPrice>7.99</sevendigitalPrice>
-								<recommendedRetailPrice>7.99</recommendedRetailPrice>
-							</price>
-							<formats>
-								<format id="17">
-									<description>MP3 320</description>
-								</format>
-							</formats>
-						</package>
-					</packages>
-				</download>
-				<formats availableDrmFree="true">
-					<format id="17">
-						<fileFormat>MP3</fileFormat>
-						<bitRate>320</bitRate>
-						<drmFree>true</drmFree>
-					</format>
-				</formats>
-				<label id="77">
-					<name>EMI UK</name>
-				</label>
-			</release>
-		</recommendedItem>
-		<recommendedItem>
-			<release id="1039006">
-				<title>Living Is So Easy</title>
-				<version/>
-				<type>Single</type>
-				<barcode>883870060769</barcode>
-				<year>2010</year>
-				<explicitContent>false</explicitContent>
-				<artist id="112518">
-					<name>British Sea Power</name>
-					<appearsAs>British Sea Power</appearsAs>
-					<url>http://www.7digital.com/artists/british-sea-power/?partner=712</url>
-				</artist>
-				<url>http://www.7digital.com/artists/british-sea-power/living-is-so-easy/?partner=712</url>
-				<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/010/390/0001039006_50.jpg</image>
-				<releaseDate>2010-11-29T00:00:00Z</releaseDate>
-				<addedDate>2010-11-11T17:43:08Z</addedDate>
-				<price>
-					<currency code="GBP">£</currency>
-					<value/>
-					<formattedPrice>N/A</formattedPrice>
-					<onSale>false</onSale>
-					<rrp/>
-					<formattedRrp>N/A</formattedRrp>
-				</price>
-				<download>
-					<packages>
-						<package id="2">
-							<description>standard</description>
-							<price>
-								<currencyCode>GBP</currencyCode>
-								<sevendigitalPrice xsi:nil="true"/>
-								<recommendedRetailPrice xsi:nil="true"/>
-							</price>
-							<formats>
-								<format id="17">
-									<description>MP3 320</description>
-								</format>
-								<format id="33">
-									<description>M4A 320</description>
-								</format>
-							</formats>
-						</package>
-					</packages>
-				</download>
-				<formats availableDrmFree="true">
-					<format id="17">
-						<fileFormat>MP3</fileFormat>
-						<bitRate>320</bitRate>
-						<drmFree>true</drmFree>
-					</format>
-					<format id="33">
-						<fileFormat>M4A</fileFormat>
-						<bitRate>320</bitRate>
-						<drmFree>true</drmFree>
-					</format>
-				</formats>
-				<label id="138">
-					<name>Rough Trade</name>
-				</label>
-			</release>
-		</recommendedItem>
-		<recommendedItem>
-			<release id="268569">
-				<title>J.Smith</title>
-				<version/>
-				<type>Single</type>
-				<barcode>5024545521887</barcode>
-				<year>2008</year>
-				<explicitContent>false</explicitContent>
-				<artist id="11513">
-					<name>Travis</name>
-					<appearsAs>Travis</appearsAs>
-					<url>http://www.7digital.com/artists/travis/?partner=712</url>
-				</artist>
-				<url>http://www.7digital.com/artists/travis/j-smith/?partner=712</url>
-				<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/002/685/0000268569_50.jpg</image>
-				<releaseDate>2008-06-29T00:00:00+01:00</releaseDate>
-				<addedDate>2008-06-16T20:03:39+01:00</addedDate>
-				<price>
-					<currency code="GBP">£</currency>
-					<value>2.29</value>
-					<formattedPrice>£2.29</formattedPrice>
-					<onSale>true</onSale>
-					<rrp>2.29</rrp>
-					<formattedRrp>£2.29</formattedRrp>
-				</price>
-				<download>
-					<packages>
-						<package id="2">
-							<description>standard</description>
-							<price>
-								<currencyCode>GBP</currencyCode>
-								<sevendigitalPrice>2.29</sevendigitalPrice>
-								<recommendedRetailPrice>2.29</recommendedRetailPrice>
-							</price>
-							<formats>
-								<format id="17">
-									<description>MP3 320</description>
-								</format>
-								<format id="33">
-									<description>M4A 320</description>
-								</format>
-							</formats>
-						</package>
-					</packages>
-				</download>
-				<formats availableDrmFree="true">
-					<format id="17">
-						<fileFormat>MP3</fileFormat>
-						<bitRate>320</bitRate>
-						<drmFree>true</drmFree>
-					</format>
-					<format id="33">
-						<fileFormat>M4A</fileFormat>
-						<bitRate>320</bitRate>
-						<drmFree>true</drmFree>
-					</format>
-				</formats>
-				<label id="18953">
-					<name>Red Phone Box</name>
-				</label>
-			</release>
-		</recommendedItem>
-		<recommendedItem>
-			<release id="326167">
-				<title>Decade In The Sun - Best Of Stereophonics</title>
-				<version>Deluxe</version>
-				<type>Album</type>
-				<barcode>00602517837584</barcode>
-				<year>2008</year>
-				<explicitContent>false</explicitContent>
-				<artist id="1307">
-					<name>Stereophonics</name>
-					<appearsAs>Stereophonics</appearsAs>
-					<url>http://www.7digital.com/artists/stereophonics/?partner=712</url>
-				</artist>
-				<url>http://www.7digital.com/artists/stereophonics/decade-in-the-sun-best-of-stereophonics/?partner=712</url>
-				<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/003/261/0000326167_50.jpg</image>
-				<releaseDate>2008-11-10T00:00:00Z</releaseDate>
-				<addedDate>2008-10-14T10:48:36+01:00</addedDate>
-				<price>
-					<currency code="GBP">£</currency>
-					<value>9.99</value>
-					<formattedPrice>£9.99</formattedPrice>
-					<onSale>true</onSale>
-					<rrp>9.99</rrp>
-					<formattedRrp>£9.99</formattedRrp>
-				</price>
-				<download>
-					<packages>
-						<package id="2">
-							<description>standard</description>
-							<price>
-								<currencyCode>GBP</currencyCode>
-								<sevendigitalPrice>9.99</sevendigitalPrice>
-								<recommendedRetailPrice>9.99</recommendedRetailPrice>
-							</price>
-							<formats>
-								<format id="17">
-									<description>MP3 320</description>
-								</format>
-							</formats>
-						</package>
-					</packages>
-				</download>
-				<formats availableDrmFree="true">
-					<format id="17">
-						<fileFormat>MP3</fileFormat>
-						<bitRate>320</bitRate>
-						<drmFree>true</drmFree>
-					</format>
-				</formats>
-				<label id="1254">
-					<name>Universal/Island Def Jam</name>
-				</label>
-			</release>
-		</recommendedItem>
-		<recommendedItem>
-			<release id="1039180">
-				<title>Your Pure Soul</title>
-				<version/>
-				<type>Single</type>
-				<barcode>711297584547</barcode>
-				<year>2010</year>
-				<explicitContent>false</explicitContent>
-				<artist id="14">
-					<name>The Charlatans</name>
-					<appearsAs>The Charlatans</appearsAs>
-					<url>http://www.7digital.com/artists/the-charlatans/?partner=712</url>
-				</artist>
-				<url>http://www.7digital.com/artists/the-charlatans/your-pure-soul/?partner=712</url>
-				<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/010/391/0001039180_50.jpg</image>
-				<releaseDate>2010-11-28T00:00:00Z</releaseDate>
-				<addedDate>2010-11-11T18:46:06Z</addedDate>
-				<price>
-					<currency code="GBP">£</currency>
-					<value/>
-					<formattedPrice>N/A</formattedPrice>
-					<onSale>false</onSale>
-					<rrp/>
-					<formattedRrp>N/A</formattedRrp>
-				</price>
-				<download>
-					<packages>
-						<package id="2">
-							<description>standard</description>
-							<price>
-								<currencyCode>GBP</currencyCode>
-								<sevendigitalPrice xsi:nil="true"/>
-								<recommendedRetailPrice xsi:nil="true"/>
-							</price>
-							<formats>
-								<format id="17">
-									<description>MP3 320</description>
-								</format>
-								<format id="33">
-									<description>M4A 320</description>
-								</format>
-							</formats>
-						</package>
-					</packages>
-				</download>
-				<formats availableDrmFree="true">
-					<format id="17">
-						<fileFormat>MP3</fileFormat>
-						<bitRate>320</bitRate>
-						<drmFree>true</drmFree>
-					</format>
-					<format id="33">
-						<fileFormat>M4A</fileFormat>
-						<bitRate>320</bitRate>
-						<drmFree>true</drmFree>
-					</format>
-				</formats>
-				<label id="606">
-					<name>Cooking Vinyl</name>
-				</label>
-			</release>
-		</recommendedItem>
-	</recommendations>
+  <recommendations>
+    <page>1</page>
+    <pageSize>10</pageSize>
+    <totalItems>63</totalItems>
+    <recommendedItem>
+      <release id="1182">
+        <title>Pablo Honey</title>
+        <version/>
+        <type>Album</type>
+        <barcode>0077778140955</barcode>
+        <year>2003</year>
+        <explicitContent>true</explicitContent>
+        <artist id="304">
+          <name>Radiohead</name>
+          <appearsAs>Radiohead</appearsAs>
+          <url>http://www.7digital.com/artists/radiohead/?partner=712</url>
+        </artist>
+        <url>http://www.7digital.com/artists/radiohead/pablo-honey/?partner=712</url>
+        <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/000/011/0000001182_50.jpg</image>
+        <releaseDate>2003-03-03T00:00:00Z</releaseDate>
+        <addedDate>2004-10-15T16:44:39+01:00</addedDate>
+        <price>
+          <currency code="GBP">£</currency>
+          <value>6.99</value>
+          <formattedPrice>£6.99</formattedPrice>
+          <onSale>true</onSale>
+          <rrp>6.99</rrp>
+          <formattedRrp>£6.99</formattedRrp>
+        </price>
+        <download>
+          <packages>
+            <package id="2">
+              <description>standard</description>
+              <price>
+                <currencyCode>GBP</currencyCode>
+                <sevendigitalPrice>6.99</sevendigitalPrice>
+                <recommendedRetailPrice>6.99</recommendedRetailPrice>
+              </price>
+              <formats>
+                <format id="17">
+                  <description>MP3 320</description>
+                </format>
+              </formats>
+            </package>
+          </packages>
+        </download>
+        <formats availableDrmFree="true">
+          <format id="17">
+            <fileFormat>MP3</fileFormat>
+            <bitRate>320</bitRate>
+            <drmFree>true</drmFree>
+          </format>
+        </formats>
+        <label id="77">
+          <name>EMI UK</name>
+        </label>
+      </release>
+    </recommendedItem>
+    <recommendedItem>
+      <release id="980972">
+        <title>My Foolish Pride</title>
+        <version/>
+        <type>Single</type>
+        <barcode>711297584141</barcode>
+        <year>2010</year>
+        <explicitContent>false</explicitContent>
+        <artist id="14">
+          <name>The Charlatans</name>
+          <appearsAs>The Charlatans</appearsAs>
+          <url>http://www.7digital.com/artists/the-charlatans/?partner=712</url>
+        </artist>
+        <url>http://www.7digital.com/artists/the-charlatans/my-foolish-pride/?partner=712</url>
+        <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/009/809/0000980972_50.jpg</image>
+        <releaseDate>2010-09-19T00:00:00+01:00</releaseDate>
+        <addedDate>2010-09-16T13:16:31+01:00</addedDate>
+        <price>
+          <currency code="GBP">£</currency>
+          <value>1.79</value>
+          <formattedPrice>£1.79</formattedPrice>
+          <onSale>true</onSale>
+          <rrp>1.79</rrp>
+          <formattedRrp>£1.79</formattedRrp>
+        </price>
+        <download>
+          <packages>
+            <package id="2">
+              <description>standard</description>
+              <price>
+                <currencyCode>GBP</currencyCode>
+                <sevendigitalPrice>1.79</sevendigitalPrice>
+                <recommendedRetailPrice>1.79</recommendedRetailPrice>
+              </price>
+              <formats>
+                <format id="17">
+                  <description>MP3 320</description>
+                </format>
+                <format id="33">
+                  <description>M4A 320</description>
+                </format>
+              </formats>
+            </package>
+          </packages>
+        </download>
+        <formats availableDrmFree="true">
+          <format id="17">
+            <fileFormat>MP3</fileFormat>
+            <bitRate>320</bitRate>
+            <drmFree>true</drmFree>
+          </format>
+          <format id="33">
+            <fileFormat>M4A</fileFormat>
+            <bitRate>320</bitRate>
+            <drmFree>true</drmFree>
+          </format>
+        </formats>
+        <label id="606">
+          <name>Cooking Vinyl</name>
+        </label>
+      </release>
+    </recommendedItem>
+    <recommendedItem>
+      <release id="322258">
+        <title>Wire To Wire</title>
+        <version>eSingle</version>
+        <type>Single</type>
+        <barcode>00602517881273</barcode>
+        <year>2008</year>
+        <explicitContent>false</explicitContent>
+        <artist id="170">
+          <name>Razorlight</name>
+          <appearsAs>Razorlight</appearsAs>
+          <url>http://www.7digital.com/artists/razorlight/?partner=712</url>
+        </artist>
+        <url>http://www.7digital.com/artists/razorlight/wire-to-wire/?partner=712</url>
+        <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/003/222/0000322258_50.jpg</image>
+        <releaseDate>2008-10-17T00:00:00+01:00</releaseDate>
+        <addedDate>2008-09-30T15:20:08+01:00</addedDate>
+        <price>
+          <currency code="GBP">£</currency>
+          <value>1.39</value>
+          <formattedPrice>£1.39</formattedPrice>
+          <onSale>true</onSale>
+          <rrp>1.39</rrp>
+          <formattedRrp>£1.39</formattedRrp>
+        </price>
+        <download>
+          <packages>
+            <package id="2">
+              <description>standard</description>
+              <price>
+                <currencyCode>GBP</currencyCode>
+                <sevendigitalPrice>1.39</sevendigitalPrice>
+                <recommendedRetailPrice>1.39</recommendedRetailPrice>
+              </price>
+              <formats>
+                <format id="17">
+                  <description>MP3 320</description>
+                </format>
+              </formats>
+            </package>
+          </packages>
+        </download>
+        <formats availableDrmFree="true">
+          <format id="17">
+            <fileFormat>MP3</fileFormat>
+            <bitRate>320</bitRate>
+            <drmFree>true</drmFree>
+          </format>
+        </formats>
+        <label id="3309">
+          <name>Universal Music Ireland Ltd.</name>
+        </label>
+      </release>
+    </recommendedItem>
+    <recommendedItem>
+      <release id="8509">
+        <title>Employment</title>
+        <version>B-Unique Version</version>
+        <type>Album</type>
+        <barcode>05055052813028</barcode>
+        <year>2005</year>
+        <explicitContent>false</explicitContent>
+        <artist id="615">
+          <name>Kaiser Chiefs</name>
+          <appearsAs>Kaiser Chiefs</appearsAs>
+          <url>http://www.7digital.com/artists/kaiser-chiefs/?partner=712</url>
+        </artist>
+        <url>http://www.7digital.com/artists/kaiser-chiefs/employment-b-unique-version/?partner=712</url>
+        <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/000/085/0000008509_50.jpg</image>
+        <releaseDate>2005-03-07T00:00:00Z</releaseDate>
+        <addedDate>2005-02-24T16:10:44Z</addedDate>
+        <price>
+          <currency code="GBP">£</currency>
+          <value>4.99</value>
+          <formattedPrice>£4.99</formattedPrice>
+          <onSale>true</onSale>
+          <rrp>4.99</rrp>
+          <formattedRrp>£4.99</formattedRrp>
+        </price>
+        <download>
+          <packages>
+            <package id="2">
+              <description>standard</description>
+              <price>
+                <currencyCode>GBP</currencyCode>
+                <sevendigitalPrice>4.99</sevendigitalPrice>
+                <recommendedRetailPrice>4.99</recommendedRetailPrice>
+              </price>
+              <formats>
+                <format id="17">
+                  <description>MP3 320</description>
+                </format>
+              </formats>
+            </package>
+          </packages>
+        </download>
+        <formats availableDrmFree="true">
+          <format id="17">
+            <fileFormat>MP3</fileFormat>
+            <bitRate>320</bitRate>
+            <drmFree>true</drmFree>
+          </format>
+        </formats>
+        <label id="35827">
+          <name>Universal Music AS</name>
+        </label>
+      </release>
+    </recommendedItem>
+    <recommendedItem>
+      <release id="326338">
+        <title>A Hundred Million Suns</title>
+        <version>EU Version</version>
+        <type>Album</type>
+        <barcode>00602517852631</barcode>
+        <year>2008</year>
+        <explicitContent>false</explicitContent>
+        <artist id="269">
+          <name>Snow Patrol</name>
+          <appearsAs>Snow Patrol</appearsAs>
+          <url>http://www.7digital.com/artists/snow-patrol/?partner=712</url>
+        </artist>
+        <url>http://www.7digital.com/artists/snow-patrol/a-hundred-million-suns-1/?partner=712</url>
+        <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/003/263/0000326338_50.jpg</image>
+        <releaseDate>2008-10-27T00:00:00Z</releaseDate>
+        <addedDate>2008-10-14T17:53:32+01:00</addedDate>
+        <price>
+          <currency code="GBP">£</currency>
+          <value>7.99</value>
+          <formattedPrice>£7.99</formattedPrice>
+          <onSale>true</onSale>
+          <rrp>7.99</rrp>
+          <formattedRrp>£7.99</formattedRrp>
+        </price>
+        <download>
+          <packages>
+            <package id="2">
+              <description>standard</description>
+              <price>
+                <currencyCode>GBP</currencyCode>
+                <sevendigitalPrice>7.99</sevendigitalPrice>
+                <recommendedRetailPrice>7.99</recommendedRetailPrice>
+              </price>
+              <formats>
+                <format id="17">
+                  <description>MP3 320</description>
+                </format>
+              </formats>
+            </package>
+          </packages>
+        </download>
+        <formats availableDrmFree="true">
+          <format id="17">
+            <fileFormat>MP3</fileFormat>
+            <bitRate>320</bitRate>
+            <drmFree>true</drmFree>
+          </format>
+        </formats>
+        <label id="3295">
+          <name>Universal Music International Div.</name>
+        </label>
+      </release>
+    </recommendedItem>
+    <recommendedItem>
+      <release id="394300">
+        <title>All The Plans</title>
+        <version/>
+        <type>Album</type>
+        <barcode>5099969342059</barcode>
+        <year>2009</year>
+        <explicitContent>false</explicitContent>
+        <artist id="122">
+          <name>Starsailor</name>
+          <appearsAs>Starsailor</appearsAs>
+          <url>http://www.7digital.com/artists/starsailor/?partner=712</url>
+        </artist>
+        <url>http://www.7digital.com/artists/starsailor/all-the-plans-2/?partner=712</url>
+        <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/003/943/0000394300_50.jpg</image>
+        <releaseDate>2009-03-09T00:00:00Z</releaseDate>
+        <addedDate>2009-02-27T14:10:46Z</addedDate>
+        <price>
+          <currency code="GBP">£</currency>
+          <value>7.99</value>
+          <formattedPrice>£7.99</formattedPrice>
+          <onSale>true</onSale>
+          <rrp>7.99</rrp>
+          <formattedRrp>£7.99</formattedRrp>
+        </price>
+        <download>
+          <packages>
+            <package id="2">
+              <description>standard</description>
+              <price>
+                <currencyCode>GBP</currencyCode>
+                <sevendigitalPrice>7.99</sevendigitalPrice>
+                <recommendedRetailPrice>7.99</recommendedRetailPrice>
+              </price>
+              <formats>
+                <format id="17">
+                  <description>MP3 320</description>
+                </format>
+              </formats>
+            </package>
+          </packages>
+        </download>
+        <formats availableDrmFree="true">
+          <format id="17">
+            <fileFormat>MP3</fileFormat>
+            <bitRate>320</bitRate>
+            <drmFree>true</drmFree>
+          </format>
+        </formats>
+        <label id="77">
+          <name>EMI UK</name>
+        </label>
+      </release>
+    </recommendedItem>
+    <recommendedItem>
+      <release id="1039006">
+        <title>Living Is So Easy</title>
+        <version/>
+        <type>Single</type>
+        <barcode>883870060769</barcode>
+        <year>2010</year>
+        <explicitContent>false</explicitContent>
+        <artist id="112518">
+          <name>British Sea Power</name>
+          <appearsAs>British Sea Power</appearsAs>
+          <url>http://www.7digital.com/artists/british-sea-power/?partner=712</url>
+        </artist>
+        <url>http://www.7digital.com/artists/british-sea-power/living-is-so-easy/?partner=712</url>
+        <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/010/390/0001039006_50.jpg</image>
+        <releaseDate>2010-11-29T00:00:00Z</releaseDate>
+        <addedDate>2010-11-11T17:43:08Z</addedDate>
+        <price>
+          <currency code="GBP">£</currency>
+          <value/>
+          <formattedPrice>N/A</formattedPrice>
+          <onSale>false</onSale>
+          <rrp/>
+          <formattedRrp>N/A</formattedRrp>
+        </price>
+        <download>
+          <packages>
+            <package id="2">
+              <description>standard</description>
+              <price>
+                <currencyCode>GBP</currencyCode>
+                <sevendigitalPrice xsi:nil="true"/>
+                <recommendedRetailPrice xsi:nil="true"/>
+              </price>
+              <formats>
+                <format id="17">
+                  <description>MP3 320</description>
+                </format>
+                <format id="33">
+                  <description>M4A 320</description>
+                </format>
+              </formats>
+            </package>
+          </packages>
+        </download>
+        <formats availableDrmFree="true">
+          <format id="17">
+            <fileFormat>MP3</fileFormat>
+            <bitRate>320</bitRate>
+            <drmFree>true</drmFree>
+          </format>
+          <format id="33">
+            <fileFormat>M4A</fileFormat>
+            <bitRate>320</bitRate>
+            <drmFree>true</drmFree>
+          </format>
+        </formats>
+        <label id="138">
+          <name>Rough Trade</name>
+        </label>
+      </release>
+    </recommendedItem>
+    <recommendedItem>
+      <release id="268569">
+        <title>J.Smith</title>
+        <version/>
+        <type>Single</type>
+        <barcode>5024545521887</barcode>
+        <year>2008</year>
+        <explicitContent>false</explicitContent>
+        <artist id="11513">
+          <name>Travis</name>
+          <appearsAs>Travis</appearsAs>
+          <url>http://www.7digital.com/artists/travis/?partner=712</url>
+        </artist>
+        <url>http://www.7digital.com/artists/travis/j-smith/?partner=712</url>
+        <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/002/685/0000268569_50.jpg</image>
+        <releaseDate>2008-06-29T00:00:00+01:00</releaseDate>
+        <addedDate>2008-06-16T20:03:39+01:00</addedDate>
+        <price>
+          <currency code="GBP">£</currency>
+          <value>2.29</value>
+          <formattedPrice>£2.29</formattedPrice>
+          <onSale>true</onSale>
+          <rrp>2.29</rrp>
+          <formattedRrp>£2.29</formattedRrp>
+        </price>
+        <download>
+          <packages>
+            <package id="2">
+              <description>standard</description>
+              <price>
+                <currencyCode>GBP</currencyCode>
+                <sevendigitalPrice>2.29</sevendigitalPrice>
+                <recommendedRetailPrice>2.29</recommendedRetailPrice>
+              </price>
+              <formats>
+                <format id="17">
+                  <description>MP3 320</description>
+                </format>
+                <format id="33">
+                  <description>M4A 320</description>
+                </format>
+              </formats>
+            </package>
+          </packages>
+        </download>
+        <formats availableDrmFree="true">
+          <format id="17">
+            <fileFormat>MP3</fileFormat>
+            <bitRate>320</bitRate>
+            <drmFree>true</drmFree>
+          </format>
+          <format id="33">
+            <fileFormat>M4A</fileFormat>
+            <bitRate>320</bitRate>
+            <drmFree>true</drmFree>
+          </format>
+        </formats>
+        <label id="18953">
+          <name>Red Phone Box</name>
+        </label>
+      </release>
+    </recommendedItem>
+    <recommendedItem>
+      <release id="326167">
+        <title>Decade In The Sun - Best Of Stereophonics</title>
+        <version>Deluxe</version>
+        <type>Album</type>
+        <barcode>00602517837584</barcode>
+        <year>2008</year>
+        <explicitContent>false</explicitContent>
+        <artist id="1307">
+          <name>Stereophonics</name>
+          <appearsAs>Stereophonics</appearsAs>
+          <url>http://www.7digital.com/artists/stereophonics/?partner=712</url>
+        </artist>
+        <url>http://www.7digital.com/artists/stereophonics/decade-in-the-sun-best-of-stereophonics/?partner=712</url>
+        <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/003/261/0000326167_50.jpg</image>
+        <releaseDate>2008-11-10T00:00:00Z</releaseDate>
+        <addedDate>2008-10-14T10:48:36+01:00</addedDate>
+        <price>
+          <currency code="GBP">£</currency>
+          <value>9.99</value>
+          <formattedPrice>£9.99</formattedPrice>
+          <onSale>true</onSale>
+          <rrp>9.99</rrp>
+          <formattedRrp>£9.99</formattedRrp>
+        </price>
+        <download>
+          <packages>
+            <package id="2">
+              <description>standard</description>
+              <price>
+                <currencyCode>GBP</currencyCode>
+                <sevendigitalPrice>9.99</sevendigitalPrice>
+                <recommendedRetailPrice>9.99</recommendedRetailPrice>
+              </price>
+              <formats>
+                <format id="17">
+                  <description>MP3 320</description>
+                </format>
+              </formats>
+            </package>
+          </packages>
+        </download>
+        <formats availableDrmFree="true">
+          <format id="17">
+            <fileFormat>MP3</fileFormat>
+            <bitRate>320</bitRate>
+            <drmFree>true</drmFree>
+          </format>
+        </formats>
+        <label id="1254">
+          <name>Universal/Island Def Jam</name>
+        </label>
+      </release>
+    </recommendedItem>
+    <recommendedItem>
+      <release id="1039180">
+        <title>Your Pure Soul</title>
+        <version/>
+        <type>Single</type>
+        <barcode>711297584547</barcode>
+        <year>2010</year>
+        <explicitContent>false</explicitContent>
+        <artist id="14">
+          <name>The Charlatans</name>
+          <appearsAs>The Charlatans</appearsAs>
+          <url>http://www.7digital.com/artists/the-charlatans/?partner=712</url>
+        </artist>
+        <url>http://www.7digital.com/artists/the-charlatans/your-pure-soul/?partner=712</url>
+        <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/010/391/0001039180_50.jpg</image>
+        <releaseDate>2010-11-28T00:00:00Z</releaseDate>
+        <addedDate>2010-11-11T18:46:06Z</addedDate>
+        <price>
+          <currency code="GBP">£</currency>
+          <value/>
+          <formattedPrice>N/A</formattedPrice>
+          <onSale>false</onSale>
+          <rrp/>
+          <formattedRrp>N/A</formattedRrp>
+        </price>
+        <download>
+          <packages>
+            <package id="2">
+              <description>standard</description>
+              <price>
+                <currencyCode>GBP</currencyCode>
+                <sevendigitalPrice xsi:nil="true"/>
+                <recommendedRetailPrice xsi:nil="true"/>
+              </price>
+              <formats>
+                <format id="17">
+                  <description>MP3 320</description>
+                </format>
+                <format id="33">
+                  <description>M4A 320</description>
+                </format>
+              </formats>
+            </package>
+          </packages>
+        </download>
+        <formats availableDrmFree="true">
+          <format id="17">
+            <fileFormat>MP3</fileFormat>
+            <bitRate>320</bitRate>
+            <drmFree>true</drmFree>
+          </format>
+          <format id="33">
+            <fileFormat>M4A</fileFormat>
+            <bitRate>320</bitRate>
+            <drmFree>true</drmFree>
+          </format>
+        </formats>
+        <label id="606">
+          <name>Cooking Vinyl</name>
+        </label>
+      </release>
+    </recommendedItem>
+  </recommendations>
 </response>

@@ -1,297 +1,297 @@
 <?xml version="1.0" encoding="utf-8"?>
 <response xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" status="ok" version="1.2" xsi:noNamespaceSchemaLocation="http://api.7digital.com/1.2/static/7digitalAPI.xsd">
-	<taggedResults>
-		<page>1</page>
-		<pageSize>6</pageSize>
-		<totalItems>6</totalItems>
-		<type>release</type>
-		<taggedItem>
-			<release id="3596942">
-				<title>Sometimes Bad Happens</title>
-				<version/>
-				<type>Album</type>
-				<barcode>888831293972</barcode>
-				<year>2014</year>
-				<explicitContent>false</explicitContent>
-				<artist id="2316876">
-					<name>Adult Mom</name>
-					<appearsAs>Adult Mom</appearsAs>
-					<url>http://www.7digital.com/artist/adult-mom/?partner=1401</url>
-				</artist>
-				<url>http://www.7digital.com/artist/adult-mom/release/sometimes-bad-happens/?partner=1401</url>
-				<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/035/969/0003596942_50.jpg</image>
-				<releaseDate>2014-07-22T00:00:00+01:00</releaseDate>
-				<addedDate>2014-06-23T17:46:02+01:00</addedDate>
-				<price>
-					<currency code="GBP">£</currency>
-					<value>5.94</value>
-					<formattedPrice>£5.94</formattedPrice>
-					<rrp>8.49</rrp>
-					<formattedRrp>£8.49</formattedRrp>
-					<onSale>true</onSale>
-				</price>
-				<download>
-					<packages>
-						<package id="2">
-							<description>standard</description>
-							<price>
-								<currencyCode>GBP</currencyCode>
-								<sevendigitalPrice>5.94</sevendigitalPrice>
-								<recommendedRetailPrice>8.49</recommendedRetailPrice>
-							</price>
-							<formats>
-								<format id="17">
-									<description>MP3 320</description>
-								</format>
-							</formats>
-						</package>
-					</packages>
-				</download>
-				<popularity>0.31</popularity>
-				<streamingReleaseDate>2014-07-22T00:00:00+01:00</streamingReleaseDate>
-				<duration>631</duration>
-				<trackCount>6</trackCount>
-			</release>
-		</taggedItem>
-		<taggedItem>
-			<release id="3559714">
-				<title>Jupiter With You</title>
-				<version/>
-				<type>Album</type>
-				<barcode>859712709332</barcode>
-				<year>2014</year>
-				<explicitContent>false</explicitContent>
-				<artist id="2123484">
-					<name>Brian Larney</name>
-					<appearsAs>Brian Larney</appearsAs>
-					<url>http://www.7digital.com/artist/brian-larney/?partner=1401</url>
-				</artist>
-				<url>http://www.7digital.com/artist/brian-larney/release/jupiter-with-you/?partner=1401</url>
-				<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/035/597/0003559714_50.jpg</image>
-				<releaseDate>2014-07-22T00:00:00+01:00</releaseDate>
-				<addedDate>2014-06-08T22:02:23+01:00</addedDate>
-				<price>
-					<currency code="GBP">£</currency>
-					<value>7.49</value>
-					<formattedPrice>£7.49</formattedPrice>
-					<rrp>7.49</rrp>
-					<formattedRrp>£7.49</formattedRrp>
-					<onSale>false</onSale>
-				</price>
-				<download>
-					<packages>
-						<package id="2">
-							<description>standard</description>
-							<price>
-								<currencyCode>GBP</currencyCode>
-								<sevendigitalPrice>7.49</sevendigitalPrice>
-								<recommendedRetailPrice>7.49</recommendedRetailPrice>
-							</price>
-							<formats>
-								<format id="17">
-									<description>MP3 320</description>
-								</format>
-							</formats>
-						</package>
-					</packages>
-				</download>
-				<popularity>0.31</popularity>
-				<streamingReleaseDate>2014-07-22T00:00:00+01:00</streamingReleaseDate>
-				<duration>1994</duration>
-				<trackCount>11</trackCount>
-			</release>
-		</taggedItem>
-		<taggedItem>
-			<release id="3663587">
-				<title>OBN III's Live in San Francisco</title>
-				<version/>
-				<type>Album</type>
-				<barcode>888831372059</barcode>
-				<year>2014</year>
-				<explicitContent>false</explicitContent>
-				<artist id="2353107">
-					<name>OBN III's</name>
-					<appearsAs>OBN III's</appearsAs>
-					<url>http://www.7digital.com/artist/obn-iiis-1/?partner=1401</url>
-				</artist>
-				<url>http://www.7digital.com/artist/obn-iiis-1/release/obn-iiis-live-in-san-francisco/?partner=1401</url>
-				<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/036/635/0003663587_50.jpg</image>
-				<releaseDate>2014-07-22T00:00:00+01:00</releaseDate>
-				<addedDate>2014-07-18T07:52:39+01:00</addedDate>
-				<price>
-					<currency code="GBP">£</currency>
-					<value>7.92</value>
-					<formattedPrice>£7.92</formattedPrice>
-					<rrp>8.49</rrp>
-					<formattedRrp>£8.49</formattedRrp>
-					<onSale>true</onSale>
-				</price>
-				<download>
-					<packages>
-						<package id="2">
-							<description>standard</description>
-							<price>
-								<currencyCode>GBP</currencyCode>
-								<sevendigitalPrice>7.92</sevendigitalPrice>
-								<recommendedRetailPrice>8.49</recommendedRetailPrice>
-							</price>
-							<formats>
-								<format id="17">
-									<description>MP3 320</description>
-								</format>
-							</formats>
-						</package>
-					</packages>
-				</download>
-				<popularity>0.31</popularity>
-				<streamingReleaseDate>2014-07-22T00:00:00+01:00</streamingReleaseDate>
-				<duration>1609</duration>
-				<trackCount>8</trackCount>
-			</release>
-		</taggedItem>
-		<taggedItem>
-			<release id="3664691">
-				<title>Kym Larsen</title>
-				<version/>
-				<type>Album</type>
-				<barcode>888831301233</barcode>
-				<year>2014</year>
-				<explicitContent>false</explicitContent>
-				<artist id="2353593">
-					<name>Kym Larsen</name>
-					<appearsAs>Kym Larsen</appearsAs>
-					<url>http://www.7digital.com/artist/kym-larsen/?partner=1401</url>
-				</artist>
-				<url>http://www.7digital.com/artist/kym-larsen/release/kym-larsen/?partner=1401</url>
-				<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/036/646/0003664691_50.jpg</image>
-				<releaseDate>2014-07-22T00:00:00+01:00</releaseDate>
-				<addedDate>2014-07-18T16:08:52+01:00</addedDate>
-				<price>
-					<currency code="GBP">£</currency>
-					<value>4.95</value>
-					<formattedPrice>£4.95</formattedPrice>
-					<rrp>8.49</rrp>
-					<formattedRrp>£8.49</formattedRrp>
-					<onSale>true</onSale>
-				</price>
-				<download>
-					<packages>
-						<package id="2">
-							<description>standard</description>
-							<price>
-								<currencyCode>GBP</currencyCode>
-								<sevendigitalPrice>4.95</sevendigitalPrice>
-								<recommendedRetailPrice>8.49</recommendedRetailPrice>
-							</price>
-							<formats>
-								<format id="17">
-									<description>MP3 320</description>
-								</format>
-							</formats>
-						</package>
-					</packages>
-				</download>
-				<popularity>0.31</popularity>
-				<streamingReleaseDate>2014-07-22T00:00:00+01:00</streamingReleaseDate>
-				<duration>1100</duration>
-				<trackCount>5</trackCount>
-			</release>
-		</taggedItem>
-		<taggedItem>
-			<release id="3629455">
-				<title>Greed - EP</title>
-				<version/>
-				<type>Album</type>
-				<barcode>887158883958</barcode>
-				<year>2014</year>
-				<explicitContent>false</explicitContent>
-				<artist id="2152087">
-					<name>Aetolia</name>
-					<appearsAs>Aetolia</appearsAs>
-					<url>http://www.7digital.com/artist/aetolia/?partner=1401</url>
-				</artist>
-				<url>http://www.7digital.com/artist/aetolia/release/greed/?partner=1401</url>
-				<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/036/294/0003629455_50.jpg</image>
-				<releaseDate>2014-07-22T00:00:00+01:00</releaseDate>
-				<addedDate>2014-07-07T18:55:17+01:00</addedDate>
-				<price>
-					<currency code="GBP">£</currency>
-					<value>4.49</value>
-					<formattedPrice>£4.49</formattedPrice>
-					<rrp>4.49</rrp>
-					<formattedRrp>£4.49</formattedRrp>
-					<onSale>false</onSale>
-				</price>
-				<download>
-					<packages>
-						<package id="2">
-							<description>standard</description>
-							<price>
-								<currencyCode>GBP</currencyCode>
-								<sevendigitalPrice>4.49</sevendigitalPrice>
-								<recommendedRetailPrice>4.49</recommendedRetailPrice>
-							</price>
-							<formats>
-								<format id="17">
-									<description>MP3 320</description>
-								</format>
-							</formats>
-						</package>
-					</packages>
-				</download>
-				<popularity>0.31</popularity>
-				<streamingReleaseDate>2014-07-22T00:00:00+01:00</streamingReleaseDate>
-				<duration>1194</duration>
-				<trackCount>6</trackCount>
-			</release>
-		</taggedItem>
-		<taggedItem>
-			<release id="3645101">
-				<title>Lowborn</title>
-				<version/>
-				<type>Album</type>
-				<barcode>810488021196</barcode>
-				<year>2014</year>
-				<explicitContent>false</explicitContent>
-				<artist id="29480">
-					<name>Anberlin</name>
-					<appearsAs>Anberlin</appearsAs>
-					<url>http://www.7digital.com/artist/anberlin/?partner=1401</url>
-				</artist>
-				<url>http://www.7digital.com/artist/anberlin/release/lowborn-1/?partner=1401</url>
-				<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/036/451/0003645101_50.jpg</image>
-				<releaseDate>2014-07-22T00:00:00+01:00</releaseDate>
-				<addedDate>2014-07-14T10:37:09+01:00</addedDate>
-				<price>
-					<currency code="GBP">£</currency>
-					<value>7.49</value>
-					<formattedPrice>£7.49</formattedPrice>
-					<rrp>7.49</rrp>
-					<formattedRrp>£7.49</formattedRrp>
-					<onSale>false</onSale>
-				</price>
-				<download>
-					<packages>
-						<package id="2">
-							<description>standard</description>
-							<price>
-								<currencyCode>GBP</currencyCode>
-								<sevendigitalPrice>7.49</sevendigitalPrice>
-								<recommendedRetailPrice>7.49</recommendedRetailPrice>
-							</price>
-							<formats>
-								<format id="17">
-									<description>MP3 320</description>
-								</format>
-							</formats>
-						</package>
-					</packages>
-				</download>
-				<popularity>0.4</popularity>
-				<streamingReleaseDate>2014-07-22T00:00:00+01:00</streamingReleaseDate>
-				<duration>2404</duration>
-				<trackCount>10</trackCount>
-			</release>
-		</taggedItem>
-	</taggedResults>
+  <taggedResults>
+    <page>1</page>
+    <pageSize>6</pageSize>
+    <totalItems>6</totalItems>
+    <type>release</type>
+    <taggedItem>
+      <release id="3596942">
+        <title>Sometimes Bad Happens</title>
+        <version/>
+        <type>Album</type>
+        <barcode>888831293972</barcode>
+        <year>2014</year>
+        <explicitContent>false</explicitContent>
+        <artist id="2316876">
+          <name>Adult Mom</name>
+          <appearsAs>Adult Mom</appearsAs>
+          <url>http://www.7digital.com/artist/adult-mom/?partner=1401</url>
+        </artist>
+        <url>http://www.7digital.com/artist/adult-mom/release/sometimes-bad-happens/?partner=1401</url>
+        <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/035/969/0003596942_50.jpg</image>
+        <releaseDate>2014-07-22T00:00:00+01:00</releaseDate>
+        <addedDate>2014-06-23T17:46:02+01:00</addedDate>
+        <price>
+          <currency code="GBP">£</currency>
+          <value>5.94</value>
+          <formattedPrice>£5.94</formattedPrice>
+          <rrp>8.49</rrp>
+          <formattedRrp>£8.49</formattedRrp>
+          <onSale>true</onSale>
+        </price>
+        <download>
+          <packages>
+            <package id="2">
+              <description>standard</description>
+              <price>
+                <currencyCode>GBP</currencyCode>
+                <sevendigitalPrice>5.94</sevendigitalPrice>
+                <recommendedRetailPrice>8.49</recommendedRetailPrice>
+              </price>
+              <formats>
+                <format id="17">
+                  <description>MP3 320</description>
+                </format>
+              </formats>
+            </package>
+          </packages>
+        </download>
+        <popularity>0.31</popularity>
+        <streamingReleaseDate>2014-07-22T00:00:00+01:00</streamingReleaseDate>
+        <duration>631</duration>
+        <trackCount>6</trackCount>
+      </release>
+    </taggedItem>
+    <taggedItem>
+      <release id="3559714">
+        <title>Jupiter With You</title>
+        <version/>
+        <type>Album</type>
+        <barcode>859712709332</barcode>
+        <year>2014</year>
+        <explicitContent>false</explicitContent>
+        <artist id="2123484">
+          <name>Brian Larney</name>
+          <appearsAs>Brian Larney</appearsAs>
+          <url>http://www.7digital.com/artist/brian-larney/?partner=1401</url>
+        </artist>
+        <url>http://www.7digital.com/artist/brian-larney/release/jupiter-with-you/?partner=1401</url>
+        <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/035/597/0003559714_50.jpg</image>
+        <releaseDate>2014-07-22T00:00:00+01:00</releaseDate>
+        <addedDate>2014-06-08T22:02:23+01:00</addedDate>
+        <price>
+          <currency code="GBP">£</currency>
+          <value>7.49</value>
+          <formattedPrice>£7.49</formattedPrice>
+          <rrp>7.49</rrp>
+          <formattedRrp>£7.49</formattedRrp>
+          <onSale>false</onSale>
+        </price>
+        <download>
+          <packages>
+            <package id="2">
+              <description>standard</description>
+              <price>
+                <currencyCode>GBP</currencyCode>
+                <sevendigitalPrice>7.49</sevendigitalPrice>
+                <recommendedRetailPrice>7.49</recommendedRetailPrice>
+              </price>
+              <formats>
+                <format id="17">
+                  <description>MP3 320</description>
+                </format>
+              </formats>
+            </package>
+          </packages>
+        </download>
+        <popularity>0.31</popularity>
+        <streamingReleaseDate>2014-07-22T00:00:00+01:00</streamingReleaseDate>
+        <duration>1994</duration>
+        <trackCount>11</trackCount>
+      </release>
+    </taggedItem>
+    <taggedItem>
+      <release id="3663587">
+        <title>OBN III's Live in San Francisco</title>
+        <version/>
+        <type>Album</type>
+        <barcode>888831372059</barcode>
+        <year>2014</year>
+        <explicitContent>false</explicitContent>
+        <artist id="2353107">
+          <name>OBN III's</name>
+          <appearsAs>OBN III's</appearsAs>
+          <url>http://www.7digital.com/artist/obn-iiis-1/?partner=1401</url>
+        </artist>
+        <url>http://www.7digital.com/artist/obn-iiis-1/release/obn-iiis-live-in-san-francisco/?partner=1401</url>
+        <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/036/635/0003663587_50.jpg</image>
+        <releaseDate>2014-07-22T00:00:00+01:00</releaseDate>
+        <addedDate>2014-07-18T07:52:39+01:00</addedDate>
+        <price>
+          <currency code="GBP">£</currency>
+          <value>7.92</value>
+          <formattedPrice>£7.92</formattedPrice>
+          <rrp>8.49</rrp>
+          <formattedRrp>£8.49</formattedRrp>
+          <onSale>true</onSale>
+        </price>
+        <download>
+          <packages>
+            <package id="2">
+              <description>standard</description>
+              <price>
+                <currencyCode>GBP</currencyCode>
+                <sevendigitalPrice>7.92</sevendigitalPrice>
+                <recommendedRetailPrice>8.49</recommendedRetailPrice>
+              </price>
+              <formats>
+                <format id="17">
+                  <description>MP3 320</description>
+                </format>
+              </formats>
+            </package>
+          </packages>
+        </download>
+        <popularity>0.31</popularity>
+        <streamingReleaseDate>2014-07-22T00:00:00+01:00</streamingReleaseDate>
+        <duration>1609</duration>
+        <trackCount>8</trackCount>
+      </release>
+    </taggedItem>
+    <taggedItem>
+      <release id="3664691">
+        <title>Kym Larsen</title>
+        <version/>
+        <type>Album</type>
+        <barcode>888831301233</barcode>
+        <year>2014</year>
+        <explicitContent>false</explicitContent>
+        <artist id="2353593">
+          <name>Kym Larsen</name>
+          <appearsAs>Kym Larsen</appearsAs>
+          <url>http://www.7digital.com/artist/kym-larsen/?partner=1401</url>
+        </artist>
+        <url>http://www.7digital.com/artist/kym-larsen/release/kym-larsen/?partner=1401</url>
+        <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/036/646/0003664691_50.jpg</image>
+        <releaseDate>2014-07-22T00:00:00+01:00</releaseDate>
+        <addedDate>2014-07-18T16:08:52+01:00</addedDate>
+        <price>
+          <currency code="GBP">£</currency>
+          <value>4.95</value>
+          <formattedPrice>£4.95</formattedPrice>
+          <rrp>8.49</rrp>
+          <formattedRrp>£8.49</formattedRrp>
+          <onSale>true</onSale>
+        </price>
+        <download>
+          <packages>
+            <package id="2">
+              <description>standard</description>
+              <price>
+                <currencyCode>GBP</currencyCode>
+                <sevendigitalPrice>4.95</sevendigitalPrice>
+                <recommendedRetailPrice>8.49</recommendedRetailPrice>
+              </price>
+              <formats>
+                <format id="17">
+                  <description>MP3 320</description>
+                </format>
+              </formats>
+            </package>
+          </packages>
+        </download>
+        <popularity>0.31</popularity>
+        <streamingReleaseDate>2014-07-22T00:00:00+01:00</streamingReleaseDate>
+        <duration>1100</duration>
+        <trackCount>5</trackCount>
+      </release>
+    </taggedItem>
+    <taggedItem>
+      <release id="3629455">
+        <title>Greed - EP</title>
+        <version/>
+        <type>Album</type>
+        <barcode>887158883958</barcode>
+        <year>2014</year>
+        <explicitContent>false</explicitContent>
+        <artist id="2152087">
+          <name>Aetolia</name>
+          <appearsAs>Aetolia</appearsAs>
+          <url>http://www.7digital.com/artist/aetolia/?partner=1401</url>
+        </artist>
+        <url>http://www.7digital.com/artist/aetolia/release/greed/?partner=1401</url>
+        <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/036/294/0003629455_50.jpg</image>
+        <releaseDate>2014-07-22T00:00:00+01:00</releaseDate>
+        <addedDate>2014-07-07T18:55:17+01:00</addedDate>
+        <price>
+          <currency code="GBP">£</currency>
+          <value>4.49</value>
+          <formattedPrice>£4.49</formattedPrice>
+          <rrp>4.49</rrp>
+          <formattedRrp>£4.49</formattedRrp>
+          <onSale>false</onSale>
+        </price>
+        <download>
+          <packages>
+            <package id="2">
+              <description>standard</description>
+              <price>
+                <currencyCode>GBP</currencyCode>
+                <sevendigitalPrice>4.49</sevendigitalPrice>
+                <recommendedRetailPrice>4.49</recommendedRetailPrice>
+              </price>
+              <formats>
+                <format id="17">
+                  <description>MP3 320</description>
+                </format>
+              </formats>
+            </package>
+          </packages>
+        </download>
+        <popularity>0.31</popularity>
+        <streamingReleaseDate>2014-07-22T00:00:00+01:00</streamingReleaseDate>
+        <duration>1194</duration>
+        <trackCount>6</trackCount>
+      </release>
+    </taggedItem>
+    <taggedItem>
+      <release id="3645101">
+        <title>Lowborn</title>
+        <version/>
+        <type>Album</type>
+        <barcode>810488021196</barcode>
+        <year>2014</year>
+        <explicitContent>false</explicitContent>
+        <artist id="29480">
+          <name>Anberlin</name>
+          <appearsAs>Anberlin</appearsAs>
+          <url>http://www.7digital.com/artist/anberlin/?partner=1401</url>
+        </artist>
+        <url>http://www.7digital.com/artist/anberlin/release/lowborn-1/?partner=1401</url>
+        <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/036/451/0003645101_50.jpg</image>
+        <releaseDate>2014-07-22T00:00:00+01:00</releaseDate>
+        <addedDate>2014-07-14T10:37:09+01:00</addedDate>
+        <price>
+          <currency code="GBP">£</currency>
+          <value>7.49</value>
+          <formattedPrice>£7.49</formattedPrice>
+          <rrp>7.49</rrp>
+          <formattedRrp>£7.49</formattedRrp>
+          <onSale>false</onSale>
+        </price>
+        <download>
+          <packages>
+            <package id="2">
+              <description>standard</description>
+              <price>
+                <currencyCode>GBP</currencyCode>
+                <sevendigitalPrice>7.49</sevendigitalPrice>
+                <recommendedRetailPrice>7.49</recommendedRetailPrice>
+              </price>
+              <formats>
+                <format id="17">
+                  <description>MP3 320</description>
+                </format>
+              </formats>
+            </package>
+          </packages>
+        </download>
+        <popularity>0.4</popularity>
+        <streamingReleaseDate>2014-07-22T00:00:00+01:00</streamingReleaseDate>
+        <duration>2404</duration>
+        <trackCount>10</trackCount>
+      </release>
+    </taggedItem>
+  </taggedResults>
 </response>

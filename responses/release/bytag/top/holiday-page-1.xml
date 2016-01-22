@@ -1,219 +1,219 @@
 <?xml version="1.0" encoding="utf-8"?>
 <response xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" status="ok" version="1.2" xsi:noNamespaceSchemaLocation="http://api.7digital.com/1.2/static/7digitalAPI.xsd">
-	<taggedResults>
-		<page>1</page>
-		<pageSize>10</pageSize>
-		<totalItems>7854</totalItems>
-		<type>release</type>
-		<taggedItem>
-			<release id="1449040">
-				<title>Under The Mistletoe</title>
-				<version/>
-				<type>Album</type>
-				<barcode>00602527833903</barcode>
-				<year>2011</year>
-				<explicitContent>false</explicitContent>
-				<artist id="374352">
-					<name>Justin Bieber</name>
-					<appearsAs>Justin Bieber</appearsAs>
-					<url>http://www.7digital.com/artist/justin-bieber/?partner=1401</url>
-				</artist>
-				<url>http://www.7digital.com/artist/justin-bieber/release/under-the-mistletoe-2/?partner=1401</url>
-				<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/014/490/0001449040_50.jpg</image>
-				<releaseDate>2011-10-31T00:00:00+00:00</releaseDate>
-				<addedDate>2011-10-25T18:04:19+01:00</addedDate>
-				<popularity>0.67</popularity>
-				<streamingReleaseDate>2011-10-31T00:00:00+00:00</streamingReleaseDate>
-			</release>
-		</taggedItem>
-		<taggedItem>
-			<release id="1461685">
-				<title>Glee: The Music, The Christmas Album Volume 2</title>
-				<version/>
-				<type>Album</type>
-				<barcode>886443245112</barcode>
-				<year>2011</year>
-				<explicitContent>false</explicitContent>
-				<artist id="354421">
-					<name>Glee Cast</name>
-					<appearsAs>Glee Cast</appearsAs>
-					<url>http://www.7digital.com/artist/glee-cast/?partner=1401</url>
-				</artist>
-				<url>http://www.7digital.com/artist/glee-cast/release/glee-the-music-the-christmas-album-volume-2/?partner=1401</url>
-				<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/014/616/0001461685_50.jpg</image>
-				<releaseDate>2011-11-14T00:00:00+00:00</releaseDate>
-				<addedDate>2011-10-31T05:04:12+00:00</addedDate>
-				<popularity>0.54</popularity>
-				<streamingReleaseDate>2011-11-14T00:00:00+00:00</streamingReleaseDate>
-			</release>
-		</taggedItem>
-		<taggedItem>
-			<release id="1571684">
-				<title>Anthems Hip-Hop 2 - Ministry of Sound</title>
-				<version/>
-				<type>Album</type>
-				<barcode>5051275045857</barcode>
-				<year>2012</year>
-				<explicitContent>false</explicitContent>
-				<artist id="209">
-					<name>Various Artists</name>
-					<appearsAs>Various Artists</appearsAs>
-					<url>http://www.7digital.com/artist/various-artists/?partner=1401</url>
-				</artist>
-				<url>http://www.7digital.com/artist/various-artists/release/anthems-hip-hop-2-ministry-of-sound/?partner=1401</url>
-				<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/015/716/0001571684_50.jpg</image>
-				<releaseDate>2012-01-30T00:00:00+00:00</releaseDate>
-				<addedDate>2012-01-24T11:44:13+00:00</addedDate>
-				<popularity>0.51</popularity>
-				<streamingReleaseDate>3001-01-01T00:00:00+00:00</streamingReleaseDate>
-			</release>
-		</taggedItem>
-		<taggedItem>
-			<release id="1449126">
-				<title>Merry Christmas With Frank Sinatra</title>
-				<version/>
-				<type>Album</type>
-				<barcode>7640138328312</barcode>
-				<year>2011</year>
-				<explicitContent>false</explicitContent>
-				<artist id="2101">
-					<name>Frank Sinatra</name>
-					<appearsAs>Frank Sinatra </appearsAs>
-					<url>http://www.7digital.com/artist/frank-sinatra-(2)/?partner=1401</url>
-				</artist>
-				<url>http://www.7digital.com/artist/frank-sinatra-(2)/release/merry-christmas-with-frank-sinatra/?partner=1401</url>
-				<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/014/491/0001449126_50.jpg</image>
-				<releaseDate>2011-11-25T00:00:00+00:00</releaseDate>
-				<addedDate>2011-10-21T17:38:20+01:00</addedDate>
-				<popularity>0.5</popularity>
-				<streamingReleaseDate>2011-11-25T00:00:00+00:00</streamingReleaseDate>
-			</release>
-		</taggedItem>
-		<taggedItem>
-			<release id="1017268">
-				<title>Merry Christmas II You</title>
-				<version/>
-				<type>Album</type>
-				<barcode>00602527572741</barcode>
-				<year>2010</year>
-				<explicitContent>false</explicitContent>
-				<artist id="5732">
-					<name>Mariah Carey</name>
-					<appearsAs>Mariah Carey</appearsAs>
-					<url>http://www.7digital.com/artist/mariah-carey/?partner=1401</url>
-				</artist>
-				<url>http://www.7digital.com/artist/mariah-carey/release/merry-christmas-ii-you/?partner=1401</url>
-				<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/010/172/0001017268_50.jpg</image>
-				<releaseDate>2010-11-15T00:00:00+00:00</releaseDate>
-				<addedDate>2010-11-02T15:20:31+00:00</addedDate>
-				<popularity>0.49</popularity>
-				<streamingReleaseDate>2010-11-15T00:00:00+00:00</streamingReleaseDate>
-			</release>
-		</taggedItem>
-		<taggedItem>
-			<release id="647548">
-				<title>A Very Special Christmas 7</title>
-				<version/>
-				<type>Album</type>
-				<barcode>00602527208596</barcode>
-				<year>2010</year>
-				<explicitContent>false</explicitContent>
-				<artist id="209">
-					<name>Various Artists</name>
-					<appearsAs>Various Artists</appearsAs>
-					<url>http://www.7digital.com/artist/various-artists/?partner=1401</url>
-				</artist>
-				<url>http://www.7digital.com/artist/various-artists/release/a-very-special-christmas-7/?partner=1401</url>
-				<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/006/475/0000647548_50.jpg</image>
-				<releaseDate>2010-11-10T00:00:00+00:00</releaseDate>
-				<addedDate>2010-10-20T15:43:04+01:00</addedDate>
-				<popularity>0.49</popularity>
-				<streamingReleaseDate>3001-01-01T00:00:00+00:00</streamingReleaseDate>
-			</release>
-		</taggedItem>
-		<taggedItem>
-			<release id="1657651">
-				<title>Disco - 99 Hits</title>
-				<version/>
-				<type>Album</type>
-				<barcode>848033003342</barcode>
-				<year>2012</year>
-				<explicitContent>false</explicitContent>
-				<artist id="815889">
-					<name>Silver Disco Explosion</name>
-					<appearsAs>Silver Disco Explosion</appearsAs>
-					<url>http://www.7digital.com/artist/silver-disco-explosion/?partner=1401</url>
-				</artist>
-				<url>http://www.7digital.com/artist/silver-disco-explosion/release/disco-99-hits/?partner=1401</url>
-				<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/016/576/0001657651_50.jpg</image>
-				<releaseDate>2012-03-13T00:00:00+00:00</releaseDate>
-				<addedDate>2012-04-17T11:47:20+01:00</addedDate>
-				<popularity>0.48</popularity>
-				<streamingReleaseDate>3001-01-01T00:00:00+00:00</streamingReleaseDate>
-			</release>
-		</taggedItem>
-		<taggedItem>
-			<release id="347786">
-				<title>Merry Christmas</title>
-				<version/>
-				<type>Album</type>
-				<barcode>888880713575</barcode>
-				<year>2008</year>
-				<explicitContent>false</explicitContent>
-				<artist id="5732">
-					<name>Mariah Carey</name>
-					<appearsAs>Mariah Carey</appearsAs>
-					<url>http://www.7digital.com/artist/mariah-carey/?partner=1401</url>
-				</artist>
-				<url>http://www.7digital.com/artist/mariah-carey/release/merry-christmas-2/?partner=1401</url>
-				<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/003/477/0000347786_50.jpg</image>
-				<releaseDate>2008-12-04T00:00:00+00:00</releaseDate>
-				<addedDate>2008-12-10T17:00:13+00:00</addedDate>
-				<popularity>0.48</popularity>
-				<streamingReleaseDate>2008-12-04T00:00:00+00:00</streamingReleaseDate>
-			</release>
-		</taggedItem>
-		<taggedItem>
-			<release id="1009135">
-				<title>White Christmas</title>
-				<version/>
-				<type>Single</type>
-				<barcode>884385754259</barcode>
-				<year>2009</year>
-				<explicitContent>false</explicitContent>
-				<artist id="10407">
-					<name>Bing Crosby</name>
-					<appearsAs>Bing Crosby</appearsAs>
-					<url>http://www.7digital.com/artist/bing-crosby/?partner=1401</url>
-				</artist>
-				<url>http://www.7digital.com/artist/bing-crosby/release/white-christmas-8/?partner=1401</url>
-				<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/010/091/0001009135_50.jpg</image>
-				<releaseDate>2009-08-04T00:00:00+01:00</releaseDate>
-				<addedDate>2010-10-18T19:01:00+01:00</addedDate>
-				<popularity>0.47</popularity>
-				<streamingReleaseDate>2009-08-04T00:00:00+01:00</streamingReleaseDate>
-			</release>
-		</taggedItem>
-		<taggedItem>
-			<release id="1072594">
-				<title>Oh Santa! All I Want For Christmas Is You</title>
-				<version>Holiday Mashup</version>
-				<type>Single</type>
-				<barcode>00602527620244</barcode>
-				<year>2010</year>
-				<explicitContent>false</explicitContent>
-				<artist id="5732">
-					<name>Mariah Carey</name>
-					<appearsAs>Mariah Carey</appearsAs>
-					<url>http://www.7digital.com/artist/mariah-carey/?partner=1401</url>
-				</artist>
-				<url>http://www.7digital.com/artist/mariah-carey/release/oh-santa-all-i-want-for-christmas-is-you-1/?partner=1401</url>
-				<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/010/725/0001072594_50.jpg</image>
-				<releaseDate>2010-12-20T00:00:00+00:00</releaseDate>
-				<addedDate>2010-12-23T15:33:40+00:00</addedDate>
-				<popularity>0.47</popularity>
-				<streamingReleaseDate>2010-12-20T00:00:00+00:00</streamingReleaseDate>
-			</release>
-		</taggedItem>
-	</taggedResults>
+  <taggedResults>
+    <page>1</page>
+    <pageSize>10</pageSize>
+    <totalItems>7854</totalItems>
+    <type>release</type>
+    <taggedItem>
+      <release id="1449040">
+        <title>Under The Mistletoe</title>
+        <version/>
+        <type>Album</type>
+        <barcode>00602527833903</barcode>
+        <year>2011</year>
+        <explicitContent>false</explicitContent>
+        <artist id="374352">
+          <name>Justin Bieber</name>
+          <appearsAs>Justin Bieber</appearsAs>
+          <url>http://www.7digital.com/artist/justin-bieber/?partner=1401</url>
+        </artist>
+        <url>http://www.7digital.com/artist/justin-bieber/release/under-the-mistletoe-2/?partner=1401</url>
+        <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/014/490/0001449040_50.jpg</image>
+        <releaseDate>2011-10-31T00:00:00+00:00</releaseDate>
+        <addedDate>2011-10-25T18:04:19+01:00</addedDate>
+        <popularity>0.67</popularity>
+        <streamingReleaseDate>2011-10-31T00:00:00+00:00</streamingReleaseDate>
+      </release>
+    </taggedItem>
+    <taggedItem>
+      <release id="1461685">
+        <title>Glee: The Music, The Christmas Album Volume 2</title>
+        <version/>
+        <type>Album</type>
+        <barcode>886443245112</barcode>
+        <year>2011</year>
+        <explicitContent>false</explicitContent>
+        <artist id="354421">
+          <name>Glee Cast</name>
+          <appearsAs>Glee Cast</appearsAs>
+          <url>http://www.7digital.com/artist/glee-cast/?partner=1401</url>
+        </artist>
+        <url>http://www.7digital.com/artist/glee-cast/release/glee-the-music-the-christmas-album-volume-2/?partner=1401</url>
+        <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/014/616/0001461685_50.jpg</image>
+        <releaseDate>2011-11-14T00:00:00+00:00</releaseDate>
+        <addedDate>2011-10-31T05:04:12+00:00</addedDate>
+        <popularity>0.54</popularity>
+        <streamingReleaseDate>2011-11-14T00:00:00+00:00</streamingReleaseDate>
+      </release>
+    </taggedItem>
+    <taggedItem>
+      <release id="1571684">
+        <title>Anthems Hip-Hop 2 - Ministry of Sound</title>
+        <version/>
+        <type>Album</type>
+        <barcode>5051275045857</barcode>
+        <year>2012</year>
+        <explicitContent>false</explicitContent>
+        <artist id="209">
+          <name>Various Artists</name>
+          <appearsAs>Various Artists</appearsAs>
+          <url>http://www.7digital.com/artist/various-artists/?partner=1401</url>
+        </artist>
+        <url>http://www.7digital.com/artist/various-artists/release/anthems-hip-hop-2-ministry-of-sound/?partner=1401</url>
+        <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/015/716/0001571684_50.jpg</image>
+        <releaseDate>2012-01-30T00:00:00+00:00</releaseDate>
+        <addedDate>2012-01-24T11:44:13+00:00</addedDate>
+        <popularity>0.51</popularity>
+        <streamingReleaseDate>3001-01-01T00:00:00+00:00</streamingReleaseDate>
+      </release>
+    </taggedItem>
+    <taggedItem>
+      <release id="1449126">
+        <title>Merry Christmas With Frank Sinatra</title>
+        <version/>
+        <type>Album</type>
+        <barcode>7640138328312</barcode>
+        <year>2011</year>
+        <explicitContent>false</explicitContent>
+        <artist id="2101">
+          <name>Frank Sinatra</name>
+          <appearsAs>Frank Sinatra </appearsAs>
+          <url>http://www.7digital.com/artist/frank-sinatra-(2)/?partner=1401</url>
+        </artist>
+        <url>http://www.7digital.com/artist/frank-sinatra-(2)/release/merry-christmas-with-frank-sinatra/?partner=1401</url>
+        <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/014/491/0001449126_50.jpg</image>
+        <releaseDate>2011-11-25T00:00:00+00:00</releaseDate>
+        <addedDate>2011-10-21T17:38:20+01:00</addedDate>
+        <popularity>0.5</popularity>
+        <streamingReleaseDate>2011-11-25T00:00:00+00:00</streamingReleaseDate>
+      </release>
+    </taggedItem>
+    <taggedItem>
+      <release id="1017268">
+        <title>Merry Christmas II You</title>
+        <version/>
+        <type>Album</type>
+        <barcode>00602527572741</barcode>
+        <year>2010</year>
+        <explicitContent>false</explicitContent>
+        <artist id="5732">
+          <name>Mariah Carey</name>
+          <appearsAs>Mariah Carey</appearsAs>
+          <url>http://www.7digital.com/artist/mariah-carey/?partner=1401</url>
+        </artist>
+        <url>http://www.7digital.com/artist/mariah-carey/release/merry-christmas-ii-you/?partner=1401</url>
+        <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/010/172/0001017268_50.jpg</image>
+        <releaseDate>2010-11-15T00:00:00+00:00</releaseDate>
+        <addedDate>2010-11-02T15:20:31+00:00</addedDate>
+        <popularity>0.49</popularity>
+        <streamingReleaseDate>2010-11-15T00:00:00+00:00</streamingReleaseDate>
+      </release>
+    </taggedItem>
+    <taggedItem>
+      <release id="647548">
+        <title>A Very Special Christmas 7</title>
+        <version/>
+        <type>Album</type>
+        <barcode>00602527208596</barcode>
+        <year>2010</year>
+        <explicitContent>false</explicitContent>
+        <artist id="209">
+          <name>Various Artists</name>
+          <appearsAs>Various Artists</appearsAs>
+          <url>http://www.7digital.com/artist/various-artists/?partner=1401</url>
+        </artist>
+        <url>http://www.7digital.com/artist/various-artists/release/a-very-special-christmas-7/?partner=1401</url>
+        <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/006/475/0000647548_50.jpg</image>
+        <releaseDate>2010-11-10T00:00:00+00:00</releaseDate>
+        <addedDate>2010-10-20T15:43:04+01:00</addedDate>
+        <popularity>0.49</popularity>
+        <streamingReleaseDate>3001-01-01T00:00:00+00:00</streamingReleaseDate>
+      </release>
+    </taggedItem>
+    <taggedItem>
+      <release id="1657651">
+        <title>Disco - 99 Hits</title>
+        <version/>
+        <type>Album</type>
+        <barcode>848033003342</barcode>
+        <year>2012</year>
+        <explicitContent>false</explicitContent>
+        <artist id="815889">
+          <name>Silver Disco Explosion</name>
+          <appearsAs>Silver Disco Explosion</appearsAs>
+          <url>http://www.7digital.com/artist/silver-disco-explosion/?partner=1401</url>
+        </artist>
+        <url>http://www.7digital.com/artist/silver-disco-explosion/release/disco-99-hits/?partner=1401</url>
+        <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/016/576/0001657651_50.jpg</image>
+        <releaseDate>2012-03-13T00:00:00+00:00</releaseDate>
+        <addedDate>2012-04-17T11:47:20+01:00</addedDate>
+        <popularity>0.48</popularity>
+        <streamingReleaseDate>3001-01-01T00:00:00+00:00</streamingReleaseDate>
+      </release>
+    </taggedItem>
+    <taggedItem>
+      <release id="347786">
+        <title>Merry Christmas</title>
+        <version/>
+        <type>Album</type>
+        <barcode>888880713575</barcode>
+        <year>2008</year>
+        <explicitContent>false</explicitContent>
+        <artist id="5732">
+          <name>Mariah Carey</name>
+          <appearsAs>Mariah Carey</appearsAs>
+          <url>http://www.7digital.com/artist/mariah-carey/?partner=1401</url>
+        </artist>
+        <url>http://www.7digital.com/artist/mariah-carey/release/merry-christmas-2/?partner=1401</url>
+        <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/003/477/0000347786_50.jpg</image>
+        <releaseDate>2008-12-04T00:00:00+00:00</releaseDate>
+        <addedDate>2008-12-10T17:00:13+00:00</addedDate>
+        <popularity>0.48</popularity>
+        <streamingReleaseDate>2008-12-04T00:00:00+00:00</streamingReleaseDate>
+      </release>
+    </taggedItem>
+    <taggedItem>
+      <release id="1009135">
+        <title>White Christmas</title>
+        <version/>
+        <type>Single</type>
+        <barcode>884385754259</barcode>
+        <year>2009</year>
+        <explicitContent>false</explicitContent>
+        <artist id="10407">
+          <name>Bing Crosby</name>
+          <appearsAs>Bing Crosby</appearsAs>
+          <url>http://www.7digital.com/artist/bing-crosby/?partner=1401</url>
+        </artist>
+        <url>http://www.7digital.com/artist/bing-crosby/release/white-christmas-8/?partner=1401</url>
+        <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/010/091/0001009135_50.jpg</image>
+        <releaseDate>2009-08-04T00:00:00+01:00</releaseDate>
+        <addedDate>2010-10-18T19:01:00+01:00</addedDate>
+        <popularity>0.47</popularity>
+        <streamingReleaseDate>2009-08-04T00:00:00+01:00</streamingReleaseDate>
+      </release>
+    </taggedItem>
+    <taggedItem>
+      <release id="1072594">
+        <title>Oh Santa! All I Want For Christmas Is You</title>
+        <version>Holiday Mashup</version>
+        <type>Single</type>
+        <barcode>00602527620244</barcode>
+        <year>2010</year>
+        <explicitContent>false</explicitContent>
+        <artist id="5732">
+          <name>Mariah Carey</name>
+          <appearsAs>Mariah Carey</appearsAs>
+          <url>http://www.7digital.com/artist/mariah-carey/?partner=1401</url>
+        </artist>
+        <url>http://www.7digital.com/artist/mariah-carey/release/oh-santa-all-i-want-for-christmas-is-you-1/?partner=1401</url>
+        <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/010/725/0001072594_50.jpg</image>
+        <releaseDate>2010-12-20T00:00:00+00:00</releaseDate>
+        <addedDate>2010-12-23T15:33:40+00:00</addedDate>
+        <popularity>0.47</popularity>
+        <streamingReleaseDate>2010-12-20T00:00:00+00:00</streamingReleaseDate>
+      </release>
+    </taggedItem>
+  </taggedResults>
 </response>

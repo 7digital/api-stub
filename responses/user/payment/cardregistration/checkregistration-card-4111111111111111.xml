@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <response xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" status="ok" version="1.2" xsi:noNamespaceSchemaLocation="http://api.7digital.com/1.2/static/7digitalAPI.xsd">
-	<cardRegistration id="{{cardRegistrationId}}" status="complete">
-		<card id="1">
-			<type>VISA</type>
-			<last4digits>1111</last4digits>
-			<cardholderName>Bob</cardholderName>
-			<expiryDate>194209</expiryDate>
-		</card>
-	</cardRegistration>
+  <cardRegistration id="{{cardRegistrationId}}" status="complete">
+    <card id="1">
+      <type>VISA</type>
+      <last4digits>1111</last4digits>
+      <cardholderName>Bob</cardholderName>
+      <expiryDate>194209</expiryDate>
+    </card>
+  </cardRegistration>
 </response>

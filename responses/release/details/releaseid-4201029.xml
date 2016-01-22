@@ -1,1 +1,83 @@
-<?xml version="1.0" encoding="utf-8"?><response xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" status="ok" version="1.2" xsi:noNamespaceSchemaLocation="http://api.7digital.com/1.2/static/7digitalAPI.xsd"><release id="4201029"><title>Rebel Heart</title><version>Explicit</version><type>Album</type><barcode>00602547234537</barcode><year>2015</year><explicitContent>true</explicitContent><artist id="6051"><name>Madonna</name><appearsAs>Madonna</appearsAs><url>http://www.7digital.com/artist/madonna/?partner=3923</url></artist><url>http://www.7digital.com/artist/madonna/release/rebel-heart-explicit/?partner=3923</url><image>http://artwork-cdn.7static.com/static/img/sleeveart/00/042/010/0004201029_50.jpg</image><releaseDate>2015-03-09T00:00:00Z</releaseDate><addedDate>2015-02-26T16:22:17Z</addedDate><price><currency code="GBP">£</currency><value>9.49</value><formattedPrice>£9.49</formattedPrice><rrp>9.49</rrp><formattedRrp>£9.49</formattedRrp><onSale>false</onSale></price><formats availableDrmFree="true"><format id="17"><fileFormat>MP3</fileFormat><bitRate>320</bitRate><drmFree>true</drmFree></format><format id="33"><fileFormat>M4A</fileFormat><bitRate>320</bitRate><drmFree>true</drmFree></format></formats><label id="47744"><name>Universal Music Australia Pty. Ltd.</name></label><licensor id="1"><name>Universal</name></licensor><popularity>0</popularity><streamingReleaseDate>2015-03-09T00:00:00Z</streamingReleaseDate><duration>3317</duration><trackCount>14</trackCount><download><packages><package id="9"><description>premium</description><price><currencyCode>GBP</currencyCode><sevendigitalPrice>14.49</sevendigitalPrice><recommendedRetailPrice>14.49</recommendedRetailPrice></price><formats><format id="45"><description>FLAC 16-bit 44.1kHz</description></format></formats></package><package id="2"><description>standard</description><price><currencyCode>GBP</currencyCode><sevendigitalPrice>9.49</sevendigitalPrice><recommendedRetailPrice>9.49</recommendedRetailPrice></price><formats><format id="17"><description>MP3 320</description></format><format id="33"><description>AAC 320</description></format></formats></package></packages></download></release></response>
+<?xml version="1.0" encoding="utf-8"?>
+<response xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" status="ok" version="1.2" xsi:noNamespaceSchemaLocation="http://api.7digital.com/1.2/static/7digitalAPI.xsd">
+  <release id="4201029">
+    <title>Rebel Heart</title>
+    <version>Explicit</version>
+    <type>Album</type>
+    <barcode>00602547234537</barcode>
+    <year>2015</year>
+    <explicitContent>true</explicitContent>
+    <artist id="6051">
+      <name>Madonna</name>
+      <appearsAs>Madonna</appearsAs>
+      <url>http://www.7digital.com/artist/madonna/?partner=3923</url>
+    </artist>
+    <url>http://www.7digital.com/artist/madonna/release/rebel-heart-explicit/?partner=3923</url>
+    <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/042/010/0004201029_50.jpg</image>
+    <releaseDate>2015-03-09T00:00:00Z</releaseDate>
+    <addedDate>2015-02-26T16:22:17Z</addedDate>
+    <price>
+      <currency code="GBP">£</currency>
+      <value>9.49</value>
+      <formattedPrice>£9.49</formattedPrice>
+      <rrp>9.49</rrp>
+      <formattedRrp>£9.49</formattedRrp>
+      <onSale>false</onSale>
+    </price>
+    <formats availableDrmFree="true">
+      <format id="17">
+        <fileFormat>MP3</fileFormat>
+        <bitRate>320</bitRate>
+        <drmFree>true</drmFree>
+      </format>
+      <format id="33">
+        <fileFormat>M4A</fileFormat>
+        <bitRate>320</bitRate>
+        <drmFree>true</drmFree>
+      </format>
+    </formats>
+    <label id="47744">
+      <name>Universal Music Australia Pty. Ltd.</name>
+    </label>
+    <licensor id="1">
+      <name>Universal</name>
+    </licensor>
+    <popularity>0</popularity>
+    <streamingReleaseDate>2015-03-09T00:00:00Z</streamingReleaseDate>
+    <duration>3317</duration>
+    <trackCount>14</trackCount>
+    <download>
+      <packages>
+        <package id="9">
+          <description>premium</description>
+          <price>
+            <currencyCode>GBP</currencyCode>
+            <sevendigitalPrice>14.49</sevendigitalPrice>
+            <recommendedRetailPrice>14.49</recommendedRetailPrice>
+          </price>
+          <formats>
+            <format id="45">
+              <description>FLAC 16-bit 44.1kHz</description>
+            </format>
+          </formats>
+        </package>
+        <package id="2">
+          <description>standard</description>
+          <price>
+            <currencyCode>GBP</currencyCode>
+            <sevendigitalPrice>9.49</sevendigitalPrice>
+            <recommendedRetailPrice>9.49</recommendedRetailPrice>
+          </price>
+          <formats>
+            <format id="17">
+              <description>MP3 320</description>
+            </format>
+            <format id="33">
+              <description>AAC 320</description>
+            </format>
+          </formats>
+        </package>
+      </packages>
+    </download>
+  </release>
+</response>

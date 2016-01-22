@@ -1,219 +1,219 @@
 <?xml version="1.0" encoding="utf-8"?>
 <response xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" status="ok" version="1.2" xsi:noNamespaceSchemaLocation="http://api.7digital.com/1.2/static/7digitalAPI.xsd">
-	<taggedResults>
-		<page>1</page>
-		<pageSize>10</pageSize>
-		<totalItems>13870</totalItems>
-		<type>release</type>
-		<taggedItem>
-			<release id="1259579">
-				<title>Relaxing Summer Chill, Vol. 3</title>
-				<version/>
-				<type>Album</type>
-				<barcode>3661585891116</barcode>
-				<year>2011</year>
-				<explicitContent>false</explicitContent>
-				<artist id="209">
-					<name>Various Artists</name>
-					<appearsAs>Various Artists</appearsAs>
-					<url>http://www.7digital.com/artist/various-artists/?partner=1401</url>
-				</artist>
-				<url>http://www.7digital.com/artist/various-artists/release/relaxing-summer-chill-vol-3/?partner=1401</url>
-				<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/012/595/0001259579_50.jpg</image>
-				<releaseDate>2011-07-14T00:00:00+01:00</releaseDate>
-				<addedDate>2011-06-03T15:11:09+01:00</addedDate>
-				<popularity>0.62</popularity>
-				<streamingReleaseDate>2011-07-14T00:00:00+01:00</streamingReleaseDate>
-			</release>
-		</taggedItem>
-		<taggedItem>
-			<release id="1237566">
-				<title>Beach Lounge 2011</title>
-				<version/>
-				<type>Album</type>
-				<barcode>3661585851127</barcode>
-				<year>2011</year>
-				<explicitContent>false</explicitContent>
-				<artist id="209">
-					<name>Various Artists</name>
-					<appearsAs>Various Artists</appearsAs>
-					<url>http://www.7digital.com/artist/various-artists/?partner=1401</url>
-				</artist>
-				<url>http://www.7digital.com/artist/various-artists/release/beach-lounge-2011/?partner=1401</url>
-				<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/012/375/0001237566_50.jpg</image>
-				<releaseDate>2011-05-11T00:00:00+01:00</releaseDate>
-				<addedDate>2011-05-06T15:39:52+01:00</addedDate>
-				<popularity>0.55</popularity>
-				<streamingReleaseDate>2011-05-11T00:00:00+01:00</streamingReleaseDate>
-			</release>
-		</taggedItem>
-		<taggedItem>
-			<release id="1254078">
-				<title>Bossa Deluxe: Rio de Janeiro Session</title>
-				<version/>
-				<type>Album</type>
-				<barcode>3661585877110</barcode>
-				<year>2011</year>
-				<explicitContent>false</explicitContent>
-				<artist id="209">
-					<name>Various Artists</name>
-					<appearsAs>Various Artists</appearsAs>
-					<url>http://www.7digital.com/artist/various-artists/?partner=1401</url>
-				</artist>
-				<url>http://www.7digital.com/artist/various-artists/release/bossa-deluxe-rio-de-janeiro-session/?partner=1401</url>
-				<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/012/540/0001254078_50.jpg</image>
-				<releaseDate>2011-06-02T00:00:00+01:00</releaseDate>
-				<addedDate>2011-05-23T15:55:34+01:00</addedDate>
-				<popularity>0.53</popularity>
-				<streamingReleaseDate>2011-06-02T00:00:00+01:00</streamingReleaseDate>
-			</release>
-		</taggedItem>
-		<taggedItem>
-			<release id="323467">
-				<title>Genius Loves Company</title>
-				<version/>
-				<type>Album</type>
-				<barcode>00013431224822</barcode>
-				<year>2009</year>
-				<explicitContent>false</explicitContent>
-				<artist id="4342">
-					<name>Ray Charles</name>
-					<appearsAs>Ray Charles</appearsAs>
-					<url>http://www.7digital.com/artist/ray-charles/?partner=1401</url>
-				</artist>
-				<url>http://www.7digital.com/artist/ray-charles/release/genius-loves-company-1-1/?partner=1401</url>
-				<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/003/234/0000323467_50.jpg</image>
-				<releaseDate>2009-07-14T00:00:00+01:00</releaseDate>
-				<addedDate>2008-10-08T16:31:43+01:00</addedDate>
-				<popularity>0.52</popularity>
-				<streamingReleaseDate>2009-07-14T00:00:00+01:00</streamingReleaseDate>
-			</release>
-		</taggedItem>
-		<taggedItem>
-			<release id="1160096">
-				<title>Music to Make Love (50 Sensual Tracks)</title>
-				<version/>
-				<type>Album</type>
-				<barcode>3661585727651</barcode>
-				<year>2011</year>
-				<explicitContent>false</explicitContent>
-				<artist id="209">
-					<name>Various Artists</name>
-					<appearsAs>Various Artists</appearsAs>
-					<url>http://www.7digital.com/artist/various-artists/?partner=1401</url>
-				</artist>
-				<url>http://www.7digital.com/artist/various-artists/release/music-to-make-love-50-sensual-tracks/?partner=1401</url>
-				<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/011/600/0001160096_50.jpg</image>
-				<releaseDate>2011-02-09T00:00:00+00:00</releaseDate>
-				<addedDate>2011-02-18T17:08:55+00:00</addedDate>
-				<popularity>0.52</popularity>
-				<streamingReleaseDate>2011-02-09T00:00:00+00:00</streamingReleaseDate>
-			</release>
-		</taggedItem>
-		<taggedItem>
-			<release id="146458">
-				<title>Call Me Irresponsible</title>
-				<version/>
-				<type>Album</type>
-				<barcode>093624991106</barcode>
-				<year>2010</year>
-				<explicitContent>false</explicitContent>
-				<artist id="908">
-					<name>Michael Bublé</name>
-					<appearsAs>Michael Bublé</appearsAs>
-					<url>http://www.7digital.com/artist/michael-bublé/?partner=1401</url>
-				</artist>
-				<url>http://www.7digital.com/artist/michael-bublé/release/call-me-irresponsible-2-1/?partner=1401</url>
-				<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/001/464/0000146458_50.jpg</image>
-				<releaseDate>2010-05-26T00:00:00+01:00</releaseDate>
-				<addedDate>2008-03-03T14:15:56+00:00</addedDate>
-				<popularity>0.51</popularity>
-				<streamingReleaseDate>2010-05-26T00:00:00+01:00</streamingReleaseDate>
-			</release>
-		</taggedItem>
-		<taggedItem>
-			<release id="1252884">
-				<title>Sunday Jazz Cafe, Vol. 1</title>
-				<version/>
-				<type>Album</type>
-				<barcode>4042058003370</barcode>
-				<year>2011</year>
-				<explicitContent>false</explicitContent>
-				<artist id="209">
-					<name>Various Artists</name>
-					<appearsAs>Various Artists</appearsAs>
-					<url>http://www.7digital.com/artist/various-artists/?partner=1401</url>
-				</artist>
-				<url>http://www.7digital.com/artist/various-artists/release/sunday-jazz-cafe-vol-1/?partner=1401</url>
-				<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/012/528/0001252884_50.jpg</image>
-				<releaseDate>2011-05-31T00:00:00+01:00</releaseDate>
-				<addedDate>2011-05-23T15:56:44+01:00</addedDate>
-				<popularity>0.51</popularity>
-				<streamingReleaseDate>2011-05-31T00:00:00+01:00</streamingReleaseDate>
-			</release>
-		</taggedItem>
-		<taggedItem>
-			<release id="1259586">
-				<title>Relaxing Summer Chill, Vol. 2</title>
-				<version/>
-				<type>Album</type>
-				<barcode>3661585891239</barcode>
-				<year>2011</year>
-				<explicitContent>false</explicitContent>
-				<artist id="209">
-					<name>Various Artists</name>
-					<appearsAs>Various Artists</appearsAs>
-					<url>http://www.7digital.com/artist/various-artists/?partner=1401</url>
-				</artist>
-				<url>http://www.7digital.com/artist/various-artists/release/relaxing-summer-chill-vol-2/?partner=1401</url>
-				<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/012/595/0001259586_50.jpg</image>
-				<releaseDate>2011-06-20T00:00:00+01:00</releaseDate>
-				<addedDate>2011-06-03T15:11:08+01:00</addedDate>
-				<popularity>0.51</popularity>
-				<streamingReleaseDate>2011-06-20T00:00:00+01:00</streamingReleaseDate>
-			</release>
-		</taggedItem>
-		<taggedItem>
-			<release id="1313223">
-				<title>Summer Lounge Edition</title>
-				<version/>
-				<type>Album</type>
-				<barcode>3661585938439</barcode>
-				<year>2011</year>
-				<explicitContent>false</explicitContent>
-				<artist id="209">
-					<name>Various Artists</name>
-					<appearsAs>Various Artists</appearsAs>
-					<url>http://www.7digital.com/artist/various-artists/?partner=1401</url>
-				</artist>
-				<url>http://www.7digital.com/artist/various-artists/release/summer-lounge-edition/?partner=1401</url>
-				<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/013/132/0001313223_50.jpg</image>
-				<releaseDate>2011-07-07T00:00:00+01:00</releaseDate>
-				<addedDate>2011-07-11T15:18:51+01:00</addedDate>
-				<popularity>0.49</popularity>
-				<streamingReleaseDate>2011-07-07T00:00:00+01:00</streamingReleaseDate>
-			</release>
-		</taggedItem>
-		<taggedItem>
-			<release id="1773591">
-				<title>Never Let Go</title>
-				<version/>
-				<type>Single</type>
-				<barcode>5055610737896</barcode>
-				<year>2012</year>
-				<explicitContent>false</explicitContent>
-				<artist id="1325161">
-					<name>Jemma Pixie Hixon</name>
-					<appearsAs>Jemma Pixie Hixon</appearsAs>
-					<url>http://www.7digital.com/artist/jemma-pixie-hixon/?partner=1401</url>
-				</artist>
-				<url>http://www.7digital.com/artist/jemma-pixie-hixon/release/never-let-go/?partner=1401</url>
-				<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/017/735/0001773591_50.jpg</image>
-				<releaseDate>2012-07-18T00:00:00+01:00</releaseDate>
-				<addedDate>2012-06-25T01:01:57+01:00</addedDate>
-				<popularity>0.48</popularity>
-				<streamingReleaseDate>2012-07-18T00:00:00+01:00</streamingReleaseDate>
-			</release>
-		</taggedItem>
-	</taggedResults>
+  <taggedResults>
+    <page>1</page>
+    <pageSize>10</pageSize>
+    <totalItems>13870</totalItems>
+    <type>release</type>
+    <taggedItem>
+      <release id="1259579">
+        <title>Relaxing Summer Chill, Vol. 3</title>
+        <version/>
+        <type>Album</type>
+        <barcode>3661585891116</barcode>
+        <year>2011</year>
+        <explicitContent>false</explicitContent>
+        <artist id="209">
+          <name>Various Artists</name>
+          <appearsAs>Various Artists</appearsAs>
+          <url>http://www.7digital.com/artist/various-artists/?partner=1401</url>
+        </artist>
+        <url>http://www.7digital.com/artist/various-artists/release/relaxing-summer-chill-vol-3/?partner=1401</url>
+        <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/012/595/0001259579_50.jpg</image>
+        <releaseDate>2011-07-14T00:00:00+01:00</releaseDate>
+        <addedDate>2011-06-03T15:11:09+01:00</addedDate>
+        <popularity>0.62</popularity>
+        <streamingReleaseDate>2011-07-14T00:00:00+01:00</streamingReleaseDate>
+      </release>
+    </taggedItem>
+    <taggedItem>
+      <release id="1237566">
+        <title>Beach Lounge 2011</title>
+        <version/>
+        <type>Album</type>
+        <barcode>3661585851127</barcode>
+        <year>2011</year>
+        <explicitContent>false</explicitContent>
+        <artist id="209">
+          <name>Various Artists</name>
+          <appearsAs>Various Artists</appearsAs>
+          <url>http://www.7digital.com/artist/various-artists/?partner=1401</url>
+        </artist>
+        <url>http://www.7digital.com/artist/various-artists/release/beach-lounge-2011/?partner=1401</url>
+        <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/012/375/0001237566_50.jpg</image>
+        <releaseDate>2011-05-11T00:00:00+01:00</releaseDate>
+        <addedDate>2011-05-06T15:39:52+01:00</addedDate>
+        <popularity>0.55</popularity>
+        <streamingReleaseDate>2011-05-11T00:00:00+01:00</streamingReleaseDate>
+      </release>
+    </taggedItem>
+    <taggedItem>
+      <release id="1254078">
+        <title>Bossa Deluxe: Rio de Janeiro Session</title>
+        <version/>
+        <type>Album</type>
+        <barcode>3661585877110</barcode>
+        <year>2011</year>
+        <explicitContent>false</explicitContent>
+        <artist id="209">
+          <name>Various Artists</name>
+          <appearsAs>Various Artists</appearsAs>
+          <url>http://www.7digital.com/artist/various-artists/?partner=1401</url>
+        </artist>
+        <url>http://www.7digital.com/artist/various-artists/release/bossa-deluxe-rio-de-janeiro-session/?partner=1401</url>
+        <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/012/540/0001254078_50.jpg</image>
+        <releaseDate>2011-06-02T00:00:00+01:00</releaseDate>
+        <addedDate>2011-05-23T15:55:34+01:00</addedDate>
+        <popularity>0.53</popularity>
+        <streamingReleaseDate>2011-06-02T00:00:00+01:00</streamingReleaseDate>
+      </release>
+    </taggedItem>
+    <taggedItem>
+      <release id="323467">
+        <title>Genius Loves Company</title>
+        <version/>
+        <type>Album</type>
+        <barcode>00013431224822</barcode>
+        <year>2009</year>
+        <explicitContent>false</explicitContent>
+        <artist id="4342">
+          <name>Ray Charles</name>
+          <appearsAs>Ray Charles</appearsAs>
+          <url>http://www.7digital.com/artist/ray-charles/?partner=1401</url>
+        </artist>
+        <url>http://www.7digital.com/artist/ray-charles/release/genius-loves-company-1-1/?partner=1401</url>
+        <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/003/234/0000323467_50.jpg</image>
+        <releaseDate>2009-07-14T00:00:00+01:00</releaseDate>
+        <addedDate>2008-10-08T16:31:43+01:00</addedDate>
+        <popularity>0.52</popularity>
+        <streamingReleaseDate>2009-07-14T00:00:00+01:00</streamingReleaseDate>
+      </release>
+    </taggedItem>
+    <taggedItem>
+      <release id="1160096">
+        <title>Music to Make Love (50 Sensual Tracks)</title>
+        <version/>
+        <type>Album</type>
+        <barcode>3661585727651</barcode>
+        <year>2011</year>
+        <explicitContent>false</explicitContent>
+        <artist id="209">
+          <name>Various Artists</name>
+          <appearsAs>Various Artists</appearsAs>
+          <url>http://www.7digital.com/artist/various-artists/?partner=1401</url>
+        </artist>
+        <url>http://www.7digital.com/artist/various-artists/release/music-to-make-love-50-sensual-tracks/?partner=1401</url>
+        <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/011/600/0001160096_50.jpg</image>
+        <releaseDate>2011-02-09T00:00:00+00:00</releaseDate>
+        <addedDate>2011-02-18T17:08:55+00:00</addedDate>
+        <popularity>0.52</popularity>
+        <streamingReleaseDate>2011-02-09T00:00:00+00:00</streamingReleaseDate>
+      </release>
+    </taggedItem>
+    <taggedItem>
+      <release id="146458">
+        <title>Call Me Irresponsible</title>
+        <version/>
+        <type>Album</type>
+        <barcode>093624991106</barcode>
+        <year>2010</year>
+        <explicitContent>false</explicitContent>
+        <artist id="908">
+          <name>Michael Bublé</name>
+          <appearsAs>Michael Bublé</appearsAs>
+          <url>http://www.7digital.com/artist/michael-bublé/?partner=1401</url>
+        </artist>
+        <url>http://www.7digital.com/artist/michael-bublé/release/call-me-irresponsible-2-1/?partner=1401</url>
+        <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/001/464/0000146458_50.jpg</image>
+        <releaseDate>2010-05-26T00:00:00+01:00</releaseDate>
+        <addedDate>2008-03-03T14:15:56+00:00</addedDate>
+        <popularity>0.51</popularity>
+        <streamingReleaseDate>2010-05-26T00:00:00+01:00</streamingReleaseDate>
+      </release>
+    </taggedItem>
+    <taggedItem>
+      <release id="1252884">
+        <title>Sunday Jazz Cafe, Vol. 1</title>
+        <version/>
+        <type>Album</type>
+        <barcode>4042058003370</barcode>
+        <year>2011</year>
+        <explicitContent>false</explicitContent>
+        <artist id="209">
+          <name>Various Artists</name>
+          <appearsAs>Various Artists</appearsAs>
+          <url>http://www.7digital.com/artist/various-artists/?partner=1401</url>
+        </artist>
+        <url>http://www.7digital.com/artist/various-artists/release/sunday-jazz-cafe-vol-1/?partner=1401</url>
+        <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/012/528/0001252884_50.jpg</image>
+        <releaseDate>2011-05-31T00:00:00+01:00</releaseDate>
+        <addedDate>2011-05-23T15:56:44+01:00</addedDate>
+        <popularity>0.51</popularity>
+        <streamingReleaseDate>2011-05-31T00:00:00+01:00</streamingReleaseDate>
+      </release>
+    </taggedItem>
+    <taggedItem>
+      <release id="1259586">
+        <title>Relaxing Summer Chill, Vol. 2</title>
+        <version/>
+        <type>Album</type>
+        <barcode>3661585891239</barcode>
+        <year>2011</year>
+        <explicitContent>false</explicitContent>
+        <artist id="209">
+          <name>Various Artists</name>
+          <appearsAs>Various Artists</appearsAs>
+          <url>http://www.7digital.com/artist/various-artists/?partner=1401</url>
+        </artist>
+        <url>http://www.7digital.com/artist/various-artists/release/relaxing-summer-chill-vol-2/?partner=1401</url>
+        <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/012/595/0001259586_50.jpg</image>
+        <releaseDate>2011-06-20T00:00:00+01:00</releaseDate>
+        <addedDate>2011-06-03T15:11:08+01:00</addedDate>
+        <popularity>0.51</popularity>
+        <streamingReleaseDate>2011-06-20T00:00:00+01:00</streamingReleaseDate>
+      </release>
+    </taggedItem>
+    <taggedItem>
+      <release id="1313223">
+        <title>Summer Lounge Edition</title>
+        <version/>
+        <type>Album</type>
+        <barcode>3661585938439</barcode>
+        <year>2011</year>
+        <explicitContent>false</explicitContent>
+        <artist id="209">
+          <name>Various Artists</name>
+          <appearsAs>Various Artists</appearsAs>
+          <url>http://www.7digital.com/artist/various-artists/?partner=1401</url>
+        </artist>
+        <url>http://www.7digital.com/artist/various-artists/release/summer-lounge-edition/?partner=1401</url>
+        <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/013/132/0001313223_50.jpg</image>
+        <releaseDate>2011-07-07T00:00:00+01:00</releaseDate>
+        <addedDate>2011-07-11T15:18:51+01:00</addedDate>
+        <popularity>0.49</popularity>
+        <streamingReleaseDate>2011-07-07T00:00:00+01:00</streamingReleaseDate>
+      </release>
+    </taggedItem>
+    <taggedItem>
+      <release id="1773591">
+        <title>Never Let Go</title>
+        <version/>
+        <type>Single</type>
+        <barcode>5055610737896</barcode>
+        <year>2012</year>
+        <explicitContent>false</explicitContent>
+        <artist id="1325161">
+          <name>Jemma Pixie Hixon</name>
+          <appearsAs>Jemma Pixie Hixon</appearsAs>
+          <url>http://www.7digital.com/artist/jemma-pixie-hixon/?partner=1401</url>
+        </artist>
+        <url>http://www.7digital.com/artist/jemma-pixie-hixon/release/never-let-go/?partner=1401</url>
+        <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/017/735/0001773591_50.jpg</image>
+        <releaseDate>2012-07-18T00:00:00+01:00</releaseDate>
+        <addedDate>2012-06-25T01:01:57+01:00</addedDate>
+        <popularity>0.48</popularity>
+        <streamingReleaseDate>2012-07-18T00:00:00+01:00</streamingReleaseDate>
+      </release>
+    </taggedItem>
+  </taggedResults>
 </response>

@@ -1,399 +1,399 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <response xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" status="ok" version="1.2" xsi:noNamespaceSchemaLocation="http://api.7digital.com/1.2/static/7digitalAPI.xsd">
-   <tracks>
-      <page>1</page>
-      <pageSize>5</pageSize>
-      <totalItems>513</totalItems>
-      <track id="1400374">
-         <title>Ghost of Perdition</title>
-         <version />
-         <artist id="8576">
-            <name>Opeth</name>
-            <appearsAs>Opeth</appearsAs>
-            <url>http://www.7digital.com/artist/opeth/?partner=712</url>
-         </artist>
-         <trackNumber>1</trackNumber>
-         <duration>629</duration>
-         <explicitContent>false</explicitContent>
-         <isrc>NLA320581217</isrc>
-         <type>audio</type>
-         <release id="135197">
-            <title>Ghost Reveries</title>
-            <version />
-            <type>Album</type>
-            <barcode>016861812300</barcode>
-            <explicitContent>false</explicitContent>
-            <artist id="8576">
-               <name>Opeth</name>
-               <appearsAs>Opeth</appearsAs>
-               <url>http://www.7digital.com/artist/opeth/?partner=712</url>
-            </artist>
-            <url>http://www.7digital.com/artist/opeth/release/ghost-reveries-1/?partner=712</url>
-            <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/001/351/0000135197_50.jpg</image>
-            <releaseDate>2008-06-01T00:00:00Z</releaseDate>
-            <formats availableDrmFree="true">
-               <format id="17">
-                  <fileFormat>MP3</fileFormat>
-                  <bitRate>320</bitRate>
-                  <drmFree>true</drmFree>
-               </format>
+  <tracks>
+    <page>1</page>
+    <pageSize>5</pageSize>
+    <totalItems>513</totalItems>
+    <track id="1400374">
+      <title>Ghost of Perdition</title>
+      <version/>
+      <artist id="8576">
+        <name>Opeth</name>
+        <appearsAs>Opeth</appearsAs>
+        <url>http://www.7digital.com/artist/opeth/?partner=712</url>
+      </artist>
+      <trackNumber>1</trackNumber>
+      <duration>629</duration>
+      <explicitContent>false</explicitContent>
+      <isrc>NLA320581217</isrc>
+      <type>audio</type>
+      <release id="135197">
+        <title>Ghost Reveries</title>
+        <version/>
+        <type>Album</type>
+        <barcode>016861812300</barcode>
+        <explicitContent>false</explicitContent>
+        <artist id="8576">
+          <name>Opeth</name>
+          <appearsAs>Opeth</appearsAs>
+          <url>http://www.7digital.com/artist/opeth/?partner=712</url>
+        </artist>
+        <url>http://www.7digital.com/artist/opeth/release/ghost-reveries-1/?partner=712</url>
+        <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/001/351/0000135197_50.jpg</image>
+        <releaseDate>2008-06-01T00:00:00Z</releaseDate>
+        <formats availableDrmFree="true">
+          <format id="17">
+            <fileFormat>MP3</fileFormat>
+            <bitRate>320</bitRate>
+            <drmFree>true</drmFree>
+          </format>
+        </formats>
+        <label id="973">
+          <name>Roadrunner Records</name>
+        </label>
+        <licensor id="18">
+          <name>Warner</name>
+        </licensor>
+        <streamingReleaseDate xsi:nil="true"/>
+        <duration>0</duration>
+        <trackCount xsi:nil="true"/>
+      </release>
+      <url>http://www.7digital.com/artist/opeth/release/ghost-reveries-1/?partner=712&amp;h=01</url>
+      <price>
+        <currency code="GBP">£</currency>
+        <value>0.99</value>
+        <formattedPrice>£0.99</formattedPrice>
+        <rrp>0.99</rrp>
+        <formattedRrp>£0.99</formattedRrp>
+        <onSale>false</onSale>
+      </price>
+      <streamingReleaseDate>2008-07-31T00:00:00Z</streamingReleaseDate>
+      <discNumber>1</discNumber>
+      <popularity>0.33</popularity>
+      <number>1</number>
+      <download>
+        <packages>
+          <package id="2">
+            <description>standard</description>
+            <price>
+              <currencyCode>GBP</currencyCode>
+              <sevendigitalPrice>0.99</sevendigitalPrice>
+              <recommendedRetailPrice>0.99</recommendedRetailPrice>
+            </price>
+            <formats>
+              <format id="17">
+                <description>MP3 320</description>
+              </format>
             </formats>
-            <label id="973">
-               <name>Roadrunner Records</name>
-            </label>
-            <licensor id="18">
-               <name>Warner</name>
-            </licensor>
-            <streamingReleaseDate xsi:nil="true" />
-            <duration>0</duration>
-            <trackCount xsi:nil="true" />
-         </release>
-         <url>http://www.7digital.com/artist/opeth/release/ghost-reveries-1/?partner=712&amp;h=01</url>
-         <price>
-            <currency code="GBP">£</currency>
-            <value>0.99</value>
-            <formattedPrice>£0.99</formattedPrice>
-            <rrp>0.99</rrp>
-            <formattedRrp>£0.99</formattedRrp>
-            <onSale>false</onSale>
-         </price>
-         <streamingReleaseDate>2008-07-31T00:00:00Z</streamingReleaseDate>
-         <discNumber>1</discNumber>
-         <popularity>0.33</popularity>
-         <number>1</number>
-         <download>
-            <packages>
-               <package id="2">
-                  <description>standard</description>
-                  <price>
-                     <currencyCode>GBP</currencyCode>
-                     <sevendigitalPrice>0.99</sevendigitalPrice>
-                     <recommendedRetailPrice>0.99</recommendedRetailPrice>
-                  </price>
-                  <formats>
-                     <format id="17">
-                        <description>MP3 320</description>
-                     </format>
-                  </formats>
-               </package>
-            </packages>
-         </download>
-      </track>
-      <track id="36971910">
-         <title>The Apostle in Triumph</title>
-         <version />
-         <artist id="8576">
-            <name>Opeth</name>
-            <appearsAs>Opeth</appearsAs>
-            <url>http://www.7digital.com/artist/opeth/?partner=712</url>
-         </artist>
-         <trackNumber>7</trackNumber>
-         <duration>781</duration>
-         <explicitContent>false</explicitContent>
-         <isrc>GBADD0405307</isrc>
-         <type>audio</type>
-         <release id="3516633">
-            <title>The Candlelight Years</title>
-            <version />
-            <type>Album</type>
-            <barcode>803341251120</barcode>
-            <explicitContent>false</explicitContent>
-            <artist id="8576">
-               <name>Opeth</name>
-               <appearsAs>Opeth</appearsAs>
-               <url>http://www.7digital.com/artist/opeth/?partner=712</url>
-            </artist>
-            <url>http://www.7digital.com/artist/opeth/release/the-candlelight-years/?partner=712</url>
-            <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/035/166/0003516633_50.jpg</image>
-            <releaseDate>2014-06-28T00:00:00Z</releaseDate>
-            <formats availableDrmFree="true">
-               <format id="17">
-                  <fileFormat>MP3</fileFormat>
-                  <bitRate>320</bitRate>
-                  <drmFree>true</drmFree>
-               </format>
+          </package>
+        </packages>
+      </download>
+    </track>
+    <track id="36971910">
+      <title>The Apostle in Triumph</title>
+      <version/>
+      <artist id="8576">
+        <name>Opeth</name>
+        <appearsAs>Opeth</appearsAs>
+        <url>http://www.7digital.com/artist/opeth/?partner=712</url>
+      </artist>
+      <trackNumber>7</trackNumber>
+      <duration>781</duration>
+      <explicitContent>false</explicitContent>
+      <isrc>GBADD0405307</isrc>
+      <type>audio</type>
+      <release id="3516633">
+        <title>The Candlelight Years</title>
+        <version/>
+        <type>Album</type>
+        <barcode>803341251120</barcode>
+        <explicitContent>false</explicitContent>
+        <artist id="8576">
+          <name>Opeth</name>
+          <appearsAs>Opeth</appearsAs>
+          <url>http://www.7digital.com/artist/opeth/?partner=712</url>
+        </artist>
+        <url>http://www.7digital.com/artist/opeth/release/the-candlelight-years/?partner=712</url>
+        <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/035/166/0003516633_50.jpg</image>
+        <releaseDate>2014-06-28T00:00:00Z</releaseDate>
+        <formats availableDrmFree="true">
+          <format id="17">
+            <fileFormat>MP3</fileFormat>
+            <bitRate>320</bitRate>
+            <drmFree>true</drmFree>
+          </format>
+        </formats>
+        <label id="541">
+          <name>Candlelight Records</name>
+        </label>
+        <licensor id="21">
+          <name>Orchard</name>
+        </licensor>
+        <streamingReleaseDate xsi:nil="true"/>
+        <duration>0</duration>
+        <trackCount xsi:nil="true"/>
+      </release>
+      <url>http://www.7digital.com/artist/opeth/release/the-candlelight-years/?partner=712&amp;h=07</url>
+      <price>
+        <currency code="GBP">£</currency>
+        <value>0.99</value>
+        <formattedPrice>£0.99</formattedPrice>
+        <rrp>0.99</rrp>
+        <formattedRrp>£0.99</formattedRrp>
+        <onSale>false</onSale>
+      </price>
+      <streamingReleaseDate>2014-06-28T00:00:00Z</streamingReleaseDate>
+      <discNumber>1</discNumber>
+      <popularity>0.33</popularity>
+      <number>7</number>
+      <download>
+        <packages>
+          <package id="2">
+            <description>standard</description>
+            <price>
+              <currencyCode>GBP</currencyCode>
+              <sevendigitalPrice>0.99</sevendigitalPrice>
+              <recommendedRetailPrice>0.99</recommendedRetailPrice>
+            </price>
+            <formats>
+              <format id="17">
+                <description>MP3 320</description>
+              </format>
             </formats>
-            <label id="541">
-               <name>Candlelight Records</name>
-            </label>
-            <licensor id="21">
-               <name>Orchard</name>
-            </licensor>
-            <streamingReleaseDate xsi:nil="true" />
-            <duration>0</duration>
-            <trackCount xsi:nil="true" />
-         </release>
-         <url>http://www.7digital.com/artist/opeth/release/the-candlelight-years/?partner=712&amp;h=07</url>
-         <price>
-            <currency code="GBP">£</currency>
-            <value>0.99</value>
-            <formattedPrice>£0.99</formattedPrice>
-            <rrp>0.99</rrp>
-            <formattedRrp>£0.99</formattedRrp>
-            <onSale>false</onSale>
-         </price>
-         <streamingReleaseDate>2014-06-28T00:00:00Z</streamingReleaseDate>
-         <discNumber>1</discNumber>
-         <popularity>0.33</popularity>
-         <number>7</number>
-         <download>
-            <packages>
-               <package id="2">
-                  <description>standard</description>
-                  <price>
-                     <currencyCode>GBP</currencyCode>
-                     <sevendigitalPrice>0.99</sevendigitalPrice>
-                     <recommendedRetailPrice>0.99</recommendedRetailPrice>
-                  </price>
-                  <formats>
-                     <format id="17">
-                        <description>MP3 320</description>
-                     </format>
-                  </formats>
-               </package>
-            </packages>
-         </download>
-      </track>
-      <track id="3105481">
-         <title>Harvest</title>
-         <version />
-         <artist id="8576">
-            <name>Opeth</name>
-            <appearsAs>Opeth</appearsAs>
-            <url>http://www.7digital.com/artist/opeth/?partner=712</url>
-         </artist>
-         <trackNumber>3</trackNumber>
-         <duration>361</duration>
-         <explicitContent>false</explicitContent>
-         <isrc>GBCKC0000155</isrc>
-         <type>audio</type>
-         <release id="278852">
-            <title>Blackwater Park</title>
-            <version />
-            <type>Album</type>
-            <barcode>828768291221</barcode>
-            <explicitContent>false</explicitContent>
-            <artist id="8576">
-               <name>Opeth</name>
-               <appearsAs>Opeth</appearsAs>
-               <url>http://www.7digital.com/artist/opeth/?partner=712</url>
-            </artist>
-            <url>http://www.7digital.com/artist/opeth/release/blackwater-park/?partner=712</url>
-            <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/002/788/0000278852_50.jpg</image>
-            <releaseDate>2006-06-03T00:00:00Z</releaseDate>
-            <formats availableDrmFree="true">
-               <format id="45">
-                  <fileFormat>FLAC</fileFormat>
-                  <bitRate>0</bitRate>
-                  <drmFree>true</drmFree>
-               </format>
+          </package>
+        </packages>
+      </download>
+    </track>
+    <track id="3105481">
+      <title>Harvest</title>
+      <version/>
+      <artist id="8576">
+        <name>Opeth</name>
+        <appearsAs>Opeth</appearsAs>
+        <url>http://www.7digital.com/artist/opeth/?partner=712</url>
+      </artist>
+      <trackNumber>3</trackNumber>
+      <duration>361</duration>
+      <explicitContent>false</explicitContent>
+      <isrc>GBCKC0000155</isrc>
+      <type>audio</type>
+      <release id="278852">
+        <title>Blackwater Park</title>
+        <version/>
+        <type>Album</type>
+        <barcode>828768291221</barcode>
+        <explicitContent>false</explicitContent>
+        <artist id="8576">
+          <name>Opeth</name>
+          <appearsAs>Opeth</appearsAs>
+          <url>http://www.7digital.com/artist/opeth/?partner=712</url>
+        </artist>
+        <url>http://www.7digital.com/artist/opeth/release/blackwater-park/?partner=712</url>
+        <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/002/788/0000278852_50.jpg</image>
+        <releaseDate>2006-06-03T00:00:00Z</releaseDate>
+        <formats availableDrmFree="true">
+          <format id="45">
+            <fileFormat>FLAC</fileFormat>
+            <bitRate>0</bitRate>
+            <drmFree>true</drmFree>
+          </format>
+        </formats>
+        <label id="1036">
+          <name>Sony BMG Music Entertainment</name>
+        </label>
+        <licensor id="2">
+          <name>Sony Music</name>
+        </licensor>
+        <streamingReleaseDate xsi:nil="true"/>
+        <duration>0</duration>
+        <trackCount xsi:nil="true"/>
+      </release>
+      <url>http://www.7digital.com/artist/opeth/release/blackwater-park/?partner=712&amp;h=03</url>
+      <price>
+        <currency code="GBP">£</currency>
+        <value>0.99</value>
+        <formattedPrice>£0.99</formattedPrice>
+        <rrp>0.99</rrp>
+        <formattedRrp>£0.99</formattedRrp>
+        <onSale>false</onSale>
+      </price>
+      <streamingReleaseDate>2006-06-03T00:00:00Z</streamingReleaseDate>
+      <discNumber>1</discNumber>
+      <popularity>0.33</popularity>
+      <number>3</number>
+      <download>
+        <packages>
+          <package id="2">
+            <description>standard</description>
+            <price>
+              <currencyCode>GBP</currencyCode>
+              <sevendigitalPrice>0.99</sevendigitalPrice>
+              <recommendedRetailPrice>0.99</recommendedRetailPrice>
+            </price>
+            <formats>
+              <format id="17">
+                <description>MP3 320</description>
+              </format>
+              <format id="33">
+                <description>AAC 320</description>
+              </format>
             </formats>
-            <label id="1036">
-               <name>Sony BMG Music Entertainment</name>
-            </label>
-            <licensor id="2">
-               <name>Sony Music</name>
-            </licensor>
-            <streamingReleaseDate xsi:nil="true" />
-            <duration>0</duration>
-            <trackCount xsi:nil="true" />
-         </release>
-         <url>http://www.7digital.com/artist/opeth/release/blackwater-park/?partner=712&amp;h=03</url>
-         <price>
-            <currency code="GBP">£</currency>
-            <value>0.99</value>
-            <formattedPrice>£0.99</formattedPrice>
-            <rrp>0.99</rrp>
-            <formattedRrp>£0.99</formattedRrp>
-            <onSale>false</onSale>
-         </price>
-         <streamingReleaseDate>2006-06-03T00:00:00Z</streamingReleaseDate>
-         <discNumber>1</discNumber>
-         <popularity>0.33</popularity>
-         <number>3</number>
-         <download>
-            <packages>
-               <package id="2">
-                  <description>standard</description>
-                  <price>
-                     <currencyCode>GBP</currencyCode>
-                     <sevendigitalPrice>0.99</sevendigitalPrice>
-                     <recommendedRetailPrice>0.99</recommendedRetailPrice>
-                  </price>
-                  <formats>
-                     <format id="17">
-                        <description>MP3 320</description>
-                     </format>
-                     <format id="33">
-                        <description>AAC 320</description>
-                     </format>
-                  </formats>
-               </package>
-               <package id="9">
-                  <description>premium</description>
-                  <price>
-                     <currencyCode>GBP</currencyCode>
-                     <sevendigitalPrice>1.69</sevendigitalPrice>
-                     <recommendedRetailPrice>1.69</recommendedRetailPrice>
-                  </price>
-                  <formats>
-                     <format id="45">
-                        <description>FLAC 16-bit 44.1kHz</description>
-                     </format>
-                  </formats>
-               </package>
-            </packages>
-         </download>
-      </track>
-      <track id="1400385">
-         <title>The Baying of the Hounds</title>
-         <version />
-         <artist id="8576">
-            <name>Opeth</name>
-            <appearsAs>Opeth</appearsAs>
-            <url>http://www.7digital.com/artist/opeth/?partner=712</url>
-         </artist>
-         <trackNumber>2</trackNumber>
-         <duration>641</duration>
-         <explicitContent>false</explicitContent>
-         <isrc>NLA320581222</isrc>
-         <type>audio</type>
-         <release id="135197">
-            <title>Ghost Reveries</title>
-            <version />
-            <type>Album</type>
-            <barcode>016861812300</barcode>
-            <explicitContent>false</explicitContent>
-            <artist id="8576">
-               <name>Opeth</name>
-               <appearsAs>Opeth</appearsAs>
-               <url>http://www.7digital.com/artist/opeth/?partner=712</url>
-            </artist>
-            <url>http://www.7digital.com/artist/opeth/release/ghost-reveries-1/?partner=712</url>
-            <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/001/351/0000135197_50.jpg</image>
-            <releaseDate>2008-06-01T00:00:00Z</releaseDate>
-            <formats availableDrmFree="true">
-               <format id="17">
-                  <fileFormat>MP3</fileFormat>
-                  <bitRate>320</bitRate>
-                  <drmFree>true</drmFree>
-               </format>
+          </package>
+          <package id="9">
+            <description>premium</description>
+            <price>
+              <currencyCode>GBP</currencyCode>
+              <sevendigitalPrice>1.69</sevendigitalPrice>
+              <recommendedRetailPrice>1.69</recommendedRetailPrice>
+            </price>
+            <formats>
+              <format id="45">
+                <description>FLAC 16-bit 44.1kHz</description>
+              </format>
             </formats>
-            <label id="973">
-               <name>Roadrunner Records</name>
-            </label>
-            <licensor id="18">
-               <name>Warner</name>
-            </licensor>
-            <streamingReleaseDate xsi:nil="true" />
-            <duration>0</duration>
-            <trackCount xsi:nil="true" />
-         </release>
-         <url>http://www.7digital.com/artist/opeth/release/ghost-reveries-1/?partner=712&amp;h=02</url>
-         <price>
-            <currency code="GBP">£</currency>
-            <value>0.99</value>
-            <formattedPrice>£0.99</formattedPrice>
-            <rrp>0.99</rrp>
-            <formattedRrp>£0.99</formattedRrp>
-            <onSale>false</onSale>
-         </price>
-         <streamingReleaseDate>2008-07-31T00:00:00Z</streamingReleaseDate>
-         <discNumber>1</discNumber>
-         <popularity>0.33</popularity>
-         <number>2</number>
-         <download>
-            <packages>
-               <package id="2">
-                  <description>standard</description>
-                  <price>
-                     <currencyCode>GBP</currencyCode>
-                     <sevendigitalPrice>0.99</sevendigitalPrice>
-                     <recommendedRetailPrice>0.99</recommendedRetailPrice>
-                  </price>
-                  <formats>
-                     <format id="17">
-                        <description>MP3 320</description>
-                     </format>
-                  </formats>
-               </package>
-            </packages>
-         </download>
-      </track>
-      <track id="3782430">
-         <title>Would?</title>
-         <version />
-         <artist id="8576">
-            <name>Opeth</name>
-            <appearsAs>Opeth</appearsAs>
-            <url>http://www.7digital.com/artist/opeth/?partner=712</url>
-         </artist>
-         <trackNumber>3</trackNumber>
-         <duration>224</duration>
-         <explicitContent>false</explicitContent>
-         <isrc>NLA320886540</isrc>
-         <type>audio</type>
-         <release id="338196">
-            <title>Burden</title>
-            <version />
-            <type>Single</type>
-            <barcode>016861113100</barcode>
-            <explicitContent>false</explicitContent>
-            <artist id="8576">
-               <name>Opeth</name>
-               <appearsAs>Opeth</appearsAs>
-               <url>http://www.7digital.com/artist/opeth/?partner=712</url>
-            </artist>
-            <url>http://www.7digital.com/artist/opeth/release/burden/?partner=712</url>
-            <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/003/381/0000338196_50.jpg</image>
-            <releaseDate>2008-11-24T00:00:00Z</releaseDate>
-            <formats availableDrmFree="true">
-               <format id="48">
-                  <fileFormat>MP3</fileFormat>
-                  <bitRate>256</bitRate>
-                  <drmFree>true</drmFree>
-               </format>
+          </package>
+        </packages>
+      </download>
+    </track>
+    <track id="1400385">
+      <title>The Baying of the Hounds</title>
+      <version/>
+      <artist id="8576">
+        <name>Opeth</name>
+        <appearsAs>Opeth</appearsAs>
+        <url>http://www.7digital.com/artist/opeth/?partner=712</url>
+      </artist>
+      <trackNumber>2</trackNumber>
+      <duration>641</duration>
+      <explicitContent>false</explicitContent>
+      <isrc>NLA320581222</isrc>
+      <type>audio</type>
+      <release id="135197">
+        <title>Ghost Reveries</title>
+        <version/>
+        <type>Album</type>
+        <barcode>016861812300</barcode>
+        <explicitContent>false</explicitContent>
+        <artist id="8576">
+          <name>Opeth</name>
+          <appearsAs>Opeth</appearsAs>
+          <url>http://www.7digital.com/artist/opeth/?partner=712</url>
+        </artist>
+        <url>http://www.7digital.com/artist/opeth/release/ghost-reveries-1/?partner=712</url>
+        <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/001/351/0000135197_50.jpg</image>
+        <releaseDate>2008-06-01T00:00:00Z</releaseDate>
+        <formats availableDrmFree="true">
+          <format id="17">
+            <fileFormat>MP3</fileFormat>
+            <bitRate>320</bitRate>
+            <drmFree>true</drmFree>
+          </format>
+        </formats>
+        <label id="973">
+          <name>Roadrunner Records</name>
+        </label>
+        <licensor id="18">
+          <name>Warner</name>
+        </licensor>
+        <streamingReleaseDate xsi:nil="true"/>
+        <duration>0</duration>
+        <trackCount xsi:nil="true"/>
+      </release>
+      <url>http://www.7digital.com/artist/opeth/release/ghost-reveries-1/?partner=712&amp;h=02</url>
+      <price>
+        <currency code="GBP">£</currency>
+        <value>0.99</value>
+        <formattedPrice>£0.99</formattedPrice>
+        <rrp>0.99</rrp>
+        <formattedRrp>£0.99</formattedRrp>
+        <onSale>false</onSale>
+      </price>
+      <streamingReleaseDate>2008-07-31T00:00:00Z</streamingReleaseDate>
+      <discNumber>1</discNumber>
+      <popularity>0.33</popularity>
+      <number>2</number>
+      <download>
+        <packages>
+          <package id="2">
+            <description>standard</description>
+            <price>
+              <currencyCode>GBP</currencyCode>
+              <sevendigitalPrice>0.99</sevendigitalPrice>
+              <recommendedRetailPrice>0.99</recommendedRetailPrice>
+            </price>
+            <formats>
+              <format id="17">
+                <description>MP3 320</description>
+              </format>
             </formats>
-            <label id="973">
-               <name>Roadrunner Records</name>
-            </label>
-            <licensor id="18">
-               <name>Warner</name>
-            </licensor>
-            <streamingReleaseDate xsi:nil="true" />
-            <duration>0</duration>
-            <trackCount xsi:nil="true" />
-         </release>
-         <url>http://www.7digital.com/artist/opeth/release/burden/?partner=712&amp;h=03</url>
-         <price>
-            <currency code="GBP">£</currency>
-            <value>0.99</value>
-            <formattedPrice>£0.99</formattedPrice>
-            <rrp>0.99</rrp>
-            <formattedRrp>£0.99</formattedRrp>
-            <onSale>false</onSale>
-         </price>
-         <streamingReleaseDate>2008-11-24T00:00:00Z</streamingReleaseDate>
-         <discNumber>1</discNumber>
-         <popularity>0.33</popularity>
-         <number>3</number>
-         <download>
-            <packages>
-               <package id="2">
-                  <description>standard</description>
-                  <price>
-                     <currencyCode>GBP</currencyCode>
-                     <sevendigitalPrice>0.99</sevendigitalPrice>
-                     <recommendedRetailPrice>0.99</recommendedRetailPrice>
-                  </price>
-                  <formats>
-                     <format id="48">
-                        <description>MP3 256</description>
-                     </format>
-                  </formats>
-               </package>
-            </packages>
-         </download>
-      </track>
-   </tracks>
+          </package>
+        </packages>
+      </download>
+    </track>
+    <track id="3782430">
+      <title>Would?</title>
+      <version/>
+      <artist id="8576">
+        <name>Opeth</name>
+        <appearsAs>Opeth</appearsAs>
+        <url>http://www.7digital.com/artist/opeth/?partner=712</url>
+      </artist>
+      <trackNumber>3</trackNumber>
+      <duration>224</duration>
+      <explicitContent>false</explicitContent>
+      <isrc>NLA320886540</isrc>
+      <type>audio</type>
+      <release id="338196">
+        <title>Burden</title>
+        <version/>
+        <type>Single</type>
+        <barcode>016861113100</barcode>
+        <explicitContent>false</explicitContent>
+        <artist id="8576">
+          <name>Opeth</name>
+          <appearsAs>Opeth</appearsAs>
+          <url>http://www.7digital.com/artist/opeth/?partner=712</url>
+        </artist>
+        <url>http://www.7digital.com/artist/opeth/release/burden/?partner=712</url>
+        <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/003/381/0000338196_50.jpg</image>
+        <releaseDate>2008-11-24T00:00:00Z</releaseDate>
+        <formats availableDrmFree="true">
+          <format id="48">
+            <fileFormat>MP3</fileFormat>
+            <bitRate>256</bitRate>
+            <drmFree>true</drmFree>
+          </format>
+        </formats>
+        <label id="973">
+          <name>Roadrunner Records</name>
+        </label>
+        <licensor id="18">
+          <name>Warner</name>
+        </licensor>
+        <streamingReleaseDate xsi:nil="true"/>
+        <duration>0</duration>
+        <trackCount xsi:nil="true"/>
+      </release>
+      <url>http://www.7digital.com/artist/opeth/release/burden/?partner=712&amp;h=03</url>
+      <price>
+        <currency code="GBP">£</currency>
+        <value>0.99</value>
+        <formattedPrice>£0.99</formattedPrice>
+        <rrp>0.99</rrp>
+        <formattedRrp>£0.99</formattedRrp>
+        <onSale>false</onSale>
+      </price>
+      <streamingReleaseDate>2008-11-24T00:00:00Z</streamingReleaseDate>
+      <discNumber>1</discNumber>
+      <popularity>0.33</popularity>
+      <number>3</number>
+      <download>
+        <packages>
+          <package id="2">
+            <description>standard</description>
+            <price>
+              <currencyCode>GBP</currencyCode>
+              <sevendigitalPrice>0.99</sevendigitalPrice>
+              <recommendedRetailPrice>0.99</recommendedRetailPrice>
+            </price>
+            <formats>
+              <format id="48">
+                <description>MP3 256</description>
+              </format>
+            </formats>
+          </package>
+        </packages>
+      </download>
+    </track>
+  </tracks>
 </response>

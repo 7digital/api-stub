@@ -1,531 +1,531 @@
 <?xml version="1.0" encoding="utf-8"?>
 <response xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" status="ok" version="1.2" xsi:noNamespaceSchemaLocation="http://api.7digital.com/1.2/static/7digitalAPI.xsd">
-	<locker>
-		<lockerReleases>
-			<page>1</page>
-			<pageSize>10</pageSize>
-			<totalItems>2</totalItems>
-			<lockerRelease>
-				<release id="2959123">
-					<title>New Pin</title>
-					<version/>
-					<type>Single</type>
-					<barcode>607618039462</barcode>
-					<artist id="19180">
-						<name>Oceansize</name>
-						<appearsAs>Oceansize</appearsAs>
-						<url>http://www.7digital.com/artist/oceansize</url>
-					</artist>
-					<url>http://www.7digital.com/artist/oceansize/release/new-pin-1</url>
-					<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/029/591/0002959123_50.jpg</image>
-					<releaseDate>2006-03-20T00:00:00Z</releaseDate>
-					<licensor id="39"/>
-				</release>
-				<lockerTracks>
-					<lockerTrack>
-						<track id="31536349">
-							<title>Superfluous To Requirements</title>
-							<version/>
-							<artist id="19180">
-								<name>Oceansize</name>
-								<appearsAs>Oceansize</appearsAs>
-								<url>http://www.7digital.com/artist/oceansize</url>
-							</artist>
-							<trackNumber>2</trackNumber>
-							<duration>352</duration>
-							<isrc>GBAZP0500062</isrc>
-							<url>http://www.7digital.com/artist/oceansize/release/new-pin-1?h=02&amp;d=1</url>
-						</track>
-						<remainingDownloads>5</remainingDownloads>
-						<purchaseId>814920242</purchaseId>
-						<purchaseDate>2014-11-03T14:20:37Z</purchaseDate>
-						<completeAlbumPurchase>false</completeAlbumPurchase>
-						<downloadUrls>
-							<downloadUrl>
-								<url>http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&amp;oauth_nonce=jabjxkymkqlib3nl&amp;oauth_signature=rylxSJHplfSROjdskx0%2FFrYkjDc%3D&amp;oauth_signature_method=HMAC-SHA1&amp;oauth_timestamp=1415101199&amp;oauth_version=1.0a&amp;formatid=17&amp;partnerid=3923&amp;onbehalfofpartnerid=3923&amp;presigned=1&amp;releaseid=2959123&amp;shopid=0&amp;trackid=31536349&amp;userid=125043073</url>
-								<format id="17">
-									<fileFormat>MP3</fileFormat>
-									<bitRate>320</bitRate>
-									<drmFree>true</drmFree>
-								</format>
-							</downloadUrl>
-							<downloadUrl>
-								<url>http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&amp;oauth_nonce=gumjd8b618r5tqm2&amp;oauth_signature=l238StpSba8i%2FmFP4YTKEpMzW6o%3D&amp;oauth_signature_method=HMAC-SHA1&amp;oauth_timestamp=1415101199&amp;oauth_version=1.0a&amp;formatid=33&amp;partnerid=3923&amp;onbehalfofpartnerid=3923&amp;presigned=1&amp;releaseid=2959123&amp;shopid=0&amp;trackid=31536349&amp;userid=125043073</url>
-								<format id="33">
-									<fileFormat>AAC</fileFormat>
-									<bitRate>320</bitRate>
-									<drmFree>true</drmFree>
-								</format>
-							</downloadUrl>
-						</downloadUrls>
-					</lockerTrack>
-				</lockerTracks>
-				<available>true</available>
-			</lockerRelease>
-			<lockerRelease>
-				<release id="3543780">
-					<title>Youth Culture Forever</title>
-					<version/>
-					<type>Album</type>
-					<barcode>0600116512956</barcode>
-					<artist id="1286310">
-						<name>PAWS</name>
-						<appearsAs>PAWS</appearsAs>
-						<url>http://www.7digital.com/artist/paws</url>
-					</artist>
-					<url>http://www.7digital.com/artist/paws/release/youth-culture-forever-1</url>
-					<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/035/437/0003543780_50.jpg</image>
-					<releaseDate>2014-06-01T00:00:00Z</releaseDate>
-					<licensor id="336"/>
-				</release>
-				<lockerTracks>
-					<lockerTrack>
-						<track id="37255973">
-							<title>Erreur Humaine</title>
-							<version/>
-							<artist id="1286355">
-								<name>PAWS</name>
-								<appearsAs>PAWS</appearsAs>
-								<url>http://www.7digital.com/artist/paws</url>
-							</artist>
-							<trackNumber>1</trackNumber>
-							<duration>199</duration>
-							<isrc>GBDCA1402544</isrc>
-							<url>http://www.7digital.com/artist/paws/release/youth-culture-forever-1?h=01&amp;d=1</url>
-						</track>
-						<remainingDownloads>5</remainingDownloads>
-						<purchaseId>814920242</purchaseId>
-						<purchaseDate>2014-11-03T14:20:37Z</purchaseDate>
-						<completeAlbumPurchase>true</completeAlbumPurchase>
-						<downloadUrls>
-							<downloadUrl>
-								<url>http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&amp;oauth_nonce=9jhrim6yui6f252k&amp;oauth_signature=VDV76Ra22NP6q3RuOO1wvmrTpzc%3D&amp;oauth_signature_method=HMAC-SHA1&amp;oauth_timestamp=1415101199&amp;oauth_version=1.0a&amp;formatid=17&amp;partnerid=3923&amp;onbehalfofpartnerid=3923&amp;presigned=1&amp;releaseid=3543780&amp;shopid=0&amp;trackid=37255973&amp;userid=125043073</url>
-								<format id="17">
-									<fileFormat>MP3</fileFormat>
-									<bitRate>320</bitRate>
-									<drmFree>true</drmFree>
-								</format>
-							</downloadUrl>
-							<downloadUrl>
-								<url>http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&amp;oauth_nonce=c4fussbm0gtz4445&amp;oauth_signature=IY%2BopXkKTdXtjPOkk%2BlU3FTh3Mk%3D&amp;oauth_signature_method=HMAC-SHA1&amp;oauth_timestamp=1415101199&amp;oauth_version=1.0a&amp;formatid=33&amp;partnerid=3923&amp;onbehalfofpartnerid=3923&amp;presigned=1&amp;releaseid=3543780&amp;shopid=0&amp;trackid=37255973&amp;userid=125043073</url>
-								<format id="33">
-									<fileFormat>AAC</fileFormat>
-									<bitRate>320</bitRate>
-									<drmFree>true</drmFree>
-								</format>
-							</downloadUrl>
-						</downloadUrls>
-					</lockerTrack>
-					<lockerTrack>
-						<track id="37255975">
-							<title>Tongues</title>
-							<version/>
-							<artist id="1286355">
-								<name>PAWS</name>
-								<appearsAs>PAWS</appearsAs>
-								<url>http://www.7digital.com/artist/paws</url>
-							</artist>
-							<trackNumber>2</trackNumber>
-							<duration>133</duration>
-							<isrc>GBDCA1402545</isrc>
-							<url>http://www.7digital.com/artist/paws/release/youth-culture-forever-1?h=02&amp;d=1</url>
-						</track>
-						<remainingDownloads>5</remainingDownloads>
-						<purchaseId>814920242</purchaseId>
-						<purchaseDate>2014-11-03T14:20:37Z</purchaseDate>
-						<completeAlbumPurchase>true</completeAlbumPurchase>
-						<downloadUrls>
-							<downloadUrl>
-								<url>http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&amp;oauth_nonce=etj3u6c4yyy5c6d6&amp;oauth_signature=BztLNZR1eoCp5JgEY%2FbUnsKlOJg%3D&amp;oauth_signature_method=HMAC-SHA1&amp;oauth_timestamp=1415101199&amp;oauth_version=1.0a&amp;formatid=17&amp;partnerid=3923&amp;onbehalfofpartnerid=3923&amp;presigned=1&amp;releaseid=3543780&amp;shopid=0&amp;trackid=37255975&amp;userid=125043073</url>
-								<format id="17">
-									<fileFormat>MP3</fileFormat>
-									<bitRate>320</bitRate>
-									<drmFree>true</drmFree>
-								</format>
-							</downloadUrl>
-							<downloadUrl>
-								<url>http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&amp;oauth_nonce=fg2zk2jqh5sc4f61&amp;oauth_signature=U7Zddx72NvuHAZBQ%2FMcYfS3O2B8%3D&amp;oauth_signature_method=HMAC-SHA1&amp;oauth_timestamp=1415101199&amp;oauth_version=1.0a&amp;formatid=33&amp;partnerid=3923&amp;onbehalfofpartnerid=3923&amp;presigned=1&amp;releaseid=3543780&amp;shopid=0&amp;trackid=37255975&amp;userid=125043073</url>
-								<format id="33">
-									<fileFormat>AAC</fileFormat>
-									<bitRate>320</bitRate>
-									<drmFree>true</drmFree>
-								</format>
-							</downloadUrl>
-						</downloadUrls>
-					</lockerTrack>
-					<lockerTrack>
-						<track id="37255977">
-							<title>Someone New</title>
-							<version/>
-							<artist id="1286355">
-								<name>PAWS</name>
-								<appearsAs>PAWS</appearsAs>
-								<url>http://www.7digital.com/artist/paws</url>
-							</artist>
-							<trackNumber>3</trackNumber>
-							<duration>143</duration>
-							<isrc>GBDCA1402546</isrc>
-							<url>http://www.7digital.com/artist/paws/release/youth-culture-forever-1?h=03&amp;d=1</url>
-						</track>
-						<remainingDownloads>5</remainingDownloads>
-						<purchaseId>814920242</purchaseId>
-						<purchaseDate>2014-11-03T14:20:37Z</purchaseDate>
-						<completeAlbumPurchase>true</completeAlbumPurchase>
-						<downloadUrls>
-							<downloadUrl>
-								<url>http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&amp;oauth_nonce=pbbhv0zh2l754gjd&amp;oauth_signature=A3FzLm0CQ%2F2CgiUjs2cZXEnsU2c%3D&amp;oauth_signature_method=HMAC-SHA1&amp;oauth_timestamp=1415101199&amp;oauth_version=1.0a&amp;formatid=17&amp;partnerid=3923&amp;onbehalfofpartnerid=3923&amp;presigned=1&amp;releaseid=3543780&amp;shopid=0&amp;trackid=37255977&amp;userid=125043073</url>
-								<format id="17">
-									<fileFormat>MP3</fileFormat>
-									<bitRate>320</bitRate>
-									<drmFree>true</drmFree>
-								</format>
-							</downloadUrl>
-							<downloadUrl>
-								<url>http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&amp;oauth_nonce=dyuwcdtnk4u1maat&amp;oauth_signature=7scswqKVpyLJMh2YOa6Rj8ElrpM%3D&amp;oauth_signature_method=HMAC-SHA1&amp;oauth_timestamp=1415101199&amp;oauth_version=1.0a&amp;formatid=33&amp;partnerid=3923&amp;onbehalfofpartnerid=3923&amp;presigned=1&amp;releaseid=3543780&amp;shopid=0&amp;trackid=37255977&amp;userid=125043073</url>
-								<format id="33">
-									<fileFormat>AAC</fileFormat>
-									<bitRate>320</bitRate>
-									<drmFree>true</drmFree>
-								</format>
-							</downloadUrl>
-						</downloadUrls>
-					</lockerTrack>
-					<lockerTrack>
-						<track id="37255979">
-							<title>Owls Talons Clenching My Heart</title>
-							<version/>
-							<artist id="1286355">
-								<name>PAWS</name>
-								<appearsAs>PAWS</appearsAs>
-								<url>http://www.7digital.com/artist/paws</url>
-							</artist>
-							<trackNumber>4</trackNumber>
-							<duration>212</duration>
-							<isrc>GBDCA1402547</isrc>
-							<url>http://www.7digital.com/artist/paws/release/youth-culture-forever-1?h=04&amp;d=1</url>
-						</track>
-						<remainingDownloads>5</remainingDownloads>
-						<purchaseId>814920242</purchaseId>
-						<purchaseDate>2014-11-03T14:20:37Z</purchaseDate>
-						<completeAlbumPurchase>true</completeAlbumPurchase>
-						<downloadUrls>
-							<downloadUrl>
-								<url>http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&amp;oauth_nonce=38pb56kfrt996pxa&amp;oauth_signature=VpC2Zi4BKpD0ob57IOigXYeM4A8%3D&amp;oauth_signature_method=HMAC-SHA1&amp;oauth_timestamp=1415101199&amp;oauth_version=1.0a&amp;formatid=17&amp;partnerid=3923&amp;onbehalfofpartnerid=3923&amp;presigned=1&amp;releaseid=3543780&amp;shopid=0&amp;trackid=37255979&amp;userid=125043073</url>
-								<format id="17">
-									<fileFormat>MP3</fileFormat>
-									<bitRate>320</bitRate>
-									<drmFree>true</drmFree>
-								</format>
-							</downloadUrl>
-							<downloadUrl>
-								<url>http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&amp;oauth_nonce=vp0evjymrx82p062&amp;oauth_signature=gHbn3jPaJDKgZjmP32NcIUlexrs%3D&amp;oauth_signature_method=HMAC-SHA1&amp;oauth_timestamp=1415101199&amp;oauth_version=1.0a&amp;formatid=33&amp;partnerid=3923&amp;onbehalfofpartnerid=3923&amp;presigned=1&amp;releaseid=3543780&amp;shopid=0&amp;trackid=37255979&amp;userid=125043073</url>
-								<format id="33">
-									<fileFormat>AAC</fileFormat>
-									<bitRate>320</bitRate>
-									<drmFree>true</drmFree>
-								</format>
-							</downloadUrl>
-						</downloadUrls>
-					</lockerTrack>
-					<lockerTrack>
-						<track id="37255980">
-							<title>Give Up</title>
-							<version/>
-							<artist id="1286355">
-								<name>PAWS</name>
-								<appearsAs>PAWS</appearsAs>
-								<url>http://www.7digital.com/artist/paws</url>
-							</artist>
-							<trackNumber>5</trackNumber>
-							<duration>141</duration>
-							<isrc>GBDCA1402548</isrc>
-							<url>http://www.7digital.com/artist/paws/release/youth-culture-forever-1?h=05&amp;d=1</url>
-						</track>
-						<remainingDownloads>5</remainingDownloads>
-						<purchaseId>814920242</purchaseId>
-						<purchaseDate>2014-11-03T14:20:37Z</purchaseDate>
-						<completeAlbumPurchase>true</completeAlbumPurchase>
-						<downloadUrls>
-							<downloadUrl>
-								<url>http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&amp;oauth_nonce=lmb72iihoofsfus5&amp;oauth_signature=saLeYN3yI43t7NkmZoekEwg1z4Q%3D&amp;oauth_signature_method=HMAC-SHA1&amp;oauth_timestamp=1415101199&amp;oauth_version=1.0a&amp;formatid=17&amp;partnerid=3923&amp;onbehalfofpartnerid=3923&amp;presigned=1&amp;releaseid=3543780&amp;shopid=0&amp;trackid=37255980&amp;userid=125043073</url>
-								<format id="17">
-									<fileFormat>MP3</fileFormat>
-									<bitRate>320</bitRate>
-									<drmFree>true</drmFree>
-								</format>
-							</downloadUrl>
-							<downloadUrl>
-								<url>http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&amp;oauth_nonce=fue8b78tidth8s1r&amp;oauth_signature=P2HoGiNqQemiuxgSVUnah113kxQ%3D&amp;oauth_signature_method=HMAC-SHA1&amp;oauth_timestamp=1415101199&amp;oauth_version=1.0a&amp;formatid=33&amp;partnerid=3923&amp;onbehalfofpartnerid=3923&amp;presigned=1&amp;releaseid=3543780&amp;shopid=0&amp;trackid=37255980&amp;userid=125043073</url>
-								<format id="33">
-									<fileFormat>AAC</fileFormat>
-									<bitRate>320</bitRate>
-									<drmFree>true</drmFree>
-								</format>
-							</downloadUrl>
-						</downloadUrls>
-					</lockerTrack>
-					<lockerTrack>
-						<track id="37255982">
-							<title>Alone</title>
-							<version/>
-							<artist id="1286355">
-								<name>PAWS</name>
-								<appearsAs>PAWS</appearsAs>
-								<url>http://www.7digital.com/artist/paws</url>
-							</artist>
-							<trackNumber>6</trackNumber>
-							<duration>235</duration>
-							<isrc>GBDCA1402549</isrc>
-							<url>http://www.7digital.com/artist/paws/release/youth-culture-forever-1?h=06&amp;d=1</url>
-						</track>
-						<remainingDownloads>5</remainingDownloads>
-						<purchaseId>814920242</purchaseId>
-						<purchaseDate>2014-11-03T14:20:37Z</purchaseDate>
-						<completeAlbumPurchase>true</completeAlbumPurchase>
-						<downloadUrls>
-							<downloadUrl>
-								<url>http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&amp;oauth_nonce=yhxso2img21hdgg7&amp;oauth_signature=1%2FvQdAzFAWXU%2F9CgrfcVFBO%2BNWU%3D&amp;oauth_signature_method=HMAC-SHA1&amp;oauth_timestamp=1415101199&amp;oauth_version=1.0a&amp;formatid=17&amp;partnerid=3923&amp;onbehalfofpartnerid=3923&amp;presigned=1&amp;releaseid=3543780&amp;shopid=0&amp;trackid=37255982&amp;userid=125043073</url>
-								<format id="17">
-									<fileFormat>MP3</fileFormat>
-									<bitRate>320</bitRate>
-									<drmFree>true</drmFree>
-								</format>
-							</downloadUrl>
-							<downloadUrl>
-								<url>http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&amp;oauth_nonce=fdw659zoprxyybj6&amp;oauth_signature=wYFYi7%2BWG7LS2dS7%2FH540zIGQuc%3D&amp;oauth_signature_method=HMAC-SHA1&amp;oauth_timestamp=1415101199&amp;oauth_version=1.0a&amp;formatid=33&amp;partnerid=3923&amp;onbehalfofpartnerid=3923&amp;presigned=1&amp;releaseid=3543780&amp;shopid=0&amp;trackid=37255982&amp;userid=125043073</url>
-								<format id="33">
-									<fileFormat>AAC</fileFormat>
-									<bitRate>320</bitRate>
-									<drmFree>true</drmFree>
-								</format>
-							</downloadUrl>
-						</downloadUrls>
-					</lockerTrack>
-					<lockerTrack>
-						<track id="37255984">
-							<title>An Honest Romance</title>
-							<version/>
-							<artist id="1286355">
-								<name>PAWS</name>
-								<appearsAs>PAWS</appearsAs>
-								<url>http://www.7digital.com/artist/paws</url>
-							</artist>
-							<trackNumber>7</trackNumber>
-							<duration>167</duration>
-							<isrc>GBDCA1402550</isrc>
-							<url>http://www.7digital.com/artist/paws/release/youth-culture-forever-1?h=07&amp;d=1</url>
-						</track>
-						<remainingDownloads>5</remainingDownloads>
-						<purchaseId>814920242</purchaseId>
-						<purchaseDate>2014-11-03T14:20:37Z</purchaseDate>
-						<completeAlbumPurchase>true</completeAlbumPurchase>
-						<downloadUrls>
-							<downloadUrl>
-								<url>http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&amp;oauth_nonce=xx498aqol31jf1pc&amp;oauth_signature=JKazyvP4Kre2sxAjgPrmR8yvv9w%3D&amp;oauth_signature_method=HMAC-SHA1&amp;oauth_timestamp=1415101199&amp;oauth_version=1.0a&amp;formatid=17&amp;partnerid=3923&amp;onbehalfofpartnerid=3923&amp;presigned=1&amp;releaseid=3543780&amp;shopid=0&amp;trackid=37255984&amp;userid=125043073</url>
-								<format id="17">
-									<fileFormat>MP3</fileFormat>
-									<bitRate>320</bitRate>
-									<drmFree>true</drmFree>
-								</format>
-							</downloadUrl>
-							<downloadUrl>
-								<url>http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&amp;oauth_nonce=7wc576w1rid7euxf&amp;oauth_signature=14OAP2VGWQrROgBgaZDjslJ%2BOOg%3D&amp;oauth_signature_method=HMAC-SHA1&amp;oauth_timestamp=1415101199&amp;oauth_version=1.0a&amp;formatid=33&amp;partnerid=3923&amp;onbehalfofpartnerid=3923&amp;presigned=1&amp;releaseid=3543780&amp;shopid=0&amp;trackid=37255984&amp;userid=125043073</url>
-								<format id="33">
-									<fileFormat>AAC</fileFormat>
-									<bitRate>320</bitRate>
-									<drmFree>true</drmFree>
-								</format>
-							</downloadUrl>
-						</downloadUrls>
-					</lockerTrack>
-					<lockerTrack>
-						<track id="37255986">
-							<title>Narcissist</title>
-							<version/>
-							<artist id="1286355">
-								<name>PAWS</name>
-								<appearsAs>PAWS</appearsAs>
-								<url>http://www.7digital.com/artist/paws</url>
-							</artist>
-							<trackNumber>8</trackNumber>
-							<duration>115</duration>
-							<isrc>GBDCA1402551</isrc>
-							<url>http://www.7digital.com/artist/paws/release/youth-culture-forever-1?h=08&amp;d=1</url>
-						</track>
-						<remainingDownloads>5</remainingDownloads>
-						<purchaseId>814920242</purchaseId>
-						<purchaseDate>2014-11-03T14:20:37Z</purchaseDate>
-						<completeAlbumPurchase>true</completeAlbumPurchase>
-						<downloadUrls>
-							<downloadUrl>
-								<url>http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&amp;oauth_nonce=r5tpmi0ewhuchqjy&amp;oauth_signature=wGHlcZxzSu6kfnZCcXMjNSZ00KE%3D&amp;oauth_signature_method=HMAC-SHA1&amp;oauth_timestamp=1415101199&amp;oauth_version=1.0a&amp;formatid=17&amp;partnerid=3923&amp;onbehalfofpartnerid=3923&amp;presigned=1&amp;releaseid=3543780&amp;shopid=0&amp;trackid=37255986&amp;userid=125043073</url>
-								<format id="17">
-									<fileFormat>MP3</fileFormat>
-									<bitRate>320</bitRate>
-									<drmFree>true</drmFree>
-								</format>
-							</downloadUrl>
-							<downloadUrl>
-								<url>http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&amp;oauth_nonce=cu3c9p03bdqy8uk1&amp;oauth_signature=RlwLh8cfCyrkfwBXG%2FllMGpMKhs%3D&amp;oauth_signature_method=HMAC-SHA1&amp;oauth_timestamp=1415101199&amp;oauth_version=1.0a&amp;formatid=33&amp;partnerid=3923&amp;onbehalfofpartnerid=3923&amp;presigned=1&amp;releaseid=3543780&amp;shopid=0&amp;trackid=37255986&amp;userid=125043073</url>
-								<format id="33">
-									<fileFormat>AAC</fileFormat>
-									<bitRate>320</bitRate>
-									<drmFree>true</drmFree>
-								</format>
-							</downloadUrl>
-						</downloadUrls>
-					</lockerTrack>
-					<lockerTrack>
-						<track id="37255987">
-							<title>Let's All Let Go</title>
-							<version/>
-							<artist id="1286355">
-								<name>PAWS</name>
-								<appearsAs>PAWS</appearsAs>
-								<url>http://www.7digital.com/artist/paws</url>
-							</artist>
-							<trackNumber>9</trackNumber>
-							<duration>163</duration>
-							<isrc>GBDCA1402552</isrc>
-							<url>http://www.7digital.com/artist/paws/release/youth-culture-forever-1?h=09&amp;d=1</url>
-						</track>
-						<remainingDownloads>5</remainingDownloads>
-						<purchaseId>814920242</purchaseId>
-						<purchaseDate>2014-11-03T14:20:37Z</purchaseDate>
-						<completeAlbumPurchase>true</completeAlbumPurchase>
-						<downloadUrls>
-							<downloadUrl>
-								<url>http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&amp;oauth_nonce=eu2kg01xw8hyltsa&amp;oauth_signature=aSgt3nSikZIyEhmLnBD%2FfP06FpA%3D&amp;oauth_signature_method=HMAC-SHA1&amp;oauth_timestamp=1415101199&amp;oauth_version=1.0a&amp;formatid=17&amp;partnerid=3923&amp;onbehalfofpartnerid=3923&amp;presigned=1&amp;releaseid=3543780&amp;shopid=0&amp;trackid=37255987&amp;userid=125043073</url>
-								<format id="17">
-									<fileFormat>MP3</fileFormat>
-									<bitRate>320</bitRate>
-									<drmFree>true</drmFree>
-								</format>
-							</downloadUrl>
-							<downloadUrl>
-								<url>http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&amp;oauth_nonce=0o4t3vgc62oi2lhc&amp;oauth_signature=PHGswy7D93HYSp0SCKttzt6Idtc%3D&amp;oauth_signature_method=HMAC-SHA1&amp;oauth_timestamp=1415101199&amp;oauth_version=1.0a&amp;formatid=33&amp;partnerid=3923&amp;onbehalfofpartnerid=3923&amp;presigned=1&amp;releaseid=3543780&amp;shopid=0&amp;trackid=37255987&amp;userid=125043073</url>
-								<format id="33">
-									<fileFormat>AAC</fileFormat>
-									<bitRate>320</bitRate>
-									<drmFree>true</drmFree>
-								</format>
-							</downloadUrl>
-						</downloadUrls>
-					</lockerTrack>
-					<lockerTrack>
-						<track id="37255989">
-							<title>Great Bear</title>
-							<version/>
-							<artist id="1286355">
-								<name>PAWS</name>
-								<appearsAs>PAWS</appearsAs>
-								<url>http://www.7digital.com/artist/paws</url>
-							</artist>
-							<trackNumber>10</trackNumber>
-							<duration>118</duration>
-							<isrc>GBDCA1402553</isrc>
-							<url>http://www.7digital.com/artist/paws/release/youth-culture-forever-1?h=10&amp;d=1</url>
-						</track>
-						<remainingDownloads>5</remainingDownloads>
-						<purchaseId>814920242</purchaseId>
-						<purchaseDate>2014-11-03T14:20:37Z</purchaseDate>
-						<completeAlbumPurchase>true</completeAlbumPurchase>
-						<downloadUrls>
-							<downloadUrl>
-								<url>http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&amp;oauth_nonce=849xy0sc4epbhlrr&amp;oauth_signature=XZuek0MlZx6bG9zcnaSGy4LTfMI%3D&amp;oauth_signature_method=HMAC-SHA1&amp;oauth_timestamp=1415101199&amp;oauth_version=1.0a&amp;formatid=17&amp;partnerid=3923&amp;onbehalfofpartnerid=3923&amp;presigned=1&amp;releaseid=3543780&amp;shopid=0&amp;trackid=37255989&amp;userid=125043073</url>
-								<format id="17">
-									<fileFormat>MP3</fileFormat>
-									<bitRate>320</bitRate>
-									<drmFree>true</drmFree>
-								</format>
-							</downloadUrl>
-							<downloadUrl>
-								<url>http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&amp;oauth_nonce=vqzs119snyppvr6l&amp;oauth_signature=X9%2BbhBPZcDBK4VKtNK8K8R2B0YU%3D&amp;oauth_signature_method=HMAC-SHA1&amp;oauth_timestamp=1415101199&amp;oauth_version=1.0a&amp;formatid=33&amp;partnerid=3923&amp;onbehalfofpartnerid=3923&amp;presigned=1&amp;releaseid=3543780&amp;shopid=0&amp;trackid=37255989&amp;userid=125043073</url>
-								<format id="33">
-									<fileFormat>AAC</fileFormat>
-									<bitRate>320</bitRate>
-									<drmFree>true</drmFree>
-								</format>
-							</downloadUrl>
-						</downloadUrls>
-					</lockerTrack>
-					<lockerTrack>
-						<track id="37255991">
-							<title>YCF</title>
-							<version/>
-							<artist id="1286355">
-								<name>PAWS</name>
-								<appearsAs>PAWS</appearsAs>
-								<url>http://www.7digital.com/artist/paws</url>
-							</artist>
-							<trackNumber>11</trackNumber>
-							<duration>171</duration>
-							<isrc>GBDCA1402554</isrc>
-							<url>http://www.7digital.com/artist/paws/release/youth-culture-forever-1?h=11&amp;d=1</url>
-						</track>
-						<remainingDownloads>5</remainingDownloads>
-						<purchaseId>814920242</purchaseId>
-						<purchaseDate>2014-11-03T14:20:37Z</purchaseDate>
-						<completeAlbumPurchase>true</completeAlbumPurchase>
-						<downloadUrls>
-							<downloadUrl>
-								<url>http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&amp;oauth_nonce=zf2sv6m072zxff6u&amp;oauth_signature=C2YqA4ZEe%2F%2B522GYzeOfG8nyWig%3D&amp;oauth_signature_method=HMAC-SHA1&amp;oauth_timestamp=1415101199&amp;oauth_version=1.0a&amp;formatid=17&amp;partnerid=3923&amp;onbehalfofpartnerid=3923&amp;presigned=1&amp;releaseid=3543780&amp;shopid=0&amp;trackid=37255991&amp;userid=125043073</url>
-								<format id="17">
-									<fileFormat>MP3</fileFormat>
-									<bitRate>320</bitRate>
-									<drmFree>true</drmFree>
-								</format>
-							</downloadUrl>
-							<downloadUrl>
-								<url>http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&amp;oauth_nonce=j8xlwylg5pj0tcrl&amp;oauth_signature=ihG7e1bR6Z%2FOfR%2FM5HpRirm39ew%3D&amp;oauth_signature_method=HMAC-SHA1&amp;oauth_timestamp=1415101199&amp;oauth_version=1.0a&amp;formatid=33&amp;partnerid=3923&amp;onbehalfofpartnerid=3923&amp;presigned=1&amp;releaseid=3543780&amp;shopid=0&amp;trackid=37255991&amp;userid=125043073</url>
-								<format id="33">
-									<fileFormat>AAC</fileFormat>
-									<bitRate>320</bitRate>
-									<drmFree>true</drmFree>
-								</format>
-							</downloadUrl>
-						</downloadUrls>
-					</lockerTrack>
-					<lockerTrack>
-						<track id="37255993">
-							<title>War Cry</title>
-							<version/>
-							<artist id="1286355">
-								<name>PAWS</name>
-								<appearsAs>PAWS</appearsAs>
-								<url>http://www.7digital.com/artist/paws</url>
-							</artist>
-							<trackNumber>12</trackNumber>
-							<duration>703</duration>
-							<isrc>GBDCA1402555</isrc>
-							<url>http://www.7digital.com/artist/paws/release/youth-culture-forever-1?h=12&amp;d=1</url>
-						</track>
-						<remainingDownloads>5</remainingDownloads>
-						<purchaseId>814920242</purchaseId>
-						<purchaseDate>2014-11-03T14:20:37Z</purchaseDate>
-						<completeAlbumPurchase>true</completeAlbumPurchase>
-						<downloadUrls>
-							<downloadUrl>
-								<url>http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&amp;oauth_nonce=ielbt07zezw0almi&amp;oauth_signature=N9lqLY2XPCTRXhdI27jevpP0ryg%3D&amp;oauth_signature_method=HMAC-SHA1&amp;oauth_timestamp=1415101199&amp;oauth_version=1.0a&amp;formatid=17&amp;partnerid=3923&amp;onbehalfofpartnerid=3923&amp;presigned=1&amp;releaseid=3543780&amp;shopid=0&amp;trackid=37255993&amp;userid=125043073</url>
-								<format id="17">
-									<fileFormat>MP3</fileFormat>
-									<bitRate>320</bitRate>
-									<drmFree>true</drmFree>
-								</format>
-							</downloadUrl>
-							<downloadUrl>
-								<url>http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&amp;oauth_nonce=46fy5tzb5vxfvmq4&amp;oauth_signature=CMvMPuD6sUCHaW0Bgb3lukGDgTE%3D&amp;oauth_signature_method=HMAC-SHA1&amp;oauth_timestamp=1415101199&amp;oauth_version=1.0a&amp;formatid=33&amp;partnerid=3923&amp;onbehalfofpartnerid=3923&amp;presigned=1&amp;releaseid=3543780&amp;shopid=0&amp;trackid=37255993&amp;userid=125043073</url>
-								<format id="33">
-									<fileFormat>AAC</fileFormat>
-									<bitRate>320</bitRate>
-									<drmFree>true</drmFree>
-								</format>
-							</downloadUrl>
-						</downloadUrls>
-					</lockerTrack>
-				</lockerTracks>
-				<available>true</available>
-			</lockerRelease>
-		</lockerReleases>
-	</locker>
+  <locker>
+    <lockerReleases>
+      <page>1</page>
+      <pageSize>10</pageSize>
+      <totalItems>2</totalItems>
+      <lockerRelease>
+        <release id="2959123">
+          <title>New Pin</title>
+          <version/>
+          <type>Single</type>
+          <barcode>607618039462</barcode>
+          <artist id="19180">
+            <name>Oceansize</name>
+            <appearsAs>Oceansize</appearsAs>
+            <url>http://www.7digital.com/artist/oceansize</url>
+          </artist>
+          <url>http://www.7digital.com/artist/oceansize/release/new-pin-1</url>
+          <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/029/591/0002959123_50.jpg</image>
+          <releaseDate>2006-03-20T00:00:00Z</releaseDate>
+          <licensor id="39"/>
+        </release>
+        <lockerTracks>
+          <lockerTrack>
+            <track id="31536349">
+              <title>Superfluous To Requirements</title>
+              <version/>
+              <artist id="19180">
+                <name>Oceansize</name>
+                <appearsAs>Oceansize</appearsAs>
+                <url>http://www.7digital.com/artist/oceansize</url>
+              </artist>
+              <trackNumber>2</trackNumber>
+              <duration>352</duration>
+              <isrc>GBAZP0500062</isrc>
+              <url>http://www.7digital.com/artist/oceansize/release/new-pin-1?h=02&amp;d=1</url>
+            </track>
+            <remainingDownloads>5</remainingDownloads>
+            <purchaseId>814920242</purchaseId>
+            <purchaseDate>2014-11-03T14:20:37Z</purchaseDate>
+            <completeAlbumPurchase>false</completeAlbumPurchase>
+            <downloadUrls>
+              <downloadUrl>
+                <url>http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&amp;oauth_nonce=jabjxkymkqlib3nl&amp;oauth_signature=rylxSJHplfSROjdskx0%2FFrYkjDc%3D&amp;oauth_signature_method=HMAC-SHA1&amp;oauth_timestamp=1415101199&amp;oauth_version=1.0a&amp;formatid=17&amp;partnerid=3923&amp;onbehalfofpartnerid=3923&amp;presigned=1&amp;releaseid=2959123&amp;shopid=0&amp;trackid=31536349&amp;userid=125043073</url>
+                <format id="17">
+                  <fileFormat>MP3</fileFormat>
+                  <bitRate>320</bitRate>
+                  <drmFree>true</drmFree>
+                </format>
+              </downloadUrl>
+              <downloadUrl>
+                <url>http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&amp;oauth_nonce=gumjd8b618r5tqm2&amp;oauth_signature=l238StpSba8i%2FmFP4YTKEpMzW6o%3D&amp;oauth_signature_method=HMAC-SHA1&amp;oauth_timestamp=1415101199&amp;oauth_version=1.0a&amp;formatid=33&amp;partnerid=3923&amp;onbehalfofpartnerid=3923&amp;presigned=1&amp;releaseid=2959123&amp;shopid=0&amp;trackid=31536349&amp;userid=125043073</url>
+                <format id="33">
+                  <fileFormat>AAC</fileFormat>
+                  <bitRate>320</bitRate>
+                  <drmFree>true</drmFree>
+                </format>
+              </downloadUrl>
+            </downloadUrls>
+          </lockerTrack>
+        </lockerTracks>
+        <available>true</available>
+      </lockerRelease>
+      <lockerRelease>
+        <release id="3543780">
+          <title>Youth Culture Forever</title>
+          <version/>
+          <type>Album</type>
+          <barcode>0600116512956</barcode>
+          <artist id="1286310">
+            <name>PAWS</name>
+            <appearsAs>PAWS</appearsAs>
+            <url>http://www.7digital.com/artist/paws</url>
+          </artist>
+          <url>http://www.7digital.com/artist/paws/release/youth-culture-forever-1</url>
+          <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/035/437/0003543780_50.jpg</image>
+          <releaseDate>2014-06-01T00:00:00Z</releaseDate>
+          <licensor id="336"/>
+        </release>
+        <lockerTracks>
+          <lockerTrack>
+            <track id="37255973">
+              <title>Erreur Humaine</title>
+              <version/>
+              <artist id="1286355">
+                <name>PAWS</name>
+                <appearsAs>PAWS</appearsAs>
+                <url>http://www.7digital.com/artist/paws</url>
+              </artist>
+              <trackNumber>1</trackNumber>
+              <duration>199</duration>
+              <isrc>GBDCA1402544</isrc>
+              <url>http://www.7digital.com/artist/paws/release/youth-culture-forever-1?h=01&amp;d=1</url>
+            </track>
+            <remainingDownloads>5</remainingDownloads>
+            <purchaseId>814920242</purchaseId>
+            <purchaseDate>2014-11-03T14:20:37Z</purchaseDate>
+            <completeAlbumPurchase>true</completeAlbumPurchase>
+            <downloadUrls>
+              <downloadUrl>
+                <url>http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&amp;oauth_nonce=9jhrim6yui6f252k&amp;oauth_signature=VDV76Ra22NP6q3RuOO1wvmrTpzc%3D&amp;oauth_signature_method=HMAC-SHA1&amp;oauth_timestamp=1415101199&amp;oauth_version=1.0a&amp;formatid=17&amp;partnerid=3923&amp;onbehalfofpartnerid=3923&amp;presigned=1&amp;releaseid=3543780&amp;shopid=0&amp;trackid=37255973&amp;userid=125043073</url>
+                <format id="17">
+                  <fileFormat>MP3</fileFormat>
+                  <bitRate>320</bitRate>
+                  <drmFree>true</drmFree>
+                </format>
+              </downloadUrl>
+              <downloadUrl>
+                <url>http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&amp;oauth_nonce=c4fussbm0gtz4445&amp;oauth_signature=IY%2BopXkKTdXtjPOkk%2BlU3FTh3Mk%3D&amp;oauth_signature_method=HMAC-SHA1&amp;oauth_timestamp=1415101199&amp;oauth_version=1.0a&amp;formatid=33&amp;partnerid=3923&amp;onbehalfofpartnerid=3923&amp;presigned=1&amp;releaseid=3543780&amp;shopid=0&amp;trackid=37255973&amp;userid=125043073</url>
+                <format id="33">
+                  <fileFormat>AAC</fileFormat>
+                  <bitRate>320</bitRate>
+                  <drmFree>true</drmFree>
+                </format>
+              </downloadUrl>
+            </downloadUrls>
+          </lockerTrack>
+          <lockerTrack>
+            <track id="37255975">
+              <title>Tongues</title>
+              <version/>
+              <artist id="1286355">
+                <name>PAWS</name>
+                <appearsAs>PAWS</appearsAs>
+                <url>http://www.7digital.com/artist/paws</url>
+              </artist>
+              <trackNumber>2</trackNumber>
+              <duration>133</duration>
+              <isrc>GBDCA1402545</isrc>
+              <url>http://www.7digital.com/artist/paws/release/youth-culture-forever-1?h=02&amp;d=1</url>
+            </track>
+            <remainingDownloads>5</remainingDownloads>
+            <purchaseId>814920242</purchaseId>
+            <purchaseDate>2014-11-03T14:20:37Z</purchaseDate>
+            <completeAlbumPurchase>true</completeAlbumPurchase>
+            <downloadUrls>
+              <downloadUrl>
+                <url>http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&amp;oauth_nonce=etj3u6c4yyy5c6d6&amp;oauth_signature=BztLNZR1eoCp5JgEY%2FbUnsKlOJg%3D&amp;oauth_signature_method=HMAC-SHA1&amp;oauth_timestamp=1415101199&amp;oauth_version=1.0a&amp;formatid=17&amp;partnerid=3923&amp;onbehalfofpartnerid=3923&amp;presigned=1&amp;releaseid=3543780&amp;shopid=0&amp;trackid=37255975&amp;userid=125043073</url>
+                <format id="17">
+                  <fileFormat>MP3</fileFormat>
+                  <bitRate>320</bitRate>
+                  <drmFree>true</drmFree>
+                </format>
+              </downloadUrl>
+              <downloadUrl>
+                <url>http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&amp;oauth_nonce=fg2zk2jqh5sc4f61&amp;oauth_signature=U7Zddx72NvuHAZBQ%2FMcYfS3O2B8%3D&amp;oauth_signature_method=HMAC-SHA1&amp;oauth_timestamp=1415101199&amp;oauth_version=1.0a&amp;formatid=33&amp;partnerid=3923&amp;onbehalfofpartnerid=3923&amp;presigned=1&amp;releaseid=3543780&amp;shopid=0&amp;trackid=37255975&amp;userid=125043073</url>
+                <format id="33">
+                  <fileFormat>AAC</fileFormat>
+                  <bitRate>320</bitRate>
+                  <drmFree>true</drmFree>
+                </format>
+              </downloadUrl>
+            </downloadUrls>
+          </lockerTrack>
+          <lockerTrack>
+            <track id="37255977">
+              <title>Someone New</title>
+              <version/>
+              <artist id="1286355">
+                <name>PAWS</name>
+                <appearsAs>PAWS</appearsAs>
+                <url>http://www.7digital.com/artist/paws</url>
+              </artist>
+              <trackNumber>3</trackNumber>
+              <duration>143</duration>
+              <isrc>GBDCA1402546</isrc>
+              <url>http://www.7digital.com/artist/paws/release/youth-culture-forever-1?h=03&amp;d=1</url>
+            </track>
+            <remainingDownloads>5</remainingDownloads>
+            <purchaseId>814920242</purchaseId>
+            <purchaseDate>2014-11-03T14:20:37Z</purchaseDate>
+            <completeAlbumPurchase>true</completeAlbumPurchase>
+            <downloadUrls>
+              <downloadUrl>
+                <url>http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&amp;oauth_nonce=pbbhv0zh2l754gjd&amp;oauth_signature=A3FzLm0CQ%2F2CgiUjs2cZXEnsU2c%3D&amp;oauth_signature_method=HMAC-SHA1&amp;oauth_timestamp=1415101199&amp;oauth_version=1.0a&amp;formatid=17&amp;partnerid=3923&amp;onbehalfofpartnerid=3923&amp;presigned=1&amp;releaseid=3543780&amp;shopid=0&amp;trackid=37255977&amp;userid=125043073</url>
+                <format id="17">
+                  <fileFormat>MP3</fileFormat>
+                  <bitRate>320</bitRate>
+                  <drmFree>true</drmFree>
+                </format>
+              </downloadUrl>
+              <downloadUrl>
+                <url>http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&amp;oauth_nonce=dyuwcdtnk4u1maat&amp;oauth_signature=7scswqKVpyLJMh2YOa6Rj8ElrpM%3D&amp;oauth_signature_method=HMAC-SHA1&amp;oauth_timestamp=1415101199&amp;oauth_version=1.0a&amp;formatid=33&amp;partnerid=3923&amp;onbehalfofpartnerid=3923&amp;presigned=1&amp;releaseid=3543780&amp;shopid=0&amp;trackid=37255977&amp;userid=125043073</url>
+                <format id="33">
+                  <fileFormat>AAC</fileFormat>
+                  <bitRate>320</bitRate>
+                  <drmFree>true</drmFree>
+                </format>
+              </downloadUrl>
+            </downloadUrls>
+          </lockerTrack>
+          <lockerTrack>
+            <track id="37255979">
+              <title>Owls Talons Clenching My Heart</title>
+              <version/>
+              <artist id="1286355">
+                <name>PAWS</name>
+                <appearsAs>PAWS</appearsAs>
+                <url>http://www.7digital.com/artist/paws</url>
+              </artist>
+              <trackNumber>4</trackNumber>
+              <duration>212</duration>
+              <isrc>GBDCA1402547</isrc>
+              <url>http://www.7digital.com/artist/paws/release/youth-culture-forever-1?h=04&amp;d=1</url>
+            </track>
+            <remainingDownloads>5</remainingDownloads>
+            <purchaseId>814920242</purchaseId>
+            <purchaseDate>2014-11-03T14:20:37Z</purchaseDate>
+            <completeAlbumPurchase>true</completeAlbumPurchase>
+            <downloadUrls>
+              <downloadUrl>
+                <url>http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&amp;oauth_nonce=38pb56kfrt996pxa&amp;oauth_signature=VpC2Zi4BKpD0ob57IOigXYeM4A8%3D&amp;oauth_signature_method=HMAC-SHA1&amp;oauth_timestamp=1415101199&amp;oauth_version=1.0a&amp;formatid=17&amp;partnerid=3923&amp;onbehalfofpartnerid=3923&amp;presigned=1&amp;releaseid=3543780&amp;shopid=0&amp;trackid=37255979&amp;userid=125043073</url>
+                <format id="17">
+                  <fileFormat>MP3</fileFormat>
+                  <bitRate>320</bitRate>
+                  <drmFree>true</drmFree>
+                </format>
+              </downloadUrl>
+              <downloadUrl>
+                <url>http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&amp;oauth_nonce=vp0evjymrx82p062&amp;oauth_signature=gHbn3jPaJDKgZjmP32NcIUlexrs%3D&amp;oauth_signature_method=HMAC-SHA1&amp;oauth_timestamp=1415101199&amp;oauth_version=1.0a&amp;formatid=33&amp;partnerid=3923&amp;onbehalfofpartnerid=3923&amp;presigned=1&amp;releaseid=3543780&amp;shopid=0&amp;trackid=37255979&amp;userid=125043073</url>
+                <format id="33">
+                  <fileFormat>AAC</fileFormat>
+                  <bitRate>320</bitRate>
+                  <drmFree>true</drmFree>
+                </format>
+              </downloadUrl>
+            </downloadUrls>
+          </lockerTrack>
+          <lockerTrack>
+            <track id="37255980">
+              <title>Give Up</title>
+              <version/>
+              <artist id="1286355">
+                <name>PAWS</name>
+                <appearsAs>PAWS</appearsAs>
+                <url>http://www.7digital.com/artist/paws</url>
+              </artist>
+              <trackNumber>5</trackNumber>
+              <duration>141</duration>
+              <isrc>GBDCA1402548</isrc>
+              <url>http://www.7digital.com/artist/paws/release/youth-culture-forever-1?h=05&amp;d=1</url>
+            </track>
+            <remainingDownloads>5</remainingDownloads>
+            <purchaseId>814920242</purchaseId>
+            <purchaseDate>2014-11-03T14:20:37Z</purchaseDate>
+            <completeAlbumPurchase>true</completeAlbumPurchase>
+            <downloadUrls>
+              <downloadUrl>
+                <url>http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&amp;oauth_nonce=lmb72iihoofsfus5&amp;oauth_signature=saLeYN3yI43t7NkmZoekEwg1z4Q%3D&amp;oauth_signature_method=HMAC-SHA1&amp;oauth_timestamp=1415101199&amp;oauth_version=1.0a&amp;formatid=17&amp;partnerid=3923&amp;onbehalfofpartnerid=3923&amp;presigned=1&amp;releaseid=3543780&amp;shopid=0&amp;trackid=37255980&amp;userid=125043073</url>
+                <format id="17">
+                  <fileFormat>MP3</fileFormat>
+                  <bitRate>320</bitRate>
+                  <drmFree>true</drmFree>
+                </format>
+              </downloadUrl>
+              <downloadUrl>
+                <url>http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&amp;oauth_nonce=fue8b78tidth8s1r&amp;oauth_signature=P2HoGiNqQemiuxgSVUnah113kxQ%3D&amp;oauth_signature_method=HMAC-SHA1&amp;oauth_timestamp=1415101199&amp;oauth_version=1.0a&amp;formatid=33&amp;partnerid=3923&amp;onbehalfofpartnerid=3923&amp;presigned=1&amp;releaseid=3543780&amp;shopid=0&amp;trackid=37255980&amp;userid=125043073</url>
+                <format id="33">
+                  <fileFormat>AAC</fileFormat>
+                  <bitRate>320</bitRate>
+                  <drmFree>true</drmFree>
+                </format>
+              </downloadUrl>
+            </downloadUrls>
+          </lockerTrack>
+          <lockerTrack>
+            <track id="37255982">
+              <title>Alone</title>
+              <version/>
+              <artist id="1286355">
+                <name>PAWS</name>
+                <appearsAs>PAWS</appearsAs>
+                <url>http://www.7digital.com/artist/paws</url>
+              </artist>
+              <trackNumber>6</trackNumber>
+              <duration>235</duration>
+              <isrc>GBDCA1402549</isrc>
+              <url>http://www.7digital.com/artist/paws/release/youth-culture-forever-1?h=06&amp;d=1</url>
+            </track>
+            <remainingDownloads>5</remainingDownloads>
+            <purchaseId>814920242</purchaseId>
+            <purchaseDate>2014-11-03T14:20:37Z</purchaseDate>
+            <completeAlbumPurchase>true</completeAlbumPurchase>
+            <downloadUrls>
+              <downloadUrl>
+                <url>http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&amp;oauth_nonce=yhxso2img21hdgg7&amp;oauth_signature=1%2FvQdAzFAWXU%2F9CgrfcVFBO%2BNWU%3D&amp;oauth_signature_method=HMAC-SHA1&amp;oauth_timestamp=1415101199&amp;oauth_version=1.0a&amp;formatid=17&amp;partnerid=3923&amp;onbehalfofpartnerid=3923&amp;presigned=1&amp;releaseid=3543780&amp;shopid=0&amp;trackid=37255982&amp;userid=125043073</url>
+                <format id="17">
+                  <fileFormat>MP3</fileFormat>
+                  <bitRate>320</bitRate>
+                  <drmFree>true</drmFree>
+                </format>
+              </downloadUrl>
+              <downloadUrl>
+                <url>http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&amp;oauth_nonce=fdw659zoprxyybj6&amp;oauth_signature=wYFYi7%2BWG7LS2dS7%2FH540zIGQuc%3D&amp;oauth_signature_method=HMAC-SHA1&amp;oauth_timestamp=1415101199&amp;oauth_version=1.0a&amp;formatid=33&amp;partnerid=3923&amp;onbehalfofpartnerid=3923&amp;presigned=1&amp;releaseid=3543780&amp;shopid=0&amp;trackid=37255982&amp;userid=125043073</url>
+                <format id="33">
+                  <fileFormat>AAC</fileFormat>
+                  <bitRate>320</bitRate>
+                  <drmFree>true</drmFree>
+                </format>
+              </downloadUrl>
+            </downloadUrls>
+          </lockerTrack>
+          <lockerTrack>
+            <track id="37255984">
+              <title>An Honest Romance</title>
+              <version/>
+              <artist id="1286355">
+                <name>PAWS</name>
+                <appearsAs>PAWS</appearsAs>
+                <url>http://www.7digital.com/artist/paws</url>
+              </artist>
+              <trackNumber>7</trackNumber>
+              <duration>167</duration>
+              <isrc>GBDCA1402550</isrc>
+              <url>http://www.7digital.com/artist/paws/release/youth-culture-forever-1?h=07&amp;d=1</url>
+            </track>
+            <remainingDownloads>5</remainingDownloads>
+            <purchaseId>814920242</purchaseId>
+            <purchaseDate>2014-11-03T14:20:37Z</purchaseDate>
+            <completeAlbumPurchase>true</completeAlbumPurchase>
+            <downloadUrls>
+              <downloadUrl>
+                <url>http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&amp;oauth_nonce=xx498aqol31jf1pc&amp;oauth_signature=JKazyvP4Kre2sxAjgPrmR8yvv9w%3D&amp;oauth_signature_method=HMAC-SHA1&amp;oauth_timestamp=1415101199&amp;oauth_version=1.0a&amp;formatid=17&amp;partnerid=3923&amp;onbehalfofpartnerid=3923&amp;presigned=1&amp;releaseid=3543780&amp;shopid=0&amp;trackid=37255984&amp;userid=125043073</url>
+                <format id="17">
+                  <fileFormat>MP3</fileFormat>
+                  <bitRate>320</bitRate>
+                  <drmFree>true</drmFree>
+                </format>
+              </downloadUrl>
+              <downloadUrl>
+                <url>http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&amp;oauth_nonce=7wc576w1rid7euxf&amp;oauth_signature=14OAP2VGWQrROgBgaZDjslJ%2BOOg%3D&amp;oauth_signature_method=HMAC-SHA1&amp;oauth_timestamp=1415101199&amp;oauth_version=1.0a&amp;formatid=33&amp;partnerid=3923&amp;onbehalfofpartnerid=3923&amp;presigned=1&amp;releaseid=3543780&amp;shopid=0&amp;trackid=37255984&amp;userid=125043073</url>
+                <format id="33">
+                  <fileFormat>AAC</fileFormat>
+                  <bitRate>320</bitRate>
+                  <drmFree>true</drmFree>
+                </format>
+              </downloadUrl>
+            </downloadUrls>
+          </lockerTrack>
+          <lockerTrack>
+            <track id="37255986">
+              <title>Narcissist</title>
+              <version/>
+              <artist id="1286355">
+                <name>PAWS</name>
+                <appearsAs>PAWS</appearsAs>
+                <url>http://www.7digital.com/artist/paws</url>
+              </artist>
+              <trackNumber>8</trackNumber>
+              <duration>115</duration>
+              <isrc>GBDCA1402551</isrc>
+              <url>http://www.7digital.com/artist/paws/release/youth-culture-forever-1?h=08&amp;d=1</url>
+            </track>
+            <remainingDownloads>5</remainingDownloads>
+            <purchaseId>814920242</purchaseId>
+            <purchaseDate>2014-11-03T14:20:37Z</purchaseDate>
+            <completeAlbumPurchase>true</completeAlbumPurchase>
+            <downloadUrls>
+              <downloadUrl>
+                <url>http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&amp;oauth_nonce=r5tpmi0ewhuchqjy&amp;oauth_signature=wGHlcZxzSu6kfnZCcXMjNSZ00KE%3D&amp;oauth_signature_method=HMAC-SHA1&amp;oauth_timestamp=1415101199&amp;oauth_version=1.0a&amp;formatid=17&amp;partnerid=3923&amp;onbehalfofpartnerid=3923&amp;presigned=1&amp;releaseid=3543780&amp;shopid=0&amp;trackid=37255986&amp;userid=125043073</url>
+                <format id="17">
+                  <fileFormat>MP3</fileFormat>
+                  <bitRate>320</bitRate>
+                  <drmFree>true</drmFree>
+                </format>
+              </downloadUrl>
+              <downloadUrl>
+                <url>http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&amp;oauth_nonce=cu3c9p03bdqy8uk1&amp;oauth_signature=RlwLh8cfCyrkfwBXG%2FllMGpMKhs%3D&amp;oauth_signature_method=HMAC-SHA1&amp;oauth_timestamp=1415101199&amp;oauth_version=1.0a&amp;formatid=33&amp;partnerid=3923&amp;onbehalfofpartnerid=3923&amp;presigned=1&amp;releaseid=3543780&amp;shopid=0&amp;trackid=37255986&amp;userid=125043073</url>
+                <format id="33">
+                  <fileFormat>AAC</fileFormat>
+                  <bitRate>320</bitRate>
+                  <drmFree>true</drmFree>
+                </format>
+              </downloadUrl>
+            </downloadUrls>
+          </lockerTrack>
+          <lockerTrack>
+            <track id="37255987">
+              <title>Let's All Let Go</title>
+              <version/>
+              <artist id="1286355">
+                <name>PAWS</name>
+                <appearsAs>PAWS</appearsAs>
+                <url>http://www.7digital.com/artist/paws</url>
+              </artist>
+              <trackNumber>9</trackNumber>
+              <duration>163</duration>
+              <isrc>GBDCA1402552</isrc>
+              <url>http://www.7digital.com/artist/paws/release/youth-culture-forever-1?h=09&amp;d=1</url>
+            </track>
+            <remainingDownloads>5</remainingDownloads>
+            <purchaseId>814920242</purchaseId>
+            <purchaseDate>2014-11-03T14:20:37Z</purchaseDate>
+            <completeAlbumPurchase>true</completeAlbumPurchase>
+            <downloadUrls>
+              <downloadUrl>
+                <url>http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&amp;oauth_nonce=eu2kg01xw8hyltsa&amp;oauth_signature=aSgt3nSikZIyEhmLnBD%2FfP06FpA%3D&amp;oauth_signature_method=HMAC-SHA1&amp;oauth_timestamp=1415101199&amp;oauth_version=1.0a&amp;formatid=17&amp;partnerid=3923&amp;onbehalfofpartnerid=3923&amp;presigned=1&amp;releaseid=3543780&amp;shopid=0&amp;trackid=37255987&amp;userid=125043073</url>
+                <format id="17">
+                  <fileFormat>MP3</fileFormat>
+                  <bitRate>320</bitRate>
+                  <drmFree>true</drmFree>
+                </format>
+              </downloadUrl>
+              <downloadUrl>
+                <url>http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&amp;oauth_nonce=0o4t3vgc62oi2lhc&amp;oauth_signature=PHGswy7D93HYSp0SCKttzt6Idtc%3D&amp;oauth_signature_method=HMAC-SHA1&amp;oauth_timestamp=1415101199&amp;oauth_version=1.0a&amp;formatid=33&amp;partnerid=3923&amp;onbehalfofpartnerid=3923&amp;presigned=1&amp;releaseid=3543780&amp;shopid=0&amp;trackid=37255987&amp;userid=125043073</url>
+                <format id="33">
+                  <fileFormat>AAC</fileFormat>
+                  <bitRate>320</bitRate>
+                  <drmFree>true</drmFree>
+                </format>
+              </downloadUrl>
+            </downloadUrls>
+          </lockerTrack>
+          <lockerTrack>
+            <track id="37255989">
+              <title>Great Bear</title>
+              <version/>
+              <artist id="1286355">
+                <name>PAWS</name>
+                <appearsAs>PAWS</appearsAs>
+                <url>http://www.7digital.com/artist/paws</url>
+              </artist>
+              <trackNumber>10</trackNumber>
+              <duration>118</duration>
+              <isrc>GBDCA1402553</isrc>
+              <url>http://www.7digital.com/artist/paws/release/youth-culture-forever-1?h=10&amp;d=1</url>
+            </track>
+            <remainingDownloads>5</remainingDownloads>
+            <purchaseId>814920242</purchaseId>
+            <purchaseDate>2014-11-03T14:20:37Z</purchaseDate>
+            <completeAlbumPurchase>true</completeAlbumPurchase>
+            <downloadUrls>
+              <downloadUrl>
+                <url>http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&amp;oauth_nonce=849xy0sc4epbhlrr&amp;oauth_signature=XZuek0MlZx6bG9zcnaSGy4LTfMI%3D&amp;oauth_signature_method=HMAC-SHA1&amp;oauth_timestamp=1415101199&amp;oauth_version=1.0a&amp;formatid=17&amp;partnerid=3923&amp;onbehalfofpartnerid=3923&amp;presigned=1&amp;releaseid=3543780&amp;shopid=0&amp;trackid=37255989&amp;userid=125043073</url>
+                <format id="17">
+                  <fileFormat>MP3</fileFormat>
+                  <bitRate>320</bitRate>
+                  <drmFree>true</drmFree>
+                </format>
+              </downloadUrl>
+              <downloadUrl>
+                <url>http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&amp;oauth_nonce=vqzs119snyppvr6l&amp;oauth_signature=X9%2BbhBPZcDBK4VKtNK8K8R2B0YU%3D&amp;oauth_signature_method=HMAC-SHA1&amp;oauth_timestamp=1415101199&amp;oauth_version=1.0a&amp;formatid=33&amp;partnerid=3923&amp;onbehalfofpartnerid=3923&amp;presigned=1&amp;releaseid=3543780&amp;shopid=0&amp;trackid=37255989&amp;userid=125043073</url>
+                <format id="33">
+                  <fileFormat>AAC</fileFormat>
+                  <bitRate>320</bitRate>
+                  <drmFree>true</drmFree>
+                </format>
+              </downloadUrl>
+            </downloadUrls>
+          </lockerTrack>
+          <lockerTrack>
+            <track id="37255991">
+              <title>YCF</title>
+              <version/>
+              <artist id="1286355">
+                <name>PAWS</name>
+                <appearsAs>PAWS</appearsAs>
+                <url>http://www.7digital.com/artist/paws</url>
+              </artist>
+              <trackNumber>11</trackNumber>
+              <duration>171</duration>
+              <isrc>GBDCA1402554</isrc>
+              <url>http://www.7digital.com/artist/paws/release/youth-culture-forever-1?h=11&amp;d=1</url>
+            </track>
+            <remainingDownloads>5</remainingDownloads>
+            <purchaseId>814920242</purchaseId>
+            <purchaseDate>2014-11-03T14:20:37Z</purchaseDate>
+            <completeAlbumPurchase>true</completeAlbumPurchase>
+            <downloadUrls>
+              <downloadUrl>
+                <url>http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&amp;oauth_nonce=zf2sv6m072zxff6u&amp;oauth_signature=C2YqA4ZEe%2F%2B522GYzeOfG8nyWig%3D&amp;oauth_signature_method=HMAC-SHA1&amp;oauth_timestamp=1415101199&amp;oauth_version=1.0a&amp;formatid=17&amp;partnerid=3923&amp;onbehalfofpartnerid=3923&amp;presigned=1&amp;releaseid=3543780&amp;shopid=0&amp;trackid=37255991&amp;userid=125043073</url>
+                <format id="17">
+                  <fileFormat>MP3</fileFormat>
+                  <bitRate>320</bitRate>
+                  <drmFree>true</drmFree>
+                </format>
+              </downloadUrl>
+              <downloadUrl>
+                <url>http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&amp;oauth_nonce=j8xlwylg5pj0tcrl&amp;oauth_signature=ihG7e1bR6Z%2FOfR%2FM5HpRirm39ew%3D&amp;oauth_signature_method=HMAC-SHA1&amp;oauth_timestamp=1415101199&amp;oauth_version=1.0a&amp;formatid=33&amp;partnerid=3923&amp;onbehalfofpartnerid=3923&amp;presigned=1&amp;releaseid=3543780&amp;shopid=0&amp;trackid=37255991&amp;userid=125043073</url>
+                <format id="33">
+                  <fileFormat>AAC</fileFormat>
+                  <bitRate>320</bitRate>
+                  <drmFree>true</drmFree>
+                </format>
+              </downloadUrl>
+            </downloadUrls>
+          </lockerTrack>
+          <lockerTrack>
+            <track id="37255993">
+              <title>War Cry</title>
+              <version/>
+              <artist id="1286355">
+                <name>PAWS</name>
+                <appearsAs>PAWS</appearsAs>
+                <url>http://www.7digital.com/artist/paws</url>
+              </artist>
+              <trackNumber>12</trackNumber>
+              <duration>703</duration>
+              <isrc>GBDCA1402555</isrc>
+              <url>http://www.7digital.com/artist/paws/release/youth-culture-forever-1?h=12&amp;d=1</url>
+            </track>
+            <remainingDownloads>5</remainingDownloads>
+            <purchaseId>814920242</purchaseId>
+            <purchaseDate>2014-11-03T14:20:37Z</purchaseDate>
+            <completeAlbumPurchase>true</completeAlbumPurchase>
+            <downloadUrls>
+              <downloadUrl>
+                <url>http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&amp;oauth_nonce=ielbt07zezw0almi&amp;oauth_signature=N9lqLY2XPCTRXhdI27jevpP0ryg%3D&amp;oauth_signature_method=HMAC-SHA1&amp;oauth_timestamp=1415101199&amp;oauth_version=1.0a&amp;formatid=17&amp;partnerid=3923&amp;onbehalfofpartnerid=3923&amp;presigned=1&amp;releaseid=3543780&amp;shopid=0&amp;trackid=37255993&amp;userid=125043073</url>
+                <format id="17">
+                  <fileFormat>MP3</fileFormat>
+                  <bitRate>320</bitRate>
+                  <drmFree>true</drmFree>
+                </format>
+              </downloadUrl>
+              <downloadUrl>
+                <url>http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&amp;oauth_nonce=46fy5tzb5vxfvmq4&amp;oauth_signature=CMvMPuD6sUCHaW0Bgb3lukGDgTE%3D&amp;oauth_signature_method=HMAC-SHA1&amp;oauth_timestamp=1415101199&amp;oauth_version=1.0a&amp;formatid=33&amp;partnerid=3923&amp;onbehalfofpartnerid=3923&amp;presigned=1&amp;releaseid=3543780&amp;shopid=0&amp;trackid=37255993&amp;userid=125043073</url>
+                <format id="33">
+                  <fileFormat>AAC</fileFormat>
+                  <bitRate>320</bitRate>
+                  <drmFree>true</drmFree>
+                </format>
+              </downloadUrl>
+            </downloadUrls>
+          </lockerTrack>
+        </lockerTracks>
+        <available>true</available>
+      </lockerRelease>
+    </lockerReleases>
+  </locker>
 </response>

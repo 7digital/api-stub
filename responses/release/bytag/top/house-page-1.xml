@@ -1,219 +1,219 @@
 <?xml version="1.0" encoding="utf-8"?>
 <response xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" status="ok" version="1.2" xsi:noNamespaceSchemaLocation="http://api.7digital.com/1.2/static/7digitalAPI.xsd">
-	<taggedResults>
-		<page>1</page>
-		<pageSize>10</pageSize>
-		<totalItems>64792</totalItems>
-		<type>release</type>
-		<taggedItem>
-			<release id="1275025">
-				<title>Ibiza Summer Vibes, Vol. 1</title>
-				<version/>
-				<type>Album</type>
-				<barcode>3661585913481</barcode>
-				<year>2011</year>
-				<explicitContent>false</explicitContent>
-				<artist id="209">
-					<name>Various Artists</name>
-					<appearsAs>Various Artists</appearsAs>
-					<url>http://www.7digital.com/artist/various-artists/?partner=1401</url>
-				</artist>
-				<url>http://www.7digital.com/artist/various-artists/release/ibiza-summer-vibes-vol-1/?partner=1401</url>
-				<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/012/750/0001275025_50.jpg</image>
-				<releaseDate>2011-06-25T00:00:00+01:00</releaseDate>
-				<addedDate>2011-06-03T15:11:04+01:00</addedDate>
-				<popularity>0.65</popularity>
-				<streamingReleaseDate>2011-06-25T00:00:00+01:00</streamingReleaseDate>
-			</release>
-		</taggedItem>
-		<taggedItem>
-			<release id="1268689">
-				<title>Freedom For Palestine</title>
-				<version/>
-				<type>Single</type>
-				<barcode>5060193564067</barcode>
-				<year>2011</year>
-				<explicitContent>false</explicitContent>
-				<artist id="317721">
-					<name>OneWorld</name>
-					<appearsAs>OneWorld</appearsAs>
-					<url>http://www.7digital.com/artist/oneworld/?partner=1401</url>
-				</artist>
-				<url>http://www.7digital.com/artist/oneworld/release/freedom-for-palestine/?partner=1401</url>
-				<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/012/686/0001268689_50.jpg</image>
-				<releaseDate>2011-07-03T00:00:00+01:00</releaseDate>
-				<addedDate>2011-05-30T14:07:26+01:00</addedDate>
-				<popularity>0.63</popularity>
-				<streamingReleaseDate>3001-01-01T00:00:00+00:00</streamingReleaseDate>
-			</release>
-		</taggedItem>
-		<taggedItem>
-			<release id="1222780">
-				<title>Lambada</title>
-				<version/>
-				<type>Album</type>
-				<barcode>3661585831426</barcode>
-				<year>2011</year>
-				<explicitContent>false</explicitContent>
-				<artist id="930390">
-					<name>Kosa</name>
-					<appearsAs>Kosa</appearsAs>
-					<url>http://www.7digital.com/artist/kosa/?partner=1401</url>
-				</artist>
-				<url>http://www.7digital.com/artist/kosa/release/lambada/?partner=1401</url>
-				<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/012/227/0001222780_50.jpg</image>
-				<releaseDate>2011-04-28T00:00:00+01:00</releaseDate>
-				<addedDate>2011-04-21T17:33:28+01:00</addedDate>
-				<popularity>0.62</popularity>
-				<streamingReleaseDate>2011-04-28T00:00:00+01:00</streamingReleaseDate>
-			</release>
-		</taggedItem>
-		<taggedItem>
-			<release id="1799179">
-				<title>Godskitchen Ibiza Trance Anthems</title>
-				<version/>
-				<type>Album</type>
-				<barcode>885012011967</barcode>
-				<year>2012</year>
-				<explicitContent>false</explicitContent>
-				<artist id="209">
-					<name>Various Artists</name>
-					<appearsAs>Various Artists</appearsAs>
-					<url>http://www.7digital.com/artist/various-artists/?partner=1401</url>
-				</artist>
-				<url>http://www.7digital.com/artist/various-artists/release/godskitchen-ibiza-trance-anthems/?partner=1401</url>
-				<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/017/991/0001799179_50.jpg</image>
-				<releaseDate>2012-07-29T00:00:00+01:00</releaseDate>
-				<addedDate>2012-07-16T13:24:00+01:00</addedDate>
-				<popularity>0.62</popularity>
-				<streamingReleaseDate>3001-01-01T00:00:00+00:00</streamingReleaseDate>
-			</release>
-		</taggedItem>
-		<taggedItem>
-			<release id="1604103">
-				<title>Toolroom Records Miami 2012</title>
-				<version/>
-				<type>Album</type>
-				<barcode>5052075008547</barcode>
-				<year>2012</year>
-				<explicitContent>false</explicitContent>
-				<artist id="209">
-					<name>Various Artists</name>
-					<appearsAs>Various Artists</appearsAs>
-					<url>http://www.7digital.com/artist/various-artists/?partner=1401</url>
-				</artist>
-				<url>http://www.7digital.com/artist/various-artists/release/toolroom-records-miami-2012/?partner=1401</url>
-				<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/016/041/0001604103_50.jpg</image>
-				<releaseDate>2012-02-26T00:00:00+00:00</releaseDate>
-				<addedDate>2012-02-16T15:13:49+00:00</addedDate>
-				<popularity>0.61</popularity>
-				<streamingReleaseDate>2012-02-26T00:00:00+00:00</streamingReleaseDate>
-			</release>
-		</taggedItem>
-		<taggedItem>
-			<release id="1318521">
-				<title>Super Mario</title>
-				<version/>
-				<type>Single</type>
-				<barcode>3661585958574</barcode>
-				<year>2011</year>
-				<explicitContent>false</explicitContent>
-				<artist id="1039966">
-					<name>Lemon Slice</name>
-					<appearsAs>Lemon Slice</appearsAs>
-					<url>http://www.7digital.com/artist/lemon-slice/?partner=1401</url>
-				</artist>
-				<url>http://www.7digital.com/artist/lemon-slice/release/super-mario/?partner=1401</url>
-				<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/013/185/0001318521_50.jpg</image>
-				<releaseDate>2011-07-13T00:00:00+01:00</releaseDate>
-				<addedDate>2011-07-11T15:02:02+01:00</addedDate>
-				<popularity>0.59</popularity>
-				<streamingReleaseDate>2011-07-13T00:00:00+01:00</streamingReleaseDate>
-			</release>
-		</taggedItem>
-		<taggedItem>
-			<release id="1713490">
-				<title>Toolroom Records Ibiza 2012 Vol. 1</title>
-				<version/>
-				<type>Album</type>
-				<barcode>5052075008783</barcode>
-				<year>2012</year>
-				<explicitContent>false</explicitContent>
-				<artist id="209">
-					<name>Various Artists</name>
-					<appearsAs>Various Artists</appearsAs>
-					<url>http://www.7digital.com/artist/various-artists/?partner=1401</url>
-				</artist>
-				<url>http://www.7digital.com/artist/various-artists/release/toolroom-records-ibiza-2012-vol-1/?partner=1401</url>
-				<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/017/134/0001713490_50.jpg</image>
-				<releaseDate>2012-06-03T00:00:00+01:00</releaseDate>
-				<addedDate>2012-05-17T00:31:11+01:00</addedDate>
-				<popularity>0.57</popularity>
-				<streamingReleaseDate>2012-06-03T00:00:00+01:00</streamingReleaseDate>
-			</release>
-		</taggedItem>
-		<taggedItem>
-			<release id="45472">
-				<title>Discovery</title>
-				<version/>
-				<type>Album</type>
-				<barcode>0724384960650</barcode>
-				<year>2005</year>
-				<explicitContent>false</explicitContent>
-				<artist id="466">
-					<name>Daft Punk</name>
-					<appearsAs>Daft Punk</appearsAs>
-					<url>http://www.7digital.com/artist/daft-punk/?partner=1401</url>
-				</artist>
-				<url>http://www.7digital.com/artist/daft-punk/release/discovery-1/?partner=1401</url>
-				<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/000/454/0000045472_50.jpg</image>
-				<releaseDate>2005-01-24T00:00:00+00:00</releaseDate>
-				<addedDate>2007-06-18T14:24:05+01:00</addedDate>
-				<popularity>0.57</popularity>
-				<streamingReleaseDate>2005-01-24T00:00:00+00:00</streamingReleaseDate>
-			</release>
-		</taggedItem>
-		<taggedItem>
-			<release id="1599885">
-				<title>Cream Club Anthems 2012</title>
-				<version/>
-				<type>Album</type>
-				<barcode>885012011127</barcode>
-				<year>2012</year>
-				<explicitContent>true</explicitContent>
-				<artist id="209">
-					<name>Various Artists</name>
-					<appearsAs>Various Artists</appearsAs>
-					<url>http://www.7digital.com/artist/various-artists/?partner=1401</url>
-				</artist>
-				<url>http://www.7digital.com/artist/various-artists/release/cream-club-anthems-2012/?partner=1401</url>
-				<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/015/998/0001599885_50.jpg</image>
-				<releaseDate>2012-02-26T00:00:00+00:00</releaseDate>
-				<addedDate>2012-02-13T14:31:20+00:00</addedDate>
-				<popularity>0.56</popularity>
-				<streamingReleaseDate>3001-01-01T00:00:00+00:00</streamingReleaseDate>
-			</release>
-		</taggedItem>
-		<taggedItem>
-			<release id="1603476">
-				<title>Feed Me's Escape From Electric Mountain</title>
-				<version/>
-				<type>Single</type>
-				<barcode>0883958010068</barcode>
-				<year>2012</year>
-				<explicitContent>false</explicitContent>
-				<artist id="726273">
-					<name>Feed Me</name>
-					<appearsAs>Feed Me</appearsAs>
-					<url>http://www.7digital.com/artist/feed-me/?partner=1401</url>
-				</artist>
-				<url>http://www.7digital.com/artist/feed-me/release/feed-mes-escape-from-electric-mountain/?partner=1401</url>
-				<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/016/034/0001603476_50.jpg</image>
-				<releaseDate>2012-02-06T00:00:00+00:00</releaseDate>
-				<addedDate>2012-02-16T15:12:54+00:00</addedDate>
-				<popularity>0.55</popularity>
-				<streamingReleaseDate>2012-02-06T00:00:00+00:00</streamingReleaseDate>
-			</release>
-		</taggedItem>
-	</taggedResults>
+  <taggedResults>
+    <page>1</page>
+    <pageSize>10</pageSize>
+    <totalItems>64792</totalItems>
+    <type>release</type>
+    <taggedItem>
+      <release id="1275025">
+        <title>Ibiza Summer Vibes, Vol. 1</title>
+        <version/>
+        <type>Album</type>
+        <barcode>3661585913481</barcode>
+        <year>2011</year>
+        <explicitContent>false</explicitContent>
+        <artist id="209">
+          <name>Various Artists</name>
+          <appearsAs>Various Artists</appearsAs>
+          <url>http://www.7digital.com/artist/various-artists/?partner=1401</url>
+        </artist>
+        <url>http://www.7digital.com/artist/various-artists/release/ibiza-summer-vibes-vol-1/?partner=1401</url>
+        <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/012/750/0001275025_50.jpg</image>
+        <releaseDate>2011-06-25T00:00:00+01:00</releaseDate>
+        <addedDate>2011-06-03T15:11:04+01:00</addedDate>
+        <popularity>0.65</popularity>
+        <streamingReleaseDate>2011-06-25T00:00:00+01:00</streamingReleaseDate>
+      </release>
+    </taggedItem>
+    <taggedItem>
+      <release id="1268689">
+        <title>Freedom For Palestine</title>
+        <version/>
+        <type>Single</type>
+        <barcode>5060193564067</barcode>
+        <year>2011</year>
+        <explicitContent>false</explicitContent>
+        <artist id="317721">
+          <name>OneWorld</name>
+          <appearsAs>OneWorld</appearsAs>
+          <url>http://www.7digital.com/artist/oneworld/?partner=1401</url>
+        </artist>
+        <url>http://www.7digital.com/artist/oneworld/release/freedom-for-palestine/?partner=1401</url>
+        <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/012/686/0001268689_50.jpg</image>
+        <releaseDate>2011-07-03T00:00:00+01:00</releaseDate>
+        <addedDate>2011-05-30T14:07:26+01:00</addedDate>
+        <popularity>0.63</popularity>
+        <streamingReleaseDate>3001-01-01T00:00:00+00:00</streamingReleaseDate>
+      </release>
+    </taggedItem>
+    <taggedItem>
+      <release id="1222780">
+        <title>Lambada</title>
+        <version/>
+        <type>Album</type>
+        <barcode>3661585831426</barcode>
+        <year>2011</year>
+        <explicitContent>false</explicitContent>
+        <artist id="930390">
+          <name>Kosa</name>
+          <appearsAs>Kosa</appearsAs>
+          <url>http://www.7digital.com/artist/kosa/?partner=1401</url>
+        </artist>
+        <url>http://www.7digital.com/artist/kosa/release/lambada/?partner=1401</url>
+        <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/012/227/0001222780_50.jpg</image>
+        <releaseDate>2011-04-28T00:00:00+01:00</releaseDate>
+        <addedDate>2011-04-21T17:33:28+01:00</addedDate>
+        <popularity>0.62</popularity>
+        <streamingReleaseDate>2011-04-28T00:00:00+01:00</streamingReleaseDate>
+      </release>
+    </taggedItem>
+    <taggedItem>
+      <release id="1799179">
+        <title>Godskitchen Ibiza Trance Anthems</title>
+        <version/>
+        <type>Album</type>
+        <barcode>885012011967</barcode>
+        <year>2012</year>
+        <explicitContent>false</explicitContent>
+        <artist id="209">
+          <name>Various Artists</name>
+          <appearsAs>Various Artists</appearsAs>
+          <url>http://www.7digital.com/artist/various-artists/?partner=1401</url>
+        </artist>
+        <url>http://www.7digital.com/artist/various-artists/release/godskitchen-ibiza-trance-anthems/?partner=1401</url>
+        <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/017/991/0001799179_50.jpg</image>
+        <releaseDate>2012-07-29T00:00:00+01:00</releaseDate>
+        <addedDate>2012-07-16T13:24:00+01:00</addedDate>
+        <popularity>0.62</popularity>
+        <streamingReleaseDate>3001-01-01T00:00:00+00:00</streamingReleaseDate>
+      </release>
+    </taggedItem>
+    <taggedItem>
+      <release id="1604103">
+        <title>Toolroom Records Miami 2012</title>
+        <version/>
+        <type>Album</type>
+        <barcode>5052075008547</barcode>
+        <year>2012</year>
+        <explicitContent>false</explicitContent>
+        <artist id="209">
+          <name>Various Artists</name>
+          <appearsAs>Various Artists</appearsAs>
+          <url>http://www.7digital.com/artist/various-artists/?partner=1401</url>
+        </artist>
+        <url>http://www.7digital.com/artist/various-artists/release/toolroom-records-miami-2012/?partner=1401</url>
+        <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/016/041/0001604103_50.jpg</image>
+        <releaseDate>2012-02-26T00:00:00+00:00</releaseDate>
+        <addedDate>2012-02-16T15:13:49+00:00</addedDate>
+        <popularity>0.61</popularity>
+        <streamingReleaseDate>2012-02-26T00:00:00+00:00</streamingReleaseDate>
+      </release>
+    </taggedItem>
+    <taggedItem>
+      <release id="1318521">
+        <title>Super Mario</title>
+        <version/>
+        <type>Single</type>
+        <barcode>3661585958574</barcode>
+        <year>2011</year>
+        <explicitContent>false</explicitContent>
+        <artist id="1039966">
+          <name>Lemon Slice</name>
+          <appearsAs>Lemon Slice</appearsAs>
+          <url>http://www.7digital.com/artist/lemon-slice/?partner=1401</url>
+        </artist>
+        <url>http://www.7digital.com/artist/lemon-slice/release/super-mario/?partner=1401</url>
+        <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/013/185/0001318521_50.jpg</image>
+        <releaseDate>2011-07-13T00:00:00+01:00</releaseDate>
+        <addedDate>2011-07-11T15:02:02+01:00</addedDate>
+        <popularity>0.59</popularity>
+        <streamingReleaseDate>2011-07-13T00:00:00+01:00</streamingReleaseDate>
+      </release>
+    </taggedItem>
+    <taggedItem>
+      <release id="1713490">
+        <title>Toolroom Records Ibiza 2012 Vol. 1</title>
+        <version/>
+        <type>Album</type>
+        <barcode>5052075008783</barcode>
+        <year>2012</year>
+        <explicitContent>false</explicitContent>
+        <artist id="209">
+          <name>Various Artists</name>
+          <appearsAs>Various Artists</appearsAs>
+          <url>http://www.7digital.com/artist/various-artists/?partner=1401</url>
+        </artist>
+        <url>http://www.7digital.com/artist/various-artists/release/toolroom-records-ibiza-2012-vol-1/?partner=1401</url>
+        <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/017/134/0001713490_50.jpg</image>
+        <releaseDate>2012-06-03T00:00:00+01:00</releaseDate>
+        <addedDate>2012-05-17T00:31:11+01:00</addedDate>
+        <popularity>0.57</popularity>
+        <streamingReleaseDate>2012-06-03T00:00:00+01:00</streamingReleaseDate>
+      </release>
+    </taggedItem>
+    <taggedItem>
+      <release id="45472">
+        <title>Discovery</title>
+        <version/>
+        <type>Album</type>
+        <barcode>0724384960650</barcode>
+        <year>2005</year>
+        <explicitContent>false</explicitContent>
+        <artist id="466">
+          <name>Daft Punk</name>
+          <appearsAs>Daft Punk</appearsAs>
+          <url>http://www.7digital.com/artist/daft-punk/?partner=1401</url>
+        </artist>
+        <url>http://www.7digital.com/artist/daft-punk/release/discovery-1/?partner=1401</url>
+        <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/000/454/0000045472_50.jpg</image>
+        <releaseDate>2005-01-24T00:00:00+00:00</releaseDate>
+        <addedDate>2007-06-18T14:24:05+01:00</addedDate>
+        <popularity>0.57</popularity>
+        <streamingReleaseDate>2005-01-24T00:00:00+00:00</streamingReleaseDate>
+      </release>
+    </taggedItem>
+    <taggedItem>
+      <release id="1599885">
+        <title>Cream Club Anthems 2012</title>
+        <version/>
+        <type>Album</type>
+        <barcode>885012011127</barcode>
+        <year>2012</year>
+        <explicitContent>true</explicitContent>
+        <artist id="209">
+          <name>Various Artists</name>
+          <appearsAs>Various Artists</appearsAs>
+          <url>http://www.7digital.com/artist/various-artists/?partner=1401</url>
+        </artist>
+        <url>http://www.7digital.com/artist/various-artists/release/cream-club-anthems-2012/?partner=1401</url>
+        <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/015/998/0001599885_50.jpg</image>
+        <releaseDate>2012-02-26T00:00:00+00:00</releaseDate>
+        <addedDate>2012-02-13T14:31:20+00:00</addedDate>
+        <popularity>0.56</popularity>
+        <streamingReleaseDate>3001-01-01T00:00:00+00:00</streamingReleaseDate>
+      </release>
+    </taggedItem>
+    <taggedItem>
+      <release id="1603476">
+        <title>Feed Me's Escape From Electric Mountain</title>
+        <version/>
+        <type>Single</type>
+        <barcode>0883958010068</barcode>
+        <year>2012</year>
+        <explicitContent>false</explicitContent>
+        <artist id="726273">
+          <name>Feed Me</name>
+          <appearsAs>Feed Me</appearsAs>
+          <url>http://www.7digital.com/artist/feed-me/?partner=1401</url>
+        </artist>
+        <url>http://www.7digital.com/artist/feed-me/release/feed-mes-escape-from-electric-mountain/?partner=1401</url>
+        <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/016/034/0001603476_50.jpg</image>
+        <releaseDate>2012-02-06T00:00:00+00:00</releaseDate>
+        <addedDate>2012-02-16T15:12:54+00:00</addedDate>
+        <popularity>0.55</popularity>
+        <streamingReleaseDate>2012-02-06T00:00:00+00:00</streamingReleaseDate>
+      </release>
+    </taggedItem>
+  </taggedResults>
 </response>

@@ -1,1737 +1,1737 @@
 <?xml version="1.0" encoding="utf-8"?>
 <response xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" status="ok" version="1.2" xsi:noNamespaceSchemaLocation="http://api.7digital.com/1.2/static/7digitalAPI.xsd">
-	<taggedResults>
-		<page>1</page>
-		<pageSize>36</pageSize>
-		<totalItems>90</totalItems>
-		<type>release</type>
-		<taggedItem>
-			<release id="1435450">
-				<title>Mylo Xyloto</title>
-				<version/>
-				<type>Album</type>
-				<barcode>5099972930458</barcode>
-				<year>2014</year>
-				<explicitContent>false</explicitContent>
-				<artist id="20">
-					<name>Coldplay</name>
-					<appearsAs>Coldplay</appearsAs>
-					<url>http://www.7digital.com/artist/coldplay/?partner=3923</url>
-				</artist>
-				<url>http://www.7digital.com/artist/coldplay/release/mylo-xyloto-2/?partner=3923</url>
-				<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/014/354/0001435450_50.jpg</image>
-				<releaseDate>2014-06-30T00:00:00+01:00</releaseDate>
-				<addedDate>2011-10-12T11:26:22+01:00</addedDate>
-				<price>
-					<currency code="GBP">£</currency>
-					<value>6.99</value>
-					<formattedPrice>£6.99</formattedPrice>
-					<rrp>6.99</rrp>
-					<formattedRrp>£6.99</formattedRrp>
-					<onSale>false</onSale>
-				</price>
-				<download>
-					<packages>
-						<package id="2">
-							<description>standard</description>
-							<price>
-								<currencyCode>GBP</currencyCode>
-								<sevendigitalPrice>6.99</sevendigitalPrice>
-								<recommendedRetailPrice>6.99</recommendedRetailPrice>
-							</price>
-							<formats>
-								<format id="17">
-									<description>MP3 320</description>
-								</format>
-							</formats>
-						</package>
-					</packages>
-				</download>
-				<popularity>0.8</popularity>
-				<streamingReleaseDate>3001-01-01T00:00:00+00:00</streamingReleaseDate>
-				<duration>2650</duration>
-				<trackCount>14</trackCount>
-			</release>
-		</taggedItem>
-		<taggedItem>
-			<release id="81735">
-				<title>Songs About Jane</title>
-				<version/>
-				<type>Album</type>
-				<barcode>00823765000128</barcode>
-				<year>2007</year>
-				<explicitContent>false</explicitContent>
-				<artist id="222">
-					<name>Maroon 5</name>
-					<appearsAs>Maroon 5</appearsAs>
-					<url>http://www.7digital.com/artist/maroon-5/?partner=3923</url>
-				</artist>
-				<url>http://www.7digital.com/artist/maroon-5/release/songs-about-jane-2-1/?partner=3923</url>
-				<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/000/817/0000081735_50.jpg</image>
-				<releaseDate>2007-04-30T00:00:00+01:00</releaseDate>
-				<addedDate>2007-04-27T11:48:51+01:00</addedDate>
-				<price>
-					<currency code="GBP">£</currency>
-					<value>4.99</value>
-					<formattedPrice>£4.99</formattedPrice>
-					<rrp>4.99</rrp>
-					<formattedRrp>£4.99</formattedRrp>
-					<onSale>false</onSale>
-				</price>
-				<download>
-					<packages>
-						<package id="2">
-							<description>standard</description>
-							<price>
-								<currencyCode>GBP</currencyCode>
-								<sevendigitalPrice>4.99</sevendigitalPrice>
-								<recommendedRetailPrice>4.99</recommendedRetailPrice>
-							</price>
-							<formats>
-								<format id="17">
-									<description>MP3 320</description>
-								</format>
-							</formats>
-						</package>
-					</packages>
-				</download>
-				<popularity>0.78</popularity>
-				<streamingReleaseDate>2007-04-30T00:00:00+01:00</streamingReleaseDate>
-				<duration>2760</duration>
-				<trackCount>12</trackCount>
-			</release>
-		</taggedItem>
-		<taggedItem>
-			<release id="1402123">
-				<title>The Dark Side Of The Moon [2011 - Remaster]</title>
-				<version/>
-				<type>Album</type>
-				<barcode>5099902984056</barcode>
-				<year>2011</year>
-				<explicitContent>false</explicitContent>
-				<artist id="447">
-					<name>Pink Floyd</name>
-					<appearsAs>Pink Floyd</appearsAs>
-					<url>http://www.7digital.com/artist/pink-floyd/?partner=3923</url>
-				</artist>
-				<url>http://www.7digital.com/artist/pink-floyd/release/the-dark-side-of-the-moon-2011-remaster-2/?partner=3923</url>
-				<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/014/021/0001402123_50.jpg</image>
-				<releaseDate>2011-09-26T00:00:00+01:00</releaseDate>
-				<addedDate>2011-09-16T17:39:15+01:00</addedDate>
-				<price>
-					<currency code="GBP">£</currency>
-					<value>7.99</value>
-					<formattedPrice>£7.99</formattedPrice>
-					<rrp>7.99</rrp>
-					<formattedRrp>£7.99</formattedRrp>
-					<onSale>false</onSale>
-				</price>
-				<download>
-					<packages>
-						<package id="2">
-							<description>standard</description>
-							<price>
-								<currencyCode>GBP</currencyCode>
-								<sevendigitalPrice>7.99</sevendigitalPrice>
-								<recommendedRetailPrice>7.99</recommendedRetailPrice>
-							</price>
-							<formats>
-								<format id="17">
-									<description>MP3 320</description>
-								</format>
-							</formats>
-						</package>
-					</packages>
-				</download>
-				<popularity>0.7</popularity>
-				<streamingReleaseDate>2011-09-26T00:00:00+01:00</streamingReleaseDate>
-				<duration>2573</duration>
-				<trackCount>10</trackCount>
-			</release>
-		</taggedItem>
-		<taggedItem>
-			<release id="1402423">
-				<title>Nevermind</title>
-				<version/>
-				<type>Album</type>
-				<barcode>00602527856865</barcode>
-				<year>2011</year>
-				<explicitContent>false</explicitContent>
-				<artist id="169">
-					<name>Nirvana</name>
-					<appearsAs>Nirvana</appearsAs>
-					<url>http://www.7digital.com/artist/nirvana/?partner=3923</url>
-				</artist>
-				<url>http://www.7digital.com/artist/nirvana/release/nevermind-4/?partner=3923</url>
-				<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/014/024/0001402423_50.jpg</image>
-				<releaseDate>2011-09-26T00:00:00+01:00</releaseDate>
-				<addedDate>2011-09-19T12:09:44+01:00</addedDate>
-				<price>
-					<currency code="GBP">£</currency>
-					<value>8.99</value>
-					<formattedPrice>£8.99</formattedPrice>
-					<rrp>8.99</rrp>
-					<formattedRrp>£8.99</formattedRrp>
-					<onSale>false</onSale>
-				</price>
-				<download>
-					<packages>
-						<package id="2">
-							<description>standard</description>
-							<price>
-								<currencyCode>GBP</currencyCode>
-								<sevendigitalPrice>8.99</sevendigitalPrice>
-								<recommendedRetailPrice>8.99</recommendedRetailPrice>
-							</price>
-							<formats>
-								<format id="17">
-									<description>MP3 320</description>
-								</format>
-							</formats>
-						</package>
-					</packages>
-				</download>
-				<popularity>0.69</popularity>
-				<streamingReleaseDate>2011-09-26T00:00:00+01:00</streamingReleaseDate>
-				<duration>2954</duration>
-				<trackCount>13</trackCount>
-			</release>
-		</taggedItem>
-		<taggedItem>
-			<release id="1192901">
-				<title>Wasting Light</title>
-				<version/>
-				<type>Album</type>
-				<barcode>884977880991</barcode>
-				<year>2011</year>
-				<explicitContent>false</explicitContent>
-				<artist id="8293">
-					<name>Foo Fighters</name>
-					<appearsAs>Foo Fighters</appearsAs>
-					<url>http://www.7digital.com/artist/foo-fighters/?partner=3923</url>
-				</artist>
-				<url>http://www.7digital.com/artist/foo-fighters/release/wasting-light/?partner=3923</url>
-				<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/011/929/0001192901_50.jpg</image>
-				<releaseDate>2011-04-11T00:00:00+01:00</releaseDate>
-				<addedDate>2011-03-22T10:09:19+00:00</addedDate>
-				<price>
-					<currency code="GBP">£</currency>
-					<value>5.99</value>
-					<formattedPrice>£5.99</formattedPrice>
-					<rrp>5.99</rrp>
-					<formattedRrp>£5.99</formattedRrp>
-					<onSale>false</onSale>
-				</price>
-				<download>
-					<packages>
-						<package id="2">
-							<description>standard</description>
-							<price>
-								<currencyCode>GBP</currencyCode>
-								<sevendigitalPrice>5.99</sevendigitalPrice>
-								<recommendedRetailPrice>5.99</recommendedRetailPrice>
-							</price>
-							<formats>
-								<format id="17">
-									<description>MP3 320</description>
-								</format>
-							</formats>
-						</package>
-					</packages>
-				</download>
-				<popularity>0.67</popularity>
-				<streamingReleaseDate>2011-04-11T00:00:00+01:00</streamingReleaseDate>
-				<duration>2872</duration>
-				<trackCount>11</trackCount>
-			</release>
-		</taggedItem>
-		<taggedItem>
-			<release id="1544522">
-				<title>Mit K</title>
-				<version/>
-				<type>Album</type>
-				<barcode>00602527784144</barcode>
-				<year>2012</year>
-				<explicitContent>false</explicitContent>
-				<artist id="1064446">
-					<name>Kraftklub</name>
-					<appearsAs>Kraftklub</appearsAs>
-					<url>http://www.7digital.com/artist/kraftklub/?partner=3923</url>
-				</artist>
-				<url>http://www.7digital.com/artist/kraftklub/release/mit-k/?partner=3923</url>
-				<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/015/445/0001544522_50.jpg</image>
-				<releaseDate>2012-01-20T00:00:00+00:00</releaseDate>
-				<addedDate>2012-01-03T14:02:36+00:00</addedDate>
-				<price>
-					<currency code="GBP">£</currency>
-					<value>7.99</value>
-					<formattedPrice>£7.99</formattedPrice>
-					<rrp>7.99</rrp>
-					<formattedRrp>£7.99</formattedRrp>
-					<onSale>false</onSale>
-				</price>
-				<download>
-					<packages>
-						<package id="2">
-							<description>standard</description>
-							<price>
-								<currencyCode>GBP</currencyCode>
-								<sevendigitalPrice>7.99</sevendigitalPrice>
-								<recommendedRetailPrice>7.99</recommendedRetailPrice>
-							</price>
-							<formats>
-								<format id="17">
-									<description>MP3 320</description>
-								</format>
-							</formats>
-						</package>
-					</packages>
-				</download>
-				<popularity>0.67</popularity>
-				<streamingReleaseDate>2012-01-20T00:00:00+00:00</streamingReleaseDate>
-				<duration>2629</duration>
-				<trackCount>13</trackCount>
-			</release>
-		</taggedItem>
-		<taggedItem>
-			<release id="85606">
-				<title>Minutes To Midnight (Explicit Content – Parental Advisory)</title>
-				<version/>
-				<type>Album</type>
-				<barcode>093624447764</barcode>
-				<year>2013</year>
-				<explicitContent>true</explicitContent>
-				<artist id="12873">
-					<name>Linkin Park</name>
-					<appearsAs>Linkin Park</appearsAs>
-					<url>http://www.7digital.com/artist/linkin-park/?partner=3923</url>
-				</artist>
-				<url>http://www.7digital.com/artist/linkin-park/release/minutes-to-midnight-1-1/?partner=3923</url>
-				<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/000/856/0000085606_50.jpg</image>
-				<releaseDate>2013-01-16T00:00:00+00:00</releaseDate>
-				<addedDate>2007-05-02T14:44:40+01:00</addedDate>
-				<price>
-					<currency code="GBP">£</currency>
-					<value>5.49</value>
-					<formattedPrice>£5.49</formattedPrice>
-					<rrp>5.49</rrp>
-					<formattedRrp>£5.49</formattedRrp>
-					<onSale>false</onSale>
-				</price>
-				<download>
-					<packages>
-						<package id="2">
-							<description>standard</description>
-							<price>
-								<currencyCode>GBP</currencyCode>
-								<sevendigitalPrice>5.49</sevendigitalPrice>
-								<recommendedRetailPrice>5.49</recommendedRetailPrice>
-							</price>
-							<formats>
-								<format id="17">
-									<description>MP3 320</description>
-								</format>
-							</formats>
-						</package>
-					</packages>
-				</download>
-				<popularity>0.67</popularity>
-				<streamingReleaseDate>2013-01-16T00:00:00+00:00</streamingReleaseDate>
-				<duration>2615</duration>
-				<trackCount>12</trackCount>
-			</release>
-		</taggedItem>
-		<taggedItem>
-			<release id="39899">
-				<title>Parachutes</title>
-				<version/>
-				<type>Album</type>
-				<barcode>0067003016254</barcode>
-				<year>2014</year>
-				<explicitContent>false</explicitContent>
-				<artist id="20">
-					<name>Coldplay</name>
-					<appearsAs>Coldplay</appearsAs>
-					<url>http://www.7digital.com/artist/coldplay/?partner=3923</url>
-				</artist>
-				<url>http://www.7digital.com/artist/coldplay/release/parachutes-2/?partner=3923</url>
-				<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/000/398/0000039899_50.jpg</image>
-				<releaseDate>2014-06-30T00:00:00+01:00</releaseDate>
-				<addedDate>2006-07-28T12:41:23+01:00</addedDate>
-				<price>
-					<currency code="GBP">£</currency>
-					<value>6.99</value>
-					<formattedPrice>£6.99</formattedPrice>
-					<rrp>6.99</rrp>
-					<formattedRrp>£6.99</formattedRrp>
-					<onSale>false</onSale>
-				</price>
-				<download>
-					<packages>
-						<package id="2">
-							<description>standard</description>
-							<price>
-								<currencyCode>GBP</currencyCode>
-								<sevendigitalPrice>6.99</sevendigitalPrice>
-								<recommendedRetailPrice>6.99</recommendedRetailPrice>
-							</price>
-							<formats>
-								<format id="17">
-									<description>MP3 320</description>
-								</format>
-							</formats>
-						</package>
-					</packages>
-				</download>
-				<popularity>0.66</popularity>
-				<streamingReleaseDate>2014-06-30T00:00:00+01:00</streamingReleaseDate>
-				<duration>2517</duration>
-				<trackCount>10</trackCount>
-			</release>
-		</taggedItem>
-		<taggedItem>
-			<release id="1283801">
-				<title>The Platinum Collection</title>
-				<version>2011 Remaster</version>
-				<type>Album</type>
-				<barcode>00602527724171</barcode>
-				<year>2011</year>
-				<explicitContent>false</explicitContent>
-				<artist id="204">
-					<name>Queen</name>
-					<appearsAs>Queen</appearsAs>
-					<url>http://www.7digital.com/artist/queen/?partner=3923</url>
-				</artist>
-				<url>http://www.7digital.com/artist/queen/release/the-platinum-collection-1/?partner=3923</url>
-				<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/012/838/0001283801_50.jpg</image>
-				<releaseDate>2011-06-27T00:00:00+01:00</releaseDate>
-				<addedDate>2011-06-10T17:04:39+01:00</addedDate>
-				<price>
-					<currency code="GBP">£</currency>
-					<value>12.99</value>
-					<formattedPrice>£12.99</formattedPrice>
-					<rrp>12.99</rrp>
-					<formattedRrp>£12.99</formattedRrp>
-					<onSale>false</onSale>
-				</price>
-				<download>
-					<packages>
-						<package id="2">
-							<description>standard</description>
-							<price>
-								<currencyCode>GBP</currencyCode>
-								<sevendigitalPrice>12.99</sevendigitalPrice>
-								<recommendedRetailPrice>12.99</recommendedRetailPrice>
-							</price>
-							<formats>
-								<format id="17">
-									<description>MP3 320</description>
-								</format>
-							</formats>
-						</package>
-					</packages>
-				</download>
-				<popularity>0.66</popularity>
-				<streamingReleaseDate>2011-06-27T00:00:00+01:00</streamingReleaseDate>
-				<duration>12459</duration>
-				<trackCount>51</trackCount>
-			</release>
-		</taggedItem>
-		<taggedItem>
-			<release id="308658">
-				<title>Greatest Hits</title>
-				<version/>
-				<type>Album</type>
-				<barcode>828768588925</barcode>
-				<year>2006</year>
-				<explicitContent>false</explicitContent>
-				<artist id="37593">
-					<name>Journey</name>
-					<appearsAs>Journey</appearsAs>
-					<url>http://www.7digital.com/artist/journey/?partner=3923</url>
-				</artist>
-				<url>http://www.7digital.com/artist/journey/release/greatest-hits-3/?partner=3923</url>
-				<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/003/086/0000308658_50.jpg</image>
-				<releaseDate>2006-08-26T00:00:00+01:00</releaseDate>
-				<addedDate>2008-08-16T16:09:26+01:00</addedDate>
-				<price>
-					<currency code="GBP">£</currency>
-					<value>6.99</value>
-					<formattedPrice>£6.99</formattedPrice>
-					<rrp>6.99</rrp>
-					<formattedRrp>£6.99</formattedRrp>
-					<onSale>false</onSale>
-				</price>
-				<download>
-					<packages>
-						<package id="2">
-							<description>standard</description>
-							<price>
-								<currencyCode>GBP</currencyCode>
-								<sevendigitalPrice>6.99</sevendigitalPrice>
-								<recommendedRetailPrice>6.99</recommendedRetailPrice>
-							</price>
-							<formats>
-								<format id="17">
-									<description>MP3 320</description>
-								</format>
-							</formats>
-						</package>
-					</packages>
-				</download>
-				<popularity>0.65</popularity>
-				<streamingReleaseDate>2006-08-26T00:00:00+01:00</streamingReleaseDate>
-				<duration>3918</duration>
-				<trackCount>16</trackCount>
-			</release>
-		</taggedItem>
-		<taggedItem>
-			<release id="343549">
-				<title>Call And Response: The Remix Album</title>
-				<version/>
-				<type>Album</type>
-				<barcode>00602517884250</barcode>
-				<year>2008</year>
-				<explicitContent>false</explicitContent>
-				<artist id="222">
-					<name>Maroon 5</name>
-					<appearsAs>Maroon 5</appearsAs>
-					<url>http://www.7digital.com/artist/maroon-5/?partner=3923</url>
-				</artist>
-				<url>http://www.7digital.com/artist/maroon-5/release/call-and-response-the-remix-album-2/?partner=3923</url>
-				<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/003/435/0000343549_50.jpg</image>
-				<releaseDate>2008-12-07T00:00:00+00:00</releaseDate>
-				<addedDate>2008-11-26T19:35:31+00:00</addedDate>
-				<price>
-					<currency code="GBP">£</currency>
-					<value>8.99</value>
-					<formattedPrice>£8.99</formattedPrice>
-					<rrp>8.99</rrp>
-					<formattedRrp>£8.99</formattedRrp>
-					<onSale>false</onSale>
-				</price>
-				<download>
-					<packages>
-						<package id="2">
-							<description>standard</description>
-							<price>
-								<currencyCode>GBP</currencyCode>
-								<sevendigitalPrice>8.99</sevendigitalPrice>
-								<recommendedRetailPrice>8.99</recommendedRetailPrice>
-							</price>
-							<formats>
-								<format id="17">
-									<description>MP3 320</description>
-								</format>
-							</formats>
-						</package>
-					</packages>
-				</download>
-				<popularity>0.65</popularity>
-				<streamingReleaseDate>2008-12-07T00:00:00+00:00</streamingReleaseDate>
-				<duration>4519</duration>
-				<trackCount>18</trackCount>
-			</release>
-		</taggedItem>
-		<taggedItem>
-			<release id="48933">
-				<title>U218 Singles</title>
-				<version>Deluxe Version</version>
-				<type>Album</type>
-				<barcode>00602517138957</barcode>
-				<year>2006</year>
-				<explicitContent>false</explicitContent>
-				<artist id="106">
-					<name>U2</name>
-					<appearsAs>U2</appearsAs>
-					<url>http://www.7digital.com/artist/u2/?partner=3923</url>
-				</artist>
-				<url>http://www.7digital.com/artist/u2/release/u218-singles-deluxe-version-1/?partner=3923</url>
-				<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/000/489/0000048933_50.jpg</image>
-				<releaseDate>2006-11-20T00:00:00+00:00</releaseDate>
-				<addedDate>2006-11-13T15:20:09+00:00</addedDate>
-				<price>
-					<currency code="GBP">£</currency>
-					<value>9.99</value>
-					<formattedPrice>£9.99</formattedPrice>
-					<rrp>9.99</rrp>
-					<formattedRrp>£9.99</formattedRrp>
-					<onSale>false</onSale>
-				</price>
-				<download>
-					<packages>
-						<package id="2">
-							<description>standard</description>
-							<price>
-								<currencyCode>GBP</currencyCode>
-								<sevendigitalPrice>9.99</sevendigitalPrice>
-								<recommendedRetailPrice>9.99</recommendedRetailPrice>
-							</price>
-							<formats>
-								<format id="17">
-									<description>MP3 320</description>
-								</format>
-							</formats>
-						</package>
-					</packages>
-				</download>
-				<popularity>0.64</popularity>
-				<streamingReleaseDate>2006-11-20T00:00:00+00:00</streamingReleaseDate>
-				<duration>7442</duration>
-				<trackCount>27</trackCount>
-			</release>
-		</taggedItem>
-		<taggedItem>
-			<release id="1617950">
-				<title>Wrecking Ball</title>
-				<version/>
-				<type>Album</type>
-				<barcode>886443344761</barcode>
-				<year>2012</year>
-				<explicitContent>false</explicitContent>
-				<artist id="15122">
-					<name>Bruce Springsteen</name>
-					<appearsAs>Bruce Springsteen</appearsAs>
-					<url>http://www.7digital.com/artist/bruce-springsteen/?partner=3923</url>
-				</artist>
-				<url>http://www.7digital.com/artist/bruce-springsteen/release/wrecking-ball-2/?partner=3923</url>
-				<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/016/179/0001617950_50.jpg</image>
-				<releaseDate>2012-03-05T00:00:00+00:00</releaseDate>
-				<addedDate>2012-02-24T16:58:55+00:00</addedDate>
-				<price>
-					<currency code="GBP">£</currency>
-					<value>7.99</value>
-					<formattedPrice>£7.99</formattedPrice>
-					<rrp>7.99</rrp>
-					<formattedRrp>£7.99</formattedRrp>
-					<onSale>false</onSale>
-				</price>
-				<download>
-					<packages>
-						<package id="2">
-							<description>standard</description>
-							<price>
-								<currencyCode>GBP</currencyCode>
-								<sevendigitalPrice>7.99</sevendigitalPrice>
-								<recommendedRetailPrice>7.99</recommendedRetailPrice>
-							</price>
-							<formats>
-								<format id="17">
-									<description>MP3 320</description>
-								</format>
-							</formats>
-						</package>
-					</packages>
-				</download>
-				<popularity>0.64</popularity>
-				<streamingReleaseDate>2012-03-05T00:00:00+00:00</streamingReleaseDate>
-				<duration>3087</duration>
-				<trackCount>11</trackCount>
-			</release>
-		</taggedItem>
-		<taggedItem>
-			<release id="1374356">
-				<title>Noel Gallagher's High Flying Birds</title>
-				<version/>
-				<type>Album</type>
-				<barcode>5052945010106</barcode>
-				<year>2011</year>
-				<explicitContent>true</explicitContent>
-				<artist id="1075100">
-					<name>Noel Gallagher's High Flying Birds</name>
-					<appearsAs>Noel Gallagher's High Flying Birds</appearsAs>
-					<url>http://www.7digital.com/artist/noel-gallaghers-high-flying-birds/?partner=3923</url>
-				</artist>
-				<url>http://www.7digital.com/artist/noel-gallaghers-high-flying-birds/release/noel-gallaghers-high-flying-birds-10/?partner=3923</url>
-				<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/013/743/0001374356_50.jpg</image>
-				<releaseDate>2011-10-17T00:00:00+01:00</releaseDate>
-				<addedDate>2011-08-23T14:11:37+01:00</addedDate>
-				<price>
-					<currency code="GBP">£</currency>
-					<value>4.49</value>
-					<formattedPrice>£4.49</formattedPrice>
-					<rrp>4.49</rrp>
-					<formattedRrp>£4.49</formattedRrp>
-					<onSale>false</onSale>
-				</price>
-				<download>
-					<packages>
-						<package id="2">
-							<description>standard</description>
-							<price>
-								<currencyCode>GBP</currencyCode>
-								<sevendigitalPrice>4.49</sevendigitalPrice>
-								<recommendedRetailPrice>4.49</recommendedRetailPrice>
-							</price>
-							<formats>
-								<format id="17">
-									<description>MP3 320</description>
-								</format>
-							</formats>
-						</package>
-					</packages>
-				</download>
-				<popularity>0.64</popularity>
-				<streamingReleaseDate>2011-10-17T00:00:00+01:00</streamingReleaseDate>
-				<duration>2560</duration>
-				<trackCount>10</trackCount>
-			</release>
-		</taggedItem>
-		<taggedItem>
-			<release id="401785">
-				<title>Hot Fuss</title>
-				<version>Deluxe Version</version>
-				<type>Album</type>
-				<barcode>00602498753842</barcode>
-				<year>2009</year>
-				<explicitContent>false</explicitContent>
-				<artist id="616">
-					<name>The Killers</name>
-					<appearsAs>Killers, The</appearsAs>
-					<url>http://www.7digital.com/artist/the-killers/?partner=3923</url>
-				</artist>
-				<url>http://www.7digital.com/artist/the-killers/release/hot-fuss-1/?partner=3923</url>
-				<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/004/017/0000401785_50.jpg</image>
-				<releaseDate>2009-03-06T00:00:00+00:00</releaseDate>
-				<addedDate>2009-03-10T12:49:28+00:00</addedDate>
-				<price>
-					<currency code="GBP">£</currency>
-					<value>9.99</value>
-					<formattedPrice>£9.99</formattedPrice>
-					<rrp>9.99</rrp>
-					<formattedRrp>£9.99</formattedRrp>
-					<onSale>false</onSale>
-				</price>
-				<download>
-					<packages>
-						<package id="2">
-							<description>standard</description>
-							<price>
-								<currencyCode>GBP</currencyCode>
-								<sevendigitalPrice>9.99</sevendigitalPrice>
-								<recommendedRetailPrice>9.99</recommendedRetailPrice>
-							</price>
-							<formats>
-								<format id="17">
-									<description>MP3 320</description>
-								</format>
-							</formats>
-						</package>
-					</packages>
-				</download>
-				<popularity>0.63</popularity>
-				<streamingReleaseDate>2009-03-06T00:00:00+00:00</streamingReleaseDate>
-				<duration>4079</duration>
-				<trackCount>14</trackCount>
-			</release>
-		</taggedItem>
-		<taggedItem>
-			<release id="94233">
-				<title>Mutter</title>
-				<version/>
-				<type>Album</type>
-				<barcode>00731454963923</barcode>
-				<year>2001</year>
-				<explicitContent>false</explicitContent>
-				<artist id="845">
-					<name>Rammstein</name>
-					<appearsAs>Rammstein</appearsAs>
-					<url>http://www.7digital.com/artist/rammstein/?partner=3923</url>
-				</artist>
-				<url>http://www.7digital.com/artist/rammstein/release/mutter/?partner=3923</url>
-				<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/000/942/0000094233_50.jpg</image>
-				<releaseDate>2001-04-16T00:00:00+01:00</releaseDate>
-				<addedDate>2007-05-17T11:37:26+01:00</addedDate>
-				<price>
-					<currency code="GBP">£</currency>
-					<value>8.99</value>
-					<formattedPrice>£8.99</formattedPrice>
-					<rrp>8.99</rrp>
-					<formattedRrp>£8.99</formattedRrp>
-					<onSale>false</onSale>
-				</price>
-				<download>
-					<packages>
-						<package id="2">
-							<description>standard</description>
-							<price>
-								<currencyCode>GBP</currencyCode>
-								<sevendigitalPrice>8.99</sevendigitalPrice>
-								<recommendedRetailPrice>8.99</recommendedRetailPrice>
-							</price>
-							<formats>
-								<format id="17">
-									<description>MP3 320</description>
-								</format>
-							</formats>
-						</package>
-					</packages>
-				</download>
-				<popularity>0.63</popularity>
-				<streamingReleaseDate>3001-01-01T00:00:00+00:00</streamingReleaseDate>
-				<duration>2700</duration>
-				<trackCount>11</trackCount>
-			</release>
-		</taggedItem>
-		<taggedItem>
-			<release id="21283">
-				<title>Portishead</title>
-				<version/>
-				<type>Album</type>
-				<barcode>00731453918924</barcode>
-				<year>1999</year>
-				<explicitContent>false</explicitContent>
-				<artist id="8819">
-					<name>Portishead</name>
-					<appearsAs>Portishead</appearsAs>
-					<url>http://www.7digital.com/artist/portishead/?partner=3923</url>
-				</artist>
-				<url>http://www.7digital.com/artist/portishead/release/portishead-1/?partner=3923</url>
-				<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/000/212/0000021283_50.jpg</image>
-				<releaseDate>1999-06-18T00:00:00+01:00</releaseDate>
-				<addedDate>2005-11-25T16:10:03+00:00</addedDate>
-				<price>
-					<currency code="GBP">£</currency>
-					<value>4.99</value>
-					<formattedPrice>£4.99</formattedPrice>
-					<rrp>4.99</rrp>
-					<formattedRrp>£4.99</formattedRrp>
-					<onSale>false</onSale>
-				</price>
-				<download>
-					<packages>
-						<package id="2">
-							<description>standard</description>
-							<price>
-								<currencyCode>GBP</currencyCode>
-								<sevendigitalPrice>4.99</sevendigitalPrice>
-								<recommendedRetailPrice>4.99</recommendedRetailPrice>
-							</price>
-							<formats>
-								<format id="17">
-									<description>MP3 320</description>
-								</format>
-							</formats>
-						</package>
-					</packages>
-				</download>
-				<popularity>0.63</popularity>
-				<streamingReleaseDate>1999-06-18T00:00:00+01:00</streamingReleaseDate>
-				<duration>3008</duration>
-				<trackCount>11</trackCount>
-			</release>
-		</taggedItem>
-		<taggedItem>
-			<release id="296">
-				<title>A Rush Of Blood To The Head</title>
-				<version/>
-				<type>Album</type>
-				<barcode>0724354050459</barcode>
-				<year>2014</year>
-				<explicitContent>false</explicitContent>
-				<artist id="20">
-					<name>Coldplay</name>
-					<appearsAs>Coldplay</appearsAs>
-					<url>http://www.7digital.com/artist/coldplay/?partner=3923</url>
-				</artist>
-				<url>http://www.7digital.com/artist/coldplay/release/a-rush-of-blood-to-the-head/?partner=3923</url>
-				<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/000/002/0000000296_50.jpg</image>
-				<releaseDate>2014-06-30T00:00:00+01:00</releaseDate>
-				<addedDate>2004-07-09T18:20:54+01:00</addedDate>
-				<price>
-					<currency code="GBP">£</currency>
-					<value>7.99</value>
-					<formattedPrice>£7.99</formattedPrice>
-					<rrp>7.99</rrp>
-					<formattedRrp>£7.99</formattedRrp>
-					<onSale>false</onSale>
-				</price>
-				<download>
-					<packages>
-						<package id="2">
-							<description>standard</description>
-							<price>
-								<currencyCode>GBP</currencyCode>
-								<sevendigitalPrice>7.99</sevendigitalPrice>
-								<recommendedRetailPrice>7.99</recommendedRetailPrice>
-							</price>
-							<formats>
-								<format id="17">
-									<description>MP3 320</description>
-								</format>
-							</formats>
-						</package>
-					</packages>
-				</download>
-				<popularity>0.63</popularity>
-				<streamingReleaseDate>2014-06-30T00:00:00+01:00</streamingReleaseDate>
-				<duration>3254</duration>
-				<trackCount>11</trackCount>
-			</release>
-		</taggedItem>
-		<taggedItem>
-			<release id="38972">
-				<title>Metallica</title>
-				<version/>
-				<type>Album</type>
-				<barcode>00731451002229</barcode>
-				<year>2008</year>
-				<explicitContent>false</explicitContent>
-				<artist id="27920">
-					<name>Metallica</name>
-					<appearsAs>Metallica</appearsAs>
-					<url>http://www.7digital.com/artist/metallica/?partner=3923</url>
-				</artist>
-				<url>http://www.7digital.com/artist/metallica/release/metallica-4/?partner=3923</url>
-				<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/000/389/0000038972_50.jpg</image>
-				<releaseDate>2008-08-18T00:00:00+01:00</releaseDate>
-				<addedDate>2006-07-20T11:26:52+01:00</addedDate>
-				<price>
-					<currency code="GBP">£</currency>
-					<value>8.99</value>
-					<formattedPrice>£8.99</formattedPrice>
-					<rrp>8.99</rrp>
-					<formattedRrp>£8.99</formattedRrp>
-					<onSale>false</onSale>
-				</price>
-				<download>
-					<packages>
-						<package id="2">
-							<description>standard</description>
-							<price>
-								<currencyCode>GBP</currencyCode>
-								<sevendigitalPrice>8.99</sevendigitalPrice>
-								<recommendedRetailPrice>8.99</recommendedRetailPrice>
-							</price>
-							<formats>
-								<format id="17">
-									<description>MP3 320</description>
-								</format>
-							</formats>
-						</package>
-					</packages>
-				</download>
-				<popularity>0.63</popularity>
-				<streamingReleaseDate>3001-01-01T00:00:00+00:00</streamingReleaseDate>
-				<duration>3760</duration>
-				<trackCount>12</trackCount>
-			</release>
-		</taggedItem>
-		<taggedItem>
-			<release id="11546">
-				<title>X &amp; Y</title>
-				<version/>
-				<type>Album</type>
-				<barcode>0724347478659</barcode>
-				<year>2014</year>
-				<explicitContent>false</explicitContent>
-				<artist id="20">
-					<name>Coldplay</name>
-					<appearsAs>Coldplay</appearsAs>
-					<url>http://www.7digital.com/artist/coldplay/?partner=3923</url>
-				</artist>
-				<url>http://www.7digital.com/artist/coldplay/release/x-y/?partner=3923</url>
-				<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/000/115/0000011546_50.jpg</image>
-				<releaseDate>2014-06-30T00:00:00+01:00</releaseDate>
-				<addedDate>2005-06-03T13:15:00+01:00</addedDate>
-				<price>
-					<currency code="GBP">£</currency>
-					<value>7.99</value>
-					<formattedPrice>£7.99</formattedPrice>
-					<rrp>7.99</rrp>
-					<formattedRrp>£7.99</formattedRrp>
-					<onSale>false</onSale>
-				</price>
-				<download>
-					<packages>
-						<package id="2">
-							<description>standard</description>
-							<price>
-								<currencyCode>GBP</currencyCode>
-								<sevendigitalPrice>7.99</sevendigitalPrice>
-								<recommendedRetailPrice>7.99</recommendedRetailPrice>
-							</price>
-							<formats>
-								<format id="17">
-									<description>MP3 320</description>
-								</format>
-							</formats>
-						</package>
-					</packages>
-				</download>
-				<popularity>0.63</popularity>
-				<streamingReleaseDate>2014-06-30T00:00:00+01:00</streamingReleaseDate>
-				<duration>3730</duration>
-				<trackCount>13</trackCount>
-			</release>
-		</taggedItem>
-		<taggedItem>
-			<release id="1722658">
-				<title>Born and Raised</title>
-				<version/>
-				<type>Album</type>
-				<barcode>886443406308</barcode>
-				<year>2012</year>
-				<explicitContent>false</explicitContent>
-				<artist id="7032">
-					<name>John Mayer</name>
-					<appearsAs>John Mayer</appearsAs>
-					<url>http://www.7digital.com/artist/john-mayer/?partner=3923</url>
-				</artist>
-				<url>http://www.7digital.com/artist/john-mayer/release/born-and-raised/?partner=3923</url>
-				<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/017/226/0001722658_50.jpg</image>
-				<releaseDate>2012-05-21T00:00:00+01:00</releaseDate>
-				<addedDate>2012-05-18T13:32:49+01:00</addedDate>
-				<price>
-					<currency code="GBP">£</currency>
-					<value>8.99</value>
-					<formattedPrice>£8.99</formattedPrice>
-					<rrp>8.99</rrp>
-					<formattedRrp>£8.99</formattedRrp>
-					<onSale>false</onSale>
-				</price>
-				<download>
-					<packages>
-						<package id="2">
-							<description>standard</description>
-							<price>
-								<currencyCode>GBP</currencyCode>
-								<sevendigitalPrice>8.99</sevendigitalPrice>
-								<recommendedRetailPrice>8.99</recommendedRetailPrice>
-							</price>
-							<formats>
-								<format id="17">
-									<description>MP3 320</description>
-								</format>
-							</formats>
-						</package>
-					</packages>
-				</download>
-				<popularity>0.62</popularity>
-				<streamingReleaseDate>2012-05-21T00:00:00+01:00</streamingReleaseDate>
-				<duration>2789</duration>
-				<trackCount>12</trackCount>
-			</release>
-		</taggedItem>
-		<taggedItem>
-			<release id="1415492">
-				<title>The Best Of Pink Floyd: A Foot In The Door [2011 - Remaster]</title>
-				<version/>
-				<type>Album</type>
-				<barcode>5099968088552</barcode>
-				<year>2011</year>
-				<explicitContent>false</explicitContent>
-				<artist id="447">
-					<name>Pink Floyd</name>
-					<appearsAs>Pink Floyd</appearsAs>
-					<url>http://www.7digital.com/artist/pink-floyd/?partner=3923</url>
-				</artist>
-				<url>http://www.7digital.com/artist/pink-floyd/release/a-foot-in-the-door-the-best-of-pink-floyd-2011-remaster/?partner=3923</url>
-				<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/014/154/0001415492_50.jpg</image>
-				<releaseDate>2011-11-07T00:00:00+00:00</releaseDate>
-				<addedDate>2011-09-28T11:18:11+01:00</addedDate>
-				<price>
-					<currency code="GBP">£</currency>
-					<value>7.99</value>
-					<formattedPrice>£7.99</formattedPrice>
-					<rrp>7.99</rrp>
-					<formattedRrp>£7.99</formattedRrp>
-					<onSale>false</onSale>
-				</price>
-				<download>
-					<packages>
-						<package id="2">
-							<description>standard</description>
-							<price>
-								<currencyCode>GBP</currencyCode>
-								<sevendigitalPrice>7.99</sevendigitalPrice>
-								<recommendedRetailPrice>7.99</recommendedRetailPrice>
-							</price>
-							<formats>
-								<format id="17">
-									<description>MP3 320</description>
-								</format>
-							</formats>
-						</package>
-					</packages>
-				</download>
-				<popularity>0.62</popularity>
-				<streamingReleaseDate>2011-11-07T00:00:00+00:00</streamingReleaseDate>
-				<duration>4963</duration>
-				<trackCount>16</trackCount>
-			</release>
-		</taggedItem>
-		<taggedItem>
-			<release id="1477242">
-				<title>Here And Now</title>
-				<version/>
-				<type>Album</type>
-				<barcode>016861770969</barcode>
-				<year>2012</year>
-				<explicitContent>false</explicitContent>
-				<artist id="669">
-					<name>Nickelback</name>
-					<appearsAs>Nickelback</appearsAs>
-					<url>http://www.7digital.com/artist/nickelback/?partner=3923</url>
-				</artist>
-				<url>http://www.7digital.com/artist/nickelback/release/here-and-now-2/?partner=3923</url>
-				<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/014/772/0001477242_50.jpg</image>
-				<releaseDate>2012-02-14T00:00:00+00:00</releaseDate>
-				<addedDate>2011-11-10T17:53:22+00:00</addedDate>
-				<price>
-					<currency code="GBP">£</currency>
-					<value>6.99</value>
-					<formattedPrice>£6.99</formattedPrice>
-					<rrp>6.99</rrp>
-					<formattedRrp>£6.99</formattedRrp>
-					<onSale>false</onSale>
-				</price>
-				<download>
-					<packages>
-						<package id="2">
-							<description>standard</description>
-							<price>
-								<currencyCode>GBP</currencyCode>
-								<sevendigitalPrice>6.99</sevendigitalPrice>
-								<recommendedRetailPrice>6.99</recommendedRetailPrice>
-							</price>
-							<formats>
-								<format id="17">
-									<description>MP3 320</description>
-								</format>
-							</formats>
-						</package>
-					</packages>
-				</download>
-				<popularity>0.62</popularity>
-				<streamingReleaseDate>2012-02-14T00:00:00+00:00</streamingReleaseDate>
-				<duration>2389</duration>
-				<trackCount>11</trackCount>
-			</release>
-		</taggedItem>
-		<taggedItem>
-			<release id="315773">
-				<title>Only By The Night</title>
-				<version/>
-				<type>Album</type>
-				<barcode>886973519929</barcode>
-				<year>2008</year>
-				<explicitContent>false</explicitContent>
-				<artist id="1246">
-					<name>Kings Of Leon</name>
-					<appearsAs>Kings Of Leon</appearsAs>
-					<url>http://www.7digital.com/artist/kings-of-leon/?partner=3923</url>
-				</artist>
-				<url>http://www.7digital.com/artist/kings-of-leon/release/only-by-the-night-1/?partner=3923</url>
-				<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/003/157/0000315773_50.jpg</image>
-				<releaseDate>2008-09-22T00:00:00+01:00</releaseDate>
-				<addedDate>2008-09-09T10:44:58+01:00</addedDate>
-				<price>
-					<currency code="GBP">£</currency>
-					<value>6.99</value>
-					<formattedPrice>£6.99</formattedPrice>
-					<rrp>6.99</rrp>
-					<formattedRrp>£6.99</formattedRrp>
-					<onSale>false</onSale>
-				</price>
-				<download>
-					<packages>
-						<package id="2">
-							<description>standard</description>
-							<price>
-								<currencyCode>GBP</currencyCode>
-								<sevendigitalPrice>6.99</sevendigitalPrice>
-								<recommendedRetailPrice>6.99</recommendedRetailPrice>
-							</price>
-							<formats>
-								<format id="17">
-									<description>MP3 320</description>
-								</format>
-							</formats>
-						</package>
-					</packages>
-				</download>
-				<popularity>0.62</popularity>
-				<streamingReleaseDate>2008-09-22T00:00:00+01:00</streamingReleaseDate>
-				<duration>2558</duration>
-				<trackCount>11</trackCount>
-			</release>
-		</taggedItem>
-		<taggedItem>
-			<release id="868778">
-				<title>The Final Frontier</title>
-				<version/>
-				<type>Album</type>
-				<barcode>5099964776859</barcode>
-				<year>2010</year>
-				<explicitContent>false</explicitContent>
-				<artist id="1252">
-					<name>Iron Maiden</name>
-					<appearsAs>Iron Maiden</appearsAs>
-					<url>http://www.7digital.com/artist/iron-maiden/?partner=3923</url>
-				</artist>
-				<url>http://www.7digital.com/artist/iron-maiden/release/the-final-frontier-1/?partner=3923</url>
-				<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/008/687/0000868778_50.jpg</image>
-				<releaseDate>2010-08-16T00:00:00+01:00</releaseDate>
-				<addedDate>2010-06-07T15:11:19+01:00</addedDate>
-				<price>
-					<currency code="GBP">£</currency>
-					<value>7.49</value>
-					<formattedPrice>£7.49</formattedPrice>
-					<rrp>7.49</rrp>
-					<formattedRrp>£7.49</formattedRrp>
-					<onSale>false</onSale>
-				</price>
-				<download>
-					<packages>
-						<package id="2">
-							<description>standard</description>
-							<price>
-								<currencyCode>GBP</currencyCode>
-								<sevendigitalPrice>7.49</sevendigitalPrice>
-								<recommendedRetailPrice>7.49</recommendedRetailPrice>
-							</price>
-							<formats>
-								<format id="17">
-									<description>MP3 320</description>
-								</format>
-							</formats>
-						</package>
-					</packages>
-				</download>
-				<popularity>0.62</popularity>
-				<streamingReleaseDate>2010-08-16T00:00:00+01:00</streamingReleaseDate>
-				<duration>4602</duration>
-				<trackCount>10</trackCount>
-			</release>
-		</taggedItem>
-		<taggedItem>
-			<release id="14472">
-				<title>The Best Of Neil Diamond</title>
-				<version/>
-				<type>Album</type>
-				<barcode>00008811145224</barcode>
-				<year>2008</year>
-				<explicitContent>false</explicitContent>
-				<artist id="35">
-					<name>Neil Diamond</name>
-					<appearsAs>Neil Diamond</appearsAs>
-					<url>http://www.7digital.com/artist/neil-diamond/?partner=3923</url>
-				</artist>
-				<url>http://www.7digital.com/artist/neil-diamond/release/the-best-of-neil-diamond/?partner=3923</url>
-				<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/000/144/0000014472_50.jpg</image>
-				<releaseDate>2008-05-16T00:00:00+01:00</releaseDate>
-				<addedDate>2005-08-01T17:04:00+01:00</addedDate>
-				<price>
-					<currency code="GBP">£</currency>
-					<value>4.99</value>
-					<formattedPrice>£4.99</formattedPrice>
-					<rrp>4.99</rrp>
-					<formattedRrp>£4.99</formattedRrp>
-					<onSale>false</onSale>
-				</price>
-				<download>
-					<packages>
-						<package id="2">
-							<description>standard</description>
-							<price>
-								<currencyCode>GBP</currencyCode>
-								<sevendigitalPrice>4.99</sevendigitalPrice>
-								<recommendedRetailPrice>4.99</recommendedRetailPrice>
-							</price>
-							<formats>
-								<format id="17">
-									<description>MP3 320</description>
-								</format>
-							</formats>
-						</package>
-					</packages>
-				</download>
-				<popularity>0.62</popularity>
-				<streamingReleaseDate>2008-05-16T00:00:00+01:00</streamingReleaseDate>
-				<duration>4502</duration>
-				<trackCount>21</trackCount>
-			</release>
-		</taggedItem>
-		<taggedItem>
-			<release id="398603">
-				<title>It's Blitz!</title>
-				<version>Deluxe digital album</version>
-				<type>Album</type>
-				<barcode>00602527021713</barcode>
-				<year>2009</year>
-				<explicitContent>false</explicitContent>
-				<artist id="892">
-					<name>Yeah Yeah Yeahs</name>
-					<appearsAs>Yeah Yeah Yeahs</appearsAs>
-					<url>http://www.7digital.com/artist/yeah-yeah-yeahs/?partner=3923</url>
-				</artist>
-				<url>http://www.7digital.com/artist/yeah-yeah-yeahs/release/its-blitz-1/?partner=3923</url>
-				<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/003/986/0000398603_50.jpg</image>
-				<releaseDate>2009-03-08T00:00:00+00:00</releaseDate>
-				<addedDate>2009-03-04T16:37:27+00:00</addedDate>
-				<price>
-					<currency code="GBP">£</currency>
-					<value>7.99</value>
-					<formattedPrice>£7.99</formattedPrice>
-					<rrp>7.99</rrp>
-					<formattedRrp>£7.99</formattedRrp>
-					<onSale>false</onSale>
-				</price>
-				<download>
-					<packages>
-						<package id="2">
-							<description>standard</description>
-							<price>
-								<currencyCode>GBP</currencyCode>
-								<sevendigitalPrice>7.99</sevendigitalPrice>
-								<recommendedRetailPrice>7.99</recommendedRetailPrice>
-							</price>
-							<formats>
-								<format id="17">
-									<description>MP3 320</description>
-								</format>
-							</formats>
-						</package>
-					</packages>
-				</download>
-				<popularity>0.61</popularity>
-				<streamingReleaseDate>2009-03-08T00:00:00+00:00</streamingReleaseDate>
-				<duration>3535</duration>
-				<trackCount>15</trackCount>
-			</release>
-		</taggedItem>
-		<taggedItem>
-			<release id="50665">
-				<title>All Killer, No Filler</title>
-				<version/>
-				<type>Album</type>
-				<barcode>00731454866224</barcode>
-				<year>2001</year>
-				<explicitContent>false</explicitContent>
-				<artist id="355">
-					<name>Sum 41</name>
-					<appearsAs>Sum 41</appearsAs>
-					<url>http://www.7digital.com/artist/sum-41/?partner=3923</url>
-				</artist>
-				<url>http://www.7digital.com/artist/sum-41/release/all-killer-no-filler-4/?partner=3923</url>
-				<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/000/506/0000050665_50.jpg</image>
-				<releaseDate>2001-07-16T00:00:00+01:00</releaseDate>
-				<addedDate>2006-11-17T15:19:43+00:00</addedDate>
-				<price>
-					<currency code="GBP">£</currency>
-					<value>5.49</value>
-					<formattedPrice>£5.49</formattedPrice>
-					<rrp>5.49</rrp>
-					<formattedRrp>£5.49</formattedRrp>
-					<onSale>false</onSale>
-				</price>
-				<download>
-					<packages>
-						<package id="2">
-							<description>standard</description>
-							<price>
-								<currencyCode>GBP</currencyCode>
-								<sevendigitalPrice>5.49</sevendigitalPrice>
-								<recommendedRetailPrice>5.49</recommendedRetailPrice>
-							</price>
-							<formats>
-								<format id="17">
-									<description>MP3 320</description>
-								</format>
-							</formats>
-						</package>
-					</packages>
-				</download>
-				<popularity>0.61</popularity>
-				<streamingReleaseDate>2001-07-16T00:00:00+01:00</streamingReleaseDate>
-				<duration>1939</duration>
-				<trackCount>13</trackCount>
-			</release>
-		</taggedItem>
-		<taggedItem>
-			<release id="112">
-				<title>Hopes And Fears</title>
-				<version/>
-				<type>Album</type>
-				<barcode>00602498665732</barcode>
-				<year>2004</year>
-				<explicitContent>false</explicitContent>
-				<artist id="1">
-					<name>Keane</name>
-					<appearsAs>Keane</appearsAs>
-					<url>http://www.7digital.com/artist/keane/?partner=3923</url>
-				</artist>
-				<url>http://www.7digital.com/artist/keane/release/hopes-and-fears-uk-version/?partner=3923</url>
-				<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/000/001/0000000112_50.jpg</image>
-				<releaseDate>2004-05-02T00:00:00+01:00</releaseDate>
-				<addedDate>2004-05-18T15:25:03+01:00</addedDate>
-				<price>
-					<currency code="GBP">£</currency>
-					<value>8.99</value>
-					<formattedPrice>£8.99</formattedPrice>
-					<rrp>8.99</rrp>
-					<formattedRrp>£8.99</formattedRrp>
-					<onSale>false</onSale>
-				</price>
-				<download>
-					<packages>
-						<package id="2">
-							<description>standard</description>
-							<price>
-								<currencyCode>GBP</currencyCode>
-								<sevendigitalPrice>8.99</sevendigitalPrice>
-								<recommendedRetailPrice>8.99</recommendedRetailPrice>
-							</price>
-							<formats>
-								<format id="17">
-									<description>MP3 320</description>
-								</format>
-							</formats>
-						</package>
-					</packages>
-				</download>
-				<popularity>0.61</popularity>
-				<streamingReleaseDate>2004-05-02T00:00:00+01:00</streamingReleaseDate>
-				<duration>3033</duration>
-				<trackCount>12</trackCount>
-			</release>
-		</taggedItem>
-		<taggedItem>
-			<release id="1524286">
-				<title>Beyond Magnetic</title>
-				<version/>
-				<type>Album</type>
-				<barcode>00602527935188</barcode>
-				<year>2011</year>
-				<explicitContent>false</explicitContent>
-				<artist id="27920">
-					<name>Metallica</name>
-					<appearsAs>Metallica</appearsAs>
-					<url>http://www.7digital.com/artist/metallica/?partner=3923</url>
-				</artist>
-				<url>http://www.7digital.com/artist/metallica/release/beyond-magnetic/?partner=3923</url>
-				<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/015/242/0001524286_50.jpg</image>
-				<releaseDate>2011-12-14T00:00:00+00:00</releaseDate>
-				<addedDate>2011-12-15T12:00:24+00:00</addedDate>
-				<price>
-					<currency code="GBP">£</currency>
-					<value>3.49</value>
-					<formattedPrice>£3.49</formattedPrice>
-					<rrp>3.49</rrp>
-					<formattedRrp>£3.49</formattedRrp>
-					<onSale>false</onSale>
-				</price>
-				<download>
-					<packages>
-						<package id="2">
-							<description>standard</description>
-							<price>
-								<currencyCode>GBP</currencyCode>
-								<sevendigitalPrice>3.49</sevendigitalPrice>
-								<recommendedRetailPrice>3.49</recommendedRetailPrice>
-							</price>
-							<formats>
-								<format id="17">
-									<description>MP3 320</description>
-								</format>
-							</formats>
-						</package>
-					</packages>
-				</download>
-				<popularity>0.6</popularity>
-				<streamingReleaseDate>3001-01-01T00:00:00+00:00</streamingReleaseDate>
-				<duration>1750</duration>
-				<trackCount>4</trackCount>
-			</release>
-		</taggedItem>
-		<taggedItem>
-			<release id="18150">
-				<title>Hybrid Theory</title>
-				<version/>
-				<type>Album</type>
-				<barcode>093624775560</barcode>
-				<year>2013</year>
-				<explicitContent>false</explicitContent>
-				<artist id="12873">
-					<name>Linkin Park</name>
-					<appearsAs>Linkin Park</appearsAs>
-					<url>http://www.7digital.com/artist/linkin-park/?partner=3923</url>
-				</artist>
-				<url>http://www.7digital.com/artist/linkin-park/release/hybrid-theory-3/?partner=3923</url>
-				<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/000/181/0000018150_50.jpg</image>
-				<releaseDate>2013-01-16T00:00:00+00:00</releaseDate>
-				<addedDate>2005-09-14T14:51:16+01:00</addedDate>
-				<price>
-					<currency code="GBP">£</currency>
-					<value>7.99</value>
-					<formattedPrice>£7.99</formattedPrice>
-					<rrp>7.99</rrp>
-					<formattedRrp>£7.99</formattedRrp>
-					<onSale>false</onSale>
-				</price>
-				<download>
-					<packages>
-						<package id="2">
-							<description>standard</description>
-							<price>
-								<currencyCode>GBP</currencyCode>
-								<sevendigitalPrice>7.99</sevendigitalPrice>
-								<recommendedRetailPrice>7.99</recommendedRetailPrice>
-							</price>
-							<formats>
-								<format id="17">
-									<description>MP3 320</description>
-								</format>
-							</formats>
-						</package>
-					</packages>
-				</download>
-				<popularity>0.6</popularity>
-				<streamingReleaseDate>2013-01-16T00:00:00+00:00</streamingReleaseDate>
-				<duration>2282</duration>
-				<trackCount>12</trackCount>
-			</release>
-		</taggedItem>
-		<taggedItem>
-			<release id="324755">
-				<title>A Hundred Million Suns (Explicit Content – Parental Advisory)</title>
-				<version>UK Standard Version</version>
-				<type>Album</type>
-				<barcode>00602517852594</barcode>
-				<year>2014</year>
-				<explicitContent>true</explicitContent>
-				<artist id="269">
-					<name>Snow Patrol</name>
-					<appearsAs>Snow Patrol</appearsAs>
-					<url>http://www.7digital.com/artist/snow-patrol/?partner=3923</url>
-				</artist>
-				<url>http://www.7digital.com/artist/snow-patrol/release/a-hundred-million-suns/?partner=3923</url>
-				<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/003/247/0000324755_50.jpg</image>
-				<releaseDate>2014-05-22T00:00:00+01:00</releaseDate>
-				<addedDate>2008-10-08T12:44:54+01:00</addedDate>
-				<price>
-					<currency code="GBP">£</currency>
-					<value>8.99</value>
-					<formattedPrice>£8.99</formattedPrice>
-					<rrp>8.99</rrp>
-					<formattedRrp>£8.99</formattedRrp>
-					<onSale>false</onSale>
-				</price>
-				<download>
-					<packages>
-						<package id="2">
-							<description>standard</description>
-							<price>
-								<currencyCode>GBP</currencyCode>
-								<sevendigitalPrice>8.99</sevendigitalPrice>
-								<recommendedRetailPrice>8.99</recommendedRetailPrice>
-							</price>
-							<formats>
-								<format id="17">
-									<description>MP3 320</description>
-								</format>
-							</formats>
-						</package>
-					</packages>
-				</download>
-				<popularity>0.6</popularity>
-				<streamingReleaseDate>2014-05-22T00:00:00+01:00</streamingReleaseDate>
-				<duration>3484</duration>
-				<trackCount>11</trackCount>
-			</release>
-		</taggedItem>
-		<taggedItem>
-			<release id="265297">
-				<title>More ABBA Gold</title>
-				<version>Super Jewel Box Version</version>
-				<type>Album</type>
-				<barcode>00602517247338</barcode>
-				<year>2008</year>
-				<explicitContent>false</explicitContent>
-				<artist id="1475">
-					<name>Abba</name>
-					<appearsAs>Abba</appearsAs>
-					<url>http://www.7digital.com/artist/abba/?partner=3923</url>
-				</artist>
-				<url>http://www.7digital.com/artist/abba/release/more-abba-gold/?partner=3923</url>
-				<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/002/652/0000265297_50.jpg</image>
-				<releaseDate>2008-08-25T00:00:00+01:00</releaseDate>
-				<addedDate>2008-06-02T15:18:05+01:00</addedDate>
-				<price>
-					<currency code="GBP">£</currency>
-					<value>8.99</value>
-					<formattedPrice>£8.99</formattedPrice>
-					<rrp>8.99</rrp>
-					<formattedRrp>£8.99</formattedRrp>
-					<onSale>false</onSale>
-				</price>
-				<download>
-					<packages>
-						<package id="2">
-							<description>standard</description>
-							<price>
-								<currencyCode>GBP</currencyCode>
-								<sevendigitalPrice>8.99</sevendigitalPrice>
-								<recommendedRetailPrice>8.99</recommendedRetailPrice>
-							</price>
-							<formats>
-								<format id="17">
-									<description>MP3 320</description>
-								</format>
-							</formats>
-						</package>
-					</packages>
-				</download>
-				<popularity>0.6</popularity>
-				<streamingReleaseDate>2008-08-25T00:00:00+01:00</streamingReleaseDate>
-				<duration>4688</duration>
-				<trackCount>20</trackCount>
-			</release>
-		</taggedItem>
-		<taggedItem>
-			<release id="338671">
-				<title>Day &amp; Age</title>
-				<version>UK Album</version>
-				<type>Album</type>
-				<barcode>00602517851214</barcode>
-				<year>2008</year>
-				<explicitContent>false</explicitContent>
-				<artist id="616">
-					<name>The Killers</name>
-					<appearsAs>Killers, The</appearsAs>
-					<url>http://www.7digital.com/artist/the-killers/?partner=3923</url>
-				</artist>
-				<url>http://www.7digital.com/artist/the-killers/release/day-and-age-1/?partner=3923</url>
-				<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/003/386/0000338671_50.jpg</image>
-				<releaseDate>2008-11-24T00:00:00+00:00</releaseDate>
-				<addedDate>2008-11-13T11:18:32+00:00</addedDate>
-				<price>
-					<currency code="GBP">£</currency>
-					<value>7.99</value>
-					<formattedPrice>£7.99</formattedPrice>
-					<rrp>7.99</rrp>
-					<formattedRrp>£7.99</formattedRrp>
-					<onSale>false</onSale>
-				</price>
-				<download>
-					<packages>
-						<package id="2">
-							<description>standard</description>
-							<price>
-								<currencyCode>GBP</currencyCode>
-								<sevendigitalPrice>7.99</sevendigitalPrice>
-								<recommendedRetailPrice>7.99</recommendedRetailPrice>
-							</price>
-							<formats>
-								<format id="17">
-									<description>MP3 320</description>
-								</format>
-							</formats>
-						</package>
-					</packages>
-				</download>
-				<popularity>0.6</popularity>
-				<streamingReleaseDate>2008-11-24T00:00:00+00:00</streamingReleaseDate>
-				<duration>2717</duration>
-				<trackCount>11</trackCount>
-			</release>
-		</taggedItem>
-		<taggedItem>
-			<release id="68632">
-				<title>Rocket Man</title>
-				<version/>
-				<type>Album</type>
-				<barcode>00602517268500</barcode>
-				<year>2007</year>
-				<explicitContent>false</explicitContent>
-				<artist id="1039">
-					<name>Elton John</name>
-					<appearsAs>Elton John</appearsAs>
-					<url>http://www.7digital.com/artist/elton-john/?partner=3923</url>
-				</artist>
-				<url>http://www.7digital.com/artist/elton-john/release/rocket-man-standard-comm-cd/?partner=3923</url>
-				<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/000/686/0000068632_50.jpg</image>
-				<releaseDate>2007-03-26T00:00:00+01:00</releaseDate>
-				<addedDate>2007-03-16T15:52:57+00:00</addedDate>
-				<price>
-					<currency code="GBP">£</currency>
-					<value>8.99</value>
-					<formattedPrice>£8.99</formattedPrice>
-					<rrp>8.99</rrp>
-					<formattedRrp>£8.99</formattedRrp>
-					<onSale>false</onSale>
-				</price>
-				<download>
-					<packages>
-						<package id="2">
-							<description>standard</description>
-							<price>
-								<currencyCode>GBP</currencyCode>
-								<sevendigitalPrice>8.99</sevendigitalPrice>
-								<recommendedRetailPrice>8.99</recommendedRetailPrice>
-							</price>
-							<formats>
-								<format id="17">
-									<description>MP3 320</description>
-								</format>
-							</formats>
-						</package>
-					</packages>
-				</download>
-				<popularity>0.59</popularity>
-				<streamingReleaseDate>2007-03-26T00:00:00+01:00</streamingReleaseDate>
-				<duration>4781</duration>
-				<trackCount>18</trackCount>
-			</release>
-		</taggedItem>
-		<taggedItem>
-			<release id="168737">
-				<title>Mothership</title>
-				<version/>
-				<type>Album</type>
-				<barcode>603497988228</barcode>
-				<year>2012</year>
-				<explicitContent>false</explicitContent>
-				<artist id="128187">
-					<name>Led Zeppelin</name>
-					<appearsAs>Led Zeppelin</appearsAs>
-					<url>http://www.7digital.com/artist/led-zeppelin/?partner=3923</url>
-				</artist>
-				<url>http://www.7digital.com/artist/led-zeppelin/release/mothership/?partner=3923</url>
-				<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/001/687/0000168737_50.jpg</image>
-				<releaseDate>2012-07-24T00:00:00+01:00</releaseDate>
-				<addedDate>2007-10-24T16:30:37+01:00</addedDate>
-				<price>
-					<currency code="GBP">£</currency>
-					<value>10.99</value>
-					<formattedPrice>£10.99</formattedPrice>
-					<rrp>10.99</rrp>
-					<formattedRrp>£10.99</formattedRrp>
-					<onSale>false</onSale>
-				</price>
-				<download>
-					<packages>
-						<package id="2">
-							<description>standard</description>
-							<price>
-								<currencyCode>GBP</currencyCode>
-								<sevendigitalPrice>10.99</sevendigitalPrice>
-								<recommendedRetailPrice>10.99</recommendedRetailPrice>
-							</price>
-							<formats>
-								<format id="17">
-									<description>MP3 320</description>
-								</format>
-							</formats>
-						</package>
-					</packages>
-				</download>
-				<popularity>0.59</popularity>
-				<streamingReleaseDate>3001-01-01T00:00:00+00:00</streamingReleaseDate>
-				<duration>8112</duration>
-				<trackCount>24</trackCount>
-			</release>
-		</taggedItem>
-	</taggedResults>
+  <taggedResults>
+    <page>1</page>
+    <pageSize>36</pageSize>
+    <totalItems>90</totalItems>
+    <type>release</type>
+    <taggedItem>
+      <release id="1435450">
+        <title>Mylo Xyloto</title>
+        <version/>
+        <type>Album</type>
+        <barcode>5099972930458</barcode>
+        <year>2014</year>
+        <explicitContent>false</explicitContent>
+        <artist id="20">
+          <name>Coldplay</name>
+          <appearsAs>Coldplay</appearsAs>
+          <url>http://www.7digital.com/artist/coldplay/?partner=3923</url>
+        </artist>
+        <url>http://www.7digital.com/artist/coldplay/release/mylo-xyloto-2/?partner=3923</url>
+        <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/014/354/0001435450_50.jpg</image>
+        <releaseDate>2014-06-30T00:00:00+01:00</releaseDate>
+        <addedDate>2011-10-12T11:26:22+01:00</addedDate>
+        <price>
+          <currency code="GBP">£</currency>
+          <value>6.99</value>
+          <formattedPrice>£6.99</formattedPrice>
+          <rrp>6.99</rrp>
+          <formattedRrp>£6.99</formattedRrp>
+          <onSale>false</onSale>
+        </price>
+        <download>
+          <packages>
+            <package id="2">
+              <description>standard</description>
+              <price>
+                <currencyCode>GBP</currencyCode>
+                <sevendigitalPrice>6.99</sevendigitalPrice>
+                <recommendedRetailPrice>6.99</recommendedRetailPrice>
+              </price>
+              <formats>
+                <format id="17">
+                  <description>MP3 320</description>
+                </format>
+              </formats>
+            </package>
+          </packages>
+        </download>
+        <popularity>0.8</popularity>
+        <streamingReleaseDate>3001-01-01T00:00:00+00:00</streamingReleaseDate>
+        <duration>2650</duration>
+        <trackCount>14</trackCount>
+      </release>
+    </taggedItem>
+    <taggedItem>
+      <release id="81735">
+        <title>Songs About Jane</title>
+        <version/>
+        <type>Album</type>
+        <barcode>00823765000128</barcode>
+        <year>2007</year>
+        <explicitContent>false</explicitContent>
+        <artist id="222">
+          <name>Maroon 5</name>
+          <appearsAs>Maroon 5</appearsAs>
+          <url>http://www.7digital.com/artist/maroon-5/?partner=3923</url>
+        </artist>
+        <url>http://www.7digital.com/artist/maroon-5/release/songs-about-jane-2-1/?partner=3923</url>
+        <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/000/817/0000081735_50.jpg</image>
+        <releaseDate>2007-04-30T00:00:00+01:00</releaseDate>
+        <addedDate>2007-04-27T11:48:51+01:00</addedDate>
+        <price>
+          <currency code="GBP">£</currency>
+          <value>4.99</value>
+          <formattedPrice>£4.99</formattedPrice>
+          <rrp>4.99</rrp>
+          <formattedRrp>£4.99</formattedRrp>
+          <onSale>false</onSale>
+        </price>
+        <download>
+          <packages>
+            <package id="2">
+              <description>standard</description>
+              <price>
+                <currencyCode>GBP</currencyCode>
+                <sevendigitalPrice>4.99</sevendigitalPrice>
+                <recommendedRetailPrice>4.99</recommendedRetailPrice>
+              </price>
+              <formats>
+                <format id="17">
+                  <description>MP3 320</description>
+                </format>
+              </formats>
+            </package>
+          </packages>
+        </download>
+        <popularity>0.78</popularity>
+        <streamingReleaseDate>2007-04-30T00:00:00+01:00</streamingReleaseDate>
+        <duration>2760</duration>
+        <trackCount>12</trackCount>
+      </release>
+    </taggedItem>
+    <taggedItem>
+      <release id="1402123">
+        <title>The Dark Side Of The Moon [2011 - Remaster]</title>
+        <version/>
+        <type>Album</type>
+        <barcode>5099902984056</barcode>
+        <year>2011</year>
+        <explicitContent>false</explicitContent>
+        <artist id="447">
+          <name>Pink Floyd</name>
+          <appearsAs>Pink Floyd</appearsAs>
+          <url>http://www.7digital.com/artist/pink-floyd/?partner=3923</url>
+        </artist>
+        <url>http://www.7digital.com/artist/pink-floyd/release/the-dark-side-of-the-moon-2011-remaster-2/?partner=3923</url>
+        <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/014/021/0001402123_50.jpg</image>
+        <releaseDate>2011-09-26T00:00:00+01:00</releaseDate>
+        <addedDate>2011-09-16T17:39:15+01:00</addedDate>
+        <price>
+          <currency code="GBP">£</currency>
+          <value>7.99</value>
+          <formattedPrice>£7.99</formattedPrice>
+          <rrp>7.99</rrp>
+          <formattedRrp>£7.99</formattedRrp>
+          <onSale>false</onSale>
+        </price>
+        <download>
+          <packages>
+            <package id="2">
+              <description>standard</description>
+              <price>
+                <currencyCode>GBP</currencyCode>
+                <sevendigitalPrice>7.99</sevendigitalPrice>
+                <recommendedRetailPrice>7.99</recommendedRetailPrice>
+              </price>
+              <formats>
+                <format id="17">
+                  <description>MP3 320</description>
+                </format>
+              </formats>
+            </package>
+          </packages>
+        </download>
+        <popularity>0.7</popularity>
+        <streamingReleaseDate>2011-09-26T00:00:00+01:00</streamingReleaseDate>
+        <duration>2573</duration>
+        <trackCount>10</trackCount>
+      </release>
+    </taggedItem>
+    <taggedItem>
+      <release id="1402423">
+        <title>Nevermind</title>
+        <version/>
+        <type>Album</type>
+        <barcode>00602527856865</barcode>
+        <year>2011</year>
+        <explicitContent>false</explicitContent>
+        <artist id="169">
+          <name>Nirvana</name>
+          <appearsAs>Nirvana</appearsAs>
+          <url>http://www.7digital.com/artist/nirvana/?partner=3923</url>
+        </artist>
+        <url>http://www.7digital.com/artist/nirvana/release/nevermind-4/?partner=3923</url>
+        <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/014/024/0001402423_50.jpg</image>
+        <releaseDate>2011-09-26T00:00:00+01:00</releaseDate>
+        <addedDate>2011-09-19T12:09:44+01:00</addedDate>
+        <price>
+          <currency code="GBP">£</currency>
+          <value>8.99</value>
+          <formattedPrice>£8.99</formattedPrice>
+          <rrp>8.99</rrp>
+          <formattedRrp>£8.99</formattedRrp>
+          <onSale>false</onSale>
+        </price>
+        <download>
+          <packages>
+            <package id="2">
+              <description>standard</description>
+              <price>
+                <currencyCode>GBP</currencyCode>
+                <sevendigitalPrice>8.99</sevendigitalPrice>
+                <recommendedRetailPrice>8.99</recommendedRetailPrice>
+              </price>
+              <formats>
+                <format id="17">
+                  <description>MP3 320</description>
+                </format>
+              </formats>
+            </package>
+          </packages>
+        </download>
+        <popularity>0.69</popularity>
+        <streamingReleaseDate>2011-09-26T00:00:00+01:00</streamingReleaseDate>
+        <duration>2954</duration>
+        <trackCount>13</trackCount>
+      </release>
+    </taggedItem>
+    <taggedItem>
+      <release id="1192901">
+        <title>Wasting Light</title>
+        <version/>
+        <type>Album</type>
+        <barcode>884977880991</barcode>
+        <year>2011</year>
+        <explicitContent>false</explicitContent>
+        <artist id="8293">
+          <name>Foo Fighters</name>
+          <appearsAs>Foo Fighters</appearsAs>
+          <url>http://www.7digital.com/artist/foo-fighters/?partner=3923</url>
+        </artist>
+        <url>http://www.7digital.com/artist/foo-fighters/release/wasting-light/?partner=3923</url>
+        <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/011/929/0001192901_50.jpg</image>
+        <releaseDate>2011-04-11T00:00:00+01:00</releaseDate>
+        <addedDate>2011-03-22T10:09:19+00:00</addedDate>
+        <price>
+          <currency code="GBP">£</currency>
+          <value>5.99</value>
+          <formattedPrice>£5.99</formattedPrice>
+          <rrp>5.99</rrp>
+          <formattedRrp>£5.99</formattedRrp>
+          <onSale>false</onSale>
+        </price>
+        <download>
+          <packages>
+            <package id="2">
+              <description>standard</description>
+              <price>
+                <currencyCode>GBP</currencyCode>
+                <sevendigitalPrice>5.99</sevendigitalPrice>
+                <recommendedRetailPrice>5.99</recommendedRetailPrice>
+              </price>
+              <formats>
+                <format id="17">
+                  <description>MP3 320</description>
+                </format>
+              </formats>
+            </package>
+          </packages>
+        </download>
+        <popularity>0.67</popularity>
+        <streamingReleaseDate>2011-04-11T00:00:00+01:00</streamingReleaseDate>
+        <duration>2872</duration>
+        <trackCount>11</trackCount>
+      </release>
+    </taggedItem>
+    <taggedItem>
+      <release id="1544522">
+        <title>Mit K</title>
+        <version/>
+        <type>Album</type>
+        <barcode>00602527784144</barcode>
+        <year>2012</year>
+        <explicitContent>false</explicitContent>
+        <artist id="1064446">
+          <name>Kraftklub</name>
+          <appearsAs>Kraftklub</appearsAs>
+          <url>http://www.7digital.com/artist/kraftklub/?partner=3923</url>
+        </artist>
+        <url>http://www.7digital.com/artist/kraftklub/release/mit-k/?partner=3923</url>
+        <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/015/445/0001544522_50.jpg</image>
+        <releaseDate>2012-01-20T00:00:00+00:00</releaseDate>
+        <addedDate>2012-01-03T14:02:36+00:00</addedDate>
+        <price>
+          <currency code="GBP">£</currency>
+          <value>7.99</value>
+          <formattedPrice>£7.99</formattedPrice>
+          <rrp>7.99</rrp>
+          <formattedRrp>£7.99</formattedRrp>
+          <onSale>false</onSale>
+        </price>
+        <download>
+          <packages>
+            <package id="2">
+              <description>standard</description>
+              <price>
+                <currencyCode>GBP</currencyCode>
+                <sevendigitalPrice>7.99</sevendigitalPrice>
+                <recommendedRetailPrice>7.99</recommendedRetailPrice>
+              </price>
+              <formats>
+                <format id="17">
+                  <description>MP3 320</description>
+                </format>
+              </formats>
+            </package>
+          </packages>
+        </download>
+        <popularity>0.67</popularity>
+        <streamingReleaseDate>2012-01-20T00:00:00+00:00</streamingReleaseDate>
+        <duration>2629</duration>
+        <trackCount>13</trackCount>
+      </release>
+    </taggedItem>
+    <taggedItem>
+      <release id="85606">
+        <title>Minutes To Midnight (Explicit Content – Parental Advisory)</title>
+        <version/>
+        <type>Album</type>
+        <barcode>093624447764</barcode>
+        <year>2013</year>
+        <explicitContent>true</explicitContent>
+        <artist id="12873">
+          <name>Linkin Park</name>
+          <appearsAs>Linkin Park</appearsAs>
+          <url>http://www.7digital.com/artist/linkin-park/?partner=3923</url>
+        </artist>
+        <url>http://www.7digital.com/artist/linkin-park/release/minutes-to-midnight-1-1/?partner=3923</url>
+        <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/000/856/0000085606_50.jpg</image>
+        <releaseDate>2013-01-16T00:00:00+00:00</releaseDate>
+        <addedDate>2007-05-02T14:44:40+01:00</addedDate>
+        <price>
+          <currency code="GBP">£</currency>
+          <value>5.49</value>
+          <formattedPrice>£5.49</formattedPrice>
+          <rrp>5.49</rrp>
+          <formattedRrp>£5.49</formattedRrp>
+          <onSale>false</onSale>
+        </price>
+        <download>
+          <packages>
+            <package id="2">
+              <description>standard</description>
+              <price>
+                <currencyCode>GBP</currencyCode>
+                <sevendigitalPrice>5.49</sevendigitalPrice>
+                <recommendedRetailPrice>5.49</recommendedRetailPrice>
+              </price>
+              <formats>
+                <format id="17">
+                  <description>MP3 320</description>
+                </format>
+              </formats>
+            </package>
+          </packages>
+        </download>
+        <popularity>0.67</popularity>
+        <streamingReleaseDate>2013-01-16T00:00:00+00:00</streamingReleaseDate>
+        <duration>2615</duration>
+        <trackCount>12</trackCount>
+      </release>
+    </taggedItem>
+    <taggedItem>
+      <release id="39899">
+        <title>Parachutes</title>
+        <version/>
+        <type>Album</type>
+        <barcode>0067003016254</barcode>
+        <year>2014</year>
+        <explicitContent>false</explicitContent>
+        <artist id="20">
+          <name>Coldplay</name>
+          <appearsAs>Coldplay</appearsAs>
+          <url>http://www.7digital.com/artist/coldplay/?partner=3923</url>
+        </artist>
+        <url>http://www.7digital.com/artist/coldplay/release/parachutes-2/?partner=3923</url>
+        <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/000/398/0000039899_50.jpg</image>
+        <releaseDate>2014-06-30T00:00:00+01:00</releaseDate>
+        <addedDate>2006-07-28T12:41:23+01:00</addedDate>
+        <price>
+          <currency code="GBP">£</currency>
+          <value>6.99</value>
+          <formattedPrice>£6.99</formattedPrice>
+          <rrp>6.99</rrp>
+          <formattedRrp>£6.99</formattedRrp>
+          <onSale>false</onSale>
+        </price>
+        <download>
+          <packages>
+            <package id="2">
+              <description>standard</description>
+              <price>
+                <currencyCode>GBP</currencyCode>
+                <sevendigitalPrice>6.99</sevendigitalPrice>
+                <recommendedRetailPrice>6.99</recommendedRetailPrice>
+              </price>
+              <formats>
+                <format id="17">
+                  <description>MP3 320</description>
+                </format>
+              </formats>
+            </package>
+          </packages>
+        </download>
+        <popularity>0.66</popularity>
+        <streamingReleaseDate>2014-06-30T00:00:00+01:00</streamingReleaseDate>
+        <duration>2517</duration>
+        <trackCount>10</trackCount>
+      </release>
+    </taggedItem>
+    <taggedItem>
+      <release id="1283801">
+        <title>The Platinum Collection</title>
+        <version>2011 Remaster</version>
+        <type>Album</type>
+        <barcode>00602527724171</barcode>
+        <year>2011</year>
+        <explicitContent>false</explicitContent>
+        <artist id="204">
+          <name>Queen</name>
+          <appearsAs>Queen</appearsAs>
+          <url>http://www.7digital.com/artist/queen/?partner=3923</url>
+        </artist>
+        <url>http://www.7digital.com/artist/queen/release/the-platinum-collection-1/?partner=3923</url>
+        <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/012/838/0001283801_50.jpg</image>
+        <releaseDate>2011-06-27T00:00:00+01:00</releaseDate>
+        <addedDate>2011-06-10T17:04:39+01:00</addedDate>
+        <price>
+          <currency code="GBP">£</currency>
+          <value>12.99</value>
+          <formattedPrice>£12.99</formattedPrice>
+          <rrp>12.99</rrp>
+          <formattedRrp>£12.99</formattedRrp>
+          <onSale>false</onSale>
+        </price>
+        <download>
+          <packages>
+            <package id="2">
+              <description>standard</description>
+              <price>
+                <currencyCode>GBP</currencyCode>
+                <sevendigitalPrice>12.99</sevendigitalPrice>
+                <recommendedRetailPrice>12.99</recommendedRetailPrice>
+              </price>
+              <formats>
+                <format id="17">
+                  <description>MP3 320</description>
+                </format>
+              </formats>
+            </package>
+          </packages>
+        </download>
+        <popularity>0.66</popularity>
+        <streamingReleaseDate>2011-06-27T00:00:00+01:00</streamingReleaseDate>
+        <duration>12459</duration>
+        <trackCount>51</trackCount>
+      </release>
+    </taggedItem>
+    <taggedItem>
+      <release id="308658">
+        <title>Greatest Hits</title>
+        <version/>
+        <type>Album</type>
+        <barcode>828768588925</barcode>
+        <year>2006</year>
+        <explicitContent>false</explicitContent>
+        <artist id="37593">
+          <name>Journey</name>
+          <appearsAs>Journey</appearsAs>
+          <url>http://www.7digital.com/artist/journey/?partner=3923</url>
+        </artist>
+        <url>http://www.7digital.com/artist/journey/release/greatest-hits-3/?partner=3923</url>
+        <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/003/086/0000308658_50.jpg</image>
+        <releaseDate>2006-08-26T00:00:00+01:00</releaseDate>
+        <addedDate>2008-08-16T16:09:26+01:00</addedDate>
+        <price>
+          <currency code="GBP">£</currency>
+          <value>6.99</value>
+          <formattedPrice>£6.99</formattedPrice>
+          <rrp>6.99</rrp>
+          <formattedRrp>£6.99</formattedRrp>
+          <onSale>false</onSale>
+        </price>
+        <download>
+          <packages>
+            <package id="2">
+              <description>standard</description>
+              <price>
+                <currencyCode>GBP</currencyCode>
+                <sevendigitalPrice>6.99</sevendigitalPrice>
+                <recommendedRetailPrice>6.99</recommendedRetailPrice>
+              </price>
+              <formats>
+                <format id="17">
+                  <description>MP3 320</description>
+                </format>
+              </formats>
+            </package>
+          </packages>
+        </download>
+        <popularity>0.65</popularity>
+        <streamingReleaseDate>2006-08-26T00:00:00+01:00</streamingReleaseDate>
+        <duration>3918</duration>
+        <trackCount>16</trackCount>
+      </release>
+    </taggedItem>
+    <taggedItem>
+      <release id="343549">
+        <title>Call And Response: The Remix Album</title>
+        <version/>
+        <type>Album</type>
+        <barcode>00602517884250</barcode>
+        <year>2008</year>
+        <explicitContent>false</explicitContent>
+        <artist id="222">
+          <name>Maroon 5</name>
+          <appearsAs>Maroon 5</appearsAs>
+          <url>http://www.7digital.com/artist/maroon-5/?partner=3923</url>
+        </artist>
+        <url>http://www.7digital.com/artist/maroon-5/release/call-and-response-the-remix-album-2/?partner=3923</url>
+        <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/003/435/0000343549_50.jpg</image>
+        <releaseDate>2008-12-07T00:00:00+00:00</releaseDate>
+        <addedDate>2008-11-26T19:35:31+00:00</addedDate>
+        <price>
+          <currency code="GBP">£</currency>
+          <value>8.99</value>
+          <formattedPrice>£8.99</formattedPrice>
+          <rrp>8.99</rrp>
+          <formattedRrp>£8.99</formattedRrp>
+          <onSale>false</onSale>
+        </price>
+        <download>
+          <packages>
+            <package id="2">
+              <description>standard</description>
+              <price>
+                <currencyCode>GBP</currencyCode>
+                <sevendigitalPrice>8.99</sevendigitalPrice>
+                <recommendedRetailPrice>8.99</recommendedRetailPrice>
+              </price>
+              <formats>
+                <format id="17">
+                  <description>MP3 320</description>
+                </format>
+              </formats>
+            </package>
+          </packages>
+        </download>
+        <popularity>0.65</popularity>
+        <streamingReleaseDate>2008-12-07T00:00:00+00:00</streamingReleaseDate>
+        <duration>4519</duration>
+        <trackCount>18</trackCount>
+      </release>
+    </taggedItem>
+    <taggedItem>
+      <release id="48933">
+        <title>U218 Singles</title>
+        <version>Deluxe Version</version>
+        <type>Album</type>
+        <barcode>00602517138957</barcode>
+        <year>2006</year>
+        <explicitContent>false</explicitContent>
+        <artist id="106">
+          <name>U2</name>
+          <appearsAs>U2</appearsAs>
+          <url>http://www.7digital.com/artist/u2/?partner=3923</url>
+        </artist>
+        <url>http://www.7digital.com/artist/u2/release/u218-singles-deluxe-version-1/?partner=3923</url>
+        <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/000/489/0000048933_50.jpg</image>
+        <releaseDate>2006-11-20T00:00:00+00:00</releaseDate>
+        <addedDate>2006-11-13T15:20:09+00:00</addedDate>
+        <price>
+          <currency code="GBP">£</currency>
+          <value>9.99</value>
+          <formattedPrice>£9.99</formattedPrice>
+          <rrp>9.99</rrp>
+          <formattedRrp>£9.99</formattedRrp>
+          <onSale>false</onSale>
+        </price>
+        <download>
+          <packages>
+            <package id="2">
+              <description>standard</description>
+              <price>
+                <currencyCode>GBP</currencyCode>
+                <sevendigitalPrice>9.99</sevendigitalPrice>
+                <recommendedRetailPrice>9.99</recommendedRetailPrice>
+              </price>
+              <formats>
+                <format id="17">
+                  <description>MP3 320</description>
+                </format>
+              </formats>
+            </package>
+          </packages>
+        </download>
+        <popularity>0.64</popularity>
+        <streamingReleaseDate>2006-11-20T00:00:00+00:00</streamingReleaseDate>
+        <duration>7442</duration>
+        <trackCount>27</trackCount>
+      </release>
+    </taggedItem>
+    <taggedItem>
+      <release id="1617950">
+        <title>Wrecking Ball</title>
+        <version/>
+        <type>Album</type>
+        <barcode>886443344761</barcode>
+        <year>2012</year>
+        <explicitContent>false</explicitContent>
+        <artist id="15122">
+          <name>Bruce Springsteen</name>
+          <appearsAs>Bruce Springsteen</appearsAs>
+          <url>http://www.7digital.com/artist/bruce-springsteen/?partner=3923</url>
+        </artist>
+        <url>http://www.7digital.com/artist/bruce-springsteen/release/wrecking-ball-2/?partner=3923</url>
+        <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/016/179/0001617950_50.jpg</image>
+        <releaseDate>2012-03-05T00:00:00+00:00</releaseDate>
+        <addedDate>2012-02-24T16:58:55+00:00</addedDate>
+        <price>
+          <currency code="GBP">£</currency>
+          <value>7.99</value>
+          <formattedPrice>£7.99</formattedPrice>
+          <rrp>7.99</rrp>
+          <formattedRrp>£7.99</formattedRrp>
+          <onSale>false</onSale>
+        </price>
+        <download>
+          <packages>
+            <package id="2">
+              <description>standard</description>
+              <price>
+                <currencyCode>GBP</currencyCode>
+                <sevendigitalPrice>7.99</sevendigitalPrice>
+                <recommendedRetailPrice>7.99</recommendedRetailPrice>
+              </price>
+              <formats>
+                <format id="17">
+                  <description>MP3 320</description>
+                </format>
+              </formats>
+            </package>
+          </packages>
+        </download>
+        <popularity>0.64</popularity>
+        <streamingReleaseDate>2012-03-05T00:00:00+00:00</streamingReleaseDate>
+        <duration>3087</duration>
+        <trackCount>11</trackCount>
+      </release>
+    </taggedItem>
+    <taggedItem>
+      <release id="1374356">
+        <title>Noel Gallagher's High Flying Birds</title>
+        <version/>
+        <type>Album</type>
+        <barcode>5052945010106</barcode>
+        <year>2011</year>
+        <explicitContent>true</explicitContent>
+        <artist id="1075100">
+          <name>Noel Gallagher's High Flying Birds</name>
+          <appearsAs>Noel Gallagher's High Flying Birds</appearsAs>
+          <url>http://www.7digital.com/artist/noel-gallaghers-high-flying-birds/?partner=3923</url>
+        </artist>
+        <url>http://www.7digital.com/artist/noel-gallaghers-high-flying-birds/release/noel-gallaghers-high-flying-birds-10/?partner=3923</url>
+        <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/013/743/0001374356_50.jpg</image>
+        <releaseDate>2011-10-17T00:00:00+01:00</releaseDate>
+        <addedDate>2011-08-23T14:11:37+01:00</addedDate>
+        <price>
+          <currency code="GBP">£</currency>
+          <value>4.49</value>
+          <formattedPrice>£4.49</formattedPrice>
+          <rrp>4.49</rrp>
+          <formattedRrp>£4.49</formattedRrp>
+          <onSale>false</onSale>
+        </price>
+        <download>
+          <packages>
+            <package id="2">
+              <description>standard</description>
+              <price>
+                <currencyCode>GBP</currencyCode>
+                <sevendigitalPrice>4.49</sevendigitalPrice>
+                <recommendedRetailPrice>4.49</recommendedRetailPrice>
+              </price>
+              <formats>
+                <format id="17">
+                  <description>MP3 320</description>
+                </format>
+              </formats>
+            </package>
+          </packages>
+        </download>
+        <popularity>0.64</popularity>
+        <streamingReleaseDate>2011-10-17T00:00:00+01:00</streamingReleaseDate>
+        <duration>2560</duration>
+        <trackCount>10</trackCount>
+      </release>
+    </taggedItem>
+    <taggedItem>
+      <release id="401785">
+        <title>Hot Fuss</title>
+        <version>Deluxe Version</version>
+        <type>Album</type>
+        <barcode>00602498753842</barcode>
+        <year>2009</year>
+        <explicitContent>false</explicitContent>
+        <artist id="616">
+          <name>The Killers</name>
+          <appearsAs>Killers, The</appearsAs>
+          <url>http://www.7digital.com/artist/the-killers/?partner=3923</url>
+        </artist>
+        <url>http://www.7digital.com/artist/the-killers/release/hot-fuss-1/?partner=3923</url>
+        <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/004/017/0000401785_50.jpg</image>
+        <releaseDate>2009-03-06T00:00:00+00:00</releaseDate>
+        <addedDate>2009-03-10T12:49:28+00:00</addedDate>
+        <price>
+          <currency code="GBP">£</currency>
+          <value>9.99</value>
+          <formattedPrice>£9.99</formattedPrice>
+          <rrp>9.99</rrp>
+          <formattedRrp>£9.99</formattedRrp>
+          <onSale>false</onSale>
+        </price>
+        <download>
+          <packages>
+            <package id="2">
+              <description>standard</description>
+              <price>
+                <currencyCode>GBP</currencyCode>
+                <sevendigitalPrice>9.99</sevendigitalPrice>
+                <recommendedRetailPrice>9.99</recommendedRetailPrice>
+              </price>
+              <formats>
+                <format id="17">
+                  <description>MP3 320</description>
+                </format>
+              </formats>
+            </package>
+          </packages>
+        </download>
+        <popularity>0.63</popularity>
+        <streamingReleaseDate>2009-03-06T00:00:00+00:00</streamingReleaseDate>
+        <duration>4079</duration>
+        <trackCount>14</trackCount>
+      </release>
+    </taggedItem>
+    <taggedItem>
+      <release id="94233">
+        <title>Mutter</title>
+        <version/>
+        <type>Album</type>
+        <barcode>00731454963923</barcode>
+        <year>2001</year>
+        <explicitContent>false</explicitContent>
+        <artist id="845">
+          <name>Rammstein</name>
+          <appearsAs>Rammstein</appearsAs>
+          <url>http://www.7digital.com/artist/rammstein/?partner=3923</url>
+        </artist>
+        <url>http://www.7digital.com/artist/rammstein/release/mutter/?partner=3923</url>
+        <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/000/942/0000094233_50.jpg</image>
+        <releaseDate>2001-04-16T00:00:00+01:00</releaseDate>
+        <addedDate>2007-05-17T11:37:26+01:00</addedDate>
+        <price>
+          <currency code="GBP">£</currency>
+          <value>8.99</value>
+          <formattedPrice>£8.99</formattedPrice>
+          <rrp>8.99</rrp>
+          <formattedRrp>£8.99</formattedRrp>
+          <onSale>false</onSale>
+        </price>
+        <download>
+          <packages>
+            <package id="2">
+              <description>standard</description>
+              <price>
+                <currencyCode>GBP</currencyCode>
+                <sevendigitalPrice>8.99</sevendigitalPrice>
+                <recommendedRetailPrice>8.99</recommendedRetailPrice>
+              </price>
+              <formats>
+                <format id="17">
+                  <description>MP3 320</description>
+                </format>
+              </formats>
+            </package>
+          </packages>
+        </download>
+        <popularity>0.63</popularity>
+        <streamingReleaseDate>3001-01-01T00:00:00+00:00</streamingReleaseDate>
+        <duration>2700</duration>
+        <trackCount>11</trackCount>
+      </release>
+    </taggedItem>
+    <taggedItem>
+      <release id="21283">
+        <title>Portishead</title>
+        <version/>
+        <type>Album</type>
+        <barcode>00731453918924</barcode>
+        <year>1999</year>
+        <explicitContent>false</explicitContent>
+        <artist id="8819">
+          <name>Portishead</name>
+          <appearsAs>Portishead</appearsAs>
+          <url>http://www.7digital.com/artist/portishead/?partner=3923</url>
+        </artist>
+        <url>http://www.7digital.com/artist/portishead/release/portishead-1/?partner=3923</url>
+        <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/000/212/0000021283_50.jpg</image>
+        <releaseDate>1999-06-18T00:00:00+01:00</releaseDate>
+        <addedDate>2005-11-25T16:10:03+00:00</addedDate>
+        <price>
+          <currency code="GBP">£</currency>
+          <value>4.99</value>
+          <formattedPrice>£4.99</formattedPrice>
+          <rrp>4.99</rrp>
+          <formattedRrp>£4.99</formattedRrp>
+          <onSale>false</onSale>
+        </price>
+        <download>
+          <packages>
+            <package id="2">
+              <description>standard</description>
+              <price>
+                <currencyCode>GBP</currencyCode>
+                <sevendigitalPrice>4.99</sevendigitalPrice>
+                <recommendedRetailPrice>4.99</recommendedRetailPrice>
+              </price>
+              <formats>
+                <format id="17">
+                  <description>MP3 320</description>
+                </format>
+              </formats>
+            </package>
+          </packages>
+        </download>
+        <popularity>0.63</popularity>
+        <streamingReleaseDate>1999-06-18T00:00:00+01:00</streamingReleaseDate>
+        <duration>3008</duration>
+        <trackCount>11</trackCount>
+      </release>
+    </taggedItem>
+    <taggedItem>
+      <release id="296">
+        <title>A Rush Of Blood To The Head</title>
+        <version/>
+        <type>Album</type>
+        <barcode>0724354050459</barcode>
+        <year>2014</year>
+        <explicitContent>false</explicitContent>
+        <artist id="20">
+          <name>Coldplay</name>
+          <appearsAs>Coldplay</appearsAs>
+          <url>http://www.7digital.com/artist/coldplay/?partner=3923</url>
+        </artist>
+        <url>http://www.7digital.com/artist/coldplay/release/a-rush-of-blood-to-the-head/?partner=3923</url>
+        <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/000/002/0000000296_50.jpg</image>
+        <releaseDate>2014-06-30T00:00:00+01:00</releaseDate>
+        <addedDate>2004-07-09T18:20:54+01:00</addedDate>
+        <price>
+          <currency code="GBP">£</currency>
+          <value>7.99</value>
+          <formattedPrice>£7.99</formattedPrice>
+          <rrp>7.99</rrp>
+          <formattedRrp>£7.99</formattedRrp>
+          <onSale>false</onSale>
+        </price>
+        <download>
+          <packages>
+            <package id="2">
+              <description>standard</description>
+              <price>
+                <currencyCode>GBP</currencyCode>
+                <sevendigitalPrice>7.99</sevendigitalPrice>
+                <recommendedRetailPrice>7.99</recommendedRetailPrice>
+              </price>
+              <formats>
+                <format id="17">
+                  <description>MP3 320</description>
+                </format>
+              </formats>
+            </package>
+          </packages>
+        </download>
+        <popularity>0.63</popularity>
+        <streamingReleaseDate>2014-06-30T00:00:00+01:00</streamingReleaseDate>
+        <duration>3254</duration>
+        <trackCount>11</trackCount>
+      </release>
+    </taggedItem>
+    <taggedItem>
+      <release id="38972">
+        <title>Metallica</title>
+        <version/>
+        <type>Album</type>
+        <barcode>00731451002229</barcode>
+        <year>2008</year>
+        <explicitContent>false</explicitContent>
+        <artist id="27920">
+          <name>Metallica</name>
+          <appearsAs>Metallica</appearsAs>
+          <url>http://www.7digital.com/artist/metallica/?partner=3923</url>
+        </artist>
+        <url>http://www.7digital.com/artist/metallica/release/metallica-4/?partner=3923</url>
+        <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/000/389/0000038972_50.jpg</image>
+        <releaseDate>2008-08-18T00:00:00+01:00</releaseDate>
+        <addedDate>2006-07-20T11:26:52+01:00</addedDate>
+        <price>
+          <currency code="GBP">£</currency>
+          <value>8.99</value>
+          <formattedPrice>£8.99</formattedPrice>
+          <rrp>8.99</rrp>
+          <formattedRrp>£8.99</formattedRrp>
+          <onSale>false</onSale>
+        </price>
+        <download>
+          <packages>
+            <package id="2">
+              <description>standard</description>
+              <price>
+                <currencyCode>GBP</currencyCode>
+                <sevendigitalPrice>8.99</sevendigitalPrice>
+                <recommendedRetailPrice>8.99</recommendedRetailPrice>
+              </price>
+              <formats>
+                <format id="17">
+                  <description>MP3 320</description>
+                </format>
+              </formats>
+            </package>
+          </packages>
+        </download>
+        <popularity>0.63</popularity>
+        <streamingReleaseDate>3001-01-01T00:00:00+00:00</streamingReleaseDate>
+        <duration>3760</duration>
+        <trackCount>12</trackCount>
+      </release>
+    </taggedItem>
+    <taggedItem>
+      <release id="11546">
+        <title>X &amp; Y</title>
+        <version/>
+        <type>Album</type>
+        <barcode>0724347478659</barcode>
+        <year>2014</year>
+        <explicitContent>false</explicitContent>
+        <artist id="20">
+          <name>Coldplay</name>
+          <appearsAs>Coldplay</appearsAs>
+          <url>http://www.7digital.com/artist/coldplay/?partner=3923</url>
+        </artist>
+        <url>http://www.7digital.com/artist/coldplay/release/x-y/?partner=3923</url>
+        <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/000/115/0000011546_50.jpg</image>
+        <releaseDate>2014-06-30T00:00:00+01:00</releaseDate>
+        <addedDate>2005-06-03T13:15:00+01:00</addedDate>
+        <price>
+          <currency code="GBP">£</currency>
+          <value>7.99</value>
+          <formattedPrice>£7.99</formattedPrice>
+          <rrp>7.99</rrp>
+          <formattedRrp>£7.99</formattedRrp>
+          <onSale>false</onSale>
+        </price>
+        <download>
+          <packages>
+            <package id="2">
+              <description>standard</description>
+              <price>
+                <currencyCode>GBP</currencyCode>
+                <sevendigitalPrice>7.99</sevendigitalPrice>
+                <recommendedRetailPrice>7.99</recommendedRetailPrice>
+              </price>
+              <formats>
+                <format id="17">
+                  <description>MP3 320</description>
+                </format>
+              </formats>
+            </package>
+          </packages>
+        </download>
+        <popularity>0.63</popularity>
+        <streamingReleaseDate>2014-06-30T00:00:00+01:00</streamingReleaseDate>
+        <duration>3730</duration>
+        <trackCount>13</trackCount>
+      </release>
+    </taggedItem>
+    <taggedItem>
+      <release id="1722658">
+        <title>Born and Raised</title>
+        <version/>
+        <type>Album</type>
+        <barcode>886443406308</barcode>
+        <year>2012</year>
+        <explicitContent>false</explicitContent>
+        <artist id="7032">
+          <name>John Mayer</name>
+          <appearsAs>John Mayer</appearsAs>
+          <url>http://www.7digital.com/artist/john-mayer/?partner=3923</url>
+        </artist>
+        <url>http://www.7digital.com/artist/john-mayer/release/born-and-raised/?partner=3923</url>
+        <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/017/226/0001722658_50.jpg</image>
+        <releaseDate>2012-05-21T00:00:00+01:00</releaseDate>
+        <addedDate>2012-05-18T13:32:49+01:00</addedDate>
+        <price>
+          <currency code="GBP">£</currency>
+          <value>8.99</value>
+          <formattedPrice>£8.99</formattedPrice>
+          <rrp>8.99</rrp>
+          <formattedRrp>£8.99</formattedRrp>
+          <onSale>false</onSale>
+        </price>
+        <download>
+          <packages>
+            <package id="2">
+              <description>standard</description>
+              <price>
+                <currencyCode>GBP</currencyCode>
+                <sevendigitalPrice>8.99</sevendigitalPrice>
+                <recommendedRetailPrice>8.99</recommendedRetailPrice>
+              </price>
+              <formats>
+                <format id="17">
+                  <description>MP3 320</description>
+                </format>
+              </formats>
+            </package>
+          </packages>
+        </download>
+        <popularity>0.62</popularity>
+        <streamingReleaseDate>2012-05-21T00:00:00+01:00</streamingReleaseDate>
+        <duration>2789</duration>
+        <trackCount>12</trackCount>
+      </release>
+    </taggedItem>
+    <taggedItem>
+      <release id="1415492">
+        <title>The Best Of Pink Floyd: A Foot In The Door [2011 - Remaster]</title>
+        <version/>
+        <type>Album</type>
+        <barcode>5099968088552</barcode>
+        <year>2011</year>
+        <explicitContent>false</explicitContent>
+        <artist id="447">
+          <name>Pink Floyd</name>
+          <appearsAs>Pink Floyd</appearsAs>
+          <url>http://www.7digital.com/artist/pink-floyd/?partner=3923</url>
+        </artist>
+        <url>http://www.7digital.com/artist/pink-floyd/release/a-foot-in-the-door-the-best-of-pink-floyd-2011-remaster/?partner=3923</url>
+        <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/014/154/0001415492_50.jpg</image>
+        <releaseDate>2011-11-07T00:00:00+00:00</releaseDate>
+        <addedDate>2011-09-28T11:18:11+01:00</addedDate>
+        <price>
+          <currency code="GBP">£</currency>
+          <value>7.99</value>
+          <formattedPrice>£7.99</formattedPrice>
+          <rrp>7.99</rrp>
+          <formattedRrp>£7.99</formattedRrp>
+          <onSale>false</onSale>
+        </price>
+        <download>
+          <packages>
+            <package id="2">
+              <description>standard</description>
+              <price>
+                <currencyCode>GBP</currencyCode>
+                <sevendigitalPrice>7.99</sevendigitalPrice>
+                <recommendedRetailPrice>7.99</recommendedRetailPrice>
+              </price>
+              <formats>
+                <format id="17">
+                  <description>MP3 320</description>
+                </format>
+              </formats>
+            </package>
+          </packages>
+        </download>
+        <popularity>0.62</popularity>
+        <streamingReleaseDate>2011-11-07T00:00:00+00:00</streamingReleaseDate>
+        <duration>4963</duration>
+        <trackCount>16</trackCount>
+      </release>
+    </taggedItem>
+    <taggedItem>
+      <release id="1477242">
+        <title>Here And Now</title>
+        <version/>
+        <type>Album</type>
+        <barcode>016861770969</barcode>
+        <year>2012</year>
+        <explicitContent>false</explicitContent>
+        <artist id="669">
+          <name>Nickelback</name>
+          <appearsAs>Nickelback</appearsAs>
+          <url>http://www.7digital.com/artist/nickelback/?partner=3923</url>
+        </artist>
+        <url>http://www.7digital.com/artist/nickelback/release/here-and-now-2/?partner=3923</url>
+        <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/014/772/0001477242_50.jpg</image>
+        <releaseDate>2012-02-14T00:00:00+00:00</releaseDate>
+        <addedDate>2011-11-10T17:53:22+00:00</addedDate>
+        <price>
+          <currency code="GBP">£</currency>
+          <value>6.99</value>
+          <formattedPrice>£6.99</formattedPrice>
+          <rrp>6.99</rrp>
+          <formattedRrp>£6.99</formattedRrp>
+          <onSale>false</onSale>
+        </price>
+        <download>
+          <packages>
+            <package id="2">
+              <description>standard</description>
+              <price>
+                <currencyCode>GBP</currencyCode>
+                <sevendigitalPrice>6.99</sevendigitalPrice>
+                <recommendedRetailPrice>6.99</recommendedRetailPrice>
+              </price>
+              <formats>
+                <format id="17">
+                  <description>MP3 320</description>
+                </format>
+              </formats>
+            </package>
+          </packages>
+        </download>
+        <popularity>0.62</popularity>
+        <streamingReleaseDate>2012-02-14T00:00:00+00:00</streamingReleaseDate>
+        <duration>2389</duration>
+        <trackCount>11</trackCount>
+      </release>
+    </taggedItem>
+    <taggedItem>
+      <release id="315773">
+        <title>Only By The Night</title>
+        <version/>
+        <type>Album</type>
+        <barcode>886973519929</barcode>
+        <year>2008</year>
+        <explicitContent>false</explicitContent>
+        <artist id="1246">
+          <name>Kings Of Leon</name>
+          <appearsAs>Kings Of Leon</appearsAs>
+          <url>http://www.7digital.com/artist/kings-of-leon/?partner=3923</url>
+        </artist>
+        <url>http://www.7digital.com/artist/kings-of-leon/release/only-by-the-night-1/?partner=3923</url>
+        <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/003/157/0000315773_50.jpg</image>
+        <releaseDate>2008-09-22T00:00:00+01:00</releaseDate>
+        <addedDate>2008-09-09T10:44:58+01:00</addedDate>
+        <price>
+          <currency code="GBP">£</currency>
+          <value>6.99</value>
+          <formattedPrice>£6.99</formattedPrice>
+          <rrp>6.99</rrp>
+          <formattedRrp>£6.99</formattedRrp>
+          <onSale>false</onSale>
+        </price>
+        <download>
+          <packages>
+            <package id="2">
+              <description>standard</description>
+              <price>
+                <currencyCode>GBP</currencyCode>
+                <sevendigitalPrice>6.99</sevendigitalPrice>
+                <recommendedRetailPrice>6.99</recommendedRetailPrice>
+              </price>
+              <formats>
+                <format id="17">
+                  <description>MP3 320</description>
+                </format>
+              </formats>
+            </package>
+          </packages>
+        </download>
+        <popularity>0.62</popularity>
+        <streamingReleaseDate>2008-09-22T00:00:00+01:00</streamingReleaseDate>
+        <duration>2558</duration>
+        <trackCount>11</trackCount>
+      </release>
+    </taggedItem>
+    <taggedItem>
+      <release id="868778">
+        <title>The Final Frontier</title>
+        <version/>
+        <type>Album</type>
+        <barcode>5099964776859</barcode>
+        <year>2010</year>
+        <explicitContent>false</explicitContent>
+        <artist id="1252">
+          <name>Iron Maiden</name>
+          <appearsAs>Iron Maiden</appearsAs>
+          <url>http://www.7digital.com/artist/iron-maiden/?partner=3923</url>
+        </artist>
+        <url>http://www.7digital.com/artist/iron-maiden/release/the-final-frontier-1/?partner=3923</url>
+        <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/008/687/0000868778_50.jpg</image>
+        <releaseDate>2010-08-16T00:00:00+01:00</releaseDate>
+        <addedDate>2010-06-07T15:11:19+01:00</addedDate>
+        <price>
+          <currency code="GBP">£</currency>
+          <value>7.49</value>
+          <formattedPrice>£7.49</formattedPrice>
+          <rrp>7.49</rrp>
+          <formattedRrp>£7.49</formattedRrp>
+          <onSale>false</onSale>
+        </price>
+        <download>
+          <packages>
+            <package id="2">
+              <description>standard</description>
+              <price>
+                <currencyCode>GBP</currencyCode>
+                <sevendigitalPrice>7.49</sevendigitalPrice>
+                <recommendedRetailPrice>7.49</recommendedRetailPrice>
+              </price>
+              <formats>
+                <format id="17">
+                  <description>MP3 320</description>
+                </format>
+              </formats>
+            </package>
+          </packages>
+        </download>
+        <popularity>0.62</popularity>
+        <streamingReleaseDate>2010-08-16T00:00:00+01:00</streamingReleaseDate>
+        <duration>4602</duration>
+        <trackCount>10</trackCount>
+      </release>
+    </taggedItem>
+    <taggedItem>
+      <release id="14472">
+        <title>The Best Of Neil Diamond</title>
+        <version/>
+        <type>Album</type>
+        <barcode>00008811145224</barcode>
+        <year>2008</year>
+        <explicitContent>false</explicitContent>
+        <artist id="35">
+          <name>Neil Diamond</name>
+          <appearsAs>Neil Diamond</appearsAs>
+          <url>http://www.7digital.com/artist/neil-diamond/?partner=3923</url>
+        </artist>
+        <url>http://www.7digital.com/artist/neil-diamond/release/the-best-of-neil-diamond/?partner=3923</url>
+        <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/000/144/0000014472_50.jpg</image>
+        <releaseDate>2008-05-16T00:00:00+01:00</releaseDate>
+        <addedDate>2005-08-01T17:04:00+01:00</addedDate>
+        <price>
+          <currency code="GBP">£</currency>
+          <value>4.99</value>
+          <formattedPrice>£4.99</formattedPrice>
+          <rrp>4.99</rrp>
+          <formattedRrp>£4.99</formattedRrp>
+          <onSale>false</onSale>
+        </price>
+        <download>
+          <packages>
+            <package id="2">
+              <description>standard</description>
+              <price>
+                <currencyCode>GBP</currencyCode>
+                <sevendigitalPrice>4.99</sevendigitalPrice>
+                <recommendedRetailPrice>4.99</recommendedRetailPrice>
+              </price>
+              <formats>
+                <format id="17">
+                  <description>MP3 320</description>
+                </format>
+              </formats>
+            </package>
+          </packages>
+        </download>
+        <popularity>0.62</popularity>
+        <streamingReleaseDate>2008-05-16T00:00:00+01:00</streamingReleaseDate>
+        <duration>4502</duration>
+        <trackCount>21</trackCount>
+      </release>
+    </taggedItem>
+    <taggedItem>
+      <release id="398603">
+        <title>It's Blitz!</title>
+        <version>Deluxe digital album</version>
+        <type>Album</type>
+        <barcode>00602527021713</barcode>
+        <year>2009</year>
+        <explicitContent>false</explicitContent>
+        <artist id="892">
+          <name>Yeah Yeah Yeahs</name>
+          <appearsAs>Yeah Yeah Yeahs</appearsAs>
+          <url>http://www.7digital.com/artist/yeah-yeah-yeahs/?partner=3923</url>
+        </artist>
+        <url>http://www.7digital.com/artist/yeah-yeah-yeahs/release/its-blitz-1/?partner=3923</url>
+        <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/003/986/0000398603_50.jpg</image>
+        <releaseDate>2009-03-08T00:00:00+00:00</releaseDate>
+        <addedDate>2009-03-04T16:37:27+00:00</addedDate>
+        <price>
+          <currency code="GBP">£</currency>
+          <value>7.99</value>
+          <formattedPrice>£7.99</formattedPrice>
+          <rrp>7.99</rrp>
+          <formattedRrp>£7.99</formattedRrp>
+          <onSale>false</onSale>
+        </price>
+        <download>
+          <packages>
+            <package id="2">
+              <description>standard</description>
+              <price>
+                <currencyCode>GBP</currencyCode>
+                <sevendigitalPrice>7.99</sevendigitalPrice>
+                <recommendedRetailPrice>7.99</recommendedRetailPrice>
+              </price>
+              <formats>
+                <format id="17">
+                  <description>MP3 320</description>
+                </format>
+              </formats>
+            </package>
+          </packages>
+        </download>
+        <popularity>0.61</popularity>
+        <streamingReleaseDate>2009-03-08T00:00:00+00:00</streamingReleaseDate>
+        <duration>3535</duration>
+        <trackCount>15</trackCount>
+      </release>
+    </taggedItem>
+    <taggedItem>
+      <release id="50665">
+        <title>All Killer, No Filler</title>
+        <version/>
+        <type>Album</type>
+        <barcode>00731454866224</barcode>
+        <year>2001</year>
+        <explicitContent>false</explicitContent>
+        <artist id="355">
+          <name>Sum 41</name>
+          <appearsAs>Sum 41</appearsAs>
+          <url>http://www.7digital.com/artist/sum-41/?partner=3923</url>
+        </artist>
+        <url>http://www.7digital.com/artist/sum-41/release/all-killer-no-filler-4/?partner=3923</url>
+        <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/000/506/0000050665_50.jpg</image>
+        <releaseDate>2001-07-16T00:00:00+01:00</releaseDate>
+        <addedDate>2006-11-17T15:19:43+00:00</addedDate>
+        <price>
+          <currency code="GBP">£</currency>
+          <value>5.49</value>
+          <formattedPrice>£5.49</formattedPrice>
+          <rrp>5.49</rrp>
+          <formattedRrp>£5.49</formattedRrp>
+          <onSale>false</onSale>
+        </price>
+        <download>
+          <packages>
+            <package id="2">
+              <description>standard</description>
+              <price>
+                <currencyCode>GBP</currencyCode>
+                <sevendigitalPrice>5.49</sevendigitalPrice>
+                <recommendedRetailPrice>5.49</recommendedRetailPrice>
+              </price>
+              <formats>
+                <format id="17">
+                  <description>MP3 320</description>
+                </format>
+              </formats>
+            </package>
+          </packages>
+        </download>
+        <popularity>0.61</popularity>
+        <streamingReleaseDate>2001-07-16T00:00:00+01:00</streamingReleaseDate>
+        <duration>1939</duration>
+        <trackCount>13</trackCount>
+      </release>
+    </taggedItem>
+    <taggedItem>
+      <release id="112">
+        <title>Hopes And Fears</title>
+        <version/>
+        <type>Album</type>
+        <barcode>00602498665732</barcode>
+        <year>2004</year>
+        <explicitContent>false</explicitContent>
+        <artist id="1">
+          <name>Keane</name>
+          <appearsAs>Keane</appearsAs>
+          <url>http://www.7digital.com/artist/keane/?partner=3923</url>
+        </artist>
+        <url>http://www.7digital.com/artist/keane/release/hopes-and-fears-uk-version/?partner=3923</url>
+        <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/000/001/0000000112_50.jpg</image>
+        <releaseDate>2004-05-02T00:00:00+01:00</releaseDate>
+        <addedDate>2004-05-18T15:25:03+01:00</addedDate>
+        <price>
+          <currency code="GBP">£</currency>
+          <value>8.99</value>
+          <formattedPrice>£8.99</formattedPrice>
+          <rrp>8.99</rrp>
+          <formattedRrp>£8.99</formattedRrp>
+          <onSale>false</onSale>
+        </price>
+        <download>
+          <packages>
+            <package id="2">
+              <description>standard</description>
+              <price>
+                <currencyCode>GBP</currencyCode>
+                <sevendigitalPrice>8.99</sevendigitalPrice>
+                <recommendedRetailPrice>8.99</recommendedRetailPrice>
+              </price>
+              <formats>
+                <format id="17">
+                  <description>MP3 320</description>
+                </format>
+              </formats>
+            </package>
+          </packages>
+        </download>
+        <popularity>0.61</popularity>
+        <streamingReleaseDate>2004-05-02T00:00:00+01:00</streamingReleaseDate>
+        <duration>3033</duration>
+        <trackCount>12</trackCount>
+      </release>
+    </taggedItem>
+    <taggedItem>
+      <release id="1524286">
+        <title>Beyond Magnetic</title>
+        <version/>
+        <type>Album</type>
+        <barcode>00602527935188</barcode>
+        <year>2011</year>
+        <explicitContent>false</explicitContent>
+        <artist id="27920">
+          <name>Metallica</name>
+          <appearsAs>Metallica</appearsAs>
+          <url>http://www.7digital.com/artist/metallica/?partner=3923</url>
+        </artist>
+        <url>http://www.7digital.com/artist/metallica/release/beyond-magnetic/?partner=3923</url>
+        <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/015/242/0001524286_50.jpg</image>
+        <releaseDate>2011-12-14T00:00:00+00:00</releaseDate>
+        <addedDate>2011-12-15T12:00:24+00:00</addedDate>
+        <price>
+          <currency code="GBP">£</currency>
+          <value>3.49</value>
+          <formattedPrice>£3.49</formattedPrice>
+          <rrp>3.49</rrp>
+          <formattedRrp>£3.49</formattedRrp>
+          <onSale>false</onSale>
+        </price>
+        <download>
+          <packages>
+            <package id="2">
+              <description>standard</description>
+              <price>
+                <currencyCode>GBP</currencyCode>
+                <sevendigitalPrice>3.49</sevendigitalPrice>
+                <recommendedRetailPrice>3.49</recommendedRetailPrice>
+              </price>
+              <formats>
+                <format id="17">
+                  <description>MP3 320</description>
+                </format>
+              </formats>
+            </package>
+          </packages>
+        </download>
+        <popularity>0.6</popularity>
+        <streamingReleaseDate>3001-01-01T00:00:00+00:00</streamingReleaseDate>
+        <duration>1750</duration>
+        <trackCount>4</trackCount>
+      </release>
+    </taggedItem>
+    <taggedItem>
+      <release id="18150">
+        <title>Hybrid Theory</title>
+        <version/>
+        <type>Album</type>
+        <barcode>093624775560</barcode>
+        <year>2013</year>
+        <explicitContent>false</explicitContent>
+        <artist id="12873">
+          <name>Linkin Park</name>
+          <appearsAs>Linkin Park</appearsAs>
+          <url>http://www.7digital.com/artist/linkin-park/?partner=3923</url>
+        </artist>
+        <url>http://www.7digital.com/artist/linkin-park/release/hybrid-theory-3/?partner=3923</url>
+        <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/000/181/0000018150_50.jpg</image>
+        <releaseDate>2013-01-16T00:00:00+00:00</releaseDate>
+        <addedDate>2005-09-14T14:51:16+01:00</addedDate>
+        <price>
+          <currency code="GBP">£</currency>
+          <value>7.99</value>
+          <formattedPrice>£7.99</formattedPrice>
+          <rrp>7.99</rrp>
+          <formattedRrp>£7.99</formattedRrp>
+          <onSale>false</onSale>
+        </price>
+        <download>
+          <packages>
+            <package id="2">
+              <description>standard</description>
+              <price>
+                <currencyCode>GBP</currencyCode>
+                <sevendigitalPrice>7.99</sevendigitalPrice>
+                <recommendedRetailPrice>7.99</recommendedRetailPrice>
+              </price>
+              <formats>
+                <format id="17">
+                  <description>MP3 320</description>
+                </format>
+              </formats>
+            </package>
+          </packages>
+        </download>
+        <popularity>0.6</popularity>
+        <streamingReleaseDate>2013-01-16T00:00:00+00:00</streamingReleaseDate>
+        <duration>2282</duration>
+        <trackCount>12</trackCount>
+      </release>
+    </taggedItem>
+    <taggedItem>
+      <release id="324755">
+        <title>A Hundred Million Suns (Explicit Content – Parental Advisory)</title>
+        <version>UK Standard Version</version>
+        <type>Album</type>
+        <barcode>00602517852594</barcode>
+        <year>2014</year>
+        <explicitContent>true</explicitContent>
+        <artist id="269">
+          <name>Snow Patrol</name>
+          <appearsAs>Snow Patrol</appearsAs>
+          <url>http://www.7digital.com/artist/snow-patrol/?partner=3923</url>
+        </artist>
+        <url>http://www.7digital.com/artist/snow-patrol/release/a-hundred-million-suns/?partner=3923</url>
+        <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/003/247/0000324755_50.jpg</image>
+        <releaseDate>2014-05-22T00:00:00+01:00</releaseDate>
+        <addedDate>2008-10-08T12:44:54+01:00</addedDate>
+        <price>
+          <currency code="GBP">£</currency>
+          <value>8.99</value>
+          <formattedPrice>£8.99</formattedPrice>
+          <rrp>8.99</rrp>
+          <formattedRrp>£8.99</formattedRrp>
+          <onSale>false</onSale>
+        </price>
+        <download>
+          <packages>
+            <package id="2">
+              <description>standard</description>
+              <price>
+                <currencyCode>GBP</currencyCode>
+                <sevendigitalPrice>8.99</sevendigitalPrice>
+                <recommendedRetailPrice>8.99</recommendedRetailPrice>
+              </price>
+              <formats>
+                <format id="17">
+                  <description>MP3 320</description>
+                </format>
+              </formats>
+            </package>
+          </packages>
+        </download>
+        <popularity>0.6</popularity>
+        <streamingReleaseDate>2014-05-22T00:00:00+01:00</streamingReleaseDate>
+        <duration>3484</duration>
+        <trackCount>11</trackCount>
+      </release>
+    </taggedItem>
+    <taggedItem>
+      <release id="265297">
+        <title>More ABBA Gold</title>
+        <version>Super Jewel Box Version</version>
+        <type>Album</type>
+        <barcode>00602517247338</barcode>
+        <year>2008</year>
+        <explicitContent>false</explicitContent>
+        <artist id="1475">
+          <name>Abba</name>
+          <appearsAs>Abba</appearsAs>
+          <url>http://www.7digital.com/artist/abba/?partner=3923</url>
+        </artist>
+        <url>http://www.7digital.com/artist/abba/release/more-abba-gold/?partner=3923</url>
+        <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/002/652/0000265297_50.jpg</image>
+        <releaseDate>2008-08-25T00:00:00+01:00</releaseDate>
+        <addedDate>2008-06-02T15:18:05+01:00</addedDate>
+        <price>
+          <currency code="GBP">£</currency>
+          <value>8.99</value>
+          <formattedPrice>£8.99</formattedPrice>
+          <rrp>8.99</rrp>
+          <formattedRrp>£8.99</formattedRrp>
+          <onSale>false</onSale>
+        </price>
+        <download>
+          <packages>
+            <package id="2">
+              <description>standard</description>
+              <price>
+                <currencyCode>GBP</currencyCode>
+                <sevendigitalPrice>8.99</sevendigitalPrice>
+                <recommendedRetailPrice>8.99</recommendedRetailPrice>
+              </price>
+              <formats>
+                <format id="17">
+                  <description>MP3 320</description>
+                </format>
+              </formats>
+            </package>
+          </packages>
+        </download>
+        <popularity>0.6</popularity>
+        <streamingReleaseDate>2008-08-25T00:00:00+01:00</streamingReleaseDate>
+        <duration>4688</duration>
+        <trackCount>20</trackCount>
+      </release>
+    </taggedItem>
+    <taggedItem>
+      <release id="338671">
+        <title>Day &amp; Age</title>
+        <version>UK Album</version>
+        <type>Album</type>
+        <barcode>00602517851214</barcode>
+        <year>2008</year>
+        <explicitContent>false</explicitContent>
+        <artist id="616">
+          <name>The Killers</name>
+          <appearsAs>Killers, The</appearsAs>
+          <url>http://www.7digital.com/artist/the-killers/?partner=3923</url>
+        </artist>
+        <url>http://www.7digital.com/artist/the-killers/release/day-and-age-1/?partner=3923</url>
+        <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/003/386/0000338671_50.jpg</image>
+        <releaseDate>2008-11-24T00:00:00+00:00</releaseDate>
+        <addedDate>2008-11-13T11:18:32+00:00</addedDate>
+        <price>
+          <currency code="GBP">£</currency>
+          <value>7.99</value>
+          <formattedPrice>£7.99</formattedPrice>
+          <rrp>7.99</rrp>
+          <formattedRrp>£7.99</formattedRrp>
+          <onSale>false</onSale>
+        </price>
+        <download>
+          <packages>
+            <package id="2">
+              <description>standard</description>
+              <price>
+                <currencyCode>GBP</currencyCode>
+                <sevendigitalPrice>7.99</sevendigitalPrice>
+                <recommendedRetailPrice>7.99</recommendedRetailPrice>
+              </price>
+              <formats>
+                <format id="17">
+                  <description>MP3 320</description>
+                </format>
+              </formats>
+            </package>
+          </packages>
+        </download>
+        <popularity>0.6</popularity>
+        <streamingReleaseDate>2008-11-24T00:00:00+00:00</streamingReleaseDate>
+        <duration>2717</duration>
+        <trackCount>11</trackCount>
+      </release>
+    </taggedItem>
+    <taggedItem>
+      <release id="68632">
+        <title>Rocket Man</title>
+        <version/>
+        <type>Album</type>
+        <barcode>00602517268500</barcode>
+        <year>2007</year>
+        <explicitContent>false</explicitContent>
+        <artist id="1039">
+          <name>Elton John</name>
+          <appearsAs>Elton John</appearsAs>
+          <url>http://www.7digital.com/artist/elton-john/?partner=3923</url>
+        </artist>
+        <url>http://www.7digital.com/artist/elton-john/release/rocket-man-standard-comm-cd/?partner=3923</url>
+        <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/000/686/0000068632_50.jpg</image>
+        <releaseDate>2007-03-26T00:00:00+01:00</releaseDate>
+        <addedDate>2007-03-16T15:52:57+00:00</addedDate>
+        <price>
+          <currency code="GBP">£</currency>
+          <value>8.99</value>
+          <formattedPrice>£8.99</formattedPrice>
+          <rrp>8.99</rrp>
+          <formattedRrp>£8.99</formattedRrp>
+          <onSale>false</onSale>
+        </price>
+        <download>
+          <packages>
+            <package id="2">
+              <description>standard</description>
+              <price>
+                <currencyCode>GBP</currencyCode>
+                <sevendigitalPrice>8.99</sevendigitalPrice>
+                <recommendedRetailPrice>8.99</recommendedRetailPrice>
+              </price>
+              <formats>
+                <format id="17">
+                  <description>MP3 320</description>
+                </format>
+              </formats>
+            </package>
+          </packages>
+        </download>
+        <popularity>0.59</popularity>
+        <streamingReleaseDate>2007-03-26T00:00:00+01:00</streamingReleaseDate>
+        <duration>4781</duration>
+        <trackCount>18</trackCount>
+      </release>
+    </taggedItem>
+    <taggedItem>
+      <release id="168737">
+        <title>Mothership</title>
+        <version/>
+        <type>Album</type>
+        <barcode>603497988228</barcode>
+        <year>2012</year>
+        <explicitContent>false</explicitContent>
+        <artist id="128187">
+          <name>Led Zeppelin</name>
+          <appearsAs>Led Zeppelin</appearsAs>
+          <url>http://www.7digital.com/artist/led-zeppelin/?partner=3923</url>
+        </artist>
+        <url>http://www.7digital.com/artist/led-zeppelin/release/mothership/?partner=3923</url>
+        <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/001/687/0000168737_50.jpg</image>
+        <releaseDate>2012-07-24T00:00:00+01:00</releaseDate>
+        <addedDate>2007-10-24T16:30:37+01:00</addedDate>
+        <price>
+          <currency code="GBP">£</currency>
+          <value>10.99</value>
+          <formattedPrice>£10.99</formattedPrice>
+          <rrp>10.99</rrp>
+          <formattedRrp>£10.99</formattedRrp>
+          <onSale>false</onSale>
+        </price>
+        <download>
+          <packages>
+            <package id="2">
+              <description>standard</description>
+              <price>
+                <currencyCode>GBP</currencyCode>
+                <sevendigitalPrice>10.99</sevendigitalPrice>
+                <recommendedRetailPrice>10.99</recommendedRetailPrice>
+              </price>
+              <formats>
+                <format id="17">
+                  <description>MP3 320</description>
+                </format>
+              </formats>
+            </package>
+          </packages>
+        </download>
+        <popularity>0.59</popularity>
+        <streamingReleaseDate>3001-01-01T00:00:00+00:00</streamingReleaseDate>
+        <duration>8112</duration>
+        <trackCount>24</trackCount>
+      </release>
+    </taggedItem>
+  </taggedResults>
 </response>

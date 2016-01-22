@@ -1,1 +1,83 @@
-<?xml version="1.0" encoding="utf-8"?><response xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" status="ok" version="1.2" xsi:noNamespaceSchemaLocation="http://api.7digital.com/1.2/static/7digitalAPI.xsd"><release id="4218608"><title>For All My Sisters</title><version /><type>Album</type><barcode>886444958943</barcode><year>2015</year><explicitContent>false</explicitContent><artist id="5766"><name>The Cribs</name><appearsAs>The Cribs</appearsAs><url>http://www.7digital.com/artist/the-cribs/?partner=3923</url></artist><url>http://www.7digital.com/artist/the-cribs/release/for-all-my-sisters-1/?partner=3923</url><image>http://artwork-cdn.7static.com/static/img/sleeveart/00/042/186/0004218608_50.jpg</image><releaseDate>2015-03-23T00:00:00Z</releaseDate><addedDate>2015-03-04T14:51:20Z</addedDate><price><currency code="GBP">£</currency><value>4.99</value><formattedPrice>£4.99</formattedPrice><rrp>7.99</rrp><formattedRrp>£7.99</formattedRrp><onSale>true</onSale></price><formats availableDrmFree="true"><format id="17"><fileFormat>MP3</fileFormat><bitRate>320</bitRate><drmFree>true</drmFree></format><format id="33"><fileFormat>M4A</fileFormat><bitRate>320</bitRate><drmFree>true</drmFree></format></formats><label id="407667"><name>Sonic Blew</name></label><licensor id="2"><name>Sony Music</name></licensor><popularity>0</popularity><streamingReleaseDate>2015-03-23T00:00:00Z</streamingReleaseDate><duration>2818</duration><trackCount>12</trackCount><download><packages><package id="9"><description>premium</description><price><currencyCode>GBP</currencyCode><sevendigitalPrice>7.99</sevendigitalPrice><recommendedRetailPrice>9.99</recommendedRetailPrice></price><formats><format id="45"><description>FLAC 16-bit 44.1kHz</description></format></formats></package><package id="2"><description>standard</description><price><currencyCode>GBP</currencyCode><sevendigitalPrice>4.99</sevendigitalPrice><recommendedRetailPrice>7.99</recommendedRetailPrice></price><formats><format id="17"><description>MP3 320</description></format><format id="33"><description>AAC 320</description></format></formats></package></packages></download></release></response>
+<?xml version="1.0" encoding="utf-8"?>
+<response xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" status="ok" version="1.2" xsi:noNamespaceSchemaLocation="http://api.7digital.com/1.2/static/7digitalAPI.xsd">
+  <release id="4218608">
+    <title>For All My Sisters</title>
+    <version/>
+    <type>Album</type>
+    <barcode>886444958943</barcode>
+    <year>2015</year>
+    <explicitContent>false</explicitContent>
+    <artist id="5766">
+      <name>The Cribs</name>
+      <appearsAs>The Cribs</appearsAs>
+      <url>http://www.7digital.com/artist/the-cribs/?partner=3923</url>
+    </artist>
+    <url>http://www.7digital.com/artist/the-cribs/release/for-all-my-sisters-1/?partner=3923</url>
+    <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/042/186/0004218608_50.jpg</image>
+    <releaseDate>2015-03-23T00:00:00Z</releaseDate>
+    <addedDate>2015-03-04T14:51:20Z</addedDate>
+    <price>
+      <currency code="GBP">£</currency>
+      <value>4.99</value>
+      <formattedPrice>£4.99</formattedPrice>
+      <rrp>7.99</rrp>
+      <formattedRrp>£7.99</formattedRrp>
+      <onSale>true</onSale>
+    </price>
+    <formats availableDrmFree="true">
+      <format id="17">
+        <fileFormat>MP3</fileFormat>
+        <bitRate>320</bitRate>
+        <drmFree>true</drmFree>
+      </format>
+      <format id="33">
+        <fileFormat>M4A</fileFormat>
+        <bitRate>320</bitRate>
+        <drmFree>true</drmFree>
+      </format>
+    </formats>
+    <label id="407667">
+      <name>Sonic Blew</name>
+    </label>
+    <licensor id="2">
+      <name>Sony Music</name>
+    </licensor>
+    <popularity>0</popularity>
+    <streamingReleaseDate>2015-03-23T00:00:00Z</streamingReleaseDate>
+    <duration>2818</duration>
+    <trackCount>12</trackCount>
+    <download>
+      <packages>
+        <package id="9">
+          <description>premium</description>
+          <price>
+            <currencyCode>GBP</currencyCode>
+            <sevendigitalPrice>7.99</sevendigitalPrice>
+            <recommendedRetailPrice>9.99</recommendedRetailPrice>
+          </price>
+          <formats>
+            <format id="45">
+              <description>FLAC 16-bit 44.1kHz</description>
+            </format>
+          </formats>
+        </package>
+        <package id="2">
+          <description>standard</description>
+          <price>
+            <currencyCode>GBP</currencyCode>
+            <sevendigitalPrice>4.99</sevendigitalPrice>
+            <recommendedRetailPrice>7.99</recommendedRetailPrice>
+          </price>
+          <formats>
+            <format id="17">
+              <description>MP3 320</description>
+            </format>
+            <format id="33">
+              <description>AAC 320</description>
+            </format>
+          </formats>
+        </package>
+      </packages>
+    </download>
+  </release>
+</response>

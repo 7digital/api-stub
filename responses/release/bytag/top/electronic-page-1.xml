@@ -1,219 +1,219 @@
 <?xml version="1.0" encoding="utf-8"?>
 <response xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" status="ok" version="1.2" xsi:noNamespaceSchemaLocation="http://api.7digital.com/1.2/static/7digitalAPI.xsd">
-	<taggedResults>
-		<page>1</page>
-		<pageSize>10</pageSize>
-		<totalItems>191496</totalItems>
-		<type>release</type>
-		<taggedItem>
-			<release id="1667971">
-				<title>An Awesome Wave</title>
-				<version/>
-				<type>Album</type>
-				<barcode>5050954271488</barcode>
-				<year>2012</year>
-				<explicitContent>false</explicitContent>
-				<artist id="1221028">
-					<name>alt-J</name>
-					<appearsAs>alt-J</appearsAs>
-					<url>http://www.7digital.com/artist/alt-j-1/?partner=1401</url>
-				</artist>
-				<url>http://www.7digital.com/artist/alt-j-1/release/an-awesome-wave/?partner=1401</url>
-				<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/016/679/0001667971_50.jpg</image>
-				<releaseDate>2012-05-28T00:00:00+01:00</releaseDate>
-				<addedDate>2012-04-16T01:45:44+01:00</addedDate>
-				<popularity>0.75</popularity>
-				<streamingReleaseDate>2012-05-28T00:00:00+01:00</streamingReleaseDate>
-			</release>
-		</taggedItem>
-		<taggedItem>
-			<release id="1726458">
-				<title>The Bravest Man In The Universe</title>
-				<version/>
-				<type>Album</type>
-				<barcode>634904056162</barcode>
-				<year>2012</year>
-				<explicitContent>false</explicitContent>
-				<artist id="16466">
-					<name>Bobby Womack</name>
-					<appearsAs>Bobby Womack</appearsAs>
-					<url>http://www.7digital.com/artist/bobby-womack/?partner=1401</url>
-				</artist>
-				<url>http://www.7digital.com/artist/bobby-womack/release/the-bravest-man-in-the-universe/?partner=1401</url>
-				<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/017/264/0001726458_50.jpg</image>
-				<releaseDate>2012-06-11T00:00:00+01:00</releaseDate>
-				<addedDate>2012-05-24T00:23:59+01:00</addedDate>
-				<popularity>0.65</popularity>
-				<streamingReleaseDate>2012-06-11T00:00:00+01:00</streamingReleaseDate>
-			</release>
-		</taggedItem>
-		<taggedItem>
-			<release id="1275025">
-				<title>Ibiza Summer Vibes, Vol. 1</title>
-				<version/>
-				<type>Album</type>
-				<barcode>3661585913481</barcode>
-				<year>2011</year>
-				<explicitContent>false</explicitContent>
-				<artist id="209">
-					<name>Various Artists</name>
-					<appearsAs>Various Artists</appearsAs>
-					<url>http://www.7digital.com/artist/various-artists/?partner=1401</url>
-				</artist>
-				<url>http://www.7digital.com/artist/various-artists/release/ibiza-summer-vibes-vol-1/?partner=1401</url>
-				<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/012/750/0001275025_50.jpg</image>
-				<releaseDate>2011-06-25T00:00:00+01:00</releaseDate>
-				<addedDate>2011-06-03T15:11:04+01:00</addedDate>
-				<popularity>0.65</popularity>
-				<streamingReleaseDate>2011-06-25T00:00:00+01:00</streamingReleaseDate>
-			</release>
-		</taggedItem>
-		<taggedItem>
-			<release id="1268689">
-				<title>Freedom For Palestine</title>
-				<version/>
-				<type>Single</type>
-				<barcode>5060193564067</barcode>
-				<year>2011</year>
-				<explicitContent>false</explicitContent>
-				<artist id="317721">
-					<name>OneWorld</name>
-					<appearsAs>OneWorld</appearsAs>
-					<url>http://www.7digital.com/artist/oneworld/?partner=1401</url>
-				</artist>
-				<url>http://www.7digital.com/artist/oneworld/release/freedom-for-palestine/?partner=1401</url>
-				<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/012/686/0001268689_50.jpg</image>
-				<releaseDate>2011-07-03T00:00:00+01:00</releaseDate>
-				<addedDate>2011-05-30T14:07:26+01:00</addedDate>
-				<popularity>0.63</popularity>
-				<streamingReleaseDate>3001-01-01T00:00:00+00:00</streamingReleaseDate>
-			</release>
-		</taggedItem>
-		<taggedItem>
-			<release id="1349839">
-				<title>Welcome Reality</title>
-				<version/>
-				<type>Album</type>
-				<barcode>00602527681955</barcode>
-				<year>2011</year>
-				<explicitContent>false</explicitContent>
-				<artist id="6733">
-					<name>Nero</name>
-					<appearsAs>Nero</appearsAs>
-					<url>http://www.7digital.com/artist/nero/?partner=1401</url>
-				</artist>
-				<url>http://www.7digital.com/artist/nero/release/welcome-reality/?partner=1401</url>
-				<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/013/498/0001349839_50.jpg</image>
-				<releaseDate>2011-08-15T00:00:00+01:00</releaseDate>
-				<addedDate>2011-08-05T15:03:18+01:00</addedDate>
-				<popularity>0.63</popularity>
-				<streamingReleaseDate>2011-08-15T00:00:00+01:00</streamingReleaseDate>
-			</release>
-		</taggedItem>
-		<taggedItem>
-			<release id="1222780">
-				<title>Lambada</title>
-				<version/>
-				<type>Album</type>
-				<barcode>3661585831426</barcode>
-				<year>2011</year>
-				<explicitContent>false</explicitContent>
-				<artist id="930390">
-					<name>Kosa</name>
-					<appearsAs>Kosa</appearsAs>
-					<url>http://www.7digital.com/artist/kosa/?partner=1401</url>
-				</artist>
-				<url>http://www.7digital.com/artist/kosa/release/lambada/?partner=1401</url>
-				<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/012/227/0001222780_50.jpg</image>
-				<releaseDate>2011-04-28T00:00:00+01:00</releaseDate>
-				<addedDate>2011-04-21T17:33:28+01:00</addedDate>
-				<popularity>0.62</popularity>
-				<streamingReleaseDate>2011-04-28T00:00:00+01:00</streamingReleaseDate>
-			</release>
-		</taggedItem>
-		<taggedItem>
-			<release id="1259579">
-				<title>Relaxing Summer Chill, Vol. 3</title>
-				<version/>
-				<type>Album</type>
-				<barcode>3661585891116</barcode>
-				<year>2011</year>
-				<explicitContent>false</explicitContent>
-				<artist id="209">
-					<name>Various Artists</name>
-					<appearsAs>Various Artists</appearsAs>
-					<url>http://www.7digital.com/artist/various-artists/?partner=1401</url>
-				</artist>
-				<url>http://www.7digital.com/artist/various-artists/release/relaxing-summer-chill-vol-3/?partner=1401</url>
-				<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/012/595/0001259579_50.jpg</image>
-				<releaseDate>2011-07-14T00:00:00+01:00</releaseDate>
-				<addedDate>2011-06-03T15:11:09+01:00</addedDate>
-				<popularity>0.62</popularity>
-				<streamingReleaseDate>2011-07-14T00:00:00+01:00</streamingReleaseDate>
-			</release>
-		</taggedItem>
-		<taggedItem>
-			<release id="12142">
-				<title>Dummy</title>
-				<version>Non UK Version</version>
-				<type>Album</type>
-				<barcode>00042282855329</barcode>
-				<year>2005</year>
-				<explicitContent>false</explicitContent>
-				<artist id="8819">
-					<name>Portishead</name>
-					<appearsAs>Portishead</appearsAs>
-					<url>http://www.7digital.com/artist/portishead/?partner=1401</url>
-				</artist>
-				<url>http://www.7digital.com/artist/portishead/release/dummy-non-uk-version-1/?partner=1401</url>
-				<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/000/121/0000012142_50.jpg</image>
-				<releaseDate>2005-06-09T00:00:00+01:00</releaseDate>
-				<addedDate>2008-08-31T22:18:25+01:00</addedDate>
-				<popularity>0.62</popularity>
-				<streamingReleaseDate>2005-06-09T00:00:00+01:00</streamingReleaseDate>
-			</release>
-		</taggedItem>
-		<taggedItem>
-			<release id="1597182">
-				<title>Visions</title>
-				<version/>
-				<type>Album</type>
-				<barcode>652637320862</barcode>
-				<year>2012</year>
-				<explicitContent>false</explicitContent>
-				<artist id="848358">
-					<name>Grimes</name>
-					<appearsAs>Grimes</appearsAs>
-					<url>http://www.7digital.com/artist/grimes/?partner=1401</url>
-				</artist>
-				<url>http://www.7digital.com/artist/grimes/release/visions-1/?partner=1401</url>
-				<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/015/971/0001597182_50.jpg</image>
-				<releaseDate>2012-03-12T00:00:00+00:00</releaseDate>
-				<addedDate>2012-02-08T12:15:00+00:00</addedDate>
-				<popularity>0.61</popularity>
-				<streamingReleaseDate>2012-03-12T00:00:00+00:00</streamingReleaseDate>
-			</release>
-		</taggedItem>
-		<taggedItem>
-			<release id="1057708">
-				<title>The Workout Mix 2011</title>
-				<version/>
-				<type>Album</type>
-				<barcode>00600753318782</barcode>
-				<year>2011</year>
-				<explicitContent>false</explicitContent>
-				<artist id="209">
-					<name>Various Artists</name>
-					<appearsAs>Various Artists</appearsAs>
-					<url>http://www.7digital.com/artist/various-artists/?partner=1401</url>
-				</artist>
-				<url>http://www.7digital.com/artist/various-artists/release/the-workout-mix-2011/?partner=1401</url>
-				<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/010/577/0001057708_50.jpg</image>
-				<releaseDate>2011-03-11T00:00:00+00:00</releaseDate>
-				<addedDate>2010-12-08T15:31:54+00:00</addedDate>
-				<popularity>0.6</popularity>
-				<streamingReleaseDate>3001-01-01T00:00:00+00:00</streamingReleaseDate>
-			</release>
-		</taggedItem>
-	</taggedResults>
+  <taggedResults>
+    <page>1</page>
+    <pageSize>10</pageSize>
+    <totalItems>191496</totalItems>
+    <type>release</type>
+    <taggedItem>
+      <release id="1667971">
+        <title>An Awesome Wave</title>
+        <version/>
+        <type>Album</type>
+        <barcode>5050954271488</barcode>
+        <year>2012</year>
+        <explicitContent>false</explicitContent>
+        <artist id="1221028">
+          <name>alt-J</name>
+          <appearsAs>alt-J</appearsAs>
+          <url>http://www.7digital.com/artist/alt-j-1/?partner=1401</url>
+        </artist>
+        <url>http://www.7digital.com/artist/alt-j-1/release/an-awesome-wave/?partner=1401</url>
+        <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/016/679/0001667971_50.jpg</image>
+        <releaseDate>2012-05-28T00:00:00+01:00</releaseDate>
+        <addedDate>2012-04-16T01:45:44+01:00</addedDate>
+        <popularity>0.75</popularity>
+        <streamingReleaseDate>2012-05-28T00:00:00+01:00</streamingReleaseDate>
+      </release>
+    </taggedItem>
+    <taggedItem>
+      <release id="1726458">
+        <title>The Bravest Man In The Universe</title>
+        <version/>
+        <type>Album</type>
+        <barcode>634904056162</barcode>
+        <year>2012</year>
+        <explicitContent>false</explicitContent>
+        <artist id="16466">
+          <name>Bobby Womack</name>
+          <appearsAs>Bobby Womack</appearsAs>
+          <url>http://www.7digital.com/artist/bobby-womack/?partner=1401</url>
+        </artist>
+        <url>http://www.7digital.com/artist/bobby-womack/release/the-bravest-man-in-the-universe/?partner=1401</url>
+        <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/017/264/0001726458_50.jpg</image>
+        <releaseDate>2012-06-11T00:00:00+01:00</releaseDate>
+        <addedDate>2012-05-24T00:23:59+01:00</addedDate>
+        <popularity>0.65</popularity>
+        <streamingReleaseDate>2012-06-11T00:00:00+01:00</streamingReleaseDate>
+      </release>
+    </taggedItem>
+    <taggedItem>
+      <release id="1275025">
+        <title>Ibiza Summer Vibes, Vol. 1</title>
+        <version/>
+        <type>Album</type>
+        <barcode>3661585913481</barcode>
+        <year>2011</year>
+        <explicitContent>false</explicitContent>
+        <artist id="209">
+          <name>Various Artists</name>
+          <appearsAs>Various Artists</appearsAs>
+          <url>http://www.7digital.com/artist/various-artists/?partner=1401</url>
+        </artist>
+        <url>http://www.7digital.com/artist/various-artists/release/ibiza-summer-vibes-vol-1/?partner=1401</url>
+        <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/012/750/0001275025_50.jpg</image>
+        <releaseDate>2011-06-25T00:00:00+01:00</releaseDate>
+        <addedDate>2011-06-03T15:11:04+01:00</addedDate>
+        <popularity>0.65</popularity>
+        <streamingReleaseDate>2011-06-25T00:00:00+01:00</streamingReleaseDate>
+      </release>
+    </taggedItem>
+    <taggedItem>
+      <release id="1268689">
+        <title>Freedom For Palestine</title>
+        <version/>
+        <type>Single</type>
+        <barcode>5060193564067</barcode>
+        <year>2011</year>
+        <explicitContent>false</explicitContent>
+        <artist id="317721">
+          <name>OneWorld</name>
+          <appearsAs>OneWorld</appearsAs>
+          <url>http://www.7digital.com/artist/oneworld/?partner=1401</url>
+        </artist>
+        <url>http://www.7digital.com/artist/oneworld/release/freedom-for-palestine/?partner=1401</url>
+        <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/012/686/0001268689_50.jpg</image>
+        <releaseDate>2011-07-03T00:00:00+01:00</releaseDate>
+        <addedDate>2011-05-30T14:07:26+01:00</addedDate>
+        <popularity>0.63</popularity>
+        <streamingReleaseDate>3001-01-01T00:00:00+00:00</streamingReleaseDate>
+      </release>
+    </taggedItem>
+    <taggedItem>
+      <release id="1349839">
+        <title>Welcome Reality</title>
+        <version/>
+        <type>Album</type>
+        <barcode>00602527681955</barcode>
+        <year>2011</year>
+        <explicitContent>false</explicitContent>
+        <artist id="6733">
+          <name>Nero</name>
+          <appearsAs>Nero</appearsAs>
+          <url>http://www.7digital.com/artist/nero/?partner=1401</url>
+        </artist>
+        <url>http://www.7digital.com/artist/nero/release/welcome-reality/?partner=1401</url>
+        <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/013/498/0001349839_50.jpg</image>
+        <releaseDate>2011-08-15T00:00:00+01:00</releaseDate>
+        <addedDate>2011-08-05T15:03:18+01:00</addedDate>
+        <popularity>0.63</popularity>
+        <streamingReleaseDate>2011-08-15T00:00:00+01:00</streamingReleaseDate>
+      </release>
+    </taggedItem>
+    <taggedItem>
+      <release id="1222780">
+        <title>Lambada</title>
+        <version/>
+        <type>Album</type>
+        <barcode>3661585831426</barcode>
+        <year>2011</year>
+        <explicitContent>false</explicitContent>
+        <artist id="930390">
+          <name>Kosa</name>
+          <appearsAs>Kosa</appearsAs>
+          <url>http://www.7digital.com/artist/kosa/?partner=1401</url>
+        </artist>
+        <url>http://www.7digital.com/artist/kosa/release/lambada/?partner=1401</url>
+        <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/012/227/0001222780_50.jpg</image>
+        <releaseDate>2011-04-28T00:00:00+01:00</releaseDate>
+        <addedDate>2011-04-21T17:33:28+01:00</addedDate>
+        <popularity>0.62</popularity>
+        <streamingReleaseDate>2011-04-28T00:00:00+01:00</streamingReleaseDate>
+      </release>
+    </taggedItem>
+    <taggedItem>
+      <release id="1259579">
+        <title>Relaxing Summer Chill, Vol. 3</title>
+        <version/>
+        <type>Album</type>
+        <barcode>3661585891116</barcode>
+        <year>2011</year>
+        <explicitContent>false</explicitContent>
+        <artist id="209">
+          <name>Various Artists</name>
+          <appearsAs>Various Artists</appearsAs>
+          <url>http://www.7digital.com/artist/various-artists/?partner=1401</url>
+        </artist>
+        <url>http://www.7digital.com/artist/various-artists/release/relaxing-summer-chill-vol-3/?partner=1401</url>
+        <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/012/595/0001259579_50.jpg</image>
+        <releaseDate>2011-07-14T00:00:00+01:00</releaseDate>
+        <addedDate>2011-06-03T15:11:09+01:00</addedDate>
+        <popularity>0.62</popularity>
+        <streamingReleaseDate>2011-07-14T00:00:00+01:00</streamingReleaseDate>
+      </release>
+    </taggedItem>
+    <taggedItem>
+      <release id="12142">
+        <title>Dummy</title>
+        <version>Non UK Version</version>
+        <type>Album</type>
+        <barcode>00042282855329</barcode>
+        <year>2005</year>
+        <explicitContent>false</explicitContent>
+        <artist id="8819">
+          <name>Portishead</name>
+          <appearsAs>Portishead</appearsAs>
+          <url>http://www.7digital.com/artist/portishead/?partner=1401</url>
+        </artist>
+        <url>http://www.7digital.com/artist/portishead/release/dummy-non-uk-version-1/?partner=1401</url>
+        <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/000/121/0000012142_50.jpg</image>
+        <releaseDate>2005-06-09T00:00:00+01:00</releaseDate>
+        <addedDate>2008-08-31T22:18:25+01:00</addedDate>
+        <popularity>0.62</popularity>
+        <streamingReleaseDate>2005-06-09T00:00:00+01:00</streamingReleaseDate>
+      </release>
+    </taggedItem>
+    <taggedItem>
+      <release id="1597182">
+        <title>Visions</title>
+        <version/>
+        <type>Album</type>
+        <barcode>652637320862</barcode>
+        <year>2012</year>
+        <explicitContent>false</explicitContent>
+        <artist id="848358">
+          <name>Grimes</name>
+          <appearsAs>Grimes</appearsAs>
+          <url>http://www.7digital.com/artist/grimes/?partner=1401</url>
+        </artist>
+        <url>http://www.7digital.com/artist/grimes/release/visions-1/?partner=1401</url>
+        <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/015/971/0001597182_50.jpg</image>
+        <releaseDate>2012-03-12T00:00:00+00:00</releaseDate>
+        <addedDate>2012-02-08T12:15:00+00:00</addedDate>
+        <popularity>0.61</popularity>
+        <streamingReleaseDate>2012-03-12T00:00:00+00:00</streamingReleaseDate>
+      </release>
+    </taggedItem>
+    <taggedItem>
+      <release id="1057708">
+        <title>The Workout Mix 2011</title>
+        <version/>
+        <type>Album</type>
+        <barcode>00600753318782</barcode>
+        <year>2011</year>
+        <explicitContent>false</explicitContent>
+        <artist id="209">
+          <name>Various Artists</name>
+          <appearsAs>Various Artists</appearsAs>
+          <url>http://www.7digital.com/artist/various-artists/?partner=1401</url>
+        </artist>
+        <url>http://www.7digital.com/artist/various-artists/release/the-workout-mix-2011/?partner=1401</url>
+        <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/010/577/0001057708_50.jpg</image>
+        <releaseDate>2011-03-11T00:00:00+00:00</releaseDate>
+        <addedDate>2010-12-08T15:31:54+00:00</addedDate>
+        <popularity>0.6</popularity>
+        <streamingReleaseDate>3001-01-01T00:00:00+00:00</streamingReleaseDate>
+      </release>
+    </taggedItem>
+  </taggedResults>
 </response>

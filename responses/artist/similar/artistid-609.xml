@@ -1,106 +1,106 @@
 <?xml version="1.0" encoding="utf-8"?>
 <response xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" status="ok" version="1.2" xsi:noNamespaceSchemaLocation="http://api.7digital.com/1.2/static/7digitalAPI.xsd">
-	<artists>
-		<page>1</page>
-		<pageSize>10</pageSize>
-		<totalItems>28</totalItems>
-		<artist id="14">
-			<name>The Charlatans</name>
-			<sortName>Charlatans, The</sortName>
-			<url>
+  <artists>
+    <page>1</page>
+    <pageSize>10</pageSize>
+    <totalItems>28</totalItems>
+    <artist id="14">
+      <name>The Charlatans</name>
+      <sortName>Charlatans, The</sortName>
+      <url>
         http://www.7digital.com/artists/the-charlatans/?partner=1401
       </url>
-			<image>
+      <image>
         http://artwork-cdn.7static.com/static/img/artistimages/00/000/000/0000000014_150.jpg
       </image>
-		</artist>
-		<artist id="20">
-			<name>Coldplay</name>
-			<sortName>Coldplay</sortName>
-			<url>
+    </artist>
+    <artist id="20">
+      <name>Coldplay</name>
+      <sortName>Coldplay</sortName>
+      <url>
         http://www.7digital.com/artists/coldplay/?partner=1401
       </url>
-			<image>
+      <image>
         http://artwork-cdn.7static.com/static/img/artistimages/00/000/000/0000000020_150.jpg
       </image>
-		</artist>
-		<artist id="102">
-			<name>Ocean Colour Scene</name>
-			<sortName>Ocean Colour Scene</sortName>
-			<url>
+    </artist>
+    <artist id="102">
+      <name>Ocean Colour Scene</name>
+      <sortName>Ocean Colour Scene</sortName>
+      <url>
         http://www.7digital.com/artists/ocean-colour-scene/?partner=1401
       </url>
-			<image>
+      <image>
         http://artwork-cdn.7static.com/static/img/artistimages/00/000/001/0000000102_150.jpg
       </image>
-		</artist>
-		<artist id="106">
-			<name>U2</name>
-			<sortName>U2</sortName>
-			<url>http://www.7digital.com/artists/u2/?partner=1401</url>
-			<image>
+    </artist>
+    <artist id="106">
+      <name>U2</name>
+      <sortName>U2</sortName>
+      <url>http://www.7digital.com/artists/u2/?partner=1401</url>
+      <image>
         http://artwork-cdn.7static.com/static/img/artistimages/00/000/001/0000000106_150.jpg
       </image>
-		</artist>
-		<artist id="110">
-			<name>Thirteen Senses</name>
-			<sortName>Thirteen Senses</sortName>
-			<url>
+    </artist>
+    <artist id="110">
+      <name>Thirteen Senses</name>
+      <sortName>Thirteen Senses</sortName>
+      <url>
         http://www.7digital.com/artists/thirteen-senses/?partner=1401
       </url>
-			<image>
+      <image>
         http://artwork-cdn.7static.com/static/img/artistimages/00/000/001/0000000110_150.jpg
       </image>
-		</artist>
-		<artist id="117">
-			<name>The Thrills</name>
-			<sortName>Thrills, The</sortName>
-			<url>
+    </artist>
+    <artist id="117">
+      <name>The Thrills</name>
+      <sortName>Thrills, The</sortName>
+      <url>
         http://www.7digital.com/artists/the-thrills/?partner=1401
       </url>
-			<image>
+      <image>
         http://artwork-cdn.7static.com/static/img/artistimages/00/000/001/0000000117_150.jpg
       </image>
-		</artist>
-		<artist id="122">
-			<name>Starsailor</name>
-			<sortName>Starsailor</sortName>
-			<url>
+    </artist>
+    <artist id="122">
+      <name>Starsailor</name>
+      <sortName>Starsailor</sortName>
+      <url>
         http://www.7digital.com/artists/starsailor/?partner=1401
       </url>
-			<image>
+      <image>
         http://artwork-cdn.7static.com/static/img/artistimages/00/000/001/0000000122_150.jpg
       </image>
-		</artist>
-		<artist id="170">
-			<name>Razorlight</name>
-			<sortName>Razorlight</sortName>
-			<url>
+    </artist>
+    <artist id="170">
+      <name>Razorlight</name>
+      <sortName>Razorlight</sortName>
+      <url>
         http://www.7digital.com/artists/razorlight/?partner=1401
       </url>
-			<image>
+      <image>
         http://artwork-cdn.7static.com/static/img/artistimages/00/000/001/0000000170_150.jpg
       </image>
-		</artist>
-		<artist id="222">
-			<name>Maroon 5</name>
-			<sortName>Maroon 5</sortName>
-			<url>
+    </artist>
+    <artist id="222">
+      <name>Maroon 5</name>
+      <sortName>Maroon 5</sortName>
+      <url>
         http://www.7digital.com/artists/maroon-5/?partner=1401
       </url>
-			<image>
+      <image>
         http://artwork-cdn.7static.com/static/img/artistimages/00/000/002/0000000222_150.jpg
       </image>
-		</artist>
-		<artist id="269">
-			<name>Snow Patrol</name>
-			<sortName>Snow Patrol</sortName>
-			<url>
+    </artist>
+    <artist id="269">
+      <name>Snow Patrol</name>
+      <sortName>Snow Patrol</sortName>
+      <url>
         http://www.7digital.com/artists/snow-patrol/?partner=1401
       </url>
-			<image>
+      <image>
         http://artwork-cdn.7static.com/static/img/artistimages/00/000/002/0000000269_150.jpg
       </image>
-		</artist>
-	</artists>
+    </artist>
+  </artists>
 </response>

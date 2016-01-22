@@ -1,219 +1,219 @@
 <?xml version="1.0" encoding="utf-8"?>
 <response xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" status="ok" version="1.2" xsi:noNamespaceSchemaLocation="http://api.7digital.com/1.2/static/7digitalAPI.xsd">
-	<taggedResults>
-		<page>1</page>
-		<pageSize>10</pageSize>
-		<totalItems>95772</totalItems>
-		<type>release</type>
-		<taggedItem>
-			<release id="1275025">
-				<title>Ibiza Summer Vibes, Vol. 1</title>
-				<version/>
-				<type>Album</type>
-				<barcode>3661585913481</barcode>
-				<year>2011</year>
-				<explicitContent>false</explicitContent>
-				<artist id="209">
-					<name>Various Artists</name>
-					<appearsAs>Various Artists</appearsAs>
-					<url>http://www.7digital.com/artist/various-artists/?partner=1401</url>
-				</artist>
-				<url>http://www.7digital.com/artist/various-artists/release/ibiza-summer-vibes-vol-1/?partner=1401</url>
-				<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/012/750/0001275025_50.jpg</image>
-				<releaseDate>2011-06-25T00:00:00+01:00</releaseDate>
-				<addedDate>2011-06-03T15:11:04+01:00</addedDate>
-				<popularity>0.65</popularity>
-				<streamingReleaseDate>2011-06-25T00:00:00+01:00</streamingReleaseDate>
-			</release>
-		</taggedItem>
-		<taggedItem>
-			<release id="1347417">
-				<title>7digital Essential: Jazz</title>
-				<version/>
-				<type>Album</type>
-				<barcode>3700551721191</barcode>
-				<year>2011</year>
-				<explicitContent>false</explicitContent>
-				<artist id="209">
-					<name>Various Artists</name>
-					<appearsAs>Various Artists</appearsAs>
-					<url>http://www.7digital.com/artist/various-artists/?partner=1401</url>
-				</artist>
-				<url>http://www.7digital.com/artist/various-artists/release/7digital-essential-jazz/?partner=1401</url>
-				<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/013/474/0001347417_50.jpg</image>
-				<releaseDate>2011-07-18T00:00:00+01:00</releaseDate>
-				<addedDate>2011-08-16T17:36:31+01:00</addedDate>
-				<popularity>0.64</popularity>
-				<streamingReleaseDate>3001-01-01T00:00:00+00:00</streamingReleaseDate>
-			</release>
-		</taggedItem>
-		<taggedItem>
-			<release id="1328849">
-				<title>Now That's What I Call Music! 79</title>
-				<version/>
-				<type>Album</type>
-				<barcode>5099908725059</barcode>
-				<year>2011</year>
-				<explicitContent>false</explicitContent>
-				<artist id="209">
-					<name>Various Artists</name>
-					<appearsAs>Various Artists</appearsAs>
-					<url>http://www.7digital.com/artist/various-artists/?partner=1401</url>
-				</artist>
-				<url>http://www.7digital.com/artist/various-artists/release/now-thats-what-i-call-music-79/?partner=1401</url>
-				<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/013/288/0001328849_50.jpg</image>
-				<releaseDate>2011-07-25T00:00:00+01:00</releaseDate>
-				<addedDate>2011-07-15T12:18:38+01:00</addedDate>
-				<popularity>0.64</popularity>
-				<streamingReleaseDate>3001-01-01T00:00:00+00:00</streamingReleaseDate>
-			</release>
-		</taggedItem>
-		<taggedItem>
-			<release id="1259579">
-				<title>Relaxing Summer Chill, Vol. 3</title>
-				<version/>
-				<type>Album</type>
-				<barcode>3661585891116</barcode>
-				<year>2011</year>
-				<explicitContent>false</explicitContent>
-				<artist id="209">
-					<name>Various Artists</name>
-					<appearsAs>Various Artists</appearsAs>
-					<url>http://www.7digital.com/artist/various-artists/?partner=1401</url>
-				</artist>
-				<url>http://www.7digital.com/artist/various-artists/release/relaxing-summer-chill-vol-3/?partner=1401</url>
-				<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/012/595/0001259579_50.jpg</image>
-				<releaseDate>2011-07-14T00:00:00+01:00</releaseDate>
-				<addedDate>2011-06-03T15:11:09+01:00</addedDate>
-				<popularity>0.62</popularity>
-				<streamingReleaseDate>2011-07-14T00:00:00+01:00</streamingReleaseDate>
-			</release>
-		</taggedItem>
-		<taggedItem>
-			<release id="1347421">
-				<title>7digital Essential: Blues</title>
-				<version/>
-				<type>Album</type>
-				<barcode>3700551721238</barcode>
-				<year>2011</year>
-				<explicitContent>false</explicitContent>
-				<artist id="209">
-					<name>Various Artists</name>
-					<appearsAs>Various Artists</appearsAs>
-					<url>http://www.7digital.com/artist/various-artists/?partner=1401</url>
-				</artist>
-				<url>http://www.7digital.com/artist/various-artists/release/7digital-essential-blues/?partner=1401</url>
-				<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/013/474/0001347421_50.jpg</image>
-				<releaseDate>2011-07-18T00:00:00+01:00</releaseDate>
-				<addedDate>2011-08-16T17:36:30+01:00</addedDate>
-				<popularity>0.61</popularity>
-				<streamingReleaseDate>3001-01-01T00:00:00+00:00</streamingReleaseDate>
-			</release>
-		</taggedItem>
-		<taggedItem>
-			<release id="1057708">
-				<title>The Workout Mix 2011</title>
-				<version/>
-				<type>Album</type>
-				<barcode>00600753318782</barcode>
-				<year>2011</year>
-				<explicitContent>false</explicitContent>
-				<artist id="209">
-					<name>Various Artists</name>
-					<appearsAs>Various Artists</appearsAs>
-					<url>http://www.7digital.com/artist/various-artists/?partner=1401</url>
-				</artist>
-				<url>http://www.7digital.com/artist/various-artists/release/the-workout-mix-2011/?partner=1401</url>
-				<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/010/577/0001057708_50.jpg</image>
-				<releaseDate>2011-03-11T00:00:00+00:00</releaseDate>
-				<addedDate>2010-12-08T15:31:54+00:00</addedDate>
-				<popularity>0.6</popularity>
-				<streamingReleaseDate>3001-01-01T00:00:00+00:00</streamingReleaseDate>
-			</release>
-		</taggedItem>
-		<taggedItem>
-			<release id="1347420">
-				<title>7digital Essential: 50s Rock</title>
-				<version/>
-				<type>Album</type>
-				<barcode>3700551721221</barcode>
-				<year>2011</year>
-				<explicitContent>false</explicitContent>
-				<artist id="209">
-					<name>Various Artists</name>
-					<appearsAs>Various Artists</appearsAs>
-					<url>http://www.7digital.com/artist/various-artists/?partner=1401</url>
-				</artist>
-				<url>http://www.7digital.com/artist/various-artists/release/7digital-essential-50s-rock/?partner=1401</url>
-				<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/013/474/0001347420_50.jpg</image>
-				<releaseDate>2011-07-18T00:00:00+01:00</releaseDate>
-				<addedDate>2011-08-16T17:36:33+01:00</addedDate>
-				<popularity>0.6</popularity>
-				<streamingReleaseDate>3001-01-01T00:00:00+00:00</streamingReleaseDate>
-			</release>
-		</taggedItem>
-		<taggedItem>
-			<release id="1347415">
-				<title>7digital Essential: Elvis Presley</title>
-				<version/>
-				<type>Album</type>
-				<barcode>3700551721160</barcode>
-				<year>2011</year>
-				<explicitContent>false</explicitContent>
-				<artist id="2200">
-					<name>Elvis Presley</name>
-					<appearsAs>Elvis Presley </appearsAs>
-					<url>http://www.7digital.com/artist/elvis-presley-(2)/?partner=1401</url>
-				</artist>
-				<url>http://www.7digital.com/artist/elvis-presley-(2)/release/7digital-essential-elvis-presley/?partner=1401</url>
-				<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/013/474/0001347415_50.jpg</image>
-				<releaseDate>2011-07-18T00:00:00+01:00</releaseDate>
-				<addedDate>2011-08-16T17:36:23+01:00</addedDate>
-				<popularity>0.59</popularity>
-				<streamingReleaseDate>3001-01-01T00:00:00+00:00</streamingReleaseDate>
-			</release>
-		</taggedItem>
-		<taggedItem>
-			<release id="747605">
-				<title>100 Hits Of The '80s</title>
-				<version/>
-				<type>Album</type>
-				<barcode>884977504392</barcode>
-				<year>2010</year>
-				<explicitContent>false</explicitContent>
-				<artist id="209">
-					<name>Various Artists</name>
-					<appearsAs>Various Artists</appearsAs>
-					<url>http://www.7digital.com/artist/various-artists/?partner=1401</url>
-				</artist>
-				<url>http://www.7digital.com/artist/various-artists/release/100-hits-of-the-80s/?partner=1401</url>
-				<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/007/476/0000747605_50.jpg</image>
-				<releaseDate>2010-03-01T00:00:00+00:00</releaseDate>
-				<addedDate>2010-02-19T05:44:50+00:00</addedDate>
-				<popularity>0.59</popularity>
-				<streamingReleaseDate>2010-03-01T00:00:00+00:00</streamingReleaseDate>
-			</release>
-		</taggedItem>
-		<taggedItem>
-			<release id="1030759">
-				<title>Burlesque Original Motion Picture Soundtrack</title>
-				<version/>
-				<type>Album</type>
-				<barcode>884977769081</barcode>
-				<year>2010</year>
-				<explicitContent>false</explicitContent>
-				<artist id="209">
-					<name>Various Artists</name>
-					<appearsAs>Various Artists</appearsAs>
-					<url>http://www.7digital.com/artist/various-artists/?partner=1401</url>
-				</artist>
-				<url>http://www.7digital.com/artist/various-artists/release/burlesque-original-motion-picture-soundtrack/?partner=1401</url>
-				<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/010/307/0001030759_50.jpg</image>
-				<releaseDate>2010-11-22T00:00:00+00:00</releaseDate>
-				<addedDate>2010-11-15T11:15:48+00:00</addedDate>
-				<popularity>0.59</popularity>
-				<streamingReleaseDate>2010-11-22T00:00:00+00:00</streamingReleaseDate>
-			</release>
-		</taggedItem>
-	</taggedResults>
+  <taggedResults>
+    <page>1</page>
+    <pageSize>10</pageSize>
+    <totalItems>95772</totalItems>
+    <type>release</type>
+    <taggedItem>
+      <release id="1275025">
+        <title>Ibiza Summer Vibes, Vol. 1</title>
+        <version/>
+        <type>Album</type>
+        <barcode>3661585913481</barcode>
+        <year>2011</year>
+        <explicitContent>false</explicitContent>
+        <artist id="209">
+          <name>Various Artists</name>
+          <appearsAs>Various Artists</appearsAs>
+          <url>http://www.7digital.com/artist/various-artists/?partner=1401</url>
+        </artist>
+        <url>http://www.7digital.com/artist/various-artists/release/ibiza-summer-vibes-vol-1/?partner=1401</url>
+        <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/012/750/0001275025_50.jpg</image>
+        <releaseDate>2011-06-25T00:00:00+01:00</releaseDate>
+        <addedDate>2011-06-03T15:11:04+01:00</addedDate>
+        <popularity>0.65</popularity>
+        <streamingReleaseDate>2011-06-25T00:00:00+01:00</streamingReleaseDate>
+      </release>
+    </taggedItem>
+    <taggedItem>
+      <release id="1347417">
+        <title>7digital Essential: Jazz</title>
+        <version/>
+        <type>Album</type>
+        <barcode>3700551721191</barcode>
+        <year>2011</year>
+        <explicitContent>false</explicitContent>
+        <artist id="209">
+          <name>Various Artists</name>
+          <appearsAs>Various Artists</appearsAs>
+          <url>http://www.7digital.com/artist/various-artists/?partner=1401</url>
+        </artist>
+        <url>http://www.7digital.com/artist/various-artists/release/7digital-essential-jazz/?partner=1401</url>
+        <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/013/474/0001347417_50.jpg</image>
+        <releaseDate>2011-07-18T00:00:00+01:00</releaseDate>
+        <addedDate>2011-08-16T17:36:31+01:00</addedDate>
+        <popularity>0.64</popularity>
+        <streamingReleaseDate>3001-01-01T00:00:00+00:00</streamingReleaseDate>
+      </release>
+    </taggedItem>
+    <taggedItem>
+      <release id="1328849">
+        <title>Now That's What I Call Music! 79</title>
+        <version/>
+        <type>Album</type>
+        <barcode>5099908725059</barcode>
+        <year>2011</year>
+        <explicitContent>false</explicitContent>
+        <artist id="209">
+          <name>Various Artists</name>
+          <appearsAs>Various Artists</appearsAs>
+          <url>http://www.7digital.com/artist/various-artists/?partner=1401</url>
+        </artist>
+        <url>http://www.7digital.com/artist/various-artists/release/now-thats-what-i-call-music-79/?partner=1401</url>
+        <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/013/288/0001328849_50.jpg</image>
+        <releaseDate>2011-07-25T00:00:00+01:00</releaseDate>
+        <addedDate>2011-07-15T12:18:38+01:00</addedDate>
+        <popularity>0.64</popularity>
+        <streamingReleaseDate>3001-01-01T00:00:00+00:00</streamingReleaseDate>
+      </release>
+    </taggedItem>
+    <taggedItem>
+      <release id="1259579">
+        <title>Relaxing Summer Chill, Vol. 3</title>
+        <version/>
+        <type>Album</type>
+        <barcode>3661585891116</barcode>
+        <year>2011</year>
+        <explicitContent>false</explicitContent>
+        <artist id="209">
+          <name>Various Artists</name>
+          <appearsAs>Various Artists</appearsAs>
+          <url>http://www.7digital.com/artist/various-artists/?partner=1401</url>
+        </artist>
+        <url>http://www.7digital.com/artist/various-artists/release/relaxing-summer-chill-vol-3/?partner=1401</url>
+        <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/012/595/0001259579_50.jpg</image>
+        <releaseDate>2011-07-14T00:00:00+01:00</releaseDate>
+        <addedDate>2011-06-03T15:11:09+01:00</addedDate>
+        <popularity>0.62</popularity>
+        <streamingReleaseDate>2011-07-14T00:00:00+01:00</streamingReleaseDate>
+      </release>
+    </taggedItem>
+    <taggedItem>
+      <release id="1347421">
+        <title>7digital Essential: Blues</title>
+        <version/>
+        <type>Album</type>
+        <barcode>3700551721238</barcode>
+        <year>2011</year>
+        <explicitContent>false</explicitContent>
+        <artist id="209">
+          <name>Various Artists</name>
+          <appearsAs>Various Artists</appearsAs>
+          <url>http://www.7digital.com/artist/various-artists/?partner=1401</url>
+        </artist>
+        <url>http://www.7digital.com/artist/various-artists/release/7digital-essential-blues/?partner=1401</url>
+        <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/013/474/0001347421_50.jpg</image>
+        <releaseDate>2011-07-18T00:00:00+01:00</releaseDate>
+        <addedDate>2011-08-16T17:36:30+01:00</addedDate>
+        <popularity>0.61</popularity>
+        <streamingReleaseDate>3001-01-01T00:00:00+00:00</streamingReleaseDate>
+      </release>
+    </taggedItem>
+    <taggedItem>
+      <release id="1057708">
+        <title>The Workout Mix 2011</title>
+        <version/>
+        <type>Album</type>
+        <barcode>00600753318782</barcode>
+        <year>2011</year>
+        <explicitContent>false</explicitContent>
+        <artist id="209">
+          <name>Various Artists</name>
+          <appearsAs>Various Artists</appearsAs>
+          <url>http://www.7digital.com/artist/various-artists/?partner=1401</url>
+        </artist>
+        <url>http://www.7digital.com/artist/various-artists/release/the-workout-mix-2011/?partner=1401</url>
+        <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/010/577/0001057708_50.jpg</image>
+        <releaseDate>2011-03-11T00:00:00+00:00</releaseDate>
+        <addedDate>2010-12-08T15:31:54+00:00</addedDate>
+        <popularity>0.6</popularity>
+        <streamingReleaseDate>3001-01-01T00:00:00+00:00</streamingReleaseDate>
+      </release>
+    </taggedItem>
+    <taggedItem>
+      <release id="1347420">
+        <title>7digital Essential: 50s Rock</title>
+        <version/>
+        <type>Album</type>
+        <barcode>3700551721221</barcode>
+        <year>2011</year>
+        <explicitContent>false</explicitContent>
+        <artist id="209">
+          <name>Various Artists</name>
+          <appearsAs>Various Artists</appearsAs>
+          <url>http://www.7digital.com/artist/various-artists/?partner=1401</url>
+        </artist>
+        <url>http://www.7digital.com/artist/various-artists/release/7digital-essential-50s-rock/?partner=1401</url>
+        <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/013/474/0001347420_50.jpg</image>
+        <releaseDate>2011-07-18T00:00:00+01:00</releaseDate>
+        <addedDate>2011-08-16T17:36:33+01:00</addedDate>
+        <popularity>0.6</popularity>
+        <streamingReleaseDate>3001-01-01T00:00:00+00:00</streamingReleaseDate>
+      </release>
+    </taggedItem>
+    <taggedItem>
+      <release id="1347415">
+        <title>7digital Essential: Elvis Presley</title>
+        <version/>
+        <type>Album</type>
+        <barcode>3700551721160</barcode>
+        <year>2011</year>
+        <explicitContent>false</explicitContent>
+        <artist id="2200">
+          <name>Elvis Presley</name>
+          <appearsAs>Elvis Presley </appearsAs>
+          <url>http://www.7digital.com/artist/elvis-presley-(2)/?partner=1401</url>
+        </artist>
+        <url>http://www.7digital.com/artist/elvis-presley-(2)/release/7digital-essential-elvis-presley/?partner=1401</url>
+        <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/013/474/0001347415_50.jpg</image>
+        <releaseDate>2011-07-18T00:00:00+01:00</releaseDate>
+        <addedDate>2011-08-16T17:36:23+01:00</addedDate>
+        <popularity>0.59</popularity>
+        <streamingReleaseDate>3001-01-01T00:00:00+00:00</streamingReleaseDate>
+      </release>
+    </taggedItem>
+    <taggedItem>
+      <release id="747605">
+        <title>100 Hits Of The '80s</title>
+        <version/>
+        <type>Album</type>
+        <barcode>884977504392</barcode>
+        <year>2010</year>
+        <explicitContent>false</explicitContent>
+        <artist id="209">
+          <name>Various Artists</name>
+          <appearsAs>Various Artists</appearsAs>
+          <url>http://www.7digital.com/artist/various-artists/?partner=1401</url>
+        </artist>
+        <url>http://www.7digital.com/artist/various-artists/release/100-hits-of-the-80s/?partner=1401</url>
+        <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/007/476/0000747605_50.jpg</image>
+        <releaseDate>2010-03-01T00:00:00+00:00</releaseDate>
+        <addedDate>2010-02-19T05:44:50+00:00</addedDate>
+        <popularity>0.59</popularity>
+        <streamingReleaseDate>2010-03-01T00:00:00+00:00</streamingReleaseDate>
+      </release>
+    </taggedItem>
+    <taggedItem>
+      <release id="1030759">
+        <title>Burlesque Original Motion Picture Soundtrack</title>
+        <version/>
+        <type>Album</type>
+        <barcode>884977769081</barcode>
+        <year>2010</year>
+        <explicitContent>false</explicitContent>
+        <artist id="209">
+          <name>Various Artists</name>
+          <appearsAs>Various Artists</appearsAs>
+          <url>http://www.7digital.com/artist/various-artists/?partner=1401</url>
+        </artist>
+        <url>http://www.7digital.com/artist/various-artists/release/burlesque-original-motion-picture-soundtrack/?partner=1401</url>
+        <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/010/307/0001030759_50.jpg</image>
+        <releaseDate>2010-11-22T00:00:00+00:00</releaseDate>
+        <addedDate>2010-11-15T11:15:48+00:00</addedDate>
+        <popularity>0.59</popularity>
+        <streamingReleaseDate>2010-11-22T00:00:00+00:00</streamingReleaseDate>
+      </release>
+    </taggedItem>
+  </taggedResults>
 </response>

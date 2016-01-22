@@ -1,219 +1,219 @@
 <?xml version="1.0" encoding="utf-8"?>
 <response xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" status="ok" version="1.2" xsi:noNamespaceSchemaLocation="http://api.7digital.com/1.2/static/7digitalAPI.xsd">
-	<taggedResults>
-		<page>1</page>
-		<pageSize>10</pageSize>
-		<totalItems>35499</totalItems>
-		<type>release</type>
-		<taggedItem>
-			<release id="1234664">
-				<title>Dragonball Z - The Ultra Super Saiyan</title>
-				<version/>
-				<type>Single</type>
-				<barcode>885686791721</barcode>
-				<year>2011</year>
-				<explicitContent>false</explicitContent>
-				<artist id="989092">
-					<name>Jason,The Ultimate Goku!!!</name>
-					<appearsAs>Jason,The Ultimate Goku!!!</appearsAs>
-					<url>http://www.7digital.com/artist/jason-the-ultimate-goku/?partner=1401</url>
-				</artist>
-				<url>http://www.7digital.com/artist/jason-the-ultimate-goku/release/dragonball-z-the-ultra-super-saiyan/?partner=1401</url>
-				<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/012/346/0001234664_50.jpg</image>
-				<releaseDate>2011-05-09T00:00:00+01:00</releaseDate>
-				<addedDate>2011-05-05T19:33:23+01:00</addedDate>
-				<popularity>0.59</popularity>
-				<streamingReleaseDate>2011-05-09T00:00:00+01:00</streamingReleaseDate>
-			</release>
-		</taggedItem>
-		<taggedItem>
-			<release id="1722681">
-				<title>Ashes</title>
-				<version/>
-				<type>Album</type>
-				<barcode>886443449190</barcode>
-				<year>2012</year>
-				<explicitContent>false</explicitContent>
-				<artist id="1259810">
-					<name>Kyla La Grange</name>
-					<appearsAs>Kyla La Grange</appearsAs>
-					<url>http://www.7digital.com/artist/kyla-la-grange/?partner=1401</url>
-				</artist>
-				<url>http://www.7digital.com/artist/kyla-la-grange/release/ashes/?partner=1401</url>
-				<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/017/226/0001722681_50.jpg</image>
-				<releaseDate>2012-07-30T00:00:00+01:00</releaseDate>
-				<addedDate>2012-07-16T13:24:00+01:00</addedDate>
-				<popularity>0.57</popularity>
-				<streamingReleaseDate>2012-07-30T00:00:00+01:00</streamingReleaseDate>
-			</release>
-		</taggedItem>
-		<taggedItem>
-			<release id="1189419">
-				<title>Paper Airplane</title>
-				<version/>
-				<type>Album</type>
-				<barcode>00011661066526</barcode>
-				<year>2011</year>
-				<explicitContent>false</explicitContent>
-				<artist id="128118">
-					<name>Alison Krauss &amp; Union Station</name>
-					<appearsAs>Alison Krauss &amp; Union Station</appearsAs>
-					<url>http://www.7digital.com/artist/alison-krauss-and-union-station/?partner=1401</url>
-				</artist>
-				<url>http://www.7digital.com/artist/alison-krauss-and-union-station/release/paper-airplane-1/?partner=1401</url>
-				<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/011/894/0001189419_50.jpg</image>
-				<releaseDate>2011-04-11T00:00:00+01:00</releaseDate>
-				<addedDate>2011-03-21T16:36:29+00:00</addedDate>
-				<popularity>0.56</popularity>
-				<streamingReleaseDate>2011-04-11T00:00:00+01:00</streamingReleaseDate>
-			</release>
-		</taggedItem>
-		<taggedItem>
-			<release id="1414619">
-				<title>Every Kingdom</title>
-				<version/>
-				<type>Album</type>
-				<barcode>00602527814346</barcode>
-				<year>2011</year>
-				<explicitContent>false</explicitContent>
-				<artist id="487026">
-					<name>Ben Howard</name>
-					<appearsAs>Ben Howard</appearsAs>
-					<url>http://www.7digital.com/artist/ben-howard/?partner=1401</url>
-				</artist>
-				<url>http://www.7digital.com/artist/ben-howard/release/every-kingdom-4/?partner=1401</url>
-				<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/014/146/0001414619_50.jpg</image>
-				<releaseDate>2011-10-03T00:00:00+01:00</releaseDate>
-				<addedDate>2011-09-28T16:40:04+01:00</addedDate>
-				<popularity>0.56</popularity>
-				<streamingReleaseDate>2011-10-03T00:00:00+01:00</streamingReleaseDate>
-			</release>
-		</taggedItem>
-		<taggedItem>
-			<release id="1747001">
-				<title>Oh Pioneer</title>
-				<version/>
-				<type>Album</type>
-				<barcode>5055489228068</barcode>
-				<year>2012</year>
-				<explicitContent>false</explicitContent>
-				<artist id="27954">
-					<name>Duke Special</name>
-					<appearsAs>Duke Special</appearsAs>
-					<url>http://www.7digital.com/artist/duke-special/?partner=1401</url>
-				</artist>
-				<url>http://www.7digital.com/artist/duke-special/release/oh-pioneer/?partner=1401</url>
-				<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/017/470/0001747001_50.jpg</image>
-				<releaseDate>2012-07-08T00:00:00+01:00</releaseDate>
-				<addedDate>2012-06-11T00:50:04+01:00</addedDate>
-				<popularity>0.55</popularity>
-				<streamingReleaseDate>3001-01-01T00:00:00+00:00</streamingReleaseDate>
-			</release>
-		</taggedItem>
-		<taggedItem>
-			<release id="1730653">
-				<title>The Speyside Sessions</title>
-				<version/>
-				<type>Album</type>
-				<barcode>084854200533</barcode>
-				<year>2012</year>
-				<explicitContent>false</explicitContent>
-				<artist id="1301955">
-					<name>Speyside Sessions</name>
-					<appearsAs>Speyside Sessions</appearsAs>
-					<url>http://www.7digital.com/artist/speyside-sessions/?partner=1401</url>
-				</artist>
-				<url>http://www.7digital.com/artist/speyside-sessions/release/the-speyside-sessions/?partner=1401</url>
-				<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/017/306/0001730653_50.jpg</image>
-				<releaseDate>2012-06-15T00:00:00+01:00</releaseDate>
-				<addedDate>2012-05-29T12:08:37+01:00</addedDate>
-				<popularity>0.54</popularity>
-				<streamingReleaseDate>2012-06-15T00:00:00+01:00</streamingReleaseDate>
-			</release>
-		</taggedItem>
-		<taggedItem>
-			<release id="1132255">
-				<title>Simply Eva</title>
-				<version/>
-				<type>Album</type>
-				<barcode>825646744428</barcode>
-				<year>2011</year>
-				<explicitContent>false</explicitContent>
-				<artist id="35951">
-					<name>Eva Cassidy</name>
-					<appearsAs>Eva Cassidy</appearsAs>
-					<url>http://www.7digital.com/artist/eva-cassidy/?partner=1401</url>
-				</artist>
-				<url>http://www.7digital.com/artist/eva-cassidy/release/simply-eva-1/?partner=1401</url>
-				<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/011/322/0001132255_50.jpg</image>
-				<releaseDate>2011-08-18T00:00:00+01:00</releaseDate>
-				<addedDate>2011-01-24T12:04:16+00:00</addedDate>
-				<popularity>0.54</popularity>
-				<streamingReleaseDate>3001-01-01T00:00:00+00:00</streamingReleaseDate>
-			</release>
-		</taggedItem>
-		<taggedItem>
-			<release id="1373874">
-				<title>A Creature I Don't Know</title>
-				<version/>
-				<type>Album</type>
-				<barcode>5099908789853</barcode>
-				<year>2011</year>
-				<explicitContent>false</explicitContent>
-				<artist id="131086">
-					<name>Laura Marling</name>
-					<appearsAs>Laura Marling</appearsAs>
-					<url>http://www.7digital.com/artist/laura-marling/?partner=1401</url>
-				</artist>
-				<url>http://www.7digital.com/artist/laura-marling/release/a-creature-i-dont-know-1/?partner=1401</url>
-				<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/013/738/0001373874_50.jpg</image>
-				<releaseDate>2011-09-12T00:00:00+01:00</releaseDate>
-				<addedDate>2011-08-25T19:22:37+01:00</addedDate>
-				<popularity>0.54</popularity>
-				<streamingReleaseDate>2011-09-12T00:00:00+01:00</streamingReleaseDate>
-			</release>
-		</taggedItem>
-		<taggedItem>
-			<release id="1741240">
-				<title>Static On The Airwaves</title>
-				<version/>
-				<type>Album</type>
-				<barcode>5025425166730</barcode>
-				<year>2012</year>
-				<explicitContent>false</explicitContent>
-				<artist id="4146">
-					<name>The Levellers</name>
-					<appearsAs>Levellers, The</appearsAs>
-					<url>http://www.7digital.com/artist/the-levellers/?partner=1401</url>
-				</artist>
-				<url>http://www.7digital.com/artist/the-levellers/release/static-on-the-airwaves/?partner=1401</url>
-				<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/017/412/0001741240_50.jpg</image>
-				<releaseDate>2012-06-24T00:00:00+01:00</releaseDate>
-				<addedDate>2012-06-04T00:32:59+01:00</addedDate>
-				<popularity>0.53</popularity>
-				<streamingReleaseDate>3001-01-01T00:00:00+00:00</streamingReleaseDate>
-			</release>
-		</taggedItem>
-		<taggedItem>
-			<release id="14472">
-				<title>The Best Of Neil Diamond</title>
-				<version/>
-				<type>Album</type>
-				<barcode>00008811145224</barcode>
-				<year>2008</year>
-				<explicitContent>false</explicitContent>
-				<artist id="35">
-					<name>Neil Diamond</name>
-					<appearsAs>Neil Diamond</appearsAs>
-					<url>http://www.7digital.com/artist/neil-diamond/?partner=1401</url>
-				</artist>
-				<url>http://www.7digital.com/artist/neil-diamond/release/the-best-of-neil-diamond/?partner=1401</url>
-				<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/000/144/0000014472_50.jpg</image>
-				<releaseDate>2008-05-16T00:00:00+01:00</releaseDate>
-				<addedDate>2008-08-31T22:18:32+01:00</addedDate>
-				<popularity>0.53</popularity>
-				<streamingReleaseDate>2008-05-16T00:00:00+01:00</streamingReleaseDate>
-			</release>
-		</taggedItem>
-	</taggedResults>
+  <taggedResults>
+    <page>1</page>
+    <pageSize>10</pageSize>
+    <totalItems>35499</totalItems>
+    <type>release</type>
+    <taggedItem>
+      <release id="1234664">
+        <title>Dragonball Z - The Ultra Super Saiyan</title>
+        <version/>
+        <type>Single</type>
+        <barcode>885686791721</barcode>
+        <year>2011</year>
+        <explicitContent>false</explicitContent>
+        <artist id="989092">
+          <name>Jason,The Ultimate Goku!!!</name>
+          <appearsAs>Jason,The Ultimate Goku!!!</appearsAs>
+          <url>http://www.7digital.com/artist/jason-the-ultimate-goku/?partner=1401</url>
+        </artist>
+        <url>http://www.7digital.com/artist/jason-the-ultimate-goku/release/dragonball-z-the-ultra-super-saiyan/?partner=1401</url>
+        <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/012/346/0001234664_50.jpg</image>
+        <releaseDate>2011-05-09T00:00:00+01:00</releaseDate>
+        <addedDate>2011-05-05T19:33:23+01:00</addedDate>
+        <popularity>0.59</popularity>
+        <streamingReleaseDate>2011-05-09T00:00:00+01:00</streamingReleaseDate>
+      </release>
+    </taggedItem>
+    <taggedItem>
+      <release id="1722681">
+        <title>Ashes</title>
+        <version/>
+        <type>Album</type>
+        <barcode>886443449190</barcode>
+        <year>2012</year>
+        <explicitContent>false</explicitContent>
+        <artist id="1259810">
+          <name>Kyla La Grange</name>
+          <appearsAs>Kyla La Grange</appearsAs>
+          <url>http://www.7digital.com/artist/kyla-la-grange/?partner=1401</url>
+        </artist>
+        <url>http://www.7digital.com/artist/kyla-la-grange/release/ashes/?partner=1401</url>
+        <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/017/226/0001722681_50.jpg</image>
+        <releaseDate>2012-07-30T00:00:00+01:00</releaseDate>
+        <addedDate>2012-07-16T13:24:00+01:00</addedDate>
+        <popularity>0.57</popularity>
+        <streamingReleaseDate>2012-07-30T00:00:00+01:00</streamingReleaseDate>
+      </release>
+    </taggedItem>
+    <taggedItem>
+      <release id="1189419">
+        <title>Paper Airplane</title>
+        <version/>
+        <type>Album</type>
+        <barcode>00011661066526</barcode>
+        <year>2011</year>
+        <explicitContent>false</explicitContent>
+        <artist id="128118">
+          <name>Alison Krauss &amp; Union Station</name>
+          <appearsAs>Alison Krauss &amp; Union Station</appearsAs>
+          <url>http://www.7digital.com/artist/alison-krauss-and-union-station/?partner=1401</url>
+        </artist>
+        <url>http://www.7digital.com/artist/alison-krauss-and-union-station/release/paper-airplane-1/?partner=1401</url>
+        <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/011/894/0001189419_50.jpg</image>
+        <releaseDate>2011-04-11T00:00:00+01:00</releaseDate>
+        <addedDate>2011-03-21T16:36:29+00:00</addedDate>
+        <popularity>0.56</popularity>
+        <streamingReleaseDate>2011-04-11T00:00:00+01:00</streamingReleaseDate>
+      </release>
+    </taggedItem>
+    <taggedItem>
+      <release id="1414619">
+        <title>Every Kingdom</title>
+        <version/>
+        <type>Album</type>
+        <barcode>00602527814346</barcode>
+        <year>2011</year>
+        <explicitContent>false</explicitContent>
+        <artist id="487026">
+          <name>Ben Howard</name>
+          <appearsAs>Ben Howard</appearsAs>
+          <url>http://www.7digital.com/artist/ben-howard/?partner=1401</url>
+        </artist>
+        <url>http://www.7digital.com/artist/ben-howard/release/every-kingdom-4/?partner=1401</url>
+        <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/014/146/0001414619_50.jpg</image>
+        <releaseDate>2011-10-03T00:00:00+01:00</releaseDate>
+        <addedDate>2011-09-28T16:40:04+01:00</addedDate>
+        <popularity>0.56</popularity>
+        <streamingReleaseDate>2011-10-03T00:00:00+01:00</streamingReleaseDate>
+      </release>
+    </taggedItem>
+    <taggedItem>
+      <release id="1747001">
+        <title>Oh Pioneer</title>
+        <version/>
+        <type>Album</type>
+        <barcode>5055489228068</barcode>
+        <year>2012</year>
+        <explicitContent>false</explicitContent>
+        <artist id="27954">
+          <name>Duke Special</name>
+          <appearsAs>Duke Special</appearsAs>
+          <url>http://www.7digital.com/artist/duke-special/?partner=1401</url>
+        </artist>
+        <url>http://www.7digital.com/artist/duke-special/release/oh-pioneer/?partner=1401</url>
+        <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/017/470/0001747001_50.jpg</image>
+        <releaseDate>2012-07-08T00:00:00+01:00</releaseDate>
+        <addedDate>2012-06-11T00:50:04+01:00</addedDate>
+        <popularity>0.55</popularity>
+        <streamingReleaseDate>3001-01-01T00:00:00+00:00</streamingReleaseDate>
+      </release>
+    </taggedItem>
+    <taggedItem>
+      <release id="1730653">
+        <title>The Speyside Sessions</title>
+        <version/>
+        <type>Album</type>
+        <barcode>084854200533</barcode>
+        <year>2012</year>
+        <explicitContent>false</explicitContent>
+        <artist id="1301955">
+          <name>Speyside Sessions</name>
+          <appearsAs>Speyside Sessions</appearsAs>
+          <url>http://www.7digital.com/artist/speyside-sessions/?partner=1401</url>
+        </artist>
+        <url>http://www.7digital.com/artist/speyside-sessions/release/the-speyside-sessions/?partner=1401</url>
+        <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/017/306/0001730653_50.jpg</image>
+        <releaseDate>2012-06-15T00:00:00+01:00</releaseDate>
+        <addedDate>2012-05-29T12:08:37+01:00</addedDate>
+        <popularity>0.54</popularity>
+        <streamingReleaseDate>2012-06-15T00:00:00+01:00</streamingReleaseDate>
+      </release>
+    </taggedItem>
+    <taggedItem>
+      <release id="1132255">
+        <title>Simply Eva</title>
+        <version/>
+        <type>Album</type>
+        <barcode>825646744428</barcode>
+        <year>2011</year>
+        <explicitContent>false</explicitContent>
+        <artist id="35951">
+          <name>Eva Cassidy</name>
+          <appearsAs>Eva Cassidy</appearsAs>
+          <url>http://www.7digital.com/artist/eva-cassidy/?partner=1401</url>
+        </artist>
+        <url>http://www.7digital.com/artist/eva-cassidy/release/simply-eva-1/?partner=1401</url>
+        <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/011/322/0001132255_50.jpg</image>
+        <releaseDate>2011-08-18T00:00:00+01:00</releaseDate>
+        <addedDate>2011-01-24T12:04:16+00:00</addedDate>
+        <popularity>0.54</popularity>
+        <streamingReleaseDate>3001-01-01T00:00:00+00:00</streamingReleaseDate>
+      </release>
+    </taggedItem>
+    <taggedItem>
+      <release id="1373874">
+        <title>A Creature I Don't Know</title>
+        <version/>
+        <type>Album</type>
+        <barcode>5099908789853</barcode>
+        <year>2011</year>
+        <explicitContent>false</explicitContent>
+        <artist id="131086">
+          <name>Laura Marling</name>
+          <appearsAs>Laura Marling</appearsAs>
+          <url>http://www.7digital.com/artist/laura-marling/?partner=1401</url>
+        </artist>
+        <url>http://www.7digital.com/artist/laura-marling/release/a-creature-i-dont-know-1/?partner=1401</url>
+        <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/013/738/0001373874_50.jpg</image>
+        <releaseDate>2011-09-12T00:00:00+01:00</releaseDate>
+        <addedDate>2011-08-25T19:22:37+01:00</addedDate>
+        <popularity>0.54</popularity>
+        <streamingReleaseDate>2011-09-12T00:00:00+01:00</streamingReleaseDate>
+      </release>
+    </taggedItem>
+    <taggedItem>
+      <release id="1741240">
+        <title>Static On The Airwaves</title>
+        <version/>
+        <type>Album</type>
+        <barcode>5025425166730</barcode>
+        <year>2012</year>
+        <explicitContent>false</explicitContent>
+        <artist id="4146">
+          <name>The Levellers</name>
+          <appearsAs>Levellers, The</appearsAs>
+          <url>http://www.7digital.com/artist/the-levellers/?partner=1401</url>
+        </artist>
+        <url>http://www.7digital.com/artist/the-levellers/release/static-on-the-airwaves/?partner=1401</url>
+        <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/017/412/0001741240_50.jpg</image>
+        <releaseDate>2012-06-24T00:00:00+01:00</releaseDate>
+        <addedDate>2012-06-04T00:32:59+01:00</addedDate>
+        <popularity>0.53</popularity>
+        <streamingReleaseDate>3001-01-01T00:00:00+00:00</streamingReleaseDate>
+      </release>
+    </taggedItem>
+    <taggedItem>
+      <release id="14472">
+        <title>The Best Of Neil Diamond</title>
+        <version/>
+        <type>Album</type>
+        <barcode>00008811145224</barcode>
+        <year>2008</year>
+        <explicitContent>false</explicitContent>
+        <artist id="35">
+          <name>Neil Diamond</name>
+          <appearsAs>Neil Diamond</appearsAs>
+          <url>http://www.7digital.com/artist/neil-diamond/?partner=1401</url>
+        </artist>
+        <url>http://www.7digital.com/artist/neil-diamond/release/the-best-of-neil-diamond/?partner=1401</url>
+        <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/000/144/0000014472_50.jpg</image>
+        <releaseDate>2008-05-16T00:00:00+01:00</releaseDate>
+        <addedDate>2008-08-31T22:18:32+01:00</addedDate>
+        <popularity>0.53</popularity>
+        <streamingReleaseDate>2008-05-16T00:00:00+01:00</streamingReleaseDate>
+      </release>
+    </taggedItem>
+  </taggedResults>
 </response>

@@ -1,55 +1,55 @@
 <?xml version="1.0" encoding="utf-8"?>
 <response xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" status="ok" version="1.2" xsi:noNamespaceSchemaLocation="http://api.7digital.com/1.2/static/7digitalAPI.xsd">
-	<release id="2443">
-		<title>The Jimi Hendrix Experience (Box Set)</title>
-		<version/>
-		<type>Album</type>
-		<barcode>884977422931</barcode>
-		<year>2009</year>
-		<explicitContent>false</explicitContent>
-		<artist id="32">
-			<name>Jimi Hendrix</name>
-			<appearsAs>The Jimi Hendrix Experience</appearsAs>
-			<url>http://www.7digital.com/artists/jimi-hendrix/?partner=712</url>
-		</artist>
-		<url>http://www.7digital.com/artists/jimi-hendrix/the-jimi-hendrix-experience-box-set/?partner=712</url>
-		<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/006/718/0000671859_50.jpg</image>
-		<releaseDate>2010-01-01T00:00:00Z</releaseDate>
-		<addedDate>2009-12-08T12:22:15Z</addedDate>
-		<price>
-			<currency code="GBP">£</currency>
-			<value>22.99</value>
-			<formattedPrice>£22.99</formattedPrice>
-			<rrp>22.99</rrp>
-			<formattedRrp>£22.99</formattedRrp>
-			<onSale>false</onSale>
-		</price>
-		<download>
-			<packages>
-				<package id="2">
-					<description>standard</description>
-					<price>
-						<currencyCode>GBP</currencyCode>
-						<sevendigitalPrice>22.99</sevendigitalPrice>
-						<recommendedRetailPrice>22.99</recommendedRetailPrice>
-					</price>
-					<formats>
-						<format id="17">
-							<description>MP3 320</description>
-						</format>
-					</formats>
-				</package>
-			</packages>
-		</download>
-		<formats availableDrmFree="true">
-			<format id="17">
-				<fileFormat>MP3</fileFormat>
-				<bitRate>320</bitRate>
-				<drmFree>true</drmFree>
-			</format>
-		</formats>
-		<label id="12031">
-			<name>Legacy Recordings</name>
-		</label>
-	</release>
+  <release id="2443">
+    <title>The Jimi Hendrix Experience (Box Set)</title>
+    <version/>
+    <type>Album</type>
+    <barcode>884977422931</barcode>
+    <year>2009</year>
+    <explicitContent>false</explicitContent>
+    <artist id="32">
+      <name>Jimi Hendrix</name>
+      <appearsAs>The Jimi Hendrix Experience</appearsAs>
+      <url>http://www.7digital.com/artists/jimi-hendrix/?partner=712</url>
+    </artist>
+    <url>http://www.7digital.com/artists/jimi-hendrix/the-jimi-hendrix-experience-box-set/?partner=712</url>
+    <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/006/718/0000671859_50.jpg</image>
+    <releaseDate>2010-01-01T00:00:00Z</releaseDate>
+    <addedDate>2009-12-08T12:22:15Z</addedDate>
+    <price>
+      <currency code="GBP">£</currency>
+      <value>22.99</value>
+      <formattedPrice>£22.99</formattedPrice>
+      <rrp>22.99</rrp>
+      <formattedRrp>£22.99</formattedRrp>
+      <onSale>false</onSale>
+    </price>
+    <download>
+      <packages>
+        <package id="2">
+          <description>standard</description>
+          <price>
+            <currencyCode>GBP</currencyCode>
+            <sevendigitalPrice>22.99</sevendigitalPrice>
+            <recommendedRetailPrice>22.99</recommendedRetailPrice>
+          </price>
+          <formats>
+            <format id="17">
+              <description>MP3 320</description>
+            </format>
+          </formats>
+        </package>
+      </packages>
+    </download>
+    <formats availableDrmFree="true">
+      <format id="17">
+        <fileFormat>MP3</fileFormat>
+        <bitRate>320</bitRate>
+        <drmFree>true</drmFree>
+      </format>
+    </formats>
+    <label id="12031">
+      <name>Legacy Recordings</name>
+    </label>
+  </release>
 </response>

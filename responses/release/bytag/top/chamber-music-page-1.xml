@@ -1,219 +1,219 @@
 <?xml version="1.0" encoding="utf-8"?>
 <response xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" status="ok" version="1.2" xsi:noNamespaceSchemaLocation="http://api.7digital.com/1.2/static/7digitalAPI.xsd">
-	<taggedResults>
-		<page>1</page>
-		<pageSize>10</pageSize>
-		<totalItems>8476</totalItems>
-		<type>release</type>
-		<taggedItem>
-			<release id="1165166">
-				<title>50 Classics for Relaxation</title>
-				<version/>
-				<type>Album</type>
-				<barcode>885686517123</barcode>
-				<year>2011</year>
-				<explicitContent>false</explicitContent>
-				<artist id="209">
-					<name>Various Artists</name>
-					<appearsAs>Various Artists</appearsAs>
-					<url>http://www.7digital.com/artist/various-artists/?partner=1401</url>
-				</artist>
-				<url>http://www.7digital.com/artist/various-artists/release/50-classics-for-relaxation/?partner=1401</url>
-				<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/011/651/0001165166_50.jpg</image>
-				<releaseDate>2011-01-27T00:00:00+00:00</releaseDate>
-				<addedDate>2011-02-28T19:57:38+00:00</addedDate>
-				<popularity>0.5</popularity>
-				<streamingReleaseDate>2011-01-27T00:00:00+00:00</streamingReleaseDate>
-			</release>
-		</taggedItem>
-		<taggedItem>
-			<release id="1616823">
-				<title>My First Violin Album</title>
-				<version/>
-				<type>Album</type>
-				<barcode>747313821570</barcode>
-				<year>2012</year>
-				<explicitContent>false</explicitContent>
-				<artist id="209">
-					<name>Various Artists</name>
-					<appearsAs>Various Artists</appearsAs>
-					<url>http://www.7digital.com/artist/various-artists/?partner=1401</url>
-				</artist>
-				<url>http://www.7digital.com/artist/various-artists/release/my-first-violin-album/?partner=1401</url>
-				<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/016/168/0001616823_50.jpg</image>
-				<releaseDate>2012-03-06T00:00:00+00:00</releaseDate>
-				<addedDate>2012-02-28T12:09:25+00:00</addedDate>
-				<popularity>0.46</popularity>
-				<streamingReleaseDate>2012-03-06T00:00:00+00:00</streamingReleaseDate>
-			</release>
-		</taggedItem>
-		<taggedItem>
-			<release id="1535596">
-				<title>Uniko</title>
-				<version/>
-				<type>Album</type>
-				<barcode>761195118528</barcode>
-				<year>2011</year>
-				<explicitContent>false</explicitContent>
-				<artist id="4305">
-					<name>Kronos Quartet</name>
-					<appearsAs>Kronos Quartet</appearsAs>
-					<url>http://www.7digital.com/artist/kronos-quartet/?partner=1401</url>
-				</artist>
-				<url>http://www.7digital.com/artist/kronos-quartet/release/uniko/?partner=1401</url>
-				<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/015/355/0001535596_50.jpg</image>
-				<releaseDate>2011-02-01T00:00:00+00:00</releaseDate>
-				<addedDate>2011-12-28T15:33:59+00:00</addedDate>
-				<popularity>0.43</popularity>
-				<streamingReleaseDate>2011-02-01T00:00:00+00:00</streamingReleaseDate>
-			</release>
-		</taggedItem>
-		<taggedItem>
-			<release id="1638778">
-				<title>The Dukes Of Hazzard: Good Ol' Boys - Theme from the TV Series (Waylon Jennings)</title>
-				<version/>
-				<type>Album</type>
-				<barcode>859705748379</barcode>
-				<year>2012</year>
-				<explicitContent>false</explicitContent>
-				<artist id="1231219">
-					<name>Brian "Hacksaw" Williams, Dominik Hauser</name>
-					<appearsAs>Brian "Hacksaw" Williams, Dominik Hauser</appearsAs>
-					<url>http://www.7digital.com/artist/brian-hacksaw-williams-dominik-hauser/?partner=1401</url>
-				</artist>
-				<url>http://www.7digital.com/artist/brian-hacksaw-williams-dominik-hauser/release/the-dukes-of-hazzard-good-ol-boys-theme-from-the-tv-series-waylon-jennings/?partner=1401</url>
-				<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/016/387/0001638778_50.jpg</image>
-				<releaseDate>2012-03-06T00:00:00+00:00</releaseDate>
-				<addedDate>2012-03-16T15:12:14+00:00</addedDate>
-				<popularity>0.42</popularity>
-				<streamingReleaseDate>2012-03-06T00:00:00+00:00</streamingReleaseDate>
-			</release>
-		</taggedItem>
-		<taggedItem>
-			<release id="1619329">
-				<title>Battlestar Galactica: Main Theme from the Original Series (Stu Phillips and Glen A. Larson)</title>
-				<version/>
-				<type>Album</type>
-				<barcode>859703185008</barcode>
-				<year>2012</year>
-				<explicitContent>false</explicitContent>
-				<artist id="1217359">
-					<name>Mark Northam</name>
-					<appearsAs>Mark Northam</appearsAs>
-					<url>http://www.7digital.com/artist/mark-northam/?partner=1401</url>
-				</artist>
-				<url>http://www.7digital.com/artist/mark-northam/release/battlestar-galactica-main-theme-from-the-original-series-stu-phillips-and-glen-a-larson/?partner=1401</url>
-				<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/016/193/0001619329_50.jpg</image>
-				<releaseDate>2012-02-17T00:00:00+00:00</releaseDate>
-				<addedDate>2012-02-28T17:34:12+00:00</addedDate>
-				<popularity>0.41</popularity>
-				<streamingReleaseDate>2012-02-17T00:00:00+00:00</streamingReleaseDate>
-			</release>
-		</taggedItem>
-		<taggedItem>
-			<release id="1619330">
-				<title>Doctor Who: Martha's Theme and Rose's Theme from the BBC Television Series (Murray Gold)</title>
-				<version/>
-				<type>Album</type>
-				<barcode>859703185107</barcode>
-				<year>2012</year>
-				<explicitContent>false</explicitContent>
-				<artist id="1217359">
-					<name>Mark Northam</name>
-					<appearsAs>Mark Northam</appearsAs>
-					<url>http://www.7digital.com/artist/mark-northam/?partner=1401</url>
-				</artist>
-				<url>http://www.7digital.com/artist/mark-northam/release/doctor-who-marthas-theme-and-roses-theme-from-the-bbc-television-series-murray-gold/?partner=1401</url>
-				<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/016/193/0001619330_50.jpg</image>
-				<releaseDate>2012-02-17T00:00:00+00:00</releaseDate>
-				<addedDate>2012-02-28T17:34:12+00:00</addedDate>
-				<popularity>0.41</popularity>
-				<streamingReleaseDate>2012-02-17T00:00:00+00:00</streamingReleaseDate>
-			</release>
-		</taggedItem>
-		<taggedItem>
-			<release id="1178685">
-				<title>Grand Piano Masters - Brahms: Variations for Piano in D Major Opus 21 / Johannes Brahms: Variationen für Klavier in D-Dur Op. 21</title>
-				<version/>
-				<type>Single</type>
-				<barcode>885686555316</barcode>
-				<year>2011</year>
-				<explicitContent>false</explicitContent>
-				<artist id="11909">
-					<name>Johannes Brahms</name>
-					<appearsAs>Johannes Brahms</appearsAs>
-					<url>http://www.7digital.com/artist/johannes-brahms/?partner=1401</url>
-				</artist>
-				<url>http://www.7digital.com/artist/johannes-brahms/release/grand-piano-masters-brahms-variations-for-piano-in-d-major-opus-21-johannes-brahms-variationen-fur-klavier-in-d-dur-op-21/?partner=1401</url>
-				<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/011/786/0001178685_50.jpg</image>
-				<releaseDate>2011-02-01T00:00:00+00:00</releaseDate>
-				<addedDate>2011-03-14T19:34:14+00:00</addedDate>
-				<popularity>0.41</popularity>
-				<streamingReleaseDate>2011-02-01T00:00:00+00:00</streamingReleaseDate>
-			</release>
-		</taggedItem>
-		<taggedItem>
-			<release id="1576870">
-				<title>Up - Theme from the Disney/Pixar Motion Picture by Michael Giacchino</title>
-				<version/>
-				<type>Album</type>
-				<barcode>847108008374</barcode>
-				<year>2012</year>
-				<explicitContent>false</explicitContent>
-				<artist id="1217359">
-					<name>Mark Northam</name>
-					<appearsAs>Mark Northam</appearsAs>
-					<url>http://www.7digital.com/artist/mark-northam/?partner=1401</url>
-				</artist>
-				<url>http://www.7digital.com/artist/mark-northam/release/up-theme-from-the-disney-pixar-motion-picture-by-michael-giacchino/?partner=1401</url>
-				<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/015/768/0001576870_50.jpg</image>
-				<releaseDate>2012-01-12T00:00:00+00:00</releaseDate>
-				<addedDate>2012-02-07T16:59:16+00:00</addedDate>
-				<popularity>0.4</popularity>
-				<streamingReleaseDate>2012-01-12T00:00:00+00:00</streamingReleaseDate>
-			</release>
-		</taggedItem>
-		<taggedItem>
-			<release id="1619353">
-				<title>Clash of The Titans: The Lovers (Laurence Rosenthal)</title>
-				<version/>
-				<type>Album</type>
-				<barcode>859703365189</barcode>
-				<year>2012</year>
-				<explicitContent>false</explicitContent>
-				<artist id="1223824">
-					<name>Dan Redfeld</name>
-					<appearsAs>Dan Redfeld</appearsAs>
-					<url>http://www.7digital.com/artist/dan-redfeld/?partner=1401</url>
-				</artist>
-				<url>http://www.7digital.com/artist/dan-redfeld/release/clash-of-the-titans-the-lovers-laurence-rosenthal/?partner=1401</url>
-				<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/016/193/0001619353_50.jpg</image>
-				<releaseDate>2012-02-21T00:00:00+00:00</releaseDate>
-				<addedDate>2012-02-28T17:33:37+00:00</addedDate>
-				<popularity>0.4</popularity>
-				<streamingReleaseDate>2012-02-21T00:00:00+00:00</streamingReleaseDate>
-			</release>
-		</taggedItem>
-		<taggedItem>
-			<release id="1599765">
-				<title>Beaches: The Friendship Theme (Georges Delerue)</title>
-				<version/>
-				<type>Album</type>
-				<barcode>859702990962</barcode>
-				<year>2012</year>
-				<explicitContent>false</explicitContent>
-				<artist id="1217359">
-					<name>Mark Northam</name>
-					<appearsAs>Mark Northam</appearsAs>
-					<url>http://www.7digital.com/artist/mark-northam/?partner=1401</url>
-				</artist>
-				<url>http://www.7digital.com/artist/mark-northam/release/beaches-the-friendship-theme-georges-delerue/?partner=1401</url>
-				<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/015/997/0001599765_50.jpg</image>
-				<releaseDate>2012-02-03T00:00:00+00:00</releaseDate>
-				<addedDate>2012-02-13T17:26:57+00:00</addedDate>
-				<popularity>0.4</popularity>
-				<streamingReleaseDate>2012-02-03T00:00:00+00:00</streamingReleaseDate>
-			</release>
-		</taggedItem>
-	</taggedResults>
+  <taggedResults>
+    <page>1</page>
+    <pageSize>10</pageSize>
+    <totalItems>8476</totalItems>
+    <type>release</type>
+    <taggedItem>
+      <release id="1165166">
+        <title>50 Classics for Relaxation</title>
+        <version/>
+        <type>Album</type>
+        <barcode>885686517123</barcode>
+        <year>2011</year>
+        <explicitContent>false</explicitContent>
+        <artist id="209">
+          <name>Various Artists</name>
+          <appearsAs>Various Artists</appearsAs>
+          <url>http://www.7digital.com/artist/various-artists/?partner=1401</url>
+        </artist>
+        <url>http://www.7digital.com/artist/various-artists/release/50-classics-for-relaxation/?partner=1401</url>
+        <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/011/651/0001165166_50.jpg</image>
+        <releaseDate>2011-01-27T00:00:00+00:00</releaseDate>
+        <addedDate>2011-02-28T19:57:38+00:00</addedDate>
+        <popularity>0.5</popularity>
+        <streamingReleaseDate>2011-01-27T00:00:00+00:00</streamingReleaseDate>
+      </release>
+    </taggedItem>
+    <taggedItem>
+      <release id="1616823">
+        <title>My First Violin Album</title>
+        <version/>
+        <type>Album</type>
+        <barcode>747313821570</barcode>
+        <year>2012</year>
+        <explicitContent>false</explicitContent>
+        <artist id="209">
+          <name>Various Artists</name>
+          <appearsAs>Various Artists</appearsAs>
+          <url>http://www.7digital.com/artist/various-artists/?partner=1401</url>
+        </artist>
+        <url>http://www.7digital.com/artist/various-artists/release/my-first-violin-album/?partner=1401</url>
+        <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/016/168/0001616823_50.jpg</image>
+        <releaseDate>2012-03-06T00:00:00+00:00</releaseDate>
+        <addedDate>2012-02-28T12:09:25+00:00</addedDate>
+        <popularity>0.46</popularity>
+        <streamingReleaseDate>2012-03-06T00:00:00+00:00</streamingReleaseDate>
+      </release>
+    </taggedItem>
+    <taggedItem>
+      <release id="1535596">
+        <title>Uniko</title>
+        <version/>
+        <type>Album</type>
+        <barcode>761195118528</barcode>
+        <year>2011</year>
+        <explicitContent>false</explicitContent>
+        <artist id="4305">
+          <name>Kronos Quartet</name>
+          <appearsAs>Kronos Quartet</appearsAs>
+          <url>http://www.7digital.com/artist/kronos-quartet/?partner=1401</url>
+        </artist>
+        <url>http://www.7digital.com/artist/kronos-quartet/release/uniko/?partner=1401</url>
+        <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/015/355/0001535596_50.jpg</image>
+        <releaseDate>2011-02-01T00:00:00+00:00</releaseDate>
+        <addedDate>2011-12-28T15:33:59+00:00</addedDate>
+        <popularity>0.43</popularity>
+        <streamingReleaseDate>2011-02-01T00:00:00+00:00</streamingReleaseDate>
+      </release>
+    </taggedItem>
+    <taggedItem>
+      <release id="1638778">
+        <title>The Dukes Of Hazzard: Good Ol' Boys - Theme from the TV Series (Waylon Jennings)</title>
+        <version/>
+        <type>Album</type>
+        <barcode>859705748379</barcode>
+        <year>2012</year>
+        <explicitContent>false</explicitContent>
+        <artist id="1231219">
+          <name>Brian "Hacksaw" Williams, Dominik Hauser</name>
+          <appearsAs>Brian "Hacksaw" Williams, Dominik Hauser</appearsAs>
+          <url>http://www.7digital.com/artist/brian-hacksaw-williams-dominik-hauser/?partner=1401</url>
+        </artist>
+        <url>http://www.7digital.com/artist/brian-hacksaw-williams-dominik-hauser/release/the-dukes-of-hazzard-good-ol-boys-theme-from-the-tv-series-waylon-jennings/?partner=1401</url>
+        <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/016/387/0001638778_50.jpg</image>
+        <releaseDate>2012-03-06T00:00:00+00:00</releaseDate>
+        <addedDate>2012-03-16T15:12:14+00:00</addedDate>
+        <popularity>0.42</popularity>
+        <streamingReleaseDate>2012-03-06T00:00:00+00:00</streamingReleaseDate>
+      </release>
+    </taggedItem>
+    <taggedItem>
+      <release id="1619329">
+        <title>Battlestar Galactica: Main Theme from the Original Series (Stu Phillips and Glen A. Larson)</title>
+        <version/>
+        <type>Album</type>
+        <barcode>859703185008</barcode>
+        <year>2012</year>
+        <explicitContent>false</explicitContent>
+        <artist id="1217359">
+          <name>Mark Northam</name>
+          <appearsAs>Mark Northam</appearsAs>
+          <url>http://www.7digital.com/artist/mark-northam/?partner=1401</url>
+        </artist>
+        <url>http://www.7digital.com/artist/mark-northam/release/battlestar-galactica-main-theme-from-the-original-series-stu-phillips-and-glen-a-larson/?partner=1401</url>
+        <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/016/193/0001619329_50.jpg</image>
+        <releaseDate>2012-02-17T00:00:00+00:00</releaseDate>
+        <addedDate>2012-02-28T17:34:12+00:00</addedDate>
+        <popularity>0.41</popularity>
+        <streamingReleaseDate>2012-02-17T00:00:00+00:00</streamingReleaseDate>
+      </release>
+    </taggedItem>
+    <taggedItem>
+      <release id="1619330">
+        <title>Doctor Who: Martha's Theme and Rose's Theme from the BBC Television Series (Murray Gold)</title>
+        <version/>
+        <type>Album</type>
+        <barcode>859703185107</barcode>
+        <year>2012</year>
+        <explicitContent>false</explicitContent>
+        <artist id="1217359">
+          <name>Mark Northam</name>
+          <appearsAs>Mark Northam</appearsAs>
+          <url>http://www.7digital.com/artist/mark-northam/?partner=1401</url>
+        </artist>
+        <url>http://www.7digital.com/artist/mark-northam/release/doctor-who-marthas-theme-and-roses-theme-from-the-bbc-television-series-murray-gold/?partner=1401</url>
+        <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/016/193/0001619330_50.jpg</image>
+        <releaseDate>2012-02-17T00:00:00+00:00</releaseDate>
+        <addedDate>2012-02-28T17:34:12+00:00</addedDate>
+        <popularity>0.41</popularity>
+        <streamingReleaseDate>2012-02-17T00:00:00+00:00</streamingReleaseDate>
+      </release>
+    </taggedItem>
+    <taggedItem>
+      <release id="1178685">
+        <title>Grand Piano Masters - Brahms: Variations for Piano in D Major Opus 21 / Johannes Brahms: Variationen für Klavier in D-Dur Op. 21</title>
+        <version/>
+        <type>Single</type>
+        <barcode>885686555316</barcode>
+        <year>2011</year>
+        <explicitContent>false</explicitContent>
+        <artist id="11909">
+          <name>Johannes Brahms</name>
+          <appearsAs>Johannes Brahms</appearsAs>
+          <url>http://www.7digital.com/artist/johannes-brahms/?partner=1401</url>
+        </artist>
+        <url>http://www.7digital.com/artist/johannes-brahms/release/grand-piano-masters-brahms-variations-for-piano-in-d-major-opus-21-johannes-brahms-variationen-fur-klavier-in-d-dur-op-21/?partner=1401</url>
+        <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/011/786/0001178685_50.jpg</image>
+        <releaseDate>2011-02-01T00:00:00+00:00</releaseDate>
+        <addedDate>2011-03-14T19:34:14+00:00</addedDate>
+        <popularity>0.41</popularity>
+        <streamingReleaseDate>2011-02-01T00:00:00+00:00</streamingReleaseDate>
+      </release>
+    </taggedItem>
+    <taggedItem>
+      <release id="1576870">
+        <title>Up - Theme from the Disney/Pixar Motion Picture by Michael Giacchino</title>
+        <version/>
+        <type>Album</type>
+        <barcode>847108008374</barcode>
+        <year>2012</year>
+        <explicitContent>false</explicitContent>
+        <artist id="1217359">
+          <name>Mark Northam</name>
+          <appearsAs>Mark Northam</appearsAs>
+          <url>http://www.7digital.com/artist/mark-northam/?partner=1401</url>
+        </artist>
+        <url>http://www.7digital.com/artist/mark-northam/release/up-theme-from-the-disney-pixar-motion-picture-by-michael-giacchino/?partner=1401</url>
+        <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/015/768/0001576870_50.jpg</image>
+        <releaseDate>2012-01-12T00:00:00+00:00</releaseDate>
+        <addedDate>2012-02-07T16:59:16+00:00</addedDate>
+        <popularity>0.4</popularity>
+        <streamingReleaseDate>2012-01-12T00:00:00+00:00</streamingReleaseDate>
+      </release>
+    </taggedItem>
+    <taggedItem>
+      <release id="1619353">
+        <title>Clash of The Titans: The Lovers (Laurence Rosenthal)</title>
+        <version/>
+        <type>Album</type>
+        <barcode>859703365189</barcode>
+        <year>2012</year>
+        <explicitContent>false</explicitContent>
+        <artist id="1223824">
+          <name>Dan Redfeld</name>
+          <appearsAs>Dan Redfeld</appearsAs>
+          <url>http://www.7digital.com/artist/dan-redfeld/?partner=1401</url>
+        </artist>
+        <url>http://www.7digital.com/artist/dan-redfeld/release/clash-of-the-titans-the-lovers-laurence-rosenthal/?partner=1401</url>
+        <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/016/193/0001619353_50.jpg</image>
+        <releaseDate>2012-02-21T00:00:00+00:00</releaseDate>
+        <addedDate>2012-02-28T17:33:37+00:00</addedDate>
+        <popularity>0.4</popularity>
+        <streamingReleaseDate>2012-02-21T00:00:00+00:00</streamingReleaseDate>
+      </release>
+    </taggedItem>
+    <taggedItem>
+      <release id="1599765">
+        <title>Beaches: The Friendship Theme (Georges Delerue)</title>
+        <version/>
+        <type>Album</type>
+        <barcode>859702990962</barcode>
+        <year>2012</year>
+        <explicitContent>false</explicitContent>
+        <artist id="1217359">
+          <name>Mark Northam</name>
+          <appearsAs>Mark Northam</appearsAs>
+          <url>http://www.7digital.com/artist/mark-northam/?partner=1401</url>
+        </artist>
+        <url>http://www.7digital.com/artist/mark-northam/release/beaches-the-friendship-theme-georges-delerue/?partner=1401</url>
+        <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/015/997/0001599765_50.jpg</image>
+        <releaseDate>2012-02-03T00:00:00+00:00</releaseDate>
+        <addedDate>2012-02-13T17:26:57+00:00</addedDate>
+        <popularity>0.4</popularity>
+        <streamingReleaseDate>2012-02-03T00:00:00+00:00</streamingReleaseDate>
+      </release>
+    </taggedItem>
+  </taggedResults>
 </response>
