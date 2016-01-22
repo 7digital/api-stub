@@ -10,7 +10,7 @@
       <artist id="88">
         <name>Michael Jackson</name>
         <appearsAs>Michael Jackson</appearsAs>
-        <url>http://www.7digital.com/artist/michael-jackson/?partner=712</url>
+        <slug>michael-jackson</slug>
       </artist>
       <trackNumber>9</trackNumber>
       <duration>358</duration>
@@ -25,12 +25,12 @@
         <artist id="88">
           <name>Michael Jackson</name>
           <appearsAs>Michael Jackson</appearsAs>
-          <url>http://www.7digital.com/artist/michael-jackson/?partner=712</url>
+          <slug>michael-jackson</slug>
         </artist>
-        <url>http://www.7digital.com/artist/michael-jackson/release/michael-jacksons-this-is-it/?partner=712</url>
+        <slug>michael-jacksons-this-is-it</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/006/242/0000624250_50.jpg</image>
       </release>
-      <url>http://www.7digital.com/artist/michael-jackson/release/michael-jacksons-this-is-it/?partner=712&amp;h=09</url>
+      <slug>michael-jacksons-this-is-it</slug>
       <price>
         <currency code="GBP">£</currency>
         <value>0.99</value>
@@ -67,7 +67,7 @@
       <artist id="88">
         <name>Michael Jackson</name>
         <appearsAs>Michael Jackson</appearsAs>
-        <url>http://www.7digital.com/artist/michael-jackson/?partner=712</url>
+        <slug>michael-jackson</slug>
       </artist>
       <trackNumber>10</trackNumber>
       <duration>258</duration>
@@ -82,12 +82,12 @@
         <artist id="88">
           <name>Michael Jackson</name>
           <appearsAs>Michael Jackson</appearsAs>
-          <url>http://www.7digital.com/artist/michael-jackson/?partner=712</url>
+          <slug>michael-jackson</slug>
         </artist>
-        <url>http://www.7digital.com/artist/michael-jackson/release/michael-jacksons-this-is-it/?partner=712</url>
+        <slug>michael-jacksons-this-is-it</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/006/242/0000624250_50.jpg</image>
       </release>
-      <url>http://www.7digital.com/artist/michael-jackson/release/michael-jacksons-this-is-it/?partner=712&amp;h=10</url>
+      <slug>michael-jacksons-this-is-it</slug>
       <price>
         <currency code="GBP">£</currency>
         <value>0.99</value>
@@ -124,7 +124,7 @@
       <artist id="88">
         <name>Michael Jackson</name>
         <appearsAs>Michael Jackson</appearsAs>
-        <url>http://www.7digital.com/artist/michael-jackson/?partner=712</url>
+        <slug>michael-jackson</slug>
       </artist>
       <trackNumber>13</trackNumber>
       <duration>293</duration>
@@ -139,12 +139,12 @@
         <artist id="88">
           <name>Michael Jackson</name>
           <appearsAs>Michael Jackson</appearsAs>
-          <url>http://www.7digital.com/artist/michael-jackson/?partner=712</url>
+          <slug>michael-jackson</slug>
         </artist>
-        <url>http://www.7digital.com/artist/michael-jackson/release/michael-jacksons-this-is-it/?partner=712</url>
+        <slug>michael-jacksons-this-is-it</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/006/242/0000624250_50.jpg</image>
       </release>
-      <url>http://www.7digital.com/artist/michael-jackson/release/michael-jacksons-this-is-it/?partner=712&amp;h=13</url>
+      <slug>michael-jacksons-this-is-it</slug>
       <price>
         <currency code="GBP">£</currency>
         <value>0.99</value>
@@ -181,7 +181,7 @@
       <artist id="88">
         <name>Michael Jackson</name>
         <appearsAs>Michael Jackson</appearsAs>
-        <url>http://www.7digital.com/artist/michael-jackson/?partner=712</url>
+        <slug>michael-jackson</slug>
       </artist>
       <trackNumber>14</trackNumber>
       <duration>319</duration>
@@ -196,12 +196,12 @@
         <artist id="88">
           <name>Michael Jackson</name>
           <appearsAs>Michael Jackson</appearsAs>
-          <url>http://www.7digital.com/artist/michael-jackson/?partner=712</url>
+          <slug>michael-jackson</slug>
         </artist>
-        <url>http://www.7digital.com/artist/michael-jackson/release/michael-jacksons-this-is-it/?partner=712</url>
+        <slug>michael-jacksons-this-is-it</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/006/242/0000624250_50.jpg</image>
       </release>
-      <url>http://www.7digital.com/artist/michael-jackson/release/michael-jacksons-this-is-it/?partner=712&amp;h=14</url>
+      <slug>michael-jacksons-this-is-it</slug>
       <price>
         <currency code="GBP">£</currency>
         <value>0.99</value>
@@ -238,7 +238,7 @@
       <artist id="88">
         <name>Michael Jackson</name>
         <appearsAs>Michael Jackson</appearsAs>
-        <url>http://www.7digital.com/artist/michael-jackson/?partner=712</url>
+        <slug>michael-jackson</slug>
       </artist>
       <trackNumber>5</trackNumber>
       <duration>251</duration>
@@ -253,12 +253,12 @@
         <artist id="88">
           <name>Michael Jackson</name>
           <appearsAs>Michael Jackson</appearsAs>
-          <url>http://www.7digital.com/artist/michael-jackson/?partner=712</url>
+          <slug>michael-jackson</slug>
         </artist>
-        <url>http://www.7digital.com/artist/michael-jackson/release/michael-jacksons-this-is-it/?partner=712</url>
+        <slug>michael-jacksons-this-is-it</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/006/242/0000624250_50.jpg</image>
       </release>
-      <url>http://www.7digital.com/artist/michael-jackson/release/michael-jacksons-this-is-it/?partner=712&amp;h=05</url>
+      <slug>michael-jacksons-this-is-it</slug>
       <price>
         <currency code="GBP">£</currency>
         <value>0.99</value>

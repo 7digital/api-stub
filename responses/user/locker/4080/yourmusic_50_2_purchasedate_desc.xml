@@ -14,9 +14,9 @@
           <artist id="2200">
             <name>Foo Fighters</name>
             <appearsAs>Foo Fighters</appearsAs>
-            <url>http://www.7digital.com/artist/elvis-presley-(2)/?partner=5932</url>
+            <slug>elvis-presley-(2)</slug>
           </artist>
-          <url>http://www.7digital.com/artist/elvis-presley-(2)/release/elvis-8/?partner=5932</url>
+          <slug>elvis-8</slug>
           <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/016/275/0001627544_50.jpg</image>
           <releaseDate>2012-02-24T00:00:00Z</releaseDate>
           <licensor id="68"/>
@@ -29,12 +29,12 @@
               <artist id="2200">
                 <name>Foo Fighters</name>
                 <appearsAs>Foo Fighters</appearsAs>
-                <url>http://www.7digital.com/artist/elvis-presley-(2)/?partner=5932</url>
+                <slug>elvis-presley-(2)</slug>
               </artist>
               <trackNumber>40</trackNumber>
               <duration>131</duration>
               <isrc>GBURZ1000969</isrc>
-              <url>http://www.7digital.com/artist/elvis-presley-(2)/release/elvis-8/?partner=5932&amp;h=40</url>
+              <slug>elvis-8</slug>
             </track>
             <remainingDownloads>5</remainingDownloads>
             <purchaseId>814165778</purchaseId>
@@ -54,9 +54,9 @@
           <artist id="2200">
             <name>Jennifer Lopez / Pitbull</name>
             <appearsAs>Jennifer Lopez / Pitbull</appearsAs>
-            <url>http://www.7digital.com/artist/michael-jackson/?partner=5932</url>
+            <slug>michael-jackson</slug>
           </artist>
-          <url>http://www.7digital.com/artist/michael-jackson/release/michael-jacksons-this-is-it/?partner=5932</url>
+          <slug>michael-jacksons-this-is-it</slug>
           <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/016/275/0001627544_50.jpg</image>
           <releaseDate>2012-02-24T00:00:00Z</releaseDate>
           <licensor id="68"/>
@@ -69,12 +69,12 @@
               <artist id="2200">
                 <name>Jennifer Lopez / Pitbull</name>
                 <appearsAs>Jennifer Lopez / Pitbull</appearsAs>
-                <url>http://www.7digital.com/artist/michael-jackson/</url>
+                <slug>michael-jackson</slug>
               </artist>
               <trackNumber>40</trackNumber>
               <duration>131</duration>
               <isrc>GBURZ1000969</isrc>
-              <url>http://www.7digital.com/artist/michael-jackson/release/michael-jacksons-this-is-it/?partner=5932&amp;h=40</url>
+              <slug>michael-jacksons-this-is-it</slug>
             </track>
             <remainingDownloads>5</remainingDownloads>
             <purchaseId>814165778</purchaseId>
@@ -94,9 +94,9 @@
           <artist id="2200">
             <name>Keane</name>
             <appearsAs>Keane</appearsAs>
-            <url>http://www.7digital.com/artist/michael-jackson/?partner=5932</url>
+            <slug>michael-jackson</slug>
           </artist>
-          <url>http://www.7digital.com/artist/michael-jackson/release/michael-jacksons-this-is-it/?partner=5932</url>
+          <slug>michael-jacksons-this-is-it</slug>
           <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/016/275/0001627544_50.jpg</image>
           <releaseDate>2012-02-24T00:00:00Z</releaseDate>
           <licensor id="68"/>
@@ -109,12 +109,12 @@
               <artist id="2200">
                 <name>Jennifer Lopez / Pitbull</name>
                 <appearsAs>Jennifer Lopez / Pitbull</appearsAs>
-                <url>http://www.7digital.com/artist/michael-jackson/</url>
+                <slug>michael-jackson</slug>
               </artist>
               <trackNumber>40</trackNumber>
               <duration>131</duration>
               <isrc>GBURZ1000969</isrc>
-              <url>http://www.7digital.com/artist/michael-jackson/release/michael-jacksons-this-is-it/?partner=5932&amp;h=40</url>
+              <slug>michael-jacksons-this-is-it</slug>
             </track>
             <remainingDownloads>5</remainingDownloads>
             <purchaseId>814165778</purchaseId>
@@ -134,9 +134,9 @@
           <artist id="2200">
             <name>Kym Larsen</name>
             <appearsAs>Kym Larsen</appearsAs>
-            <url>http://www.7digital.com/artist/michael-jackson/?partner=5932</url>
+            <slug>michael-jackson</slug>
           </artist>
-          <url>http://www.7digital.com/artist/michael-jackson/release/michael-jacksons-this-is-it/?partner=5932</url>
+          <slug>michael-jacksons-this-is-it</slug>
           <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/016/275/0001627544_50.jpg</image>
           <releaseDate>2012-02-24T00:00:00Z</releaseDate>
           <licensor id="68"/>
@@ -149,12 +149,12 @@
               <artist id="2200">
                 <name>Kym Larsen</name>
                 <appearsAs>Kym Larsen</appearsAs>
-                <url>http://www.7digital.com/artist/michael-jackson/</url>
+                <slug>michael-jackson</slug>
               </artist>
               <trackNumber>40</trackNumber>
               <duration>131</duration>
               <isrc>GBURZ1000969</isrc>
-              <url>http://www.7digital.com/artist/michael-jackson/release/michael-jacksons-this-is-it/?partner=5932&amp;h=40</url>
+              <slug>michael-jacksons-this-is-it</slug>
             </track>
             <remainingDownloads>5</remainingDownloads>
             <purchaseId>814165778</purchaseId>

@@ -10,9 +10,9 @@
     <artist id="1">
       <name>Keane</name>
       <appearsAs>Keane</appearsAs>
-      <url>http://www.7digital.com/artists/keane/?partner=712</url>
+      <slug>keane</slug>
     </artist>
-    <url>http://www.7digital.com/artists/keane/perfect-symmetry-4/?partner=712</url>
+    <slug>keane</slug>
     <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/003/533/0000353302_50.jpg</image>
     <download>
       <packages>

@@ -16,9 +16,9 @@
         <artist id="989092">
           <name>Jason,The Ultimate Goku!!!</name>
           <appearsAs>Jason,The Ultimate Goku!!!</appearsAs>
-          <url>http://www.7digital.com/artist/jason-the-ultimate-goku/?partner=1401</url>
+          <slug>jason-the-ultimate-goku</slug>
         </artist>
-        <url>http://www.7digital.com/artist/jason-the-ultimate-goku/release/dragonball-z-the-ultra-super-saiyan/?partner=1401</url>
+        <slug>dragonball-z-the-ultra-super-saiyan</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/012/346/0001234664_50.jpg</image>
         <popularity>0.59</popularity>
         <streamingReleaseDate>2011-05-09T00:00:00+01:00</streamingReleaseDate>
@@ -35,9 +35,9 @@
         <artist id="1259810">
           <name>Kyla La Grange</name>
           <appearsAs>Kyla La Grange</appearsAs>
-          <url>http://www.7digital.com/artist/kyla-la-grange/?partner=1401</url>
+          <slug>kyla-la-grange</slug>
         </artist>
-        <url>http://www.7digital.com/artist/kyla-la-grange/release/ashes/?partner=1401</url>
+        <slug>ashes</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/017/226/0001722681_50.jpg</image>
         <popularity>0.57</popularity>
         <streamingReleaseDate>2012-07-30T00:00:00+01:00</streamingReleaseDate>
@@ -54,9 +54,9 @@
         <artist id="128118">
           <name>Alison Krauss &amp; Union Station</name>
           <appearsAs>Alison Krauss &amp; Union Station</appearsAs>
-          <url>http://www.7digital.com/artist/alison-krauss-and-union-station/?partner=1401</url>
+          <slug>alison-krauss-and-union-station</slug>
         </artist>
-        <url>http://www.7digital.com/artist/alison-krauss-and-union-station/release/paper-airplane-1/?partner=1401</url>
+        <slug>paper-airplane-1</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/011/894/0001189419_50.jpg</image>
         <popularity>0.56</popularity>
         <streamingReleaseDate>2011-04-11T00:00:00+01:00</streamingReleaseDate>
@@ -73,9 +73,9 @@
         <artist id="487026">
           <name>Ben Howard</name>
           <appearsAs>Ben Howard</appearsAs>
-          <url>http://www.7digital.com/artist/ben-howard/?partner=1401</url>
+          <slug>ben-howard</slug>
         </artist>
-        <url>http://www.7digital.com/artist/ben-howard/release/every-kingdom-4/?partner=1401</url>
+        <slug>every-kingdom-4</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/014/146/0001414619_50.jpg</image>
         <popularity>0.56</popularity>
         <streamingReleaseDate>2011-10-03T00:00:00+01:00</streamingReleaseDate>
@@ -92,9 +92,9 @@
         <artist id="27954">
           <name>Duke Special</name>
           <appearsAs>Duke Special</appearsAs>
-          <url>http://www.7digital.com/artist/duke-special/?partner=1401</url>
+          <slug>duke-special</slug>
         </artist>
-        <url>http://www.7digital.com/artist/duke-special/release/oh-pioneer/?partner=1401</url>
+        <slug>oh-pioneer</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/017/470/0001747001_50.jpg</image>
         <popularity>0.55</popularity>
         <streamingReleaseDate>3001-01-01T00:00:00+00:00</streamingReleaseDate>
@@ -111,9 +111,9 @@
         <artist id="1301955">
           <name>Speyside Sessions</name>
           <appearsAs>Speyside Sessions</appearsAs>
-          <url>http://www.7digital.com/artist/speyside-sessions/?partner=1401</url>
+          <slug>speyside-sessions</slug>
         </artist>
-        <url>http://www.7digital.com/artist/speyside-sessions/release/the-speyside-sessions/?partner=1401</url>
+        <slug>the-speyside-sessions</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/017/306/0001730653_50.jpg</image>
         <popularity>0.54</popularity>
         <streamingReleaseDate>2012-06-15T00:00:00+01:00</streamingReleaseDate>
@@ -130,9 +130,9 @@
         <artist id="35951">
           <name>Eva Cassidy</name>
           <appearsAs>Eva Cassidy</appearsAs>
-          <url>http://www.7digital.com/artist/eva-cassidy/?partner=1401</url>
+          <slug>eva-cassidy</slug>
         </artist>
-        <url>http://www.7digital.com/artist/eva-cassidy/release/simply-eva-1/?partner=1401</url>
+        <slug>simply-eva-1</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/011/322/0001132255_50.jpg</image>
         <popularity>0.54</popularity>
         <streamingReleaseDate>3001-01-01T00:00:00+00:00</streamingReleaseDate>
@@ -149,9 +149,9 @@
         <artist id="131086">
           <name>Laura Marling</name>
           <appearsAs>Laura Marling</appearsAs>
-          <url>http://www.7digital.com/artist/laura-marling/?partner=1401</url>
+          <slug>laura-marling</slug>
         </artist>
-        <url>http://www.7digital.com/artist/laura-marling/release/a-creature-i-dont-know-1/?partner=1401</url>
+        <slug>a-creature-i-dont-know-1</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/013/738/0001373874_50.jpg</image>
         <popularity>0.54</popularity>
         <streamingReleaseDate>2011-09-12T00:00:00+01:00</streamingReleaseDate>
@@ -168,9 +168,9 @@
         <artist id="4146">
           <name>The Levellers</name>
           <appearsAs>Levellers, The</appearsAs>
-          <url>http://www.7digital.com/artist/the-levellers/?partner=1401</url>
+          <slug>the-levellers</slug>
         </artist>
-        <url>http://www.7digital.com/artist/the-levellers/release/static-on-the-airwaves/?partner=1401</url>
+        <slug>static-on-the-airwaves</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/017/412/0001741240_50.jpg</image>
         <popularity>0.53</popularity>
         <streamingReleaseDate>3001-01-01T00:00:00+00:00</streamingReleaseDate>
@@ -187,9 +187,9 @@
         <artist id="35">
           <name>Neil Diamond</name>
           <appearsAs>Neil Diamond</appearsAs>
-          <url>http://www.7digital.com/artist/neil-diamond/?partner=1401</url>
+          <slug>neil-diamond</slug>
         </artist>
-        <url>http://www.7digital.com/artist/neil-diamond/release/the-best-of-neil-diamond/?partner=1401</url>
+        <slug>the-best-of-neil-diamond</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/000/144/0000014472_50.jpg</image>
         <popularity>0.53</popularity>
         <streamingReleaseDate>2008-05-16T00:00:00+01:00</streamingReleaseDate>

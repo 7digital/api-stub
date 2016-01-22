@@ -10,9 +10,9 @@
     <artist id="6018">
       <name>Aphex Twin</name>
       <appearsAs>Aphex Twin</appearsAs>
-      <url>http://www.7digital.com/artist/aphex-twin/?partner=3923</url>
+      <slug>aphex-twin</slug>
     </artist>
-    <url>http://www.7digital.com/artist/aphex-twin/release/syro/?partner=3923</url>
+    <slug>syro</slug>
     <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/038/144/0003814480_50.jpg</image>
     <label id="811">
       <name>Warp Records</name>

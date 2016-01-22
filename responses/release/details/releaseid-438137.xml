@@ -10,9 +10,9 @@
     <artist id="45369">
       <name>Propellerheads</name>
       <appearsAs>Propellerheads</appearsAs>
-      <url>http://www.7digital.com/artist/propellerheads/?partner=3923</url>
+      <slug>propellerheads</slug>
     </artist>
-    <url>http://www.7digital.com/artist/propellerheads/release/decksandrumsandrockandroll/?partner=3923</url>
+    <slug>decksandrumsandrockandroll</slug>
     <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/004/381/0000438137_50.jpg</image>
     <label id="3309">
       <name>Universal Music Ireland Ltd.</name>

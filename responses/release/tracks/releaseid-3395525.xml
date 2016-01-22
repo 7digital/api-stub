@@ -10,7 +10,7 @@
       <artist id="14697">
         <name>Yann Tiersen</name>
         <appearsAs>Yann Tiersen</appearsAs>
-        <url>http://www.7digital.com/artist/yann-tiersen/?partner=3923</url>
+        <slug>yann-tiersen</slug>
       </artist>
       <trackNumber>1</trackNumber>
       <duration>178</duration>
@@ -25,12 +25,12 @@
         <artist id="14697">
           <name>Yann Tiersen</name>
           <appearsAs>Yann Tiersen</appearsAs>
-          <url>http://www.7digital.com/artist/yann-tiersen/?partner=3923</url>
+          <slug>yann-tiersen</slug>
         </artist>
-        <url>http://www.7digital.com/artist/yann-tiersen/release/infinity/?partner=3923</url>
+        <slug>infinity</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/033/955/0003395525_50.jpg</image>
       </release>
-      <url>http://www.7digital.com/artist/yann-tiersen/release/infinity/?partner=3923&amp;h=01</url>
+      <slug>infinity</slug>
       <price>
         <currency code="GBP">£</currency>
         <value>0.99</value>
@@ -67,7 +67,7 @@
       <artist id="14697">
         <name>Yann Tiersen</name>
         <appearsAs>Yann Tiersen</appearsAs>
-        <url>http://www.7digital.com/artist/yann-tiersen/?partner=3923</url>
+        <slug>yann-tiersen</slug>
       </artist>
       <trackNumber>2</trackNumber>
       <duration>258</duration>
@@ -82,12 +82,12 @@
         <artist id="14697">
           <name>Yann Tiersen</name>
           <appearsAs>Yann Tiersen</appearsAs>
-          <url>http://www.7digital.com/artist/yann-tiersen/?partner=3923</url>
+          <slug>yann-tiersen</slug>
         </artist>
-        <url>http://www.7digital.com/artist/yann-tiersen/release/infinity/?partner=3923</url>
+        <slug>infinity</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/033/955/0003395525_50.jpg</image>
       </release>
-      <url>http://www.7digital.com/artist/yann-tiersen/release/infinity/?partner=3923&amp;h=02</url>
+      <slug>infinity</slug>
       <price>
         <currency code="GBP">£</currency>
         <value>0.99</value>
@@ -124,7 +124,7 @@
       <artist id="14697">
         <name>Yann Tiersen</name>
         <appearsAs>Yann Tiersen</appearsAs>
-        <url>http://www.7digital.com/artist/yann-tiersen/?partner=3923</url>
+        <slug>yann-tiersen</slug>
       </artist>
       <trackNumber>3</trackNumber>
       <duration>253</duration>
@@ -139,12 +139,12 @@
         <artist id="14697">
           <name>Yann Tiersen</name>
           <appearsAs>Yann Tiersen</appearsAs>
-          <url>http://www.7digital.com/artist/yann-tiersen/?partner=3923</url>
+          <slug>yann-tiersen</slug>
         </artist>
-        <url>http://www.7digital.com/artist/yann-tiersen/release/infinity/?partner=3923</url>
+        <slug>infinity</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/033/955/0003395525_50.jpg</image>
       </release>
-      <url>http://www.7digital.com/artist/yann-tiersen/release/infinity/?partner=3923&amp;h=03</url>
+      <slug>infinity</slug>
       <price>
         <currency code="GBP">£</currency>
         <value>0.99</value>
@@ -181,7 +181,7 @@
       <artist id="14697">
         <name>Yann Tiersen</name>
         <appearsAs>Yann Tiersen</appearsAs>
-        <url>http://www.7digital.com/artist/yann-tiersen/?partner=3923</url>
+        <slug>yann-tiersen</slug>
       </artist>
       <trackNumber>4</trackNumber>
       <duration>413</duration>
@@ -196,12 +196,12 @@
         <artist id="14697">
           <name>Yann Tiersen</name>
           <appearsAs>Yann Tiersen</appearsAs>
-          <url>http://www.7digital.com/artist/yann-tiersen/?partner=3923</url>
+          <slug>yann-tiersen</slug>
         </artist>
-        <url>http://www.7digital.com/artist/yann-tiersen/release/infinity/?partner=3923</url>
+        <slug>infinity</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/033/955/0003395525_50.jpg</image>
       </release>
-      <url>http://www.7digital.com/artist/yann-tiersen/release/infinity/?partner=3923&amp;h=04</url>
+      <slug>infinity</slug>
       <price>
         <currency code="GBP">£</currency>
         <value>0.99</value>
@@ -238,7 +238,7 @@
       <artist id="14697">
         <name>Yann Tiersen</name>
         <appearsAs>Yann Tiersen</appearsAs>
-        <url>http://www.7digital.com/artist/yann-tiersen/?partner=3923</url>
+        <slug>yann-tiersen</slug>
       </artist>
       <trackNumber>5</trackNumber>
       <duration>221</duration>
@@ -253,12 +253,12 @@
         <artist id="14697">
           <name>Yann Tiersen</name>
           <appearsAs>Yann Tiersen</appearsAs>
-          <url>http://www.7digital.com/artist/yann-tiersen/?partner=3923</url>
+          <slug>yann-tiersen</slug>
         </artist>
-        <url>http://www.7digital.com/artist/yann-tiersen/release/infinity/?partner=3923</url>
+        <slug>infinity</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/033/955/0003395525_50.jpg</image>
       </release>
-      <url>http://www.7digital.com/artist/yann-tiersen/release/infinity/?partner=3923&amp;h=05</url>
+      <slug>infinity</slug>
       <price>
         <currency code="GBP">£</currency>
         <value>0.99</value>
@@ -295,7 +295,7 @@
       <artist id="14697">
         <name>Yann Tiersen</name>
         <appearsAs>Yann Tiersen</appearsAs>
-        <url>http://www.7digital.com/artist/yann-tiersen/?partner=3923</url>
+        <slug>yann-tiersen</slug>
       </artist>
       <trackNumber>6</trackNumber>
       <duration>324</duration>
@@ -310,12 +310,12 @@
         <artist id="14697">
           <name>Yann Tiersen</name>
           <appearsAs>Yann Tiersen</appearsAs>
-          <url>http://www.7digital.com/artist/yann-tiersen/?partner=3923</url>
+          <slug>yann-tiersen</slug>
         </artist>
-        <url>http://www.7digital.com/artist/yann-tiersen/release/infinity/?partner=3923</url>
+        <slug>infinity</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/033/955/0003395525_50.jpg</image>
       </release>
-      <url>http://www.7digital.com/artist/yann-tiersen/release/infinity/?partner=3923&amp;h=06</url>
+      <slug>infinity</slug>
       <price>
         <currency code="GBP">£</currency>
         <value>0.99</value>
@@ -352,7 +352,7 @@
       <artist id="14697">
         <name>Yann Tiersen</name>
         <appearsAs>Yann Tiersen</appearsAs>
-        <url>http://www.7digital.com/artist/yann-tiersen/?partner=3923</url>
+        <slug>yann-tiersen</slug>
       </artist>
       <trackNumber>7</trackNumber>
       <duration>254</duration>
@@ -367,12 +367,12 @@
         <artist id="14697">
           <name>Yann Tiersen</name>
           <appearsAs>Yann Tiersen</appearsAs>
-          <url>http://www.7digital.com/artist/yann-tiersen/?partner=3923</url>
+          <slug>yann-tiersen</slug>
         </artist>
-        <url>http://www.7digital.com/artist/yann-tiersen/release/infinity/?partner=3923</url>
+        <slug>infinity</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/033/955/0003395525_50.jpg</image>
       </release>
-      <url>http://www.7digital.com/artist/yann-tiersen/release/infinity/?partner=3923&amp;h=07</url>
+      <slug>infinity</slug>
       <price>
         <currency code="GBP">£</currency>
         <value>0.99</value>
@@ -409,7 +409,7 @@
       <artist id="14697">
         <name>Yann Tiersen</name>
         <appearsAs>Yann Tiersen</appearsAs>
-        <url>http://www.7digital.com/artist/yann-tiersen/?partner=3923</url>
+        <slug>yann-tiersen</slug>
       </artist>
       <trackNumber>8</trackNumber>
       <duration>312</duration>
@@ -424,12 +424,12 @@
         <artist id="14697">
           <name>Yann Tiersen</name>
           <appearsAs>Yann Tiersen</appearsAs>
-          <url>http://www.7digital.com/artist/yann-tiersen/?partner=3923</url>
+          <slug>yann-tiersen</slug>
         </artist>
-        <url>http://www.7digital.com/artist/yann-tiersen/release/infinity/?partner=3923</url>
+        <slug>infinity</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/033/955/0003395525_50.jpg</image>
       </release>
-      <url>http://www.7digital.com/artist/yann-tiersen/release/infinity/?partner=3923&amp;h=08</url>
+      <slug>infinity</slug>
       <price>
         <currency code="GBP">£</currency>
         <value>0.99</value>
@@ -466,7 +466,7 @@
       <artist id="14697">
         <name>Yann Tiersen</name>
         <appearsAs>Yann Tiersen</appearsAs>
-        <url>http://www.7digital.com/artist/yann-tiersen/?partner=3923</url>
+        <slug>yann-tiersen</slug>
       </artist>
       <trackNumber>9</trackNumber>
       <duration>343</duration>
@@ -481,12 +481,12 @@
         <artist id="14697">
           <name>Yann Tiersen</name>
           <appearsAs>Yann Tiersen</appearsAs>
-          <url>http://www.7digital.com/artist/yann-tiersen/?partner=3923</url>
+          <slug>yann-tiersen</slug>
         </artist>
-        <url>http://www.7digital.com/artist/yann-tiersen/release/infinity/?partner=3923</url>
+        <slug>infinity</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/033/955/0003395525_50.jpg</image>
       </release>
-      <url>http://www.7digital.com/artist/yann-tiersen/release/infinity/?partner=3923&amp;h=09</url>
+      <slug>infinity</slug>
       <price>
         <currency code="GBP">£</currency>
         <value>0.99</value>
@@ -523,7 +523,7 @@
       <artist id="14697">
         <name>Yann Tiersen</name>
         <appearsAs>Yann Tiersen</appearsAs>
-        <url>http://www.7digital.com/artist/yann-tiersen/?partner=3923</url>
+        <slug>yann-tiersen</slug>
       </artist>
       <trackNumber>10</trackNumber>
       <duration>409</duration>
@@ -538,12 +538,12 @@
         <artist id="14697">
           <name>Yann Tiersen</name>
           <appearsAs>Yann Tiersen</appearsAs>
-          <url>http://www.7digital.com/artist/yann-tiersen/?partner=3923</url>
+          <slug>yann-tiersen</slug>
         </artist>
-        <url>http://www.7digital.com/artist/yann-tiersen/release/infinity/?partner=3923</url>
+        <slug>infinity</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/033/955/0003395525_50.jpg</image>
       </release>
-      <url>http://www.7digital.com/artist/yann-tiersen/release/infinity/?partner=3923&amp;h=10</url>
+      <slug>infinity</slug>
       <price>
         <currency code="GBP">£</currency>
         <value>0.99</value>

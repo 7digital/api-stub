@@ -10,7 +10,7 @@
       <artist id="1599">
         <name>Kylie</name>
         <appearsAs>Kylie Minogue</appearsAs>
-        <url>http://www.7digital.com/artist/kylie/?partner=3923</url>
+        <slug>kylie</slug>
       </artist>
       <trackNumber>1</trackNumber>
       <duration>70</duration>
@@ -25,12 +25,12 @@
         <artist id="1599">
           <name>Kylie</name>
           <appearsAs>Kylie Minogue</appearsAs>
-          <url>http://www.7digital.com/artist/kylie/?partner=3923</url>
+          <slug>kylie</slug>
         </artist>
-        <url>http://www.7digital.com/artist/kylie/release/kyliefever2002-live-in-manchester/?partner=3923</url>
+        <slug>kyliefever2002-live-in-manchester</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/002/634/0000263431_50.jpg</image>
       </release>
-      <url>http://www.7digital.com/artist/kylie/release/kyliefever2002-live-in-manchester/?partner=3923&amp;h=01</url>
+      <slug>kyliefever2002-live-in-manchester</slug>
       <price>
         <currency code="GBP">£</currency>
         <value>1.79</value>
@@ -67,7 +67,7 @@
       <artist id="1599">
         <name>Kylie</name>
         <appearsAs>Kylie Minogue</appearsAs>
-        <url>http://www.7digital.com/artist/kylie/?partner=3923</url>
+        <slug>kylie</slug>
       </artist>
       <trackNumber>2</trackNumber>
       <duration>372</duration>
@@ -82,12 +82,12 @@
         <artist id="1599">
           <name>Kylie</name>
           <appearsAs>Kylie Minogue</appearsAs>
-          <url>http://www.7digital.com/artist/kylie/?partner=3923</url>
+          <slug>kylie</slug>
         </artist>
-        <url>http://www.7digital.com/artist/kylie/release/kyliefever2002-live-in-manchester/?partner=3923</url>
+        <slug>kyliefever2002-live-in-manchester</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/002/634/0000263431_50.jpg</image>
       </release>
-      <url>http://www.7digital.com/artist/kylie/release/kyliefever2002-live-in-manchester/?partner=3923&amp;h=02</url>
+      <slug>kyliefever2002-live-in-manchester</slug>
       <price>
         <currency code="GBP">£</currency>
         <value>1.79</value>
@@ -124,7 +124,7 @@
       <artist id="1599">
         <name>Kylie</name>
         <appearsAs>Kylie Minogue</appearsAs>
-        <url>http://www.7digital.com/artist/kylie/?partner=3923</url>
+        <slug>kylie</slug>
       </artist>
       <trackNumber>3</trackNumber>
       <duration>328</duration>
@@ -139,12 +139,12 @@
         <artist id="1599">
           <name>Kylie</name>
           <appearsAs>Kylie Minogue</appearsAs>
-          <url>http://www.7digital.com/artist/kylie/?partner=3923</url>
+          <slug>kylie</slug>
         </artist>
-        <url>http://www.7digital.com/artist/kylie/release/kyliefever2002-live-in-manchester/?partner=3923</url>
+        <slug>kyliefever2002-live-in-manchester</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/002/634/0000263431_50.jpg</image>
       </release>
-      <url>http://www.7digital.com/artist/kylie/release/kyliefever2002-live-in-manchester/?partner=3923&amp;h=03</url>
+      <slug>kyliefever2002-live-in-manchester</slug>
       <price>
         <currency code="GBP">£</currency>
         <value>1.79</value>
@@ -181,7 +181,7 @@
       <artist id="1599">
         <name>Kylie</name>
         <appearsAs>Kylie Minogue</appearsAs>
-        <url>http://www.7digital.com/artist/kylie/?partner=3923</url>
+        <slug>kylie</slug>
       </artist>
       <trackNumber>4</trackNumber>
       <duration>252</duration>
@@ -196,12 +196,12 @@
         <artist id="1599">
           <name>Kylie</name>
           <appearsAs>Kylie Minogue</appearsAs>
-          <url>http://www.7digital.com/artist/kylie/?partner=3923</url>
+          <slug>kylie</slug>
         </artist>
-        <url>http://www.7digital.com/artist/kylie/release/kyliefever2002-live-in-manchester/?partner=3923</url>
+        <slug>kyliefever2002-live-in-manchester</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/002/634/0000263431_50.jpg</image>
       </release>
-      <url>http://www.7digital.com/artist/kylie/release/kyliefever2002-live-in-manchester/?partner=3923&amp;h=04</url>
+      <slug>kyliefever2002-live-in-manchester</slug>
       <price>
         <currency code="GBP">£</currency>
         <value>1.79</value>
@@ -238,7 +238,7 @@
       <artist id="1599">
         <name>Kylie</name>
         <appearsAs>Kylie Minogue</appearsAs>
-        <url>http://www.7digital.com/artist/kylie/?partner=3923</url>
+        <slug>kylie</slug>
       </artist>
       <trackNumber>5</trackNumber>
       <duration>223</duration>
@@ -253,12 +253,12 @@
         <artist id="1599">
           <name>Kylie</name>
           <appearsAs>Kylie Minogue</appearsAs>
-          <url>http://www.7digital.com/artist/kylie/?partner=3923</url>
+          <slug>kylie</slug>
         </artist>
-        <url>http://www.7digital.com/artist/kylie/release/kyliefever2002-live-in-manchester/?partner=3923</url>
+        <slug>kyliefever2002-live-in-manchester</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/002/634/0000263431_50.jpg</image>
       </release>
-      <url>http://www.7digital.com/artist/kylie/release/kyliefever2002-live-in-manchester/?partner=3923&amp;h=05</url>
+      <slug>kyliefever2002-live-in-manchester</slug>
       <price>
         <currency code="GBP">£</currency>
         <value>1.79</value>
@@ -295,7 +295,7 @@
       <artist id="1599">
         <name>Kylie</name>
         <appearsAs>Kylie Minogue</appearsAs>
-        <url>http://www.7digital.com/artist/kylie/?partner=3923</url>
+        <slug>kylie</slug>
       </artist>
       <trackNumber>6</trackNumber>
       <duration>305</duration>
@@ -310,12 +310,12 @@
         <artist id="1599">
           <name>Kylie</name>
           <appearsAs>Kylie Minogue</appearsAs>
-          <url>http://www.7digital.com/artist/kylie/?partner=3923</url>
+          <slug>kylie</slug>
         </artist>
-        <url>http://www.7digital.com/artist/kylie/release/kyliefever2002-live-in-manchester/?partner=3923</url>
+        <slug>kyliefever2002-live-in-manchester</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/002/634/0000263431_50.jpg</image>
       </release>
-      <url>http://www.7digital.com/artist/kylie/release/kyliefever2002-live-in-manchester/?partner=3923&amp;h=06</url>
+      <slug>kyliefever2002-live-in-manchester</slug>
       <price>
         <currency code="GBP">£</currency>
         <value>1.79</value>
@@ -352,7 +352,7 @@
       <artist id="1599">
         <name>Kylie</name>
         <appearsAs>Kylie Minogue</appearsAs>
-        <url>http://www.7digital.com/artist/kylie/?partner=3923</url>
+        <slug>kylie</slug>
       </artist>
       <trackNumber>7</trackNumber>
       <duration>536</duration>
@@ -367,12 +367,12 @@
         <artist id="1599">
           <name>Kylie</name>
           <appearsAs>Kylie Minogue</appearsAs>
-          <url>http://www.7digital.com/artist/kylie/?partner=3923</url>
+          <slug>kylie</slug>
         </artist>
-        <url>http://www.7digital.com/artist/kylie/release/kyliefever2002-live-in-manchester/?partner=3923</url>
+        <slug>kyliefever2002-live-in-manchester</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/002/634/0000263431_50.jpg</image>
       </release>
-      <url>http://www.7digital.com/artist/kylie/release/kyliefever2002-live-in-manchester/?partner=3923&amp;h=07</url>
+      <slug>kyliefever2002-live-in-manchester</slug>
       <price>
         <currency code="GBP">£</currency>
         <value>1.79</value>
@@ -409,7 +409,7 @@
       <artist id="1599">
         <name>Kylie</name>
         <appearsAs>Kylie Minogue</appearsAs>
-        <url>http://www.7digital.com/artist/kylie/?partner=3923</url>
+        <slug>kylie</slug>
       </artist>
       <trackNumber>8</trackNumber>
       <duration>217</duration>
@@ -424,12 +424,12 @@
         <artist id="1599">
           <name>Kylie</name>
           <appearsAs>Kylie Minogue</appearsAs>
-          <url>http://www.7digital.com/artist/kylie/?partner=3923</url>
+          <slug>kylie</slug>
         </artist>
-        <url>http://www.7digital.com/artist/kylie/release/kyliefever2002-live-in-manchester/?partner=3923</url>
+        <slug>kyliefever2002-live-in-manchester</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/002/634/0000263431_50.jpg</image>
       </release>
-      <url>http://www.7digital.com/artist/kylie/release/kyliefever2002-live-in-manchester/?partner=3923&amp;h=08</url>
+      <slug>kyliefever2002-live-in-manchester</slug>
       <price>
         <currency code="GBP">£</currency>
         <value>1.79</value>
@@ -466,7 +466,7 @@
       <artist id="1599">
         <name>Kylie</name>
         <appearsAs>Kylie Minogue</appearsAs>
-        <url>http://www.7digital.com/artist/kylie/?partner=3923</url>
+        <slug>kylie</slug>
       </artist>
       <trackNumber>9</trackNumber>
       <duration>390</duration>
@@ -481,12 +481,12 @@
         <artist id="1599">
           <name>Kylie</name>
           <appearsAs>Kylie Minogue</appearsAs>
-          <url>http://www.7digital.com/artist/kylie/?partner=3923</url>
+          <slug>kylie</slug>
         </artist>
-        <url>http://www.7digital.com/artist/kylie/release/kyliefever2002-live-in-manchester/?partner=3923</url>
+        <slug>kyliefever2002-live-in-manchester</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/002/634/0000263431_50.jpg</image>
       </release>
-      <url>http://www.7digital.com/artist/kylie/release/kyliefever2002-live-in-manchester/?partner=3923&amp;h=09</url>
+      <slug>kyliefever2002-live-in-manchester</slug>
       <price>
         <currency code="GBP">£</currency>
         <value>1.79</value>
@@ -523,7 +523,7 @@
       <artist id="1599">
         <name>Kylie</name>
         <appearsAs>Kylie Minogue</appearsAs>
-        <url>http://www.7digital.com/artist/kylie/?partner=3923</url>
+        <slug>kylie</slug>
       </artist>
       <trackNumber>10</trackNumber>
       <duration>342</duration>
@@ -538,12 +538,12 @@
         <artist id="1599">
           <name>Kylie</name>
           <appearsAs>Kylie Minogue</appearsAs>
-          <url>http://www.7digital.com/artist/kylie/?partner=3923</url>
+          <slug>kylie</slug>
         </artist>
-        <url>http://www.7digital.com/artist/kylie/release/kyliefever2002-live-in-manchester/?partner=3923</url>
+        <slug>kyliefever2002-live-in-manchester</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/002/634/0000263431_50.jpg</image>
       </release>
-      <url>http://www.7digital.com/artist/kylie/release/kyliefever2002-live-in-manchester/?partner=3923&amp;h=10</url>
+      <slug>kyliefever2002-live-in-manchester</slug>
       <price>
         <currency code="GBP">£</currency>
         <value>1.79</value>
@@ -580,7 +580,7 @@
       <artist id="1599">
         <name>Kylie</name>
         <appearsAs>Kylie Minogue</appearsAs>
-        <url>http://www.7digital.com/artist/kylie/?partner=3923</url>
+        <slug>kylie</slug>
       </artist>
       <trackNumber>11</trackNumber>
       <duration>262</duration>
@@ -595,12 +595,12 @@
         <artist id="1599">
           <name>Kylie</name>
           <appearsAs>Kylie Minogue</appearsAs>
-          <url>http://www.7digital.com/artist/kylie/?partner=3923</url>
+          <slug>kylie</slug>
         </artist>
-        <url>http://www.7digital.com/artist/kylie/release/kyliefever2002-live-in-manchester/?partner=3923</url>
+        <slug>kyliefever2002-live-in-manchester</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/002/634/0000263431_50.jpg</image>
       </release>
-      <url>http://www.7digital.com/artist/kylie/release/kyliefever2002-live-in-manchester/?partner=3923&amp;h=11</url>
+      <slug>kyliefever2002-live-in-manchester</slug>
       <price>
         <currency code="GBP">£</currency>
         <value>1.79</value>
@@ -637,7 +637,7 @@
       <artist id="1599">
         <name>Kylie</name>
         <appearsAs>Kylie Minogue</appearsAs>
-        <url>http://www.7digital.com/artist/kylie/?partner=3923</url>
+        <slug>kylie</slug>
       </artist>
       <trackNumber>12</trackNumber>
       <duration>222</duration>
@@ -652,12 +652,12 @@
         <artist id="1599">
           <name>Kylie</name>
           <appearsAs>Kylie Minogue</appearsAs>
-          <url>http://www.7digital.com/artist/kylie/?partner=3923</url>
+          <slug>kylie</slug>
         </artist>
-        <url>http://www.7digital.com/artist/kylie/release/kyliefever2002-live-in-manchester/?partner=3923</url>
+        <slug>kyliefever2002-live-in-manchester</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/002/634/0000263431_50.jpg</image>
       </release>
-      <url>http://www.7digital.com/artist/kylie/release/kyliefever2002-live-in-manchester/?partner=3923&amp;h=12</url>
+      <slug>kyliefever2002-live-in-manchester</slug>
       <price>
         <currency code="GBP">£</currency>
         <value>1.79</value>
@@ -694,7 +694,7 @@
       <artist id="1599">
         <name>Kylie</name>
         <appearsAs>Kylie Minogue</appearsAs>
-        <url>http://www.7digital.com/artist/kylie/?partner=3923</url>
+        <slug>kylie</slug>
       </artist>
       <trackNumber>13</trackNumber>
       <duration>228</duration>
@@ -709,12 +709,12 @@
         <artist id="1599">
           <name>Kylie</name>
           <appearsAs>Kylie Minogue</appearsAs>
-          <url>http://www.7digital.com/artist/kylie/?partner=3923</url>
+          <slug>kylie</slug>
         </artist>
-        <url>http://www.7digital.com/artist/kylie/release/kyliefever2002-live-in-manchester/?partner=3923</url>
+        <slug>kyliefever2002-live-in-manchester</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/002/634/0000263431_50.jpg</image>
       </release>
-      <url>http://www.7digital.com/artist/kylie/release/kyliefever2002-live-in-manchester/?partner=3923&amp;h=13</url>
+      <slug>kyliefever2002-live-in-manchester</slug>
       <price>
         <currency code="GBP">£</currency>
         <value>1.79</value>
@@ -751,7 +751,7 @@
       <artist id="1599">
         <name>Kylie</name>
         <appearsAs>Kylie Minogue</appearsAs>
-        <url>http://www.7digital.com/artist/kylie/?partner=3923</url>
+        <slug>kylie</slug>
       </artist>
       <trackNumber>14</trackNumber>
       <duration>317</duration>
@@ -766,12 +766,12 @@
         <artist id="1599">
           <name>Kylie</name>
           <appearsAs>Kylie Minogue</appearsAs>
-          <url>http://www.7digital.com/artist/kylie/?partner=3923</url>
+          <slug>kylie</slug>
         </artist>
-        <url>http://www.7digital.com/artist/kylie/release/kyliefever2002-live-in-manchester/?partner=3923</url>
+        <slug>kyliefever2002-live-in-manchester</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/002/634/0000263431_50.jpg</image>
       </release>
-      <url>http://www.7digital.com/artist/kylie/release/kyliefever2002-live-in-manchester/?partner=3923&amp;h=14</url>
+      <slug>kyliefever2002-live-in-manchester</slug>
       <price>
         <currency code="GBP">£</currency>
         <value>1.79</value>
@@ -808,7 +808,7 @@
       <artist id="1599">
         <name>Kylie</name>
         <appearsAs>Kylie Minogue</appearsAs>
-        <url>http://www.7digital.com/artist/kylie/?partner=3923</url>
+        <slug>kylie</slug>
       </artist>
       <trackNumber>15</trackNumber>
       <duration>98</duration>
@@ -823,12 +823,12 @@
         <artist id="1599">
           <name>Kylie</name>
           <appearsAs>Kylie Minogue</appearsAs>
-          <url>http://www.7digital.com/artist/kylie/?partner=3923</url>
+          <slug>kylie</slug>
         </artist>
-        <url>http://www.7digital.com/artist/kylie/release/kyliefever2002-live-in-manchester/?partner=3923</url>
+        <slug>kyliefever2002-live-in-manchester</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/002/634/0000263431_50.jpg</image>
       </release>
-      <url>http://www.7digital.com/artist/kylie/release/kyliefever2002-live-in-manchester/?partner=3923&amp;h=15</url>
+      <slug>kyliefever2002-live-in-manchester</slug>
       <price>
         <currency code="GBP">£</currency>
         <value>1.79</value>
@@ -865,7 +865,7 @@
       <artist id="1599">
         <name>Kylie</name>
         <appearsAs>Kylie Minogue</appearsAs>
-        <url>http://www.7digital.com/artist/kylie/?partner=3923</url>
+        <slug>kylie</slug>
       </artist>
       <trackNumber>16</trackNumber>
       <duration>264</duration>
@@ -880,12 +880,12 @@
         <artist id="1599">
           <name>Kylie</name>
           <appearsAs>Kylie Minogue</appearsAs>
-          <url>http://www.7digital.com/artist/kylie/?partner=3923</url>
+          <slug>kylie</slug>
         </artist>
-        <url>http://www.7digital.com/artist/kylie/release/kyliefever2002-live-in-manchester/?partner=3923</url>
+        <slug>kyliefever2002-live-in-manchester</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/002/634/0000263431_50.jpg</image>
       </release>
-      <url>http://www.7digital.com/artist/kylie/release/kyliefever2002-live-in-manchester/?partner=3923&amp;h=16</url>
+      <slug>kyliefever2002-live-in-manchester</slug>
       <price>
         <currency code="GBP">£</currency>
         <value>1.79</value>
@@ -922,7 +922,7 @@
       <artist id="1599">
         <name>Kylie</name>
         <appearsAs>Kylie Minogue</appearsAs>
-        <url>http://www.7digital.com/artist/kylie/?partner=3923</url>
+        <slug>kylie</slug>
       </artist>
       <trackNumber>17</trackNumber>
       <duration>344</duration>
@@ -937,12 +937,12 @@
         <artist id="1599">
           <name>Kylie</name>
           <appearsAs>Kylie Minogue</appearsAs>
-          <url>http://www.7digital.com/artist/kylie/?partner=3923</url>
+          <slug>kylie</slug>
         </artist>
-        <url>http://www.7digital.com/artist/kylie/release/kyliefever2002-live-in-manchester/?partner=3923</url>
+        <slug>kyliefever2002-live-in-manchester</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/002/634/0000263431_50.jpg</image>
       </release>
-      <url>http://www.7digital.com/artist/kylie/release/kyliefever2002-live-in-manchester/?partner=3923&amp;h=17</url>
+      <slug>kyliefever2002-live-in-manchester</slug>
       <price>
         <currency code="GBP">£</currency>
         <value>1.79</value>
@@ -979,7 +979,7 @@
       <artist id="1599">
         <name>Kylie</name>
         <appearsAs>Kylie Minogue</appearsAs>
-        <url>http://www.7digital.com/artist/kylie/?partner=3923</url>
+        <slug>kylie</slug>
       </artist>
       <trackNumber>18</trackNumber>
       <duration>360</duration>
@@ -994,12 +994,12 @@
         <artist id="1599">
           <name>Kylie</name>
           <appearsAs>Kylie Minogue</appearsAs>
-          <url>http://www.7digital.com/artist/kylie/?partner=3923</url>
+          <slug>kylie</slug>
         </artist>
-        <url>http://www.7digital.com/artist/kylie/release/kyliefever2002-live-in-manchester/?partner=3923</url>
+        <slug>kyliefever2002-live-in-manchester</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/002/634/0000263431_50.jpg</image>
       </release>
-      <url>http://www.7digital.com/artist/kylie/release/kyliefever2002-live-in-manchester/?partner=3923&amp;h=18</url>
+      <slug>kyliefever2002-live-in-manchester</slug>
       <price>
         <currency code="GBP">£</currency>
         <value>1.79</value>
@@ -1036,7 +1036,7 @@
       <artist id="1599">
         <name>Kylie</name>
         <appearsAs>Kylie Minogue</appearsAs>
-        <url>http://www.7digital.com/artist/kylie/?partner=3923</url>
+        <slug>kylie</slug>
       </artist>
       <trackNumber>19</trackNumber>
       <duration>66</duration>
@@ -1051,12 +1051,12 @@
         <artist id="1599">
           <name>Kylie</name>
           <appearsAs>Kylie Minogue</appearsAs>
-          <url>http://www.7digital.com/artist/kylie/?partner=3923</url>
+          <slug>kylie</slug>
         </artist>
-        <url>http://www.7digital.com/artist/kylie/release/kyliefever2002-live-in-manchester/?partner=3923</url>
+        <slug>kyliefever2002-live-in-manchester</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/002/634/0000263431_50.jpg</image>
       </release>
-      <url>http://www.7digital.com/artist/kylie/release/kyliefever2002-live-in-manchester/?partner=3923&amp;h=19</url>
+      <slug>kyliefever2002-live-in-manchester</slug>
       <price>
         <currency code="GBP">£</currency>
         <value>1.79</value>
@@ -1093,7 +1093,7 @@
       <artist id="1599">
         <name>Kylie</name>
         <appearsAs>Kylie Minogue</appearsAs>
-        <url>http://www.7digital.com/artist/kylie/?partner=3923</url>
+        <slug>kylie</slug>
       </artist>
       <trackNumber>20</trackNumber>
       <duration>258</duration>
@@ -1108,12 +1108,12 @@
         <artist id="1599">
           <name>Kylie</name>
           <appearsAs>Kylie Minogue</appearsAs>
-          <url>http://www.7digital.com/artist/kylie/?partner=3923</url>
+          <slug>kylie</slug>
         </artist>
-        <url>http://www.7digital.com/artist/kylie/release/kyliefever2002-live-in-manchester/?partner=3923</url>
+        <slug>kyliefever2002-live-in-manchester</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/002/634/0000263431_50.jpg</image>
       </release>
-      <url>http://www.7digital.com/artist/kylie/release/kyliefever2002-live-in-manchester/?partner=3923&amp;h=20</url>
+      <slug>kyliefever2002-live-in-manchester</slug>
       <price>
         <currency code="GBP">£</currency>
         <value>1.79</value>
@@ -1150,7 +1150,7 @@
       <artist id="1599">
         <name>Kylie</name>
         <appearsAs>Kylie Minogue</appearsAs>
-        <url>http://www.7digital.com/artist/kylie/?partner=3923</url>
+        <slug>kylie</slug>
       </artist>
       <trackNumber>21</trackNumber>
       <duration>343</duration>
@@ -1165,12 +1165,12 @@
         <artist id="1599">
           <name>Kylie</name>
           <appearsAs>Kylie Minogue</appearsAs>
-          <url>http://www.7digital.com/artist/kylie/?partner=3923</url>
+          <slug>kylie</slug>
         </artist>
-        <url>http://www.7digital.com/artist/kylie/release/kyliefever2002-live-in-manchester/?partner=3923</url>
+        <slug>kyliefever2002-live-in-manchester</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/002/634/0000263431_50.jpg</image>
       </release>
-      <url>http://www.7digital.com/artist/kylie/release/kyliefever2002-live-in-manchester/?partner=3923&amp;h=21</url>
+      <slug>kyliefever2002-live-in-manchester</slug>
       <price>
         <currency code="GBP">£</currency>
         <value>1.79</value>
@@ -1207,7 +1207,7 @@
       <artist id="1599">
         <name>Kylie</name>
         <appearsAs>Kylie Minogue</appearsAs>
-        <url>http://www.7digital.com/artist/kylie/?partner=3923</url>
+        <slug>kylie</slug>
       </artist>
       <trackNumber>22</trackNumber>
       <duration>268</duration>
@@ -1222,12 +1222,12 @@
         <artist id="1599">
           <name>Kylie</name>
           <appearsAs>Kylie Minogue</appearsAs>
-          <url>http://www.7digital.com/artist/kylie/?partner=3923</url>
+          <slug>kylie</slug>
         </artist>
-        <url>http://www.7digital.com/artist/kylie/release/kyliefever2002-live-in-manchester/?partner=3923</url>
+        <slug>kyliefever2002-live-in-manchester</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/002/634/0000263431_50.jpg</image>
       </release>
-      <url>http://www.7digital.com/artist/kylie/release/kyliefever2002-live-in-manchester/?partner=3923&amp;h=22</url>
+      <slug>kyliefever2002-live-in-manchester</slug>
       <price>
         <currency code="GBP">£</currency>
         <value>1.79</value>

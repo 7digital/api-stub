@@ -10,7 +10,7 @@
       <artist id="500">
         <name>Marcy Playground</name>
         <appearsAs>Marcy Playground</appearsAs>
-        <url>http://www.7digital.com/artist/marcy-playground/?partner=3923</url>
+        <slug>marcy-playground</slug>
       </artist>
       <trackNumber>1</trackNumber>
       <duration>174</duration>
@@ -21,16 +21,16 @@
         <artist id="500">
           <name>Marcy Playground</name>
           <appearsAs>Marcy Playground</appearsAs>
-          <url>http://www.7digital.com/artist/marcy-playground/?partner=3923</url>
+          <slug>marcy-playground</slug>
         </artist>
         <version/>
         <title>Leaving Wonderland Bonus Tracks</title>
         <type>Single</type>
         <barcode>606673100926</barcode>
-        <url>http://www.7digital.com/artist/marcy-playground/release/leaving-wonderland-bonus-tracks/?partner=3923</url>
+        <slug>leaving-wonderland-bonus-tracks</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/005/889/0000588988_50.jpg</image>
       </release>
-      <url>http://www.7digital.com/artist/marcy-playground/release/leaving-wonderland-bonus-tracks/?partner=3923&amp;h=01</url>
+      <slug>leaving-wonderland-bonus-tracks</slug>
       <price>
         <currency code="GBP">£</currency>
         <value>0.99</value>
@@ -64,7 +64,7 @@
       <artist id="500">
         <name>Marcy Playground</name>
         <appearsAs>Marcy Playground</appearsAs>
-        <url>http://www.7digital.com/artist/marcy-playground/?partner=3923</url>
+        <slug>marcy-playground</slug>
       </artist>
       <trackNumber>2</trackNumber>
       <duration>194</duration>
@@ -75,16 +75,16 @@
         <artist id="500">
           <name>Marcy Playground</name>
           <appearsAs>Marcy Playground</appearsAs>
-          <url>http://www.7digital.com/artist/marcy-playground/?partner=3923</url>
+          <slug>marcy-playground</slug>
         </artist>
         <version/>
         <title>Leaving Wonderland Bonus Tracks</title>
         <type>Single</type>
         <barcode>606673100926</barcode>
-        <url>http://www.7digital.com/artist/marcy-playground/release/leaving-wonderland-bonus-tracks/?partner=3923</url>
+        <slug>leaving-wonderland-bonus-tracks</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/005/889/0000588988_50.jpg</image>
       </release>
-      <url>http://www.7digital.com/artist/marcy-playground/release/leaving-wonderland-bonus-tracks/?partner=3923&amp;h=02</url>
+      <slug>leaving-wonderland-bonus-tracks</slug>
       <price>
         <currency code="GBP">£</currency>
         <value>0.99</value>

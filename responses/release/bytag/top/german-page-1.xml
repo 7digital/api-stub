@@ -16,9 +16,9 @@
         <artist id="1026059">
           <name>Steirerbua Feat. Hot Spot</name>
           <appearsAs>Steirerbua Feat. Hot Spot</appearsAs>
-          <url>http://www.7digital.com/artist/steirerbua-feat-hot-spot/?partner=1401</url>
+          <slug>steirerbua-feat-hot-spot</slug>
         </artist>
-        <url>http://www.7digital.com/artist/steirerbua-feat-hot-spot/release/i-sing-a-liad-fur-di/?partner=1401</url>
+        <slug>i-sing-a-liad-fur-di</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/012/960/0001296064_50.jpg</image>
         <popularity>0.46</popularity>
         <streamingReleaseDate>2011-06-16T00:00:00+01:00</streamingReleaseDate>
@@ -35,9 +35,9 @@
         <artist id="209">
           <name>Various Artists</name>
           <appearsAs>Various Artists</appearsAs>
-          <url>http://www.7digital.com/artist/various-artists/?partner=1401</url>
+          <slug>various-artists</slug>
         </artist>
-        <url>http://www.7digital.com/artist/various-artists/release/al-dorado-presents-vol-4-holiday-dance-party/?partner=1401</url>
+        <slug>al-dorado-presents-vol-4-holiday-dance-party</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/004/694/0000469472_50.jpg</image>
         <popularity>0.44</popularity>
         <streamingReleaseDate>2012-03-09T00:00:00+00:00</streamingReleaseDate>
@@ -54,9 +54,9 @@
         <artist id="28015">
           <name>Helene Fischer</name>
           <appearsAs>Helene Fischer</appearsAs>
-          <url>http://www.7digital.com/artist/helene-fischer/?partner=1401</url>
+          <slug>helene-fischer</slug>
         </artist>
-        <url>http://www.7digital.com/artist/helene-fischer/release/best-of-live-so-wie-ich-bin-die-tournee/?partner=1401</url>
+        <slug>best-of-live-so-wie-ich-bin-die-tournee</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/010/572/0001057248_50.jpg</image>
         <popularity>0.44</popularity>
         <streamingReleaseDate>2010-12-13T00:00:00+00:00</streamingReleaseDate>
@@ -73,9 +73,9 @@
         <artist id="3445">
           <name>Brunner &amp; Brunner</name>
           <appearsAs>Brunner &amp; Brunner</appearsAs>
-          <url>http://www.7digital.com/artist/brunner-brunner/?partner=1401</url>
+          <slug>brunner-brunner</slug>
         </artist>
-        <url>http://www.7digital.com/artist/brunner-brunner/release/best-of-the-best/?partner=1401</url>
+        <slug>best-of-the-best</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/010/174/0001017436_50.jpg</image>
         <popularity>0.43</popularity>
         <streamingReleaseDate>2010-10-15T00:00:00+01:00</streamingReleaseDate>
@@ -92,9 +92,9 @@
         <artist id="209">
           <name>Various Artists</name>
           <appearsAs>Various Artists</appearsAs>
-          <url>http://www.7digital.com/artist/various-artists/?partner=1401</url>
+          <slug>various-artists</slug>
         </artist>
-        <url>http://www.7digital.com/artist/various-artists/release/al-dorado-presents-vol-3-hip-hop-rap-urban-collection/?partner=1401</url>
+        <slug>al-dorado-presents-vol-3-hip-hop-rap-urban-collection</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/004/694/0000469454_50.jpg</image>
         <popularity>0.43</popularity>
         <streamingReleaseDate>2012-03-09T00:00:00+00:00</streamingReleaseDate>
@@ -111,9 +111,9 @@
         <artist id="14294">
           <name>Michelle</name>
           <appearsAs>Michelle</appearsAs>
-          <url>http://www.7digital.com/artist/michelle/?partner=1401</url>
+          <slug>michelle</slug>
         </artist>
-        <url>http://www.7digital.com/artist/michelle/release/michelle-all-the-best/?partner=1401</url>
+        <slug>michelle-all-the-best</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/011/685/0001168588_50.jpg</image>
         <popularity>0.43</popularity>
         <streamingReleaseDate>2011-03-14T00:00:00+00:00</streamingReleaseDate>
@@ -130,9 +130,9 @@
         <artist id="70963">
           <name>Die Amigos</name>
           <appearsAs>Die Amigos</appearsAs>
-          <url>http://www.7digital.com/artist/die-amigos/?partner=1401</url>
+          <slug>die-amigos</slug>
         </artist>
-        <url>http://www.7digital.com/artist/die-amigos/release/die-grossen-erfolge/?partner=1401</url>
+        <slug>die-grossen-erfolge</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/006/372/0000637243_50.jpg</image>
         <popularity>0.42</popularity>
         <streamingReleaseDate>2008-05-23T00:00:00+01:00</streamingReleaseDate>
@@ -149,9 +149,9 @@
         <artist id="209">
           <name>Various Artists</name>
           <appearsAs>Various Artists</appearsAs>
-          <url>http://www.7digital.com/artist/various-artists/?partner=1401</url>
+          <slug>various-artists</slug>
         </artist>
-        <url>http://www.7digital.com/artist/various-artists/release/al-dorado-presents-vol-7-great-popsongs/?partner=1401</url>
+        <slug>al-dorado-presents-vol-7-great-popsongs</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/004/695/0000469502_50.jpg</image>
         <popularity>0.42</popularity>
         <streamingReleaseDate>2012-03-09T00:00:00+00:00</streamingReleaseDate>
@@ -168,9 +168,9 @@
         <artist id="209">
           <name>Various Artists</name>
           <appearsAs>Various Artists</appearsAs>
-          <url>http://www.7digital.com/artist/various-artists/?partner=1401</url>
+          <slug>various-artists</slug>
         </artist>
-        <url>http://www.7digital.com/artist/various-artists/release/al-dorado-presents-vol-6-big-ballads/?partner=1401</url>
+        <slug>al-dorado-presents-vol-6-big-ballads</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/004/694/0000469491_50.jpg</image>
         <popularity>0.42</popularity>
         <streamingReleaseDate>2012-03-09T00:00:00+00:00</streamingReleaseDate>
@@ -187,9 +187,9 @@
         <artist id="1548">
           <name>Tiffany</name>
           <appearsAs>Tiffany</appearsAs>
-          <url>http://www.7digital.com/artist/tiffany/?partner=1401</url>
+          <slug>tiffany</slug>
         </artist>
-        <url>http://www.7digital.com/artist/tiffany/release/ein-bisschen-frieden-2011-1/?partner=1401</url>
+        <slug>ein-bisschen-frieden-2011-1</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/012/359/0001235990_50.jpg</image>
         <popularity>0.41</popularity>
         <streamingReleaseDate>2011-04-16T00:00:00+01:00</streamingReleaseDate>

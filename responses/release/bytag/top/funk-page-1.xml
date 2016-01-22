@@ -16,9 +16,9 @@
         <artist id="4342">
           <name>Ray Charles</name>
           <appearsAs>Ray Charles</appearsAs>
-          <url>http://www.7digital.com/artist/ray-charles/?partner=1401</url>
+          <slug>ray-charles</slug>
         </artist>
-        <url>http://www.7digital.com/artist/ray-charles/release/top-5-ray-charles-ep/?partner=1401</url>
+        <slug>top-5-ray-charles-ep</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/008/292/0000829228_50.jpg</image>
         <popularity>0.56</popularity>
         <streamingReleaseDate>2010-05-11T00:00:00+01:00</streamingReleaseDate>
@@ -35,9 +35,9 @@
         <artist id="209">
           <name>Various Artists</name>
           <appearsAs>Various Artists</appearsAs>
-          <url>http://www.7digital.com/artist/various-artists/?partner=1401</url>
+          <slug>various-artists</slug>
         </artist>
-        <url>http://www.7digital.com/artist/various-artists/release/50-chill-and-nu-lounge-experience-red-edition/?partner=1401</url>
+        <slug>50-chill-and-nu-lounge-experience-red-edition</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/012/215/0001221510_50.jpg</image>
         <popularity>0.53</popularity>
         <streamingReleaseDate>2011-04-29T00:00:00+01:00</streamingReleaseDate>
@@ -54,9 +54,9 @@
         <artist id="209">
           <name>Various Artists</name>
           <appearsAs>Various Artists</appearsAs>
-          <url>http://www.7digital.com/artist/various-artists/?partner=1401</url>
+          <slug>various-artists</slug>
         </artist>
-        <url>http://www.7digital.com/artist/various-artists/release/al-dorado-presents-vol-2-randb-smooth-soul-collection/?partner=1401</url>
+        <slug>al-dorado-presents-vol-2-randb-smooth-soul-collection</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/004/751/0000475199_50.jpg</image>
         <popularity>0.52</popularity>
         <streamingReleaseDate>2012-03-09T00:00:00+00:00</streamingReleaseDate>
@@ -73,9 +73,9 @@
         <artist id="1821">
           <name>Etta James</name>
           <appearsAs>Etta James </appearsAs>
-          <url>http://www.7digital.com/artist/etta-james/?partner=1401</url>
+          <slug>etta-james</slug>
         </artist>
-        <url>http://www.7digital.com/artist/etta-james/release/at-last-etta-james-remastered-2011/?partner=1401</url>
+        <slug>at-last-etta-james-remastered-2011</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/012/258/0001225811_50.jpg</image>
         <popularity>0.51</popularity>
         <streamingReleaseDate>2011-04-19T00:00:00+01:00</streamingReleaseDate>
@@ -92,9 +92,9 @@
         <artist id="209">
           <name>Various Artists</name>
           <appearsAs>Various Artists</appearsAs>
-          <url>http://www.7digital.com/artist/various-artists/?partner=1401</url>
+          <slug>various-artists</slug>
         </artist>
-        <url>http://www.7digital.com/artist/various-artists/release/funky-grooves/?partner=1401</url>
+        <slug>funky-grooves</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/011/633/0001163390_50.jpg</image>
         <popularity>0.5</popularity>
         <streamingReleaseDate>3001-01-01T00:00:00+00:00</streamingReleaseDate>
@@ -111,9 +111,9 @@
         <artist id="1982">
           <name>Aretha Franklin</name>
           <appearsAs>Aretha Franklin</appearsAs>
-          <url>http://www.7digital.com/artist/aretha-franklin/?partner=1401</url>
+          <slug>aretha-franklin</slug>
         </artist>
-        <url>http://www.7digital.com/artist/aretha-franklin/release/respect/?partner=1401</url>
+        <slug>respect</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/008/119/0000811945_50.jpg</image>
         <popularity>0.5</popularity>
         <streamingReleaseDate>2010-04-20T00:00:00+01:00</streamingReleaseDate>
@@ -130,9 +130,9 @@
         <artist id="187">
           <name>James Brown</name>
           <appearsAs>James Brown</appearsAs>
-          <url>http://www.7digital.com/artist/james-brown/?partner=1401</url>
+          <slug>james-brown</slug>
         </artist>
-        <url>http://www.7digital.com/artist/james-brown/release/james-brown-classics-live/?partner=1401</url>
+        <slug>james-brown-classics-live</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/013/439/0001343961_50.jpg</image>
         <popularity>0.5</popularity>
         <streamingReleaseDate>2011-07-24T00:00:00+01:00</streamingReleaseDate>
@@ -149,9 +149,9 @@
         <artist id="3249">
           <name>Wu-Tang Clan</name>
           <appearsAs>Wu-Tang Clan</appearsAs>
-          <url>http://www.7digital.com/artist/wu-tang-clan/?partner=1401</url>
+          <slug>wu-tang-clan</slug>
         </artist>
-        <url>http://www.7digital.com/artist/wu-tang-clan/release/wu-tang-meets-the-dub-step/?partner=1401</url>
+        <slug>wu-tang-meets-the-dub-step</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/012/568/0001256800_50.jpg</image>
         <popularity>0.49</popularity>
         <streamingReleaseDate>2011-05-10T00:00:00+01:00</streamingReleaseDate>
@@ -168,9 +168,9 @@
         <artist id="11469">
           <name>Parliament</name>
           <appearsAs>Parliament</appearsAs>
-          <url>http://www.7digital.com/artist/parliament/?partner=1401</url>
+          <slug>parliament</slug>
         </artist>
-        <url>http://www.7digital.com/artist/parliament/release/mothership-connection-2/?partner=1401</url>
+        <slug>mothership-connection-2</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/000/263/0000026337_50.jpg</image>
         <popularity>0.49</popularity>
         <streamingReleaseDate>2003-03-27T00:00:00+00:00</streamingReleaseDate>
@@ -187,9 +187,9 @@
         <artist id="1429">
           <name>Barry White</name>
           <appearsAs>Barry White</appearsAs>
-          <url>http://www.7digital.com/artist/barry-white/?partner=1401</url>
+          <slug>barry-white</slug>
         </artist>
-        <url>http://www.7digital.com/artist/barry-white/release/love-songs/?partner=1401</url>
+        <slug>love-songs</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/000/142/0000014258_50.jpg</image>
         <popularity>0.49</popularity>
         <streamingReleaseDate>2003-02-03T00:00:00+00:00</streamingReleaseDate>

@@ -14,9 +14,9 @@
           <artist id="667594">
             <name>Factory Floor</name>
             <appearsAs>Factory Floor</appearsAs>
-            <url>http://www.7digital.com/artist/factory-floor/?partner=5932</url>
+            <slug>factory-floor</slug>
           </artist>
-          <url>http://www.7digital.com/artist/factory-floor/release/factory-floor/?partner=5932</url>
+          <slug>factory-floor</slug>
           <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/029/238/0002923838_50.jpg</image>
           <releaseDate>2013-09-09T00:00:00Z</releaseDate>
           <licensor id="48"/>
@@ -29,12 +29,12 @@
               <artist id="667594">
                 <name>Factory Floor</name>
                 <appearsAs>Factory Floor</appearsAs>
-                <url>http://www.7digital.com/artist/factory-floor/?partner=5932</url>
+                <slug>factory-floor</slug>
               </artist>
               <trackNumber>1</trackNumber>
               <duration>373</duration>
               <isrc>US4GE1300073</isrc>
-              <url>http://www.7digital.com/artist/factory-floor/release/factory-floor/?partner=5932&amp;h=01</url>
+              <slug>factory-floor</slug>
             </track>
             <remainingDownloads>5</remainingDownloads>
             <purchaseId>805666324</purchaseId>
@@ -66,12 +66,12 @@
               <artist id="667594">
                 <name>Factory Floor</name>
                 <appearsAs>Factory Floor</appearsAs>
-                <url>http://www.7digital.com/artist/factory-floor/?partner=5932</url>
+                <slug>factory-floor</slug>
               </artist>
               <trackNumber>2</trackNumber>
               <duration>487</duration>
               <isrc>US4GE1300074</isrc>
-              <url>http://www.7digital.com/artist/factory-floor/release/factory-floor/?partner=5932&amp;h=02</url>
+              <slug>factory-floor</slug>
             </track>
             <remainingDownloads>5</remainingDownloads>
             <purchaseId>805666324</purchaseId>

@@ -16,9 +16,9 @@
         <artist id="209">
           <name>Various Artists</name>
           <appearsAs>Various Artists</appearsAs>
-          <url>http://www.7digital.com/artist/various-artists/?partner=1401</url>
+          <slug>various-artists</slug>
         </artist>
-        <url>http://www.7digital.com/artist/various-artists/release/7digital-essential-blues/?partner=1401</url>
+        <slug>7digital-essential-blues</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/013/474/0001347421_50.jpg</image>
         <popularity>0.61</popularity>
         <streamingReleaseDate>3001-01-01T00:00:00+00:00</streamingReleaseDate>
@@ -35,9 +35,9 @@
         <artist id="253538">
           <name>Imelda May</name>
           <appearsAs>Imelda May</appearsAs>
-          <url>http://www.7digital.com/artist/imelda-may/?partner=1401</url>
+          <slug>imelda-may</slug>
         </artist>
-        <url>http://www.7digital.com/artist/imelda-may/release/love-tattoo/?partner=1401</url>
+        <slug>love-tattoo</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/003/253/0000325321_50.jpg</image>
         <popularity>0.57</popularity>
         <streamingReleaseDate>2009-03-02T00:00:00+00:00</streamingReleaseDate>
@@ -54,9 +54,9 @@
         <artist id="209">
           <name>Various Artists</name>
           <appearsAs>Various Artists</appearsAs>
-          <url>http://www.7digital.com/artist/various-artists/?partner=1401</url>
+          <slug>various-artists</slug>
         </artist>
-        <url>http://www.7digital.com/artist/various-artists/release/blues-brothers/?partner=1401</url>
+        <slug>blues-brothers</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/012/859/0001285978_50.jpg</image>
         <popularity>0.56</popularity>
         <streamingReleaseDate>2011-06-03T00:00:00+01:00</streamingReleaseDate>
@@ -73,9 +73,9 @@
         <artist id="4342">
           <name>Ray Charles</name>
           <appearsAs>Ray Charles</appearsAs>
-          <url>http://www.7digital.com/artist/ray-charles/?partner=1401</url>
+          <slug>ray-charles</slug>
         </artist>
-        <url>http://www.7digital.com/artist/ray-charles/release/top-5-ray-charles-ep/?partner=1401</url>
+        <slug>top-5-ray-charles-ep</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/008/292/0000829228_50.jpg</image>
         <popularity>0.56</popularity>
         <streamingReleaseDate>2010-05-11T00:00:00+01:00</streamingReleaseDate>
@@ -92,9 +92,9 @@
         <artist id="140405">
           <name>Joe Bonamassa</name>
           <appearsAs>Joe Bonamassa</appearsAs>
-          <url>http://www.7digital.com/artist/joe-bonamassa/?partner=1401</url>
+          <slug>joe-bonamassa</slug>
         </artist>
-        <url>http://www.7digital.com/artist/joe-bonamassa/release/driving-towards-the-daylight-1/?partner=1401</url>
+        <slug>driving-towards-the-daylight-1</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/017/281/0001728188_50.jpg</image>
         <popularity>0.54</popularity>
         <streamingReleaseDate>2012-05-22T00:00:00+01:00</streamingReleaseDate>
@@ -111,9 +111,9 @@
         <artist id="88051">
           <name>Seasick Steve</name>
           <appearsAs>Seasick Steve</appearsAs>
-          <url>http://www.7digital.com/artist/seasick-steve/?partner=1401</url>
+          <slug>seasick-steve</slug>
         </artist>
-        <url>http://www.7digital.com/artist/seasick-steve/release/you-cant-teach-an-old-dog-new-tricks/?partner=1401</url>
+        <slug>you-cant-teach-an-old-dog-new-tricks</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/012/354/0001235445_50.jpg</image>
         <popularity>0.53</popularity>
         <streamingReleaseDate>2011-05-30T00:00:00+01:00</streamingReleaseDate>
@@ -130,9 +130,9 @@
         <artist id="4342">
           <name>Ray Charles</name>
           <appearsAs>Ray Charles</appearsAs>
-          <url>http://www.7digital.com/artist/ray-charles/?partner=1401</url>
+          <slug>ray-charles</slug>
         </artist>
-        <url>http://www.7digital.com/artist/ray-charles/release/genius-loves-company-1-1/?partner=1401</url>
+        <slug>genius-loves-company-1-1</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/003/234/0000323467_50.jpg</image>
         <popularity>0.52</popularity>
         <streamingReleaseDate>2009-07-14T00:00:00+01:00</streamingReleaseDate>
@@ -149,9 +149,9 @@
         <artist id="1821">
           <name>Etta James</name>
           <appearsAs>Etta James </appearsAs>
-          <url>http://www.7digital.com/artist/etta-james/?partner=1401</url>
+          <slug>etta-james</slug>
         </artist>
-        <url>http://www.7digital.com/artist/etta-james/release/the-very-best-of/?partner=1401</url>
+        <slug>the-very-best-of</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/016/898/0001689818_50.jpg</image>
         <popularity>0.51</popularity>
         <streamingReleaseDate>2012-05-11T00:00:00+01:00</streamingReleaseDate>
@@ -168,9 +168,9 @@
         <artist id="4342">
           <name>Ray Charles</name>
           <appearsAs>Ray Charles</appearsAs>
-          <url>http://www.7digital.com/artist/ray-charles/?partner=1401</url>
+          <slug>ray-charles</slug>
         </artist>
-        <url>http://www.7digital.com/artist/ray-charles/release/deluxe-greatest-hits/?partner=1401</url>
+        <slug>deluxe-greatest-hits</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/018/050/0001805016_50.jpg</image>
         <popularity>0.51</popularity>
         <streamingReleaseDate>3001-01-01T00:00:00+00:00</streamingReleaseDate>
@@ -187,9 +187,9 @@
         <artist id="1821">
           <name>Etta James</name>
           <appearsAs>Etta James </appearsAs>
-          <url>http://www.7digital.com/artist/etta-james/?partner=1401</url>
+          <slug>etta-james</slug>
         </artist>
-        <url>http://www.7digital.com/artist/etta-james/release/at-last-etta-james-remastered-2011/?partner=1401</url>
+        <slug>at-last-etta-james-remastered-2011</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/012/258/0001225811_50.jpg</image>
         <popularity>0.51</popularity>
         <streamingReleaseDate>2011-04-19T00:00:00+01:00</streamingReleaseDate>

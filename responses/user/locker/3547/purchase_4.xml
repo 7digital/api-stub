@@ -14,9 +14,9 @@
           <artist id="19180">
             <name>Oceansize</name>
             <appearsAs>Oceansize</appearsAs>
-            <url>http://www.7digital.com/artist/oceansize</url>
+            <slug>oceansize</slug>
           </artist>
-          <url>http://www.7digital.com/artist/oceansize/release/new-pin-1</url>
+          <slug>new-pin-1</slug>
           <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/029/591/0002959123_50.jpg</image>
           <releaseDate>2006-03-20T00:00:00Z</releaseDate>
           <licensor id="39"/>
@@ -29,12 +29,12 @@
               <artist id="19180">
                 <name>Oceansize</name>
                 <appearsAs>Oceansize</appearsAs>
-                <url>http://www.7digital.com/artist/oceansize</url>
+                <slug>oceansize</slug>
               </artist>
               <trackNumber>2</trackNumber>
               <duration>352</duration>
               <isrc>GBAZP0500062</isrc>
-              <url>http://www.7digital.com/artist/oceansize/release/new-pin-1?h=02&amp;d=1</url>
+              <slug>new-pin-1</slug>
             </track>
             <remainingDownloads>5</remainingDownloads>
             <purchaseId>814920242</purchaseId>

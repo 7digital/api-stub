@@ -10,9 +10,9 @@
     <artist id="8293">
       <name>Foo Fighters</name>
       <appearsAs>Foo Fighters</appearsAs>
-      <url>http://www.7digital.com/artist/foo-fighters/?partner=3923</url>
+      <slug>foo-fighters</slug>
     </artist>
-    <url>http://www.7digital.com/artist/foo-fighters/release/sonic-highways/?partner=3923</url>
+    <slug>sonic-highways</slug>
     <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/039/334/0003933453_50.jpg</image>
     <label id="89">
       <name>RCA Records Label</name>

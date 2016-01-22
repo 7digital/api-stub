@@ -16,9 +16,9 @@
         <artist id="20071">
           <name>Chris Tomlin</name>
           <appearsAs>Chris Tomlin</appearsAs>
-          <url>http://www.7digital.com/artist/chris-tomlin/?partner=1401</url>
+          <slug>chris-tomlin</slug>
         </artist>
-        <url>http://www.7digital.com/artist/chris-tomlin/release/how-great-is-our-god-the-essential-collection/?partner=1401</url>
+        <slug>how-great-is-our-god-the-essential-collection</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/014/547/0001454790_50.jpg</image>
         <popularity>0.56</popularity>
         <streamingReleaseDate>2011-11-14T00:00:00+00:00</streamingReleaseDate>
@@ -35,9 +35,9 @@
         <artist id="60705">
           <name>Kirk Franklin</name>
           <appearsAs>Kirk Franklin</appearsAs>
-          <url>http://www.7digital.com/artist/kirk-franklin/?partner=1401</url>
+          <slug>kirk-franklin</slug>
         </artist>
-        <url>http://www.7digital.com/artist/kirk-franklin/release/hello-fear/?partner=1401</url>
+        <slug>hello-fear</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/011/849/0001184951_50.jpg</image>
         <popularity>0.55</popularity>
         <streamingReleaseDate>2011-03-21T00:00:00+00:00</streamingReleaseDate>
@@ -54,9 +54,9 @@
         <artist id="20071">
           <name>Chris Tomlin</name>
           <appearsAs>Chris Tomlin</appearsAs>
-          <url>http://www.7digital.com/artist/chris-tomlin/?partner=1401</url>
+          <slug>chris-tomlin</slug>
         </artist>
-        <url>http://www.7digital.com/artist/chris-tomlin/release/and-if-our-god-is-for-us/?partner=1401</url>
+        <slug>and-if-our-god-is-for-us</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/010/171/0001017174_50.jpg</image>
         <popularity>0.52</popularity>
         <streamingReleaseDate>2010-11-15T00:00:00+00:00</streamingReleaseDate>
@@ -73,9 +73,9 @@
         <artist id="83525">
           <name>Third Day</name>
           <appearsAs>Third Day</appearsAs>
-          <url>http://www.7digital.com/artist/third-day/?partner=1401</url>
+          <slug>third-day</slug>
         </artist>
-        <url>http://www.7digital.com/artist/third-day/release/move/?partner=1401</url>
+        <slug>move</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/010/002/0001000222_50.jpg</image>
         <popularity>0.52</popularity>
         <streamingReleaseDate>2010-10-18T00:00:00+01:00</streamingReleaseDate>
@@ -92,9 +92,9 @@
         <artist id="209">
           <name>Various Artists</name>
           <appearsAs>Various Artists</appearsAs>
-          <url>http://www.7digital.com/artist/various-artists/?partner=1401</url>
+          <slug>various-artists</slug>
         </artist>
-        <url>http://www.7digital.com/artist/various-artists/release/wow-hits-2012-deluxe-edition/?partner=1401</url>
+        <slug>wow-hits-2012-deluxe-edition</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/013/926/0001392654_50.jpg</image>
         <popularity>0.52</popularity>
         <streamingReleaseDate>3001-01-01T00:00:00+00:00</streamingReleaseDate>
@@ -111,9 +111,9 @@
         <artist id="7771">
           <name>Passion</name>
           <appearsAs>Passion</appearsAs>
-          <url>http://www.7digital.com/artist/passion/?partner=1401</url>
+          <slug>passion</slug>
         </artist>
-        <url>http://www.7digital.com/artist/passion/release/passion-white-flag/?partner=1401</url>
+        <slug>passion-white-flag</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/016/111/0001611105_50.jpg</image>
         <popularity>0.51</popularity>
         <streamingReleaseDate>2012-03-12T00:00:00+00:00</streamingReleaseDate>
@@ -130,9 +130,9 @@
         <artist id="19777">
           <name>Newsboys</name>
           <appearsAs>Newsboys</appearsAs>
-          <url>http://www.7digital.com/artist/newsboys/?partner=1401</url>
+          <slug>newsboys</slug>
         </artist>
-        <url>http://www.7digital.com/artist/newsboys/release/gods-not-dead/?partner=1401</url>
+        <slug>gods-not-dead</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/014/351/0001435185_50.jpg</image>
         <popularity>0.51</popularity>
         <streamingReleaseDate>2011-11-14T00:00:00+00:00</streamingReleaseDate>
@@ -149,9 +149,9 @@
         <artist id="20073">
           <name>Kutless</name>
           <appearsAs>Kutless</appearsAs>
-          <url>http://www.7digital.com/artist/kutless/?partner=1401</url>
+          <slug>kutless</slug>
         </artist>
-        <url>http://www.7digital.com/artist/kutless/release/believer/?partner=1401</url>
+        <slug>believer</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/015/415/0001541505_50.jpg</image>
         <popularity>0.51</popularity>
         <streamingReleaseDate>2012-02-27T00:00:00+00:00</streamingReleaseDate>
@@ -168,9 +168,9 @@
         <artist id="285620">
           <name>Kari Jobe</name>
           <appearsAs>Kari Jobe</appearsAs>
-          <url>http://www.7digital.com/artist/kari-jobe/?partner=1401</url>
+          <slug>kari-jobe</slug>
         </artist>
-        <url>http://www.7digital.com/artist/kari-jobe/release/where-i-find-you/?partner=1401</url>
+        <slug>where-i-find-you</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/015/449/0001544927_50.jpg</image>
         <popularity>0.51</popularity>
         <streamingReleaseDate>2012-01-23T00:00:00+00:00</streamingReleaseDate>
@@ -187,9 +187,9 @@
         <artist id="83527">
           <name>Casting Crowns</name>
           <appearsAs>Casting Crowns</appearsAs>
-          <url>http://www.7digital.com/artist/casting-crowns/?partner=1401</url>
+          <slug>casting-crowns</slug>
         </artist>
-        <url>http://www.7digital.com/artist/casting-crowns/release/until-the-whole-world-hears-1/?partner=1401</url>
+        <slug>until-the-whole-world-hears-1</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/006/241/0000624184_50.jpg</image>
         <popularity>0.5</popularity>
         <streamingReleaseDate>2009-11-16T00:00:00+00:00</streamingReleaseDate>

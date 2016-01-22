@@ -10,9 +10,9 @@
     <artist id="1">
       <name>Pre Order Artist</name>
       <appearsAs>Pre Order Artist</appearsAs>
-      <url>http://www.7digital.com/artists/teambuyall/?partner=712</url>
+      <slug>teambuyall</slug>
     </artist>
-    <url>http://www.7digital.com/artists/teambuyall/buyalltune/?partner=712</url>
+    <slug>teambuyall</slug>
     <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/007/990/0000799025_50.jpg</image>
     <download>
       <packages>

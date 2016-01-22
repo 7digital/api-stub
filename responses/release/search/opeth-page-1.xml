@@ -17,9 +17,9 @@
         <artist id="8576">
           <name>Opeth</name>
           <appearsAs>Opeth</appearsAs>
-          <url>http://www.7digital.com/artist/opeth/?partner=712</url>
+          <slug>opeth</slug>
         </artist>
-        <url>http://www.7digital.com/artist/opeth/release/watershed-3/?partner=712</url>
+        <slug>watershed-3</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/002/566/0000256686_50.jpg</image>
         <label id="973">
           <name>Roadrunner Records</name>
@@ -63,9 +63,9 @@
         <artist id="8576">
           <name>Opeth</name>
           <appearsAs>Opeth</appearsAs>
-          <url>http://www.7digital.com/artist/opeth/?partner=712</url>
+          <slug>opeth</slug>
         </artist>
-        <url>http://www.7digital.com/artist/opeth/release/watershed-2/?partner=712</url>
+        <slug>watershed-2</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/002/566/0000256689_50.jpg</image>
         <label id="973">
           <name>Roadrunner Records</name>
@@ -109,9 +109,9 @@
         <artist id="8576">
           <name>Opeth</name>
           <appearsAs>Opeth</appearsAs>
-          <url>http://www.7digital.com/artist/opeth/?partner=712</url>
+          <slug>opeth</slug>
         </artist>
-        <url>http://www.7digital.com/artist/opeth/release/ghost-reveries-1/?partner=712</url>
+        <slug>ghost-reveries-1</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/001/351/0000135197_50.jpg</image>
         <label id="973">
           <name>Roadrunner Records</name>
@@ -155,9 +155,9 @@
         <artist id="8576">
           <name>Opeth</name>
           <appearsAs>Opeth</appearsAs>
-          <url>http://www.7digital.com/artist/opeth/?partner=712</url>
+          <slug>opeth</slug>
         </artist>
-        <url>http://www.7digital.com/artist/opeth/release/peaceville-presents-opeth-1/?partner=712</url>
+        <slug>peaceville-presents-opeth-1</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/027/495/0002749580_50.jpg</image>
         <label id="3665">
           <name>Peaceville Records</name>
@@ -204,9 +204,9 @@
         <artist id="8576">
           <name>Opeth</name>
           <appearsAs>Opeth</appearsAs>
-          <url>http://www.7digital.com/artist/opeth/?partner=712</url>
+          <slug>opeth</slug>
         </artist>
-        <url>http://www.7digital.com/artist/opeth/release/blackwater-park/?partner=712</url>
+        <slug>blackwater-park</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/002/788/0000278852_50.jpg</image>
         <label id="1036">
           <name>Sony BMG Music Entertainment</name>
@@ -266,9 +266,9 @@
         <artist id="8576">
           <name>Opeth</name>
           <appearsAs>Opeth</appearsAs>
-          <url>http://www.7digital.com/artist/opeth/?partner=712</url>
+          <slug>opeth</slug>
         </artist>
-        <url>http://www.7digital.com/artist/opeth/release/damnation/?partner=712</url>
+        <slug>damnation</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/002/788/0000278850_50.jpg</image>
         <label id="1036">
           <name>Sony BMG Music Entertainment</name>

@@ -16,9 +16,9 @@
         <artist id="20">
           <name>Coldplay</name>
           <appearsAs>Coldplay</appearsAs>
-          <url>http://www.7digital.com/artist/coldplay/?partner=3923</url>
+          <slug>coldplay</slug>
         </artist>
-        <url>http://www.7digital.com/artist/coldplay/release/mylo-xyloto-2/?partner=3923</url>
+        <slug>mylo-xyloto-2</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/014/354/0001435450_50.jpg</image>
         <download>
           <packages>
@@ -54,9 +54,9 @@
         <artist id="222">
           <name>Maroon 5</name>
           <appearsAs>Maroon 5</appearsAs>
-          <url>http://www.7digital.com/artist/maroon-5/?partner=3923</url>
+          <slug>maroon-5</slug>
         </artist>
-        <url>http://www.7digital.com/artist/maroon-5/release/songs-about-jane-2-1/?partner=3923</url>
+        <slug>songs-about-jane-2-1</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/000/817/0000081735_50.jpg</image>
         <download>
           <packages>
@@ -92,9 +92,9 @@
         <artist id="447">
           <name>Pink Floyd</name>
           <appearsAs>Pink Floyd</appearsAs>
-          <url>http://www.7digital.com/artist/pink-floyd/?partner=3923</url>
+          <slug>pink-floyd</slug>
         </artist>
-        <url>http://www.7digital.com/artist/pink-floyd/release/the-dark-side-of-the-moon-2011-remaster-2/?partner=3923</url>
+        <slug>the-dark-side-of-the-moon-2011-remaster-2</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/014/021/0001402123_50.jpg</image>
         <download>
           <packages>
@@ -130,9 +130,9 @@
         <artist id="169">
           <name>Nirvana</name>
           <appearsAs>Nirvana</appearsAs>
-          <url>http://www.7digital.com/artist/nirvana/?partner=3923</url>
+          <slug>nirvana</slug>
         </artist>
-        <url>http://www.7digital.com/artist/nirvana/release/nevermind-4/?partner=3923</url>
+        <slug>nevermind-4</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/014/024/0001402423_50.jpg</image>
         <download>
           <packages>
@@ -168,9 +168,9 @@
         <artist id="8293">
           <name>Foo Fighters</name>
           <appearsAs>Foo Fighters</appearsAs>
-          <url>http://www.7digital.com/artist/foo-fighters/?partner=3923</url>
+          <slug>foo-fighters</slug>
         </artist>
-        <url>http://www.7digital.com/artist/foo-fighters/release/wasting-light/?partner=3923</url>
+        <slug>wasting-light</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/011/929/0001192901_50.jpg</image>
         <download>
           <packages>
@@ -206,9 +206,9 @@
         <artist id="1064446">
           <name>Kraftklub</name>
           <appearsAs>Kraftklub</appearsAs>
-          <url>http://www.7digital.com/artist/kraftklub/?partner=3923</url>
+          <slug>kraftklub</slug>
         </artist>
-        <url>http://www.7digital.com/artist/kraftklub/release/mit-k/?partner=3923</url>
+        <slug>mit-k</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/015/445/0001544522_50.jpg</image>
         <download>
           <packages>
@@ -244,9 +244,9 @@
         <artist id="12873">
           <name>Linkin Park</name>
           <appearsAs>Linkin Park</appearsAs>
-          <url>http://www.7digital.com/artist/linkin-park/?partner=3923</url>
+          <slug>linkin-park</slug>
         </artist>
-        <url>http://www.7digital.com/artist/linkin-park/release/minutes-to-midnight-1-1/?partner=3923</url>
+        <slug>minutes-to-midnight-1-1</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/000/856/0000085606_50.jpg</image>
         <download>
           <packages>
@@ -282,9 +282,9 @@
         <artist id="20">
           <name>Coldplay</name>
           <appearsAs>Coldplay</appearsAs>
-          <url>http://www.7digital.com/artist/coldplay/?partner=3923</url>
+          <slug>coldplay</slug>
         </artist>
-        <url>http://www.7digital.com/artist/coldplay/release/parachutes-2/?partner=3923</url>
+        <slug>parachutes-2</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/000/398/0000039899_50.jpg</image>
         <download>
           <packages>
@@ -320,9 +320,9 @@
         <artist id="204">
           <name>Queen</name>
           <appearsAs>Queen</appearsAs>
-          <url>http://www.7digital.com/artist/queen/?partner=3923</url>
+          <slug>queen</slug>
         </artist>
-        <url>http://www.7digital.com/artist/queen/release/the-platinum-collection-1/?partner=3923</url>
+        <slug>the-platinum-collection-1</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/012/838/0001283801_50.jpg</image>
         <download>
           <packages>
@@ -358,9 +358,9 @@
         <artist id="37593">
           <name>Journey</name>
           <appearsAs>Journey</appearsAs>
-          <url>http://www.7digital.com/artist/journey/?partner=3923</url>
+          <slug>journey</slug>
         </artist>
-        <url>http://www.7digital.com/artist/journey/release/greatest-hits-3/?partner=3923</url>
+        <slug>greatest-hits-3</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/003/086/0000308658_50.jpg</image>
         <download>
           <packages>
@@ -396,9 +396,9 @@
         <artist id="222">
           <name>Maroon 5</name>
           <appearsAs>Maroon 5</appearsAs>
-          <url>http://www.7digital.com/artist/maroon-5/?partner=3923</url>
+          <slug>maroon-5</slug>
         </artist>
-        <url>http://www.7digital.com/artist/maroon-5/release/call-and-response-the-remix-album-2/?partner=3923</url>
+        <slug>call-and-response-the-remix-album-2</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/003/435/0000343549_50.jpg</image>
         <download>
           <packages>
@@ -434,9 +434,9 @@
         <artist id="106">
           <name>U2</name>
           <appearsAs>U2</appearsAs>
-          <url>http://www.7digital.com/artist/u2/?partner=3923</url>
+          <slug>u2</slug>
         </artist>
-        <url>http://www.7digital.com/artist/u2/release/u218-singles-deluxe-version-1/?partner=3923</url>
+        <slug>u218-singles-deluxe-version-1</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/000/489/0000048933_50.jpg</image>
         <download>
           <packages>
@@ -472,9 +472,9 @@
         <artist id="15122">
           <name>Bruce Springsteen</name>
           <appearsAs>Bruce Springsteen</appearsAs>
-          <url>http://www.7digital.com/artist/bruce-springsteen/?partner=3923</url>
+          <slug>bruce-springsteen</slug>
         </artist>
-        <url>http://www.7digital.com/artist/bruce-springsteen/release/wrecking-ball-2/?partner=3923</url>
+        <slug>wrecking-ball-2</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/016/179/0001617950_50.jpg</image>
         <download>
           <packages>
@@ -510,9 +510,9 @@
         <artist id="1075100">
           <name>Noel Gallagher's High Flying Birds</name>
           <appearsAs>Noel Gallagher's High Flying Birds</appearsAs>
-          <url>http://www.7digital.com/artist/noel-gallaghers-high-flying-birds/?partner=3923</url>
+          <slug>noel-gallaghers-high-flying-birds</slug>
         </artist>
-        <url>http://www.7digital.com/artist/noel-gallaghers-high-flying-birds/release/noel-gallaghers-high-flying-birds-10/?partner=3923</url>
+        <slug>noel-gallaghers-high-flying-birds-10</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/013/743/0001374356_50.jpg</image>
         <download>
           <packages>
@@ -548,9 +548,9 @@
         <artist id="616">
           <name>The Killers</name>
           <appearsAs>Killers, The</appearsAs>
-          <url>http://www.7digital.com/artist/the-killers/?partner=3923</url>
+          <slug>the-killers</slug>
         </artist>
-        <url>http://www.7digital.com/artist/the-killers/release/hot-fuss-1/?partner=3923</url>
+        <slug>hot-fuss-1</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/004/017/0000401785_50.jpg</image>
         <download>
           <packages>
@@ -586,9 +586,9 @@
         <artist id="845">
           <name>Rammstein</name>
           <appearsAs>Rammstein</appearsAs>
-          <url>http://www.7digital.com/artist/rammstein/?partner=3923</url>
+          <slug>rammstein</slug>
         </artist>
-        <url>http://www.7digital.com/artist/rammstein/release/mutter/?partner=3923</url>
+        <slug>mutter</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/000/942/0000094233_50.jpg</image>
         <download>
           <packages>
@@ -624,9 +624,9 @@
         <artist id="8819">
           <name>Portishead</name>
           <appearsAs>Portishead</appearsAs>
-          <url>http://www.7digital.com/artist/portishead/?partner=3923</url>
+          <slug>portishead</slug>
         </artist>
-        <url>http://www.7digital.com/artist/portishead/release/portishead-1/?partner=3923</url>
+        <slug>portishead-1</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/000/212/0000021283_50.jpg</image>
         <download>
           <packages>
@@ -662,9 +662,9 @@
         <artist id="20">
           <name>Coldplay</name>
           <appearsAs>Coldplay</appearsAs>
-          <url>http://www.7digital.com/artist/coldplay/?partner=3923</url>
+          <slug>coldplay</slug>
         </artist>
-        <url>http://www.7digital.com/artist/coldplay/release/a-rush-of-blood-to-the-head/?partner=3923</url>
+        <slug>a-rush-of-blood-to-the-head</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/000/002/0000000296_50.jpg</image>
         <download>
           <packages>
@@ -700,9 +700,9 @@
         <artist id="27920">
           <name>Metallica</name>
           <appearsAs>Metallica</appearsAs>
-          <url>http://www.7digital.com/artist/metallica/?partner=3923</url>
+          <slug>metallica</slug>
         </artist>
-        <url>http://www.7digital.com/artist/metallica/release/metallica-4/?partner=3923</url>
+        <slug>metallica-4</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/000/389/0000038972_50.jpg</image>
         <download>
           <packages>
@@ -738,9 +738,9 @@
         <artist id="20">
           <name>Coldplay</name>
           <appearsAs>Coldplay</appearsAs>
-          <url>http://www.7digital.com/artist/coldplay/?partner=3923</url>
+          <slug>coldplay</slug>
         </artist>
-        <url>http://www.7digital.com/artist/coldplay/release/x-y/?partner=3923</url>
+        <slug>x-y</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/000/115/0000011546_50.jpg</image>
         <download>
           <packages>
@@ -776,9 +776,9 @@
         <artist id="7032">
           <name>John Mayer</name>
           <appearsAs>John Mayer</appearsAs>
-          <url>http://www.7digital.com/artist/john-mayer/?partner=3923</url>
+          <slug>john-mayer</slug>
         </artist>
-        <url>http://www.7digital.com/artist/john-mayer/release/born-and-raised/?partner=3923</url>
+        <slug>born-and-raised</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/017/226/0001722658_50.jpg</image>
         <download>
           <packages>
@@ -814,9 +814,9 @@
         <artist id="447">
           <name>Pink Floyd</name>
           <appearsAs>Pink Floyd</appearsAs>
-          <url>http://www.7digital.com/artist/pink-floyd/?partner=3923</url>
+          <slug>pink-floyd</slug>
         </artist>
-        <url>http://www.7digital.com/artist/pink-floyd/release/a-foot-in-the-door-the-best-of-pink-floyd-2011-remaster/?partner=3923</url>
+        <slug>a-foot-in-the-door-the-best-of-pink-floyd-2011-remaster</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/014/154/0001415492_50.jpg</image>
         <download>
           <packages>
@@ -852,9 +852,9 @@
         <artist id="669">
           <name>Nickelback</name>
           <appearsAs>Nickelback</appearsAs>
-          <url>http://www.7digital.com/artist/nickelback/?partner=3923</url>
+          <slug>nickelback</slug>
         </artist>
-        <url>http://www.7digital.com/artist/nickelback/release/here-and-now-2/?partner=3923</url>
+        <slug>here-and-now-2</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/014/772/0001477242_50.jpg</image>
         <download>
           <packages>
@@ -890,9 +890,9 @@
         <artist id="1246">
           <name>Kings Of Leon</name>
           <appearsAs>Kings Of Leon</appearsAs>
-          <url>http://www.7digital.com/artist/kings-of-leon/?partner=3923</url>
+          <slug>kings-of-leon</slug>
         </artist>
-        <url>http://www.7digital.com/artist/kings-of-leon/release/only-by-the-night-1/?partner=3923</url>
+        <slug>only-by-the-night-1</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/003/157/0000315773_50.jpg</image>
         <download>
           <packages>
@@ -928,9 +928,9 @@
         <artist id="1252">
           <name>Iron Maiden</name>
           <appearsAs>Iron Maiden</appearsAs>
-          <url>http://www.7digital.com/artist/iron-maiden/?partner=3923</url>
+          <slug>iron-maiden</slug>
         </artist>
-        <url>http://www.7digital.com/artist/iron-maiden/release/the-final-frontier-1/?partner=3923</url>
+        <slug>the-final-frontier-1</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/008/687/0000868778_50.jpg</image>
         <download>
           <packages>
@@ -966,9 +966,9 @@
         <artist id="35">
           <name>Neil Diamond</name>
           <appearsAs>Neil Diamond</appearsAs>
-          <url>http://www.7digital.com/artist/neil-diamond/?partner=3923</url>
+          <slug>neil-diamond</slug>
         </artist>
-        <url>http://www.7digital.com/artist/neil-diamond/release/the-best-of-neil-diamond/?partner=3923</url>
+        <slug>the-best-of-neil-diamond</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/000/144/0000014472_50.jpg</image>
         <download>
           <packages>
@@ -1004,9 +1004,9 @@
         <artist id="892">
           <name>Yeah Yeah Yeahs</name>
           <appearsAs>Yeah Yeah Yeahs</appearsAs>
-          <url>http://www.7digital.com/artist/yeah-yeah-yeahs/?partner=3923</url>
+          <slug>yeah-yeah-yeahs</slug>
         </artist>
-        <url>http://www.7digital.com/artist/yeah-yeah-yeahs/release/its-blitz-1/?partner=3923</url>
+        <slug>its-blitz-1</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/003/986/0000398603_50.jpg</image>
         <download>
           <packages>
@@ -1042,9 +1042,9 @@
         <artist id="355">
           <name>Sum 41</name>
           <appearsAs>Sum 41</appearsAs>
-          <url>http://www.7digital.com/artist/sum-41/?partner=3923</url>
+          <slug>sum-41</slug>
         </artist>
-        <url>http://www.7digital.com/artist/sum-41/release/all-killer-no-filler-4/?partner=3923</url>
+        <slug>all-killer-no-filler-4</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/000/506/0000050665_50.jpg</image>
         <download>
           <packages>
@@ -1080,9 +1080,9 @@
         <artist id="1">
           <name>Keane</name>
           <appearsAs>Keane</appearsAs>
-          <url>http://www.7digital.com/artist/keane/?partner=3923</url>
+          <slug>keane</slug>
         </artist>
-        <url>http://www.7digital.com/artist/keane/release/hopes-and-fears-uk-version/?partner=3923</url>
+        <slug>hopes-and-fears-uk-version</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/000/001/0000000112_50.jpg</image>
         <download>
           <packages>
@@ -1118,9 +1118,9 @@
         <artist id="27920">
           <name>Metallica</name>
           <appearsAs>Metallica</appearsAs>
-          <url>http://www.7digital.com/artist/metallica/?partner=3923</url>
+          <slug>metallica</slug>
         </artist>
-        <url>http://www.7digital.com/artist/metallica/release/beyond-magnetic/?partner=3923</url>
+        <slug>beyond-magnetic</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/015/242/0001524286_50.jpg</image>
         <download>
           <packages>
@@ -1156,9 +1156,9 @@
         <artist id="12873">
           <name>Linkin Park</name>
           <appearsAs>Linkin Park</appearsAs>
-          <url>http://www.7digital.com/artist/linkin-park/?partner=3923</url>
+          <slug>linkin-park</slug>
         </artist>
-        <url>http://www.7digital.com/artist/linkin-park/release/hybrid-theory-3/?partner=3923</url>
+        <slug>hybrid-theory-3</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/000/181/0000018150_50.jpg</image>
         <download>
           <packages>
@@ -1194,9 +1194,9 @@
         <artist id="269">
           <name>Snow Patrol</name>
           <appearsAs>Snow Patrol</appearsAs>
-          <url>http://www.7digital.com/artist/snow-patrol/?partner=3923</url>
+          <slug>snow-patrol</slug>
         </artist>
-        <url>http://www.7digital.com/artist/snow-patrol/release/a-hundred-million-suns/?partner=3923</url>
+        <slug>a-hundred-million-suns</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/003/247/0000324755_50.jpg</image>
         <download>
           <packages>
@@ -1232,9 +1232,9 @@
         <artist id="1475">
           <name>Abba</name>
           <appearsAs>Abba</appearsAs>
-          <url>http://www.7digital.com/artist/abba/?partner=3923</url>
+          <slug>abba</slug>
         </artist>
-        <url>http://www.7digital.com/artist/abba/release/more-abba-gold/?partner=3923</url>
+        <slug>more-abba-gold</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/002/652/0000265297_50.jpg</image>
         <download>
           <packages>
@@ -1270,9 +1270,9 @@
         <artist id="616">
           <name>The Killers</name>
           <appearsAs>Killers, The</appearsAs>
-          <url>http://www.7digital.com/artist/the-killers/?partner=3923</url>
+          <slug>the-killers</slug>
         </artist>
-        <url>http://www.7digital.com/artist/the-killers/release/day-and-age-1/?partner=3923</url>
+        <slug>day-and-age-1</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/003/386/0000338671_50.jpg</image>
         <download>
           <packages>
@@ -1308,9 +1308,9 @@
         <artist id="1039">
           <name>Elton John</name>
           <appearsAs>Elton John</appearsAs>
-          <url>http://www.7digital.com/artist/elton-john/?partner=3923</url>
+          <slug>elton-john</slug>
         </artist>
-        <url>http://www.7digital.com/artist/elton-john/release/rocket-man-standard-comm-cd/?partner=3923</url>
+        <slug>rocket-man-standard-comm-cd</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/000/686/0000068632_50.jpg</image>
         <download>
           <packages>
@@ -1346,9 +1346,9 @@
         <artist id="128187">
           <name>Led Zeppelin</name>
           <appearsAs>Led Zeppelin</appearsAs>
-          <url>http://www.7digital.com/artist/led-zeppelin/?partner=3923</url>
+          <slug>led-zeppelin</slug>
         </artist>
-        <url>http://www.7digital.com/artist/led-zeppelin/release/mothership/?partner=3923</url>
+        <slug>mothership</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/001/687/0000168737_50.jpg</image>
         <download>
           <packages>

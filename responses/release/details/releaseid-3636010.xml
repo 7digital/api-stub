@@ -10,9 +10,9 @@
     <artist id="447">
       <name>Pink Floyd</name>
       <appearsAs>Pink Floyd</appearsAs>
-      <url>http://www.7digital.com/artist/pink-floyd/?partner=3923</url>
+      <slug>pink-floyd</slug>
     </artist>
-    <url>http://www.7digital.com/artist/pink-floyd/release/the-endless-river-1/?partner=3923</url>
+    <slug>the-endless-river-1</slug>
     <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/039/394/0003939443_50.jpg</image>
     <label id="227575">
       <name>Parlophone UK</name>

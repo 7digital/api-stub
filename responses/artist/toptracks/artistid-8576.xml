@@ -10,7 +10,7 @@
       <artist id="8576">
         <name>Opeth</name>
         <appearsAs>Opeth</appearsAs>
-        <url>http://www.7digital.com/artist/opeth/?partner=712</url>
+        <slug>opeth</slug>
       </artist>
       <trackNumber>1</trackNumber>
       <duration>629</duration>
@@ -26,9 +26,9 @@
         <artist id="8576">
           <name>Opeth</name>
           <appearsAs>Opeth</appearsAs>
-          <url>http://www.7digital.com/artist/opeth/?partner=712</url>
+          <slug>opeth</slug>
         </artist>
-        <url>http://www.7digital.com/artist/opeth/release/ghost-reveries-1/?partner=712</url>
+        <slug>ghost-reveries-1</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/001/351/0000135197_50.jpg</image>
         <label id="973">
           <name>Roadrunner Records</name>
@@ -40,7 +40,7 @@
         <duration>0</duration>
         <trackCount xsi:nil="true"/>
       </release>
-      <url>http://www.7digital.com/artist/opeth/release/ghost-reveries-1/?partner=712&amp;h=01</url>
+      <slug>ghost-reveries-1</slug>
       <price>
         <currency code="GBP">£</currency>
         <value>0.99</value>
@@ -77,7 +77,7 @@
       <artist id="8576">
         <name>Opeth</name>
         <appearsAs>Opeth</appearsAs>
-        <url>http://www.7digital.com/artist/opeth/?partner=712</url>
+        <slug>opeth</slug>
       </artist>
       <trackNumber>7</trackNumber>
       <duration>781</duration>
@@ -93,9 +93,9 @@
         <artist id="8576">
           <name>Opeth</name>
           <appearsAs>Opeth</appearsAs>
-          <url>http://www.7digital.com/artist/opeth/?partner=712</url>
+          <slug>opeth</slug>
         </artist>
-        <url>http://www.7digital.com/artist/opeth/release/the-candlelight-years/?partner=712</url>
+        <slug>the-candlelight-years</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/035/166/0003516633_50.jpg</image>
         <label id="541">
           <name>Candlelight Records</name>
@@ -107,7 +107,7 @@
         <duration>0</duration>
         <trackCount xsi:nil="true"/>
       </release>
-      <url>http://www.7digital.com/artist/opeth/release/the-candlelight-years/?partner=712&amp;h=07</url>
+      <slug>the-candlelight-years</slug>
       <price>
         <currency code="GBP">£</currency>
         <value>0.99</value>
@@ -144,7 +144,7 @@
       <artist id="8576">
         <name>Opeth</name>
         <appearsAs>Opeth</appearsAs>
-        <url>http://www.7digital.com/artist/opeth/?partner=712</url>
+        <slug>opeth</slug>
       </artist>
       <trackNumber>3</trackNumber>
       <duration>361</duration>
@@ -160,9 +160,9 @@
         <artist id="8576">
           <name>Opeth</name>
           <appearsAs>Opeth</appearsAs>
-          <url>http://www.7digital.com/artist/opeth/?partner=712</url>
+          <slug>opeth</slug>
         </artist>
-        <url>http://www.7digital.com/artist/opeth/release/blackwater-park/?partner=712</url>
+        <slug>blackwater-park</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/002/788/0000278852_50.jpg</image>
         <label id="1036">
           <name>Sony BMG Music Entertainment</name>
@@ -174,7 +174,7 @@
         <duration>0</duration>
         <trackCount xsi:nil="true"/>
       </release>
-      <url>http://www.7digital.com/artist/opeth/release/blackwater-park/?partner=712&amp;h=03</url>
+      <slug>blackwater-park</slug>
       <price>
         <currency code="GBP">£</currency>
         <value>0.99</value>
@@ -227,7 +227,7 @@
       <artist id="8576">
         <name>Opeth</name>
         <appearsAs>Opeth</appearsAs>
-        <url>http://www.7digital.com/artist/opeth/?partner=712</url>
+        <slug>opeth</slug>
       </artist>
       <trackNumber>2</trackNumber>
       <duration>641</duration>
@@ -243,9 +243,9 @@
         <artist id="8576">
           <name>Opeth</name>
           <appearsAs>Opeth</appearsAs>
-          <url>http://www.7digital.com/artist/opeth/?partner=712</url>
+          <slug>opeth</slug>
         </artist>
-        <url>http://www.7digital.com/artist/opeth/release/ghost-reveries-1/?partner=712</url>
+        <slug>ghost-reveries-1</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/001/351/0000135197_50.jpg</image>
         <label id="973">
           <name>Roadrunner Records</name>
@@ -257,7 +257,7 @@
         <duration>0</duration>
         <trackCount xsi:nil="true"/>
       </release>
-      <url>http://www.7digital.com/artist/opeth/release/ghost-reveries-1/?partner=712&amp;h=02</url>
+      <slug>ghost-reveries-1</slug>
       <price>
         <currency code="GBP">£</currency>
         <value>0.99</value>
@@ -294,7 +294,7 @@
       <artist id="8576">
         <name>Opeth</name>
         <appearsAs>Opeth</appearsAs>
-        <url>http://www.7digital.com/artist/opeth/?partner=712</url>
+        <slug>opeth</slug>
       </artist>
       <trackNumber>3</trackNumber>
       <duration>224</duration>
@@ -310,9 +310,9 @@
         <artist id="8576">
           <name>Opeth</name>
           <appearsAs>Opeth</appearsAs>
-          <url>http://www.7digital.com/artist/opeth/?partner=712</url>
+          <slug>opeth</slug>
         </artist>
-        <url>http://www.7digital.com/artist/opeth/release/burden/?partner=712</url>
+        <slug>burden</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/003/381/0000338196_50.jpg</image>
         <label id="973">
           <name>Roadrunner Records</name>
@@ -324,7 +324,7 @@
         <duration>0</duration>
         <trackCount xsi:nil="true"/>
       </release>
-      <url>http://www.7digital.com/artist/opeth/release/burden/?partner=712&amp;h=03</url>
+      <slug>burden</slug>
       <price>
         <currency code="GBP">£</currency>
         <value>0.99</value>

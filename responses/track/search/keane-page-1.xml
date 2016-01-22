@@ -13,7 +13,7 @@
         <artist id="1">
           <name>Keane</name>
           <appearsAs>Keane</appearsAs>
-          <url>http://www.7digital.com/artist/keane/?partner=1401</url>
+          <slug>keane</slug>
         </artist>
         <trackNumber>2</trackNumber>
         <duration>196</duration>
@@ -27,13 +27,13 @@
           <artist id="1">
             <name>Keane</name>
             <appearsAs>Keane</appearsAs>
-            <url>http://www.7digital.com/artist/keane/?partner=1401</url>
+            <slug>keane</slug>
           </artist>
-          <url>http://www.7digital.com/artist/keane/release/strangeland/?partner=1401</url>
+          <slug>strangeland</slug>
           <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/016/856/0001685647_50.jpg</image>
           <popularity>0</popularity>
         </release>
-        <url>http://www.7digital.com/artist/keane/release/strangeland/?partner=1401&amp;h=02</url>
+        <slug>strangeland</slug>
         <price>
           <currency code="GBP">ü</currency>
           <value>0.99</value>
@@ -71,7 +71,7 @@
         <artist id="1">
           <name>Keane</name>
           <appearsAs>Keane</appearsAs>
-          <url>http://www.7digital.com/artist/keane/?partner=1401</url>
+          <slug>keane</slug>
         </artist>
         <trackNumber>5</trackNumber>
         <duration>219</duration>
@@ -85,13 +85,13 @@
           <artist id="1">
             <name>Keane</name>
             <appearsAs>Keane</appearsAs>
-            <url>http://www.7digital.com/artist/keane/?partner=1401</url>
+            <slug>keane</slug>
           </artist>
-          <url>http://www.7digital.com/artist/keane/release/strangeland/?partner=1401</url>
+          <slug>strangeland</slug>
           <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/016/856/0001685647_50.jpg</image>
           <popularity>0</popularity>
         </release>
-        <url>http://www.7digital.com/artist/keane/release/strangeland/?partner=1401&amp;h=05</url>
+        <slug>strangeland</slug>
         <price>
           <currency code="GBP">£</currency>
           <value>0.99</value>
@@ -129,7 +129,7 @@
         <artist id="1">
           <name>Keane</name>
           <appearsAs>Keane</appearsAs>
-          <url>http://www.7digital.com/artist/keane/?partner=1401</url>
+          <slug>keane</slug>
         </artist>
         <trackNumber>1</trackNumber>
         <duration>215</duration>
@@ -143,13 +143,13 @@
           <artist id="1">
             <name>Keane</name>
             <appearsAs>Keane</appearsAs>
-            <url>http://www.7digital.com/artist/keane/?partner=1401</url>
+            <slug>keane</slug>
           </artist>
-          <url>http://www.7digital.com/artist/keane/release/strangeland/?partner=1401</url>
+          <slug>strangeland</slug>
           <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/016/856/0001685647_50.jpg</image>
           <popularity>0</popularity>
         </release>
-        <url>http://www.7digital.com/artist/keane/release/strangeland/?partner=1401&amp;h=01</url>
+        <slug>strangeland</slug>
         <price>
           <currency code="GBP">ü</currency>
           <value>0.99</value>
@@ -187,7 +187,7 @@
         <artist id="1">
           <name>Keane</name>
           <appearsAs>Keane</appearsAs>
-          <url>http://www.7digital.com/artist/keane/?partner=1401</url>
+          <slug>keane</slug>
         </artist>
         <trackNumber>1</trackNumber>
         <duration>237</duration>
@@ -201,13 +201,13 @@
           <artist id="1">
             <name>Keane</name>
             <appearsAs>Keane</appearsAs>
-            <url>http://www.7digital.com/artist/keane/?partner=1401</url>
+            <slug>keane</slug>
           </artist>
-          <url>http://www.7digital.com/artist/keane/release/hopes-and-fears-uk-version/?partner=1401</url>
+          <slug>hopes-and-fears-uk-version</slug>
           <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/000/001/0000000112_50.jpg</image>
           <popularity>0</popularity>
         </release>
-        <url>http://www.7digital.com/artist/keane/release/hopes-and-fears-uk-version/?partner=1401&amp;h=01</url>
+        <slug>hopes-and-fears-uk-version</slug>
         <price>
           <currency code="GBP">ü</currency>
           <value>0.99</value>
@@ -245,7 +245,7 @@
         <artist id="1">
           <name>Keane</name>
           <appearsAs>Keane</appearsAs>
-          <url>http://www.7digital.com/artist/keane/?partner=1401</url>
+          <slug>keane</slug>
         </artist>
         <trackNumber>1</trackNumber>
         <duration>237</duration>
@@ -259,13 +259,13 @@
           <artist id="1">
             <name>Keane</name>
             <appearsAs>Keane</appearsAs>
-            <url>http://www.7digital.com/artist/keane/?partner=1401</url>
+            <slug>keane</slug>
           </artist>
-          <url>http://www.7digital.com/artist/keane/release/somewhere-only-we-know-enhanced/?partner=1401</url>
+          <slug>somewhere-only-we-know-enhanced</slug>
           <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/000/001/0000000135_50.jpg</image>
           <popularity>0</popularity>
         </release>
-        <url>http://www.7digital.com/artist/keane/release/somewhere-only-we-know-enhanced/?partner=1401&amp;h=01</url>
+        <slug>somewhere-only-we-know-enhanced</slug>
         <price>
           <currency code="GBP">ü</currency>
           <value>0.99</value>
@@ -303,7 +303,7 @@
         <artist id="1">
           <name>Keane</name>
           <appearsAs>Keane</appearsAs>
-          <url>http://www.7digital.com/artist/keane/?partner=1401</url>
+          <slug>keane</slug>
         </artist>
         <trackNumber>3</trackNumber>
         <duration>238</duration>
@@ -317,13 +317,13 @@
           <artist id="1">
             <name>Keane</name>
             <appearsAs>Keane</appearsAs>
-            <url>http://www.7digital.com/artist/keane/?partner=1401</url>
+            <slug>keane</slug>
           </artist>
-          <url>http://www.7digital.com/artist/keane/release/strangeland/?partner=1401</url>
+          <slug>strangeland</slug>
           <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/016/856/0001685647_50.jpg</image>
           <popularity>0</popularity>
         </release>
-        <url>http://www.7digital.com/artist/keane/release/strangeland/?partner=1401&amp;h=03</url>
+        <slug>strangeland</slug>
         <price>
           <currency code="GBP">ü</currency>
           <value>0.99</value>
@@ -361,7 +361,7 @@
         <artist id="1">
           <name>Keane</name>
           <appearsAs>Keane</appearsAs>
-          <url>http://www.7digital.com/artist/keane/?partner=1401</url>
+          <slug>keane</slug>
         </artist>
         <trackNumber>1</trackNumber>
         <duration>238</duration>
@@ -375,13 +375,13 @@
           <artist id="1">
             <name>Keane</name>
             <appearsAs>Keane</appearsAs>
-            <url>http://www.7digital.com/artist/keane/?partner=1401</url>
+            <slug>keane</slug>
           </artist>
-          <url>http://www.7digital.com/artist/keane/release/hopes-and-fears-3/?partner=1401</url>
+          <slug>hopes-and-fears-3</slug>
           <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/006/256/0000625642_50.jpg</image>
           <popularity>0</popularity>
         </release>
-        <url>http://www.7digital.com/artist/keane/release/hopes-and-fears-3/?partner=1401&amp;h=01</url>
+        <slug>hopes-and-fears-3</slug>
         <price>
           <currency code="GBP">ü</currency>
           <value>0.99</value>
@@ -419,7 +419,7 @@
         <artist id="1">
           <name>Keane</name>
           <appearsAs>Keane</appearsAs>
-          <url>http://www.7digital.com/artist/keane/?partner=1401</url>
+          <slug>keane</slug>
         </artist>
         <trackNumber>4</trackNumber>
         <duration>220</duration>
@@ -433,13 +433,13 @@
           <artist id="1">
             <name>Keane</name>
             <appearsAs>Keane</appearsAs>
-            <url>http://www.7digital.com/artist/keane/?partner=1401</url>
+            <slug>keane</slug>
           </artist>
-          <url>http://www.7digital.com/artist/keane/release/strangeland/?partner=1401</url>
+          <slug>strangeland</slug>
           <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/016/856/0001685647_50.jpg</image>
           <popularity>0</popularity>
         </release>
-        <url>http://www.7digital.com/artist/keane/release/strangeland/?partner=1401&amp;h=04</url>
+        <slug>strangeland</slug>
         <price>
           <currency code="GBP">ü</currency>
           <value>0.99</value>
@@ -477,7 +477,7 @@
         <artist id="1">
           <name>Keane</name>
           <appearsAs>Keane</appearsAs>
-          <url>http://www.7digital.com/artist/keane/?partner=1401</url>
+          <slug>keane</slug>
         </artist>
         <trackNumber>6</trackNumber>
         <duration>237</duration>
@@ -491,13 +491,13 @@
           <artist id="1">
             <name>Keane</name>
             <appearsAs>Keane</appearsAs>
-            <url>http://www.7digital.com/artist/keane/?partner=1401</url>
+            <slug>keane</slug>
           </artist>
-          <url>http://www.7digital.com/artist/keane/release/strangeland/?partner=1401</url>
+          <slug>strangeland</slug>
           <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/016/856/0001685647_50.jpg</image>
           <popularity>0</popularity>
         </release>
-        <url>http://www.7digital.com/artist/keane/release/strangeland/?partner=1401&amp;h=06</url>
+        <slug>strangeland</slug>
         <price>
           <currency code="GBP">ü</currency>
           <value>0.99</value>
@@ -535,7 +535,7 @@
         <artist id="1">
           <name>Keane</name>
           <appearsAs>Keane</appearsAs>
-          <url>http://www.7digital.com/artist/keane/?partner=1401</url>
+          <slug>keane</slug>
         </artist>
         <trackNumber>1</trackNumber>
         <duration>215</duration>
@@ -549,13 +549,13 @@
           <artist id="1">
             <name>Keane</name>
             <appearsAs>Keane</appearsAs>
-            <url>http://www.7digital.com/artist/keane/?partner=1401</url>
+            <slug>keane</slug>
           </artist>
-          <url>http://www.7digital.com/artist/keane/release/strangeland-1/?partner=1401</url>
+          <slug>strangeland-1</slug>
           <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/016/856/0001685650_50.jpg</image>
           <popularity>0</popularity>
         </release>
-        <url>http://www.7digital.com/artist/keane/release/strangeland-1/?partner=1401&amp;h=01</url>
+        <slug>strangeland-1</slug>
         <price>
           <currency code="GBP">ü</currency>
           <value>0.99</value>

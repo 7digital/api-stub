@@ -15,9 +15,9 @@
           <artist id="1">
             <name>Keane</name>
             <appearsAs>Keane</appearsAs>
-            <url>http://www.7digital.com/artists/keane/?partner=1401</url>
+            <slug>keane</slug>
           </artist>
-          <url>http://www.7digital.com/artists/keane/perfect-symmetry-1/?partner=1401</url>
+          <slug>keane</slug>
           <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/003/208/0000320867_50.jpg</image>
           <download>
             <packages>

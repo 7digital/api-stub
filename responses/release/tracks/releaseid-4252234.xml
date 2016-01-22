@@ -10,7 +10,7 @@
       <artist id="853076">
         <name>Gerry Read</name>
         <appearsAs>Gerry Read</appearsAs>
-        <url>http://www.7digital.com/artist/gerry-read/?partner=3923</url>
+        <slug>gerry-read</slug>
       </artist>
       <trackNumber>1</trackNumber>
       <duration>288</duration>
@@ -25,12 +25,12 @@
         <artist id="853076">
           <name>Gerry Read</name>
           <appearsAs>Gerry Read</appearsAs>
-          <url>http://www.7digital.com/artist/gerry-read/?partner=3923</url>
+          <slug>gerry-read</slug>
         </artist>
-        <url>http://www.7digital.com/artist/gerry-read/release/samurai-thunder/?partner=3923</url>
+        <slug>samurai-thunder</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/042/522/0004252234_50.jpg</image>
       </release>
-      <url>http://www.7digital.com/artist/gerry-read/release/samurai-thunder/?partner=3923&amp;h=01</url>
+      <slug>samurai-thunder</slug>
       <price>
         <currency code="GBP">£</currency>
         <value>0.00</value>

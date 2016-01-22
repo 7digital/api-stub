@@ -16,9 +16,9 @@
         <artist id="209">
           <name>Various Artists</name>
           <appearsAs>Various Artists</appearsAs>
-          <url>http://www.7digital.com/artist/various-artists/?partner=1401</url>
+          <slug>various-artists</slug>
         </artist>
-        <url>http://www.7digital.com/artist/various-artists/release/the-streets-of-bollywood-3/?partner=1401</url>
+        <slug>the-streets-of-bollywood-3</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/006/536/0000653698_50.jpg</image>
         <popularity>0.49</popularity>
         <streamingReleaseDate>2009-11-26T00:00:00+00:00</streamingReleaseDate>
@@ -35,9 +35,9 @@
         <artist id="1280992">
           <name>Mika Singh, Wajid</name>
           <appearsAs>Mika Singh, Wajid</appearsAs>
-          <url>http://www.7digital.com/artist/mika-singh-wajid/?partner=1401</url>
+          <slug>mika-singh-wajid</slug>
         </artist>
-        <url>http://www.7digital.com/artist/mika-singh-wajid/release/chinta-ta-ta-chita-chita/?partner=1401</url>
+        <slug>chinta-ta-ta-chita-chita</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/016/941/0001694132_50.jpg</image>
         <popularity>0.46</popularity>
         <streamingReleaseDate>2012-04-23T00:00:00+01:00</streamingReleaseDate>
@@ -54,9 +54,9 @@
         <artist id="383756">
           <name>Ringtones</name>
           <appearsAs>Ringtones</appearsAs>
-          <url>http://www.7digital.com/artist/ringtones/?partner=1401</url>
+          <slug>ringtones</slug>
         </artist>
-        <url>http://www.7digital.com/artist/ringtones/release/indian-ringtone/?partner=1401</url>
+        <slug>indian-ringtone</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/012/563/0001256376_50.jpg</image>
         <popularity>0.45</popularity>
         <streamingReleaseDate>2011-04-29T00:00:00+01:00</streamingReleaseDate>
@@ -73,9 +73,9 @@
         <artist id="1000103">
           <name>Indian Music</name>
           <appearsAs>Indian Music</appearsAs>
-          <url>http://www.7digital.com/artist/indian-music/?partner=1401</url>
+          <slug>indian-music</slug>
         </artist>
-        <url>http://www.7digital.com/artist/indian-music/release/indian-music/?partner=1401</url>
+        <slug>indian-music</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/012/540/0001254044_50.jpg</image>
         <popularity>0.45</popularity>
         <streamingReleaseDate>2011-04-29T00:00:00+01:00</streamingReleaseDate>
@@ -92,9 +92,9 @@
         <artist id="17715">
           <name>Lata Mangeshkar</name>
           <appearsAs>Lata Mangeshkar</appearsAs>
-          <url>http://www.7digital.com/artist/lata-mangeshkar/?partner=1401</url>
+          <slug>lata-mangeshkar</slug>
         </artist>
-        <url>http://www.7digital.com/artist/lata-mangeshkar/release/mere-sai/?partner=1401</url>
+        <slug>mere-sai</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/012/493/0001249397_50.jpg</image>
         <popularity>0.44</popularity>
         <streamingReleaseDate>2011-04-22T00:00:00+01:00</streamingReleaseDate>
@@ -111,9 +111,9 @@
         <artist id="15437">
           <name>Various Artist</name>
           <appearsAs>Various Artist</appearsAs>
-          <url>http://www.7digital.com/artist/various-artist/?partner=1401</url>
+          <slug>various-artist</slug>
         </artist>
-        <url>http://www.7digital.com/artist/various-artist/release/bollywood-diva-katrina-kaif/?partner=1401</url>
+        <slug>bollywood-diva-katrina-kaif</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/013/326/0001332693_50.jpg</image>
         <popularity>0.44</popularity>
         <streamingReleaseDate>2011-07-12T00:00:00+01:00</streamingReleaseDate>
@@ -130,9 +130,9 @@
         <artist id="51610">
           <name>Kumar Sanu</name>
           <appearsAs>Kumar Sanu</appearsAs>
-          <url>http://www.7digital.com/artist/kumar-sanu/?partner=1401</url>
+          <slug>kumar-sanu</slug>
         </artist>
-        <url>http://www.7digital.com/artist/kumar-sanu/release/tu-hain-ek-gulaab/?partner=1401</url>
+        <slug>tu-hain-ek-gulaab</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/012/806/0001280653_50.jpg</image>
         <popularity>0.43</popularity>
         <streamingReleaseDate>2011-06-10T00:00:00+01:00</streamingReleaseDate>
@@ -149,9 +149,9 @@
         <artist id="1035289">
           <name>DJ Rando &amp; Mr Amrit</name>
           <appearsAs>DJ Rando &amp; Mr Amrit</appearsAs>
-          <url>http://www.7digital.com/artist/dj-rando-and-mr-amrit/?partner=1401</url>
+          <slug>dj-rando-and-mr-amrit</slug>
         </artist>
-        <url>http://www.7digital.com/artist/dj-rando-and-mr-amrit/release/punjabi/?partner=1401</url>
+        <slug>punjabi</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/013/120/0001312094_50.jpg</image>
         <popularity>0.43</popularity>
         <streamingReleaseDate>2011-06-16T00:00:00+01:00</streamingReleaseDate>
@@ -168,9 +168,9 @@
         <artist id="66462">
           <name>Suresh Wadkar</name>
           <appearsAs>Suresh Wadkar</appearsAs>
-          <url>http://www.7digital.com/artist/suresh-wadkar/?partner=1401</url>
+          <slug>suresh-wadkar</slug>
         </artist>
-        <url>http://www.7digital.com/artist/suresh-wadkar/release/gayatri-mantra-108-jaap/?partner=1401</url>
+        <slug>gayatri-mantra-108-jaap</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/013/191/0001319174_50.jpg</image>
         <popularity>0.43</popularity>
         <streamingReleaseDate>2011-06-10T00:00:00+01:00</streamingReleaseDate>
@@ -187,9 +187,9 @@
         <artist id="70107">
           <name>Pankaj Udhas</name>
           <appearsAs>Pankaj Udhas</appearsAs>
-          <url>http://www.7digital.com/artist/pankaj-udhas/?partner=1401</url>
+          <slug>pankaj-udhas</slug>
         </artist>
-        <url>http://www.7digital.com/artist/pankaj-udhas/release/gayatri-mantra/?partner=1401</url>
+        <slug>gayatri-mantra</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/013/326/0001332603_50.jpg</image>
         <popularity>0.42</popularity>
         <streamingReleaseDate>2011-07-15T00:00:00+01:00</streamingReleaseDate>

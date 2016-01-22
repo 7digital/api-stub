@@ -10,9 +10,9 @@
     <artist id="1293560">
       <name>Cheryl</name>
       <appearsAs>Cheryl</appearsAs>
-      <url>http://www.7digital.com/artist/cheryl/?partner=3923</url>
+      <slug>cheryl</slug>
     </artist>
-    <url>http://www.7digital.com/artist/cheryl/release/only-human-explicit/?partner=3923</url>
+    <slug>only-human-explicit</slug>
     <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/039/235/0003923529_50.jpg</image>
     <label id="149943">
       <name>Universal Music (Pty) Ltd.</name>

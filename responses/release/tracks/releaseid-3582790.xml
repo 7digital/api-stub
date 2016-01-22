@@ -10,7 +10,7 @@
       <artist id="49225">
         <name>Calvin Harris</name>
         <appearsAs>Calvin Harris</appearsAs>
-        <url>http://www.7digital.com/artist/calvin-harris/?partner=3923</url>
+        <slug>calvin-harris</slug>
       </artist>
       <trackNumber>1</trackNumber>
       <duration>221</duration>
@@ -25,12 +25,12 @@
         <artist id="209">
           <name>Various Artists</name>
           <appearsAs>Various</appearsAs>
-          <url>http://www.7digital.com/artist/various-artists/?partner=3923</url>
+          <slug>various-artists</slug>
         </artist>
-        <url>http://www.7digital.com/artist/various-artists/release/now-thats-what-i-call-summer/?partner=3923</url>
+        <slug>now-thats-what-i-call-summer</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/035/827/0003582790_50.jpg</image>
       </release>
-      <url>http://www.7digital.com/artist/various-artists/release/now-thats-what-i-call-summer/?partner=3923&amp;h=01</url>
+      <slug>now-thats-what-i-call-summer</slug>
       <price>
         <currency code="GBP">£</currency>
         <value xsi:nil="true"/>
@@ -65,7 +65,7 @@
       <artist id="518500">
         <name>Avicii</name>
         <appearsAs>Avicii</appearsAs>
-        <url>http://www.7digital.com/artist/avicii/?partner=3923</url>
+        <slug>avicii</slug>
       </artist>
       <trackNumber>2</trackNumber>
       <duration>249</duration>
@@ -80,12 +80,12 @@
         <artist id="209">
           <name>Various Artists</name>
           <appearsAs>Various</appearsAs>
-          <url>http://www.7digital.com/artist/various-artists/?partner=3923</url>
+          <slug>various-artists</slug>
         </artist>
-        <url>http://www.7digital.com/artist/various-artists/release/now-thats-what-i-call-summer/?partner=3923</url>
+        <slug>now-thats-what-i-call-summer</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/035/827/0003582790_50.jpg</image>
       </release>
-      <url>http://www.7digital.com/artist/various-artists/release/now-thats-what-i-call-summer/?partner=3923&amp;h=02</url>
+      <slug>now-thats-what-i-call-summer</slug>
       <price>
         <currency code="GBP">£</currency>
         <value>0.99</value>
@@ -120,7 +120,7 @@
       <artist id="1107056">
         <name>Lana Del Rey</name>
         <appearsAs>Lana Del Rey</appearsAs>
-        <url>http://www.7digital.com/artist/lana-del-rey/?partner=3923</url>
+        <slug>lana-del-rey</slug>
       </artist>
       <trackNumber>3</trackNumber>
       <duration>214</duration>
@@ -135,12 +135,12 @@
         <artist id="209">
           <name>Various Artists</name>
           <appearsAs>Various</appearsAs>
-          <url>http://www.7digital.com/artist/various-artists/?partner=3923</url>
+          <slug>various-artists</slug>
         </artist>
-        <url>http://www.7digital.com/artist/various-artists/release/now-thats-what-i-call-summer/?partner=3923</url>
+        <slug>now-thats-what-i-call-summer</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/035/827/0003582790_50.jpg</image>
       </release>
-      <url>http://www.7digital.com/artist/various-artists/release/now-thats-what-i-call-summer/?partner=3923&amp;h=03</url>
+      <slug>now-thats-what-i-call-summer</slug>
       <price>
         <currency code="GBP">£</currency>
         <value>0.99</value>
@@ -175,7 +175,7 @@
       <artist id="326665">
         <name>Mr. Probz</name>
         <appearsAs>Mr. Probz</appearsAs>
-        <url>http://www.7digital.com/artist/mr-probz/?partner=3923</url>
+        <slug>mr-probz</slug>
       </artist>
       <trackNumber>4</trackNumber>
       <duration>208</duration>
@@ -190,12 +190,12 @@
         <artist id="209">
           <name>Various Artists</name>
           <appearsAs>Various</appearsAs>
-          <url>http://www.7digital.com/artist/various-artists/?partner=3923</url>
+          <slug>various-artists</slug>
         </artist>
-        <url>http://www.7digital.com/artist/various-artists/release/now-thats-what-i-call-summer/?partner=3923</url>
+        <slug>now-thats-what-i-call-summer</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/035/827/0003582790_50.jpg</image>
       </release>
-      <url>http://www.7digital.com/artist/various-artists/release/now-thats-what-i-call-summer/?partner=3923&amp;h=04</url>
+      <slug>now-thats-what-i-call-summer</slug>
       <price>
         <currency code="GBP">£</currency>
         <value>0.99</value>
@@ -230,7 +230,7 @@
       <artist id="91051">
         <name>Duke Dumont</name>
         <appearsAs>Duke Dumont</appearsAs>
-        <url>http://www.7digital.com/artist/duke-dumont/?partner=3923</url>
+        <slug>duke-dumont</slug>
       </artist>
       <trackNumber>5</trackNumber>
       <duration>198</duration>
@@ -245,12 +245,12 @@
         <artist id="209">
           <name>Various Artists</name>
           <appearsAs>Various</appearsAs>
-          <url>http://www.7digital.com/artist/various-artists/?partner=3923</url>
+          <slug>various-artists</slug>
         </artist>
-        <url>http://www.7digital.com/artist/various-artists/release/now-thats-what-i-call-summer/?partner=3923</url>
+        <slug>now-thats-what-i-call-summer</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/035/827/0003582790_50.jpg</image>
       </release>
-      <url>http://www.7digital.com/artist/various-artists/release/now-thats-what-i-call-summer/?partner=3923&amp;h=05</url>
+      <slug>now-thats-what-i-call-summer</slug>
       <price>
         <currency code="GBP">£</currency>
         <value>0.99</value>
@@ -285,7 +285,7 @@
       <artist id="972893">
         <name>Bastille</name>
         <appearsAs>Bastille</appearsAs>
-        <url>http://www.7digital.com/artist/bastille/?partner=3923</url>
+        <slug>bastille</slug>
       </artist>
       <trackNumber>6</trackNumber>
       <duration>214</duration>
@@ -300,12 +300,12 @@
         <artist id="209">
           <name>Various Artists</name>
           <appearsAs>Various</appearsAs>
-          <url>http://www.7digital.com/artist/various-artists/?partner=3923</url>
+          <slug>various-artists</slug>
         </artist>
-        <url>http://www.7digital.com/artist/various-artists/release/now-thats-what-i-call-summer/?partner=3923</url>
+        <slug>now-thats-what-i-call-summer</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/035/827/0003582790_50.jpg</image>
       </release>
-      <url>http://www.7digital.com/artist/various-artists/release/now-thats-what-i-call-summer/?partner=3923&amp;h=06</url>
+      <slug>now-thats-what-i-call-summer</slug>
       <price>
         <currency code="GBP">£</currency>
         <value>0.99</value>
@@ -340,7 +340,7 @@
       <artist id="132789">
         <name>Katy Perry</name>
         <appearsAs>Katy Perry</appearsAs>
-        <url>http://www.7digital.com/artist/katy-perry/?partner=3923</url>
+        <slug>katy-perry</slug>
       </artist>
       <trackNumber>7</trackNumber>
       <duration>232</duration>
@@ -355,12 +355,12 @@
         <artist id="209">
           <name>Various Artists</name>
           <appearsAs>Various</appearsAs>
-          <url>http://www.7digital.com/artist/various-artists/?partner=3923</url>
+          <slug>various-artists</slug>
         </artist>
-        <url>http://www.7digital.com/artist/various-artists/release/now-thats-what-i-call-summer/?partner=3923</url>
+        <slug>now-thats-what-i-call-summer</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/035/827/0003582790_50.jpg</image>
       </release>
-      <url>http://www.7digital.com/artist/various-artists/release/now-thats-what-i-call-summer/?partner=3923&amp;h=07</url>
+      <slug>now-thats-what-i-call-summer</slug>
       <price>
         <currency code="GBP">£</currency>
         <value>0.99</value>
@@ -395,7 +395,7 @@
       <artist id="263">
         <name>Black Eyed Peas</name>
         <appearsAs>Black Eyed Peas</appearsAs>
-        <url>http://www.7digital.com/artist/black-eyed-peas/?partner=3923</url>
+        <slug>black-eyed-peas</slug>
       </artist>
       <trackNumber>8</trackNumber>
       <duration>244</duration>
@@ -410,12 +410,12 @@
         <artist id="209">
           <name>Various Artists</name>
           <appearsAs>Various</appearsAs>
-          <url>http://www.7digital.com/artist/various-artists/?partner=3923</url>
+          <slug>various-artists</slug>
         </artist>
-        <url>http://www.7digital.com/artist/various-artists/release/now-thats-what-i-call-summer/?partner=3923</url>
+        <slug>now-thats-what-i-call-summer</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/035/827/0003582790_50.jpg</image>
       </release>
-      <url>http://www.7digital.com/artist/various-artists/release/now-thats-what-i-call-summer/?partner=3923&amp;h=08</url>
+      <slug>now-thats-what-i-call-summer</slug>
       <price>
         <currency code="GBP">£</currency>
         <value>0.99</value>
@@ -450,7 +450,7 @@
       <artist id="11439">
         <name>Pitbull</name>
         <appearsAs>Pitbull</appearsAs>
-        <url>http://www.7digital.com/artist/pitbull/?partner=3923</url>
+        <slug>pitbull</slug>
       </artist>
       <trackNumber>9</trackNumber>
       <duration>204</duration>
@@ -465,12 +465,12 @@
         <artist id="209">
           <name>Various Artists</name>
           <appearsAs>Various</appearsAs>
-          <url>http://www.7digital.com/artist/various-artists/?partner=3923</url>
+          <slug>various-artists</slug>
         </artist>
-        <url>http://www.7digital.com/artist/various-artists/release/now-thats-what-i-call-summer/?partner=3923</url>
+        <slug>now-thats-what-i-call-summer</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/035/827/0003582790_50.jpg</image>
       </release>
-      <url>http://www.7digital.com/artist/various-artists/release/now-thats-what-i-call-summer/?partner=3923&amp;h=09</url>
+      <slug>now-thats-what-i-call-summer</slug>
       <price>
         <currency code="GBP">£</currency>
         <value>0.99</value>
@@ -505,7 +505,7 @@
       <artist id="91692">
         <name>Flo Rida</name>
         <appearsAs>Flo Rida</appearsAs>
-        <url>http://www.7digital.com/artist/flo-rida/?partner=3923</url>
+        <slug>flo-rida</slug>
       </artist>
       <trackNumber>10</trackNumber>
       <duration>247</duration>
@@ -520,12 +520,12 @@
         <artist id="209">
           <name>Various Artists</name>
           <appearsAs>Various</appearsAs>
-          <url>http://www.7digital.com/artist/various-artists/?partner=3923</url>
+          <slug>various-artists</slug>
         </artist>
-        <url>http://www.7digital.com/artist/various-artists/release/now-thats-what-i-call-summer/?partner=3923</url>
+        <slug>now-thats-what-i-call-summer</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/035/827/0003582790_50.jpg</image>
       </release>
-      <url>http://www.7digital.com/artist/various-artists/release/now-thats-what-i-call-summer/?partner=3923&amp;h=10</url>
+      <slug>now-thats-what-i-call-summer</slug>
       <price>
         <currency code="GBP">£</currency>
         <value>0.99</value>
@@ -560,7 +560,7 @@
       <artist id="312836">
         <name>LMFAO</name>
         <appearsAs>LMFAO</appearsAs>
-        <url>http://www.7digital.com/artist/lmfao/?partner=3923</url>
+        <slug>lmfao</slug>
       </artist>
       <trackNumber>11</trackNumber>
       <duration>233</duration>
@@ -575,12 +575,12 @@
         <artist id="209">
           <name>Various Artists</name>
           <appearsAs>Various</appearsAs>
-          <url>http://www.7digital.com/artist/various-artists/?partner=3923</url>
+          <slug>various-artists</slug>
         </artist>
-        <url>http://www.7digital.com/artist/various-artists/release/now-thats-what-i-call-summer/?partner=3923</url>
+        <slug>now-thats-what-i-call-summer</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/035/827/0003582790_50.jpg</image>
       </release>
-      <url>http://www.7digital.com/artist/various-artists/release/now-thats-what-i-call-summer/?partner=3923&amp;h=11</url>
+      <slug>now-thats-what-i-call-summer</slug>
       <price>
         <currency code="GBP">£</currency>
         <value>0.99</value>
@@ -615,7 +615,7 @@
       <artist id="15219">
         <name>David Guetta</name>
         <appearsAs>David Guetta</appearsAs>
-        <url>http://www.7digital.com/artist/david-guetta/?partner=3923</url>
+        <slug>david-guetta</slug>
       </artist>
       <trackNumber>12</trackNumber>
       <duration>193</duration>
@@ -630,12 +630,12 @@
         <artist id="209">
           <name>Various Artists</name>
           <appearsAs>Various</appearsAs>
-          <url>http://www.7digital.com/artist/various-artists/?partner=3923</url>
+          <slug>various-artists</slug>
         </artist>
-        <url>http://www.7digital.com/artist/various-artists/release/now-thats-what-i-call-summer/?partner=3923</url>
+        <slug>now-thats-what-i-call-summer</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/035/827/0003582790_50.jpg</image>
       </release>
-      <url>http://www.7digital.com/artist/various-artists/release/now-thats-what-i-call-summer/?partner=3923&amp;h=12</url>
+      <slug>now-thats-what-i-call-summer</slug>
       <price>
         <currency code="GBP">£</currency>
         <value>0.99</value>
@@ -670,7 +670,7 @@
       <artist id="21239">
         <name>Shakira</name>
         <appearsAs>Shakira</appearsAs>
-        <url>http://www.7digital.com/artist/shakira/?partner=3923</url>
+        <slug>shakira</slug>
       </artist>
       <trackNumber>13</trackNumber>
       <duration>221</duration>
@@ -685,12 +685,12 @@
         <artist id="209">
           <name>Various Artists</name>
           <appearsAs>Various</appearsAs>
-          <url>http://www.7digital.com/artist/various-artists/?partner=3923</url>
+          <slug>various-artists</slug>
         </artist>
-        <url>http://www.7digital.com/artist/various-artists/release/now-thats-what-i-call-summer/?partner=3923</url>
+        <slug>now-thats-what-i-call-summer</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/035/827/0003582790_50.jpg</image>
       </release>
-      <url>http://www.7digital.com/artist/various-artists/release/now-thats-what-i-call-summer/?partner=3923&amp;h=13</url>
+      <slug>now-thats-what-i-call-summer</slug>
       <price>
         <currency code="GBP">£</currency>
         <value>0.99</value>
@@ -725,7 +725,7 @@
       <artist id="21255">
         <name>Jennifer Lopez</name>
         <appearsAs>Jennifer Lopez</appearsAs>
-        <url>http://www.7digital.com/artist/jennifer-lopez/?partner=3923</url>
+        <slug>jennifer-lopez</slug>
       </artist>
       <trackNumber>14</trackNumber>
       <duration>218</duration>
@@ -740,12 +740,12 @@
         <artist id="209">
           <name>Various Artists</name>
           <appearsAs>Various</appearsAs>
-          <url>http://www.7digital.com/artist/various-artists/?partner=3923</url>
+          <slug>various-artists</slug>
         </artist>
-        <url>http://www.7digital.com/artist/various-artists/release/now-thats-what-i-call-summer/?partner=3923</url>
+        <slug>now-thats-what-i-call-summer</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/035/827/0003582790_50.jpg</image>
       </release>
-      <url>http://www.7digital.com/artist/various-artists/release/now-thats-what-i-call-summer/?partner=3923&amp;h=14</url>
+      <slug>now-thats-what-i-call-summer</slug>
       <price>
         <currency code="GBP">£</currency>
         <value>0.99</value>
@@ -780,7 +780,7 @@
       <artist id="1336214">
         <name>Fuse ODG</name>
         <appearsAs>Fuse ODG</appearsAs>
-        <url>http://www.7digital.com/artist/fuse-odg/?partner=3923</url>
+        <slug>fuse-odg</slug>
       </artist>
       <trackNumber>15</trackNumber>
       <duration>182</duration>
@@ -795,12 +795,12 @@
         <artist id="209">
           <name>Various Artists</name>
           <appearsAs>Various</appearsAs>
-          <url>http://www.7digital.com/artist/various-artists/?partner=3923</url>
+          <slug>various-artists</slug>
         </artist>
-        <url>http://www.7digital.com/artist/various-artists/release/now-thats-what-i-call-summer/?partner=3923</url>
+        <slug>now-thats-what-i-call-summer</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/035/827/0003582790_50.jpg</image>
       </release>
-      <url>http://www.7digital.com/artist/various-artists/release/now-thats-what-i-call-summer/?partner=3923&amp;h=15</url>
+      <slug>now-thats-what-i-call-summer</slug>
       <price>
         <currency code="GBP">£</currency>
         <value>0.99</value>
@@ -835,7 +835,7 @@
       <artist id="2060573">
         <name>Faul &amp; Wad Ad</name>
         <appearsAs>Faul &amp; Wad Ad</appearsAs>
-        <url>http://www.7digital.com/artist/faul-and-wad-ad/?partner=3923</url>
+        <slug>faul-and-wad-ad</slug>
       </artist>
       <trackNumber>16</trackNumber>
       <duration>200</duration>
@@ -850,12 +850,12 @@
         <artist id="209">
           <name>Various Artists</name>
           <appearsAs>Various</appearsAs>
-          <url>http://www.7digital.com/artist/various-artists/?partner=3923</url>
+          <slug>various-artists</slug>
         </artist>
-        <url>http://www.7digital.com/artist/various-artists/release/now-thats-what-i-call-summer/?partner=3923</url>
+        <slug>now-thats-what-i-call-summer</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/035/827/0003582790_50.jpg</image>
       </release>
-      <url>http://www.7digital.com/artist/various-artists/release/now-thats-what-i-call-summer/?partner=3923&amp;h=16</url>
+      <slug>now-thats-what-i-call-summer</slug>
       <price>
         <currency code="GBP">£</currency>
         <value>0.99</value>
@@ -890,7 +890,7 @@
       <artist id="1358638">
         <name>Klangkarussell</name>
         <appearsAs>Klangkarussell</appearsAs>
-        <url>http://www.7digital.com/artist/klangkarussell/?partner=3923</url>
+        <slug>klangkarussell</slug>
       </artist>
       <trackNumber>17</trackNumber>
       <duration>221</duration>
@@ -905,12 +905,12 @@
         <artist id="209">
           <name>Various Artists</name>
           <appearsAs>Various</appearsAs>
-          <url>http://www.7digital.com/artist/various-artists/?partner=3923</url>
+          <slug>various-artists</slug>
         </artist>
-        <url>http://www.7digital.com/artist/various-artists/release/now-thats-what-i-call-summer/?partner=3923</url>
+        <slug>now-thats-what-i-call-summer</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/035/827/0003582790_50.jpg</image>
       </release>
-      <url>http://www.7digital.com/artist/various-artists/release/now-thats-what-i-call-summer/?partner=3923&amp;h=17</url>
+      <slug>now-thats-what-i-call-summer</slug>
       <price>
         <currency code="GBP">£</currency>
         <value>0.99</value>
@@ -945,7 +945,7 @@
       <artist id="1904661">
         <name>Route 94</name>
         <appearsAs>Route 94</appearsAs>
-        <url>http://www.7digital.com/artist/route-94/?partner=3923</url>
+        <slug>route-94</slug>
       </artist>
       <trackNumber>18</trackNumber>
       <duration>261</duration>
@@ -960,12 +960,12 @@
         <artist id="209">
           <name>Various Artists</name>
           <appearsAs>Various</appearsAs>
-          <url>http://www.7digital.com/artist/various-artists/?partner=3923</url>
+          <slug>various-artists</slug>
         </artist>
-        <url>http://www.7digital.com/artist/various-artists/release/now-thats-what-i-call-summer/?partner=3923</url>
+        <slug>now-thats-what-i-call-summer</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/035/827/0003582790_50.jpg</image>
       </release>
-      <url>http://www.7digital.com/artist/various-artists/release/now-thats-what-i-call-summer/?partner=3923&amp;h=18</url>
+      <slug>now-thats-what-i-call-summer</slug>
       <price>
         <currency code="GBP">£</currency>
         <value>0.99</value>
@@ -1000,7 +1000,7 @@
       <artist id="342562">
         <name>Drake</name>
         <appearsAs>Drake</appearsAs>
-        <url>http://www.7digital.com/artist/drake/?partner=3923</url>
+        <slug>drake</slug>
       </artist>
       <trackNumber>19</trackNumber>
       <duration>231</duration>
@@ -1015,12 +1015,12 @@
         <artist id="209">
           <name>Various Artists</name>
           <appearsAs>Various</appearsAs>
-          <url>http://www.7digital.com/artist/various-artists/?partner=3923</url>
+          <slug>various-artists</slug>
         </artist>
-        <url>http://www.7digital.com/artist/various-artists/release/now-thats-what-i-call-summer/?partner=3923</url>
+        <slug>now-thats-what-i-call-summer</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/035/827/0003582790_50.jpg</image>
       </release>
-      <url>http://www.7digital.com/artist/various-artists/release/now-thats-what-i-call-summer/?partner=3923&amp;h=19</url>
+      <slug>now-thats-what-i-call-summer</slug>
       <price>
         <currency code="GBP">£</currency>
         <value>0.99</value>
@@ -1055,7 +1055,7 @@
       <artist id="51871">
         <name>Naughty Boy</name>
         <appearsAs>Naughty Boy</appearsAs>
-        <url>http://www.7digital.com/artist/naughty-boy/?partner=3923</url>
+        <slug>naughty-boy</slug>
       </artist>
       <trackNumber>20</trackNumber>
       <duration>220</duration>
@@ -1070,12 +1070,12 @@
         <artist id="209">
           <name>Various Artists</name>
           <appearsAs>Various</appearsAs>
-          <url>http://www.7digital.com/artist/various-artists/?partner=3923</url>
+          <slug>various-artists</slug>
         </artist>
-        <url>http://www.7digital.com/artist/various-artists/release/now-thats-what-i-call-summer/?partner=3923</url>
+        <slug>now-thats-what-i-call-summer</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/035/827/0003582790_50.jpg</image>
       </release>
-      <url>http://www.7digital.com/artist/various-artists/release/now-thats-what-i-call-summer/?partner=3923&amp;h=20</url>
+      <slug>now-thats-what-i-call-summer</slug>
       <price>
         <currency code="GBP">£</currency>
         <value>0.99</value>
@@ -1110,7 +1110,7 @@
       <artist id="1113663">
         <name>Kiesza</name>
         <appearsAs>Kiesza</appearsAs>
-        <url>http://www.7digital.com/artist/kiesza/?partner=3923</url>
+        <slug>kiesza</slug>
       </artist>
       <trackNumber>21</trackNumber>
       <duration>251</duration>
@@ -1125,12 +1125,12 @@
         <artist id="209">
           <name>Various Artists</name>
           <appearsAs>Various</appearsAs>
-          <url>http://www.7digital.com/artist/various-artists/?partner=3923</url>
+          <slug>various-artists</slug>
         </artist>
-        <url>http://www.7digital.com/artist/various-artists/release/now-thats-what-i-call-summer/?partner=3923</url>
+        <slug>now-thats-what-i-call-summer</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/035/827/0003582790_50.jpg</image>
       </release>
-      <url>http://www.7digital.com/artist/various-artists/release/now-thats-what-i-call-summer/?partner=3923&amp;h=21</url>
+      <slug>now-thats-what-i-call-summer</slug>
       <price>
         <currency code="GBP">£</currency>
         <value xsi:nil="true"/>
@@ -1165,7 +1165,7 @@
       <artist id="1389406">
         <name>Pharrell Williams</name>
         <appearsAs>Pharrell Williams</appearsAs>
-        <url>http://www.7digital.com/artist/pharrell-williams/?partner=3923</url>
+        <slug>pharrell-williams</slug>
       </artist>
       <trackNumber>22</trackNumber>
       <duration>233</duration>
@@ -1180,12 +1180,12 @@
         <artist id="209">
           <name>Various Artists</name>
           <appearsAs>Various</appearsAs>
-          <url>http://www.7digital.com/artist/various-artists/?partner=3923</url>
+          <slug>various-artists</slug>
         </artist>
-        <url>http://www.7digital.com/artist/various-artists/release/now-thats-what-i-call-summer/?partner=3923</url>
+        <slug>now-thats-what-i-call-summer</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/035/827/0003582790_50.jpg</image>
       </release>
-      <url>http://www.7digital.com/artist/various-artists/release/now-thats-what-i-call-summer/?partner=3923&amp;h=22</url>
+      <slug>now-thats-what-i-call-summer</slug>
       <price>
         <currency code="GBP">£</currency>
         <value>0.99</value>
@@ -1220,7 +1220,7 @@
       <artist id="21230">
         <name>Dj Sammy</name>
         <appearsAs>Dj Sammy</appearsAs>
-        <url>http://www.7digital.com/artist/dj-sammy/?partner=3923</url>
+        <slug>dj-sammy</slug>
       </artist>
       <trackNumber>23</trackNumber>
       <duration>235</duration>
@@ -1235,12 +1235,12 @@
         <artist id="209">
           <name>Various Artists</name>
           <appearsAs>Various</appearsAs>
-          <url>http://www.7digital.com/artist/various-artists/?partner=3923</url>
+          <slug>various-artists</slug>
         </artist>
-        <url>http://www.7digital.com/artist/various-artists/release/now-thats-what-i-call-summer/?partner=3923</url>
+        <slug>now-thats-what-i-call-summer</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/035/827/0003582790_50.jpg</image>
       </release>
-      <url>http://www.7digital.com/artist/various-artists/release/now-thats-what-i-call-summer/?partner=3923&amp;h=23</url>
+      <slug>now-thats-what-i-call-summer</slug>
       <price>
         <currency code="GBP">£</currency>
         <value xsi:nil="true"/>
@@ -1275,7 +1275,7 @@
       <artist id="42394">
         <name>SNAP!</name>
         <appearsAs>SNAP!</appearsAs>
-        <url>http://www.7digital.com/artist/snap-(2)/?partner=3923</url>
+        <slug>snap-(2)</slug>
       </artist>
       <trackNumber>24</trackNumber>
       <duration>224</duration>
@@ -1290,12 +1290,12 @@
         <artist id="209">
           <name>Various Artists</name>
           <appearsAs>Various</appearsAs>
-          <url>http://www.7digital.com/artist/various-artists/?partner=3923</url>
+          <slug>various-artists</slug>
         </artist>
-        <url>http://www.7digital.com/artist/various-artists/release/now-thats-what-i-call-summer/?partner=3923</url>
+        <slug>now-thats-what-i-call-summer</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/035/827/0003582790_50.jpg</image>
       </release>
-      <url>http://www.7digital.com/artist/various-artists/release/now-thats-what-i-call-summer/?partner=3923&amp;h=24</url>
+      <slug>now-thats-what-i-call-summer</slug>
       <price>
         <currency code="GBP">£</currency>
         <value xsi:nil="true"/>
@@ -1330,7 +1330,7 @@
       <artist id="369884">
         <name>Carly Rae Jepsen</name>
         <appearsAs>Carly Rae Jepsen</appearsAs>
-        <url>http://www.7digital.com/artist/carly-rae-jepsen/?partner=3923</url>
+        <slug>carly-rae-jepsen</slug>
       </artist>
       <trackNumber>25</trackNumber>
       <duration>193</duration>
@@ -1345,12 +1345,12 @@
         <artist id="209">
           <name>Various Artists</name>
           <appearsAs>Various</appearsAs>
-          <url>http://www.7digital.com/artist/various-artists/?partner=3923</url>
+          <slug>various-artists</slug>
         </artist>
-        <url>http://www.7digital.com/artist/various-artists/release/now-thats-what-i-call-summer/?partner=3923</url>
+        <slug>now-thats-what-i-call-summer</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/035/827/0003582790_50.jpg</image>
       </release>
-      <url>http://www.7digital.com/artist/various-artists/release/now-thats-what-i-call-summer/?partner=3923&amp;h=25</url>
+      <slug>now-thats-what-i-call-summer</slug>
       <price>
         <currency code="GBP">£</currency>
         <value>0.99</value>
@@ -1385,7 +1385,7 @@
       <artist id="312836">
         <name>LMFAO</name>
         <appearsAs>LMFAO</appearsAs>
-        <url>http://www.7digital.com/artist/lmfao/?partner=3923</url>
+        <slug>lmfao</slug>
       </artist>
       <trackNumber>26</trackNumber>
       <duration>199</duration>
@@ -1400,12 +1400,12 @@
         <artist id="209">
           <name>Various Artists</name>
           <appearsAs>Various</appearsAs>
-          <url>http://www.7digital.com/artist/various-artists/?partner=3923</url>
+          <slug>various-artists</slug>
         </artist>
-        <url>http://www.7digital.com/artist/various-artists/release/now-thats-what-i-call-summer/?partner=3923</url>
+        <slug>now-thats-what-i-call-summer</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/035/827/0003582790_50.jpg</image>
       </release>
-      <url>http://www.7digital.com/artist/various-artists/release/now-thats-what-i-call-summer/?partner=3923&amp;h=26</url>
+      <slug>now-thats-what-i-call-summer</slug>
       <price>
         <currency code="GBP">£</currency>
         <value>0.99</value>
@@ -1440,7 +1440,7 @@
       <artist id="222">
         <name>Maroon 5</name>
         <appearsAs>Maroon 5</appearsAs>
-        <url>http://www.7digital.com/artist/maroon-5/?partner=3923</url>
+        <slug>maroon-5</slug>
       </artist>
       <trackNumber>27</trackNumber>
       <duration>231</duration>
@@ -1455,12 +1455,12 @@
         <artist id="209">
           <name>Various Artists</name>
           <appearsAs>Various</appearsAs>
-          <url>http://www.7digital.com/artist/various-artists/?partner=3923</url>
+          <slug>various-artists</slug>
         </artist>
-        <url>http://www.7digital.com/artist/various-artists/release/now-thats-what-i-call-summer/?partner=3923</url>
+        <slug>now-thats-what-i-call-summer</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/035/827/0003582790_50.jpg</image>
       </release>
-      <url>http://www.7digital.com/artist/various-artists/release/now-thats-what-i-call-summer/?partner=3923&amp;h=27</url>
+      <slug>now-thats-what-i-call-summer</slug>
       <price>
         <currency code="GBP">£</currency>
         <value>0.99</value>
@@ -1495,7 +1495,7 @@
       <artist id="10653">
         <name>Rihanna</name>
         <appearsAs>Rihanna</appearsAs>
-        <url>http://www.7digital.com/artist/rihanna/?partner=3923</url>
+        <slug>rihanna</slug>
       </artist>
       <trackNumber>28</trackNumber>
       <duration>225</duration>
@@ -1510,12 +1510,12 @@
         <artist id="209">
           <name>Various Artists</name>
           <appearsAs>Various</appearsAs>
-          <url>http://www.7digital.com/artist/various-artists/?partner=3923</url>
+          <slug>various-artists</slug>
         </artist>
-        <url>http://www.7digital.com/artist/various-artists/release/now-thats-what-i-call-summer/?partner=3923</url>
+        <slug>now-thats-what-i-call-summer</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/035/827/0003582790_50.jpg</image>
       </release>
-      <url>http://www.7digital.com/artist/various-artists/release/now-thats-what-i-call-summer/?partner=3923&amp;h=28</url>
+      <slug>now-thats-what-i-call-summer</slug>
       <price>
         <currency code="GBP">£</currency>
         <value>0.99</value>
@@ -1550,7 +1550,7 @@
       <artist id="55024">
         <name>Tinchy Stryder</name>
         <appearsAs>Tinchy Stryder</appearsAs>
-        <url>http://www.7digital.com/artist/tinchy-stryder/?partner=3923</url>
+        <slug>tinchy-stryder</slug>
       </artist>
       <trackNumber>29</trackNumber>
       <duration>213</duration>
@@ -1565,12 +1565,12 @@
         <artist id="209">
           <name>Various Artists</name>
           <appearsAs>Various</appearsAs>
-          <url>http://www.7digital.com/artist/various-artists/?partner=3923</url>
+          <slug>various-artists</slug>
         </artist>
-        <url>http://www.7digital.com/artist/various-artists/release/now-thats-what-i-call-summer/?partner=3923</url>
+        <slug>now-thats-what-i-call-summer</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/035/827/0003582790_50.jpg</image>
       </release>
-      <url>http://www.7digital.com/artist/various-artists/release/now-thats-what-i-call-summer/?partner=3923&amp;h=29</url>
+      <slug>now-thats-what-i-call-summer</slug>
       <price>
         <currency code="GBP">£</currency>
         <value>0.99</value>
@@ -1605,7 +1605,7 @@
       <artist id="298144">
         <name>Owl City</name>
         <appearsAs>Owl City</appearsAs>
-        <url>http://www.7digital.com/artist/owl-city/?partner=3923</url>
+        <slug>owl-city</slug>
       </artist>
       <trackNumber>30</trackNumber>
       <duration>194</duration>
@@ -1620,12 +1620,12 @@
         <artist id="209">
           <name>Various Artists</name>
           <appearsAs>Various</appearsAs>
-          <url>http://www.7digital.com/artist/various-artists/?partner=3923</url>
+          <slug>various-artists</slug>
         </artist>
-        <url>http://www.7digital.com/artist/various-artists/release/now-thats-what-i-call-summer/?partner=3923</url>
+        <slug>now-thats-what-i-call-summer</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/035/827/0003582790_50.jpg</image>
       </release>
-      <url>http://www.7digital.com/artist/various-artists/release/now-thats-what-i-call-summer/?partner=3923&amp;h=30</url>
+      <slug>now-thats-what-i-call-summer</slug>
       <price>
         <currency code="GBP">£</currency>
         <value>0.99</value>
@@ -1660,7 +1660,7 @@
       <artist id="54041">
         <name>Robin Thicke</name>
         <appearsAs>Robin Thicke</appearsAs>
-        <url>http://www.7digital.com/artist/robin-thicke/?partner=3923</url>
+        <slug>robin-thicke</slug>
       </artist>
       <trackNumber>31</trackNumber>
       <duration>231</duration>
@@ -1675,12 +1675,12 @@
         <artist id="209">
           <name>Various Artists</name>
           <appearsAs>Various</appearsAs>
-          <url>http://www.7digital.com/artist/various-artists/?partner=3923</url>
+          <slug>various-artists</slug>
         </artist>
-        <url>http://www.7digital.com/artist/various-artists/release/now-thats-what-i-call-summer/?partner=3923</url>
+        <slug>now-thats-what-i-call-summer</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/035/827/0003582790_50.jpg</image>
       </release>
-      <url>http://www.7digital.com/artist/various-artists/release/now-thats-what-i-call-summer/?partner=3923&amp;h=31</url>
+      <slug>now-thats-what-i-call-summer</slug>
       <price>
         <currency code="GBP">£</currency>
         <value>0.99</value>
@@ -1715,7 +1715,7 @@
       <artist id="10206">
         <name>Shaggy</name>
         <appearsAs>Shaggy</appearsAs>
-        <url>http://www.7digital.com/artist/shaggy/?partner=3923</url>
+        <slug>shaggy</slug>
       </artist>
       <trackNumber>32</trackNumber>
       <duration>228</duration>
@@ -1730,12 +1730,12 @@
         <artist id="209">
           <name>Various Artists</name>
           <appearsAs>Various</appearsAs>
-          <url>http://www.7digital.com/artist/various-artists/?partner=3923</url>
+          <slug>various-artists</slug>
         </artist>
-        <url>http://www.7digital.com/artist/various-artists/release/now-thats-what-i-call-summer/?partner=3923</url>
+        <slug>now-thats-what-i-call-summer</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/035/827/0003582790_50.jpg</image>
       </release>
-      <url>http://www.7digital.com/artist/various-artists/release/now-thats-what-i-call-summer/?partner=3923&amp;h=32</url>
+      <slug>now-thats-what-i-call-summer</slug>
       <price>
         <currency code="GBP">£</currency>
         <value>0.99</value>
@@ -1770,7 +1770,7 @@
       <artist id="996395">
         <name>Rizzle Kicks</name>
         <appearsAs>Rizzle Kicks</appearsAs>
-        <url>http://www.7digital.com/artist/rizzle-kicks/?partner=3923</url>
+        <slug>rizzle-kicks</slug>
       </artist>
       <trackNumber>33</trackNumber>
       <duration>216</duration>
@@ -1785,12 +1785,12 @@
         <artist id="209">
           <name>Various Artists</name>
           <appearsAs>Various</appearsAs>
-          <url>http://www.7digital.com/artist/various-artists/?partner=3923</url>
+          <slug>various-artists</slug>
         </artist>
-        <url>http://www.7digital.com/artist/various-artists/release/now-thats-what-i-call-summer/?partner=3923</url>
+        <slug>now-thats-what-i-call-summer</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/035/827/0003582790_50.jpg</image>
       </release>
-      <url>http://www.7digital.com/artist/various-artists/release/now-thats-what-i-call-summer/?partner=3923&amp;h=33</url>
+      <slug>now-thats-what-i-call-summer</slug>
       <price>
         <currency code="GBP">£</currency>
         <value>0.99</value>
@@ -1825,7 +1825,7 @@
       <artist id="1437">
         <name>Sophie Ellis-Bextor</name>
         <appearsAs>Sophie Ellis-Bextor</appearsAs>
-        <url>http://www.7digital.com/artist/sophie-ellis-bextor/?partner=3923</url>
+        <slug>sophie-ellis-bextor</slug>
       </artist>
       <trackNumber>34</trackNumber>
       <duration>217</duration>
@@ -1840,12 +1840,12 @@
         <artist id="209">
           <name>Various Artists</name>
           <appearsAs>Various</appearsAs>
-          <url>http://www.7digital.com/artist/various-artists/?partner=3923</url>
+          <slug>various-artists</slug>
         </artist>
-        <url>http://www.7digital.com/artist/various-artists/release/now-thats-what-i-call-summer/?partner=3923</url>
+        <slug>now-thats-what-i-call-summer</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/035/827/0003582790_50.jpg</image>
       </release>
-      <url>http://www.7digital.com/artist/various-artists/release/now-thats-what-i-call-summer/?partner=3923&amp;h=34</url>
+      <slug>now-thats-what-i-call-summer</slug>
       <price>
         <currency code="GBP">£</currency>
         <value>0.99</value>
@@ -1880,7 +1880,7 @@
       <artist id="10545">
         <name>Room 5</name>
         <appearsAs>Room 5</appearsAs>
-        <url>http://www.7digital.com/artist/room-5/?partner=3923</url>
+        <slug>room-5</slug>
       </artist>
       <trackNumber>35</trackNumber>
       <duration>210</duration>
@@ -1895,12 +1895,12 @@
         <artist id="209">
           <name>Various Artists</name>
           <appearsAs>Various</appearsAs>
-          <url>http://www.7digital.com/artist/various-artists/?partner=3923</url>
+          <slug>various-artists</slug>
         </artist>
-        <url>http://www.7digital.com/artist/various-artists/release/now-thats-what-i-call-summer/?partner=3923</url>
+        <slug>now-thats-what-i-call-summer</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/035/827/0003582790_50.jpg</image>
       </release>
-      <url>http://www.7digital.com/artist/various-artists/release/now-thats-what-i-call-summer/?partner=3923&amp;h=35</url>
+      <slug>now-thats-what-i-call-summer</slug>
       <price>
         <currency code="GBP">£</currency>
         <value>0.99</value>
@@ -1935,7 +1935,7 @@
       <artist id="20594">
         <name>The Shapeshifters</name>
         <appearsAs>The Shapeshifters</appearsAs>
-        <url>http://www.7digital.com/artist/the-shapeshifters/?partner=3923</url>
+        <slug>the-shapeshifters</slug>
       </artist>
       <trackNumber>36</trackNumber>
       <duration>205</duration>
@@ -1950,12 +1950,12 @@
         <artist id="209">
           <name>Various Artists</name>
           <appearsAs>Various</appearsAs>
-          <url>http://www.7digital.com/artist/various-artists/?partner=3923</url>
+          <slug>various-artists</slug>
         </artist>
-        <url>http://www.7digital.com/artist/various-artists/release/now-thats-what-i-call-summer/?partner=3923</url>
+        <slug>now-thats-what-i-call-summer</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/035/827/0003582790_50.jpg</image>
       </release>
-      <url>http://www.7digital.com/artist/various-artists/release/now-thats-what-i-call-summer/?partner=3923&amp;h=36</url>
+      <slug>now-thats-what-i-call-summer</slug>
       <price>
         <currency code="GBP">£</currency>
         <value>0.99</value>
@@ -1990,7 +1990,7 @@
       <artist id="2165911">
         <name>DJ Cassidy</name>
         <appearsAs>DJ Cassidy</appearsAs>
-        <url>http://www.7digital.com/artist/dj-cassidy/?partner=3923</url>
+        <slug>dj-cassidy</slug>
       </artist>
       <trackNumber>37</trackNumber>
       <duration>288</duration>
@@ -2005,12 +2005,12 @@
         <artist id="209">
           <name>Various Artists</name>
           <appearsAs>Various</appearsAs>
-          <url>http://www.7digital.com/artist/various-artists/?partner=3923</url>
+          <slug>various-artists</slug>
         </artist>
-        <url>http://www.7digital.com/artist/various-artists/release/now-thats-what-i-call-summer/?partner=3923</url>
+        <slug>now-thats-what-i-call-summer</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/035/827/0003582790_50.jpg</image>
       </release>
-      <url>http://www.7digital.com/artist/various-artists/release/now-thats-what-i-call-summer/?partner=3923&amp;h=37</url>
+      <slug>now-thats-what-i-call-summer</slug>
       <price>
         <currency code="GBP">£</currency>
         <value>0.99</value>
@@ -2045,7 +2045,7 @@
       <artist id="6798">
         <name>Ultrabeat</name>
         <appearsAs>Ultrabeat</appearsAs>
-        <url>http://www.7digital.com/artist/ultrabeat/?partner=3923</url>
+        <slug>ultrabeat</slug>
       </artist>
       <trackNumber>38</trackNumber>
       <duration>200</duration>
@@ -2060,12 +2060,12 @@
         <artist id="209">
           <name>Various Artists</name>
           <appearsAs>Various</appearsAs>
-          <url>http://www.7digital.com/artist/various-artists/?partner=3923</url>
+          <slug>various-artists</slug>
         </artist>
-        <url>http://www.7digital.com/artist/various-artists/release/now-thats-what-i-call-summer/?partner=3923</url>
+        <slug>now-thats-what-i-call-summer</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/035/827/0003582790_50.jpg</image>
       </release>
-      <url>http://www.7digital.com/artist/various-artists/release/now-thats-what-i-call-summer/?partner=3923&amp;h=38</url>
+      <slug>now-thats-what-i-call-summer</slug>
       <price>
         <currency code="GBP">£</currency>
         <value>0.99</value>
@@ -2100,7 +2100,7 @@
       <artist id="1441691">
         <name>5 Seconds Of Summer</name>
         <appearsAs>5 Seconds Of Summer</appearsAs>
-        <url>http://www.7digital.com/artist/5-seconds-of-summer/?partner=3923</url>
+        <slug>5-seconds-of-summer</slug>
       </artist>
       <trackNumber>39</trackNumber>
       <duration>202</duration>
@@ -2115,12 +2115,12 @@
         <artist id="209">
           <name>Various Artists</name>
           <appearsAs>Various</appearsAs>
-          <url>http://www.7digital.com/artist/various-artists/?partner=3923</url>
+          <slug>various-artists</slug>
         </artist>
-        <url>http://www.7digital.com/artist/various-artists/release/now-thats-what-i-call-summer/?partner=3923</url>
+        <slug>now-thats-what-i-call-summer</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/035/827/0003582790_50.jpg</image>
       </release>
-      <url>http://www.7digital.com/artist/various-artists/release/now-thats-what-i-call-summer/?partner=3923&amp;h=39</url>
+      <slug>now-thats-what-i-call-summer</slug>
       <price>
         <currency code="GBP">£</currency>
         <value>0.99</value>
@@ -2155,7 +2155,7 @@
       <artist id="1076111">
         <name>One Direction</name>
         <appearsAs>One Direction</appearsAs>
-        <url>http://www.7digital.com/artist/one-direction-1/?partner=3923</url>
+        <slug>one-direction-1</slug>
       </artist>
       <trackNumber>40</trackNumber>
       <duration>200</duration>
@@ -2170,12 +2170,12 @@
         <artist id="209">
           <name>Various Artists</name>
           <appearsAs>Various</appearsAs>
-          <url>http://www.7digital.com/artist/various-artists/?partner=3923</url>
+          <slug>various-artists</slug>
         </artist>
-        <url>http://www.7digital.com/artist/various-artists/release/now-thats-what-i-call-summer/?partner=3923</url>
+        <slug>now-thats-what-i-call-summer</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/035/827/0003582790_50.jpg</image>
       </release>
-      <url>http://www.7digital.com/artist/various-artists/release/now-thats-what-i-call-summer/?partner=3923&amp;h=40</url>
+      <slug>now-thats-what-i-call-summer</slug>
       <price>
         <currency code="GBP">£</currency>
         <value>0.99</value>
@@ -2210,7 +2210,7 @@
       <artist id="785015">
         <name>Olly Murs</name>
         <appearsAs>Olly Murs</appearsAs>
-        <url>http://www.7digital.com/artist/olly-murs/?partner=3923</url>
+        <slug>olly-murs</slug>
       </artist>
       <trackNumber>41</trackNumber>
       <duration>202</duration>
@@ -2225,12 +2225,12 @@
         <artist id="209">
           <name>Various Artists</name>
           <appearsAs>Various</appearsAs>
-          <url>http://www.7digital.com/artist/various-artists/?partner=3923</url>
+          <slug>various-artists</slug>
         </artist>
-        <url>http://www.7digital.com/artist/various-artists/release/now-thats-what-i-call-summer/?partner=3923</url>
+        <slug>now-thats-what-i-call-summer</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/035/827/0003582790_50.jpg</image>
       </release>
-      <url>http://www.7digital.com/artist/various-artists/release/now-thats-what-i-call-summer/?partner=3923&amp;h=41</url>
+      <slug>now-thats-what-i-call-summer</slug>
       <price>
         <currency code="GBP">£</currency>
         <value>0.99</value>
@@ -2265,7 +2265,7 @@
       <artist id="18443">
         <name>Scouting for Girls</name>
         <appearsAs>Scouting for Girls</appearsAs>
-        <url>http://www.7digital.com/artist/scouting-for-girls/?partner=3923</url>
+        <slug>scouting-for-girls</slug>
       </artist>
       <trackNumber>42</trackNumber>
       <duration>223</duration>
@@ -2280,12 +2280,12 @@
         <artist id="209">
           <name>Various Artists</name>
           <appearsAs>Various</appearsAs>
-          <url>http://www.7digital.com/artist/various-artists/?partner=3923</url>
+          <slug>various-artists</slug>
         </artist>
-        <url>http://www.7digital.com/artist/various-artists/release/now-thats-what-i-call-summer/?partner=3923</url>
+        <slug>now-thats-what-i-call-summer</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/035/827/0003582790_50.jpg</image>
       </release>
-      <url>http://www.7digital.com/artist/various-artists/release/now-thats-what-i-call-summer/?partner=3923&amp;h=42</url>
+      <slug>now-thats-what-i-call-summer</slug>
       <price>
         <currency code="GBP">£</currency>
         <value>0.99</value>
@@ -2320,7 +2320,7 @@
       <artist id="908">
         <name>Michael Bublé</name>
         <appearsAs>Michael Bublé</appearsAs>
-        <url>http://www.7digital.com/artist/michael-bublé/?partner=3923</url>
+        <slug>michael-bublé</slug>
       </artist>
       <trackNumber>43</trackNumber>
       <duration>201</duration>
@@ -2335,12 +2335,12 @@
         <artist id="209">
           <name>Various Artists</name>
           <appearsAs>Various</appearsAs>
-          <url>http://www.7digital.com/artist/various-artists/?partner=3923</url>
+          <slug>various-artists</slug>
         </artist>
-        <url>http://www.7digital.com/artist/various-artists/release/now-thats-what-i-call-summer/?partner=3923</url>
+        <slug>now-thats-what-i-call-summer</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/035/827/0003582790_50.jpg</image>
       </release>
-      <url>http://www.7digital.com/artist/various-artists/release/now-thats-what-i-call-summer/?partner=3923&amp;h=43</url>
+      <slug>now-thats-what-i-call-summer</slug>
       <price>
         <currency code="GBP">£</currency>
         <value>0.99</value>
@@ -2375,7 +2375,7 @@
       <artist id="19109">
         <name>Katrina &amp; The Waves</name>
         <appearsAs>Katrina &amp; The Waves</appearsAs>
-        <url>http://www.7digital.com/artist/katrina-the-waves/?partner=3923</url>
+        <slug>katrina-the-waves</slug>
       </artist>
       <trackNumber>201</trackNumber>
       <duration>228</duration>
@@ -2390,12 +2390,12 @@
         <artist id="209">
           <name>Various Artists</name>
           <appearsAs>Various</appearsAs>
-          <url>http://www.7digital.com/artist/various-artists/?partner=3923</url>
+          <slug>various-artists</slug>
         </artist>
-        <url>http://www.7digital.com/artist/various-artists/release/now-thats-what-i-call-summer/?partner=3923</url>
+        <slug>now-thats-what-i-call-summer</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/035/827/0003582790_50.jpg</image>
       </release>
-      <url>http://www.7digital.com/artist/various-artists/release/now-thats-what-i-call-summer/?partner=3923&amp;h=01&amp;d=2</url>
+      <slug>now-thats-what-i-call-summer</slug>
       <price>
         <currency code="GBP">£</currency>
         <value>0.99</value>
@@ -2430,7 +2430,7 @@
       <artist id="61445">
         <name>DJ Jazzy Jeff &amp; The Fresh Prince</name>
         <appearsAs>DJ Jazzy Jeff &amp; The Fresh Prince</appearsAs>
-        <url>http://www.7digital.com/artist/dj-jazzy-jeff-the-fresh-prince/?partner=3923</url>
+        <slug>dj-jazzy-jeff-the-fresh-prince</slug>
       </artist>
       <trackNumber>202</trackNumber>
       <duration>271</duration>
@@ -2445,12 +2445,12 @@
         <artist id="209">
           <name>Various Artists</name>
           <appearsAs>Various</appearsAs>
-          <url>http://www.7digital.com/artist/various-artists/?partner=3923</url>
+          <slug>various-artists</slug>
         </artist>
-        <url>http://www.7digital.com/artist/various-artists/release/now-thats-what-i-call-summer/?partner=3923</url>
+        <slug>now-thats-what-i-call-summer</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/035/827/0003582790_50.jpg</image>
       </release>
-      <url>http://www.7digital.com/artist/various-artists/release/now-thats-what-i-call-summer/?partner=3923&amp;h=02&amp;d=2</url>
+      <slug>now-thats-what-i-call-summer</slug>
       <price>
         <currency code="GBP">£</currency>
         <value>0.99</value>
@@ -2485,7 +2485,7 @@
       <artist id="427">
         <name>Jamelia</name>
         <appearsAs>Jamelia</appearsAs>
-        <url>http://www.7digital.com/artist/jamelia/?partner=3923</url>
+        <slug>jamelia</slug>
       </artist>
       <trackNumber>203</trackNumber>
       <duration>213</duration>
@@ -2500,12 +2500,12 @@
         <artist id="209">
           <name>Various Artists</name>
           <appearsAs>Various</appearsAs>
-          <url>http://www.7digital.com/artist/various-artists/?partner=3923</url>
+          <slug>various-artists</slug>
         </artist>
-        <url>http://www.7digital.com/artist/various-artists/release/now-thats-what-i-call-summer/?partner=3923</url>
+        <slug>now-thats-what-i-call-summer</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/035/827/0003582790_50.jpg</image>
       </release>
-      <url>http://www.7digital.com/artist/various-artists/release/now-thats-what-i-call-summer/?partner=3923&amp;h=03&amp;d=2</url>
+      <slug>now-thats-what-i-call-summer</slug>
       <price>
         <currency code="GBP">£</currency>
         <value>0.99</value>
@@ -2540,7 +2540,7 @@
       <artist id="46787">
         <name>The Jacksons</name>
         <appearsAs>The Jacksons</appearsAs>
-        <url>http://www.7digital.com/artist/the-jacksons/?partner=3923</url>
+        <slug>the-jacksons</slug>
       </artist>
       <trackNumber>204</trackNumber>
       <duration>212</duration>
@@ -2555,12 +2555,12 @@
         <artist id="209">
           <name>Various Artists</name>
           <appearsAs>Various</appearsAs>
-          <url>http://www.7digital.com/artist/various-artists/?partner=3923</url>
+          <slug>various-artists</slug>
         </artist>
-        <url>http://www.7digital.com/artist/various-artists/release/now-thats-what-i-call-summer/?partner=3923</url>
+        <slug>now-thats-what-i-call-summer</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/035/827/0003582790_50.jpg</image>
       </release>
-      <url>http://www.7digital.com/artist/various-artists/release/now-thats-what-i-call-summer/?partner=3923&amp;h=04&amp;d=2</url>
+      <slug>now-thats-what-i-call-summer</slug>
       <price>
         <currency code="GBP">£</currency>
         <value>0.99</value>
@@ -2595,7 +2595,7 @@
       <artist id="3216">
         <name>Take That</name>
         <appearsAs>Take That</appearsAs>
-        <url>http://www.7digital.com/artist/take-that/?partner=3923</url>
+        <slug>take-that</slug>
       </artist>
       <trackNumber>205</trackNumber>
       <duration>251</duration>
@@ -2610,12 +2610,12 @@
         <artist id="209">
           <name>Various Artists</name>
           <appearsAs>Various</appearsAs>
-          <url>http://www.7digital.com/artist/various-artists/?partner=3923</url>
+          <slug>various-artists</slug>
         </artist>
-        <url>http://www.7digital.com/artist/various-artists/release/now-thats-what-i-call-summer/?partner=3923</url>
+        <slug>now-thats-what-i-call-summer</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/035/827/0003582790_50.jpg</image>
       </release>
-      <url>http://www.7digital.com/artist/various-artists/release/now-thats-what-i-call-summer/?partner=3923&amp;h=05&amp;d=2</url>
+      <slug>now-thats-what-i-call-summer</slug>
       <price>
         <currency code="GBP">£</currency>
         <value>0.99</value>
@@ -2650,7 +2650,7 @@
       <artist id="25311">
         <name>Wham!</name>
         <appearsAs>Wham!</appearsAs>
-        <url>http://www.7digital.com/artist/wham/?partner=3923</url>
+        <slug>wham</slug>
       </artist>
       <trackNumber>206</trackNumber>
       <duration>229</duration>
@@ -2665,12 +2665,12 @@
         <artist id="209">
           <name>Various Artists</name>
           <appearsAs>Various</appearsAs>
-          <url>http://www.7digital.com/artist/various-artists/?partner=3923</url>
+          <slug>various-artists</slug>
         </artist>
-        <url>http://www.7digital.com/artist/various-artists/release/now-thats-what-i-call-summer/?partner=3923</url>
+        <slug>now-thats-what-i-call-summer</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/035/827/0003582790_50.jpg</image>
       </release>
-      <url>http://www.7digital.com/artist/various-artists/release/now-thats-what-i-call-summer/?partner=3923&amp;h=06&amp;d=2</url>
+      <slug>now-thats-what-i-call-summer</slug>
       <price>
         <currency code="GBP">£</currency>
         <value>0.99</value>
@@ -2705,7 +2705,7 @@
       <artist id="2220">
         <name>Lou Bega</name>
         <appearsAs>Lou Bega</appearsAs>
-        <url>http://www.7digital.com/artist/lou-bega/?partner=3923</url>
+        <slug>lou-bega</slug>
       </artist>
       <trackNumber>207</trackNumber>
       <duration>193</duration>
@@ -2720,12 +2720,12 @@
         <artist id="209">
           <name>Various Artists</name>
           <appearsAs>Various</appearsAs>
-          <url>http://www.7digital.com/artist/various-artists/?partner=3923</url>
+          <slug>various-artists</slug>
         </artist>
-        <url>http://www.7digital.com/artist/various-artists/release/now-thats-what-i-call-summer/?partner=3923</url>
+        <slug>now-thats-what-i-call-summer</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/035/827/0003582790_50.jpg</image>
       </release>
-      <url>http://www.7digital.com/artist/various-artists/release/now-thats-what-i-call-summer/?partner=3923&amp;h=07&amp;d=2</url>
+      <slug>now-thats-what-i-call-summer</slug>
       <price>
         <currency code="GBP">£</currency>
         <value>0.99</value>
@@ -2760,7 +2760,7 @@
       <artist id="159">
         <name>Bob Marley &amp; The Wailers</name>
         <appearsAs>Bob Marley &amp; The Wailers</appearsAs>
-        <url>http://www.7digital.com/artist/bob-marley-the-wailers-(2)/?partner=3923</url>
+        <slug>bob-marley-the-wailers-(2)</slug>
       </artist>
       <trackNumber>208</trackNumber>
       <duration>128</duration>
@@ -2775,12 +2775,12 @@
         <artist id="209">
           <name>Various Artists</name>
           <appearsAs>Various</appearsAs>
-          <url>http://www.7digital.com/artist/various-artists/?partner=3923</url>
+          <slug>various-artists</slug>
         </artist>
-        <url>http://www.7digital.com/artist/various-artists/release/now-thats-what-i-call-summer/?partner=3923</url>
+        <slug>now-thats-what-i-call-summer</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/035/827/0003582790_50.jpg</image>
       </release>
-      <url>http://www.7digital.com/artist/various-artists/release/now-thats-what-i-call-summer/?partner=3923&amp;h=08&amp;d=2</url>
+      <slug>now-thats-what-i-call-summer</slug>
       <price>
         <currency code="GBP">£</currency>
         <value>0.99</value>
@@ -2815,7 +2815,7 @@
       <artist id="10206">
         <name>Shaggy</name>
         <appearsAs>Shaggy</appearsAs>
-        <url>http://www.7digital.com/artist/shaggy/?partner=3923</url>
+        <slug>shaggy</slug>
       </artist>
       <trackNumber>209</trackNumber>
       <duration>225</duration>
@@ -2830,12 +2830,12 @@
         <artist id="209">
           <name>Various Artists</name>
           <appearsAs>Various</appearsAs>
-          <url>http://www.7digital.com/artist/various-artists/?partner=3923</url>
+          <slug>various-artists</slug>
         </artist>
-        <url>http://www.7digital.com/artist/various-artists/release/now-thats-what-i-call-summer/?partner=3923</url>
+        <slug>now-thats-what-i-call-summer</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/035/827/0003582790_50.jpg</image>
       </release>
-      <url>http://www.7digital.com/artist/various-artists/release/now-thats-what-i-call-summer/?partner=3923&amp;h=09&amp;d=2</url>
+      <slug>now-thats-what-i-call-summer</slug>
       <price>
         <currency code="GBP">£</currency>
         <value>0.99</value>
@@ -2870,7 +2870,7 @@
       <artist id="235223">
         <name>Vengaboys</name>
         <appearsAs>Vengaboys</appearsAs>
-        <url>http://www.7digital.com/artist/vengaboys/?partner=3923</url>
+        <slug>vengaboys</slug>
       </artist>
       <trackNumber>210</trackNumber>
       <duration>217</duration>
@@ -2885,12 +2885,12 @@
         <artist id="209">
           <name>Various Artists</name>
           <appearsAs>Various</appearsAs>
-          <url>http://www.7digital.com/artist/various-artists/?partner=3923</url>
+          <slug>various-artists</slug>
         </artist>
-        <url>http://www.7digital.com/artist/various-artists/release/now-thats-what-i-call-summer/?partner=3923</url>
+        <slug>now-thats-what-i-call-summer</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/035/827/0003582790_50.jpg</image>
       </release>
-      <url>http://www.7digital.com/artist/various-artists/release/now-thats-what-i-call-summer/?partner=3923&amp;h=10&amp;d=2</url>
+      <slug>now-thats-what-i-call-summer</slug>
       <price>
         <currency code="GBP">£</currency>
         <value xsi:nil="true"/>
@@ -2925,7 +2925,7 @@
       <artist id="29160">
         <name>Whigfield</name>
         <appearsAs>Whigfield</appearsAs>
-        <url>http://www.7digital.com/artist/whigfield/?partner=3923</url>
+        <slug>whigfield</slug>
       </artist>
       <trackNumber>211</trackNumber>
       <duration>214</duration>
@@ -2940,12 +2940,12 @@
         <artist id="209">
           <name>Various Artists</name>
           <appearsAs>Various</appearsAs>
-          <url>http://www.7digital.com/artist/various-artists/?partner=3923</url>
+          <slug>various-artists</slug>
         </artist>
-        <url>http://www.7digital.com/artist/various-artists/release/now-thats-what-i-call-summer/?partner=3923</url>
+        <slug>now-thats-what-i-call-summer</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/035/827/0003582790_50.jpg</image>
       </release>
-      <url>http://www.7digital.com/artist/various-artists/release/now-thats-what-i-call-summer/?partner=3923&amp;h=11&amp;d=2</url>
+      <slug>now-thats-what-i-call-summer</slug>
       <price>
         <currency code="GBP">£</currency>
         <value>0.99</value>
@@ -2980,7 +2980,7 @@
       <artist id="131105">
         <name>Shanks &amp; Bigfoot</name>
         <appearsAs>Shanks &amp; Bigfoot</appearsAs>
-        <url>http://www.7digital.com/artist/shanks-and-bigfoot/?partner=3923</url>
+        <slug>shanks-and-bigfoot</slug>
       </artist>
       <trackNumber>212</trackNumber>
       <duration>210</duration>
@@ -2995,12 +2995,12 @@
         <artist id="209">
           <name>Various Artists</name>
           <appearsAs>Various</appearsAs>
-          <url>http://www.7digital.com/artist/various-artists/?partner=3923</url>
+          <slug>various-artists</slug>
         </artist>
-        <url>http://www.7digital.com/artist/various-artists/release/now-thats-what-i-call-summer/?partner=3923</url>
+        <slug>now-thats-what-i-call-summer</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/035/827/0003582790_50.jpg</image>
       </release>
-      <url>http://www.7digital.com/artist/various-artists/release/now-thats-what-i-call-summer/?partner=3923&amp;h=12&amp;d=2</url>
+      <slug>now-thats-what-i-call-summer</slug>
       <price>
         <currency code="GBP">£</currency>
         <value>0.99</value>
@@ -3035,7 +3035,7 @@
       <artist id="11170">
         <name>Modjo</name>
         <appearsAs>Modjo</appearsAs>
-        <url>http://www.7digital.com/artist/modjo/?partner=3923</url>
+        <slug>modjo</slug>
       </artist>
       <trackNumber>213</trackNumber>
       <duration>221</duration>
@@ -3050,12 +3050,12 @@
         <artist id="209">
           <name>Various Artists</name>
           <appearsAs>Various</appearsAs>
-          <url>http://www.7digital.com/artist/various-artists/?partner=3923</url>
+          <slug>various-artists</slug>
         </artist>
-        <url>http://www.7digital.com/artist/various-artists/release/now-thats-what-i-call-summer/?partner=3923</url>
+        <slug>now-thats-what-i-call-summer</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/035/827/0003582790_50.jpg</image>
       </release>
-      <url>http://www.7digital.com/artist/various-artists/release/now-thats-what-i-call-summer/?partner=3923&amp;h=13&amp;d=2</url>
+      <slug>now-thats-what-i-call-summer</slug>
       <price>
         <currency code="GBP">£</currency>
         <value xsi:nil="true"/>
@@ -3090,7 +3090,7 @@
       <artist id="17709">
         <name>Junior Senior</name>
         <appearsAs>Junior Senior</appearsAs>
-        <url>http://www.7digital.com/artist/junior-senior/?partner=3923</url>
+        <slug>junior-senior</slug>
       </artist>
       <trackNumber>214</trackNumber>
       <duration>182</duration>
@@ -3105,12 +3105,12 @@
         <artist id="209">
           <name>Various Artists</name>
           <appearsAs>Various</appearsAs>
-          <url>http://www.7digital.com/artist/various-artists/?partner=3923</url>
+          <slug>various-artists</slug>
         </artist>
-        <url>http://www.7digital.com/artist/various-artists/release/now-thats-what-i-call-summer/?partner=3923</url>
+        <slug>now-thats-what-i-call-summer</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/035/827/0003582790_50.jpg</image>
       </release>
-      <url>http://www.7digital.com/artist/various-artists/release/now-thats-what-i-call-summer/?partner=3923&amp;h=14&amp;d=2</url>
+      <slug>now-thats-what-i-call-summer</slug>
       <price>
         <currency code="GBP">£</currency>
         <value xsi:nil="true"/>
@@ -3145,7 +3145,7 @@
       <artist id="25316">
         <name>Phats &amp; Small</name>
         <appearsAs>Phats &amp; Small</appearsAs>
-        <url>http://www.7digital.com/artist/phats-small/?partner=3923</url>
+        <slug>phats-small</slug>
       </artist>
       <trackNumber>215</trackNumber>
       <duration>211</duration>
@@ -3160,12 +3160,12 @@
         <artist id="209">
           <name>Various Artists</name>
           <appearsAs>Various</appearsAs>
-          <url>http://www.7digital.com/artist/various-artists/?partner=3923</url>
+          <slug>various-artists</slug>
         </artist>
-        <url>http://www.7digital.com/artist/various-artists/release/now-thats-what-i-call-summer/?partner=3923</url>
+        <slug>now-thats-what-i-call-summer</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/035/827/0003582790_50.jpg</image>
       </release>
-      <url>http://www.7digital.com/artist/various-artists/release/now-thats-what-i-call-summer/?partner=3923&amp;h=15&amp;d=2</url>
+      <slug>now-thats-what-i-call-summer</slug>
       <price>
         <currency code="GBP">£</currency>
         <value xsi:nil="true"/>
@@ -3200,7 +3200,7 @@
       <artist id="199855">
         <name>Baby D</name>
         <appearsAs>Baby D</appearsAs>
-        <url>http://www.7digital.com/artist/baby-d/?partner=3923</url>
+        <slug>baby-d</slug>
       </artist>
       <trackNumber>216</trackNumber>
       <duration>229</duration>
@@ -3215,12 +3215,12 @@
         <artist id="209">
           <name>Various Artists</name>
           <appearsAs>Various</appearsAs>
-          <url>http://www.7digital.com/artist/various-artists/?partner=3923</url>
+          <slug>various-artists</slug>
         </artist>
-        <url>http://www.7digital.com/artist/various-artists/release/now-thats-what-i-call-summer/?partner=3923</url>
+        <slug>now-thats-what-i-call-summer</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/035/827/0003582790_50.jpg</image>
       </release>
-      <url>http://www.7digital.com/artist/various-artists/release/now-thats-what-i-call-summer/?partner=3923&amp;h=16&amp;d=2</url>
+      <slug>now-thats-what-i-call-summer</slug>
       <price>
         <currency code="GBP">£</currency>
         <value xsi:nil="true"/>
@@ -3255,7 +3255,7 @@
       <artist id="3073">
         <name>Dr. Alban</name>
         <appearsAs>Dr. Alban</appearsAs>
-        <url>http://www.7digital.com/artist/dr-alban/?partner=3923</url>
+        <slug>dr-alban</slug>
       </artist>
       <trackNumber>217</trackNumber>
       <duration>240</duration>
@@ -3270,12 +3270,12 @@
         <artist id="209">
           <name>Various Artists</name>
           <appearsAs>Various</appearsAs>
-          <url>http://www.7digital.com/artist/various-artists/?partner=3923</url>
+          <slug>various-artists</slug>
         </artist>
-        <url>http://www.7digital.com/artist/various-artists/release/now-thats-what-i-call-summer/?partner=3923</url>
+        <slug>now-thats-what-i-call-summer</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/035/827/0003582790_50.jpg</image>
       </release>
-      <url>http://www.7digital.com/artist/various-artists/release/now-thats-what-i-call-summer/?partner=3923&amp;h=17&amp;d=2</url>
+      <slug>now-thats-what-i-call-summer</slug>
       <price>
         <currency code="GBP">£</currency>
         <value>0.99</value>
@@ -3310,7 +3310,7 @@
       <artist id="21238">
         <name>Livin' Joy</name>
         <appearsAs>Livin' Joy</appearsAs>
-        <url>http://www.7digital.com/artist/livin-joy/?partner=3923</url>
+        <slug>livin-joy</slug>
       </artist>
       <trackNumber>218</trackNumber>
       <duration>218</duration>
@@ -3325,12 +3325,12 @@
         <artist id="209">
           <name>Various Artists</name>
           <appearsAs>Various</appearsAs>
-          <url>http://www.7digital.com/artist/various-artists/?partner=3923</url>
+          <slug>various-artists</slug>
         </artist>
-        <url>http://www.7digital.com/artist/various-artists/release/now-thats-what-i-call-summer/?partner=3923</url>
+        <slug>now-thats-what-i-call-summer</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/035/827/0003582790_50.jpg</image>
       </release>
-      <url>http://www.7digital.com/artist/various-artists/release/now-thats-what-i-call-summer/?partner=3923&amp;h=18&amp;d=2</url>
+      <slug>now-thats-what-i-call-summer</slug>
       <price>
         <currency code="GBP">£</currency>
         <value>0.99</value>
@@ -3365,7 +3365,7 @@
       <artist id="4010">
         <name>Chris Rea</name>
         <appearsAs>Chris Rea</appearsAs>
-        <url>http://www.7digital.com/artist/chris-rea/?partner=3923</url>
+        <slug>chris-rea</slug>
       </artist>
       <trackNumber>219</trackNumber>
       <duration>222</duration>
@@ -3380,12 +3380,12 @@
         <artist id="209">
           <name>Various Artists</name>
           <appearsAs>Various</appearsAs>
-          <url>http://www.7digital.com/artist/various-artists/?partner=3923</url>
+          <slug>various-artists</slug>
         </artist>
-        <url>http://www.7digital.com/artist/various-artists/release/now-thats-what-i-call-summer/?partner=3923</url>
+        <slug>now-thats-what-i-call-summer</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/035/827/0003582790_50.jpg</image>
       </release>
-      <url>http://www.7digital.com/artist/various-artists/release/now-thats-what-i-call-summer/?partner=3923&amp;h=19&amp;d=2</url>
+      <slug>now-thats-what-i-call-summer</slug>
       <price>
         <currency code="GBP">£</currency>
         <value>0.99</value>
@@ -3420,7 +3420,7 @@
       <artist id="161">
         <name>The Style Council</name>
         <appearsAs>The Style Council</appearsAs>
-        <url>http://www.7digital.com/artist/the-style-council/?partner=3923</url>
+        <slug>the-style-council</slug>
       </artist>
       <trackNumber>220</trackNumber>
       <duration>227</duration>
@@ -3435,12 +3435,12 @@
         <artist id="209">
           <name>Various Artists</name>
           <appearsAs>Various</appearsAs>
-          <url>http://www.7digital.com/artist/various-artists/?partner=3923</url>
+          <slug>various-artists</slug>
         </artist>
-        <url>http://www.7digital.com/artist/various-artists/release/now-thats-what-i-call-summer/?partner=3923</url>
+        <slug>now-thats-what-i-call-summer</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/035/827/0003582790_50.jpg</image>
       </release>
-      <url>http://www.7digital.com/artist/various-artists/release/now-thats-what-i-call-summer/?partner=3923&amp;h=20&amp;d=2</url>
+      <slug>now-thats-what-i-call-summer</slug>
       <price>
         <currency code="GBP">£</currency>
         <value>0.99</value>
@@ -3475,7 +3475,7 @@
       <artist id="1307">
         <name>Stereophonics</name>
         <appearsAs>Stereophonics</appearsAs>
-        <url>http://www.7digital.com/artist/stereophonics/?partner=3923</url>
+        <slug>stereophonics</slug>
       </artist>
       <trackNumber>221</trackNumber>
       <duration>205</duration>
@@ -3490,12 +3490,12 @@
         <artist id="209">
           <name>Various Artists</name>
           <appearsAs>Various</appearsAs>
-          <url>http://www.7digital.com/artist/various-artists/?partner=3923</url>
+          <slug>various-artists</slug>
         </artist>
-        <url>http://www.7digital.com/artist/various-artists/release/now-thats-what-i-call-summer/?partner=3923</url>
+        <slug>now-thats-what-i-call-summer</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/035/827/0003582790_50.jpg</image>
       </release>
-      <url>http://www.7digital.com/artist/various-artists/release/now-thats-what-i-call-summer/?partner=3923&amp;h=21&amp;d=2</url>
+      <slug>now-thats-what-i-call-summer</slug>
       <price>
         <currency code="GBP">£</currency>
         <value>0.99</value>

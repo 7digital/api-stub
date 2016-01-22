@@ -16,9 +16,9 @@
         <artist id="209">
           <name>Various Artists</name>
           <appearsAs>Various Artists</appearsAs>
-          <url>http://www.7digital.com/artist/various-artists/?partner=1401</url>
+          <slug>various-artists</slug>
         </artist>
-        <url>http://www.7digital.com/artist/various-artists/release/ibiza-summer-vibes-vol-1/?partner=1401</url>
+        <slug>ibiza-summer-vibes-vol-1</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/012/750/0001275025_50.jpg</image>
         <popularity>0.65</popularity>
         <streamingReleaseDate>2011-06-25T00:00:00+01:00</streamingReleaseDate>
@@ -35,9 +35,9 @@
         <artist id="209">
           <name>Various Artists</name>
           <appearsAs>Various Artists</appearsAs>
-          <url>http://www.7digital.com/artist/various-artists/?partner=1401</url>
+          <slug>various-artists</slug>
         </artist>
-        <url>http://www.7digital.com/artist/various-artists/release/toolroom-records-miami-2012/?partner=1401</url>
+        <slug>toolroom-records-miami-2012</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/016/041/0001604103_50.jpg</image>
         <popularity>0.61</popularity>
         <streamingReleaseDate>2012-02-26T00:00:00+00:00</streamingReleaseDate>
@@ -54,9 +54,9 @@
         <artist id="209">
           <name>Various Artists</name>
           <appearsAs>Various Artists</appearsAs>
-          <url>http://www.7digital.com/artist/various-artists/?partner=1401</url>
+          <slug>various-artists</slug>
         </artist>
-        <url>http://www.7digital.com/artist/various-artists/release/toolroom-records-ibiza-2012-vol-1/?partner=1401</url>
+        <slug>toolroom-records-ibiza-2012-vol-1</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/017/134/0001713490_50.jpg</image>
         <popularity>0.57</popularity>
         <streamingReleaseDate>2012-06-03T00:00:00+01:00</streamingReleaseDate>
@@ -73,9 +73,9 @@
         <artist id="126439">
           <name>Deadmau5</name>
           <appearsAs>Deadmau5</appearsAs>
-          <url>http://www.7digital.com/artist/deadmau5/?partner=1401</url>
+          <slug>deadmau5</slug>
         </artist>
-        <url>http://www.7digital.com/artist/deadmau5/release/deadmau5-at-play-vol-3/?partner=1401</url>
+        <slug>deadmau5-at-play-vol-3</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/014/899/0001489964_50.jpg</image>
         <popularity>0.54</popularity>
         <streamingReleaseDate>2012-01-24T00:00:00+00:00</streamingReleaseDate>
@@ -92,9 +92,9 @@
         <artist id="209">
           <name>Various Artists</name>
           <appearsAs>Various Artists</appearsAs>
-          <url>http://www.7digital.com/artist/various-artists/?partner=1401</url>
+          <slug>various-artists</slug>
         </artist>
-        <url>http://www.7digital.com/artist/various-artists/release/summer-2012/?partner=1401</url>
+        <slug>summer-2012</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/015/912/0001591235_50.jpg</image>
         <popularity>0.54</popularity>
         <streamingReleaseDate>3001-01-01T00:00:00+00:00</streamingReleaseDate>
@@ -111,9 +111,9 @@
         <artist id="209">
           <name>Various Artists</name>
           <appearsAs>Various Artists</appearsAs>
-          <url>http://www.7digital.com/artist/various-artists/?partner=1401</url>
+          <slug>various-artists</slug>
         </artist>
-        <url>http://www.7digital.com/artist/various-artists/release/toolroom-records-ibiza-2011-vol-1/?partner=1401</url>
+        <slug>toolroom-records-ibiza-2011-vol-1</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/012/352/0001235242_50.jpg</image>
         <popularity>0.52</popularity>
         <streamingReleaseDate>2011-05-22T00:00:00+01:00</streamingReleaseDate>
@@ -130,9 +130,9 @@
         <artist id="209">
           <name>Various Artists</name>
           <appearsAs>Various Artists</appearsAs>
-          <url>http://www.7digital.com/artist/various-artists/?partner=1401</url>
+          <slug>various-artists</slug>
         </artist>
-        <url>http://www.7digital.com/artist/various-artists/release/ibiza-2k11-deep-mission/?partner=1401</url>
+        <slug>ibiza-2k11-deep-mission</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/013/175/0001317560_50.jpg</image>
         <popularity>0.51</popularity>
         <streamingReleaseDate>3001-01-01T00:00:00+00:00</streamingReleaseDate>
@@ -149,9 +149,9 @@
         <artist id="209">
           <name>Various Artists</name>
           <appearsAs>Various Artists</appearsAs>
-          <url>http://www.7digital.com/artist/various-artists/?partner=1401</url>
+          <slug>various-artists</slug>
         </artist>
-        <url>http://www.7digital.com/artist/various-artists/release/ibiza-openings-2012/?partner=1401</url>
+        <slug>ibiza-openings-2012</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/017/410/0001741053_50.jpg</image>
         <popularity>0.51</popularity>
         <streamingReleaseDate>3001-01-01T00:00:00+00:00</streamingReleaseDate>
@@ -168,9 +168,9 @@
         <artist id="209">
           <name>Various Artists</name>
           <appearsAs>Various Artists</appearsAs>
-          <url>http://www.7digital.com/artist/various-artists/?partner=1401</url>
+          <slug>various-artists</slug>
         </artist>
-        <url>http://www.7digital.com/artist/various-artists/release/the-ibiza-closing-party-2011/?partner=1401</url>
+        <slug>the-ibiza-closing-party-2011</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/014/393/0001439371_50.jpg</image>
         <popularity>0.5</popularity>
         <streamingReleaseDate>3001-01-01T00:00:00+00:00</streamingReleaseDate>
@@ -187,9 +187,9 @@
         <artist id="222">
           <name>Maroon 5</name>
           <appearsAs>Maroon 5</appearsAs>
-          <url>http://www.7digital.com/artist/maroon-5/?partner=1401</url>
+          <slug>maroon-5</slug>
         </artist>
-        <url>http://www.7digital.com/artist/maroon-5/release/call-and-response-the-remix-album-2/?partner=1401</url>
+        <slug>call-and-response-the-remix-album-2</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/003/435/0000343549_50.jpg</image>
         <popularity>0.49</popularity>
         <streamingReleaseDate>2008-12-07T00:00:00+00:00</streamingReleaseDate>

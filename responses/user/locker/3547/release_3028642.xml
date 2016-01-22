@@ -14,9 +14,9 @@
           <artist id="209">
             <name>Various Artists</name>
             <appearsAs>Various</appearsAs>
-            <url>http://www.7digital.com/artist/various-artists/?partner=5932</url>
+            <slug>various-artists</slug>
           </artist>
-          <url>http://www.7digital.com/artist/various-artists/release/bbc-radio-1s-live-lounge-2013-1/?partner=5932</url>
+          <slug>bbc-radio-1s-live-lounge-2013-1</slug>
           <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/030/286/0003028642_50.jpg</image>
           <releaseDate>2013-11-19T00:00:00Z</releaseDate>
           <licensor id="2"/>
@@ -29,12 +29,12 @@
               <artist id="950679">
                 <name>Rudimental</name>
                 <appearsAs>Rudimental</appearsAs>
-                <url>http://www.7digital.com/artist/rudimental/?partner=5932</url>
+                <slug>rudimental</slug>
               </artist>
               <trackNumber>1</trackNumber>
               <duration>262</duration>
               <isrc>GBCAD1300329</isrc>
-              <url>http://www.7digital.com/artist/various-artists/release/bbc-radio-1s-live-lounge-2013-1/?partner=5932&amp;h=01</url>
+              <slug>bbc-radio-1s-live-lounge-2013-1</slug>
             </track>
             <remainingDownloads>5</remainingDownloads>
             <purchaseId>0</purchaseId>
@@ -58,12 +58,12 @@
               <artist id="8318">
                 <name>Arctic Monkeys</name>
                 <appearsAs>Arctic Monkeys</appearsAs>
-                <url>http://www.7digital.com/artist/arctic-monkeys/?partner=5932</url>
+                <slug>arctic-monkeys</slug>
               </artist>
               <trackNumber>2</trackNumber>
               <duration>199</duration>
               <isrc>GBCAD1300717</isrc>
-              <url>http://www.7digital.com/artist/various-artists/release/bbc-radio-1s-live-lounge-2013-1/?partner=5932&amp;h=02</url>
+              <slug>bbc-radio-1s-live-lounge-2013-1</slug>
             </track>
             <remainingDownloads>5</remainingDownloads>
             <purchaseId>0</purchaseId>
@@ -87,12 +87,12 @@
               <artist id="972893">
                 <name>Bastille</name>
                 <appearsAs>Bastille</appearsAs>
-                <url>http://www.7digital.com/artist/bastille/?partner=5932</url>
+                <slug>bastille</slug>
               </artist>
               <trackNumber>3</trackNumber>
               <duration>206</duration>
               <isrc>GBCAD1300304</isrc>
-              <url>http://www.7digital.com/artist/various-artists/release/bbc-radio-1s-live-lounge-2013-1/?partner=5932&amp;h=03</url>
+              <slug>bbc-radio-1s-live-lounge-2013-1</slug>
             </track>
             <remainingDownloads>5</remainingDownloads>
             <purchaseId>0</purchaseId>
@@ -116,12 +116,12 @@
               <artist id="51871">
                 <name>Naughty Boy</name>
                 <appearsAs>Naughty Boy</appearsAs>
-                <url>http://www.7digital.com/artist/naughty-boy/?partner=5932</url>
+                <slug>naughty-boy</slug>
               </artist>
               <trackNumber>4</trackNumber>
               <duration>218</duration>
               <isrc>GBCAD1300384</isrc>
-              <url>http://www.7digital.com/artist/various-artists/release/bbc-radio-1s-live-lounge-2013-1/?partner=5932&amp;h=04</url>
+              <slug>bbc-radio-1s-live-lounge-2013-1</slug>
             </track>
             <remainingDownloads>5</remainingDownloads>
             <purchaseId>0</purchaseId>
@@ -145,12 +145,12 @@
               <artist id="468577">
                 <name>Ellie Goulding</name>
                 <appearsAs>Ellie Goulding</appearsAs>
-                <url>http://www.7digital.com/artist/ellie-goulding/?partner=5932</url>
+                <slug>ellie-goulding</slug>
               </artist>
               <trackNumber>5</trackNumber>
               <duration>279</duration>
               <isrc>GBCAD1300725</isrc>
-              <url>http://www.7digital.com/artist/various-artists/release/bbc-radio-1s-live-lounge-2013-1/?partner=5932&amp;h=05</url>
+              <slug>bbc-radio-1s-live-lounge-2013-1</slug>
             </track>
             <remainingDownloads>5</remainingDownloads>
             <purchaseId>0</purchaseId>
@@ -174,12 +174,12 @@
               <artist id="364252">
                 <name>Daughter</name>
                 <appearsAs>Daughter</appearsAs>
-                <url>http://www.7digital.com/artist/daughter/?partner=5932</url>
+                <slug>daughter</slug>
               </artist>
               <trackNumber>6</trackNumber>
               <duration>292</duration>
               <isrc>GBCAD1300316</isrc>
-              <url>http://www.7digital.com/artist/various-artists/release/bbc-radio-1s-live-lounge-2013-1/?partner=5932&amp;h=06</url>
+              <slug>bbc-radio-1s-live-lounge-2013-1</slug>
             </track>
             <remainingDownloads>5</remainingDownloads>
             <purchaseId>0</purchaseId>
@@ -203,12 +203,12 @@
               <artist id="54041">
                 <name>Robin Thicke</name>
                 <appearsAs>Robin Thicke</appearsAs>
-                <url>http://www.7digital.com/artist/robin-thicke/?partner=5932</url>
+                <slug>robin-thicke</slug>
               </artist>
               <trackNumber>7</trackNumber>
               <duration>161</duration>
               <isrc>GBCAD1300419</isrc>
-              <url>http://www.7digital.com/artist/various-artists/release/bbc-radio-1s-live-lounge-2013-1/?partner=5932&amp;h=07</url>
+              <slug>bbc-radio-1s-live-lounge-2013-1</slug>
             </track>
             <remainingDownloads>5</remainingDownloads>
             <purchaseId>0</purchaseId>
@@ -232,12 +232,12 @@
               <artist id="146096">
                 <name>Vampire Weekend</name>
                 <appearsAs>Vampire Weekend</appearsAs>
-                <url>http://www.7digital.com/artist/vampire-weekend/?partner=5932</url>
+                <slug>vampire-weekend</slug>
               </artist>
               <trackNumber>8</trackNumber>
               <duration>255</duration>
               <isrc>GBCAD1300417</isrc>
-              <url>http://www.7digital.com/artist/various-artists/release/bbc-radio-1s-live-lounge-2013-1/?partner=5932&amp;h=08</url>
+              <slug>bbc-radio-1s-live-lounge-2013-1</slug>
             </track>
             <remainingDownloads>5</remainingDownloads>
             <purchaseId>0</purchaseId>
@@ -261,12 +261,12 @@
               <artist id="1176242">
                 <name>Little Mix</name>
                 <appearsAs>Little Mix</appearsAs>
-                <url>http://www.7digital.com/artist/little-mix/?partner=5932</url>
+                <slug>little-mix</slug>
               </artist>
               <trackNumber>9</trackNumber>
               <duration>276</duration>
               <isrc>GBCAD1300314</isrc>
-              <url>http://www.7digital.com/artist/various-artists/release/bbc-radio-1s-live-lounge-2013-1/?partner=5932&amp;h=09</url>
+              <slug>bbc-radio-1s-live-lounge-2013-1</slug>
             </track>
             <remainingDownloads>5</remainingDownloads>
             <purchaseId>0</purchaseId>
@@ -290,12 +290,12 @@
               <artist id="79918">
                 <name>Birdy</name>
                 <appearsAs>Birdy</appearsAs>
-                <url>http://www.7digital.com/artist/birdy/?partner=5932</url>
+                <slug>birdy</slug>
               </artist>
               <trackNumber>10</trackNumber>
               <duration>206</duration>
               <isrc>GBCAD1300716</isrc>
-              <url>http://www.7digital.com/artist/various-artists/release/bbc-radio-1s-live-lounge-2013-1/?partner=5932&amp;h=10</url>
+              <slug>bbc-radio-1s-live-lounge-2013-1</slug>
             </track>
             <remainingDownloads>5</remainingDownloads>
             <purchaseId>0</purchaseId>
@@ -319,12 +319,12 @@
               <artist id="1029972">
                 <name>Jake Bugg</name>
                 <appearsAs>Jake Bugg</appearsAs>
-                <url>http://www.7digital.com/artist/jake-bugg/?partner=5932</url>
+                <slug>jake-bugg</slug>
               </artist>
               <trackNumber>11</trackNumber>
               <duration>135</duration>
               <isrc>GBCAD1300416</isrc>
-              <url>http://www.7digital.com/artist/various-artists/release/bbc-radio-1s-live-lounge-2013-1/?partner=5932&amp;h=11</url>
+              <slug>bbc-radio-1s-live-lounge-2013-1</slug>
             </track>
             <remainingDownloads>5</remainingDownloads>
             <purchaseId>0</purchaseId>
@@ -348,12 +348,12 @@
               <artist id="1428779">
                 <name>Tom Odell</name>
                 <appearsAs>Tom Odell</appearsAs>
-                <url>http://www.7digital.com/artist/tom-odell/?partner=5932</url>
+                <slug>tom-odell</slug>
               </artist>
               <trackNumber>12</trackNumber>
               <duration>284</duration>
               <isrc>GBCAD1300332</isrc>
-              <url>http://www.7digital.com/artist/various-artists/release/bbc-radio-1s-live-lounge-2013-1/?partner=5932&amp;h=12</url>
+              <slug>bbc-radio-1s-live-lounge-2013-1</slug>
             </track>
             <remainingDownloads>5</remainingDownloads>
             <purchaseId>0</purchaseId>
@@ -377,12 +377,12 @@
               <artist id="11565">
                 <name>30 Seconds To Mars</name>
                 <appearsAs>30 Seconds To Mars</appearsAs>
-                <url>http://www.7digital.com/artist/30-seconds-to-mars/?partner=5932</url>
+                <slug>30-seconds-to-mars</slug>
               </artist>
               <trackNumber>13</trackNumber>
               <duration>247</duration>
               <isrc>GBCAD1300538</isrc>
-              <url>http://www.7digital.com/artist/various-artists/release/bbc-radio-1s-live-lounge-2013-1/?partner=5932&amp;h=13</url>
+              <slug>bbc-radio-1s-live-lounge-2013-1</slug>
             </track>
             <remainingDownloads>5</remainingDownloads>
             <purchaseId>0</purchaseId>
@@ -406,12 +406,12 @@
               <artist id="1358595">
                 <name>The 1975</name>
                 <appearsAs>The 1975</appearsAs>
-                <url>http://www.7digital.com/artist/the-1975/?partner=5932</url>
+                <slug>the-1975</slug>
               </artist>
               <trackNumber>14</trackNumber>
               <duration>237</duration>
               <isrc>GBCAD1300330</isrc>
-              <url>http://www.7digital.com/artist/various-artists/release/bbc-radio-1s-live-lounge-2013-1/?partner=5932&amp;h=14</url>
+              <slug>bbc-radio-1s-live-lounge-2013-1</slug>
             </track>
             <remainingDownloads>5</remainingDownloads>
             <purchaseId>0</purchaseId>
@@ -435,12 +435,12 @@
               <artist id="487026">
                 <name>Ben Howard</name>
                 <appearsAs>Ben Howard</appearsAs>
-                <url>http://www.7digital.com/artist/ben-howard/?partner=5932</url>
+                <slug>ben-howard</slug>
               </artist>
               <trackNumber>15</trackNumber>
               <duration>341</duration>
               <isrc>GBCAD1300305</isrc>
-              <url>http://www.7digital.com/artist/various-artists/release/bbc-radio-1s-live-lounge-2013-1/?partner=5932&amp;h=15</url>
+              <slug>bbc-radio-1s-live-lounge-2013-1</slug>
             </track>
             <remainingDownloads>5</remainingDownloads>
             <purchaseId>0</purchaseId>
@@ -464,12 +464,12 @@
               <artist id="785015">
                 <name>Olly Murs</name>
                 <appearsAs>Olly Murs</appearsAs>
-                <url>http://www.7digital.com/artist/olly-murs/?partner=5932</url>
+                <slug>olly-murs</slug>
               </artist>
               <trackNumber>16</trackNumber>
               <duration>217</duration>
               <isrc>GBCAD1300324</isrc>
-              <url>http://www.7digital.com/artist/various-artists/release/bbc-radio-1s-live-lounge-2013-1/?partner=5932&amp;h=16</url>
+              <slug>bbc-radio-1s-live-lounge-2013-1</slug>
             </track>
             <remainingDownloads>5</remainingDownloads>
             <purchaseId>0</purchaseId>
@@ -493,12 +493,12 @@
               <artist id="347171">
                 <name>Jason Derulo</name>
                 <appearsAs>Jason Derulo</appearsAs>
-                <url>http://www.7digital.com/artist/jason-derulo/?partner=5932</url>
+                <slug>jason-derulo</slug>
               </artist>
               <trackNumber>17</trackNumber>
               <duration>170</duration>
               <isrc>GBCAD1300726</isrc>
-              <url>http://www.7digital.com/artist/various-artists/release/bbc-radio-1s-live-lounge-2013-1/?partner=5932&amp;h=17</url>
+              <slug>bbc-radio-1s-live-lounge-2013-1</slug>
             </track>
             <remainingDownloads>5</remainingDownloads>
             <purchaseId>0</purchaseId>
@@ -522,12 +522,12 @@
               <artist id="341566">
                 <name>Jessie J</name>
                 <appearsAs>Jessie J</appearsAs>
-                <url>http://www.7digital.com/artist/jessie-j/?partner=5932</url>
+                <slug>jessie-j</slug>
               </artist>
               <trackNumber>18</trackNumber>
               <duration>214</duration>
               <isrc>GBCAD1300715</isrc>
-              <url>http://www.7digital.com/artist/various-artists/release/bbc-radio-1s-live-lounge-2013-1/?partner=5932&amp;h=18</url>
+              <slug>bbc-radio-1s-live-lounge-2013-1</slug>
             </track>
             <remainingDownloads>5</remainingDownloads>
             <purchaseId>0</purchaseId>
@@ -551,12 +551,12 @@
               <artist id="996395">
                 <name>Rizzle Kicks</name>
                 <appearsAs>Rizzle Kicks</appearsAs>
-                <url>http://www.7digital.com/artist/rizzle-kicks/?partner=5932</url>
+                <slug>rizzle-kicks</slug>
               </artist>
               <trackNumber>19</trackNumber>
               <duration>233</duration>
               <isrc>GBCAD1300531</isrc>
-              <url>http://www.7digital.com/artist/various-artists/release/bbc-radio-1s-live-lounge-2013-1/?partner=5932&amp;h=19</url>
+              <slug>bbc-radio-1s-live-lounge-2013-1</slug>
             </track>
             <remainingDownloads>5</remainingDownloads>
             <purchaseId>0</purchaseId>
@@ -580,12 +580,12 @@
               <artist id="1373940">
                 <name>Kodaline</name>
                 <appearsAs>Kodaline</appearsAs>
-                <url>http://www.7digital.com/artist/kodaline/?partner=5932</url>
+                <slug>kodaline</slug>
               </artist>
               <trackNumber>20</trackNumber>
               <duration>229</duration>
               <isrc>GBCAD1300719</isrc>
-              <url>http://www.7digital.com/artist/various-artists/release/bbc-radio-1s-live-lounge-2013-1/?partner=5932&amp;h=20</url>
+              <slug>bbc-radio-1s-live-lounge-2013-1</slug>
             </track>
             <remainingDownloads>5</remainingDownloads>
             <purchaseId>0</purchaseId>
@@ -609,12 +609,12 @@
               <artist id="1277148">
                 <name>Nina Nesbitt</name>
                 <appearsAs>Nina Nesbitt</appearsAs>
-                <url>http://www.7digital.com/artist/nina-nesbitt/?partner=5932</url>
+                <slug>nina-nesbitt</slug>
               </artist>
               <trackNumber>21</trackNumber>
               <duration>242</duration>
               <isrc>GBCAD1300418</isrc>
-              <url>http://www.7digital.com/artist/various-artists/release/bbc-radio-1s-live-lounge-2013-1/?partner=5932&amp;h=21</url>
+              <slug>bbc-radio-1s-live-lounge-2013-1</slug>
             </track>
             <remainingDownloads>5</remainingDownloads>
             <purchaseId>0</purchaseId>
@@ -638,12 +638,12 @@
               <artist id="1217372">
                 <name>Gabrielle Aplin</name>
                 <appearsAs>Gabrielle Aplin</appearsAs>
-                <url>http://www.7digital.com/artist/gabrielle-aplin/?partner=5932</url>
+                <slug>gabrielle-aplin</slug>
               </artist>
               <trackNumber>22</trackNumber>
               <duration>207</duration>
               <isrc>GBCAD1300535</isrc>
-              <url>http://www.7digital.com/artist/various-artists/release/bbc-radio-1s-live-lounge-2013-1/?partner=5932&amp;h=22</url>
+              <slug>bbc-radio-1s-live-lounge-2013-1</slug>
             </track>
             <remainingDownloads>5</remainingDownloads>
             <purchaseId>0</purchaseId>
@@ -667,12 +667,12 @@
               <artist id="406524">
                 <name>Mumford &amp; Sons</name>
                 <appearsAs>Mumford &amp; Sons</appearsAs>
-                <url>http://www.7digital.com/artist/mumford-and-sons/?partner=5932</url>
+                <slug>mumford-and-sons</slug>
               </artist>
               <trackNumber>23</trackNumber>
               <duration>179</duration>
               <isrc>GBCAD1300322</isrc>
-              <url>http://www.7digital.com/artist/various-artists/release/bbc-radio-1s-live-lounge-2013-1/?partner=5932&amp;h=23</url>
+              <slug>bbc-radio-1s-live-lounge-2013-1</slug>
             </track>
             <remainingDownloads>5</remainingDownloads>
             <purchaseId>0</purchaseId>
@@ -696,12 +696,12 @@
               <artist id="445777">
                 <name>fun.</name>
                 <appearsAs>fun.</appearsAs>
-                <url>http://www.7digital.com/artist/fun/?partner=5932</url>
+                <slug>fun</slug>
               </artist>
               <trackNumber>24</trackNumber>
               <duration>240</duration>
               <isrc>GBCAD1300386</isrc>
-              <url>http://www.7digital.com/artist/various-artists/release/bbc-radio-1s-live-lounge-2013-1/?partner=5932&amp;h=24</url>
+              <slug>bbc-radio-1s-live-lounge-2013-1</slug>
             </track>
             <remainingDownloads>5</remainingDownloads>
             <purchaseId>0</purchaseId>
@@ -725,12 +725,12 @@
               <artist id="1184808">
                 <name>Imagine Dragons</name>
                 <appearsAs>Imagine Dragons</appearsAs>
-                <url>http://www.7digital.com/artist/imagine-dragons/?partner=5932</url>
+                <slug>imagine-dragons</slug>
               </artist>
               <trackNumber>25</trackNumber>
               <duration>232</duration>
               <isrc>GBCAD1300532</isrc>
-              <url>http://www.7digital.com/artist/various-artists/release/bbc-radio-1s-live-lounge-2013-1/?partner=5932&amp;h=25</url>
+              <slug>bbc-radio-1s-live-lounge-2013-1</slug>
             </track>
             <remainingDownloads>5</remainingDownloads>
             <purchaseId>0</purchaseId>
@@ -754,12 +754,12 @@
               <artist id="1253941">
                 <name>Rita Ora </name>
                 <appearsAs>RITA ORA</appearsAs>
-                <url>http://www.7digital.com/artist/rita-ora/?partner=5932</url>
+                <slug>rita-ora</slug>
               </artist>
               <trackNumber>26</trackNumber>
               <duration>278</duration>
               <isrc>GBCAD1300328</isrc>
-              <url>http://www.7digital.com/artist/various-artists/release/bbc-radio-1s-live-lounge-2013-1/?partner=5932&amp;h=26</url>
+              <slug>bbc-radio-1s-live-lounge-2013-1</slug>
             </track>
             <remainingDownloads>5</remainingDownloads>
             <purchaseId>0</purchaseId>
@@ -783,12 +783,12 @@
               <artist id="1125092">
                 <name>Jessie Ware</name>
                 <appearsAs>Jessie Ware</appearsAs>
-                <url>http://www.7digital.com/artist/jessie-ware/?partner=5932</url>
+                <slug>jessie-ware</slug>
               </artist>
               <trackNumber>27</trackNumber>
               <duration>207</duration>
               <isrc>GBCAD1300310</isrc>
-              <url>http://www.7digital.com/artist/various-artists/release/bbc-radio-1s-live-lounge-2013-1/?partner=5932&amp;h=27</url>
+              <slug>bbc-radio-1s-live-lounge-2013-1</slug>
             </track>
             <remainingDownloads>5</remainingDownloads>
             <purchaseId>0</purchaseId>
@@ -812,12 +812,12 @@
               <artist id="369884">
                 <name>Carly Rae Jepsen</name>
                 <appearsAs>Carly Rae Jepsen</appearsAs>
-                <url>http://www.7digital.com/artist/carly-rae-jepsen/?partner=5932</url>
+                <slug>carly-rae-jepsen</slug>
               </artist>
               <trackNumber>28</trackNumber>
               <duration>185</duration>
               <isrc>GBCAD1300307</isrc>
-              <url>http://www.7digital.com/artist/various-artists/release/bbc-radio-1s-live-lounge-2013-1/?partner=5932&amp;h=28</url>
+              <slug>bbc-radio-1s-live-lounge-2013-1</slug>
             </track>
             <remainingDownloads>5</remainingDownloads>
             <purchaseId>0</purchaseId>
@@ -841,12 +841,12 @@
               <artist id="960223">
                 <name>K Koke</name>
                 <appearsAs>K Koke</appearsAs>
-                <url>http://www.7digital.com/artist/k-koke-1/?partner=5932</url>
+                <slug>k-koke-1</slug>
               </artist>
               <trackNumber>29</trackNumber>
               <duration>246</duration>
               <isrc>GBCAD1300312</isrc>
-              <url>http://www.7digital.com/artist/various-artists/release/bbc-radio-1s-live-lounge-2013-1/?partner=5932&amp;h=29</url>
+              <slug>bbc-radio-1s-live-lounge-2013-1</slug>
             </track>
             <remainingDownloads>5</remainingDownloads>
             <purchaseId>0</purchaseId>
@@ -870,12 +870,12 @@
               <artist id="1095343">
                 <name>Theme Park</name>
                 <appearsAs>Theme Park</appearsAs>
-                <url>http://www.7digital.com/artist/theme-park/?partner=5932</url>
+                <slug>theme-park</slug>
               </artist>
               <trackNumber>30</trackNumber>
               <duration>238</duration>
               <isrc>GBCAD1300415</isrc>
-              <url>http://www.7digital.com/artist/various-artists/release/bbc-radio-1s-live-lounge-2013-1/?partner=5932&amp;h=30</url>
+              <slug>bbc-radio-1s-live-lounge-2013-1</slug>
             </track>
             <remainingDownloads>5</remainingDownloads>
             <purchaseId>0</purchaseId>
@@ -899,12 +899,12 @@
               <artist id="35902">
                 <name>Example</name>
                 <appearsAs>Example</appearsAs>
-                <url>http://www.7digital.com/artist/example/?partner=5932</url>
+                <slug>example</slug>
               </artist>
               <trackNumber>31</trackNumber>
               <duration>260</duration>
               <isrc>GBCAD1300309</isrc>
-              <url>http://www.7digital.com/artist/various-artists/release/bbc-radio-1s-live-lounge-2013-1/?partner=5932&amp;h=31</url>
+              <slug>bbc-radio-1s-live-lounge-2013-1</slug>
             </track>
             <remainingDownloads>5</remainingDownloads>
             <purchaseId>0</purchaseId>
@@ -928,12 +928,12 @@
               <artist id="19204">
                 <name>Wiley</name>
                 <appearsAs>Wiley</appearsAs>
-                <url>http://www.7digital.com/artist/wiley/?partner=5932</url>
+                <slug>wiley</slug>
               </artist>
               <trackNumber>32</trackNumber>
               <duration>159</duration>
               <isrc>GBCAD1300334</isrc>
-              <url>http://www.7digital.com/artist/various-artists/release/bbc-radio-1s-live-lounge-2013-1/?partner=5932&amp;h=32</url>
+              <slug>bbc-radio-1s-live-lounge-2013-1</slug>
             </track>
             <remainingDownloads>5</remainingDownloads>
             <purchaseId>0</purchaseId>
@@ -957,12 +957,12 @@
               <artist id="707596">
                 <name>Mikky Ekko</name>
                 <appearsAs>Mikky Ekko</appearsAs>
-                <url>http://www.7digital.com/artist/mikky-ekko/?partner=5932</url>
+                <slug>mikky-ekko</slug>
               </artist>
               <trackNumber>33</trackNumber>
               <duration>240</duration>
               <isrc>GBCAD1300319</isrc>
-              <url>http://www.7digital.com/artist/various-artists/release/bbc-radio-1s-live-lounge-2013-1/?partner=5932&amp;h=33</url>
+              <slug>bbc-radio-1s-live-lounge-2013-1</slug>
             </track>
             <remainingDownloads>5</remainingDownloads>
             <purchaseId>0</purchaseId>
@@ -986,12 +986,12 @@
               <artist id="1333315">
                 <name>Misha B</name>
                 <appearsAs>Misha B</appearsAs>
-                <url>http://www.7digital.com/artist/misha-b/?partner=5932</url>
+                <slug>misha-b</slug>
               </artist>
               <trackNumber>34</trackNumber>
               <duration>202</duration>
               <isrc>GBCAD1300320</isrc>
-              <url>http://www.7digital.com/artist/various-artists/release/bbc-radio-1s-live-lounge-2013-1/?partner=5932&amp;h=34</url>
+              <slug>bbc-radio-1s-live-lounge-2013-1</slug>
             </track>
             <remainingDownloads>5</remainingDownloads>
             <purchaseId>0</purchaseId>
@@ -1015,12 +1015,12 @@
               <artist id="1125990">
                 <name>Lianne La Havas</name>
                 <appearsAs>Lianne La Havas</appearsAs>
-                <url>http://www.7digital.com/artist/lianne-la-havas/?partner=5932</url>
+                <slug>lianne-la-havas</slug>
               </artist>
               <trackNumber>35</trackNumber>
               <duration>207</duration>
               <isrc>GBCAD1300313</isrc>
-              <url>http://www.7digital.com/artist/various-artists/release/bbc-radio-1s-live-lounge-2013-1/?partner=5932&amp;h=35</url>
+              <slug>bbc-radio-1s-live-lounge-2013-1</slug>
             </track>
             <remainingDownloads>5</remainingDownloads>
             <purchaseId>0</purchaseId>
@@ -1044,12 +1044,12 @@
               <artist id="969369">
                 <name>AlunaGeorge</name>
                 <appearsAs>AlunaGeorge</appearsAs>
-                <url>http://www.7digital.com/artist/alunageorge/?partner=5932</url>
+                <slug>alunageorge</slug>
               </artist>
               <trackNumber>36</trackNumber>
               <duration>194</duration>
               <isrc>GBCAD1300302</isrc>
-              <url>http://www.7digital.com/artist/various-artists/release/bbc-radio-1s-live-lounge-2013-1/?partner=5932&amp;h=36</url>
+              <slug>bbc-radio-1s-live-lounge-2013-1</slug>
             </track>
             <remainingDownloads>5</remainingDownloads>
             <purchaseId>0</purchaseId>
@@ -1073,12 +1073,12 @@
               <artist id="1011365">
                 <name>Mallory Knox</name>
                 <appearsAs>Mallory Knox</appearsAs>
-                <url>http://www.7digital.com/artist/mallory-knox/?partner=5932</url>
+                <slug>mallory-knox</slug>
               </artist>
               <trackNumber>37</trackNumber>
               <duration>207</duration>
               <isrc>GBCAD1300315</isrc>
-              <url>http://www.7digital.com/artist/various-artists/release/bbc-radio-1s-live-lounge-2013-1/?partner=5932&amp;h=37</url>
+              <slug>bbc-radio-1s-live-lounge-2013-1</slug>
             </track>
             <remainingDownloads>5</remainingDownloads>
             <purchaseId>0</purchaseId>
@@ -1102,12 +1102,12 @@
               <artist id="15346">
                 <name>Frank Turner</name>
                 <appearsAs>Frank Turner</appearsAs>
-                <url>http://www.7digital.com/artist/frank-turner/?partner=5932</url>
+                <slug>frank-turner</slug>
               </artist>
               <trackNumber>38</trackNumber>
               <duration>216</duration>
               <isrc>GBCAD1300348</isrc>
-              <url>http://www.7digital.com/artist/various-artists/release/bbc-radio-1s-live-lounge-2013-1/?partner=5932&amp;h=38</url>
+              <slug>bbc-radio-1s-live-lounge-2013-1</slug>
             </track>
             <remainingDownloads>5</remainingDownloads>
             <purchaseId>0</purchaseId>
@@ -1131,12 +1131,12 @@
               <artist id="1160422">
                 <name>A$AP Rocky</name>
                 <appearsAs>A$AP Rocky</appearsAs>
-                <url>http://www.7digital.com/artist/a-ap-rocky/?partner=5932</url>
+                <slug>a-ap-rocky</slug>
               </artist>
               <trackNumber>39</trackNumber>
               <duration>188</duration>
               <isrc>GBCAD1300303</isrc>
-              <url>http://www.7digital.com/artist/various-artists/release/bbc-radio-1s-live-lounge-2013-1/?partner=5932&amp;h=39</url>
+              <slug>bbc-radio-1s-live-lounge-2013-1</slug>
             </track>
             <remainingDownloads>5</remainingDownloads>
             <purchaseId>0</purchaseId>
@@ -1160,12 +1160,12 @@
               <artist id="773662">
                 <name>Disclosure</name>
                 <appearsAs>Disclosure</appearsAs>
-                <url>http://www.7digital.com/artist/disclosure/?partner=5932</url>
+                <slug>disclosure</slug>
               </artist>
               <trackNumber>40</trackNumber>
               <duration>230</duration>
               <isrc>GBCAD1300317</isrc>
-              <url>http://www.7digital.com/artist/various-artists/release/bbc-radio-1s-live-lounge-2013-1/?partner=5932&amp;h=40</url>
+              <slug>bbc-radio-1s-live-lounge-2013-1</slug>
             </track>
             <remainingDownloads>5</remainingDownloads>
             <purchaseId>0</purchaseId>
@@ -1189,12 +1189,12 @@
               <artist id="19178">
                 <name>Biffy Clyro</name>
                 <appearsAs>Biffy Clyro</appearsAs>
-                <url>http://www.7digital.com/artist/biffy-clyro/?partner=5932</url>
+                <slug>biffy-clyro</slug>
               </artist>
               <trackNumber>41</trackNumber>
               <duration>163</duration>
               <isrc>GBCAD1300337</isrc>
-              <url>http://www.7digital.com/artist/various-artists/release/bbc-radio-1s-live-lounge-2013-1/?partner=5932&amp;h=41</url>
+              <slug>bbc-radio-1s-live-lounge-2013-1</slug>
             </track>
             <remainingDownloads>5</remainingDownloads>
             <purchaseId>0</purchaseId>
@@ -1218,12 +1218,12 @@
               <artist id="1358595">
                 <name>The 1975</name>
                 <appearsAs>The 1975</appearsAs>
-                <url>http://www.7digital.com/artist/the-1975/?partner=5932</url>
+                <slug>the-1975</slug>
               </artist>
               <trackNumber>42</trackNumber>
               <duration>215</duration>
               <isrc>GBCAD1300537</isrc>
-              <url>http://www.7digital.com/artist/various-artists/release/bbc-radio-1s-live-lounge-2013-1/?partner=5932&amp;h=42</url>
+              <slug>bbc-radio-1s-live-lounge-2013-1</slug>
             </track>
             <remainingDownloads>5</remainingDownloads>
             <purchaseId>0</purchaseId>
@@ -1247,12 +1247,12 @@
               <artist id="1516814">
                 <name>London Grammar</name>
                 <appearsAs>London Grammar</appearsAs>
-                <url>http://www.7digital.com/artist/london-grammar/?partner=5932</url>
+                <slug>london-grammar</slug>
               </artist>
               <trackNumber>43</trackNumber>
               <duration>195</duration>
               <isrc>GBCAD1300536</isrc>
-              <url>http://www.7digital.com/artist/various-artists/release/bbc-radio-1s-live-lounge-2013-1/?partner=5932&amp;h=43</url>
+              <slug>bbc-radio-1s-live-lounge-2013-1</slug>
             </track>
             <remainingDownloads>5</remainingDownloads>
             <purchaseId>0</purchaseId>
@@ -1276,12 +1276,12 @@
               <artist id="1435708">
                 <name>Laura Mvula</name>
                 <appearsAs>Laura Mvula</appearsAs>
-                <url>http://www.7digital.com/artist/laura-mvula/?partner=5932</url>
+                <slug>laura-mvula</slug>
               </artist>
               <trackNumber>44</trackNumber>
               <duration>166</duration>
               <isrc>GBCAD1300345</isrc>
-              <url>http://www.7digital.com/artist/various-artists/release/bbc-radio-1s-live-lounge-2013-1/?partner=5932&amp;h=44</url>
+              <slug>bbc-radio-1s-live-lounge-2013-1</slug>
             </track>
             <remainingDownloads>5</remainingDownloads>
             <purchaseId>0</purchaseId>
@@ -1305,12 +1305,12 @@
               <artist id="167">
                 <name>Girls Aloud</name>
                 <appearsAs>Girls Aloud</appearsAs>
-                <url>http://www.7digital.com/artist/girls-aloud/?partner=5932</url>
+                <slug>girls-aloud</slug>
               </artist>
               <trackNumber>45</trackNumber>
               <duration>193</duration>
               <isrc>GBCAD1300343</isrc>
-              <url>http://www.7digital.com/artist/various-artists/release/bbc-radio-1s-live-lounge-2013-1/?partner=5932&amp;h=45</url>
+              <slug>bbc-radio-1s-live-lounge-2013-1</slug>
             </track>
             <remainingDownloads>5</remainingDownloads>
             <purchaseId>0</purchaseId>
@@ -1334,12 +1334,12 @@
               <artist id="782065">
                 <name>Katy B</name>
                 <appearsAs>Katy B</appearsAs>
-                <url>http://www.7digital.com/artist/katy-b/?partner=5932</url>
+                <slug>katy-b</slug>
               </artist>
               <trackNumber>46</trackNumber>
               <duration>214</duration>
               <isrc>GBCAD1300414</isrc>
-              <url>http://www.7digital.com/artist/various-artists/release/bbc-radio-1s-live-lounge-2013-1/?partner=5932&amp;h=46</url>
+              <slug>bbc-radio-1s-live-lounge-2013-1</slug>
             </track>
             <remainingDownloads>5</remainingDownloads>
             <purchaseId>0</purchaseId>
@@ -1363,12 +1363,12 @@
               <artist id="960223">
                 <name>K Koke</name>
                 <appearsAs>K Koke</appearsAs>
-                <url>http://www.7digital.com/artist/k-koke-1/?partner=5932</url>
+                <slug>k-koke-1</slug>
               </artist>
               <trackNumber>47</trackNumber>
               <duration>260</duration>
               <isrc>GBCAD1300344</isrc>
-              <url>http://www.7digital.com/artist/various-artists/release/bbc-radio-1s-live-lounge-2013-1/?partner=5932&amp;h=47</url>
+              <slug>bbc-radio-1s-live-lounge-2013-1</slug>
             </track>
             <remainingDownloads>5</remainingDownloads>
             <purchaseId>0</purchaseId>
@@ -1392,12 +1392,12 @@
               <artist id="969369">
                 <name>AlunaGeorge</name>
                 <appearsAs>AlunaGeorge</appearsAs>
-                <url>http://www.7digital.com/artist/alunageorge/?partner=5932</url>
+                <slug>alunageorge</slug>
               </artist>
               <trackNumber>48</trackNumber>
               <duration>175</duration>
               <isrc>GBCAD1300336</isrc>
-              <url>http://www.7digital.com/artist/various-artists/release/bbc-radio-1s-live-lounge-2013-1/?partner=5932&amp;h=48</url>
+              <slug>bbc-radio-1s-live-lounge-2013-1</slug>
             </track>
             <remainingDownloads>5</remainingDownloads>
             <purchaseId>0</purchaseId>
@@ -1421,12 +1421,12 @@
               <artist id="2022862">
                 <name>George The Poet</name>
                 <appearsAs>George The Poet</appearsAs>
-                <url>http://www.7digital.com/artist/george-the-poet/?partner=5932</url>
+                <slug>george-the-poet</slug>
               </artist>
               <trackNumber>49</trackNumber>
               <duration>190</duration>
               <isrc>GBCAD1300341</isrc>
-              <url>http://www.7digital.com/artist/various-artists/release/bbc-radio-1s-live-lounge-2013-1/?partner=5932&amp;h=49</url>
+              <slug>bbc-radio-1s-live-lounge-2013-1</slug>
             </track>
             <remainingDownloads>5</remainingDownloads>
             <purchaseId>0</purchaseId>
@@ -1450,12 +1450,12 @@
               <artist id="170484">
                 <name>Dr Meaker</name>
                 <appearsAs>Dr Meaker</appearsAs>
-                <url>http://www.7digital.com/artist/dr-meaker/?partner=5932</url>
+                <slug>dr-meaker</slug>
               </artist>
               <trackNumber>50</trackNumber>
               <duration>226</duration>
               <isrc>GBCAD1300339</isrc>
-              <url>http://www.7digital.com/artist/various-artists/release/bbc-radio-1s-live-lounge-2013-1/?partner=5932&amp;h=50</url>
+              <slug>bbc-radio-1s-live-lounge-2013-1</slug>
             </track>
             <remainingDownloads>5</remainingDownloads>
             <purchaseId>0</purchaseId>
@@ -1479,12 +1479,12 @@
               <artist id="15346">
                 <name>Frank Turner</name>
                 <appearsAs>Frank Turner</appearsAs>
-                <url>http://www.7digital.com/artist/frank-turner/?partner=5932</url>
+                <slug>frank-turner</slug>
               </artist>
               <trackNumber>51</trackNumber>
               <duration>209</duration>
               <isrc>GBCAD1300340</isrc>
-              <url>http://www.7digital.com/artist/various-artists/release/bbc-radio-1s-live-lounge-2013-1/?partner=5932&amp;h=51</url>
+              <slug>bbc-radio-1s-live-lounge-2013-1</slug>
             </track>
             <remainingDownloads>5</remainingDownloads>
             <purchaseId>0</purchaseId>
@@ -1508,12 +1508,12 @@
               <artist id="271847">
                 <name>Lower Than Atlantis</name>
                 <appearsAs>Lower Than Atlantis</appearsAs>
-                <url>http://www.7digital.com/artist/lower-than-atlantis/?partner=5932</url>
+                <slug>lower-than-atlantis</slug>
               </artist>
               <trackNumber>52</trackNumber>
               <duration>147</duration>
               <isrc>GBCAD1300387</isrc>
-              <url>http://www.7digital.com/artist/various-artists/release/bbc-radio-1s-live-lounge-2013-1/?partner=5932&amp;h=52</url>
+              <slug>bbc-radio-1s-live-lounge-2013-1</slug>
             </track>
             <remainingDownloads>5</remainingDownloads>
             <purchaseId>0</purchaseId>
@@ -1537,12 +1537,12 @@
               <artist id="16617">
                 <name>Bullet For My Valentine</name>
                 <appearsAs>Bullet For My Valentine</appearsAs>
-                <url>http://www.7digital.com/artist/bullet-for-my-valentine/?partner=5932</url>
+                <slug>bullet-for-my-valentine</slug>
               </artist>
               <trackNumber>53</trackNumber>
               <duration>246</duration>
               <isrc>GBCAD1300338</isrc>
-              <url>http://www.7digital.com/artist/various-artists/release/bbc-radio-1s-live-lounge-2013-1/?partner=5932&amp;h=53</url>
+              <slug>bbc-radio-1s-live-lounge-2013-1</slug>
             </track>
             <remainingDownloads>5</remainingDownloads>
             <purchaseId>0</purchaseId>

@@ -20,9 +20,9 @@
         <artist id="85916">
           <name>Jamie Woon</name>
           <appearsAs>Jamie Woon</appearsAs>
-          <url>http://www.7digital.com/artists/jamie-woon/?partner=1401</url>
+          <slug>jamie-woon</slug>
         </artist>
-        <url>http://www.7digital.com/artists/jamie-woon/mirrorwriting/?partner=1401</url>
+        <slug>mirrorwriting</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/011/883/0001188305_50.jpg</image>
         <download>
           <packages>
@@ -56,9 +56,9 @@
         <artist id="8293">
           <name>Foo Fighters</name>
           <appearsAs>Foo Fighters</appearsAs>
-          <url>http://www.7digital.com/artists/foo-fighters/?partner=1401</url>
+          <slug>foo-fighters</slug>
         </artist>
-        <url>http://www.7digital.com/artists/foo-fighters/wasting-light/?partner=1401</url>
+        <slug>wasting-light</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/011/929/0001192901_50.jpg</image>
         <download>
           <packages>
@@ -92,9 +92,9 @@
         <artist id="382">
           <name>Gorillaz</name>
           <appearsAs>Gorillaz</appearsAs>
-          <url>http://www.7digital.com/artists/gorillaz/?partner=1401</url>
+          <slug>gorillaz</slug>
         </artist>
-        <url>http://www.7digital.com/artists/gorillaz/the-fall/?partner=1401</url>
+        <slug>the-fall</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/011/997/0001199716_50.jpg</image>
         <download>
           <packages>
@@ -128,9 +128,9 @@
         <artist id="320233">
           <name>Tune-Yards</name>
           <appearsAs>Tune-Yards</appearsAs>
-          <url>http://www.7digital.com/artists/tune-yards/?partner=1401</url>
+          <slug>tune-yards</slug>
         </artist>
-        <url>http://www.7digital.com/artists/tune-yards/w-h-o-k-i-l-l/?partner=1401</url>
+        <slug>w-h-o-k-i-l-l</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/012/049/0001204906_50.jpg</image>
         <download>
           <packages>
@@ -167,9 +167,9 @@
         <artist id="142111">
           <name>Adele</name>
           <appearsAs>Adele</appearsAs>
-          <url>http://www.7digital.com/artists/adele/?partner=1401</url>
+          <slug>adele</slug>
         </artist>
-        <url>http://www.7digital.com/artists/adele/21/?partner=1401</url>
+        <slug>21</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/010/768/0001076864_50.jpg</image>
         <download>
           <packages>
@@ -206,9 +206,9 @@
         <artist id="263">
           <name>Black Eyed Peas</name>
           <appearsAs>The Black Eyed Peas</appearsAs>
-          <url>http://www.7digital.com/artists/black-eyed-peas/?partner=1401</url>
+          <slug>black-eyed-peas</slug>
         </artist>
-        <url>http://www.7digital.com/artists/black-eyed-peas/the-beginning/?partner=1401</url>
+        <slug>the-beginning</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/010/410/0001041028_50.jpg</image>
         <download>
           <packages>
@@ -242,9 +242,9 @@
         <artist id="162919">
           <name>Fleet Foxes</name>
           <appearsAs>Fleet Foxes</appearsAs>
-          <url>http://www.7digital.com/artists/fleet-foxes/?partner=1401</url>
+          <slug>fleet-foxes</slug>
         </artist>
-        <url>http://www.7digital.com/artists/fleet-foxes/helplessness-blues-2/?partner=1401</url>
+        <slug>helplessness-blues-2</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/012/032/0001203237_50.jpg</image>
         <download>
           <packages>
@@ -278,9 +278,9 @@
         <artist id="617">
           <name>The Strokes</name>
           <appearsAs>The Strokes</appearsAs>
-          <url>http://www.7digital.com/artists/the-strokes/?partner=1401</url>
+          <slug>the-strokes</slug>
         </artist>
-        <url>http://www.7digital.com/artists/the-strokes/angles-1/?partner=1401</url>
+        <slug>angles-1</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/011/821/0001182167_50.jpg</image>
         <download>
           <packages>
@@ -317,9 +317,9 @@
         <artist id="141326">
           <name>Metronomy</name>
           <appearsAs>Metronomy</appearsAs>
-          <url>http://www.7digital.com/artists/metronomy/?partner=1401</url>
+          <slug>metronomy</slug>
         </artist>
-        <url>http://www.7digital.com/artists/metronomy/the-english-riviera-1/?partner=1401</url>
+        <slug>the-english-riviera-1</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/012/010/0001201052_50.jpg</image>
         <download>
           <packages>
@@ -353,9 +353,9 @@
         <artist id="237973">
           <name>Lady GaGa</name>
           <appearsAs>Lady GaGa</appearsAs>
-          <url>http://www.7digital.com/artists/lady-gaga/?partner=1401</url>
+          <slug>lady-gaga</slug>
         </artist>
-        <url>http://www.7digital.com/artists/lady-gaga/born-this-way-4/?partner=1401</url>
+        <slug>born-this-way-4</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/012/237/0001223744_50.jpg</image>
         <download>
           <packages>

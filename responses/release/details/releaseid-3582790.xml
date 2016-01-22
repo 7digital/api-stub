@@ -10,9 +10,9 @@
     <artist id="209">
       <name>Various Artists</name>
       <appearsAs>Various</appearsAs>
-      <url>http://www.7digital.com/artist/various-artists/?partner=3923</url>
+      <slug>various-artists</slug>
     </artist>
-    <url>http://www.7digital.com/artist/various-artists/release/now-thats-what-i-call-summer/?partner=3923</url>
+    <slug>now-thats-what-i-call-summer</slug>
     <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/035/827/0003582790_50.jpg</image>
     <download>
       <packages>

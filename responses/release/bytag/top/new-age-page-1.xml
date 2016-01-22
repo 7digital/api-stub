@@ -16,9 +16,9 @@
         <artist id="209">
           <name>Various Artists</name>
           <appearsAs>Various Artists</appearsAs>
-          <url>http://www.7digital.com/artist/various-artists/?partner=1401</url>
+          <slug>various-artists</slug>
         </artist>
-        <url>http://www.7digital.com/artist/various-artists/release/relaxing-summer-chill-vol-3/?partner=1401</url>
+        <slug>relaxing-summer-chill-vol-3</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/012/595/0001259579_50.jpg</image>
         <popularity>0.62</popularity>
         <streamingReleaseDate>2011-07-14T00:00:00+01:00</streamingReleaseDate>
@@ -35,9 +35,9 @@
         <artist id="467">
           <name>Mike Oldfield</name>
           <appearsAs>Mike Oldfield</appearsAs>
-          <url>http://www.7digital.com/artist/mike-oldfield/?partner=1401</url>
+          <slug>mike-oldfield</slug>
         </artist>
-        <url>http://www.7digital.com/artist/mike-oldfield/release/incantations-3-1/?partner=1401</url>
+        <slug>incantations-3-1</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/013/271/0001327126_50.jpg</image>
         <popularity>0.58</popularity>
         <streamingReleaseDate>2011-07-25T00:00:00+01:00</streamingReleaseDate>
@@ -54,9 +54,9 @@
         <artist id="209">
           <name>Various Artists</name>
           <appearsAs>Various Artists</appearsAs>
-          <url>http://www.7digital.com/artist/various-artists/?partner=1401</url>
+          <slug>various-artists</slug>
         </artist>
-        <url>http://www.7digital.com/artist/various-artists/release/50-chill-and-nu-lounge-experience-red-edition/?partner=1401</url>
+        <slug>50-chill-and-nu-lounge-experience-red-edition</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/012/215/0001221510_50.jpg</image>
         <popularity>0.53</popularity>
         <streamingReleaseDate>2011-04-29T00:00:00+01:00</streamingReleaseDate>
@@ -73,9 +73,9 @@
         <artist id="1277571">
           <name>White Noise Research</name>
           <appearsAs>White Noise Research</appearsAs>
-          <url>http://www.7digital.com/artist/white-noise-research/?partner=1401</url>
+          <slug>white-noise-research</slug>
         </artist>
-        <url>http://www.7digital.com/artist/white-noise-research/release/keep-calm-with-nature-sounds-switch-off-and-relax-with-the-soothing-sound-of-natural-white-noise-at-its-relaxing-best/?partner=1401</url>
+        <slug>keep-calm-with-nature-sounds-switch-off-and-relax-with-the-soothing-sound-of-natural-white-noise-at-its-relaxing-best</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/017/535/0001753523_50.jpg</image>
         <popularity>0.52</popularity>
         <streamingReleaseDate>3001-01-01T00:00:00+00:00</streamingReleaseDate>
@@ -92,9 +92,9 @@
         <artist id="209">
           <name>Various Artists</name>
           <appearsAs>Various Artists</appearsAs>
-          <url>http://www.7digital.com/artist/various-artists/?partner=1401</url>
+          <slug>various-artists</slug>
         </artist>
-        <url>http://www.7digital.com/artist/various-artists/release/music-to-make-love-50-sensual-tracks/?partner=1401</url>
+        <slug>music-to-make-love-50-sensual-tracks</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/011/600/0001160096_50.jpg</image>
         <popularity>0.52</popularity>
         <streamingReleaseDate>2011-02-09T00:00:00+00:00</streamingReleaseDate>
@@ -111,9 +111,9 @@
         <artist id="209">
           <name>Various Artists</name>
           <appearsAs>Various Artists</appearsAs>
-          <url>http://www.7digital.com/artist/various-artists/?partner=1401</url>
+          <slug>various-artists</slug>
         </artist>
-        <url>http://www.7digital.com/artist/various-artists/release/anti-stress-vol-1/?partner=1401</url>
+        <slug>anti-stress-vol-1</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/013/604/0001360414_50.jpg</image>
         <popularity>0.51</popularity>
         <streamingReleaseDate>2011-09-05T00:00:00+01:00</streamingReleaseDate>
@@ -130,9 +130,9 @@
         <artist id="209">
           <name>Various Artists</name>
           <appearsAs>Various Artists</appearsAs>
-          <url>http://www.7digital.com/artist/various-artists/?partner=1401</url>
+          <slug>various-artists</slug>
         </artist>
-        <url>http://www.7digital.com/artist/various-artists/release/relaxing-summer-chill-vol-2/?partner=1401</url>
+        <slug>relaxing-summer-chill-vol-2</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/012/595/0001259586_50.jpg</image>
         <popularity>0.51</popularity>
         <streamingReleaseDate>2011-06-20T00:00:00+01:00</streamingReleaseDate>
@@ -149,9 +149,9 @@
         <artist id="209">
           <name>Various Artists</name>
           <appearsAs>Various Artists</appearsAs>
-          <url>http://www.7digital.com/artist/various-artists/?partner=1401</url>
+          <slug>various-artists</slug>
         </artist>
-        <url>http://www.7digital.com/artist/various-artists/release/buddha-vibes/?partner=1401</url>
+        <slug>buddha-vibes</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/015/587/0001558749_50.jpg</image>
         <popularity>0.5</popularity>
         <streamingReleaseDate>2012-12-20T00:00:00+00:00</streamingReleaseDate>
@@ -168,9 +168,9 @@
         <artist id="960">
           <name>David Arkenstone</name>
           <appearsAs>David Arkenstone</appearsAs>
-          <url>http://www.7digital.com/artist/david-arkenstone/?partner=1401</url>
+          <slug>david-arkenstone</slug>
         </artist>
-        <url>http://www.7digital.com/artist/david-arkenstone/release/spa-reflections-music-for-massage-yoga-and-sensory-rejuvenation/?partner=1401</url>
+        <slug>spa-reflections-music-for-massage-yoga-and-sensory-rejuvenation</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/015/414/0001541412_50.jpg</image>
         <popularity>0.49</popularity>
         <streamingReleaseDate>2012-02-13T00:00:00+00:00</streamingReleaseDate>
@@ -187,9 +187,9 @@
         <artist id="1054821">
           <name>Native American Flute Tribe</name>
           <appearsAs>Native American Flute Tribe</appearsAs>
-          <url>http://www.7digital.com/artist/native-american-flute-tribe/?partner=1401</url>
+          <slug>native-american-flute-tribe</slug>
         </artist>
-        <url>http://www.7digital.com/artist/native-american-flute-tribe/release/native-american-flute-meditations/?partner=1401</url>
+        <slug>native-american-flute-meditations</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/013/386/0001338647_50.jpg</image>
         <popularity>0.49</popularity>
         <streamingReleaseDate>2011-08-05T00:00:00+01:00</streamingReleaseDate>

@@ -16,9 +16,9 @@
         <artist id="262">
           <name>Eminem</name>
           <appearsAs>Eminem</appearsAs>
-          <url>http://www.7digital.com/artist/eminem/?partner=1401</url>
+          <slug>eminem</slug>
         </artist>
-        <url>http://www.7digital.com/artist/eminem/release/curtain-call-explicit-version/?partner=1401</url>
+        <slug>curtain-call-explicit-version</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/000/212/0000021281_50.jpg</image>
         <popularity>0.69</popularity>
         <streamingReleaseDate>2005-12-02T00:00:00+00:00</streamingReleaseDate>
@@ -35,9 +35,9 @@
         <artist id="209">
           <name>Various Artists</name>
           <appearsAs>Various Artists</appearsAs>
-          <url>http://www.7digital.com/artist/various-artists/?partner=1401</url>
+          <slug>various-artists</slug>
         </artist>
-        <url>http://www.7digital.com/artist/various-artists/release/90s-groove-ministry-of-sound/?partner=1401</url>
+        <slug>90s-groove-ministry-of-sound</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/017/290/0001729091_50.jpg</image>
         <popularity>0.66</popularity>
         <streamingReleaseDate>3001-01-01T00:00:00+00:00</streamingReleaseDate>
@@ -54,9 +54,9 @@
         <artist id="209">
           <name>Various Artists</name>
           <appearsAs>Various Artists</appearsAs>
-          <url>http://www.7digital.com/artist/various-artists/?partner=1401</url>
+          <slug>various-artists</slug>
         </artist>
-        <url>http://www.7digital.com/artist/various-artists/release/one-randb/?partner=1401</url>
+        <slug>one-randb</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/016/127/0001612747_50.jpg</image>
         <popularity>0.65</popularity>
         <streamingReleaseDate>3001-01-01T00:00:00+00:00</streamingReleaseDate>
@@ -73,9 +73,9 @@
         <artist id="1298">
           <name>Jay-Z</name>
           <appearsAs>Jay-Z</appearsAs>
-          <url>http://www.7digital.com/artist/jay-z/?partner=1401</url>
+          <slug>jay-z</slug>
         </artist>
-        <url>http://www.7digital.com/artist/jay-z/release/the-hits-collection-volume-one/?partner=1401</url>
+        <slug>the-hits-collection-volume-one</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/010/245/0001024526_50.jpg</image>
         <popularity>0.64</popularity>
         <streamingReleaseDate>2010-11-08T00:00:00+00:00</streamingReleaseDate>
@@ -92,9 +92,9 @@
         <artist id="1237">
           <name>Alicia Keys</name>
           <appearsAs>Alicia Keys </appearsAs>
-          <url>http://www.7digital.com/artist/alicia-keys-(2)/?partner=1401</url>
+          <slug>alicia-keys-(2)</slug>
         </artist>
-        <url>http://www.7digital.com/artist/alicia-keys-(2)/release/the-element-of-freedom/?partner=1401</url>
+        <slug>the-element-of-freedom</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/006/626/0000662632_50.jpg</image>
         <popularity>0.62</popularity>
         <streamingReleaseDate>2009-12-14T00:00:00+00:00</streamingReleaseDate>
@@ -111,9 +111,9 @@
         <artist id="1053056">
           <name>Emeli Sande</name>
           <appearsAs>Emeli Sande</appearsAs>
-          <url>http://www.7digital.com/artist/emeli-sande-(1)/?partner=1401</url>
+          <slug>emeli-sande-(1)</slug>
         </artist>
-        <url>http://www.7digital.com/artist/emeli-sande-(1)/release/heaven/?partner=1401</url>
+        <slug>heaven</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/013/268/0001326877_50.jpg</image>
         <popularity>0.61</popularity>
         <streamingReleaseDate>2011-08-14T00:00:00+01:00</streamingReleaseDate>
@@ -130,9 +130,9 @@
         <artist id="209">
           <name>Various Artists</name>
           <appearsAs>Various Artists</appearsAs>
-          <url>http://www.7digital.com/artist/various-artists/?partner=1401</url>
+          <slug>various-artists</slug>
         </artist>
-        <url>http://www.7digital.com/artist/various-artists/release/the-workout-mix-2011/?partner=1401</url>
+        <slug>the-workout-mix-2011</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/010/577/0001057708_50.jpg</image>
         <popularity>0.6</popularity>
         <streamingReleaseDate>3001-01-01T00:00:00+00:00</streamingReleaseDate>
@@ -149,9 +149,9 @@
         <artist id="12019">
           <name>Trey Songz</name>
           <appearsAs>Trey Songz</appearsAs>
-          <url>http://www.7digital.com/artist/trey-songz/?partner=1401</url>
+          <slug>trey-songz</slug>
         </artist>
-        <url>http://www.7digital.com/artist/trey-songz/release/passion-pain-and-pleasure/?partner=1401</url>
+        <slug>passion-pain-and-pleasure</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/009/685/0000968508_50.jpg</image>
         <popularity>0.59</popularity>
         <streamingReleaseDate>2012-10-30T00:00:00+00:00</streamingReleaseDate>
@@ -168,9 +168,9 @@
         <artist id="237973">
           <name>Lady GaGa</name>
           <appearsAs>Lady GaGa</appearsAs>
-          <url>http://www.7digital.com/artist/lady-gaga/?partner=1401</url>
+          <slug>lady-gaga</slug>
         </artist>
-        <url>http://www.7digital.com/artist/lady-gaga/release/the-fame-1/?partner=1401</url>
+        <slug>the-fame-1</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/003/435/0000343559_50.jpg</image>
         <popularity>0.59</popularity>
         <streamingReleaseDate>3001-01-01T00:00:00+00:00</streamingReleaseDate>
@@ -187,9 +187,9 @@
         <artist id="15239">
           <name>Chris Brown</name>
           <appearsAs>Chris Brown</appearsAs>
-          <url>http://www.7digital.com/artist/chris-brown-(2)/?partner=1401</url>
+          <slug>chris-brown-(2)</slug>
         </artist>
-        <url>http://www.7digital.com/artist/chris-brown-(2)/release/deuces-featuring-tyga-and-kevin-mccall/?partner=1401</url>
+        <slug>deuces-featuring-tyga-and-kevin-mccall</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/008/908/0000890848_50.jpg</image>
         <popularity>0.59</popularity>
         <streamingReleaseDate>2010-07-11T00:00:00+01:00</streamingReleaseDate>

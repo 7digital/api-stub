@@ -13,7 +13,7 @@
         <artist id="1205061">
           <name>Timbalake feat. Blac Omar</name>
           <appearsAs>Timbalake feat. Blac Omar</appearsAs>
-          <url>http://www.7digital.com/artist/various-artists/?partner=3923</url>
+          <slug>various-artists</slug>
         </artist>
         <trackNumber>9</trackNumber>
         <duration>226</duration>
@@ -27,13 +27,13 @@
           <artist id="1205061">
             <name>Timbalake feat. Blac Omar</name>
             <appearsAs>Timbalake feat. Blac Omar</appearsAs>
-            <url>http://www.7digital.com/artist/various-artists/?partner=3923</url>
+            <slug>various-artists</slug>
           </artist>
-          <url>http://www.7digital.com/artist/various-artists/release/just-dance-2012-top-40-club-electro-and-house-hits/?partner=3923</url>
+          <slug>just-dance-2012-top-40-club-electro-and-house-hits</slug>
           <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/015/572/0001557217_50.jpg</image>
           <popularity>0</popularity>
         </release>
-        <url>http://www.7digital.com/artist/various-artists/release/just-dance-2012-top-40-club-electro-and-house-hits/?partner=3923&amp;h=09</url>
+        <slug>just-dance-2012-top-40-club-electro-and-house-hits</slug>
         <price>
           <currency code="GBP">£</currency>
           <value>0.99</value>

@@ -10,7 +10,7 @@
       <artist id="1">
         <name>Keane</name>
         <appearsAs>Keane</appearsAs>
-        <url>http://www.7digital.com/artists/keane/?partner=1401</url>
+        <slug>keane</slug>
       </artist>
       <trackNumber>1</trackNumber>
       <duration>258</duration>
@@ -25,12 +25,12 @@
         <artist id="1">
           <name>Keane</name>
           <appearsAs>Keane</appearsAs>
-          <url>http://www.7digital.com/artists/keane/?partner=1401</url>
+          <slug>keane</slug>
         </artist>
-        <url>http://www.7digital.com/artists/keane/perfect-symmetry-1/?partner=1401</url>
+        <slug>keane</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/003/208/0000320866_50.jpg</image>
       </release>
-      <url>http://www.7digital.com/artists/keane/perfect-symmetry-1/01-Spiralling/?partner=1401</url>
+      <slug>keane</slug>
       <price>
         <currency code="GBP">£</currency>
         <value>0.99</value>
@@ -64,7 +64,7 @@
       <artist id="1">
         <name>Keane</name>
         <appearsAs>Keane</appearsAs>
-        <url>http://www.7digital.com/artists/keane/?partner=1401</url>
+        <slug>keane</slug>
       </artist>
       <trackNumber>2</trackNumber>
       <duration>303</duration>
@@ -79,12 +79,12 @@
         <artist id="1">
           <name>Keane</name>
           <appearsAs>Keane</appearsAs>
-          <url>http://www.7digital.com/artists/keane/?partner=1401</url>
+          <slug>keane</slug>
         </artist>
-        <url>http://www.7digital.com/artists/keane/perfect-symmetry-1/?partner=1401</url>
+        <slug>keane</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/003/208/0000320866_50.jpg</image>
       </release>
-      <url>http://www.7digital.com/artists/keane/perfect-symmetry-1/02-The-Lovers-Are-Losing/?partner=1401</url>
+      <slug>keane</slug>
       <price>
         <currency code="GBP">£</currency>
         <value>0.99</value>
@@ -118,7 +118,7 @@
       <artist id="1">
         <name>Keane</name>
         <appearsAs>Keane</appearsAs>
-        <url>http://www.7digital.com/artists/keane/?partner=1401</url>
+        <slug>keane</slug>
       </artist>
       <trackNumber>3</trackNumber>
       <duration>242</duration>
@@ -133,12 +133,12 @@
         <artist id="1">
           <name>Keane</name>
           <appearsAs>Keane</appearsAs>
-          <url>http://www.7digital.com/artists/keane/?partner=1401</url>
+          <slug>keane</slug>
         </artist>
-        <url>http://www.7digital.com/artists/keane/perfect-symmetry-1/?partner=1401</url>
+        <slug>keane</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/003/208/0000320866_50.jpg</image>
       </release>
-      <url>http://www.7digital.com/artists/keane/perfect-symmetry-1/03-Better-Than-This/?partner=1401</url>
+      <slug>keane</slug>
       <price>
         <currency code="GBP">£</currency>
         <value>0.99</value>
@@ -172,7 +172,7 @@
       <artist id="1">
         <name>Keane</name>
         <appearsAs>Keane</appearsAs>
-        <url>http://www.7digital.com/artists/keane/?partner=1401</url>
+        <slug>keane</slug>
       </artist>
       <trackNumber>4</trackNumber>
       <duration>227</duration>
@@ -187,12 +187,12 @@
         <artist id="1">
           <name>Keane</name>
           <appearsAs>Keane</appearsAs>
-          <url>http://www.7digital.com/artists/keane/?partner=1401</url>
+          <slug>keane</slug>
         </artist>
-        <url>http://www.7digital.com/artists/keane/perfect-symmetry-1/?partner=1401</url>
+        <slug>keane</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/003/208/0000320866_50.jpg</image>
       </release>
-      <url>http://www.7digital.com/artists/keane/perfect-symmetry-1/04-You-Havent-Told-Me-Anything/?partner=1401</url>
+      <slug>keane</slug>
       <price>
         <currency code="GBP">£</currency>
         <value>0.99</value>
@@ -226,7 +226,7 @@
       <artist id="1">
         <name>Keane</name>
         <appearsAs>Keane</appearsAs>
-        <url>http://www.7digital.com/artists/keane/?partner=1401</url>
+        <slug>keane</slug>
       </artist>
       <trackNumber>5</trackNumber>
       <duration>310</duration>
@@ -241,12 +241,12 @@
         <artist id="1">
           <name>Keane</name>
           <appearsAs>Keane</appearsAs>
-          <url>http://www.7digital.com/artists/keane/?partner=1401</url>
+          <slug>keane</slug>
         </artist>
-        <url>http://www.7digital.com/artists/keane/perfect-symmetry-1/?partner=1401</url>
+        <slug>keane</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/003/208/0000320866_50.jpg</image>
       </release>
-      <url>http://www.7digital.com/artists/keane/perfect-symmetry-1/05-Perfect-Symmetry/?partner=1401</url>
+      <slug>keane</slug>
       <price>
         <currency code="GBP">£</currency>
         <value>0.99</value>
@@ -280,7 +280,7 @@
       <artist id="1">
         <name>Keane</name>
         <appearsAs>Keane</appearsAs>
-        <url>http://www.7digital.com/artists/keane/?partner=1401</url>
+        <slug>keane</slug>
       </artist>
       <trackNumber>6</trackNumber>
       <duration>243</duration>
@@ -295,12 +295,12 @@
         <artist id="1">
           <name>Keane</name>
           <appearsAs>Keane</appearsAs>
-          <url>http://www.7digital.com/artists/keane/?partner=1401</url>
+          <slug>keane</slug>
         </artist>
-        <url>http://www.7digital.com/artists/keane/perfect-symmetry-1/?partner=1401</url>
+        <slug>keane</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/003/208/0000320866_50.jpg</image>
       </release>
-      <url>http://www.7digital.com/artists/keane/perfect-symmetry-1/06-You-Dont-See-Me/?partner=1401</url>
+      <slug>keane</slug>
       <price>
         <currency code="GBP">£</currency>
         <value>0.99</value>
@@ -334,7 +334,7 @@
       <artist id="1">
         <name>Keane</name>
         <appearsAs>Keane</appearsAs>
-        <url>http://www.7digital.com/artists/keane/?partner=1401</url>
+        <slug>keane</slug>
       </artist>
       <trackNumber>7</trackNumber>
       <duration>230</duration>
@@ -349,12 +349,12 @@
         <artist id="1">
           <name>Keane</name>
           <appearsAs>Keane</appearsAs>
-          <url>http://www.7digital.com/artists/keane/?partner=1401</url>
+          <slug>keane</slug>
         </artist>
-        <url>http://www.7digital.com/artists/keane/perfect-symmetry-1/?partner=1401</url>
+        <slug>keane</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/003/208/0000320866_50.jpg</image>
       </release>
-      <url>http://www.7digital.com/artists/keane/perfect-symmetry-1/07-Again-and-Again/?partner=1401</url>
+      <slug>keane</slug>
       <price>
         <currency code="GBP">£</currency>
         <value>0.99</value>
@@ -388,7 +388,7 @@
       <artist id="1">
         <name>Keane</name>
         <appearsAs>Keane</appearsAs>
-        <url>http://www.7digital.com/artists/keane/?partner=1401</url>
+        <slug>keane</slug>
       </artist>
       <trackNumber>8</trackNumber>
       <duration>333</duration>
@@ -403,12 +403,12 @@
         <artist id="1">
           <name>Keane</name>
           <appearsAs>Keane</appearsAs>
-          <url>http://www.7digital.com/artists/keane/?partner=1401</url>
+          <slug>keane</slug>
         </artist>
-        <url>http://www.7digital.com/artists/keane/perfect-symmetry-1/?partner=1401</url>
+        <slug>keane</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/003/208/0000320866_50.jpg</image>
       </release>
-      <url>http://www.7digital.com/artists/keane/perfect-symmetry-1/08-Playing-Along/?partner=1401</url>
+      <slug>keane</slug>
       <price>
         <currency code="GBP">£</currency>
         <value>0.99</value>
@@ -442,7 +442,7 @@
       <artist id="1">
         <name>Keane</name>
         <appearsAs>Keane</appearsAs>
-        <url>http://www.7digital.com/artists/keane/?partner=1401</url>
+        <slug>keane</slug>
       </artist>
       <trackNumber>9</trackNumber>
       <duration>227</duration>
@@ -457,12 +457,12 @@
         <artist id="1">
           <name>Keane</name>
           <appearsAs>Keane</appearsAs>
-          <url>http://www.7digital.com/artists/keane/?partner=1401</url>
+          <slug>keane</slug>
         </artist>
-        <url>http://www.7digital.com/artists/keane/perfect-symmetry-1/?partner=1401</url>
+        <slug>keane</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/003/208/0000320866_50.jpg</image>
       </release>
-      <url>http://www.7digital.com/artists/keane/perfect-symmetry-1/09-Pretend-That-Youre-Alone/?partner=1401</url>
+      <slug>keane</slug>
       <price>
         <currency code="GBP">£</currency>
         <value>0.99</value>
@@ -496,7 +496,7 @@
       <artist id="1">
         <name>Keane</name>
         <appearsAs>Keane</appearsAs>
-        <url>http://www.7digital.com/artists/keane/?partner=1401</url>
+        <slug>keane</slug>
       </artist>
       <trackNumber>10</trackNumber>
       <duration>321</duration>
@@ -511,12 +511,12 @@
         <artist id="1">
           <name>Keane</name>
           <appearsAs>Keane</appearsAs>
-          <url>http://www.7digital.com/artists/keane/?partner=1401</url>
+          <slug>keane</slug>
         </artist>
-        <url>http://www.7digital.com/artists/keane/perfect-symmetry-1/?partner=1401</url>
+        <slug>keane</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/003/208/0000320866_50.jpg</image>
       </release>
-      <url>http://www.7digital.com/artists/keane/perfect-symmetry-1/10-Black-Burning-Heart/?partner=1401</url>
+      <slug>keane</slug>
       <price>
         <currency code="GBP">£</currency>
         <value>0.99</value>

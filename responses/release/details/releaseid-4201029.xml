@@ -10,9 +10,9 @@
     <artist id="6051">
       <name>Madonna</name>
       <appearsAs>Madonna</appearsAs>
-      <url>http://www.7digital.com/artist/madonna/?partner=3923</url>
+      <slug>madonna</slug>
     </artist>
-    <url>http://www.7digital.com/artist/madonna/release/rebel-heart-explicit/?partner=3923</url>
+    <slug>rebel-heart-explicit</slug>
     <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/042/010/0004201029_50.jpg</image>
     <label id="47744">
       <name>Universal Music Australia Pty. Ltd.</name>

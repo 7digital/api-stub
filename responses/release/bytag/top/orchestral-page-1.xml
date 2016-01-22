@@ -16,9 +16,9 @@
         <artist id="209">
           <name>Various Artists</name>
           <appearsAs>Various Artists</appearsAs>
-          <url>http://www.7digital.com/artist/various-artists/?partner=1401</url>
+          <slug>various-artists</slug>
         </artist>
-        <url>http://www.7digital.com/artist/various-artists/release/101-greatest-classics-vol-1/?partner=1401</url>
+        <slug>101-greatest-classics-vol-1</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/008/384/0000838472_50.jpg</image>
         <popularity>0.53</popularity>
         <streamingReleaseDate>2010-04-23T00:00:00+01:00</streamingReleaseDate>
@@ -35,9 +35,9 @@
         <artist id="115055">
           <name>The City of Prague Philharmonic Orchestra</name>
           <appearsAs>City of Prague Philharmonic Orchestra, The</appearsAs>
-          <url>http://www.7digital.com/artist/the-city-of-prague-philharmonic-orchestra/?partner=1401</url>
+          <slug>the-city-of-prague-philharmonic-orchestra</slug>
         </artist>
-        <url>http://www.7digital.com/artist/the-city-of-prague-philharmonic-orchestra/release/the-best-of-hans-zimmer/?partner=1401</url>
+        <slug>the-best-of-hans-zimmer</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/010/662/0001066267_50.jpg</image>
         <popularity>0.49</popularity>
         <streamingReleaseDate>2011-02-07T00:00:00+00:00</streamingReleaseDate>
@@ -54,9 +54,9 @@
         <artist id="209">
           <name>Various Artists</name>
           <appearsAs>Various Artists</appearsAs>
-          <url>http://www.7digital.com/artist/various-artists/?partner=1401</url>
+          <slug>various-artists</slug>
         </artist>
-        <url>http://www.7digital.com/artist/various-artists/release/requiem-for-a-tower-dream/?partner=1401</url>
+        <slug>requiem-for-a-tower-dream</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/004/271/0000427121_50.jpg</image>
         <popularity>0.47</popularity>
         <streamingReleaseDate>2009-04-28T00:00:00+01:00</streamingReleaseDate>
@@ -73,9 +73,9 @@
         <artist id="166348">
           <name>London Music Works</name>
           <appearsAs>London Music Works</appearsAs>
-          <url>http://www.7digital.com/artist/london-music-works/?partner=1401</url>
+          <slug>london-music-works</slug>
         </artist>
-        <url>http://www.7digital.com/artist/london-music-works/release/police-academy-theme/?partner=1401</url>
+        <slug>police-academy-theme</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/017/682/0001768246_50.jpg</image>
         <popularity>0.46</popularity>
         <streamingReleaseDate>3001-01-01T00:00:00+00:00</streamingReleaseDate>
@@ -92,9 +92,9 @@
         <artist id="579795">
           <name>Hans Zimmer, James Newton Howard</name>
           <appearsAs>Hans Zimmer, James Newton Howard</appearsAs>
-          <url>http://www.7digital.com/artist/hans-zimmer-james-newton-howard/?partner=1401</url>
+          <slug>hans-zimmer-james-newton-howard</slug>
         </artist>
-        <url>http://www.7digital.com/artist/hans-zimmer-james-newton-howard/release/batman-begins-original-soundtrack/?partner=1401</url>
+        <slug>batman-begins-original-soundtrack</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/007/771/0000777126_50.jpg</image>
         <popularity>0.46</popularity>
         <streamingReleaseDate>2010-04-05T00:00:00+01:00</streamingReleaseDate>
@@ -111,9 +111,9 @@
         <artist id="166348">
           <name>London Music Works</name>
           <appearsAs>London Music Works</appearsAs>
-          <url>http://www.7digital.com/artist/london-music-works/?partner=1401</url>
+          <slug>london-music-works</slug>
         </artist>
-        <url>http://www.7digital.com/artist/london-music-works/release/the-walking-dead-theme-tune/?partner=1401</url>
+        <slug>the-walking-dead-theme-tune</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/016/236/0001623634_50.jpg</image>
         <popularity>0.45</popularity>
         <streamingReleaseDate>2012-02-27T00:00:00+00:00</streamingReleaseDate>
@@ -130,9 +130,9 @@
         <artist id="115055">
           <name>The City of Prague Philharmonic Orchestra</name>
           <appearsAs>City of Prague Philharmonic Orchestra, The</appearsAs>
-          <url>http://www.7digital.com/artist/the-city-of-prague-philharmonic-orchestra/?partner=1401</url>
+          <slug>the-city-of-prague-philharmonic-orchestra</slug>
         </artist>
-        <url>http://www.7digital.com/artist/the-city-of-prague-philharmonic-orchestra/release/music-from-the-twilight-saga/?partner=1401</url>
+        <slug>music-from-the-twilight-saga</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/016/055/0001605541_50.jpg</image>
         <popularity>0.45</popularity>
         <streamingReleaseDate>2012-03-12T00:00:00+00:00</streamingReleaseDate>
@@ -149,9 +149,9 @@
         <artist id="209">
           <name>Various Artists</name>
           <appearsAs>Various Artists</appearsAs>
-          <url>http://www.7digital.com/artist/various-artists/?partner=1401</url>
+          <slug>various-artists</slug>
         </artist>
-        <url>http://www.7digital.com/artist/various-artists/release/debussy-complete-orchestral-works/?partner=1401</url>
+        <slug>debussy-complete-orchestral-works</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/015/761/0001576116_50.jpg</image>
         <popularity>0.45</popularity>
         <streamingReleaseDate>2012-02-07T00:00:00+00:00</streamingReleaseDate>
@@ -168,9 +168,9 @@
         <artist id="166348">
           <name>London Music Works</name>
           <appearsAs>London Music Works</appearsAs>
-          <url>http://www.7digital.com/artist/london-music-works/?partner=1401</url>
+          <slug>london-music-works</slug>
         </artist>
-        <url>http://www.7digital.com/artist/london-music-works/release/game-of-thrones-theme-tune/?partner=1401</url>
+        <slug>game-of-thrones-theme-tune</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/016/189/0001618956_50.jpg</image>
         <popularity>0.44</popularity>
         <streamingReleaseDate>2012-02-27T00:00:00+00:00</streamingReleaseDate>
@@ -187,9 +187,9 @@
         <artist id="1243400">
           <name>Brandon K. Verrett</name>
           <appearsAs>Brandon K. Verrett</appearsAs>
-          <url>http://www.7digital.com/artist/brandon-k-verrett/?partner=1401</url>
+          <slug>brandon-k-verrett</slug>
         </artist>
-        <url>http://www.7digital.com/artist/brandon-k-verrett/release/top-gun-anthem-from-the-motion-picture-harold-faltermeyer/?partner=1401</url>
+        <slug>top-gun-anthem-from-the-motion-picture-harold-faltermeyer</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/016/921/0001692123_50.jpg</image>
         <popularity>0.44</popularity>
         <streamingReleaseDate>2012-04-17T00:00:00+01:00</streamingReleaseDate>

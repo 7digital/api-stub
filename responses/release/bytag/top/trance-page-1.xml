@@ -16,9 +16,9 @@
         <artist id="209">
           <name>Various Artists</name>
           <appearsAs>Various Artists</appearsAs>
-          <url>http://www.7digital.com/artist/various-artists/?partner=1401</url>
+          <slug>various-artists</slug>
         </artist>
-        <url>http://www.7digital.com/artist/various-artists/release/godskitchen-ibiza-trance-anthems/?partner=1401</url>
+        <slug>godskitchen-ibiza-trance-anthems</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/017/991/0001799179_50.jpg</image>
         <popularity>0.62</popularity>
         <streamingReleaseDate>3001-01-01T00:00:00+00:00</streamingReleaseDate>
@@ -35,9 +35,9 @@
         <artist id="8685">
           <name>Armin van Buuren</name>
           <appearsAs>Armin van Buuren</appearsAs>
-          <url>http://www.7digital.com/artist/armin-van-buuren/?partner=1401</url>
+          <slug>armin-van-buuren</slug>
         </artist>
-        <url>http://www.7digital.com/artist/armin-van-buuren/release/a-state-of-trance-2012-mixed-version/?partner=1401</url>
+        <slug>a-state-of-trance-2012-mixed-version</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/016/265/0001626531_50.jpg</image>
         <popularity>0.59</popularity>
         <streamingReleaseDate>3001-01-01T00:00:00+00:00</streamingReleaseDate>
@@ -54,9 +54,9 @@
         <artist id="209">
           <name>Various Artists</name>
           <appearsAs>Various Artists</appearsAs>
-          <url>http://www.7digital.com/artist/various-artists/?partner=1401</url>
+          <slug>various-artists</slug>
         </artist>
-        <url>http://www.7digital.com/artist/various-artists/release/cream-club-anthems-2012/?partner=1401</url>
+        <slug>cream-club-anthems-2012</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/015/998/0001599885_50.jpg</image>
         <popularity>0.56</popularity>
         <streamingReleaseDate>3001-01-01T00:00:00+00:00</streamingReleaseDate>
@@ -73,9 +73,9 @@
         <artist id="209">
           <name>Various Artists</name>
           <appearsAs>Various Artists</appearsAs>
-          <url>http://www.7digital.com/artist/various-artists/?partner=1401</url>
+          <slug>various-artists</slug>
         </artist>
-        <url>http://www.7digital.com/artist/various-artists/release/ibiza-trance-2011/?partner=1401</url>
+        <slug>ibiza-trance-2011</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/012/438/0001243851_50.jpg</image>
         <popularity>0.56</popularity>
         <streamingReleaseDate>2011-06-23T00:00:00+01:00</streamingReleaseDate>
@@ -92,9 +92,9 @@
         <artist id="209">
           <name>Various Artists</name>
           <appearsAs>Various Artists</appearsAs>
-          <url>http://www.7digital.com/artist/various-artists/?partner=1401</url>
+          <slug>various-artists</slug>
         </artist>
-        <url>http://www.7digital.com/artist/various-artists/release/summer-2012/?partner=1401</url>
+        <slug>summer-2012</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/015/912/0001591235_50.jpg</image>
         <popularity>0.54</popularity>
         <streamingReleaseDate>3001-01-01T00:00:00+00:00</streamingReleaseDate>
@@ -111,9 +111,9 @@
         <artist id="8669">
           <name>Tiësto</name>
           <appearsAs>Tiësto</appearsAs>
-          <url>http://www.7digital.com/artist/tiësto/?partner=1401</url>
+          <slug>tiësto</slug>
         </artist>
-        <url>http://www.7digital.com/artist/tiësto/release/nyana/?partner=1401</url>
+        <slug>nyana</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/010/172/0001017274_50.jpg</image>
         <popularity>0.51</popularity>
         <streamingReleaseDate>2010-11-01T00:00:00+00:00</streamingReleaseDate>
@@ -130,9 +130,9 @@
         <artist id="209">
           <name>Various Artists</name>
           <appearsAs>Various Artists</appearsAs>
-          <url>http://www.7digital.com/artist/various-artists/?partner=1401</url>
+          <slug>various-artists</slug>
         </artist>
-        <url>http://www.7digital.com/artist/various-artists/release/trance-europe-express-rome-station/?partner=1401</url>
+        <slug>trance-europe-express-rome-station</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/016/176/0001617664_50.jpg</image>
         <popularity>0.51</popularity>
         <streamingReleaseDate>3001-01-01T00:00:00+00:00</streamingReleaseDate>
@@ -149,9 +149,9 @@
         <artist id="209">
           <name>Various Artists</name>
           <appearsAs>Various Artists</appearsAs>
-          <url>http://www.7digital.com/artist/various-artists/?partner=1401</url>
+          <slug>various-artists</slug>
         </artist>
-        <url>http://www.7digital.com/artist/various-artists/release/dance-for-love-2012/?partner=1401</url>
+        <slug>dance-for-love-2012</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/015/744/0001574463_50.jpg</image>
         <popularity>0.5</popularity>
         <streamingReleaseDate>2012-09-02T00:00:00+01:00</streamingReleaseDate>
@@ -168,9 +168,9 @@
         <artist id="209">
           <name>Various Artists</name>
           <appearsAs>Various Artists</appearsAs>
-          <url>http://www.7digital.com/artist/various-artists/?partner=1401</url>
+          <slug>various-artists</slug>
         </artist>
-        <url>http://www.7digital.com/artist/various-artists/release/techno-trance-best-of-techno-trance-hard-house-and-hands-up-anthems/?partner=1401</url>
+        <slug>techno-trance-best-of-techno-trance-hard-house-and-hands-up-anthems</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/012/281/0001228183_50.jpg</image>
         <popularity>0.5</popularity>
         <streamingReleaseDate>2011-05-17T00:00:00+01:00</streamingReleaseDate>
@@ -187,9 +187,9 @@
         <artist id="222">
           <name>Maroon 5</name>
           <appearsAs>Maroon 5</appearsAs>
-          <url>http://www.7digital.com/artist/maroon-5/?partner=1401</url>
+          <slug>maroon-5</slug>
         </artist>
-        <url>http://www.7digital.com/artist/maroon-5/release/call-and-response-the-remix-album-2/?partner=1401</url>
+        <slug>call-and-response-the-remix-album-2</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/003/435/0000343549_50.jpg</image>
         <popularity>0.49</popularity>
         <streamingReleaseDate>2008-12-07T00:00:00+00:00</streamingReleaseDate>

@@ -10,7 +10,7 @@
       <artist id="1">
         <name>Keane</name>
         <appearsAs>Keane</appearsAs>
-        <url>http://www.7digital.com/artists/keane/?partner=712</url>
+        <slug>keane</slug>
       </artist>
       <trackNumber>1</trackNumber>
       <duration>84</duration>
@@ -24,12 +24,12 @@
         <artist id="1">
           <name>Keane</name>
           <appearsAs>Keane</appearsAs>
-          <url>http://www.7digital.com/artists/keane/?partner=712</url>
+          <slug>keane</slug>
         </artist>
-        <url>http://www.7digital.com/artists/keane/night-train/?partner=712</url>
+        <slug>keane</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/007/990/0000799025_50.jpg</image>
       </release>
-      <url>http://www.7digital.com/artists/keane/night-train/01-House-Lights/?partner=712</url>
+      <slug>keane</slug>
       <price>
         <currency code="GBP">£</currency>
         <formattedPrice>£0.99</formattedPrice>
@@ -62,7 +62,7 @@
       <artist id="1">
         <name>Keane</name>
         <appearsAs>Keane</appearsAs>
-        <url>http://www.7digital.com/artists/keane/?partner=712</url>
+        <slug>keane</slug>
       </artist>
       <trackNumber>1</trackNumber>
       <duration>84</duration>
@@ -76,12 +76,12 @@
         <artist id="1">
           <name>Keane</name>
           <appearsAs>Keane</appearsAs>
-          <url>http://www.7digital.com/artists/keane/?partner=712</url>
+          <slug>keane</slug>
         </artist>
-        <url>http://www.7digital.com/artists/keane/night-train/?partner=712</url>
+        <slug>keane</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/007/990/0000799025_50.jpg</image>
       </release>
-      <url>http://www.7digital.com/artists/keane/night-train/01-House-Lights/?partner=712</url>
+      <slug>keane</slug>
       <price>
         <currency code="GBP">£</currency>
         <formattedPrice>£0.99</formattedPrice>
@@ -114,7 +114,7 @@
       <artist id="1">
         <name>Keane</name>
         <appearsAs>Keane</appearsAs>
-        <url>http://www.7digital.com/artists/keane/?partner=712</url>
+        <slug>keane</slug>
       </artist>
       <trackNumber>1</trackNumber>
       <duration>84</duration>
@@ -128,12 +128,12 @@
         <artist id="1">
           <name>Keane</name>
           <appearsAs>Keane</appearsAs>
-          <url>http://www.7digital.com/artists/keane/?partner=712</url>
+          <slug>keane</slug>
         </artist>
-        <url>http://www.7digital.com/artists/keane/night-train/?partner=712</url>
+        <slug>keane</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/007/990/0000799025_50.jpg</image>
       </release>
-      <url>http://www.7digital.com/artists/keane/night-train/01-House-Lights/?partner=712</url>
+      <slug>keane</slug>
       <price>
         <currency code="GBP">£</currency>
         <formattedPrice>£0.99</formattedPrice>
@@ -166,7 +166,7 @@
       <artist id="1">
         <name>Keane</name>
         <appearsAs>Keane</appearsAs>
-        <url>http://www.7digital.com/artists/keane/?partner=712</url>
+        <slug>keane</slug>
       </artist>
       <trackNumber>1</trackNumber>
       <duration>84</duration>
@@ -180,12 +180,12 @@
         <artist id="1">
           <name>Keane</name>
           <appearsAs>Keane</appearsAs>
-          <url>http://www.7digital.com/artists/keane/?partner=712</url>
+          <slug>keane</slug>
         </artist>
-        <url>http://www.7digital.com/artists/keane/night-train/?partner=712</url>
+        <slug>keane</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/007/990/0000799025_50.jpg</image>
       </release>
-      <url>http://www.7digital.com/artists/keane/night-train/01-House-Lights/?partner=712</url>
+      <slug>keane</slug>
       <price>
         <currency code="GBP">£</currency>
         <formattedPrice>£0.99</formattedPrice>

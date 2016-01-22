@@ -12,7 +12,7 @@
       <change>Up</change>
       <artist id="171648">
         <name>Grizzly Bear</name>
-        <url>http://www.7digital.com/artists/grizzly-bear/?partner=1401</url>
+        <slug>grizzly-bear</slug>
       </artist>
     </chartItem>
     <chartItem>
@@ -20,7 +20,7 @@
       <change>Up</change>
       <artist id="23720">
         <name>Paolo Nutini</name>
-        <url>http://www.7digital.com/artists/paolo-nutini/?partner=1401</url>
+        <slug>paolo-nutini</slug>
       </artist>
     </chartItem>
     <chartItem>
@@ -28,7 +28,7 @@
       <change>Up</change>
       <artist id="8814">
         <name>Phoenix</name>
-        <url>http://www.7digital.com/artists/phoenix/?partner=1401</url>
+        <slug>phoenix</slug>
       </artist>
     </chartItem>
     <chartItem>
@@ -36,7 +36,7 @@
       <change>Down</change>
       <artist id="209">
         <name>Various Artists</name>
-        <url>http://www.7digital.com/artists/various-artists/?partner=1401</url>
+        <slug>various-artists</slug>
       </artist>
     </chartItem>
     <chartItem>
@@ -44,7 +44,7 @@
       <change>Up</change>
       <artist id="275222">
         <name>Little Boots</name>
-        <url>http://www.7digital.com/artists/little-boots/?partner=1401</url>
+        <slug>little-boots</slug>
       </artist>
     </chartItem>
     <chartItem>
@@ -52,7 +52,7 @@
       <change>Up</change>
       <artist id="221551">
         <name>Empire Of The Sun</name>
-        <url>http://www.7digital.com/artists/empire-of-the-sun/?partner=1401</url>
+        <slug>empire-of-the-sun</slug>
       </artist>
     </chartItem>
     <chartItem>
@@ -60,7 +60,7 @@
       <change>Down</change>
       <artist id="209">
         <name>Various Artists</name>
-        <url>http://www.7digital.com/artists/various-artists/?partner=1401</url>
+        <slug>various-artists</slug>
       </artist>
     </chartItem>
     <chartItem>
@@ -68,7 +68,7 @@
       <change>Down</change>
       <artist id="16269">
         <name>Simple Minds</name>
-        <url>http://www.7digital.com/artists/simple-minds/?partner=1401</url>
+        <slug>simple-minds</slug>
       </artist>
     </chartItem>
     <chartItem>
@@ -76,7 +76,7 @@
       <change>Down</change>
       <artist id="271469">
         <name>La Roux</name>
-        <url>http://www.7digital.com/artists/la-roux/?partner=1401</url>
+        <slug>la-roux</slug>
       </artist>
     </chartItem>
     <chartItem>
@@ -84,7 +84,7 @@
       <change>Down</change>
       <artist id="262">
         <name>Eminem</name>
-        <url>http://www.7digital.com/artists/eminem/?partner=1401</url>
+        <slug>eminem</slug>
       </artist>
     </chartItem>
   </chart>

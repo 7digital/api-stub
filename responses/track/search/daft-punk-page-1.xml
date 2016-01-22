@@ -13,7 +13,7 @@
         <artist id="466">
           <name>Daft Punk</name>
           <appearsAs>Daft Punk</appearsAs>
-          <url>http://www.7digital.com/artist/daft-punk/?partner=3923</url>
+          <slug>daft-punk</slug>
         </artist>
         <trackNumber>4</trackNumber>
         <duration>225</duration>
@@ -27,13 +27,13 @@
           <artist id="466">
             <name>Daft Punk</name>
             <appearsAs>Daft Punk</appearsAs>
-            <url>http://www.7digital.com/artist/daft-punk/?partner=3923</url>
+            <slug>daft-punk</slug>
           </artist>
-          <url>http://www.7digital.com/artist/daft-punk/release/discovery-1/?partner=3923</url>
+          <slug>discovery-1</slug>
           <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/000/454/0000045472_50.jpg</image>
           <popularity>0</popularity>
         </release>
-        <url>http://www.7digital.com/artist/daft-punk/release/discovery-1/?partner=3923&amp;h=04</url>
+        <slug>discovery-1</slug>
         <price>
           <currency code="GBP">£</currency>
           <value>0.99</value>
@@ -74,7 +74,7 @@
         <artist id="466">
           <name>Daft Punk</name>
           <appearsAs>Daft Punk</appearsAs>
-          <url>http://www.7digital.com/artist/daft-punk/?partner=3923</url>
+          <slug>daft-punk</slug>
         </artist>
         <trackNumber>1</trackNumber>
         <duration>320</duration>
@@ -88,13 +88,13 @@
           <artist id="466">
             <name>Daft Punk</name>
             <appearsAs>Daft Punk</appearsAs>
-            <url>http://www.7digital.com/artist/daft-punk/?partner=3923</url>
+            <slug>daft-punk</slug>
           </artist>
-          <url>http://www.7digital.com/artist/daft-punk/release/discovery-1/?partner=3923</url>
+          <slug>discovery-1</slug>
           <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/000/454/0000045472_50.jpg</image>
           <popularity>0</popularity>
         </release>
-        <url>http://www.7digital.com/artist/daft-punk/release/discovery-1/?partner=3923&amp;h=01</url>
+        <slug>discovery-1</slug>
         <price>
           <currency code="GBP">£</currency>
           <value>0.99</value>
@@ -134,7 +134,7 @@
         <artist id="466">
           <name>Daft Punk</name>
           <appearsAs>Daft Punk</appearsAs>
-          <url>http://www.7digital.com/artist/daft-punk/?partner=3923</url>
+          <slug>daft-punk</slug>
         </artist>
         <trackNumber>13</trackNumber>
         <duration>104</duration>
@@ -148,13 +148,13 @@
           <artist id="466">
             <name>Daft Punk</name>
             <appearsAs>Daft Punk</appearsAs>
-            <url>http://www.7digital.com/artist/daft-punk/?partner=3923</url>
+            <slug>daft-punk</slug>
           </artist>
-          <url>http://www.7digital.com/artist/daft-punk/release/tron-legacy/?partner=3923</url>
+          <slug>tron-legacy</slug>
           <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/010/476/0001047688_50.jpg</image>
           <popularity>0</popularity>
         </release>
-        <url>http://www.7digital.com/artist/daft-punk/release/tron-legacy/?partner=3923&amp;h=13</url>
+        <slug>tron-legacy</slug>
         <price>
           <currency code="GBP">£</currency>
           <value>0.99</value>
@@ -194,7 +194,7 @@
         <artist id="466">
           <name>Daft Punk</name>
           <appearsAs>Daft Punk</appearsAs>
-          <url>http://www.7digital.com/artist/daft-punk-feat-pharrell-williams-and-nile-rodgers/?partner=3923</url>
+          <slug>daft-punk-feat-pharrell-williams-and-nile-rodgers</slug>
         </artist>
         <trackNumber>1</trackNumber>
         <duration>248</duration>
@@ -208,13 +208,13 @@
           <artist id="466">
             <name>Daft Punk</name>
             <appearsAs>Daft Punk</appearsAs>
-            <url>http://www.7digital.com/artist/daft-punk-feat-pharrell-williams-and-nile-rodgers/?partner=3923</url>
+            <slug>daft-punk-feat-pharrell-williams-and-nile-rodgers</slug>
           </artist>
-          <url>http://www.7digital.com/artist/daft-punk-feat-pharrell-williams-and-nile-rodgers/release/get-lucky/?partner=3923</url>
+          <slug>get-lucky</slug>
           <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/026/861/0002686113_50.jpg</image>
           <popularity>0</popularity>
         </release>
-        <url>http://www.7digital.com/artist/daft-punk-feat-pharrell-williams-and-nile-rodgers/release/get-lucky/?partner=3923&amp;h=01</url>
+        <slug>get-lucky</slug>
         <price>
           <currency code="GBP">£</currency>
           <value>1.29</value>
@@ -254,7 +254,7 @@
         <artist id="466">
           <name>Daft Punk</name>
           <appearsAs>Daft Punk</appearsAs>
-          <url>http://www.7digital.com/artist/daft-punk/?partner=3923</url>
+          <slug>daft-punk</slug>
         </artist>
         <trackNumber>2</trackNumber>
         <duration>97</duration>
@@ -268,13 +268,13 @@
           <artist id="466">
             <name>Daft Punk</name>
             <appearsAs>Daft Punk</appearsAs>
-            <url>http://www.7digital.com/artist/daft-punk/?partner=3923</url>
+            <slug>daft-punk</slug>
           </artist>
-          <url>http://www.7digital.com/artist/daft-punk/release/tron-legacy/?partner=3923</url>
+          <slug>tron-legacy</slug>
           <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/010/476/0001047688_50.jpg</image>
           <popularity>0</popularity>
         </release>
-        <url>http://www.7digital.com/artist/daft-punk/release/tron-legacy/?partner=3923&amp;h=02</url>
+        <slug>tron-legacy</slug>
         <price>
           <currency code="GBP">£</currency>
           <value>0.99</value>
@@ -314,7 +314,7 @@
         <artist id="466">
           <name>Daft Punk</name>
           <appearsAs>Daft Punk</appearsAs>
-          <url>http://www.7digital.com/artist/daft-punk/?partner=3923</url>
+          <slug>daft-punk</slug>
         </artist>
         <trackNumber>1</trackNumber>
         <duration>148</duration>
@@ -328,13 +328,13 @@
           <artist id="466">
             <name>Daft Punk</name>
             <appearsAs>Daft Punk</appearsAs>
-            <url>http://www.7digital.com/artist/daft-punk/?partner=3923</url>
+            <slug>daft-punk</slug>
           </artist>
-          <url>http://www.7digital.com/artist/daft-punk/release/tron-legacy/?partner=3923</url>
+          <slug>tron-legacy</slug>
           <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/010/476/0001047688_50.jpg</image>
           <popularity>0</popularity>
         </release>
-        <url>http://www.7digital.com/artist/daft-punk/release/tron-legacy/?partner=3923&amp;h=01</url>
+        <slug>tron-legacy</slug>
         <price>
           <currency code="GBP">£</currency>
           <value>0.99</value>

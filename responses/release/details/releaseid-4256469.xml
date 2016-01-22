@@ -10,9 +10,9 @@
     <artist id="588">
       <name>Muse</name>
       <appearsAs>Muse</appearsAs>
-      <url>http://www.7digital.com/artist/muse/?partner=3923</url>
+      <slug>muse</slug>
     </artist>
-    <url>http://www.7digital.com/artist/muse/release/drones/?partner=3923</url>
+    <slug>drones</slug>
     <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/042/564/0004256469_50.jpg</image>
     <label id="14">
       <name>Warner</name>

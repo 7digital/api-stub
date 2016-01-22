@@ -16,9 +16,9 @@
         <artist id="382">
           <name>Gorillaz</name>
           <appearsAs>Gorillaz</appearsAs>
-          <url>http://www.7digital.com/artist/gorillaz/?partner=1401</url>
+          <slug>gorillaz</slug>
         </artist>
-        <url>http://www.7digital.com/artist/gorillaz/release/demon-days/?partner=1401</url>
+        <slug>demon-days</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/000/106/0000010609_50.jpg</image>
         <popularity>0.54</popularity>
         <streamingReleaseDate>2006-09-04T00:00:00+01:00</streamingReleaseDate>
@@ -35,9 +35,9 @@
         <artist id="583057">
           <name>The Glitch Mob</name>
           <appearsAs>Glitch Mob, The</appearsAs>
-          <url>http://www.7digital.com/artist/the-glitch-mob/?partner=1401</url>
+          <slug>the-glitch-mob</slug>
         </artist>
-        <url>http://www.7digital.com/artist/the-glitch-mob/release/we-can-make-the-world-stop-ep/?partner=1401</url>
+        <slug>we-can-make-the-world-stop-ep</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/013/130/0001313039_50.jpg</image>
         <popularity>0.53</popularity>
         <streamingReleaseDate>2011-07-12T00:00:00+01:00</streamingReleaseDate>
@@ -54,9 +54,9 @@
         <artist id="12566">
           <name>M83</name>
           <appearsAs>M83</appearsAs>
-          <url>http://www.7digital.com/artist/m83/?partner=1401</url>
+          <slug>m83</slug>
         </artist>
-        <url>http://www.7digital.com/artist/m83/release/saturdays-youth/?partner=1401</url>
+        <slug>saturdays-youth</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/002/162/0000216244_50.jpg</image>
         <popularity>0.52</popularity>
         <streamingReleaseDate>2008-04-14T00:00:00+01:00</streamingReleaseDate>
@@ -73,9 +73,9 @@
         <artist id="416">
           <name>Massive Attack</name>
           <appearsAs>Massive Attack</appearsAs>
-          <url>http://www.7digital.com/artist/massive-attack/?partner=1401</url>
+          <slug>massive-attack</slug>
         </artist>
-        <url>http://www.7digital.com/artist/massive-attack/release/collected/?partner=1401</url>
+        <slug>collected</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/000/309/0000030924_50.jpg</image>
         <popularity>0.49</popularity>
         <streamingReleaseDate>2006-08-28T00:00:00+01:00</streamingReleaseDate>
@@ -92,9 +92,9 @@
         <artist id="1600">
           <name>Moby</name>
           <appearsAs>Moby</appearsAs>
-          <url>http://www.7digital.com/artist/moby/?partner=1401</url>
+          <slug>moby</slug>
         </artist>
-        <url>http://www.7digital.com/artist/moby/release/play/?partner=1401</url>
+        <slug>play</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/000/024/0000002446_50.jpg</image>
         <popularity>0.49</popularity>
         <streamingReleaseDate>3001-01-01T00:00:00+00:00</streamingReleaseDate>
@@ -111,9 +111,9 @@
         <artist id="217">
           <name>Dido</name>
           <appearsAs>Dido</appearsAs>
-          <url>http://www.7digital.com/artist/dido/?partner=1401</url>
+          <slug>dido</slug>
         </artist>
-        <url>http://www.7digital.com/artist/dido/release/no-angel-2/?partner=1401</url>
+        <slug>no-angel-2</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/003/435/0000343593_50.jpg</image>
         <popularity>0.48</popularity>
         <streamingReleaseDate>2008-12-01T00:00:00+00:00</streamingReleaseDate>
@@ -130,9 +130,9 @@
         <artist id="217">
           <name>Dido</name>
           <appearsAs>Dido</appearsAs>
-          <url>http://www.7digital.com/artist/dido/?partner=1401</url>
+          <slug>dido</slug>
         </artist>
-        <url>http://www.7digital.com/artist/dido/release/life-for-rent-2/?partner=1401</url>
+        <slug>life-for-rent-2</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/003/435/0000343594_50.jpg</image>
         <popularity>0.48</popularity>
         <streamingReleaseDate>2008-12-01T00:00:00+00:00</streamingReleaseDate>
@@ -149,9 +149,9 @@
         <artist id="172347">
           <name>Desert Dwellers</name>
           <appearsAs>Desert Dwellers</appearsAs>
-          <url>http://www.7digital.com/artist/desert-dwellers/?partner=1401</url>
+          <slug>desert-dwellers</slug>
         </artist>
-        <url>http://www.7digital.com/artist/desert-dwellers/release/downtemple-dub-remixed/?partner=1401</url>
+        <slug>downtemple-dub-remixed</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/016/332/0001633214_50.jpg</image>
         <popularity>0.47</popularity>
         <streamingReleaseDate>3001-01-01T00:00:00+00:00</streamingReleaseDate>
@@ -168,9 +168,9 @@
         <artist id="12557">
           <name>Ulrich Schnauss</name>
           <appearsAs>Ulrich Schnauss</appearsAs>
-          <url>http://www.7digital.com/artist/ulrich-schnauss/?partner=1401</url>
+          <slug>ulrich-schnauss</slug>
         </artist>
-        <url>http://www.7digital.com/artist/ulrich-schnauss/release/far-away-trains-passing-by-1/?partner=1401</url>
+        <slug>far-away-trains-passing-by-1</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/003/167/0000316727_50.jpg</image>
         <popularity>0.47</popularity>
         <streamingReleaseDate>2008-10-12T00:00:00+01:00</streamingReleaseDate>
@@ -187,9 +187,9 @@
         <artist id="25">
           <name>Faithless</name>
           <appearsAs>Faithless</appearsAs>
-          <url>http://www.7digital.com/artist/faithless/?partner=1401</url>
+          <slug>faithless</slug>
         </artist>
-        <url>http://www.7digital.com/artist/faithless/release/forever-faithless-the-greatest-hits-1-1/?partner=1401</url>
+        <slug>forever-faithless-the-greatest-hits-1-1</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/002/790/0000279065_50.jpg</image>
         <popularity>0.47</popularity>
         <streamingReleaseDate>2005-05-14T00:00:00+01:00</streamingReleaseDate>

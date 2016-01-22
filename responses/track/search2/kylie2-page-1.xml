@@ -13,7 +13,7 @@
         <artist id="1599">
           <name>Kylie</name>
           <appearsAs>Kylie</appearsAs>
-          <url>http://www.7digital.com/artists/kylie</url>
+          <slug>kylie</slug>
         </artist>
         <trackNumber>1</trackNumber>
         <duration>0</duration>
@@ -22,11 +22,11 @@
           <title>Spinning Around</title>
           <version/>
           <type>single</type>
-          <url>http://www.7digital.com/artists/kylie/spinning-around</url>
+          <slug>kylie</slug>
           <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/000/086/0000008622_50.jpg</image>
           <popularity>0</popularity>
         </release>
-        <url>http://www.7digital.com/artists/kylie/spinning-around?h=01</url>
+        <slug>kylie</slug>
         <price xsi:nil="true">
           <rrp/>
           <formattedRrp/>

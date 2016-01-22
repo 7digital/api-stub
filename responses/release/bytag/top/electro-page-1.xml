@@ -16,9 +16,9 @@
         <artist id="209">
           <name>Various Artists</name>
           <appearsAs>Various Artists</appearsAs>
-          <url>http://www.7digital.com/artist/various-artists/?partner=1401</url>
+          <slug>various-artists</slug>
         </artist>
-        <url>http://www.7digital.com/artist/various-artists/release/ibiza-summer-vibes-vol-1/?partner=1401</url>
+        <slug>ibiza-summer-vibes-vol-1</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/012/750/0001275025_50.jpg</image>
         <popularity>0.65</popularity>
         <streamingReleaseDate>2011-06-25T00:00:00+01:00</streamingReleaseDate>
@@ -35,9 +35,9 @@
         <artist id="237973">
           <name>Lady GaGa</name>
           <appearsAs>Lady GaGa</appearsAs>
-          <url>http://www.7digital.com/artist/lady-gaga/?partner=1401</url>
+          <slug>lady-gaga</slug>
         </artist>
-        <url>http://www.7digital.com/artist/lady-gaga/release/the-fame-1/?partner=1401</url>
+        <slug>the-fame-1</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/003/435/0000343559_50.jpg</image>
         <popularity>0.59</popularity>
         <streamingReleaseDate>3001-01-01T00:00:00+00:00</streamingReleaseDate>
@@ -54,9 +54,9 @@
         <artist id="726273">
           <name>Feed Me</name>
           <appearsAs>Feed Me</appearsAs>
-          <url>http://www.7digital.com/artist/feed-me/?partner=1401</url>
+          <slug>feed-me</slug>
         </artist>
-        <url>http://www.7digital.com/artist/feed-me/release/to-the-stars/?partner=1401</url>
+        <slug>to-the-stars</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/013/029/0001302922_50.jpg</image>
         <popularity>0.52</popularity>
         <streamingReleaseDate>2011-07-01T00:00:00+01:00</streamingReleaseDate>
@@ -73,9 +73,9 @@
         <artist id="209">
           <name>Various Artists</name>
           <appearsAs>Various Artists</appearsAs>
-          <url>http://www.7digital.com/artist/various-artists/?partner=1401</url>
+          <slug>various-artists</slug>
         </artist>
-        <url>http://www.7digital.com/artist/various-artists/release/ibiza-openings-2012/?partner=1401</url>
+        <slug>ibiza-openings-2012</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/017/410/0001741053_50.jpg</image>
         <popularity>0.51</popularity>
         <streamingReleaseDate>3001-01-01T00:00:00+00:00</streamingReleaseDate>
@@ -92,9 +92,9 @@
         <artist id="209">
           <name>Various Artists</name>
           <appearsAs>Various Artists</appearsAs>
-          <url>http://www.7digital.com/artist/various-artists/?partner=1401</url>
+          <slug>various-artists</slug>
         </artist>
-        <url>http://www.7digital.com/artist/various-artists/release/gildas-and-jerry-kitsune-soleil-mix/?partner=1401</url>
+        <slug>gildas-and-jerry-kitsune-soleil-mix</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/017/692/0001769247_50.jpg</image>
         <popularity>0.51</popularity>
         <streamingReleaseDate>3001-01-01T00:00:00+00:00</streamingReleaseDate>
@@ -111,9 +111,9 @@
         <artist id="1226">
           <name>Groove Armada</name>
           <appearsAs>Groove Armada </appearsAs>
-          <url>http://www.7digital.com/artist/groove-armada-(2)/?partner=1401</url>
+          <slug>groove-armada-(2)</slug>
         </artist>
-        <url>http://www.7digital.com/artist/groove-armada-(2)/release/red-light-trax_vol-1/?partner=1401</url>
+        <slug>red-light-trax_vol-1</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/013/834/0001383431_50.jpg</image>
         <popularity>0.5</popularity>
         <streamingReleaseDate>3001-01-01T00:00:00+00:00</streamingReleaseDate>
@@ -130,9 +130,9 @@
         <artist id="209">
           <name>Various Artists</name>
           <appearsAs>Various Artists</appearsAs>
-          <url>http://www.7digital.com/artist/various-artists/?partner=1401</url>
+          <slug>various-artists</slug>
         </artist>
-        <url>http://www.7digital.com/artist/various-artists/release/club-dance-night-2011/?partner=1401</url>
+        <slug>club-dance-night-2011</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/012/721/0001272162_50.jpg</image>
         <popularity>0.5</popularity>
         <streamingReleaseDate>2011-06-19T00:00:00+01:00</streamingReleaseDate>
@@ -149,9 +149,9 @@
         <artist id="209">
           <name>Various Artists</name>
           <appearsAs>Various Artists</appearsAs>
-          <url>http://www.7digital.com/artist/various-artists/?partner=1401</url>
+          <slug>various-artists</slug>
         </artist>
-        <url>http://www.7digital.com/artist/various-artists/release/dance-summer-2011/?partner=1401</url>
+        <slug>dance-summer-2011</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/013/127/0001312723_50.jpg</image>
         <popularity>0.5</popularity>
         <streamingReleaseDate>2011-07-16T00:00:00+01:00</streamingReleaseDate>
@@ -168,9 +168,9 @@
         <artist id="613">
           <name>Fatboy Slim</name>
           <appearsAs>Fatboy Slim</appearsAs>
-          <url>http://www.7digital.com/artist/fatboy-slim/?partner=1401</url>
+          <slug>fatboy-slim</slug>
         </artist>
-        <url>http://www.7digital.com/artist/fatboy-slim/release/fatboy-slim-best-of-the-bootlegs/?partner=1401</url>
+        <slug>fatboy-slim-best-of-the-bootlegs</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/009/622/0000962200_50.jpg</image>
         <popularity>0.49</popularity>
         <streamingReleaseDate>2010-09-13T00:00:00+01:00</streamingReleaseDate>
@@ -187,9 +187,9 @@
         <artist id="3249">
           <name>Wu-Tang Clan</name>
           <appearsAs>Wu-Tang Clan</appearsAs>
-          <url>http://www.7digital.com/artist/wu-tang-clan/?partner=1401</url>
+          <slug>wu-tang-clan</slug>
         </artist>
-        <url>http://www.7digital.com/artist/wu-tang-clan/release/wu-tang-meets-the-dub-step/?partner=1401</url>
+        <slug>wu-tang-meets-the-dub-step</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/012/568/0001256800_50.jpg</image>
         <popularity>0.49</popularity>
         <streamingReleaseDate>2011-05-10T00:00:00+01:00</streamingReleaseDate>

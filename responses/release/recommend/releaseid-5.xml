@@ -15,9 +15,9 @@
         <artist id="304">
           <name>Radiohead</name>
           <appearsAs>Radiohead</appearsAs>
-          <url>http://www.7digital.com/artists/radiohead/?partner=712</url>
+          <slug>radiohead</slug>
         </artist>
-        <url>http://www.7digital.com/artists/radiohead/pablo-honey/?partner=712</url>
+        <slug>radiohead</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/000/011/0000001182_50.jpg</image>
         <download>
           <packages>
@@ -52,9 +52,9 @@
         <artist id="14">
           <name>The Charlatans</name>
           <appearsAs>The Charlatans</appearsAs>
-          <url>http://www.7digital.com/artists/the-charlatans/?partner=712</url>
+          <slug>the-charlatans</slug>
         </artist>
-        <url>http://www.7digital.com/artists/the-charlatans/my-foolish-pride/?partner=712</url>
+        <slug>the-charlatans</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/009/809/0000980972_50.jpg</image>
         <download>
           <packages>
@@ -92,9 +92,9 @@
         <artist id="170">
           <name>Razorlight</name>
           <appearsAs>Razorlight</appearsAs>
-          <url>http://www.7digital.com/artists/razorlight/?partner=712</url>
+          <slug>razorlight</slug>
         </artist>
-        <url>http://www.7digital.com/artists/razorlight/wire-to-wire/?partner=712</url>
+        <slug>razorlight</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/003/222/0000322258_50.jpg</image>
         <download>
           <packages>
@@ -129,9 +129,9 @@
         <artist id="615">
           <name>Kaiser Chiefs</name>
           <appearsAs>Kaiser Chiefs</appearsAs>
-          <url>http://www.7digital.com/artists/kaiser-chiefs/?partner=712</url>
+          <slug>kaiser-chiefs</slug>
         </artist>
-        <url>http://www.7digital.com/artists/kaiser-chiefs/employment-b-unique-version/?partner=712</url>
+        <slug>kaiser-chiefs</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/000/085/0000008509_50.jpg</image>
         <download>
           <packages>
@@ -166,9 +166,9 @@
         <artist id="269">
           <name>Snow Patrol</name>
           <appearsAs>Snow Patrol</appearsAs>
-          <url>http://www.7digital.com/artists/snow-patrol/?partner=712</url>
+          <slug>snow-patrol</slug>
         </artist>
-        <url>http://www.7digital.com/artists/snow-patrol/a-hundred-million-suns-1/?partner=712</url>
+        <slug>snow-patrol</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/003/263/0000326338_50.jpg</image>
         <download>
           <packages>
@@ -203,9 +203,9 @@
         <artist id="122">
           <name>Starsailor</name>
           <appearsAs>Starsailor</appearsAs>
-          <url>http://www.7digital.com/artists/starsailor/?partner=712</url>
+          <slug>starsailor</slug>
         </artist>
-        <url>http://www.7digital.com/artists/starsailor/all-the-plans-2/?partner=712</url>
+        <slug>starsailor</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/003/943/0000394300_50.jpg</image>
         <download>
           <packages>
@@ -240,9 +240,9 @@
         <artist id="112518">
           <name>British Sea Power</name>
           <appearsAs>British Sea Power</appearsAs>
-          <url>http://www.7digital.com/artists/british-sea-power/?partner=712</url>
+          <slug>british-sea-power</slug>
         </artist>
-        <url>http://www.7digital.com/artists/british-sea-power/living-is-so-easy/?partner=712</url>
+        <slug>british-sea-power</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/010/390/0001039006_50.jpg</image>
         <download>
           <packages>
@@ -280,9 +280,9 @@
         <artist id="11513">
           <name>Travis</name>
           <appearsAs>Travis</appearsAs>
-          <url>http://www.7digital.com/artists/travis/?partner=712</url>
+          <slug>travis</slug>
         </artist>
-        <url>http://www.7digital.com/artists/travis/j-smith/?partner=712</url>
+        <slug>travis</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/002/685/0000268569_50.jpg</image>
         <download>
           <packages>
@@ -320,9 +320,9 @@
         <artist id="1307">
           <name>Stereophonics</name>
           <appearsAs>Stereophonics</appearsAs>
-          <url>http://www.7digital.com/artists/stereophonics/?partner=712</url>
+          <slug>stereophonics</slug>
         </artist>
-        <url>http://www.7digital.com/artists/stereophonics/decade-in-the-sun-best-of-stereophonics/?partner=712</url>
+        <slug>stereophonics</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/003/261/0000326167_50.jpg</image>
         <download>
           <packages>
@@ -357,9 +357,9 @@
         <artist id="14">
           <name>The Charlatans</name>
           <appearsAs>The Charlatans</appearsAs>
-          <url>http://www.7digital.com/artists/the-charlatans/?partner=712</url>
+          <slug>the-charlatans</slug>
         </artist>
-        <url>http://www.7digital.com/artists/the-charlatans/your-pure-soul/?partner=712</url>
+        <slug>the-charlatans</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/010/391/0001039180_50.jpg</image>
         <download>
           <packages>

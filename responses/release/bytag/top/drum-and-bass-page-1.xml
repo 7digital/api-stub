@@ -16,9 +16,9 @@
         <artist id="317721">
           <name>OneWorld</name>
           <appearsAs>OneWorld</appearsAs>
-          <url>http://www.7digital.com/artist/oneworld/?partner=1401</url>
+          <slug>oneworld</slug>
         </artist>
-        <url>http://www.7digital.com/artist/oneworld/release/freedom-for-palestine/?partner=1401</url>
+        <slug>freedom-for-palestine</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/012/686/0001268689_50.jpg</image>
         <popularity>0.63</popularity>
         <streamingReleaseDate>3001-01-01T00:00:00+00:00</streamingReleaseDate>
@@ -35,9 +35,9 @@
         <artist id="165105">
           <name>Drumsound &amp; Bassline Smith</name>
           <appearsAs>Drumsound &amp; Bassline Smith</appearsAs>
-          <url>http://www.7digital.com/artist/drumsound-and-bassline-smith/?partner=1401</url>
+          <slug>drumsound-and-bassline-smith</slug>
         </artist>
-        <url>http://www.7digital.com/artist/drumsound-and-bassline-smith/release/through-the-night-feat-tom-cane/?partner=1401</url>
+        <slug>through-the-night-feat-tom-cane</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/018/058/0001805895_50.jpg</image>
         <popularity>0.56</popularity>
         <streamingReleaseDate>3001-01-01T00:00:00+00:00</streamingReleaseDate>
@@ -54,9 +54,9 @@
         <artist id="209">
           <name>Various Artists</name>
           <appearsAs>Various Artists</appearsAs>
-          <url>http://www.7digital.com/artist/various-artists/?partner=1401</url>
+          <slug>various-artists</slug>
         </artist>
-        <url>http://www.7digital.com/artist/various-artists/release/drumandbassarena-summer-selection-2012/?partner=1401</url>
+        <slug>drumandbassarena-summer-selection-2012</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/017/941/0001794163_50.jpg</image>
         <popularity>0.54</popularity>
         <streamingReleaseDate>2012-07-15T00:00:00+01:00</streamingReleaseDate>
@@ -73,9 +73,9 @@
         <artist id="831090">
           <name>Loadstar</name>
           <appearsAs>Loadstar</appearsAs>
-          <url>http://www.7digital.com/artist/loadstar/?partner=1401</url>
+          <slug>loadstar</slug>
         </artist>
-        <url>http://www.7digital.com/artist/loadstar/release/passenger-bomber/?partner=1401</url>
+        <slug>passenger-bomber</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/017/581/0001758141_50.jpg</image>
         <popularity>0.53</popularity>
         <streamingReleaseDate>3001-01-01T00:00:00+00:00</streamingReleaseDate>
@@ -92,9 +92,9 @@
         <artist id="479303">
           <name>Excision</name>
           <appearsAs>Excision</appearsAs>
-          <url>http://www.7digital.com/artist/excision/?partner=1401</url>
+          <slug>excision</slug>
         </artist>
-        <url>http://www.7digital.com/artist/excision/release/x-rated/?partner=1401</url>
+        <slug>x-rated</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/014/414/0001441411_50.jpg</image>
         <popularity>0.5</popularity>
         <streamingReleaseDate>2011-10-10T00:00:00+01:00</streamingReleaseDate>
@@ -111,9 +111,9 @@
         <artist id="610206">
           <name>Rene LaVice</name>
           <appearsAs>Rene LaVice</appearsAs>
-          <url>http://www.7digital.com/artist/rene-lavice/?partner=1401</url>
+          <slug>rene-lavice</slug>
         </artist>
-        <url>http://www.7digital.com/artist/rene-lavice/release/absolute-monster-ep/?partner=1401</url>
+        <slug>absolute-monster-ep</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/017/884/0001788469_50.jpg</image>
         <popularity>0.5</popularity>
         <streamingReleaseDate>3001-01-01T00:00:00+00:00</streamingReleaseDate>
@@ -130,9 +130,9 @@
         <artist id="209">
           <name>Various Artists</name>
           <appearsAs>Various Artists</appearsAs>
-          <url>http://www.7digital.com/artist/various-artists/?partner=1401</url>
+          <slug>various-artists</slug>
         </artist>
-        <url>http://www.7digital.com/artist/various-artists/release/dimensions-5-ep/?partner=1401</url>
+        <slug>dimensions-5-ep</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/015/110/0001511037_50.jpg</image>
         <popularity>0.5</popularity>
         <streamingReleaseDate>3001-01-01T00:00:00+00:00</streamingReleaseDate>
@@ -149,9 +149,9 @@
         <artist id="45491">
           <name>Pendulum</name>
           <appearsAs>Pendulum</appearsAs>
-          <url>http://www.7digital.com/artist/pendulum/?partner=1401</url>
+          <slug>pendulum</slug>
         </artist>
-        <url>http://www.7digital.com/artist/pendulum/release/in-silico-2/?partner=1401</url>
+        <slug>in-silico-2</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/002/421/0000242175_50.jpg</image>
         <popularity>0.49</popularity>
         <streamingReleaseDate>2010-05-06T00:00:00+01:00</streamingReleaseDate>
@@ -168,9 +168,9 @@
         <artist id="589326">
           <name>Porter Robinson</name>
           <appearsAs>Porter Robinson</appearsAs>
-          <url>http://www.7digital.com/artist/porter-robinson/?partner=1401</url>
+          <slug>porter-robinson</slug>
         </artist>
-        <url>http://www.7digital.com/artist/porter-robinson/release/spitfire/?partner=1401</url>
+        <slug>spitfire</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/014/020/0001402085_50.jpg</image>
         <popularity>0.48</popularity>
         <streamingReleaseDate>2011-10-11T00:00:00+01:00</streamingReleaseDate>
@@ -187,9 +187,9 @@
         <artist id="307452">
           <name>DC Breaks</name>
           <appearsAs>DC Breaks</appearsAs>
-          <url>http://www.7digital.com/artist/dc-breaks/?partner=1401</url>
+          <slug>dc-breaks</slug>
         </artist>
-        <url>http://www.7digital.com/artist/dc-breaks/release/firez-ep/?partner=1401</url>
+        <slug>firez-ep</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/016/724/0001672421_50.jpg</image>
         <popularity>0.48</popularity>
         <streamingReleaseDate>3001-01-01T00:00:00+00:00</streamingReleaseDate>

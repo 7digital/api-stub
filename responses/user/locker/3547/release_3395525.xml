@@ -14,9 +14,9 @@
           <artist id="14697">
             <name>Yann Tiersen</name>
             <appearsAs>Yann Tiersen</appearsAs>
-            <url>http://www.7digital.com/artist/yann-tiersen/?partner=5932</url>
+            <slug>yann-tiersen</slug>
           </artist>
-          <url>http://www.7digital.com/artist/yann-tiersen/release/infinity/?partner=5932</url>
+          <slug>infinity</slug>
           <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/033/955/0003395525_50.jpg</image>
           <releaseDate>2014-05-19T00:00:00Z</releaseDate>
           <licensor id="48"/>
@@ -29,12 +29,12 @@
               <artist id="14697">
                 <name>Yann Tiersen</name>
                 <appearsAs>Yann Tiersen</appearsAs>
-                <url>http://www.7digital.com/artist/yann-tiersen/?partner=5932</url>
+                <slug>yann-tiersen</slug>
               </artist>
               <trackNumber>1</trackNumber>
               <duration>178</duration>
               <isrc>FRPAH1400100</isrc>
-              <url>http://www.7digital.com/artist/yann-tiersen/release/infinity/?partner=5932&amp;h=01</url>
+              <slug>infinity</slug>
             </track>
             <remainingDownloads>5</remainingDownloads>
             <purchaseId>813028726</purchaseId>
@@ -66,12 +66,12 @@
               <artist id="14697">
                 <name>Yann Tiersen</name>
                 <appearsAs>Yann Tiersen</appearsAs>
-                <url>http://www.7digital.com/artist/yann-tiersen/?partner=5932</url>
+                <slug>yann-tiersen</slug>
               </artist>
               <trackNumber>2</trackNumber>
               <duration>258</duration>
               <isrc>FRPAH1400010</isrc>
-              <url>http://www.7digital.com/artist/yann-tiersen/release/infinity/?partner=5932&amp;h=02</url>
+              <slug>infinity</slug>
             </track>
             <remainingDownloads>5</remainingDownloads>
             <purchaseId>813028726</purchaseId>
@@ -103,12 +103,12 @@
               <artist id="14697">
                 <name>Yann Tiersen</name>
                 <appearsAs>Yann Tiersen</appearsAs>
-                <url>http://www.7digital.com/artist/yann-tiersen/?partner=5932</url>
+                <slug>yann-tiersen</slug>
               </artist>
               <trackNumber>3</trackNumber>
               <duration>253</duration>
               <isrc>FRPAH1400020</isrc>
-              <url>http://www.7digital.com/artist/yann-tiersen/release/infinity/?partner=5932&amp;h=03</url>
+              <slug>infinity</slug>
             </track>
             <remainingDownloads>5</remainingDownloads>
             <purchaseId>813028726</purchaseId>
@@ -140,12 +140,12 @@
               <artist id="14697">
                 <name>Yann Tiersen</name>
                 <appearsAs>Yann Tiersen</appearsAs>
-                <url>http://www.7digital.com/artist/yann-tiersen/?partner=5932</url>
+                <slug>yann-tiersen</slug>
               </artist>
               <trackNumber>4</trackNumber>
               <duration>413</duration>
               <isrc>FRPAH1400030</isrc>
-              <url>http://www.7digital.com/artist/yann-tiersen/release/infinity/?partner=5932&amp;h=04</url>
+              <slug>infinity</slug>
             </track>
             <remainingDownloads>5</remainingDownloads>
             <purchaseId>813028726</purchaseId>
@@ -177,12 +177,12 @@
               <artist id="14697">
                 <name>Yann Tiersen</name>
                 <appearsAs>Yann Tiersen</appearsAs>
-                <url>http://www.7digital.com/artist/yann-tiersen/?partner=5932</url>
+                <slug>yann-tiersen</slug>
               </artist>
               <trackNumber>5</trackNumber>
               <duration>221</duration>
               <isrc>FRPAH1400040</isrc>
-              <url>http://www.7digital.com/artist/yann-tiersen/release/infinity/?partner=5932&amp;h=05</url>
+              <slug>infinity</slug>
             </track>
             <remainingDownloads>5</remainingDownloads>
             <purchaseId>813028726</purchaseId>
@@ -214,12 +214,12 @@
               <artist id="14697">
                 <name>Yann Tiersen</name>
                 <appearsAs>Yann Tiersen</appearsAs>
-                <url>http://www.7digital.com/artist/yann-tiersen/?partner=5932</url>
+                <slug>yann-tiersen</slug>
               </artist>
               <trackNumber>6</trackNumber>
               <duration>324</duration>
               <isrc>FRPAH1400050</isrc>
-              <url>http://www.7digital.com/artist/yann-tiersen/release/infinity/?partner=5932&amp;h=06</url>
+              <slug>infinity</slug>
             </track>
             <remainingDownloads>5</remainingDownloads>
             <purchaseId>813028726</purchaseId>
@@ -251,12 +251,12 @@
               <artist id="14697">
                 <name>Yann Tiersen</name>
                 <appearsAs>Yann Tiersen</appearsAs>
-                <url>http://www.7digital.com/artist/yann-tiersen/?partner=5932</url>
+                <slug>yann-tiersen</slug>
               </artist>
               <trackNumber>7</trackNumber>
               <duration>254</duration>
               <isrc>FRPAH1400060</isrc>
-              <url>http://www.7digital.com/artist/yann-tiersen/release/infinity/?partner=5932&amp;h=07</url>
+              <slug>infinity</slug>
             </track>
             <remainingDownloads>5</remainingDownloads>
             <purchaseId>813028726</purchaseId>
@@ -288,12 +288,12 @@
               <artist id="14697">
                 <name>Yann Tiersen</name>
                 <appearsAs>Yann Tiersen</appearsAs>
-                <url>http://www.7digital.com/artist/yann-tiersen/?partner=5932</url>
+                <slug>yann-tiersen</slug>
               </artist>
               <trackNumber>8</trackNumber>
               <duration>312</duration>
               <isrc>FRPAH1400070</isrc>
-              <url>http://www.7digital.com/artist/yann-tiersen/release/infinity/?partner=5932&amp;h=08</url>
+              <slug>infinity</slug>
             </track>
             <remainingDownloads>5</remainingDownloads>
             <purchaseId>813028726</purchaseId>
@@ -325,12 +325,12 @@
               <artist id="14697">
                 <name>Yann Tiersen</name>
                 <appearsAs>Yann Tiersen</appearsAs>
-                <url>http://www.7digital.com/artist/yann-tiersen/?partner=5932</url>
+                <slug>yann-tiersen</slug>
               </artist>
               <trackNumber>9</trackNumber>
               <duration>343</duration>
               <isrc>FRPAH1400080</isrc>
-              <url>http://www.7digital.com/artist/yann-tiersen/release/infinity/?partner=5932&amp;h=09</url>
+              <slug>infinity</slug>
             </track>
             <remainingDownloads>5</remainingDownloads>
             <purchaseId>813028726</purchaseId>
@@ -362,12 +362,12 @@
               <artist id="14697">
                 <name>Yann Tiersen</name>
                 <appearsAs>Yann Tiersen</appearsAs>
-                <url>http://www.7digital.com/artist/yann-tiersen/?partner=5932</url>
+                <slug>yann-tiersen</slug>
               </artist>
               <trackNumber>10</trackNumber>
               <duration>409</duration>
               <isrc>FRPAH1400090</isrc>
-              <url>http://www.7digital.com/artist/yann-tiersen/release/infinity/?partner=5932&amp;h=10</url>
+              <slug>infinity</slug>
             </track>
             <remainingDownloads>5</remainingDownloads>
             <purchaseId>813028726</purchaseId>

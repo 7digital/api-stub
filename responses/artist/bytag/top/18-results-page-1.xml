@@ -9,7 +9,7 @@
       <artist id="20">
         <name>Coldplay</name>
         <sortName>Coldplay</sortName>
-        <url>http://www.7digital.com/artist/coldplay/?partner=3923</url>
+        <slug>coldplay</slug>
         <image>http://artwork-cdn.7static.com/static/img/artistimages/00/000/000/0000000020_150.jpg</image>
         <popularity>0.91</popularity>
       </artist>
@@ -18,7 +18,7 @@
       <artist id="12873">
         <name>Linkin Park</name>
         <sortName>Linkin Park</sortName>
-        <url>http://www.7digital.com/artist/linkin-park/?partner=3923</url>
+        <slug>linkin-park</slug>
         <image>http://artwork-cdn.7static.com/static/img/artistimages/00/000/128/0000012873_150.jpg</image>
         <popularity>0.81</popularity>
       </artist>
@@ -27,7 +27,7 @@
       <artist id="222">
         <name>Maroon 5</name>
         <sortName>Maroon 5</sortName>
-        <url>http://www.7digital.com/artist/maroon-5/?partner=3923</url>
+        <slug>maroon-5</slug>
         <image>http://artwork-cdn.7static.com/static/img/artistimages/00/000/002/0000000222_150.jpg</image>
         <popularity>0.8</popularity>
       </artist>
@@ -36,7 +36,7 @@
       <artist id="2200">
         <name>Elvis Presley</name>
         <sortName>Elvis Presley</sortName>
-        <url>http://www.7digital.com/artist/elvis-presley-(2)/?partner=3923</url>
+        <slug>elvis-presley-(2)</slug>
         <image>http://artwork-cdn.7static.com/static/img/artistimages/00/000/022/0000002200_150.jpg</image>
         <popularity>0.76</popularity>
       </artist>
@@ -45,7 +45,7 @@
       <artist id="447">
         <name>Pink Floyd</name>
         <sortName>Pink Floyd</sortName>
-        <url>http://www.7digital.com/artist/pink-floyd/?partner=3923</url>
+        <slug>pink-floyd</slug>
         <image>http://artwork-cdn.7static.com/static/img/artistimages/00/000/004/0000000447_150.jpg</image>
         <popularity>0.74</popularity>
       </artist>
@@ -54,7 +54,7 @@
       <artist id="365">
         <name>David Bowie</name>
         <sortName>David Bowie</sortName>
-        <url>http://www.7digital.com/artist/david-bowie/?partner=3923</url>
+        <slug>david-bowie</slug>
         <image>http://artwork-cdn.7static.com/static/img/artistimages/00/000/003/0000000365_150.jpg</image>
         <popularity>0.72</popularity>
       </artist>
@@ -63,7 +63,7 @@
       <artist id="8293">
         <name>Foo Fighters</name>
         <sortName>Foo Fighters</sortName>
-        <url>http://www.7digital.com/artist/foo-fighters/?partner=3923</url>
+        <slug>foo-fighters</slug>
         <image>http://artwork-cdn.7static.com/static/img/artistimages/00/000/082/0000008293_150.jpg</image>
         <popularity>0.72</popularity>
       </artist>
@@ -72,7 +72,7 @@
       <artist id="30198">
         <name>The Black Keys</name>
         <sortName>Black Keys, The</sortName>
-        <url>http://www.7digital.com/artist/the-black-keys/?partner=3923</url>
+        <slug>the-black-keys</slug>
         <image>http://artwork-cdn.7static.com/static/img/artistimages/00/000/301/0000030198_150.jpg</image>
         <popularity>0.72</popularity>
       </artist>
@@ -81,7 +81,7 @@
       <artist id="37593">
         <name>Journey</name>
         <sortName>Journey</sortName>
-        <url>http://www.7digital.com/artist/journey/?partner=3923</url>
+        <slug>journey</slug>
         <image>http://artwork-cdn.7static.com/static/img/artistimages/00/000/375/0000037593_150.jpg</image>
         <popularity>0.72</popularity>
       </artist>
@@ -90,7 +90,7 @@
       <artist id="106">
         <name>U2</name>
         <sortName>U2</sortName>
-        <url>http://www.7digital.com/artist/u2/?partner=3923</url>
+        <slug>u2</slug>
         <image>http://artwork-cdn.7static.com/static/img/artistimages/00/000/001/0000000106_150.jpg</image>
         <popularity>0.71</popularity>
       </artist>
@@ -99,7 +99,7 @@
       <artist id="610">
         <name>Green Day</name>
         <sortName>Green Day</sortName>
-        <url>http://www.7digital.com/artist/green-day/?partner=3923</url>
+        <slug>green-day</slug>
         <image>http://artwork-cdn.7static.com/static/img/artistimages/00/000/006/0000000610_150.jpg</image>
         <popularity>0.71</popularity>
       </artist>
@@ -108,7 +108,7 @@
       <artist id="8318">
         <name>Arctic Monkeys</name>
         <sortName>Arctic Monkeys</sortName>
-        <url>http://www.7digital.com/artist/arctic-monkeys/?partner=3923</url>
+        <slug>arctic-monkeys</slug>
         <image>http://artwork-cdn.7static.com/static/img/artistimages/00/000/083/0000008318_150.jpg</image>
         <popularity>0.71</popularity>
       </artist>
@@ -117,7 +117,7 @@
       <artist id="15122">
         <name>Bruce Springsteen</name>
         <sortName>Bruce Springsteen</sortName>
-        <url>http://www.7digital.com/artist/bruce-springsteen/?partner=3923</url>
+        <slug>bruce-springsteen</slug>
         <image>http://artwork-cdn.7static.com/static/img/artistimages/00/000/151/0000015122_150.jpg</image>
         <popularity>0.71</popularity>
       </artist>
@@ -126,7 +126,7 @@
       <artist id="212">
         <name>Avril Lavigne</name>
         <sortName>Avril Lavigne</sortName>
-        <url>http://www.7digital.com/artist/avril-lavigne/?partner=3923</url>
+        <slug>avril-lavigne</slug>
         <image>http://artwork-cdn.7static.com/static/img/artistimages/00/000/002/0000000212_150.jpg</image>
         <popularity>0.7</popularity>
       </artist>
@@ -135,7 +135,7 @@
       <artist id="522">
         <name>The Rolling Stones</name>
         <sortName>Rolling Stones, The</sortName>
-        <url>http://www.7digital.com/artist/the-rolling-stones-(2)/?partner=3923</url>
+        <slug>the-rolling-stones-(2)</slug>
         <image>http://artwork-cdn.7static.com/static/img/artistimages/00/000/005/0000000522_150.jpg</image>
         <popularity>0.7</popularity>
       </artist>
@@ -144,7 +144,7 @@
       <artist id="588">
         <name>Muse</name>
         <sortName>Muse</sortName>
-        <url>http://www.7digital.com/artist/muse/?partner=3923</url>
+        <slug>muse</slug>
         <image>http://artwork-cdn.7static.com/static/img/artistimages/00/000/005/0000000588_150.jpg</image>
         <popularity>0.7</popularity>
       </artist>
@@ -153,7 +153,7 @@
       <artist id="922">
         <name>Kasabian</name>
         <sortName>Kasabian</sortName>
-        <url>http://www.7digital.com/artist/kasabian/?partner=3923</url>
+        <slug>kasabian</slug>
         <image>http://artwork-cdn.7static.com/static/img/artistimages/00/000/009/0000000922_150.jpg</image>
         <popularity>0.69</popularity>
       </artist>
@@ -162,7 +162,7 @@
       <artist id="1246">
         <name>Kings Of Leon</name>
         <sortName>Kings Of Leon</sortName>
-        <url>http://www.7digital.com/artist/kings-of-leon/?partner=3923</url>
+        <slug>kings-of-leon</slug>
         <image>http://artwork-cdn.7static.com/static/img/artistimages/00/000/012/0000001246_150.jpg</image>
         <popularity>0.69</popularity>
       </artist>

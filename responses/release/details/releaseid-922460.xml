@@ -10,9 +10,9 @@
     <artist id="209">
       <name>Various Artists</name>
       <appearsAs>Various Artists</appearsAs>
-      <url>http://www.7digital.com/artist/various-artists/?partner=3923</url>
+      <slug>various-artists</slug>
     </artist>
-    <url>http://www.7digital.com/artist/various-artists/release/mozart-complete-edition-box-10-missae-requiem-etc-11-cds-1/?partner=3923</url>
+    <slug>mozart-complete-edition-box-10-missae-requiem-etc-11-cds-1</slug>
     <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/009/224/0000922460_50.jpg</image>
     <download>
       <packages>

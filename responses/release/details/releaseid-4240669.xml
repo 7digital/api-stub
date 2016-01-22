@@ -10,9 +10,9 @@
     <artist id="52034">
       <name>Modest Mouse</name>
       <appearsAs>Modest Mouse</appearsAs>
-      <url>http://www.7digital.com/artist/modest-mouse/?partner=3923</url>
+      <slug>modest-mouse</slug>
     </artist>
-    <url>http://www.7digital.com/artist/modest-mouse/release/strangers-to-ourselves-explicit/?partner=3923</url>
+    <slug>strangers-to-ourselves-explicit</slug>
     <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/042/406/0004240669_50.jpg</image>
     <label id="1085">
       <name>Epic</name>

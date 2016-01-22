@@ -16,9 +16,9 @@
         <artist id="159">
           <name>Bob Marley &amp; The Wailers</name>
           <appearsAs>Bob Marley &amp; The Wailers</appearsAs>
-          <url>http://www.7digital.com/artist/bob-marley-the-wailers-(2)/?partner=1401</url>
+          <slug>bob-marley-the-wailers-(2)</slug>
         </artist>
-        <url>http://www.7digital.com/artist/bob-marley-the-wailers-(2)/release/legend-the-definitive-remasters/?partner=1401</url>
+        <slug>legend-the-definitive-remasters</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/000/002/0000000212_50.jpg</image>
         <popularity>0.72</popularity>
         <streamingReleaseDate>2006-09-05T00:00:00+01:00</streamingReleaseDate>
@@ -35,9 +35,9 @@
         <artist id="29579">
           <name>Varios Artistas</name>
           <appearsAs>Varios Artistas</appearsAs>
-          <url>http://www.7digital.com/artist/varios-artistas/?partner=1401</url>
+          <slug>varios-artistas</slug>
         </artist>
-        <url>http://www.7digital.com/artist/varios-artistas/release/reggaeton-2011/?partner=1401</url>
+        <slug>reggaeton-2011</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/012/657/0001265725_50.jpg</image>
         <popularity>0.6</popularity>
         <streamingReleaseDate>2011-05-10T00:00:00+01:00</streamingReleaseDate>
@@ -54,9 +54,9 @@
         <artist id="278">
           <name>Vybz Kartel</name>
           <appearsAs>Vybz Kartel</appearsAs>
-          <url>http://www.7digital.com/artist/vybz-kartel/?partner=1401</url>
+          <slug>vybz-kartel</slug>
         </artist>
-        <url>http://www.7digital.com/artist/vybz-kartel/release/kingston-story/?partner=1401</url>
+        <slug>kingston-story</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/012/903/0001290309_50.jpg</image>
         <popularity>0.55</popularity>
         <streamingReleaseDate>2011-06-21T00:00:00+01:00</streamingReleaseDate>
@@ -73,9 +73,9 @@
         <artist id="209">
           <name>Various Artists</name>
           <appearsAs>Various Artists</appearsAs>
-          <url>http://www.7digital.com/artist/various-artists/?partner=1401</url>
+          <slug>various-artists</slug>
         </artist>
-        <url>http://www.7digital.com/artist/various-artists/release/now-thats-what-i-call-reggae/?partner=1401</url>
+        <slug>now-thats-what-i-call-reggae</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/017/635/0001763541_50.jpg</image>
         <popularity>0.55</popularity>
         <streamingReleaseDate>2012-06-25T00:00:00+01:00</streamingReleaseDate>
@@ -92,9 +92,9 @@
         <artist id="19">
           <name>Bob Marley</name>
           <appearsAs>Bob Marley</appearsAs>
-          <url>http://www.7digital.com/artist/bob-marley/?partner=1401</url>
+          <slug>bob-marley</slug>
         </artist>
-        <url>http://www.7digital.com/artist/bob-marley/release/marley/?partner=1401</url>
+        <slug>marley</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/016/571/0001657152_50.jpg</image>
         <popularity>0.55</popularity>
         <streamingReleaseDate>2012-04-17T00:00:00+01:00</streamingReleaseDate>
@@ -111,9 +111,9 @@
         <artist id="159">
           <name>Bob Marley &amp; The Wailers</name>
           <appearsAs>Bob Marley &amp; The Wailers</appearsAs>
-          <url>http://www.7digital.com/artist/bob-marley-the-wailers-(2)/?partner=1401</url>
+          <slug>bob-marley-the-wailers-(2)</slug>
         </artist>
-        <url>http://www.7digital.com/artist/bob-marley-the-wailers-(2)/release/marley-ost/?partner=1401</url>
+        <slug>marley-ost</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/016/486/0001648638_50.jpg</image>
         <popularity>0.54</popularity>
         <streamingReleaseDate>2012-04-16T00:00:00+01:00</streamingReleaseDate>
@@ -130,9 +130,9 @@
         <artist id="10653">
           <name>Rihanna</name>
           <appearsAs>Rihanna</appearsAs>
-          <url>http://www.7digital.com/artist/rihanna/?partner=1401</url>
+          <slug>rihanna</slug>
         </artist>
-        <url>http://www.7digital.com/artist/rihanna/release/a-girl-like-me-uk/?partner=1401</url>
+        <slug>a-girl-like-me-uk</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/000/316/0000031662_50.jpg</image>
         <popularity>0.54</popularity>
         <streamingReleaseDate>2012-01-11T00:00:00+00:00</streamingReleaseDate>
@@ -149,9 +149,9 @@
         <artist id="10206">
           <name>Shaggy</name>
           <appearsAs>Shaggy</appearsAs>
-          <url>http://www.7digital.com/artist/shaggy/?partner=1401</url>
+          <slug>shaggy</slug>
         </artist>
-        <url>http://www.7digital.com/artist/shaggy/release/essential-1/?partner=1401</url>
+        <slug>essential-1</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/016/183/0001618386_50.jpg</image>
         <popularity>0.54</popularity>
         <streamingReleaseDate>2012-03-19T00:00:00+00:00</streamingReleaseDate>
@@ -168,9 +168,9 @@
         <artist id="416">
           <name>Massive Attack</name>
           <appearsAs>Massive Attack</appearsAs>
-          <url>http://www.7digital.com/artist/massive-attack/?partner=1401</url>
+          <slug>massive-attack</slug>
         </artist>
-        <url>http://www.7digital.com/artist/massive-attack/release/blue-lines/?partner=1401</url>
+        <slug>blue-lines</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/000/011/0000001194_50.jpg</image>
         <popularity>0.53</popularity>
         <streamingReleaseDate>2006-08-28T00:00:00+01:00</streamingReleaseDate>
@@ -187,9 +187,9 @@
         <artist id="209">
           <name>Various Artists</name>
           <appearsAs>Various Artists</appearsAs>
-          <url>http://www.7digital.com/artist/various-artists/?partner=1401</url>
+          <slug>various-artists</slug>
         </artist>
-        <url>http://www.7digital.com/artist/various-artists/release/jamaicas-finest-vol-1/?partner=1401</url>
+        <slug>jamaicas-finest-vol-1</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/018/186/0001818606_50.jpg</image>
         <popularity>0.53</popularity>
         <streamingReleaseDate>2012-08-01T00:00:00+01:00</streamingReleaseDate>

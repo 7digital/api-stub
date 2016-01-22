@@ -9,7 +9,7 @@
       <artist id="1246">
         <name>Kings Of Leon</name>
         <sortName>Kings Of Leon</sortName>
-        <url>http://www.7digital.com/artists/kings-of-leon/?partner=712</url>
+        <slug>kings-of-leon</slug>
         <image>http://artwork-cdn.7static.com/static/img/artistimages/00/000/012/0000001246_150.jpg</image>
       </artist>
     </taggedItem>
@@ -17,7 +17,7 @@
       <artist id="132789">
         <name>Katy Perry</name>
         <sortName>Katy Perry</sortName>
-        <url>http://www.7digital.com/artists/katy-perry/?partner=712</url>
+        <slug>katy-perry</slug>
         <image>http://artwork-cdn.7static.com/static/img/artistimages/00/001/327/0000132789_150.jpg</image>
       </artist>
     </taggedItem>
@@ -33,7 +33,7 @@
       <artist id="20">
         <name>Coldplay</name>
         <sortName>Coldplay</sortName>
-        <url>http://www.7digital.com/artists/coldplay/?partner=712</url>
+        <slug>coldplay</slug>
         <image>http://artwork-cdn.7static.com/static/img/artistimages/00/000/000/0000000020_150.jpg</image>
       </artist>
     </taggedItem>
@@ -41,7 +41,7 @@
       <artist id="37593">
         <name>Journey</name>
         <sortName>Journey</sortName>
-        <url>http://www.7digital.com/artists/journey/?partner=712</url>
+        <slug>journey</slug>
         <image>http://artwork-cdn.7static.com/static/img/artistimages/00/000/375/0000037593_150.jpg</image>
       </artist>
     </taggedItem>
@@ -49,7 +49,7 @@
       <artist id="12873">
         <name>Linkin Park</name>
         <sortName>Linkin Park</sortName>
-        <url>http://www.7digital.com/artists/linkin-park/?partner=712</url>
+        <slug>linkin-park</slug>
         <image>http://artwork-cdn.7static.com/static/img/artistimages/00/000/128/0000012873_150.jpg</image>
       </artist>
     </taggedItem>
@@ -57,7 +57,7 @@
       <artist id="212">
         <name>Avril Lavigne</name>
         <sortName>Avril Lavigne</sortName>
-        <url>http://www.7digital.com/artists/avril-lavigne/?partner=712</url>
+        <slug>avril-lavigne</slug>
         <image>http://artwork-cdn.7static.com/static/img/artistimages/00/000/002/0000000212_150.jpg</image>
       </artist>
     </taggedItem>
@@ -65,7 +65,7 @@
       <artist id="8293">
         <name>Foo Fighters</name>
         <sortName>Foo Fighters</sortName>
-        <url>http://www.7digital.com/artists/foo-fighters/?partner=712</url>
+        <slug>foo-fighters</slug>
         <image>http://artwork-cdn.7static.com/static/img/artistimages/00/000/082/0000008293_150.jpg</image>
       </artist>
     </taggedItem>
@@ -73,7 +73,7 @@
       <artist id="1298">
         <name>Jay-Z</name>
         <sortName>Jay-Z</sortName>
-        <url>http://www.7digital.com/artists/jay-z/?partner=712</url>
+        <slug>jay-z</slug>
         <image>http://artwork-cdn.7static.com/static/img/artistimages/00/000/012/0000001298_150.jpg</image>
       </artist>
     </taggedItem>
@@ -81,7 +81,7 @@
       <artist id="47954">
         <name>Arcade Fire</name>
         <sortName>Arcade Fire</sortName>
-        <url>http://www.7digital.com/artists/arcade-fire/?partner=712</url>
+        <slug>arcade-fire</slug>
         <image>http://artwork-cdn.7static.com/static/img/artistimages/00/000/479/0000047954_150.jpg</image>
       </artist>
     </taggedItem>
@@ -89,7 +89,7 @@
       <artist id="365">
         <name>David Bowie</name>
         <sortName>David Bowie</sortName>
-        <url>http://www.7digital.com/artists/david-bowie/?partner=712</url>
+        <slug>david-bowie</slug>
         <image>http://artwork-cdn.7static.com/static/img/artistimages/00/000/003/0000000365_150.jpg</image>
       </artist>
     </taggedItem>
@@ -97,7 +97,7 @@
       <artist id="304">
         <name>Radiohead</name>
         <sortName>Radiohead</sortName>
-        <url>http://www.7digital.com/artists/radiohead/?partner=712</url>
+        <slug>radiohead</slug>
         <image>http://artwork-cdn.7static.com/static/img/artistimages/00/000/003/0000000304_150.jpg</image>
       </artist>
     </taggedItem>
@@ -105,7 +105,7 @@
       <artist id="11350">
         <name>Bob Dylan</name>
         <sortName>Bob Dylan</sortName>
-        <url>http://www.7digital.com/artists/bob-dylan/?partner=712</url>
+        <slug>bob-dylan</slug>
         <image>http://artwork-cdn.7static.com/static/img/artistimages/00/000/113/0000011350_150.jpg</image>
       </artist>
     </taggedItem>
@@ -113,7 +113,7 @@
       <artist id="143451">
         <name>MGMT</name>
         <sortName>MGMT</sortName>
-        <url>http://www.7digital.com/artists/mgmt/?partner=712</url>
+        <slug>mgmt</slug>
         <image>http://artwork-cdn.7static.com/static/img/artistimages/00/001/434/0000143451_150.jpg</image>
       </artist>
     </taggedItem>
@@ -121,7 +121,7 @@
       <artist id="1252">
         <name>Iron Maiden</name>
         <sortName>Iron Maiden</sortName>
-        <url>http://www.7digital.com/artists/iron-maiden/?partner=712</url>
+        <slug>iron-maiden</slug>
         <image>http://artwork-cdn.7static.com/static/img/artistimages/00/000/012/0000001252_150.jpg</image>
       </artist>
     </taggedItem>
@@ -137,7 +137,7 @@
       <artist id="447">
         <name>Pink Floyd</name>
         <sortName>Pink Floyd</sortName>
-        <url>http://www.7digital.com/artists/pink-floyd/?partner=712</url>
+        <slug>pink-floyd</slug>
         <image>http://artwork-cdn.7static.com/static/img/artistimages/00/000/004/0000000447_150.jpg</image>
       </artist>
     </taggedItem>
@@ -145,7 +145,7 @@
       <artist id="15122">
         <name>Bruce Springsteen</name>
         <sortName>Bruce Springsteen</sortName>
-        <url>http://www.7digital.com/artists/bruce-springsteen/?partner=712</url>
+        <slug>bruce-springsteen</slug>
         <image>http://artwork-cdn.7static.com/static/img/artistimages/00/000/151/0000015122_150.jpg</image>
       </artist>
     </taggedItem>
@@ -153,7 +153,7 @@
       <artist id="52368">
         <name>Rage Against The Machine</name>
         <sortName>Rage Against The Machine</sortName>
-        <url>http://www.7digital.com/artists/rage-against-the-machine/?partner=712</url>
+        <slug>rage-against-the-machine</slug>
         <image>http://artwork-cdn.7static.com/static/img/artistimages/00/000/523/0000052368_150.jpg</image>
       </artist>
     </taggedItem>
@@ -161,7 +161,7 @@
       <artist id="588">
         <name>Muse</name>
         <sortName>Muse</sortName>
-        <url>http://www.7digital.com/artists/muse/?partner=712</url>
+        <slug>muse</slug>
         <image>http://artwork-cdn.7static.com/static/img/artistimages/00/000/005/0000000588_150.jpg</image>
       </artist>
     </taggedItem>
@@ -169,7 +169,7 @@
       <artist id="610">
         <name>Green Day</name>
         <sortName>Green Day</sortName>
-        <url>http://www.7digital.com/artists/green-day/?partner=712</url>
+        <slug>green-day</slug>
         <image>http://artwork-cdn.7static.com/static/img/artistimages/00/000/006/0000000610_150.jpg</image>
       </artist>
     </taggedItem>
@@ -177,7 +177,7 @@
       <artist id="106">
         <name>U2</name>
         <sortName>U2</sortName>
-        <url>http://www.7digital.com/artists/u2/?partner=712</url>
+        <slug>u2</slug>
         <image>http://artwork-cdn.7static.com/static/img/artistimages/00/000/001/0000000106_150.jpg</image>
       </artist>
     </taggedItem>
@@ -185,7 +185,7 @@
       <artist id="289">
         <name>Bon Jovi</name>
         <sortName>Bon Jovi</sortName>
-        <url>http://www.7digital.com/artists/bon-jovi/?partner=712</url>
+        <slug>bon-jovi</slug>
         <image>http://artwork-cdn.7static.com/static/img/artistimages/00/000/002/0000000289_150.jpg</image>
       </artist>
     </taggedItem>
@@ -193,7 +193,7 @@
       <artist id="6225">
         <name>James Blunt</name>
         <sortName>James Blunt</sortName>
-        <url>http://www.7digital.com/artists/james-blunt/?partner=712</url>
+        <slug>james-blunt</slug>
         <image>http://artwork-cdn.7static.com/static/img/artistimages/00/000/062/0000006225_150.jpg</image>
       </artist>
     </taggedItem>
@@ -201,7 +201,7 @@
       <artist id="616">
         <name>The Killers</name>
         <sortName>Killers, The</sortName>
-        <url>http://www.7digital.com/artists/the-killers/?partner=712</url>
+        <slug>the-killers</slug>
         <image>http://artwork-cdn.7static.com/static/img/artistimages/00/000/006/0000000616_150.jpg</image>
       </artist>
     </taggedItem>
@@ -209,7 +209,7 @@
       <artist id="49245">
         <name>The Clash</name>
         <sortName>Clash, The</sortName>
-        <url>http://www.7digital.com/artists/the-clash/?partner=712</url>
+        <slug>the-clash</slug>
         <image>http://artwork-cdn.7static.com/static/img/artistimages/00/000/492/0000049245_150.jpg</image>
       </artist>
     </taggedItem>
@@ -217,7 +217,7 @@
       <artist id="922">
         <name>Kasabian</name>
         <sortName>Kasabian</sortName>
-        <url>http://www.7digital.com/artists/kasabian/?partner=712</url>
+        <slug>kasabian</slug>
         <image>http://artwork-cdn.7static.com/static/img/artistimages/00/000/009/0000000922_150.jpg</image>
       </artist>
     </taggedItem>
@@ -225,7 +225,7 @@
       <artist id="69287">
         <name>John Cage</name>
         <sortName>John Cage</sortName>
-        <url>http://www.7digital.com/artists/john-cage/?partner=712</url>
+        <slug>john-cage</slug>
         <image>http://artwork-cdn.7static.com/static/img/artistimages/00/000/692/0000069287_150.jpg</image>
       </artist>
     </taggedItem>
@@ -233,7 +233,7 @@
       <artist id="100">
         <name>Steve Winwood</name>
         <sortName>Steve Winwood</sortName>
-        <url>http://www.7digital.com/artists/steve-winwood/?partner=712</url>
+        <slug>steve-winwood</slug>
         <image>http://artwork-cdn.7static.com/static/img/artistimages/00/000/001/0000000100_150.jpg</image>
       </artist>
     </taggedItem>
@@ -241,7 +241,7 @@
       <artist id="11399">
         <name>Billy Joel</name>
         <sortName>Billy Joel</sortName>
-        <url>http://www.7digital.com/artists/billy-joel/?partner=712</url>
+        <slug>billy-joel</slug>
         <image>http://artwork-cdn.7static.com/static/img/artistimages/00/000/113/0000011399_150.jpg</image>
       </artist>
     </taggedItem>
@@ -249,7 +249,7 @@
       <artist id="11291">
         <name>Sarah Brightman</name>
         <sortName>Sarah Brightman</sortName>
-        <url>http://www.7digital.com/artists/sarah-brightman/?partner=712</url>
+        <slug>sarah-brightman</slug>
         <image>http://artwork-cdn.7static.com/static/img/artistimages/00/000/112/0000011291_150.jpg</image>
       </artist>
     </taggedItem>
@@ -257,7 +257,7 @@
       <artist id="14242">
         <name>John Lennon</name>
         <sortName>John Lennon</sortName>
-        <url>http://www.7digital.com/artists/john-lennon/?partner=712</url>
+        <slug>john-lennon</slug>
         <image>http://artwork-cdn.7static.com/static/img/artistimages/00/000/142/0000014242_150.jpg</image>
       </artist>
     </taggedItem>
@@ -265,7 +265,7 @@
       <artist id="298">
         <name>Kiss</name>
         <sortName>Kiss</sortName>
-        <url>http://www.7digital.com/artists/kiss/?partner=712</url>
+        <slug>kiss</slug>
         <image>http://artwork-cdn.7static.com/static/img/artistimages/00/000/002/0000000298_150.jpg</image>
       </artist>
     </taggedItem>
@@ -273,7 +273,7 @@
       <artist id="14530">
         <name>Korn</name>
         <sortName>Korn</sortName>
-        <url>http://www.7digital.com/artists/korn/?partner=712</url>
+        <slug>korn</slug>
         <image>http://artwork-cdn.7static.com/static/img/artistimages/00/000/145/0000014530_150.jpg</image>
       </artist>
     </taggedItem>
@@ -281,7 +281,7 @@
       <artist id="49991">
         <name>Alice In Chains</name>
         <sortName>Alice In Chains</sortName>
-        <url>http://www.7digital.com/artists/alice-in-chains/?partner=712</url>
+        <slug>alice-in-chains</slug>
         <image>http://artwork-cdn.7static.com/static/img/artistimages/00/000/499/0000049991_150.jpg</image>
       </artist>
     </taggedItem>

@@ -16,9 +16,9 @@
         <artist id="2316876">
           <name>Adult Mom</name>
           <appearsAs>Adult Mom</appearsAs>
-          <url>http://www.7digital.com/artist/adult-mom/?partner=1401</url>
+          <slug>adult-mom</slug>
         </artist>
-        <url>http://www.7digital.com/artist/adult-mom/release/sometimes-bad-happens/?partner=1401</url>
+        <slug>sometimes-bad-happens</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/035/969/0003596942_50.jpg</image>
         <download>
           <packages>
@@ -54,9 +54,9 @@
         <artist id="2123484">
           <name>Brian Larney</name>
           <appearsAs>Brian Larney</appearsAs>
-          <url>http://www.7digital.com/artist/brian-larney/?partner=1401</url>
+          <slug>brian-larney</slug>
         </artist>
-        <url>http://www.7digital.com/artist/brian-larney/release/jupiter-with-you/?partner=1401</url>
+        <slug>jupiter-with-you</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/035/597/0003559714_50.jpg</image>
         <download>
           <packages>
@@ -92,9 +92,9 @@
         <artist id="2353107">
           <name>OBN III's</name>
           <appearsAs>OBN III's</appearsAs>
-          <url>http://www.7digital.com/artist/obn-iiis-1/?partner=1401</url>
+          <slug>obn-iiis-1</slug>
         </artist>
-        <url>http://www.7digital.com/artist/obn-iiis-1/release/obn-iiis-live-in-san-francisco/?partner=1401</url>
+        <slug>obn-iiis-live-in-san-francisco</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/036/635/0003663587_50.jpg</image>
         <download>
           <packages>
@@ -130,9 +130,9 @@
         <artist id="2353593">
           <name>Kym Larsen</name>
           <appearsAs>Kym Larsen</appearsAs>
-          <url>http://www.7digital.com/artist/kym-larsen/?partner=1401</url>
+          <slug>kym-larsen</slug>
         </artist>
-        <url>http://www.7digital.com/artist/kym-larsen/release/kym-larsen/?partner=1401</url>
+        <slug>kym-larsen</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/036/646/0003664691_50.jpg</image>
         <download>
           <packages>
@@ -168,9 +168,9 @@
         <artist id="2152087">
           <name>Aetolia</name>
           <appearsAs>Aetolia</appearsAs>
-          <url>http://www.7digital.com/artist/aetolia/?partner=1401</url>
+          <slug>aetolia</slug>
         </artist>
-        <url>http://www.7digital.com/artist/aetolia/release/greed/?partner=1401</url>
+        <slug>greed</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/036/294/0003629455_50.jpg</image>
         <download>
           <packages>
@@ -206,9 +206,9 @@
         <artist id="29480">
           <name>Anberlin</name>
           <appearsAs>Anberlin</appearsAs>
-          <url>http://www.7digital.com/artist/anberlin/?partner=1401</url>
+          <slug>anberlin</slug>
         </artist>
-        <url>http://www.7digital.com/artist/anberlin/release/lowborn-1/?partner=1401</url>
+        <slug>lowborn-1</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/036/451/0003645101_50.jpg</image>
         <download>
           <packages>

@@ -16,9 +16,9 @@
         <artist id="843632">
           <name>Skrillex</name>
           <appearsAs>Skrillex</appearsAs>
-          <url>http://www.7digital.com/artist/skrillex/?partner=1401</url>
+          <slug>skrillex</slug>
         </artist>
-        <url>http://www.7digital.com/artist/skrillex/release/scary-monsters-and-nice-sprites-ep/?partner=1401</url>
+        <slug>scary-monsters-and-nice-sprites-ep</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/010/706/0001070668_50.jpg</image>
         <popularity>0.65</popularity>
         <streamingReleaseDate>2010-12-22T00:00:00+00:00</streamingReleaseDate>
@@ -35,9 +35,9 @@
         <artist id="482915">
           <name>Django Django</name>
           <appearsAs>Django Django</appearsAs>
-          <url>http://www.7digital.com/artist/django-django/?partner=1401</url>
+          <slug>django-django</slug>
         </artist>
-        <url>http://www.7digital.com/artist/django-django/release/django-django/?partner=1401</url>
+        <slug>django-django</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/015/720/0001572090_50.jpg</image>
         <popularity>0.61</popularity>
         <streamingReleaseDate>2012-10-19T00:00:00+01:00</streamingReleaseDate>
@@ -54,9 +54,9 @@
         <artist id="1269">
           <name>Orbital</name>
           <appearsAs>Orbital</appearsAs>
-          <url>http://www.7digital.com/artist/orbital/?partner=1401</url>
+          <slug>orbital</slug>
         </artist>
-        <url>http://www.7digital.com/artist/orbital/release/wonky-1/?partner=1401</url>
+        <slug>wonky-1</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/016/509/0001650923_50.jpg</image>
         <popularity>0.61</popularity>
         <streamingReleaseDate>2012-09-12T00:00:00+01:00</streamingReleaseDate>
@@ -73,9 +73,9 @@
         <artist id="209">
           <name>Various Artists</name>
           <appearsAs>Various Artists</appearsAs>
-          <url>http://www.7digital.com/artist/various-artists/?partner=1401</url>
+          <slug>various-artists</slug>
         </artist>
-        <url>http://www.7digital.com/artist/various-artists/release/toolroom-records-miami-2012/?partner=1401</url>
+        <slug>toolroom-records-miami-2012</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/016/041/0001604103_50.jpg</image>
         <popularity>0.61</popularity>
         <streamingReleaseDate>2012-02-26T00:00:00+00:00</streamingReleaseDate>
@@ -92,9 +92,9 @@
         <artist id="843632">
           <name>Skrillex</name>
           <appearsAs>Skrillex</appearsAs>
-          <url>http://www.7digital.com/artist/skrillex/?partner=1401</url>
+          <slug>skrillex</slug>
         </artist>
-        <url>http://www.7digital.com/artist/skrillex/release/weekends/?partner=1401</url>
+        <slug>weekends</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/010/520/0001052031_50.jpg</image>
         <popularity>0.58</popularity>
         <streamingReleaseDate>2011-09-13T00:00:00+01:00</streamingReleaseDate>
@@ -111,9 +111,9 @@
         <artist id="106148">
           <name>Paul Kalkbrenner</name>
           <appearsAs>Paul Kalkbrenner</appearsAs>
-          <url>http://www.7digital.com/artist/paul-kalkbrenner/?partner=1401</url>
+          <slug>paul-kalkbrenner</slug>
         </artist>
-        <url>http://www.7digital.com/artist/paul-kalkbrenner/release/berlin-calling-the-soundtrack-by-paul-kalkbrenner/?partner=1401</url>
+        <slug>berlin-calling-the-soundtrack-by-paul-kalkbrenner</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/004/421/0000442193_50.jpg</image>
         <popularity>0.56</popularity>
         <streamingReleaseDate>2008-10-03T00:00:00+01:00</streamingReleaseDate>
@@ -130,9 +130,9 @@
         <artist id="83725">
           <name>Múm</name>
           <appearsAs>Múm</appearsAs>
-          <url>http://www.7digital.com/artist/múm/?partner=1401</url>
+          <slug>múm</slug>
         </artist>
-        <url>http://www.7digital.com/artist/múm/release/early-birds/?partner=1401</url>
+        <slug>early-birds</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/016/934/0001693450_50.jpg</image>
         <popularity>0.55</popularity>
         <streamingReleaseDate>3001-01-01T00:00:00+00:00</streamingReleaseDate>
@@ -149,9 +149,9 @@
         <artist id="153006">
           <name>Dillon</name>
           <appearsAs>Dillon</appearsAs>
-          <url>http://www.7digital.com/artist/dillon/?partner=1401</url>
+          <slug>dillon</slug>
         </artist>
-        <url>http://www.7digital.com/artist/dillon/release/this-silence-kills/?partner=1401</url>
+        <slug>this-silence-kills</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/014/268/0001426800_50.jpg</image>
         <popularity>0.55</popularity>
         <streamingReleaseDate>2011-11-18T00:00:00+00:00</streamingReleaseDate>
@@ -168,9 +168,9 @@
         <artist id="141326">
           <name>Metronomy</name>
           <appearsAs>Metronomy</appearsAs>
-          <url>http://www.7digital.com/artist/metronomy/?partner=1401</url>
+          <slug>metronomy</slug>
         </artist>
-        <url>http://www.7digital.com/artist/metronomy/release/the-english-riviera-1/?partner=1401</url>
+        <slug>the-english-riviera-1</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/012/010/0001201052_50.jpg</image>
         <popularity>0.54</popularity>
         <streamingReleaseDate>3001-01-01T00:00:00+00:00</streamingReleaseDate>
@@ -187,9 +187,9 @@
         <artist id="942352">
           <name>Jamie xx</name>
           <appearsAs>Jamie xx</appearsAs>
-          <url>http://www.7digital.com/artist/jamie-xx/?partner=1401</url>
+          <slug>jamie-xx</slug>
         </artist>
-        <url>http://www.7digital.com/artist/jamie-xx/release/far-nearer-beat-for-ep/?partner=1401</url>
+        <slug>far-nearer-beat-for-ep</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/012/777/0001277762_50.jpg</image>
         <popularity>0.53</popularity>
         <streamingReleaseDate>3001-01-01T00:00:00+00:00</streamingReleaseDate>

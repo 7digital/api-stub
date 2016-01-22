@@ -10,9 +10,9 @@
     <artist id="1410166">
       <name>Royal Blood</name>
       <appearsAs>Royal Blood</appearsAs>
-      <url>http://www.7digital.com/artist/royal-blood/?partner=1401</url>
+      <slug>royal-blood</slug>
     </artist>
-    <url>http://www.7digital.com/artist/royal-blood/release/royal-blood-1/?partner=1401</url>
+    <slug>royal-blood-1</slug>
     <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/037/342/0003734294_50.jpg</image>
     <download>
       <packages>

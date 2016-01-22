@@ -16,9 +16,9 @@
         <artist id="726273">
           <name>Feed Me</name>
           <appearsAs>Feed Me</appearsAs>
-          <url>http://www.7digital.com/artist/feed-me/?partner=1401</url>
+          <slug>feed-me</slug>
         </artist>
-        <url>http://www.7digital.com/artist/feed-me/release/feed-mes-escape-from-electric-mountain/?partner=1401</url>
+        <slug>feed-mes-escape-from-electric-mountain</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/016/034/0001603476_50.jpg</image>
         <popularity>0.55</popularity>
         <streamingReleaseDate>2012-02-06T00:00:00+00:00</streamingReleaseDate>
@@ -35,9 +35,9 @@
         <artist id="831090">
           <name>Loadstar</name>
           <appearsAs>Loadstar</appearsAs>
-          <url>http://www.7digital.com/artist/loadstar/?partner=1401</url>
+          <slug>loadstar</slug>
         </artist>
-        <url>http://www.7digital.com/artist/loadstar/release/passenger-bomber/?partner=1401</url>
+        <slug>passenger-bomber</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/017/581/0001758141_50.jpg</image>
         <popularity>0.53</popularity>
         <streamingReleaseDate>3001-01-01T00:00:00+00:00</streamingReleaseDate>
@@ -54,9 +54,9 @@
         <artist id="726273">
           <name>Feed Me</name>
           <appearsAs>Feed Me</appearsAs>
-          <url>http://www.7digital.com/artist/feed-me/?partner=1401</url>
+          <slug>feed-me</slug>
         </artist>
-        <url>http://www.7digital.com/artist/feed-me/release/to-the-stars/?partner=1401</url>
+        <slug>to-the-stars</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/013/029/0001302922_50.jpg</image>
         <popularity>0.52</popularity>
         <streamingReleaseDate>2011-07-01T00:00:00+01:00</streamingReleaseDate>
@@ -73,9 +73,9 @@
         <artist id="126832">
           <name>Skream</name>
           <appearsAs>Skream</appearsAs>
-          <url>http://www.7digital.com/artist/skream/?partner=1401</url>
+          <slug>skream</slug>
         </artist>
-        <url>http://www.7digital.com/artist/skream/release/outside-the-box/?partner=1401</url>
+        <slug>outside-the-box</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/009/180/0000918035_50.jpg</image>
         <popularity>0.52</popularity>
         <streamingReleaseDate>3001-01-01T00:00:00+00:00</streamingReleaseDate>
@@ -92,9 +92,9 @@
         <artist id="209">
           <name>Various Artists</name>
           <appearsAs>Various Artists</appearsAs>
-          <url>http://www.7digital.com/artist/various-artists/?partner=1401</url>
+          <slug>various-artists</slug>
         </artist>
-        <url>http://www.7digital.com/artist/various-artists/release/dirty-beats-2012-ministry-of-sound/?partner=1401</url>
+        <slug>dirty-beats-2012-ministry-of-sound</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/017/338/0001733840_50.jpg</image>
         <popularity>0.52</popularity>
         <streamingReleaseDate>3001-01-01T00:00:00+00:00</streamingReleaseDate>
@@ -111,9 +111,9 @@
         <artist id="782065">
           <name>Katy B</name>
           <appearsAs>Katy B</appearsAs>
-          <url>http://www.7digital.com/artist/katy-b/?partner=1401</url>
+          <slug>katy-b</slug>
         </artist>
-        <url>http://www.7digital.com/artist/katy-b/release/katy-on-a-mission/?partner=1401</url>
+        <slug>katy-on-a-mission</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/009/477/0000947721_50.jpg</image>
         <popularity>0.51</popularity>
         <streamingReleaseDate>3001-01-01T00:00:00+00:00</streamingReleaseDate>
@@ -130,9 +130,9 @@
         <artist id="1186199">
           <name>Tinytoons</name>
           <appearsAs>Tinytoons</appearsAs>
-          <url>http://www.7digital.com/artist/tinytoons/?partner=1401</url>
+          <slug>tinytoons</slug>
         </artist>
-        <url>http://www.7digital.com/artist/tinytoons/release/looney-tunes-ep/?partner=1401</url>
+        <slug>looney-tunes-ep</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/016/021/0001602135_50.jpg</image>
         <popularity>0.51</popularity>
         <streamingReleaseDate>3001-01-01T00:00:00+00:00</streamingReleaseDate>
@@ -149,9 +149,9 @@
         <artist id="208044">
           <name>Spectrasoul</name>
           <appearsAs>Spectrasoul</appearsAs>
-          <url>http://www.7digital.com/artist/spectrasoul/?partner=1401</url>
+          <slug>spectrasoul</slug>
         </artist>
-        <url>http://www.7digital.com/artist/spectrasoul/release/away-with-me-ep/?partner=1401</url>
+        <slug>away-with-me-ep</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/017/275/0001727558_50.jpg</image>
         <popularity>0.51</popularity>
         <streamingReleaseDate>3001-01-01T00:00:00+00:00</streamingReleaseDate>
@@ -168,9 +168,9 @@
         <artist id="265625">
           <name>Caspa</name>
           <appearsAs>Caspa</appearsAs>
-          <url>http://www.7digital.com/artist/caspa/?partner=1401</url>
+          <slug>caspa</slug>
         </artist>
-        <url>http://www.7digital.com/artist/caspa/release/sell-out-ep/?partner=1401</url>
+        <slug>sell-out-ep</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/017/048/0001704848_50.jpg</image>
         <popularity>0.51</popularity>
         <streamingReleaseDate>3001-01-01T00:00:00+00:00</streamingReleaseDate>
@@ -187,9 +187,9 @@
         <artist id="364230">
           <name>Flux Pavilion</name>
           <appearsAs>Flux Pavilion</appearsAs>
-          <url>http://www.7digital.com/artist/flux-pavilion/?partner=1401</url>
+          <slug>flux-pavilion</slug>
         </artist>
-        <url>http://www.7digital.com/artist/flux-pavilion/release/lines-in-wax-ep/?partner=1401</url>
+        <slug>lines-in-wax-ep</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/009/973/0000997384_50.jpg</image>
         <popularity>0.51</popularity>
         <streamingReleaseDate>2010-10-11T00:00:00+01:00</streamingReleaseDate>

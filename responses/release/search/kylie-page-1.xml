@@ -17,9 +17,9 @@
         <artist id="1599">
           <name>Kylie</name>
           <appearsAs>Kylie</appearsAs>
-          <url>http://www.7digital.com/artists/kylie/?partner=712</url>
+          <slug>kylie</slug>
         </artist>
-        <url>http://www.7digital.com/artists/kylie/come-into-my-world/?partner=712</url>
+        <slug>kylie</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/000/024/0000002431_50.jpg</image>
         <label id="77">
           <name>EMI UK</name>
@@ -40,9 +40,9 @@
         <artist id="209">
           <name>Various Artists</name>
           <appearsAs>Various Artists</appearsAs>
-          <url>http://www.7digital.com/artists/various-artists/?partner=712</url>
+          <slug>various-artists</slug>
         </artist>
-        <url>http://www.7digital.com/artists/various-artists/karaoke-kylie/?partner=712</url>
+        <slug>various-artists</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/000/930/0000093016_50.jpg</image>
         <label id="3623">
           <name>AVID Entertainment</name>
@@ -63,9 +63,9 @@
         <artist id="182445">
           <name>Kylie Minoise</name>
           <appearsAs>Kylie Minoise</appearsAs>
-          <url>http://www.7digital.com/artists/kylie-minoise/?partner=712</url>
+          <slug>kylie-minoise</slug>
         </artist>
-        <url>http://www.7digital.com/artists/kylie-minoise/the-paralysis-sect/?partner=712</url>
+        <slug>kylie-minoise</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/007/928/0000792804_50.jpg</image>
         <label id="17616">
           <name>Kovorox Sound</name>
@@ -86,9 +86,9 @@
         <artist id="1599">
           <name>Kylie</name>
           <appearsAs>Kylie</appearsAs>
-          <url>http://www.7digital.com/artists/kylie/?partner=712</url>
+          <slug>kylie</slug>
         </artist>
-        <url>http://www.7digital.com/artists/kylie/a-kylie-christmas/?partner=712</url>
+        <slug>kylie</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/010/597/0001059779_50.jpg</image>
         <label id="77">
           <name>EMI UK</name>
@@ -109,9 +109,9 @@
         <artist id="1599">
           <name>Kylie</name>
           <appearsAs>Kylie</appearsAs>
-          <url>http://www.7digital.com/artists/kylie/?partner=712</url>
+          <slug>kylie</slug>
         </artist>
-        <url>http://www.7digital.com/artists/kylie/aphrodite/?partner=712</url>
+        <slug>kylie</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/008/934/0000893463_50.jpg</image>
         <label id="77">
           <name>EMI UK</name>
@@ -132,9 +132,9 @@
         <artist id="1599">
           <name>Kylie</name>
           <appearsAs>Kylie</appearsAs>
-          <url>http://www.7digital.com/artists/kylie/?partner=712</url>
+          <slug>kylie</slug>
         </artist>
-        <url>http://www.7digital.com/artists/kylie/x/?partner=712</url>
+        <slug>kylie</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/001/719/0000171968_50.jpg</image>
         <label id="77">
           <name>EMI UK</name>
@@ -155,9 +155,9 @@
         <artist id="1599">
           <name>Kylie</name>
           <appearsAs>Kylie</appearsAs>
-          <url>http://www.7digital.com/artists/kylie/?partner=712</url>
+          <slug>kylie</slug>
         </artist>
-        <url>http://www.7digital.com/artists/kylie/wow-1-1/?partner=712</url>
+        <slug>kylie</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/001/994/0000199465_50.jpg</image>
         <label id="77">
           <name>EMI UK</name>
@@ -178,9 +178,9 @@
         <artist id="109614">
           <name>Fever Queens</name>
           <appearsAs>Fever Queens</appearsAs>
-          <url>http://www.7digital.com/artists/fever-queens/?partner=712</url>
+          <slug>fever-queens</slug>
         </artist>
-        <url>http://www.7digital.com/artists/fever-queens/a-tribute-to-kylie-minogue/?partner=712</url>
+        <slug>fever-queens</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/001/399/0000139997_50.jpg</image>
         <label id="3497">
           <name>Cleopatra Records</name>
@@ -201,9 +201,9 @@
         <artist id="905523">
           <name>The Popettes</name>
           <appearsAs>Popettes, The</appearsAs>
-          <url>http://www.7digital.com/artists/the-popettes/?partner=712</url>
+          <slug>the-popettes</slug>
         </artist>
-        <url>http://www.7digital.com/artists/the-popettes/tribute-to-kylie-minogue/?partner=712</url>
+        <slug>the-popettes</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/011/072/0001107209_50.jpg</image>
         <label id="10787">
           <name>Vanilla OMP</name>
@@ -224,9 +224,9 @@
         <artist id="558400">
           <name>Studio Union</name>
           <appearsAs>Studio Union</appearsAs>
-          <url>http://www.7digital.com/artists/studio-union/?partner=712</url>
+          <slug>studio-union</slug>
         </artist>
-        <url>http://www.7digital.com/artists/studio-union/a-tribute-to-kylie-minogue/?partner=712</url>
+        <slug>studio-union</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/007/472/0000747227_50.jpg</image>
         <label id="46474">
           <name>Lumi OMP</name>

@@ -16,9 +16,9 @@
         <artist id="209">
           <name>Various Artists</name>
           <appearsAs>Various Artists</appearsAs>
-          <url>http://www.7digital.com/artists/various-artists/?partner=1401</url>
+          <slug>various-artists</slug>
         </artist>
-        <url>http://www.7digital.com/artists/various-artists/fussball-und-stadion-top-30-die-europameister-hits-2012-das-beste-aus-den-fankurven/?partner=1401</url>
+        <slug>various-artists</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/016/998/0001699889_50.jpg</image>
         <popularity>0.31</popularity>
       </release>
@@ -34,9 +34,9 @@
         <artist id="1293064">
           <name>Band Of Bavaria</name>
           <appearsAs>Band Of Bavaria</appearsAs>
-          <url>http://www.7digital.com/artists/band-of-bavaria/?partner=1401</url>
+          <slug>band-of-bavaria</slug>
         </artist>
-        <url>http://www.7digital.com/artists/band-of-bavaria/das-sind-wir/?partner=1401</url>
+        <slug>band-of-bavaria</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/017/143/0001714385_50.jpg</image>
         <popularity>0.3</popularity>
       </release>
@@ -52,9 +52,9 @@
         <artist id="773798">
           <name>Sebastian Arnold</name>
           <appearsAs>Sebastian Arnold</appearsAs>
-          <url>http://www.7digital.com/artists/sebastian-arnold/?partner=1401</url>
+          <slug>sebastian-arnold</slug>
         </artist>
-        <url>http://www.7digital.com/artists/sebastian-arnold/interstellar-getaway/?partner=1401</url>
+        <slug>sebastian-arnold</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/017/136/0001713632_50.jpg</image>
         <popularity>0.3</popularity>
       </release>
@@ -70,9 +70,9 @@
         <artist id="566163">
           <name>planet emily</name>
           <appearsAs>planet emily</appearsAs>
-          <url>http://www.7digital.com/artists/planet-emily/?partner=1401</url>
+          <slug>planet-emily</slug>
         </artist>
-        <url>http://www.7digital.com/artists/planet-emily/dein-film/?partner=1401</url>
+        <slug>planet-emily</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/016/935/0001693521_50.jpg</image>
         <popularity>0.3</popularity>
       </release>
@@ -88,9 +88,9 @@
         <artist id="592953">
           <name>SwedenClub</name>
           <appearsAs>SwedenClub</appearsAs>
-          <url>http://www.7digital.com/artists/swedenclub/?partner=1401</url>
+          <slug>swedenclub</slug>
         </artist>
-        <url>http://www.7digital.com/artists/swedenclub/slow-teenage-blues/?partner=1401</url>
+        <slug>swedenclub</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/017/142/0001714278_50.jpg</image>
         <popularity>0.3</popularity>
       </release>
@@ -106,9 +106,9 @@
         <artist id="16772">
           <name>Ricky Nelson</name>
           <appearsAs>Ricky Nelson</appearsAs>
-          <url>http://www.7digital.com/artists/ricky-nelson/?partner=1401</url>
+          <slug>ricky-nelson</slug>
         </artist>
-        <url>http://www.7digital.com/artists/ricky-nelson/100-essential-hits-very-best-of/?partner=1401</url>
+        <slug>ricky-nelson</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/017/144/0001714485_50.jpg</image>
         <popularity>0.3</popularity>
       </release>
@@ -124,9 +124,9 @@
         <artist id="1244667">
           <name>Black Hats</name>
           <appearsAs>Black Hats</appearsAs>
-          <url>http://www.7digital.com/artists/black-hats/?partner=1401</url>
+          <slug>black-hats</slug>
         </artist>
-        <url>http://www.7digital.com/artists/black-hats/austerity-for-the-hoi-polloi/?partner=1401</url>
+        <slug>black-hats</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/017/137/0001713762_50.jpg</image>
         <popularity>0.3</popularity>
       </release>
@@ -142,9 +142,9 @@
         <artist id="1295580">
           <name>Madkin</name>
           <appearsAs>Madkin</appearsAs>
-          <url>http://www.7digital.com/artists/madkin/?partner=1401</url>
+          <slug>madkin</slug>
         </artist>
-        <url>http://www.7digital.com/artists/madkin/perdone-la-molestia/?partner=1401</url>
+        <slug>madkin</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/017/190/0001719032_50.jpg</image>
         <popularity>0.29</popularity>
       </release>
@@ -160,9 +160,9 @@
         <artist id="1293045">
           <name>The Neon Grey</name>
           <appearsAs>Neon Grey, The</appearsAs>
-          <url>http://www.7digital.com/artists/the-neon-grey/?partner=1401</url>
+          <slug>the-neon-grey</slug>
         </artist>
-        <url>http://www.7digital.com/artists/the-neon-grey/dis-play/?partner=1401</url>
+        <slug>the-neon-grey</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/017/143/0001714353_50.jpg</image>
         <popularity>0.29</popularity>
       </release>
@@ -178,9 +178,9 @@
         <artist id="1293070">
           <name>SummerMay</name>
           <appearsAs>SummerMay</appearsAs>
-          <url>http://www.7digital.com/artists/summermay/?partner=1401</url>
+          <slug>summermay</slug>
         </artist>
-        <url>http://www.7digital.com/artists/summermay/ep/?partner=1401</url>
+        <slug>summermay</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/017/143/0001714398_50.jpg</image>
         <popularity>0.29</popularity>
       </release>

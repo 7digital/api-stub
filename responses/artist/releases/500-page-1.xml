@@ -14,9 +14,9 @@
       <artist id="500">
         <name>Marcy Playground</name>
         <appearsAs>Marcy Playground</appearsAs>
-        <url>http://www.7digital.com/artist/marcy-playground/?partner=1401</url>
+        <slug>marcy-playground</slug>
       </artist>
-      <url>http://www.7digital.com/artist/marcy-playground/release/indaba-remixes-from-wonderland-1/?partner=1401</url>
+      <slug>indaba-remixes-from-wonderland-1</slug>
       <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/010/027/0001002726_50.jpg</image>
       <download>
         <packages>
@@ -51,9 +51,9 @@
       <artist id="500">
         <name>Marcy Playground</name>
         <appearsAs>Marcy Playground</appearsAs>
-        <url>http://www.7digital.com/artist/marcy-playground/?partner=1401</url>
+        <slug>marcy-playground</slug>
       </artist>
-      <url>http://www.7digital.com/artist/marcy-playground/release/leaving-wonderland-bonus-tracks/?partner=1401</url>
+      <slug>leaving-wonderland-bonus-tracks</slug>
       <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/005/889/0000588988_50.jpg</image>
       <download>
         <packages>

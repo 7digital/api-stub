@@ -10,9 +10,9 @@
     <artist id="1599">
       <name>Kylie</name>
       <appearsAs>Kylie Minogue</appearsAs>
-      <url>http://www.7digital.com/artist/kylie/?partner=3923</url>
+      <slug>kylie</slug>
     </artist>
-    <url>http://www.7digital.com/artist/kylie/release/kyliefever2002-live-in-manchester/?partner=3923</url>
+    <slug>kyliefever2002-live-in-manchester</slug>
     <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/002/634/0000263431_50.jpg</image>
     <download>
       <packages>

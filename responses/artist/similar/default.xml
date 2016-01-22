@@ -7,37 +7,37 @@
     <artist id="14">
       <name>The Charlatans</name>
       <sortName>Charlatans, The</sortName>
-      <url>http://www.7digital.com/artist/the-charlatans/?partner=1401</url>
+      <slug>the-charlatans</slug>
       <image>http://artwork-cdn.7static.com/static/img/artistimages/00/000/000/0000000014_150.jpg</image>
     </artist>
     <artist id="20">
       <name>Coldplay</name>
       <sortName>Coldplay</sortName>
-      <url>http://www.7digital.com/artist/coldplay/?partner=1401</url>
+      <slug>coldplay</slug>
       <image>http://artwork-cdn.7static.com/static/img/artistimages/00/000/000/0000000020_150.jpg</image>
     </artist>
     <artist id="102">
       <name>Ocean Colour Scene</name>
       <sortName>Ocean Colour Scene</sortName>
-      <url>http://www.7digital.com/artist/ocean-colour-scene/?partner=1401</url>
+      <slug>ocean-colour-scene</slug>
       <image>http://artwork-cdn.7static.com/static/img/artistimages/00/000/001/0000000102_150.jpg</image>
     </artist>
     <artist id="106">
       <name>U2</name>
       <sortName>U2</sortName>
-      <url>http://www.7digital.com/artist/u2/?partner=1401</url>
+      <slug>u2</slug>
       <image>http://artwork-cdn.7static.com/static/img/artistimages/00/000/001/0000000106_150.jpg</image>
     </artist>
     <artist id="110">
       <name>Thirteen Senses</name>
       <sortName>Thirteen Senses</sortName>
-      <url>http://www.7digital.com/artist/thirteen-senses/?partner=1401</url>
+      <slug>thirteen-senses</slug>
       <image>http://artwork-cdn.7static.com/static/img/artistimages/00/000/001/0000000110_150.jpg</image>
     </artist>
     <artist id="117">
       <name>The Thrills</name>
       <sortName>Thrills, The</sortName>
-      <url>http://www.7digital.com/artist/the-thrills/?partner=1401</url>
+      <slug>the-thrills</slug>
       <image>http://artwork-cdn.7static.com/static/img/artistimages/00/000/001/0000000117_150.jpg</image>
     </artist>
   </artists>

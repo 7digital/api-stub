@@ -10,7 +10,7 @@
       <artist id="32">
         <name>Jimi Hendrix</name>
         <appearsAs>The Jimi Hendrix Experience</appearsAs>
-        <url>http://www.7digital.com/artists/jimi-hendrix/?partner=712</url>
+        <slug>jimi-hendrix</slug>
       </artist>
       <trackNumber>1</trackNumber>
       <duration>206</duration>
@@ -24,12 +24,12 @@
         <artist id="32">
           <name>Jimi Hendrix</name>
           <appearsAs>The Jimi Hendrix Experience</appearsAs>
-          <url>http://www.7digital.com/artists/jimi-hendrix/?partner=712</url>
+          <slug>jimi-hendrix</slug>
         </artist>
-        <url>http://www.7digital.com/artists/jimi-hendrix/the-jimi-hendrix-experience-box-set/?partner=712</url>
+        <slug>jimi-hendrix</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/006/718/0000671859_50.jpg</image>
       </release>
-      <url>http://www.7digital.com/artists/jimi-hendrix/the-jimi-hendrix-experience-box-set/01-Purple-Haze-(DeLane-Lea-Studios-London-UK-January-11-1967)/?partner=712</url>
+      <slug>jimi-hendrix</slug>
       <price>
         <currency code="GBP">£</currency>
         <value>0.99</value>
@@ -62,7 +62,7 @@
       <artist id="32">
         <name>Jimi Hendrix</name>
         <appearsAs>The Jimi Hendrix Experience</appearsAs>
-        <url>http://www.7digital.com/artists/jimi-hendrix/?partner=712</url>
+        <slug>jimi-hendrix</slug>
       </artist>
       <trackNumber>2</trackNumber>
       <duration>185</duration>
@@ -76,12 +76,12 @@
         <artist id="32">
           <name>Jimi Hendrix</name>
           <appearsAs>The Jimi Hendrix Experience</appearsAs>
-          <url>http://www.7digital.com/artists/jimi-hendrix/?partner=712</url>
+          <slug>jimi-hendrix</slug>
         </artist>
-        <url>http://www.7digital.com/artists/jimi-hendrix/the-jimi-hendrix-experience-box-set/?partner=712</url>
+        <slug>jimi-hendrix</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/006/718/0000671859_50.jpg</image>
       </release>
-      <url>http://www.7digital.com/artists/jimi-hendrix/the-jimi-hendrix-experience-box-set/02-Killing-Floor-(Olympia-Theater-Paris-France-October-18-1966)/?partner=712</url>
+      <slug>jimi-hendrix</slug>
       <price>
         <currency code="GBP">£</currency>
         <value>0.99</value>
@@ -114,7 +114,7 @@
       <artist id="32">
         <name>Jimi Hendrix</name>
         <appearsAs>The Jimi Hendrix Experience</appearsAs>
-        <url>http://www.7digital.com/artists/jimi-hendrix/?partner=712</url>
+        <slug>jimi-hendrix</slug>
       </artist>
       <trackNumber>3</trackNumber>
       <duration>172</duration>
@@ -128,12 +128,12 @@
         <artist id="32">
           <name>Jimi Hendrix</name>
           <appearsAs>The Jimi Hendrix Experience</appearsAs>
-          <url>http://www.7digital.com/artists/jimi-hendrix/?partner=712</url>
+          <slug>jimi-hendrix</slug>
         </artist>
-        <url>http://www.7digital.com/artists/jimi-hendrix/the-jimi-hendrix-experience-box-set/?partner=712</url>
+        <slug>jimi-hendrix</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/006/718/0000671859_50.jpg</image>
       </release>
-      <url>http://www.7digital.com/artists/jimi-hendrix/the-jimi-hendrix-experience-box-set/03-Hey-Joe-(Olympia-Theater-Paris-France-October-18-1966)/?partner=712</url>
+      <slug>jimi-hendrix</slug>
       <price>
         <currency code="GBP">£</currency>
         <value>0.99</value>
@@ -166,7 +166,7 @@
       <artist id="32">
         <name>Jimi Hendrix</name>
         <appearsAs>The Jimi Hendrix Experience</appearsAs>
-        <url>http://www.7digital.com/artists/jimi-hendrix/?partner=712</url>
+        <slug>jimi-hendrix</slug>
       </artist>
       <trackNumber>4</trackNumber>
       <duration>206</duration>
@@ -180,12 +180,12 @@
         <artist id="32">
           <name>Jimi Hendrix</name>
           <appearsAs>The Jimi Hendrix Experience</appearsAs>
-          <url>http://www.7digital.com/artists/jimi-hendrix/?partner=712</url>
+          <slug>jimi-hendrix</slug>
         </artist>
-        <url>http://www.7digital.com/artists/jimi-hendrix/the-jimi-hendrix-experience-box-set/?partner=712</url>
+        <slug>jimi-hendrix</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/006/718/0000671859_50.jpg</image>
       </release>
-      <url>http://www.7digital.com/artists/jimi-hendrix/the-jimi-hendrix-experience-box-set/04-Foxey-Lady-(CBS-Studios-London-UK-December-13-1966)/?partner=712</url>
+      <slug>jimi-hendrix</slug>
       <price>
         <currency code="GBP">£</currency>
         <value>0.99</value>
@@ -218,7 +218,7 @@
       <artist id="32">
         <name>Jimi Hendrix</name>
         <appearsAs>The Jimi Hendrix Experience</appearsAs>
-        <url>http://www.7digital.com/artists/jimi-hendrix/?partner=712</url>
+        <slug>jimi-hendrix</slug>
       </artist>
       <trackNumber>5</trackNumber>
       <duration>219</duration>
@@ -232,12 +232,12 @@
         <artist id="32">
           <name>Jimi Hendrix</name>
           <appearsAs>The Jimi Hendrix Experience</appearsAs>
-          <url>http://www.7digital.com/artists/jimi-hendrix/?partner=712</url>
+          <slug>jimi-hendrix</slug>
         </artist>
-        <url>http://www.7digital.com/artists/jimi-hendrix/the-jimi-hendrix-experience-box-set/?partner=712</url>
+        <slug>jimi-hendrix</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/006/718/0000671859_50.jpg</image>
       </release>
-      <url>http://www.7digital.com/artists/jimi-hendrix/the-jimi-hendrix-experience-box-set/05-Highway-Chile-(Olympic-Studios-London-UK-April-3-1967)/?partner=712</url>
+      <slug>jimi-hendrix</slug>
       <price>
         <currency code="GBP">£</currency>
         <value>0.99</value>
@@ -270,7 +270,7 @@
       <artist id="32">
         <name>Jimi Hendrix</name>
         <appearsAs>The Jimi Hendrix Experience</appearsAs>
-        <url>http://www.7digital.com/artists/jimi-hendrix/?partner=712</url>
+        <slug>jimi-hendrix</slug>
       </artist>
       <trackNumber>6</trackNumber>
       <duration>186</duration>
@@ -284,12 +284,12 @@
         <artist id="32">
           <name>Jimi Hendrix</name>
           <appearsAs>The Jimi Hendrix Experience</appearsAs>
-          <url>http://www.7digital.com/artists/jimi-hendrix/?partner=712</url>
+          <slug>jimi-hendrix</slug>
         </artist>
-        <url>http://www.7digital.com/artists/jimi-hendrix/the-jimi-hendrix-experience-box-set/?partner=712</url>
+        <slug>jimi-hendrix</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/006/718/0000671859_50.jpg</image>
       </release>
-      <url>http://www.7digital.com/artists/jimi-hendrix/the-jimi-hendrix-experience-box-set/06-Hey-Joe-(Pye-Studios-London-UK-October-1966)/?partner=712</url>
+      <slug>jimi-hendrix</slug>
       <price>
         <currency code="GBP">£</currency>
         <value>0.99</value>
@@ -322,7 +322,7 @@
       <artist id="32">
         <name>Jimi Hendrix</name>
         <appearsAs>The Jimi Hendrix Experience</appearsAs>
-        <url>http://www.7digital.com/artists/jimi-hendrix/?partner=712</url>
+        <slug>jimi-hendrix</slug>
       </artist>
       <trackNumber>7</trackNumber>
       <duration>132</duration>
@@ -336,12 +336,12 @@
         <artist id="32">
           <name>Jimi Hendrix</name>
           <appearsAs>The Jimi Hendrix Experience</appearsAs>
-          <url>http://www.7digital.com/artists/jimi-hendrix/?partner=712</url>
+          <slug>jimi-hendrix</slug>
         </artist>
-        <url>http://www.7digital.com/artists/jimi-hendrix/the-jimi-hendrix-experience-box-set/?partner=712</url>
+        <slug>jimi-hendrix</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/006/718/0000671859_50.jpg</image>
       </release>
-      <url>http://www.7digital.com/artists/jimi-hendrix/the-jimi-hendrix-experience-box-set/07-Title-3-(Olympic-Studios-London-UK-April-3-1967)/?partner=712</url>
+      <slug>jimi-hendrix</slug>
       <price>
         <currency code="GBP">£</currency>
         <value>0.99</value>
@@ -374,7 +374,7 @@
       <artist id="32">
         <name>Jimi Hendrix</name>
         <appearsAs>The Jimi Hendrix Experience</appearsAs>
-        <url>http://www.7digital.com/artists/jimi-hendrix/?partner=712</url>
+        <slug>jimi-hendrix</slug>
       </artist>
       <trackNumber>8</trackNumber>
       <duration>558</duration>
@@ -388,12 +388,12 @@
         <artist id="32">
           <name>Jimi Hendrix</name>
           <appearsAs>The Jimi Hendrix Experience</appearsAs>
-          <url>http://www.7digital.com/artists/jimi-hendrix/?partner=712</url>
+          <slug>jimi-hendrix</slug>
         </artist>
-        <url>http://www.7digital.com/artists/jimi-hendrix/the-jimi-hendrix-experience-box-set/?partner=712</url>
+        <slug>jimi-hendrix</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/006/718/0000671859_50.jpg</image>
       </release>
-      <url>http://www.7digital.com/artists/jimi-hendrix/the-jimi-hendrix-experience-box-set/08-3rd-Stone-From-The-Sun-(DeLane-Lea-Studios-London-UK-January-11-1967)/?partner=712</url>
+      <slug>jimi-hendrix</slug>
       <price>
         <currency code="GBP">£</currency>
         <value>0.99</value>
@@ -426,7 +426,7 @@
       <artist id="32">
         <name>Jimi Hendrix</name>
         <appearsAs>The Jimi Hendrix Experience</appearsAs>
-        <url>http://www.7digital.com/artists/jimi-hendrix/?partner=712</url>
+        <slug>jimi-hendrix</slug>
       </artist>
       <trackNumber>9</trackNumber>
       <duration>222</duration>
@@ -440,12 +440,12 @@
         <artist id="32">
           <name>Jimi Hendrix</name>
           <appearsAs>The Jimi Hendrix Experience</appearsAs>
-          <url>http://www.7digital.com/artists/jimi-hendrix/?partner=712</url>
+          <slug>jimi-hendrix</slug>
         </artist>
-        <url>http://www.7digital.com/artists/jimi-hendrix/the-jimi-hendrix-experience-box-set/?partner=712</url>
+        <slug>jimi-hendrix</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/006/718/0000671859_50.jpg</image>
       </release>
-      <url>http://www.7digital.com/artists/jimi-hendrix/the-jimi-hendrix-experience-box-set/09-Taking-Care-Of-No-Business-(Olympic-Studios-London-UK-May-4-1967)/?partner=712</url>
+      <slug>jimi-hendrix</slug>
       <price>
         <currency code="GBP">£</currency>
         <value>0.99</value>
@@ -478,7 +478,7 @@
       <artist id="32">
         <name>Jimi Hendrix</name>
         <appearsAs>The Jimi Hendrix Experience</appearsAs>
-        <url>http://www.7digital.com/artists/jimi-hendrix/?partner=712</url>
+        <slug>jimi-hendrix</slug>
       </artist>
       <trackNumber>10</trackNumber>
       <duration>182</duration>
@@ -492,12 +492,12 @@
         <artist id="32">
           <name>Jimi Hendrix</name>
           <appearsAs>The Jimi Hendrix Experience</appearsAs>
-          <url>http://www.7digital.com/artists/jimi-hendrix/?partner=712</url>
+          <slug>jimi-hendrix</slug>
         </artist>
-        <url>http://www.7digital.com/artists/jimi-hendrix/the-jimi-hendrix-experience-box-set/?partner=712</url>
+        <slug>jimi-hendrix</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/006/718/0000671859_50.jpg</image>
       </release>
-      <url>http://www.7digital.com/artists/jimi-hendrix/the-jimi-hendrix-experience-box-set/10-Here-He-Comes-(Lover-Man)-(Olympic-Studios-London-UK-April-4-1967)/?partner=712</url>
+      <slug>jimi-hendrix</slug>
       <price>
         <currency code="GBP">£</currency>
         <value>0.99</value>
@@ -530,7 +530,7 @@
       <artist id="32">
         <name>Jimi Hendrix</name>
         <appearsAs>The Jimi Hendrix Experience</appearsAs>
-        <url>http://www.7digital.com/artists/jimi-hendrix/?partner=712</url>
+        <slug>jimi-hendrix</slug>
       </artist>
       <trackNumber>11</trackNumber>
       <duration>90</duration>
@@ -544,12 +544,12 @@
         <artist id="32">
           <name>Jimi Hendrix</name>
           <appearsAs>The Jimi Hendrix Experience</appearsAs>
-          <url>http://www.7digital.com/artists/jimi-hendrix/?partner=712</url>
+          <slug>jimi-hendrix</slug>
         </artist>
-        <url>http://www.7digital.com/artists/jimi-hendrix/the-jimi-hendrix-experience-box-set/?partner=712</url>
+        <slug>jimi-hendrix</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/006/718/0000671859_50.jpg</image>
       </release>
-      <url>http://www.7digital.com/artists/jimi-hendrix/the-jimi-hendrix-experience-box-set/11-Burning-Of-The-Midnight-Lamp-(Olympic-Studios-London-UK-May-9-1967)/?partner=712</url>
+      <slug>jimi-hendrix</slug>
       <price>
         <currency code="GBP">£</currency>
         <value>0.99</value>
@@ -582,7 +582,7 @@
       <artist id="32">
         <name>Jimi Hendrix</name>
         <appearsAs>The Jimi Hendrix Experience</appearsAs>
-        <url>http://www.7digital.com/artists/jimi-hendrix/?partner=712</url>
+        <slug>jimi-hendrix</slug>
       </artist>
       <trackNumber>12</trackNumber>
       <duration>357</duration>
@@ -596,12 +596,12 @@
         <artist id="32">
           <name>Jimi Hendrix</name>
           <appearsAs>The Jimi Hendrix Experience</appearsAs>
-          <url>http://www.7digital.com/artists/jimi-hendrix/?partner=712</url>
+          <slug>jimi-hendrix</slug>
         </artist>
-        <url>http://www.7digital.com/artists/jimi-hendrix/the-jimi-hendrix-experience-box-set/?partner=712</url>
+        <slug>jimi-hendrix</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/006/718/0000671859_50.jpg</image>
       </release>
-      <url>http://www.7digital.com/artists/jimi-hendrix/the-jimi-hendrix-experience-box-set/12-If-6-Was-9-(Olympic-Studios-London-UK-May-4-1967)/?partner=712</url>
+      <slug>jimi-hendrix</slug>
       <price>
         <currency code="GBP">£</currency>
         <value>0.99</value>
@@ -634,7 +634,7 @@
       <artist id="32">
         <name>Jimi Hendrix</name>
         <appearsAs>The Jimi Hendrix Experience</appearsAs>
-        <url>http://www.7digital.com/artists/jimi-hendrix/?partner=712</url>
+        <slug>jimi-hendrix</slug>
       </artist>
       <trackNumber>13</trackNumber>
       <duration>200</duration>
@@ -648,12 +648,12 @@
         <artist id="32">
           <name>Jimi Hendrix</name>
           <appearsAs>The Jimi Hendrix Experience</appearsAs>
-          <url>http://www.7digital.com/artists/jimi-hendrix/?partner=712</url>
+          <slug>jimi-hendrix</slug>
         </artist>
-        <url>http://www.7digital.com/artists/jimi-hendrix/the-jimi-hendrix-experience-box-set/?partner=712</url>
+        <slug>jimi-hendrix</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/006/718/0000671859_50.jpg</image>
       </release>
-      <url>http://www.7digital.com/artists/jimi-hendrix/the-jimi-hendrix-experience-box-set/13-Rock-Me-Baby-(Monterey-International-Pop-Festival-Los-Angeles-CA-June-18-1967)/?partner=712</url>
+      <slug>jimi-hendrix</slug>
       <price>
         <currency code="GBP">£</currency>
         <value>0.99</value>
@@ -686,7 +686,7 @@
       <artist id="32">
         <name>Jimi Hendrix</name>
         <appearsAs>The Jimi Hendrix Experience</appearsAs>
-        <url>http://www.7digital.com/artists/jimi-hendrix/?partner=712</url>
+        <slug>jimi-hendrix</slug>
       </artist>
       <trackNumber>14</trackNumber>
       <duration>408</duration>
@@ -700,12 +700,12 @@
         <artist id="32">
           <name>Jimi Hendrix</name>
           <appearsAs>The Jimi Hendrix Experience</appearsAs>
-          <url>http://www.7digital.com/artists/jimi-hendrix/?partner=712</url>
+          <slug>jimi-hendrix</slug>
         </artist>
-        <url>http://www.7digital.com/artists/jimi-hendrix/the-jimi-hendrix-experience-box-set/?partner=712</url>
+        <slug>jimi-hendrix</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/006/718/0000671859_50.jpg</image>
       </release>
-      <url>http://www.7digital.com/artists/jimi-hendrix/the-jimi-hendrix-experience-box-set/14-Like-A-Rolling-Stone-(Monterey-International-Pop-Festival-Los-Angeles-CA-June-18-1967)/?partner=712</url>
+      <slug>jimi-hendrix</slug>
       <price>
         <currency code="GBP">£</currency>
         <value>0.99</value>
@@ -738,7 +738,7 @@
       <artist id="32">
         <name>Jimi Hendrix</name>
         <appearsAs>The Jimi Hendrix Experience</appearsAs>
-        <url>http://www.7digital.com/artists/jimi-hendrix/?partner=712</url>
+        <slug>jimi-hendrix</slug>
       </artist>
       <trackNumber>201</trackNumber>
       <duration>111</duration>
@@ -752,12 +752,12 @@
         <artist id="32">
           <name>Jimi Hendrix</name>
           <appearsAs>The Jimi Hendrix Experience</appearsAs>
-          <url>http://www.7digital.com/artists/jimi-hendrix/?partner=712</url>
+          <slug>jimi-hendrix</slug>
         </artist>
-        <url>http://www.7digital.com/artists/jimi-hendrix/the-jimi-hendrix-experience-box-set/?partner=712</url>
+        <slug>jimi-hendrix</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/006/718/0000671859_50.jpg</image>
       </release>
-      <url>http://www.7digital.com/artists/jimi-hendrix/the-jimi-hendrix-experience-box-set/201-Sgt-Peppers-Lonely-Hearts-Club-Band-Stockholm-Sweden-September-5-1967)/?partner=712</url>
+      <slug>jimi-hendrix</slug>
       <price>
         <currency code="GBP">£</currency>
         <value>0.99</value>
@@ -790,7 +790,7 @@
       <artist id="32">
         <name>Jimi Hendrix</name>
         <appearsAs>The Jimi Hendrix Experience</appearsAs>
-        <url>http://www.7digital.com/artists/jimi-hendrix/?partner=712</url>
+        <slug>jimi-hendrix</slug>
       </artist>
       <trackNumber>202</trackNumber>
       <duration>246</duration>
@@ -804,12 +804,12 @@
         <artist id="32">
           <name>Jimi Hendrix</name>
           <appearsAs>The Jimi Hendrix Experience</appearsAs>
-          <url>http://www.7digital.com/artists/jimi-hendrix/?partner=712</url>
+          <slug>jimi-hendrix</slug>
         </artist>
-        <url>http://www.7digital.com/artists/jimi-hendrix/the-jimi-hendrix-experience-box-set/?partner=712</url>
+        <slug>jimi-hendrix</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/006/718/0000671859_50.jpg</image>
       </release>
-      <url>http://www.7digital.com/artists/jimi-hendrix/the-jimi-hendrix-experience-box-set/202-Burning-Of-The-Midnight-Lamp-(Stockholm-Sweden-September-5-1967)/?partner=712</url>
+      <slug>jimi-hendrix</slug>
       <price>
         <currency code="GBP">£</currency>
         <value>0.99</value>
@@ -842,7 +842,7 @@
       <artist id="32">
         <name>Jimi Hendrix</name>
         <appearsAs>The Jimi Hendrix Experience</appearsAs>
-        <url>http://www.7digital.com/artists/jimi-hendrix/?partner=712</url>
+        <slug>jimi-hendrix</slug>
       </artist>
       <trackNumber>203</trackNumber>
       <duration>203</duration>
@@ -856,12 +856,12 @@
         <artist id="32">
           <name>Jimi Hendrix</name>
           <appearsAs>The Jimi Hendrix Experience</appearsAs>
-          <url>http://www.7digital.com/artists/jimi-hendrix/?partner=712</url>
+          <slug>jimi-hendrix</slug>
         </artist>
-        <url>http://www.7digital.com/artists/jimi-hendrix/the-jimi-hendrix-experience-box-set/?partner=712</url>
+        <slug>jimi-hendrix</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/006/718/0000671859_50.jpg</image>
       </release>
-      <url>http://www.7digital.com/artists/jimi-hendrix/the-jimi-hendrix-experience-box-set/203-Little-Wing-(Olympic-Studios-London-UK-October-25-1967)/?partner=712</url>
+      <slug>jimi-hendrix</slug>
       <price>
         <currency code="GBP">£</currency>
         <value>0.99</value>
@@ -894,7 +894,7 @@
       <artist id="32">
         <name>Jimi Hendrix</name>
         <appearsAs>The Jimi Hendrix Experience</appearsAs>
-        <url>http://www.7digital.com/artists/jimi-hendrix/?partner=712</url>
+        <slug>jimi-hendrix</slug>
       </artist>
       <trackNumber>204</trackNumber>
       <duration>141</duration>
@@ -908,12 +908,12 @@
         <artist id="32">
           <name>Jimi Hendrix</name>
           <appearsAs>The Jimi Hendrix Experience</appearsAs>
-          <url>http://www.7digital.com/artists/jimi-hendrix/?partner=712</url>
+          <slug>jimi-hendrix</slug>
         </artist>
-        <url>http://www.7digital.com/artists/jimi-hendrix/the-jimi-hendrix-experience-box-set/?partner=712</url>
+        <slug>jimi-hendrix</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/006/718/0000671859_50.jpg</image>
       </release>
-      <url>http://www.7digital.com/artists/jimi-hendrix/the-jimi-hendrix-experience-box-set/204-Little-Miss-Lover-(Olympic-Studios-London-UK-October-1-1967)/?partner=712</url>
+      <slug>jimi-hendrix</slug>
       <price>
         <currency code="GBP">£</currency>
         <value>0.99</value>
@@ -946,7 +946,7 @@
       <artist id="32">
         <name>Jimi Hendrix</name>
         <appearsAs>The Jimi Hendrix Experience</appearsAs>
-        <url>http://www.7digital.com/artists/jimi-hendrix/?partner=712</url>
+        <slug>jimi-hendrix</slug>
       </artist>
       <trackNumber>205</trackNumber>
       <duration>251</duration>
@@ -960,12 +960,12 @@
         <artist id="32">
           <name>Jimi Hendrix</name>
           <appearsAs>The Jimi Hendrix Experience</appearsAs>
-          <url>http://www.7digital.com/artists/jimi-hendrix/?partner=712</url>
+          <slug>jimi-hendrix</slug>
         </artist>
-        <url>http://www.7digital.com/artists/jimi-hendrix/the-jimi-hendrix-experience-box-set/?partner=712</url>
+        <slug>jimi-hendrix</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/006/718/0000671859_50.jpg</image>
       </release>
-      <url>http://www.7digital.com/artists/jimi-hendrix/the-jimi-hendrix-experience-box-set/205-The-Wind-Cries-Mary-(Olympia-Theater-Paris-France-October-19-1967)/?partner=712</url>
+      <slug>jimi-hendrix</slug>
       <price>
         <currency code="GBP">£</currency>
         <value>0.99</value>
@@ -998,7 +998,7 @@
       <artist id="32">
         <name>Jimi Hendrix</name>
         <appearsAs>The Jimi Hendrix Experience</appearsAs>
-        <url>http://www.7digital.com/artists/jimi-hendrix/?partner=712</url>
+        <slug>jimi-hendrix</slug>
       </artist>
       <trackNumber>206</trackNumber>
       <duration>327</duration>
@@ -1012,12 +1012,12 @@
         <artist id="32">
           <name>Jimi Hendrix</name>
           <appearsAs>The Jimi Hendrix Experience</appearsAs>
-          <url>http://www.7digital.com/artists/jimi-hendrix/?partner=712</url>
+          <slug>jimi-hendrix</slug>
         </artist>
-        <url>http://www.7digital.com/artists/jimi-hendrix/the-jimi-hendrix-experience-box-set/?partner=712</url>
+        <slug>jimi-hendrix</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/006/718/0000671859_50.jpg</image>
       </release>
-      <url>http://www.7digital.com/artists/jimi-hendrix/the-jimi-hendrix-experience-box-set/206-Catfish-Blues-(Olympia-Theater-Paris-France-October-19-1967)/?partner=712</url>
+      <slug>jimi-hendrix</slug>
       <price>
         <currency code="GBP">£</currency>
         <value>0.99</value>
@@ -1050,7 +1050,7 @@
       <artist id="32">
         <name>Jimi Hendrix</name>
         <appearsAs>The Jimi Hendrix Experience</appearsAs>
-        <url>http://www.7digital.com/artists/jimi-hendrix/?partner=712</url>
+        <slug>jimi-hendrix</slug>
       </artist>
       <trackNumber>207</trackNumber>
       <duration>428</duration>
@@ -1064,12 +1064,12 @@
         <artist id="32">
           <name>Jimi Hendrix</name>
           <appearsAs>The Jimi Hendrix Experience</appearsAs>
-          <url>http://www.7digital.com/artists/jimi-hendrix/?partner=712</url>
+          <slug>jimi-hendrix</slug>
         </artist>
-        <url>http://www.7digital.com/artists/jimi-hendrix/the-jimi-hendrix-experience-box-set/?partner=712</url>
+        <slug>jimi-hendrix</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/006/718/0000671859_50.jpg</image>
       </release>
-      <url>http://www.7digital.com/artists/jimi-hendrix/the-jimi-hendrix-experience-box-set/207-Bold-As-Love-(Olympic-Studios-London-UK-October-5-1967)/?partner=712</url>
+      <slug>jimi-hendrix</slug>
       <price>
         <currency code="GBP">£</currency>
         <value>0.99</value>
@@ -1102,7 +1102,7 @@
       <artist id="32">
         <name>Jimi Hendrix</name>
         <appearsAs>The Jimi Hendrix Experience</appearsAs>
-        <url>http://www.7digital.com/artists/jimi-hendrix/?partner=712</url>
+        <slug>jimi-hendrix</slug>
       </artist>
       <trackNumber>208</trackNumber>
       <duration>251</duration>
@@ -1116,12 +1116,12 @@
         <artist id="32">
           <name>Jimi Hendrix</name>
           <appearsAs>The Jimi Hendrix Experience</appearsAs>
-          <url>http://www.7digital.com/artists/jimi-hendrix/?partner=712</url>
+          <slug>jimi-hendrix</slug>
         </artist>
-        <url>http://www.7digital.com/artists/jimi-hendrix/the-jimi-hendrix-experience-box-set/?partner=712</url>
+        <slug>jimi-hendrix</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/006/718/0000671859_50.jpg</image>
       </release>
-      <url>http://www.7digital.com/artists/jimi-hendrix/the-jimi-hendrix-experience-box-set/208-Sweet-Angel-(Olympic-Studios-London-UK-November-13-1967)/?partner=712</url>
+      <slug>jimi-hendrix</slug>
       <price>
         <currency code="GBP">£</currency>
         <value>0.99</value>
@@ -1154,7 +1154,7 @@
       <artist id="32">
         <name>Jimi Hendrix</name>
         <appearsAs>The Jimi Hendrix Experience</appearsAs>
-        <url>http://www.7digital.com/artists/jimi-hendrix/?partner=712</url>
+        <slug>jimi-hendrix</slug>
       </artist>
       <trackNumber>209</trackNumber>
       <duration>162</duration>
@@ -1168,12 +1168,12 @@
         <artist id="32">
           <name>Jimi Hendrix</name>
           <appearsAs>The Jimi Hendrix Experience</appearsAs>
-          <url>http://www.7digital.com/artists/jimi-hendrix/?partner=712</url>
+          <slug>jimi-hendrix</slug>
         </artist>
-        <url>http://www.7digital.com/artists/jimi-hendrix/the-jimi-hendrix-experience-box-set/?partner=712</url>
+        <slug>jimi-hendrix</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/006/718/0000671859_50.jpg</image>
       </release>
-      <url>http://www.7digital.com/artists/jimi-hendrix/the-jimi-hendrix-experience-box-set/209-Fire-(Clark-University-Worcester-MA-March-15-1968)/?partner=712</url>
+      <slug>jimi-hendrix</slug>
       <price>
         <currency code="GBP">£</currency>
         <value>0.99</value>
@@ -1206,7 +1206,7 @@
       <artist id="32">
         <name>Jimi Hendrix</name>
         <appearsAs>The Jimi Hendrix Experience</appearsAs>
-        <url>http://www.7digital.com/artists/jimi-hendrix/?partner=712</url>
+        <slug>jimi-hendrix</slug>
       </artist>
       <trackNumber>210</trackNumber>
       <duration>228</duration>
@@ -1220,12 +1220,12 @@
         <artist id="32">
           <name>Jimi Hendrix</name>
           <appearsAs>The Jimi Hendrix Experience</appearsAs>
-          <url>http://www.7digital.com/artists/jimi-hendrix/?partner=712</url>
+          <slug>jimi-hendrix</slug>
         </artist>
-        <url>http://www.7digital.com/artists/jimi-hendrix/the-jimi-hendrix-experience-box-set/?partner=712</url>
+        <slug>jimi-hendrix</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/006/718/0000671859_50.jpg</image>
       </release>
-      <url>http://www.7digital.com/artists/jimi-hendrix/the-jimi-hendrix-experience-box-set/210-Somewhere-(Sound-Center-New-York-NY-March-1968)/?partner=712</url>
+      <slug>jimi-hendrix</slug>
       <price>
         <currency code="GBP">£</currency>
         <value>0.99</value>
@@ -1258,7 +1258,7 @@
       <artist id="32">
         <name>Jimi Hendrix</name>
         <appearsAs>The Jimi Hendrix Experience</appearsAs>
-        <url>http://www.7digital.com/artists/jimi-hendrix/?partner=712</url>
+        <slug>jimi-hendrix</slug>
       </artist>
       <trackNumber>211</trackNumber>
       <duration>88</duration>
@@ -1272,12 +1272,12 @@
         <artist id="32">
           <name>Jimi Hendrix</name>
           <appearsAs>The Jimi Hendrix Experience</appearsAs>
-          <url>http://www.7digital.com/artists/jimi-hendrix/?partner=712</url>
+          <slug>jimi-hendrix</slug>
         </artist>
-        <url>http://www.7digital.com/artists/jimi-hendrix/the-jimi-hendrix-experience-box-set/?partner=712</url>
+        <slug>jimi-hendrix</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/006/718/0000671859_50.jpg</image>
       </release>
-      <url>http://www.7digital.com/artists/jimi-hendrix/the-jimi-hendrix-experience-box-set/211-(Have-You-Ever-Been-To)-Electric-Ladyland-(Record-Plant-New-York-NY-June-14-1968)/?partner=712</url>
+      <slug>jimi-hendrix</slug>
       <price>
         <currency code="GBP">£</currency>
         <value>0.99</value>
@@ -1310,7 +1310,7 @@
       <artist id="32">
         <name>Jimi Hendrix</name>
         <appearsAs>The Jimi Hendrix Experience</appearsAs>
-        <url>http://www.7digital.com/artists/jimi-hendrix/?partner=712</url>
+        <slug>jimi-hendrix</slug>
       </artist>
       <trackNumber>212</trackNumber>
       <duration>222</duration>
@@ -1324,12 +1324,12 @@
         <artist id="32">
           <name>Jimi Hendrix</name>
           <appearsAs>The Jimi Hendrix Experience</appearsAs>
-          <url>http://www.7digital.com/artists/jimi-hendrix/?partner=712</url>
+          <slug>jimi-hendrix</slug>
         </artist>
-        <url>http://www.7digital.com/artists/jimi-hendrix/the-jimi-hendrix-experience-box-set/?partner=712</url>
+        <slug>jimi-hendrix</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/006/718/0000671859_50.jpg</image>
       </release>
-      <url>http://www.7digital.com/artists/jimi-hendrix/the-jimi-hendrix-experience-box-set/212-Gypsy-Eyes-(Record-Plant-New-York-NY-April-22-1968)/?partner=712</url>
+      <slug>jimi-hendrix</slug>
       <price>
         <currency code="GBP">£</currency>
         <value>0.99</value>
@@ -1362,7 +1362,7 @@
       <artist id="32">
         <name>Jimi Hendrix</name>
         <appearsAs>The Jimi Hendrix Experience</appearsAs>
-        <url>http://www.7digital.com/artists/jimi-hendrix/?partner=712</url>
+        <slug>jimi-hendrix</slug>
       </artist>
       <trackNumber>213</trackNumber>
       <duration>85</duration>
@@ -1376,12 +1376,12 @@
         <artist id="32">
           <name>Jimi Hendrix</name>
           <appearsAs>The Jimi Hendrix Experience</appearsAs>
-          <url>http://www.7digital.com/artists/jimi-hendrix/?partner=712</url>
+          <slug>jimi-hendrix</slug>
         </artist>
-        <url>http://www.7digital.com/artists/jimi-hendrix/the-jimi-hendrix-experience-box-set/?partner=712</url>
+        <slug>jimi-hendrix</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/006/718/0000671859_50.jpg</image>
       </release>
-      <url>http://www.7digital.com/artists/jimi-hendrix/the-jimi-hendrix-experience-box-set/213-Room-Full-Of-Mirrors-(Record-Plant-New-York-NY-August-12-1968)/?partner=712</url>
+      <slug>jimi-hendrix</slug>
       <price>
         <currency code="GBP">£</currency>
         <value>0.99</value>
@@ -1414,7 +1414,7 @@
       <artist id="32">
         <name>Jimi Hendrix</name>
         <appearsAs>The Jimi Hendrix Experience</appearsAs>
-        <url>http://www.7digital.com/artists/jimi-hendrix/?partner=712</url>
+        <slug>jimi-hendrix</slug>
       </artist>
       <trackNumber>214</trackNumber>
       <duration>532</duration>
@@ -1428,12 +1428,12 @@
         <artist id="32">
           <name>Jimi Hendrix</name>
           <appearsAs>The Jimi Hendrix Experience</appearsAs>
-          <url>http://www.7digital.com/artists/jimi-hendrix/?partner=712</url>
+          <slug>jimi-hendrix</slug>
         </artist>
-        <url>http://www.7digital.com/artists/jimi-hendrix/the-jimi-hendrix-experience-box-set/?partner=712</url>
+        <slug>jimi-hendrix</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/006/718/0000671859_50.jpg</image>
       </release>
-      <url>http://www.7digital.com/artists/jimi-hendrix/the-jimi-hendrix-experience-box-set/214-Gloria-(TTG-Studios-Hollywood-CA-October-29-1968)/?partner=712</url>
+      <slug>jimi-hendrix</slug>
       <price>
         <currency code="GBP">£</currency>
         <value>0.99</value>
@@ -1466,7 +1466,7 @@
       <artist id="32">
         <name>Jimi Hendrix</name>
         <appearsAs>The Jimi Hendrix Experience</appearsAs>
-        <url>http://www.7digital.com/artists/jimi-hendrix/?partner=712</url>
+        <slug>jimi-hendrix</slug>
       </artist>
       <trackNumber>215</trackNumber>
       <duration>532</duration>
@@ -1480,12 +1480,12 @@
         <artist id="32">
           <name>Jimi Hendrix</name>
           <appearsAs>The Jimi Hendrix Experience</appearsAs>
-          <url>http://www.7digital.com/artists/jimi-hendrix/?partner=712</url>
+          <slug>jimi-hendrix</slug>
         </artist>
-        <url>http://www.7digital.com/artists/jimi-hendrix/the-jimi-hendrix-experience-box-set/?partner=712</url>
+        <slug>jimi-hendrix</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/006/718/0000671859_50.jpg</image>
       </release>
-      <url>http://www.7digital.com/artists/jimi-hendrix/the-jimi-hendrix-experience-box-set/215-Its-Too-Bad-(Record-Plant-New-York-NY-February-11-1969)/?partner=712</url>
+      <slug>jimi-hendrix</slug>
       <price>
         <currency code="GBP">£</currency>
         <value>0.99</value>
@@ -1518,7 +1518,7 @@
       <artist id="32">
         <name>Jimi Hendrix</name>
         <appearsAs>The Jimi Hendrix Experience</appearsAs>
-        <url>http://www.7digital.com/artists/jimi-hendrix/?partner=712</url>
+        <slug>jimi-hendrix</slug>
       </artist>
       <trackNumber>216</trackNumber>
       <duration>252</duration>
@@ -1532,12 +1532,12 @@
         <artist id="32">
           <name>Jimi Hendrix</name>
           <appearsAs>The Jimi Hendrix Experience</appearsAs>
-          <url>http://www.7digital.com/artists/jimi-hendrix/?partner=712</url>
+          <slug>jimi-hendrix</slug>
         </artist>
-        <url>http://www.7digital.com/artists/jimi-hendrix/the-jimi-hendrix-experience-box-set/?partner=712</url>
+        <slug>jimi-hendrix</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/006/718/0000671859_50.jpg</image>
       </release>
-      <url>http://www.7digital.com/artists/jimi-hendrix/the-jimi-hendrix-experience-box-set/216-Star-Spangled-Banner-(Record-Plant-New-York-NY-March-18-1969)/?partner=712</url>
+      <slug>jimi-hendrix</slug>
       <price>
         <currency code="GBP">£</currency>
         <value>0.99</value>
@@ -1570,7 +1570,7 @@
       <artist id="32">
         <name>Jimi Hendrix</name>
         <appearsAs>The Jimi Hendrix Experience</appearsAs>
-        <url>http://www.7digital.com/artists/jimi-hendrix/?partner=712</url>
+        <slug>jimi-hendrix</slug>
       </artist>
       <trackNumber>301</trackNumber>
       <duration>223</duration>
@@ -1584,12 +1584,12 @@
         <artist id="32">
           <name>Jimi Hendrix</name>
           <appearsAs>The Jimi Hendrix Experience</appearsAs>
-          <url>http://www.7digital.com/artists/jimi-hendrix/?partner=712</url>
+          <slug>jimi-hendrix</slug>
         </artist>
-        <url>http://www.7digital.com/artists/jimi-hendrix/the-jimi-hendrix-experience-box-set/?partner=712</url>
+        <slug>jimi-hendrix</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/006/718/0000671859_50.jpg</image>
       </release>
-      <url>http://www.7digital.com/artists/jimi-hendrix/the-jimi-hendrix-experience-box-set/301-Stone-Free-(Record-Plant-New-York-NY-April-7-1969)/?partner=712</url>
+      <slug>jimi-hendrix</slug>
       <price>
         <currency code="GBP">£</currency>
         <value>0.99</value>
@@ -1622,7 +1622,7 @@
       <artist id="32">
         <name>Jimi Hendrix</name>
         <appearsAs>The Jimi Hendrix Experience</appearsAs>
-        <url>http://www.7digital.com/artists/jimi-hendrix/?partner=712</url>
+        <slug>jimi-hendrix</slug>
       </artist>
       <trackNumber>302</trackNumber>
       <duration>348</duration>
@@ -1636,12 +1636,12 @@
         <artist id="32">
           <name>Jimi Hendrix</name>
           <appearsAs>The Jimi Hendrix Experience</appearsAs>
-          <url>http://www.7digital.com/artists/jimi-hendrix/?partner=712</url>
+          <slug>jimi-hendrix</slug>
         </artist>
-        <url>http://www.7digital.com/artists/jimi-hendrix/the-jimi-hendrix-experience-box-set/?partner=712</url>
+        <slug>jimi-hendrix</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/006/718/0000671859_50.jpg</image>
       </release>
-      <url>http://www.7digital.com/artists/jimi-hendrix/the-jimi-hendrix-experience-box-set/302-Spanish-Magic-Castle-(Olympic-Studios-London-UK-February-17-1969)/?partner=712</url>
+      <slug>jimi-hendrix</slug>
       <price>
         <currency code="GBP">£</currency>
         <value>0.99</value>
@@ -1674,7 +1674,7 @@
       <artist id="32">
         <name>Jimi Hendrix</name>
         <appearsAs>The Jimi Hendrix Experience</appearsAs>
-        <url>http://www.7digital.com/artists/jimi-hendrix/?partner=712</url>
+        <slug>jimi-hendrix</slug>
       </artist>
       <trackNumber>303</trackNumber>
       <duration>416</duration>
@@ -1688,12 +1688,12 @@
         <artist id="32">
           <name>Jimi Hendrix</name>
           <appearsAs>The Jimi Hendrix Experience</appearsAs>
-          <url>http://www.7digital.com/artists/jimi-hendrix/?partner=712</url>
+          <slug>jimi-hendrix</slug>
         </artist>
-        <url>http://www.7digital.com/artists/jimi-hendrix/the-jimi-hendrix-experience-box-set/?partner=712</url>
+        <slug>jimi-hendrix</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/006/718/0000671859_50.jpg</image>
       </release>
-      <url>http://www.7digital.com/artists/jimi-hendrix/the-jimi-hendrix-experience-box-set/303-Hear-My-Train-A-Comin-(Olympic-Studios-London-UK-February-17-1969)/?partner=712</url>
+      <slug>jimi-hendrix</slug>
       <price>
         <currency code="GBP">£</currency>
         <value>0.99</value>
@@ -1726,7 +1726,7 @@
       <artist id="32">
         <name>Jimi Hendrix</name>
         <appearsAs>The Jimi Hendrix Experience</appearsAs>
-        <url>http://www.7digital.com/artists/jimi-hendrix/?partner=712</url>
+        <slug>jimi-hendrix</slug>
       </artist>
       <trackNumber>304</trackNumber>
       <duration>475</duration>
@@ -1740,12 +1740,12 @@
         <artist id="32">
           <name>Jimi Hendrix</name>
           <appearsAs>The Jimi Hendrix Experience</appearsAs>
-          <url>http://www.7digital.com/artists/jimi-hendrix/?partner=712</url>
+          <slug>jimi-hendrix</slug>
         </artist>
-        <url>http://www.7digital.com/artists/jimi-hendrix/the-jimi-hendrix-experience-box-set/?partner=712</url>
+        <slug>jimi-hendrix</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/006/718/0000671859_50.jpg</image>
       </release>
-      <url>http://www.7digital.com/artists/jimi-hendrix/the-jimi-hendrix-experience-box-set/304-Room-Full-Of-Mirrors-(Record-Plant-New-York-NY-April-21-1969)/?partner=712</url>
+      <slug>jimi-hendrix</slug>
       <price>
         <currency code="GBP">£</currency>
         <value>0.99</value>
@@ -1778,7 +1778,7 @@
       <artist id="32">
         <name>Jimi Hendrix</name>
         <appearsAs>The Jimi Hendrix Experience</appearsAs>
-        <url>http://www.7digital.com/artists/jimi-hendrix/?partner=712</url>
+        <slug>jimi-hendrix</slug>
       </artist>
       <trackNumber>305</trackNumber>
       <duration>392</duration>
@@ -1792,12 +1792,12 @@
         <artist id="32">
           <name>Jimi Hendrix</name>
           <appearsAs>The Jimi Hendrix Experience</appearsAs>
-          <url>http://www.7digital.com/artists/jimi-hendrix/?partner=712</url>
+          <slug>jimi-hendrix</slug>
         </artist>
-        <url>http://www.7digital.com/artists/jimi-hendrix/the-jimi-hendrix-experience-box-set/?partner=712</url>
+        <slug>jimi-hendrix</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/006/718/0000671859_50.jpg</image>
       </release>
-      <url>http://www.7digital.com/artists/jimi-hendrix/the-jimi-hendrix-experience-box-set/305-I-Dont-Live-Today-(Los-Angeles-Forum-CA-April-26-1969)/?partner=712</url>
+      <slug>jimi-hendrix</slug>
       <price>
         <currency code="GBP">£</currency>
         <value>0.99</value>
@@ -1830,7 +1830,7 @@
       <artist id="32">
         <name>Jimi Hendrix</name>
         <appearsAs>The Jimi Hendrix Experience</appearsAs>
-        <url>http://www.7digital.com/artists/jimi-hendrix/?partner=712</url>
+        <slug>jimi-hendrix</slug>
       </artist>
       <trackNumber>306</trackNumber>
       <duration>195</duration>
@@ -1844,12 +1844,12 @@
         <artist id="32">
           <name>Jimi Hendrix</name>
           <appearsAs>The Jimi Hendrix Experience</appearsAs>
-          <url>http://www.7digital.com/artists/jimi-hendrix/?partner=712</url>
+          <slug>jimi-hendrix</slug>
         </artist>
-        <url>http://www.7digital.com/artists/jimi-hendrix/the-jimi-hendrix-experience-box-set/?partner=712</url>
+        <slug>jimi-hendrix</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/006/718/0000671859_50.jpg</image>
       </release>
-      <url>http://www.7digital.com/artists/jimi-hendrix/the-jimi-hendrix-experience-box-set/306-Little-Wing-(Royal-Albert-Hall-London-UK-February-24-1969)/?partner=712</url>
+      <slug>jimi-hendrix</slug>
       <price>
         <currency code="GBP">£</currency>
         <value>0.99</value>
@@ -1882,7 +1882,7 @@
       <artist id="32">
         <name>Jimi Hendrix</name>
         <appearsAs>The Jimi Hendrix Experience</appearsAs>
-        <url>http://www.7digital.com/artists/jimi-hendrix/?partner=712</url>
+        <slug>jimi-hendrix</slug>
       </artist>
       <trackNumber>307</trackNumber>
       <duration>792</duration>
@@ -1896,12 +1896,12 @@
         <artist id="32">
           <name>Jimi Hendrix</name>
           <appearsAs>The Jimi Hendrix Experience</appearsAs>
-          <url>http://www.7digital.com/artists/jimi-hendrix/?partner=712</url>
+          <slug>jimi-hendrix</slug>
         </artist>
-        <url>http://www.7digital.com/artists/jimi-hendrix/the-jimi-hendrix-experience-box-set/?partner=712</url>
+        <slug>jimi-hendrix</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/006/718/0000671859_50.jpg</image>
       </release>
-      <url>http://www.7digital.com/artists/jimi-hendrix/the-jimi-hendrix-experience-box-set/307-Red-House-(San-Diego-Sports-Arena-CA-May-25-1969)/?partner=712</url>
+      <slug>jimi-hendrix</slug>
       <price>
         <currency code="GBP">£</currency>
         <value>0.99</value>
@@ -1934,7 +1934,7 @@
       <artist id="32">
         <name>Jimi Hendrix</name>
         <appearsAs>The Jimi Hendrix Experience</appearsAs>
-        <url>http://www.7digital.com/artists/jimi-hendrix/?partner=712</url>
+        <slug>jimi-hendrix</slug>
       </artist>
       <trackNumber>308</trackNumber>
       <duration>243</duration>
@@ -1948,12 +1948,12 @@
         <artist id="32">
           <name>Jimi Hendrix</name>
           <appearsAs>The Jimi Hendrix Experience</appearsAs>
-          <url>http://www.7digital.com/artists/jimi-hendrix/?partner=712</url>
+          <slug>jimi-hendrix</slug>
         </artist>
-        <url>http://www.7digital.com/artists/jimi-hendrix/the-jimi-hendrix-experience-box-set/?partner=712</url>
+        <slug>jimi-hendrix</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/006/718/0000671859_50.jpg</image>
       </release>
-      <url>http://www.7digital.com/artists/jimi-hendrix/the-jimi-hendrix-experience-box-set/308-Purple-Haze-(San-Diego-Sports-Arena-CA-May-25-1969)/?partner=712</url>
+      <slug>jimi-hendrix</slug>
       <price>
         <currency code="GBP">£</currency>
         <value>0.99</value>
@@ -1986,7 +1986,7 @@
       <artist id="32">
         <name>Jimi Hendrix</name>
         <appearsAs>The Jimi Hendrix Experience</appearsAs>
-        <url>http://www.7digital.com/artists/jimi-hendrix/?partner=712</url>
+        <slug>jimi-hendrix</slug>
       </artist>
       <trackNumber>309</trackNumber>
       <duration>473</duration>
@@ -2000,12 +2000,12 @@
         <artist id="32">
           <name>Jimi Hendrix</name>
           <appearsAs>The Jimi Hendrix Experience</appearsAs>
-          <url>http://www.7digital.com/artists/jimi-hendrix/?partner=712</url>
+          <slug>jimi-hendrix</slug>
         </artist>
-        <url>http://www.7digital.com/artists/jimi-hendrix/the-jimi-hendrix-experience-box-set/?partner=712</url>
+        <slug>jimi-hendrix</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/006/718/0000671859_50.jpg</image>
       </release>
-      <url>http://www.7digital.com/artists/jimi-hendrix/the-jimi-hendrix-experience-box-set/309-Voodoo-Child-(Slight-Return)-(Royal-Albert-Hall-London-UK-February-24-1969)/?partner=712</url>
+      <slug>jimi-hendrix</slug>
       <price>
         <currency code="GBP">£</currency>
         <value>0.99</value>
@@ -2038,7 +2038,7 @@
       <artist id="32">
         <name>Jimi Hendrix</name>
         <appearsAs>The Jimi Hendrix Experience</appearsAs>
-        <url>http://www.7digital.com/artists/jimi-hendrix/?partner=712</url>
+        <slug>jimi-hendrix</slug>
       </artist>
       <trackNumber>310</trackNumber>
       <duration>219</duration>
@@ -2052,12 +2052,12 @@
         <artist id="32">
           <name>Jimi Hendrix</name>
           <appearsAs>The Jimi Hendrix Experience</appearsAs>
-          <url>http://www.7digital.com/artists/jimi-hendrix/?partner=712</url>
+          <slug>jimi-hendrix</slug>
         </artist>
-        <url>http://www.7digital.com/artists/jimi-hendrix/the-jimi-hendrix-experience-box-set/?partner=712</url>
+        <slug>jimi-hendrix</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/006/718/0000671859_50.jpg</image>
       </release>
-      <url>http://www.7digital.com/artists/jimi-hendrix/the-jimi-hendrix-experience-box-set/310-Izabella-(Hit-Factory-New-York-NY-August-29-1969)/?partner=712</url>
+      <slug>jimi-hendrix</slug>
       <price>
         <currency code="GBP">£</currency>
         <value>0.99</value>
@@ -2090,7 +2090,7 @@
       <artist id="32">
         <name>Jimi Hendrix</name>
         <appearsAs>The Jimi Hendrix Experience</appearsAs>
-        <url>http://www.7digital.com/artists/jimi-hendrix/?partner=712</url>
+        <slug>jimi-hendrix</slug>
       </artist>
       <trackNumber>401</trackNumber>
       <duration>215</duration>
@@ -2104,12 +2104,12 @@
         <artist id="32">
           <name>Jimi Hendrix</name>
           <appearsAs>The Jimi Hendrix Experience</appearsAs>
-          <url>http://www.7digital.com/artists/jimi-hendrix/?partner=712</url>
+          <slug>jimi-hendrix</slug>
         </artist>
-        <url>http://www.7digital.com/artists/jimi-hendrix/the-jimi-hendrix-experience-box-set/?partner=712</url>
+        <slug>jimi-hendrix</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/006/718/0000671859_50.jpg</image>
       </release>
-      <url>http://www.7digital.com/artists/jimi-hendrix/the-jimi-hendrix-experience-box-set/401-Message-To-Love-(Record-Plant-New-York-NY-December-19-1969)/?partner=712</url>
+      <slug>jimi-hendrix</slug>
       <price>
         <currency code="GBP">£</currency>
         <value>0.99</value>
@@ -2142,7 +2142,7 @@
       <artist id="32">
         <name>Jimi Hendrix</name>
         <appearsAs>The Jimi Hendrix Experience</appearsAs>
-        <url>http://www.7digital.com/artists/jimi-hendrix/?partner=712</url>
+        <slug>jimi-hendrix</slug>
       </artist>
       <trackNumber>402</trackNumber>
       <duration>248</duration>
@@ -2156,12 +2156,12 @@
         <artist id="32">
           <name>Jimi Hendrix</name>
           <appearsAs>The Jimi Hendrix Experience</appearsAs>
-          <url>http://www.7digital.com/artists/jimi-hendrix/?partner=712</url>
+          <slug>jimi-hendrix</slug>
         </artist>
-        <url>http://www.7digital.com/artists/jimi-hendrix/the-jimi-hendrix-experience-box-set/?partner=712</url>
+        <slug>jimi-hendrix</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/006/718/0000671859_50.jpg</image>
       </release>
-      <url>http://www.7digital.com/artists/jimi-hendrix/the-jimi-hendrix-experience-box-set/402-Earth-Blues-(Record-Plant-New-York-NY-December-19-1969)/?partner=712</url>
+      <slug>jimi-hendrix</slug>
       <price>
         <currency code="GBP">£</currency>
         <value>0.99</value>
@@ -2194,7 +2194,7 @@
       <artist id="32">
         <name>Jimi Hendrix</name>
         <appearsAs>The Jimi Hendrix Experience</appearsAs>
-        <url>http://www.7digital.com/artists/jimi-hendrix/?partner=712</url>
+        <slug>jimi-hendrix</slug>
       </artist>
       <trackNumber>403</trackNumber>
       <duration>251</duration>
@@ -2208,12 +2208,12 @@
         <artist id="32">
           <name>Jimi Hendrix</name>
           <appearsAs>The Jimi Hendrix Experience</appearsAs>
-          <url>http://www.7digital.com/artists/jimi-hendrix/?partner=712</url>
+          <slug>jimi-hendrix</slug>
         </artist>
-        <url>http://www.7digital.com/artists/jimi-hendrix/the-jimi-hendrix-experience-box-set/?partner=712</url>
+        <slug>jimi-hendrix</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/006/718/0000671859_50.jpg</image>
       </release>
-      <url>http://www.7digital.com/artists/jimi-hendrix/the-jimi-hendrix-experience-box-set/403-Astro-Man-(Record-Plant-New-York-NY-January-21-1970)/?partner=712</url>
+      <slug>jimi-hendrix</slug>
       <price>
         <currency code="GBP">£</currency>
         <value>0.99</value>
@@ -2246,7 +2246,7 @@
       <artist id="32">
         <name>Jimi Hendrix</name>
         <appearsAs>The Jimi Hendrix Experience</appearsAs>
-        <url>http://www.7digital.com/artists/jimi-hendrix/?partner=712</url>
+        <slug>jimi-hendrix</slug>
       </artist>
       <trackNumber>404</trackNumber>
       <duration>506</duration>
@@ -2260,12 +2260,12 @@
         <artist id="32">
           <name>Jimi Hendrix</name>
           <appearsAs>The Jimi Hendrix Experience</appearsAs>
-          <url>http://www.7digital.com/artists/jimi-hendrix/?partner=712</url>
+          <slug>jimi-hendrix</slug>
         </artist>
-        <url>http://www.7digital.com/artists/jimi-hendrix/the-jimi-hendrix-experience-box-set/?partner=712</url>
+        <slug>jimi-hendrix</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/006/718/0000671859_50.jpg</image>
       </release>
-      <url>http://www.7digital.com/artists/jimi-hendrix/the-jimi-hendrix-experience-box-set/404-Country-Blues-(Record-Plant-New-York-NY-January-23-1970)/?partner=712</url>
+      <slug>jimi-hendrix</slug>
       <price>
         <currency code="GBP">£</currency>
         <value>0.99</value>
@@ -2298,7 +2298,7 @@
       <artist id="32">
         <name>Jimi Hendrix</name>
         <appearsAs>The Jimi Hendrix Experience</appearsAs>
-        <url>http://www.7digital.com/artists/jimi-hendrix/?partner=712</url>
+        <slug>jimi-hendrix</slug>
       </artist>
       <trackNumber>405</trackNumber>
       <duration>231</duration>
@@ -2312,12 +2312,12 @@
         <artist id="32">
           <name>Jimi Hendrix</name>
           <appearsAs>The Jimi Hendrix Experience</appearsAs>
-          <url>http://www.7digital.com/artists/jimi-hendrix/?partner=712</url>
+          <slug>jimi-hendrix</slug>
         </artist>
-        <url>http://www.7digital.com/artists/jimi-hendrix/the-jimi-hendrix-experience-box-set/?partner=712</url>
+        <slug>jimi-hendrix</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/006/718/0000671859_50.jpg</image>
       </release>
-      <url>http://www.7digital.com/artists/jimi-hendrix/the-jimi-hendrix-experience-box-set/405-Freedom-(Record-Plant-New-York-NY-February-16-1970)/?partner=712</url>
+      <slug>jimi-hendrix</slug>
       <price>
         <currency code="GBP">£</currency>
         <value>0.99</value>
@@ -2350,7 +2350,7 @@
       <artist id="32">
         <name>Jimi Hendrix</name>
         <appearsAs>The Jimi Hendrix Experience</appearsAs>
-        <url>http://www.7digital.com/artists/jimi-hendrix/?partner=712</url>
+        <slug>jimi-hendrix</slug>
       </artist>
       <trackNumber>406</trackNumber>
       <duration>286</duration>
@@ -2364,12 +2364,12 @@
         <artist id="32">
           <name>Jimi Hendrix</name>
           <appearsAs>The Jimi Hendrix Experience</appearsAs>
-          <url>http://www.7digital.com/artists/jimi-hendrix/?partner=712</url>
+          <slug>jimi-hendrix</slug>
         </artist>
-        <url>http://www.7digital.com/artists/jimi-hendrix/the-jimi-hendrix-experience-box-set/?partner=712</url>
+        <slug>jimi-hendrix</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/006/718/0000671859_50.jpg</image>
       </release>
-      <url>http://www.7digital.com/artists/jimi-hendrix/the-jimi-hendrix-experience-box-set/406-Johnny-B-Goode-(Berkeley-Community-Theater-Berkeley-CA-May-30-1970)/?partner=712</url>
+      <slug>jimi-hendrix</slug>
       <price>
         <currency code="GBP">£</currency>
         <value>0.99</value>
@@ -2402,7 +2402,7 @@
       <artist id="32">
         <name>Jimi Hendrix</name>
         <appearsAs>The Jimi Hendrix Experience</appearsAs>
-        <url>http://www.7digital.com/artists/jimi-hendrix/?partner=712</url>
+        <slug>jimi-hendrix</slug>
       </artist>
       <trackNumber>407</trackNumber>
       <duration>176</duration>
@@ -2416,12 +2416,12 @@
         <artist id="32">
           <name>Jimi Hendrix</name>
           <appearsAs>The Jimi Hendrix Experience</appearsAs>
-          <url>http://www.7digital.com/artists/jimi-hendrix/?partner=712</url>
+          <slug>jimi-hendrix</slug>
         </artist>
-        <url>http://www.7digital.com/artists/jimi-hendrix/the-jimi-hendrix-experience-box-set/?partner=712</url>
+        <slug>jimi-hendrix</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/006/718/0000671859_50.jpg</image>
       </release>
-      <url>http://www.7digital.com/artists/jimi-hendrix/the-jimi-hendrix-experience-box-set/407-Lover-Man-(Electric-Lady-Studios-New-York-NY-July-20-1970)/?partner=712</url>
+      <slug>jimi-hendrix</slug>
       <price>
         <currency code="GBP">£</currency>
         <value>0.99</value>
@@ -2454,7 +2454,7 @@
       <artist id="32">
         <name>Jimi Hendrix</name>
         <appearsAs>The Jimi Hendrix Experience</appearsAs>
-        <url>http://www.7digital.com/artists/jimi-hendrix/?partner=712</url>
+        <slug>jimi-hendrix</slug>
       </artist>
       <trackNumber>408</trackNumber>
       <duration>267</duration>
@@ -2468,12 +2468,12 @@
         <artist id="32">
           <name>Jimi Hendrix</name>
           <appearsAs>The Jimi Hendrix Experience</appearsAs>
-          <url>http://www.7digital.com/artists/jimi-hendrix/?partner=712</url>
+          <slug>jimi-hendrix</slug>
         </artist>
-        <url>http://www.7digital.com/artists/jimi-hendrix/the-jimi-hendrix-experience-box-set/?partner=712</url>
+        <slug>jimi-hendrix</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/006/718/0000671859_50.jpg</image>
       </release>
-      <url>http://www.7digital.com/artists/jimi-hendrix/the-jimi-hendrix-experience-box-set/408-Blue-Suede-Shoes-(Berkeley-Community-Theater-Berkeley-CA-May-30-1970)/?partner=712</url>
+      <slug>jimi-hendrix</slug>
       <price>
         <currency code="GBP">£</currency>
         <value>0.99</value>
@@ -2506,7 +2506,7 @@
       <artist id="32">
         <name>Jimi Hendrix</name>
         <appearsAs>The Jimi Hendrix Experience</appearsAs>
-        <url>http://www.7digital.com/artists/jimi-hendrix/?partner=712</url>
+        <slug>jimi-hendrix</slug>
       </artist>
       <trackNumber>409</trackNumber>
       <duration>362</duration>
@@ -2520,12 +2520,12 @@
         <artist id="32">
           <name>Jimi Hendrix</name>
           <appearsAs>The Jimi Hendrix Experience</appearsAs>
-          <url>http://www.7digital.com/artists/jimi-hendrix/?partner=712</url>
+          <slug>jimi-hendrix</slug>
         </artist>
-        <url>http://www.7digital.com/artists/jimi-hendrix/the-jimi-hendrix-experience-box-set/?partner=712</url>
+        <slug>jimi-hendrix</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/006/718/0000671859_50.jpg</image>
       </release>
-      <url>http://www.7digital.com/artists/jimi-hendrix/the-jimi-hendrix-experience-box-set/409-Cherokee-Mist-(Electric-Lady-Studios-New-York-NY-June-14-1970)/?partner=712</url>
+      <slug>jimi-hendrix</slug>
       <price>
         <currency code="GBP">£</currency>
         <value>0.99</value>
@@ -2558,7 +2558,7 @@
       <artist id="32">
         <name>Jimi Hendrix</name>
         <appearsAs>The Jimi Hendrix Experience</appearsAs>
-        <url>http://www.7digital.com/artists/jimi-hendrix/?partner=712</url>
+        <slug>jimi-hendrix</slug>
       </artist>
       <trackNumber>410</trackNumber>
       <duration>198</duration>
@@ -2572,12 +2572,12 @@
         <artist id="32">
           <name>Jimi Hendrix</name>
           <appearsAs>The Jimi Hendrix Experience</appearsAs>
-          <url>http://www.7digital.com/artists/jimi-hendrix/?partner=712</url>
+          <slug>jimi-hendrix</slug>
         </artist>
-        <url>http://www.7digital.com/artists/jimi-hendrix/the-jimi-hendrix-experience-box-set/?partner=712</url>
+        <slug>jimi-hendrix</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/006/718/0000671859_50.jpg</image>
       </release>
-      <url>http://www.7digital.com/artists/jimi-hendrix/the-jimi-hendrix-experience-box-set/410-Come-Down-Hard-On-Me-(Electric-Lady-Studios-New-York-NY-July-15-1970)/?partner=712</url>
+      <slug>jimi-hendrix</slug>
       <price>
         <currency code="GBP">£</currency>
         <value>0.99</value>
@@ -2610,7 +2610,7 @@
       <artist id="32">
         <name>Jimi Hendrix</name>
         <appearsAs>The Jimi Hendrix Experience</appearsAs>
-        <url>http://www.7digital.com/artists/jimi-hendrix/?partner=712</url>
+        <slug>jimi-hendrix</slug>
       </artist>
       <trackNumber>411</trackNumber>
       <duration>536</duration>
@@ -2624,12 +2624,12 @@
         <artist id="32">
           <name>Jimi Hendrix</name>
           <appearsAs>The Jimi Hendrix Experience</appearsAs>
-          <url>http://www.7digital.com/artists/jimi-hendrix/?partner=712</url>
+          <slug>jimi-hendrix</slug>
         </artist>
-        <url>http://www.7digital.com/artists/jimi-hendrix/the-jimi-hendrix-experience-box-set/?partner=712</url>
+        <slug>jimi-hendrix</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/006/718/0000671859_50.jpg</image>
       </release>
-      <url>http://www.7digital.com/artists/jimi-hendrix/the-jimi-hendrix-experience-box-set/411-Hey-Baby-In-From-The-Storm-(Maui-Hawaii-July-30-1970)/?partner=712</url>
+      <slug>jimi-hendrix</slug>
       <price>
         <currency code="GBP">£</currency>
         <value>0.99</value>
@@ -2662,7 +2662,7 @@
       <artist id="32">
         <name>Jimi Hendrix</name>
         <appearsAs>The Jimi Hendrix Experience</appearsAs>
-        <url>http://www.7digital.com/artists/jimi-hendrix/?partner=712</url>
+        <slug>jimi-hendrix</slug>
       </artist>
       <trackNumber>412</trackNumber>
       <duration>223</duration>
@@ -2676,12 +2676,12 @@
         <artist id="32">
           <name>Jimi Hendrix</name>
           <appearsAs>The Jimi Hendrix Experience</appearsAs>
-          <url>http://www.7digital.com/artists/jimi-hendrix/?partner=712</url>
+          <slug>jimi-hendrix</slug>
         </artist>
-        <url>http://www.7digital.com/artists/jimi-hendrix/the-jimi-hendrix-experience-box-set/?partner=712</url>
+        <slug>jimi-hendrix</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/006/718/0000671859_50.jpg</image>
       </release>
-      <url>http://www.7digital.com/artists/jimi-hendrix/the-jimi-hendrix-experience-box-set/412-Ezy-Ryder-(Record-Plant-New-York-NY-December-18-1969)/?partner=712</url>
+      <slug>jimi-hendrix</slug>
       <price>
         <currency code="GBP">£</currency>
         <value>0.99</value>
@@ -2714,7 +2714,7 @@
       <artist id="32">
         <name>Jimi Hendrix</name>
         <appearsAs>The Jimi Hendrix Experience</appearsAs>
-        <url>http://www.7digital.com/artists/jimi-hendrix/?partner=712</url>
+        <slug>jimi-hendrix</slug>
       </artist>
       <trackNumber>413</trackNumber>
       <duration>264</duration>
@@ -2728,12 +2728,12 @@
         <artist id="32">
           <name>Jimi Hendrix</name>
           <appearsAs>The Jimi Hendrix Experience</appearsAs>
-          <url>http://www.7digital.com/artists/jimi-hendrix/?partner=712</url>
+          <slug>jimi-hendrix</slug>
         </artist>
-        <url>http://www.7digital.com/artists/jimi-hendrix/the-jimi-hendrix-experience-box-set/?partner=712</url>
+        <slug>jimi-hendrix</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/006/718/0000671859_50.jpg</image>
       </release>
-      <url>http://www.7digital.com/artists/jimi-hendrix/the-jimi-hendrix-experience-box-set/413-Night-Bird-Flying-(Electric-Lady-Studios-New-York-NY-June-16-1970)/?partner=712</url>
+      <slug>jimi-hendrix</slug>
       <price>
         <currency code="GBP">£</currency>
         <value>0.99</value>
@@ -2766,7 +2766,7 @@
       <artist id="32">
         <name>Jimi Hendrix</name>
         <appearsAs>The Jimi Hendrix Experience</appearsAs>
-        <url>http://www.7digital.com/artists/jimi-hendrix/?partner=712</url>
+        <slug>jimi-hendrix</slug>
       </artist>
       <trackNumber>414</trackNumber>
       <duration>262</duration>
@@ -2780,12 +2780,12 @@
         <artist id="32">
           <name>Jimi Hendrix</name>
           <appearsAs>The Jimi Hendrix Experience</appearsAs>
-          <url>http://www.7digital.com/artists/jimi-hendrix/?partner=712</url>
+          <slug>jimi-hendrix</slug>
         </artist>
-        <url>http://www.7digital.com/artists/jimi-hendrix/the-jimi-hendrix-experience-box-set/?partner=712</url>
+        <slug>jimi-hendrix</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/006/718/0000671859_50.jpg</image>
       </release>
-      <url>http://www.7digital.com/artists/jimi-hendrix/the-jimi-hendrix-experience-box-set/414-All-Along-The-Watchtower-(Isle-Of-Wight-England-UK-August-30-1970)/?partner=712</url>
+      <slug>jimi-hendrix</slug>
       <price>
         <currency code="GBP">£</currency>
         <value>0.99</value>
@@ -2818,7 +2818,7 @@
       <artist id="32">
         <name>Jimi Hendrix</name>
         <appearsAs>The Jimi Hendrix Experience</appearsAs>
-        <url>http://www.7digital.com/artists/jimi-hendrix/?partner=712</url>
+        <slug>jimi-hendrix</slug>
       </artist>
       <trackNumber>415</trackNumber>
       <duration>259</duration>
@@ -2832,12 +2832,12 @@
         <artist id="32">
           <name>Jimi Hendrix</name>
           <appearsAs>The Jimi Hendrix Experience</appearsAs>
-          <url>http://www.7digital.com/artists/jimi-hendrix/?partner=712</url>
+          <slug>jimi-hendrix</slug>
         </artist>
-        <url>http://www.7digital.com/artists/jimi-hendrix/the-jimi-hendrix-experience-box-set/?partner=712</url>
+        <slug>jimi-hendrix</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/006/718/0000671859_50.jpg</image>
       </release>
-      <url>http://www.7digital.com/artists/jimi-hendrix/the-jimi-hendrix-experience-box-set/415-In-From-The-Storm-(Isle-Of-Wight-England-UK-August-30-1970)/?partner=712</url>
+      <slug>jimi-hendrix</slug>
       <price>
         <currency code="GBP">£</currency>
         <value>0.99</value>
@@ -2870,7 +2870,7 @@
       <artist id="32">
         <name>Jimi Hendrix</name>
         <appearsAs>The Jimi Hendrix Experience</appearsAs>
-        <url>http://www.7digital.com/artists/jimi-hendrix/?partner=712</url>
+        <slug>jimi-hendrix</slug>
       </artist>
       <trackNumber>416</trackNumber>
       <duration>105</duration>
@@ -2884,12 +2884,12 @@
         <artist id="32">
           <name>Jimi Hendrix</name>
           <appearsAs>The Jimi Hendrix Experience</appearsAs>
-          <url>http://www.7digital.com/artists/jimi-hendrix/?partner=712</url>
+          <slug>jimi-hendrix</slug>
         </artist>
-        <url>http://www.7digital.com/artists/jimi-hendrix/the-jimi-hendrix-experience-box-set/?partner=712</url>
+        <slug>jimi-hendrix</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/006/718/0000671859_50.jpg</image>
       </release>
-      <url>http://www.7digital.com/artists/jimi-hendrix/the-jimi-hendrix-experience-box-set/416-Slow-Blues-(Electric-Lady-Studios-New-York-NY-August-20-1970)/?partner=712</url>
+      <slug>jimi-hendrix</slug>
       <price>
         <currency code="GBP">£</currency>
         <value>0.99</value>

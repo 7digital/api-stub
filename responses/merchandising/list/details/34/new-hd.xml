@@ -15,9 +15,9 @@
           <artist id="2">
             <name>Keane</name>
             <appearsAs>Keane</appearsAs>
-            <url>http://www.7digital.com/artist/keane/?partner=1401</url>
+            <slug>keane</slug>
           </artist>
-          <url>http://www.7digital.com/artist/keane/release/perfect-symmetry-1/?partner=1401</url>
+          <slug>perfect-symmetry-1</slug>
           <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/003/208/0000320867_50.jpg</image>
           <download>
             <packages>
@@ -53,9 +53,9 @@
           <artist id="1">
             <name>Keane</name>
             <appearsAs>Keane</appearsAs>
-            <url>http://www.7digital.com/artists/keane/?partner=712</url>
+            <slug>keane</slug>
           </artist>
-          <url>http://www.7digital.com/artists/various-artists/eurovision-song-contest-dusseldorf-2011/?partner=712</url>
+          <slug>various-artists</slug>
           <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/012/141/0001214168_50.jpg</image>
           <download>
             <packages>
@@ -104,9 +104,9 @@
           <artist id="1">
             <name>Keane</name>
             <appearsAs>Keane</appearsAs>
-            <url>http://www.7digital.com/artists/keane/?partner=712</url>
+            <slug>keane</slug>
           </artist>
-          <url>http://www.7digital.com/artists/alice-gold/seven-rainbows/?partner=712</url>
+          <slug>alice-gold</slug>
           <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/012/793/0001279359_50.jpg</image>
           <download>
             <packages>
@@ -142,9 +142,9 @@
           <artist id="1">
             <name>Keane</name>
             <appearsAs>Keane</appearsAs>
-            <url>http://www.7digital.com/artists/keane/?partner=712</url>
+            <slug>keane</slug>
           </artist>
-          <url>http://www.7digital.com/artists/dj-fresh/louder/?partner=712</url>
+          <slug>dj-fresh</slug>
           <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/012/466/0001246693_50.jpg</image>
           <download>
             <packages>
@@ -183,9 +183,9 @@
           <artist id="1">
             <name>Keane</name>
             <appearsAs>Keane</appearsAs>
-            <url>http://www.7digital.com/artists/keane/?partner=712</url>
+            <slug>keane</slug>
           </artist>
-          <url>http://www.7digital.com/artists/cocknbullkid/adulthood/?partner=712</url>
+          <slug>cocknbullkid</slug>
           <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/012/450/0001245091_50.jpg</image>
           <download>
             <packages>
@@ -221,9 +221,9 @@
           <artist id="1">
             <name>Keane</name>
             <appearsAs>Keane</appearsAs>
-            <url>http://www.7digital.com/artists/keane/?partner=712</url>
+            <slug>keane</slug>
           </artist>
-          <url>http://www.7digital.com/artists/pete-and-the-pirates/one-thousand-pictures/?partner=712</url>
+          <slug>pete-and-the-pirates</slug>
           <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/012/121/0001212194_50.jpg</image>
           <download>
             <packages>
@@ -262,9 +262,9 @@
           <artist id="1">
             <name>Keane</name>
             <appearsAs>Keane</appearsAs>
-            <url>http://www.7digital.com/artists/keane/?partner=712</url>
+            <slug>keane</slug>
           </artist>
-          <url>http://www.7digital.com/artists/various-artists/ibiza-rocks-2011/?partner=712</url>
+          <slug>various-artists</slug>
           <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/013/054/0001305498_50.jpg</image>
           <download>
             <packages>
@@ -303,9 +303,9 @@
           <artist id="1">
             <name>Keane</name>
             <appearsAs>Keane</appearsAs>
-            <url>http://www.7digital.com/artists/keane/?partner=712</url>
+            <slug>keane</slug>
           </artist>
-          <url>http://www.7digital.com/artists/yuksek/living-on-the-edge-of-time/?partner=712</url>
+          <slug>yuksek</slug>
           <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/012/589/0001258943_50.jpg</image>
           <download>
             <packages>
@@ -341,9 +341,9 @@
           <artist id="1">
             <name>Keane</name>
             <appearsAs>Keane</appearsAs>
-            <url>http://www.7digital.com/artists/keane/?partner=712</url>
+            <slug>keane</slug>
           </artist>
-          <url>http://www.7digital.com/artists/thurston-moore/demolished-thoughts/?partner=712</url>
+          <slug>thurston-moore</slug>
           <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/012/491/0001249176_50.jpg</image>
           <download>
             <packages>
@@ -382,9 +382,9 @@
           <artist id="1">
             <name>Keane</name>
             <appearsAs>Keane</appearsAs>
-            <url>http://www.7digital.com/artists/keane/?partner=712</url>
+            <slug>keane</slug>
           </artist>
-          <url>http://www.7digital.com/artists/various-artists/hessle-audio-116-and-rising/?partner=712</url>
+          <slug>various-artists</slug>
           <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/012/292/0001229211_50.jpg</image>
           <download>
             <packages>
@@ -423,9 +423,9 @@
           <artist id="1">
             <name>Keane</name>
             <appearsAs>Keane</appearsAs>
-            <url>http://www.7digital.com/artists/keane/?partner=712</url>
+            <slug>keane</slug>
           </artist>
-          <url>http://www.7digital.com/artists/benjamin-francis-leftwich/last-smoke-before-the-snowstorm/?partner=712</url>
+          <slug>benjamin-francis-leftwich</slug>
           <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/012/624/0001262480_50.jpg</image>
           <download>
             <packages>
@@ -464,7 +464,7 @@
           <artist id="1">
             <name>Keane</name>
             <appearsAs>Keane</appearsAs>
-            <url>http://www.7digital.com/artists/keane/?partner=712</url>
+            <slug>keane</slug>
           </artist>
           <url>http://www.7digital.com/artists/thomas-dybdahl-(1)/songs/?partner=712</url>
           <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/012/221/0001222138_50.jpg</image>
@@ -502,9 +502,9 @@
           <artist id="1">
             <name>Keane</name>
             <appearsAs>Keane</appearsAs>
-            <url>http://www.7digital.com/artists/keane/?partner=712</url>
+            <slug>keane</slug>
           </artist>
-          <url>http://www.7digital.com/artists/the-prodigy/live-worlds-on-fire-2/?partner=712</url>
+          <slug>the-prodigy</slug>
           <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/012/491/0001249113_50.jpg</image>
           <download>
             <packages>
@@ -543,9 +543,9 @@
           <artist id="1">
             <name>Keane</name>
             <appearsAs>Keane</appearsAs>
-            <url>http://www.7digital.com/artists/keane/?partner=712</url>
+            <slug>keane</slug>
           </artist>
-          <url>http://www.7digital.com/artists/art-brut/brilliant-tragic/?partner=712</url>
+          <slug>art-brut</slug>
           <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/012/382/0001238257_50.jpg</image>
           <download>
             <packages>
@@ -584,9 +584,9 @@
           <artist id="1">
             <name>Keane</name>
             <appearsAs>Keane</appearsAs>
-            <url>http://www.7digital.com/artists/keane/?partner=712</url>
+            <slug>keane</slug>
           </artist>
-          <url>http://www.7digital.com/artists/motor-city-drum-ensemble/dj-kicks/?partner=712</url>
+          <slug>motor-city-drum-ensemble</slug>
           <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/012/914/0001291499_50.jpg</image>
           <download>
             <packages>
@@ -625,9 +625,9 @@
           <artist id="1">
             <name>Keane</name>
             <appearsAs>Keane</appearsAs>
-            <url>http://www.7digital.com/artists/keane/?partner=712</url>
+            <slug>keane</slug>
           </artist>
-          <url>http://www.7digital.com/artists/bon-iver/bon-iver/?partner=712</url>
+          <slug>bon-iver</slug>
           <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/012/443/0001244355_50.jpg</image>
           <download>
             <packages>
@@ -666,9 +666,9 @@
           <artist id="1">
             <name>Keane</name>
             <appearsAs>Keane</appearsAs>
-            <url>http://www.7digital.com/artists/keane/?partner=712</url>
+            <slug>keane</slug>
           </artist>
-          <url>http://www.7digital.com/artists/morcheeba/blood-like-lemonade-5/?partner=712</url>
+          <slug>morcheeba</slug>
           <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/012/389/0001238988_50.jpg</image>
           <download>
             <packages>
@@ -707,9 +707,9 @@
           <artist id="1">
             <name>Keane</name>
             <appearsAs>Keane</appearsAs>
-            <url>http://www.7digital.com/artists/keane/?partner=712</url>
+            <slug>keane</slug>
           </artist>
-          <url>http://www.7digital.com/artists/jon-allen/sweet-defeat-1/?partner=712</url>
+          <slug>jon-allen</slug>
           <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/012/543/0001254350_50.jpg</image>
           <download>
             <packages>
@@ -748,7 +748,7 @@
           <artist id="1">
             <name>Keane</name>
             <appearsAs>Keane</appearsAs>
-            <url>http://www.7digital.com/artists/keane/?partner=712</url>
+            <slug>keane</slug>
           </artist>
           <url>http://www.7digital.com/artists/beyoncé/4-1/?partner=712</url>
           <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/012/922/0001292241_50.jpg</image>
@@ -786,9 +786,9 @@
           <artist id="1">
             <name>Keane</name>
             <appearsAs>Keane</appearsAs>
-            <url>http://www.7digital.com/artists/keane/?partner=712</url>
+            <slug>keane</slug>
           </artist>
-          <url>http://www.7digital.com/artists/foster-the-people/torches-1/?partner=712</url>
+          <slug>foster-the-people</slug>
           <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/012/717/0001271743_50.jpg</image>
           <download>
             <packages>
@@ -824,9 +824,9 @@
           <artist id="1">
             <name>Keane</name>
             <appearsAs>Keane</appearsAs>
-            <url>http://www.7digital.com/artists/keane/?partner=712</url>
+            <slug>keane</slug>
           </artist>
-          <url>http://www.7digital.com/artists/kissy-sell-out/wild-romance/?partner=712</url>
+          <slug>kissy-sell-out</slug>
           <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/012/540/0001254088_50.jpg</image>
           <download>
             <packages>

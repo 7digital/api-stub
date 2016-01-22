@@ -15,9 +15,9 @@
         <artist id="1307">
           <name>Stereophonics</name>
           <appearsAs>Stereophonics</appearsAs>
-          <url>http://www.7digital.com/artists/stereophonics/?partner=1401</url>
+          <slug>stereophonics</slug>
         </artist>
-        <url>http://www.7digital.com/artists/stereophonics/keep-calm-and-carry-on/?partner=1401</url>
+        <slug>stereophonics</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/006/282/0000628228_50.jpg</image>
         <download>
           <packages>
@@ -52,9 +52,9 @@
         <artist id="117">
           <name>The Thrills</name>
           <appearsAs>The Thrills</appearsAs>
-          <url>http://www.7digital.com/artists/the-thrills/?partner=1401</url>
+          <slug>the-thrills</slug>
         </artist>
-        <url>http://www.7digital.com/artists/the-thrills/nothing-changes-around-here/?partner=1401</url>
+        <slug>the-thrills</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/001/128/0000112835_50.jpg</image>
         <download>
           <packages>
@@ -89,9 +89,9 @@
         <artist id="102">
           <name>Ocean Colour Scene</name>
           <appearsAs>Ocean Colour Scene</appearsAs>
-          <url>http://www.7digital.com/artists/ocean-colour-scene/?partner=1401</url>
+          <slug>ocean-colour-scene</slug>
         </artist>
-        <url>http://www.7digital.com/artists/ocean-colour-scene/moseley-shoals-deluxe-edition/?partner=1401</url>
+        <slug>ocean-colour-scene</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/011/585/0001158553_50.jpg</image>
         <download>
           <packages>
@@ -126,9 +126,9 @@
         <artist id="581">
           <name>Damien Rice</name>
           <appearsAs>Damien Rice</appearsAs>
-          <url>http://www.7digital.com/artists/damien-rice/?partner=1401</url>
+          <slug>damien-rice</slug>
         </artist>
-        <url>http://www.7digital.com/artists/damien-rice/o-1/?partner=1401</url>
+        <slug>damien-rice</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/000/011/0000001105_50.jpg</image>
         <download>
           <packages>
@@ -163,9 +163,9 @@
         <artist id="14">
           <name>The Charlatans</name>
           <appearsAs>The Charlatans</appearsAs>
-          <url>http://www.7digital.com/artists/the-charlatans/?partner=1401</url>
+          <slug>the-charlatans</slug>
         </artist>
-        <url>http://www.7digital.com/artists/the-charlatans/some-friendly-expanded-edition/?partner=1401</url>
+        <slug>the-charlatans</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/008/072/0000807208_50.jpg</image>
         <download>
           <packages>
@@ -203,9 +203,9 @@
         <artist id="117">
           <name>The Thrills</name>
           <appearsAs>The Thrills</appearsAs>
-          <url>http://www.7digital.com/artists/the-thrills/?partner=1401</url>
+          <slug>the-thrills</slug>
         </artist>
-        <url>http://www.7digital.com/artists/the-thrills/teenager/?partner=1401</url>
+        <slug>the-thrills</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/001/126/0000112654_50.jpg</image>
         <download>
           <packages>
@@ -240,9 +240,9 @@
         <artist id="11513">
           <name>Travis</name>
           <appearsAs>Travis</appearsAs>
-          <url>http://www.7digital.com/artists/travis/?partner=1401</url>
+          <slug>travis</slug>
         </artist>
-        <url>http://www.7digital.com/artists/travis/j-smith/?partner=1401</url>
+        <slug>travis</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/002/685/0000268569_50.jpg</image>
         <download>
           <packages>
@@ -280,9 +280,9 @@
         <artist id="6037">
           <name>Aqualung</name>
           <appearsAs>Aqualung</appearsAs>
-          <url>http://www.7digital.com/artists/aqualung/?partner=1401</url>
+          <slug>aqualung</slug>
         </artist>
-        <url>http://www.7digital.com/artists/aqualung/aqualung-1/?partner=1401</url>
+        <slug>aqualung</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/000/087/0000008771_50.jpg</image>
         <download>
           <packages>
@@ -317,9 +317,9 @@
         <artist id="590">
           <name>REM</name>
           <appearsAs>R.E.M.</appearsAs>
-          <url>http://www.7digital.com/artists/r-e-m/?partner=1401</url>
+          <slug>r-e-m</slug>
         </artist>
-        <url>http://www.7digital.com/artists/r-e-m/its-the-end-of-the-world-as-we-know-it/?partner=1401</url>
+        <slug>r-e-m</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/005/418/0000541855_50.jpg</image>
         <download>
           <packages>
@@ -354,9 +354,9 @@
         <artist id="304">
           <name>Radiohead</name>
           <appearsAs>Radiohead</appearsAs>
-          <url>http://www.7digital.com/artists/radiohead/?partner=1401</url>
+          <slug>radiohead</slug>
         </artist>
-        <url>http://www.7digital.com/artists/radiohead/the-king-of-limbs/?partner=1401</url>
+        <slug>radiohead</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/011/931/0001193196_50.jpg</image>
         <download>
           <packages>

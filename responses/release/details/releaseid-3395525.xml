@@ -10,9 +10,9 @@
     <artist id="14697">
       <name>Yann Tiersen</name>
       <appearsAs>Yann Tiersen</appearsAs>
-      <url>http://www.7digital.com/artist/yann-tiersen/?partner=3923</url>
+      <slug>yann-tiersen</slug>
     </artist>
-    <url>http://www.7digital.com/artist/yann-tiersen/release/infinity/?partner=3923</url>
+    <slug>infinity</slug>
     <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/033/955/0003395525_50.jpg</image>
     <download>
       <packages>

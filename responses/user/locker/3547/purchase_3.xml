@@ -14,9 +14,9 @@
           <artist id="19180">
             <name>Oceansize</name>
             <appearsAs>Oceansize</appearsAs>
-            <url>http://www.7digital.com/artist/oceansize</url>
+            <slug>oceansize</slug>
           </artist>
-          <url>http://www.7digital.com/artist/oceansize/release/new-pin-1</url>
+          <slug>new-pin-1</slug>
           <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/029/591/0002959123_50.jpg</image>
           <releaseDate>2006-03-20T00:00:00Z</releaseDate>
           <licensor id="39"/>
@@ -29,12 +29,12 @@
               <artist id="19180">
                 <name>Oceansize</name>
                 <appearsAs>Oceansize</appearsAs>
-                <url>http://www.7digital.com/artist/oceansize</url>
+                <slug>oceansize</slug>
               </artist>
               <trackNumber>2</trackNumber>
               <duration>352</duration>
               <isrc>GBAZP0500062</isrc>
-              <url>http://www.7digital.com/artist/oceansize/release/new-pin-1?h=02&amp;d=1</url>
+              <slug>new-pin-1</slug>
             </track>
             <remainingDownloads>5</remainingDownloads>
             <purchaseId>814920242</purchaseId>
@@ -71,9 +71,9 @@
           <artist id="1286310">
             <name>PAWS</name>
             <appearsAs>PAWS</appearsAs>
-            <url>http://www.7digital.com/artist/paws</url>
+            <slug>paws</slug>
           </artist>
-          <url>http://www.7digital.com/artist/paws/release/youth-culture-forever-1</url>
+          <slug>youth-culture-forever-1</slug>
           <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/035/437/0003543780_50.jpg</image>
           <releaseDate>2014-06-01T00:00:00Z</releaseDate>
           <licensor id="336"/>
@@ -86,12 +86,12 @@
               <artist id="1286355">
                 <name>PAWS</name>
                 <appearsAs>PAWS</appearsAs>
-                <url>http://www.7digital.com/artist/paws</url>
+                <slug>paws</slug>
               </artist>
               <trackNumber>1</trackNumber>
               <duration>199</duration>
               <isrc>GBDCA1402544</isrc>
-              <url>http://www.7digital.com/artist/paws/release/youth-culture-forever-1?h=01&amp;d=1</url>
+              <slug>youth-culture-forever-1</slug>
             </track>
             <remainingDownloads>5</remainingDownloads>
             <purchaseId>814920242</purchaseId>
@@ -123,12 +123,12 @@
               <artist id="1286355">
                 <name>PAWS</name>
                 <appearsAs>PAWS</appearsAs>
-                <url>http://www.7digital.com/artist/paws</url>
+                <slug>paws</slug>
               </artist>
               <trackNumber>2</trackNumber>
               <duration>133</duration>
               <isrc>GBDCA1402545</isrc>
-              <url>http://www.7digital.com/artist/paws/release/youth-culture-forever-1?h=02&amp;d=1</url>
+              <slug>youth-culture-forever-1</slug>
             </track>
             <remainingDownloads>5</remainingDownloads>
             <purchaseId>814920242</purchaseId>
@@ -160,12 +160,12 @@
               <artist id="1286355">
                 <name>PAWS</name>
                 <appearsAs>PAWS</appearsAs>
-                <url>http://www.7digital.com/artist/paws</url>
+                <slug>paws</slug>
               </artist>
               <trackNumber>3</trackNumber>
               <duration>143</duration>
               <isrc>GBDCA1402546</isrc>
-              <url>http://www.7digital.com/artist/paws/release/youth-culture-forever-1?h=03&amp;d=1</url>
+              <slug>youth-culture-forever-1</slug>
             </track>
             <remainingDownloads>5</remainingDownloads>
             <purchaseId>814920242</purchaseId>
@@ -197,12 +197,12 @@
               <artist id="1286355">
                 <name>PAWS</name>
                 <appearsAs>PAWS</appearsAs>
-                <url>http://www.7digital.com/artist/paws</url>
+                <slug>paws</slug>
               </artist>
               <trackNumber>4</trackNumber>
               <duration>212</duration>
               <isrc>GBDCA1402547</isrc>
-              <url>http://www.7digital.com/artist/paws/release/youth-culture-forever-1?h=04&amp;d=1</url>
+              <slug>youth-culture-forever-1</slug>
             </track>
             <remainingDownloads>5</remainingDownloads>
             <purchaseId>814920242</purchaseId>
@@ -234,12 +234,12 @@
               <artist id="1286355">
                 <name>PAWS</name>
                 <appearsAs>PAWS</appearsAs>
-                <url>http://www.7digital.com/artist/paws</url>
+                <slug>paws</slug>
               </artist>
               <trackNumber>5</trackNumber>
               <duration>141</duration>
               <isrc>GBDCA1402548</isrc>
-              <url>http://www.7digital.com/artist/paws/release/youth-culture-forever-1?h=05&amp;d=1</url>
+              <slug>youth-culture-forever-1</slug>
             </track>
             <remainingDownloads>5</remainingDownloads>
             <purchaseId>814920242</purchaseId>
@@ -271,12 +271,12 @@
               <artist id="1286355">
                 <name>PAWS</name>
                 <appearsAs>PAWS</appearsAs>
-                <url>http://www.7digital.com/artist/paws</url>
+                <slug>paws</slug>
               </artist>
               <trackNumber>6</trackNumber>
               <duration>235</duration>
               <isrc>GBDCA1402549</isrc>
-              <url>http://www.7digital.com/artist/paws/release/youth-culture-forever-1?h=06&amp;d=1</url>
+              <slug>youth-culture-forever-1</slug>
             </track>
             <remainingDownloads>5</remainingDownloads>
             <purchaseId>814920242</purchaseId>
@@ -308,12 +308,12 @@
               <artist id="1286355">
                 <name>PAWS</name>
                 <appearsAs>PAWS</appearsAs>
-                <url>http://www.7digital.com/artist/paws</url>
+                <slug>paws</slug>
               </artist>
               <trackNumber>7</trackNumber>
               <duration>167</duration>
               <isrc>GBDCA1402550</isrc>
-              <url>http://www.7digital.com/artist/paws/release/youth-culture-forever-1?h=07&amp;d=1</url>
+              <slug>youth-culture-forever-1</slug>
             </track>
             <remainingDownloads>5</remainingDownloads>
             <purchaseId>814920242</purchaseId>
@@ -345,12 +345,12 @@
               <artist id="1286355">
                 <name>PAWS</name>
                 <appearsAs>PAWS</appearsAs>
-                <url>http://www.7digital.com/artist/paws</url>
+                <slug>paws</slug>
               </artist>
               <trackNumber>8</trackNumber>
               <duration>115</duration>
               <isrc>GBDCA1402551</isrc>
-              <url>http://www.7digital.com/artist/paws/release/youth-culture-forever-1?h=08&amp;d=1</url>
+              <slug>youth-culture-forever-1</slug>
             </track>
             <remainingDownloads>5</remainingDownloads>
             <purchaseId>814920242</purchaseId>
@@ -382,12 +382,12 @@
               <artist id="1286355">
                 <name>PAWS</name>
                 <appearsAs>PAWS</appearsAs>
-                <url>http://www.7digital.com/artist/paws</url>
+                <slug>paws</slug>
               </artist>
               <trackNumber>9</trackNumber>
               <duration>163</duration>
               <isrc>GBDCA1402552</isrc>
-              <url>http://www.7digital.com/artist/paws/release/youth-culture-forever-1?h=09&amp;d=1</url>
+              <slug>youth-culture-forever-1</slug>
             </track>
             <remainingDownloads>5</remainingDownloads>
             <purchaseId>814920242</purchaseId>
@@ -419,12 +419,12 @@
               <artist id="1286355">
                 <name>PAWS</name>
                 <appearsAs>PAWS</appearsAs>
-                <url>http://www.7digital.com/artist/paws</url>
+                <slug>paws</slug>
               </artist>
               <trackNumber>10</trackNumber>
               <duration>118</duration>
               <isrc>GBDCA1402553</isrc>
-              <url>http://www.7digital.com/artist/paws/release/youth-culture-forever-1?h=10&amp;d=1</url>
+              <slug>youth-culture-forever-1</slug>
             </track>
             <remainingDownloads>5</remainingDownloads>
             <purchaseId>814920242</purchaseId>
@@ -456,12 +456,12 @@
               <artist id="1286355">
                 <name>PAWS</name>
                 <appearsAs>PAWS</appearsAs>
-                <url>http://www.7digital.com/artist/paws</url>
+                <slug>paws</slug>
               </artist>
               <trackNumber>11</trackNumber>
               <duration>171</duration>
               <isrc>GBDCA1402554</isrc>
-              <url>http://www.7digital.com/artist/paws/release/youth-culture-forever-1?h=11&amp;d=1</url>
+              <slug>youth-culture-forever-1</slug>
             </track>
             <remainingDownloads>5</remainingDownloads>
             <purchaseId>814920242</purchaseId>
@@ -493,12 +493,12 @@
               <artist id="1286355">
                 <name>PAWS</name>
                 <appearsAs>PAWS</appearsAs>
-                <url>http://www.7digital.com/artist/paws</url>
+                <slug>paws</slug>
               </artist>
               <trackNumber>12</trackNumber>
               <duration>703</duration>
               <isrc>GBDCA1402555</isrc>
-              <url>http://www.7digital.com/artist/paws/release/youth-culture-forever-1?h=12&amp;d=1</url>
+              <slug>youth-culture-forever-1</slug>
             </track>
             <remainingDownloads>5</remainingDownloads>
             <purchaseId>814920242</purchaseId>

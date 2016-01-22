@@ -16,9 +16,9 @@
         <artist id="240867">
           <name>College</name>
           <appearsAs>College</appearsAs>
-          <url>http://www.7digital.com/artist/college/?partner=1401</url>
+          <slug>college</slug>
         </artist>
-        <url>http://www.7digital.com/artist/college/release/a-real-hero-ep/?partner=1401</url>
+        <slug>a-real-hero-ep</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/006/970/0000697091_50.jpg</image>
         <popularity>0.53</popularity>
         <streamingReleaseDate>2010-01-11T00:00:00+00:00</streamingReleaseDate>
@@ -35,9 +35,9 @@
         <artist id="209">
           <name>Various Artists</name>
           <appearsAs>Various Artists</appearsAs>
-          <url>http://www.7digital.com/artist/various-artists/?partner=1401</url>
+          <slug>various-artists</slug>
         </artist>
-        <url>http://www.7digital.com/artist/various-artists/release/100-classic-french-songs-volume-1/?partner=1401</url>
+        <slug>100-classic-french-songs-volume-1</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/002/241/0000224142_50.jpg</image>
         <popularity>0.5</popularity>
         <streamingReleaseDate>2012-05-12T00:00:00+01:00</streamingReleaseDate>
@@ -54,9 +54,9 @@
         <artist id="65934">
           <name>Benjamin Biolay</name>
           <appearsAs>Benjamin Biolay</appearsAs>
-          <url>http://www.7digital.com/artist/benjamin-biolay/?partner=1401</url>
+          <slug>benjamin-biolay</slug>
         </artist>
-        <url>http://www.7digital.com/artist/benjamin-biolay/release/pourquoi-tu-pleures/?partner=1401</url>
+        <slug>pourquoi-tu-pleures</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/012/714/0001271447_50.jpg</image>
         <popularity>0.45</popularity>
         <streamingReleaseDate>3001-01-01T00:00:00+00:00</streamingReleaseDate>
@@ -73,9 +73,9 @@
         <artist id="169679">
           <name>Canardo</name>
           <appearsAs>Canardo</appearsAs>
-          <url>http://www.7digital.com/artist/canardo/?partner=1401</url>
+          <slug>canardo</slug>
         </artist>
-        <url>http://www.7digital.com/artist/canardo/release/a-la-youv/?partner=1401</url>
+        <slug>a-la-youv</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/018/013/0001801320_50.jpg</image>
         <popularity>0.45</popularity>
         <streamingReleaseDate>2012-08-06T00:00:00+01:00</streamingReleaseDate>
@@ -92,9 +92,9 @@
         <artist id="257207">
           <name>Sexion d'Assaut</name>
           <appearsAs>Sexion d'Assaut</appearsAs>
-          <url>http://www.7digital.com/artist/sexion-dassaut/?partner=1401</url>
+          <slug>sexion-dassaut</slug>
         </artist>
-        <url>http://www.7digital.com/artist/sexion-dassaut/release/le-renouveau-1/?partner=1401</url>
+        <slug>le-renouveau-1</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/011/683/0001168306_50.jpg</image>
         <popularity>0.43</popularity>
         <streamingReleaseDate>2008-06-16T00:00:00+01:00</streamingReleaseDate>
@@ -111,9 +111,9 @@
         <artist id="15964">
           <name>Edith Piaf</name>
           <appearsAs>Edith Piaf</appearsAs>
-          <url>http://www.7digital.com/artist/edith-piaf/?partner=1401</url>
+          <slug>edith-piaf</slug>
         </artist>
-        <url>http://www.7digital.com/artist/edith-piaf/release/edith-piaf-la-vie-en-rose/?partner=1401</url>
+        <slug>edith-piaf-la-vie-en-rose</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/013/079/0001307902_50.jpg</image>
         <popularity>0.43</popularity>
         <streamingReleaseDate>2011-06-30T00:00:00+01:00</streamingReleaseDate>
@@ -130,9 +130,9 @@
         <artist id="483585">
           <name>Étienne Drapeau</name>
           <appearsAs>Étienne Drapeau</appearsAs>
-          <url>http://www.7digital.com/artist/etienne-drapeau/?partner=1401</url>
+          <slug>etienne-drapeau</slug>
         </artist>
-        <url>http://www.7digital.com/artist/etienne-drapeau/release/paroles-et-musique/?partner=1401</url>
+        <slug>paroles-et-musique</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/009/803/0000980348_50.jpg</image>
         <popularity>0.43</popularity>
         <streamingReleaseDate>2010-09-21T00:00:00+01:00</streamingReleaseDate>
@@ -149,9 +149,9 @@
         <artist id="171021">
           <name>Les Ogres De Barback</name>
           <appearsAs>Les Ogres De Barback</appearsAs>
-          <url>http://www.7digital.com/artist/les-ogres-de-barback/?partner=1401</url>
+          <slug>les-ogres-de-barback</slug>
         </artist>
-        <url>http://www.7digital.com/artist/les-ogres-de-barback/release/comment-je-suis-devenu-voyageur/?partner=1401</url>
+        <slug>comment-je-suis-devenu-voyageur</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/011/398/0001139873_50.jpg</image>
         <popularity>0.43</popularity>
         <streamingReleaseDate>2011-03-14T00:00:00+00:00</streamingReleaseDate>
@@ -168,9 +168,9 @@
         <artist id="481988">
           <name>Vincent Vallières</name>
           <appearsAs>Vincent Vallières</appearsAs>
-          <url>http://www.7digital.com/artist/vincent-vallieres/?partner=1401</url>
+          <slug>vincent-vallieres</slug>
         </artist>
-        <url>http://www.7digital.com/artist/vincent-vallieres/release/le-monde-tourne-fort/?partner=1401</url>
+        <slug>le-monde-tourne-fort</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/006/474/0000647451_50.jpg</image>
         <popularity>0.43</popularity>
         <streamingReleaseDate>2009-09-01T00:00:00+01:00</streamingReleaseDate>
@@ -187,9 +187,9 @@
         <artist id="240867">
           <name>College</name>
           <appearsAs>College</appearsAs>
-          <url>http://www.7digital.com/artist/college/?partner=1401</url>
+          <slug>college</slug>
         </artist>
-        <url>http://www.7digital.com/artist/college/release/teenage-color-ep/?partner=1401</url>
+        <slug>teenage-color-ep</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/003/115/0000311507_50.jpg</image>
         <popularity>0.42</popularity>
         <streamingReleaseDate>2008-03-03T00:00:00+00:00</streamingReleaseDate>

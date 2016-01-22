@@ -15,9 +15,9 @@
           <artist id="1221028">
             <name>alt-J</name>
             <appearsAs>alt-J</appearsAs>
-            <url>http://www.7digital.com/artist/alt-j-1/?partner=3923</url>
+            <slug>alt-j-1</slug>
           </artist>
-          <url>http://www.7digital.com/artist/alt-j-1/release/this-is-all-yours/?partner=3923</url>
+          <slug>this-is-all-yours</slug>
           <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/035/630/0003563048_50.jpg</image>
           <label id="25901">
             <name>Infectious</name>
@@ -88,9 +88,9 @@
           <artist id="603309">
             <name>Ed Sheeran</name>
             <appearsAs>Ed Sheeran</appearsAs>
-            <url>http://www.7digital.com/artist/ed-sheeran/?partner=3923</url>
+            <slug>ed-sheeran</slug>
           </artist>
-          <url>http://www.7digital.com/artist/ed-sheeran/release/x-1/?partner=3923</url>
+          <slug>x-1</slug>
           <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/035/851/0003585165_50.jpg</image>
           <label id="1373">
             <name>Atlantic Records UK</name>
@@ -132,9 +132,9 @@
           <artist id="2023111">
             <name>George Ezra</name>
             <appearsAs>George Ezra</appearsAs>
-            <url>http://www.7digital.com/artist/george-ezra/?partner=3923</url>
+            <slug>george-ezra</slug>
           </artist>
-          <url>http://www.7digital.com/artist/george-ezra/release/wanted-on-voyage-1/?partner=3923</url>
+          <slug>wanted-on-voyage-1</slug>
           <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/035/914/0003591446_50.jpg</image>
           <label id="592">
             <name>Columbia</name>
@@ -192,9 +192,9 @@
           <artist id="1410166">
             <name>Royal Blood</name>
             <appearsAs>Royal Blood</appearsAs>
-            <url>http://www.7digital.com/artist/royal-blood/?partner=3923</url>
+            <slug>royal-blood</slug>
           </artist>
-          <url>http://www.7digital.com/artist/royal-blood/release/royal-blood-1/?partner=3923</url>
+          <slug>royal-blood-1</slug>
           <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/037/342/0003734294_50.jpg</image>
           <label id="273">
             <name>Warner Bros.</name>
@@ -236,9 +236,9 @@
           <artist id="250807">
             <name>Sam Smith</name>
             <appearsAs>Sam Smith</appearsAs>
-            <url>http://www.7digital.com/artist/sam-smith/?partner=3923</url>
+            <slug>sam-smith</slug>
           </artist>
-          <url>http://www.7digital.com/artist/sam-smith/release/in-the-lonely-hour/?partner=3923</url>
+          <slug>in-the-lonely-hour</slug>
           <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/034/708/0003470864_50.jpg</image>
           <label id="47744">
             <name>Universal Music Australia Pty. Ltd.</name>

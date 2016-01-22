@@ -16,9 +16,9 @@
         <artist id="209">
           <name>Various Artists</name>
           <appearsAs>Various Artists</appearsAs>
-          <url>http://www.7digital.com/artist/various-artists/?partner=1401</url>
+          <slug>various-artists</slug>
         </artist>
-        <url>http://www.7digital.com/artist/various-artists/release/ibiza-summer-vibes-vol-1/?partner=1401</url>
+        <slug>ibiza-summer-vibes-vol-1</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/012/750/0001275025_50.jpg</image>
         <popularity>0.65</popularity>
         <streamingReleaseDate>2011-06-25T00:00:00+01:00</streamingReleaseDate>
@@ -35,9 +35,9 @@
         <artist id="930390">
           <name>Kosa</name>
           <appearsAs>Kosa</appearsAs>
-          <url>http://www.7digital.com/artist/kosa/?partner=1401</url>
+          <slug>kosa</slug>
         </artist>
-        <url>http://www.7digital.com/artist/kosa/release/lambada/?partner=1401</url>
+        <slug>lambada</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/012/227/0001222780_50.jpg</image>
         <popularity>0.62</popularity>
         <streamingReleaseDate>2011-04-28T00:00:00+01:00</streamingReleaseDate>
@@ -54,9 +54,9 @@
         <artist id="209">
           <name>Various Artists</name>
           <appearsAs>Various Artists</appearsAs>
-          <url>http://www.7digital.com/artist/various-artists/?partner=1401</url>
+          <slug>various-artists</slug>
         </artist>
-        <url>http://www.7digital.com/artist/various-artists/release/relaxing-summer-chill-vol-3/?partner=1401</url>
+        <slug>relaxing-summer-chill-vol-3</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/012/595/0001259579_50.jpg</image>
         <popularity>0.62</popularity>
         <streamingReleaseDate>2011-07-14T00:00:00+01:00</streamingReleaseDate>
@@ -73,9 +73,9 @@
         <artist id="29579">
           <name>Varios Artistas</name>
           <appearsAs>Varios Artistas</appearsAs>
-          <url>http://www.7digital.com/artist/varios-artistas/?partner=1401</url>
+          <slug>varios-artistas</slug>
         </artist>
-        <url>http://www.7digital.com/artist/varios-artistas/release/reggaeton-2011/?partner=1401</url>
+        <slug>reggaeton-2011</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/012/657/0001265725_50.jpg</image>
         <popularity>0.6</popularity>
         <streamingReleaseDate>2011-05-10T00:00:00+01:00</streamingReleaseDate>
@@ -92,9 +92,9 @@
         <artist id="209">
           <name>Various Artists</name>
           <appearsAs>Various Artists</appearsAs>
-          <url>http://www.7digital.com/artist/various-artists/?partner=1401</url>
+          <slug>various-artists</slug>
         </artist>
-        <url>http://www.7digital.com/artist/various-artists/release/just-salsa/?partner=1401</url>
+        <slug>just-salsa</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/011/714/0001171451_50.jpg</image>
         <popularity>0.58</popularity>
         <streamingReleaseDate>2011-02-15T00:00:00+00:00</streamingReleaseDate>
@@ -111,9 +111,9 @@
         <artist id="5634">
           <name>Maná</name>
           <appearsAs>Maná</appearsAs>
-          <url>http://www.7digital.com/artist/maná/?partner=1401</url>
+          <slug>maná</slug>
         </artist>
-        <url>http://www.7digital.com/artist/maná/release/drama-y-luz/?partner=1401</url>
+        <slug>drama-y-luz</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/012/079/0001207969_50.jpg</image>
         <popularity>0.55</popularity>
         <streamingReleaseDate>2011-04-11T00:00:00+01:00</streamingReleaseDate>
@@ -130,9 +130,9 @@
         <artist id="209">
           <name>Various Artists</name>
           <appearsAs>Various Artists</appearsAs>
-          <url>http://www.7digital.com/artist/various-artists/?partner=1401</url>
+          <slug>various-artists</slug>
         </artist>
-        <url>http://www.7digital.com/artist/various-artists/release/beach-lounge-2011/?partner=1401</url>
+        <slug>beach-lounge-2011</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/012/375/0001237566_50.jpg</image>
         <popularity>0.55</popularity>
         <streamingReleaseDate>2011-05-11T00:00:00+01:00</streamingReleaseDate>
@@ -149,9 +149,9 @@
         <artist id="595937">
           <name>Michel Teló</name>
           <appearsAs>Michel Teló</appearsAs>
-          <url>http://www.7digital.com/artist/michel-telo/?partner=1401</url>
+          <slug>michel-telo</slug>
         </artist>
-        <url>http://www.7digital.com/artist/michel-telo/release/ao-vivo/?partner=1401</url>
+        <slug>ao-vivo</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/013/027/0001302742_50.jpg</image>
         <popularity>0.54</popularity>
         <streamingReleaseDate>2011-07-26T00:00:00+01:00</streamingReleaseDate>
@@ -168,9 +168,9 @@
         <artist id="469694">
           <name>Prince Royce</name>
           <appearsAs>Prince Royce</appearsAs>
-          <url>http://www.7digital.com/artist/prince-royce/?partner=1401</url>
+          <slug>prince-royce</slug>
         </artist>
-        <url>http://www.7digital.com/artist/prince-royce/release/prince-royce-1/?partner=1401</url>
+        <slug>prince-royce-1</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/008/335/0000833582_50.jpg</image>
         <popularity>0.54</popularity>
         <streamingReleaseDate>2012-01-18T00:00:00+00:00</streamingReleaseDate>
@@ -187,9 +187,9 @@
         <artist id="3815">
           <name>Santana</name>
           <appearsAs>Santana</appearsAs>
-          <url>http://www.7digital.com/artist/santana/?partner=1401</url>
+          <slug>santana</slug>
         </artist>
-        <url>http://www.7digital.com/artist/santana/release/the-best-of-santana-8/?partner=1401</url>
+        <slug>the-best-of-santana-8</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/012/351/0001235166_50.jpg</image>
         <popularity>0.54</popularity>
         <streamingReleaseDate>2011-05-16T00:00:00+01:00</streamingReleaseDate>

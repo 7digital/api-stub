@@ -14,9 +14,9 @@
           <artist id="304">
             <name>A Artist</name>
             <appearsAs>A Artist</appearsAs>
-            <url>http://www.7digital.com/artists/radiohead/?partner=712</url>
+            <slug>radiohead</slug>
           </artist>
-          <url>http://www.7digital.com/artists/radiohead/in-rainbows/?partner=712</url>
+          <slug>radiohead</slug>
           <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/001/888/0000188863_50.jpg</image>
           <releaseDate>2007-12-31T00:00:00Z</releaseDate>
         </release>
@@ -28,9 +28,9 @@
               <artist id="304">
                 <name>Artist</name>
                 <appearsAs>Artist</appearsAs>
-                <url>http://www.7digital.com/artists/radiohead/?partner=712</url>
+                <slug>radiohead</slug>
               </artist>
-              <url>http://www.7digital.com/artists/radiohead/in-rainbows/01-15-Step?partner=712&amp;partner=712</url>
+              <slug>radiohead</slug>
             </track>
             <remainingDownloads>3</remainingDownloads>
             <purchaseDate>2011-04-13T16:30:35+01:00</purchaseDate>
@@ -56,9 +56,9 @@
           <artist id="304">
             <name>B Artist</name>
             <appearsAs>B Artist</appearsAs>
-            <url>http://www.7digital.com/artists/radiohead/?partner=712</url>
+            <slug>radiohead</slug>
           </artist>
-          <url>http://www.7digital.com/artists/radiohead/in-rainbows/?partner=712</url>
+          <slug>radiohead</slug>
           <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/001/888/0000188863_50.jpg</image>
           <releaseDate>2007-12-31T00:00:00Z</releaseDate>
         </release>
@@ -70,9 +70,9 @@
               <artist id="304">
                 <name>Artist</name>
                 <appearsAs>Artist</appearsAs>
-                <url>http://www.7digital.com/artists/radiohead/?partner=712</url>
+                <slug>radiohead</slug>
               </artist>
-              <url>http://www.7digital.com/artists/radiohead/in-rainbows/01-15-Step?partner=712&amp;partner=712</url>
+              <slug>radiohead</slug>
             </track>
             <remainingDownloads>3</remainingDownloads>
             <purchaseDate>2011-04-12T16:30:35+01:00</purchaseDate>
@@ -98,9 +98,9 @@
           <artist id="304">
             <name>C Artist</name>
             <appearsAs>C Artist</appearsAs>
-            <url>http://www.7digital.com/artists/radiohead/?partner=712</url>
+            <slug>radiohead</slug>
           </artist>
-          <url>http://www.7digital.com/artists/radiohead/in-rainbows/?partner=712</url>
+          <slug>radiohead</slug>
           <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/001/888/0000188863_50.jpg</image>
           <releaseDate>2007-12-31T00:00:00Z</releaseDate>
         </release>
@@ -112,9 +112,9 @@
               <artist id="304">
                 <name>Artist</name>
                 <appearsAs>Artist</appearsAs>
-                <url>http://www.7digital.com/artists/radiohead/?partner=712</url>
+                <slug>radiohead</slug>
               </artist>
-              <url>http://www.7digital.com/artists/radiohead/in-rainbows/01-15-Step?partner=712&amp;partner=712</url>
+              <slug>radiohead</slug>
             </track>
             <remainingDownloads>3</remainingDownloads>
             <purchaseDate>2011-04-11T16:30:35+01:00</purchaseDate>
@@ -140,9 +140,9 @@
           <artist id="304">
             <name>D Artist</name>
             <appearsAs>D Artist</appearsAs>
-            <url>http://www.7digital.com/artists/radiohead/?partner=712</url>
+            <slug>radiohead</slug>
           </artist>
-          <url>http://www.7digital.com/artists/radiohead/in-rainbows/?partner=712</url>
+          <slug>radiohead</slug>
           <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/001/888/0000188863_50.jpg</image>
           <releaseDate>2007-12-31T00:00:00Z</releaseDate>
         </release>
@@ -154,9 +154,9 @@
               <artist id="304">
                 <name>Artist</name>
                 <appearsAs>Artist</appearsAs>
-                <url>http://www.7digital.com/artists/radiohead/?partner=712</url>
+                <slug>radiohead</slug>
               </artist>
-              <url>http://www.7digital.com/artists/radiohead/in-rainbows/01-15-Step?partner=712&amp;partner=712</url>
+              <slug>radiohead</slug>
             </track>
             <remainingDownloads>3</remainingDownloads>
             <purchaseDate>2011-04-10T16:30:35+01:00</purchaseDate>
@@ -182,9 +182,9 @@
           <artist id="304">
             <name>E Artist</name>
             <appearsAs>E Artist</appearsAs>
-            <url>http://www.7digital.com/artists/radiohead/?partner=712</url>
+            <slug>radiohead</slug>
           </artist>
-          <url>http://www.7digital.com/artists/radiohead/in-rainbows/?partner=712</url>
+          <slug>radiohead</slug>
           <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/001/888/0000188863_50.jpg</image>
           <releaseDate>2007-12-31T00:00:00Z</releaseDate>
         </release>
@@ -196,9 +196,9 @@
               <artist id="304">
                 <name>Artist</name>
                 <appearsAs>Artist</appearsAs>
-                <url>http://www.7digital.com/artists/radiohead/?partner=712</url>
+                <slug>radiohead</slug>
               </artist>
-              <url>http://www.7digital.com/artists/radiohead/in-rainbows/01-15-Step?partner=712&amp;partner=712</url>
+              <slug>radiohead</slug>
             </track>
             <remainingDownloads>3</remainingDownloads>
             <purchaseDate>2011-04-09T16:30:35+01:00</purchaseDate>
@@ -224,9 +224,9 @@
           <artist id="304">
             <name>F Artist</name>
             <appearsAs>F Artist</appearsAs>
-            <url>http://www.7digital.com/artists/radiohead/?partner=712</url>
+            <slug>radiohead</slug>
           </artist>
-          <url>http://www.7digital.com/artists/radiohead/in-rainbows/?partner=712</url>
+          <slug>radiohead</slug>
           <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/001/888/0000188863_50.jpg</image>
           <releaseDate>2007-12-31T00:00:00Z</releaseDate>
         </release>
@@ -238,9 +238,9 @@
               <artist id="304">
                 <name>Artist</name>
                 <appearsAs>Artist</appearsAs>
-                <url>http://www.7digital.com/artists/radiohead/?partner=712</url>
+                <slug>radiohead</slug>
               </artist>
-              <url>http://www.7digital.com/artists/radiohead/in-rainbows/01-15-Step?partner=712&amp;partner=712</url>
+              <slug>radiohead</slug>
             </track>
             <remainingDownloads>3</remainingDownloads>
             <purchaseDate>2011-04-08T16:30:35+01:00</purchaseDate>
@@ -266,9 +266,9 @@
           <artist id="304">
             <name>G Artist</name>
             <appearsAs>G Artist</appearsAs>
-            <url>http://www.7digital.com/artists/radiohead/?partner=712</url>
+            <slug>radiohead</slug>
           </artist>
-          <url>http://www.7digital.com/artists/radiohead/in-rainbows/?partner=712</url>
+          <slug>radiohead</slug>
           <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/001/888/0000188863_50.jpg</image>
           <releaseDate>2007-12-31T00:00:00Z</releaseDate>
         </release>
@@ -280,9 +280,9 @@
               <artist id="304">
                 <name>Artist</name>
                 <appearsAs>Artist</appearsAs>
-                <url>http://www.7digital.com/artists/radiohead/?partner=712</url>
+                <slug>radiohead</slug>
               </artist>
-              <url>http://www.7digital.com/artists/radiohead/in-rainbows/01-15-Step?partner=712&amp;partner=712</url>
+              <slug>radiohead</slug>
             </track>
             <remainingDownloads>3</remainingDownloads>
             <purchaseDate>2011-04-07T16:30:35+01:00</purchaseDate>
@@ -308,9 +308,9 @@
           <artist id="304">
             <name>H Artist</name>
             <appearsAs>H Artist</appearsAs>
-            <url>http://www.7digital.com/artists/radiohead/?partner=712</url>
+            <slug>radiohead</slug>
           </artist>
-          <url>http://www.7digital.com/artists/radiohead/in-rainbows/?partner=712</url>
+          <slug>radiohead</slug>
           <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/001/888/0000188863_50.jpg</image>
           <releaseDate>2007-12-31T00:00:00Z</releaseDate>
         </release>
@@ -322,9 +322,9 @@
               <artist id="304">
                 <name>Artist</name>
                 <appearsAs>Artist</appearsAs>
-                <url>http://www.7digital.com/artists/radiohead/?partner=712</url>
+                <slug>radiohead</slug>
               </artist>
-              <url>http://www.7digital.com/artists/radiohead/in-rainbows/01-15-Step?partner=712&amp;partner=712</url>
+              <slug>radiohead</slug>
             </track>
             <remainingDownloads>3</remainingDownloads>
             <purchaseDate>2011-04-06T16:30:35+01:00</purchaseDate>
@@ -350,9 +350,9 @@
           <artist id="304">
             <name>I Artist</name>
             <appearsAs>I Artist</appearsAs>
-            <url>http://www.7digital.com/artists/radiohead/?partner=712</url>
+            <slug>radiohead</slug>
           </artist>
-          <url>http://www.7digital.com/artists/radiohead/in-rainbows/?partner=712</url>
+          <slug>radiohead</slug>
           <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/001/888/0000188863_50.jpg</image>
           <releaseDate>2007-12-31T00:00:00Z</releaseDate>
         </release>
@@ -364,9 +364,9 @@
               <artist id="304">
                 <name>Artist</name>
                 <appearsAs>Artist</appearsAs>
-                <url>http://www.7digital.com/artists/radiohead/?partner=712</url>
+                <slug>radiohead</slug>
               </artist>
-              <url>http://www.7digital.com/artists/radiohead/in-rainbows/01-15-Step?partner=712&amp;partner=712</url>
+              <slug>radiohead</slug>
             </track>
             <remainingDownloads>3</remainingDownloads>
             <purchaseDate>2011-04-05T16:30:35+01:00</purchaseDate>
@@ -392,9 +392,9 @@
           <artist id="304">
             <name>J Artist</name>
             <appearsAs>J Artist</appearsAs>
-            <url>http://www.7digital.com/artists/radiohead/?partner=712</url>
+            <slug>radiohead</slug>
           </artist>
-          <url>http://www.7digital.com/artists/radiohead/in-rainbows/?partner=712</url>
+          <slug>radiohead</slug>
           <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/001/888/0000188863_50.jpg</image>
           <releaseDate>2007-12-31T00:00:00Z</releaseDate>
         </release>
@@ -406,9 +406,9 @@
               <artist id="304">
                 <name>J Artist</name>
                 <appearsAs>Artist</appearsAs>
-                <url>http://www.7digital.com/artists/radiohead/?partner=712</url>
+                <slug>radiohead</slug>
               </artist>
-              <url>http://www.7digital.com/artists/radiohead/in-rainbows/01-15-Step?partner=712&amp;partner=712</url>
+              <slug>radiohead</slug>
             </track>
             <remainingDownloads>3</remainingDownloads>
             <purchaseDate>2011-04-04T16:30:35+01:00</purchaseDate>

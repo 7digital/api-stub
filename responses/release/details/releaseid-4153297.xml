@@ -10,9 +10,9 @@
     <artist id="1">
       <name>Keane</name>
       <appearsAs>Keane</appearsAs>
-      <url>http://www.7digital.com/artists/keane/?partner=712</url>
+      <slug>keane</slug>
     </artist>
-    <url>http://www.7digital.com/artists/keane/night-train/?partner=712</url>
+    <slug>keane</slug>
     <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/007/990/0000799025_50.jpg</image>
     <download>
       <packages>

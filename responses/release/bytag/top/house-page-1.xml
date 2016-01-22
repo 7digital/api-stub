@@ -16,9 +16,9 @@
         <artist id="209">
           <name>Various Artists</name>
           <appearsAs>Various Artists</appearsAs>
-          <url>http://www.7digital.com/artist/various-artists/?partner=1401</url>
+          <slug>various-artists</slug>
         </artist>
-        <url>http://www.7digital.com/artist/various-artists/release/ibiza-summer-vibes-vol-1/?partner=1401</url>
+        <slug>ibiza-summer-vibes-vol-1</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/012/750/0001275025_50.jpg</image>
         <popularity>0.65</popularity>
         <streamingReleaseDate>2011-06-25T00:00:00+01:00</streamingReleaseDate>
@@ -35,9 +35,9 @@
         <artist id="317721">
           <name>OneWorld</name>
           <appearsAs>OneWorld</appearsAs>
-          <url>http://www.7digital.com/artist/oneworld/?partner=1401</url>
+          <slug>oneworld</slug>
         </artist>
-        <url>http://www.7digital.com/artist/oneworld/release/freedom-for-palestine/?partner=1401</url>
+        <slug>freedom-for-palestine</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/012/686/0001268689_50.jpg</image>
         <popularity>0.63</popularity>
         <streamingReleaseDate>3001-01-01T00:00:00+00:00</streamingReleaseDate>
@@ -54,9 +54,9 @@
         <artist id="930390">
           <name>Kosa</name>
           <appearsAs>Kosa</appearsAs>
-          <url>http://www.7digital.com/artist/kosa/?partner=1401</url>
+          <slug>kosa</slug>
         </artist>
-        <url>http://www.7digital.com/artist/kosa/release/lambada/?partner=1401</url>
+        <slug>lambada</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/012/227/0001222780_50.jpg</image>
         <popularity>0.62</popularity>
         <streamingReleaseDate>2011-04-28T00:00:00+01:00</streamingReleaseDate>
@@ -73,9 +73,9 @@
         <artist id="209">
           <name>Various Artists</name>
           <appearsAs>Various Artists</appearsAs>
-          <url>http://www.7digital.com/artist/various-artists/?partner=1401</url>
+          <slug>various-artists</slug>
         </artist>
-        <url>http://www.7digital.com/artist/various-artists/release/godskitchen-ibiza-trance-anthems/?partner=1401</url>
+        <slug>godskitchen-ibiza-trance-anthems</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/017/991/0001799179_50.jpg</image>
         <popularity>0.62</popularity>
         <streamingReleaseDate>3001-01-01T00:00:00+00:00</streamingReleaseDate>
@@ -92,9 +92,9 @@
         <artist id="209">
           <name>Various Artists</name>
           <appearsAs>Various Artists</appearsAs>
-          <url>http://www.7digital.com/artist/various-artists/?partner=1401</url>
+          <slug>various-artists</slug>
         </artist>
-        <url>http://www.7digital.com/artist/various-artists/release/toolroom-records-miami-2012/?partner=1401</url>
+        <slug>toolroom-records-miami-2012</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/016/041/0001604103_50.jpg</image>
         <popularity>0.61</popularity>
         <streamingReleaseDate>2012-02-26T00:00:00+00:00</streamingReleaseDate>
@@ -111,9 +111,9 @@
         <artist id="1039966">
           <name>Lemon Slice</name>
           <appearsAs>Lemon Slice</appearsAs>
-          <url>http://www.7digital.com/artist/lemon-slice/?partner=1401</url>
+          <slug>lemon-slice</slug>
         </artist>
-        <url>http://www.7digital.com/artist/lemon-slice/release/super-mario/?partner=1401</url>
+        <slug>super-mario</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/013/185/0001318521_50.jpg</image>
         <popularity>0.59</popularity>
         <streamingReleaseDate>2011-07-13T00:00:00+01:00</streamingReleaseDate>
@@ -130,9 +130,9 @@
         <artist id="209">
           <name>Various Artists</name>
           <appearsAs>Various Artists</appearsAs>
-          <url>http://www.7digital.com/artist/various-artists/?partner=1401</url>
+          <slug>various-artists</slug>
         </artist>
-        <url>http://www.7digital.com/artist/various-artists/release/toolroom-records-ibiza-2012-vol-1/?partner=1401</url>
+        <slug>toolroom-records-ibiza-2012-vol-1</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/017/134/0001713490_50.jpg</image>
         <popularity>0.57</popularity>
         <streamingReleaseDate>2012-06-03T00:00:00+01:00</streamingReleaseDate>
@@ -149,9 +149,9 @@
         <artist id="466">
           <name>Daft Punk</name>
           <appearsAs>Daft Punk</appearsAs>
-          <url>http://www.7digital.com/artist/daft-punk/?partner=1401</url>
+          <slug>daft-punk</slug>
         </artist>
-        <url>http://www.7digital.com/artist/daft-punk/release/discovery-1/?partner=1401</url>
+        <slug>discovery-1</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/000/454/0000045472_50.jpg</image>
         <popularity>0.57</popularity>
         <streamingReleaseDate>2005-01-24T00:00:00+00:00</streamingReleaseDate>
@@ -168,9 +168,9 @@
         <artist id="209">
           <name>Various Artists</name>
           <appearsAs>Various Artists</appearsAs>
-          <url>http://www.7digital.com/artist/various-artists/?partner=1401</url>
+          <slug>various-artists</slug>
         </artist>
-        <url>http://www.7digital.com/artist/various-artists/release/cream-club-anthems-2012/?partner=1401</url>
+        <slug>cream-club-anthems-2012</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/015/998/0001599885_50.jpg</image>
         <popularity>0.56</popularity>
         <streamingReleaseDate>3001-01-01T00:00:00+00:00</streamingReleaseDate>
@@ -187,9 +187,9 @@
         <artist id="726273">
           <name>Feed Me</name>
           <appearsAs>Feed Me</appearsAs>
-          <url>http://www.7digital.com/artist/feed-me/?partner=1401</url>
+          <slug>feed-me</slug>
         </artist>
-        <url>http://www.7digital.com/artist/feed-me/release/feed-mes-escape-from-electric-mountain/?partner=1401</url>
+        <slug>feed-mes-escape-from-electric-mountain</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/016/034/0001603476_50.jpg</image>
         <popularity>0.55</popularity>
         <streamingReleaseDate>2012-02-06T00:00:00+00:00</streamingReleaseDate>

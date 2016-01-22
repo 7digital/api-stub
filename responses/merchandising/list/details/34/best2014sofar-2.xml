@@ -15,9 +15,9 @@
           <artist id="253545">
             <name>Taylor Swift</name>
             <appearsAs>Taylor Swift</appearsAs>
-            <url>http://www.7digital.com/artist/taylor-swift/?partner=0</url>
+            <slug>taylor-swift</slug>
           </artist>
-          <url>http://www.7digital.com/artist/taylor-swift/release/1989/?partner=0</url>
+          <slug>1989</slug>
           <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/039/184/0003918446_50.jpg</image>
           <download>
             <packages>
@@ -57,9 +57,9 @@
           <artist id="253545">
             <name>Taylor Swift</name>
             <appearsAs>Taylor Swift</appearsAs>
-            <url>http://www.7digital.com/artist/taylor-swift/?partner=0</url>
+            <slug>taylor-swift</slug>
           </artist>
-          <url>http://www.7digital.com/artist/taylor-swift/release/1989-deluxe/?partner=0</url>
+          <slug>1989-deluxe</slug>
           <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/039/184/0003918447_50.jpg</image>
           <download>
             <packages>
@@ -99,9 +99,9 @@
           <artist id="2057842">
             <name>Run The Jewels</name>
             <appearsAs>Run The Jewels</appearsAs>
-            <url>http://www.7digital.com/artist/run-the-jewels/?partner=0</url>
+            <slug>run-the-jewels</slug>
           </artist>
-          <url>http://www.7digital.com/artist/run-the-jewels/release/run-the-jewels-2/?partner=0</url>
+          <slug>run-the-jewels-2</slug>
           <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/039/080/0003908022_50.jpg</image>
           <download>
             <packages>
@@ -141,9 +141,9 @@
           <artist id="49773">
             <name>The Twilight Sad</name>
             <appearsAs>The Twilight Sad</appearsAs>
-            <url>http://www.7digital.com/artist/the-twilight-sad/?partner=0</url>
+            <slug>the-twilight-sad</slug>
           </artist>
-          <url>http://www.7digital.com/artist/the-twilight-sad/release/nobody-wants-to-be-here-and-nobody-wants-to-leave/?partner=0</url>
+          <slug>nobody-wants-to-be-here-and-nobody-wants-to-leave</slug>
           <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/039/133/0003913385_50.jpg</image>
           <download>
             <packages>
@@ -186,9 +186,9 @@
           <artist id="3299">
             <name>Annie Lennox</name>
             <appearsAs>Annie Lennox</appearsAs>
-            <url>http://www.7digital.com/artist/annie-lennox/?partner=0</url>
+            <slug>annie-lennox</slug>
           </artist>
-          <url>http://www.7digital.com/artist/annie-lennox/release/nostalgia-2/?partner=0</url>
+          <slug>nostalgia-2</slug>
           <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/038/860/0003886086_50.jpg</image>
           <download>
             <packages>
@@ -228,9 +228,9 @@
           <artist id="3299">
             <name>Annie Lennox</name>
             <appearsAs>Annie Lennox</appearsAs>
-            <url>http://www.7digital.com/artist/annie-lennox/?partner=0</url>
+            <slug>annie-lennox</slug>
           </artist>
-          <url>http://www.7digital.com/artist/annie-lennox/release/nostalgia-deluxe/?partner=0</url>
+          <slug>nostalgia-deluxe</slug>
           <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/038/857/0003885704_50.jpg</image>
           <download>
             <packages>
@@ -270,9 +270,9 @@
           <artist id="153504">
             <name>The Ting Tings</name>
             <appearsAs>The Ting Tings</appearsAs>
-            <url>http://www.7digital.com/artist/the-ting-tings/?partner=0</url>
+            <slug>the-ting-tings</slug>
           </artist>
-          <url>http://www.7digital.com/artist/the-ting-tings/release/super-critical/?partner=0</url>
+          <slug>super-critical</slug>
           <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/036/580/0003658054_50.jpg</image>
           <download>
             <packages>
@@ -315,9 +315,9 @@
           <artist id="964836">
             <name>Dillon Francis</name>
             <appearsAs>Dillon Francis</appearsAs>
-            <url>http://www.7digital.com/artist/dillon-francis/?partner=0</url>
+            <slug>dillon-francis</slug>
           </artist>
-          <url>http://www.7digital.com/artist/dillon-francis/release/money-sucks-friends-rule/?partner=0</url>
+          <slug>money-sucks-friends-rule</slug>
           <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/039/034/0003903415_50.jpg</image>
           <download>
             <packages>
@@ -360,9 +360,9 @@
           <artist id="1544393">
             <name>Lily &amp; Madeleine</name>
             <appearsAs>Lily &amp; Madeleine</appearsAs>
-            <url>http://www.7digital.com/artist/lily-and-madeleine/?partner=0</url>
+            <slug>lily-and-madeleine</slug>
           </artist>
-          <url>http://www.7digital.com/artist/lily-and-madeleine/release/fumes/?partner=0</url>
+          <slug>fumes</slug>
           <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/038/711/0003871125_50.jpg</image>
           <download>
             <packages>
@@ -405,9 +405,9 @@
           <artist id="449359">
             <name>Kiasmos</name>
             <appearsAs>Kiasmos</appearsAs>
-            <url>http://www.7digital.com/artist/kiasmos/?partner=0</url>
+            <slug>kiasmos</slug>
           </artist>
-          <url>http://www.7digital.com/artist/kiasmos/release/kiasmos/?partner=0</url>
+          <slug>kiasmos</slug>
           <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/038/784/0003878464_50.jpg</image>
           <download>
             <packages>
@@ -450,9 +450,9 @@
           <artist id="677154">
             <name>Black Veil Brides</name>
             <appearsAs>Black Veil Brides</appearsAs>
-            <url>http://www.7digital.com/artist/black-veil-brides/?partner=0</url>
+            <slug>black-veil-brides</slug>
           </artist>
-          <url>http://www.7digital.com/artist/black-veil-brides/release/black-veil-brides/?partner=0</url>
+          <slug>black-veil-brides</slug>
           <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/038/857/0003885766_50.jpg</image>
           <download>
             <packages>
@@ -492,9 +492,9 @@
           <artist id="357626">
             <name>Yusuf / Cat Stevens</name>
             <appearsAs>Yusuf / Cat Stevens</appearsAs>
-            <url>http://www.7digital.com/artist/yusuf-cat-stevens/?partner=0</url>
+            <slug>yusuf-cat-stevens</slug>
           </artist>
-          <url>http://www.7digital.com/artist/yusuf-cat-stevens/release/tell-em-im-gone/?partner=0</url>
+          <slug>tell-em-im-gone</slug>
           <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/037/901/0003790138_50.jpg</image>
           <download>
             <packages>
@@ -537,9 +537,9 @@
           <artist id="1415382">
             <name>Bored Nothing</name>
             <appearsAs>Bored Nothing</appearsAs>
-            <url>http://www.7digital.com/artist/bored-nothing/?partner=0</url>
+            <slug>bored-nothing</slug>
           </artist>
-          <url>http://www.7digital.com/artist/bored-nothing/release/some-songs/?partner=0</url>
+          <slug>some-songs</slug>
           <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/038/588/0003858861_50.jpg</image>
           <download>
             <packages>
@@ -579,9 +579,9 @@
           <artist id="55">
             <name>Stereo MC's</name>
             <appearsAs>Stereo MC's</appearsAs>
-            <url>http://www.7digital.com/artist/stereo-mcs-(2)/?partner=0</url>
+            <slug>stereo-mcs-(2)</slug>
           </artist>
-          <url>http://www.7digital.com/artist/stereo-mcs-(2)/release/collected/?partner=0</url>
+          <slug>collected</slug>
           <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/038/868/0003886864_50.jpg</image>
           <download>
             <packages>
@@ -621,9 +621,9 @@
           <artist id="1968">
             <name>Dionne Warwick</name>
             <appearsAs>Dionne Warwick</appearsAs>
-            <url>http://www.7digital.com/artist/dionne-warwick/?partner=0</url>
+            <slug>dionne-warwick</slug>
           </artist>
-          <url>http://www.7digital.com/artist/dionne-warwick/release/feels-so-good-1/?partner=0</url>
+          <slug>feels-so-good-1</slug>
           <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/038/883/0003888356_50.jpg</image>
           <download>
             <packages>
@@ -663,9 +663,9 @@
           <artist id="585040">
             <name>Flight Facilities</name>
             <appearsAs>Flight Facilities</appearsAs>
-            <url>http://www.7digital.com/artist/flight-facilities/?partner=0</url>
+            <slug>flight-facilities</slug>
           </artist>
-          <url>http://www.7digital.com/artist/flight-facilities/release/down-to-earth-1/?partner=0</url>
+          <slug>down-to-earth-1</slug>
           <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/038/859/0003885953_50.jpg</image>
           <download>
             <packages>
@@ -705,9 +705,9 @@
           <artist id="2091641">
             <name>Glass Caves</name>
             <appearsAs>Glass Caves</appearsAs>
-            <url>http://www.7digital.com/artist/glass-caves/?partner=0</url>
+            <slug>glass-caves</slug>
           </artist>
-          <url>http://www.7digital.com/artist/glass-caves/release/alive/?partner=0</url>
+          <slug>alive</slug>
           <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/038/323/0003832394_50.jpg</image>
           <download>
             <packages>

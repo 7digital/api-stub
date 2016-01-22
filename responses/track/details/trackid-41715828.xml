@@ -6,7 +6,7 @@
     <artist id="437">
       <name>The Dandy Warhols</name>
       <appearsAs>The Dandy Warhols</appearsAs>
-      <url>http://www.7digital.com/artist/the-dandy-warhols/?partner=3923</url>
+      <slug>the-dandy-warhols</slug>
     </artist>
     <trackNumber>5</trackNumber>
     <duration>252</duration>
@@ -21,12 +21,12 @@
       <artist id="437">
         <name>The Dandy Warhols</name>
         <appearsAs>The Dandy Warhols</appearsAs>
-        <url>http://www.7digital.com/artist/the-dandy-warhols/?partner=3923</url>
+        <slug>the-dandy-warhols</slug>
       </artist>
-      <url>http://www.7digital.com/artist/the-dandy-warhols/release/the-dandy-warhols-come-down/?partner=3923</url>
+      <slug>the-dandy-warhols-come-down</slug>
       <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/000/013/0000001302_50.jpg</image>
     </release>
-    <url>http://www.7digital.com/artist/the-dandy-warhols/release/the-dandy-warhols-come-down/?partner=3923&amp;h=05</url>
+    <slug>the-dandy-warhols-come-down</slug>
     <price>
       <currency code="GBP">£</currency>
       <value>0.99</value>

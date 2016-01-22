@@ -10,7 +10,7 @@
       <artist id="2200">
         <name>Elvis Presley</name>
         <appearsAs>Elvis Presley</appearsAs>
-        <url>http://www.7digital.com/artist/elvis-presley-(2)/?partner=712</url>
+        <slug>elvis-presley-(2)</slug>
       </artist>
       <trackNumber>1</trackNumber>
       <duration>200</duration>
@@ -25,12 +25,12 @@
         <artist id="2200">
           <name>Elvis Presley</name>
           <appearsAs>Elvis Presley</appearsAs>
-          <url>http://www.7digital.com/artist/elvis-presley-(2)/?partner=712</url>
+          <slug>elvis-presley-(2)</slug>
         </artist>
-        <url>http://www.7digital.com/artist/elvis-presley-(2)/release/elvis-8/?partner=712</url>
+        <slug>elvis-8</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/016/275/0001627544_50.jpg</image>
       </release>
-      <url>http://www.7digital.com/artist/elvis-presley-(2)/release/elvis-8/?partner=712&amp;h=01</url>
+      <slug>elvis-8</slug>
       <price>
         <currency code="GBP">£</currency>
         <value>0.99</value>
@@ -67,7 +67,7 @@
       <artist id="2200">
         <name>Elvis Presley</name>
         <appearsAs>Elvis Presley</appearsAs>
-        <url>http://www.7digital.com/artist/elvis-presley-(2)/?partner=712</url>
+        <slug>elvis-presley-(2)</slug>
       </artist>
       <trackNumber>2</trackNumber>
       <duration>113</duration>
@@ -82,12 +82,12 @@
         <artist id="2200">
           <name>Elvis Presley</name>
           <appearsAs>Elvis Presley</appearsAs>
-          <url>http://www.7digital.com/artist/elvis-presley-(2)/?partner=712</url>
+          <slug>elvis-presley-(2)</slug>
         </artist>
-        <url>http://www.7digital.com/artist/elvis-presley-(2)/release/elvis-8/?partner=712</url>
+        <slug>elvis-8</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/016/275/0001627544_50.jpg</image>
       </release>
-      <url>http://www.7digital.com/artist/elvis-presley-(2)/release/elvis-8/?partner=712&amp;h=02</url>
+      <slug>elvis-8</slug>
       <price>
         <currency code="GBP">£</currency>
         <value>0.99</value>
@@ -124,7 +124,7 @@
       <artist id="2200">
         <name>Elvis Presley</name>
         <appearsAs>Elvis Presley</appearsAs>
-        <url>http://www.7digital.com/artist/elvis-presley-(2)/?partner=712</url>
+        <slug>elvis-presley-(2)</slug>
       </artist>
       <trackNumber>3</trackNumber>
       <duration>126</duration>
@@ -139,12 +139,12 @@
         <artist id="2200">
           <name>Elvis Presley</name>
           <appearsAs>Elvis Presley</appearsAs>
-          <url>http://www.7digital.com/artist/elvis-presley-(2)/?partner=712</url>
+          <slug>elvis-presley-(2)</slug>
         </artist>
-        <url>http://www.7digital.com/artist/elvis-presley-(2)/release/elvis-8/?partner=712</url>
+        <slug>elvis-8</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/016/275/0001627544_50.jpg</image>
       </release>
-      <url>http://www.7digital.com/artist/elvis-presley-(2)/release/elvis-8/?partner=712&amp;h=03</url>
+      <slug>elvis-8</slug>
       <price>
         <currency code="GBP">£</currency>
         <value>0.99</value>
@@ -181,7 +181,7 @@
       <artist id="2200">
         <name>Elvis Presley</name>
         <appearsAs>Elvis Presley</appearsAs>
-        <url>http://www.7digital.com/artist/elvis-presley-(2)/?partner=712</url>
+        <slug>elvis-presley-(2)</slug>
       </artist>
       <trackNumber>4</trackNumber>
       <duration>136</duration>
@@ -196,12 +196,12 @@
         <artist id="2200">
           <name>Elvis Presley</name>
           <appearsAs>Elvis Presley</appearsAs>
-          <url>http://www.7digital.com/artist/elvis-presley-(2)/?partner=712</url>
+          <slug>elvis-presley-(2)</slug>
         </artist>
-        <url>http://www.7digital.com/artist/elvis-presley-(2)/release/elvis-8/?partner=712</url>
+        <slug>elvis-8</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/016/275/0001627544_50.jpg</image>
       </release>
-      <url>http://www.7digital.com/artist/elvis-presley-(2)/release/elvis-8/?partner=712&amp;h=04</url>
+      <slug>elvis-8</slug>
       <price>
         <currency code="GBP">£</currency>
         <value>0.99</value>
@@ -238,7 +238,7 @@
       <artist id="2200">
         <name>Elvis Presley</name>
         <appearsAs>Elvis Presley</appearsAs>
-        <url>http://www.7digital.com/artist/elvis-presley-(2)/?partner=712</url>
+        <slug>elvis-presley-(2)</slug>
       </artist>
       <trackNumber>5</trackNumber>
       <duration>131</duration>
@@ -253,12 +253,12 @@
         <artist id="2200">
           <name>Elvis Presley</name>
           <appearsAs>Elvis Presley</appearsAs>
-          <url>http://www.7digital.com/artist/elvis-presley-(2)/?partner=712</url>
+          <slug>elvis-presley-(2)</slug>
         </artist>
-        <url>http://www.7digital.com/artist/elvis-presley-(2)/release/elvis-8/?partner=712</url>
+        <slug>elvis-8</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/016/275/0001627544_50.jpg</image>
       </release>
-      <url>http://www.7digital.com/artist/elvis-presley-(2)/release/elvis-8/?partner=712&amp;h=05</url>
+      <slug>elvis-8</slug>
       <price>
         <currency code="GBP">£</currency>
         <value>0.99</value>
@@ -295,7 +295,7 @@
       <artist id="2200">
         <name>Elvis Presley</name>
         <appearsAs>Elvis Presley</appearsAs>
-        <url>http://www.7digital.com/artist/elvis-presley-(2)/?partner=712</url>
+        <slug>elvis-presley-(2)</slug>
       </artist>
       <trackNumber>6</trackNumber>
       <duration>136</duration>
@@ -310,12 +310,12 @@
         <artist id="2200">
           <name>Elvis Presley</name>
           <appearsAs>Elvis Presley</appearsAs>
-          <url>http://www.7digital.com/artist/elvis-presley-(2)/?partner=712</url>
+          <slug>elvis-presley-(2)</slug>
         </artist>
-        <url>http://www.7digital.com/artist/elvis-presley-(2)/release/elvis-8/?partner=712</url>
+        <slug>elvis-8</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/016/275/0001627544_50.jpg</image>
       </release>
-      <url>http://www.7digital.com/artist/elvis-presley-(2)/release/elvis-8/?partner=712&amp;h=06</url>
+      <slug>elvis-8</slug>
       <price>
         <currency code="GBP">£</currency>
         <value>0.99</value>
@@ -352,7 +352,7 @@
       <artist id="2200">
         <name>Elvis Presley</name>
         <appearsAs>Elvis Presley</appearsAs>
-        <url>http://www.7digital.com/artist/elvis-presley-(2)/?partner=712</url>
+        <slug>elvis-presley-(2)</slug>
       </artist>
       <trackNumber>7</trackNumber>
       <duration>161</duration>
@@ -367,12 +367,12 @@
         <artist id="2200">
           <name>Elvis Presley</name>
           <appearsAs>Elvis Presley</appearsAs>
-          <url>http://www.7digital.com/artist/elvis-presley-(2)/?partner=712</url>
+          <slug>elvis-presley-(2)</slug>
         </artist>
-        <url>http://www.7digital.com/artist/elvis-presley-(2)/release/elvis-8/?partner=712</url>
+        <slug>elvis-8</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/016/275/0001627544_50.jpg</image>
       </release>
-      <url>http://www.7digital.com/artist/elvis-presley-(2)/release/elvis-8/?partner=712&amp;h=07</url>
+      <slug>elvis-8</slug>
       <price>
         <currency code="GBP">£</currency>
         <value>0.99</value>
@@ -409,7 +409,7 @@
       <artist id="2200">
         <name>Elvis Presley</name>
         <appearsAs>Elvis Presley</appearsAs>
-        <url>http://www.7digital.com/artist/elvis-presley-(2)/?partner=712</url>
+        <slug>elvis-presley-(2)</slug>
       </artist>
       <trackNumber>8</trackNumber>
       <duration>134</duration>
@@ -424,12 +424,12 @@
         <artist id="2200">
           <name>Elvis Presley</name>
           <appearsAs>Elvis Presley</appearsAs>
-          <url>http://www.7digital.com/artist/elvis-presley-(2)/?partner=712</url>
+          <slug>elvis-presley-(2)</slug>
         </artist>
-        <url>http://www.7digital.com/artist/elvis-presley-(2)/release/elvis-8/?partner=712</url>
+        <slug>elvis-8</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/016/275/0001627544_50.jpg</image>
       </release>
-      <url>http://www.7digital.com/artist/elvis-presley-(2)/release/elvis-8/?partner=712&amp;h=08</url>
+      <slug>elvis-8</slug>
       <price>
         <currency code="GBP">£</currency>
         <value>0.99</value>
@@ -466,7 +466,7 @@
       <artist id="2200">
         <name>Elvis Presley</name>
         <appearsAs>Elvis Presley</appearsAs>
-        <url>http://www.7digital.com/artist/elvis-presley-(2)/?partner=712</url>
+        <slug>elvis-presley-(2)</slug>
       </artist>
       <trackNumber>9</trackNumber>
       <duration>154</duration>
@@ -481,12 +481,12 @@
         <artist id="2200">
           <name>Elvis Presley</name>
           <appearsAs>Elvis Presley</appearsAs>
-          <url>http://www.7digital.com/artist/elvis-presley-(2)/?partner=712</url>
+          <slug>elvis-presley-(2)</slug>
         </artist>
-        <url>http://www.7digital.com/artist/elvis-presley-(2)/release/elvis-8/?partner=712</url>
+        <slug>elvis-8</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/016/275/0001627544_50.jpg</image>
       </release>
-      <url>http://www.7digital.com/artist/elvis-presley-(2)/release/elvis-8/?partner=712&amp;h=09</url>
+      <slug>elvis-8</slug>
       <price>
         <currency code="GBP">£</currency>
         <value>0.99</value>
@@ -523,7 +523,7 @@
       <artist id="2200">
         <name>Elvis Presley</name>
         <appearsAs>Elvis Presley</appearsAs>
-        <url>http://www.7digital.com/artist/elvis-presley-(2)/?partner=712</url>
+        <slug>elvis-presley-(2)</slug>
       </artist>
       <trackNumber>10</trackNumber>
       <duration>179</duration>
@@ -538,12 +538,12 @@
         <artist id="2200">
           <name>Elvis Presley</name>
           <appearsAs>Elvis Presley</appearsAs>
-          <url>http://www.7digital.com/artist/elvis-presley-(2)/?partner=712</url>
+          <slug>elvis-presley-(2)</slug>
         </artist>
-        <url>http://www.7digital.com/artist/elvis-presley-(2)/release/elvis-8/?partner=712</url>
+        <slug>elvis-8</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/016/275/0001627544_50.jpg</image>
       </release>
-      <url>http://www.7digital.com/artist/elvis-presley-(2)/release/elvis-8/?partner=712&amp;h=10</url>
+      <slug>elvis-8</slug>
       <price>
         <currency code="GBP">£</currency>
         <value>0.99</value>
@@ -580,7 +580,7 @@
       <artist id="2200">
         <name>Elvis Presley</name>
         <appearsAs>Elvis Presley</appearsAs>
-        <url>http://www.7digital.com/artist/elvis-presley-(2)/?partner=712</url>
+        <slug>elvis-presley-(2)</slug>
       </artist>
       <trackNumber>11</trackNumber>
       <duration>115</duration>
@@ -595,12 +595,12 @@
         <artist id="2200">
           <name>Elvis Presley</name>
           <appearsAs>Elvis Presley</appearsAs>
-          <url>http://www.7digital.com/artist/elvis-presley-(2)/?partner=712</url>
+          <slug>elvis-presley-(2)</slug>
         </artist>
-        <url>http://www.7digital.com/artist/elvis-presley-(2)/release/elvis-8/?partner=712</url>
+        <slug>elvis-8</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/016/275/0001627544_50.jpg</image>
       </release>
-      <url>http://www.7digital.com/artist/elvis-presley-(2)/release/elvis-8/?partner=712&amp;h=11</url>
+      <slug>elvis-8</slug>
       <price>
         <currency code="GBP">£</currency>
         <value>0.99</value>
@@ -637,7 +637,7 @@
       <artist id="2200">
         <name>Elvis Presley</name>
         <appearsAs>Elvis Presley</appearsAs>
-        <url>http://www.7digital.com/artist/elvis-presley-(2)/?partner=712</url>
+        <slug>elvis-presley-(2)</slug>
       </artist>
       <trackNumber>12</trackNumber>
       <duration>235</duration>
@@ -652,12 +652,12 @@
         <artist id="2200">
           <name>Elvis Presley</name>
           <appearsAs>Elvis Presley</appearsAs>
-          <url>http://www.7digital.com/artist/elvis-presley-(2)/?partner=712</url>
+          <slug>elvis-presley-(2)</slug>
         </artist>
-        <url>http://www.7digital.com/artist/elvis-presley-(2)/release/elvis-8/?partner=712</url>
+        <slug>elvis-8</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/016/275/0001627544_50.jpg</image>
       </release>
-      <url>http://www.7digital.com/artist/elvis-presley-(2)/release/elvis-8/?partner=712&amp;h=12</url>
+      <slug>elvis-8</slug>
       <price>
         <currency code="GBP">£</currency>
         <value>0.99</value>
@@ -694,7 +694,7 @@
       <artist id="2200">
         <name>Elvis Presley</name>
         <appearsAs>Elvis Presley</appearsAs>
-        <url>http://www.7digital.com/artist/elvis-presley-(2)/?partner=712</url>
+        <slug>elvis-presley-(2)</slug>
       </artist>
       <trackNumber>13</trackNumber>
       <duration>160</duration>
@@ -709,12 +709,12 @@
         <artist id="2200">
           <name>Elvis Presley</name>
           <appearsAs>Elvis Presley</appearsAs>
-          <url>http://www.7digital.com/artist/elvis-presley-(2)/?partner=712</url>
+          <slug>elvis-presley-(2)</slug>
         </artist>
-        <url>http://www.7digital.com/artist/elvis-presley-(2)/release/elvis-8/?partner=712</url>
+        <slug>elvis-8</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/016/275/0001627544_50.jpg</image>
       </release>
-      <url>http://www.7digital.com/artist/elvis-presley-(2)/release/elvis-8/?partner=712&amp;h=13</url>
+      <slug>elvis-8</slug>
       <price>
         <currency code="GBP">£</currency>
         <value>0.99</value>
@@ -751,7 +751,7 @@
       <artist id="2200">
         <name>Elvis Presley</name>
         <appearsAs>Elvis Presley</appearsAs>
-        <url>http://www.7digital.com/artist/elvis-presley-(2)/?partner=712</url>
+        <slug>elvis-presley-(2)</slug>
       </artist>
       <trackNumber>14</trackNumber>
       <duration>199</duration>
@@ -766,12 +766,12 @@
         <artist id="2200">
           <name>Elvis Presley</name>
           <appearsAs>Elvis Presley</appearsAs>
-          <url>http://www.7digital.com/artist/elvis-presley-(2)/?partner=712</url>
+          <slug>elvis-presley-(2)</slug>
         </artist>
-        <url>http://www.7digital.com/artist/elvis-presley-(2)/release/elvis-8/?partner=712</url>
+        <slug>elvis-8</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/016/275/0001627544_50.jpg</image>
       </release>
-      <url>http://www.7digital.com/artist/elvis-presley-(2)/release/elvis-8/?partner=712&amp;h=14</url>
+      <slug>elvis-8</slug>
       <price>
         <currency code="GBP">£</currency>
         <value>0.99</value>
@@ -808,7 +808,7 @@
       <artist id="2200">
         <name>Elvis Presley</name>
         <appearsAs>Elvis Presley</appearsAs>
-        <url>http://www.7digital.com/artist/elvis-presley-(2)/?partner=712</url>
+        <slug>elvis-presley-(2)</slug>
       </artist>
       <trackNumber>15</trackNumber>
       <duration>134</duration>
@@ -823,12 +823,12 @@
         <artist id="2200">
           <name>Elvis Presley</name>
           <appearsAs>Elvis Presley</appearsAs>
-          <url>http://www.7digital.com/artist/elvis-presley-(2)/?partner=712</url>
+          <slug>elvis-presley-(2)</slug>
         </artist>
-        <url>http://www.7digital.com/artist/elvis-presley-(2)/release/elvis-8/?partner=712</url>
+        <slug>elvis-8</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/016/275/0001627544_50.jpg</image>
       </release>
-      <url>http://www.7digital.com/artist/elvis-presley-(2)/release/elvis-8/?partner=712&amp;h=15</url>
+      <slug>elvis-8</slug>
       <price>
         <currency code="GBP">£</currency>
         <value>0.99</value>
@@ -865,7 +865,7 @@
       <artist id="2200">
         <name>Elvis Presley</name>
         <appearsAs>Elvis Presley</appearsAs>
-        <url>http://www.7digital.com/artist/elvis-presley-(2)/?partner=712</url>
+        <slug>elvis-presley-(2)</slug>
       </artist>
       <trackNumber>16</trackNumber>
       <duration>138</duration>
@@ -880,12 +880,12 @@
         <artist id="2200">
           <name>Elvis Presley</name>
           <appearsAs>Elvis Presley</appearsAs>
-          <url>http://www.7digital.com/artist/elvis-presley-(2)/?partner=712</url>
+          <slug>elvis-presley-(2)</slug>
         </artist>
-        <url>http://www.7digital.com/artist/elvis-presley-(2)/release/elvis-8/?partner=712</url>
+        <slug>elvis-8</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/016/275/0001627544_50.jpg</image>
       </release>
-      <url>http://www.7digital.com/artist/elvis-presley-(2)/release/elvis-8/?partner=712&amp;h=16</url>
+      <slug>elvis-8</slug>
       <price>
         <currency code="GBP">£</currency>
         <value>0.99</value>
@@ -922,7 +922,7 @@
       <artist id="2200">
         <name>Elvis Presley</name>
         <appearsAs>Elvis Presley</appearsAs>
-        <url>http://www.7digital.com/artist/elvis-presley-(2)/?partner=712</url>
+        <slug>elvis-presley-(2)</slug>
       </artist>
       <trackNumber>17</trackNumber>
       <duration>122</duration>
@@ -937,12 +937,12 @@
         <artist id="2200">
           <name>Elvis Presley</name>
           <appearsAs>Elvis Presley</appearsAs>
-          <url>http://www.7digital.com/artist/elvis-presley-(2)/?partner=712</url>
+          <slug>elvis-presley-(2)</slug>
         </artist>
-        <url>http://www.7digital.com/artist/elvis-presley-(2)/release/elvis-8/?partner=712</url>
+        <slug>elvis-8</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/016/275/0001627544_50.jpg</image>
       </release>
-      <url>http://www.7digital.com/artist/elvis-presley-(2)/release/elvis-8/?partner=712&amp;h=17</url>
+      <slug>elvis-8</slug>
       <price>
         <currency code="GBP">£</currency>
         <value>0.99</value>
@@ -979,7 +979,7 @@
       <artist id="2200">
         <name>Elvis Presley</name>
         <appearsAs>Elvis Presley</appearsAs>
-        <url>http://www.7digital.com/artist/elvis-presley-(2)/?partner=712</url>
+        <slug>elvis-presley-(2)</slug>
       </artist>
       <trackNumber>18</trackNumber>
       <duration>157</duration>
@@ -994,12 +994,12 @@
         <artist id="2200">
           <name>Elvis Presley</name>
           <appearsAs>Elvis Presley</appearsAs>
-          <url>http://www.7digital.com/artist/elvis-presley-(2)/?partner=712</url>
+          <slug>elvis-presley-(2)</slug>
         </artist>
-        <url>http://www.7digital.com/artist/elvis-presley-(2)/release/elvis-8/?partner=712</url>
+        <slug>elvis-8</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/016/275/0001627544_50.jpg</image>
       </release>
-      <url>http://www.7digital.com/artist/elvis-presley-(2)/release/elvis-8/?partner=712&amp;h=18</url>
+      <slug>elvis-8</slug>
       <price>
         <currency code="GBP">£</currency>
         <value>0.99</value>
@@ -1036,7 +1036,7 @@
       <artist id="2200">
         <name>Elvis Presley</name>
         <appearsAs>Elvis Presley</appearsAs>
-        <url>http://www.7digital.com/artist/elvis-presley-(2)/?partner=712</url>
+        <slug>elvis-presley-(2)</slug>
       </artist>
       <trackNumber>19</trackNumber>
       <duration>143</duration>
@@ -1051,12 +1051,12 @@
         <artist id="2200">
           <name>Elvis Presley</name>
           <appearsAs>Elvis Presley</appearsAs>
-          <url>http://www.7digital.com/artist/elvis-presley-(2)/?partner=712</url>
+          <slug>elvis-presley-(2)</slug>
         </artist>
-        <url>http://www.7digital.com/artist/elvis-presley-(2)/release/elvis-8/?partner=712</url>
+        <slug>elvis-8</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/016/275/0001627544_50.jpg</image>
       </release>
-      <url>http://www.7digital.com/artist/elvis-presley-(2)/release/elvis-8/?partner=712&amp;h=19</url>
+      <slug>elvis-8</slug>
       <price>
         <currency code="GBP">£</currency>
         <value>0.99</value>
@@ -1093,7 +1093,7 @@
       <artist id="2200">
         <name>Elvis Presley</name>
         <appearsAs>Elvis Presley</appearsAs>
-        <url>http://www.7digital.com/artist/elvis-presley-(2)/?partner=712</url>
+        <slug>elvis-presley-(2)</slug>
       </artist>
       <trackNumber>20</trackNumber>
       <duration>91</duration>
@@ -1108,12 +1108,12 @@
         <artist id="2200">
           <name>Elvis Presley</name>
           <appearsAs>Elvis Presley</appearsAs>
-          <url>http://www.7digital.com/artist/elvis-presley-(2)/?partner=712</url>
+          <slug>elvis-presley-(2)</slug>
         </artist>
-        <url>http://www.7digital.com/artist/elvis-presley-(2)/release/elvis-8/?partner=712</url>
+        <slug>elvis-8</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/016/275/0001627544_50.jpg</image>
       </release>
-      <url>http://www.7digital.com/artist/elvis-presley-(2)/release/elvis-8/?partner=712&amp;h=20</url>
+      <slug>elvis-8</slug>
       <price>
         <currency code="GBP">£</currency>
         <value>0.99</value>
@@ -1150,7 +1150,7 @@
       <artist id="2200">
         <name>Elvis Presley</name>
         <appearsAs>Elvis Presley</appearsAs>
-        <url>http://www.7digital.com/artist/elvis-presley-(2)/?partner=712</url>
+        <slug>elvis-presley-(2)</slug>
       </artist>
       <trackNumber>21</trackNumber>
       <duration>156</duration>
@@ -1165,12 +1165,12 @@
         <artist id="2200">
           <name>Elvis Presley</name>
           <appearsAs>Elvis Presley</appearsAs>
-          <url>http://www.7digital.com/artist/elvis-presley-(2)/?partner=712</url>
+          <slug>elvis-presley-(2)</slug>
         </artist>
-        <url>http://www.7digital.com/artist/elvis-presley-(2)/release/elvis-8/?partner=712</url>
+        <slug>elvis-8</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/016/275/0001627544_50.jpg</image>
       </release>
-      <url>http://www.7digital.com/artist/elvis-presley-(2)/release/elvis-8/?partner=712&amp;h=21</url>
+      <slug>elvis-8</slug>
       <price>
         <currency code="GBP">£</currency>
         <value>0.99</value>
@@ -1207,7 +1207,7 @@
       <artist id="2200">
         <name>Elvis Presley</name>
         <appearsAs>Elvis Presley</appearsAs>
-        <url>http://www.7digital.com/artist/elvis-presley-(2)/?partner=712</url>
+        <slug>elvis-presley-(2)</slug>
       </artist>
       <trackNumber>22</trackNumber>
       <duration>127</duration>
@@ -1222,12 +1222,12 @@
         <artist id="2200">
           <name>Elvis Presley</name>
           <appearsAs>Elvis Presley</appearsAs>
-          <url>http://www.7digital.com/artist/elvis-presley-(2)/?partner=712</url>
+          <slug>elvis-presley-(2)</slug>
         </artist>
-        <url>http://www.7digital.com/artist/elvis-presley-(2)/release/elvis-8/?partner=712</url>
+        <slug>elvis-8</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/016/275/0001627544_50.jpg</image>
       </release>
-      <url>http://www.7digital.com/artist/elvis-presley-(2)/release/elvis-8/?partner=712&amp;h=22</url>
+      <slug>elvis-8</slug>
       <price>
         <currency code="GBP">£</currency>
         <value>0.99</value>
@@ -1264,7 +1264,7 @@
       <artist id="2200">
         <name>Elvis Presley</name>
         <appearsAs>Elvis Presley</appearsAs>
-        <url>http://www.7digital.com/artist/elvis-presley-(2)/?partner=712</url>
+        <slug>elvis-presley-(2)</slug>
       </artist>
       <trackNumber>23</trackNumber>
       <duration>191</duration>
@@ -1279,12 +1279,12 @@
         <artist id="2200">
           <name>Elvis Presley</name>
           <appearsAs>Elvis Presley</appearsAs>
-          <url>http://www.7digital.com/artist/elvis-presley-(2)/?partner=712</url>
+          <slug>elvis-presley-(2)</slug>
         </artist>
-        <url>http://www.7digital.com/artist/elvis-presley-(2)/release/elvis-8/?partner=712</url>
+        <slug>elvis-8</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/016/275/0001627544_50.jpg</image>
       </release>
-      <url>http://www.7digital.com/artist/elvis-presley-(2)/release/elvis-8/?partner=712&amp;h=23</url>
+      <slug>elvis-8</slug>
       <price>
         <currency code="GBP">£</currency>
         <value>0.99</value>
@@ -1321,7 +1321,7 @@
       <artist id="2200">
         <name>Elvis Presley</name>
         <appearsAs>Elvis Presley</appearsAs>
-        <url>http://www.7digital.com/artist/elvis-presley-(2)/?partner=712</url>
+        <slug>elvis-presley-(2)</slug>
       </artist>
       <trackNumber>24</trackNumber>
       <duration>81</duration>
@@ -1336,12 +1336,12 @@
         <artist id="2200">
           <name>Elvis Presley</name>
           <appearsAs>Elvis Presley</appearsAs>
-          <url>http://www.7digital.com/artist/elvis-presley-(2)/?partner=712</url>
+          <slug>elvis-presley-(2)</slug>
         </artist>
-        <url>http://www.7digital.com/artist/elvis-presley-(2)/release/elvis-8/?partner=712</url>
+        <slug>elvis-8</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/016/275/0001627544_50.jpg</image>
       </release>
-      <url>http://www.7digital.com/artist/elvis-presley-(2)/release/elvis-8/?partner=712&amp;h=24</url>
+      <slug>elvis-8</slug>
       <price>
         <currency code="GBP">£</currency>
         <value>0.99</value>
@@ -1378,7 +1378,7 @@
       <artist id="2200">
         <name>Elvis Presley</name>
         <appearsAs>Elvis Presley</appearsAs>
-        <url>http://www.7digital.com/artist/elvis-presley-(2)/?partner=712</url>
+        <slug>elvis-presley-(2)</slug>
       </artist>
       <trackNumber>25</trackNumber>
       <duration>139</duration>
@@ -1393,12 +1393,12 @@
         <artist id="2200">
           <name>Elvis Presley</name>
           <appearsAs>Elvis Presley</appearsAs>
-          <url>http://www.7digital.com/artist/elvis-presley-(2)/?partner=712</url>
+          <slug>elvis-presley-(2)</slug>
         </artist>
-        <url>http://www.7digital.com/artist/elvis-presley-(2)/release/elvis-8/?partner=712</url>
+        <slug>elvis-8</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/016/275/0001627544_50.jpg</image>
       </release>
-      <url>http://www.7digital.com/artist/elvis-presley-(2)/release/elvis-8/?partner=712&amp;h=25</url>
+      <slug>elvis-8</slug>
       <price>
         <currency code="GBP">£</currency>
         <value>0.99</value>
@@ -1435,7 +1435,7 @@
       <artist id="2200">
         <name>Elvis Presley</name>
         <appearsAs>Elvis Presley</appearsAs>
-        <url>http://www.7digital.com/artist/elvis-presley-(2)/?partner=712</url>
+        <slug>elvis-presley-(2)</slug>
       </artist>
       <trackNumber>26</trackNumber>
       <duration>156</duration>
@@ -1450,12 +1450,12 @@
         <artist id="2200">
           <name>Elvis Presley</name>
           <appearsAs>Elvis Presley</appearsAs>
-          <url>http://www.7digital.com/artist/elvis-presley-(2)/?partner=712</url>
+          <slug>elvis-presley-(2)</slug>
         </artist>
-        <url>http://www.7digital.com/artist/elvis-presley-(2)/release/elvis-8/?partner=712</url>
+        <slug>elvis-8</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/016/275/0001627544_50.jpg</image>
       </release>
-      <url>http://www.7digital.com/artist/elvis-presley-(2)/release/elvis-8/?partner=712&amp;h=26</url>
+      <slug>elvis-8</slug>
       <price>
         <currency code="GBP">£</currency>
         <value>0.99</value>
@@ -1492,7 +1492,7 @@
       <artist id="2200">
         <name>Elvis Presley</name>
         <appearsAs>Elvis Presley</appearsAs>
-        <url>http://www.7digital.com/artist/elvis-presley-(2)/?partner=712</url>
+        <slug>elvis-presley-(2)</slug>
       </artist>
       <trackNumber>27</trackNumber>
       <duration>163</duration>
@@ -1507,12 +1507,12 @@
         <artist id="2200">
           <name>Elvis Presley</name>
           <appearsAs>Elvis Presley</appearsAs>
-          <url>http://www.7digital.com/artist/elvis-presley-(2)/?partner=712</url>
+          <slug>elvis-presley-(2)</slug>
         </artist>
-        <url>http://www.7digital.com/artist/elvis-presley-(2)/release/elvis-8/?partner=712</url>
+        <slug>elvis-8</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/016/275/0001627544_50.jpg</image>
       </release>
-      <url>http://www.7digital.com/artist/elvis-presley-(2)/release/elvis-8/?partner=712&amp;h=27</url>
+      <slug>elvis-8</slug>
       <price>
         <currency code="GBP">£</currency>
         <value>0.99</value>
@@ -1549,7 +1549,7 @@
       <artist id="2200">
         <name>Elvis Presley</name>
         <appearsAs>Elvis Presley</appearsAs>
-        <url>http://www.7digital.com/artist/elvis-presley-(2)/?partner=712</url>
+        <slug>elvis-presley-(2)</slug>
       </artist>
       <trackNumber>28</trackNumber>
       <duration>154</duration>
@@ -1564,12 +1564,12 @@
         <artist id="2200">
           <name>Elvis Presley</name>
           <appearsAs>Elvis Presley</appearsAs>
-          <url>http://www.7digital.com/artist/elvis-presley-(2)/?partner=712</url>
+          <slug>elvis-presley-(2)</slug>
         </artist>
-        <url>http://www.7digital.com/artist/elvis-presley-(2)/release/elvis-8/?partner=712</url>
+        <slug>elvis-8</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/016/275/0001627544_50.jpg</image>
       </release>
-      <url>http://www.7digital.com/artist/elvis-presley-(2)/release/elvis-8/?partner=712&amp;h=28</url>
+      <slug>elvis-8</slug>
       <price>
         <currency code="GBP">£</currency>
         <value>0.99</value>
@@ -1606,7 +1606,7 @@
       <artist id="2200">
         <name>Elvis Presley</name>
         <appearsAs>Elvis Presley</appearsAs>
-        <url>http://www.7digital.com/artist/elvis-presley-(2)/?partner=712</url>
+        <slug>elvis-presley-(2)</slug>
       </artist>
       <trackNumber>29</trackNumber>
       <duration>126</duration>
@@ -1621,12 +1621,12 @@
         <artist id="2200">
           <name>Elvis Presley</name>
           <appearsAs>Elvis Presley</appearsAs>
-          <url>http://www.7digital.com/artist/elvis-presley-(2)/?partner=712</url>
+          <slug>elvis-presley-(2)</slug>
         </artist>
-        <url>http://www.7digital.com/artist/elvis-presley-(2)/release/elvis-8/?partner=712</url>
+        <slug>elvis-8</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/016/275/0001627544_50.jpg</image>
       </release>
-      <url>http://www.7digital.com/artist/elvis-presley-(2)/release/elvis-8/?partner=712&amp;h=29</url>
+      <slug>elvis-8</slug>
       <price>
         <currency code="GBP">£</currency>
         <value>0.99</value>
@@ -1663,7 +1663,7 @@
       <artist id="2200">
         <name>Elvis Presley</name>
         <appearsAs>Elvis Presley</appearsAs>
-        <url>http://www.7digital.com/artist/elvis-presley-(2)/?partner=712</url>
+        <slug>elvis-presley-(2)</slug>
       </artist>
       <trackNumber>30</trackNumber>
       <duration>138</duration>
@@ -1678,12 +1678,12 @@
         <artist id="2200">
           <name>Elvis Presley</name>
           <appearsAs>Elvis Presley</appearsAs>
-          <url>http://www.7digital.com/artist/elvis-presley-(2)/?partner=712</url>
+          <slug>elvis-presley-(2)</slug>
         </artist>
-        <url>http://www.7digital.com/artist/elvis-presley-(2)/release/elvis-8/?partner=712</url>
+        <slug>elvis-8</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/016/275/0001627544_50.jpg</image>
       </release>
-      <url>http://www.7digital.com/artist/elvis-presley-(2)/release/elvis-8/?partner=712&amp;h=30</url>
+      <slug>elvis-8</slug>
       <price>
         <currency code="GBP">£</currency>
         <value>0.99</value>
@@ -1720,7 +1720,7 @@
       <artist id="2200">
         <name>Elvis Presley</name>
         <appearsAs>Elvis Presley</appearsAs>
-        <url>http://www.7digital.com/artist/elvis-presley-(2)/?partner=712</url>
+        <slug>elvis-presley-(2)</slug>
       </artist>
       <trackNumber>31</trackNumber>
       <duration>144</duration>
@@ -1735,12 +1735,12 @@
         <artist id="2200">
           <name>Elvis Presley</name>
           <appearsAs>Elvis Presley</appearsAs>
-          <url>http://www.7digital.com/artist/elvis-presley-(2)/?partner=712</url>
+          <slug>elvis-presley-(2)</slug>
         </artist>
-        <url>http://www.7digital.com/artist/elvis-presley-(2)/release/elvis-8/?partner=712</url>
+        <slug>elvis-8</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/016/275/0001627544_50.jpg</image>
       </release>
-      <url>http://www.7digital.com/artist/elvis-presley-(2)/release/elvis-8/?partner=712&amp;h=31</url>
+      <slug>elvis-8</slug>
       <price>
         <currency code="GBP">£</currency>
         <value>0.99</value>
@@ -1777,7 +1777,7 @@
       <artist id="2200">
         <name>Elvis Presley</name>
         <appearsAs>Elvis Presley</appearsAs>
-        <url>http://www.7digital.com/artist/elvis-presley-(2)/?partner=712</url>
+        <slug>elvis-presley-(2)</slug>
       </artist>
       <trackNumber>32</trackNumber>
       <duration>111</duration>
@@ -1792,12 +1792,12 @@
         <artist id="2200">
           <name>Elvis Presley</name>
           <appearsAs>Elvis Presley</appearsAs>
-          <url>http://www.7digital.com/artist/elvis-presley-(2)/?partner=712</url>
+          <slug>elvis-presley-(2)</slug>
         </artist>
-        <url>http://www.7digital.com/artist/elvis-presley-(2)/release/elvis-8/?partner=712</url>
+        <slug>elvis-8</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/016/275/0001627544_50.jpg</image>
       </release>
-      <url>http://www.7digital.com/artist/elvis-presley-(2)/release/elvis-8/?partner=712&amp;h=32</url>
+      <slug>elvis-8</slug>
       <price>
         <currency code="GBP">£</currency>
         <value>0.99</value>
@@ -1834,7 +1834,7 @@
       <artist id="2200">
         <name>Elvis Presley</name>
         <appearsAs>Elvis Presley</appearsAs>
-        <url>http://www.7digital.com/artist/elvis-presley-(2)/?partner=712</url>
+        <slug>elvis-presley-(2)</slug>
       </artist>
       <trackNumber>33</trackNumber>
       <duration>118</duration>
@@ -1849,12 +1849,12 @@
         <artist id="2200">
           <name>Elvis Presley</name>
           <appearsAs>Elvis Presley</appearsAs>
-          <url>http://www.7digital.com/artist/elvis-presley-(2)/?partner=712</url>
+          <slug>elvis-presley-(2)</slug>
         </artist>
-        <url>http://www.7digital.com/artist/elvis-presley-(2)/release/elvis-8/?partner=712</url>
+        <slug>elvis-8</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/016/275/0001627544_50.jpg</image>
       </release>
-      <url>http://www.7digital.com/artist/elvis-presley-(2)/release/elvis-8/?partner=712&amp;h=33</url>
+      <slug>elvis-8</slug>
       <price>
         <currency code="GBP">£</currency>
         <value>0.99</value>
@@ -1891,7 +1891,7 @@
       <artist id="2200">
         <name>Elvis Presley</name>
         <appearsAs>Elvis Presley</appearsAs>
-        <url>http://www.7digital.com/artist/elvis-presley-(2)/?partner=712</url>
+        <slug>elvis-presley-(2)</slug>
       </artist>
       <trackNumber>34</trackNumber>
       <duration>130</duration>
@@ -1906,12 +1906,12 @@
         <artist id="2200">
           <name>Elvis Presley</name>
           <appearsAs>Elvis Presley</appearsAs>
-          <url>http://www.7digital.com/artist/elvis-presley-(2)/?partner=712</url>
+          <slug>elvis-presley-(2)</slug>
         </artist>
-        <url>http://www.7digital.com/artist/elvis-presley-(2)/release/elvis-8/?partner=712</url>
+        <slug>elvis-8</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/016/275/0001627544_50.jpg</image>
       </release>
-      <url>http://www.7digital.com/artist/elvis-presley-(2)/release/elvis-8/?partner=712&amp;h=34</url>
+      <slug>elvis-8</slug>
       <price>
         <currency code="GBP">£</currency>
         <value>0.99</value>
@@ -1948,7 +1948,7 @@
       <artist id="2200">
         <name>Elvis Presley</name>
         <appearsAs>Elvis Presley</appearsAs>
-        <url>http://www.7digital.com/artist/elvis-presley-(2)/?partner=712</url>
+        <slug>elvis-presley-(2)</slug>
       </artist>
       <trackNumber>35</trackNumber>
       <duration>136</duration>
@@ -1963,12 +1963,12 @@
         <artist id="2200">
           <name>Elvis Presley</name>
           <appearsAs>Elvis Presley</appearsAs>
-          <url>http://www.7digital.com/artist/elvis-presley-(2)/?partner=712</url>
+          <slug>elvis-presley-(2)</slug>
         </artist>
-        <url>http://www.7digital.com/artist/elvis-presley-(2)/release/elvis-8/?partner=712</url>
+        <slug>elvis-8</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/016/275/0001627544_50.jpg</image>
       </release>
-      <url>http://www.7digital.com/artist/elvis-presley-(2)/release/elvis-8/?partner=712&amp;h=35</url>
+      <slug>elvis-8</slug>
       <price>
         <currency code="GBP">£</currency>
         <value>0.99</value>
@@ -2005,7 +2005,7 @@
       <artist id="2200">
         <name>Elvis Presley</name>
         <appearsAs>Elvis Presley</appearsAs>
-        <url>http://www.7digital.com/artist/elvis-presley-(2)/?partner=712</url>
+        <slug>elvis-presley-(2)</slug>
       </artist>
       <trackNumber>36</trackNumber>
       <duration>96</duration>
@@ -2020,12 +2020,12 @@
         <artist id="2200">
           <name>Elvis Presley</name>
           <appearsAs>Elvis Presley</appearsAs>
-          <url>http://www.7digital.com/artist/elvis-presley-(2)/?partner=712</url>
+          <slug>elvis-presley-(2)</slug>
         </artist>
-        <url>http://www.7digital.com/artist/elvis-presley-(2)/release/elvis-8/?partner=712</url>
+        <slug>elvis-8</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/016/275/0001627544_50.jpg</image>
       </release>
-      <url>http://www.7digital.com/artist/elvis-presley-(2)/release/elvis-8/?partner=712&amp;h=36</url>
+      <slug>elvis-8</slug>
       <price>
         <currency code="GBP">£</currency>
         <value>0.99</value>
@@ -2062,7 +2062,7 @@
       <artist id="2200">
         <name>Elvis Presley</name>
         <appearsAs>Elvis Presley</appearsAs>
-        <url>http://www.7digital.com/artist/elvis-presley-(2)/?partner=712</url>
+        <slug>elvis-presley-(2)</slug>
       </artist>
       <trackNumber>37</trackNumber>
       <duration>155</duration>
@@ -2077,12 +2077,12 @@
         <artist id="2200">
           <name>Elvis Presley</name>
           <appearsAs>Elvis Presley</appearsAs>
-          <url>http://www.7digital.com/artist/elvis-presley-(2)/?partner=712</url>
+          <slug>elvis-presley-(2)</slug>
         </artist>
-        <url>http://www.7digital.com/artist/elvis-presley-(2)/release/elvis-8/?partner=712</url>
+        <slug>elvis-8</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/016/275/0001627544_50.jpg</image>
       </release>
-      <url>http://www.7digital.com/artist/elvis-presley-(2)/release/elvis-8/?partner=712&amp;h=37</url>
+      <slug>elvis-8</slug>
       <price>
         <currency code="GBP">£</currency>
         <value>0.99</value>
@@ -2119,7 +2119,7 @@
       <artist id="2200">
         <name>Elvis Presley</name>
         <appearsAs>Elvis Presley</appearsAs>
-        <url>http://www.7digital.com/artist/elvis-presley-(2)/?partner=712</url>
+        <slug>elvis-presley-(2)</slug>
       </artist>
       <trackNumber>38</trackNumber>
       <duration>178</duration>
@@ -2134,12 +2134,12 @@
         <artist id="2200">
           <name>Elvis Presley</name>
           <appearsAs>Elvis Presley</appearsAs>
-          <url>http://www.7digital.com/artist/elvis-presley-(2)/?partner=712</url>
+          <slug>elvis-presley-(2)</slug>
         </artist>
-        <url>http://www.7digital.com/artist/elvis-presley-(2)/release/elvis-8/?partner=712</url>
+        <slug>elvis-8</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/016/275/0001627544_50.jpg</image>
       </release>
-      <url>http://www.7digital.com/artist/elvis-presley-(2)/release/elvis-8/?partner=712&amp;h=38</url>
+      <slug>elvis-8</slug>
       <price>
         <currency code="GBP">£</currency>
         <value>0.99</value>
@@ -2176,7 +2176,7 @@
       <artist id="2200">
         <name>Elvis Presley</name>
         <appearsAs>Elvis Presley</appearsAs>
-        <url>http://www.7digital.com/artist/elvis-presley-(2)/?partner=712</url>
+        <slug>elvis-presley-(2)</slug>
       </artist>
       <trackNumber>39</trackNumber>
       <duration>121</duration>
@@ -2191,12 +2191,12 @@
         <artist id="2200">
           <name>Elvis Presley</name>
           <appearsAs>Elvis Presley</appearsAs>
-          <url>http://www.7digital.com/artist/elvis-presley-(2)/?partner=712</url>
+          <slug>elvis-presley-(2)</slug>
         </artist>
-        <url>http://www.7digital.com/artist/elvis-presley-(2)/release/elvis-8/?partner=712</url>
+        <slug>elvis-8</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/016/275/0001627544_50.jpg</image>
       </release>
-      <url>http://www.7digital.com/artist/elvis-presley-(2)/release/elvis-8/?partner=712&amp;h=39</url>
+      <slug>elvis-8</slug>
       <price>
         <currency code="GBP">£</currency>
         <value>0.99</value>
@@ -2233,7 +2233,7 @@
       <artist id="2200">
         <name>Elvis Presley</name>
         <appearsAs>Elvis Presley</appearsAs>
-        <url>http://www.7digital.com/artist/elvis-presley-(2)/?partner=712</url>
+        <slug>elvis-presley-(2)</slug>
       </artist>
       <trackNumber>40</trackNumber>
       <duration>131</duration>
@@ -2248,12 +2248,12 @@
         <artist id="2200">
           <name>Elvis Presley</name>
           <appearsAs>Elvis Presley</appearsAs>
-          <url>http://www.7digital.com/artist/elvis-presley-(2)/?partner=712</url>
+          <slug>elvis-presley-(2)</slug>
         </artist>
-        <url>http://www.7digital.com/artist/elvis-presley-(2)/release/elvis-8/?partner=712</url>
+        <slug>elvis-8</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/016/275/0001627544_50.jpg</image>
       </release>
-      <url>http://www.7digital.com/artist/elvis-presley-(2)/release/elvis-8/?partner=712&amp;h=40</url>
+      <slug>elvis-8</slug>
       <price>
         <currency code="GBP">£</currency>
         <value>0.99</value>

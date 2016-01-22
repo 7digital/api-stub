@@ -10,7 +10,7 @@
       <artist id="8576">
         <name>Opeth</name>
         <appearsAs>Opeth</appearsAs>
-        <url>http://www.7digital.com/artist/opeth/?partner=712</url>
+        <slug>opeth</slug>
       </artist>
       <trackNumber>1</trackNumber>
       <duration>623</duration>
@@ -25,12 +25,12 @@
         <artist id="8576">
           <name>Opeth</name>
           <appearsAs>Opeth</appearsAs>
-          <url>http://www.7digital.com/artist/opeth/?partner=712</url>
+          <slug>opeth</slug>
         </artist>
-        <url>http://www.7digital.com/artist/opeth/release/blackwater-park/?partner=712</url>
+        <slug>blackwater-park</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/002/788/0000278852_50.jpg</image>
       </release>
-      <url>http://www.7digital.com/artist/opeth/release/blackwater-park/?partner=712&amp;h=01</url>
+      <slug>blackwater-park</slug>
       <price>
         <currency code="GBP">£</currency>
         <value xsi:nil="true"/>
@@ -83,7 +83,7 @@
       <artist id="8576">
         <name>Opeth</name>
         <appearsAs>Opeth</appearsAs>
-        <url>http://www.7digital.com/artist/opeth/?partner=712</url>
+        <slug>opeth</slug>
       </artist>
       <trackNumber>2</trackNumber>
       <duration>555</duration>
@@ -98,12 +98,12 @@
         <artist id="8576">
           <name>Opeth</name>
           <appearsAs>Opeth</appearsAs>
-          <url>http://www.7digital.com/artist/opeth/?partner=712</url>
+          <slug>opeth</slug>
         </artist>
-        <url>http://www.7digital.com/artist/opeth/release/blackwater-park/?partner=712</url>
+        <slug>blackwater-park</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/002/788/0000278852_50.jpg</image>
       </release>
-      <url>http://www.7digital.com/artist/opeth/release/blackwater-park/?partner=712&amp;h=02</url>
+      <slug>blackwater-park</slug>
       <price>
         <currency code="GBP">£</currency>
         <value>0.99</value>
@@ -156,7 +156,7 @@
       <artist id="8576">
         <name>Opeth</name>
         <appearsAs>Opeth</appearsAs>
-        <url>http://www.7digital.com/artist/opeth/?partner=712</url>
+        <slug>opeth</slug>
       </artist>
       <trackNumber>3</trackNumber>
       <duration>361</duration>
@@ -171,12 +171,12 @@
         <artist id="8576">
           <name>Opeth</name>
           <appearsAs>Opeth</appearsAs>
-          <url>http://www.7digital.com/artist/opeth/?partner=712</url>
+          <slug>opeth</slug>
         </artist>
-        <url>http://www.7digital.com/artist/opeth/release/blackwater-park/?partner=712</url>
+        <slug>blackwater-park</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/002/788/0000278852_50.jpg</image>
       </release>
-      <url>http://www.7digital.com/artist/opeth/release/blackwater-park/?partner=712&amp;h=03</url>
+      <slug>blackwater-park</slug>
       <price>
         <currency code="GBP">£</currency>
         <value>0.99</value>
@@ -229,7 +229,7 @@
       <artist id="8576">
         <name>Opeth</name>
         <appearsAs>Opeth</appearsAs>
-        <url>http://www.7digital.com/artist/opeth/?partner=712</url>
+        <slug>opeth</slug>
       </artist>
       <trackNumber>4</trackNumber>
       <duration>654</duration>
@@ -244,12 +244,12 @@
         <artist id="8576">
           <name>Opeth</name>
           <appearsAs>Opeth</appearsAs>
-          <url>http://www.7digital.com/artist/opeth/?partner=712</url>
+          <slug>opeth</slug>
         </artist>
-        <url>http://www.7digital.com/artist/opeth/release/blackwater-park/?partner=712</url>
+        <slug>blackwater-park</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/002/788/0000278852_50.jpg</image>
       </release>
-      <url>http://www.7digital.com/artist/opeth/release/blackwater-park/?partner=712&amp;h=04</url>
+      <slug>blackwater-park</slug>
       <price>
         <currency code="GBP">£</currency>
         <value xsi:nil="true"/>
@@ -302,7 +302,7 @@
       <artist id="8576">
         <name>Opeth</name>
         <appearsAs>Opeth</appearsAs>
-        <url>http://www.7digital.com/artist/opeth/?partner=712</url>
+        <slug>opeth</slug>
       </artist>
       <trackNumber>5</trackNumber>
       <duration>473</duration>
@@ -317,12 +317,12 @@
         <artist id="8576">
           <name>Opeth</name>
           <appearsAs>Opeth</appearsAs>
-          <url>http://www.7digital.com/artist/opeth/?partner=712</url>
+          <slug>opeth</slug>
         </artist>
-        <url>http://www.7digital.com/artist/opeth/release/blackwater-park/?partner=712</url>
+        <slug>blackwater-park</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/002/788/0000278852_50.jpg</image>
       </release>
-      <url>http://www.7digital.com/artist/opeth/release/blackwater-park/?partner=712&amp;h=05</url>
+      <slug>blackwater-park</slug>
       <price>
         <currency code="GBP">£</currency>
         <value>0.99</value>
@@ -375,7 +375,7 @@
       <artist id="8576">
         <name>Opeth</name>
         <appearsAs>Opeth</appearsAs>
-        <url>http://www.7digital.com/artist/opeth/?partner=712</url>
+        <slug>opeth</slug>
       </artist>
       <trackNumber>6</trackNumber>
       <duration>524</duration>
@@ -390,12 +390,12 @@
         <artist id="8576">
           <name>Opeth</name>
           <appearsAs>Opeth</appearsAs>
-          <url>http://www.7digital.com/artist/opeth/?partner=712</url>
+          <slug>opeth</slug>
         </artist>
-        <url>http://www.7digital.com/artist/opeth/release/blackwater-park/?partner=712</url>
+        <slug>blackwater-park</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/002/788/0000278852_50.jpg</image>
       </release>
-      <url>http://www.7digital.com/artist/opeth/release/blackwater-park/?partner=712&amp;h=06</url>
+      <slug>blackwater-park</slug>
       <price>
         <currency code="GBP">£</currency>
         <value>0.99</value>
@@ -448,7 +448,7 @@
       <artist id="8576">
         <name>Opeth</name>
         <appearsAs>Opeth</appearsAs>
-        <url>http://www.7digital.com/artist/opeth/?partner=712</url>
+        <slug>opeth</slug>
       </artist>
       <trackNumber>7</trackNumber>
       <duration>112</duration>
@@ -463,12 +463,12 @@
         <artist id="8576">
           <name>Opeth</name>
           <appearsAs>Opeth</appearsAs>
-          <url>http://www.7digital.com/artist/opeth/?partner=712</url>
+          <slug>opeth</slug>
         </artist>
-        <url>http://www.7digital.com/artist/opeth/release/blackwater-park/?partner=712</url>
+        <slug>blackwater-park</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/002/788/0000278852_50.jpg</image>
       </release>
-      <url>http://www.7digital.com/artist/opeth/release/blackwater-park/?partner=712&amp;h=07</url>
+      <slug>blackwater-park</slug>
       <price>
         <currency code="GBP">£</currency>
         <value>0.99</value>
@@ -521,7 +521,7 @@
       <artist id="8576">
         <name>Opeth</name>
         <appearsAs>Opeth</appearsAs>
-        <url>http://www.7digital.com/artist/opeth/?partner=712</url>
+        <slug>opeth</slug>
       </artist>
       <trackNumber>8</trackNumber>
       <duration>727</duration>
@@ -536,12 +536,12 @@
         <artist id="8576">
           <name>Opeth</name>
           <appearsAs>Opeth</appearsAs>
-          <url>http://www.7digital.com/artist/opeth/?partner=712</url>
+          <slug>opeth</slug>
         </artist>
-        <url>http://www.7digital.com/artist/opeth/release/blackwater-park/?partner=712</url>
+        <slug>blackwater-park</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/002/788/0000278852_50.jpg</image>
       </release>
-      <url>http://www.7digital.com/artist/opeth/release/blackwater-park/?partner=712&amp;h=08</url>
+      <slug>blackwater-park</slug>
       <price>
         <currency code="GBP">£</currency>
         <value xsi:nil="true"/>

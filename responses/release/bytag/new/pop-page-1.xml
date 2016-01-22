@@ -16,9 +16,9 @@
         <artist id="142111">
           <name>Adele</name>
           <appearsAs>Adele</appearsAs>
-          <url>http://www.7digital.com/artist/adele/?partner=1401</url>
+          <slug>adele</slug>
         </artist>
-        <url>http://www.7digital.com/artist/adele/release/21/?partner=1401</url>
+        <slug>21</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/010/768/0001076864_50.jpg</image>
         <popularity>1</popularity>
         <streamingReleaseDate>2011-01-24T00:00:00+00:00</streamingReleaseDate>
@@ -35,9 +35,9 @@
         <artist id="369884">
           <name>Carly Rae Jepsen</name>
           <appearsAs>Carly Rae Jepsen</appearsAs>
-          <url>http://www.7digital.com/artist/carly-rae-jepsen/?partner=1401</url>
+          <slug>carly-rae-jepsen</slug>
         </artist>
-        <url>http://www.7digital.com/artist/carly-rae-jepsen/release/call-me-maybe-2/?partner=1401</url>
+        <slug>call-me-maybe-2</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/016/609/0001660992_50.jpg</image>
         <popularity>0.94</popularity>
         <streamingReleaseDate>2012-04-01T00:00:00+01:00</streamingReleaseDate>
@@ -54,9 +54,9 @@
         <artist id="10653">
           <name>Rihanna</name>
           <appearsAs>Rihanna</appearsAs>
-          <url>http://www.7digital.com/artist/rihanna/?partner=1401</url>
+          <slug>rihanna</slug>
         </artist>
-        <url>http://www.7digital.com/artist/rihanna/release/talk-that-talk-4/?partner=1401</url>
+        <slug>talk-that-talk-4</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/014/783/0001478300_50.jpg</image>
         <popularity>0.91</popularity>
         <streamingReleaseDate>2011-11-21T00:00:00+00:00</streamingReleaseDate>
@@ -73,9 +73,9 @@
         <artist id="209">
           <name>Various Artists</name>
           <appearsAs>Various Artists</appearsAs>
-          <url>http://www.7digital.com/artist/various-artists/?partner=1401</url>
+          <slug>various-artists</slug>
         </artist>
-        <url>http://www.7digital.com/artist/various-artists/release/now-thats-what-i-call-music-82/?partner=1401</url>
+        <slug>now-thats-what-i-call-music-82</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/018/157/0001815792_50.jpg</image>
         <popularity>0.83</popularity>
         <streamingReleaseDate>3001-01-01T00:00:00+00:00</streamingReleaseDate>
@@ -92,9 +92,9 @@
         <artist id="222">
           <name>Maroon 5</name>
           <appearsAs>Maroon 5</appearsAs>
-          <url>http://www.7digital.com/artist/maroon-5/?partner=1401</url>
+          <slug>maroon-5</slug>
         </artist>
-        <url>http://www.7digital.com/artist/maroon-5/release/overexposed-4/?partner=1401</url>
+        <slug>overexposed-4</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/017/697/0001769794_50.jpg</image>
         <popularity>0.82</popularity>
         <streamingReleaseDate>2012-06-25T00:00:00+01:00</streamingReleaseDate>
@@ -111,9 +111,9 @@
         <artist id="209">
           <name>Various Artists</name>
           <appearsAs>Various Artists</appearsAs>
-          <url>http://www.7digital.com/artist/various-artists/?partner=1401</url>
+          <slug>various-artists</slug>
         </artist>
-        <url>http://www.7digital.com/artist/various-artists/release/now-thats-what-i-call-running/?partner=1401</url>
+        <slug>now-thats-what-i-call-running</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/016/113/0001611327_50.jpg</image>
         <popularity>0.81</popularity>
         <streamingReleaseDate>3001-01-01T00:00:00+00:00</streamingReleaseDate>
@@ -130,9 +130,9 @@
         <artist id="209">
           <name>Various Artists</name>
           <appearsAs>Various Artists</appearsAs>
-          <url>http://www.7digital.com/artist/various-artists/?partner=1401</url>
+          <slug>various-artists</slug>
         </artist>
-        <url>http://www.7digital.com/artist/various-artists/release/2012-grammy-nominees/?partner=1401</url>
+        <slug>2012-grammy-nominees</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/015/494/0001549483_50.jpg</image>
         <popularity>0.8</popularity>
         <streamingReleaseDate>3001-01-01T00:00:00+00:00</streamingReleaseDate>
@@ -149,9 +149,9 @@
         <artist id="10653">
           <name>Rihanna</name>
           <appearsAs>Rihanna</appearsAs>
-          <url>http://www.7digital.com/artist/rihanna/?partner=1401</url>
+          <slug>rihanna</slug>
         </artist>
-        <url>http://www.7digital.com/artist/rihanna/release/loud-2/?partner=1401</url>
+        <slug>loud-2</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/013/671/0001367191_50.jpg</image>
         <popularity>0.79</popularity>
         <streamingReleaseDate>2011-08-19T00:00:00+01:00</streamingReleaseDate>
@@ -168,9 +168,9 @@
         <artist id="20">
           <name>Coldplay</name>
           <appearsAs>Coldplay</appearsAs>
-          <url>http://www.7digital.com/artist/coldplay/?partner=1401</url>
+          <slug>coldplay</slug>
         </artist>
-        <url>http://www.7digital.com/artist/coldplay/release/mylo-xyloto/?partner=1401</url>
+        <slug>mylo-xyloto</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/014/354/0001435450_50.jpg</image>
         <popularity>0.78</popularity>
         <streamingReleaseDate>3001-01-01T00:00:00+00:00</streamingReleaseDate>
@@ -187,9 +187,9 @@
         <artist id="21453">
           <name>Beyoncé</name>
           <appearsAs>Beyoncé</appearsAs>
-          <url>http://www.7digital.com/artist/beyoncé/?partner=1401</url>
+          <slug>beyoncé</slug>
         </artist>
-        <url>http://www.7digital.com/artist/beyoncé/release/4-1/?partner=1401</url>
+        <slug>4-1</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/012/922/0001292241_50.jpg</image>
         <popularity>0.76</popularity>
         <streamingReleaseDate>2011-06-27T00:00:00+01:00</streamingReleaseDate>

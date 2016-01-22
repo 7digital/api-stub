@@ -10,9 +10,9 @@
     <artist id="8293">
       <name>Foo Fighters</name>
       <appearsAs>Foo Fighters</appearsAs>
-      <url>http://www.7digital.com/artists/foo-fighters/?partner=712</url>
+      <slug>foo-fighters</slug>
     </artist>
-    <url>http://www.7digital.com/artists/foo-fighters/wasting-light/?partner=712</url>
+    <slug>foo-fighters</slug>
     <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/011/929/0001192901_50.jpg</image>
     <download>
       <packages>

@@ -14,9 +14,9 @@
           <artist id="45369">
             <name>Propellerheads</name>
             <appearsAs>Propellerheads</appearsAs>
-            <url>http://www.7digital.com/artist/propellerheads/</url>
+            <slug>propellerheads</slug>
           </artist>
-          <url>http://www.7digital.com/artist/propellerheads/release/decksandrumsandrockandroll/</url>
+          <slug>decksandrumsandrockandroll</slug>
           <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/004/381/0000438137_50.jpg</image>
           <releaseDate>2030-04-26T00:00:00Z</releaseDate>
           <licensor id="1"/>
@@ -29,12 +29,12 @@
               <artist id="45369">
                 <name>Propellerheads</name>
                 <appearsAs>Propellerheads</appearsAs>
-                <url>http://www.7digital.com/artist/propellerheads/</url>
+                <slug>propellerheads</slug>
               </artist>
               <trackNumber>1</trackNumber>
               <duration>442</duration>
               <isrc>USDW19703101</isrc>
-              <url>http://www.7digital.com/artist/propellerheads/release/decksandrumsandrockandroll/?h=01&amp;d=1</url>
+              <slug>decksandrumsandrockandroll</slug>
               <discNumber>1</discNumber>
               <number>1</number>
             </track>
@@ -60,12 +60,12 @@
               <artist id="45369">
                 <name>Propellerheads</name>
                 <appearsAs>Propellerheads</appearsAs>
-                <url>http://www.7digital.com/artist/propellerheads/</url>
+                <slug>propellerheads</slug>
               </artist>
               <trackNumber>2</trackNumber>
               <duration>347</duration>
               <isrc>USDW19703109</isrc>
-              <url>http://www.7digital.com/artist/propellerheads/release/decksandrumsandrockandroll/?h=02&amp;d=1</url>
+              <slug>decksandrumsandrockandroll</slug>
               <discNumber>1</discNumber>
               <number>2</number>
             </track>
@@ -91,12 +91,12 @@
               <artist id="45369">
                 <name>Propellerheads</name>
                 <appearsAs>Propellerheads</appearsAs>
-                <url>http://www.7digital.com/artist/propellerheads/</url>
+                <slug>propellerheads</slug>
               </artist>
               <trackNumber>3</trackNumber>
               <duration>123</duration>
               <isrc>USDW19703113</isrc>
-              <url>http://www.7digital.com/artist/propellerheads/release/decksandrumsandrockandroll/?h=03&amp;d=1</url>
+              <slug>decksandrumsandrockandroll</slug>
               <discNumber>1</discNumber>
               <number>3</number>
             </track>
@@ -122,12 +122,12 @@
               <artist id="327699">
                 <name>Propellerheads / De La Soul</name>
                 <appearsAs>Propellerheads / De La Soul</appearsAs>
-                <url>http://www.7digital.com/artist/propellerheads-de-la-soul/</url>
+                <slug>propellerheads-de-la-soul</slug>
               </artist>
               <trackNumber>4</trackNumber>
               <duration>268</duration>
               <isrc>USDW19703117</isrc>
-              <url>http://www.7digital.com/artist/propellerheads/release/decksandrumsandrockandroll/?h=04&amp;d=1</url>
+              <slug>decksandrumsandrockandroll</slug>
               <discNumber>1</discNumber>
               <number>4</number>
             </track>
@@ -153,12 +153,12 @@
               <artist id="327700">
                 <name>Propellerheads / Shirley Bassey</name>
                 <appearsAs>Propellerheads / Shirley Bassey</appearsAs>
-                <url>http://www.7digital.com/artist/propellerheads-shirley-bassey/</url>
+                <slug>propellerheads-shirley-bassey</slug>
               </artist>
               <trackNumber>5</trackNumber>
               <duration>243</duration>
               <isrc>USDW19703110</isrc>
-              <url>http://www.7digital.com/artist/propellerheads/release/decksandrumsandrockandroll/?h=05&amp;d=1</url>
+              <slug>decksandrumsandrockandroll</slug>
               <discNumber>1</discNumber>
               <number>5</number>
             </track>
@@ -184,12 +184,12 @@
               <artist id="45369">
                 <name>Propellerheads</name>
                 <appearsAs>Propellerheads</appearsAs>
-                <url>http://www.7digital.com/artist/propellerheads/</url>
+                <slug>propellerheads</slug>
               </artist>
               <trackNumber>6</trackNumber>
               <duration>358</duration>
               <isrc>USDW19703111</isrc>
-              <url>http://www.7digital.com/artist/propellerheads/release/decksandrumsandrockandroll/?h=06&amp;d=1</url>
+              <slug>decksandrumsandrockandroll</slug>
               <discNumber>1</discNumber>
               <number>6</number>
             </track>
@@ -215,12 +215,12 @@
               <artist id="45369">
                 <name>Propellerheads</name>
                 <appearsAs>Propellerheads</appearsAs>
-                <url>http://www.7digital.com/artist/propellerheads/</url>
+                <slug>propellerheads</slug>
               </artist>
               <trackNumber>7</trackNumber>
               <duration>345</duration>
               <isrc>USDW19703106</isrc>
-              <url>http://www.7digital.com/artist/propellerheads/release/decksandrumsandrockandroll/?h=07&amp;d=1</url>
+              <slug>decksandrumsandrockandroll</slug>
               <discNumber>1</discNumber>
               <number>7</number>
             </track>
@@ -246,12 +246,12 @@
               <artist id="45369">
                 <name>Propellerheads</name>
                 <appearsAs>Propellerheads</appearsAs>
-                <url>http://www.7digital.com/artist/propellerheads/</url>
+                <slug>propellerheads</slug>
               </artist>
               <trackNumber>8</trackNumber>
               <duration>46</duration>
               <isrc>USDW19703112</isrc>
-              <url>http://www.7digital.com/artist/propellerheads/release/decksandrumsandrockandroll/?h=08&amp;d=1</url>
+              <slug>decksandrumsandrockandroll</slug>
               <discNumber>1</discNumber>
               <number>8</number>
             </track>
@@ -277,12 +277,12 @@
               <artist id="45369">
                 <name>Propellerheads</name>
                 <appearsAs>Propellerheads</appearsAs>
-                <url>http://www.7digital.com/artist/propellerheads/</url>
+                <slug>propellerheads</slug>
               </artist>
               <trackNumber>9</trackNumber>
               <duration>561</duration>
               <isrc>USDW19703114</isrc>
-              <url>http://www.7digital.com/artist/propellerheads/release/decksandrumsandrockandroll/?h=09&amp;d=1</url>
+              <slug>decksandrumsandrockandroll</slug>
               <discNumber>1</discNumber>
               <number>9</number>
             </track>
@@ -308,12 +308,12 @@
               <artist id="45369">
                 <name>Propellerheads</name>
                 <appearsAs>Propellerheads</appearsAs>
-                <url>http://www.7digital.com/artist/propellerheads/</url>
+                <slug>propellerheads</slug>
               </artist>
               <trackNumber>10</trackNumber>
               <duration>140</duration>
               <isrc>USDW19703115</isrc>
-              <url>http://www.7digital.com/artist/propellerheads/release/decksandrumsandrockandroll/?h=10&amp;d=1</url>
+              <slug>decksandrumsandrockandroll</slug>
               <discNumber>1</discNumber>
               <number>10</number>
             </track>
@@ -339,12 +339,12 @@
               <artist id="45369">
                 <name>Propellerheads</name>
                 <appearsAs>Propellerheads</appearsAs>
-                <url>http://www.7digital.com/artist/propellerheads/</url>
+                <slug>propellerheads</slug>
               </artist>
               <trackNumber>11</trackNumber>
               <duration>423</duration>
               <isrc>USDW19703116</isrc>
-              <url>http://www.7digital.com/artist/propellerheads/release/decksandrumsandrockandroll/?h=11&amp;d=1</url>
+              <slug>decksandrumsandrockandroll</slug>
               <discNumber>1</discNumber>
               <number>11</number>
             </track>
@@ -370,12 +370,12 @@
               <artist id="45369">
                 <name>Propellerheads</name>
                 <appearsAs>Propellerheads</appearsAs>
-                <url>http://www.7digital.com/artist/propellerheads/</url>
+                <slug>propellerheads</slug>
               </artist>
               <trackNumber>12</trackNumber>
               <duration>418</duration>
               <isrc>USDW19703102</isrc>
-              <url>http://www.7digital.com/artist/propellerheads/release/decksandrumsandrockandroll/?h=12&amp;d=1</url>
+              <slug>decksandrumsandrockandroll</slug>
               <discNumber>1</discNumber>
               <number>12</number>
             </track>
@@ -401,12 +401,12 @@
               <artist id="327701">
                 <name>Propellerheads / Jungle Brothers</name>
                 <appearsAs>Propellerheads / Jungle Brothers</appearsAs>
-                <url>http://www.7digital.com/artist/propellerheads-jungle-brothers/</url>
+                <slug>propellerheads-jungle-brothers</slug>
               </artist>
               <trackNumber>13</trackNumber>
               <duration>359</duration>
               <isrc>USDW19703118</isrc>
-              <url>http://www.7digital.com/artist/propellerheads/release/decksandrumsandrockandroll/?h=13&amp;d=1</url>
+              <slug>decksandrumsandrockandroll</slug>
               <discNumber>1</discNumber>
               <number>13</number>
             </track>

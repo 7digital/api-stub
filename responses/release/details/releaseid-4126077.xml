@@ -10,9 +10,9 @@
     <artist id="11546">
       <name>Cali</name>
       <appearsAs>Cali</appearsAs>
-      <url>http://www.7digital.com/artist/cali/?partner=3923</url>
+      <slug>cali</slug>
     </artist>
-    <url>http://www.7digital.com/artist/cali/release/lage-dor/?partner=3923</url>
+    <slug>lage-dor</slug>
     <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/041/260/0004126077_50.jpg</image>
     <label id="592">
       <name>Columbia</name>

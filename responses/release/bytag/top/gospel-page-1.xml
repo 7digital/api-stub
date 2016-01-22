@@ -16,9 +16,9 @@
         <artist id="60705">
           <name>Kirk Franklin</name>
           <appearsAs>Kirk Franklin</appearsAs>
-          <url>http://www.7digital.com/artist/kirk-franklin/?partner=1401</url>
+          <slug>kirk-franklin</slug>
         </artist>
-        <url>http://www.7digital.com/artist/kirk-franklin/release/hello-fear/?partner=1401</url>
+        <slug>hello-fear</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/011/849/0001184951_50.jpg</image>
         <popularity>0.55</popularity>
         <streamingReleaseDate>2011-03-21T00:00:00+00:00</streamingReleaseDate>
@@ -35,9 +35,9 @@
         <artist id="83525">
           <name>Third Day</name>
           <appearsAs>Third Day</appearsAs>
-          <url>http://www.7digital.com/artist/third-day/?partner=1401</url>
+          <slug>third-day</slug>
         </artist>
-        <url>http://www.7digital.com/artist/third-day/release/move/?partner=1401</url>
+        <slug>move</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/010/002/0001000222_50.jpg</image>
         <popularity>0.52</popularity>
         <streamingReleaseDate>2010-10-18T00:00:00+01:00</streamingReleaseDate>
@@ -54,9 +54,9 @@
         <artist id="83527">
           <name>Casting Crowns</name>
           <appearsAs>Casting Crowns</appearsAs>
-          <url>http://www.7digital.com/artist/casting-crowns/?partner=1401</url>
+          <slug>casting-crowns</slug>
         </artist>
-        <url>http://www.7digital.com/artist/casting-crowns/release/until-the-whole-world-hears-1/?partner=1401</url>
+        <slug>until-the-whole-world-hears-1</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/006/241/0000624184_50.jpg</image>
         <popularity>0.5</popularity>
         <streamingReleaseDate>2009-11-16T00:00:00+00:00</streamingReleaseDate>
@@ -73,9 +73,9 @@
         <artist id="209">
           <name>Various Artists</name>
           <appearsAs>Various Artists</appearsAs>
-          <url>http://www.7digital.com/artist/various-artists/?partner=1401</url>
+          <slug>various-artists</slug>
         </artist>
-        <url>http://www.7digital.com/artist/various-artists/release/gospels-best-worship/?partner=1401</url>
+        <slug>gospels-best-worship</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/011/342/0001134250_50.jpg</image>
         <popularity>0.49</popularity>
         <streamingReleaseDate>2011-02-07T00:00:00+00:00</streamingReleaseDate>
@@ -92,9 +92,9 @@
         <artist id="228483">
           <name>Kierra Sheard</name>
           <appearsAs>Kierra Sheard</appearsAs>
-          <url>http://www.7digital.com/artist/kierra-sheard/?partner=1401</url>
+          <slug>kierra-sheard</slug>
         </artist>
-        <url>http://www.7digital.com/artist/kierra-sheard/release/free-1/?partner=1401</url>
+        <slug>free-1</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/013/925/0001392598_50.jpg</image>
         <popularity>0.49</popularity>
         <streamingReleaseDate>2011-10-17T00:00:00+01:00</streamingReleaseDate>
@@ -111,9 +111,9 @@
         <artist id="64439">
           <name>Deitrick Haddon</name>
           <appearsAs>Deitrick Haddon</appearsAs>
-          <url>http://www.7digital.com/artist/deitrick-haddon/?partner=1401</url>
+          <slug>deitrick-haddon</slug>
         </artist>
-        <url>http://www.7digital.com/artist/deitrick-haddon/release/church-on-the-moon/?partner=1401</url>
+        <slug>church-on-the-moon</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/011/280/0001128090_50.jpg</image>
         <popularity>0.49</popularity>
         <streamingReleaseDate>2011-01-24T00:00:00+00:00</streamingReleaseDate>
@@ -130,9 +130,9 @@
         <artist id="8854">
           <name>Sam Cooke</name>
           <appearsAs>Sam Cooke</appearsAs>
-          <url>http://www.7digital.com/artist/sam-cooke/?partner=1401</url>
+          <slug>sam-cooke</slug>
         </artist>
-        <url>http://www.7digital.com/artist/sam-cooke/release/portrait-of-a-legend-1-1/?partner=1401</url>
+        <slug>portrait-of-a-legend-1-1</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/004/598/0000459888_50.jpg</image>
         <popularity>0.48</popularity>
         <streamingReleaseDate>2011-02-21T00:00:00+00:00</streamingReleaseDate>
@@ -149,9 +149,9 @@
         <artist id="61851">
           <name>Gospel Gangstaz</name>
           <appearsAs>Gospel Gangstaz</appearsAs>
-          <url>http://www.7digital.com/artist/gospel-gangstaz/?partner=1401</url>
+          <slug>gospel-gangstaz</slug>
         </artist>
-        <url>http://www.7digital.com/artist/gospel-gangstaz/release/street-disciples/?partner=1401</url>
+        <slug>street-disciples</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/013/371/0001337133_50.jpg</image>
         <popularity>0.47</popularity>
         <streamingReleaseDate>2011-08-16T00:00:00+01:00</streamingReleaseDate>
@@ -168,9 +168,9 @@
         <artist id="768854">
           <name>Zacardi Cortez</name>
           <appearsAs>Zacardi Cortez</appearsAs>
-          <url>http://www.7digital.com/artist/zacardi-cortez/?partner=1401</url>
+          <slug>zacardi-cortez</slug>
         </artist>
-        <url>http://www.7digital.com/artist/zacardi-cortez/release/the-introduction/?partner=1401</url>
+        <slug>the-introduction</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/016/956/0001695641_50.jpg</image>
         <popularity>0.47</popularity>
         <streamingReleaseDate>2012-05-22T00:00:00+01:00</streamingReleaseDate>
@@ -187,9 +187,9 @@
         <artist id="4974">
           <name>Building 429</name>
           <appearsAs>Building 429</appearsAs>
-          <url>http://www.7digital.com/artist/building-429/?partner=1401</url>
+          <slug>building-429</slug>
         </artist>
-        <url>http://www.7digital.com/artist/building-429/release/listen-to-the-sound-1/?partner=1401</url>
+        <slug>listen-to-the-sound-1</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/012/351/0001235158_50.jpg</image>
         <popularity>0.47</popularity>
         <streamingReleaseDate>2011-05-20T00:00:00+01:00</streamingReleaseDate>

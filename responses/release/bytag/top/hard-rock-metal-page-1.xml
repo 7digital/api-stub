@@ -16,9 +16,9 @@
         <artist id="147739">
           <name>The Rock Masters</name>
           <appearsAs>Rock Masters, The</appearsAs>
-          <url>http://www.7digital.com/artist/the-rock-masters/?partner=1401</url>
+          <slug>the-rock-masters</slug>
         </artist>
-        <url>http://www.7digital.com/artist/the-rock-masters/release/ac-dc-mania-ac-dc-deluxe-version-10-massive-acdc-anthems/?partner=1401</url>
+        <slug>ac-dc-mania-ac-dc-deluxe-version-10-massive-acdc-anthems</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/011/234/0001123452_50.jpg</image>
         <popularity>0.66</popularity>
         <streamingReleaseDate>2011-01-03T00:00:00+00:00</streamingReleaseDate>
@@ -35,9 +35,9 @@
         <artist id="12873">
           <name>Linkin Park</name>
           <appearsAs>Linkin Park</appearsAs>
-          <url>http://www.7digital.com/artist/linkin-park/?partner=1401</url>
+          <slug>linkin-park</slug>
         </artist>
-        <url>http://www.7digital.com/artist/linkin-park/release/minutes-to-midnight-1-1/?partner=1401</url>
+        <slug>minutes-to-midnight-1-1</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/000/856/0000085606_50.jpg</image>
         <popularity>0.62</popularity>
         <streamingReleaseDate>2010-09-28T00:00:00+01:00</streamingReleaseDate>
@@ -54,9 +54,9 @@
         <artist id="610">
           <name>Green Day</name>
           <appearsAs>Green Day</appearsAs>
-          <url>http://www.7digital.com/artist/green-day/?partner=1401</url>
+          <slug>green-day</slug>
         </artist>
-        <url>http://www.7digital.com/artist/green-day/release/american-idiot-1-1/?partner=1401</url>
+        <slug>american-idiot-1-1</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/000/020/0000002034_50.jpg</image>
         <popularity>0.58</popularity>
         <streamingReleaseDate>2010-05-06T00:00:00+01:00</streamingReleaseDate>
@@ -73,9 +73,9 @@
         <artist id="24923">
           <name>Volbeat</name>
           <appearsAs>Volbeat</appearsAs>
-          <url>http://www.7digital.com/artist/volbeat/?partner=1401</url>
+          <slug>volbeat</slug>
         </artist>
-        <url>http://www.7digital.com/artist/volbeat/release/beyond-hell-above-heaven/?partner=1401</url>
+        <slug>beyond-hell-above-heaven</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/009/530/0000953058_50.jpg</image>
         <popularity>0.57</popularity>
         <streamingReleaseDate>2010-09-13T00:00:00+01:00</streamingReleaseDate>
@@ -92,9 +92,9 @@
         <artist id="209">
           <name>Various Artists</name>
           <appearsAs>Various Artists</appearsAs>
-          <url>http://www.7digital.com/artist/various-artists/?partner=1401</url>
+          <slug>various-artists</slug>
         </artist>
-        <url>http://www.7digital.com/artist/various-artists/release/rock-anthems/?partner=1401</url>
+        <slug>rock-anthems</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/010/320/0001032031_50.jpg</image>
         <popularity>0.56</popularity>
         <streamingReleaseDate>3001-01-01T00:00:00+00:00</streamingReleaseDate>
@@ -111,9 +111,9 @@
         <artist id="12873">
           <name>Linkin Park</name>
           <appearsAs>Linkin Park</appearsAs>
-          <url>http://www.7digital.com/artist/linkin-park/?partner=1401</url>
+          <slug>linkin-park</slug>
         </artist>
-        <url>http://www.7digital.com/artist/linkin-park/release/hybrid-theory-3/?partner=1401</url>
+        <slug>hybrid-theory-3</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/000/181/0000018150_50.jpg</image>
         <popularity>0.56</popularity>
         <streamingReleaseDate>2010-04-21T00:00:00+01:00</streamingReleaseDate>
@@ -130,9 +130,9 @@
         <artist id="27920">
           <name>Metallica</name>
           <appearsAs>Metallica</appearsAs>
-          <url>http://www.7digital.com/artist/metallica/?partner=1401</url>
+          <slug>metallica</slug>
         </artist>
-        <url>http://www.7digital.com/artist/metallica/release/metallica/?partner=1401</url>
+        <slug>metallica</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/000/389/0000038972_50.jpg</image>
         <popularity>0.56</popularity>
         <streamingReleaseDate>3001-01-01T00:00:00+00:00</streamingReleaseDate>
@@ -149,9 +149,9 @@
         <artist id="63344">
           <name>Slipknot</name>
           <appearsAs>Slipknot</appearsAs>
-          <url>http://www.7digital.com/artist/slipknot/?partner=1401</url>
+          <slug>slipknot</slug>
         </artist>
-        <url>http://www.7digital.com/artist/slipknot/release/all-hope-is-gone-1/?partner=1401</url>
+        <slug>all-hope-is-gone-1</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/002/941/0000294196_50.jpg</image>
         <popularity>0.55</popularity>
         <streamingReleaseDate>2011-08-11T00:00:00+01:00</streamingReleaseDate>
@@ -168,9 +168,9 @@
         <artist id="1376">
           <name>Rainbow</name>
           <appearsAs>Rainbow</appearsAs>
-          <url>http://www.7digital.com/artist/rainbow/?partner=1401</url>
+          <slug>rainbow</slug>
         </artist>
-        <url>http://www.7digital.com/artist/rainbow/release/rising-remastered-1/?partner=1401</url>
+        <slug>rising-remastered-1</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/000/160/0000016060_50.jpg</image>
         <popularity>0.55</popularity>
         <streamingReleaseDate>1999-06-28T00:00:00+01:00</streamingReleaseDate>
@@ -187,9 +187,9 @@
         <artist id="11846">
           <name>Nightwish</name>
           <appearsAs>Nightwish</appearsAs>
-          <url>http://www.7digital.com/artist/nightwish/?partner=1401</url>
+          <slug>nightwish</slug>
         </artist>
-        <url>http://www.7digital.com/artist/nightwish/release/century-child-eu-version/?partner=1401</url>
+        <slug>century-child-eu-version</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/000/167/0000016710_50.jpg</image>
         <popularity>0.55</popularity>
         <streamingReleaseDate>2005-09-08T00:00:00+01:00</streamingReleaseDate>

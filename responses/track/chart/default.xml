@@ -16,7 +16,7 @@
         <artist id="312836">
           <name>LMFAO</name>
           <appearsAs>LMFAO / GoonRock / Lauren Bennett</appearsAs>
-          <url>http://www.7digital.com/artists/lmfao/?partner=1401</url>
+          <slug>lmfao</slug>
         </artist>
         <trackNumber>1</trackNumber>
         <duration>263</duration>
@@ -28,9 +28,9 @@
           <artist id="312836">
             <name>LMFAO</name>
             <appearsAs>LMFAO / GoonRock / Lauren Bennett</appearsAs>
-            <url>http://www.7digital.com/artists/lmfao/?partner=1401</url>
+            <slug>lmfao</slug>
           </artist>
-          <url>http://www.7digital.com/artists/lmfao/party-rock-anthem/?partner=1401</url>
+          <slug>party-rock-anthem</slug>
           <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/011/275/0001127570_50.jpg</image>
         </release>
         <price>
@@ -58,7 +58,6 @@
             </package>
           </packages>
         </download>
-        <url>http://www.7digital.com/artists/lmfao/party-rock-anthem/01-Party-Rock-Anthem?partner=1401&amp;partner=1401</url>
       </track>
     </chartItem>
     <chartItem>
@@ -70,7 +69,7 @@
         <artist id="21255">
           <name>Jennifer Lopez</name>
           <appearsAs>Jennifer Lopez / Pitbull</appearsAs>
-          <url>http://www.7digital.com/artists/jennifer-lopez/?partner=1401</url>
+          <slug>jennifer-lopez</slug>
         </artist>
         <trackNumber>1</trackNumber>
         <duration>231</duration>
@@ -82,9 +81,9 @@
           <artist id="21255">
             <name>Jennifer Lopez</name>
             <appearsAs>Jennifer Lopez / Pitbull</appearsAs>
-            <url>http://www.7digital.com/artists/jennifer-lopez/?partner=1401</url>
+            <slug>jennifer-lopez</slug>
           </artist>
-          <url>http://www.7digital.com/artists/jennifer-lopez/on-the-floor/?partner=1401</url>
+          <slug>on-the-floor</slug>
           <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/011/489/0001148928_50.jpg</image>
         </release>
         <price>
@@ -112,7 +111,6 @@
             </package>
           </packages>
         </download>
-        <url>http://www.7digital.com/artists/jennifer-lopez/on-the-floor/01-On-The-Floor?partner=1401&amp;partner=1401</url>
       </track>
     </chartItem>
     <chartItem>
@@ -124,7 +122,7 @@
         <artist id="1130">
           <name>Snoop Dogg</name>
           <appearsAs>Snoop Dogg vs. David Guetta</appearsAs>
-          <url>http://www.7digital.com/artists/snoop-dogg/?partner=1401</url>
+          <slug>snoop-dogg</slug>
         </artist>
         <trackNumber>1</trackNumber>
         <duration>196</duration>
@@ -136,9 +134,9 @@
           <artist id="1130">
             <name>Snoop Dogg</name>
             <appearsAs>Snoop Dogg vs. David Guetta</appearsAs>
-            <url>http://www.7digital.com/artists/snoop-dogg/?partner=1401</url>
+            <slug>snoop-dogg</slug>
           </artist>
-          <url>http://www.7digital.com/artists/snoop-dogg/sweat-david-guetta-remix/?partner=1401</url>
+          <slug>sweat-david-guetta-remix</slug>
           <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/011/796/0001179600_50.jpg</image>
         </release>
         <price>
@@ -166,7 +164,6 @@
             </package>
           </packages>
         </download>
-        <url>http://www.7digital.com/artists/snoop-dogg/sweat-david-guetta-remix/01-Sweat-(Snoop-Dogg-vs-David-Guetta)-[Remix]?partner=1401&amp;partner=1401</url>
       </track>
     </chartItem>
     <chartItem>
@@ -178,7 +175,7 @@
         <artist id="132789">
           <name>Katy Perry</name>
           <appearsAs>Katy Perry</appearsAs>
-          <url>http://www.7digital.com/artists/katy-perry/?partner=1401</url>
+          <slug>katy-perry</slug>
         </artist>
         <trackNumber>1</trackNumber>
         <duration>229</duration>
@@ -190,9 +187,9 @@
           <artist id="132789">
             <name>Katy Perry</name>
             <appearsAs>Katy Perry</appearsAs>
-            <url>http://www.7digital.com/artists/katy-perry/?partner=1401</url>
+            <slug>katy-perry</slug>
           </artist>
-          <url>http://www.7digital.com/artists/katy-perry/e-t-featuring-kanye-west/?partner=1401</url>
+          <slug>e-t-featuring-kanye-west</slug>
           <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/011/641/0001164194_50.jpg</image>
         </release>
         <price>
@@ -220,7 +217,6 @@
             </package>
           </packages>
         </download>
-        <url>http://www.7digital.com/artists/katy-perry/e-t-featuring-kanye-west/01-E-T-(feat-Kanye-West)?partner=1401&amp;partner=1401</url>
       </track>
     </chartItem>
     <chartItem>
@@ -232,7 +228,7 @@
         <artist id="142111">
           <name>Adele</name>
           <appearsAs>Adele</appearsAs>
-          <url>http://www.7digital.com/artists/adele/?partner=1401</url>
+          <slug>adele</slug>
         </artist>
         <trackNumber>11</trackNumber>
         <duration>285</duration>
@@ -244,9 +240,9 @@
           <artist id="142111">
             <name>Adele</name>
             <appearsAs>Adele</appearsAs>
-            <url>http://www.7digital.com/artists/adele/?partner=1401</url>
+            <slug>adele</slug>
           </artist>
-          <url>http://www.7digital.com/artists/adele/21/?partner=1401</url>
+          <slug>21</slug>
           <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/010/768/0001076864_50.jpg</image>
         </release>
         <price>
@@ -274,7 +270,6 @@
             </package>
           </packages>
         </download>
-        <url>http://www.7digital.com/artists/adele/21/11-Someone-Like-You?partner=1401&amp;partner=1401</url>
       </track>
     </chartItem>
     <chartItem>
@@ -286,7 +281,7 @@
         <artist id="237973">
           <name>Lady GaGa</name>
           <appearsAs>Lady GaGa</appearsAs>
-          <url>http://www.7digital.com/artists/lady-gaga/?partner=1401</url>
+          <slug>lady-gaga</slug>
         </artist>
         <trackNumber>1</trackNumber>
         <duration>250</duration>
@@ -298,9 +293,9 @@
           <artist id="237973">
             <name>Lady GaGa</name>
             <appearsAs>Lady GaGa</appearsAs>
-            <url>http://www.7digital.com/artists/lady-gaga/?partner=1401</url>
+            <slug>lady-gaga</slug>
           </artist>
-          <url>http://www.7digital.com/artists/lady-gaga/judas/?partner=1401</url>
+          <slug>judas</slug>
           <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/012/221/0001222117_50.jpg</image>
         </release>
         <price>
@@ -328,7 +323,6 @@
             </package>
           </packages>
         </download>
-        <url>http://www.7digital.com/artists/lady-gaga/judas/01-Judas?partner=1401&amp;partner=1401</url>
       </track>
     </chartItem>
     <chartItem>
@@ -340,7 +334,7 @@
         <artist id="951348">
           <name>Chris Brown feat. Benny Benassi</name>
           <appearsAs>Chris Brown feat. Benny Benassi</appearsAs>
-          <url>http://www.7digital.com/artists/chris-brown-feat-benny-benassi/?partner=1401</url>
+          <slug>chris-brown-feat-benny-benassi</slug>
         </artist>
         <trackNumber>13</trackNumber>
         <duration>225</duration>
@@ -352,9 +346,9 @@
           <artist id="15239">
             <name>Chris Brown</name>
             <appearsAs>Chris Brown</appearsAs>
-            <url>http://www.7digital.com/artists/chris-brown-(2)/?partner=1401</url>
+            <slug>chris-brown-(2)</slug>
           </artist>
-          <url>http://www.7digital.com/artists/chris-brown-(2)/f-a-m-e-deluxe-version-5/?partner=1401</url>
+          <slug>f-a-m-e-deluxe-version-5</slug>
           <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/011/990/0001199062_50.jpg</image>
         </release>
         <price>
@@ -382,7 +376,6 @@
             </package>
           </packages>
         </download>
-        <url>http://www.7digital.com/artists/chris-brown-(2)/f-a-m-e-deluxe-version-5/13-Beautiful-People?partner=1401&amp;partner=1401</url>
       </track>
     </chartItem>
     <chartItem>
@@ -394,7 +387,7 @@
         <artist id="982647">
           <name>Sammy King</name>
           <appearsAs>Sammy King</appearsAs>
-          <url>http://www.7digital.com/artists/sammy-king/?partner=1401</url>
+          <slug>sammy-king</slug>
         </artist>
         <trackNumber>1</trackNumber>
         <duration>210</duration>
@@ -406,9 +399,9 @@
           <artist id="982647">
             <name>Sammy King</name>
             <appearsAs>Sammy King</appearsAs>
-            <url>http://www.7digital.com/artists/sammy-king/?partner=1401</url>
+            <slug>sammy-king</slug>
           </artist>
-          <url>http://www.7digital.com/artists/sammy-king/penny-arcade-rangers-fc-charity-single/?partner=1401</url>
+          <slug>penny-arcade-rangers-fc-charity-single</slug>
           <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/012/238/0001223853_50.jpg</image>
         </release>
         <price>
@@ -436,7 +429,6 @@
             </package>
           </packages>
         </download>
-        <url>http://www.7digital.com/artists/sammy-king/penny-arcade-rangers-fc-charity-single/01-Penny-Arcade-(Rangers-FC-Charity-Single)?partner=1401&amp;partner=1401</url>
       </track>
     </chartItem>
     <chartItem>
@@ -448,7 +440,7 @@
         <artist id="263">
           <name>Black Eyed Peas</name>
           <appearsAs>The Black Eyed Peas</appearsAs>
-          <url>http://www.7digital.com/artists/black-eyed-peas/?partner=1401</url>
+          <slug>black-eyed-peas</slug>
         </artist>
         <trackNumber>11</trackNumber>
         <duration>219</duration>
@@ -460,9 +452,9 @@
           <artist id="263">
             <name>Black Eyed Peas</name>
             <appearsAs>The Black Eyed Peas</appearsAs>
-            <url>http://www.7digital.com/artists/black-eyed-peas/?partner=1401</url>
+            <slug>black-eyed-peas</slug>
           </artist>
-          <url>http://www.7digital.com/artists/black-eyed-peas/the-beginning/?partner=1401</url>
+          <slug>the-beginning</slug>
           <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/010/410/0001041028_50.jpg</image>
         </release>
         <price>
@@ -490,7 +482,6 @@
             </package>
           </packages>
         </download>
-        <url>http://www.7digital.com/artists/black-eyed-peas/the-beginning/11-Just-Can-t-Get-Enough?partner=1401&amp;partner=1401</url>
       </track>
     </chartItem>
     <chartItem>
@@ -502,7 +493,7 @@
         <artist id="890157">
           <name>Mann / 50 Cent</name>
           <appearsAs>Mann / 50 Cent</appearsAs>
-          <url>http://www.7digital.com/artists/mann-50-cent/?partner=1401</url>
+          <slug>mann-50-cent</slug>
         </artist>
         <trackNumber>1</trackNumber>
         <duration>224</duration>
@@ -514,9 +505,9 @@
           <artist id="890157">
             <name>Mann / 50 Cent</name>
             <appearsAs>Mann / 50 Cent</appearsAs>
-            <url>http://www.7digital.com/artists/mann-50-cent/?partner=1401</url>
+            <slug>mann-50-cent</slug>
           </artist>
-          <url>http://www.7digital.com/artists/mann-50-cent/buzzin-remix/?partner=1401</url>
+          <slug>buzzin-remix</slug>
           <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/010/638/0001063821_50.jpg</image>
         </release>
         <price>
@@ -544,7 +535,6 @@
             </package>
           </packages>
         </download>
-        <url>http://www.7digital.com/artists/mann-50-cent/buzzin-remix/01-Buzzin-Remix?partner=1401&amp;partner=1401</url>
       </track>
     </chartItem>
   </chart>
