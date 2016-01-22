@@ -14,16 +14,6 @@
     </artist>
     <url>http://www.7digital.com/artist/elvis-presley-(2)/release/elvis-8/?partner=712</url>
     <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/016/275/0001627544_50.jpg</image>
-    <releaseDate>2012-02-24T00:00:00Z</releaseDate>
-    <addedDate>2000-01-01T00:00:00Z</addedDate>
-    <price>
-      <currency code="GBP">£</currency>
-      <value>0.00</value>
-      <formattedPrice>£0.00</formattedPrice>
-      <rrp>0.00</rrp>
-      <formattedRrp>£0.00</formattedRrp>
-      <onSale>false</onSale>
-    </price>
     <download>
       <packages>
         <package id="2">
@@ -41,7 +31,6 @@
         </package>
       </packages>
     </download>
-    <formats availableDrmFree="false"/>
     <label id="107659">
       <name>Sector Records</name>
     </label>

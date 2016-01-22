@@ -19,15 +19,6 @@
           </artist>
           <url>http://www.7digital.com/artist/keane/release/perfect-symmetry-1/?partner=1401</url>
           <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/003/208/0000320867_50.jpg</image>
-          <releaseDate>2008-10-13T00:00:00+01:00</releaseDate>
-          <price>
-            <currency code="GBP">£</currency>
-            <value>5.49</value>
-            <formattedPrice>£5.99</formattedPrice>
-            <rrp>5.49</rrp>
-            <formattedRrp>£5.99</formattedRrp>
-            <onSale>false</onSale>
-          </price>
           <download>
             <packages>
               <package id="2">
@@ -45,13 +36,6 @@
               </package>
             </packages>
           </download>
-          <formats availableDrmFree="true">
-            <format id="17">
-              <fileFormat>MP3</fileFormat>
-              <bitRate>320</bitRate>
-              <drmFree>true</drmFree>
-            </format>
-          </formats>
           <label id="3309">
             <name>Universal Music Ireland Ltd.</name>
           </label>
@@ -73,15 +57,6 @@
           </artist>
           <url>http://www.7digital.com/artists/various-artists/eurovision-song-contest-dusseldorf-2011/?partner=712</url>
           <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/012/141/0001214168_50.jpg</image>
-          <releaseDate>2011-04-18T00:00:00+01:00</releaseDate>
-          <price>
-            <currency code="GBP">£</currency>
-            <value>5.49</value>
-            <formattedPrice>£5.99</formattedPrice>
-            <rrp>5.49</rrp>
-            <formattedRrp>£5.99</formattedRrp>
-            <onSale>false</onSale>
-          </price>
           <download>
             <packages>
               <package id="2">
@@ -99,13 +74,6 @@
               </package>
             </packages>
           </download>
-          <formats availableDrmFree="true">
-            <format id="17">
-              <fileFormat>MP3</fileFormat>
-              <bitRate>320</bitRate>
-              <drmFree>true</drmFree>
-            </format>
-          </formats>
           <label id="2061">
             <name>EMI Music Marketing - Germany</name>
           </label>
@@ -127,15 +95,6 @@
           </artist>
           <url>http://www.7digital.com/artists/alice-gold/seven-rainbows/?partner=712</url>
           <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/012/793/0001279359_50.jpg</image>
-          <releaseDate>2011-07-04T00:00:00+01:00</releaseDate>
-          <price>
-            <currency code="GBP"/>
-            <value>N/A</value>
-            <formattedPrice>N/A</formattedPrice>
-            <rrp>N/A</rrp>
-            <formattedRrp>N/A</formattedRrp>
-            <onSale>false</onSale>
-          </price>
           <download>
             <packages>
               <package id="2">
@@ -153,13 +112,6 @@
               </package>
             </packages>
           </download>
-          <formats availableDrmFree="true">
-            <format id="17">
-              <fileFormat>MP3</fileFormat>
-              <bitRate>320</bitRate>
-              <drmFree>true</drmFree>
-            </format>
-          </formats>
           <label id="78690">
             <name>Universal Music Digital Luxembourg</name>
           </label>
@@ -181,15 +133,6 @@
           </artist>
           <url>http://www.7digital.com/artists/dj-fresh/louder/?partner=712</url>
           <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/012/466/0001246693_50.jpg</image>
-          <releaseDate>2011-07-03T00:00:00+01:00</releaseDate>
-          <price>
-            <currency code="GBP"/>
-            <value>N/A</value>
-            <formattedPrice>N/A</formattedPrice>
-            <rrp>N/A</rrp>
-            <formattedRrp>N/A</formattedRrp>
-            <onSale>false</onSale>
-          </price>
           <download>
             <packages>
               <package id="2">
@@ -210,18 +153,6 @@
               </package>
             </packages>
           </download>
-          <formats availableDrmFree="true">
-            <format id="17">
-              <fileFormat>MP3</fileFormat>
-              <bitRate>320</bitRate>
-              <drmFree>true</drmFree>
-            </format>
-            <format id="33">
-              <fileFormat>M4A</fileFormat>
-              <bitRate>320</bitRate>
-              <drmFree>true</drmFree>
-            </format>
-          </formats>
           <label id="60924">
             <name>Ministry of Sound Recordings Ltd</name>
           </label>
@@ -243,15 +174,6 @@
           </artist>
           <url>http://www.7digital.com/artists/cocknbullkid/adulthood/?partner=712</url>
           <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/012/450/0001245091_50.jpg</image>
-          <releaseDate>2011-05-23T00:00:00+01:00</releaseDate>
-          <price>
-            <currency code="GBP"/>
-            <value/>
-            <formattedPrice/>
-            <rrp/>
-            <formattedRrp/>
-            <onSale>false</onSale>
-          </price>
           <download>
             <packages>
               <package id="2">
@@ -269,13 +191,6 @@
               </package>
             </packages>
           </download>
-          <formats availableDrmFree="true">
-            <format id="17">
-              <fileFormat>MP3</fileFormat>
-              <bitRate>320</bitRate>
-              <drmFree>true</drmFree>
-            </format>
-          </formats>
           <label id="38718">
             <name>Universal Music B.V.</name>
           </label>
@@ -297,15 +212,6 @@
           </artist>
           <url>http://www.7digital.com/artists/pete-and-the-pirates/one-thousand-pictures/?partner=712</url>
           <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/012/121/0001212194_50.jpg</image>
-          <releaseDate>2011-05-23T00:00:00+01:00</releaseDate>
-          <price>
-            <currency code="GBP"/>
-            <value>7.99</value>
-            <formattedPrice>£7.99</formattedPrice>
-            <rrp>7.99</rrp>
-            <formattedRrp>£7.99</formattedRrp>
-            <onSale>false</onSale>
-          </price>
           <download>
             <packages>
               <package id="2">
@@ -326,18 +232,6 @@
               </package>
             </packages>
           </download>
-          <formats availableDrmFree="true">
-            <format id="17">
-              <fileFormat>MP3</fileFormat>
-              <bitRate>320</bitRate>
-              <drmFree>true</drmFree>
-            </format>
-            <format id="33">
-              <fileFormat>M4A</fileFormat>
-              <bitRate>320</bitRate>
-              <drmFree>true</drmFree>
-            </format>
-          </formats>
           <label id="2389">
             <name>Stolen Recordings</name>
           </label>

@@ -14,28 +14,6 @@
     </artist>
     <url>http://www.7digital.com/artist/aphex-twin/release/syro/?partner=3923</url>
     <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/038/144/0003814480_50.jpg</image>
-    <releaseDate>2014-09-21T00:00:00Z</releaseDate>
-    <addedDate>2014-09-17T16:50:38Z</addedDate>
-    <price>
-      <currency code="GBP">£</currency>
-      <value>7.99</value>
-      <formattedPrice>£7.99</formattedPrice>
-      <rrp>7.99</rrp>
-      <formattedRrp>£7.99</formattedRrp>
-      <onSale>false</onSale>
-    </price>
-    <formats availableDrmFree="true">
-      <format id="17">
-        <fileFormat>MP3</fileFormat>
-        <bitRate>320</bitRate>
-        <drmFree>true</drmFree>
-      </format>
-      <format id="33">
-        <fileFormat>M4A</fileFormat>
-        <bitRate>320</bitRate>
-        <drmFree>true</drmFree>
-      </format>
-    </formats>
     <label id="811">
       <name>Warp Records</name>
     </label>

@@ -14,16 +14,6 @@
     </artist>
     <url>http://www.7digital.com/artists/keane/night-train/?partner=712</url>
     <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/007/990/0000799025_50.jpg</image>
-    <releaseDate>2010-05-10T00:00:00+01:00</releaseDate>
-    <addedDate>2010-04-12T14:41:51+01:00</addedDate>
-    <price>
-      <currency code="GBP">£</currency>
-      <value>9.99</value>
-      <formattedPrice>£9.99</formattedPrice>
-      <rrp>9.99</rrp>
-      <formattedRrp>£9.99</formattedRrp>
-      <onSale>false</onSale>
-    </price>
     <download>
       <packages>
         <package id="2">
@@ -41,13 +31,6 @@
         </package>
       </packages>
     </download>
-    <formats availableDrmFree="true">
-      <format id="17">
-        <fileFormat>MP3</fileFormat>
-        <bitRate>320</bitRate>
-        <drmFree>true</drmFree>
-      </format>
-    </formats>
     <label id="15788">
       <name>Universal Music Spain S.L.</name>
     </label>

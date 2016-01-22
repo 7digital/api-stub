@@ -19,16 +19,6 @@
           </artist>
           <url>http://www.7digital.com/artist/taylor-swift/release/1989/?partner=0</url>
           <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/039/184/0003918446_50.jpg</image>
-          <releaseDate>2014-10-27T00:00:00Z</releaseDate>
-          <addedDate>2014-10-27T10:17:02Z</addedDate>
-          <price>
-            <currency code="GBP"/>
-            <value>6.99</value>
-            <formattedPrice>£6.99</formattedPrice>
-            <rrp>8.99</rrp>
-            <formattedRrp>£8.99</formattedRrp>
-            <onSale>true</onSale>
-          </price>
           <download>
             <packages>
               <package id="2">
@@ -46,13 +36,6 @@
               </package>
             </packages>
           </download>
-          <formats availableDrmFree="true">
-            <format id="17">
-              <fileFormat>MP3</fileFormat>
-              <bitRate>320</bitRate>
-              <drmFree>true</drmFree>
-            </format>
-          </formats>
           <label id="149943">
             <name>Universal Music (Pty) Ltd.</name>
           </label>
@@ -78,16 +61,6 @@
           </artist>
           <url>http://www.7digital.com/artist/taylor-swift/release/1989-deluxe/?partner=0</url>
           <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/039/184/0003918447_50.jpg</image>
-          <releaseDate>2014-10-27T00:00:00Z</releaseDate>
-          <addedDate>2014-10-27T10:17:39Z</addedDate>
-          <price>
-            <currency code="GBP"/>
-            <value>10.99</value>
-            <formattedPrice>£10.99</formattedPrice>
-            <rrp>10.99</rrp>
-            <formattedRrp>£10.99</formattedRrp>
-            <onSale>false</onSale>
-          </price>
           <download>
             <packages>
               <package id="2">
@@ -105,13 +78,6 @@
               </package>
             </packages>
           </download>
-          <formats availableDrmFree="true">
-            <format id="17">
-              <fileFormat>MP3</fileFormat>
-              <bitRate>320</bitRate>
-              <drmFree>true</drmFree>
-            </format>
-          </formats>
           <label id="149943">
             <name>Universal Music (Pty) Ltd.</name>
           </label>
@@ -137,16 +103,6 @@
           </artist>
           <url>http://www.7digital.com/artist/run-the-jewels/release/run-the-jewels-2/?partner=0</url>
           <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/039/080/0003908022_50.jpg</image>
-          <releaseDate>2014-10-27T00:00:00Z</releaseDate>
-          <addedDate>2014-10-24T05:12:23Z</addedDate>
-          <price>
-            <currency code="GBP"/>
-            <value>8.49</value>
-            <formattedPrice>£8.49</formattedPrice>
-            <rrp>8.49</rrp>
-            <formattedRrp>£8.49</formattedRrp>
-            <onSale>false</onSale>
-          </price>
           <download>
             <packages>
               <package id="2">
@@ -164,13 +120,6 @@
               </package>
             </packages>
           </download>
-          <formats availableDrmFree="true">
-            <format id="17">
-              <fileFormat>MP3</fileFormat>
-              <bitRate>320</bitRate>
-              <drmFree>true</drmFree>
-            </format>
-          </formats>
           <label id="12381">
             <name>Mass Appeal Records</name>
           </label>
@@ -196,16 +145,6 @@
           </artist>
           <url>http://www.7digital.com/artist/the-twilight-sad/release/nobody-wants-to-be-here-and-nobody-wants-to-leave/?partner=0</url>
           <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/039/133/0003913385_50.jpg</image>
-          <releaseDate>2014-10-26T00:00:00Z</releaseDate>
-          <addedDate>2014-10-23T17:27:26Z</addedDate>
-          <price>
-            <currency code="GBP"/>
-            <value>4.99</value>
-            <formattedPrice>£4.99</formattedPrice>
-            <rrp>7.49</rrp>
-            <formattedRrp>£7.49</formattedRrp>
-            <onSale>true</onSale>
-          </price>
           <download>
             <packages>
               <package id="2">
@@ -226,18 +165,6 @@
               </package>
             </packages>
           </download>
-          <formats availableDrmFree="true">
-            <format id="17">
-              <fileFormat>MP3</fileFormat>
-              <bitRate>320</bitRate>
-              <drmFree>true</drmFree>
-            </format>
-            <format id="33">
-              <fileFormat>M4A</fileFormat>
-              <bitRate>320</bitRate>
-              <drmFree>true</drmFree>
-            </format>
-          </formats>
           <label id="806">
             <name>FatCat</name>
           </label>
@@ -263,16 +190,6 @@
           </artist>
           <url>http://www.7digital.com/artist/annie-lennox/release/nostalgia-2/?partner=0</url>
           <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/038/860/0003886086_50.jpg</image>
-          <releaseDate>2014-10-27T00:00:00Z</releaseDate>
-          <addedDate>2014-10-14T15:18:55Z</addedDate>
-          <price>
-            <currency code="GBP"/>
-            <value>8.99</value>
-            <formattedPrice>£8.99</formattedPrice>
-            <rrp>8.99</rrp>
-            <formattedRrp>£8.99</formattedRrp>
-            <onSale>false</onSale>
-          </price>
           <download>
             <packages>
               <package id="2">
@@ -290,13 +207,6 @@
               </package>
             </packages>
           </download>
-          <formats availableDrmFree="true">
-            <format id="17">
-              <fileFormat>MP3</fileFormat>
-              <bitRate>320</bitRate>
-              <drmFree>true</drmFree>
-            </format>
-          </formats>
           <label id="383633">
             <name>Digital Distribution Qatar</name>
           </label>
@@ -322,16 +232,6 @@
           </artist>
           <url>http://www.7digital.com/artist/annie-lennox/release/nostalgia-deluxe/?partner=0</url>
           <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/038/857/0003885704_50.jpg</image>
-          <releaseDate>2014-10-27T00:00:00Z</releaseDate>
-          <addedDate>2014-10-14T13:18:41Z</addedDate>
-          <price>
-            <currency code="GBP"/>
-            <value>9.99</value>
-            <formattedPrice>£9.99</formattedPrice>
-            <rrp>9.99</rrp>
-            <formattedRrp>£9.99</formattedRrp>
-            <onSale>false</onSale>
-          </price>
           <download>
             <packages>
               <package id="2">
@@ -349,13 +249,6 @@
               </package>
             </packages>
           </download>
-          <formats availableDrmFree="true">
-            <format id="17">
-              <fileFormat>MP3</fileFormat>
-              <bitRate>320</bitRate>
-              <drmFree>true</drmFree>
-            </format>
-          </formats>
           <label id="47744">
             <name>Universal Music Australia Pty. Ltd.</name>
           </label>
@@ -381,16 +274,6 @@
           </artist>
           <url>http://www.7digital.com/artist/the-ting-tings/release/super-critical/?partner=0</url>
           <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/036/580/0003658054_50.jpg</image>
-          <releaseDate>2014-10-27T00:00:00Z</releaseDate>
-          <addedDate>2014-07-17T13:40:56Z</addedDate>
-          <price>
-            <currency code="GBP"/>
-            <value>7.99</value>
-            <formattedPrice>£7.99</formattedPrice>
-            <rrp>7.99</rrp>
-            <formattedRrp>£7.99</formattedRrp>
-            <onSale>false</onSale>
-          </price>
           <download>
             <packages>
               <package id="2">
@@ -411,18 +294,6 @@
               </package>
             </packages>
           </download>
-          <formats availableDrmFree="true">
-            <format id="17">
-              <fileFormat>MP3</fileFormat>
-              <bitRate>320</bitRate>
-              <drmFree>true</drmFree>
-            </format>
-            <format id="33">
-              <fileFormat>M4A</fileFormat>
-              <bitRate>320</bitRate>
-              <drmFree>true</drmFree>
-            </format>
-          </formats>
           <label id="331571">
             <name>Finca Records</name>
           </label>
@@ -448,16 +319,6 @@
           </artist>
           <url>http://www.7digital.com/artist/dillon-francis/release/money-sucks-friends-rule/?partner=0</url>
           <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/039/034/0003903415_50.jpg</image>
-          <releaseDate>2014-10-27T00:00:00Z</releaseDate>
-          <addedDate>2014-10-23T17:00:27Z</addedDate>
-          <price>
-            <currency code="GBP"/>
-            <value>7.99</value>
-            <formattedPrice>£7.99</formattedPrice>
-            <rrp>7.99</rrp>
-            <formattedRrp>£7.99</formattedRrp>
-            <onSale>false</onSale>
-          </price>
           <download>
             <packages>
               <package id="2">
@@ -478,18 +339,6 @@
               </package>
             </packages>
           </download>
-          <formats availableDrmFree="true">
-            <format id="17">
-              <fileFormat>MP3</fileFormat>
-              <bitRate>320</bitRate>
-              <drmFree>true</drmFree>
-            </format>
-            <format id="33">
-              <fileFormat>M4A</fileFormat>
-              <bitRate>320</bitRate>
-              <drmFree>true</drmFree>
-            </format>
-          </formats>
           <label id="592">
             <name>Columbia</name>
           </label>
@@ -515,16 +364,6 @@
           </artist>
           <url>http://www.7digital.com/artist/lily-and-madeleine/release/fumes/?partner=0</url>
           <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/038/711/0003871125_50.jpg</image>
-          <releaseDate>2014-10-27T00:00:00Z</releaseDate>
-          <addedDate>2014-10-08T21:21:38Z</addedDate>
-          <price>
-            <currency code="GBP"/>
-            <value>7.49</value>
-            <formattedPrice>£7.49</formattedPrice>
-            <rrp>7.49</rrp>
-            <formattedRrp>£7.49</formattedRrp>
-            <onSale>false</onSale>
-          </price>
           <download>
             <packages>
               <package id="2">
@@ -545,18 +384,6 @@
               </package>
             </packages>
           </download>
-          <formats availableDrmFree="true">
-            <format id="17">
-              <fileFormat>MP3</fileFormat>
-              <bitRate>320</bitRate>
-              <drmFree>true</drmFree>
-            </format>
-            <format id="33">
-              <fileFormat>M4A</fileFormat>
-              <bitRate>320</bitRate>
-              <drmFree>true</drmFree>
-            </format>
-          </formats>
           <label id="157366">
             <name>Asthmatic Kitty</name>
           </label>
@@ -582,16 +409,6 @@
           </artist>
           <url>http://www.7digital.com/artist/kiasmos/release/kiasmos/?partner=0</url>
           <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/038/784/0003878464_50.jpg</image>
-          <releaseDate>2014-10-27T00:00:00Z</releaseDate>
-          <addedDate>2014-10-23T16:23:27Z</addedDate>
-          <price>
-            <currency code="GBP"/>
-            <value>6.99</value>
-            <formattedPrice>£6.99</formattedPrice>
-            <rrp>6.99</rrp>
-            <formattedRrp>£6.99</formattedRrp>
-            <onSale>false</onSale>
-          </price>
           <download>
             <packages>
               <package id="2">
@@ -612,18 +429,6 @@
               </package>
             </packages>
           </download>
-          <formats availableDrmFree="true">
-            <format id="17">
-              <fileFormat>MP3</fileFormat>
-              <bitRate>320</bitRate>
-              <drmFree>true</drmFree>
-            </format>
-            <format id="33">
-              <fileFormat>M4A</fileFormat>
-              <bitRate>320</bitRate>
-              <drmFree>true</drmFree>
-            </format>
-          </formats>
           <label id="13011">
             <name>Erased Tapes</name>
           </label>
@@ -649,16 +454,6 @@
           </artist>
           <url>http://www.7digital.com/artist/black-veil-brides/release/black-veil-brides/?partner=0</url>
           <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/038/857/0003885766_50.jpg</image>
-          <releaseDate>2014-10-27T00:00:00Z</releaseDate>
-          <addedDate>2014-10-14T13:31:33Z</addedDate>
-          <price>
-            <currency code="GBP"/>
-            <value>8.99</value>
-            <formattedPrice>£8.99</formattedPrice>
-            <rrp>8.99</rrp>
-            <formattedRrp>£8.99</formattedRrp>
-            <onSale>false</onSale>
-          </price>
           <download>
             <packages>
               <package id="2">
@@ -676,13 +471,6 @@
               </package>
             </packages>
           </download>
-          <formats availableDrmFree="true">
-            <format id="17">
-              <fileFormat>MP3</fileFormat>
-              <bitRate>320</bitRate>
-              <drmFree>true</drmFree>
-            </format>
-          </formats>
           <label id="47744">
             <name>Universal Music Australia Pty. Ltd.</name>
           </label>
@@ -708,16 +496,6 @@
           </artist>
           <url>http://www.7digital.com/artist/yusuf-cat-stevens/release/tell-em-im-gone/?partner=0</url>
           <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/037/901/0003790138_50.jpg</image>
-          <releaseDate>2014-10-27T00:00:00Z</releaseDate>
-          <addedDate>2014-10-21T19:03:02Z</addedDate>
-          <price>
-            <currency code="GBP"/>
-            <value>8.99</value>
-            <formattedPrice>£8.99</formattedPrice>
-            <rrp>8.99</rrp>
-            <formattedRrp>£8.99</formattedRrp>
-            <onSale>false</onSale>
-          </price>
           <download>
             <packages>
               <package id="2">
@@ -738,18 +516,6 @@
               </package>
             </packages>
           </download>
-          <formats availableDrmFree="true">
-            <format id="17">
-              <fileFormat>MP3</fileFormat>
-              <bitRate>320</bitRate>
-              <drmFree>true</drmFree>
-            </format>
-            <format id="33">
-              <fileFormat>M4A</fileFormat>
-              <bitRate>320</bitRate>
-              <drmFree>true</drmFree>
-            </format>
-          </formats>
           <label id="12031">
             <name>Legacy Recordings</name>
           </label>
@@ -775,16 +541,6 @@
           </artist>
           <url>http://www.7digital.com/artist/bored-nothing/release/some-songs/?partner=0</url>
           <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/038/588/0003858861_50.jpg</image>
-          <releaseDate>2014-10-27T00:00:00Z</releaseDate>
-          <addedDate>2014-10-06T10:20:07Z</addedDate>
-          <price>
-            <currency code="GBP"/>
-            <value>8.99</value>
-            <formattedPrice>£8.99</formattedPrice>
-            <rrp>8.99</rrp>
-            <formattedRrp>£8.99</formattedRrp>
-            <onSale>false</onSale>
-          </price>
           <download>
             <packages>
               <package id="2">
@@ -802,13 +558,6 @@
               </package>
             </packages>
           </download>
-          <formats availableDrmFree="true">
-            <format id="17">
-              <fileFormat>MP3</fileFormat>
-              <bitRate>320</bitRate>
-              <drmFree>true</drmFree>
-            </format>
-          </formats>
           <label id="87028">
             <name>Spunk</name>
           </label>
@@ -834,16 +583,6 @@
           </artist>
           <url>http://www.7digital.com/artist/stereo-mcs-(2)/release/collected/?partner=0</url>
           <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/038/868/0003886864_50.jpg</image>
-          <releaseDate>2014-10-27T00:00:00Z</releaseDate>
-          <addedDate>2014-10-15T02:32:30Z</addedDate>
-          <price>
-            <currency code="GBP"/>
-            <value>28.99</value>
-            <formattedPrice>£28.99</formattedPrice>
-            <rrp>28.99</rrp>
-            <formattedRrp>£28.99</formattedRrp>
-            <onSale>false</onSale>
-          </price>
           <download>
             <packages>
               <package id="2">
@@ -861,13 +600,6 @@
               </package>
             </packages>
           </download>
-          <formats availableDrmFree="true">
-            <format id="17">
-              <fileFormat>MP3</fileFormat>
-              <bitRate>320</bitRate>
-              <drmFree>true</drmFree>
-            </format>
-          </formats>
           <label id="383633">
             <name>Digital Distribution Qatar</name>
           </label>
@@ -893,16 +625,6 @@
           </artist>
           <url>http://www.7digital.com/artist/dionne-warwick/release/feels-so-good-1/?partner=0</url>
           <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/038/883/0003888356_50.jpg</image>
-          <releaseDate>2014-10-26T00:00:00Z</releaseDate>
-          <addedDate>2014-10-15T11:36:50Z</addedDate>
-          <price>
-            <currency code="GBP"/>
-            <value>8.99</value>
-            <formattedPrice>£8.99</formattedPrice>
-            <rrp>8.99</rrp>
-            <formattedRrp>£8.99</formattedRrp>
-            <onSale>false</onSale>
-          </price>
           <download>
             <packages>
               <package id="2">
@@ -920,13 +642,6 @@
               </package>
             </packages>
           </download>
-          <formats availableDrmFree="true">
-            <format id="17">
-              <fileFormat>MP3</fileFormat>
-              <bitRate>320</bitRate>
-              <drmFree>true</drmFree>
-            </format>
-          </formats>
           <label id="242879">
             <name>Caroline International</name>
           </label>
@@ -952,16 +667,6 @@
           </artist>
           <url>http://www.7digital.com/artist/flight-facilities/release/down-to-earth-1/?partner=0</url>
           <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/038/859/0003885953_50.jpg</image>
-          <releaseDate>2014-10-27T00:00:00Z</releaseDate>
-          <addedDate>2014-10-14T15:15:00Z</addedDate>
-          <price>
-            <currency code="GBP"/>
-            <value>8.99</value>
-            <formattedPrice>£8.99</formattedPrice>
-            <rrp>8.99</rrp>
-            <formattedRrp>£8.99</formattedRrp>
-            <onSale>false</onSale>
-          </price>
           <download>
             <packages>
               <package id="2">
@@ -979,13 +684,6 @@
               </package>
             </packages>
           </download>
-          <formats availableDrmFree="true">
-            <format id="17">
-              <fileFormat>MP3</fileFormat>
-              <bitRate>320</bitRate>
-              <drmFree>true</drmFree>
-            </format>
-          </formats>
           <label id="3309">
             <name>Universal Music Ireland Ltd.</name>
           </label>
@@ -1011,16 +709,6 @@
           </artist>
           <url>http://www.7digital.com/artist/glass-caves/release/alive/?partner=0</url>
           <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/038/323/0003832394_50.jpg</image>
-          <releaseDate>2014-10-27T00:00:00Z</releaseDate>
-          <addedDate>2014-09-24T18:09:44Z</addedDate>
-          <price>
-            <currency code="GBP"/>
-            <value>7.99</value>
-            <formattedPrice>£7.99</formattedPrice>
-            <rrp>7.99</rrp>
-            <formattedRrp>£7.99</formattedRrp>
-            <onSale>false</onSale>
-          </price>
           <download>
             <packages>
               <package id="2">
@@ -1041,18 +729,6 @@
               </package>
             </packages>
           </download>
-          <formats availableDrmFree="true">
-            <format id="17">
-              <fileFormat>MP3</fileFormat>
-              <bitRate>320</bitRate>
-              <drmFree>true</drmFree>
-            </format>
-            <format id="33">
-              <fileFormat>M4A</fileFormat>
-              <bitRate>320</bitRate>
-              <drmFree>true</drmFree>
-            </format>
-          </formats>
           <label id="1705">
             <name>Tri Tone</name>
           </label>
@@ -1084,16 +760,6 @@
           <image>
 						http://artwork-cdn.7static.com/static/img/sleeveart/00/038/660/0003866012_50.jpg
 					</image>
-          <releaseDate>2014-10-20T00:00:00Z</releaseDate>
-          <addedDate>2014-10-14T16:35:57Z</addedDate>
-          <price>
-            <currency code="GBP"/>
-            <value>8.99</value>
-            <formattedPrice>£8.99</formattedPrice>
-            <rrp>8.99</rrp>
-            <formattedRrp>£8.99</formattedRrp>
-            <onSale>false</onSale>
-          </price>
           <download>
             <packages>
               <package id="2">
@@ -1114,18 +780,6 @@
               </package>
             </packages>
           </download>
-          <formats availableDrmFree="true">
-            <format id="17">
-              <fileFormat>MP3</fileFormat>
-              <bitRate>320</bitRate>
-              <drmFree>true</drmFree>
-            </format>
-            <format id="33">
-              <fileFormat>M4A</fileFormat>
-              <bitRate>320</bitRate>
-              <drmFree>true</drmFree>
-            </format>
-          </formats>
           <label id="89">
             <name>RCA Records Label</name>
           </label>

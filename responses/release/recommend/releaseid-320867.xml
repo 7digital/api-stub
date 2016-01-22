@@ -19,15 +19,6 @@
         </artist>
         <url>http://www.7digital.com/artist/stereophonics/release/keep-calm-and-carry-on/?partner=1401</url>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/006/282/0000628228_50.jpg</image>
-        <releaseDate>2009-11-16T00:00:00Z</releaseDate>
-        <price>
-          <currency code="GBP">£</currency>
-          <value>7.99</value>
-          <formattedPrice>£7.99</formattedPrice>
-          <onSale>false</onSale>
-          <rrp>7.99</rrp>
-          <formattedRrp>£7.99</formattedRrp>
-        </price>
         <download>
           <packages>
             <package id="2">
@@ -45,13 +36,6 @@
             </package>
           </packages>
         </download>
-        <formats availableDrmFree="true">
-          <format id="17">
-            <fileFormat>MP3</fileFormat>
-            <bitRate>320</bitRate>
-            <drmFree>true</drmFree>
-          </format>
-        </formats>
         <label id="110578">
           <name>PT. Universal Music Indonesia</name>
         </label>
@@ -72,15 +56,6 @@
         </artist>
         <url>http://www.7digital.com/artist/the-thrills/release/nothing-changes-around-here/?partner=1401</url>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/001/128/0000112835_50.jpg</image>
-        <releaseDate>2007-07-16T00:00:00+01:00</releaseDate>
-        <price>
-          <currency code="GBP">£</currency>
-          <value/>
-          <formattedPrice>N/A</formattedPrice>
-          <onSale>false</onSale>
-          <rrp/>
-          <formattedRrp>N/A</formattedRrp>
-        </price>
         <download>
           <packages>
             <package id="2">
@@ -98,13 +73,6 @@
             </package>
           </packages>
         </download>
-        <formats availableDrmFree="true">
-          <format id="17">
-            <fileFormat>MP3</fileFormat>
-            <bitRate>320</bitRate>
-            <drmFree>true</drmFree>
-          </format>
-        </formats>
         <label id="77">
           <name>EMI UK</name>
         </label>
@@ -125,15 +93,6 @@
         </artist>
         <url>http://www.7digital.com/artist/ocean-colour-scene/release/moseley-shoals-deluxe-edition/?partner=1401</url>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/011/585/0001158553_50.jpg</image>
-        <releaseDate>2011-03-07T00:00:00Z</releaseDate>
-        <price>
-          <currency code="GBP">£</currency>
-          <value>14.99</value>
-          <formattedPrice>£14.99</formattedPrice>
-          <onSale>false</onSale>
-          <rrp>14.99</rrp>
-          <formattedRrp>£14.99</formattedRrp>
-        </price>
         <download>
           <packages>
             <package id="2">
@@ -151,13 +110,6 @@
             </package>
           </packages>
         </download>
-        <formats availableDrmFree="true">
-          <format id="17">
-            <fileFormat>MP3</fileFormat>
-            <bitRate>320</bitRate>
-            <drmFree>true</drmFree>
-          </format>
-        </formats>
         <label id="110200">
           <name>Universal Music India Ltd.</name>
         </label>
@@ -178,15 +130,6 @@
         </artist>
         <url>http://www.7digital.com/artist/damien-rice/release/o-1/?partner=1401</url>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/000/011/0000001105_50.jpg</image>
-        <releaseDate>2007-07-24T00:00:00+01:00</releaseDate>
-        <price>
-          <currency code="GBP">£</currency>
-          <value>7.99</value>
-          <formattedPrice>£7.99</formattedPrice>
-          <onSale>false</onSale>
-          <rrp>7.99</rrp>
-          <formattedRrp>£7.99</formattedRrp>
-        </price>
         <download>
           <packages>
             <package id="2">
@@ -204,13 +147,6 @@
             </package>
           </packages>
         </download>
-        <formats availableDrmFree="true">
-          <format id="48">
-            <fileFormat>MP3</fileFormat>
-            <bitRate>256</bitRate>
-            <drmFree>true</drmFree>
-          </format>
-        </formats>
         <label id="1360">
           <name>14th Floor Records</name>
         </label>
@@ -231,15 +167,6 @@
         </artist>
         <url>http://www.7digital.com/artist/the-charlatans/release/some-friendly-expanded-edition/?partner=1401</url>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/008/072/0000807208_50.jpg</image>
-        <releaseDate>2010-05-17T00:00:00+01:00</releaseDate>
-        <price>
-          <currency code="GBP">£</currency>
-          <value>10.99</value>
-          <formattedPrice>£10.99</formattedPrice>
-          <onSale>false</onSale>
-          <rrp>10.99</rrp>
-          <formattedRrp>£10.99</formattedRrp>
-        </price>
         <download>
           <packages>
             <package id="2">
@@ -260,18 +187,6 @@
             </package>
           </packages>
         </download>
-        <formats availableDrmFree="true">
-          <format id="17">
-            <fileFormat>MP3</fileFormat>
-            <bitRate>320</bitRate>
-            <drmFree>true</drmFree>
-          </format>
-          <format id="33">
-            <fileFormat>M4A</fileFormat>
-            <bitRate>320</bitRate>
-            <drmFree>true</drmFree>
-          </format>
-        </formats>
         <label id="904">
           <name>Beggars Banquet</name>
         </label>
@@ -292,15 +207,6 @@
         </artist>
         <url>http://www.7digital.com/artist/the-thrills/release/teenager/?partner=1401</url>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/001/126/0000112654_50.jpg</image>
-        <releaseDate>2007-07-23T00:00:00+01:00</releaseDate>
-        <price>
-          <currency code="GBP">£</currency>
-          <value>8.49</value>
-          <formattedPrice>£8.49</formattedPrice>
-          <onSale>false</onSale>
-          <rrp>8.49</rrp>
-          <formattedRrp>£8.49</formattedRrp>
-        </price>
         <download>
           <packages>
             <package id="2">
@@ -318,13 +224,6 @@
             </package>
           </packages>
         </download>
-        <formats availableDrmFree="true">
-          <format id="17">
-            <fileFormat>MP3</fileFormat>
-            <bitRate>320</bitRate>
-            <drmFree>true</drmFree>
-          </format>
-        </formats>
         <label id="77">
           <name>EMI UK</name>
         </label>
@@ -345,15 +244,6 @@
         </artist>
         <url>http://www.7digital.com/artist/travis/release/j-smith/?partner=1401</url>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/002/685/0000268569_50.jpg</image>
-        <releaseDate>2008-06-29T00:00:00+01:00</releaseDate>
-        <price>
-          <currency code="GBP">£</currency>
-          <value>2.29</value>
-          <formattedPrice>£2.29</formattedPrice>
-          <onSale>false</onSale>
-          <rrp>2.29</rrp>
-          <formattedRrp>£2.29</formattedRrp>
-        </price>
         <download>
           <packages>
             <package id="2">
@@ -374,18 +264,6 @@
             </package>
           </packages>
         </download>
-        <formats availableDrmFree="true">
-          <format id="17">
-            <fileFormat>MP3</fileFormat>
-            <bitRate>320</bitRate>
-            <drmFree>true</drmFree>
-          </format>
-          <format id="33">
-            <fileFormat>M4A</fileFormat>
-            <bitRate>320</bitRate>
-            <drmFree>true</drmFree>
-          </format>
-        </formats>
         <label id="18953">
           <name>Red Phone Box</name>
         </label>
@@ -406,15 +284,6 @@
         </artist>
         <url>http://www.7digital.com/artist/aqualung/release/aqualung-1/?partner=1401</url>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/000/087/0000008771_50.jpg</image>
-        <releaseDate>2007-01-29T00:00:00Z</releaseDate>
-        <price>
-          <currency code="GBP">£</currency>
-          <value>5.49</value>
-          <formattedPrice>£5.49</formattedPrice>
-          <onSale>false</onSale>
-          <rrp>5.49</rrp>
-          <formattedRrp>£5.49</formattedRrp>
-        </price>
         <download>
           <packages>
             <package id="2">
@@ -432,13 +301,6 @@
             </package>
           </packages>
         </download>
-        <formats availableDrmFree="true">
-          <format id="48">
-            <fileFormat>MP3</fileFormat>
-            <bitRate>256</bitRate>
-            <drmFree>true</drmFree>
-          </format>
-        </formats>
         <label id="553">
           <name>WM UK</name>
         </label>
@@ -459,15 +321,6 @@
         </artist>
         <url>http://www.7digital.com/artist/r-e-m/release/its-the-end-of-the-world-as-we-know-it/?partner=1401</url>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/005/418/0000541855_50.jpg</image>
-        <releaseDate>2009-07-14T00:00:00+01:00</releaseDate>
-        <price>
-          <currency code="GBP">£</currency>
-          <value>0.99</value>
-          <formattedPrice>£0.99</formattedPrice>
-          <onSale>false</onSale>
-          <rrp>0.99</rrp>
-          <formattedRrp>£0.99</formattedRrp>
-        </price>
         <download>
           <packages>
             <package id="2">
@@ -485,13 +338,6 @@
             </package>
           </packages>
         </download>
-        <formats availableDrmFree="true">
-          <format id="17">
-            <fileFormat>MP3</fileFormat>
-            <bitRate>320</bitRate>
-            <drmFree>true</drmFree>
-          </format>
-        </formats>
         <label id="30649">
           <name>Capitol Catalog</name>
         </label>
@@ -512,15 +358,6 @@
         </artist>
         <url>http://www.7digital.com/artist/radiohead/release/the-king-of-limbs/?partner=1401</url>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/011/931/0001193196_50.jpg</image>
-        <releaseDate>2011-03-28T00:00:00+01:00</releaseDate>
-        <price>
-          <currency code="GBP">£</currency>
-          <value>8.99</value>
-          <formattedPrice>£8.99</formattedPrice>
-          <onSale>false</onSale>
-          <rrp>8.99</rrp>
-          <formattedRrp>£8.99</formattedRrp>
-        </price>
         <download>
           <packages>
             <package id="2">
@@ -544,23 +381,6 @@
             </package>
           </packages>
         </download>
-        <formats availableDrmFree="true">
-          <format id="52">
-            <fileFormat>FLAC</fileFormat>
-            <bitRate/>
-            <drmFree>true</drmFree>
-          </format>
-          <format id="17">
-            <fileFormat>MP3</fileFormat>
-            <bitRate>320</bitRate>
-            <drmFree>true</drmFree>
-          </format>
-          <format id="33">
-            <fileFormat>M4A</fileFormat>
-            <bitRate>320</bitRate>
-            <drmFree>true</drmFree>
-          </format>
-        </formats>
         <label id="76409">
           <name>Ticker Tape Ltd.</name>
         </label>
