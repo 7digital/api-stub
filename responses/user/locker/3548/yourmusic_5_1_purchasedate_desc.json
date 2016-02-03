@@ -1,126 +1,126 @@
 {
-    "xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
-    "xmlns:xsd": "http://www.w3.org/2001/XMLSchema",
-    "status": "ok",
-    "version": "1.2",
-    "xsi:noNamespaceSchemaLocation": "http://api.7digital.com/1.2/static/7digitalAPI.xsd",
-    "locker": {
-        "lockerReleases": {
-            "page": "1",
-            "pageSize": "5",
-            "totalItems": "1",
-            "lockerRelease": {
-                "release": {
-                    "id": "2923838",
-                    "title": "Factory Floor",
-                    "version": "",
-                    "type": "Album",
-                    "barcode": "5051083073516",
-                    "artist": {
-                        "id": "667594",
-                        "name": "Factory Floor",
-                        "appearsAs": "Factory Floor",
-                        "url": "http://www.7digital.com/artist/factory-floor/?partner=5932"
-                    },
-                    "url": "http://www.7digital.com/artist/factory-floor/release/factory-floor/?partner=5932",
-                    "image": "http://artwork-cdn.7static.com/static/img/sleeveart/00/029/238/0002923838_50.jpg",
-                    "releaseDate": "2013-09-09T00:00:00Z",
-                    "licensor": {
-                        "id": "48"
+  "xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+  "xmlns:xsd": "http://www.w3.org/2001/XMLSchema",
+  "status": "ok",
+  "version": "1.2",
+  "xsi:noNamespaceSchemaLocation": "http://api.7digital.com/1.2/static/7digitalAPI.xsd",
+  "locker": {
+    "lockerReleases": {
+      "page": "1",
+      "pageSize": "5",
+      "totalItems": "1",
+      "lockerRelease": {
+        "release": {
+          "id": "2923838",
+          "title": "Factory Floor",
+          "version": "",
+          "type": "Album",
+          "barcode": "5051083073516",
+          "artist": {
+            "id": "667594",
+            "name": "Factory Floor",
+            "appearsAs": "Factory Floor",
+            "url": "http://www.7digital.com/artist/factory-floor/?partner=5932"
+          },
+          "url": "http://www.7digital.com/artist/factory-floor/release/factory-floor/?partner=5932",
+          "image": "http://artwork-cdn.7static.com/static/img/sleeveart/00/029/238/0002923838_50.jpg",
+          "releaseDate": "2013-09-09T00:00:00Z",
+          "licensor": {
+            "id": "48"
+          }
+        },
+        "lockerTracks": {
+          "lockerTrack": [
+            {
+              "track": {
+                "id": "31185149",
+                "title": "Turn It Up",
+                "version": "",
+                "artist": {
+                  "id": "667594",
+                  "name": "Factory Floor",
+                  "appearsAs": "Factory Floor",
+                  "url": "http://www.7digital.com/artist/factory-floor/?partner=5932"
+                },
+                "trackNumber": "1",
+                "duration": "373",
+                "isrc": "US4GE1300073",
+                "url": "http://www.7digital.com/artist/factory-floor/release/factory-floor/?partner=5932&h=01"
+              },
+              "remainingDownloads": "5",
+              "purchaseId": "805666324",
+              "purchaseDate": "2013-09-16T10:50:37Z",
+              "completeAlbumPurchase": "false",
+              "downloadUrls": {
+                "downloadUrl": [
+                  {
+                    "url": "http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&oauth_nonce=51tu135r4gobwdly&oauth_signature=2oqeNtC3zn9JLq4WlY57p1Aqbfc%3D&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1412089058&oauth_version=1.0a&formatid=17&partnerid=3923&onbehalfofpartnerid=3923&presigned=1&releaseid=2923838&shopid=34&trackid=31185149&userid=108596530",
+                    "format": {
+                      "id": "17",
+                      "fileFormat": "MP3",
+                      "bitRate": "320",
+                      "drmFree": "true"
                     }
+                  },
+                  {
+                    "url": "http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&oauth_nonce=4au8ouheithnv3tg&oauth_signature=IeUKIpIMNjyF%2FdEuDwz1MiNy2CM%3D&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1412089058&oauth_version=1.0a&formatid=33&partnerid=3923&onbehalfofpartnerid=3923&presigned=1&releaseid=2923838&shopid=34&trackid=31185149&userid=108596530",
+                    "format": {
+                      "id": "33",
+                      "fileFormat": "M4A",
+                      "bitRate": "320",
+                      "drmFree": "true"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "track": {
+                "id": "31185162",
+                "title": "Here Again",
+                "version": "",
+                "artist": {
+                  "id": "667594",
+                  "name": "Factory Floor",
+                  "appearsAs": "Factory Floor",
+                  "url": "http://www.7digital.com/artist/factory-floor/?partner=5932"
                 },
-                "lockerTracks": {
-                    "lockerTrack": [
-                        {
-                            "track": {
-                                "id": "31185149",
-                                "title": "Turn It Up",
-                                "version": "",
-                                "artist": {
-                                    "id": "667594",
-                                    "name": "Factory Floor",
-                                    "appearsAs": "Factory Floor",
-                                    "url": "http://www.7digital.com/artist/factory-floor/?partner=5932"
-                                },
-                                "trackNumber": "1",
-                                "duration": "373",
-                                "isrc": "US4GE1300073",
-                                "url": "http://www.7digital.com/artist/factory-floor/release/factory-floor/?partner=5932&h=01"
-                            },
-                            "remainingDownloads": "5",
-                            "purchaseId": "805666324",
-                            "purchaseDate": "2013-09-16T10:50:37Z",
-                            "completeAlbumPurchase": "false",
-                            "downloadUrls": {
-                                "downloadUrl": [
-                                    {
-                                        "url": "http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&oauth_nonce=51tu135r4gobwdly&oauth_signature=2oqeNtC3zn9JLq4WlY57p1Aqbfc%3D&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1412089058&oauth_version=1.0a&formatid=17&partnerid=3923&onbehalfofpartnerid=3923&presigned=1&releaseid=2923838&shopid=34&trackid=31185149&userid=108596530",
-                                        "format": {
-                                            "id": "17",
-                                            "fileFormat": "MP3",
-                                            "bitRate": "320",
-                                            "drmFree": "true"
-                                        }
-                                    },
-                                    {
-                                        "url": "http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&oauth_nonce=4au8ouheithnv3tg&oauth_signature=IeUKIpIMNjyF%2FdEuDwz1MiNy2CM%3D&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1412089058&oauth_version=1.0a&formatid=33&partnerid=3923&onbehalfofpartnerid=3923&presigned=1&releaseid=2923838&shopid=34&trackid=31185149&userid=108596530",
-                                        "format": {
-                                            "id": "33",
-                                            "fileFormat": "M4A",
-                                            "bitRate": "320",
-                                            "drmFree": "true"
-                                        }
-                                    }
-                                ]
-                            }
-                        },
-                        {
-                            "track": {
-                                "id": "31185162",
-                                "title": "Here Again",
-                                "version": "",
-                                "artist": {
-                                    "id": "667594",
-                                    "name": "Factory Floor",
-                                    "appearsAs": "Factory Floor",
-                                    "url": "http://www.7digital.com/artist/factory-floor/?partner=5932"
-                                },
-                                "trackNumber": "2",
-                                "duration": "487",
-                                "isrc": "US4GE1300074",
-                                "url": "http://www.7digital.com/artist/factory-floor/release/factory-floor/?partner=5932&h=02"
-                            },
-                            "remainingDownloads": "5",
-                            "purchaseId": "805666324",
-                            "purchaseDate": "2013-09-16T10:50:37Z",
-                            "completeAlbumPurchase": "false",
-                            "downloadUrls": {
-                                "downloadUrl": [
-                                    {
-                                        "url": "http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&oauth_nonce=yb8eodx8pg8qwjnf&oauth_signature=rOapOMjzSS9Z44Edzj%2BP5kHUo%2Bw%3D&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1412089058&oauth_version=1.0a&formatid=17&partnerid=3923&onbehalfofpartnerid=3923&presigned=1&releaseid=2923838&shopid=34&trackid=31185162&userid=108596530",
-                                        "format": {
-                                            "id": "17",
-                                            "fileFormat": "MP3",
-                                            "bitRate": "320",
-                                            "drmFree": "true"
-                                        }
-                                    },
-                                    {
-                                        "url": "http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&oauth_nonce=l1dxjj6jsolgur7b&oauth_signature=yunnR5Qgaju94rfyVN8kvSacQ4Q%3D&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1412089058&oauth_version=1.0a&formatid=33&partnerid=3923&onbehalfofpartnerid=3923&presigned=1&releaseid=2923838&shopid=34&trackid=31185162&userid=108596530",
-                                        "format": {
-                                            "id": "33",
-                                            "fileFormat": "M4A",
-                                            "bitRate": "320",
-                                            "drmFree": "true"
-                                        }
-                                    }
-                                ]
-                            }
-                        }
-                    ]
-                },
-                "available": "true"
+                "trackNumber": "2",
+                "duration": "487",
+                "isrc": "US4GE1300074",
+                "url": "http://www.7digital.com/artist/factory-floor/release/factory-floor/?partner=5932&h=02"
+              },
+              "remainingDownloads": "5",
+              "purchaseId": "805666324",
+              "purchaseDate": "2013-09-16T10:50:37Z",
+              "completeAlbumPurchase": "false",
+              "downloadUrls": {
+                "downloadUrl": [
+                  {
+                    "url": "http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&oauth_nonce=yb8eodx8pg8qwjnf&oauth_signature=rOapOMjzSS9Z44Edzj%2BP5kHUo%2Bw%3D&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1412089058&oauth_version=1.0a&formatid=17&partnerid=3923&onbehalfofpartnerid=3923&presigned=1&releaseid=2923838&shopid=34&trackid=31185162&userid=108596530",
+                    "format": {
+                      "id": "17",
+                      "fileFormat": "MP3",
+                      "bitRate": "320",
+                      "drmFree": "true"
+                    }
+                  },
+                  {
+                    "url": "http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&oauth_nonce=l1dxjj6jsolgur7b&oauth_signature=yunnR5Qgaju94rfyVN8kvSacQ4Q%3D&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1412089058&oauth_version=1.0a&formatid=33&partnerid=3923&onbehalfofpartnerid=3923&presigned=1&releaseid=2923838&shopid=34&trackid=31185162&userid=108596530",
+                    "format": {
+                      "id": "33",
+                      "fileFormat": "M4A",
+                      "bitRate": "320",
+                      "drmFree": "true"
+                    }
+                  }
+                ]
+              }
             }
-        }
+          ]
+        },
+        "available": "true"
+      }
     }
+  }
 }

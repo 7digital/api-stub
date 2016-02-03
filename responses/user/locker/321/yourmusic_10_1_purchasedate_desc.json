@@ -1,60 +1,60 @@
 {
-    "status": "ok",
-    "version": "1.2",
-    "xsi:noNamespaceSchemaLocation": "http://api.7digital.systest/1.2/static/7digitalAPI.xsd",
-    "xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
-    "locker": {
-        "lockerReleases": {
-            "page": "1",
-            "pageSize": "10",
-            "totalItems": "1",
-            "lockerRelease": {
-                "release": {
-                    "id": "188863",
-                    "title": "NotAvailableYet",
-                    "version": "",
-                    "type": "Album",
-                    "barcode": "093624988298",
-                    "artist": {
-                        "id": "304",
-                        "name": "StillWaiting",
-                        "appearsAs": "StillWaiting",
-                        "url": "http://www.7digital.com/artists/radiohead/?partner=712"
-                    },
-                    "url": "http://www.7digital.com/artists/radiohead/in-rainbows/?partner=712",
-                    "image": "http://artwork-cdn.7static.com/static/img/sleeveart/00/001/888/0000188863_50.jpg",
-                    "releaseDate": "2007-12-31T00:00:00Z"
-                },
-                "lockerTracks": {
-                    "lockerTrack": {
-                        "track": {
-                            "id": "2052636",
-                            "title": "Item 0",
-                            "version": "",
-                            "artist": {
-                                "id": "304",
-                                "name": "StillWaiting",
-                                "appearsAs": "StillWaiting",
-                                "url": "http://www.7digital.com/artists/radiohead/?partner=712"
-                            },
-                            "url": "http://www.7digital.com/artists/radiohead/in-rainbows/01-15-Step?partner=712&partner=712"
-                        },
-                        "remainingDownloads": "5",
-                        "purchaseDate": "2011-04-13T16:30:35+01:00",
-                        "downloadUrls": {
-                            "downloadUrl": {
-                                "url": "http://media3.7digital.com/media/user/downloadtrack?formatid=17&oauth_consumer_key=7digital.com&oauth_nonce=193446&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1302786566&releaseid=188863&shopid=34&trackid=2052636&oauth_signature=fky3BN0gEGrCeCviP%2FdefDnEPNU%3D",
-                                "format": {
-                                    "id": "17",
-                                    "fileFormat": "MP3",
-                                    "bitRate": "320",
-                                    "drmFree": "true"
-                                }
-                            }
-                        }
-                    }
+  "status": "ok",
+  "version": "1.2",
+  "xsi:noNamespaceSchemaLocation": "http://api.7digital.systest/1.2/static/7digitalAPI.xsd",
+  "xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+  "locker": {
+    "lockerReleases": {
+      "page": "1",
+      "pageSize": "10",
+      "totalItems": "1",
+      "lockerRelease": {
+        "release": {
+          "id": "188863",
+          "title": "NotAvailableYet",
+          "version": "",
+          "type": "Album",
+          "barcode": "093624988298",
+          "artist": {
+            "id": "304",
+            "name": "StillWaiting",
+            "appearsAs": "StillWaiting",
+            "url": "http://www.7digital.com/artists/radiohead/?partner=712"
+          },
+          "url": "http://www.7digital.com/artists/radiohead/in-rainbows/?partner=712",
+          "image": "http://artwork-cdn.7static.com/static/img/sleeveart/00/001/888/0000188863_50.jpg",
+          "releaseDate": "2007-12-31T00:00:00Z"
+        },
+        "lockerTracks": {
+          "lockerTrack": {
+            "track": {
+              "id": "2052636",
+              "title": "Item 0",
+              "version": "",
+              "artist": {
+                "id": "304",
+                "name": "StillWaiting",
+                "appearsAs": "StillWaiting",
+                "url": "http://www.7digital.com/artists/radiohead/?partner=712"
+              },
+              "url": "http://www.7digital.com/artists/radiohead/in-rainbows/01-15-Step?partner=712&partner=712"
+            },
+            "remainingDownloads": "5",
+            "purchaseDate": "2011-04-13T16:30:35+01:00",
+            "downloadUrls": {
+              "downloadUrl": {
+                "url": "http://media3.7digital.com/media/user/downloadtrack?formatid=17&oauth_consumer_key=7digital.com&oauth_nonce=193446&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1302786566&releaseid=188863&shopid=34&trackid=2052636&oauth_signature=fky3BN0gEGrCeCviP%2FdefDnEPNU%3D",
+                "format": {
+                  "id": "17",
+                  "fileFormat": "MP3",
+                  "bitRate": "320",
+                  "drmFree": "true"
                 }
+              }
             }
+          }
         }
+      }
     }
+  }
 }

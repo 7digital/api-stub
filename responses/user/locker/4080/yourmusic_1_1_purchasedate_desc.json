@@ -1,60 +1,60 @@
 {
-    "xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
-    "xmlns:xsd": "http://www.w3.org/2001/XMLSchema",
-    "status": "ok",
-    "version": "1.2",
-    "xsi:noNamespaceSchemaLocation": "http://api.7digital.com/1.2/static/7digitalAPI.xsd",
-    "locker": {
-        "lockerReleases": {
-            "page": "1",
-            "pageSize": "36",
-            "totalItems": "54",
-            "lockerRelease": {
-                "release": {
-                    "id": "1627544",
-                    "title": "Elvis",
-                    "version": "",
-                    "type": "Album",
-                    "barcode": "7640138331084",
-                    "artist": {
-                        "id": "2200",
-                        "name": "Elvis Presley",
-                        "appearsAs": "Elvis Presley",
-                        "url": "http://www.7digital.com/artist/elvis-presley-(2)/?partner=5932"
-                    },
-                    "url": "http://www.7digital.com/artist/elvis-presley-(2)/release/elvis-8/?partner=5932",
-                    "image": "http://artwork-cdn.7static.com/static/img/sleeveart/00/016/275/0001627544_50.jpg",
-                    "releaseDate": "2012-02-24T00:00:00Z",
-                    "licensor": {
-                        "id": "68"
-                    }
-                },
-                "lockerTracks": {
-                    "lockerTrack": {
-                        "track": {
-                            "id": "17832764",
-                            "title": "King Creole",
-                            "version": "",
-                            "artist": {
-                                "id": "2200",
-                                "name": "Elvis Presley",
-                                "appearsAs": "Elvis Presley",
-                                "url": "http://www.7digital.com/artist/elvis-presley-(2)/?partner=5932"
-                            },
-                            "trackNumber": "40",
-                            "duration": "131",
-                            "isrc": "GBURZ1000969",
-                            "url": "http://www.7digital.com/artist/elvis-presley-(2)/release/elvis-8/?partner=5932&h=40"
-                        },
-                        "remainingDownloads": "5",
-                        "purchaseId": "814165778",
-                        "purchaseDate": "2014-07-30T10:55:41Z",
-                        "completeAlbumPurchase": "true",
-                        "downloadUrls": ""
-                    }
-                },
-                "available": "true"
-            }
-        }
+  "xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+  "xmlns:xsd": "http://www.w3.org/2001/XMLSchema",
+  "status": "ok",
+  "version": "1.2",
+  "xsi:noNamespaceSchemaLocation": "http://api.7digital.com/1.2/static/7digitalAPI.xsd",
+  "locker": {
+    "lockerReleases": {
+      "page": "1",
+      "pageSize": "36",
+      "totalItems": "54",
+      "lockerRelease": {
+        "release": {
+          "id": "1627544",
+          "title": "Elvis",
+          "version": "",
+          "type": "Album",
+          "barcode": "7640138331084",
+          "artist": {
+            "id": "2200",
+            "name": "Elvis Presley",
+            "appearsAs": "Elvis Presley",
+            "url": "http://www.7digital.com/artist/elvis-presley-(2)/?partner=5932"
+          },
+          "url": "http://www.7digital.com/artist/elvis-presley-(2)/release/elvis-8/?partner=5932",
+          "image": "http://artwork-cdn.7static.com/static/img/sleeveart/00/016/275/0001627544_50.jpg",
+          "releaseDate": "2012-02-24T00:00:00Z",
+          "licensor": {
+            "id": "68"
+          }
+        },
+        "lockerTracks": {
+          "lockerTrack": {
+            "track": {
+              "id": "17832764",
+              "title": "King Creole",
+              "version": "",
+              "artist": {
+                "id": "2200",
+                "name": "Elvis Presley",
+                "appearsAs": "Elvis Presley",
+                "url": "http://www.7digital.com/artist/elvis-presley-(2)/?partner=5932"
+              },
+              "trackNumber": "40",
+              "duration": "131",
+              "isrc": "GBURZ1000969",
+              "url": "http://www.7digital.com/artist/elvis-presley-(2)/release/elvis-8/?partner=5932&h=40"
+            },
+            "remainingDownloads": "5",
+            "purchaseId": "814165778",
+            "purchaseDate": "2014-07-30T10:55:41Z",
+            "completeAlbumPurchase": "true",
+            "downloadUrls": ""
+          }
+        },
+        "available": "true"
+      }
     }
+  }
 }

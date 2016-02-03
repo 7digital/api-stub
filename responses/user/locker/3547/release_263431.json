@@ -1,986 +1,986 @@
 {
-    "xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
-    "xmlns:xsd": "http://www.w3.org/2001/XMLSchema",
-    "status": "ok",
-    "version": "1.2",
-    "xsi:noNamespaceSchemaLocation": "http://api.7digital.com/1.2/static/7digitalAPI.xsd",
-    "locker": {
-        "lockerReleases": {
-            "page": "1",
-            "pageSize": "10",
-            "totalItems": "1",
-            "lockerRelease": {
-                "release": {
-                    "id": "263431",
-                    "title": "KylieFever2002 Live In Manchester",
-                    "version": "",
-                    "type": "Video",
-                    "barcode": "0724349010154",
-                    "artist": {
-                        "id": "1599",
-                        "name": "Kylie",
-                        "appearsAs": "Kylie Minogue",
-                        "url": "http://www.7digital.com/artist/kylie/?partner=5932"
-                    },
-                    "url": "http://www.7digital.com/artist/kylie/release/kyliefever2002-live-in-manchester/?partner=5932",
-                    "image": "http://artwork-cdn.7static.com/static/img/sleeveart/00/002/634/0000263431_50.jpg",
-                    "releaseDate": "2008-05-26T00:00:00Z",
-                    "licensor": {
-                        "id": "18"
+  "xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+  "xmlns:xsd": "http://www.w3.org/2001/XMLSchema",
+  "status": "ok",
+  "version": "1.2",
+  "xsi:noNamespaceSchemaLocation": "http://api.7digital.com/1.2/static/7digitalAPI.xsd",
+  "locker": {
+    "lockerReleases": {
+      "page": "1",
+      "pageSize": "10",
+      "totalItems": "1",
+      "lockerRelease": {
+        "release": {
+          "id": "263431",
+          "title": "KylieFever2002 Live In Manchester",
+          "version": "",
+          "type": "Video",
+          "barcode": "0724349010154",
+          "artist": {
+            "id": "1599",
+            "name": "Kylie",
+            "appearsAs": "Kylie Minogue",
+            "url": "http://www.7digital.com/artist/kylie/?partner=5932"
+          },
+          "url": "http://www.7digital.com/artist/kylie/release/kyliefever2002-live-in-manchester/?partner=5932",
+          "image": "http://artwork-cdn.7static.com/static/img/sleeveart/00/002/634/0000263431_50.jpg",
+          "releaseDate": "2008-05-26T00:00:00Z",
+          "licensor": {
+            "id": "18"
+          }
+        },
+        "lockerTracks": {
+          "lockerTrack": [
+            {
+              "track": {
+                "id": "2768322",
+                "title": "The Sound Of Music (Live In Manchester)",
+                "version": "",
+                "artist": {
+                  "id": "1599",
+                  "name": "Kylie",
+                  "appearsAs": "Kylie Minogue",
+                  "url": "http://www.7digital.com/artist/kylie/?partner=5932"
+                },
+                "trackNumber": "1",
+                "duration": "70",
+                "isrc": "GB0400200830",
+                "url": "http://www.7digital.com/artist/kylie/release/kyliefever2002-live-in-manchester/?partner=5932&h=01"
+              },
+              "remainingDownloads": "5",
+              "purchaseId": "0",
+              "purchaseDate": "2013-06-18T16:24:30Z",
+              "completeAlbumPurchase": "false",
+              "downloadUrls": {
+                "downloadUrl": [
+                  {
+                    "url": "http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&oauth_nonce=e88058q5bwsl9kqr&oauth_signature=AoNBtZHgyDkR7dQcY%2Fg0NM7cKLY%3D&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1409567602&oauth_version=1.0a&formatid=21&partnerid=712&onbehalfofpartnerid=712&presigned=1&releaseid=263431&shopid=34&trackid=2768322&userid=121404036",
+                    "format": {
+                      "id": "21",
+                      "fileFormat": "MP4",
+                      "bitRate": "0",
+                      "drmFree": "true"
                     }
+                  },
+                  {
+                    "url": "http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&oauth_nonce=k24kwfsx0s0i1edu&oauth_signature=Aa1Br0yq15%2BETqS5Y9kHYRgSVJ4%3D&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1409567602&oauth_version=1.0a&formatid=9&partnerid=712&onbehalfofpartnerid=712&presigned=1&releaseid=263431&shopid=34&trackid=2768322&userid=121404036",
+                    "format": {
+                      "id": "9",
+                      "fileFormat": "MP4",
+                      "bitRate": "0",
+                      "drmFree": "true"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "track": {
+                "id": "2768325",
+                "title": "Come Into My World (Live In Manchester)",
+                "version": "",
+                "artist": {
+                  "id": "1599",
+                  "name": "Kylie",
+                  "appearsAs": "Kylie Minogue",
+                  "url": "http://www.7digital.com/artist/kylie/?partner=5932"
                 },
-                "lockerTracks": {
-                    "lockerTrack": [
-                        {
-                            "track": {
-                                "id": "2768322",
-                                "title": "The Sound Of Music (Live In Manchester)",
-                                "version": "",
-                                "artist": {
-                                    "id": "1599",
-                                    "name": "Kylie",
-                                    "appearsAs": "Kylie Minogue",
-                                    "url": "http://www.7digital.com/artist/kylie/?partner=5932"
-                                },
-                                "trackNumber": "1",
-                                "duration": "70",
-                                "isrc": "GB0400200830",
-                                "url": "http://www.7digital.com/artist/kylie/release/kyliefever2002-live-in-manchester/?partner=5932&h=01"
-                            },
-                            "remainingDownloads": "5",
-                            "purchaseId": "0",
-                            "purchaseDate": "2013-06-18T16:24:30Z",
-                            "completeAlbumPurchase": "false",
-                            "downloadUrls": {
-                                "downloadUrl": [
-                                    {
-                                        "url": "http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&oauth_nonce=e88058q5bwsl9kqr&oauth_signature=AoNBtZHgyDkR7dQcY%2Fg0NM7cKLY%3D&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1409567602&oauth_version=1.0a&formatid=21&partnerid=712&onbehalfofpartnerid=712&presigned=1&releaseid=263431&shopid=34&trackid=2768322&userid=121404036",
-                                        "format": {
-                                            "id": "21",
-                                            "fileFormat": "MP4",
-                                            "bitRate": "0",
-                                            "drmFree": "true"
-                                        }
-                                    },
-                                    {
-                                        "url": "http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&oauth_nonce=k24kwfsx0s0i1edu&oauth_signature=Aa1Br0yq15%2BETqS5Y9kHYRgSVJ4%3D&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1409567602&oauth_version=1.0a&formatid=9&partnerid=712&onbehalfofpartnerid=712&presigned=1&releaseid=263431&shopid=34&trackid=2768322&userid=121404036",
-                                        "format": {
-                                            "id": "9",
-                                            "fileFormat": "MP4",
-                                            "bitRate": "0",
-                                            "drmFree": "true"
-                                        }
-                                    }
-                                ]
-                            }
-                        },
-                        {
-                            "track": {
-                                "id": "2768325",
-                                "title": "Come Into My World (Live In Manchester)",
-                                "version": "",
-                                "artist": {
-                                    "id": "1599",
-                                    "name": "Kylie",
-                                    "appearsAs": "Kylie Minogue",
-                                    "url": "http://www.7digital.com/artist/kylie/?partner=5932"
-                                },
-                                "trackNumber": "2",
-                                "duration": "372",
-                                "isrc": "GB0400200840",
-                                "url": "http://www.7digital.com/artist/kylie/release/kyliefever2002-live-in-manchester/?partner=5932&h=02"
-                            },
-                            "remainingDownloads": "5",
-                            "purchaseId": "0",
-                            "purchaseDate": "2013-06-18T16:24:30Z",
-                            "completeAlbumPurchase": "false",
-                            "downloadUrls": {
-                                "downloadUrl": [
-                                    {
-                                        "url": "http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&oauth_nonce=9bnn37g1av2slbfp&oauth_signature=9ZeCmqZNkFA2mrfesy3BGWKtFcA%3D&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1409567602&oauth_version=1.0a&formatid=21&partnerid=712&onbehalfofpartnerid=712&presigned=1&releaseid=263431&shopid=34&trackid=2768325&userid=121404036",
-                                        "format": {
-                                            "id": "21",
-                                            "fileFormat": "MP4",
-                                            "bitRate": "0",
-                                            "drmFree": "true"
-                                        }
-                                    },
-                                    {
-                                        "url": "http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&oauth_nonce=vvbsx6e9ok0l8he7&oauth_signature=IjDvS3f7WEcx6tv6ol8C1p8idHM%3D&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1409567602&oauth_version=1.0a&formatid=9&partnerid=712&onbehalfofpartnerid=712&presigned=1&releaseid=263431&shopid=34&trackid=2768325&userid=121404036",
-                                        "format": {
-                                            "id": "9",
-                                            "fileFormat": "MP4",
-                                            "bitRate": "0",
-                                            "drmFree": "true"
-                                        }
-                                    }
-                                ]
-                            }
-                        },
-                        {
-                            "track": {
-                                "id": "2768328",
-                                "title": "Shocked (Live In Manchester)",
-                                "version": "",
-                                "artist": {
-                                    "id": "1599",
-                                    "name": "Kylie",
-                                    "appearsAs": "Kylie Minogue",
-                                    "url": "http://www.7digital.com/artist/kylie/?partner=5932"
-                                },
-                                "trackNumber": "3",
-                                "duration": "328",
-                                "isrc": "GB0400200850",
-                                "url": "http://www.7digital.com/artist/kylie/release/kyliefever2002-live-in-manchester/?partner=5932&h=03"
-                            },
-                            "remainingDownloads": "5",
-                            "purchaseId": "0",
-                            "purchaseDate": "2013-06-18T16:24:30Z",
-                            "completeAlbumPurchase": "false",
-                            "downloadUrls": {
-                                "downloadUrl": [
-                                    {
-                                        "url": "http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&oauth_nonce=s9n87cznvckaoam8&oauth_signature=9YO%2F7ZlMX5xEZ8t44nwDSR4DDJ0%3D&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1409567602&oauth_version=1.0a&formatid=21&partnerid=712&onbehalfofpartnerid=712&presigned=1&releaseid=263431&shopid=34&trackid=2768328&userid=121404036",
-                                        "format": {
-                                            "id": "21",
-                                            "fileFormat": "MP4",
-                                            "bitRate": "0",
-                                            "drmFree": "true"
-                                        }
-                                    },
-                                    {
-                                        "url": "http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&oauth_nonce=muxedv8c7o9s7543&oauth_signature=SHGBrWLAawcP4vtAdXNstrkC34g%3D&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1409567602&oauth_version=1.0a&formatid=9&partnerid=712&onbehalfofpartnerid=712&presigned=1&releaseid=263431&shopid=34&trackid=2768328&userid=121404036",
-                                        "format": {
-                                            "id": "9",
-                                            "fileFormat": "MP4",
-                                            "bitRate": "0",
-                                            "drmFree": "true"
-                                        }
-                                    }
-                                ]
-                            }
-                        },
-                        {
-                            "track": {
-                                "id": "2768330",
-                                "title": "Love At First Sight (Live In Manchester)",
-                                "version": "",
-                                "artist": {
-                                    "id": "1599",
-                                    "name": "Kylie",
-                                    "appearsAs": "Kylie Minogue",
-                                    "url": "http://www.7digital.com/artist/kylie/?partner=5932"
-                                },
-                                "trackNumber": "4",
-                                "duration": "252",
-                                "isrc": "GB0400200230",
-                                "url": "http://www.7digital.com/artist/kylie/release/kyliefever2002-live-in-manchester/?partner=5932&h=04"
-                            },
-                            "remainingDownloads": "5",
-                            "purchaseId": "0",
-                            "purchaseDate": "2013-06-18T16:24:30Z",
-                            "completeAlbumPurchase": "false",
-                            "downloadUrls": {
-                                "downloadUrl": [
-                                    {
-                                        "url": "http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&oauth_nonce=r50nyhts6x7uveun&oauth_signature=1yv0PjjofIyxG4I%2BB4PpkKftNk0%3D&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1409567602&oauth_version=1.0a&formatid=21&partnerid=712&onbehalfofpartnerid=712&presigned=1&releaseid=263431&shopid=34&trackid=2768330&userid=121404036",
-                                        "format": {
-                                            "id": "21",
-                                            "fileFormat": "MP4",
-                                            "bitRate": "0",
-                                            "drmFree": "true"
-                                        }
-                                    },
-                                    {
-                                        "url": "http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&oauth_nonce=8b0mt048bkardhr2&oauth_signature=rdHRHZ%2FnEHRTr%2BB%2FyZCmWAU%2BqIY%3D&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1409567602&oauth_version=1.0a&formatid=9&partnerid=712&onbehalfofpartnerid=712&presigned=1&releaseid=263431&shopid=34&trackid=2768330&userid=121404036",
-                                        "format": {
-                                            "id": "9",
-                                            "fileFormat": "MP4",
-                                            "bitRate": "0",
-                                            "drmFree": "true"
-                                        }
-                                    }
-                                ]
-                            }
-                        },
-                        {
-                            "track": {
-                                "id": "2768332",
-                                "title": "Fever (Live In Manchester)",
-                                "version": "",
-                                "artist": {
-                                    "id": "1599",
-                                    "name": "Kylie",
-                                    "appearsAs": "Kylie Minogue",
-                                    "url": "http://www.7digital.com/artist/kylie/?partner=5932"
-                                },
-                                "trackNumber": "5",
-                                "duration": "223",
-                                "isrc": "GB0400200870",
-                                "url": "http://www.7digital.com/artist/kylie/release/kyliefever2002-live-in-manchester/?partner=5932&h=05"
-                            },
-                            "remainingDownloads": "5",
-                            "purchaseId": "0",
-                            "purchaseDate": "2013-06-18T16:24:30Z",
-                            "completeAlbumPurchase": "false",
-                            "downloadUrls": {
-                                "downloadUrl": [
-                                    {
-                                        "url": "http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&oauth_nonce=jrstb0jebeipymr3&oauth_signature=pPUwBVMYuJGcEmQBYIg5m3Lxahs%3D&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1409567602&oauth_version=1.0a&formatid=21&partnerid=712&onbehalfofpartnerid=712&presigned=1&releaseid=263431&shopid=34&trackid=2768332&userid=121404036",
-                                        "format": {
-                                            "id": "21",
-                                            "fileFormat": "MP4",
-                                            "bitRate": "0",
-                                            "drmFree": "true"
-                                        }
-                                    },
-                                    {
-                                        "url": "http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&oauth_nonce=5uu56qisablohbpy&oauth_signature=U5SXA%2FLQsOlbQ0DTuvFvbaMqvOc%3D&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1409567602&oauth_version=1.0a&formatid=9&partnerid=712&onbehalfofpartnerid=712&presigned=1&releaseid=263431&shopid=34&trackid=2768332&userid=121404036",
-                                        "format": {
-                                            "id": "9",
-                                            "fileFormat": "MP4",
-                                            "bitRate": "0",
-                                            "drmFree": "true"
-                                        }
-                                    }
-                                ]
-                            }
-                        },
-                        {
-                            "track": {
-                                "id": "2768334",
-                                "title": "Spinning Around (Live In Manchester)",
-                                "version": "",
-                                "artist": {
-                                    "id": "1599",
-                                    "name": "Kylie",
-                                    "appearsAs": "Kylie Minogue",
-                                    "url": "http://www.7digital.com/artist/kylie/?partner=5932"
-                                },
-                                "trackNumber": "6",
-                                "duration": "305",
-                                "isrc": "GB0400200880",
-                                "url": "http://www.7digital.com/artist/kylie/release/kyliefever2002-live-in-manchester/?partner=5932&h=06"
-                            },
-                            "remainingDownloads": "5",
-                            "purchaseId": "0",
-                            "purchaseDate": "2013-06-18T16:24:30Z",
-                            "completeAlbumPurchase": "false",
-                            "downloadUrls": {
-                                "downloadUrl": [
-                                    {
-                                        "url": "http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&oauth_nonce=gfldvam935lp1niz&oauth_signature=T%2BrwRZ9umEM0jUnn5tZM6uTH9qc%3D&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1409567602&oauth_version=1.0a&formatid=21&partnerid=712&onbehalfofpartnerid=712&presigned=1&releaseid=263431&shopid=34&trackid=2768334&userid=121404036",
-                                        "format": {
-                                            "id": "21",
-                                            "fileFormat": "MP4",
-                                            "bitRate": "0",
-                                            "drmFree": "true"
-                                        }
-                                    },
-                                    {
-                                        "url": "http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&oauth_nonce=3ixsww73iat0x580&oauth_signature=3kKbvgkQ6t%2FovsWCRj3VtQZ0jLI%3D&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1409567602&oauth_version=1.0a&formatid=9&partnerid=712&onbehalfofpartnerid=712&presigned=1&releaseid=263431&shopid=34&trackid=2768334&userid=121404036",
-                                        "format": {
-                                            "id": "9",
-                                            "fileFormat": "MP4",
-                                            "bitRate": "0",
-                                            "drmFree": "true"
-                                        }
-                                    }
-                                ]
-                            }
-                        },
-                        {
-                            "track": {
-                                "id": "2768336",
-                                "title": "The Crying Game (Ballads Section) (Live In Manchester)",
-                                "version": "",
-                                "artist": {
-                                    "id": "1599",
-                                    "name": "Kylie",
-                                    "appearsAs": "Kylie Minogue",
-                                    "url": "http://www.7digital.com/artist/kylie/?partner=5932"
-                                },
-                                "trackNumber": "7",
-                                "duration": "536",
-                                "isrc": "GB0400200890",
-                                "url": "http://www.7digital.com/artist/kylie/release/kyliefever2002-live-in-manchester/?partner=5932&h=07"
-                            },
-                            "remainingDownloads": "5",
-                            "purchaseId": "0",
-                            "purchaseDate": "2013-06-18T16:24:30Z",
-                            "completeAlbumPurchase": "false",
-                            "downloadUrls": {
-                                "downloadUrl": [
-                                    {
-                                        "url": "http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&oauth_nonce=zujtaoh5ivcaf43x&oauth_signature=DKxSO7RmQLiAO%2BdjKAyvjnt9iDI%3D&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1409567602&oauth_version=1.0a&formatid=21&partnerid=712&onbehalfofpartnerid=712&presigned=1&releaseid=263431&shopid=34&trackid=2768336&userid=121404036",
-                                        "format": {
-                                            "id": "21",
-                                            "fileFormat": "MP4",
-                                            "bitRate": "0",
-                                            "drmFree": "true"
-                                        }
-                                    },
-                                    {
-                                        "url": "http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&oauth_nonce=4wv9o7btis5urml8&oauth_signature=TlnuumuaxvKVpnU%2FiQyqpmygrZg%3D&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1409567602&oauth_version=1.0a&formatid=9&partnerid=712&onbehalfofpartnerid=712&presigned=1&releaseid=263431&shopid=34&trackid=2768336&userid=121404036",
-                                        "format": {
-                                            "id": "9",
-                                            "fileFormat": "MP4",
-                                            "bitRate": "0",
-                                            "drmFree": "true"
-                                        }
-                                    }
-                                ]
-                            }
-                        },
-                        {
-                            "track": {
-                                "id": "2768337",
-                                "title": "GBI (Live In Manchester)",
-                                "version": "",
-                                "artist": {
-                                    "id": "1599",
-                                    "name": "Kylie",
-                                    "appearsAs": "Kylie Minogue",
-                                    "url": "http://www.7digital.com/artist/kylie/?partner=5932"
-                                },
-                                "trackNumber": "8",
-                                "duration": "217",
-                                "isrc": "GB0400200900",
-                                "url": "http://www.7digital.com/artist/kylie/release/kyliefever2002-live-in-manchester/?partner=5932&h=08"
-                            },
-                            "remainingDownloads": "5",
-                            "purchaseId": "0",
-                            "purchaseDate": "2013-06-18T16:24:30Z",
-                            "completeAlbumPurchase": "false",
-                            "downloadUrls": {
-                                "downloadUrl": [
-                                    {
-                                        "url": "http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&oauth_nonce=7lzgezyob3kbt6xp&oauth_signature=EUPARxrqvrJzjRN9HvFdLqcFogs%3D&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1409567602&oauth_version=1.0a&formatid=21&partnerid=712&onbehalfofpartnerid=712&presigned=1&releaseid=263431&shopid=34&trackid=2768337&userid=121404036",
-                                        "format": {
-                                            "id": "21",
-                                            "fileFormat": "MP4",
-                                            "bitRate": "0",
-                                            "drmFree": "true"
-                                        }
-                                    },
-                                    {
-                                        "url": "http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&oauth_nonce=i6gaj0v4szkrtwn6&oauth_signature=W2qjwpWIUnc4dKK%2B9o8rftuIyAk%3D&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1409567602&oauth_version=1.0a&formatid=9&partnerid=712&onbehalfofpartnerid=712&presigned=1&releaseid=263431&shopid=34&trackid=2768337&userid=121404036",
-                                        "format": {
-                                            "id": "9",
-                                            "fileFormat": "MP4",
-                                            "bitRate": "0",
-                                            "drmFree": "true"
-                                        }
-                                    }
-                                ]
-                            }
-                        },
-                        {
-                            "track": {
-                                "id": "2768339",
-                                "title": "Confide In Me (Live In Manchester)",
-                                "version": "",
-                                "artist": {
-                                    "id": "1599",
-                                    "name": "Kylie",
-                                    "appearsAs": "Kylie Minogue",
-                                    "url": "http://www.7digital.com/artist/kylie/?partner=5932"
-                                },
-                                "trackNumber": "9",
-                                "duration": "390",
-                                "isrc": "GB0400200910",
-                                "url": "http://www.7digital.com/artist/kylie/release/kyliefever2002-live-in-manchester/?partner=5932&h=09"
-                            },
-                            "remainingDownloads": "5",
-                            "purchaseId": "0",
-                            "purchaseDate": "2013-06-18T16:24:30Z",
-                            "completeAlbumPurchase": "false",
-                            "downloadUrls": {
-                                "downloadUrl": [
-                                    {
-                                        "url": "http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&oauth_nonce=kee4dwtd9g7vva0n&oauth_signature=1HgSms3pXgoXZZ0T3ID5YKrDujQ%3D&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1409567602&oauth_version=1.0a&formatid=21&partnerid=712&onbehalfofpartnerid=712&presigned=1&releaseid=263431&shopid=34&trackid=2768339&userid=121404036",
-                                        "format": {
-                                            "id": "21",
-                                            "fileFormat": "MP4",
-                                            "bitRate": "0",
-                                            "drmFree": "true"
-                                        }
-                                    },
-                                    {
-                                        "url": "http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&oauth_nonce=6pmvgky7z7xoog5p&oauth_signature=Th8TSEjlfqnWwXR1aylSfPjQ5l4%3D&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1409567602&oauth_version=1.0a&formatid=9&partnerid=712&onbehalfofpartnerid=712&presigned=1&releaseid=263431&shopid=34&trackid=2768339&userid=121404036",
-                                        "format": {
-                                            "id": "9",
-                                            "fileFormat": "MP4",
-                                            "bitRate": "0",
-                                            "drmFree": "true"
-                                        }
-                                    }
-                                ]
-                            }
-                        },
-                        {
-                            "track": {
-                                "id": "2768341",
-                                "title": "Cowboy Style (Live In Manchester)",
-                                "version": "",
-                                "artist": {
-                                    "id": "1599",
-                                    "name": "Kylie",
-                                    "appearsAs": "Kylie Minogue",
-                                    "url": "http://www.7digital.com/artist/kylie/?partner=5932"
-                                },
-                                "trackNumber": "10",
-                                "duration": "342",
-                                "isrc": "GB0400200920",
-                                "url": "http://www.7digital.com/artist/kylie/release/kyliefever2002-live-in-manchester/?partner=5932&h=10"
-                            },
-                            "remainingDownloads": "5",
-                            "purchaseId": "0",
-                            "purchaseDate": "2013-06-18T16:24:30Z",
-                            "completeAlbumPurchase": "false",
-                            "downloadUrls": {
-                                "downloadUrl": [
-                                    {
-                                        "url": "http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&oauth_nonce=po1p14lwmccccahs&oauth_signature=g%2Bn3KIgzIuZz65KMlr1g%2Fwj0R88%3D&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1409567602&oauth_version=1.0a&formatid=21&partnerid=712&onbehalfofpartnerid=712&presigned=1&releaseid=263431&shopid=34&trackid=2768341&userid=121404036",
-                                        "format": {
-                                            "id": "21",
-                                            "fileFormat": "MP4",
-                                            "bitRate": "0",
-                                            "drmFree": "true"
-                                        }
-                                    },
-                                    {
-                                        "url": "http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&oauth_nonce=z7wek2zaphdh9ez3&oauth_signature=R8tj8u3LrbqBgNJEnIttknlPxfk%3D&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1409567602&oauth_version=1.0a&formatid=9&partnerid=712&onbehalfofpartnerid=712&presigned=1&releaseid=263431&shopid=34&trackid=2768341&userid=121404036",
-                                        "format": {
-                                            "id": "9",
-                                            "fileFormat": "MP4",
-                                            "bitRate": "0",
-                                            "drmFree": "true"
-                                        }
-                                    }
-                                ]
-                            }
-                        },
-                        {
-                            "track": {
-                                "id": "2768343",
-                                "title": "Kids (Live In Manchester)",
-                                "version": "",
-                                "artist": {
-                                    "id": "1599",
-                                    "name": "Kylie",
-                                    "appearsAs": "Kylie Minogue",
-                                    "url": "http://www.7digital.com/artist/kylie/?partner=5932"
-                                },
-                                "trackNumber": "11",
-                                "duration": "262",
-                                "isrc": "GB0400200930",
-                                "url": "http://www.7digital.com/artist/kylie/release/kyliefever2002-live-in-manchester/?partner=5932&h=11"
-                            },
-                            "remainingDownloads": "5",
-                            "purchaseId": "0",
-                            "purchaseDate": "2013-06-18T16:24:30Z",
-                            "completeAlbumPurchase": "false",
-                            "downloadUrls": {
-                                "downloadUrl": [
-                                    {
-                                        "url": "http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&oauth_nonce=mrfgjuxcdzidiw5z&oauth_signature=XceE8Rv2qvnzeTEsoWQEZ1PH9eA%3D&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1409567602&oauth_version=1.0a&formatid=21&partnerid=712&onbehalfofpartnerid=712&presigned=1&releaseid=263431&shopid=34&trackid=2768343&userid=121404036",
-                                        "format": {
-                                            "id": "21",
-                                            "fileFormat": "MP4",
-                                            "bitRate": "0",
-                                            "drmFree": "true"
-                                        }
-                                    },
-                                    {
-                                        "url": "http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&oauth_nonce=yeyru1eyz1aszdxi&oauth_signature=Qoj8PsYWLjmwOkAsUY4eNalHFNw%3D&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1409567602&oauth_version=1.0a&formatid=9&partnerid=712&onbehalfofpartnerid=712&presigned=1&releaseid=263431&shopid=34&trackid=2768343&userid=121404036",
-                                        "format": {
-                                            "id": "9",
-                                            "fileFormat": "MP4",
-                                            "bitRate": "0",
-                                            "drmFree": "true"
-                                        }
-                                    }
-                                ]
-                            }
-                        },
-                        {
-                            "track": {
-                                "id": "2768346",
-                                "title": "On A Night Like This (Live In Manchester)",
-                                "version": "",
-                                "artist": {
-                                    "id": "1599",
-                                    "name": "Kylie",
-                                    "appearsAs": "Kylie Minogue",
-                                    "url": "http://www.7digital.com/artist/kylie/?partner=5932"
-                                },
-                                "trackNumber": "12",
-                                "duration": "222",
-                                "isrc": "GB0400200940",
-                                "url": "http://www.7digital.com/artist/kylie/release/kyliefever2002-live-in-manchester/?partner=5932&h=12"
-                            },
-                            "remainingDownloads": "5",
-                            "purchaseId": "0",
-                            "purchaseDate": "2013-06-18T16:24:30Z",
-                            "completeAlbumPurchase": "false",
-                            "downloadUrls": {
-                                "downloadUrl": [
-                                    {
-                                        "url": "http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&oauth_nonce=nj1u5ajfjtbutw33&oauth_signature=1mUSBjM1fxTNv7jlsWfPuphTga8%3D&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1409567602&oauth_version=1.0a&formatid=21&partnerid=712&onbehalfofpartnerid=712&presigned=1&releaseid=263431&shopid=34&trackid=2768346&userid=121404036",
-                                        "format": {
-                                            "id": "21",
-                                            "fileFormat": "MP4",
-                                            "bitRate": "0",
-                                            "drmFree": "true"
-                                        }
-                                    },
-                                    {
-                                        "url": "http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&oauth_nonce=nnt4qhivmrrsuem0&oauth_signature=UwMb5YTxIK31OhkzqngdQDo6INE%3D&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1409567602&oauth_version=1.0a&formatid=9&partnerid=712&onbehalfofpartnerid=712&presigned=1&releaseid=263431&shopid=34&trackid=2768346&userid=121404036",
-                                        "format": {
-                                            "id": "9",
-                                            "fileFormat": "MP4",
-                                            "bitRate": "0",
-                                            "drmFree": "true"
-                                        }
-                                    }
-                                ]
-                            }
-                        },
-                        {
-                            "track": {
-                                "id": "2768348",
-                                "title": "Locomotion (Live In Manchester)",
-                                "version": "",
-                                "artist": {
-                                    "id": "1599",
-                                    "name": "Kylie",
-                                    "appearsAs": "Kylie Minogue",
-                                    "url": "http://www.7digital.com/artist/kylie/?partner=5932"
-                                },
-                                "trackNumber": "13",
-                                "duration": "228",
-                                "isrc": "GB0400200950",
-                                "url": "http://www.7digital.com/artist/kylie/release/kyliefever2002-live-in-manchester/?partner=5932&h=13"
-                            },
-                            "remainingDownloads": "5",
-                            "purchaseId": "0",
-                            "purchaseDate": "2013-06-18T16:24:30Z",
-                            "completeAlbumPurchase": "false",
-                            "downloadUrls": {
-                                "downloadUrl": [
-                                    {
-                                        "url": "http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&oauth_nonce=baz97j6x6siazted&oauth_signature=XuF%2BRDAFG8xC1upa2T9Ncim%2Bblc%3D&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1409567602&oauth_version=1.0a&formatid=21&partnerid=712&onbehalfofpartnerid=712&presigned=1&releaseid=263431&shopid=34&trackid=2768348&userid=121404036",
-                                        "format": {
-                                            "id": "21",
-                                            "fileFormat": "MP4",
-                                            "bitRate": "0",
-                                            "drmFree": "true"
-                                        }
-                                    },
-                                    {
-                                        "url": "http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&oauth_nonce=9helu52gbehmt1vf&oauth_signature=NuQNE6294SY8%2B59bYprzcwqUTm4%3D&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1409567602&oauth_version=1.0a&formatid=9&partnerid=712&onbehalfofpartnerid=712&presigned=1&releaseid=263431&shopid=34&trackid=2768348&userid=121404036",
-                                        "format": {
-                                            "id": "9",
-                                            "fileFormat": "MP4",
-                                            "bitRate": "0",
-                                            "drmFree": "true"
-                                        }
-                                    }
-                                ]
-                            }
-                        },
-                        {
-                            "track": {
-                                "id": "2768350",
-                                "title": "In Your Eyes (Latin Section) (Live In Manchester)",
-                                "version": "",
-                                "artist": {
-                                    "id": "1599",
-                                    "name": "Kylie",
-                                    "appearsAs": "Kylie Minogue",
-                                    "url": "http://www.7digital.com/artist/kylie/?partner=5932"
-                                },
-                                "trackNumber": "14",
-                                "duration": "317",
-                                "isrc": "GB0400200960",
-                                "url": "http://www.7digital.com/artist/kylie/release/kyliefever2002-live-in-manchester/?partner=5932&h=14"
-                            },
-                            "remainingDownloads": "5",
-                            "purchaseId": "0",
-                            "purchaseDate": "2013-06-18T16:24:30Z",
-                            "completeAlbumPurchase": "false",
-                            "downloadUrls": {
-                                "downloadUrl": [
-                                    {
-                                        "url": "http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&oauth_nonce=hbtt757es6880i74&oauth_signature=42FqT3wVrYi3EU8tKb9eYDneCZQ%3D&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1409567602&oauth_version=1.0a&formatid=21&partnerid=712&onbehalfofpartnerid=712&presigned=1&releaseid=263431&shopid=34&trackid=2768350&userid=121404036",
-                                        "format": {
-                                            "id": "21",
-                                            "fileFormat": "MP4",
-                                            "bitRate": "0",
-                                            "drmFree": "true"
-                                        }
-                                    },
-                                    {
-                                        "url": "http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&oauth_nonce=mntm0aphit73bsef&oauth_signature=jc25FvpcJweFVbg8XL0cAFB9sz4%3D&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1409567602&oauth_version=1.0a&formatid=9&partnerid=712&onbehalfofpartnerid=712&presigned=1&releaseid=263431&shopid=34&trackid=2768350&userid=121404036",
-                                        "format": {
-                                            "id": "9",
-                                            "fileFormat": "MP4",
-                                            "bitRate": "0",
-                                            "drmFree": "true"
-                                        }
-                                    }
-                                ]
-                            }
-                        },
-                        {
-                            "track": {
-                                "id": "2768352",
-                                "title": "Tapdancing Jedi (Live In Manchester)",
-                                "version": "",
-                                "artist": {
-                                    "id": "1599",
-                                    "name": "Kylie",
-                                    "appearsAs": "Kylie Minogue",
-                                    "url": "http://www.7digital.com/artist/kylie/?partner=5932"
-                                },
-                                "trackNumber": "15",
-                                "duration": "98",
-                                "isrc": "GB0400200970",
-                                "url": "http://www.7digital.com/artist/kylie/release/kyliefever2002-live-in-manchester/?partner=5932&h=15"
-                            },
-                            "remainingDownloads": "5",
-                            "purchaseId": "0",
-                            "purchaseDate": "2013-06-18T16:24:30Z",
-                            "completeAlbumPurchase": "false",
-                            "downloadUrls": {
-                                "downloadUrl": [
-                                    {
-                                        "url": "http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&oauth_nonce=8c3xavhela4z75h4&oauth_signature=%2Bo3PPVgHKTSgOgaELizx%2BuoW2YY%3D&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1409567602&oauth_version=1.0a&formatid=21&partnerid=712&onbehalfofpartnerid=712&presigned=1&releaseid=263431&shopid=34&trackid=2768352&userid=121404036",
-                                        "format": {
-                                            "id": "21",
-                                            "fileFormat": "MP4",
-                                            "bitRate": "0",
-                                            "drmFree": "true"
-                                        }
-                                    },
-                                    {
-                                        "url": "http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&oauth_nonce=ho0fgifgvmkm8dc0&oauth_signature=wHNU7tJRAfUpQ%2FfXDRtu4k8nNyk%3D&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1409567602&oauth_version=1.0a&formatid=9&partnerid=712&onbehalfofpartnerid=712&presigned=1&releaseid=263431&shopid=34&trackid=2768352&userid=121404036",
-                                        "format": {
-                                            "id": "9",
-                                            "fileFormat": "MP4",
-                                            "bitRate": "0",
-                                            "drmFree": "true"
-                                        }
-                                    }
-                                ]
-                            }
-                        },
-                        {
-                            "track": {
-                                "id": "2768354",
-                                "title": "Limbo (Live In Manchester)",
-                                "version": "",
-                                "artist": {
-                                    "id": "1599",
-                                    "name": "Kylie",
-                                    "appearsAs": "Kylie Minogue",
-                                    "url": "http://www.7digital.com/artist/kylie/?partner=5932"
-                                },
-                                "trackNumber": "16",
-                                "duration": "264",
-                                "isrc": "GB0400200980",
-                                "url": "http://www.7digital.com/artist/kylie/release/kyliefever2002-live-in-manchester/?partner=5932&h=16"
-                            },
-                            "remainingDownloads": "5",
-                            "purchaseId": "0",
-                            "purchaseDate": "2013-06-18T16:24:30Z",
-                            "completeAlbumPurchase": "false",
-                            "downloadUrls": {
-                                "downloadUrl": [
-                                    {
-                                        "url": "http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&oauth_nonce=2307pj32gpb9h1ko&oauth_signature=nOtWIt2greDJOAfUH3OF1xkIpd8%3D&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1409567602&oauth_version=1.0a&formatid=21&partnerid=712&onbehalfofpartnerid=712&presigned=1&releaseid=263431&shopid=34&trackid=2768354&userid=121404036",
-                                        "format": {
-                                            "id": "21",
-                                            "fileFormat": "MP4",
-                                            "bitRate": "0",
-                                            "drmFree": "true"
-                                        }
-                                    },
-                                    {
-                                        "url": "http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&oauth_nonce=mdvwt99z8wcyk5hh&oauth_signature=LJn3QJrSngMLh3iOS3BoIU1fji0%3D&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1409567602&oauth_version=1.0a&formatid=9&partnerid=712&onbehalfofpartnerid=712&presigned=1&releaseid=263431&shopid=34&trackid=2768354&userid=121404036",
-                                        "format": {
-                                            "id": "9",
-                                            "fileFormat": "MP4",
-                                            "bitRate": "0",
-                                            "drmFree": "true"
-                                        }
-                                    }
-                                ]
-                            }
-                        },
-                        {
-                            "track": {
-                                "id": "2768361",
-                                "title": "Light Years/I Feel Love (Live In Manchester)",
-                                "version": "",
-                                "artist": {
-                                    "id": "1599",
-                                    "name": "Kylie",
-                                    "appearsAs": "Kylie Minogue",
-                                    "url": "http://www.7digital.com/artist/kylie/?partner=5932"
-                                },
-                                "trackNumber": "17",
-                                "duration": "344",
-                                "isrc": "GB0400200990",
-                                "url": "http://www.7digital.com/artist/kylie/release/kyliefever2002-live-in-manchester/?partner=5932&h=17"
-                            },
-                            "remainingDownloads": "5",
-                            "purchaseId": "0",
-                            "purchaseDate": "2013-06-18T16:24:30Z",
-                            "completeAlbumPurchase": "false",
-                            "downloadUrls": {
-                                "downloadUrl": [
-                                    {
-                                        "url": "http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&oauth_nonce=858d5ko9vi92gg06&oauth_signature=Sax9S4vc45KV6rWyqCg4X3WR68o%3D&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1409567602&oauth_version=1.0a&formatid=21&partnerid=712&onbehalfofpartnerid=712&presigned=1&releaseid=263431&shopid=34&trackid=2768361&userid=121404036",
-                                        "format": {
-                                            "id": "21",
-                                            "fileFormat": "MP4",
-                                            "bitRate": "0",
-                                            "drmFree": "true"
-                                        }
-                                    },
-                                    {
-                                        "url": "http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&oauth_nonce=b7a5spq34k03heqm&oauth_signature=FxdSeBd93GdV7TXyaHP%2Fw5O8OZY%3D&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1409567602&oauth_version=1.0a&formatid=9&partnerid=712&onbehalfofpartnerid=712&presigned=1&releaseid=263431&shopid=34&trackid=2768361&userid=121404036",
-                                        "format": {
-                                            "id": "9",
-                                            "fileFormat": "MP4",
-                                            "bitRate": "0",
-                                            "drmFree": "true"
-                                        }
-                                    }
-                                ]
-                            }
-                        },
-                        {
-                            "track": {
-                                "id": "2768364",
-                                "title": "I Should Be So Lucky (Live In Manchester)",
-                                "version": "",
-                                "artist": {
-                                    "id": "1599",
-                                    "name": "Kylie",
-                                    "appearsAs": "Kylie Minogue",
-                                    "url": "http://www.7digital.com/artist/kylie/?partner=5932"
-                                },
-                                "trackNumber": "18",
-                                "duration": "360",
-                                "isrc": "GB0400201000",
-                                "url": "http://www.7digital.com/artist/kylie/release/kyliefever2002-live-in-manchester/?partner=5932&h=18"
-                            },
-                            "remainingDownloads": "5",
-                            "purchaseId": "0",
-                            "purchaseDate": "2013-06-18T16:24:30Z",
-                            "completeAlbumPurchase": "false",
-                            "downloadUrls": {
-                                "downloadUrl": [
-                                    {
-                                        "url": "http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&oauth_nonce=h5am3htbzxakahs1&oauth_signature=rP68hoX9R9y9VisbOM7NWOpAmbY%3D&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1409567602&oauth_version=1.0a&formatid=21&partnerid=712&onbehalfofpartnerid=712&presigned=1&releaseid=263431&shopid=34&trackid=2768364&userid=121404036",
-                                        "format": {
-                                            "id": "21",
-                                            "fileFormat": "MP4",
-                                            "bitRate": "0",
-                                            "drmFree": "true"
-                                        }
-                                    },
-                                    {
-                                        "url": "http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&oauth_nonce=wgxo4mzrnfkulv2r&oauth_signature=Ma0VXhtA4OMHEvDLM1grOMQAzDk%3D&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1409567602&oauth_version=1.0a&formatid=9&partnerid=712&onbehalfofpartnerid=712&presigned=1&releaseid=263431&shopid=34&trackid=2768364&userid=121404036",
-                                        "format": {
-                                            "id": "9",
-                                            "fileFormat": "MP4",
-                                            "bitRate": "0",
-                                            "drmFree": "true"
-                                        }
-                                    }
-                                ]
-                            }
-                        },
-                        {
-                            "track": {
-                                "id": "2768365",
-                                "title": "Voodoo Intro (Live In Manchester)",
-                                "version": "",
-                                "artist": {
-                                    "id": "1599",
-                                    "name": "Kylie",
-                                    "appearsAs": "Kylie Minogue",
-                                    "url": "http://www.7digital.com/artist/kylie/?partner=5932"
-                                },
-                                "trackNumber": "19",
-                                "duration": "66",
-                                "isrc": "GB0400201010",
-                                "url": "http://www.7digital.com/artist/kylie/release/kyliefever2002-live-in-manchester/?partner=5932&h=19"
-                            },
-                            "remainingDownloads": "5",
-                            "purchaseId": "0",
-                            "purchaseDate": "2013-06-18T16:24:30Z",
-                            "completeAlbumPurchase": "false",
-                            "downloadUrls": {
-                                "downloadUrl": [
-                                    {
-                                        "url": "http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&oauth_nonce=2wtmgwd4n0f5pf3w&oauth_signature=Avi%2FL0aC3rAYBErU7mbMO0zbM10%3D&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1409567602&oauth_version=1.0a&formatid=21&partnerid=712&onbehalfofpartnerid=712&presigned=1&releaseid=263431&shopid=34&trackid=2768365&userid=121404036",
-                                        "format": {
-                                            "id": "21",
-                                            "fileFormat": "MP4",
-                                            "bitRate": "0",
-                                            "drmFree": "true"
-                                        }
-                                    },
-                                    {
-                                        "url": "http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&oauth_nonce=2igarct6es0w89zd&oauth_signature=gkPW2NcpJfmQpuvYpAb8K0eWYZw%3D&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1409567602&oauth_version=1.0a&formatid=9&partnerid=712&onbehalfofpartnerid=712&presigned=1&releaseid=263431&shopid=34&trackid=2768365&userid=121404036",
-                                        "format": {
-                                            "id": "9",
-                                            "fileFormat": "MP4",
-                                            "bitRate": "0",
-                                            "drmFree": "true"
-                                        }
-                                    }
-                                ]
-                            }
-                        },
-                        {
-                            "track": {
-                                "id": "2768366",
-                                "title": "Burning Up (Live In Manchester)",
-                                "version": "",
-                                "artist": {
-                                    "id": "1599",
-                                    "name": "Kylie",
-                                    "appearsAs": "Kylie Minogue",
-                                    "url": "http://www.7digital.com/artist/kylie/?partner=5932"
-                                },
-                                "trackNumber": "20",
-                                "duration": "258",
-                                "isrc": "GB0400201020",
-                                "url": "http://www.7digital.com/artist/kylie/release/kyliefever2002-live-in-manchester/?partner=5932&h=20"
-                            },
-                            "remainingDownloads": "5",
-                            "purchaseId": "0",
-                            "purchaseDate": "2013-06-18T16:24:30Z",
-                            "completeAlbumPurchase": "false",
-                            "downloadUrls": {
-                                "downloadUrl": [
-                                    {
-                                        "url": "http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&oauth_nonce=7ttnxguad4a4h5ci&oauth_signature=m3zwuH4BXG%2BJI%2Be%2B%2BU%2BSHfYjxwc%3D&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1409567602&oauth_version=1.0a&formatid=21&partnerid=712&onbehalfofpartnerid=712&presigned=1&releaseid=263431&shopid=34&trackid=2768366&userid=121404036",
-                                        "format": {
-                                            "id": "21",
-                                            "fileFormat": "MP4",
-                                            "bitRate": "0",
-                                            "drmFree": "true"
-                                        }
-                                    },
-                                    {
-                                        "url": "http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&oauth_nonce=nx4do1aydyhxxq7o&oauth_signature=9VQc7we1gmXLZuiRNfxvMXugV9w%3D&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1409567602&oauth_version=1.0a&formatid=9&partnerid=712&onbehalfofpartnerid=712&presigned=1&releaseid=263431&shopid=34&trackid=2768366&userid=121404036",
-                                        "format": {
-                                            "id": "9",
-                                            "fileFormat": "MP4",
-                                            "bitRate": "0",
-                                            "drmFree": "true"
-                                        }
-                                    }
-                                ]
-                            }
-                        },
-                        {
-                            "track": {
-                                "id": "2768367",
-                                "title": "Better The Devil You Know (Live In Manchester)",
-                                "version": "",
-                                "artist": {
-                                    "id": "1599",
-                                    "name": "Kylie",
-                                    "appearsAs": "Kylie Minogue",
-                                    "url": "http://www.7digital.com/artist/kylie/?partner=5932"
-                                },
-                                "trackNumber": "21",
-                                "duration": "343",
-                                "isrc": "GB0400201030",
-                                "url": "http://www.7digital.com/artist/kylie/release/kyliefever2002-live-in-manchester/?partner=5932&h=21"
-                            },
-                            "remainingDownloads": "5",
-                            "purchaseId": "0",
-                            "purchaseDate": "2013-06-18T16:24:30Z",
-                            "completeAlbumPurchase": "false",
-                            "downloadUrls": {
-                                "downloadUrl": [
-                                    {
-                                        "url": "http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&oauth_nonce=kb96wo9vyg8xczxk&oauth_signature=KL4QlVVrzP5GngZnOuh9SanV3Gg%3D&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1409567602&oauth_version=1.0a&formatid=21&partnerid=712&onbehalfofpartnerid=712&presigned=1&releaseid=263431&shopid=34&trackid=2768367&userid=121404036",
-                                        "format": {
-                                            "id": "21",
-                                            "fileFormat": "MP4",
-                                            "bitRate": "0",
-                                            "drmFree": "true"
-                                        }
-                                    },
-                                    {
-                                        "url": "http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&oauth_nonce=p1jjfwyft5k097mw&oauth_signature=HJLjtKvTFk6xsqEFcntUs%2FPrYVE%3D&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1409567602&oauth_version=1.0a&formatid=9&partnerid=712&onbehalfofpartnerid=712&presigned=1&releaseid=263431&shopid=34&trackid=2768367&userid=121404036",
-                                        "format": {
-                                            "id": "9",
-                                            "fileFormat": "MP4",
-                                            "bitRate": "0",
-                                            "drmFree": "true"
-                                        }
-                                    }
-                                ]
-                            }
-                        },
-                        {
-                            "track": {
-                                "id": "2768368",
-                                "title": "Can't Get Blue Monday Out Of My Head (Live In Manchester)",
-                                "version": "",
-                                "artist": {
-                                    "id": "1599",
-                                    "name": "Kylie",
-                                    "appearsAs": "Kylie Minogue",
-                                    "url": "http://www.7digital.com/artist/kylie/?partner=5932"
-                                },
-                                "trackNumber": "22",
-                                "duration": "268",
-                                "isrc": "GB0400201040",
-                                "url": "http://www.7digital.com/artist/kylie/release/kyliefever2002-live-in-manchester/?partner=5932&h=22"
-                            },
-                            "remainingDownloads": "5",
-                            "purchaseId": "0",
-                            "purchaseDate": "2013-06-18T16:24:30Z",
-                            "completeAlbumPurchase": "false",
-                            "downloadUrls": {
-                                "downloadUrl": [
-                                    {
-                                        "url": "http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&oauth_nonce=7vtg6hv9yhoi3mwn&oauth_signature=lDU8D63KRf6R0MZNZ5b798Y63ms%3D&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1409567602&oauth_version=1.0a&formatid=21&partnerid=712&onbehalfofpartnerid=712&presigned=1&releaseid=263431&shopid=34&trackid=2768368&userid=121404036",
-                                        "format": {
-                                            "id": "21",
-                                            "fileFormat": "MP4",
-                                            "bitRate": "0",
-                                            "drmFree": "true"
-                                        }
-                                    },
-                                    {
-                                        "url": "http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&oauth_nonce=b8h7hxjym3m3e0w2&oauth_signature=JPsFytx54oS4qkhQsmVUIKdeU2k%3D&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1409567602&oauth_version=1.0a&formatid=9&partnerid=712&onbehalfofpartnerid=712&presigned=1&releaseid=263431&shopid=34&trackid=2768368&userid=121404036",
-                                        "format": {
-                                            "id": "9",
-                                            "fileFormat": "MP4",
-                                            "bitRate": "0",
-                                            "drmFree": "true"
-                                        }
-                                    }
-                                ]
-                            }
-                        }
-                    ]
+                "trackNumber": "2",
+                "duration": "372",
+                "isrc": "GB0400200840",
+                "url": "http://www.7digital.com/artist/kylie/release/kyliefever2002-live-in-manchester/?partner=5932&h=02"
+              },
+              "remainingDownloads": "5",
+              "purchaseId": "0",
+              "purchaseDate": "2013-06-18T16:24:30Z",
+              "completeAlbumPurchase": "false",
+              "downloadUrls": {
+                "downloadUrl": [
+                  {
+                    "url": "http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&oauth_nonce=9bnn37g1av2slbfp&oauth_signature=9ZeCmqZNkFA2mrfesy3BGWKtFcA%3D&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1409567602&oauth_version=1.0a&formatid=21&partnerid=712&onbehalfofpartnerid=712&presigned=1&releaseid=263431&shopid=34&trackid=2768325&userid=121404036",
+                    "format": {
+                      "id": "21",
+                      "fileFormat": "MP4",
+                      "bitRate": "0",
+                      "drmFree": "true"
+                    }
+                  },
+                  {
+                    "url": "http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&oauth_nonce=vvbsx6e9ok0l8he7&oauth_signature=IjDvS3f7WEcx6tv6ol8C1p8idHM%3D&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1409567602&oauth_version=1.0a&formatid=9&partnerid=712&onbehalfofpartnerid=712&presigned=1&releaseid=263431&shopid=34&trackid=2768325&userid=121404036",
+                    "format": {
+                      "id": "9",
+                      "fileFormat": "MP4",
+                      "bitRate": "0",
+                      "drmFree": "true"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "track": {
+                "id": "2768328",
+                "title": "Shocked (Live In Manchester)",
+                "version": "",
+                "artist": {
+                  "id": "1599",
+                  "name": "Kylie",
+                  "appearsAs": "Kylie Minogue",
+                  "url": "http://www.7digital.com/artist/kylie/?partner=5932"
                 },
-                "available": "true"
+                "trackNumber": "3",
+                "duration": "328",
+                "isrc": "GB0400200850",
+                "url": "http://www.7digital.com/artist/kylie/release/kyliefever2002-live-in-manchester/?partner=5932&h=03"
+              },
+              "remainingDownloads": "5",
+              "purchaseId": "0",
+              "purchaseDate": "2013-06-18T16:24:30Z",
+              "completeAlbumPurchase": "false",
+              "downloadUrls": {
+                "downloadUrl": [
+                  {
+                    "url": "http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&oauth_nonce=s9n87cznvckaoam8&oauth_signature=9YO%2F7ZlMX5xEZ8t44nwDSR4DDJ0%3D&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1409567602&oauth_version=1.0a&formatid=21&partnerid=712&onbehalfofpartnerid=712&presigned=1&releaseid=263431&shopid=34&trackid=2768328&userid=121404036",
+                    "format": {
+                      "id": "21",
+                      "fileFormat": "MP4",
+                      "bitRate": "0",
+                      "drmFree": "true"
+                    }
+                  },
+                  {
+                    "url": "http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&oauth_nonce=muxedv8c7o9s7543&oauth_signature=SHGBrWLAawcP4vtAdXNstrkC34g%3D&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1409567602&oauth_version=1.0a&formatid=9&partnerid=712&onbehalfofpartnerid=712&presigned=1&releaseid=263431&shopid=34&trackid=2768328&userid=121404036",
+                    "format": {
+                      "id": "9",
+                      "fileFormat": "MP4",
+                      "bitRate": "0",
+                      "drmFree": "true"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "track": {
+                "id": "2768330",
+                "title": "Love At First Sight (Live In Manchester)",
+                "version": "",
+                "artist": {
+                  "id": "1599",
+                  "name": "Kylie",
+                  "appearsAs": "Kylie Minogue",
+                  "url": "http://www.7digital.com/artist/kylie/?partner=5932"
+                },
+                "trackNumber": "4",
+                "duration": "252",
+                "isrc": "GB0400200230",
+                "url": "http://www.7digital.com/artist/kylie/release/kyliefever2002-live-in-manchester/?partner=5932&h=04"
+              },
+              "remainingDownloads": "5",
+              "purchaseId": "0",
+              "purchaseDate": "2013-06-18T16:24:30Z",
+              "completeAlbumPurchase": "false",
+              "downloadUrls": {
+                "downloadUrl": [
+                  {
+                    "url": "http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&oauth_nonce=r50nyhts6x7uveun&oauth_signature=1yv0PjjofIyxG4I%2BB4PpkKftNk0%3D&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1409567602&oauth_version=1.0a&formatid=21&partnerid=712&onbehalfofpartnerid=712&presigned=1&releaseid=263431&shopid=34&trackid=2768330&userid=121404036",
+                    "format": {
+                      "id": "21",
+                      "fileFormat": "MP4",
+                      "bitRate": "0",
+                      "drmFree": "true"
+                    }
+                  },
+                  {
+                    "url": "http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&oauth_nonce=8b0mt048bkardhr2&oauth_signature=rdHRHZ%2FnEHRTr%2BB%2FyZCmWAU%2BqIY%3D&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1409567602&oauth_version=1.0a&formatid=9&partnerid=712&onbehalfofpartnerid=712&presigned=1&releaseid=263431&shopid=34&trackid=2768330&userid=121404036",
+                    "format": {
+                      "id": "9",
+                      "fileFormat": "MP4",
+                      "bitRate": "0",
+                      "drmFree": "true"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "track": {
+                "id": "2768332",
+                "title": "Fever (Live In Manchester)",
+                "version": "",
+                "artist": {
+                  "id": "1599",
+                  "name": "Kylie",
+                  "appearsAs": "Kylie Minogue",
+                  "url": "http://www.7digital.com/artist/kylie/?partner=5932"
+                },
+                "trackNumber": "5",
+                "duration": "223",
+                "isrc": "GB0400200870",
+                "url": "http://www.7digital.com/artist/kylie/release/kyliefever2002-live-in-manchester/?partner=5932&h=05"
+              },
+              "remainingDownloads": "5",
+              "purchaseId": "0",
+              "purchaseDate": "2013-06-18T16:24:30Z",
+              "completeAlbumPurchase": "false",
+              "downloadUrls": {
+                "downloadUrl": [
+                  {
+                    "url": "http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&oauth_nonce=jrstb0jebeipymr3&oauth_signature=pPUwBVMYuJGcEmQBYIg5m3Lxahs%3D&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1409567602&oauth_version=1.0a&formatid=21&partnerid=712&onbehalfofpartnerid=712&presigned=1&releaseid=263431&shopid=34&trackid=2768332&userid=121404036",
+                    "format": {
+                      "id": "21",
+                      "fileFormat": "MP4",
+                      "bitRate": "0",
+                      "drmFree": "true"
+                    }
+                  },
+                  {
+                    "url": "http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&oauth_nonce=5uu56qisablohbpy&oauth_signature=U5SXA%2FLQsOlbQ0DTuvFvbaMqvOc%3D&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1409567602&oauth_version=1.0a&formatid=9&partnerid=712&onbehalfofpartnerid=712&presigned=1&releaseid=263431&shopid=34&trackid=2768332&userid=121404036",
+                    "format": {
+                      "id": "9",
+                      "fileFormat": "MP4",
+                      "bitRate": "0",
+                      "drmFree": "true"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "track": {
+                "id": "2768334",
+                "title": "Spinning Around (Live In Manchester)",
+                "version": "",
+                "artist": {
+                  "id": "1599",
+                  "name": "Kylie",
+                  "appearsAs": "Kylie Minogue",
+                  "url": "http://www.7digital.com/artist/kylie/?partner=5932"
+                },
+                "trackNumber": "6",
+                "duration": "305",
+                "isrc": "GB0400200880",
+                "url": "http://www.7digital.com/artist/kylie/release/kyliefever2002-live-in-manchester/?partner=5932&h=06"
+              },
+              "remainingDownloads": "5",
+              "purchaseId": "0",
+              "purchaseDate": "2013-06-18T16:24:30Z",
+              "completeAlbumPurchase": "false",
+              "downloadUrls": {
+                "downloadUrl": [
+                  {
+                    "url": "http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&oauth_nonce=gfldvam935lp1niz&oauth_signature=T%2BrwRZ9umEM0jUnn5tZM6uTH9qc%3D&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1409567602&oauth_version=1.0a&formatid=21&partnerid=712&onbehalfofpartnerid=712&presigned=1&releaseid=263431&shopid=34&trackid=2768334&userid=121404036",
+                    "format": {
+                      "id": "21",
+                      "fileFormat": "MP4",
+                      "bitRate": "0",
+                      "drmFree": "true"
+                    }
+                  },
+                  {
+                    "url": "http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&oauth_nonce=3ixsww73iat0x580&oauth_signature=3kKbvgkQ6t%2FovsWCRj3VtQZ0jLI%3D&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1409567602&oauth_version=1.0a&formatid=9&partnerid=712&onbehalfofpartnerid=712&presigned=1&releaseid=263431&shopid=34&trackid=2768334&userid=121404036",
+                    "format": {
+                      "id": "9",
+                      "fileFormat": "MP4",
+                      "bitRate": "0",
+                      "drmFree": "true"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "track": {
+                "id": "2768336",
+                "title": "The Crying Game (Ballads Section) (Live In Manchester)",
+                "version": "",
+                "artist": {
+                  "id": "1599",
+                  "name": "Kylie",
+                  "appearsAs": "Kylie Minogue",
+                  "url": "http://www.7digital.com/artist/kylie/?partner=5932"
+                },
+                "trackNumber": "7",
+                "duration": "536",
+                "isrc": "GB0400200890",
+                "url": "http://www.7digital.com/artist/kylie/release/kyliefever2002-live-in-manchester/?partner=5932&h=07"
+              },
+              "remainingDownloads": "5",
+              "purchaseId": "0",
+              "purchaseDate": "2013-06-18T16:24:30Z",
+              "completeAlbumPurchase": "false",
+              "downloadUrls": {
+                "downloadUrl": [
+                  {
+                    "url": "http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&oauth_nonce=zujtaoh5ivcaf43x&oauth_signature=DKxSO7RmQLiAO%2BdjKAyvjnt9iDI%3D&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1409567602&oauth_version=1.0a&formatid=21&partnerid=712&onbehalfofpartnerid=712&presigned=1&releaseid=263431&shopid=34&trackid=2768336&userid=121404036",
+                    "format": {
+                      "id": "21",
+                      "fileFormat": "MP4",
+                      "bitRate": "0",
+                      "drmFree": "true"
+                    }
+                  },
+                  {
+                    "url": "http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&oauth_nonce=4wv9o7btis5urml8&oauth_signature=TlnuumuaxvKVpnU%2FiQyqpmygrZg%3D&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1409567602&oauth_version=1.0a&formatid=9&partnerid=712&onbehalfofpartnerid=712&presigned=1&releaseid=263431&shopid=34&trackid=2768336&userid=121404036",
+                    "format": {
+                      "id": "9",
+                      "fileFormat": "MP4",
+                      "bitRate": "0",
+                      "drmFree": "true"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "track": {
+                "id": "2768337",
+                "title": "GBI (Live In Manchester)",
+                "version": "",
+                "artist": {
+                  "id": "1599",
+                  "name": "Kylie",
+                  "appearsAs": "Kylie Minogue",
+                  "url": "http://www.7digital.com/artist/kylie/?partner=5932"
+                },
+                "trackNumber": "8",
+                "duration": "217",
+                "isrc": "GB0400200900",
+                "url": "http://www.7digital.com/artist/kylie/release/kyliefever2002-live-in-manchester/?partner=5932&h=08"
+              },
+              "remainingDownloads": "5",
+              "purchaseId": "0",
+              "purchaseDate": "2013-06-18T16:24:30Z",
+              "completeAlbumPurchase": "false",
+              "downloadUrls": {
+                "downloadUrl": [
+                  {
+                    "url": "http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&oauth_nonce=7lzgezyob3kbt6xp&oauth_signature=EUPARxrqvrJzjRN9HvFdLqcFogs%3D&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1409567602&oauth_version=1.0a&formatid=21&partnerid=712&onbehalfofpartnerid=712&presigned=1&releaseid=263431&shopid=34&trackid=2768337&userid=121404036",
+                    "format": {
+                      "id": "21",
+                      "fileFormat": "MP4",
+                      "bitRate": "0",
+                      "drmFree": "true"
+                    }
+                  },
+                  {
+                    "url": "http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&oauth_nonce=i6gaj0v4szkrtwn6&oauth_signature=W2qjwpWIUnc4dKK%2B9o8rftuIyAk%3D&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1409567602&oauth_version=1.0a&formatid=9&partnerid=712&onbehalfofpartnerid=712&presigned=1&releaseid=263431&shopid=34&trackid=2768337&userid=121404036",
+                    "format": {
+                      "id": "9",
+                      "fileFormat": "MP4",
+                      "bitRate": "0",
+                      "drmFree": "true"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "track": {
+                "id": "2768339",
+                "title": "Confide In Me (Live In Manchester)",
+                "version": "",
+                "artist": {
+                  "id": "1599",
+                  "name": "Kylie",
+                  "appearsAs": "Kylie Minogue",
+                  "url": "http://www.7digital.com/artist/kylie/?partner=5932"
+                },
+                "trackNumber": "9",
+                "duration": "390",
+                "isrc": "GB0400200910",
+                "url": "http://www.7digital.com/artist/kylie/release/kyliefever2002-live-in-manchester/?partner=5932&h=09"
+              },
+              "remainingDownloads": "5",
+              "purchaseId": "0",
+              "purchaseDate": "2013-06-18T16:24:30Z",
+              "completeAlbumPurchase": "false",
+              "downloadUrls": {
+                "downloadUrl": [
+                  {
+                    "url": "http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&oauth_nonce=kee4dwtd9g7vva0n&oauth_signature=1HgSms3pXgoXZZ0T3ID5YKrDujQ%3D&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1409567602&oauth_version=1.0a&formatid=21&partnerid=712&onbehalfofpartnerid=712&presigned=1&releaseid=263431&shopid=34&trackid=2768339&userid=121404036",
+                    "format": {
+                      "id": "21",
+                      "fileFormat": "MP4",
+                      "bitRate": "0",
+                      "drmFree": "true"
+                    }
+                  },
+                  {
+                    "url": "http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&oauth_nonce=6pmvgky7z7xoog5p&oauth_signature=Th8TSEjlfqnWwXR1aylSfPjQ5l4%3D&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1409567602&oauth_version=1.0a&formatid=9&partnerid=712&onbehalfofpartnerid=712&presigned=1&releaseid=263431&shopid=34&trackid=2768339&userid=121404036",
+                    "format": {
+                      "id": "9",
+                      "fileFormat": "MP4",
+                      "bitRate": "0",
+                      "drmFree": "true"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "track": {
+                "id": "2768341",
+                "title": "Cowboy Style (Live In Manchester)",
+                "version": "",
+                "artist": {
+                  "id": "1599",
+                  "name": "Kylie",
+                  "appearsAs": "Kylie Minogue",
+                  "url": "http://www.7digital.com/artist/kylie/?partner=5932"
+                },
+                "trackNumber": "10",
+                "duration": "342",
+                "isrc": "GB0400200920",
+                "url": "http://www.7digital.com/artist/kylie/release/kyliefever2002-live-in-manchester/?partner=5932&h=10"
+              },
+              "remainingDownloads": "5",
+              "purchaseId": "0",
+              "purchaseDate": "2013-06-18T16:24:30Z",
+              "completeAlbumPurchase": "false",
+              "downloadUrls": {
+                "downloadUrl": [
+                  {
+                    "url": "http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&oauth_nonce=po1p14lwmccccahs&oauth_signature=g%2Bn3KIgzIuZz65KMlr1g%2Fwj0R88%3D&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1409567602&oauth_version=1.0a&formatid=21&partnerid=712&onbehalfofpartnerid=712&presigned=1&releaseid=263431&shopid=34&trackid=2768341&userid=121404036",
+                    "format": {
+                      "id": "21",
+                      "fileFormat": "MP4",
+                      "bitRate": "0",
+                      "drmFree": "true"
+                    }
+                  },
+                  {
+                    "url": "http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&oauth_nonce=z7wek2zaphdh9ez3&oauth_signature=R8tj8u3LrbqBgNJEnIttknlPxfk%3D&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1409567602&oauth_version=1.0a&formatid=9&partnerid=712&onbehalfofpartnerid=712&presigned=1&releaseid=263431&shopid=34&trackid=2768341&userid=121404036",
+                    "format": {
+                      "id": "9",
+                      "fileFormat": "MP4",
+                      "bitRate": "0",
+                      "drmFree": "true"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "track": {
+                "id": "2768343",
+                "title": "Kids (Live In Manchester)",
+                "version": "",
+                "artist": {
+                  "id": "1599",
+                  "name": "Kylie",
+                  "appearsAs": "Kylie Minogue",
+                  "url": "http://www.7digital.com/artist/kylie/?partner=5932"
+                },
+                "trackNumber": "11",
+                "duration": "262",
+                "isrc": "GB0400200930",
+                "url": "http://www.7digital.com/artist/kylie/release/kyliefever2002-live-in-manchester/?partner=5932&h=11"
+              },
+              "remainingDownloads": "5",
+              "purchaseId": "0",
+              "purchaseDate": "2013-06-18T16:24:30Z",
+              "completeAlbumPurchase": "false",
+              "downloadUrls": {
+                "downloadUrl": [
+                  {
+                    "url": "http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&oauth_nonce=mrfgjuxcdzidiw5z&oauth_signature=XceE8Rv2qvnzeTEsoWQEZ1PH9eA%3D&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1409567602&oauth_version=1.0a&formatid=21&partnerid=712&onbehalfofpartnerid=712&presigned=1&releaseid=263431&shopid=34&trackid=2768343&userid=121404036",
+                    "format": {
+                      "id": "21",
+                      "fileFormat": "MP4",
+                      "bitRate": "0",
+                      "drmFree": "true"
+                    }
+                  },
+                  {
+                    "url": "http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&oauth_nonce=yeyru1eyz1aszdxi&oauth_signature=Qoj8PsYWLjmwOkAsUY4eNalHFNw%3D&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1409567602&oauth_version=1.0a&formatid=9&partnerid=712&onbehalfofpartnerid=712&presigned=1&releaseid=263431&shopid=34&trackid=2768343&userid=121404036",
+                    "format": {
+                      "id": "9",
+                      "fileFormat": "MP4",
+                      "bitRate": "0",
+                      "drmFree": "true"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "track": {
+                "id": "2768346",
+                "title": "On A Night Like This (Live In Manchester)",
+                "version": "",
+                "artist": {
+                  "id": "1599",
+                  "name": "Kylie",
+                  "appearsAs": "Kylie Minogue",
+                  "url": "http://www.7digital.com/artist/kylie/?partner=5932"
+                },
+                "trackNumber": "12",
+                "duration": "222",
+                "isrc": "GB0400200940",
+                "url": "http://www.7digital.com/artist/kylie/release/kyliefever2002-live-in-manchester/?partner=5932&h=12"
+              },
+              "remainingDownloads": "5",
+              "purchaseId": "0",
+              "purchaseDate": "2013-06-18T16:24:30Z",
+              "completeAlbumPurchase": "false",
+              "downloadUrls": {
+                "downloadUrl": [
+                  {
+                    "url": "http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&oauth_nonce=nj1u5ajfjtbutw33&oauth_signature=1mUSBjM1fxTNv7jlsWfPuphTga8%3D&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1409567602&oauth_version=1.0a&formatid=21&partnerid=712&onbehalfofpartnerid=712&presigned=1&releaseid=263431&shopid=34&trackid=2768346&userid=121404036",
+                    "format": {
+                      "id": "21",
+                      "fileFormat": "MP4",
+                      "bitRate": "0",
+                      "drmFree": "true"
+                    }
+                  },
+                  {
+                    "url": "http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&oauth_nonce=nnt4qhivmrrsuem0&oauth_signature=UwMb5YTxIK31OhkzqngdQDo6INE%3D&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1409567602&oauth_version=1.0a&formatid=9&partnerid=712&onbehalfofpartnerid=712&presigned=1&releaseid=263431&shopid=34&trackid=2768346&userid=121404036",
+                    "format": {
+                      "id": "9",
+                      "fileFormat": "MP4",
+                      "bitRate": "0",
+                      "drmFree": "true"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "track": {
+                "id": "2768348",
+                "title": "Locomotion (Live In Manchester)",
+                "version": "",
+                "artist": {
+                  "id": "1599",
+                  "name": "Kylie",
+                  "appearsAs": "Kylie Minogue",
+                  "url": "http://www.7digital.com/artist/kylie/?partner=5932"
+                },
+                "trackNumber": "13",
+                "duration": "228",
+                "isrc": "GB0400200950",
+                "url": "http://www.7digital.com/artist/kylie/release/kyliefever2002-live-in-manchester/?partner=5932&h=13"
+              },
+              "remainingDownloads": "5",
+              "purchaseId": "0",
+              "purchaseDate": "2013-06-18T16:24:30Z",
+              "completeAlbumPurchase": "false",
+              "downloadUrls": {
+                "downloadUrl": [
+                  {
+                    "url": "http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&oauth_nonce=baz97j6x6siazted&oauth_signature=XuF%2BRDAFG8xC1upa2T9Ncim%2Bblc%3D&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1409567602&oauth_version=1.0a&formatid=21&partnerid=712&onbehalfofpartnerid=712&presigned=1&releaseid=263431&shopid=34&trackid=2768348&userid=121404036",
+                    "format": {
+                      "id": "21",
+                      "fileFormat": "MP4",
+                      "bitRate": "0",
+                      "drmFree": "true"
+                    }
+                  },
+                  {
+                    "url": "http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&oauth_nonce=9helu52gbehmt1vf&oauth_signature=NuQNE6294SY8%2B59bYprzcwqUTm4%3D&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1409567602&oauth_version=1.0a&formatid=9&partnerid=712&onbehalfofpartnerid=712&presigned=1&releaseid=263431&shopid=34&trackid=2768348&userid=121404036",
+                    "format": {
+                      "id": "9",
+                      "fileFormat": "MP4",
+                      "bitRate": "0",
+                      "drmFree": "true"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "track": {
+                "id": "2768350",
+                "title": "In Your Eyes (Latin Section) (Live In Manchester)",
+                "version": "",
+                "artist": {
+                  "id": "1599",
+                  "name": "Kylie",
+                  "appearsAs": "Kylie Minogue",
+                  "url": "http://www.7digital.com/artist/kylie/?partner=5932"
+                },
+                "trackNumber": "14",
+                "duration": "317",
+                "isrc": "GB0400200960",
+                "url": "http://www.7digital.com/artist/kylie/release/kyliefever2002-live-in-manchester/?partner=5932&h=14"
+              },
+              "remainingDownloads": "5",
+              "purchaseId": "0",
+              "purchaseDate": "2013-06-18T16:24:30Z",
+              "completeAlbumPurchase": "false",
+              "downloadUrls": {
+                "downloadUrl": [
+                  {
+                    "url": "http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&oauth_nonce=hbtt757es6880i74&oauth_signature=42FqT3wVrYi3EU8tKb9eYDneCZQ%3D&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1409567602&oauth_version=1.0a&formatid=21&partnerid=712&onbehalfofpartnerid=712&presigned=1&releaseid=263431&shopid=34&trackid=2768350&userid=121404036",
+                    "format": {
+                      "id": "21",
+                      "fileFormat": "MP4",
+                      "bitRate": "0",
+                      "drmFree": "true"
+                    }
+                  },
+                  {
+                    "url": "http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&oauth_nonce=mntm0aphit73bsef&oauth_signature=jc25FvpcJweFVbg8XL0cAFB9sz4%3D&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1409567602&oauth_version=1.0a&formatid=9&partnerid=712&onbehalfofpartnerid=712&presigned=1&releaseid=263431&shopid=34&trackid=2768350&userid=121404036",
+                    "format": {
+                      "id": "9",
+                      "fileFormat": "MP4",
+                      "bitRate": "0",
+                      "drmFree": "true"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "track": {
+                "id": "2768352",
+                "title": "Tapdancing Jedi (Live In Manchester)",
+                "version": "",
+                "artist": {
+                  "id": "1599",
+                  "name": "Kylie",
+                  "appearsAs": "Kylie Minogue",
+                  "url": "http://www.7digital.com/artist/kylie/?partner=5932"
+                },
+                "trackNumber": "15",
+                "duration": "98",
+                "isrc": "GB0400200970",
+                "url": "http://www.7digital.com/artist/kylie/release/kyliefever2002-live-in-manchester/?partner=5932&h=15"
+              },
+              "remainingDownloads": "5",
+              "purchaseId": "0",
+              "purchaseDate": "2013-06-18T16:24:30Z",
+              "completeAlbumPurchase": "false",
+              "downloadUrls": {
+                "downloadUrl": [
+                  {
+                    "url": "http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&oauth_nonce=8c3xavhela4z75h4&oauth_signature=%2Bo3PPVgHKTSgOgaELizx%2BuoW2YY%3D&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1409567602&oauth_version=1.0a&formatid=21&partnerid=712&onbehalfofpartnerid=712&presigned=1&releaseid=263431&shopid=34&trackid=2768352&userid=121404036",
+                    "format": {
+                      "id": "21",
+                      "fileFormat": "MP4",
+                      "bitRate": "0",
+                      "drmFree": "true"
+                    }
+                  },
+                  {
+                    "url": "http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&oauth_nonce=ho0fgifgvmkm8dc0&oauth_signature=wHNU7tJRAfUpQ%2FfXDRtu4k8nNyk%3D&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1409567602&oauth_version=1.0a&formatid=9&partnerid=712&onbehalfofpartnerid=712&presigned=1&releaseid=263431&shopid=34&trackid=2768352&userid=121404036",
+                    "format": {
+                      "id": "9",
+                      "fileFormat": "MP4",
+                      "bitRate": "0",
+                      "drmFree": "true"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "track": {
+                "id": "2768354",
+                "title": "Limbo (Live In Manchester)",
+                "version": "",
+                "artist": {
+                  "id": "1599",
+                  "name": "Kylie",
+                  "appearsAs": "Kylie Minogue",
+                  "url": "http://www.7digital.com/artist/kylie/?partner=5932"
+                },
+                "trackNumber": "16",
+                "duration": "264",
+                "isrc": "GB0400200980",
+                "url": "http://www.7digital.com/artist/kylie/release/kyliefever2002-live-in-manchester/?partner=5932&h=16"
+              },
+              "remainingDownloads": "5",
+              "purchaseId": "0",
+              "purchaseDate": "2013-06-18T16:24:30Z",
+              "completeAlbumPurchase": "false",
+              "downloadUrls": {
+                "downloadUrl": [
+                  {
+                    "url": "http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&oauth_nonce=2307pj32gpb9h1ko&oauth_signature=nOtWIt2greDJOAfUH3OF1xkIpd8%3D&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1409567602&oauth_version=1.0a&formatid=21&partnerid=712&onbehalfofpartnerid=712&presigned=1&releaseid=263431&shopid=34&trackid=2768354&userid=121404036",
+                    "format": {
+                      "id": "21",
+                      "fileFormat": "MP4",
+                      "bitRate": "0",
+                      "drmFree": "true"
+                    }
+                  },
+                  {
+                    "url": "http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&oauth_nonce=mdvwt99z8wcyk5hh&oauth_signature=LJn3QJrSngMLh3iOS3BoIU1fji0%3D&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1409567602&oauth_version=1.0a&formatid=9&partnerid=712&onbehalfofpartnerid=712&presigned=1&releaseid=263431&shopid=34&trackid=2768354&userid=121404036",
+                    "format": {
+                      "id": "9",
+                      "fileFormat": "MP4",
+                      "bitRate": "0",
+                      "drmFree": "true"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "track": {
+                "id": "2768361",
+                "title": "Light Years/I Feel Love (Live In Manchester)",
+                "version": "",
+                "artist": {
+                  "id": "1599",
+                  "name": "Kylie",
+                  "appearsAs": "Kylie Minogue",
+                  "url": "http://www.7digital.com/artist/kylie/?partner=5932"
+                },
+                "trackNumber": "17",
+                "duration": "344",
+                "isrc": "GB0400200990",
+                "url": "http://www.7digital.com/artist/kylie/release/kyliefever2002-live-in-manchester/?partner=5932&h=17"
+              },
+              "remainingDownloads": "5",
+              "purchaseId": "0",
+              "purchaseDate": "2013-06-18T16:24:30Z",
+              "completeAlbumPurchase": "false",
+              "downloadUrls": {
+                "downloadUrl": [
+                  {
+                    "url": "http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&oauth_nonce=858d5ko9vi92gg06&oauth_signature=Sax9S4vc45KV6rWyqCg4X3WR68o%3D&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1409567602&oauth_version=1.0a&formatid=21&partnerid=712&onbehalfofpartnerid=712&presigned=1&releaseid=263431&shopid=34&trackid=2768361&userid=121404036",
+                    "format": {
+                      "id": "21",
+                      "fileFormat": "MP4",
+                      "bitRate": "0",
+                      "drmFree": "true"
+                    }
+                  },
+                  {
+                    "url": "http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&oauth_nonce=b7a5spq34k03heqm&oauth_signature=FxdSeBd93GdV7TXyaHP%2Fw5O8OZY%3D&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1409567602&oauth_version=1.0a&formatid=9&partnerid=712&onbehalfofpartnerid=712&presigned=1&releaseid=263431&shopid=34&trackid=2768361&userid=121404036",
+                    "format": {
+                      "id": "9",
+                      "fileFormat": "MP4",
+                      "bitRate": "0",
+                      "drmFree": "true"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "track": {
+                "id": "2768364",
+                "title": "I Should Be So Lucky (Live In Manchester)",
+                "version": "",
+                "artist": {
+                  "id": "1599",
+                  "name": "Kylie",
+                  "appearsAs": "Kylie Minogue",
+                  "url": "http://www.7digital.com/artist/kylie/?partner=5932"
+                },
+                "trackNumber": "18",
+                "duration": "360",
+                "isrc": "GB0400201000",
+                "url": "http://www.7digital.com/artist/kylie/release/kyliefever2002-live-in-manchester/?partner=5932&h=18"
+              },
+              "remainingDownloads": "5",
+              "purchaseId": "0",
+              "purchaseDate": "2013-06-18T16:24:30Z",
+              "completeAlbumPurchase": "false",
+              "downloadUrls": {
+                "downloadUrl": [
+                  {
+                    "url": "http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&oauth_nonce=h5am3htbzxakahs1&oauth_signature=rP68hoX9R9y9VisbOM7NWOpAmbY%3D&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1409567602&oauth_version=1.0a&formatid=21&partnerid=712&onbehalfofpartnerid=712&presigned=1&releaseid=263431&shopid=34&trackid=2768364&userid=121404036",
+                    "format": {
+                      "id": "21",
+                      "fileFormat": "MP4",
+                      "bitRate": "0",
+                      "drmFree": "true"
+                    }
+                  },
+                  {
+                    "url": "http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&oauth_nonce=wgxo4mzrnfkulv2r&oauth_signature=Ma0VXhtA4OMHEvDLM1grOMQAzDk%3D&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1409567602&oauth_version=1.0a&formatid=9&partnerid=712&onbehalfofpartnerid=712&presigned=1&releaseid=263431&shopid=34&trackid=2768364&userid=121404036",
+                    "format": {
+                      "id": "9",
+                      "fileFormat": "MP4",
+                      "bitRate": "0",
+                      "drmFree": "true"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "track": {
+                "id": "2768365",
+                "title": "Voodoo Intro (Live In Manchester)",
+                "version": "",
+                "artist": {
+                  "id": "1599",
+                  "name": "Kylie",
+                  "appearsAs": "Kylie Minogue",
+                  "url": "http://www.7digital.com/artist/kylie/?partner=5932"
+                },
+                "trackNumber": "19",
+                "duration": "66",
+                "isrc": "GB0400201010",
+                "url": "http://www.7digital.com/artist/kylie/release/kyliefever2002-live-in-manchester/?partner=5932&h=19"
+              },
+              "remainingDownloads": "5",
+              "purchaseId": "0",
+              "purchaseDate": "2013-06-18T16:24:30Z",
+              "completeAlbumPurchase": "false",
+              "downloadUrls": {
+                "downloadUrl": [
+                  {
+                    "url": "http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&oauth_nonce=2wtmgwd4n0f5pf3w&oauth_signature=Avi%2FL0aC3rAYBErU7mbMO0zbM10%3D&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1409567602&oauth_version=1.0a&formatid=21&partnerid=712&onbehalfofpartnerid=712&presigned=1&releaseid=263431&shopid=34&trackid=2768365&userid=121404036",
+                    "format": {
+                      "id": "21",
+                      "fileFormat": "MP4",
+                      "bitRate": "0",
+                      "drmFree": "true"
+                    }
+                  },
+                  {
+                    "url": "http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&oauth_nonce=2igarct6es0w89zd&oauth_signature=gkPW2NcpJfmQpuvYpAb8K0eWYZw%3D&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1409567602&oauth_version=1.0a&formatid=9&partnerid=712&onbehalfofpartnerid=712&presigned=1&releaseid=263431&shopid=34&trackid=2768365&userid=121404036",
+                    "format": {
+                      "id": "9",
+                      "fileFormat": "MP4",
+                      "bitRate": "0",
+                      "drmFree": "true"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "track": {
+                "id": "2768366",
+                "title": "Burning Up (Live In Manchester)",
+                "version": "",
+                "artist": {
+                  "id": "1599",
+                  "name": "Kylie",
+                  "appearsAs": "Kylie Minogue",
+                  "url": "http://www.7digital.com/artist/kylie/?partner=5932"
+                },
+                "trackNumber": "20",
+                "duration": "258",
+                "isrc": "GB0400201020",
+                "url": "http://www.7digital.com/artist/kylie/release/kyliefever2002-live-in-manchester/?partner=5932&h=20"
+              },
+              "remainingDownloads": "5",
+              "purchaseId": "0",
+              "purchaseDate": "2013-06-18T16:24:30Z",
+              "completeAlbumPurchase": "false",
+              "downloadUrls": {
+                "downloadUrl": [
+                  {
+                    "url": "http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&oauth_nonce=7ttnxguad4a4h5ci&oauth_signature=m3zwuH4BXG%2BJI%2Be%2B%2BU%2BSHfYjxwc%3D&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1409567602&oauth_version=1.0a&formatid=21&partnerid=712&onbehalfofpartnerid=712&presigned=1&releaseid=263431&shopid=34&trackid=2768366&userid=121404036",
+                    "format": {
+                      "id": "21",
+                      "fileFormat": "MP4",
+                      "bitRate": "0",
+                      "drmFree": "true"
+                    }
+                  },
+                  {
+                    "url": "http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&oauth_nonce=nx4do1aydyhxxq7o&oauth_signature=9VQc7we1gmXLZuiRNfxvMXugV9w%3D&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1409567602&oauth_version=1.0a&formatid=9&partnerid=712&onbehalfofpartnerid=712&presigned=1&releaseid=263431&shopid=34&trackid=2768366&userid=121404036",
+                    "format": {
+                      "id": "9",
+                      "fileFormat": "MP4",
+                      "bitRate": "0",
+                      "drmFree": "true"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "track": {
+                "id": "2768367",
+                "title": "Better The Devil You Know (Live In Manchester)",
+                "version": "",
+                "artist": {
+                  "id": "1599",
+                  "name": "Kylie",
+                  "appearsAs": "Kylie Minogue",
+                  "url": "http://www.7digital.com/artist/kylie/?partner=5932"
+                },
+                "trackNumber": "21",
+                "duration": "343",
+                "isrc": "GB0400201030",
+                "url": "http://www.7digital.com/artist/kylie/release/kyliefever2002-live-in-manchester/?partner=5932&h=21"
+              },
+              "remainingDownloads": "5",
+              "purchaseId": "0",
+              "purchaseDate": "2013-06-18T16:24:30Z",
+              "completeAlbumPurchase": "false",
+              "downloadUrls": {
+                "downloadUrl": [
+                  {
+                    "url": "http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&oauth_nonce=kb96wo9vyg8xczxk&oauth_signature=KL4QlVVrzP5GngZnOuh9SanV3Gg%3D&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1409567602&oauth_version=1.0a&formatid=21&partnerid=712&onbehalfofpartnerid=712&presigned=1&releaseid=263431&shopid=34&trackid=2768367&userid=121404036",
+                    "format": {
+                      "id": "21",
+                      "fileFormat": "MP4",
+                      "bitRate": "0",
+                      "drmFree": "true"
+                    }
+                  },
+                  {
+                    "url": "http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&oauth_nonce=p1jjfwyft5k097mw&oauth_signature=HJLjtKvTFk6xsqEFcntUs%2FPrYVE%3D&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1409567602&oauth_version=1.0a&formatid=9&partnerid=712&onbehalfofpartnerid=712&presigned=1&releaseid=263431&shopid=34&trackid=2768367&userid=121404036",
+                    "format": {
+                      "id": "9",
+                      "fileFormat": "MP4",
+                      "bitRate": "0",
+                      "drmFree": "true"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "track": {
+                "id": "2768368",
+                "title": "Can't Get Blue Monday Out Of My Head (Live In Manchester)",
+                "version": "",
+                "artist": {
+                  "id": "1599",
+                  "name": "Kylie",
+                  "appearsAs": "Kylie Minogue",
+                  "url": "http://www.7digital.com/artist/kylie/?partner=5932"
+                },
+                "trackNumber": "22",
+                "duration": "268",
+                "isrc": "GB0400201040",
+                "url": "http://www.7digital.com/artist/kylie/release/kyliefever2002-live-in-manchester/?partner=5932&h=22"
+              },
+              "remainingDownloads": "5",
+              "purchaseId": "0",
+              "purchaseDate": "2013-06-18T16:24:30Z",
+              "completeAlbumPurchase": "false",
+              "downloadUrls": {
+                "downloadUrl": [
+                  {
+                    "url": "http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&oauth_nonce=7vtg6hv9yhoi3mwn&oauth_signature=lDU8D63KRf6R0MZNZ5b798Y63ms%3D&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1409567602&oauth_version=1.0a&formatid=21&partnerid=712&onbehalfofpartnerid=712&presigned=1&releaseid=263431&shopid=34&trackid=2768368&userid=121404036",
+                    "format": {
+                      "id": "21",
+                      "fileFormat": "MP4",
+                      "bitRate": "0",
+                      "drmFree": "true"
+                    }
+                  },
+                  {
+                    "url": "http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&oauth_nonce=b8h7hxjym3m3e0w2&oauth_signature=JPsFytx54oS4qkhQsmVUIKdeU2k%3D&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1409567602&oauth_version=1.0a&formatid=9&partnerid=712&onbehalfofpartnerid=712&presigned=1&releaseid=263431&shopid=34&trackid=2768368&userid=121404036",
+                    "format": {
+                      "id": "9",
+                      "fileFormat": "MP4",
+                      "bitRate": "0",
+                      "drmFree": "true"
+                    }
+                  }
+                ]
+              }
             }
-        }
+          ]
+        },
+        "available": "true"
+      }
     }
+  }
 }
