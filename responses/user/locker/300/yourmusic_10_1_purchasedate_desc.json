@@ -19,9 +19,9 @@
             "id": "304",
             "name": "TeamAdobe",
             "appearsAs": "TeamAdobe",
-            "url": "http://www.7digital.com/artists/radiohead/?partner=712"
+            "slug": "radiohead"
           },
-          "url": "http://www.7digital.com/artists/radiohead/in-rainbows/?partner=712",
+          "slug": "radiohead",
           "image": "http://artwork-cdn.7static.com/static/img/sleeveart/00/001/888/0000188863_50.jpg",
           "releaseDate": "2007-12-31T00:00:00Z"
         },
@@ -35,9 +35,9 @@
                 "id": "304",
                 "name": "TeamAdobe",
                 "appearsAs": "TeamAdobe",
-                "url": "http://www.7digital.com/artists/radiohead/?partner=712"
+                "slug": "radiohead"
               },
-              "url": "http://www.7digital.com/artists/radiohead/in-rainbows/01-15-Step?partner=712&partner=712"
+              "slug": "radiohead"
             },
             "remainingDownloads": "3",
             "purchaseDate": "2011-04-13T16:30:35+01:00",

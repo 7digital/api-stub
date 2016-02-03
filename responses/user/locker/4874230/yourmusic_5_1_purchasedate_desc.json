@@ -21,9 +21,9 @@
               "id": "1",
               "name": "Keane",
               "appearsAs": "Keane",
-              "url": "http://www.7digital.com/artists/keane/?partner=712"
+              "slug": "keane"
             },
-            "url": "http://www.7digital.com/artists/keane/perfect-symmetry-1/?partner=712",
+            "slug": "keane",
             "image": "http://artwork-cdn.7static.com/static/img/sleeveart/00/003/208/0000320866_50.jpg",
             "releaseDate": "2008-10-13T00:00:00+01:00"
           },
@@ -38,11 +38,11 @@
                     "id": "1",
                     "name": "Keane",
                     "appearsAs": "Keane",
-                    "url": "http://www.7digital.com/artists/keane/?partner=712"
+                    "slug": "keane"
                   },
                   "trackNumber": "1",
                   "duration": "258",
-                  "url": "http://www.7digital.com/artists/keane/perfect-symmetry-1/01-Spiralling?partner=712&partner=712"
+                  "slug": "keane"
                 },
                 "remainingDownloads": "5",
                 "purchaseDate": "2012-05-28T14:01:14+01:00",
@@ -67,11 +67,11 @@
                     "id": "1",
                     "name": "Keane",
                     "appearsAs": "Keane",
-                    "url": "http://www.7digital.com/artists/keane/?partner=712"
+                    "slug": "keane"
                   },
                   "trackNumber": "2",
                   "duration": "303",
-                  "url": "http://www.7digital.com/artists/keane/perfect-symmetry-1/02-The-Lovers-Are-Losing?partner=712&partner=712"
+                  "slug": "keane"
                 },
                 "remainingDownloads": "5",
                 "purchaseDate": "2012-05-28T14:01:14+01:00",
@@ -96,11 +96,11 @@
                     "id": "1",
                     "name": "Keane",
                     "appearsAs": "Keane",
-                    "url": "http://www.7digital.com/artists/keane/?partner=712"
+                    "slug": "keane"
                   },
                   "trackNumber": "3",
                   "duration": "242",
-                  "url": "http://www.7digital.com/artists/keane/perfect-symmetry-1/03-Better-Than-This?partner=712&partner=712"
+                  "slug": "keane"
                 },
                 "remainingDownloads": "5",
                 "purchaseDate": "2012-05-28T14:01:14+01:00",
@@ -125,11 +125,11 @@
                     "id": "1",
                     "name": "Keane",
                     "appearsAs": "Keane",
-                    "url": "http://www.7digital.com/artists/keane/?partner=712"
+                    "slug": "keane"
                   },
                   "trackNumber": "4",
                   "duration": "227",
-                  "url": "http://www.7digital.com/artists/keane/perfect-symmetry-1/04-You-Havent-Told-Me-Anything?partner=712&partner=712"
+                  "slug": "keane"
                 },
                 "remainingDownloads": "5",
                 "purchaseDate": "2012-05-28T14:01:14+01:00",
@@ -154,11 +154,11 @@
                     "id": "1",
                     "name": "Keane",
                     "appearsAs": "Keane",
-                    "url": "http://www.7digital.com/artists/keane/?partner=712"
+                    "slug": "keane"
                   },
                   "trackNumber": "5",
                   "duration": "310",
-                  "url": "http://www.7digital.com/artists/keane/perfect-symmetry-1/05-Perfect-Symmetry?partner=712&partner=712"
+                  "slug": "keane"
                 },
                 "remainingDownloads": "5",
                 "purchaseDate": "2012-05-28T14:01:14+01:00",
@@ -183,11 +183,11 @@
                     "id": "1",
                     "name": "Keane",
                     "appearsAs": "Keane",
-                    "url": "http://www.7digital.com/artists/keane/?partner=712"
+                    "slug": "keane"
                   },
                   "trackNumber": "6",
                   "duration": "243",
-                  "url": "http://www.7digital.com/artists/keane/perfect-symmetry-1/06-You-Dont-See-Me?partner=712&partner=712"
+                  "slug": "keane"
                 },
                 "remainingDownloads": "5",
                 "purchaseDate": "2012-05-28T14:01:14+01:00",
@@ -212,11 +212,11 @@
                     "id": "1",
                     "name": "Keane",
                     "appearsAs": "Keane",
-                    "url": "http://www.7digital.com/artists/keane/?partner=712"
+                    "slug": "keane"
                   },
                   "trackNumber": "7",
                   "duration": "230",
-                  "url": "http://www.7digital.com/artists/keane/perfect-symmetry-1/07-Again-and-Again?partner=712&partner=712"
+                  "slug": "keane"
                 },
                 "remainingDownloads": "5",
                 "purchaseDate": "2012-05-28T14:01:14+01:00",
@@ -241,11 +241,11 @@
                     "id": "1",
                     "name": "Keane",
                     "appearsAs": "Keane",
-                    "url": "http://www.7digital.com/artists/keane/?partner=712"
+                    "slug": "keane"
                   },
                   "trackNumber": "8",
                   "duration": "333",
-                  "url": "http://www.7digital.com/artists/keane/perfect-symmetry-1/08-Playing-Along?partner=712&partner=712"
+                  "slug": "keane"
                 },
                 "remainingDownloads": "5",
                 "purchaseDate": "2012-05-28T14:01:14+01:00",
@@ -270,11 +270,11 @@
                     "id": "1",
                     "name": "Keane",
                     "appearsAs": "Keane",
-                    "url": "http://www.7digital.com/artists/keane/?partner=712"
+                    "slug": "keane"
                   },
                   "trackNumber": "9",
                   "duration": "227",
-                  "url": "http://www.7digital.com/artists/keane/perfect-symmetry-1/09-Pretend-That-Youre-Alone?partner=712&partner=712"
+                  "slug": "keane"
                 },
                 "remainingDownloads": "5",
                 "purchaseDate": "2012-05-28T14:01:14+01:00",
@@ -299,11 +299,11 @@
                     "id": "1",
                     "name": "Keane",
                     "appearsAs": "Keane",
-                    "url": "http://www.7digital.com/artists/keane/?partner=712"
+                    "slug": "keane"
                   },
                   "trackNumber": "10",
                   "duration": "321",
-                  "url": "http://www.7digital.com/artists/keane/perfect-symmetry-1/10-Black-Burning-Heart?partner=712&partner=712"
+                  "slug": "keane"
                 },
                 "remainingDownloads": "5",
                 "purchaseDate": "2012-05-28T14:01:14+01:00",
@@ -328,11 +328,11 @@
                     "id": "1",
                     "name": "Keane",
                     "appearsAs": "Keane",
-                    "url": "http://www.7digital.com/artists/keane/?partner=712"
+                    "slug": "keane"
                   },
                   "trackNumber": "11",
                   "duration": "337",
-                  "url": "http://www.7digital.com/artists/keane/perfect-symmetry-1/11-Love-Is-The-End?partner=712&partner=712"
+                  "slug": "keane"
                 },
                 "remainingDownloads": "5",
                 "purchaseDate": "2012-05-28T14:01:14+01:00",
@@ -362,9 +362,9 @@
               "id": "1",
               "name": "Keane",
               "appearsAs": "Keane",
-              "url": "http://www.7digital.com/artists/keane/?partner=712"
+              "slug": "keane"
             },
-            "url": "http://www.7digital.com/artists/keane/perfect-symmetry-1/?partner=712",
+            "slug": "keane",
             "image": "http://artwork-cdn.7static.com/static/img/sleeveart/00/003/208/0000320866_50.jpg",
             "releaseDate": "2100-10-13T00:00:00+01:00"
           },
@@ -379,11 +379,11 @@
                     "id": "1",
                     "name": "Keane",
                     "appearsAs": "Keane",
-                    "url": "http://www.7digital.com/artists/keane/?partner=712"
+                    "slug": "keane"
                   },
                   "trackNumber": "1",
                   "duration": "258",
-                  "url": "http://www.7digital.com/artists/keane/perfect-symmetry-1/01-Spiralling?partner=712&partner=712"
+                  "slug": "keane"
                 },
                 "remainingDownloads": "5",
                 "purchaseDate": "2012-05-28T14:01:14+01:00",
@@ -408,11 +408,11 @@
                     "id": "1",
                     "name": "Keane",
                     "appearsAs": "Keane",
-                    "url": "http://www.7digital.com/artists/keane/?partner=712"
+                    "slug": "keane"
                   },
                   "trackNumber": "2",
                   "duration": "303",
-                  "url": "http://www.7digital.com/artists/keane/perfect-symmetry-1/02-The-Lovers-Are-Losing?partner=712&partner=712"
+                  "slug": "keane"
                 },
                 "remainingDownloads": "5",
                 "purchaseDate": "2012-05-28T14:01:14+01:00",
@@ -437,11 +437,11 @@
                     "id": "1",
                     "name": "Keane",
                     "appearsAs": "Keane",
-                    "url": "http://www.7digital.com/artists/keane/?partner=712"
+                    "slug": "keane"
                   },
                   "trackNumber": "3",
                   "duration": "242",
-                  "url": "http://www.7digital.com/artists/keane/perfect-symmetry-1/03-Better-Than-This?partner=712&partner=712"
+                  "slug": "keane"
                 },
                 "remainingDownloads": "5",
                 "purchaseDate": "2012-05-28T14:01:14+01:00",
@@ -466,11 +466,11 @@
                     "id": "1",
                     "name": "Keane",
                     "appearsAs": "Keane",
-                    "url": "http://www.7digital.com/artists/keane/?partner=712"
+                    "slug": "keane"
                   },
                   "trackNumber": "4",
                   "duration": "227",
-                  "url": "http://www.7digital.com/artists/keane/perfect-symmetry-1/04-You-Havent-Told-Me-Anything?partner=712&partner=712"
+                  "slug": "keane"
                 },
                 "remainingDownloads": "5",
                 "purchaseDate": "2012-05-28T14:01:14+01:00",
@@ -495,11 +495,11 @@
                     "id": "1",
                     "name": "Keane",
                     "appearsAs": "Keane",
-                    "url": "http://www.7digital.com/artists/keane/?partner=712"
+                    "slug": "keane"
                   },
                   "trackNumber": "5",
                   "duration": "310",
-                  "url": "http://www.7digital.com/artists/keane/perfect-symmetry-1/05-Perfect-Symmetry?partner=712&partner=712"
+                  "slug": "keane"
                 },
                 "remainingDownloads": "5",
                 "purchaseDate": "2012-05-28T14:01:14+01:00",
@@ -524,11 +524,11 @@
                     "id": "1",
                     "name": "Keane",
                     "appearsAs": "Keane",
-                    "url": "http://www.7digital.com/artists/keane/?partner=712"
+                    "slug": "keane"
                   },
                   "trackNumber": "6",
                   "duration": "243",
-                  "url": "http://www.7digital.com/artists/keane/perfect-symmetry-1/06-You-Dont-See-Me?partner=712&partner=712"
+                  "slug": "keane"
                 },
                 "remainingDownloads": "5",
                 "purchaseDate": "2012-05-28T14:01:14+01:00",
@@ -553,11 +553,11 @@
                     "id": "1",
                     "name": "Keane",
                     "appearsAs": "Keane",
-                    "url": "http://www.7digital.com/artists/keane/?partner=712"
+                    "slug": "keane"
                   },
                   "trackNumber": "7",
                   "duration": "230",
-                  "url": "http://www.7digital.com/artists/keane/perfect-symmetry-1/07-Again-and-Again?partner=712&partner=712"
+                  "slug": "keane"
                 },
                 "remainingDownloads": "5",
                 "purchaseDate": "2012-05-28T14:01:14+01:00",
@@ -582,11 +582,11 @@
                     "id": "1",
                     "name": "Keane",
                     "appearsAs": "Keane",
-                    "url": "http://www.7digital.com/artists/keane/?partner=712"
+                    "slug": "keane"
                   },
                   "trackNumber": "8",
                   "duration": "333",
-                  "url": "http://www.7digital.com/artists/keane/perfect-symmetry-1/08-Playing-Along?partner=712&partner=712"
+                  "slug": "keane"
                 },
                 "remainingDownloads": "5",
                 "purchaseDate": "2012-05-28T14:01:14+01:00",
@@ -611,11 +611,11 @@
                     "id": "1",
                     "name": "Keane",
                     "appearsAs": "Keane",
-                    "url": "http://www.7digital.com/artists/keane/?partner=712"
+                    "slug": "keane"
                   },
                   "trackNumber": "9",
                   "duration": "227",
-                  "url": "http://www.7digital.com/artists/keane/perfect-symmetry-1/09-Pretend-That-Youre-Alone?partner=712&partner=712"
+                  "slug": "keane"
                 },
                 "remainingDownloads": "5",
                 "purchaseDate": "2012-05-28T14:01:14+01:00",
@@ -640,11 +640,11 @@
                     "id": "1",
                     "name": "Keane",
                     "appearsAs": "Keane",
-                    "url": "http://www.7digital.com/artists/keane/?partner=712"
+                    "slug": "keane"
                   },
                   "trackNumber": "10",
                   "duration": "321",
-                  "url": "http://www.7digital.com/artists/keane/perfect-symmetry-1/10-Black-Burning-Heart?partner=712&partner=712"
+                  "slug": "keane"
                 },
                 "remainingDownloads": "5",
                 "purchaseDate": "2012-05-28T14:01:14+01:00",
@@ -669,11 +669,11 @@
                     "id": "1",
                     "name": "Keane",
                     "appearsAs": "Keane",
-                    "url": "http://www.7digital.com/artists/keane/?partner=712"
+                    "slug": "keane"
                   },
                   "trackNumber": "11",
                   "duration": "337",
-                  "url": "http://www.7digital.com/artists/keane/perfect-symmetry-1/11-Love-Is-The-End?partner=712&partner=712"
+                  "slug": "keane"
                 },
                 "remainingDownloads": "5",
                 "purchaseDate": "2012-05-28T14:01:14+01:00",
@@ -703,9 +703,9 @@
               "id": "14697",
               "name": "Yann Tiersen",
               "appearsAs": "Yann Tiersen",
-              "url": "http://www.7digital.com/artist/yann-tiersen/?partner=5932"
+              "slug": "yann-tiersen"
             },
-            "url": "http://www.7digital.com/artist/yann-tiersen/release/infinity/?partner=5932",
+            "slug": "yann-tiersen",
             "image": "http://artwork-cdn.7static.com/static/img/sleeveart/00/033/955/0003395525_50.jpg",
             "releaseDate": "2014-05-19T00:00:00Z",
             "licensor": {
@@ -723,12 +723,12 @@
                     "id": "14697",
                     "name": "Yann Tiersen",
                     "appearsAs": "Yann Tiersen",
-                    "url": "http://www.7digital.com/artist/yann-tiersen/?partner=5932"
+                    "slug": "yann-tiersen"
                   },
                   "trackNumber": "1",
                   "duration": "178",
                   "isrc": "FRPAH1400100",
-                  "url": "http://www.7digital.com/artist/yann-tiersen/release/infinity/?partner=5932&h=01"
+                  "slug": "yann-tiersen"
                 },
                 "remainingDownloads": "5",
                 "purchaseId": "813028726",
@@ -766,12 +766,12 @@
                     "id": "14697",
                     "name": "Yann Tiersen",
                     "appearsAs": "Yann Tiersen",
-                    "url": "http://www.7digital.com/artist/yann-tiersen/?partner=5932"
+                    "slug": "yann-tiersen"
                   },
                   "trackNumber": "2",
                   "duration": "258",
                   "isrc": "FRPAH1400010",
-                  "url": "http://www.7digital.com/artist/yann-tiersen/release/infinity/?partner=5932&h=02"
+                  "slug": "yann-tiersen"
                 },
                 "remainingDownloads": "5",
                 "purchaseId": "813028726",
@@ -809,12 +809,12 @@
                     "id": "14697",
                     "name": "Yann Tiersen",
                     "appearsAs": "Yann Tiersen",
-                    "url": "http://www.7digital.com/artist/yann-tiersen/?partner=5932"
+                    "slug": "yann-tiersen"
                   },
                   "trackNumber": "3",
                   "duration": "253",
                   "isrc": "FRPAH1400020",
-                  "url": "http://www.7digital.com/artist/yann-tiersen/release/infinity/?partner=5932&h=03"
+                  "slug": "yann-tiersen"
                 },
                 "remainingDownloads": "5",
                 "purchaseId": "813028726",
@@ -852,12 +852,12 @@
                     "id": "14697",
                     "name": "Yann Tiersen",
                     "appearsAs": "Yann Tiersen",
-                    "url": "http://www.7digital.com/artist/yann-tiersen/?partner=5932"
+                    "slug": "yann-tiersen"
                   },
                   "trackNumber": "4",
                   "duration": "413",
                   "isrc": "FRPAH1400030",
-                  "url": "http://www.7digital.com/artist/yann-tiersen/release/infinity/?partner=5932&h=04"
+                  "slug": "yann-tiersen"
                 },
                 "remainingDownloads": "5",
                 "purchaseId": "813028726",
@@ -895,12 +895,12 @@
                     "id": "14697",
                     "name": "Yann Tiersen",
                     "appearsAs": "Yann Tiersen",
-                    "url": "http://www.7digital.com/artist/yann-tiersen/?partner=5932"
+                    "slug": "yann-tiersen"
                   },
                   "trackNumber": "5",
                   "duration": "221",
                   "isrc": "FRPAH1400040",
-                  "url": "http://www.7digital.com/artist/yann-tiersen/release/infinity/?partner=5932&h=05"
+                  "slug": "yann-tiersen"
                 },
                 "remainingDownloads": "5",
                 "purchaseId": "813028726",
@@ -938,12 +938,12 @@
                     "id": "14697",
                     "name": "Yann Tiersen",
                     "appearsAs": "Yann Tiersen",
-                    "url": "http://www.7digital.com/artist/yann-tiersen/?partner=5932"
+                    "slug": "yann-tiersen"
                   },
                   "trackNumber": "6",
                   "duration": "324",
                   "isrc": "FRPAH1400050",
-                  "url": "http://www.7digital.com/artist/yann-tiersen/release/infinity/?partner=5932&h=06"
+                  "slug": "yann-tiersen"
                 },
                 "remainingDownloads": "5",
                 "purchaseId": "813028726",
@@ -981,12 +981,12 @@
                     "id": "14697",
                     "name": "Yann Tiersen",
                     "appearsAs": "Yann Tiersen",
-                    "url": "http://www.7digital.com/artist/yann-tiersen/?partner=5932"
+                    "slug": "yann-tiersen"
                   },
                   "trackNumber": "7",
                   "duration": "254",
                   "isrc": "FRPAH1400060",
-                  "url": "http://www.7digital.com/artist/yann-tiersen/release/infinity/?partner=5932&h=07"
+                  "slug": "yann-tiersen"
                 },
                 "remainingDownloads": "5",
                 "purchaseId": "813028726",
@@ -1024,12 +1024,12 @@
                     "id": "14697",
                     "name": "Yann Tiersen",
                     "appearsAs": "Yann Tiersen",
-                    "url": "http://www.7digital.com/artist/yann-tiersen/?partner=5932"
+                    "slug": "yann-tiersen"
                   },
                   "trackNumber": "8",
                   "duration": "312",
                   "isrc": "FRPAH1400070",
-                  "url": "http://www.7digital.com/artist/yann-tiersen/release/infinity/?partner=5932&h=08"
+                  "slug": "yann-tiersen"
                 },
                 "remainingDownloads": "5",
                 "purchaseId": "813028726",
@@ -1067,12 +1067,12 @@
                     "id": "14697",
                     "name": "Yann Tiersen",
                     "appearsAs": "Yann Tiersen",
-                    "url": "http://www.7digital.com/artist/yann-tiersen/?partner=5932"
+                    "slug": "yann-tiersen"
                   },
                   "trackNumber": "9",
                   "duration": "343",
                   "isrc": "FRPAH1400080",
-                  "url": "http://www.7digital.com/artist/yann-tiersen/release/infinity/?partner=5932&h=09"
+                  "slug": "yann-tiersen"
                 },
                 "remainingDownloads": "5",
                 "purchaseId": "813028726",
@@ -1110,12 +1110,12 @@
                     "id": "14697",
                     "name": "Yann Tiersen",
                     "appearsAs": "Yann Tiersen",
-                    "url": "http://www.7digital.com/artist/yann-tiersen/?partner=5932"
+                    "slug": "yann-tiersen"
                   },
                   "trackNumber": "10",
                   "duration": "409",
                   "isrc": "FRPAH1400090",
-                  "url": "http://www.7digital.com/artist/yann-tiersen/release/infinity/?partner=5932&h=10"
+                  "slug": "yann-tiersen"
                 },
                 "remainingDownloads": "5",
                 "purchaseId": "813028726",
@@ -1159,9 +1159,9 @@
               "id": "1129983",
               "name": "Orchestra of the Teatro Massimo Bellini, Catania / Stefano Antonucci / Chorus of the Teatro Massimo Bellini, Catania / Ana María Martínez / Andrea Bocelli",
               "appearsAs": "Orchestra of the Teatro Massimo Bellini, Catania / Stefano Antonucci / Chorus of the Teatro Massimo Bellini, Catania / Ana María Martínez / Andrea Bocelli",
-              "url": "http://www.7digital.com/artist/orchestra-of-the-teatro-massimo-bellini-catania-stefano-antonucci-chorus-of-the-teatro-massimo-bellini-catania-ana-maria-martinez-andrea-bocelli-1/?partner=5932"
+              "slug": "orchestra-of-the-teatro-massimo-bellini-catania-stefano-antonucci-chorus-of-the-teatro-massimo-bellini-catania-ana-maria-martinez-andrea-bocelli-1"
             },
-            "url": "http://www.7digital.com/artist/orchestra-of-the-teatro-massimo-bellini-catania-stefano-antonucci-chorus-of-the-teatro-massimo-bellini-catania-ana-maria-martinez-andrea-bocelli-1/release/leoncavallo-i-pagliacci/?partner=5932",
+            "slug": "orchestra-of-the-teatro-massimo-bellini-catania-stefano-antonucci-chorus-of-the-teatro-massimo-bellini-catania-ana-maria-martinez-andrea-bocelli-1",
             "image": "http://artwork-cdn.7static.com/static/img/sleeveart/00/006/598/0000659847_50.jpg",
             "releaseDate": "2007-03-19T00:00:00Z",
             "licensor": {
@@ -1179,12 +1179,12 @@
                     "id": "1129985",
                     "name": "Steven Mercurio / Orchestra of the Teatro Massimo Bellini, Catania / Chorus of the Teatro Massimo Bellini, Catania / Ana María Martínez / Andrea Bocelli",
                     "appearsAs": "Steven Mercurio / Orchestra of the Teatro Massimo Bellini, Catania / Chorus of the Teatro Massimo Bellini, Catania / Ana María Martínez / Andrea Bocelli",
-                    "url": "http://www.7digital.com/artist/steven-mercurio-orchestra-of-the-teatro-massimo-bellini-catania-chorus-of-the-teatro-massimo-bellini-catania-ana-maria-martinez-andrea-bocelli/?partner=5932"
+                    "slug": "steven-mercurio-orchestra-of-the-teatro-massimo-bellini-catania-chorus-of-the-teatro-massimo-bellini-catania-ana-maria-martinez-andrea-bocelli"
                   },
                   "trackNumber": "5",
                   "duration": "186",
                   "isrc": "ITZ040500047",
-                  "url": "http://www.7digital.com/artist/orchestra-of-the-teatro-massimo-bellini-catania-stefano-antonucci-chorus-of-the-teatro-massimo-bellini-catania-ana-maria-martinez-andrea-bocelli-1/release/leoncavallo-i-pagliacci/?partner=5932&h=05"
+                  "slug": "orchestra-of-the-teatro-massimo-bellini-catania-stefano-antonucci-chorus-of-the-teatro-massimo-bellini-catania-ana-maria-martinez-andrea-bocelli-1"
                 },
                 "remainingDownloads": "5",
                 "purchaseId": "812788974",
@@ -1211,12 +1211,12 @@
                     "id": "1129987",
                     "name": "Steven Mercurio / Orchestra of the Teatro Massimo Bellini, Catania / Ana María Martínez",
                     "appearsAs": "Steven Mercurio / Orchestra of the Teatro Massimo Bellini, Catania / Ana María Martínez",
-                    "url": "http://www.7digital.com/artist/steven-mercurio-orchestra-of-the-teatro-massimo-bellini-catania-ana-maria-martinez/?partner=5932"
+                    "slug": "steven-mercurio-orchestra-of-the-teatro-massimo-bellini-catania-ana-maria-martinez"
                   },
                   "trackNumber": "7",
                   "duration": "160",
                   "isrc": "ITZ040500049",
-                  "url": "http://www.7digital.com/artist/orchestra-of-the-teatro-massimo-bellini-catania-stefano-antonucci-chorus-of-the-teatro-massimo-bellini-catania-ana-maria-martinez-andrea-bocelli-1/release/leoncavallo-i-pagliacci/?partner=5932&h=07"
+                  "slug": "orchestra-of-the-teatro-massimo-bellini-catania-stefano-antonucci-chorus-of-the-teatro-massimo-bellini-catania-ana-maria-martinez-andrea-bocelli-1"
                 },
                 "remainingDownloads": "5",
                 "purchaseId": "812788974",
@@ -1243,12 +1243,12 @@
                     "id": "1129992",
                     "name": "Steven Mercurio / Orchestra of the Teatro Massimo Bellini, Catania / Roberto Accurso / Stefano Antonucci / Ana María Martínez / Andrea Bocelli",
                     "appearsAs": "Steven Mercurio / Orchestra of the Teatro Massimo Bellini, Catania / Roberto Accurso / Stefano Antonucci / Ana María Martínez / Andrea Bocelli",
-                    "url": "http://www.7digital.com/artist/steven-mercurio-orchestra-of-the-teatro-massimo-bellini-catania-roberto-accurso-stefano-antonucci-ana-maria-martinez-andrea-bocelli/?partner=5932"
+                    "slug": "steven-mercurio-orchestra-of-the-teatro-massimo-bellini-catania-roberto-accurso-stefano-antonucci-ana-maria-martinez-andrea-bocelli"
                   },
                   "trackNumber": "14",
                   "duration": "106",
                   "isrc": "ITZ040500056",
-                  "url": "http://www.7digital.com/artist/orchestra-of-the-teatro-massimo-bellini-catania-stefano-antonucci-chorus-of-the-teatro-massimo-bellini-catania-ana-maria-martinez-andrea-bocelli-1/release/leoncavallo-i-pagliacci/?partner=5932&h=14"
+                  "slug": "orchestra-of-the-teatro-massimo-bellini-catania-stefano-antonucci-chorus-of-the-teatro-massimo-bellini-catania-ana-maria-martinez-andrea-bocelli-1"
                 },
                 "remainingDownloads": "5",
                 "purchaseId": "812788974",
@@ -1281,9 +1281,9 @@
               "id": "45369",
               "name": "Propellerheads",
               "appearsAs": "Propellerheads",
-              "url": "http://www.7digital.com/artist/propellerheads/?partner=5932"
+              "slug": "propellerheads"
             },
-            "url": "http://www.7digital.com/artist/propellerheads/release/decksandrumsandrockandroll/?partner=5932",
+            "slug": "propellerheads",
             "image": "http://artwork-cdn.7static.com/static/img/sleeveart/00/004/381/0000438137_50.jpg",
             "releaseDate": "2030-04-26T00:00:00Z",
             "licensor": {
@@ -1301,12 +1301,12 @@
                     "id": "45369",
                     "name": "Propellerheads",
                     "appearsAs": "Propellerheads",
-                    "url": "http://www.7digital.com/artist/propellerheads/?partner=5932"
+                    "slug": "propellerheads"
                   },
                   "trackNumber": "1",
                   "duration": "442",
                   "isrc": "USDW19703101",
-                  "url": "http://www.7digital.com/artist/propellerheads/release/decksandrumsandrockandroll/?partner=5932&h=01"
+                  "slug": "propellerheads"
                 },
                 "remainingDownloads": "5",
                 "purchaseId": "812788974",
@@ -1333,12 +1333,12 @@
                     "id": "45369",
                     "name": "Propellerheads",
                     "appearsAs": "Propellerheads",
-                    "url": "http://www.7digital.com/artist/propellerheads/?partner=5932"
+                    "slug": "propellerheads"
                   },
                   "trackNumber": "2",
                   "duration": "347",
                   "isrc": "USDW19703109",
-                  "url": "http://www.7digital.com/artist/propellerheads/release/decksandrumsandrockandroll/?partner=5932&h=02"
+                  "slug": "propellerheads"
                 },
                 "remainingDownloads": "5",
                 "purchaseId": "812788974",
@@ -1365,12 +1365,12 @@
                     "id": "45369",
                     "name": "Propellerheads",
                     "appearsAs": "Propellerheads",
-                    "url": "http://www.7digital.com/artist/propellerheads/?partner=5932"
+                    "slug": "propellerheads"
                   },
                   "trackNumber": "3",
                   "duration": "123",
                   "isrc": "USDW19703113",
-                  "url": "http://www.7digital.com/artist/propellerheads/release/decksandrumsandrockandroll/?partner=5932&h=03"
+                  "slug": "propellerheads"
                 },
                 "remainingDownloads": "5",
                 "purchaseId": "812788974",
@@ -1397,12 +1397,12 @@
                     "id": "327699",
                     "name": "Propellerheads / De La Soul",
                     "appearsAs": "Propellerheads / De La Soul",
-                    "url": "http://www.7digital.com/artist/propellerheads-de-la-soul/?partner=5932"
+                    "slug": "propellerheads-de-la-soul"
                   },
                   "trackNumber": "4",
                   "duration": "268",
                   "isrc": "USDW19703117",
-                  "url": "http://www.7digital.com/artist/propellerheads/release/decksandrumsandrockandroll/?partner=5932&h=04"
+                  "slug": "propellerheads"
                 },
                 "remainingDownloads": "5",
                 "purchaseId": "812788974",
@@ -1429,12 +1429,12 @@
                     "id": "327700",
                     "name": "Propellerheads / Shirley Bassey",
                     "appearsAs": "Propellerheads / Shirley Bassey",
-                    "url": "http://www.7digital.com/artist/propellerheads-shirley-bassey/?partner=5932"
+                    "slug": "propellerheads-shirley-bassey"
                   },
                   "trackNumber": "5",
                   "duration": "243",
                   "isrc": "USDW19703110",
-                  "url": "http://www.7digital.com/artist/propellerheads/release/decksandrumsandrockandroll/?partner=5932&h=05"
+                  "slug": "propellerheads"
                 },
                 "remainingDownloads": "5",
                 "purchaseId": "812788974",
@@ -1461,12 +1461,12 @@
                     "id": "45369",
                     "name": "Propellerheads",
                     "appearsAs": "Propellerheads",
-                    "url": "http://www.7digital.com/artist/propellerheads/?partner=5932"
+                    "slug": "propellerheads"
                   },
                   "trackNumber": "6",
                   "duration": "358",
                   "isrc": "USDW19703111",
-                  "url": "http://www.7digital.com/artist/propellerheads/release/decksandrumsandrockandroll/?partner=5932&h=06"
+                  "slug": "propellerheads"
                 },
                 "remainingDownloads": "5",
                 "purchaseId": "812788974",
@@ -1493,12 +1493,12 @@
                     "id": "45369",
                     "name": "Propellerheads",
                     "appearsAs": "Propellerheads",
-                    "url": "http://www.7digital.com/artist/propellerheads/?partner=5932"
+                    "slug": "propellerheads"
                   },
                   "trackNumber": "7",
                   "duration": "345",
                   "isrc": "USDW19703106",
-                  "url": "http://www.7digital.com/artist/propellerheads/release/decksandrumsandrockandroll/?partner=5932&h=07"
+                  "slug": "propellerheads"
                 },
                 "remainingDownloads": "5",
                 "purchaseId": "812788974",
@@ -1525,12 +1525,12 @@
                     "id": "45369",
                     "name": "Propellerheads",
                     "appearsAs": "Propellerheads",
-                    "url": "http://www.7digital.com/artist/propellerheads/?partner=5932"
+                    "slug": "propellerheads"
                   },
                   "trackNumber": "8",
                   "duration": "46",
                   "isrc": "USDW19703112",
-                  "url": "http://www.7digital.com/artist/propellerheads/release/decksandrumsandrockandroll/?partner=5932&h=08"
+                  "slug": "propellerheads"
                 },
                 "remainingDownloads": "5",
                 "purchaseId": "812788974",
@@ -1557,12 +1557,12 @@
                     "id": "45369",
                     "name": "Propellerheads",
                     "appearsAs": "Propellerheads",
-                    "url": "http://www.7digital.com/artist/propellerheads/?partner=5932"
+                    "slug": "propellerheads"
                   },
                   "trackNumber": "9",
                   "duration": "561",
                   "isrc": "USDW19703114",
-                  "url": "http://www.7digital.com/artist/propellerheads/release/decksandrumsandrockandroll/?partner=5932&h=09"
+                  "slug": "propellerheads"
                 },
                 "remainingDownloads": "5",
                 "purchaseId": "812788974",
@@ -1589,12 +1589,12 @@
                     "id": "45369",
                     "name": "Propellerheads",
                     "appearsAs": "Propellerheads",
-                    "url": "http://www.7digital.com/artist/propellerheads/?partner=5932"
+                    "slug": "propellerheads"
                   },
                   "trackNumber": "10",
                   "duration": "140",
                   "isrc": "USDW19703115",
-                  "url": "http://www.7digital.com/artist/propellerheads/release/decksandrumsandrockandroll/?partner=5932&h=10"
+                  "slug": "propellerheads"
                 },
                 "remainingDownloads": "5",
                 "purchaseId": "812788974",
@@ -1621,12 +1621,12 @@
                     "id": "45369",
                     "name": "Propellerheads",
                     "appearsAs": "Propellerheads",
-                    "url": "http://www.7digital.com/artist/propellerheads/?partner=5932"
+                    "slug": "propellerheads"
                   },
                   "trackNumber": "11",
                   "duration": "423",
                   "isrc": "USDW19703116",
-                  "url": "http://www.7digital.com/artist/propellerheads/release/decksandrumsandrockandroll/?partner=5932&h=11"
+                  "slug": "propellerheads"
                 },
                 "remainingDownloads": "5",
                 "purchaseId": "812788974",
@@ -1653,12 +1653,12 @@
                     "id": "45369",
                     "name": "Propellerheads",
                     "appearsAs": "Propellerheads",
-                    "url": "http://www.7digital.com/artist/propellerheads/?partner=5932"
+                    "slug": "propellerheads"
                   },
                   "trackNumber": "12",
                   "duration": "418",
                   "isrc": "USDW19703102",
-                  "url": "http://www.7digital.com/artist/propellerheads/release/decksandrumsandrockandroll/?partner=5932&h=12"
+                  "slug": "propellerheads"
                 },
                 "remainingDownloads": "5",
                 "purchaseId": "812788974",
@@ -1685,12 +1685,12 @@
                     "id": "327701",
                     "name": "Propellerheads / Jungle Brothers",
                     "appearsAs": "Propellerheads / Jungle Brothers",
-                    "url": "http://www.7digital.com/artist/propellerheads-jungle-brothers/?partner=5932"
+                    "slug": "propellerheads-jungle-brothers"
                   },
                   "trackNumber": "13",
                   "duration": "359",
                   "isrc": "USDW19703118",
-                  "url": "http://www.7digital.com/artist/propellerheads/release/decksandrumsandrockandroll/?partner=5932&h=13"
+                  "slug": "propellerheads"
                 },
                 "remainingDownloads": "5",
                 "purchaseId": "812788974",

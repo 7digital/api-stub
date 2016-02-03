@@ -20,9 +20,9 @@
             "id": "209",
             "name": "Various Artists",
             "appearsAs": "Various",
-            "url": "http://www.7digital.com/artist/various-artists/?partner=5932"
+            "slug": "various-artists"
           },
-          "url": "http://www.7digital.com/artist/various-artists/release/bbc-radio-1s-live-lounge-2013-1/?partner=5932",
+          "slug": "various-artists",
           "image": "http://artwork-cdn.7static.com/static/img/sleeveart/00/030/286/0003028642_50.jpg",
           "releaseDate": "2013-11-19T00:00:00Z",
           "licensor": {
@@ -40,12 +40,12 @@
                   "id": "950679",
                   "name": "Rudimental",
                   "appearsAs": "Rudimental",
-                  "url": "http://www.7digital.com/artist/rudimental/?partner=5932"
+                  "slug": "rudimental"
                 },
                 "trackNumber": "1",
                 "duration": "262",
                 "isrc": "GBCAD1300329",
-                "url": "http://www.7digital.com/artist/various-artists/release/bbc-radio-1s-live-lounge-2013-1/?partner=5932&h=01"
+                "slug": "various-artists"
               },
               "remainingDownloads": "5",
               "purchaseId": "0",
@@ -72,12 +72,12 @@
                   "id": "8318",
                   "name": "Arctic Monkeys",
                   "appearsAs": "Arctic Monkeys",
-                  "url": "http://www.7digital.com/artist/arctic-monkeys/?partner=5932"
+                  "slug": "arctic-monkeys"
                 },
                 "trackNumber": "2",
                 "duration": "199",
                 "isrc": "GBCAD1300717",
-                "url": "http://www.7digital.com/artist/various-artists/release/bbc-radio-1s-live-lounge-2013-1/?partner=5932&h=02"
+                "slug": "various-artists"
               },
               "remainingDownloads": "5",
               "purchaseId": "0",
@@ -104,12 +104,12 @@
                   "id": "972893",
                   "name": "Bastille",
                   "appearsAs": "Bastille",
-                  "url": "http://www.7digital.com/artist/bastille/?partner=5932"
+                  "slug": "bastille"
                 },
                 "trackNumber": "3",
                 "duration": "206",
                 "isrc": "GBCAD1300304",
-                "url": "http://www.7digital.com/artist/various-artists/release/bbc-radio-1s-live-lounge-2013-1/?partner=5932&h=03"
+                "slug": "various-artists"
               },
               "remainingDownloads": "5",
               "purchaseId": "0",
@@ -136,12 +136,12 @@
                   "id": "51871",
                   "name": "Naughty Boy",
                   "appearsAs": "Naughty Boy",
-                  "url": "http://www.7digital.com/artist/naughty-boy/?partner=5932"
+                  "slug": "naughty-boy"
                 },
                 "trackNumber": "4",
                 "duration": "218",
                 "isrc": "GBCAD1300384",
-                "url": "http://www.7digital.com/artist/various-artists/release/bbc-radio-1s-live-lounge-2013-1/?partner=5932&h=04"
+                "slug": "various-artists"
               },
               "remainingDownloads": "5",
               "purchaseId": "0",
@@ -168,12 +168,12 @@
                   "id": "468577",
                   "name": "Ellie Goulding",
                   "appearsAs": "Ellie Goulding",
-                  "url": "http://www.7digital.com/artist/ellie-goulding/?partner=5932"
+                  "slug": "ellie-goulding"
                 },
                 "trackNumber": "5",
                 "duration": "279",
                 "isrc": "GBCAD1300725",
-                "url": "http://www.7digital.com/artist/various-artists/release/bbc-radio-1s-live-lounge-2013-1/?partner=5932&h=05"
+                "slug": "various-artists"
               },
               "remainingDownloads": "5",
               "purchaseId": "0",
@@ -200,12 +200,12 @@
                   "id": "364252",
                   "name": "Daughter",
                   "appearsAs": "Daughter",
-                  "url": "http://www.7digital.com/artist/daughter/?partner=5932"
+                  "slug": "daughter"
                 },
                 "trackNumber": "6",
                 "duration": "292",
                 "isrc": "GBCAD1300316",
-                "url": "http://www.7digital.com/artist/various-artists/release/bbc-radio-1s-live-lounge-2013-1/?partner=5932&h=06"
+                "slug": "various-artists"
               },
               "remainingDownloads": "5",
               "purchaseId": "0",
@@ -232,12 +232,12 @@
                   "id": "54041",
                   "name": "Robin Thicke",
                   "appearsAs": "Robin Thicke",
-                  "url": "http://www.7digital.com/artist/robin-thicke/?partner=5932"
+                  "slug": "robin-thicke"
                 },
                 "trackNumber": "7",
                 "duration": "161",
                 "isrc": "GBCAD1300419",
-                "url": "http://www.7digital.com/artist/various-artists/release/bbc-radio-1s-live-lounge-2013-1/?partner=5932&h=07"
+                "slug": "various-artists"
               },
               "remainingDownloads": "5",
               "purchaseId": "0",
@@ -264,12 +264,12 @@
                   "id": "146096",
                   "name": "Vampire Weekend",
                   "appearsAs": "Vampire Weekend",
-                  "url": "http://www.7digital.com/artist/vampire-weekend/?partner=5932"
+                  "slug": "vampire-weekend"
                 },
                 "trackNumber": "8",
                 "duration": "255",
                 "isrc": "GBCAD1300417",
-                "url": "http://www.7digital.com/artist/various-artists/release/bbc-radio-1s-live-lounge-2013-1/?partner=5932&h=08"
+                "slug": "various-artists"
               },
               "remainingDownloads": "5",
               "purchaseId": "0",
@@ -296,12 +296,12 @@
                   "id": "1176242",
                   "name": "Little Mix",
                   "appearsAs": "Little Mix",
-                  "url": "http://www.7digital.com/artist/little-mix/?partner=5932"
+                  "slug": "little-mix"
                 },
                 "trackNumber": "9",
                 "duration": "276",
                 "isrc": "GBCAD1300314",
-                "url": "http://www.7digital.com/artist/various-artists/release/bbc-radio-1s-live-lounge-2013-1/?partner=5932&h=09"
+                "slug": "various-artists"
               },
               "remainingDownloads": "5",
               "purchaseId": "0",
@@ -328,12 +328,12 @@
                   "id": "79918",
                   "name": "Birdy",
                   "appearsAs": "Birdy",
-                  "url": "http://www.7digital.com/artist/birdy/?partner=5932"
+                  "slug": "birdy"
                 },
                 "trackNumber": "10",
                 "duration": "206",
                 "isrc": "GBCAD1300716",
-                "url": "http://www.7digital.com/artist/various-artists/release/bbc-radio-1s-live-lounge-2013-1/?partner=5932&h=10"
+                "slug": "various-artists"
               },
               "remainingDownloads": "5",
               "purchaseId": "0",
@@ -360,12 +360,12 @@
                   "id": "1029972",
                   "name": "Jake Bugg",
                   "appearsAs": "Jake Bugg",
-                  "url": "http://www.7digital.com/artist/jake-bugg/?partner=5932"
+                  "slug": "jake-bugg"
                 },
                 "trackNumber": "11",
                 "duration": "135",
                 "isrc": "GBCAD1300416",
-                "url": "http://www.7digital.com/artist/various-artists/release/bbc-radio-1s-live-lounge-2013-1/?partner=5932&h=11"
+                "slug": "various-artists"
               },
               "remainingDownloads": "5",
               "purchaseId": "0",
@@ -392,12 +392,12 @@
                   "id": "1428779",
                   "name": "Tom Odell",
                   "appearsAs": "Tom Odell",
-                  "url": "http://www.7digital.com/artist/tom-odell/?partner=5932"
+                  "slug": "tom-odell"
                 },
                 "trackNumber": "12",
                 "duration": "284",
                 "isrc": "GBCAD1300332",
-                "url": "http://www.7digital.com/artist/various-artists/release/bbc-radio-1s-live-lounge-2013-1/?partner=5932&h=12"
+                "slug": "various-artists"
               },
               "remainingDownloads": "5",
               "purchaseId": "0",
@@ -424,12 +424,12 @@
                   "id": "11565",
                   "name": "30 Seconds To Mars",
                   "appearsAs": "30 Seconds To Mars",
-                  "url": "http://www.7digital.com/artist/30-seconds-to-mars/?partner=5932"
+                  "slug": "30-seconds-to-mars"
                 },
                 "trackNumber": "13",
                 "duration": "247",
                 "isrc": "GBCAD1300538",
-                "url": "http://www.7digital.com/artist/various-artists/release/bbc-radio-1s-live-lounge-2013-1/?partner=5932&h=13"
+                "slug": "various-artists"
               },
               "remainingDownloads": "5",
               "purchaseId": "0",
@@ -456,12 +456,12 @@
                   "id": "1358595",
                   "name": "The 1975",
                   "appearsAs": "The 1975",
-                  "url": "http://www.7digital.com/artist/the-1975/?partner=5932"
+                  "slug": "the-1975"
                 },
                 "trackNumber": "14",
                 "duration": "237",
                 "isrc": "GBCAD1300330",
-                "url": "http://www.7digital.com/artist/various-artists/release/bbc-radio-1s-live-lounge-2013-1/?partner=5932&h=14"
+                "slug": "various-artists"
               },
               "remainingDownloads": "5",
               "purchaseId": "0",
@@ -488,12 +488,12 @@
                   "id": "487026",
                   "name": "Ben Howard",
                   "appearsAs": "Ben Howard",
-                  "url": "http://www.7digital.com/artist/ben-howard/?partner=5932"
+                  "slug": "ben-howard"
                 },
                 "trackNumber": "15",
                 "duration": "341",
                 "isrc": "GBCAD1300305",
-                "url": "http://www.7digital.com/artist/various-artists/release/bbc-radio-1s-live-lounge-2013-1/?partner=5932&h=15"
+                "slug": "various-artists"
               },
               "remainingDownloads": "5",
               "purchaseId": "0",
@@ -520,12 +520,12 @@
                   "id": "785015",
                   "name": "Olly Murs",
                   "appearsAs": "Olly Murs",
-                  "url": "http://www.7digital.com/artist/olly-murs/?partner=5932"
+                  "slug": "olly-murs"
                 },
                 "trackNumber": "16",
                 "duration": "217",
                 "isrc": "GBCAD1300324",
-                "url": "http://www.7digital.com/artist/various-artists/release/bbc-radio-1s-live-lounge-2013-1/?partner=5932&h=16"
+                "slug": "various-artists"
               },
               "remainingDownloads": "5",
               "purchaseId": "0",
@@ -552,12 +552,12 @@
                   "id": "347171",
                   "name": "Jason Derulo",
                   "appearsAs": "Jason Derulo",
-                  "url": "http://www.7digital.com/artist/jason-derulo/?partner=5932"
+                  "slug": "jason-derulo"
                 },
                 "trackNumber": "17",
                 "duration": "170",
                 "isrc": "GBCAD1300726",
-                "url": "http://www.7digital.com/artist/various-artists/release/bbc-radio-1s-live-lounge-2013-1/?partner=5932&h=17"
+                "slug": "various-artists"
               },
               "remainingDownloads": "5",
               "purchaseId": "0",
@@ -584,12 +584,12 @@
                   "id": "341566",
                   "name": "Jessie J",
                   "appearsAs": "Jessie J",
-                  "url": "http://www.7digital.com/artist/jessie-j/?partner=5932"
+                  "slug": "jessie-j"
                 },
                 "trackNumber": "18",
                 "duration": "214",
                 "isrc": "GBCAD1300715",
-                "url": "http://www.7digital.com/artist/various-artists/release/bbc-radio-1s-live-lounge-2013-1/?partner=5932&h=18"
+                "slug": "various-artists"
               },
               "remainingDownloads": "5",
               "purchaseId": "0",
@@ -616,12 +616,12 @@
                   "id": "996395",
                   "name": "Rizzle Kicks",
                   "appearsAs": "Rizzle Kicks",
-                  "url": "http://www.7digital.com/artist/rizzle-kicks/?partner=5932"
+                  "slug": "rizzle-kicks"
                 },
                 "trackNumber": "19",
                 "duration": "233",
                 "isrc": "GBCAD1300531",
-                "url": "http://www.7digital.com/artist/various-artists/release/bbc-radio-1s-live-lounge-2013-1/?partner=5932&h=19"
+                "slug": "various-artists"
               },
               "remainingDownloads": "5",
               "purchaseId": "0",
@@ -648,12 +648,12 @@
                   "id": "1373940",
                   "name": "Kodaline",
                   "appearsAs": "Kodaline",
-                  "url": "http://www.7digital.com/artist/kodaline/?partner=5932"
+                  "slug": "kodaline"
                 },
                 "trackNumber": "20",
                 "duration": "229",
                 "isrc": "GBCAD1300719",
-                "url": "http://www.7digital.com/artist/various-artists/release/bbc-radio-1s-live-lounge-2013-1/?partner=5932&h=20"
+                "slug": "various-artists"
               },
               "remainingDownloads": "5",
               "purchaseId": "0",
@@ -680,12 +680,12 @@
                   "id": "1277148",
                   "name": "Nina Nesbitt",
                   "appearsAs": "Nina Nesbitt",
-                  "url": "http://www.7digital.com/artist/nina-nesbitt/?partner=5932"
+                  "slug": "nina-nesbitt"
                 },
                 "trackNumber": "21",
                 "duration": "242",
                 "isrc": "GBCAD1300418",
-                "url": "http://www.7digital.com/artist/various-artists/release/bbc-radio-1s-live-lounge-2013-1/?partner=5932&h=21"
+                "slug": "various-artists"
               },
               "remainingDownloads": "5",
               "purchaseId": "0",
@@ -712,12 +712,12 @@
                   "id": "1217372",
                   "name": "Gabrielle Aplin",
                   "appearsAs": "Gabrielle Aplin",
-                  "url": "http://www.7digital.com/artist/gabrielle-aplin/?partner=5932"
+                  "slug": "gabrielle-aplin"
                 },
                 "trackNumber": "22",
                 "duration": "207",
                 "isrc": "GBCAD1300535",
-                "url": "http://www.7digital.com/artist/various-artists/release/bbc-radio-1s-live-lounge-2013-1/?partner=5932&h=22"
+                "slug": "various-artists"
               },
               "remainingDownloads": "5",
               "purchaseId": "0",
@@ -744,12 +744,12 @@
                   "id": "406524",
                   "name": "Mumford & Sons",
                   "appearsAs": "Mumford & Sons",
-                  "url": "http://www.7digital.com/artist/mumford-and-sons/?partner=5932"
+                  "slug": "mumford-and-sons"
                 },
                 "trackNumber": "23",
                 "duration": "179",
                 "isrc": "GBCAD1300322",
-                "url": "http://www.7digital.com/artist/various-artists/release/bbc-radio-1s-live-lounge-2013-1/?partner=5932&h=23"
+                "slug": "various-artists"
               },
               "remainingDownloads": "5",
               "purchaseId": "0",
@@ -776,12 +776,12 @@
                   "id": "445777",
                   "name": "fun.",
                   "appearsAs": "fun.",
-                  "url": "http://www.7digital.com/artist/fun/?partner=5932"
+                  "slug": "fun"
                 },
                 "trackNumber": "24",
                 "duration": "240",
                 "isrc": "GBCAD1300386",
-                "url": "http://www.7digital.com/artist/various-artists/release/bbc-radio-1s-live-lounge-2013-1/?partner=5932&h=24"
+                "slug": "various-artists"
               },
               "remainingDownloads": "5",
               "purchaseId": "0",
@@ -808,12 +808,12 @@
                   "id": "1184808",
                   "name": "Imagine Dragons",
                   "appearsAs": "Imagine Dragons",
-                  "url": "http://www.7digital.com/artist/imagine-dragons/?partner=5932"
+                  "slug": "imagine-dragons"
                 },
                 "trackNumber": "25",
                 "duration": "232",
                 "isrc": "GBCAD1300532",
-                "url": "http://www.7digital.com/artist/various-artists/release/bbc-radio-1s-live-lounge-2013-1/?partner=5932&h=25"
+                "slug": "various-artists"
               },
               "remainingDownloads": "5",
               "purchaseId": "0",
@@ -840,12 +840,12 @@
                   "id": "1253941",
                   "name": "Rita Ora ",
                   "appearsAs": "RITA ORA",
-                  "url": "http://www.7digital.com/artist/rita-ora/?partner=5932"
+                  "slug": "rita-ora"
                 },
                 "trackNumber": "26",
                 "duration": "278",
                 "isrc": "GBCAD1300328",
-                "url": "http://www.7digital.com/artist/various-artists/release/bbc-radio-1s-live-lounge-2013-1/?partner=5932&h=26"
+                "slug": "various-artists"
               },
               "remainingDownloads": "5",
               "purchaseId": "0",
@@ -872,12 +872,12 @@
                   "id": "1125092",
                   "name": "Jessie Ware",
                   "appearsAs": "Jessie Ware",
-                  "url": "http://www.7digital.com/artist/jessie-ware/?partner=5932"
+                  "slug": "jessie-ware"
                 },
                 "trackNumber": "27",
                 "duration": "207",
                 "isrc": "GBCAD1300310",
-                "url": "http://www.7digital.com/artist/various-artists/release/bbc-radio-1s-live-lounge-2013-1/?partner=5932&h=27"
+                "slug": "various-artists"
               },
               "remainingDownloads": "5",
               "purchaseId": "0",
@@ -904,12 +904,12 @@
                   "id": "369884",
                   "name": "Carly Rae Jepsen",
                   "appearsAs": "Carly Rae Jepsen",
-                  "url": "http://www.7digital.com/artist/carly-rae-jepsen/?partner=5932"
+                  "slug": "carly-rae-jepsen"
                 },
                 "trackNumber": "28",
                 "duration": "185",
                 "isrc": "GBCAD1300307",
-                "url": "http://www.7digital.com/artist/various-artists/release/bbc-radio-1s-live-lounge-2013-1/?partner=5932&h=28"
+                "slug": "various-artists"
               },
               "remainingDownloads": "5",
               "purchaseId": "0",
@@ -936,12 +936,12 @@
                   "id": "960223",
                   "name": "K Koke",
                   "appearsAs": "K Koke",
-                  "url": "http://www.7digital.com/artist/k-koke-1/?partner=5932"
+                  "slug": "k-koke-1"
                 },
                 "trackNumber": "29",
                 "duration": "246",
                 "isrc": "GBCAD1300312",
-                "url": "http://www.7digital.com/artist/various-artists/release/bbc-radio-1s-live-lounge-2013-1/?partner=5932&h=29"
+                "slug": "various-artists"
               },
               "remainingDownloads": "5",
               "purchaseId": "0",
@@ -968,12 +968,12 @@
                   "id": "1095343",
                   "name": "Theme Park",
                   "appearsAs": "Theme Park",
-                  "url": "http://www.7digital.com/artist/theme-park/?partner=5932"
+                  "slug": "theme-park"
                 },
                 "trackNumber": "30",
                 "duration": "238",
                 "isrc": "GBCAD1300415",
-                "url": "http://www.7digital.com/artist/various-artists/release/bbc-radio-1s-live-lounge-2013-1/?partner=5932&h=30"
+                "slug": "various-artists"
               },
               "remainingDownloads": "5",
               "purchaseId": "0",
@@ -1000,12 +1000,12 @@
                   "id": "35902",
                   "name": "Example",
                   "appearsAs": "Example",
-                  "url": "http://www.7digital.com/artist/example/?partner=5932"
+                  "slug": "example"
                 },
                 "trackNumber": "31",
                 "duration": "260",
                 "isrc": "GBCAD1300309",
-                "url": "http://www.7digital.com/artist/various-artists/release/bbc-radio-1s-live-lounge-2013-1/?partner=5932&h=31"
+                "slug": "various-artists"
               },
               "remainingDownloads": "5",
               "purchaseId": "0",
@@ -1032,12 +1032,12 @@
                   "id": "19204",
                   "name": "Wiley",
                   "appearsAs": "Wiley",
-                  "url": "http://www.7digital.com/artist/wiley/?partner=5932"
+                  "slug": "wiley"
                 },
                 "trackNumber": "32",
                 "duration": "159",
                 "isrc": "GBCAD1300334",
-                "url": "http://www.7digital.com/artist/various-artists/release/bbc-radio-1s-live-lounge-2013-1/?partner=5932&h=32"
+                "slug": "various-artists"
               },
               "remainingDownloads": "5",
               "purchaseId": "0",
@@ -1064,12 +1064,12 @@
                   "id": "707596",
                   "name": "Mikky Ekko",
                   "appearsAs": "Mikky Ekko",
-                  "url": "http://www.7digital.com/artist/mikky-ekko/?partner=5932"
+                  "slug": "mikky-ekko"
                 },
                 "trackNumber": "33",
                 "duration": "240",
                 "isrc": "GBCAD1300319",
-                "url": "http://www.7digital.com/artist/various-artists/release/bbc-radio-1s-live-lounge-2013-1/?partner=5932&h=33"
+                "slug": "various-artists"
               },
               "remainingDownloads": "5",
               "purchaseId": "0",
@@ -1096,12 +1096,12 @@
                   "id": "1333315",
                   "name": "Misha B",
                   "appearsAs": "Misha B",
-                  "url": "http://www.7digital.com/artist/misha-b/?partner=5932"
+                  "slug": "misha-b"
                 },
                 "trackNumber": "34",
                 "duration": "202",
                 "isrc": "GBCAD1300320",
-                "url": "http://www.7digital.com/artist/various-artists/release/bbc-radio-1s-live-lounge-2013-1/?partner=5932&h=34"
+                "slug": "various-artists"
               },
               "remainingDownloads": "5",
               "purchaseId": "0",
@@ -1128,12 +1128,12 @@
                   "id": "1125990",
                   "name": "Lianne La Havas",
                   "appearsAs": "Lianne La Havas",
-                  "url": "http://www.7digital.com/artist/lianne-la-havas/?partner=5932"
+                  "slug": "lianne-la-havas"
                 },
                 "trackNumber": "35",
                 "duration": "207",
                 "isrc": "GBCAD1300313",
-                "url": "http://www.7digital.com/artist/various-artists/release/bbc-radio-1s-live-lounge-2013-1/?partner=5932&h=35"
+                "slug": "various-artists"
               },
               "remainingDownloads": "5",
               "purchaseId": "0",
@@ -1160,12 +1160,12 @@
                   "id": "969369",
                   "name": "AlunaGeorge",
                   "appearsAs": "AlunaGeorge",
-                  "url": "http://www.7digital.com/artist/alunageorge/?partner=5932"
+                  "slug": "alunageorge"
                 },
                 "trackNumber": "36",
                 "duration": "194",
                 "isrc": "GBCAD1300302",
-                "url": "http://www.7digital.com/artist/various-artists/release/bbc-radio-1s-live-lounge-2013-1/?partner=5932&h=36"
+                "slug": "various-artists"
               },
               "remainingDownloads": "5",
               "purchaseId": "0",
@@ -1192,12 +1192,12 @@
                   "id": "1011365",
                   "name": "Mallory Knox",
                   "appearsAs": "Mallory Knox",
-                  "url": "http://www.7digital.com/artist/mallory-knox/?partner=5932"
+                  "slug": "mallory-knox"
                 },
                 "trackNumber": "37",
                 "duration": "207",
                 "isrc": "GBCAD1300315",
-                "url": "http://www.7digital.com/artist/various-artists/release/bbc-radio-1s-live-lounge-2013-1/?partner=5932&h=37"
+                "slug": "various-artists"
               },
               "remainingDownloads": "5",
               "purchaseId": "0",
@@ -1224,12 +1224,12 @@
                   "id": "15346",
                   "name": "Frank Turner",
                   "appearsAs": "Frank Turner",
-                  "url": "http://www.7digital.com/artist/frank-turner/?partner=5932"
+                  "slug": "frank-turner"
                 },
                 "trackNumber": "38",
                 "duration": "216",
                 "isrc": "GBCAD1300348",
-                "url": "http://www.7digital.com/artist/various-artists/release/bbc-radio-1s-live-lounge-2013-1/?partner=5932&h=38"
+                "slug": "various-artists"
               },
               "remainingDownloads": "5",
               "purchaseId": "0",
@@ -1256,12 +1256,12 @@
                   "id": "1160422",
                   "name": "A$AP Rocky",
                   "appearsAs": "A$AP Rocky",
-                  "url": "http://www.7digital.com/artist/a-ap-rocky/?partner=5932"
+                  "slug": "a-ap-rocky"
                 },
                 "trackNumber": "39",
                 "duration": "188",
                 "isrc": "GBCAD1300303",
-                "url": "http://www.7digital.com/artist/various-artists/release/bbc-radio-1s-live-lounge-2013-1/?partner=5932&h=39"
+                "slug": "various-artists"
               },
               "remainingDownloads": "5",
               "purchaseId": "0",
@@ -1288,12 +1288,12 @@
                   "id": "773662",
                   "name": "Disclosure",
                   "appearsAs": "Disclosure",
-                  "url": "http://www.7digital.com/artist/disclosure/?partner=5932"
+                  "slug": "disclosure"
                 },
                 "trackNumber": "40",
                 "duration": "230",
                 "isrc": "GBCAD1300317",
-                "url": "http://www.7digital.com/artist/various-artists/release/bbc-radio-1s-live-lounge-2013-1/?partner=5932&h=40"
+                "slug": "various-artists"
               },
               "remainingDownloads": "5",
               "purchaseId": "0",
@@ -1320,12 +1320,12 @@
                   "id": "19178",
                   "name": "Biffy Clyro",
                   "appearsAs": "Biffy Clyro",
-                  "url": "http://www.7digital.com/artist/biffy-clyro/?partner=5932"
+                  "slug": "biffy-clyro"
                 },
                 "trackNumber": "41",
                 "duration": "163",
                 "isrc": "GBCAD1300337",
-                "url": "http://www.7digital.com/artist/various-artists/release/bbc-radio-1s-live-lounge-2013-1/?partner=5932&h=41"
+                "slug": "various-artists"
               },
               "remainingDownloads": "5",
               "purchaseId": "0",
@@ -1352,12 +1352,12 @@
                   "id": "1358595",
                   "name": "The 1975",
                   "appearsAs": "The 1975",
-                  "url": "http://www.7digital.com/artist/the-1975/?partner=5932"
+                  "slug": "the-1975"
                 },
                 "trackNumber": "42",
                 "duration": "215",
                 "isrc": "GBCAD1300537",
-                "url": "http://www.7digital.com/artist/various-artists/release/bbc-radio-1s-live-lounge-2013-1/?partner=5932&h=42"
+                "slug": "various-artists"
               },
               "remainingDownloads": "5",
               "purchaseId": "0",
@@ -1384,12 +1384,12 @@
                   "id": "1516814",
                   "name": "London Grammar",
                   "appearsAs": "London Grammar",
-                  "url": "http://www.7digital.com/artist/london-grammar/?partner=5932"
+                  "slug": "london-grammar"
                 },
                 "trackNumber": "43",
                 "duration": "195",
                 "isrc": "GBCAD1300536",
-                "url": "http://www.7digital.com/artist/various-artists/release/bbc-radio-1s-live-lounge-2013-1/?partner=5932&h=43"
+                "slug": "various-artists"
               },
               "remainingDownloads": "5",
               "purchaseId": "0",
@@ -1416,12 +1416,12 @@
                   "id": "1435708",
                   "name": "Laura Mvula",
                   "appearsAs": "Laura Mvula",
-                  "url": "http://www.7digital.com/artist/laura-mvula/?partner=5932"
+                  "slug": "laura-mvula"
                 },
                 "trackNumber": "44",
                 "duration": "166",
                 "isrc": "GBCAD1300345",
-                "url": "http://www.7digital.com/artist/various-artists/release/bbc-radio-1s-live-lounge-2013-1/?partner=5932&h=44"
+                "slug": "various-artists"
               },
               "remainingDownloads": "5",
               "purchaseId": "0",
@@ -1448,12 +1448,12 @@
                   "id": "167",
                   "name": "Girls Aloud",
                   "appearsAs": "Girls Aloud",
-                  "url": "http://www.7digital.com/artist/girls-aloud/?partner=5932"
+                  "slug": "girls-aloud"
                 },
                 "trackNumber": "45",
                 "duration": "193",
                 "isrc": "GBCAD1300343",
-                "url": "http://www.7digital.com/artist/various-artists/release/bbc-radio-1s-live-lounge-2013-1/?partner=5932&h=45"
+                "slug": "various-artists"
               },
               "remainingDownloads": "5",
               "purchaseId": "0",
@@ -1480,12 +1480,12 @@
                   "id": "782065",
                   "name": "Katy B",
                   "appearsAs": "Katy B",
-                  "url": "http://www.7digital.com/artist/katy-b/?partner=5932"
+                  "slug": "katy-b"
                 },
                 "trackNumber": "46",
                 "duration": "214",
                 "isrc": "GBCAD1300414",
-                "url": "http://www.7digital.com/artist/various-artists/release/bbc-radio-1s-live-lounge-2013-1/?partner=5932&h=46"
+                "slug": "various-artists"
               },
               "remainingDownloads": "5",
               "purchaseId": "0",
@@ -1512,12 +1512,12 @@
                   "id": "960223",
                   "name": "K Koke",
                   "appearsAs": "K Koke",
-                  "url": "http://www.7digital.com/artist/k-koke-1/?partner=5932"
+                  "slug": "k-koke-1"
                 },
                 "trackNumber": "47",
                 "duration": "260",
                 "isrc": "GBCAD1300344",
-                "url": "http://www.7digital.com/artist/various-artists/release/bbc-radio-1s-live-lounge-2013-1/?partner=5932&h=47"
+                "slug": "various-artists"
               },
               "remainingDownloads": "5",
               "purchaseId": "0",
@@ -1544,12 +1544,12 @@
                   "id": "969369",
                   "name": "AlunaGeorge",
                   "appearsAs": "AlunaGeorge",
-                  "url": "http://www.7digital.com/artist/alunageorge/?partner=5932"
+                  "slug": "alunageorge"
                 },
                 "trackNumber": "48",
                 "duration": "175",
                 "isrc": "GBCAD1300336",
-                "url": "http://www.7digital.com/artist/various-artists/release/bbc-radio-1s-live-lounge-2013-1/?partner=5932&h=48"
+                "slug": "various-artists"
               },
               "remainingDownloads": "5",
               "purchaseId": "0",
@@ -1576,12 +1576,12 @@
                   "id": "2022862",
                   "name": "George The Poet",
                   "appearsAs": "George The Poet",
-                  "url": "http://www.7digital.com/artist/george-the-poet/?partner=5932"
+                  "slug": "george-the-poet"
                 },
                 "trackNumber": "49",
                 "duration": "190",
                 "isrc": "GBCAD1300341",
-                "url": "http://www.7digital.com/artist/various-artists/release/bbc-radio-1s-live-lounge-2013-1/?partner=5932&h=49"
+                "slug": "various-artists"
               },
               "remainingDownloads": "5",
               "purchaseId": "0",
@@ -1608,12 +1608,12 @@
                   "id": "170484",
                   "name": "Dr Meaker",
                   "appearsAs": "Dr Meaker",
-                  "url": "http://www.7digital.com/artist/dr-meaker/?partner=5932"
+                  "slug": "dr-meaker"
                 },
                 "trackNumber": "50",
                 "duration": "226",
                 "isrc": "GBCAD1300339",
-                "url": "http://www.7digital.com/artist/various-artists/release/bbc-radio-1s-live-lounge-2013-1/?partner=5932&h=50"
+                "slug": "various-artists"
               },
               "remainingDownloads": "5",
               "purchaseId": "0",
@@ -1640,12 +1640,12 @@
                   "id": "15346",
                   "name": "Frank Turner",
                   "appearsAs": "Frank Turner",
-                  "url": "http://www.7digital.com/artist/frank-turner/?partner=5932"
+                  "slug": "frank-turner"
                 },
                 "trackNumber": "51",
                 "duration": "209",
                 "isrc": "GBCAD1300340",
-                "url": "http://www.7digital.com/artist/various-artists/release/bbc-radio-1s-live-lounge-2013-1/?partner=5932&h=51"
+                "slug": "various-artists"
               },
               "remainingDownloads": "5",
               "purchaseId": "0",
@@ -1672,12 +1672,12 @@
                   "id": "271847",
                   "name": "Lower Than Atlantis",
                   "appearsAs": "Lower Than Atlantis",
-                  "url": "http://www.7digital.com/artist/lower-than-atlantis/?partner=5932"
+                  "slug": "lower-than-atlantis"
                 },
                 "trackNumber": "52",
                 "duration": "147",
                 "isrc": "GBCAD1300387",
-                "url": "http://www.7digital.com/artist/various-artists/release/bbc-radio-1s-live-lounge-2013-1/?partner=5932&h=52"
+                "slug": "various-artists"
               },
               "remainingDownloads": "5",
               "purchaseId": "0",
@@ -1704,12 +1704,12 @@
                   "id": "16617",
                   "name": "Bullet For My Valentine",
                   "appearsAs": "Bullet For My Valentine",
-                  "url": "http://www.7digital.com/artist/bullet-for-my-valentine/?partner=5932"
+                  "slug": "bullet-for-my-valentine"
                 },
                 "trackNumber": "53",
                 "duration": "246",
                 "isrc": "GBCAD1300338",
-                "url": "http://www.7digital.com/artist/various-artists/release/bbc-radio-1s-live-lounge-2013-1/?partner=5932&h=53"
+                "slug": "various-artists"
               },
               "remainingDownloads": "5",
               "purchaseId": "0",

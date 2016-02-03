@@ -21,9 +21,9 @@
               "id": "2200",
               "name": "Foo Fighters",
               "appearsAs": "Foo Fighters",
-              "url": "http://www.7digital.com/artist/elvis-presley-(2)/?partner=5932"
+              "slug": "elvis-presley-(2)"
             },
-            "url": "http://www.7digital.com/artist/elvis-presley-(2)/release/elvis-8/?partner=5932",
+            "slug": "elvis-presley-(2)",
             "image": "http://artwork-cdn.7static.com/static/img/sleeveart/00/016/275/0001627544_50.jpg",
             "releaseDate": "2012-02-24T00:00:00Z",
             "licensor": {
@@ -40,12 +40,12 @@
                   "id": "2200",
                   "name": "Foo Fighters",
                   "appearsAs": "Foo Fighters",
-                  "url": "http://www.7digital.com/artist/elvis-presley-(2)/?partner=5932"
+                  "slug": "elvis-presley-(2)"
                 },
                 "trackNumber": "40",
                 "duration": "131",
                 "isrc": "GBURZ1000969",
-                "url": "http://www.7digital.com/artist/elvis-presley-(2)/release/elvis-8/?partner=5932&h=40"
+                "slug": "elvis-presley-(2)"
               },
               "remainingDownloads": "5",
               "purchaseId": "814165778",
@@ -67,9 +67,9 @@
               "id": "2200",
               "name": "Jennifer Lopez / Pitbull",
               "appearsAs": "Jennifer Lopez / Pitbull",
-              "url": "http://www.7digital.com/artist/michael-jackson/?partner=5932"
+              "slug": "michael-jackson"
             },
-            "url": "http://www.7digital.com/artist/michael-jackson/release/michael-jacksons-this-is-it/?partner=5932",
+            "slug": "michael-jackson",
             "image": "http://artwork-cdn.7static.com/static/img/sleeveart/00/016/275/0001627544_50.jpg",
             "releaseDate": "2012-02-24T00:00:00Z",
             "licensor": {
@@ -86,12 +86,12 @@
                   "id": "2200",
                   "name": "Jennifer Lopez / Pitbull",
                   "appearsAs": "Jennifer Lopez / Pitbull",
-                  "url": "http://www.7digital.com/artist/michael-jackson/"
+                  "slug": "michael-jackson"
                 },
                 "trackNumber": "40",
                 "duration": "131",
                 "isrc": "GBURZ1000969",
-                "url": "http://www.7digital.com/artist/michael-jackson/release/michael-jacksons-this-is-it/?partner=5932&h=40"
+                "slug": "michael-jackson"
               },
               "remainingDownloads": "5",
               "purchaseId": "814165778",
@@ -113,9 +113,9 @@
               "id": "2200",
               "name": "Keane",
               "appearsAs": "Keane",
-              "url": "http://www.7digital.com/artist/michael-jackson/?partner=5932"
+              "slug": "michael-jackson"
             },
-            "url": "http://www.7digital.com/artist/michael-jackson/release/michael-jacksons-this-is-it/?partner=5932",
+            "slug": "michael-jackson",
             "image": "http://artwork-cdn.7static.com/static/img/sleeveart/00/016/275/0001627544_50.jpg",
             "releaseDate": "2012-02-24T00:00:00Z",
             "licensor": {
@@ -132,12 +132,12 @@
                   "id": "2200",
                   "name": "Jennifer Lopez / Pitbull",
                   "appearsAs": "Jennifer Lopez / Pitbull",
-                  "url": "http://www.7digital.com/artist/michael-jackson/"
+                  "slug": "michael-jackson"
                 },
                 "trackNumber": "40",
                 "duration": "131",
                 "isrc": "GBURZ1000969",
-                "url": "http://www.7digital.com/artist/michael-jackson/release/michael-jacksons-this-is-it/?partner=5932&h=40"
+                "slug": "michael-jackson"
               },
               "remainingDownloads": "5",
               "purchaseId": "814165778",
@@ -159,9 +159,9 @@
               "id": "2200",
               "name": "Kym Larsen",
               "appearsAs": "Kym Larsen",
-              "url": "http://www.7digital.com/artist/michael-jackson/?partner=5932"
+              "slug": "michael-jackson"
             },
-            "url": "http://www.7digital.com/artist/michael-jackson/release/michael-jacksons-this-is-it/?partner=5932",
+            "slug": "michael-jackson",
             "image": "http://artwork-cdn.7static.com/static/img/sleeveart/00/016/275/0001627544_50.jpg",
             "releaseDate": "2012-02-24T00:00:00Z",
             "licensor": {
@@ -178,12 +178,12 @@
                   "id": "2200",
                   "name": "Kym Larsen",
                   "appearsAs": "Kym Larsen",
-                  "url": "http://www.7digital.com/artist/michael-jackson/"
+                  "slug": "michael-jackson"
                 },
                 "trackNumber": "40",
                 "duration": "131",
                 "isrc": "GBURZ1000969",
-                "url": "http://www.7digital.com/artist/michael-jackson/release/michael-jacksons-this-is-it/?partner=5932&h=40"
+                "slug": "michael-jackson"
               },
               "remainingDownloads": "5",
               "purchaseId": "814165778",

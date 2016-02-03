@@ -21,9 +21,9 @@
               "id": "2200",
               "name": "Elvis Presley",
               "appearsAs": "Elvis Presley",
-              "url": "http://www.7digital.com/artist/elvis-presley-(2)/?partner=5932"
+              "slug": "elvis-presley-(2)"
             },
-            "url": "http://www.7digital.com/artist/elvis-presley-(2)/release/elvis-8/?partner=5932",
+            "slug": "elvis-presley-(2)",
             "image": "http://artwork-cdn.7static.com/static/img/sleeveart/00/016/275/0001627544_50.jpg",
             "releaseDate": "2012-02-24T00:00:00Z",
             "licensor": {
@@ -40,12 +40,12 @@
                   "id": "2200",
                   "name": "Elvis Presley",
                   "appearsAs": "Elvis Presley",
-                  "url": "http://www.7digital.com/artist/elvis-presley-(2)/?partner=5932"
+                  "slug": "elvis-presley-(2)"
                 },
                 "trackNumber": "40",
                 "duration": "131",
                 "isrc": "GBURZ1000969",
-                "url": "http://www.7digital.com/artist/elvis-presley-(2)/release/elvis-8/?partner=5932&h=40"
+                "slug": "elvis-presley-(2)"
               },
               "remainingDownloads": "5",
               "purchaseId": "814165778",
@@ -67,9 +67,9 @@
               "id": "2200",
               "name": "Elvis Presley",
               "appearsAs": "Elvis Presley",
-              "url": "http://www.7digital.com/artist/michael-jackson/?partner=5932"
+              "slug": "michael-jackson"
             },
-            "url": "http://www.7digital.com/artist/michael-jackson/release/michael-jacksons-this-is-it/?partner=5932",
+            "slug": "michael-jackson",
             "image": "http://artwork-cdn.7static.com/static/img/sleeveart/00/016/275/0001627544_50.jpg",
             "releaseDate": "2012-02-24T00:00:00Z",
             "licensor": {
@@ -86,12 +86,12 @@
                   "id": "2200",
                   "name": "Michael Jackson",
                   "appearsAs": "Michael Jackson",
-                  "url": "http://www.7digital.com/artist/michael-jackson/"
+                  "slug": "michael-jackson"
                 },
                 "trackNumber": "40",
                 "duration": "131",
                 "isrc": "GBURZ1000969",
-                "url": "http://www.7digital.com/artist/michael-jackson/release/michael-jacksons-this-is-it/?partner=5932&h=40"
+                "slug": "michael-jackson"
               },
               "remainingDownloads": "5",
               "purchaseId": "814165778",
@@ -134,9 +134,9 @@
               "id": "2200",
               "name": "Elvis Presley",
               "appearsAs": "Elvis Presley",
-              "url": "http://www.7digital.com/artist/michael-jackson/?partner=5932"
+              "slug": "michael-jackson"
             },
-            "url": "http://www.7digital.com/artist/michael-jackson/release/michael-jacksons-this-is-it/?partner=5932",
+            "slug": "michael-jackson",
             "image": "http://artwork-cdn.7static.com/static/img/sleeveart/00/016/275/0001627544_50.jpg",
             "releaseDate": "2012-02-24T00:00:00Z",
             "licensor": {
@@ -153,12 +153,12 @@
                   "id": "2200",
                   "name": "Michael Jackson",
                   "appearsAs": "Michael Jackson",
-                  "url": "http://www.7digital.com/artist/michael-jackson/"
+                  "slug": "michael-jackson"
                 },
                 "trackNumber": "40",
                 "duration": "131",
                 "isrc": "GBURZ1000969",
-                "url": "http://www.7digital.com/artist/michael-jackson/release/michael-jacksons-this-is-it/?partner=5932&h=40"
+                "slug": "michael-jackson"
               },
               "remainingDownloads": "5",
               "purchaseId": "814165778",
@@ -180,9 +180,9 @@
               "id": "14697",
               "name": "Yann Tiersen",
               "appearsAs": "Yann Tiersen",
-              "url": "http://www.7digital.com/artist/yann-tiersen/?partner=5932"
+              "slug": "yann-tiersen"
             },
-            "url": "http://www.7digital.com/artist/yann-tiersen/release/infinity/?partner=5932",
+            "slug": "yann-tiersen",
             "image": "http://artwork-cdn.7static.com/static/img/sleeveart/00/033/955/0003395525_50.jpg",
             "releaseDate": "2014-05-19T00:00:00Z",
             "licensor": {
@@ -200,12 +200,12 @@
                     "id": "14697",
                     "name": "Yann Tiersen",
                     "appearsAs": "Yann Tiersen",
-                    "url": "http://www.7digital.com/artist/yann-tiersen/?partner=5932"
+                    "slug": "yann-tiersen"
                   },
                   "trackNumber": "1",
                   "duration": "178",
                   "isrc": "FRPAH1400100",
-                  "url": "http://www.7digital.com/artist/yann-tiersen/release/infinity/?partner=5932&h=01"
+                  "slug": "yann-tiersen"
                 },
                 "remainingDownloads": "5",
                 "purchaseId": "813028726",
@@ -243,12 +243,12 @@
                     "id": "14697",
                     "name": "Yann Tiersen",
                     "appearsAs": "Yann Tiersen",
-                    "url": "http://www.7digital.com/artist/yann-tiersen/?partner=5932"
+                    "slug": "yann-tiersen"
                   },
                   "trackNumber": "2",
                   "duration": "258",
                   "isrc": "FRPAH1400010",
-                  "url": "http://www.7digital.com/artist/yann-tiersen/release/infinity/?partner=5932&h=02"
+                  "slug": "yann-tiersen"
                 },
                 "remainingDownloads": "5",
                 "purchaseId": "813028726",
@@ -286,12 +286,12 @@
                     "id": "14697",
                     "name": "Yann Tiersen",
                     "appearsAs": "Yann Tiersen",
-                    "url": "http://www.7digital.com/artist/yann-tiersen/?partner=5932"
+                    "slug": "yann-tiersen"
                   },
                   "trackNumber": "3",
                   "duration": "253",
                   "isrc": "FRPAH1400020",
-                  "url": "http://www.7digital.com/artist/yann-tiersen/release/infinity/?partner=5932&h=03"
+                  "slug": "yann-tiersen"
                 },
                 "remainingDownloads": "5",
                 "purchaseId": "813028726",
@@ -329,12 +329,12 @@
                     "id": "14697",
                     "name": "Yann Tiersen",
                     "appearsAs": "Yann Tiersen",
-                    "url": "http://www.7digital.com/artist/yann-tiersen/?partner=5932"
+                    "slug": "yann-tiersen"
                   },
                   "trackNumber": "4",
                   "duration": "413",
                   "isrc": "FRPAH1400030",
-                  "url": "http://www.7digital.com/artist/yann-tiersen/release/infinity/?partner=5932&h=04"
+                  "slug": "yann-tiersen"
                 },
                 "remainingDownloads": "5",
                 "purchaseId": "813028726",
@@ -372,12 +372,12 @@
                     "id": "14697",
                     "name": "Yann Tiersen",
                     "appearsAs": "Yann Tiersen",
-                    "url": "http://www.7digital.com/artist/yann-tiersen/?partner=5932"
+                    "slug": "yann-tiersen"
                   },
                   "trackNumber": "5",
                   "duration": "221",
                   "isrc": "FRPAH1400040",
-                  "url": "http://www.7digital.com/artist/yann-tiersen/release/infinity/?partner=5932&h=05"
+                  "slug": "yann-tiersen"
                 },
                 "remainingDownloads": "5",
                 "purchaseId": "813028726",
@@ -415,12 +415,12 @@
                     "id": "14697",
                     "name": "Yann Tiersen",
                     "appearsAs": "Yann Tiersen",
-                    "url": "http://www.7digital.com/artist/yann-tiersen/?partner=5932"
+                    "slug": "yann-tiersen"
                   },
                   "trackNumber": "6",
                   "duration": "324",
                   "isrc": "FRPAH1400050",
-                  "url": "http://www.7digital.com/artist/yann-tiersen/release/infinity/?partner=5932&h=06"
+                  "slug": "yann-tiersen"
                 },
                 "remainingDownloads": "5",
                 "purchaseId": "813028726",
@@ -458,12 +458,12 @@
                     "id": "14697",
                     "name": "Yann Tiersen",
                     "appearsAs": "Yann Tiersen",
-                    "url": "http://www.7digital.com/artist/yann-tiersen/?partner=5932"
+                    "slug": "yann-tiersen"
                   },
                   "trackNumber": "7",
                   "duration": "254",
                   "isrc": "FRPAH1400060",
-                  "url": "http://www.7digital.com/artist/yann-tiersen/release/infinity/?partner=5932&h=07"
+                  "slug": "yann-tiersen"
                 },
                 "remainingDownloads": "5",
                 "purchaseId": "813028726",
@@ -501,12 +501,12 @@
                     "id": "14697",
                     "name": "Yann Tiersen",
                     "appearsAs": "Yann Tiersen",
-                    "url": "http://www.7digital.com/artist/yann-tiersen/?partner=5932"
+                    "slug": "yann-tiersen"
                   },
                   "trackNumber": "8",
                   "duration": "312",
                   "isrc": "FRPAH1400070",
-                  "url": "http://www.7digital.com/artist/yann-tiersen/release/infinity/?partner=5932&h=08"
+                  "slug": "yann-tiersen"
                 },
                 "remainingDownloads": "5",
                 "purchaseId": "813028726",
@@ -544,12 +544,12 @@
                     "id": "14697",
                     "name": "Yann Tiersen",
                     "appearsAs": "Yann Tiersen",
-                    "url": "http://www.7digital.com/artist/yann-tiersen/?partner=5932"
+                    "slug": "yann-tiersen"
                   },
                   "trackNumber": "9",
                   "duration": "343",
                   "isrc": "FRPAH1400080",
-                  "url": "http://www.7digital.com/artist/yann-tiersen/release/infinity/?partner=5932&h=09"
+                  "slug": "yann-tiersen"
                 },
                 "remainingDownloads": "5",
                 "purchaseId": "813028726",
@@ -587,12 +587,12 @@
                     "id": "14697",
                     "name": "Yann Tiersen",
                     "appearsAs": "Yann Tiersen",
-                    "url": "http://www.7digital.com/artist/yann-tiersen/?partner=5932"
+                    "slug": "yann-tiersen"
                   },
                   "trackNumber": "10",
                   "duration": "409",
                   "isrc": "FRPAH1400090",
-                  "url": "http://www.7digital.com/artist/yann-tiersen/release/infinity/?partner=5932&h=10"
+                  "slug": "yann-tiersen"
                 },
                 "remainingDownloads": "5",
                 "purchaseId": "813028726",
@@ -636,9 +636,9 @@
               "id": "2200",
               "name": "Mozart",
               "appearsAs": "Mozart yo",
-              "url": "http://www.7digital.com/artist/michael-jackson/?partner=5932"
+              "slug": "michael-jackson"
             },
-            "url": "http://www.7digital.com/artist/michael-jackson/release/michael-jacksons-this-is-it/?partner=5932",
+            "slug": "michael-jackson",
             "image": "http://artwork-cdn.7static.com/static/img/sleeveart/00/016/275/0001627544_50.jpg",
             "releaseDate": "2012-02-24T00:00:00Z",
             "licensor": {
@@ -655,12 +655,12 @@
                   "id": "2200",
                   "name": "Mozart",
                   "appearsAs": "Mozart",
-                  "url": "http://www.7digital.com/artist/michael-jackson/"
+                  "slug": "michael-jackson"
                 },
                 "trackNumber": "40",
                 "duration": "131",
                 "isrc": "GBURZ1000969",
-                "url": "http://www.7digital.com/artist/michael-jackson/release/michael-jacksons-this-is-it/?partner=5932&h=40"
+                "slug": "michael-jackson"
               },
               "remainingDownloads": "5",
               "purchaseId": "814165778",

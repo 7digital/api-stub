@@ -21,9 +21,9 @@
               "id": "19180",
               "name": "Oceansize",
               "appearsAs": "Oceansize",
-              "url": "http://www.7digital.com/artist/oceansize"
+              "slug": "oceansize"
             },
-            "url": "http://www.7digital.com/artist/oceansize/release/new-pin-1",
+            "slug": "oceansize",
             "image": "http://artwork-cdn.7static.com/static/img/sleeveart/00/029/591/0002959123_50.jpg",
             "releaseDate": "2006-03-20T00:00:00Z",
             "licensor": {
@@ -40,12 +40,12 @@
                   "id": "19180",
                   "name": "Oceansize",
                   "appearsAs": "Oceansize",
-                  "url": "http://www.7digital.com/artist/oceansize"
+                  "slug": "oceansize"
                 },
                 "trackNumber": "2",
                 "duration": "352",
                 "isrc": "GBAZP0500062",
-                "url": "http://www.7digital.com/artist/oceansize/release/new-pin-1?h=02&d=1"
+                "slug": "oceansize"
               },
               "remainingDownloads": "5",
               "purchaseId": "814920242",

@@ -20,9 +20,9 @@
             "id": "667594",
             "name": "Factory Floor",
             "appearsAs": "Factory Floor",
-            "url": "http://www.7digital.com/artist/factory-floor/?partner=5932"
+            "slug": "factory-floor"
           },
-          "url": "http://www.7digital.com/artist/factory-floor/release/factory-floor/?partner=5932",
+          "slug": "factory-floor",
           "image": "http://artwork-cdn.7static.com/static/img/sleeveart/00/029/238/0002923838_50.jpg",
           "releaseDate": "2013-09-09T00:00:00Z",
           "licensor": {
@@ -40,12 +40,12 @@
                   "id": "667594",
                   "name": "Factory Floor",
                   "appearsAs": "Factory Floor",
-                  "url": "http://www.7digital.com/artist/factory-floor/?partner=5932"
+                  "slug": "factory-floor"
                 },
                 "trackNumber": "1",
                 "duration": "373",
                 "isrc": "US4GE1300073",
-                "url": "http://www.7digital.com/artist/factory-floor/release/factory-floor/?partner=5932&h=01"
+                "slug": "factory-floor"
               },
               "remainingDownloads": "5",
               "purchaseId": "805666324",
@@ -83,12 +83,12 @@
                   "id": "667594",
                   "name": "Factory Floor",
                   "appearsAs": "Factory Floor",
-                  "url": "http://www.7digital.com/artist/factory-floor/?partner=5932"
+                  "slug": "factory-floor"
                 },
                 "trackNumber": "2",
                 "duration": "487",
                 "isrc": "US4GE1300074",
-                "url": "http://www.7digital.com/artist/factory-floor/release/factory-floor/?partner=5932&h=02"
+                "slug": "factory-floor"
               },
               "remainingDownloads": "5",
               "purchaseId": "805666324",

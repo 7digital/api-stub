@@ -20,9 +20,9 @@
             "id": "2200",
             "name": "Elvis Presley",
             "appearsAs": "Elvis Presley",
-            "url": "http://www.7digital.com/artist/elvis-presley-(2)/?partner=5932"
+            "slug": "elvis-presley-(2)"
           },
-          "url": "http://www.7digital.com/artist/elvis-presley-(2)/release/elvis-8/?partner=5932",
+          "slug": "elvis-presley-(2)",
           "image": "http://artwork-cdn.7static.com/static/img/sleeveart/00/016/275/0001627544_50.jpg",
           "releaseDate": "2012-02-24T00:00:00Z",
           "licensor": {
@@ -40,12 +40,12 @@
                   "id": "2200",
                   "name": "Elvis Presley",
                   "appearsAs": "Elvis Presley",
-                  "url": "http://www.7digital.com/artist/elvis-presley-(2)/?partner=5932"
+                  "slug": "elvis-presley-(2)"
                 },
                 "trackNumber": "1",
                 "duration": "200",
                 "isrc": "GBURZ1100858",
-                "url": "http://www.7digital.com/artist/elvis-presley-(2)/release/elvis-8/?partner=5932&h=01"
+                "slug": "elvis-presley-(2)"
               },
               "remainingDownloads": "5",
               "purchaseId": "814716201",
@@ -74,12 +74,12 @@
                   "id": "2200",
                   "name": "Elvis Presley",
                   "appearsAs": "Elvis Presley",
-                  "url": "http://www.7digital.com/artist/elvis-presley-(2)/?partner=5932"
+                  "slug": "elvis-presley-(2)"
                 },
                 "trackNumber": "2",
                 "duration": "113",
                 "isrc": "GBURZ1100859",
-                "url": "http://www.7digital.com/artist/elvis-presley-(2)/release/elvis-8/?partner=5932&h=02"
+                "slug": "elvis-presley-(2)"
               },
               "remainingDownloads": "5",
               "purchaseId": "814716201",
@@ -108,12 +108,12 @@
                   "id": "2200",
                   "name": "Elvis Presley",
                   "appearsAs": "Elvis Presley",
-                  "url": "http://www.7digital.com/artist/elvis-presley-(2)/?partner=5932"
+                  "slug": "elvis-presley-(2)"
                 },
                 "trackNumber": "3",
                 "duration": "126",
                 "isrc": "GBURZ1100860",
-                "url": "http://www.7digital.com/artist/elvis-presley-(2)/release/elvis-8/?partner=5932&h=03"
+                "slug": "elvis-presley-(2)"
               },
               "remainingDownloads": "5",
               "purchaseId": "814716201",
@@ -142,12 +142,12 @@
                   "id": "2200",
                   "name": "Elvis Presley",
                   "appearsAs": "Elvis Presley",
-                  "url": "http://www.7digital.com/artist/elvis-presley-(2)/?partner=5932"
+                  "slug": "elvis-presley-(2)"
                 },
                 "trackNumber": "4",
                 "duration": "136",
                 "isrc": "GBURZ1100861",
-                "url": "http://www.7digital.com/artist/elvis-presley-(2)/release/elvis-8/?partner=5932&h=04"
+                "slug": "elvis-presley-(2)"
               },
               "remainingDownloads": "5",
               "purchaseId": "814716201",
@@ -176,12 +176,12 @@
                   "id": "2200",
                   "name": "Elvis Presley",
                   "appearsAs": "Elvis Presley",
-                  "url": "http://www.7digital.com/artist/elvis-presley-(2)/?partner=5932"
+                  "slug": "elvis-presley-(2)"
                 },
                 "trackNumber": "5",
                 "duration": "131",
                 "isrc": "GBURZ1100862",
-                "url": "http://www.7digital.com/artist/elvis-presley-(2)/release/elvis-8/?partner=5932&h=05"
+                "slug": "elvis-presley-(2)"
               },
               "remainingDownloads": "5",
               "purchaseId": "814716201",
@@ -210,12 +210,12 @@
                   "id": "2200",
                   "name": "Elvis Presley",
                   "appearsAs": "Elvis Presley",
-                  "url": "http://www.7digital.com/artist/elvis-presley-(2)/?partner=5932"
+                  "slug": "elvis-presley-(2)"
                 },
                 "trackNumber": "6",
                 "duration": "136",
                 "isrc": "GBURZ1100863",
-                "url": "http://www.7digital.com/artist/elvis-presley-(2)/release/elvis-8/?partner=5932&h=06"
+                "slug": "elvis-presley-(2)"
               },
               "remainingDownloads": "5",
               "purchaseId": "814716201",
@@ -244,12 +244,12 @@
                   "id": "2200",
                   "name": "Elvis Presley",
                   "appearsAs": "Elvis Presley",
-                  "url": "http://www.7digital.com/artist/elvis-presley-(2)/?partner=5932"
+                  "slug": "elvis-presley-(2)"
                 },
                 "trackNumber": "7",
                 "duration": "161",
                 "isrc": "GBURZ1100864",
-                "url": "http://www.7digital.com/artist/elvis-presley-(2)/release/elvis-8/?partner=5932&h=07"
+                "slug": "elvis-presley-(2)"
               },
               "remainingDownloads": "5",
               "purchaseId": "814716201",
@@ -278,12 +278,12 @@
                   "id": "2200",
                   "name": "Elvis Presley",
                   "appearsAs": "Elvis Presley",
-                  "url": "http://www.7digital.com/artist/elvis-presley-(2)/?partner=5932"
+                  "slug": "elvis-presley-(2)"
                 },
                 "trackNumber": "8",
                 "duration": "134",
                 "isrc": "GBURZ1100865",
-                "url": "http://www.7digital.com/artist/elvis-presley-(2)/release/elvis-8/?partner=5932&h=08"
+                "slug": "elvis-presley-(2)"
               },
               "remainingDownloads": "5",
               "purchaseId": "814716201",
@@ -312,12 +312,12 @@
                   "id": "2200",
                   "name": "Elvis Presley",
                   "appearsAs": "Elvis Presley",
-                  "url": "http://www.7digital.com/artist/elvis-presley-(2)/?partner=5932"
+                  "slug": "elvis-presley-(2)"
                 },
                 "trackNumber": "9",
                 "duration": "154",
                 "isrc": "GBURZ1100866",
-                "url": "http://www.7digital.com/artist/elvis-presley-(2)/release/elvis-8/?partner=5932&h=09"
+                "slug": "elvis-presley-(2)"
               },
               "remainingDownloads": "5",
               "purchaseId": "814716201",
@@ -346,12 +346,12 @@
                   "id": "2200",
                   "name": "Elvis Presley",
                   "appearsAs": "Elvis Presley",
-                  "url": "http://www.7digital.com/artist/elvis-presley-(2)/?partner=5932"
+                  "slug": "elvis-presley-(2)"
                 },
                 "trackNumber": "10",
                 "duration": "179",
                 "isrc": "GBURZ1100867",
-                "url": "http://www.7digital.com/artist/elvis-presley-(2)/release/elvis-8/?partner=5932&h=10"
+                "slug": "elvis-presley-(2)"
               },
               "remainingDownloads": "5",
               "purchaseId": "814716201",
@@ -380,12 +380,12 @@
                   "id": "2200",
                   "name": "Elvis Presley",
                   "appearsAs": "Elvis Presley",
-                  "url": "http://www.7digital.com/artist/elvis-presley-(2)/?partner=5932"
+                  "slug": "elvis-presley-(2)"
                 },
                 "trackNumber": "11",
                 "duration": "115",
                 "isrc": "GBURZ1100869",
-                "url": "http://www.7digital.com/artist/elvis-presley-(2)/release/elvis-8/?partner=5932&h=11"
+                "slug": "elvis-presley-(2)"
               },
               "remainingDownloads": "5",
               "purchaseId": "814716201",
@@ -414,12 +414,12 @@
                   "id": "2200",
                   "name": "Elvis Presley",
                   "appearsAs": "Elvis Presley",
-                  "url": "http://www.7digital.com/artist/elvis-presley-(2)/?partner=5932"
+                  "slug": "elvis-presley-(2)"
                 },
                 "trackNumber": "12",
                 "duration": "235",
                 "isrc": "GBURZ1100870",
-                "url": "http://www.7digital.com/artist/elvis-presley-(2)/release/elvis-8/?partner=5932&h=12"
+                "slug": "elvis-presley-(2)"
               },
               "remainingDownloads": "5",
               "purchaseId": "814716201",
@@ -448,12 +448,12 @@
                   "id": "2200",
                   "name": "Elvis Presley",
                   "appearsAs": "Elvis Presley",
-                  "url": "http://www.7digital.com/artist/elvis-presley-(2)/?partner=5932"
+                  "slug": "elvis-presley-(2)"
                 },
                 "trackNumber": "13",
                 "duration": "160",
                 "isrc": "GBURZ1100871",
-                "url": "http://www.7digital.com/artist/elvis-presley-(2)/release/elvis-8/?partner=5932&h=13"
+                "slug": "elvis-presley-(2)"
               },
               "remainingDownloads": "5",
               "purchaseId": "814716201",
@@ -482,12 +482,12 @@
                   "id": "2200",
                   "name": "Elvis Presley",
                   "appearsAs": "Elvis Presley",
-                  "url": "http://www.7digital.com/artist/elvis-presley-(2)/?partner=5932"
+                  "slug": "elvis-presley-(2)"
                 },
                 "trackNumber": "14",
                 "duration": "199",
                 "isrc": "GBURZ1100872",
-                "url": "http://www.7digital.com/artist/elvis-presley-(2)/release/elvis-8/?partner=5932&h=14"
+                "slug": "elvis-presley-(2)"
               },
               "remainingDownloads": "5",
               "purchaseId": "814716201",
@@ -516,12 +516,12 @@
                   "id": "2200",
                   "name": "Elvis Presley",
                   "appearsAs": "Elvis Presley",
-                  "url": "http://www.7digital.com/artist/elvis-presley-(2)/?partner=5932"
+                  "slug": "elvis-presley-(2)"
                 },
                 "trackNumber": "15",
                 "duration": "134",
                 "isrc": "GBURZ1100707",
-                "url": "http://www.7digital.com/artist/elvis-presley-(2)/release/elvis-8/?partner=5932&h=15"
+                "slug": "elvis-presley-(2)"
               },
               "remainingDownloads": "5",
               "purchaseId": "814716201",
@@ -550,12 +550,12 @@
                   "id": "2200",
                   "name": "Elvis Presley",
                   "appearsAs": "Elvis Presley",
-                  "url": "http://www.7digital.com/artist/elvis-presley-(2)/?partner=5932"
+                  "slug": "elvis-presley-(2)"
                 },
                 "trackNumber": "16",
                 "duration": "138",
                 "isrc": "GBURZ1100708",
-                "url": "http://www.7digital.com/artist/elvis-presley-(2)/release/elvis-8/?partner=5932&h=16"
+                "slug": "elvis-presley-(2)"
               },
               "remainingDownloads": "5",
               "purchaseId": "814716201",
@@ -584,12 +584,12 @@
                   "id": "2200",
                   "name": "Elvis Presley",
                   "appearsAs": "Elvis Presley",
-                  "url": "http://www.7digital.com/artist/elvis-presley-(2)/?partner=5932"
+                  "slug": "elvis-presley-(2)"
                 },
                 "trackNumber": "62",
                 "duration": "122",
                 "isrc": "GBURZ1100710",
-                "url": "http://www.7digital.com/artist/elvis-presley-(2)/release/elvis-8/?partner=5932&h=17"
+                "slug": "elvis-presley-(2)"
               },
               "remainingDownloads": "5",
               "purchaseId": "814716201",
@@ -618,12 +618,12 @@
                   "id": "2200",
                   "name": "Elvis Presley",
                   "appearsAs": "Elvis Presley",
-                  "url": "http://www.7digital.com/artist/elvis-presley-(2)/?partner=5932"
+                  "slug": "elvis-presley-(2)"
                 },
                 "trackNumber": "18",
                 "duration": "157",
                 "isrc": "GBURZ1100711",
-                "url": "http://www.7digital.com/artist/elvis-presley-(2)/release/elvis-8/?partner=5932&h=18"
+                "slug": "elvis-presley-(2)"
               },
               "remainingDownloads": "5",
               "purchaseId": "814716201",
@@ -652,12 +652,12 @@
                   "id": "2200",
                   "name": "Elvis Presley",
                   "appearsAs": "Elvis Presley",
-                  "url": "http://www.7digital.com/artist/elvis-presley-(2)/?partner=5932"
+                  "slug": "elvis-presley-(2)"
                 },
                 "trackNumber": "19",
                 "duration": "143",
                 "isrc": "GBURZ1100713",
-                "url": "http://www.7digital.com/artist/elvis-presley-(2)/release/elvis-8/?partner=5932&h=19"
+                "slug": "elvis-presley-(2)"
               },
               "remainingDownloads": "5",
               "purchaseId": "814716201",
@@ -686,12 +686,12 @@
                   "id": "2200",
                   "name": "Elvis Presley",
                   "appearsAs": "Elvis Presley",
-                  "url": "http://www.7digital.com/artist/elvis-presley-(2)/?partner=5932"
+                  "slug": "elvis-presley-(2)"
                 },
                 "trackNumber": "20",
                 "duration": "91",
                 "isrc": "GBURZ1100714",
-                "url": "http://www.7digital.com/artist/elvis-presley-(2)/release/elvis-8/?partner=5932&h=20"
+                "slug": "elvis-presley-(2)"
               },
               "remainingDownloads": "5",
               "purchaseId": "814716201",
@@ -720,12 +720,12 @@
                   "id": "2200",
                   "name": "Elvis Presley",
                   "appearsAs": "Elvis Presley",
-                  "url": "http://www.7digital.com/artist/elvis-presley-(2)/?partner=5932"
+                  "slug": "elvis-presley-(2)"
                 },
                 "trackNumber": "21",
                 "duration": "156",
                 "isrc": "GBURZ1100715",
-                "url": "http://www.7digital.com/artist/elvis-presley-(2)/release/elvis-8/?partner=5932&h=21"
+                "slug": "elvis-presley-(2)"
               },
               "remainingDownloads": "5",
               "purchaseId": "814716201",
@@ -754,12 +754,12 @@
                   "id": "2200",
                   "name": "Elvis Presley",
                   "appearsAs": "Elvis Presley",
-                  "url": "http://www.7digital.com/artist/elvis-presley-(2)/?partner=5932"
+                  "slug": "elvis-presley-(2)"
                 },
                 "trackNumber": "22",
                 "duration": "127",
                 "isrc": "GBURZ1100716",
-                "url": "http://www.7digital.com/artist/elvis-presley-(2)/release/elvis-8/?partner=5932&h=22"
+                "slug": "elvis-presley-(2)"
               },
               "remainingDownloads": "5",
               "purchaseId": "814716201",
@@ -788,12 +788,12 @@
                   "id": "2200",
                   "name": "Elvis Presley",
                   "appearsAs": "Elvis Presley",
-                  "url": "http://www.7digital.com/artist/elvis-presley-(2)/?partner=5932"
+                  "slug": "elvis-presley-(2)"
                 },
                 "trackNumber": "23",
                 "duration": "191",
                 "isrc": "GBURZ1100717",
-                "url": "http://www.7digital.com/artist/elvis-presley-(2)/release/elvis-8/?partner=5932&h=23"
+                "slug": "elvis-presley-(2)"
               },
               "remainingDownloads": "5",
               "purchaseId": "814716201",
@@ -822,12 +822,12 @@
                   "id": "2200",
                   "name": "Elvis Presley",
                   "appearsAs": "Elvis Presley",
-                  "url": "http://www.7digital.com/artist/elvis-presley-(2)/?partner=5932"
+                  "slug": "elvis-presley-(2)"
                 },
                 "trackNumber": "24",
                 "duration": "81",
                 "isrc": "GBURZ1100718",
-                "url": "http://www.7digital.com/artist/elvis-presley-(2)/release/elvis-8/?partner=5932&h=24"
+                "slug": "elvis-presley-(2)"
               },
               "remainingDownloads": "5",
               "purchaseId": "814716201",
@@ -856,12 +856,12 @@
                   "id": "2200",
                   "name": "Elvis Presley",
                   "appearsAs": "Elvis Presley",
-                  "url": "http://www.7digital.com/artist/elvis-presley-(2)/?partner=5932"
+                  "slug": "elvis-presley-(2)"
                 },
                 "trackNumber": "25",
                 "duration": "139",
                 "isrc": "GBURZ1104795",
-                "url": "http://www.7digital.com/artist/elvis-presley-(2)/release/elvis-8/?partner=5932&h=25"
+                "slug": "elvis-presley-(2)"
               },
               "remainingDownloads": "5",
               "purchaseId": "814716201",
@@ -890,12 +890,12 @@
                   "id": "2200",
                   "name": "Elvis Presley",
                   "appearsAs": "Elvis Presley",
-                  "url": "http://www.7digital.com/artist/elvis-presley-(2)/?partner=5932"
+                  "slug": "elvis-presley-(2)"
                 },
                 "trackNumber": "26",
                 "duration": "156",
                 "isrc": "GBURZ1104796",
-                "url": "http://www.7digital.com/artist/elvis-presley-(2)/release/elvis-8/?partner=5932&h=26"
+                "slug": "elvis-presley-(2)"
               },
               "remainingDownloads": "5",
               "purchaseId": "814716201",
@@ -924,12 +924,12 @@
                   "id": "2200",
                   "name": "Elvis Presley",
                   "appearsAs": "Elvis Presley",
-                  "url": "http://www.7digital.com/artist/elvis-presley-(2)/?partner=5932"
+                  "slug": "elvis-presley-(2)"
                 },
                 "trackNumber": "27",
                 "duration": "163",
                 "isrc": "GBURZ1104797",
-                "url": "http://www.7digital.com/artist/elvis-presley-(2)/release/elvis-8/?partner=5932&h=27"
+                "slug": "elvis-presley-(2)"
               },
               "remainingDownloads": "5",
               "purchaseId": "814716201",
@@ -958,12 +958,12 @@
                   "id": "2200",
                   "name": "Elvis Presley",
                   "appearsAs": "Elvis Presley",
-                  "url": "http://www.7digital.com/artist/elvis-presley-(2)/?partner=5932"
+                  "slug": "elvis-presley-(2)"
                 },
                 "trackNumber": "28",
                 "duration": "154",
                 "isrc": "GBURZ1104798",
-                "url": "http://www.7digital.com/artist/elvis-presley-(2)/release/elvis-8/?partner=5932&h=28"
+                "slug": "elvis-presley-(2)"
               },
               "remainingDownloads": "5",
               "purchaseId": "814716201",
@@ -992,12 +992,12 @@
                   "id": "2200",
                   "name": "Elvis Presley",
                   "appearsAs": "Elvis Presley",
-                  "url": "http://www.7digital.com/artist/elvis-presley-(2)/?partner=5932"
+                  "slug": "elvis-presley-(2)"
                 },
                 "trackNumber": "29",
                 "duration": "126",
                 "isrc": "GBURZ1104799",
-                "url": "http://www.7digital.com/artist/elvis-presley-(2)/release/elvis-8/?partner=5932&h=29"
+                "slug": "elvis-presley-(2)"
               },
               "remainingDownloads": "5",
               "purchaseId": "814716201",
@@ -1026,12 +1026,12 @@
                   "id": "2200",
                   "name": "Elvis Presley",
                   "appearsAs": "Elvis Presley",
-                  "url": "http://www.7digital.com/artist/elvis-presley-(2)/?partner=5932"
+                  "slug": "elvis-presley-(2)"
                 },
                 "trackNumber": "30",
                 "duration": "138",
                 "isrc": "GBURZ1104800",
-                "url": "http://www.7digital.com/artist/elvis-presley-(2)/release/elvis-8/?partner=5932&h=30"
+                "slug": "elvis-presley-(2)"
               },
               "remainingDownloads": "5",
               "purchaseId": "814716201",
@@ -1060,12 +1060,12 @@
                   "id": "2200",
                   "name": "Elvis Presley",
                   "appearsAs": "Elvis Presley",
-                  "url": "http://www.7digital.com/artist/elvis-presley-(2)/?partner=5932"
+                  "slug": "elvis-presley-(2)"
                 },
                 "trackNumber": "31",
                 "duration": "144",
                 "isrc": "GBURZ1104801",
-                "url": "http://www.7digital.com/artist/elvis-presley-(2)/release/elvis-8/?partner=5932&h=31"
+                "slug": "elvis-presley-(2)"
               },
               "remainingDownloads": "5",
               "purchaseId": "814716201",
@@ -1094,12 +1094,12 @@
                   "id": "2200",
                   "name": "Elvis Presley",
                   "appearsAs": "Elvis Presley",
-                  "url": "http://www.7digital.com/artist/elvis-presley-(2)/?partner=5932"
+                  "slug": "elvis-presley-(2)"
                 },
                 "trackNumber": "32",
                 "duration": "111",
                 "isrc": "GBURZ1104802",
-                "url": "http://www.7digital.com/artist/elvis-presley-(2)/release/elvis-8/?partner=5932&h=32"
+                "slug": "elvis-presley-(2)"
               },
               "remainingDownloads": "5",
               "purchaseId": "814716201",
@@ -1128,12 +1128,12 @@
                   "id": "2200",
                   "name": "Elvis Presley",
                   "appearsAs": "Elvis Presley",
-                  "url": "http://www.7digital.com/artist/elvis-presley-(2)/?partner=5932"
+                  "slug": "elvis-presley-(2)"
                 },
                 "trackNumber": "33",
                 "duration": "118",
                 "isrc": "GBURZ1104803",
-                "url": "http://www.7digital.com/artist/elvis-presley-(2)/release/elvis-8/?partner=5932&h=33"
+                "slug": "elvis-presley-(2)"
               },
               "remainingDownloads": "5",
               "purchaseId": "814716201",
@@ -1162,12 +1162,12 @@
                   "id": "2200",
                   "name": "Elvis Presley",
                   "appearsAs": "Elvis Presley",
-                  "url": "http://www.7digital.com/artist/elvis-presley-(2)/?partner=5932"
+                  "slug": "elvis-presley-(2)"
                 },
                 "trackNumber": "34",
                 "duration": "130",
                 "isrc": "GBURZ1104804",
-                "url": "http://www.7digital.com/artist/elvis-presley-(2)/release/elvis-8/?partner=5932&h=34"
+                "slug": "elvis-presley-(2)"
               },
               "remainingDownloads": "5",
               "purchaseId": "814716201",
@@ -1196,12 +1196,12 @@
                   "id": "2200",
                   "name": "Elvis Presley",
                   "appearsAs": "Elvis Presley",
-                  "url": "http://www.7digital.com/artist/elvis-presley-(2)/?partner=5932"
+                  "slug": "elvis-presley-(2)"
                 },
                 "trackNumber": "35",
                 "duration": "136",
                 "isrc": "GBURZ1104805",
-                "url": "http://www.7digital.com/artist/elvis-presley-(2)/release/elvis-8/?partner=5932&h=35"
+                "slug": "elvis-presley-(2)"
               },
               "remainingDownloads": "5",
               "purchaseId": "814716201",
@@ -1230,12 +1230,12 @@
                   "id": "2200",
                   "name": "Elvis Presley",
                   "appearsAs": "Elvis Presley",
-                  "url": "http://www.7digital.com/artist/elvis-presley-(2)/?partner=5932"
+                  "slug": "elvis-presley-(2)"
                 },
                 "trackNumber": "36",
                 "duration": "96",
                 "isrc": "GBURZ1104806",
-                "url": "http://www.7digital.com/artist/elvis-presley-(2)/release/elvis-8/?partner=5932&h=36"
+                "slug": "elvis-presley-(2)"
               },
               "remainingDownloads": "5",
               "purchaseId": "814716201",
@@ -1264,12 +1264,12 @@
                   "id": "2200",
                   "name": "Elvis Presley",
                   "appearsAs": "Elvis Presley",
-                  "url": "http://www.7digital.com/artist/elvis-presley-(2)/?partner=5932"
+                  "slug": "elvis-presley-(2)"
                 },
                 "trackNumber": "37",
                 "duration": "155",
                 "isrc": "GBURZ1100712",
-                "url": "http://www.7digital.com/artist/elvis-presley-(2)/release/elvis-8/?partner=5932&h=37"
+                "slug": "elvis-presley-(2)"
               },
               "remainingDownloads": "5",
               "purchaseId": "814716201",
@@ -1298,12 +1298,12 @@
                   "id": "2200",
                   "name": "Elvis Presley",
                   "appearsAs": "Elvis Presley",
-                  "url": "http://www.7digital.com/artist/elvis-presley-(2)/?partner=5932"
+                  "slug": "elvis-presley-(2)"
                 },
                 "trackNumber": "38",
                 "duration": "178",
                 "isrc": "GBURZ1100709",
-                "url": "http://www.7digital.com/artist/elvis-presley-(2)/release/elvis-8/?partner=5932&h=38"
+                "slug": "elvis-presley-(2)"
               },
               "remainingDownloads": "5",
               "purchaseId": "814716201",
@@ -1332,12 +1332,12 @@
                   "id": "2200",
                   "name": "Elvis Presley",
                   "appearsAs": "Elvis Presley",
-                  "url": "http://www.7digital.com/artist/elvis-presley-(2)/?partner=5932"
+                  "slug": "elvis-presley-(2)"
                 },
                 "trackNumber": "39",
                 "duration": "121",
                 "isrc": "GBURZ1100868",
-                "url": "http://www.7digital.com/artist/elvis-presley-(2)/release/elvis-8/?partner=5932&h=39"
+                "slug": "elvis-presley-(2)"
               },
               "remainingDownloads": "5",
               "purchaseId": "814716201",
@@ -1366,12 +1366,12 @@
                   "id": "2200",
                   "name": "Elvis Presley",
                   "appearsAs": "Elvis Presley",
-                  "url": "http://www.7digital.com/artist/elvis-presley-(2)/?partner=5932"
+                  "slug": "elvis-presley-(2)"
                 },
                 "trackNumber": "40",
                 "duration": "131",
                 "isrc": "GBURZ1000969",
-                "url": "http://www.7digital.com/artist/elvis-presley-(2)/release/elvis-8/?partner=5932&h=40"
+                "slug": "elvis-presley-(2)"
               },
               "remainingDownloads": "5",
               "purchaseId": "814716201",

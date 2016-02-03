@@ -20,9 +20,9 @@
             "id": "1599",
             "name": "Kylie",
             "appearsAs": "Kylie Minogue",
-            "url": "http://www.7digital.com/artist/kylie/?partner=5932"
+            "slug": "kylie"
           },
-          "url": "http://www.7digital.com/artist/kylie/release/kyliefever2002-live-in-manchester/?partner=5932",
+          "slug": "kylie",
           "image": "http://artwork-cdn.7static.com/static/img/sleeveart/00/002/634/0000263431_50.jpg",
           "releaseDate": "2008-05-26T00:00:00Z",
           "licensor": {
@@ -40,12 +40,12 @@
                   "id": "1599",
                   "name": "Kylie",
                   "appearsAs": "Kylie Minogue",
-                  "url": "http://www.7digital.com/artist/kylie/?partner=5932"
+                  "slug": "kylie"
                 },
                 "trackNumber": "1",
                 "duration": "70",
                 "isrc": "GB0400200830",
-                "url": "http://www.7digital.com/artist/kylie/release/kyliefever2002-live-in-manchester/?partner=5932&h=01"
+                "slug": "kylie"
               },
               "remainingDownloads": "5",
               "purchaseId": "0",
@@ -83,12 +83,12 @@
                   "id": "1599",
                   "name": "Kylie",
                   "appearsAs": "Kylie Minogue",
-                  "url": "http://www.7digital.com/artist/kylie/?partner=5932"
+                  "slug": "kylie"
                 },
                 "trackNumber": "2",
                 "duration": "372",
                 "isrc": "GB0400200840",
-                "url": "http://www.7digital.com/artist/kylie/release/kyliefever2002-live-in-manchester/?partner=5932&h=02"
+                "slug": "kylie"
               },
               "remainingDownloads": "5",
               "purchaseId": "0",
@@ -126,12 +126,12 @@
                   "id": "1599",
                   "name": "Kylie",
                   "appearsAs": "Kylie Minogue",
-                  "url": "http://www.7digital.com/artist/kylie/?partner=5932"
+                  "slug": "kylie"
                 },
                 "trackNumber": "3",
                 "duration": "328",
                 "isrc": "GB0400200850",
-                "url": "http://www.7digital.com/artist/kylie/release/kyliefever2002-live-in-manchester/?partner=5932&h=03"
+                "slug": "kylie"
               },
               "remainingDownloads": "5",
               "purchaseId": "0",
@@ -169,12 +169,12 @@
                   "id": "1599",
                   "name": "Kylie",
                   "appearsAs": "Kylie Minogue",
-                  "url": "http://www.7digital.com/artist/kylie/?partner=5932"
+                  "slug": "kylie"
                 },
                 "trackNumber": "4",
                 "duration": "252",
                 "isrc": "GB0400200230",
-                "url": "http://www.7digital.com/artist/kylie/release/kyliefever2002-live-in-manchester/?partner=5932&h=04"
+                "slug": "kylie"
               },
               "remainingDownloads": "5",
               "purchaseId": "0",
@@ -212,12 +212,12 @@
                   "id": "1599",
                   "name": "Kylie",
                   "appearsAs": "Kylie Minogue",
-                  "url": "http://www.7digital.com/artist/kylie/?partner=5932"
+                  "slug": "kylie"
                 },
                 "trackNumber": "5",
                 "duration": "223",
                 "isrc": "GB0400200870",
-                "url": "http://www.7digital.com/artist/kylie/release/kyliefever2002-live-in-manchester/?partner=5932&h=05"
+                "slug": "kylie"
               },
               "remainingDownloads": "5",
               "purchaseId": "0",
@@ -255,12 +255,12 @@
                   "id": "1599",
                   "name": "Kylie",
                   "appearsAs": "Kylie Minogue",
-                  "url": "http://www.7digital.com/artist/kylie/?partner=5932"
+                  "slug": "kylie"
                 },
                 "trackNumber": "6",
                 "duration": "305",
                 "isrc": "GB0400200880",
-                "url": "http://www.7digital.com/artist/kylie/release/kyliefever2002-live-in-manchester/?partner=5932&h=06"
+                "slug": "kylie"
               },
               "remainingDownloads": "5",
               "purchaseId": "0",
@@ -298,12 +298,12 @@
                   "id": "1599",
                   "name": "Kylie",
                   "appearsAs": "Kylie Minogue",
-                  "url": "http://www.7digital.com/artist/kylie/?partner=5932"
+                  "slug": "kylie"
                 },
                 "trackNumber": "7",
                 "duration": "536",
                 "isrc": "GB0400200890",
-                "url": "http://www.7digital.com/artist/kylie/release/kyliefever2002-live-in-manchester/?partner=5932&h=07"
+                "slug": "kylie"
               },
               "remainingDownloads": "5",
               "purchaseId": "0",
@@ -341,12 +341,12 @@
                   "id": "1599",
                   "name": "Kylie",
                   "appearsAs": "Kylie Minogue",
-                  "url": "http://www.7digital.com/artist/kylie/?partner=5932"
+                  "slug": "kylie"
                 },
                 "trackNumber": "8",
                 "duration": "217",
                 "isrc": "GB0400200900",
-                "url": "http://www.7digital.com/artist/kylie/release/kyliefever2002-live-in-manchester/?partner=5932&h=08"
+                "slug": "kylie"
               },
               "remainingDownloads": "5",
               "purchaseId": "0",
@@ -384,12 +384,12 @@
                   "id": "1599",
                   "name": "Kylie",
                   "appearsAs": "Kylie Minogue",
-                  "url": "http://www.7digital.com/artist/kylie/?partner=5932"
+                  "slug": "kylie"
                 },
                 "trackNumber": "9",
                 "duration": "390",
                 "isrc": "GB0400200910",
-                "url": "http://www.7digital.com/artist/kylie/release/kyliefever2002-live-in-manchester/?partner=5932&h=09"
+                "slug": "kylie"
               },
               "remainingDownloads": "5",
               "purchaseId": "0",
@@ -427,12 +427,12 @@
                   "id": "1599",
                   "name": "Kylie",
                   "appearsAs": "Kylie Minogue",
-                  "url": "http://www.7digital.com/artist/kylie/?partner=5932"
+                  "slug": "kylie"
                 },
                 "trackNumber": "10",
                 "duration": "342",
                 "isrc": "GB0400200920",
-                "url": "http://www.7digital.com/artist/kylie/release/kyliefever2002-live-in-manchester/?partner=5932&h=10"
+                "slug": "kylie"
               },
               "remainingDownloads": "5",
               "purchaseId": "0",
@@ -470,12 +470,12 @@
                   "id": "1599",
                   "name": "Kylie",
                   "appearsAs": "Kylie Minogue",
-                  "url": "http://www.7digital.com/artist/kylie/?partner=5932"
+                  "slug": "kylie"
                 },
                 "trackNumber": "11",
                 "duration": "262",
                 "isrc": "GB0400200930",
-                "url": "http://www.7digital.com/artist/kylie/release/kyliefever2002-live-in-manchester/?partner=5932&h=11"
+                "slug": "kylie"
               },
               "remainingDownloads": "5",
               "purchaseId": "0",
@@ -513,12 +513,12 @@
                   "id": "1599",
                   "name": "Kylie",
                   "appearsAs": "Kylie Minogue",
-                  "url": "http://www.7digital.com/artist/kylie/?partner=5932"
+                  "slug": "kylie"
                 },
                 "trackNumber": "12",
                 "duration": "222",
                 "isrc": "GB0400200940",
-                "url": "http://www.7digital.com/artist/kylie/release/kyliefever2002-live-in-manchester/?partner=5932&h=12"
+                "slug": "kylie"
               },
               "remainingDownloads": "5",
               "purchaseId": "0",
@@ -556,12 +556,12 @@
                   "id": "1599",
                   "name": "Kylie",
                   "appearsAs": "Kylie Minogue",
-                  "url": "http://www.7digital.com/artist/kylie/?partner=5932"
+                  "slug": "kylie"
                 },
                 "trackNumber": "13",
                 "duration": "228",
                 "isrc": "GB0400200950",
-                "url": "http://www.7digital.com/artist/kylie/release/kyliefever2002-live-in-manchester/?partner=5932&h=13"
+                "slug": "kylie"
               },
               "remainingDownloads": "5",
               "purchaseId": "0",
@@ -599,12 +599,12 @@
                   "id": "1599",
                   "name": "Kylie",
                   "appearsAs": "Kylie Minogue",
-                  "url": "http://www.7digital.com/artist/kylie/?partner=5932"
+                  "slug": "kylie"
                 },
                 "trackNumber": "14",
                 "duration": "317",
                 "isrc": "GB0400200960",
-                "url": "http://www.7digital.com/artist/kylie/release/kyliefever2002-live-in-manchester/?partner=5932&h=14"
+                "slug": "kylie"
               },
               "remainingDownloads": "5",
               "purchaseId": "0",
@@ -642,12 +642,12 @@
                   "id": "1599",
                   "name": "Kylie",
                   "appearsAs": "Kylie Minogue",
-                  "url": "http://www.7digital.com/artist/kylie/?partner=5932"
+                  "slug": "kylie"
                 },
                 "trackNumber": "15",
                 "duration": "98",
                 "isrc": "GB0400200970",
-                "url": "http://www.7digital.com/artist/kylie/release/kyliefever2002-live-in-manchester/?partner=5932&h=15"
+                "slug": "kylie"
               },
               "remainingDownloads": "5",
               "purchaseId": "0",
@@ -685,12 +685,12 @@
                   "id": "1599",
                   "name": "Kylie",
                   "appearsAs": "Kylie Minogue",
-                  "url": "http://www.7digital.com/artist/kylie/?partner=5932"
+                  "slug": "kylie"
                 },
                 "trackNumber": "16",
                 "duration": "264",
                 "isrc": "GB0400200980",
-                "url": "http://www.7digital.com/artist/kylie/release/kyliefever2002-live-in-manchester/?partner=5932&h=16"
+                "slug": "kylie"
               },
               "remainingDownloads": "5",
               "purchaseId": "0",
@@ -728,12 +728,12 @@
                   "id": "1599",
                   "name": "Kylie",
                   "appearsAs": "Kylie Minogue",
-                  "url": "http://www.7digital.com/artist/kylie/?partner=5932"
+                  "slug": "kylie"
                 },
                 "trackNumber": "17",
                 "duration": "344",
                 "isrc": "GB0400200990",
-                "url": "http://www.7digital.com/artist/kylie/release/kyliefever2002-live-in-manchester/?partner=5932&h=17"
+                "slug": "kylie"
               },
               "remainingDownloads": "5",
               "purchaseId": "0",
@@ -771,12 +771,12 @@
                   "id": "1599",
                   "name": "Kylie",
                   "appearsAs": "Kylie Minogue",
-                  "url": "http://www.7digital.com/artist/kylie/?partner=5932"
+                  "slug": "kylie"
                 },
                 "trackNumber": "18",
                 "duration": "360",
                 "isrc": "GB0400201000",
-                "url": "http://www.7digital.com/artist/kylie/release/kyliefever2002-live-in-manchester/?partner=5932&h=18"
+                "slug": "kylie"
               },
               "remainingDownloads": "5",
               "purchaseId": "0",
@@ -814,12 +814,12 @@
                   "id": "1599",
                   "name": "Kylie",
                   "appearsAs": "Kylie Minogue",
-                  "url": "http://www.7digital.com/artist/kylie/?partner=5932"
+                  "slug": "kylie"
                 },
                 "trackNumber": "19",
                 "duration": "66",
                 "isrc": "GB0400201010",
-                "url": "http://www.7digital.com/artist/kylie/release/kyliefever2002-live-in-manchester/?partner=5932&h=19"
+                "slug": "kylie"
               },
               "remainingDownloads": "5",
               "purchaseId": "0",
@@ -857,12 +857,12 @@
                   "id": "1599",
                   "name": "Kylie",
                   "appearsAs": "Kylie Minogue",
-                  "url": "http://www.7digital.com/artist/kylie/?partner=5932"
+                  "slug": "kylie"
                 },
                 "trackNumber": "20",
                 "duration": "258",
                 "isrc": "GB0400201020",
-                "url": "http://www.7digital.com/artist/kylie/release/kyliefever2002-live-in-manchester/?partner=5932&h=20"
+                "slug": "kylie"
               },
               "remainingDownloads": "5",
               "purchaseId": "0",
@@ -900,12 +900,12 @@
                   "id": "1599",
                   "name": "Kylie",
                   "appearsAs": "Kylie Minogue",
-                  "url": "http://www.7digital.com/artist/kylie/?partner=5932"
+                  "slug": "kylie"
                 },
                 "trackNumber": "21",
                 "duration": "343",
                 "isrc": "GB0400201030",
-                "url": "http://www.7digital.com/artist/kylie/release/kyliefever2002-live-in-manchester/?partner=5932&h=21"
+                "slug": "kylie"
               },
               "remainingDownloads": "5",
               "purchaseId": "0",
@@ -943,12 +943,12 @@
                   "id": "1599",
                   "name": "Kylie",
                   "appearsAs": "Kylie Minogue",
-                  "url": "http://www.7digital.com/artist/kylie/?partner=5932"
+                  "slug": "kylie"
                 },
                 "trackNumber": "22",
                 "duration": "268",
                 "isrc": "GB0400201040",
-                "url": "http://www.7digital.com/artist/kylie/release/kyliefever2002-live-in-manchester/?partner=5932&h=22"
+                "slug": "kylie"
               },
               "remainingDownloads": "5",
               "purchaseId": "0",

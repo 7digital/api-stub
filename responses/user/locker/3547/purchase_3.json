@@ -21,9 +21,9 @@
               "id": "19180",
               "name": "Oceansize",
               "appearsAs": "Oceansize",
-              "url": "http://www.7digital.com/artist/oceansize"
+              "slug": "oceansize"
             },
-            "url": "http://www.7digital.com/artist/oceansize/release/new-pin-1",
+            "slug": "oceansize",
             "image": "http://artwork-cdn.7static.com/static/img/sleeveart/00/029/591/0002959123_50.jpg",
             "releaseDate": "2006-03-20T00:00:00Z",
             "licensor": {
@@ -40,12 +40,12 @@
                   "id": "19180",
                   "name": "Oceansize",
                   "appearsAs": "Oceansize",
-                  "url": "http://www.7digital.com/artist/oceansize"
+                  "slug": "oceansize"
                 },
                 "trackNumber": "2",
                 "duration": "352",
                 "isrc": "GBAZP0500062",
-                "url": "http://www.7digital.com/artist/oceansize/release/new-pin-1?h=02&d=1"
+                "slug": "oceansize"
               },
               "remainingDownloads": "5",
               "purchaseId": "814920242",
@@ -88,9 +88,9 @@
               "id": "1286310",
               "name": "PAWS",
               "appearsAs": "PAWS",
-              "url": "http://www.7digital.com/artist/paws"
+              "slug": "paws"
             },
-            "url": "http://www.7digital.com/artist/paws/release/youth-culture-forever-1",
+            "slug": "paws",
             "image": "http://artwork-cdn.7static.com/static/img/sleeveart/00/035/437/0003543780_50.jpg",
             "releaseDate": "2014-06-01T00:00:00Z",
             "licensor": {
@@ -108,12 +108,12 @@
                     "id": "1286355",
                     "name": "PAWS",
                     "appearsAs": "PAWS",
-                    "url": "http://www.7digital.com/artist/paws"
+                    "slug": "paws"
                   },
                   "trackNumber": "1",
                   "duration": "199",
                   "isrc": "GBDCA1402544",
-                  "url": "http://www.7digital.com/artist/paws/release/youth-culture-forever-1?h=01&d=1"
+                  "slug": "paws"
                 },
                 "remainingDownloads": "5",
                 "purchaseId": "814920242",
@@ -151,12 +151,12 @@
                     "id": "1286355",
                     "name": "PAWS",
                     "appearsAs": "PAWS",
-                    "url": "http://www.7digital.com/artist/paws"
+                    "slug": "paws"
                   },
                   "trackNumber": "2",
                   "duration": "133",
                   "isrc": "GBDCA1402545",
-                  "url": "http://www.7digital.com/artist/paws/release/youth-culture-forever-1?h=02&d=1"
+                  "slug": "paws"
                 },
                 "remainingDownloads": "5",
                 "purchaseId": "814920242",
@@ -194,12 +194,12 @@
                     "id": "1286355",
                     "name": "PAWS",
                     "appearsAs": "PAWS",
-                    "url": "http://www.7digital.com/artist/paws"
+                    "slug": "paws"
                   },
                   "trackNumber": "3",
                   "duration": "143",
                   "isrc": "GBDCA1402546",
-                  "url": "http://www.7digital.com/artist/paws/release/youth-culture-forever-1?h=03&d=1"
+                  "slug": "paws"
                 },
                 "remainingDownloads": "5",
                 "purchaseId": "814920242",
@@ -237,12 +237,12 @@
                     "id": "1286355",
                     "name": "PAWS",
                     "appearsAs": "PAWS",
-                    "url": "http://www.7digital.com/artist/paws"
+                    "slug": "paws"
                   },
                   "trackNumber": "4",
                   "duration": "212",
                   "isrc": "GBDCA1402547",
-                  "url": "http://www.7digital.com/artist/paws/release/youth-culture-forever-1?h=04&d=1"
+                  "slug": "paws"
                 },
                 "remainingDownloads": "5",
                 "purchaseId": "814920242",
@@ -280,12 +280,12 @@
                     "id": "1286355",
                     "name": "PAWS",
                     "appearsAs": "PAWS",
-                    "url": "http://www.7digital.com/artist/paws"
+                    "slug": "paws"
                   },
                   "trackNumber": "5",
                   "duration": "141",
                   "isrc": "GBDCA1402548",
-                  "url": "http://www.7digital.com/artist/paws/release/youth-culture-forever-1?h=05&d=1"
+                  "slug": "paws"
                 },
                 "remainingDownloads": "5",
                 "purchaseId": "814920242",
@@ -323,12 +323,12 @@
                     "id": "1286355",
                     "name": "PAWS",
                     "appearsAs": "PAWS",
-                    "url": "http://www.7digital.com/artist/paws"
+                    "slug": "paws"
                   },
                   "trackNumber": "6",
                   "duration": "235",
                   "isrc": "GBDCA1402549",
-                  "url": "http://www.7digital.com/artist/paws/release/youth-culture-forever-1?h=06&d=1"
+                  "slug": "paws"
                 },
                 "remainingDownloads": "5",
                 "purchaseId": "814920242",
@@ -366,12 +366,12 @@
                     "id": "1286355",
                     "name": "PAWS",
                     "appearsAs": "PAWS",
-                    "url": "http://www.7digital.com/artist/paws"
+                    "slug": "paws"
                   },
                   "trackNumber": "7",
                   "duration": "167",
                   "isrc": "GBDCA1402550",
-                  "url": "http://www.7digital.com/artist/paws/release/youth-culture-forever-1?h=07&d=1"
+                  "slug": "paws"
                 },
                 "remainingDownloads": "5",
                 "purchaseId": "814920242",
@@ -409,12 +409,12 @@
                     "id": "1286355",
                     "name": "PAWS",
                     "appearsAs": "PAWS",
-                    "url": "http://www.7digital.com/artist/paws"
+                    "slug": "paws"
                   },
                   "trackNumber": "8",
                   "duration": "115",
                   "isrc": "GBDCA1402551",
-                  "url": "http://www.7digital.com/artist/paws/release/youth-culture-forever-1?h=08&d=1"
+                  "slug": "paws"
                 },
                 "remainingDownloads": "5",
                 "purchaseId": "814920242",
@@ -452,12 +452,12 @@
                     "id": "1286355",
                     "name": "PAWS",
                     "appearsAs": "PAWS",
-                    "url": "http://www.7digital.com/artist/paws"
+                    "slug": "paws"
                   },
                   "trackNumber": "9",
                   "duration": "163",
                   "isrc": "GBDCA1402552",
-                  "url": "http://www.7digital.com/artist/paws/release/youth-culture-forever-1?h=09&d=1"
+                  "slug": "paws"
                 },
                 "remainingDownloads": "5",
                 "purchaseId": "814920242",
@@ -495,12 +495,12 @@
                     "id": "1286355",
                     "name": "PAWS",
                     "appearsAs": "PAWS",
-                    "url": "http://www.7digital.com/artist/paws"
+                    "slug": "paws"
                   },
                   "trackNumber": "10",
                   "duration": "118",
                   "isrc": "GBDCA1402553",
-                  "url": "http://www.7digital.com/artist/paws/release/youth-culture-forever-1?h=10&d=1"
+                  "slug": "paws"
                 },
                 "remainingDownloads": "5",
                 "purchaseId": "814920242",
@@ -538,12 +538,12 @@
                     "id": "1286355",
                     "name": "PAWS",
                     "appearsAs": "PAWS",
-                    "url": "http://www.7digital.com/artist/paws"
+                    "slug": "paws"
                   },
                   "trackNumber": "11",
                   "duration": "171",
                   "isrc": "GBDCA1402554",
-                  "url": "http://www.7digital.com/artist/paws/release/youth-culture-forever-1?h=11&d=1"
+                  "slug": "paws"
                 },
                 "remainingDownloads": "5",
                 "purchaseId": "814920242",
@@ -581,12 +581,12 @@
                     "id": "1286355",
                     "name": "PAWS",
                     "appearsAs": "PAWS",
-                    "url": "http://www.7digital.com/artist/paws"
+                    "slug": "paws"
                   },
                   "trackNumber": "12",
                   "duration": "703",
                   "isrc": "GBDCA1402555",
-                  "url": "http://www.7digital.com/artist/paws/release/youth-culture-forever-1?h=12&d=1"
+                  "slug": "paws"
                 },
                 "remainingDownloads": "5",
                 "purchaseId": "814920242",

@@ -20,9 +20,9 @@
               "id": "1",
               "name": "Keane",
               "appearsAs": "Keane",
-              "url": "http://www.7digital.com/artist/keane/?partner=712"
+              "slug": "keane"
             },
-            "url": "http://www.7digital.com/artist/keane/release/perfect-symmetry-1/?partner=712",
+            "slug": "keane",
             "image": "http://artwork-cdn.7static.com/static/img/sleeveart/00/003/208/0000320866_50.jpg",
             "releaseDate": "2008-10-13T00:00:00+01:00"
           },
@@ -37,11 +37,11 @@
                     "id": "1",
                     "name": "Keane",
                     "appearsAs": "Keane",
-                    "url": "http://www.7digital.com/artist/keane/?partner=712"
+                    "slug": "keane"
                   },
                   "trackNumber": "1",
                   "duration": "258",
-                  "url": "http://www.7digital.com/artist/keane/release/perfect-symmetry-1/01-Spiralling?partner=712&partner=712"
+                  "slug": "keane"
                 },
                 "remainingDownloads": "5",
                 "purchaseDate": "2012-05-28T14:01:14+01:00",
@@ -66,11 +66,11 @@
                     "id": "1",
                     "name": "Keane",
                     "appearsAs": "Keane",
-                    "url": "http://www.7digital.com/artist/keane/?partner=712"
+                    "slug": "keane"
                   },
                   "trackNumber": "2",
                   "duration": "303",
-                  "url": "http://www.7digital.com/artist/keane/release/perfect-symmetry-1/02-The-Lovers-Are-Losing?partner=712&partner=712"
+                  "slug": "keane"
                 },
                 "remainingDownloads": "5",
                 "purchaseDate": "2012-05-28T14:01:14+01:00",
@@ -95,11 +95,11 @@
                     "id": "1",
                     "name": "Keane",
                     "appearsAs": "Keane",
-                    "url": "http://www.7digital.com/artist/keane/?partner=712"
+                    "slug": "keane"
                   },
                   "trackNumber": "3",
                   "duration": "242",
-                  "url": "http://www.7digital.com/artist/keane/release/perfect-symmetry-1/03-Better-Than-This?partner=712&partner=712"
+                  "slug": "keane"
                 },
                 "remainingDownloads": "5",
                 "purchaseDate": "2012-05-28T14:01:14+01:00",
@@ -124,11 +124,11 @@
                     "id": "1",
                     "name": "Keane",
                     "appearsAs": "Keane",
-                    "url": "http://www.7digital.com/artist/keane/?partner=712"
+                    "slug": "keane"
                   },
                   "trackNumber": "4",
                   "duration": "227",
-                  "url": "http://www.7digital.com/artist/keane/release/perfect-symmetry-1/04-You-Havent-Told-Me-Anything?partner=712&partner=712"
+                  "slug": "keane"
                 },
                 "remainingDownloads": "5",
                 "purchaseDate": "2012-05-28T14:01:14+01:00",
@@ -153,11 +153,11 @@
                     "id": "1",
                     "name": "Keane",
                     "appearsAs": "Keane",
-                    "url": "http://www.7digital.com/artist/keane/?partner=712"
+                    "slug": "keane"
                   },
                   "trackNumber": "5",
                   "duration": "310",
-                  "url": "http://www.7digital.com/artist/keane/release/perfect-symmetry-1/05-Perfect-Symmetry?partner=712&partner=712"
+                  "slug": "keane"
                 },
                 "remainingDownloads": "5",
                 "purchaseDate": "2012-05-28T14:01:14+01:00",
@@ -182,11 +182,11 @@
                     "id": "1",
                     "name": "Keane",
                     "appearsAs": "Keane",
-                    "url": "http://www.7digital.com/artist/keane/?partner=712"
+                    "slug": "keane"
                   },
                   "trackNumber": "6",
                   "duration": "243",
-                  "url": "http://www.7digital.com/artist/keane/release/perfect-symmetry-1/06-You-Dont-See-Me?partner=712&partner=712"
+                  "slug": "keane"
                 },
                 "remainingDownloads": "5",
                 "purchaseDate": "2012-05-28T14:01:14+01:00",
@@ -211,11 +211,11 @@
                     "id": "1",
                     "name": "Keane",
                     "appearsAs": "Keane",
-                    "url": "http://www.7digital.com/artist/keane/?partner=712"
+                    "slug": "keane"
                   },
                   "trackNumber": "7",
                   "duration": "230",
-                  "url": "http://www.7digital.com/artist/keane/release/perfect-symmetry-1/07-Again-and-Again?partner=712&partner=712"
+                  "slug": "keane"
                 },
                 "remainingDownloads": "5",
                 "purchaseDate": "2012-05-28T14:01:14+01:00",
@@ -240,11 +240,11 @@
                     "id": "1",
                     "name": "Keane",
                     "appearsAs": "Keane",
-                    "url": "http://www.7digital.com/artist/keane/?partner=712"
+                    "slug": "keane"
                   },
                   "trackNumber": "8",
                   "duration": "333",
-                  "url": "http://www.7digital.com/artist/keane/release/perfect-symmetry-1/08-Playing-Along?partner=712&partner=712"
+                  "slug": "keane"
                 },
                 "remainingDownloads": "5",
                 "purchaseDate": "2012-05-28T14:01:14+01:00",
@@ -269,11 +269,11 @@
                     "id": "1",
                     "name": "Keane",
                     "appearsAs": "Keane",
-                    "url": "http://www.7digital.com/artist/keane/?partner=712"
+                    "slug": "keane"
                   },
                   "trackNumber": "9",
                   "duration": "227",
-                  "url": "http://www.7digital.com/artist/keane/release/perfect-symmetry-1/09-Pretend-That-Youre-Alone?partner=712&partner=712"
+                  "slug": "keane"
                 },
                 "remainingDownloads": "5",
                 "purchaseDate": "2012-05-28T14:01:14+01:00",
@@ -298,11 +298,11 @@
                     "id": "1",
                     "name": "Keane",
                     "appearsAs": "Keane",
-                    "url": "http://www.7digital.com/artist/keane/?partner=712"
+                    "slug": "keane"
                   },
                   "trackNumber": "10",
                   "duration": "321",
-                  "url": "http://www.7digital.com/artist/keane/release/perfect-symmetry-1/10-Black-Burning-Heart?partner=712&partner=712"
+                  "slug": "keane"
                 },
                 "remainingDownloads": "5",
                 "purchaseDate": "2012-05-28T14:01:14+01:00",
@@ -327,11 +327,11 @@
                     "id": "1",
                     "name": "Keane",
                     "appearsAs": "Keane",
-                    "url": "http://www.7digital.com/artist/keane/?partner=712"
+                    "slug": "keane"
                   },
                   "trackNumber": "11",
                   "duration": "337",
-                  "url": "http://www.7digital.com/artist/keane/release/perfect-symmetry-1/11-Love-Is-The-End?partner=712&partner=712"
+                  "slug": "keane"
                 },
                 "remainingDownloads": "5",
                 "purchaseDate": "2012-05-28T14:01:14+01:00",
@@ -361,9 +361,9 @@
               "id": "1",
               "name": "Keane",
               "appearsAs": "Keane",
-              "url": "http://www.7digital.com/artist/keane/?partner=712"
+              "slug": "keane"
             },
-            "url": "http://www.7digital.com/artist/keane/release/perfect-symmetry-1/?partner=712",
+            "slug": "keane",
             "image": "http://artwork-cdn.7static.com/static/img/sleeveart/00/003/208/0000320866_50.jpg",
             "releaseDate": "2100-10-13T00:00:00+01:00"
           },
@@ -378,11 +378,11 @@
                     "id": "1",
                     "name": "Keane",
                     "appearsAs": "Keane",
-                    "url": "http://www.7digital.com/artist/keane/?partner=712"
+                    "slug": "keane"
                   },
                   "trackNumber": "1",
                   "duration": "258",
-                  "url": "http://www.7digital.com/artist/keane/release/perfect-symmetry-1/01-Spiralling?partner=712&partner=712"
+                  "slug": "keane"
                 },
                 "remainingDownloads": "5",
                 "purchaseDate": "2012-05-28T14:01:14+01:00",
@@ -407,11 +407,11 @@
                     "id": "1",
                     "name": "Keane",
                     "appearsAs": "Keane",
-                    "url": "http://www.7digital.com/artist/keane/?partner=712"
+                    "slug": "keane"
                   },
                   "trackNumber": "2",
                   "duration": "303",
-                  "url": "http://www.7digital.com/artist/keane/release/perfect-symmetry-1/02-The-Lovers-Are-Losing?partner=712&partner=712"
+                  "slug": "keane"
                 },
                 "remainingDownloads": "5",
                 "purchaseDate": "2012-05-28T14:01:14+01:00",
@@ -436,11 +436,11 @@
                     "id": "1",
                     "name": "Keane",
                     "appearsAs": "Keane",
-                    "url": "http://www.7digital.com/artist/keane/?partner=712"
+                    "slug": "keane"
                   },
                   "trackNumber": "3",
                   "duration": "242",
-                  "url": "http://www.7digital.com/artist/keane/release/perfect-symmetry-1/03-Better-Than-This?partner=712&partner=712"
+                  "slug": "keane"
                 },
                 "remainingDownloads": "5",
                 "purchaseDate": "2012-05-28T14:01:14+01:00",
@@ -465,11 +465,11 @@
                     "id": "1",
                     "name": "Keane",
                     "appearsAs": "Keane",
-                    "url": "http://www.7digital.com/artist/keane/?partner=712"
+                    "slug": "keane"
                   },
                   "trackNumber": "4",
                   "duration": "227",
-                  "url": "http://www.7digital.com/artist/keane/release/perfect-symmetry-1/04-You-Havent-Told-Me-Anything?partner=712&partner=712"
+                  "slug": "keane"
                 },
                 "remainingDownloads": "5",
                 "purchaseDate": "2012-05-28T14:01:14+01:00",
@@ -494,11 +494,11 @@
                     "id": "1",
                     "name": "Keane",
                     "appearsAs": "Keane",
-                    "url": "http://www.7digital.com/artist/keane/?partner=712"
+                    "slug": "keane"
                   },
                   "trackNumber": "5",
                   "duration": "310",
-                  "url": "http://www.7digital.com/artist/keane/release/perfect-symmetry-1/05-Perfect-Symmetry?partner=712&partner=712"
+                  "slug": "keane"
                 },
                 "remainingDownloads": "5",
                 "purchaseDate": "2012-05-28T14:01:14+01:00",
@@ -523,11 +523,11 @@
                     "id": "1",
                     "name": "Keane",
                     "appearsAs": "Keane",
-                    "url": "http://www.7digital.com/artist/keane/?partner=712"
+                    "slug": "keane"
                   },
                   "trackNumber": "6",
                   "duration": "243",
-                  "url": "http://www.7digital.com/artist/keane/release/perfect-symmetry-1/06-You-Dont-See-Me?partner=712&partner=712"
+                  "slug": "keane"
                 },
                 "remainingDownloads": "5",
                 "purchaseDate": "2012-05-28T14:01:14+01:00",
@@ -552,11 +552,11 @@
                     "id": "1",
                     "name": "Keane",
                     "appearsAs": "Keane",
-                    "url": "http://www.7digital.com/artist/keane/?partner=712"
+                    "slug": "keane"
                   },
                   "trackNumber": "7",
                   "duration": "230",
-                  "url": "http://www.7digital.com/artist/keane/release/perfect-symmetry-1/07-Again-and-Again?partner=712&partner=712"
+                  "slug": "keane"
                 },
                 "remainingDownloads": "5",
                 "purchaseDate": "2012-05-28T14:01:14+01:00",
@@ -581,11 +581,11 @@
                     "id": "1",
                     "name": "Keane",
                     "appearsAs": "Keane",
-                    "url": "http://www.7digital.com/artist/keane/?partner=712"
+                    "slug": "keane"
                   },
                   "trackNumber": "8",
                   "duration": "333",
-                  "url": "http://www.7digital.com/artist/keane/release/perfect-symmetry-1/08-Playing-Along?partner=712&partner=712"
+                  "slug": "keane"
                 },
                 "remainingDownloads": "5",
                 "purchaseDate": "2012-05-28T14:01:14+01:00",
@@ -610,11 +610,11 @@
                     "id": "1",
                     "name": "Keane",
                     "appearsAs": "Keane",
-                    "url": "http://www.7digital.com/artist/keane/?partner=712"
+                    "slug": "keane"
                   },
                   "trackNumber": "9",
                   "duration": "227",
-                  "url": "http://www.7digital.com/artist/keane/release/perfect-symmetry-1/09-Pretend-That-Youre-Alone?partner=712&partner=712"
+                  "slug": "keane"
                 },
                 "remainingDownloads": "5",
                 "purchaseDate": "2012-05-28T14:01:14+01:00",
@@ -639,11 +639,11 @@
                     "id": "1",
                     "name": "Keane",
                     "appearsAs": "Keane",
-                    "url": "http://www.7digital.com/artist/keane/?partner=712"
+                    "slug": "keane"
                   },
                   "trackNumber": "10",
                   "duration": "321",
-                  "url": "http://www.7digital.com/artist/keane/release/perfect-symmetry-1/10-Black-Burning-Heart?partner=712&partner=712"
+                  "slug": "keane"
                 },
                 "remainingDownloads": "5",
                 "purchaseDate": "2012-05-28T14:01:14+01:00",
@@ -668,11 +668,11 @@
                     "id": "1",
                     "name": "Keane",
                     "appearsAs": "Keane",
-                    "url": "http://www.7digital.com/artist/keane/?partner=712"
+                    "slug": "keane"
                   },
                   "trackNumber": "11",
                   "duration": "337",
-                  "url": "http://www.7digital.com/artist/keane/release/perfect-symmetry-1/11-Love-Is-The-End?partner=712&partner=712"
+                  "slug": "keane"
                 },
                 "remainingDownloads": "5",
                 "purchaseDate": "2012-05-28T14:01:14+01:00",
