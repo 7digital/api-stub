@@ -43,6 +43,7 @@
           <onSale>false</onSale>
         </price>
         <download>
+          <releaseDate>2012-01-03T00:00:00+00:00</releaseDate>
           <packages>
             <package id="2">
               <description>standard</description>

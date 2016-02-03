@@ -22,6 +22,7 @@
         <slug>discovery-1</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/000/454/0000045472_50.jpg</image>
         <download>
+          <releaseDate>2005-01-24T00:00:00+00:00</releaseDate>
           <packages>
             <package id="2">
               <description>standard</description>
@@ -68,6 +69,7 @@
         <slug>homework</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/000/288/0000028815_50.jpg</image>
         <download>
+          <releaseDate>1997-01-17T00:00:00+00:00</releaseDate>
           <packages>
             <package id="2">
               <description>standard</description>
@@ -114,6 +116,7 @@
         <slug>technologic-digitalism-remix</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/000/203/0000020368_50.jpg</image>
         <download>
+          <releaseDate>2005-11-07T00:00:00+00:00</releaseDate>
           <packages>
             <package id="2">
               <description>standard</description>
@@ -160,6 +163,7 @@
         <slug>technologic</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/000/106/0000010606_50.jpg</image>
         <download>
+          <releaseDate>2005-04-25T00:00:00+01:00</releaseDate>
           <packages>
             <package id="2">
               <description>standard</description>
@@ -206,6 +210,7 @@
         <slug>aerodynamic</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/001/488/0000148830_50.jpg</image>
         <download>
+          <releaseDate>2001-03-26T00:00:00+01:00</releaseDate>
           <packages>
             <package id="2">
               <description>standard</description>
@@ -252,6 +257,7 @@
         <slug>technologic-vitalic-remix</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/000/120/0000012094_50.jpg</image>
         <download>
+          <releaseDate>2005-06-13T00:00:00+01:00</releaseDate>
           <packages>
             <package id="2">
               <description>standard</description>
