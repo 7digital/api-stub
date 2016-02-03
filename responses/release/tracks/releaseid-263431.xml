@@ -60,9 +60,9 @@
       <streamingReleaseDate xsi:nil="true"/>
       <discNumber>1</discNumber>
       <number>1</number>
-      <previewDate>2008-05-26T00:00:00Z</previewDate>
     </track>
     <track id="2768325">
+      <previewDate>2008-05-26T00:00:00Z</previewDate>
       <title>Come Into My World (Live In Manchester)</title>
       <version/>
       <artist id="1599">
@@ -98,6 +98,7 @@
         <onSale>false</onSale>
       </price>
       <download>
+        <previewDate>2008-05-26T00:00:00Z</previewDate>
         <releaseDate>2008-05-26T00:00:00Z</releaseDate>
         <packages>
           <package id="2">
@@ -118,7 +119,6 @@
       <streamingReleaseDate xsi:nil="true"/>
       <discNumber>1</discNumber>
       <number>2</number>
-      <previewDate>2008-05-26T00:00:00Z</previewDate>
     </track>
     <track id="2768328">
       <title>Shocked (Live In Manchester)</title>
@@ -156,6 +156,7 @@
         <onSale>false</onSale>
       </price>
       <download>
+        <previewDate>2008-05-26T00:00:00Z</previewDate>
         <releaseDate>2008-05-26T00:00:00Z</releaseDate>
         <packages>
           <package id="2">
@@ -176,7 +177,6 @@
       <streamingReleaseDate xsi:nil="true"/>
       <discNumber>1</discNumber>
       <number>3</number>
-      <previewDate>2008-05-26T00:00:00Z</previewDate>
     </track>
     <track id="2768330">
       <title>Love At First Sight (Live In Manchester)</title>
@@ -214,6 +214,7 @@
         <onSale>false</onSale>
       </price>
       <download>
+        <previewDate>2008-05-26T00:00:00Z</previewDate>
         <releaseDate>2008-05-26T00:00:00Z</releaseDate>
         <packages>
           <package id="2">
@@ -234,7 +235,6 @@
       <streamingReleaseDate xsi:nil="true"/>
       <discNumber>1</discNumber>
       <number>4</number>
-      <previewDate>2008-05-26T00:00:00Z</previewDate>
     </track>
     <track id="2768332">
       <title>Fever (Live In Manchester)</title>
@@ -272,6 +272,7 @@
         <onSale>false</onSale>
       </price>
       <download>
+        <previewDate>2008-05-26T00:00:00Z</previewDate>
         <releaseDate>2008-05-26T00:00:00Z</releaseDate>
         <packages>
           <package id="2">
@@ -292,7 +293,6 @@
       <streamingReleaseDate xsi:nil="true"/>
       <discNumber>1</discNumber>
       <number>5</number>
-      <previewDate>2008-05-26T00:00:00Z</previewDate>
     </track>
     <track id="2768334">
       <title>Spinning Around (Live In Manchester)</title>
@@ -330,6 +330,7 @@
         <onSale>false</onSale>
       </price>
       <download>
+        <previewDate>2008-05-26T00:00:00Z</previewDate>
         <releaseDate>2008-05-26T00:00:00Z</releaseDate>
         <packages>
           <package id="2">
@@ -350,7 +351,6 @@
       <streamingReleaseDate xsi:nil="true"/>
       <discNumber>1</discNumber>
       <number>6</number>
-      <previewDate>2008-05-26T00:00:00Z</previewDate>
     </track>
     <track id="2768336">
       <title>The Crying Game (Ballads Section) (Live In Manchester)</title>
@@ -388,6 +388,7 @@
         <onSale>false</onSale>
       </price>
       <download>
+        <previewDate>2008-05-26T00:00:00Z</previewDate>
         <releaseDate>2008-05-26T00:00:00Z</releaseDate>
         <packages>
           <package id="2">
@@ -408,7 +409,6 @@
       <streamingReleaseDate xsi:nil="true"/>
       <discNumber>1</discNumber>
       <number>7</number>
-      <previewDate>2008-05-26T00:00:00Z</previewDate>
     </track>
     <track id="2768337">
       <title>GBI (Live In Manchester)</title>
@@ -446,6 +446,7 @@
         <onSale>false</onSale>
       </price>
       <download>
+        <previewDate>2008-05-26T00:00:00Z</previewDate>
         <releaseDate>2008-05-26T00:00:00Z</releaseDate>
         <packages>
           <package id="2">
@@ -466,7 +467,6 @@
       <streamingReleaseDate xsi:nil="true"/>
       <discNumber>1</discNumber>
       <number>8</number>
-      <previewDate>2008-05-26T00:00:00Z</previewDate>
     </track>
     <track id="2768339">
       <title>Confide In Me (Live In Manchester)</title>
@@ -504,6 +504,7 @@
         <onSale>false</onSale>
       </price>
       <download>
+        <previewDate>2008-05-26T00:00:00Z</previewDate>
         <releaseDate>2008-05-26T00:00:00Z</releaseDate>
         <packages>
           <package id="2">
@@ -524,7 +525,6 @@
       <streamingReleaseDate xsi:nil="true"/>
       <discNumber>1</discNumber>
       <number>9</number>
-      <previewDate>2008-05-26T00:00:00Z</previewDate>
     </track>
     <track id="2768341">
       <title>Cowboy Style (Live In Manchester)</title>
@@ -562,6 +562,7 @@
         <onSale>false</onSale>
       </price>
       <download>
+        <previewDate>2008-05-26T00:00:00Z</previewDate>
         <releaseDate>2008-05-26T00:00:00Z</releaseDate>
         <packages>
           <package id="2">
@@ -582,7 +583,6 @@
       <streamingReleaseDate xsi:nil="true"/>
       <discNumber>1</discNumber>
       <number>10</number>
-      <previewDate>2008-05-26T00:00:00Z</previewDate>
     </track>
     <track id="2768343">
       <title>Kids (Live In Manchester)</title>
@@ -620,6 +620,7 @@
         <onSale>false</onSale>
       </price>
       <download>
+        <previewDate>2008-05-26T00:00:00Z</previewDate>
         <releaseDate>2008-05-26T00:00:00Z</releaseDate>
         <packages>
           <package id="2">
@@ -640,7 +641,6 @@
       <streamingReleaseDate xsi:nil="true"/>
       <discNumber>1</discNumber>
       <number>11</number>
-      <previewDate>2008-05-26T00:00:00Z</previewDate>
     </track>
     <track id="2768346">
       <title>On A Night Like This (Live In Manchester)</title>
@@ -678,6 +678,7 @@
         <onSale>false</onSale>
       </price>
       <download>
+        <previewDate>2008-05-26T00:00:00Z</previewDate>
         <releaseDate>2008-05-26T00:00:00Z</releaseDate>
         <packages>
           <package id="2">
@@ -698,7 +699,6 @@
       <streamingReleaseDate xsi:nil="true"/>
       <discNumber>1</discNumber>
       <number>12</number>
-      <previewDate>2008-05-26T00:00:00Z</previewDate>
     </track>
     <track id="2768348">
       <title>Locomotion (Live In Manchester)</title>
@@ -736,6 +736,7 @@
         <onSale>false</onSale>
       </price>
       <download>
+        <previewDate>2008-05-26T00:00:00Z</previewDate>
         <releaseDate>2008-05-26T00:00:00Z</releaseDate>
         <packages>
           <package id="2">
@@ -756,7 +757,6 @@
       <streamingReleaseDate xsi:nil="true"/>
       <discNumber>1</discNumber>
       <number>13</number>
-      <previewDate>2008-05-26T00:00:00Z</previewDate>
     </track>
     <track id="2768350">
       <title>In Your Eyes (Latin Section) (Live In Manchester)</title>
@@ -794,6 +794,7 @@
         <onSale>false</onSale>
       </price>
       <download>
+        <previewDate>2008-05-26T00:00:00Z</previewDate>
         <releaseDate>2008-05-26T00:00:00Z</releaseDate>
         <packages>
           <package id="2">
@@ -814,7 +815,6 @@
       <streamingReleaseDate xsi:nil="true"/>
       <discNumber>1</discNumber>
       <number>14</number>
-      <previewDate>2008-05-26T00:00:00Z</previewDate>
     </track>
     <track id="2768352">
       <title>Tapdancing Jedi (Live In Manchester)</title>
@@ -852,6 +852,7 @@
         <onSale>false</onSale>
       </price>
       <download>
+        <previewDate>2008-05-26T00:00:00Z</previewDate>
         <releaseDate>2008-05-26T00:00:00Z</releaseDate>
         <packages>
           <package id="2">
@@ -872,7 +873,6 @@
       <streamingReleaseDate xsi:nil="true"/>
       <discNumber>1</discNumber>
       <number>15</number>
-      <previewDate>2008-05-26T00:00:00Z</previewDate>
     </track>
     <track id="2768354">
       <title>Limbo (Live In Manchester)</title>
@@ -910,6 +910,7 @@
         <onSale>false</onSale>
       </price>
       <download>
+        <previewDate>2008-05-26T00:00:00Z</previewDate>
         <releaseDate>2008-05-26T00:00:00Z</releaseDate>
         <packages>
           <package id="2">
@@ -930,7 +931,6 @@
       <streamingReleaseDate xsi:nil="true"/>
       <discNumber>1</discNumber>
       <number>16</number>
-      <previewDate>2008-05-26T00:00:00Z</previewDate>
     </track>
     <track id="2768361">
       <title>Light Years/I Feel Love (Live In Manchester)</title>
@@ -968,6 +968,7 @@
         <onSale>false</onSale>
       </price>
       <download>
+        <previewDate>2008-05-26T00:00:00Z</previewDate>
         <releaseDate>2008-05-26T00:00:00Z</releaseDate>
         <packages>
           <package id="2">
@@ -988,7 +989,6 @@
       <streamingReleaseDate xsi:nil="true"/>
       <discNumber>1</discNumber>
       <number>17</number>
-      <previewDate>2008-05-26T00:00:00Z</previewDate>
     </track>
     <track id="2768364">
       <title>I Should Be So Lucky (Live In Manchester)</title>
@@ -1026,6 +1026,7 @@
         <onSale>false</onSale>
       </price>
       <download>
+        <previewDate>2008-05-26T00:00:00Z</previewDate>
         <releaseDate>2008-05-26T00:00:00Z</releaseDate>
         <packages>
           <package id="2">
@@ -1046,7 +1047,6 @@
       <streamingReleaseDate xsi:nil="true"/>
       <discNumber>1</discNumber>
       <number>18</number>
-      <previewDate>2008-05-26T00:00:00Z</previewDate>
     </track>
     <track id="2768365">
       <title>Voodoo Intro (Live In Manchester)</title>
@@ -1084,6 +1084,7 @@
         <onSale>false</onSale>
       </price>
       <download>
+        <previewDate>2008-05-26T00:00:00Z</previewDate>
         <releaseDate>2008-05-26T00:00:00Z</releaseDate>
         <packages>
           <package id="2">
@@ -1104,7 +1105,6 @@
       <streamingReleaseDate xsi:nil="true"/>
       <discNumber>1</discNumber>
       <number>19</number>
-      <previewDate>2008-05-26T00:00:00Z</previewDate>
     </track>
     <track id="2768366">
       <title>Burning Up (Live In Manchester)</title>
@@ -1142,6 +1142,7 @@
         <onSale>false</onSale>
       </price>
       <download>
+        <previewDate>2008-05-26T00:00:00Z</previewDate>
         <releaseDate>2008-05-26T00:00:00Z</releaseDate>
         <packages>
           <package id="2">
@@ -1162,7 +1163,6 @@
       <streamingReleaseDate xsi:nil="true"/>
       <discNumber>1</discNumber>
       <number>20</number>
-      <previewDate>2008-05-26T00:00:00Z</previewDate>
     </track>
     <track id="2768367">
       <title>Better The Devil You Know (Live In Manchester)</title>
@@ -1200,6 +1200,7 @@
         <onSale>false</onSale>
       </price>
       <download>
+        <previewDate>2008-05-26T00:00:00Z</previewDate>
         <releaseDate>2008-05-26T00:00:00Z</releaseDate>
         <packages>
           <package id="2">
@@ -1220,7 +1221,6 @@
       <streamingReleaseDate xsi:nil="true"/>
       <discNumber>1</discNumber>
       <number>21</number>
-      <previewDate>2008-05-26T00:00:00Z</previewDate>
     </track>
     <track id="2768368">
       <title>Can't Get Blue Monday Out Of My Head (Live In Manchester)</title>
@@ -1258,6 +1258,7 @@
         <onSale>false</onSale>
       </price>
       <download>
+        <previewDate>2008-05-26T00:00:00Z</previewDate>
         <releaseDate>2008-05-26T00:00:00Z</releaseDate>
         <packages>
           <package id="2">
@@ -1278,7 +1279,6 @@
       <streamingReleaseDate xsi:nil="true"/>
       <discNumber>1</discNumber>
       <number>22</number>
-      <previewDate>2008-05-26T00:00:00Z</previewDate>
     </track>
   </tracks>
 </response>

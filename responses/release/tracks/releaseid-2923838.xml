@@ -60,9 +60,9 @@
       <streamingReleaseDate>2013-09-09T00:00:00Z</streamingReleaseDate>
       <discNumber>1</discNumber>
       <number>1</number>
-      <previewDate>2013-09-09T00:00:00Z</previewDate>
     </track>
     <track id="31185162">
+      <previewDate>2013-09-09T00:00:00Z</previewDate>
       <title>Here Again</title>
       <version/>
       <artist id="667594">
@@ -98,6 +98,7 @@
         <onSale>false</onSale>
       </price>
       <download>
+        <previewDate>2013-09-09T00:00:00Z</previewDate>
         <releaseDate>2013-09-09T00:00:00Z</releaseDate>
         <packages>
           <package id="2">
@@ -118,7 +119,6 @@
       <streamingReleaseDate>2013-09-09T00:00:00Z</streamingReleaseDate>
       <discNumber>1</discNumber>
       <number>2</number>
-      <previewDate>2013-09-09T00:00:00Z</previewDate>
     </track>
     <track id="31185171">
       <title>One</title>
@@ -156,6 +156,7 @@
         <onSale>false</onSale>
       </price>
       <download>
+        <previewDate>2013-09-09T00:00:00Z</previewDate>
         <releaseDate>2013-09-09T00:00:00Z</releaseDate>
         <packages>
           <package id="2">
@@ -176,7 +177,6 @@
       <streamingReleaseDate>2013-09-09T00:00:00Z</streamingReleaseDate>
       <discNumber>1</discNumber>
       <number>3</number>
-      <previewDate>2013-09-09T00:00:00Z</previewDate>
     </track>
     <track id="31185173">
       <title>Fall Back</title>
@@ -214,6 +214,7 @@
         <onSale>false</onSale>
       </price>
       <download>
+        <previewDate>2013-09-09T00:00:00Z</previewDate>
         <releaseDate>2013-09-09T00:00:00Z</releaseDate>
         <packages>
           <package id="2">
@@ -234,7 +235,6 @@
       <streamingReleaseDate>2013-09-09T00:00:00Z</streamingReleaseDate>
       <discNumber>1</discNumber>
       <number>4</number>
-      <previewDate>2013-09-09T00:00:00Z</previewDate>
     </track>
     <track id="31185181">
       <title>Two</title>
@@ -272,6 +272,7 @@
         <onSale>false</onSale>
       </price>
       <download>
+        <previewDate>2013-09-09T00:00:00Z</previewDate>
         <releaseDate>2013-09-09T00:00:00Z</releaseDate>
         <packages>
           <package id="2">
@@ -292,7 +293,6 @@
       <streamingReleaseDate>2013-09-09T00:00:00Z</streamingReleaseDate>
       <discNumber>1</discNumber>
       <number>5</number>
-      <previewDate>2013-09-09T00:00:00Z</previewDate>
     </track>
     <track id="31185183">
       <title>How You Say</title>
@@ -330,6 +330,7 @@
         <onSale>false</onSale>
       </price>
       <download>
+        <previewDate>2013-09-09T00:00:00Z</previewDate>
         <releaseDate>2013-09-09T00:00:00Z</releaseDate>
         <packages>
           <package id="2">
@@ -350,7 +351,6 @@
       <streamingReleaseDate>2013-09-09T00:00:00Z</streamingReleaseDate>
       <discNumber>1</discNumber>
       <number>6</number>
-      <previewDate>2013-09-09T00:00:00Z</previewDate>
     </track>
     <track id="31185195">
       <title>Two Different Ways</title>
@@ -388,6 +388,7 @@
         <onSale>false</onSale>
       </price>
       <download>
+        <previewDate>2013-09-09T00:00:00Z</previewDate>
         <releaseDate>2013-09-09T00:00:00Z</releaseDate>
         <packages>
           <package id="2">
@@ -408,7 +409,6 @@
       <streamingReleaseDate>2013-09-09T00:00:00Z</streamingReleaseDate>
       <discNumber>1</discNumber>
       <number>7</number>
-      <previewDate>2013-09-09T00:00:00Z</previewDate>
     </track>
     <track id="31185199">
       <title>Three</title>
@@ -446,6 +446,7 @@
         <onSale>false</onSale>
       </price>
       <download>
+        <previewDate>2013-09-09T00:00:00Z</previewDate>
         <releaseDate>2013-09-09T00:00:00Z</releaseDate>
         <packages>
           <package id="2">
@@ -466,7 +467,6 @@
       <streamingReleaseDate>2013-09-09T00:00:00Z</streamingReleaseDate>
       <discNumber>1</discNumber>
       <number>8</number>
-      <previewDate>2013-09-09T00:00:00Z</previewDate>
     </track>
     <track id="31185201">
       <title>Work Out</title>
@@ -504,6 +504,7 @@
         <onSale>false</onSale>
       </price>
       <download>
+        <previewDate>2013-09-09T00:00:00Z</previewDate>
         <releaseDate>2013-09-09T00:00:00Z</releaseDate>
         <packages>
           <package id="2">
@@ -524,7 +525,6 @@
       <streamingReleaseDate>2013-09-09T00:00:00Z</streamingReleaseDate>
       <discNumber>1</discNumber>
       <number>9</number>
-      <previewDate>2013-09-09T00:00:00Z</previewDate>
     </track>
     <track id="31185211">
       <title>Breathe In</title>
@@ -562,6 +562,7 @@
         <onSale>false</onSale>
       </price>
       <download>
+        <previewDate>2013-09-09T00:00:00Z</previewDate>
         <releaseDate>2013-09-09T00:00:00Z</releaseDate>
         <packages>
           <package id="2">
@@ -582,7 +583,6 @@
       <streamingReleaseDate>2013-09-09T00:00:00Z</streamingReleaseDate>
       <discNumber>1</discNumber>
       <number>10</number>
-      <previewDate>2013-09-09T00:00:00Z</previewDate>
     </track>
   </tracks>
 </response>
