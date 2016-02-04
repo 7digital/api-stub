@@ -1,83 +1,83 @@
 {
-    "xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
-    "xmlns:xsd": "http://www.w3.org/2001/XMLSchema",
-    "status": "ok",
-    "version": "1.2",
-    "xsi:noNamespaceSchemaLocation": "http://api.7digital.com/1.2/static/7digitalAPI.xsd",
-    "locker": {
-        "lockerReleases": {
-            "page": "1",
-            "pageSize": "10",
-            "totalItems": "1",
-            "lockerRelease": [
-                {
-                    "release": {
-                        "id": "2959123",
-                        "title": "New Pin",
-                        "version": "",
-                        "type": "Single",
-                        "barcode": "607618039462",
-                        "artist": {
-                            "id": "19180",
-                            "name": "Oceansize",
-                            "appearsAs": "Oceansize",
-                            "url": "http://www.7digital.com/artist/oceansize"
-                        },
-                        "url": "http://www.7digital.com/artist/oceansize/release/new-pin-1",
-                        "image": "http://artwork-cdn.7static.com/static/img/sleeveart/00/029/591/0002959123_50.jpg",
-                        "releaseDate": "2006-03-20T00:00:00Z",
-                        "licensor": {
-                            "id": "39"
-                        }
-                    },
-                    "lockerTracks": {
-                        "lockerTrack": {
-                            "track": {
-                                "id": "31536349",
-                                "title": "Superfluous To Requirements",
-                                "version": "",
-                                "artist": {
-                                    "id": "19180",
-                                    "name": "Oceansize",
-                                    "appearsAs": "Oceansize",
-                                    "url": "http://www.7digital.com/artist/oceansize"
-                                },
-                                "trackNumber": "2",
-                                "duration": "352",
-                                "isrc": "GBAZP0500062",
-                                "url": "http://www.7digital.com/artist/oceansize/release/new-pin-1?h=02&d=1"
-                            },
-                            "remainingDownloads": "5",
-                            "purchaseId": "814920242",
-                            "purchaseDate": "2014-11-03T14:20:37Z",
-                            "completeAlbumPurchase": "false",
-                            "downloadUrls": {
-                                "downloadUrl": [
-                                    {
-                                        "url": "http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&oauth_nonce=jabjxkymkqlib3nl&oauth_signature=rylxSJHplfSROjdskx0%2FFrYkjDc%3D&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1415101199&oauth_version=1.0a&formatid=17&partnerid=3923&onbehalfofpartnerid=3923&presigned=1&releaseid=2959123&shopid=0&trackid=31536349&userid=125043073",
-                                        "format": {
-                                            "id": "17",
-                                            "fileFormat": "MP3",
-                                            "bitRate": "320",
-                                            "drmFree": "true"
-                                        }
-                                    },
-                                    {
-                                        "url": "http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&oauth_nonce=gumjd8b618r5tqm2&oauth_signature=l238StpSba8i%2FmFP4YTKEpMzW6o%3D&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1415101199&oauth_version=1.0a&formatid=33&partnerid=3923&onbehalfofpartnerid=3923&presigned=1&releaseid=2959123&shopid=0&trackid=31536349&userid=125043073",
-                                        "format": {
-                                            "id": "33",
-                                            "fileFormat": "AAC",
-                                            "bitRate": "320",
-                                            "drmFree": "true"
-                                        }
-                                    }
-                                ]
-                            }
-                        }
-                    },
-                    "available": "true"
-                }
-            ]
+  "xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+  "xmlns:xsd": "http://www.w3.org/2001/XMLSchema",
+  "status": "ok",
+  "version": "1.2",
+  "xsi:noNamespaceSchemaLocation": "http://api.7digital.com/1.2/static/7digitalAPI.xsd",
+  "locker": {
+    "lockerReleases": {
+      "page": "1",
+      "pageSize": "10",
+      "totalItems": "1",
+      "lockerRelease": [
+        {
+          "release": {
+            "id": "2959123",
+            "title": "New Pin",
+            "version": "",
+            "type": "Single",
+            "barcode": "607618039462",
+            "artist": {
+              "id": "19180",
+              "name": "Oceansize",
+              "appearsAs": "Oceansize",
+              "slug": "oceansize"
+            },
+            "slug": "oceansize",
+            "image": "http://artwork-cdn.7static.com/static/img/sleeveart/00/029/591/0002959123_50.jpg",
+            "releaseDate": "2006-03-20T00:00:00Z",
+            "licensor": {
+              "id": "39"
+            }
+          },
+          "lockerTracks": {
+            "lockerTrack": {
+              "track": {
+                "id": "31536349",
+                "title": "Superfluous To Requirements",
+                "version": "",
+                "artist": {
+                  "id": "19180",
+                  "name": "Oceansize",
+                  "appearsAs": "Oceansize",
+                  "slug": "oceansize"
+                },
+                "trackNumber": "2",
+                "duration": "352",
+                "isrc": "GBAZP0500062",
+                "slug": "oceansize"
+              },
+              "remainingDownloads": "5",
+              "purchaseId": "814920242",
+              "purchaseDate": "2014-11-03T14:20:37Z",
+              "completeAlbumPurchase": "false",
+              "downloadUrls": {
+                "downloadUrl": [
+                  {
+                    "url": "http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&oauth_nonce=jabjxkymkqlib3nl&oauth_signature=rylxSJHplfSROjdskx0%2FFrYkjDc%3D&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1415101199&oauth_version=1.0a&formatid=17&partnerid=3923&onbehalfofpartnerid=3923&presigned=1&releaseid=2959123&shopid=0&trackid=31536349&userid=125043073",
+                    "format": {
+                      "id": "17",
+                      "fileFormat": "MP3",
+                      "bitRate": "320",
+                      "drmFree": "true"
+                    }
+                  },
+                  {
+                    "url": "http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&oauth_nonce=gumjd8b618r5tqm2&oauth_signature=l238StpSba8i%2FmFP4YTKEpMzW6o%3D&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1415101199&oauth_version=1.0a&formatid=33&partnerid=3923&onbehalfofpartnerid=3923&presigned=1&releaseid=2959123&shopid=0&trackid=31536349&userid=125043073",
+                    "format": {
+                      "id": "33",
+                      "fileFormat": "AAC",
+                      "bitRate": "320",
+                      "drmFree": "true"
+                    }
+                  }
+                ]
+              }
+            }
+          },
+          "available": "true"
         }
+      ]
     }
+  }
 }

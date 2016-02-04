@@ -1,1030 +1,740 @@
 <?xml version="1.0" encoding="utf-8"?>
 <response xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" status="ok" version="1.2" xsi:noNamespaceSchemaLocation="http://api.7digital.com/1.2/static/7digitalAPI.xsd">
-	<releases>
-		<page>1</page>
-		<pageSize>18</pageSize>
-		<totalItems>18</totalItems>
-		<release id="2970163">
-			<title>Metallica Through The Never</title>
-			<version>Music From The Motion Picture</version>
-			<type>Album</type>
-			<barcode>00602537507894</barcode>
-			<year>2014</year>
-			<explicitContent>false</explicitContent>
-			<artist id="27920">
-				<name>Metallica</name>
-				<appearsAs>Metallica</appearsAs>
-				<url>http://www.7digital.com/artist/metallica/?partner=3923</url>
-			</artist>
-			<url>http://www.7digital.com/artist/metallica/release/metallica-through-the-never/?partner=3923</url>
-			<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/029/701/0002970163_50.jpg</image>
-			<releaseDate>2013-09-30T00:00:00+01:00</releaseDate>
-			<price>
-				<currency code="GBP">£</currency>
-				<value>9.99</value>
-				<formattedPrice>£9.99</formattedPrice>
-				<rrp>9.99</rrp>
-				<formattedRrp>£9.99</formattedRrp>
-				<onSale>false</onSale>
-			</price>
-			<download>
-				<packages>
-					<package id="2">
-						<description>standard</description>
-						<price>
-							<currencyCode>GBP</currencyCode>
-							<sevendigitalPrice>9.99</sevendigitalPrice>
-							<recommendedRetailPrice>9.99</recommendedRetailPrice>
-						</price>
-						<formats>
-							<format id="17">
-								<description>MP3 320</description>
-							</format>
-						</formats>
-					</package>
-				</packages>
-			</download>
-			<formats availableDrmFree="true">
-				<format id="17">
-					<fileFormat>MP3</fileFormat>
-					<bitRate>320</bitRate>
-					<drmFree>true</drmFree>
-				</format>
-			</formats>
-			<label id="321760">
-				<name>Digital Distribution Saudi Arabia</name>
-			</label>
-			<popularity>0.42</popularity>
-			<streamingReleaseDate>3001-01-01T00:00:00+00:00</streamingReleaseDate>
-			<duration>6066</duration>
-			<trackCount>16</trackCount>
-		</release>
-		<release id="2892181">
-			<title>Live Sh*t: Binge &amp; Purge</title>
-			<version>Live In Mexico City</version>
-			<type>Album</type>
-			<barcode>00602537525898</barcode>
-			<year>2014</year>
-			<explicitContent>true</explicitContent>
-			<artist id="27920">
-				<name>Metallica</name>
-				<appearsAs>Metallica</appearsAs>
-				<url>http://www.7digital.com/artist/metallica/?partner=3923</url>
-			</artist>
-			<url>http://www.7digital.com/artist/metallica/release/live-sh-t-binge-and-purge/?partner=3923</url>
-			<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/028/921/0002892181_50.jpg</image>
-			<releaseDate>2013-08-12T00:00:00+01:00</releaseDate>
-			<price>
-				<currency code="GBP">£</currency>
-				<value>10.99</value>
-				<formattedPrice>£10.99</formattedPrice>
-				<rrp>10.99</rrp>
-				<formattedRrp>£10.99</formattedRrp>
-				<onSale>false</onSale>
-			</price>
-			<download>
-				<packages>
-					<package id="2">
-						<description>standard</description>
-						<price>
-							<currencyCode>GBP</currencyCode>
-							<sevendigitalPrice>10.99</sevendigitalPrice>
-							<recommendedRetailPrice>10.99</recommendedRetailPrice>
-						</price>
-						<formats>
-							<format id="17">
-								<description>MP3 320</description>
-							</format>
-						</formats>
-					</package>
-				</packages>
-			</download>
-			<formats availableDrmFree="true">
-				<format id="17">
-					<fileFormat>MP3</fileFormat>
-					<bitRate>320</bitRate>
-					<drmFree>true</drmFree>
-				</format>
-			</formats>
-			<label id="20348">
-				<name>Universal Music GmbH</name>
-			</label>
-			<popularity>0.39</popularity>
-			<streamingReleaseDate>3001-01-01T00:00:00+00:00</streamingReleaseDate>
-			<duration>10630</duration>
-			<trackCount>24</trackCount>
-		</release>
-		<release id="1524286">
-			<title>Beyond Magnetic</title>
-			<version/>
-			<type>Album</type>
-			<barcode>00602527935188</barcode>
-			<year>2014</year>
-			<explicitContent>false</explicitContent>
-			<artist id="27920">
-				<name>Metallica</name>
-				<appearsAs>Metallica</appearsAs>
-				<url>http://www.7digital.com/artist/metallica/?partner=3923</url>
-			</artist>
-			<url>http://www.7digital.com/artist/metallica/release/beyond-magnetic/?partner=3923</url>
-			<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/015/242/0001524286_50.jpg</image>
-			<releaseDate>2011-12-14T00:00:00+00:00</releaseDate>
-			<price>
-				<currency code="GBP">£</currency>
-				<value>3.49</value>
-				<formattedPrice>£3.49</formattedPrice>
-				<rrp>3.49</rrp>
-				<formattedRrp>£3.49</formattedRrp>
-				<onSale>false</onSale>
-			</price>
-			<download>
-				<packages>
-					<package id="2">
-						<description>standard</description>
-						<price>
-							<currencyCode>GBP</currencyCode>
-							<sevendigitalPrice>3.49</sevendigitalPrice>
-							<recommendedRetailPrice>3.49</recommendedRetailPrice>
-						</price>
-						<formats>
-							<format id="17">
-								<description>MP3 320</description>
-							</format>
-						</formats>
-					</package>
-				</packages>
-			</download>
-			<formats availableDrmFree="true">
-				<format id="17">
-					<fileFormat>MP3</fileFormat>
-					<bitRate>320</bitRate>
-					<drmFree>true</drmFree>
-				</format>
-			</formats>
-			<label id="20348">
-				<name>Universal Music GmbH</name>
-			</label>
-			<popularity>0.6</popularity>
-			<streamingReleaseDate>3001-01-01T00:00:00+00:00</streamingReleaseDate>
-			<duration>1750</duration>
-			<trackCount>4</trackCount>
-		</release>
-		<release id="455051">
-			<title>The Metallica Collection</title>
-			<version/>
-			<type>Album</type>
-			<barcode>00602527022192</barcode>
-			<year>1984</year>
-			<explicitContent>false</explicitContent>
-			<artist id="27920">
-				<name>Metallica</name>
-				<appearsAs>Metallica</appearsAs>
-				<url>http://www.7digital.com/artist/metallica/?partner=3923</url>
-			</artist>
-			<url>http://www.7digital.com/artist/metallica/release/the-metallica-collection/?partner=3923</url>
-			<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/004/550/0000455051_50.jpg</image>
-			<releaseDate>2009-04-14T00:00:00+01:00</releaseDate>
-			<price>
-				<currency code="GBP">£</currency>
-				<value>75.99</value>
-				<formattedPrice>£75.99</formattedPrice>
-				<rrp>75.99</rrp>
-				<formattedRrp>£75.99</formattedRrp>
-				<onSale>false</onSale>
-			</price>
-			<download>
-				<packages>
-					<package id="2">
-						<description>standard</description>
-						<price>
-							<currencyCode>GBP</currencyCode>
-							<sevendigitalPrice>75.99</sevendigitalPrice>
-							<recommendedRetailPrice>75.99</recommendedRetailPrice>
-						</price>
-						<formats>
-							<format id="17">
-								<description>MP3 320</description>
-							</format>
-						</formats>
-					</package>
-				</packages>
-			</download>
-			<formats availableDrmFree="true">
-				<format id="17">
-					<fileFormat>MP3</fileFormat>
-					<bitRate>320</bitRate>
-					<drmFree>true</drmFree>
-				</format>
-			</formats>
-			<label id="149943">
-				<name>Universal Music (Pty) Ltd.</name>
-			</label>
-			<popularity>0.38</popularity>
-			<streamingReleaseDate>3001-01-01T00:00:00+00:00</streamingReleaseDate>
-			<duration>58076</duration>
-			<trackCount>162</trackCount>
-		</release>
-		<release id="411463">
-			<title>Broken, Beat &amp; Scarred</title>
-			<version>UK Version (Live)</version>
-			<type>Single</type>
-			<barcode>00602527046440</barcode>
-			<year>2008</year>
-			<explicitContent>false</explicitContent>
-			<artist id="27920">
-				<name>Metallica</name>
-				<appearsAs>Metallica</appearsAs>
-				<url>http://www.7digital.com/artist/metallica/?partner=3923</url>
-			</artist>
-			<url>http://www.7digital.com/artist/metallica/release/broken-beat-and-scarred-1/?partner=3923</url>
-			<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/004/114/0000411463_50.jpg</image>
-			<releaseDate>2009-04-03T00:00:00+01:00</releaseDate>
-			<price>
-				<currency code="GBP">£</currency>
-				<value>3.96</value>
-				<formattedPrice>£3.96</formattedPrice>
-				<rrp>3.99</rrp>
-				<formattedRrp>£3.99</formattedRrp>
-				<onSale>true</onSale>
-			</price>
-			<download>
-				<packages>
-					<package id="2">
-						<description>standard</description>
-						<price>
-							<currencyCode>GBP</currencyCode>
-							<sevendigitalPrice>3.96</sevendigitalPrice>
-							<recommendedRetailPrice>3.99</recommendedRetailPrice>
-						</price>
-						<formats>
-							<format id="17">
-								<description>MP3 320</description>
-							</format>
-						</formats>
-					</package>
-				</packages>
-			</download>
-			<formats availableDrmFree="true">
-				<format id="17">
-					<fileFormat>MP3</fileFormat>
-					<bitRate>320</bitRate>
-					<drmFree>true</drmFree>
-				</format>
-			</formats>
-			<label id="3309">
-				<name>Universal Music Ireland Ltd.</name>
-			</label>
-			<popularity>0.4</popularity>
-			<streamingReleaseDate>3001-01-01T00:00:00+00:00</streamingReleaseDate>
-			<duration>1415</duration>
-			<trackCount>4</trackCount>
-		</release>
-		<release id="416822">
-			<title>Broken, Beat &amp; Scarred</title>
-			<version>UK Version (Live)</version>
-			<type>Album</type>
-			<barcode>00602527043524</barcode>
-			<year>2014</year>
-			<explicitContent>false</explicitContent>
-			<artist id="27920">
-				<name>Metallica</name>
-				<appearsAs>Metallica</appearsAs>
-				<url>http://www.7digital.com/artist/metallica/?partner=3923</url>
-			</artist>
-			<url>http://www.7digital.com/artist/metallica/release/broken-beat-and-scarred-2/?partner=3923</url>
-			<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/004/168/0000416822_50.jpg</image>
-			<releaseDate>2009-04-03T00:00:00+01:00</releaseDate>
-			<price>
-				<currency code="GBP">£</currency>
-				<value>3.99</value>
-				<formattedPrice>£3.99</formattedPrice>
-				<rrp>3.99</rrp>
-				<formattedRrp>£3.99</formattedRrp>
-				<onSale>false</onSale>
-			</price>
-			<download>
-				<packages>
-					<package id="2">
-						<description>standard</description>
-						<price>
-							<currencyCode>GBP</currencyCode>
-							<sevendigitalPrice>3.99</sevendigitalPrice>
-							<recommendedRetailPrice>3.99</recommendedRetailPrice>
-						</price>
-						<formats>
-							<format id="17">
-								<description>MP3 320</description>
-							</format>
-							<format id="21">
-								<description>MP4 0</description>
-							</format>
-							<format id="4">
-								<description>WMV 0</description>
-							</format>
-							<format id="9">
-								<description>MP4 0</description>
-							</format>
-							<format id="13">
-								<description>WMV 0</description>
-							</format>
-						</formats>
-					</package>
-				</packages>
-			</download>
-			<formats availableDrmFree="true">
-				<format id="17">
-					<fileFormat>MP3</fileFormat>
-					<bitRate>320</bitRate>
-					<drmFree>true</drmFree>
-				</format>
-				<format id="21">
-					<fileFormat>MP4</fileFormat>
-					<bitRate>0</bitRate>
-					<drmFree>true</drmFree>
-				</format>
-				<format id="4">
-					<fileFormat>WMV</fileFormat>
-					<bitRate>0</bitRate>
-					<drmFree>false</drmFree>
-				</format>
-				<format id="9">
-					<fileFormat>MP4</fileFormat>
-					<bitRate>0</bitRate>
-					<drmFree>true</drmFree>
-				</format>
-				<format id="13">
-					<fileFormat>WMV</fileFormat>
-					<bitRate>0</bitRate>
-					<drmFree>false</drmFree>
-				</format>
-			</formats>
-			<label id="199682">
-				<name>Virgin EMI</name>
-			</label>
-			<popularity>0.51</popularity>
-			<streamingReleaseDate>3001-01-01T00:00:00+00:00</streamingReleaseDate>
-			<duration>1797</duration>
-			<trackCount>5</trackCount>
-		</release>
-		<release id="445220">
-			<title>All Nightmare Long</title>
-			<version>CD Maxi Single</version>
-			<type>Album</type>
-			<barcode>00602517942165</barcode>
-			<year>2004</year>
-			<explicitContent>false</explicitContent>
-			<artist id="27920">
-				<name>Metallica</name>
-				<appearsAs>Metallica</appearsAs>
-				<url>http://www.7digital.com/artist/metallica/?partner=3923</url>
-			</artist>
-			<url>http://www.7digital.com/artist/metallica/release/all-nightmare-long-4/?partner=3923</url>
-			<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/004/452/0000445220_50.jpg</image>
-			<releaseDate>2008-12-15T00:00:00+00:00</releaseDate>
-			<price>
-				<currency code="GBP">£</currency>
-				<value>3.96</value>
-				<formattedPrice>£3.96</formattedPrice>
-				<rrp>7.99</rrp>
-				<formattedRrp>£7.99</formattedRrp>
-				<onSale>true</onSale>
-			</price>
-			<download>
-				<packages>
-					<package id="2">
-						<description>standard</description>
-						<price>
-							<currencyCode>GBP</currencyCode>
-							<sevendigitalPrice>3.96</sevendigitalPrice>
-							<recommendedRetailPrice>7.99</recommendedRetailPrice>
-						</price>
-						<formats>
-							<format id="17">
-								<description>MP3 320</description>
-							</format>
-						</formats>
-					</package>
-				</packages>
-			</download>
-			<formats availableDrmFree="true">
-				<format id="17">
-					<fileFormat>MP3</fileFormat>
-					<bitRate>320</bitRate>
-					<drmFree>true</drmFree>
-				</format>
-			</formats>
-			<label id="149943">
-				<name>Universal Music (Pty) Ltd.</name>
-			</label>
-			<popularity>0.39</popularity>
-			<streamingReleaseDate>3001-01-01T00:00:00+00:00</streamingReleaseDate>
-			<duration>1833</duration>
-			<trackCount>4</trackCount>
-		</release>
-		<release id="278687">
-			<title>Death Magnetic</title>
-			<version/>
-			<type>Album</type>
-			<barcode>00602517737303</barcode>
-			<year>2014</year>
-			<explicitContent>false</explicitContent>
-			<artist id="27920">
-				<name>Metallica</name>
-				<appearsAs>Metallica</appearsAs>
-				<url>http://www.7digital.com/artist/metallica/?partner=3923</url>
-			</artist>
-			<url>http://www.7digital.com/artist/metallica/release/death-magnetic-1/?partner=3923</url>
-			<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/002/786/0000278687_50.jpg</image>
-			<releaseDate>2008-09-12T00:00:00+01:00</releaseDate>
-			<price>
-				<currency code="GBP">£</currency>
-				<value>8.99</value>
-				<formattedPrice>£8.99</formattedPrice>
-				<rrp>8.99</rrp>
-				<formattedRrp>£8.99</formattedRrp>
-				<onSale>false</onSale>
-			</price>
-			<download>
-				<packages>
-					<package id="2">
-						<description>standard</description>
-						<price>
-							<currencyCode>GBP</currencyCode>
-							<sevendigitalPrice>8.99</sevendigitalPrice>
-							<recommendedRetailPrice>8.99</recommendedRetailPrice>
-						</price>
-						<formats>
-							<format id="17">
-								<description>MP3 320</description>
-							</format>
-						</formats>
-					</package>
-				</packages>
-			</download>
-			<formats availableDrmFree="true">
-				<format id="17">
-					<fileFormat>MP3</fileFormat>
-					<bitRate>320</bitRate>
-					<drmFree>true</drmFree>
-				</format>
-			</formats>
-			<label id="149943">
-				<name>Universal Music (Pty) Ltd.</name>
-			</label>
-			<popularity>0.55</popularity>
-			<streamingReleaseDate>3001-01-01T00:00:00+00:00</streamingReleaseDate>
-			<duration>4481</duration>
-			<trackCount>10</trackCount>
-		</release>
-		<release id="1002756">
-			<title>The Judas Kiss</title>
-			<version>[Blank]</version>
-			<type>Single</type>
-			<barcode>00602517851641</barcode>
-			<year>2014</year>
-			<explicitContent>false</explicitContent>
-			<artist id="27920">
-				<name>Metallica</name>
-				<appearsAs>Metallica</appearsAs>
-				<url>http://www.7digital.com/artist/metallica/?partner=3923</url>
-			</artist>
-			<url>http://www.7digital.com/artist/metallica/release/the-judas-kiss/?partner=3923</url>
-			<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/010/027/0001002756_50.jpg</image>
-			<releaseDate>2008-09-09T00:00:00+01:00</releaseDate>
-			<price>
-				<currency code="GBP">£</currency>
-				<value>0.99</value>
-				<formattedPrice>£0.99</formattedPrice>
-				<rrp xsi:nil="true"/>
-				<formattedRrp>N/A</formattedRrp>
-				<onSale>false</onSale>
-			</price>
-			<download>
-				<packages>
-					<package id="2">
-						<description>standard</description>
-						<price>
-							<currencyCode>GBP</currencyCode>
-							<sevendigitalPrice>0.99</sevendigitalPrice>
-							<recommendedRetailPrice xsi:nil="true"/>
-						</price>
-						<formats>
-							<format id="17">
-								<description>MP3 320</description>
-							</format>
-						</formats>
-					</package>
-				</packages>
-			</download>
-			<formats availableDrmFree="true">
-				<format id="17">
-					<fileFormat>MP3</fileFormat>
-					<bitRate>320</bitRate>
-					<drmFree>true</drmFree>
-				</format>
-			</formats>
-			<label id="25942">
-				<name>Universal Music AB</name>
-			</label>
-			<popularity>0.49</popularity>
-			<streamingReleaseDate>3001-01-01T00:00:00+00:00</streamingReleaseDate>
-			<duration>481</duration>
-			<trackCount>1</trackCount>
-		</release>
-		<release id="1001583">
-			<title>Cyanide</title>
-			<version>[Blank]</version>
-			<type>Single</type>
-			<barcode>00602517851634</barcode>
-			<year>2014</year>
-			<explicitContent>false</explicitContent>
-			<artist id="27920">
-				<name>Metallica</name>
-				<appearsAs>Metallica</appearsAs>
-				<url>http://www.7digital.com/artist/metallica/?partner=3923</url>
-			</artist>
-			<url>http://www.7digital.com/artist/metallica/release/cyanide/?partner=3923</url>
-			<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/010/015/0001001583_50.jpg</image>
-			<releaseDate>2008-09-02T00:00:00+01:00</releaseDate>
-			<price>
-				<currency code="GBP">£</currency>
-				<value>0.99</value>
-				<formattedPrice>£0.99</formattedPrice>
-				<rrp xsi:nil="true"/>
-				<formattedRrp>N/A</formattedRrp>
-				<onSale>false</onSale>
-			</price>
-			<download>
-				<packages>
-					<package id="2">
-						<description>standard</description>
-						<price>
-							<currencyCode>GBP</currencyCode>
-							<sevendigitalPrice>0.99</sevendigitalPrice>
-							<recommendedRetailPrice xsi:nil="true"/>
-						</price>
-						<formats>
-							<format id="17">
-								<description>MP3 320</description>
-							</format>
-						</formats>
-					</package>
-				</packages>
-			</download>
-			<formats availableDrmFree="true">
-				<format id="17">
-					<fileFormat>MP3</fileFormat>
-					<bitRate>320</bitRate>
-					<drmFree>true</drmFree>
-				</format>
-			</formats>
-			<label id="25942">
-				<name>Universal Music AB</name>
-			</label>
-			<popularity>0.5</popularity>
-			<streamingReleaseDate>3001-01-01T00:00:00+00:00</streamingReleaseDate>
-			<duration>400</duration>
-			<trackCount>1</trackCount>
-		</release>
-		<release id="1301457">
-			<title>My Apocalypse</title>
-			<version>[Blank]</version>
-			<type>Single</type>
-			<barcode>00602517851627</barcode>
-			<year>2014</year>
-			<explicitContent>false</explicitContent>
-			<artist id="27920">
-				<name>Metallica</name>
-				<appearsAs>Metallica</appearsAs>
-				<url>http://www.7digital.com/artist/metallica/?partner=3923</url>
-			</artist>
-			<url>http://www.7digital.com/artist/metallica/release/my-apocalypse/?partner=3923</url>
-			<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/013/014/0001301457_50.jpg</image>
-			<releaseDate>2008-08-26T00:00:00+01:00</releaseDate>
-			<price>
-				<currency code="GBP">£</currency>
-				<value>0.99</value>
-				<formattedPrice>£0.99</formattedPrice>
-				<rrp xsi:nil="true"/>
-				<formattedRrp>N/A</formattedRrp>
-				<onSale>false</onSale>
-			</price>
-			<download>
-				<packages>
-					<package id="2">
-						<description>standard</description>
-						<price>
-							<currencyCode>GBP</currencyCode>
-							<sevendigitalPrice>0.99</sevendigitalPrice>
-							<recommendedRetailPrice xsi:nil="true"/>
-						</price>
-						<formats>
-							<format id="17">
-								<description>MP3 320</description>
-							</format>
-						</formats>
-					</package>
-				</packages>
-			</download>
-			<formats availableDrmFree="true">
-				<format id="17">
-					<fileFormat>MP3</fileFormat>
-					<bitRate>320</bitRate>
-					<drmFree>true</drmFree>
-				</format>
-			</formats>
-			<label id="133168">
-				<name>Universal Music Romania</name>
-			</label>
-			<popularity>0.5</popularity>
-			<streamingReleaseDate>3001-01-01T00:00:00+00:00</streamingReleaseDate>
-			<duration>301</duration>
-			<trackCount>1</trackCount>
-		</release>
-		<release id="314503">
-			<title>The Day That Never Comes</title>
-			<version>eSingle</version>
-			<type>Single</type>
-			<barcode>00602517850774</barcode>
-			<year>2006</year>
-			<explicitContent>false</explicitContent>
-			<artist id="27920">
-				<name>Metallica</name>
-				<appearsAs>Metallica</appearsAs>
-				<url>http://www.7digital.com/artist/metallica/?partner=3923</url>
-			</artist>
-			<url>http://www.7digital.com/artist/metallica/release/the-day-that-never-comes-1/?partner=3923</url>
-			<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/003/145/0000314503_50.jpg</image>
-			<releaseDate>2008-08-22T00:00:00+01:00</releaseDate>
-			<price>
-				<currency code="GBP">£</currency>
-				<value>0.99</value>
-				<formattedPrice>£0.99</formattedPrice>
-				<rrp xsi:nil="true"/>
-				<formattedRrp>N/A</formattedRrp>
-				<onSale>false</onSale>
-			</price>
-			<download>
-				<packages>
-					<package id="2">
-						<description>standard</description>
-						<price>
-							<currencyCode>GBP</currencyCode>
-							<sevendigitalPrice>0.99</sevendigitalPrice>
-							<recommendedRetailPrice xsi:nil="true"/>
-						</price>
-						<formats>
-							<format id="17">
-								<description>MP3 320</description>
-							</format>
-						</formats>
-					</package>
-				</packages>
-			</download>
-			<formats availableDrmFree="true">
-				<format id="17">
-					<fileFormat>MP3</fileFormat>
-					<bitRate>320</bitRate>
-					<drmFree>true</drmFree>
-				</format>
-			</formats>
-			<label id="201064">
-				<name>Minos - EMI SA</name>
-			</label>
-			<popularity>0.43</popularity>
-			<streamingReleaseDate>3001-01-01T00:00:00+00:00</streamingReleaseDate>
-			<duration>477</duration>
-			<trackCount>1</trackCount>
-		</release>
-		<release id="311757">
-			<title>Some Kind Of Monster</title>
-			<version/>
-			<type>Album</type>
-			<barcode>00602498678107</barcode>
-			<year>1984</year>
-			<explicitContent>true</explicitContent>
-			<artist id="27920">
-				<name>Metallica</name>
-				<appearsAs>Metallica</appearsAs>
-				<url>http://www.7digital.com/artist/metallica/?partner=3923</url>
-			</artist>
-			<url>http://www.7digital.com/artist/metallica/release/some-kind-of-monster/?partner=3923</url>
-			<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/003/117/0000311757_50.jpg</image>
-			<releaseDate>2008-08-18T00:00:00+01:00</releaseDate>
-			<price>
-				<currency code="GBP">£</currency>
-				<value>5.99</value>
-				<formattedPrice>£5.99</formattedPrice>
-				<rrp>5.99</rrp>
-				<formattedRrp>£5.99</formattedRrp>
-				<onSale>false</onSale>
-			</price>
-			<download>
-				<packages>
-					<package id="2">
-						<description>standard</description>
-						<price>
-							<currencyCode>GBP</currencyCode>
-							<sevendigitalPrice>5.99</sevendigitalPrice>
-							<recommendedRetailPrice>5.99</recommendedRetailPrice>
-						</price>
-						<formats>
-							<format id="17">
-								<description>MP3 320</description>
-							</format>
-						</formats>
-					</package>
-				</packages>
-			</download>
-			<formats availableDrmFree="true">
-				<format id="17">
-					<fileFormat>MP3</fileFormat>
-					<bitRate>320</bitRate>
-					<drmFree>true</drmFree>
-				</format>
-			</formats>
-			<label id="149943">
-				<name>Universal Music (Pty) Ltd.</name>
-			</label>
-			<popularity>0.37</popularity>
-			<streamingReleaseDate>3001-01-01T00:00:00+00:00</streamingReleaseDate>
-			<duration>2592</duration>
-			<trackCount>8</trackCount>
-		</release>
-		<release id="38952">
-			<title>Kill 'Em All</title>
-			<version/>
-			<type>Album</type>
-			<barcode>00602517054660</barcode>
-			<year>2014</year>
-			<explicitContent>false</explicitContent>
-			<artist id="27920">
-				<name>Metallica</name>
-				<appearsAs>Metallica</appearsAs>
-				<url>http://www.7digital.com/artist/metallica/?partner=3923</url>
-			</artist>
-			<url>http://www.7digital.com/artist/metallica/release/kill-em-all-uk-version/?partner=3923</url>
-			<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/000/389/0000038952_50.jpg</image>
-			<releaseDate>2008-08-18T00:00:00+01:00</releaseDate>
-			<price>
-				<currency code="GBP">£</currency>
-				<value>8.99</value>
-				<formattedPrice>£8.99</formattedPrice>
-				<rrp>8.99</rrp>
-				<formattedRrp>£8.99</formattedRrp>
-				<onSale>false</onSale>
-			</price>
-			<download>
-				<packages>
-					<package id="2">
-						<description>standard</description>
-						<price>
-							<currencyCode>GBP</currencyCode>
-							<sevendigitalPrice>8.99</sevendigitalPrice>
-							<recommendedRetailPrice>8.99</recommendedRetailPrice>
-						</price>
-						<formats>
-							<format id="17">
-								<description>MP3 320</description>
-							</format>
-						</formats>
-					</package>
-				</packages>
-			</download>
-			<formats availableDrmFree="true">
-				<format id="17">
-					<fileFormat>MP3</fileFormat>
-					<bitRate>320</bitRate>
-					<drmFree>true</drmFree>
-				</format>
-			</formats>
-			<label id="149943">
-				<name>Universal Music (Pty) Ltd.</name>
-			</label>
-			<popularity>0.56</popularity>
-			<streamingReleaseDate>3001-01-01T00:00:00+00:00</streamingReleaseDate>
-			<duration>3670</duration>
-			<trackCount>12</trackCount>
-		</release>
-		<release id="38953">
-			<title>Ride The Lightning</title>
-			<version/>
-			<type>Album</type>
-			<barcode>00602517054677</barcode>
-			<year>2014</year>
-			<explicitContent>false</explicitContent>
-			<artist id="27920">
-				<name>Metallica</name>
-				<appearsAs>Metallica</appearsAs>
-				<url>http://www.7digital.com/artist/metallica/?partner=3923</url>
-			</artist>
-			<url>http://www.7digital.com/artist/metallica/release/ride-the-lightning-uk-version/?partner=3923</url>
-			<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/000/389/0000038953_50.jpg</image>
-			<releaseDate>2008-08-18T00:00:00+01:00</releaseDate>
-			<price>
-				<currency code="GBP">£</currency>
-				<value>7.99</value>
-				<formattedPrice>£7.99</formattedPrice>
-				<rrp>7.99</rrp>
-				<formattedRrp>£7.99</formattedRrp>
-				<onSale>false</onSale>
-			</price>
-			<download>
-				<packages>
-					<package id="2">
-						<description>standard</description>
-						<price>
-							<currencyCode>GBP</currencyCode>
-							<sevendigitalPrice>7.99</sevendigitalPrice>
-							<recommendedRetailPrice>7.99</recommendedRetailPrice>
-						</price>
-						<formats>
-							<format id="17">
-								<description>MP3 320</description>
-							</format>
-						</formats>
-					</package>
-				</packages>
-			</download>
-			<formats availableDrmFree="true">
-				<format id="17">
-					<fileFormat>MP3</fileFormat>
-					<bitRate>320</bitRate>
-					<drmFree>true</drmFree>
-				</format>
-			</formats>
-			<label id="149943">
-				<name>Universal Music (Pty) Ltd.</name>
-			</label>
-			<popularity>0.62</popularity>
-			<streamingReleaseDate>3001-01-01T00:00:00+00:00</streamingReleaseDate>
-			<duration>3675</duration>
-			<trackCount>10</trackCount>
-		</release>
-		<release id="38956">
-			<title>Master Of Puppets</title>
-			<version/>
-			<type>Album</type>
-			<barcode>00602517055001</barcode>
-			<year>2014</year>
-			<explicitContent>false</explicitContent>
-			<artist id="27920">
-				<name>Metallica</name>
-				<appearsAs>Metallica</appearsAs>
-				<url>http://www.7digital.com/artist/metallica/?partner=3923</url>
-			</artist>
-			<url>http://www.7digital.com/artist/metallica/release/master-of-puppets-uk-version/?partner=3923</url>
-			<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/000/389/0000038956_50.jpg</image>
-			<releaseDate>2008-08-18T00:00:00+01:00</releaseDate>
-			<price>
-				<currency code="GBP">£</currency>
-				<value>8.99</value>
-				<formattedPrice>£8.99</formattedPrice>
-				<rrp>8.99</rrp>
-				<formattedRrp>£8.99</formattedRrp>
-				<onSale>false</onSale>
-			</price>
-			<download>
-				<packages>
-					<package id="2">
-						<description>standard</description>
-						<price>
-							<currencyCode>GBP</currencyCode>
-							<sevendigitalPrice>8.99</sevendigitalPrice>
-							<recommendedRetailPrice>8.99</recommendedRetailPrice>
-						</price>
-						<formats>
-							<format id="17">
-								<description>MP3 320</description>
-							</format>
-						</formats>
-					</package>
-				</packages>
-			</download>
-			<formats availableDrmFree="true">
-				<format id="17">
-					<fileFormat>MP3</fileFormat>
-					<bitRate>320</bitRate>
-					<drmFree>true</drmFree>
-				</format>
-			</formats>
-			<label id="149943">
-				<name>Universal Music (Pty) Ltd.</name>
-			</label>
-			<popularity>0.66</popularity>
-			<streamingReleaseDate>3001-01-01T00:00:00+00:00</streamingReleaseDate>
-			<duration>4002</duration>
-			<trackCount>10</trackCount>
-		</release>
-		<release id="307561">
-			<title>I Disappear</title>
-			<version>Single</version>
-			<type>Single</type>
-			<barcode>00602517839342</barcode>
-			<year>2001</year>
-			<explicitContent>false</explicitContent>
-			<artist id="27920">
-				<name>Metallica</name>
-				<appearsAs>Metallica</appearsAs>
-				<url>http://www.7digital.com/artist/metallica/?partner=3923</url>
-			</artist>
-			<url>http://www.7digital.com/artist/metallica/release/i-disappear-1/?partner=3923</url>
-			<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/003/075/0000307561_50.jpg</image>
-			<releaseDate>2008-08-18T00:00:00+01:00</releaseDate>
-			<price>
-				<currency code="GBP">£</currency>
-				<value>0.99</value>
-				<formattedPrice>£0.99</formattedPrice>
-				<rrp xsi:nil="true"/>
-				<formattedRrp>N/A</formattedRrp>
-				<onSale>false</onSale>
-			</price>
-			<download>
-				<packages>
-					<package id="2">
-						<description>standard</description>
-						<price>
-							<currencyCode>GBP</currencyCode>
-							<sevendigitalPrice>0.99</sevendigitalPrice>
-							<recommendedRetailPrice xsi:nil="true"/>
-						</price>
-						<formats>
-							<format id="17">
-								<description>MP3 320</description>
-							</format>
-						</formats>
-					</package>
-				</packages>
-			</download>
-			<formats availableDrmFree="true">
-				<format id="17">
-					<fileFormat>MP3</fileFormat>
-					<bitRate>320</bitRate>
-					<drmFree>true</drmFree>
-				</format>
-			</formats>
-			<label id="20348">
-				<name>Universal Music GmbH</name>
-			</label>
-			<popularity>0.43</popularity>
-			<streamingReleaseDate>3001-01-01T00:00:00+00:00</streamingReleaseDate>
-			<duration>266</duration>
-			<trackCount>1</trackCount>
-		</release>
-		<release id="309639">
-			<title>Metallica</title>
-			<version>Live Earth</version>
-			<type>Single</type>
-			<barcode>00602517436237</barcode>
-			<year>2014</year>
-			<explicitContent>false</explicitContent>
-			<artist id="27920">
-				<name>Metallica</name>
-				<appearsAs>Metallica</appearsAs>
-				<url>http://www.7digital.com/artist/metallica/?partner=3923</url>
-			</artist>
-			<url>http://www.7digital.com/artist/metallica/release/metallica-1/?partner=3923</url>
-			<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/003/096/0000309639_50.jpg</image>
-			<releaseDate>2008-08-18T00:00:00+01:00</releaseDate>
-			<price>
-				<currency code="GBP">£</currency>
-				<value>1.99</value>
-				<formattedPrice>£1.99</formattedPrice>
-				<rrp>1.99</rrp>
-				<formattedRrp>£1.99</formattedRrp>
-				<onSale>false</onSale>
-			</price>
-			<download>
-				<packages>
-					<package id="2">
-						<description>standard</description>
-						<price>
-							<currencyCode>GBP</currencyCode>
-							<sevendigitalPrice>1.99</sevendigitalPrice>
-							<recommendedRetailPrice>1.99</recommendedRetailPrice>
-						</price>
-						<formats>
-							<format id="17">
-								<description>MP3 320</description>
-							</format>
-						</formats>
-					</package>
-				</packages>
-			</download>
-			<formats availableDrmFree="true">
-				<format id="17">
-					<fileFormat>MP3</fileFormat>
-					<bitRate>320</bitRate>
-					<drmFree>true</drmFree>
-				</format>
-			</formats>
-			<label id="201064">
-				<name>Minos - EMI SA</name>
-			</label>
-			<popularity>0.6</popularity>
-			<streamingReleaseDate>3001-01-01T00:00:00+00:00</streamingReleaseDate>
-			<duration>1137</duration>
-			<trackCount>3</trackCount>
-		</release>
-	</releases>
+  <releases>
+    <page>1</page>
+    <pageSize>18</pageSize>
+    <totalItems>18</totalItems>
+    <release id="2970163">
+      <title>Metallica Through The Never</title>
+      <version>Music From The Motion Picture</version>
+      <type>Album</type>
+      <barcode>00602537507894</barcode>
+      <year>2014</year>
+      <explicitContent>false</explicitContent>
+      <artist id="27920">
+        <name>Metallica</name>
+        <appearsAs>Metallica</appearsAs>
+        <slug>metallica</slug>
+      </artist>
+      <slug>metallica-through-the-never</slug>
+      <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/029/701/0002970163_50.jpg</image>
+      <download>
+        <releaseDate>2013-09-30T00:00:00+01:00</releaseDate>
+        <packages>
+          <package id="2">
+            <description>standard</description>
+            <price>
+              <currencyCode>GBP</currencyCode>
+              <sevendigitalPrice>9.99</sevendigitalPrice>
+              <recommendedRetailPrice>9.99</recommendedRetailPrice>
+            </price>
+            <formats>
+              <format id="17">
+                <description>MP3 320</description>
+              </format>
+            </formats>
+          </package>
+        </packages>
+      </download>
+      <label id="321760">
+        <name>Digital Distribution Saudi Arabia</name>
+      </label>
+      <popularity>0.42</popularity>
+      <streamingReleaseDate>3001-01-01T00:00:00+00:00</streamingReleaseDate>
+      <duration>6066</duration>
+      <trackCount>16</trackCount>
+    </release>
+    <release id="2892181">
+      <title>Live Sh*t: Binge &amp; Purge</title>
+      <version>Live In Mexico City</version>
+      <type>Album</type>
+      <barcode>00602537525898</barcode>
+      <year>2014</year>
+      <explicitContent>true</explicitContent>
+      <artist id="27920">
+        <name>Metallica</name>
+        <appearsAs>Metallica</appearsAs>
+        <slug>metallica</slug>
+      </artist>
+      <slug>live-sh-t-binge-and-purge</slug>
+      <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/028/921/0002892181_50.jpg</image>
+      <download>
+        <releaseDate>2013-08-12T00:00:00+01:00</releaseDate>
+        <packages>
+          <package id="2">
+            <description>standard</description>
+            <price>
+              <currencyCode>GBP</currencyCode>
+              <sevendigitalPrice>10.99</sevendigitalPrice>
+              <recommendedRetailPrice>10.99</recommendedRetailPrice>
+            </price>
+            <formats>
+              <format id="17">
+                <description>MP3 320</description>
+              </format>
+            </formats>
+          </package>
+        </packages>
+      </download>
+      <label id="20348">
+        <name>Universal Music GmbH</name>
+      </label>
+      <popularity>0.39</popularity>
+      <streamingReleaseDate>3001-01-01T00:00:00+00:00</streamingReleaseDate>
+      <duration>10630</duration>
+      <trackCount>24</trackCount>
+    </release>
+    <release id="1524286">
+      <title>Beyond Magnetic</title>
+      <version/>
+      <type>Album</type>
+      <barcode>00602527935188</barcode>
+      <year>2014</year>
+      <explicitContent>false</explicitContent>
+      <artist id="27920">
+        <name>Metallica</name>
+        <appearsAs>Metallica</appearsAs>
+        <slug>metallica</slug>
+      </artist>
+      <slug>beyond-magnetic</slug>
+      <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/015/242/0001524286_50.jpg</image>
+      <download>
+        <releaseDate>2011-12-14T00:00:00+00:00</releaseDate>
+        <packages>
+          <package id="2">
+            <description>standard</description>
+            <price>
+              <currencyCode>GBP</currencyCode>
+              <sevendigitalPrice>3.49</sevendigitalPrice>
+              <recommendedRetailPrice>3.49</recommendedRetailPrice>
+            </price>
+            <formats>
+              <format id="17">
+                <description>MP3 320</description>
+              </format>
+            </formats>
+          </package>
+        </packages>
+      </download>
+      <label id="20348">
+        <name>Universal Music GmbH</name>
+      </label>
+      <popularity>0.6</popularity>
+      <streamingReleaseDate>3001-01-01T00:00:00+00:00</streamingReleaseDate>
+      <duration>1750</duration>
+      <trackCount>4</trackCount>
+    </release>
+    <release id="455051">
+      <title>The Metallica Collection</title>
+      <version/>
+      <type>Album</type>
+      <barcode>00602527022192</barcode>
+      <year>1984</year>
+      <explicitContent>false</explicitContent>
+      <artist id="27920">
+        <name>Metallica</name>
+        <appearsAs>Metallica</appearsAs>
+        <slug>metallica</slug>
+      </artist>
+      <slug>the-metallica-collection</slug>
+      <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/004/550/0000455051_50.jpg</image>
+      <download>
+        <releaseDate>2009-04-14T00:00:00+01:00</releaseDate>
+        <packages>
+          <package id="2">
+            <description>standard</description>
+            <price>
+              <currencyCode>GBP</currencyCode>
+              <sevendigitalPrice>75.99</sevendigitalPrice>
+              <recommendedRetailPrice>75.99</recommendedRetailPrice>
+            </price>
+            <formats>
+              <format id="17">
+                <description>MP3 320</description>
+              </format>
+            </formats>
+          </package>
+        </packages>
+      </download>
+      <label id="149943">
+        <name>Universal Music (Pty) Ltd.</name>
+      </label>
+      <popularity>0.38</popularity>
+      <streamingReleaseDate>3001-01-01T00:00:00+00:00</streamingReleaseDate>
+      <duration>58076</duration>
+      <trackCount>162</trackCount>
+    </release>
+    <release id="411463">
+      <title>Broken, Beat &amp; Scarred</title>
+      <version>UK Version (Live)</version>
+      <type>Single</type>
+      <barcode>00602527046440</barcode>
+      <year>2008</year>
+      <explicitContent>false</explicitContent>
+      <artist id="27920">
+        <name>Metallica</name>
+        <appearsAs>Metallica</appearsAs>
+        <slug>metallica</slug>
+      </artist>
+      <slug>broken-beat-and-scarred-1</slug>
+      <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/004/114/0000411463_50.jpg</image>
+      <download>
+        <releaseDate>2009-04-03T00:00:00+01:00</releaseDate>
+        <packages>
+          <package id="2">
+            <description>standard</description>
+            <price>
+              <currencyCode>GBP</currencyCode>
+              <sevendigitalPrice>3.96</sevendigitalPrice>
+              <recommendedRetailPrice>3.99</recommendedRetailPrice>
+            </price>
+            <formats>
+              <format id="17">
+                <description>MP3 320</description>
+              </format>
+            </formats>
+          </package>
+        </packages>
+      </download>
+      <label id="3309">
+        <name>Universal Music Ireland Ltd.</name>
+      </label>
+      <popularity>0.4</popularity>
+      <streamingReleaseDate>3001-01-01T00:00:00+00:00</streamingReleaseDate>
+      <duration>1415</duration>
+      <trackCount>4</trackCount>
+    </release>
+    <release id="416822">
+      <title>Broken, Beat &amp; Scarred</title>
+      <version>UK Version (Live)</version>
+      <type>Album</type>
+      <barcode>00602527043524</barcode>
+      <year>2014</year>
+      <explicitContent>false</explicitContent>
+      <artist id="27920">
+        <name>Metallica</name>
+        <appearsAs>Metallica</appearsAs>
+        <slug>metallica</slug>
+      </artist>
+      <slug>broken-beat-and-scarred-2</slug>
+      <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/004/168/0000416822_50.jpg</image>
+      <download>
+        <releaseDate>2009-04-03T00:00:00+01:00</releaseDate>
+        <packages>
+          <package id="2">
+            <description>standard</description>
+            <price>
+              <currencyCode>GBP</currencyCode>
+              <sevendigitalPrice>3.99</sevendigitalPrice>
+              <recommendedRetailPrice>3.99</recommendedRetailPrice>
+            </price>
+            <formats>
+              <format id="17">
+                <description>MP3 320</description>
+              </format>
+              <format id="21">
+                <description>MP4 0</description>
+              </format>
+              <format id="4">
+                <description>WMV 0</description>
+              </format>
+              <format id="9">
+                <description>MP4 0</description>
+              </format>
+              <format id="13">
+                <description>WMV 0</description>
+              </format>
+            </formats>
+          </package>
+        </packages>
+      </download>
+      <label id="199682">
+        <name>Virgin EMI</name>
+      </label>
+      <popularity>0.51</popularity>
+      <streamingReleaseDate>3001-01-01T00:00:00+00:00</streamingReleaseDate>
+      <duration>1797</duration>
+      <trackCount>5</trackCount>
+    </release>
+    <release id="445220">
+      <title>All Nightmare Long</title>
+      <version>CD Maxi Single</version>
+      <type>Album</type>
+      <barcode>00602517942165</barcode>
+      <year>2004</year>
+      <explicitContent>false</explicitContent>
+      <artist id="27920">
+        <name>Metallica</name>
+        <appearsAs>Metallica</appearsAs>
+        <slug>metallica</slug>
+      </artist>
+      <slug>all-nightmare-long-4</slug>
+      <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/004/452/0000445220_50.jpg</image>
+      <download>
+        <releaseDate>2008-12-15T00:00:00+00:00</releaseDate>
+        <packages>
+          <package id="2">
+            <description>standard</description>
+            <price>
+              <currencyCode>GBP</currencyCode>
+              <sevendigitalPrice>3.96</sevendigitalPrice>
+              <recommendedRetailPrice>7.99</recommendedRetailPrice>
+            </price>
+            <formats>
+              <format id="17">
+                <description>MP3 320</description>
+              </format>
+            </formats>
+          </package>
+        </packages>
+      </download>
+      <label id="149943">
+        <name>Universal Music (Pty) Ltd.</name>
+      </label>
+      <popularity>0.39</popularity>
+      <streamingReleaseDate>3001-01-01T00:00:00+00:00</streamingReleaseDate>
+      <duration>1833</duration>
+      <trackCount>4</trackCount>
+    </release>
+    <release id="278687">
+      <title>Death Magnetic</title>
+      <version/>
+      <type>Album</type>
+      <barcode>00602517737303</barcode>
+      <year>2014</year>
+      <explicitContent>false</explicitContent>
+      <artist id="27920">
+        <name>Metallica</name>
+        <appearsAs>Metallica</appearsAs>
+        <slug>metallica</slug>
+      </artist>
+      <slug>death-magnetic-1</slug>
+      <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/002/786/0000278687_50.jpg</image>
+      <download>
+        <releaseDate>2008-09-12T00:00:00+01:00</releaseDate>
+        <packages>
+          <package id="2">
+            <description>standard</description>
+            <price>
+              <currencyCode>GBP</currencyCode>
+              <sevendigitalPrice>8.99</sevendigitalPrice>
+              <recommendedRetailPrice>8.99</recommendedRetailPrice>
+            </price>
+            <formats>
+              <format id="17">
+                <description>MP3 320</description>
+              </format>
+            </formats>
+          </package>
+        </packages>
+      </download>
+      <label id="149943">
+        <name>Universal Music (Pty) Ltd.</name>
+      </label>
+      <popularity>0.55</popularity>
+      <streamingReleaseDate>3001-01-01T00:00:00+00:00</streamingReleaseDate>
+      <duration>4481</duration>
+      <trackCount>10</trackCount>
+    </release>
+    <release id="1002756">
+      <title>The Judas Kiss</title>
+      <version>[Blank]</version>
+      <type>Single</type>
+      <barcode>00602517851641</barcode>
+      <year>2014</year>
+      <explicitContent>false</explicitContent>
+      <artist id="27920">
+        <name>Metallica</name>
+        <appearsAs>Metallica</appearsAs>
+        <slug>metallica</slug>
+      </artist>
+      <slug>the-judas-kiss</slug>
+      <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/010/027/0001002756_50.jpg</image>
+      <download>
+        <releaseDate>2008-09-09T00:00:00+01:00</releaseDate>
+        <packages>
+          <package id="2">
+            <description>standard</description>
+            <price>
+              <currencyCode>GBP</currencyCode>
+              <sevendigitalPrice>0.99</sevendigitalPrice>
+              <recommendedRetailPrice xsi:nil="true"/>
+            </price>
+            <formats>
+              <format id="17">
+                <description>MP3 320</description>
+              </format>
+            </formats>
+          </package>
+        </packages>
+      </download>
+      <label id="25942">
+        <name>Universal Music AB</name>
+      </label>
+      <popularity>0.49</popularity>
+      <streamingReleaseDate>3001-01-01T00:00:00+00:00</streamingReleaseDate>
+      <duration>481</duration>
+      <trackCount>1</trackCount>
+    </release>
+    <release id="1001583">
+      <title>Cyanide</title>
+      <version>[Blank]</version>
+      <type>Single</type>
+      <barcode>00602517851634</barcode>
+      <year>2014</year>
+      <explicitContent>false</explicitContent>
+      <artist id="27920">
+        <name>Metallica</name>
+        <appearsAs>Metallica</appearsAs>
+        <slug>metallica</slug>
+      </artist>
+      <slug>cyanide</slug>
+      <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/010/015/0001001583_50.jpg</image>
+      <download>
+        <releaseDate>2008-09-02T00:00:00+01:00</releaseDate>
+        <packages>
+          <package id="2">
+            <description>standard</description>
+            <price>
+              <currencyCode>GBP</currencyCode>
+              <sevendigitalPrice>0.99</sevendigitalPrice>
+              <recommendedRetailPrice xsi:nil="true"/>
+            </price>
+            <formats>
+              <format id="17">
+                <description>MP3 320</description>
+              </format>
+            </formats>
+          </package>
+        </packages>
+      </download>
+      <label id="25942">
+        <name>Universal Music AB</name>
+      </label>
+      <popularity>0.5</popularity>
+      <streamingReleaseDate>3001-01-01T00:00:00+00:00</streamingReleaseDate>
+      <duration>400</duration>
+      <trackCount>1</trackCount>
+    </release>
+    <release id="1301457">
+      <title>My Apocalypse</title>
+      <version>[Blank]</version>
+      <type>Single</type>
+      <barcode>00602517851627</barcode>
+      <year>2014</year>
+      <explicitContent>false</explicitContent>
+      <artist id="27920">
+        <name>Metallica</name>
+        <appearsAs>Metallica</appearsAs>
+        <slug>metallica</slug>
+      </artist>
+      <slug>my-apocalypse</slug>
+      <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/013/014/0001301457_50.jpg</image>
+      <download>
+        <releaseDate>2008-08-26T00:00:00+01:00</releaseDate>
+        <packages>
+          <package id="2">
+            <description>standard</description>
+            <price>
+              <currencyCode>GBP</currencyCode>
+              <sevendigitalPrice>0.99</sevendigitalPrice>
+              <recommendedRetailPrice xsi:nil="true"/>
+            </price>
+            <formats>
+              <format id="17">
+                <description>MP3 320</description>
+              </format>
+            </formats>
+          </package>
+        </packages>
+      </download>
+      <label id="133168">
+        <name>Universal Music Romania</name>
+      </label>
+      <popularity>0.5</popularity>
+      <streamingReleaseDate>3001-01-01T00:00:00+00:00</streamingReleaseDate>
+      <duration>301</duration>
+      <trackCount>1</trackCount>
+    </release>
+    <release id="314503">
+      <title>The Day That Never Comes</title>
+      <version>eSingle</version>
+      <type>Single</type>
+      <barcode>00602517850774</barcode>
+      <year>2006</year>
+      <explicitContent>false</explicitContent>
+      <artist id="27920">
+        <name>Metallica</name>
+        <appearsAs>Metallica</appearsAs>
+        <slug>metallica</slug>
+      </artist>
+      <slug>the-day-that-never-comes-1</slug>
+      <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/003/145/0000314503_50.jpg</image>
+      <download>
+        <releaseDate>2008-08-22T00:00:00+01:00</releaseDate>
+        <packages>
+          <package id="2">
+            <description>standard</description>
+            <price>
+              <currencyCode>GBP</currencyCode>
+              <sevendigitalPrice>0.99</sevendigitalPrice>
+              <recommendedRetailPrice xsi:nil="true"/>
+            </price>
+            <formats>
+              <format id="17">
+                <description>MP3 320</description>
+              </format>
+            </formats>
+          </package>
+        </packages>
+      </download>
+      <label id="201064">
+        <name>Minos - EMI SA</name>
+      </label>
+      <popularity>0.43</popularity>
+      <streamingReleaseDate>3001-01-01T00:00:00+00:00</streamingReleaseDate>
+      <duration>477</duration>
+      <trackCount>1</trackCount>
+    </release>
+    <release id="311757">
+      <title>Some Kind Of Monster</title>
+      <version/>
+      <type>Album</type>
+      <barcode>00602498678107</barcode>
+      <year>1984</year>
+      <explicitContent>true</explicitContent>
+      <artist id="27920">
+        <name>Metallica</name>
+        <appearsAs>Metallica</appearsAs>
+        <slug>metallica</slug>
+      </artist>
+      <slug>some-kind-of-monster</slug>
+      <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/003/117/0000311757_50.jpg</image>
+      <download>
+        <releaseDate>2008-08-18T00:00:00+01:00</releaseDate>
+        <packages>
+          <package id="2">
+            <description>standard</description>
+            <price>
+              <currencyCode>GBP</currencyCode>
+              <sevendigitalPrice>5.99</sevendigitalPrice>
+              <recommendedRetailPrice>5.99</recommendedRetailPrice>
+            </price>
+            <formats>
+              <format id="17">
+                <description>MP3 320</description>
+              </format>
+            </formats>
+          </package>
+        </packages>
+      </download>
+      <label id="149943">
+        <name>Universal Music (Pty) Ltd.</name>
+      </label>
+      <popularity>0.37</popularity>
+      <streamingReleaseDate>3001-01-01T00:00:00+00:00</streamingReleaseDate>
+      <duration>2592</duration>
+      <trackCount>8</trackCount>
+    </release>
+    <release id="38952">
+      <title>Kill 'Em All</title>
+      <version/>
+      <type>Album</type>
+      <barcode>00602517054660</barcode>
+      <year>2014</year>
+      <explicitContent>false</explicitContent>
+      <artist id="27920">
+        <name>Metallica</name>
+        <appearsAs>Metallica</appearsAs>
+        <slug>metallica</slug>
+      </artist>
+      <slug>kill-em-all-uk-version</slug>
+      <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/000/389/0000038952_50.jpg</image>
+      <download>
+        <releaseDate>2008-08-18T00:00:00+01:00</releaseDate>
+        <packages>
+          <package id="2">
+            <description>standard</description>
+            <price>
+              <currencyCode>GBP</currencyCode>
+              <sevendigitalPrice>8.99</sevendigitalPrice>
+              <recommendedRetailPrice>8.99</recommendedRetailPrice>
+            </price>
+            <formats>
+              <format id="17">
+                <description>MP3 320</description>
+              </format>
+            </formats>
+          </package>
+        </packages>
+      </download>
+      <label id="149943">
+        <name>Universal Music (Pty) Ltd.</name>
+      </label>
+      <popularity>0.56</popularity>
+      <streamingReleaseDate>3001-01-01T00:00:00+00:00</streamingReleaseDate>
+      <duration>3670</duration>
+      <trackCount>12</trackCount>
+    </release>
+    <release id="38953">
+      <title>Ride The Lightning</title>
+      <version/>
+      <type>Album</type>
+      <barcode>00602517054677</barcode>
+      <year>2014</year>
+      <explicitContent>false</explicitContent>
+      <artist id="27920">
+        <name>Metallica</name>
+        <appearsAs>Metallica</appearsAs>
+        <slug>metallica</slug>
+      </artist>
+      <slug>ride-the-lightning-uk-version</slug>
+      <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/000/389/0000038953_50.jpg</image>
+      <download>
+        <releaseDate>2008-08-18T00:00:00+01:00</releaseDate>
+        <packages>
+          <package id="2">
+            <description>standard</description>
+            <price>
+              <currencyCode>GBP</currencyCode>
+              <sevendigitalPrice>7.99</sevendigitalPrice>
+              <recommendedRetailPrice>7.99</recommendedRetailPrice>
+            </price>
+            <formats>
+              <format id="17">
+                <description>MP3 320</description>
+              </format>
+            </formats>
+          </package>
+        </packages>
+      </download>
+      <label id="149943">
+        <name>Universal Music (Pty) Ltd.</name>
+      </label>
+      <popularity>0.62</popularity>
+      <streamingReleaseDate>3001-01-01T00:00:00+00:00</streamingReleaseDate>
+      <duration>3675</duration>
+      <trackCount>10</trackCount>
+    </release>
+    <release id="38956">
+      <title>Master Of Puppets</title>
+      <version/>
+      <type>Album</type>
+      <barcode>00602517055001</barcode>
+      <year>2014</year>
+      <explicitContent>false</explicitContent>
+      <artist id="27920">
+        <name>Metallica</name>
+        <appearsAs>Metallica</appearsAs>
+        <slug>metallica</slug>
+      </artist>
+      <slug>master-of-puppets-uk-version</slug>
+      <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/000/389/0000038956_50.jpg</image>
+      <download>
+        <releaseDate>2008-08-18T00:00:00+01:00</releaseDate>
+        <packages>
+          <package id="2">
+            <description>standard</description>
+            <price>
+              <currencyCode>GBP</currencyCode>
+              <sevendigitalPrice>8.99</sevendigitalPrice>
+              <recommendedRetailPrice>8.99</recommendedRetailPrice>
+            </price>
+            <formats>
+              <format id="17">
+                <description>MP3 320</description>
+              </format>
+            </formats>
+          </package>
+        </packages>
+      </download>
+      <label id="149943">
+        <name>Universal Music (Pty) Ltd.</name>
+      </label>
+      <popularity>0.66</popularity>
+      <streamingReleaseDate>3001-01-01T00:00:00+00:00</streamingReleaseDate>
+      <duration>4002</duration>
+      <trackCount>10</trackCount>
+    </release>
+    <release id="307561">
+      <title>I Disappear</title>
+      <version>Single</version>
+      <type>Single</type>
+      <barcode>00602517839342</barcode>
+      <year>2001</year>
+      <explicitContent>false</explicitContent>
+      <artist id="27920">
+        <name>Metallica</name>
+        <appearsAs>Metallica</appearsAs>
+        <slug>metallica</slug>
+      </artist>
+      <slug>i-disappear-1</slug>
+      <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/003/075/0000307561_50.jpg</image>
+      <download>
+        <releaseDate>2008-08-18T00:00:00+01:00</releaseDate>
+        <packages>
+          <package id="2">
+            <description>standard</description>
+            <price>
+              <currencyCode>GBP</currencyCode>
+              <sevendigitalPrice>0.99</sevendigitalPrice>
+              <recommendedRetailPrice xsi:nil="true"/>
+            </price>
+            <formats>
+              <format id="17">
+                <description>MP3 320</description>
+              </format>
+            </formats>
+          </package>
+        </packages>
+      </download>
+      <label id="20348">
+        <name>Universal Music GmbH</name>
+      </label>
+      <popularity>0.43</popularity>
+      <streamingReleaseDate>3001-01-01T00:00:00+00:00</streamingReleaseDate>
+      <duration>266</duration>
+      <trackCount>1</trackCount>
+    </release>
+    <release id="309639">
+      <title>Metallica</title>
+      <version>Live Earth</version>
+      <type>Single</type>
+      <barcode>00602517436237</barcode>
+      <year>2014</year>
+      <explicitContent>false</explicitContent>
+      <artist id="27920">
+        <name>Metallica</name>
+        <appearsAs>Metallica</appearsAs>
+        <slug>metallica</slug>
+      </artist>
+      <slug>metallica-1</slug>
+      <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/003/096/0000309639_50.jpg</image>
+      <download>
+        <releaseDate>2008-08-18T00:00:00+01:00</releaseDate>
+        <packages>
+          <package id="2">
+            <description>standard</description>
+            <price>
+              <currencyCode>GBP</currencyCode>
+              <sevendigitalPrice>1.99</sevendigitalPrice>
+              <recommendedRetailPrice>1.99</recommendedRetailPrice>
+            </price>
+            <formats>
+              <format id="17">
+                <description>MP3 320</description>
+              </format>
+            </formats>
+          </package>
+        </packages>
+      </download>
+      <label id="201064">
+        <name>Minos - EMI SA</name>
+      </label>
+      <popularity>0.6</popularity>
+      <streamingReleaseDate>3001-01-01T00:00:00+00:00</streamingReleaseDate>
+      <duration>1137</duration>
+      <trackCount>3</trackCount>
+    </release>
+  </releases>
 </response>

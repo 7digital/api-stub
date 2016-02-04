@@ -1,1 +1,679 @@
-<?xml version="1.0" encoding="utf-8"?><response xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" status="ok" version="1.2" xsi:noNamespaceSchemaLocation="http://api.7digital.com/1.2/static/7digitalAPI.xsd"><tracks><page>1</page><pageSize>11</pageSize><totalItems>11</totalItems><track id="43717202"><title>Death with Dignity</title><version /><artist id="13419"><name>Sufjan Stevens</name><appearsAs>Sufjan Stevens</appearsAs><url>http://www.7digital.com/artist/sufjan-stevens/?partner=3923</url></artist><trackNumber>1</trackNumber><duration>239</duration><explicitContent>false</explicitContent><isrc>US64G1509901</isrc><type>audio</type><release id="4250841"><title>Carrie &amp; Lowell</title><version /><type>Album</type><barcode>656605609966</barcode><artist id="13419"><name>Sufjan Stevens</name><appearsAs>Sufjan Stevens</appearsAs><url>http://www.7digital.com/artist/sufjan-stevens/?partner=3923</url></artist><url>http://www.7digital.com/artist/sufjan-stevens/release/carrie-and-lowell/?partner=3923</url><image>http://artwork-cdn.7static.com/static/img/sleeveart/00/042/508/0004250841_50.jpg</image><releaseDate>2015-03-30T00:00:00Z</releaseDate></release><url>http://www.7digital.com/artist/sufjan-stevens/release/carrie-and-lowell/?partner=3923&amp;h=01</url><price><currency code="GBP">£</currency><value>0.99</value><formattedPrice>£0.99</formattedPrice><rrp>0.99</rrp><formattedRrp>£0.99</formattedRrp><onSale>false</onSale></price><streamingReleaseDate>2015-03-30T00:00:00Z</streamingReleaseDate><discNumber>1</discNumber><number>1</number><previewDate>2015-03-30T00:00:00Z</previewDate><download><packages><package id="2"><description>standard</description><price><currencyCode>GBP</currencyCode><sevendigitalPrice>0.99</sevendigitalPrice><recommendedRetailPrice>0.99</recommendedRetailPrice></price><formats><format id="17"><description>MP3 320</description></format><format id="33"><description>AAC 320</description></format></formats></package></packages></download></track><track id="43740256"><title>Should Have Known Better</title><version /><artist id="13419"><name>Sufjan Stevens</name><appearsAs>Sufjan Stevens</appearsAs><url>http://www.7digital.com/artist/sufjan-stevens/?partner=3923</url></artist><trackNumber>2</trackNumber><duration>307</duration><explicitContent>false</explicitContent><isrc>US64G1509902</isrc><type>audio</type><release id="4250841"><title>Carrie &amp; Lowell</title><version /><type>Album</type><barcode>656605609966</barcode><artist id="13419"><name>Sufjan Stevens</name><appearsAs>Sufjan Stevens</appearsAs><url>http://www.7digital.com/artist/sufjan-stevens/?partner=3923</url></artist><url>http://www.7digital.com/artist/sufjan-stevens/release/carrie-and-lowell/?partner=3923</url><image>http://artwork-cdn.7static.com/static/img/sleeveart/00/042/508/0004250841_50.jpg</image><releaseDate>2015-03-30T00:00:00Z</releaseDate></release><url>http://www.7digital.com/artist/sufjan-stevens/release/carrie-and-lowell/?partner=3923&amp;h=02</url><price><currency code="GBP">£</currency><value>0.99</value><formattedPrice>£0.99</formattedPrice><rrp>0.99</rrp><formattedRrp>£0.99</formattedRrp><onSale>false</onSale></price><streamingReleaseDate>2015-03-30T00:00:00Z</streamingReleaseDate><discNumber>1</discNumber><number>2</number><previewDate>2015-03-30T00:00:00Z</previewDate><download><packages><package id="2"><description>standard</description><price><currencyCode>GBP</currencyCode><sevendigitalPrice>0.99</sevendigitalPrice><recommendedRetailPrice>0.99</recommendedRetailPrice></price><formats><format id="17"><description>MP3 320</description></format><format id="33"><description>AAC 320</description></format></formats></package></packages></download></track><track id="43740267"><title>All of Me Wants All of You</title><version /><artist id="13419"><name>Sufjan Stevens</name><appearsAs>Sufjan Stevens</appearsAs><url>http://www.7digital.com/artist/sufjan-stevens/?partner=3923</url></artist><trackNumber>3</trackNumber><duration>221</duration><explicitContent>false</explicitContent><isrc>US64G1509903</isrc><type>audio</type><release id="4250841"><title>Carrie &amp; Lowell</title><version /><type>Album</type><barcode>656605609966</barcode><artist id="13419"><name>Sufjan Stevens</name><appearsAs>Sufjan Stevens</appearsAs><url>http://www.7digital.com/artist/sufjan-stevens/?partner=3923</url></artist><url>http://www.7digital.com/artist/sufjan-stevens/release/carrie-and-lowell/?partner=3923</url><image>http://artwork-cdn.7static.com/static/img/sleeveart/00/042/508/0004250841_50.jpg</image><releaseDate>2015-03-30T00:00:00Z</releaseDate></release><url>http://www.7digital.com/artist/sufjan-stevens/release/carrie-and-lowell/?partner=3923&amp;h=03</url><price><currency code="GBP">£</currency><value>0.99</value><formattedPrice>£0.99</formattedPrice><rrp>0.99</rrp><formattedRrp>£0.99</formattedRrp><onSale>false</onSale></price><streamingReleaseDate>2015-03-30T00:00:00Z</streamingReleaseDate><discNumber>1</discNumber><number>3</number><previewDate>2015-03-30T00:00:00Z</previewDate><download><packages><package id="2"><description>standard</description><price><currencyCode>GBP</currencyCode><sevendigitalPrice>0.99</sevendigitalPrice><recommendedRetailPrice>0.99</recommendedRetailPrice></price><formats><format id="17"><description>MP3 320</description></format><format id="33"><description>AAC 320</description></format></formats></package></packages></download></track><track id="43740276"><title>Drawn to the Blood</title><version /><artist id="13419"><name>Sufjan Stevens</name><appearsAs>Sufjan Stevens</appearsAs><url>http://www.7digital.com/artist/sufjan-stevens/?partner=3923</url></artist><trackNumber>4</trackNumber><duration>198</duration><explicitContent>false</explicitContent><isrc>US64G1509904</isrc><type>audio</type><release id="4250841"><title>Carrie &amp; Lowell</title><version /><type>Album</type><barcode>656605609966</barcode><artist id="13419"><name>Sufjan Stevens</name><appearsAs>Sufjan Stevens</appearsAs><url>http://www.7digital.com/artist/sufjan-stevens/?partner=3923</url></artist><url>http://www.7digital.com/artist/sufjan-stevens/release/carrie-and-lowell/?partner=3923</url><image>http://artwork-cdn.7static.com/static/img/sleeveart/00/042/508/0004250841_50.jpg</image><releaseDate>2015-03-30T00:00:00Z</releaseDate></release><url>http://www.7digital.com/artist/sufjan-stevens/release/carrie-and-lowell/?partner=3923&amp;h=04</url><price><currency code="GBP">£</currency><value>0.99</value><formattedPrice>£0.99</formattedPrice><rrp>0.99</rrp><formattedRrp>£0.99</formattedRrp><onSale>false</onSale></price><streamingReleaseDate>2015-03-30T00:00:00Z</streamingReleaseDate><discNumber>1</discNumber><number>4</number><previewDate>2015-03-30T00:00:00Z</previewDate><download><packages><package id="2"><description>standard</description><price><currencyCode>GBP</currencyCode><sevendigitalPrice>0.99</sevendigitalPrice><recommendedRetailPrice>0.99</recommendedRetailPrice></price><formats><format id="17"><description>MP3 320</description></format><format id="33"><description>AAC 320</description></format></formats></package></packages></download></track><track id="43740288"><title>Eugene</title><version /><artist id="13419"><name>Sufjan Stevens</name><appearsAs>Sufjan Stevens</appearsAs><url>http://www.7digital.com/artist/sufjan-stevens/?partner=3923</url></artist><trackNumber>5</trackNumber><duration>146</duration><explicitContent>false</explicitContent><isrc>US64G1509905</isrc><type>audio</type><release id="4250841"><title>Carrie &amp; Lowell</title><version /><type>Album</type><barcode>656605609966</barcode><artist id="13419"><name>Sufjan Stevens</name><appearsAs>Sufjan Stevens</appearsAs><url>http://www.7digital.com/artist/sufjan-stevens/?partner=3923</url></artist><url>http://www.7digital.com/artist/sufjan-stevens/release/carrie-and-lowell/?partner=3923</url><image>http://artwork-cdn.7static.com/static/img/sleeveart/00/042/508/0004250841_50.jpg</image><releaseDate>2015-03-30T00:00:00Z</releaseDate></release><url>http://www.7digital.com/artist/sufjan-stevens/release/carrie-and-lowell/?partner=3923&amp;h=05</url><price><currency code="GBP">£</currency><value>0.99</value><formattedPrice>£0.99</formattedPrice><rrp>0.99</rrp><formattedRrp>£0.99</formattedRrp><onSale>false</onSale></price><streamingReleaseDate>2015-03-30T00:00:00Z</streamingReleaseDate><discNumber>1</discNumber><number>5</number><previewDate>2015-03-30T00:00:00Z</previewDate><download><packages><package id="2"><description>standard</description><price><currencyCode>GBP</currencyCode><sevendigitalPrice>0.99</sevendigitalPrice><recommendedRetailPrice>0.99</recommendedRetailPrice></price><formats><format id="17"><description>MP3 320</description></format><format id="33"><description>AAC 320</description></format></formats></package></packages></download></track><track id="43740294"><title>Fourth of July</title><version /><artist id="13419"><name>Sufjan Stevens</name><appearsAs>Sufjan Stevens</appearsAs><url>http://www.7digital.com/artist/sufjan-stevens/?partner=3923</url></artist><trackNumber>6</trackNumber><duration>279</duration><explicitContent>false</explicitContent><isrc>US64G1509906</isrc><type>audio</type><release id="4250841"><title>Carrie &amp; Lowell</title><version /><type>Album</type><barcode>656605609966</barcode><artist id="13419"><name>Sufjan Stevens</name><appearsAs>Sufjan Stevens</appearsAs><url>http://www.7digital.com/artist/sufjan-stevens/?partner=3923</url></artist><url>http://www.7digital.com/artist/sufjan-stevens/release/carrie-and-lowell/?partner=3923</url><image>http://artwork-cdn.7static.com/static/img/sleeveart/00/042/508/0004250841_50.jpg</image><releaseDate>2015-03-30T00:00:00Z</releaseDate></release><url>http://www.7digital.com/artist/sufjan-stevens/release/carrie-and-lowell/?partner=3923&amp;h=06</url><price><currency code="GBP">£</currency><value>0.99</value><formattedPrice>£0.99</formattedPrice><rrp>0.99</rrp><formattedRrp>£0.99</formattedRrp><onSale>false</onSale></price><streamingReleaseDate>2015-03-30T00:00:00Z</streamingReleaseDate><discNumber>1</discNumber><number>6</number><previewDate>2015-03-30T00:00:00Z</previewDate><download><packages><package id="2"><description>standard</description><price><currencyCode>GBP</currencyCode><sevendigitalPrice>0.99</sevendigitalPrice><recommendedRetailPrice>0.99</recommendedRetailPrice></price><formats><format id="17"><description>MP3 320</description></format><format id="33"><description>AAC 320</description></format></formats></package></packages></download></track><track id="43740306"><title>The Only Thing</title><version /><artist id="13419"><name>Sufjan Stevens</name><appearsAs>Sufjan Stevens</appearsAs><url>http://www.7digital.com/artist/sufjan-stevens/?partner=3923</url></artist><trackNumber>7</trackNumber><duration>284</duration><explicitContent>false</explicitContent><isrc>US64G1509907</isrc><type>audio</type><release id="4250841"><title>Carrie &amp; Lowell</title><version /><type>Album</type><barcode>656605609966</barcode><artist id="13419"><name>Sufjan Stevens</name><appearsAs>Sufjan Stevens</appearsAs><url>http://www.7digital.com/artist/sufjan-stevens/?partner=3923</url></artist><url>http://www.7digital.com/artist/sufjan-stevens/release/carrie-and-lowell/?partner=3923</url><image>http://artwork-cdn.7static.com/static/img/sleeveart/00/042/508/0004250841_50.jpg</image><releaseDate>2015-03-30T00:00:00Z</releaseDate></release><url>http://www.7digital.com/artist/sufjan-stevens/release/carrie-and-lowell/?partner=3923&amp;h=07</url><price><currency code="GBP">£</currency><value>0.99</value><formattedPrice>£0.99</formattedPrice><rrp>0.99</rrp><formattedRrp>£0.99</formattedRrp><onSale>false</onSale></price><streamingReleaseDate>2015-03-30T00:00:00Z</streamingReleaseDate><discNumber>1</discNumber><number>7</number><previewDate>2015-03-30T00:00:00Z</previewDate><download><packages><package id="2"><description>standard</description><price><currencyCode>GBP</currencyCode><sevendigitalPrice>0.99</sevendigitalPrice><recommendedRetailPrice>0.99</recommendedRetailPrice></price><formats><format id="17"><description>MP3 320</description></format><format id="33"><description>AAC 320</description></format></formats></package></packages></download></track><track id="43740315"><title>Carrie &amp; Lowell</title><version /><artist id="13419"><name>Sufjan Stevens</name><appearsAs>Sufjan Stevens</appearsAs><url>http://www.7digital.com/artist/sufjan-stevens/?partner=3923</url></artist><trackNumber>8</trackNumber><duration>194</duration><explicitContent>false</explicitContent><isrc>US64G1509908</isrc><type>audio</type><release id="4250841"><title>Carrie &amp; Lowell</title><version /><type>Album</type><barcode>656605609966</barcode><artist id="13419"><name>Sufjan Stevens</name><appearsAs>Sufjan Stevens</appearsAs><url>http://www.7digital.com/artist/sufjan-stevens/?partner=3923</url></artist><url>http://www.7digital.com/artist/sufjan-stevens/release/carrie-and-lowell/?partner=3923</url><image>http://artwork-cdn.7static.com/static/img/sleeveart/00/042/508/0004250841_50.jpg</image><releaseDate>2015-03-30T00:00:00Z</releaseDate></release><url>http://www.7digital.com/artist/sufjan-stevens/release/carrie-and-lowell/?partner=3923&amp;h=08</url><price><currency code="GBP">£</currency><value>0.99</value><formattedPrice>£0.99</formattedPrice><rrp>0.99</rrp><formattedRrp>£0.99</formattedRrp><onSale>false</onSale></price><streamingReleaseDate>2015-03-30T00:00:00Z</streamingReleaseDate><discNumber>1</discNumber><number>8</number><previewDate>2015-03-30T00:00:00Z</previewDate><download><packages><package id="2"><description>standard</description><price><currencyCode>GBP</currencyCode><sevendigitalPrice>0.99</sevendigitalPrice><recommendedRetailPrice>0.99</recommendedRetailPrice></price><formats><format id="17"><description>MP3 320</description></format><format id="33"><description>AAC 320</description></format></formats></package></packages></download></track><track id="43740323"><title>John My Beloved</title><version /><artist id="13419"><name>Sufjan Stevens</name><appearsAs>Sufjan Stevens</appearsAs><url>http://www.7digital.com/artist/sufjan-stevens/?partner=3923</url></artist><trackNumber>9</trackNumber><duration>304</duration><explicitContent>false</explicitContent><isrc>US64G1509909</isrc><type>audio</type><release id="4250841"><title>Carrie &amp; Lowell</title><version /><type>Album</type><barcode>656605609966</barcode><artist id="13419"><name>Sufjan Stevens</name><appearsAs>Sufjan Stevens</appearsAs><url>http://www.7digital.com/artist/sufjan-stevens/?partner=3923</url></artist><url>http://www.7digital.com/artist/sufjan-stevens/release/carrie-and-lowell/?partner=3923</url><image>http://artwork-cdn.7static.com/static/img/sleeveart/00/042/508/0004250841_50.jpg</image><releaseDate>2015-03-30T00:00:00Z</releaseDate></release><url>http://www.7digital.com/artist/sufjan-stevens/release/carrie-and-lowell/?partner=3923&amp;h=09</url><price><currency code="GBP">£</currency><value>0.99</value><formattedPrice>£0.99</formattedPrice><rrp>0.99</rrp><formattedRrp>£0.99</formattedRrp><onSale>false</onSale></price><streamingReleaseDate>2015-03-30T00:00:00Z</streamingReleaseDate><discNumber>1</discNumber><number>9</number><previewDate>2015-03-30T00:00:00Z</previewDate><download><packages><package id="2"><description>standard</description><price><currencyCode>GBP</currencyCode><sevendigitalPrice>0.99</sevendigitalPrice><recommendedRetailPrice>0.99</recommendedRetailPrice></price><formats><format id="17"><description>MP3 320</description></format><format id="33"><description>AAC 320</description></format></formats></package></packages></download></track><track id="43740335"><title>No Shade in the Shadow of The Cross</title><version /><artist id="13419"><name>Sufjan Stevens</name><appearsAs>Sufjan Stevens</appearsAs><url>http://www.7digital.com/artist/sufjan-stevens/?partner=3923</url></artist><trackNumber>10</trackNumber><duration>160</duration><explicitContent>false</explicitContent><isrc>US64G1509910</isrc><type>audio</type><release id="4250841"><title>Carrie &amp; Lowell</title><version /><type>Album</type><barcode>656605609966</barcode><artist id="13419"><name>Sufjan Stevens</name><appearsAs>Sufjan Stevens</appearsAs><url>http://www.7digital.com/artist/sufjan-stevens/?partner=3923</url></artist><url>http://www.7digital.com/artist/sufjan-stevens/release/carrie-and-lowell/?partner=3923</url><image>http://artwork-cdn.7static.com/static/img/sleeveart/00/042/508/0004250841_50.jpg</image><releaseDate>2015-03-30T00:00:00Z</releaseDate></release><url>http://www.7digital.com/artist/sufjan-stevens/release/carrie-and-lowell/?partner=3923&amp;h=10</url><price><currency code="GBP">£</currency><value>0.99</value><formattedPrice>£0.99</formattedPrice><rrp>0.99</rrp><formattedRrp>£0.99</formattedRrp><onSale>false</onSale></price><streamingReleaseDate>2015-03-30T00:00:00Z</streamingReleaseDate><discNumber>1</discNumber><number>10</number><previewDate>2015-03-30T00:00:00Z</previewDate><download><packages><package id="2"><description>standard</description><price><currencyCode>GBP</currencyCode><sevendigitalPrice>0.99</sevendigitalPrice><recommendedRetailPrice>0.99</recommendedRetailPrice></price><formats><format id="17"><description>MP3 320</description></format><format id="33"><description>AAC 320</description></format></formats></package></packages></download></track><track id="43740344"><title>Blue Bucket of Gold</title><version /><artist id="13419"><name>Sufjan Stevens</name><appearsAs>Sufjan Stevens</appearsAs><url>http://www.7digital.com/artist/sufjan-stevens/?partner=3923</url></artist><trackNumber>11</trackNumber><duration>285</duration><explicitContent>false</explicitContent><isrc>US64G1509911</isrc><type>audio</type><release id="4250841"><title>Carrie &amp; Lowell</title><version /><type>Album</type><barcode>656605609966</barcode><artist id="13419"><name>Sufjan Stevens</name><appearsAs>Sufjan Stevens</appearsAs><url>http://www.7digital.com/artist/sufjan-stevens/?partner=3923</url></artist><url>http://www.7digital.com/artist/sufjan-stevens/release/carrie-and-lowell/?partner=3923</url><image>http://artwork-cdn.7static.com/static/img/sleeveart/00/042/508/0004250841_50.jpg</image><releaseDate>2015-03-30T00:00:00Z</releaseDate></release><url>http://www.7digital.com/artist/sufjan-stevens/release/carrie-and-lowell/?partner=3923&amp;h=11</url><price><currency code="GBP">£</currency><value>0.99</value><formattedPrice>£0.99</formattedPrice><rrp>0.99</rrp><formattedRrp>£0.99</formattedRrp><onSale>false</onSale></price><streamingReleaseDate>2015-03-30T00:00:00Z</streamingReleaseDate><discNumber>1</discNumber><number>11</number><previewDate>2015-03-30T00:00:00Z</previewDate><download><packages><package id="2"><description>standard</description><price><currencyCode>GBP</currencyCode><sevendigitalPrice>0.99</sevendigitalPrice><recommendedRetailPrice>0.99</recommendedRetailPrice></price><formats><format id="17"><description>MP3 320</description></format><format id="33"><description>AAC 320</description></format></formats></package></packages></download></track></tracks></response>
+<?xml version="1.0" encoding="utf-8"?>
+<response xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" status="ok" version="1.2" xsi:noNamespaceSchemaLocation="http://api.7digital.com/1.2/static/7digitalAPI.xsd">
+  <tracks>
+    <page>1</page>
+    <pageSize>11</pageSize>
+    <totalItems>11</totalItems>
+    <track id="43717202">
+      <title>Death with Dignity</title>
+      <version/>
+      <artist id="13419">
+        <name>Sufjan Stevens</name>
+        <appearsAs>Sufjan Stevens</appearsAs>
+        <slug>sufjan-stevens</slug>
+      </artist>
+      <trackNumber>1</trackNumber>
+      <duration>239</duration>
+      <explicitContent>false</explicitContent>
+      <isrc>US64G1509901</isrc>
+      <type>audio</type>
+      <release id="4250841">
+        <title>Carrie &amp; Lowell</title>
+        <version/>
+        <type>Album</type>
+        <barcode>656605609966</barcode>
+        <artist id="13419">
+          <name>Sufjan Stevens</name>
+          <appearsAs>Sufjan Stevens</appearsAs>
+          <slug>sufjan-stevens</slug>
+        </artist>
+        <slug>carrie-and-lowell</slug>
+        <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/042/508/0004250841_50.jpg</image>
+      </release>
+      <slug>carrie-and-lowell</slug>
+      <price>
+        <currency code="GBP">£</currency>
+        <value>0.99</value>
+        <formattedPrice>£0.99</formattedPrice>
+        <rrp>0.99</rrp>
+        <formattedRrp>£0.99</formattedRrp>
+        <onSale>false</onSale>
+      </price>
+      <streamingReleaseDate>2015-03-30T00:00:00Z</streamingReleaseDate>
+      <discNumber>1</discNumber>
+      <number>1</number>
+      <download>
+        <previewDate>2015-03-30T00:00:00Z</previewDate>
+        <releaseDate>2015-03-30T00:00:00Z</releaseDate>
+        <packages>
+          <package id="2">
+            <description>standard</description>
+            <price>
+              <currencyCode>GBP</currencyCode>
+              <sevendigitalPrice>0.99</sevendigitalPrice>
+              <recommendedRetailPrice>0.99</recommendedRetailPrice>
+            </price>
+            <formats>
+              <format id="17">
+                <description>MP3 320</description>
+              </format>
+              <format id="33">
+                <description>AAC 320</description>
+              </format>
+            </formats>
+          </package>
+        </packages>
+      </download>
+    </track>
+    <track id="43740256">
+      <title>Should Have Known Better</title>
+      <version/>
+      <artist id="13419">
+        <name>Sufjan Stevens</name>
+        <appearsAs>Sufjan Stevens</appearsAs>
+        <slug>sufjan-stevens</slug>
+      </artist>
+      <trackNumber>2</trackNumber>
+      <duration>307</duration>
+      <explicitContent>false</explicitContent>
+      <isrc>US64G1509902</isrc>
+      <type>audio</type>
+      <release id="4250841">
+        <title>Carrie &amp; Lowell</title>
+        <version/>
+        <type>Album</type>
+        <barcode>656605609966</barcode>
+        <artist id="13419">
+          <name>Sufjan Stevens</name>
+          <appearsAs>Sufjan Stevens</appearsAs>
+          <slug>sufjan-stevens</slug>
+        </artist>
+        <slug>carrie-and-lowell</slug>
+        <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/042/508/0004250841_50.jpg</image>
+      </release>
+      <slug>carrie-and-lowell</slug>
+      <price>
+        <currency code="GBP">£</currency>
+        <value>0.99</value>
+        <formattedPrice>£0.99</formattedPrice>
+        <rrp>0.99</rrp>
+        <formattedRrp>£0.99</formattedRrp>
+        <onSale>false</onSale>
+      </price>
+      <streamingReleaseDate>2015-03-30T00:00:00Z</streamingReleaseDate>
+      <discNumber>1</discNumber>
+      <number>2</number>
+      <download>
+        <previewDate>2015-03-30T00:00:00Z</previewDate>
+        <releaseDate>2015-03-30T00:00:00Z</releaseDate>
+        <packages>
+          <package id="2">
+            <description>standard</description>
+            <price>
+              <currencyCode>GBP</currencyCode>
+              <sevendigitalPrice>0.99</sevendigitalPrice>
+              <recommendedRetailPrice>0.99</recommendedRetailPrice>
+            </price>
+            <formats>
+              <format id="17">
+                <description>MP3 320</description>
+              </format>
+              <format id="33">
+                <description>AAC 320</description>
+              </format>
+            </formats>
+          </package>
+        </packages>
+      </download>
+    </track>
+    <track id="43740267">
+      <title>All of Me Wants All of You</title>
+      <version/>
+      <artist id="13419">
+        <name>Sufjan Stevens</name>
+        <appearsAs>Sufjan Stevens</appearsAs>
+        <slug>sufjan-stevens</slug>
+      </artist>
+      <trackNumber>3</trackNumber>
+      <duration>221</duration>
+      <explicitContent>false</explicitContent>
+      <isrc>US64G1509903</isrc>
+      <type>audio</type>
+      <release id="4250841">
+        <title>Carrie &amp; Lowell</title>
+        <version/>
+        <type>Album</type>
+        <barcode>656605609966</barcode>
+        <artist id="13419">
+          <name>Sufjan Stevens</name>
+          <appearsAs>Sufjan Stevens</appearsAs>
+          <slug>sufjan-stevens</slug>
+        </artist>
+        <slug>carrie-and-lowell</slug>
+        <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/042/508/0004250841_50.jpg</image>
+      </release>
+      <slug>carrie-and-lowell</slug>
+      <price>
+        <currency code="GBP">£</currency>
+        <value>0.99</value>
+        <formattedPrice>£0.99</formattedPrice>
+        <rrp>0.99</rrp>
+        <formattedRrp>£0.99</formattedRrp>
+        <onSale>false</onSale>
+      </price>
+      <streamingReleaseDate>2015-03-30T00:00:00Z</streamingReleaseDate>
+      <discNumber>1</discNumber>
+      <number>3</number>
+      <download>
+        <previewDate>2015-03-30T00:00:00Z</previewDate>
+        <releaseDate>2015-03-30T00:00:00Z</releaseDate>
+        <packages>
+          <package id="2">
+            <description>standard</description>
+            <price>
+              <currencyCode>GBP</currencyCode>
+              <sevendigitalPrice>0.99</sevendigitalPrice>
+              <recommendedRetailPrice>0.99</recommendedRetailPrice>
+            </price>
+            <formats>
+              <format id="17">
+                <description>MP3 320</description>
+              </format>
+              <format id="33">
+                <description>AAC 320</description>
+              </format>
+            </formats>
+          </package>
+        </packages>
+      </download>
+    </track>
+    <track id="43740276">
+      <title>Drawn to the Blood</title>
+      <version/>
+      <artist id="13419">
+        <name>Sufjan Stevens</name>
+        <appearsAs>Sufjan Stevens</appearsAs>
+        <slug>sufjan-stevens</slug>
+      </artist>
+      <trackNumber>4</trackNumber>
+      <duration>198</duration>
+      <explicitContent>false</explicitContent>
+      <isrc>US64G1509904</isrc>
+      <type>audio</type>
+      <release id="4250841">
+        <title>Carrie &amp; Lowell</title>
+        <version/>
+        <type>Album</type>
+        <barcode>656605609966</barcode>
+        <artist id="13419">
+          <name>Sufjan Stevens</name>
+          <appearsAs>Sufjan Stevens</appearsAs>
+          <slug>sufjan-stevens</slug>
+        </artist>
+        <slug>carrie-and-lowell</slug>
+        <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/042/508/0004250841_50.jpg</image>
+      </release>
+      <slug>carrie-and-lowell</slug>
+      <price>
+        <currency code="GBP">£</currency>
+        <value>0.99</value>
+        <formattedPrice>£0.99</formattedPrice>
+        <rrp>0.99</rrp>
+        <formattedRrp>£0.99</formattedRrp>
+        <onSale>false</onSale>
+      </price>
+      <streamingReleaseDate>2015-03-30T00:00:00Z</streamingReleaseDate>
+      <discNumber>1</discNumber>
+      <number>4</number>
+      <download>
+        <previewDate>2015-03-30T00:00:00Z</previewDate>
+        <releaseDate>2015-03-30T00:00:00Z</releaseDate>
+        <packages>
+          <package id="2">
+            <description>standard</description>
+            <price>
+              <currencyCode>GBP</currencyCode>
+              <sevendigitalPrice>0.99</sevendigitalPrice>
+              <recommendedRetailPrice>0.99</recommendedRetailPrice>
+            </price>
+            <formats>
+              <format id="17">
+                <description>MP3 320</description>
+              </format>
+              <format id="33">
+                <description>AAC 320</description>
+              </format>
+            </formats>
+          </package>
+        </packages>
+      </download>
+    </track>
+    <track id="43740288">
+      <title>Eugene</title>
+      <version/>
+      <artist id="13419">
+        <name>Sufjan Stevens</name>
+        <appearsAs>Sufjan Stevens</appearsAs>
+        <slug>sufjan-stevens</slug>
+      </artist>
+      <trackNumber>5</trackNumber>
+      <duration>146</duration>
+      <explicitContent>false</explicitContent>
+      <isrc>US64G1509905</isrc>
+      <type>audio</type>
+      <release id="4250841">
+        <title>Carrie &amp; Lowell</title>
+        <version/>
+        <type>Album</type>
+        <barcode>656605609966</barcode>
+        <artist id="13419">
+          <name>Sufjan Stevens</name>
+          <appearsAs>Sufjan Stevens</appearsAs>
+          <slug>sufjan-stevens</slug>
+        </artist>
+        <slug>carrie-and-lowell</slug>
+        <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/042/508/0004250841_50.jpg</image>
+      </release>
+      <slug>carrie-and-lowell</slug>
+      <price>
+        <currency code="GBP">£</currency>
+        <value>0.99</value>
+        <formattedPrice>£0.99</formattedPrice>
+        <rrp>0.99</rrp>
+        <formattedRrp>£0.99</formattedRrp>
+        <onSale>false</onSale>
+      </price>
+      <streamingReleaseDate>2015-03-30T00:00:00Z</streamingReleaseDate>
+      <discNumber>1</discNumber>
+      <number>5</number>
+      <download>
+        <previewDate>2015-03-30T00:00:00Z</previewDate>
+        <releaseDate>2015-03-30T00:00:00Z</releaseDate>
+        <packages>
+          <package id="2">
+            <description>standard</description>
+            <price>
+              <currencyCode>GBP</currencyCode>
+              <sevendigitalPrice>0.99</sevendigitalPrice>
+              <recommendedRetailPrice>0.99</recommendedRetailPrice>
+            </price>
+            <formats>
+              <format id="17">
+                <description>MP3 320</description>
+              </format>
+              <format id="33">
+                <description>AAC 320</description>
+              </format>
+            </formats>
+          </package>
+        </packages>
+      </download>
+    </track>
+    <track id="43740294">
+      <title>Fourth of July</title>
+      <version/>
+      <artist id="13419">
+        <name>Sufjan Stevens</name>
+        <appearsAs>Sufjan Stevens</appearsAs>
+        <slug>sufjan-stevens</slug>
+      </artist>
+      <trackNumber>6</trackNumber>
+      <duration>279</duration>
+      <explicitContent>false</explicitContent>
+      <isrc>US64G1509906</isrc>
+      <type>audio</type>
+      <release id="4250841">
+        <title>Carrie &amp; Lowell</title>
+        <version/>
+        <type>Album</type>
+        <barcode>656605609966</barcode>
+        <artist id="13419">
+          <name>Sufjan Stevens</name>
+          <appearsAs>Sufjan Stevens</appearsAs>
+          <slug>sufjan-stevens</slug>
+        </artist>
+        <slug>carrie-and-lowell</slug>
+        <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/042/508/0004250841_50.jpg</image>
+      </release>
+      <slug>carrie-and-lowell</slug>
+      <price>
+        <currency code="GBP">£</currency>
+        <value>0.99</value>
+        <formattedPrice>£0.99</formattedPrice>
+        <rrp>0.99</rrp>
+        <formattedRrp>£0.99</formattedRrp>
+        <onSale>false</onSale>
+      </price>
+      <streamingReleaseDate>2015-03-30T00:00:00Z</streamingReleaseDate>
+      <discNumber>1</discNumber>
+      <number>6</number>
+      <download>
+        <previewDate>2015-03-30T00:00:00Z</previewDate>
+        <releaseDate>2015-03-30T00:00:00Z</releaseDate>
+        <packages>
+          <package id="2">
+            <description>standard</description>
+            <price>
+              <currencyCode>GBP</currencyCode>
+              <sevendigitalPrice>0.99</sevendigitalPrice>
+              <recommendedRetailPrice>0.99</recommendedRetailPrice>
+            </price>
+            <formats>
+              <format id="17">
+                <description>MP3 320</description>
+              </format>
+              <format id="33">
+                <description>AAC 320</description>
+              </format>
+            </formats>
+          </package>
+        </packages>
+      </download>
+    </track>
+    <track id="43740306">
+      <title>The Only Thing</title>
+      <version/>
+      <artist id="13419">
+        <name>Sufjan Stevens</name>
+        <appearsAs>Sufjan Stevens</appearsAs>
+        <slug>sufjan-stevens</slug>
+      </artist>
+      <trackNumber>7</trackNumber>
+      <duration>284</duration>
+      <explicitContent>false</explicitContent>
+      <isrc>US64G1509907</isrc>
+      <type>audio</type>
+      <release id="4250841">
+        <title>Carrie &amp; Lowell</title>
+        <version/>
+        <type>Album</type>
+        <barcode>656605609966</barcode>
+        <artist id="13419">
+          <name>Sufjan Stevens</name>
+          <appearsAs>Sufjan Stevens</appearsAs>
+          <slug>sufjan-stevens</slug>
+        </artist>
+        <slug>carrie-and-lowell</slug>
+        <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/042/508/0004250841_50.jpg</image>
+      </release>
+      <slug>carrie-and-lowell</slug>
+      <price>
+        <currency code="GBP">£</currency>
+        <value>0.99</value>
+        <formattedPrice>£0.99</formattedPrice>
+        <rrp>0.99</rrp>
+        <formattedRrp>£0.99</formattedRrp>
+        <onSale>false</onSale>
+      </price>
+      <streamingReleaseDate>2015-03-30T00:00:00Z</streamingReleaseDate>
+      <discNumber>1</discNumber>
+      <number>7</number>
+      <download>
+        <previewDate>2015-03-30T00:00:00Z</previewDate>
+        <releaseDate>2015-03-30T00:00:00Z</releaseDate>
+        <packages>
+          <package id="2">
+            <description>standard</description>
+            <price>
+              <currencyCode>GBP</currencyCode>
+              <sevendigitalPrice>0.99</sevendigitalPrice>
+              <recommendedRetailPrice>0.99</recommendedRetailPrice>
+            </price>
+            <formats>
+              <format id="17">
+                <description>MP3 320</description>
+              </format>
+              <format id="33">
+                <description>AAC 320</description>
+              </format>
+            </formats>
+          </package>
+        </packages>
+      </download>
+    </track>
+    <track id="43740315">
+      <title>Carrie &amp; Lowell</title>
+      <version/>
+      <artist id="13419">
+        <name>Sufjan Stevens</name>
+        <appearsAs>Sufjan Stevens</appearsAs>
+        <slug>sufjan-stevens</slug>
+      </artist>
+      <trackNumber>8</trackNumber>
+      <duration>194</duration>
+      <explicitContent>false</explicitContent>
+      <isrc>US64G1509908</isrc>
+      <type>audio</type>
+      <release id="4250841">
+        <title>Carrie &amp; Lowell</title>
+        <version/>
+        <type>Album</type>
+        <barcode>656605609966</barcode>
+        <artist id="13419">
+          <name>Sufjan Stevens</name>
+          <appearsAs>Sufjan Stevens</appearsAs>
+          <slug>sufjan-stevens</slug>
+        </artist>
+        <slug>carrie-and-lowell</slug>
+        <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/042/508/0004250841_50.jpg</image>
+      </release>
+      <slug>carrie-and-lowell</slug>
+      <price>
+        <currency code="GBP">£</currency>
+        <value>0.99</value>
+        <formattedPrice>£0.99</formattedPrice>
+        <rrp>0.99</rrp>
+        <formattedRrp>£0.99</formattedRrp>
+        <onSale>false</onSale>
+      </price>
+      <streamingReleaseDate>2015-03-30T00:00:00Z</streamingReleaseDate>
+      <discNumber>1</discNumber>
+      <number>8</number>
+      <download>
+        <previewDate>2015-03-30T00:00:00Z</previewDate>
+        <releaseDate>2015-03-30T00:00:00Z</releaseDate>
+        <packages>
+          <package id="2">
+            <description>standard</description>
+            <price>
+              <currencyCode>GBP</currencyCode>
+              <sevendigitalPrice>0.99</sevendigitalPrice>
+              <recommendedRetailPrice>0.99</recommendedRetailPrice>
+            </price>
+            <formats>
+              <format id="17">
+                <description>MP3 320</description>
+              </format>
+              <format id="33">
+                <description>AAC 320</description>
+              </format>
+            </formats>
+          </package>
+        </packages>
+      </download>
+    </track>
+    <track id="43740323">
+      <title>John My Beloved</title>
+      <version/>
+      <artist id="13419">
+        <name>Sufjan Stevens</name>
+        <appearsAs>Sufjan Stevens</appearsAs>
+        <slug>sufjan-stevens</slug>
+      </artist>
+      <trackNumber>9</trackNumber>
+      <duration>304</duration>
+      <explicitContent>false</explicitContent>
+      <isrc>US64G1509909</isrc>
+      <type>audio</type>
+      <release id="4250841">
+        <title>Carrie &amp; Lowell</title>
+        <version/>
+        <type>Album</type>
+        <barcode>656605609966</barcode>
+        <artist id="13419">
+          <name>Sufjan Stevens</name>
+          <appearsAs>Sufjan Stevens</appearsAs>
+          <slug>sufjan-stevens</slug>
+        </artist>
+        <slug>carrie-and-lowell</slug>
+        <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/042/508/0004250841_50.jpg</image>
+      </release>
+      <slug>carrie-and-lowell</slug>
+      <price>
+        <currency code="GBP">£</currency>
+        <value>0.99</value>
+        <formattedPrice>£0.99</formattedPrice>
+        <rrp>0.99</rrp>
+        <formattedRrp>£0.99</formattedRrp>
+        <onSale>false</onSale>
+      </price>
+      <streamingReleaseDate>2015-03-30T00:00:00Z</streamingReleaseDate>
+      <discNumber>1</discNumber>
+      <number>9</number>
+      <download>
+        <previewDate>2015-03-30T00:00:00Z</previewDate>
+        <releaseDate>2015-03-30T00:00:00Z</releaseDate>
+        <packages>
+          <package id="2">
+            <description>standard</description>
+            <price>
+              <currencyCode>GBP</currencyCode>
+              <sevendigitalPrice>0.99</sevendigitalPrice>
+              <recommendedRetailPrice>0.99</recommendedRetailPrice>
+            </price>
+            <formats>
+              <format id="17">
+                <description>MP3 320</description>
+              </format>
+              <format id="33">
+                <description>AAC 320</description>
+              </format>
+            </formats>
+          </package>
+        </packages>
+      </download>
+    </track>
+    <track id="43740335">
+      <title>No Shade in the Shadow of The Cross</title>
+      <version/>
+      <artist id="13419">
+        <name>Sufjan Stevens</name>
+        <appearsAs>Sufjan Stevens</appearsAs>
+        <slug>sufjan-stevens</slug>
+      </artist>
+      <trackNumber>10</trackNumber>
+      <duration>160</duration>
+      <explicitContent>false</explicitContent>
+      <isrc>US64G1509910</isrc>
+      <type>audio</type>
+      <release id="4250841">
+        <title>Carrie &amp; Lowell</title>
+        <version/>
+        <type>Album</type>
+        <barcode>656605609966</barcode>
+        <artist id="13419">
+          <name>Sufjan Stevens</name>
+          <appearsAs>Sufjan Stevens</appearsAs>
+          <slug>sufjan-stevens</slug>
+        </artist>
+        <slug>carrie-and-lowell</slug>
+        <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/042/508/0004250841_50.jpg</image>
+      </release>
+      <slug>carrie-and-lowell</slug>
+      <price>
+        <currency code="GBP">£</currency>
+        <value>0.99</value>
+        <formattedPrice>£0.99</formattedPrice>
+        <rrp>0.99</rrp>
+        <formattedRrp>£0.99</formattedRrp>
+        <onSale>false</onSale>
+      </price>
+      <streamingReleaseDate>2015-03-30T00:00:00Z</streamingReleaseDate>
+      <discNumber>1</discNumber>
+      <number>10</number>
+      <download>
+        <previewDate>2015-03-30T00:00:00Z</previewDate>
+        <releaseDate>2015-03-30T00:00:00Z</releaseDate>
+        <packages>
+          <package id="2">
+            <description>standard</description>
+            <price>
+              <currencyCode>GBP</currencyCode>
+              <sevendigitalPrice>0.99</sevendigitalPrice>
+              <recommendedRetailPrice>0.99</recommendedRetailPrice>
+            </price>
+            <formats>
+              <format id="17">
+                <description>MP3 320</description>
+              </format>
+              <format id="33">
+                <description>AAC 320</description>
+              </format>
+            </formats>
+          </package>
+        </packages>
+      </download>
+    </track>
+    <track id="43740344">
+      <title>Blue Bucket of Gold</title>
+      <version/>
+      <artist id="13419">
+        <name>Sufjan Stevens</name>
+        <appearsAs>Sufjan Stevens</appearsAs>
+        <slug>sufjan-stevens</slug>
+      </artist>
+      <trackNumber>11</trackNumber>
+      <duration>285</duration>
+      <explicitContent>false</explicitContent>
+      <isrc>US64G1509911</isrc>
+      <type>audio</type>
+      <release id="4250841">
+        <title>Carrie &amp; Lowell</title>
+        <version/>
+        <type>Album</type>
+        <barcode>656605609966</barcode>
+        <artist id="13419">
+          <name>Sufjan Stevens</name>
+          <appearsAs>Sufjan Stevens</appearsAs>
+          <slug>sufjan-stevens</slug>
+        </artist>
+        <slug>carrie-and-lowell</slug>
+        <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/042/508/0004250841_50.jpg</image>
+      </release>
+      <slug>carrie-and-lowell</slug>
+      <price>
+        <currency code="GBP">£</currency>
+        <value>0.99</value>
+        <formattedPrice>£0.99</formattedPrice>
+        <rrp>0.99</rrp>
+        <formattedRrp>£0.99</formattedRrp>
+        <onSale>false</onSale>
+      </price>
+      <streamingReleaseDate>2015-03-30T00:00:00Z</streamingReleaseDate>
+      <discNumber>1</discNumber>
+      <number>11</number>
+      <download>
+        <previewDate>2015-03-30T00:00:00Z</previewDate>
+        <releaseDate>2015-03-30T00:00:00Z</releaseDate>
+        <packages>
+          <package id="2">
+            <description>standard</description>
+            <price>
+              <currencyCode>GBP</currencyCode>
+              <sevendigitalPrice>0.99</sevendigitalPrice>
+              <recommendedRetailPrice>0.99</recommendedRetailPrice>
+            </price>
+            <formats>
+              <format id="17">
+                <description>MP3 320</description>
+              </format>
+              <format id="33">
+                <description>AAC 320</description>
+              </format>
+            </formats>
+          </package>
+        </packages>
+      </download>
+    </track>
+  </tracks>
+</response>

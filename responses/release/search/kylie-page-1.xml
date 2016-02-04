@@ -1,318 +1,238 @@
 <?xml version="1.0" encoding="utf-8"?>
 <response xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" status="ok" version="1.2" xsi:noNamespaceSchemaLocation="http://api.7digital.com/1.2/static/7digitalAPI.xsd">
-	<searchResults>
-		<page>1</page>
-		<pageSize>10</pageSize>
-		<totalItems>139</totalItems>
-		<searchResult>
-			<type>release</type>
-			<score>3.1120923</score>
-			<release id="2431">
-				<title>Come Into My World</title>
-				<version xsi:nil="true"/>
-				<type>Single</type>
-				<barcode xsi:nil="true"/>
-				<year>2003</year>
-				<explicitContent>false</explicitContent>
-				<artist id="1599">
-					<name>Kylie</name>
-					<appearsAs>Kylie</appearsAs>
-					<url>http://www.7digital.com/artists/kylie/?partner=712</url>
-				</artist>
-				<url>http://www.7digital.com/artists/kylie/come-into-my-world/?partner=712</url>
-				<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/000/024/0000002431_50.jpg</image>
-				<releaseDate>2003-03-03T00:00:00+00:00</releaseDate>
-				<label id="77">
-					<name>EMI UK</name>
-				</label>
-				<licensor id="0"/>
-				<formats>
-					<format priority="11" id="17">
-						<fileFormat>mp3</fileFormat>
-						<bitRate>320</bitRate>
-					</format>
-				</formats>
-				<addedDate>0001-01-01T00:00:00+00:00</addedDate>
-			</release>
-		</searchResult>
-		<searchResult>
-			<type>release</type>
-			<score>3.1120923</score>
-			<release id="93016">
-				<title>Karaoke Kylie</title>
-				<version xsi:nil="true"/>
-				<type>Album</type>
-				<barcode xsi:nil="true"/>
-				<year>2005</year>
-				<explicitContent>false</explicitContent>
-				<artist id="209">
-					<name>Various Artists</name>
-					<appearsAs>Various Artists</appearsAs>
-					<url>http://www.7digital.com/artists/various-artists/?partner=712</url>
-				</artist>
-				<url>http://www.7digital.com/artists/various-artists/karaoke-kylie/?partner=712</url>
-				<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/000/930/0000093016_50.jpg</image>
-				<releaseDate>2005-01-25T00:00:00+00:00</releaseDate>
-				<label id="3623">
-					<name>AVID Entertainment</name>
-				</label>
-				<licensor id="0"/>
-				<formats>
-					<format priority="15" id="6">
-						<fileFormat>mp3</fileFormat>
-						<bitRate>192</bitRate>
-					</format>
-				</formats>
-				<addedDate>0001-01-01T00:00:00+00:00</addedDate>
-			</release>
-		</searchResult>
-		<searchResult>
-			<type>release</type>
-			<score>3.1120923</score>
-			<release id="792804">
-				<title>The Paralysis Sect</title>
-				<version xsi:nil="true"/>
-				<type>Album</type>
-				<barcode xsi:nil="true"/>
-				<year>2009</year>
-				<explicitContent>false</explicitContent>
-				<artist id="182445">
-					<name>Kylie Minoise</name>
-					<appearsAs>Kylie Minoise</appearsAs>
-					<url>http://www.7digital.com/artists/kylie-minoise/?partner=712</url>
-				</artist>
-				<url>http://www.7digital.com/artists/kylie-minoise/the-paralysis-sect/?partner=712</url>
-				<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/007/928/0000792804_50.jpg</image>
-				<releaseDate>2009-03-02T00:00:00+00:00</releaseDate>
-				<label id="17616">
-					<name>Kovorox Sound</name>
-				</label>
-				<licensor id="0"/>
-				<formats>
-					<format priority="15" id="6">
-						<fileFormat>mp3</fileFormat>
-						<bitRate>192</bitRate>
-					</format>
-				</formats>
-				<addedDate>0001-01-01T00:00:00+00:00</addedDate>
-			</release>
-		</searchResult>
-		<searchResult>
-			<type>release</type>
-			<score>2.6484091</score>
-			<release id="1059779">
-				<title>A Kylie Christmas</title>
-				<version xsi:nil="true"/>
-				<type>Single</type>
-				<barcode xsi:nil="true"/>
-				<year>2010</year>
-				<explicitContent>false</explicitContent>
-				<artist id="1599">
-					<name>Kylie</name>
-					<appearsAs>Kylie</appearsAs>
-					<url>http://www.7digital.com/artists/kylie/?partner=712</url>
-				</artist>
-				<url>http://www.7digital.com/artists/kylie/a-kylie-christmas/?partner=712</url>
-				<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/010/597/0001059779_50.jpg</image>
-				<releaseDate>2010-12-12T00:00:00+00:00</releaseDate>
-				<label id="77">
-					<name>EMI UK</name>
-				</label>
-				<licensor id="0"/>
-				<formats>
-					<format priority="11" id="17">
-						<fileFormat>mp3</fileFormat>
-						<bitRate>320</bitRate>
-					</format>
-				</formats>
-				<addedDate>0001-01-01T00:00:00+00:00</addedDate>
-			</release>
-		</searchResult>
-		<searchResult>
-			<type>release</type>
-			<score>2.4998558</score>
-			<release id="893463">
-				<title>Aphrodite</title>
-				<version xsi:nil="true"/>
-				<type>Album</type>
-				<barcode xsi:nil="true"/>
-				<year>2010</year>
-				<explicitContent>false</explicitContent>
-				<artist id="1599">
-					<name>Kylie</name>
-					<appearsAs>Kylie</appearsAs>
-					<url>http://www.7digital.com/artists/kylie/?partner=712</url>
-				</artist>
-				<url>http://www.7digital.com/artists/kylie/aphrodite/?partner=712</url>
-				<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/008/934/0000893463_50.jpg</image>
-				<releaseDate>2010-07-05T00:00:00+01:00</releaseDate>
-				<label id="77">
-					<name>EMI UK</name>
-				</label>
-				<licensor id="0"/>
-				<formats>
-					<format priority="11" id="17">
-						<fileFormat>mp3</fileFormat>
-						<bitRate>320</bitRate>
-					</format>
-				</formats>
-				<addedDate>0001-01-01T00:00:00+00:00</addedDate>
-			</release>
-		</searchResult>
-		<searchResult>
-			<type>release</type>
-			<score>2.4998558</score>
-			<release id="171968">
-				<title>X</title>
-				<version xsi:nil="true"/>
-				<type>Album</type>
-				<barcode xsi:nil="true"/>
-				<year>2007</year>
-				<explicitContent>false</explicitContent>
-				<artist id="1599">
-					<name>Kylie</name>
-					<appearsAs>Kylie</appearsAs>
-					<url>http://www.7digital.com/artists/kylie/?partner=712</url>
-				</artist>
-				<url>http://www.7digital.com/artists/kylie/x/?partner=712</url>
-				<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/001/719/0000171968_50.jpg</image>
-				<releaseDate>2007-11-26T00:00:00+00:00</releaseDate>
-				<label id="77">
-					<name>EMI UK</name>
-				</label>
-				<licensor id="0"/>
-				<formats>
-					<format priority="11" id="17">
-						<fileFormat>mp3</fileFormat>
-						<bitRate>320</bitRate>
-					</format>
-				</formats>
-				<addedDate>0001-01-01T00:00:00+00:00</addedDate>
-			</release>
-		</searchResult>
-		<searchResult>
-			<type>release</type>
-			<score>2.4998558</score>
-			<release id="199465">
-				<title>WOW</title>
-				<version xsi:nil="true"/>
-				<type>Single</type>
-				<barcode xsi:nil="true"/>
-				<year>2008</year>
-				<explicitContent>false</explicitContent>
-				<artist id="1599">
-					<name>Kylie</name>
-					<appearsAs>Kylie</appearsAs>
-					<url>http://www.7digital.com/artists/kylie/?partner=712</url>
-				</artist>
-				<url>http://www.7digital.com/artists/kylie/wow-1-1/?partner=712</url>
-				<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/001/994/0000199465_50.jpg</image>
-				<releaseDate>2008-02-17T00:00:00+00:00</releaseDate>
-				<label id="77">
-					<name>EMI UK</name>
-				</label>
-				<licensor id="0"/>
-				<formats>
-					<format priority="11" id="17">
-						<fileFormat>mp3</fileFormat>
-						<bitRate>320</bitRate>
-					</format>
-				</formats>
-				<addedDate>0001-01-01T00:00:00+00:00</addedDate>
-			</release>
-		</searchResult>
-		<searchResult>
-			<type>release</type>
-			<score>2.4998558</score>
-			<release id="139997">
-				<title>A Tribute To Kylie Minogue</title>
-				<version xsi:nil="true"/>
-				<type>Album</type>
-				<barcode xsi:nil="true"/>
-				<year>2005</year>
-				<explicitContent>false</explicitContent>
-				<artist id="109614">
-					<name>Fever Queens</name>
-					<appearsAs>Fever Queens</appearsAs>
-					<url>http://www.7digital.com/artists/fever-queens/?partner=712</url>
-				</artist>
-				<url>http://www.7digital.com/artists/fever-queens/a-tribute-to-kylie-minogue/?partner=712</url>
-				<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/001/399/0000139997_50.jpg</image>
-				<releaseDate>2005-09-20T00:00:00+01:00</releaseDate>
-				<label id="3497">
-					<name>Cleopatra Records</name>
-				</label>
-				<licensor id="0"/>
-				<formats>
-					<format priority="15" id="6">
-						<fileFormat>mp3</fileFormat>
-						<bitRate>192</bitRate>
-					</format>
-				</formats>
-				<addedDate>0001-01-01T00:00:00+00:00</addedDate>
-			</release>
-		</searchResult>
-		<searchResult>
-			<type>release</type>
-			<score>2.4998558</score>
-			<release id="1107209">
-				<title>Tribute To Kylie Minogue</title>
-				<version xsi:nil="true"/>
-				<type>Album</type>
-				<barcode xsi:nil="true"/>
-				<year>2009</year>
-				<explicitContent>false</explicitContent>
-				<artist id="905523">
-					<name>The Popettes</name>
-					<appearsAs>Popettes, The</appearsAs>
-					<url>http://www.7digital.com/artists/the-popettes/?partner=712</url>
-				</artist>
-				<url>http://www.7digital.com/artists/the-popettes/tribute-to-kylie-minogue/?partner=712</url>
-				<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/011/072/0001107209_50.jpg</image>
-				<releaseDate>2009-08-17T00:00:00+01:00</releaseDate>
-				<label id="10787">
-					<name>Vanilla OMP</name>
-				</label>
-				<licensor id="0"/>
-				<formats>
-					<format priority="11" id="17">
-						<fileFormat>mp3</fileFormat>
-						<bitRate>320</bitRate>
-					</format>
-				</formats>
-				<addedDate>0001-01-01T00:00:00+00:00</addedDate>
-			</release>
-		</searchResult>
-		<searchResult>
-			<type>release</type>
-			<score>2.4998558</score>
-			<release id="747227">
-				<title>A Tribute To Kylie Minogue</title>
-				<version xsi:nil="true"/>
-				<type>Album</type>
-				<barcode xsi:nil="true"/>
-				<year>2009</year>
-				<explicitContent>false</explicitContent>
-				<artist id="558400">
-					<name>Studio Union</name>
-					<appearsAs>Studio Union</appearsAs>
-					<url>http://www.7digital.com/artists/studio-union/?partner=712</url>
-				</artist>
-				<url>http://www.7digital.com/artists/studio-union/a-tribute-to-kylie-minogue/?partner=712</url>
-				<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/007/472/0000747227_50.jpg</image>
-				<releaseDate>2009-10-19T00:00:00+01:00</releaseDate>
-				<label id="46474">
-					<name>Lumi OMP</name>
-				</label>
-				<licensor id="0"/>
-				<formats>
-					<format priority="11" id="17">
-						<fileFormat>mp3</fileFormat>
-						<bitRate>320</bitRate>
-					</format>
-				</formats>
-				<addedDate>0001-01-01T00:00:00+00:00</addedDate>
-			</release>
-		</searchResult>
-	</searchResults>
+  <searchResults>
+    <page>1</page>
+    <pageSize>10</pageSize>
+    <totalItems>139</totalItems>
+    <searchResult>
+      <type>release</type>
+      <score>3.1120923</score>
+      <release id="2431">
+        <title>Come Into My World</title>
+        <version xsi:nil="true"/>
+        <type>Single</type>
+        <barcode xsi:nil="true"/>
+        <year>2003</year>
+        <explicitContent>false</explicitContent>
+        <artist id="1599">
+          <name>Kylie</name>
+          <appearsAs>Kylie</appearsAs>
+          <slug>kylie</slug>
+        </artist>
+        <slug>kylie</slug>
+        <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/000/024/0000002431_50.jpg</image>
+        <label id="77">
+          <name>EMI UK</name>
+        </label>
+        <licensor id="0"/>
+      </release>
+    </searchResult>
+    <searchResult>
+      <type>release</type>
+      <score>3.1120923</score>
+      <release id="93016">
+        <title>Karaoke Kylie</title>
+        <version xsi:nil="true"/>
+        <type>Album</type>
+        <barcode xsi:nil="true"/>
+        <year>2005</year>
+        <explicitContent>false</explicitContent>
+        <artist id="209">
+          <name>Various Artists</name>
+          <appearsAs>Various Artists</appearsAs>
+          <slug>various-artists</slug>
+        </artist>
+        <slug>various-artists</slug>
+        <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/000/930/0000093016_50.jpg</image>
+        <label id="3623">
+          <name>AVID Entertainment</name>
+        </label>
+        <licensor id="0"/>
+      </release>
+    </searchResult>
+    <searchResult>
+      <type>release</type>
+      <score>3.1120923</score>
+      <release id="792804">
+        <title>The Paralysis Sect</title>
+        <version xsi:nil="true"/>
+        <type>Album</type>
+        <barcode xsi:nil="true"/>
+        <year>2009</year>
+        <explicitContent>false</explicitContent>
+        <artist id="182445">
+          <name>Kylie Minoise</name>
+          <appearsAs>Kylie Minoise</appearsAs>
+          <slug>kylie-minoise</slug>
+        </artist>
+        <slug>kylie-minoise</slug>
+        <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/007/928/0000792804_50.jpg</image>
+        <label id="17616">
+          <name>Kovorox Sound</name>
+        </label>
+        <licensor id="0"/>
+      </release>
+    </searchResult>
+    <searchResult>
+      <type>release</type>
+      <score>2.6484091</score>
+      <release id="1059779">
+        <title>A Kylie Christmas</title>
+        <version xsi:nil="true"/>
+        <type>Single</type>
+        <barcode xsi:nil="true"/>
+        <year>2010</year>
+        <explicitContent>false</explicitContent>
+        <artist id="1599">
+          <name>Kylie</name>
+          <appearsAs>Kylie</appearsAs>
+          <slug>kylie</slug>
+        </artist>
+        <slug>kylie</slug>
+        <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/010/597/0001059779_50.jpg</image>
+        <label id="77">
+          <name>EMI UK</name>
+        </label>
+        <licensor id="0"/>
+      </release>
+    </searchResult>
+    <searchResult>
+      <type>release</type>
+      <score>2.4998558</score>
+      <release id="893463">
+        <title>Aphrodite</title>
+        <version xsi:nil="true"/>
+        <type>Album</type>
+        <barcode xsi:nil="true"/>
+        <year>2010</year>
+        <explicitContent>false</explicitContent>
+        <artist id="1599">
+          <name>Kylie</name>
+          <appearsAs>Kylie</appearsAs>
+          <slug>kylie</slug>
+        </artist>
+        <slug>kylie</slug>
+        <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/008/934/0000893463_50.jpg</image>
+        <label id="77">
+          <name>EMI UK</name>
+        </label>
+        <licensor id="0"/>
+      </release>
+    </searchResult>
+    <searchResult>
+      <type>release</type>
+      <score>2.4998558</score>
+      <release id="171968">
+        <title>X</title>
+        <version xsi:nil="true"/>
+        <type>Album</type>
+        <barcode xsi:nil="true"/>
+        <year>2007</year>
+        <explicitContent>false</explicitContent>
+        <artist id="1599">
+          <name>Kylie</name>
+          <appearsAs>Kylie</appearsAs>
+          <slug>kylie</slug>
+        </artist>
+        <slug>kylie</slug>
+        <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/001/719/0000171968_50.jpg</image>
+        <label id="77">
+          <name>EMI UK</name>
+        </label>
+        <licensor id="0"/>
+      </release>
+    </searchResult>
+    <searchResult>
+      <type>release</type>
+      <score>2.4998558</score>
+      <release id="199465">
+        <title>WOW</title>
+        <version xsi:nil="true"/>
+        <type>Single</type>
+        <barcode xsi:nil="true"/>
+        <year>2008</year>
+        <explicitContent>false</explicitContent>
+        <artist id="1599">
+          <name>Kylie</name>
+          <appearsAs>Kylie</appearsAs>
+          <slug>kylie</slug>
+        </artist>
+        <slug>kylie</slug>
+        <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/001/994/0000199465_50.jpg</image>
+        <label id="77">
+          <name>EMI UK</name>
+        </label>
+        <licensor id="0"/>
+      </release>
+    </searchResult>
+    <searchResult>
+      <type>release</type>
+      <score>2.4998558</score>
+      <release id="139997">
+        <title>A Tribute To Kylie Minogue</title>
+        <version xsi:nil="true"/>
+        <type>Album</type>
+        <barcode xsi:nil="true"/>
+        <year>2005</year>
+        <explicitContent>false</explicitContent>
+        <artist id="109614">
+          <name>Fever Queens</name>
+          <appearsAs>Fever Queens</appearsAs>
+          <slug>fever-queens</slug>
+        </artist>
+        <slug>fever-queens</slug>
+        <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/001/399/0000139997_50.jpg</image>
+        <label id="3497">
+          <name>Cleopatra Records</name>
+        </label>
+        <licensor id="0"/>
+      </release>
+    </searchResult>
+    <searchResult>
+      <type>release</type>
+      <score>2.4998558</score>
+      <release id="1107209">
+        <title>Tribute To Kylie Minogue</title>
+        <version xsi:nil="true"/>
+        <type>Album</type>
+        <barcode xsi:nil="true"/>
+        <year>2009</year>
+        <explicitContent>false</explicitContent>
+        <artist id="905523">
+          <name>The Popettes</name>
+          <appearsAs>Popettes, The</appearsAs>
+          <slug>the-popettes</slug>
+        </artist>
+        <slug>the-popettes</slug>
+        <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/011/072/0001107209_50.jpg</image>
+        <label id="10787">
+          <name>Vanilla OMP</name>
+        </label>
+        <licensor id="0"/>
+      </release>
+    </searchResult>
+    <searchResult>
+      <type>release</type>
+      <score>2.4998558</score>
+      <release id="747227">
+        <title>A Tribute To Kylie Minogue</title>
+        <version xsi:nil="true"/>
+        <type>Album</type>
+        <barcode xsi:nil="true"/>
+        <year>2009</year>
+        <explicitContent>false</explicitContent>
+        <artist id="558400">
+          <name>Studio Union</name>
+          <appearsAs>Studio Union</appearsAs>
+          <slug>studio-union</slug>
+        </artist>
+        <slug>studio-union</slug>
+        <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/007/472/0000747227_50.jpg</image>
+        <label id="46474">
+          <name>Lumi OMP</name>
+        </label>
+        <licensor id="0"/>
+      </release>
+    </searchResult>
+  </searchResults>
 </response>

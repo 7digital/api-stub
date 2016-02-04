@@ -1,55 +1,39 @@
 <?xml version="1.0" encoding="utf-8"?>
 <response xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" status="ok" version="1.2" xsi:noNamespaceSchemaLocation="http://api.7digital.com/1.2/static/7digitalAPI.xsd">
-	<release id="480766">
-		<title>The Ecstatic</title>
-		<version/>
-		<type>Album</type>
-		<barcode>00602527068442</barcode>
-		<year>2009</year>
-		<explicitContent>true</explicitContent>
-		<artist id="832">
-			<name>Mos Def</name>
-			<appearsAs>Mos Def</appearsAs>
-			<url>http://www.7digital.com/artists/mos-def/?partner=1401</url>
-		</artist>
-		<url>http://www.7digital.com/artists/mos-def/the-ecstatic/?partner=1401</url>
-		<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/004/807/0000480766_50.jpg</image>
-		<releaseDate>2009-06-29T00:00:00+01:00</releaseDate>
-		<addedDate>2009-06-10T13:55:27+01:00</addedDate>
-		<price>
-			<currency code="GBP">£</currency>
-			<value>7.99</value>
-			<formattedPrice>£7.99</formattedPrice>
-			<rrp>7.99</rrp>
-			<formattedRrp>£7.99</formattedRrp>
-			<onSale>false</onSale>
-		</price>
-		<download>
-			<packages>
-				<package id="2">
-					<description>standard</description>
-					<price>
-						<currencyCode>GBP</currencyCode>
-						<sevendigitalPrice>7.99</sevendigitalPrice>
-						<recommendedRetailPrice>7.99</recommendedRetailPrice>
-					</price>
-					<formats>
-						<format id="17">
-							<description>MP3 320</description>
-						</format>
-					</formats>
-				</package>
-			</packages>
-		</download>
-		<formats availableDrmFree="true">
-			<format id="17">
-				<fileFormat>MP3</fileFormat>
-				<bitRate>320</bitRate>
-				<drmFree>true</drmFree>
-			</format>
-		</formats>
-		<label id="25942">
-			<name>Universal Music AB</name>
-		</label>
-	</release>
+  <release id="480766">
+    <title>The Ecstatic</title>
+    <version/>
+    <type>Album</type>
+    <barcode>00602527068442</barcode>
+    <year>2009</year>
+    <explicitContent>true</explicitContent>
+    <artist id="832">
+      <name>Mos Def</name>
+      <appearsAs>Mos Def</appearsAs>
+      <slug>mos-def</slug>
+    </artist>
+    <slug>mos-def</slug>
+    <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/004/807/0000480766_50.jpg</image>
+    <download>
+      <packages>
+        <package id="2">
+          <description>standard</description>
+          <price>
+            <currencyCode>GBP</currencyCode>
+            <sevendigitalPrice>7.99</sevendigitalPrice>
+            <recommendedRetailPrice>7.99</recommendedRetailPrice>
+          </price>
+          <formats>
+            <format id="17">
+              <description>MP3 320</description>
+            </format>
+          </formats>
+        </package>
+      </packages>
+      <releaseDate>2009-06-29T00:00:00+01:00</releaseDate>
+    </download>
+    <label id="25942">
+      <name>Universal Music AB</name>
+    </label>
+  </release>
 </response>

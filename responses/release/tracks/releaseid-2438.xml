@@ -1,216 +1,216 @@
 <?xml version="1.0" encoding="utf-8"?>
 <response xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" status="ok" version="1.2" xsi:noNamespaceSchemaLocation="http://api.7digital.com/1.2/static/7digitalAPI.xsd">
-	<tracks>
-		<page>1</page>
-		<pageSize>10</pageSize>
-		<totalItems>1</totalItems>
-		<track id="1">
-			<title>Item 0</title>
-			<version>Album Version</version>
-			<artist id="1">
-				<name>Keane</name>
-				<appearsAs>Keane</appearsAs>
-				<url>http://www.7digital.com/artists/keane/?partner=712</url>
-			</artist>
-			<trackNumber>1</trackNumber>
-			<duration>84</duration>
-			<explicitContent>false</explicitContent>
-			<isrc>GBUM71000080</isrc>
-			<release id="799025">
-				<title>Night Train</title>
-				<version/>
-				<type>Album</type>
-				<barcode>00602527392622</barcode>
-				<artist id="1">
-					<name>Keane</name>
-					<appearsAs>Keane</appearsAs>
-					<url>http://www.7digital.com/artists/keane/?partner=712</url>
-				</artist>
-				<url>http://www.7digital.com/artists/keane/night-train/?partner=712</url>
-				<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/007/990/0000799025_50.jpg</image>
-			</release>
-			<url>http://www.7digital.com/artists/keane/night-train/01-House-Lights/?partner=712</url>
-			<price>
-				<currency code="GBP">£</currency>
-				<formattedPrice>£0.99</formattedPrice>
-				<value>0.99</value>
-				<rrp>0.99</rrp>
-				<formattedRrp>£0.99</formattedRrp>
-				<onSale>false</onSale>
-			</price>
-			<download>
-				<packages>
-					<package id="2">
-						<description>standard</description>
-						<price>
-							<currencyCode>GBP</currencyCode>
-							<sevendigitalPrice>0.99</sevendigitalPrice>
-							<recommendedRetailPrice>0.99</recommendedRetailPrice>
-						</price>
-						<formats>
-							<format id="17">
-								<description>MP3 320</description>
-							</format>
-						</formats>
-					</package>
-				</packages>
-			</download>
-		</track>
-		<track id="2">
-			<title>Item 1</title>
-			<version>Album Version</version>
-			<artist id="1">
-				<name>Keane</name>
-				<appearsAs>Keane</appearsAs>
-				<url>http://www.7digital.com/artists/keane/?partner=712</url>
-			</artist>
-			<trackNumber>1</trackNumber>
-			<duration>84</duration>
-			<explicitContent>false</explicitContent>
-			<isrc>GBUM71000080</isrc>
-			<release id="799025">
-				<title>Night Train</title>
-				<version/>
-				<type>Album</type>
-				<barcode>00602527392622</barcode>
-				<artist id="1">
-					<name>Keane</name>
-					<appearsAs>Keane</appearsAs>
-					<url>http://www.7digital.com/artists/keane/?partner=712</url>
-				</artist>
-				<url>http://www.7digital.com/artists/keane/night-train/?partner=712</url>
-				<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/007/990/0000799025_50.jpg</image>
-			</release>
-			<url>http://www.7digital.com/artists/keane/night-train/01-House-Lights/?partner=712</url>
-			<price>
-				<currency code="GBP">£</currency>
-				<formattedPrice>£0.99</formattedPrice>
-				<value>0.99</value>
-				<rrp>0.99</rrp>
-				<formattedRrp>£0.99</formattedRrp>
-				<onSale>false</onSale>
-			</price>
-			<download>
-				<packages>
-					<package id="2">
-						<description>standard</description>
-						<price>
-							<currencyCode>GBP</currencyCode>
-							<sevendigitalPrice>0.99</sevendigitalPrice>
-							<recommendedRetailPrice>0.99</recommendedRetailPrice>
-						</price>
-						<formats>
-							<format id="17">
-								<description>MP3 320</description>
-							</format>
-						</formats>
-					</package>
-				</packages>
-			</download>
-		</track>
-		<track id="3">
-			<title>Item 2</title>
-			<version>Album Version</version>
-			<artist id="1">
-				<name>Keane</name>
-				<appearsAs>Keane</appearsAs>
-				<url>http://www.7digital.com/artists/keane/?partner=712</url>
-			</artist>
-			<trackNumber>1</trackNumber>
-			<duration>84</duration>
-			<explicitContent>false</explicitContent>
-			<isrc>GBUM71000080</isrc>
-			<release id="799025">
-				<title>Night Train</title>
-				<version/>
-				<type>Album</type>
-				<barcode>00602527392622</barcode>
-				<artist id="1">
-					<name>Keane</name>
-					<appearsAs>Keane</appearsAs>
-					<url>http://www.7digital.com/artists/keane/?partner=712</url>
-				</artist>
-				<url>http://www.7digital.com/artists/keane/night-train/?partner=712</url>
-				<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/007/990/0000799025_50.jpg</image>
-			</release>
-			<url>http://www.7digital.com/artists/keane/night-train/01-House-Lights/?partner=712</url>
-			<price>
-				<currency code="GBP">£</currency>
-				<formattedPrice>£0.99</formattedPrice>
-				<value>0.99</value>
-				<rrp>0.99</rrp>
-				<formattedRrp>£0.99</formattedRrp>
-				<onSale>false</onSale>
-			</price>
-			<download>
-				<packages>
-					<package id="2">
-						<description>standard</description>
-						<price>
-							<currencyCode>GBP</currencyCode>
-							<sevendigitalPrice>0.99</sevendigitalPrice>
-							<recommendedRetailPrice>0.99</recommendedRetailPrice>
-						</price>
-						<formats>
-							<format id="17">
-								<description>MP3 320</description>
-							</format>
-						</formats>
-					</package>
-				</packages>
-			</download>
-		</track>
-		<track id="4">
-			<title>Item 4</title>
-			<version>Album Version</version>
-			<artist id="1">
-				<name>Keane</name>
-				<appearsAs>Keane</appearsAs>
-				<url>http://www.7digital.com/artists/keane/?partner=712</url>
-			</artist>
-			<trackNumber>1</trackNumber>
-			<duration>84</duration>
-			<explicitContent>false</explicitContent>
-			<isrc>GBUM71000080</isrc>
-			<release id="799025">
-				<title>Night Train</title>
-				<version/>
-				<type>Album</type>
-				<barcode>00602527392622</barcode>
-				<artist id="1">
-					<name>Keane</name>
-					<appearsAs>Keane</appearsAs>
-					<url>http://www.7digital.com/artists/keane/?partner=712</url>
-				</artist>
-				<url>http://www.7digital.com/artists/keane/night-train/?partner=712</url>
-				<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/007/990/0000799025_50.jpg</image>
-			</release>
-			<url>http://www.7digital.com/artists/keane/night-train/01-House-Lights/?partner=712</url>
-			<price>
-				<currency code="GBP">£</currency>
-				<formattedPrice>£0.99</formattedPrice>
-				<value>0.99</value>
-				<rrp>0.99</rrp>
-				<formattedRrp>£0.99</formattedRrp>
-				<onSale>false</onSale>
-			</price>
-			<download>
-				<packages>
-					<package id="2">
-						<description>standard</description>
-						<price>
-							<currencyCode>GBP</currencyCode>
-							<sevendigitalPrice>0.99</sevendigitalPrice>
-							<recommendedRetailPrice>0.99</recommendedRetailPrice>
-						</price>
-						<formats>
-							<format id="17">
-								<description>MP3 320</description>
-							</format>
-						</formats>
-					</package>
-				</packages>
-			</download>
-		</track>
-	</tracks>
+  <tracks>
+    <page>1</page>
+    <pageSize>10</pageSize>
+    <totalItems>1</totalItems>
+    <track id="1">
+      <title>Item 0</title>
+      <version>Album Version</version>
+      <artist id="1">
+        <name>Keane</name>
+        <appearsAs>Keane</appearsAs>
+        <slug>keane</slug>
+      </artist>
+      <trackNumber>1</trackNumber>
+      <duration>84</duration>
+      <explicitContent>false</explicitContent>
+      <isrc>GBUM71000080</isrc>
+      <release id="799025">
+        <title>Night Train</title>
+        <version/>
+        <type>Album</type>
+        <barcode>00602527392622</barcode>
+        <artist id="1">
+          <name>Keane</name>
+          <appearsAs>Keane</appearsAs>
+          <slug>keane</slug>
+        </artist>
+        <slug>perfect-symmetry-1</slug>
+        <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/007/990/0000799025_50.jpg</image>
+      </release>
+      <slug>perfect-symmetry-1</slug>
+      <price>
+        <currency code="GBP">£</currency>
+        <formattedPrice>£0.99</formattedPrice>
+        <value>0.99</value>
+        <rrp>0.99</rrp>
+        <formattedRrp>£0.99</formattedRrp>
+        <onSale>false</onSale>
+      </price>
+      <download>
+        <packages>
+          <package id="2">
+            <description>standard</description>
+            <price>
+              <currencyCode>GBP</currencyCode>
+              <sevendigitalPrice>0.99</sevendigitalPrice>
+              <recommendedRetailPrice>0.99</recommendedRetailPrice>
+            </price>
+            <formats>
+              <format id="17">
+                <description>MP3 320</description>
+              </format>
+            </formats>
+          </package>
+        </packages>
+      </download>
+    </track>
+    <track id="2">
+      <title>Item 1</title>
+      <version>Album Version</version>
+      <artist id="1">
+        <name>Keane</name>
+        <appearsAs>Keane</appearsAs>
+        <slug>keane</slug>
+      </artist>
+      <trackNumber>1</trackNumber>
+      <duration>84</duration>
+      <explicitContent>false</explicitContent>
+      <isrc>GBUM71000080</isrc>
+      <release id="799025">
+        <title>Night Train</title>
+        <version/>
+        <type>Album</type>
+        <barcode>00602527392622</barcode>
+        <artist id="1">
+          <name>Keane</name>
+          <appearsAs>Keane</appearsAs>
+          <slug>keane</slug>
+        </artist>
+        <slug>perfect-symmetry-1</slug>
+        <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/007/990/0000799025_50.jpg</image>
+      </release>
+      <slug>perfect-symmetry-1</slug>
+      <price>
+        <currency code="GBP">£</currency>
+        <formattedPrice>£0.99</formattedPrice>
+        <value>0.99</value>
+        <rrp>0.99</rrp>
+        <formattedRrp>£0.99</formattedRrp>
+        <onSale>false</onSale>
+      </price>
+      <download>
+        <packages>
+          <package id="2">
+            <description>standard</description>
+            <price>
+              <currencyCode>GBP</currencyCode>
+              <sevendigitalPrice>0.99</sevendigitalPrice>
+              <recommendedRetailPrice>0.99</recommendedRetailPrice>
+            </price>
+            <formats>
+              <format id="17">
+                <description>MP3 320</description>
+              </format>
+            </formats>
+          </package>
+        </packages>
+      </download>
+    </track>
+    <track id="3">
+      <title>Item 2</title>
+      <version>Album Version</version>
+      <artist id="1">
+        <name>Keane</name>
+        <appearsAs>Keane</appearsAs>
+        <slug>keane</slug>
+      </artist>
+      <trackNumber>1</trackNumber>
+      <duration>84</duration>
+      <explicitContent>false</explicitContent>
+      <isrc>GBUM71000080</isrc>
+      <release id="799025">
+        <title>Night Train</title>
+        <version/>
+        <type>Album</type>
+        <barcode>00602527392622</barcode>
+        <artist id="1">
+          <name>Keane</name>
+          <appearsAs>Keane</appearsAs>
+          <slug>keane</slug>
+        </artist>
+        <slug>perfect-symmetry-1</slug>
+        <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/007/990/0000799025_50.jpg</image>
+      </release>
+      <slug>perfect-symmetry-1</slug>
+      <price>
+        <currency code="GBP">£</currency>
+        <formattedPrice>£0.99</formattedPrice>
+        <value>0.99</value>
+        <rrp>0.99</rrp>
+        <formattedRrp>£0.99</formattedRrp>
+        <onSale>false</onSale>
+      </price>
+      <download>
+        <packages>
+          <package id="2">
+            <description>standard</description>
+            <price>
+              <currencyCode>GBP</currencyCode>
+              <sevendigitalPrice>0.99</sevendigitalPrice>
+              <recommendedRetailPrice>0.99</recommendedRetailPrice>
+            </price>
+            <formats>
+              <format id="17">
+                <description>MP3 320</description>
+              </format>
+            </formats>
+          </package>
+        </packages>
+      </download>
+    </track>
+    <track id="4">
+      <title>Item 4</title>
+      <version>Album Version</version>
+      <artist id="1">
+        <name>Keane</name>
+        <appearsAs>Keane</appearsAs>
+        <slug>keane</slug>
+      </artist>
+      <trackNumber>1</trackNumber>
+      <duration>84</duration>
+      <explicitContent>false</explicitContent>
+      <isrc>GBUM71000080</isrc>
+      <release id="799025">
+        <title>Night Train</title>
+        <version/>
+        <type>Album</type>
+        <barcode>00602527392622</barcode>
+        <artist id="1">
+          <name>Keane</name>
+          <appearsAs>Keane</appearsAs>
+          <slug>keane</slug>
+        </artist>
+        <slug>perfect-symmetry-1</slug>
+        <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/007/990/0000799025_50.jpg</image>
+      </release>
+      <slug>perfect-symmetry-1</slug>
+      <price>
+        <currency code="GBP">£</currency>
+        <formattedPrice>£0.99</formattedPrice>
+        <value>0.99</value>
+        <rrp>0.99</rrp>
+        <formattedRrp>£0.99</formattedRrp>
+        <onSale>false</onSale>
+      </price>
+      <download>
+        <packages>
+          <package id="2">
+            <description>standard</description>
+            <price>
+              <currencyCode>GBP</currencyCode>
+              <sevendigitalPrice>0.99</sevendigitalPrice>
+              <recommendedRetailPrice>0.99</recommendedRetailPrice>
+            </price>
+            <formats>
+              <format id="17">
+                <description>MP3 320</description>
+              </format>
+            </formats>
+          </package>
+        </packages>
+      </download>
+    </track>
+  </tracks>
 </response>

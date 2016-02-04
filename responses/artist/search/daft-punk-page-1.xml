@@ -1,74 +1,74 @@
 <?xml version="1.0" encoding="utf-8"?>
 <response xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" status="ok" version="1.2" xsi:noNamespaceSchemaLocation="http://api.7digital.com/1.2/static/7digitalAPI.xsd">
-	<searchResults>
-		<page>1</page>
-		<pageSize>6</pageSize>
-		<totalItems>7</totalItems>
-		<searchResult>
-			<type>artist</type>
-			<score>17.960562</score>
-			<artist id="466">
-				<name>Daft Punk</name>
-				<sortName>Daft Punk</sortName>
-				<url>http://www.7digital.com/artist/daft-punk/?partner=3923</url>
-				<image>http://artwork-cdn.7static.com/static/img/artistimages/00/000/004/0000000466_150.jpg</image>
-				<popularity>1</popularity>
-			</artist>
-		</searchResult>
-		<searchResult>
-			<type>artist</type>
-			<score>14.368449</score>
-			<artist id="1871625">
-				<name>Tribute to Daft Punk</name>
-				<sortName>Tribute to Daft Punk</sortName>
-				<url>http://www.7digital.com/artist/tribute-to-daft-punk/?partner=3923</url>
-				<image>http://artwork-cdn.7static.com/static/img/artistimages/00/018/716/0001871625_150.jpg</image>
-				<popularity>0.35</popularity>
-			</artist>
-		</searchResult>
-		<searchResult>
-			<type>artist</type>
-			<score>14.368449</score>
-			<artist id="955409">
-				<name>Daft Punk's Karaoke Band</name>
-				<sortName>Daft Punk's Karaoke Band</sortName>
-				<url>http://www.7digital.com/artist/daft-punks-karaoke-band/?partner=3923</url>
-				<image>http://artwork-cdn.7static.com/static/img/artistimages/00/009/554/0000955409_150.jpg</image>
-				<popularity>0.32</popularity>
-			</artist>
-		</searchResult>
-		<searchResult>
-			<type>artist</type>
-			<score>12.572393</score>
-			<artist id="963335">
-				<name>Daft Punk/The Glitch Mob</name>
-				<sortName>Daft Punk/The Glitch Mob</sortName>
-				<url>http://www.7digital.com/artist/daft-punk-the-glitch-mob/?partner=3923</url>
-				<image>http://artwork-cdn.7static.com/static/img/artistimages/00/009/633/0000963335_150.jpg</image>
-				<popularity>0.46</popularity>
-			</artist>
-		</searchResult>
-		<searchResult>
-			<type>artist</type>
-			<score>12.572393</score>
-			<artist id="1856428">
-				<name>Daft Punk ft. Pharrell Williams</name>
-				<sortName>Daft Punk ft. Pharrell Williams</sortName>
-				<url>http://www.7digital.com/artist/daft-punk-ft-pharrell-williams/?partner=3923</url>
-				<image>http://artwork-cdn.7static.com/static/img/artistimages/00/018/564/0001856428_150.jpg</image>
-				<popularity>0.28</popularity>
-			</artist>
-		</searchResult>
-		<searchResult>
-			<type>artist</type>
-			<score>12.572393</score>
-			<artist id="1861893">
-				<name>Daft Punk feat. Pharrell Williams</name>
-				<sortName>Daft Punk feat. Pharrell Williams</sortName>
-				<url>http://www.7digital.com/artist/daft-punk-feat-pharrell-williams/?partner=3923</url>
-				<image>http://artwork-cdn.7static.com/static/img/artistimages/00/018/618/0001861893_150.jpg</image>
-				<popularity>0.28</popularity>
-			</artist>
-		</searchResult>
-	</searchResults>
+  <searchResults>
+    <page>1</page>
+    <pageSize>6</pageSize>
+    <totalItems>7</totalItems>
+    <searchResult>
+      <type>artist</type>
+      <score>17.960562</score>
+      <artist id="466">
+        <name>Daft Punk</name>
+        <sortName>Daft Punk</sortName>
+        <slug>daft-punk</slug>
+        <image>http://artwork-cdn.7static.com/static/img/artistimages/00/000/004/0000000466_150.jpg</image>
+        <popularity>1</popularity>
+      </artist>
+    </searchResult>
+    <searchResult>
+      <type>artist</type>
+      <score>14.368449</score>
+      <artist id="1871625">
+        <name>Tribute to Daft Punk</name>
+        <sortName>Tribute to Daft Punk</sortName>
+        <slug>tribute-to-daft-punk</slug>
+        <image>http://artwork-cdn.7static.com/static/img/artistimages/00/018/716/0001871625_150.jpg</image>
+        <popularity>0.35</popularity>
+      </artist>
+    </searchResult>
+    <searchResult>
+      <type>artist</type>
+      <score>14.368449</score>
+      <artist id="955409">
+        <name>Daft Punk's Karaoke Band</name>
+        <sortName>Daft Punk's Karaoke Band</sortName>
+        <slug>daft-punks-karaoke-band</slug>
+        <image>http://artwork-cdn.7static.com/static/img/artistimages/00/009/554/0000955409_150.jpg</image>
+        <popularity>0.32</popularity>
+      </artist>
+    </searchResult>
+    <searchResult>
+      <type>artist</type>
+      <score>12.572393</score>
+      <artist id="963335">
+        <name>Daft Punk/The Glitch Mob</name>
+        <sortName>Daft Punk/The Glitch Mob</sortName>
+        <slug>daft-punk-the-glitch-mob</slug>
+        <image>http://artwork-cdn.7static.com/static/img/artistimages/00/009/633/0000963335_150.jpg</image>
+        <popularity>0.46</popularity>
+      </artist>
+    </searchResult>
+    <searchResult>
+      <type>artist</type>
+      <score>12.572393</score>
+      <artist id="1856428">
+        <name>Daft Punk ft. Pharrell Williams</name>
+        <sortName>Daft Punk ft. Pharrell Williams</sortName>
+        <slug>daft-punk-ft-pharrell-williams</slug>
+        <image>http://artwork-cdn.7static.com/static/img/artistimages/00/018/564/0001856428_150.jpg</image>
+        <popularity>0.28</popularity>
+      </artist>
+    </searchResult>
+    <searchResult>
+      <type>artist</type>
+      <score>12.572393</score>
+      <artist id="1861893">
+        <name>Daft Punk feat. Pharrell Williams</name>
+        <sortName>Daft Punk feat. Pharrell Williams</sortName>
+        <slug>daft-punk-feat-pharrell-williams</slug>
+        <image>http://artwork-cdn.7static.com/static/img/artistimages/00/018/618/0001861893_150.jpg</image>
+        <popularity>0.28</popularity>
+      </artist>
+    </searchResult>
+  </searchResults>
 </response>

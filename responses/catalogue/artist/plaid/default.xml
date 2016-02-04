@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <response xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" status="ok" version="1.2" xsi:noNamespaceSchemaLocation="http://api.7digital.com/1.2/static/7digitalAPI.xsd">
-	<artist id="51119" key="plaid">
-		<name>Plaid</name>
-		<sortname>Plaid</sortname>
-		<url>http://www.7digital.com/artist/plaid/?partner=3923</url>
-		<image>http://artwork-cdn.7static.com/static/img/artistimages/00/000/511/0000051119_150.jpg</image>
-	</artist>
+  <artist id="51119" key="plaid">
+    <name>Plaid</name>
+    <sortname>Plaid</sortname>
+    <slug>plaid</slug>
+    <image>http://artwork-cdn.7static.com/static/img/artistimages/00/000/511/0000051119_150.jpg</image>
+  </artist>
 </response>

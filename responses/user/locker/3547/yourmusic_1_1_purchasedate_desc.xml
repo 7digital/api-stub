@@ -1,830 +1,830 @@
 <?xml version="1.0" encoding="utf-8"?>
 <response xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" status="ok" version="1.2" xsi:noNamespaceSchemaLocation="http://api.7digital.com/1.2/static/7digitalAPI.xsd">
-	<locker>
-		<lockerReleases>
-			<page>1</page>
-			<pageSize>36</pageSize>
-			<totalItems>54</totalItems>
-			<lockerRelease>
-				<release id="1627544">
-					<title>Elvis</title>
-					<version/>
-					<type>Album</type>
-					<barcode>7640138331084</barcode>
-					<artist id="2200">
-						<name>Elvis Presley</name>
-						<appearsAs>Elvis Presley</appearsAs>
-						<url>http://www.7digital.com/artist/elvis-presley-(2)/?partner=5932</url>
-					</artist>
-					<url>http://www.7digital.com/artist/elvis-presley-(2)/release/elvis-8/?partner=5932</url>
-					<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/016/275/0001627544_50.jpg</image>
-					<releaseDate>2012-02-24T00:00:00Z</releaseDate>
-					<licensor id="68"/>
-				</release>
-				<lockerTracks>
-					<lockerTrack>
-						<track id="17832723">
-							<title>His Hand in Mine</title>
-							<version>Remastered</version>
-							<artist id="2200">
-								<name>Elvis Presley</name>
-								<appearsAs>Elvis Presley</appearsAs>
-								<url>http://www.7digital.com/artist/elvis-presley-(2)/?partner=5932</url>
-							</artist>
-							<trackNumber>1</trackNumber>
-							<duration>200</duration>
-							<isrc>GBURZ1100858</isrc>
-							<url>http://www.7digital.com/artist/elvis-presley-(2)/release/elvis-8/?partner=5932&amp;h=01</url>
-						</track>
-						<remainingDownloads>5</remainingDownloads>
-						<purchaseId>814165778</purchaseId>
-						<purchaseDate>2014-07-30T10:55:41Z</purchaseDate>
-						<completeAlbumPurchase>true</completeAlbumPurchase>
-						<downloadUrls/>
-					</lockerTrack>
-					<lockerTrack>
-						<track id="17832724">
-							<title>I'm Gonna Walk Dem Golden Stairs</title>
-							<version>Remastered</version>
-							<artist id="2200">
-								<name>Elvis Presley</name>
-								<appearsAs>Elvis Presley</appearsAs>
-								<url>http://www.7digital.com/artist/elvis-presley-(2)/?partner=5932</url>
-							</artist>
-							<trackNumber>2</trackNumber>
-							<duration>113</duration>
-							<isrc>GBURZ1100859</isrc>
-							<url>http://www.7digital.com/artist/elvis-presley-(2)/release/elvis-8/?partner=5932&amp;h=02</url>
-						</track>
-						<remainingDownloads>5</remainingDownloads>
-						<purchaseId>814165778</purchaseId>
-						<purchaseDate>2014-07-30T10:55:41Z</purchaseDate>
-						<completeAlbumPurchase>true</completeAlbumPurchase>
-						<downloadUrls/>
-					</lockerTrack>
-					<lockerTrack>
-						<track id="17832725">
-							<title>In My Father's House</title>
-							<version>Remastered</version>
-							<artist id="2200">
-								<name>Elvis Presley</name>
-								<appearsAs>Elvis Presley</appearsAs>
-								<url>http://www.7digital.com/artist/elvis-presley-(2)/?partner=5932</url>
-							</artist>
-							<trackNumber>3</trackNumber>
-							<duration>126</duration>
-							<isrc>GBURZ1100860</isrc>
-							<url>http://www.7digital.com/artist/elvis-presley-(2)/release/elvis-8/?partner=5932&amp;h=03</url>
-						</track>
-						<remainingDownloads>5</remainingDownloads>
-						<purchaseId>814165778</purchaseId>
-						<purchaseDate>2014-07-30T10:55:41Z</purchaseDate>
-						<completeAlbumPurchase>true</completeAlbumPurchase>
-						<downloadUrls/>
-					</lockerTrack>
-					<lockerTrack>
-						<track id="17832726">
-							<title>Milky White Way</title>
-							<version/>
-							<artist id="2200">
-								<name>Elvis Presley</name>
-								<appearsAs>Elvis Presley</appearsAs>
-								<url>http://www.7digital.com/artist/elvis-presley-(2)/?partner=5932</url>
-							</artist>
-							<trackNumber>4</trackNumber>
-							<duration>136</duration>
-							<isrc>GBURZ1100861</isrc>
-							<url>http://www.7digital.com/artist/elvis-presley-(2)/release/elvis-8/?partner=5932&amp;h=04</url>
-						</track>
-						<remainingDownloads>5</remainingDownloads>
-						<purchaseId>814165778</purchaseId>
-						<purchaseDate>2014-07-30T10:55:41Z</purchaseDate>
-						<completeAlbumPurchase>true</completeAlbumPurchase>
-						<downloadUrls/>
-					</lockerTrack>
-					<lockerTrack>
-						<track id="17832728">
-							<title>Known Only to Him</title>
-							<version>Remastered</version>
-							<artist id="2200">
-								<name>Elvis Presley</name>
-								<appearsAs>Elvis Presley</appearsAs>
-								<url>http://www.7digital.com/artist/elvis-presley-(2)/?partner=5932</url>
-							</artist>
-							<trackNumber>5</trackNumber>
-							<duration>131</duration>
-							<isrc>GBURZ1100862</isrc>
-							<url>http://www.7digital.com/artist/elvis-presley-(2)/release/elvis-8/?partner=5932&amp;h=05</url>
-						</track>
-						<remainingDownloads>5</remainingDownloads>
-						<purchaseId>814165778</purchaseId>
-						<purchaseDate>2014-07-30T10:55:41Z</purchaseDate>
-						<completeAlbumPurchase>true</completeAlbumPurchase>
-						<downloadUrls/>
-					</lockerTrack>
-					<lockerTrack>
-						<track id="17832729">
-							<title>I Believe in the Man in the Sky</title>
-							<version>Remastered</version>
-							<artist id="2200">
-								<name>Elvis Presley</name>
-								<appearsAs>Elvis Presley</appearsAs>
-								<url>http://www.7digital.com/artist/elvis-presley-(2)/?partner=5932</url>
-							</artist>
-							<trackNumber>6</trackNumber>
-							<duration>136</duration>
-							<isrc>GBURZ1100863</isrc>
-							<url>http://www.7digital.com/artist/elvis-presley-(2)/release/elvis-8/?partner=5932&amp;h=06</url>
-						</track>
-						<remainingDownloads>5</remainingDownloads>
-						<purchaseId>814165778</purchaseId>
-						<purchaseDate>2014-07-30T10:55:41Z</purchaseDate>
-						<completeAlbumPurchase>true</completeAlbumPurchase>
-						<downloadUrls/>
-					</lockerTrack>
-					<lockerTrack>
-						<track id="17832730">
-							<title>Joshua Fit the Battle</title>
-							<version>Remastered</version>
-							<artist id="2200">
-								<name>Elvis Presley</name>
-								<appearsAs>Elvis Presley</appearsAs>
-								<url>http://www.7digital.com/artist/elvis-presley-(2)/?partner=5932</url>
-							</artist>
-							<trackNumber>7</trackNumber>
-							<duration>161</duration>
-							<isrc>GBURZ1100864</isrc>
-							<url>http://www.7digital.com/artist/elvis-presley-(2)/release/elvis-8/?partner=5932&amp;h=07</url>
-						</track>
-						<remainingDownloads>5</remainingDownloads>
-						<purchaseId>814165778</purchaseId>
-						<purchaseDate>2014-07-30T10:55:41Z</purchaseDate>
-						<completeAlbumPurchase>true</completeAlbumPurchase>
-						<downloadUrls/>
-					</lockerTrack>
-					<lockerTrack>
-						<track id="17832731">
-							<title>He Knows Just What I Need</title>
-							<version>Remastered</version>
-							<artist id="2200">
-								<name>Elvis Presley</name>
-								<appearsAs>Elvis Presley</appearsAs>
-								<url>http://www.7digital.com/artist/elvis-presley-(2)/?partner=5932</url>
-							</artist>
-							<trackNumber>8</trackNumber>
-							<duration>134</duration>
-							<isrc>GBURZ1100865</isrc>
-							<url>http://www.7digital.com/artist/elvis-presley-(2)/release/elvis-8/?partner=5932&amp;h=08</url>
-						</track>
-						<remainingDownloads>5</remainingDownloads>
-						<purchaseId>814165778</purchaseId>
-						<purchaseDate>2014-07-30T10:55:41Z</purchaseDate>
-						<completeAlbumPurchase>true</completeAlbumPurchase>
-						<downloadUrls/>
-					</lockerTrack>
-					<lockerTrack>
-						<track id="17832732">
-							<title>Swing Down Sweet Chariot</title>
-							<version>Remastered</version>
-							<artist id="2200">
-								<name>Elvis Presley</name>
-								<appearsAs>Elvis Presley</appearsAs>
-								<url>http://www.7digital.com/artist/elvis-presley-(2)/?partner=5932</url>
-							</artist>
-							<trackNumber>9</trackNumber>
-							<duration>154</duration>
-							<isrc>GBURZ1100866</isrc>
-							<url>http://www.7digital.com/artist/elvis-presley-(2)/release/elvis-8/?partner=5932&amp;h=09</url>
-						</track>
-						<remainingDownloads>5</remainingDownloads>
-						<purchaseId>814165778</purchaseId>
-						<purchaseDate>2014-07-30T10:55:41Z</purchaseDate>
-						<completeAlbumPurchase>true</completeAlbumPurchase>
-						<downloadUrls/>
-					</lockerTrack>
-					<lockerTrack>
-						<track id="17832733">
-							<title>Mansion Over the Hilltop</title>
-							<version>Remastered</version>
-							<artist id="2200">
-								<name>Elvis Presley</name>
-								<appearsAs>Elvis Presley</appearsAs>
-								<url>http://www.7digital.com/artist/elvis-presley-(2)/?partner=5932</url>
-							</artist>
-							<trackNumber>10</trackNumber>
-							<duration>179</duration>
-							<isrc>GBURZ1100867</isrc>
-							<url>http://www.7digital.com/artist/elvis-presley-(2)/release/elvis-8/?partner=5932&amp;h=10</url>
-						</track>
-						<remainingDownloads>5</remainingDownloads>
-						<purchaseId>814165778</purchaseId>
-						<purchaseDate>2014-07-30T10:55:41Z</purchaseDate>
-						<completeAlbumPurchase>true</completeAlbumPurchase>
-						<downloadUrls/>
-					</lockerTrack>
-					<lockerTrack>
-						<track id="17832734">
-							<title>Working On the Building</title>
-							<version>Remastered</version>
-							<artist id="2200">
-								<name>Elvis Presley</name>
-								<appearsAs>Elvis Presley</appearsAs>
-								<url>http://www.7digital.com/artist/elvis-presley-(2)/?partner=5932</url>
-							</artist>
-							<trackNumber>11</trackNumber>
-							<duration>115</duration>
-							<isrc>GBURZ1100869</isrc>
-							<url>http://www.7digital.com/artist/elvis-presley-(2)/release/elvis-8/?partner=5932&amp;h=11</url>
-						</track>
-						<remainingDownloads>5</remainingDownloads>
-						<purchaseId>814165778</purchaseId>
-						<purchaseDate>2014-07-30T10:55:41Z</purchaseDate>
-						<completeAlbumPurchase>true</completeAlbumPurchase>
-						<downloadUrls/>
-					</lockerTrack>
-					<lockerTrack>
-						<track id="17832735">
-							<title>It Is No Secret (What God Can Do)</title>
-							<version/>
-							<artist id="2200">
-								<name>Elvis Presley</name>
-								<appearsAs>Elvis Presley</appearsAs>
-								<url>http://www.7digital.com/artist/elvis-presley-(2)/?partner=5932</url>
-							</artist>
-							<trackNumber>12</trackNumber>
-							<duration>235</duration>
-							<isrc>GBURZ1100870</isrc>
-							<url>http://www.7digital.com/artist/elvis-presley-(2)/release/elvis-8/?partner=5932&amp;h=12</url>
-						</track>
-						<remainingDownloads>5</remainingDownloads>
-						<purchaseId>814165778</purchaseId>
-						<purchaseDate>2014-07-30T10:55:41Z</purchaseDate>
-						<completeAlbumPurchase>true</completeAlbumPurchase>
-						<downloadUrls/>
-					</lockerTrack>
-					<lockerTrack>
-						<track id="17832736">
-							<title>You'll Never Walk Alone</title>
-							<version/>
-							<artist id="2200">
-								<name>Elvis Presley</name>
-								<appearsAs>Elvis Presley</appearsAs>
-								<url>http://www.7digital.com/artist/elvis-presley-(2)/?partner=5932</url>
-							</artist>
-							<trackNumber>13</trackNumber>
-							<duration>160</duration>
-							<isrc>GBURZ1100871</isrc>
-							<url>http://www.7digital.com/artist/elvis-presley-(2)/release/elvis-8/?partner=5932&amp;h=13</url>
-						</track>
-						<remainingDownloads>5</remainingDownloads>
-						<purchaseId>814165778</purchaseId>
-						<purchaseDate>2014-07-30T10:55:41Z</purchaseDate>
-						<completeAlbumPurchase>true</completeAlbumPurchase>
-						<downloadUrls/>
-					</lockerTrack>
-					<lockerTrack>
-						<track id="17832737">
-							<title>Who Am I</title>
-							<version/>
-							<artist id="2200">
-								<name>Elvis Presley</name>
-								<appearsAs>Elvis Presley</appearsAs>
-								<url>http://www.7digital.com/artist/elvis-presley-(2)/?partner=5932</url>
-							</artist>
-							<trackNumber>14</trackNumber>
-							<duration>199</duration>
-							<isrc>GBURZ1100872</isrc>
-							<url>http://www.7digital.com/artist/elvis-presley-(2)/release/elvis-8/?partner=5932&amp;h=14</url>
-						</track>
-						<remainingDownloads>5</remainingDownloads>
-						<purchaseId>814165778</purchaseId>
-						<purchaseDate>2014-07-30T10:55:41Z</purchaseDate>
-						<completeAlbumPurchase>true</completeAlbumPurchase>
-						<downloadUrls/>
-					</lockerTrack>
-					<lockerTrack>
-						<track id="17832738">
-							<title>Tonight Is So Right for Love</title>
-							<version/>
-							<artist id="2200">
-								<name>Elvis Presley</name>
-								<appearsAs>Elvis Presley</appearsAs>
-								<url>http://www.7digital.com/artist/elvis-presley-(2)/?partner=5932</url>
-							</artist>
-							<trackNumber>15</trackNumber>
-							<duration>134</duration>
-							<isrc>GBURZ1100707</isrc>
-							<url>http://www.7digital.com/artist/elvis-presley-(2)/release/elvis-8/?partner=5932&amp;h=15</url>
-						</track>
-						<remainingDownloads>5</remainingDownloads>
-						<purchaseId>814165778</purchaseId>
-						<purchaseDate>2014-07-30T10:55:41Z</purchaseDate>
-						<completeAlbumPurchase>true</completeAlbumPurchase>
-						<downloadUrls/>
-					</lockerTrack>
-					<lockerTrack>
-						<track id="17832739">
-							<title>What's She Really Like</title>
-							<version/>
-							<artist id="2200">
-								<name>Elvis Presley</name>
-								<appearsAs>Elvis Presley</appearsAs>
-								<url>http://www.7digital.com/artist/elvis-presley-(2)/?partner=5932</url>
-							</artist>
-							<trackNumber>16</trackNumber>
-							<duration>138</duration>
-							<isrc>GBURZ1100708</isrc>
-							<url>http://www.7digital.com/artist/elvis-presley-(2)/release/elvis-8/?partner=5932&amp;h=16</url>
-						</track>
-						<remainingDownloads>5</remainingDownloads>
-						<purchaseId>814165778</purchaseId>
-						<purchaseDate>2014-07-30T10:55:41Z</purchaseDate>
-						<completeAlbumPurchase>true</completeAlbumPurchase>
-						<downloadUrls/>
-					</lockerTrack>
-					<lockerTrack>
-						<track id="17832740">
-							<title>Wooden Heart</title>
-							<version/>
-							<artist id="2200">
-								<name>Elvis Presley</name>
-								<appearsAs>Elvis Presley</appearsAs>
-								<url>http://www.7digital.com/artist/elvis-presley-(2)/?partner=5932</url>
-							</artist>
-							<trackNumber>17</trackNumber>
-							<duration>122</duration>
-							<isrc>GBURZ1100710</isrc>
-							<url>http://www.7digital.com/artist/elvis-presley-(2)/release/elvis-8/?partner=5932&amp;h=17</url>
-						</track>
-						<remainingDownloads>5</remainingDownloads>
-						<purchaseId>814165778</purchaseId>
-						<purchaseDate>2014-07-30T10:55:41Z</purchaseDate>
-						<completeAlbumPurchase>true</completeAlbumPurchase>
-						<downloadUrls/>
-					</lockerTrack>
-					<lockerTrack>
-						<track id="17832741">
-							<title>G.I. Blues</title>
-							<version/>
-							<artist id="2200">
-								<name>Elvis Presley</name>
-								<appearsAs>Elvis Presley</appearsAs>
-								<url>http://www.7digital.com/artist/elvis-presley-(2)/?partner=5932</url>
-							</artist>
-							<trackNumber>18</trackNumber>
-							<duration>157</duration>
-							<isrc>GBURZ1100711</isrc>
-							<url>http://www.7digital.com/artist/elvis-presley-(2)/release/elvis-8/?partner=5932&amp;h=18</url>
-						</track>
-						<remainingDownloads>5</remainingDownloads>
-						<purchaseId>814165778</purchaseId>
-						<purchaseDate>2014-07-30T10:55:41Z</purchaseDate>
-						<completeAlbumPurchase>true</completeAlbumPurchase>
-						<downloadUrls/>
-					</lockerTrack>
-					<lockerTrack>
-						<track id="17832742">
-							<title>Shoppin' Around</title>
-							<version/>
-							<artist id="2200">
-								<name>Elvis Presley</name>
-								<appearsAs>Elvis Presley</appearsAs>
-								<url>http://www.7digital.com/artist/elvis-presley-(2)/?partner=5932</url>
-							</artist>
-							<trackNumber>19</trackNumber>
-							<duration>143</duration>
-							<isrc>GBURZ1100713</isrc>
-							<url>http://www.7digital.com/artist/elvis-presley-(2)/release/elvis-8/?partner=5932&amp;h=19</url>
-						</track>
-						<remainingDownloads>5</remainingDownloads>
-						<purchaseId>814165778</purchaseId>
-						<purchaseDate>2014-07-30T10:55:41Z</purchaseDate>
-						<completeAlbumPurchase>true</completeAlbumPurchase>
-						<downloadUrls/>
-					</lockerTrack>
-					<lockerTrack>
-						<track id="17832743">
-							<title>Big Boots</title>
-							<version/>
-							<artist id="2200">
-								<name>Elvis Presley</name>
-								<appearsAs>Elvis Presley</appearsAs>
-								<url>http://www.7digital.com/artist/elvis-presley-(2)/?partner=5932</url>
-							</artist>
-							<trackNumber>20</trackNumber>
-							<duration>91</duration>
-							<isrc>GBURZ1100714</isrc>
-							<url>http://www.7digital.com/artist/elvis-presley-(2)/release/elvis-8/?partner=5932&amp;h=20</url>
-						</track>
-						<remainingDownloads>5</remainingDownloads>
-						<purchaseId>814165778</purchaseId>
-						<purchaseDate>2014-07-30T10:55:41Z</purchaseDate>
-						<completeAlbumPurchase>true</completeAlbumPurchase>
-						<downloadUrls/>
-					</lockerTrack>
-					<lockerTrack>
-						<track id="17832744">
-							<title>Didja' Ever</title>
-							<version/>
-							<artist id="2200">
-								<name>Elvis Presley</name>
-								<appearsAs>Elvis Presley</appearsAs>
-								<url>http://www.7digital.com/artist/elvis-presley-(2)/?partner=5932</url>
-							</artist>
-							<trackNumber>21</trackNumber>
-							<duration>156</duration>
-							<isrc>GBURZ1100715</isrc>
-							<url>http://www.7digital.com/artist/elvis-presley-(2)/release/elvis-8/?partner=5932&amp;h=21</url>
-						</track>
-						<remainingDownloads>5</remainingDownloads>
-						<purchaseId>814165778</purchaseId>
-						<purchaseDate>2014-07-30T10:55:41Z</purchaseDate>
-						<completeAlbumPurchase>true</completeAlbumPurchase>
-						<downloadUrls/>
-					</lockerTrack>
-					<lockerTrack>
-						<track id="17832745">
-							<title>Blue Suede Shoes</title>
-							<version/>
-							<artist id="2200">
-								<name>Elvis Presley</name>
-								<appearsAs>Elvis Presley</appearsAs>
-								<url>http://www.7digital.com/artist/elvis-presley-(2)/?partner=5932</url>
-							</artist>
-							<trackNumber>22</trackNumber>
-							<duration>127</duration>
-							<isrc>GBURZ1100716</isrc>
-							<url>http://www.7digital.com/artist/elvis-presley-(2)/release/elvis-8/?partner=5932&amp;h=22</url>
-						</track>
-						<remainingDownloads>5</remainingDownloads>
-						<purchaseId>814165778</purchaseId>
-						<purchaseDate>2014-07-30T10:55:41Z</purchaseDate>
-						<completeAlbumPurchase>true</completeAlbumPurchase>
-						<downloadUrls/>
-					</lockerTrack>
-					<lockerTrack>
-						<track id="17832746">
-							<title>Doin' the Best I Can</title>
-							<version/>
-							<artist id="2200">
-								<name>Elvis Presley</name>
-								<appearsAs>Elvis Presley</appearsAs>
-								<url>http://www.7digital.com/artist/elvis-presley-(2)/?partner=5932</url>
-							</artist>
-							<trackNumber>23</trackNumber>
-							<duration>191</duration>
-							<isrc>GBURZ1100717</isrc>
-							<url>http://www.7digital.com/artist/elvis-presley-(2)/release/elvis-8/?partner=5932&amp;h=23</url>
-						</track>
-						<remainingDownloads>5</remainingDownloads>
-						<purchaseId>814165778</purchaseId>
-						<purchaseDate>2014-07-30T10:55:41Z</purchaseDate>
-						<completeAlbumPurchase>true</completeAlbumPurchase>
-						<downloadUrls/>
-					</lockerTrack>
-					<lockerTrack>
-						<track id="17832747">
-							<title>Tonight's All Right for Love</title>
-							<version/>
-							<artist id="2200">
-								<name>Elvis Presley</name>
-								<appearsAs>Elvis Presley</appearsAs>
-								<url>http://www.7digital.com/artist/elvis-presley-(2)/?partner=5932</url>
-							</artist>
-							<trackNumber>24</trackNumber>
-							<duration>81</duration>
-							<isrc>GBURZ1100718</isrc>
-							<url>http://www.7digital.com/artist/elvis-presley-(2)/release/elvis-8/?partner=5932&amp;h=24</url>
-						</track>
-						<remainingDownloads>5</remainingDownloads>
-						<purchaseId>814165778</purchaseId>
-						<purchaseDate>2014-07-30T10:55:41Z</purchaseDate>
-						<completeAlbumPurchase>true</completeAlbumPurchase>
-						<downloadUrls/>
-					</lockerTrack>
-					<lockerTrack>
-						<track id="17832748">
-							<title>There's Always Me</title>
-							<version/>
-							<artist id="2200">
-								<name>Elvis Presley</name>
-								<appearsAs>Elvis Presley</appearsAs>
-								<url>http://www.7digital.com/artist/elvis-presley-(2)/?partner=5932</url>
-							</artist>
-							<trackNumber>25</trackNumber>
-							<duration>139</duration>
-							<isrc>GBURZ1104795</isrc>
-							<url>http://www.7digital.com/artist/elvis-presley-(2)/release/elvis-8/?partner=5932&amp;h=25</url>
-						</track>
-						<remainingDownloads>5</remainingDownloads>
-						<purchaseId>814165778</purchaseId>
-						<purchaseDate>2014-07-30T10:55:41Z</purchaseDate>
-						<completeAlbumPurchase>true</completeAlbumPurchase>
-						<downloadUrls/>
-					</lockerTrack>
-					<lockerTrack>
-						<track id="17832749">
-							<title>Give Me the Right</title>
-							<version/>
-							<artist id="2200">
-								<name>Elvis Presley</name>
-								<appearsAs>Elvis Presley</appearsAs>
-								<url>http://www.7digital.com/artist/elvis-presley-(2)/?partner=5932</url>
-							</artist>
-							<trackNumber>26</trackNumber>
-							<duration>156</duration>
-							<isrc>GBURZ1104796</isrc>
-							<url>http://www.7digital.com/artist/elvis-presley-(2)/release/elvis-8/?partner=5932&amp;h=26</url>
-						</track>
-						<remainingDownloads>5</remainingDownloads>
-						<purchaseId>814165778</purchaseId>
-						<purchaseDate>2014-07-30T10:55:41Z</purchaseDate>
-						<completeAlbumPurchase>true</completeAlbumPurchase>
-						<downloadUrls/>
-					</lockerTrack>
-					<lockerTrack>
-						<track id="17832750">
-							<title>It's a Sin</title>
-							<version/>
-							<artist id="2200">
-								<name>Elvis Presley</name>
-								<appearsAs>Elvis Presley</appearsAs>
-								<url>http://www.7digital.com/artist/elvis-presley-(2)/?partner=5932</url>
-							</artist>
-							<trackNumber>27</trackNumber>
-							<duration>163</duration>
-							<isrc>GBURZ1104797</isrc>
-							<url>http://www.7digital.com/artist/elvis-presley-(2)/release/elvis-8/?partner=5932&amp;h=27</url>
-						</track>
-						<remainingDownloads>5</remainingDownloads>
-						<purchaseId>814165778</purchaseId>
-						<purchaseDate>2014-07-30T10:55:41Z</purchaseDate>
-						<completeAlbumPurchase>true</completeAlbumPurchase>
-						<downloadUrls/>
-					</lockerTrack>
-					<lockerTrack>
-						<track id="17832751">
-							<title>Sentimental Me</title>
-							<version/>
-							<artist id="2200">
-								<name>Elvis Presley</name>
-								<appearsAs>Elvis Presley</appearsAs>
-								<url>http://www.7digital.com/artist/elvis-presley-(2)/?partner=5932</url>
-							</artist>
-							<trackNumber>28</trackNumber>
-							<duration>154</duration>
-							<isrc>GBURZ1104798</isrc>
-							<url>http://www.7digital.com/artist/elvis-presley-(2)/release/elvis-8/?partner=5932&amp;h=28</url>
-						</track>
-						<remainingDownloads>5</remainingDownloads>
-						<purchaseId>814165778</purchaseId>
-						<purchaseDate>2014-07-30T10:55:41Z</purchaseDate>
-						<completeAlbumPurchase>true</completeAlbumPurchase>
-						<downloadUrls/>
-					</lockerTrack>
-					<lockerTrack>
-						<track id="17832752">
-							<title>Starting Today</title>
-							<version/>
-							<artist id="2200">
-								<name>Elvis Presley</name>
-								<appearsAs>Elvis Presley</appearsAs>
-								<url>http://www.7digital.com/artist/elvis-presley-(2)/?partner=5932</url>
-							</artist>
-							<trackNumber>29</trackNumber>
-							<duration>126</duration>
-							<isrc>GBURZ1104799</isrc>
-							<url>http://www.7digital.com/artist/elvis-presley-(2)/release/elvis-8/?partner=5932&amp;h=29</url>
-						</track>
-						<remainingDownloads>5</remainingDownloads>
-						<purchaseId>814165778</purchaseId>
-						<purchaseDate>2014-07-30T10:55:41Z</purchaseDate>
-						<completeAlbumPurchase>true</completeAlbumPurchase>
-						<downloadUrls/>
-					</lockerTrack>
-					<lockerTrack>
-						<track id="17832753">
-							<title>Gently</title>
-							<version/>
-							<artist id="2200">
-								<name>Elvis Presley</name>
-								<appearsAs>Elvis Presley</appearsAs>
-								<url>http://www.7digital.com/artist/elvis-presley-(2)/?partner=5932</url>
-							</artist>
-							<trackNumber>30</trackNumber>
-							<duration>138</duration>
-							<isrc>GBURZ1104800</isrc>
-							<url>http://www.7digital.com/artist/elvis-presley-(2)/release/elvis-8/?partner=5932&amp;h=30</url>
-						</track>
-						<remainingDownloads>5</remainingDownloads>
-						<purchaseId>814165778</purchaseId>
-						<purchaseDate>2014-07-30T10:55:41Z</purchaseDate>
-						<completeAlbumPurchase>true</completeAlbumPurchase>
-						<downloadUrls/>
-					</lockerTrack>
-					<lockerTrack>
-						<track id="17832754">
-							<title>I'm Coming Home</title>
-							<version/>
-							<artist id="2200">
-								<name>Elvis Presley</name>
-								<appearsAs>Elvis Presley</appearsAs>
-								<url>http://www.7digital.com/artist/elvis-presley-(2)/?partner=5932</url>
-							</artist>
-							<trackNumber>31</trackNumber>
-							<duration>144</duration>
-							<isrc>GBURZ1104801</isrc>
-							<url>http://www.7digital.com/artist/elvis-presley-(2)/release/elvis-8/?partner=5932&amp;h=31</url>
-						</track>
-						<remainingDownloads>5</remainingDownloads>
-						<purchaseId>814165778</purchaseId>
-						<purchaseDate>2014-07-30T10:55:41Z</purchaseDate>
-						<completeAlbumPurchase>true</completeAlbumPurchase>
-						<downloadUrls/>
-					</lockerTrack>
-					<lockerTrack>
-						<track id="17832755">
-							<title>In Your Arms</title>
-							<version/>
-							<artist id="2200">
-								<name>Elvis Presley</name>
-								<appearsAs>Elvis Presley</appearsAs>
-								<url>http://www.7digital.com/artist/elvis-presley-(2)/?partner=5932</url>
-							</artist>
-							<trackNumber>32</trackNumber>
-							<duration>111</duration>
-							<isrc>GBURZ1104802</isrc>
-							<url>http://www.7digital.com/artist/elvis-presley-(2)/release/elvis-8/?partner=5932&amp;h=32</url>
-						</track>
-						<remainingDownloads>5</remainingDownloads>
-						<purchaseId>814165778</purchaseId>
-						<purchaseDate>2014-07-30T10:55:41Z</purchaseDate>
-						<completeAlbumPurchase>true</completeAlbumPurchase>
-						<downloadUrls/>
-					</lockerTrack>
-					<lockerTrack>
-						<track id="17832756">
-							<title>Put the Blame On Me</title>
-							<version/>
-							<artist id="2200">
-								<name>Elvis Presley</name>
-								<appearsAs>Elvis Presley</appearsAs>
-								<url>http://www.7digital.com/artist/elvis-presley-(2)/?partner=5932</url>
-							</artist>
-							<trackNumber>33</trackNumber>
-							<duration>118</duration>
-							<isrc>GBURZ1104803</isrc>
-							<url>http://www.7digital.com/artist/elvis-presley-(2)/release/elvis-8/?partner=5932&amp;h=33</url>
-						</track>
-						<remainingDownloads>5</remainingDownloads>
-						<purchaseId>814165778</purchaseId>
-						<purchaseDate>2014-07-30T10:55:41Z</purchaseDate>
-						<completeAlbumPurchase>true</completeAlbumPurchase>
-						<downloadUrls/>
-					</lockerTrack>
-					<lockerTrack>
-						<track id="17832757">
-							<title>Judy</title>
-							<version/>
-							<artist id="2200">
-								<name>Elvis Presley</name>
-								<appearsAs>Elvis Presley</appearsAs>
-								<url>http://www.7digital.com/artist/elvis-presley-(2)/?partner=5932</url>
-							</artist>
-							<trackNumber>34</trackNumber>
-							<duration>130</duration>
-							<isrc>GBURZ1104804</isrc>
-							<url>http://www.7digital.com/artist/elvis-presley-(2)/release/elvis-8/?partner=5932&amp;h=34</url>
-						</track>
-						<remainingDownloads>5</remainingDownloads>
-						<purchaseId>814165778</purchaseId>
-						<purchaseDate>2014-07-30T10:55:41Z</purchaseDate>
-						<completeAlbumPurchase>true</completeAlbumPurchase>
-						<downloadUrls/>
-					</lockerTrack>
-					<lockerTrack>
-						<track id="17832758">
-							<title>I Want You With Me</title>
-							<version/>
-							<artist id="2200">
-								<name>Elvis Presley</name>
-								<appearsAs>Elvis Presley</appearsAs>
-								<url>http://www.7digital.com/artist/elvis-presley-(2)/?partner=5932</url>
-							</artist>
-							<trackNumber>35</trackNumber>
-							<duration>136</duration>
-							<isrc>GBURZ1104805</isrc>
-							<url>http://www.7digital.com/artist/elvis-presley-(2)/release/elvis-8/?partner=5932&amp;h=35</url>
-						</track>
-						<remainingDownloads>5</remainingDownloads>
-						<purchaseId>814165778</purchaseId>
-						<purchaseDate>2014-07-30T10:55:41Z</purchaseDate>
-						<completeAlbumPurchase>true</completeAlbumPurchase>
-						<downloadUrls/>
-					</lockerTrack>
-					<lockerTrack>
-						<track id="17832759">
-							<title>I Slipped, I Stumbled, I Fell</title>
-							<version/>
-							<artist id="2200">
-								<name>Elvis Presley</name>
-								<appearsAs>Elvis Presley</appearsAs>
-								<url>http://www.7digital.com/artist/elvis-presley-(2)/?partner=5932</url>
-							</artist>
-							<trackNumber>36</trackNumber>
-							<duration>96</duration>
-							<isrc>GBURZ1104806</isrc>
-							<url>http://www.7digital.com/artist/elvis-presley-(2)/release/elvis-8/?partner=5932&amp;h=36</url>
-						</track>
-						<remainingDownloads>5</remainingDownloads>
-						<purchaseId>814165778</purchaseId>
-						<purchaseDate>2014-07-30T10:55:41Z</purchaseDate>
-						<completeAlbumPurchase>true</completeAlbumPurchase>
-						<downloadUrls/>
-					</lockerTrack>
-					<lockerTrack>
-						<track id="17832760">
-							<title>Pocketful of Rainbows</title>
-							<version/>
-							<artist id="2200">
-								<name>Elvis Presley</name>
-								<appearsAs>Elvis Presley</appearsAs>
-								<url>http://www.7digital.com/artist/elvis-presley-(2)/?partner=5932</url>
-							</artist>
-							<trackNumber>37</trackNumber>
-							<duration>155</duration>
-							<isrc>GBURZ1100712</isrc>
-							<url>http://www.7digital.com/artist/elvis-presley-(2)/release/elvis-8/?partner=5932&amp;h=37</url>
-						</track>
-						<remainingDownloads>5</remainingDownloads>
-						<purchaseId>814165778</purchaseId>
-						<purchaseDate>2014-07-30T10:55:41Z</purchaseDate>
-						<completeAlbumPurchase>true</completeAlbumPurchase>
-						<downloadUrls/>
-					</lockerTrack>
-					<lockerTrack>
-						<track id="17832761">
-							<title>Frankfort Special</title>
-							<version/>
-							<artist id="2200">
-								<name>Elvis Presley</name>
-								<appearsAs>Elvis Presley</appearsAs>
-								<url>http://www.7digital.com/artist/elvis-presley-(2)/?partner=5932</url>
-							</artist>
-							<trackNumber>38</trackNumber>
-							<duration>178</duration>
-							<isrc>GBURZ1100709</isrc>
-							<url>http://www.7digital.com/artist/elvis-presley-(2)/release/elvis-8/?partner=5932&amp;h=38</url>
-						</track>
-						<remainingDownloads>5</remainingDownloads>
-						<purchaseId>814165778</purchaseId>
-						<purchaseDate>2014-07-30T10:55:41Z</purchaseDate>
-						<completeAlbumPurchase>true</completeAlbumPurchase>
-						<downloadUrls/>
-					</lockerTrack>
-					<lockerTrack>
-						<track id="17832762">
-							<title>If We Never Meet Again</title>
-							<version>Remastered</version>
-							<artist id="2200">
-								<name>Elvis Presley</name>
-								<appearsAs>Elvis Presley</appearsAs>
-								<url>http://www.7digital.com/artist/elvis-presley-(2)/?partner=5932</url>
-							</artist>
-							<trackNumber>39</trackNumber>
-							<duration>121</duration>
-							<isrc>GBURZ1100868</isrc>
-							<url>http://www.7digital.com/artist/elvis-presley-(2)/release/elvis-8/?partner=5932&amp;h=39</url>
-						</track>
-						<remainingDownloads>5</remainingDownloads>
-						<purchaseId>814165778</purchaseId>
-						<purchaseDate>2014-07-30T10:55:41Z</purchaseDate>
-						<completeAlbumPurchase>true</completeAlbumPurchase>
-						<downloadUrls/>
-					</lockerTrack>
-					<lockerTrack>
-						<track id="17832764">
-							<title>King Creole</title>
-							<version/>
-							<artist id="2200">
-								<name>Elvis Presley</name>
-								<appearsAs>Elvis Presley</appearsAs>
-								<url>http://www.7digital.com/artist/elvis-presley-(2)/?partner=5932</url>
-							</artist>
-							<trackNumber>40</trackNumber>
-							<duration>131</duration>
-							<isrc>GBURZ1000969</isrc>
-							<url>http://www.7digital.com/artist/elvis-presley-(2)/release/elvis-8/?partner=5932&amp;h=40</url>
-						</track>
-						<remainingDownloads>5</remainingDownloads>
-						<purchaseId>814165778</purchaseId>
-						<purchaseDate>2014-07-30T10:55:41Z</purchaseDate>
-						<completeAlbumPurchase>true</completeAlbumPurchase>
-						<downloadUrls/>
-					</lockerTrack>
-				</lockerTracks>
-				<available>true</available>
-			</lockerRelease>
-		</lockerReleases>
-	</locker>
+  <locker>
+    <lockerReleases>
+      <page>1</page>
+      <pageSize>36</pageSize>
+      <totalItems>54</totalItems>
+      <lockerRelease>
+        <release id="1627544">
+          <title>Elvis</title>
+          <version/>
+          <type>Album</type>
+          <barcode>7640138331084</barcode>
+          <artist id="2200">
+            <name>Elvis Presley</name>
+            <appearsAs>Elvis Presley</appearsAs>
+            <slug>elvis-presley-(2)</slug>
+          </artist>
+          <slug>elvis-8</slug>
+          <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/016/275/0001627544_50.jpg</image>
+          <releaseDate>2012-02-24T00:00:00Z</releaseDate>
+          <licensor id="68"/>
+        </release>
+        <lockerTracks>
+          <lockerTrack>
+            <track id="17832723">
+              <title>His Hand in Mine</title>
+              <version>Remastered</version>
+              <artist id="2200">
+                <name>Elvis Presley</name>
+                <appearsAs>Elvis Presley</appearsAs>
+                <slug>elvis-presley-(2)</slug>
+              </artist>
+              <trackNumber>1</trackNumber>
+              <duration>200</duration>
+              <isrc>GBURZ1100858</isrc>
+              <slug>elvis-8</slug>
+            </track>
+            <remainingDownloads>5</remainingDownloads>
+            <purchaseId>814165778</purchaseId>
+            <purchaseDate>2014-07-30T10:55:41Z</purchaseDate>
+            <completeAlbumPurchase>true</completeAlbumPurchase>
+            <downloadUrls/>
+          </lockerTrack>
+          <lockerTrack>
+            <track id="17832724">
+              <title>I'm Gonna Walk Dem Golden Stairs</title>
+              <version>Remastered</version>
+              <artist id="2200">
+                <name>Elvis Presley</name>
+                <appearsAs>Elvis Presley</appearsAs>
+                <slug>elvis-presley-(2)</slug>
+              </artist>
+              <trackNumber>2</trackNumber>
+              <duration>113</duration>
+              <isrc>GBURZ1100859</isrc>
+              <slug>elvis-8</slug>
+            </track>
+            <remainingDownloads>5</remainingDownloads>
+            <purchaseId>814165778</purchaseId>
+            <purchaseDate>2014-07-30T10:55:41Z</purchaseDate>
+            <completeAlbumPurchase>true</completeAlbumPurchase>
+            <downloadUrls/>
+          </lockerTrack>
+          <lockerTrack>
+            <track id="17832725">
+              <title>In My Father's House</title>
+              <version>Remastered</version>
+              <artist id="2200">
+                <name>Elvis Presley</name>
+                <appearsAs>Elvis Presley</appearsAs>
+                <slug>elvis-presley-(2)</slug>
+              </artist>
+              <trackNumber>3</trackNumber>
+              <duration>126</duration>
+              <isrc>GBURZ1100860</isrc>
+              <slug>elvis-8</slug>
+            </track>
+            <remainingDownloads>5</remainingDownloads>
+            <purchaseId>814165778</purchaseId>
+            <purchaseDate>2014-07-30T10:55:41Z</purchaseDate>
+            <completeAlbumPurchase>true</completeAlbumPurchase>
+            <downloadUrls/>
+          </lockerTrack>
+          <lockerTrack>
+            <track id="17832726">
+              <title>Milky White Way</title>
+              <version/>
+              <artist id="2200">
+                <name>Elvis Presley</name>
+                <appearsAs>Elvis Presley</appearsAs>
+                <slug>elvis-presley-(2)</slug>
+              </artist>
+              <trackNumber>4</trackNumber>
+              <duration>136</duration>
+              <isrc>GBURZ1100861</isrc>
+              <slug>elvis-8</slug>
+            </track>
+            <remainingDownloads>5</remainingDownloads>
+            <purchaseId>814165778</purchaseId>
+            <purchaseDate>2014-07-30T10:55:41Z</purchaseDate>
+            <completeAlbumPurchase>true</completeAlbumPurchase>
+            <downloadUrls/>
+          </lockerTrack>
+          <lockerTrack>
+            <track id="17832728">
+              <title>Known Only to Him</title>
+              <version>Remastered</version>
+              <artist id="2200">
+                <name>Elvis Presley</name>
+                <appearsAs>Elvis Presley</appearsAs>
+                <slug>elvis-presley-(2)</slug>
+              </artist>
+              <trackNumber>5</trackNumber>
+              <duration>131</duration>
+              <isrc>GBURZ1100862</isrc>
+              <slug>elvis-8</slug>
+            </track>
+            <remainingDownloads>5</remainingDownloads>
+            <purchaseId>814165778</purchaseId>
+            <purchaseDate>2014-07-30T10:55:41Z</purchaseDate>
+            <completeAlbumPurchase>true</completeAlbumPurchase>
+            <downloadUrls/>
+          </lockerTrack>
+          <lockerTrack>
+            <track id="17832729">
+              <title>I Believe in the Man in the Sky</title>
+              <version>Remastered</version>
+              <artist id="2200">
+                <name>Elvis Presley</name>
+                <appearsAs>Elvis Presley</appearsAs>
+                <slug>elvis-presley-(2)</slug>
+              </artist>
+              <trackNumber>6</trackNumber>
+              <duration>136</duration>
+              <isrc>GBURZ1100863</isrc>
+              <slug>elvis-8</slug>
+            </track>
+            <remainingDownloads>5</remainingDownloads>
+            <purchaseId>814165778</purchaseId>
+            <purchaseDate>2014-07-30T10:55:41Z</purchaseDate>
+            <completeAlbumPurchase>true</completeAlbumPurchase>
+            <downloadUrls/>
+          </lockerTrack>
+          <lockerTrack>
+            <track id="17832730">
+              <title>Joshua Fit the Battle</title>
+              <version>Remastered</version>
+              <artist id="2200">
+                <name>Elvis Presley</name>
+                <appearsAs>Elvis Presley</appearsAs>
+                <slug>elvis-presley-(2)</slug>
+              </artist>
+              <trackNumber>7</trackNumber>
+              <duration>161</duration>
+              <isrc>GBURZ1100864</isrc>
+              <slug>elvis-8</slug>
+            </track>
+            <remainingDownloads>5</remainingDownloads>
+            <purchaseId>814165778</purchaseId>
+            <purchaseDate>2014-07-30T10:55:41Z</purchaseDate>
+            <completeAlbumPurchase>true</completeAlbumPurchase>
+            <downloadUrls/>
+          </lockerTrack>
+          <lockerTrack>
+            <track id="17832731">
+              <title>He Knows Just What I Need</title>
+              <version>Remastered</version>
+              <artist id="2200">
+                <name>Elvis Presley</name>
+                <appearsAs>Elvis Presley</appearsAs>
+                <slug>elvis-presley-(2)</slug>
+              </artist>
+              <trackNumber>8</trackNumber>
+              <duration>134</duration>
+              <isrc>GBURZ1100865</isrc>
+              <slug>elvis-8</slug>
+            </track>
+            <remainingDownloads>5</remainingDownloads>
+            <purchaseId>814165778</purchaseId>
+            <purchaseDate>2014-07-30T10:55:41Z</purchaseDate>
+            <completeAlbumPurchase>true</completeAlbumPurchase>
+            <downloadUrls/>
+          </lockerTrack>
+          <lockerTrack>
+            <track id="17832732">
+              <title>Swing Down Sweet Chariot</title>
+              <version>Remastered</version>
+              <artist id="2200">
+                <name>Elvis Presley</name>
+                <appearsAs>Elvis Presley</appearsAs>
+                <slug>elvis-presley-(2)</slug>
+              </artist>
+              <trackNumber>9</trackNumber>
+              <duration>154</duration>
+              <isrc>GBURZ1100866</isrc>
+              <slug>elvis-8</slug>
+            </track>
+            <remainingDownloads>5</remainingDownloads>
+            <purchaseId>814165778</purchaseId>
+            <purchaseDate>2014-07-30T10:55:41Z</purchaseDate>
+            <completeAlbumPurchase>true</completeAlbumPurchase>
+            <downloadUrls/>
+          </lockerTrack>
+          <lockerTrack>
+            <track id="17832733">
+              <title>Mansion Over the Hilltop</title>
+              <version>Remastered</version>
+              <artist id="2200">
+                <name>Elvis Presley</name>
+                <appearsAs>Elvis Presley</appearsAs>
+                <slug>elvis-presley-(2)</slug>
+              </artist>
+              <trackNumber>10</trackNumber>
+              <duration>179</duration>
+              <isrc>GBURZ1100867</isrc>
+              <slug>elvis-8</slug>
+            </track>
+            <remainingDownloads>5</remainingDownloads>
+            <purchaseId>814165778</purchaseId>
+            <purchaseDate>2014-07-30T10:55:41Z</purchaseDate>
+            <completeAlbumPurchase>true</completeAlbumPurchase>
+            <downloadUrls/>
+          </lockerTrack>
+          <lockerTrack>
+            <track id="17832734">
+              <title>Working On the Building</title>
+              <version>Remastered</version>
+              <artist id="2200">
+                <name>Elvis Presley</name>
+                <appearsAs>Elvis Presley</appearsAs>
+                <slug>elvis-presley-(2)</slug>
+              </artist>
+              <trackNumber>11</trackNumber>
+              <duration>115</duration>
+              <isrc>GBURZ1100869</isrc>
+              <slug>elvis-8</slug>
+            </track>
+            <remainingDownloads>5</remainingDownloads>
+            <purchaseId>814165778</purchaseId>
+            <purchaseDate>2014-07-30T10:55:41Z</purchaseDate>
+            <completeAlbumPurchase>true</completeAlbumPurchase>
+            <downloadUrls/>
+          </lockerTrack>
+          <lockerTrack>
+            <track id="17832735">
+              <title>It Is No Secret (What God Can Do)</title>
+              <version/>
+              <artist id="2200">
+                <name>Elvis Presley</name>
+                <appearsAs>Elvis Presley</appearsAs>
+                <slug>elvis-presley-(2)</slug>
+              </artist>
+              <trackNumber>12</trackNumber>
+              <duration>235</duration>
+              <isrc>GBURZ1100870</isrc>
+              <slug>elvis-8</slug>
+            </track>
+            <remainingDownloads>5</remainingDownloads>
+            <purchaseId>814165778</purchaseId>
+            <purchaseDate>2014-07-30T10:55:41Z</purchaseDate>
+            <completeAlbumPurchase>true</completeAlbumPurchase>
+            <downloadUrls/>
+          </lockerTrack>
+          <lockerTrack>
+            <track id="17832736">
+              <title>You'll Never Walk Alone</title>
+              <version/>
+              <artist id="2200">
+                <name>Elvis Presley</name>
+                <appearsAs>Elvis Presley</appearsAs>
+                <slug>elvis-presley-(2)</slug>
+              </artist>
+              <trackNumber>13</trackNumber>
+              <duration>160</duration>
+              <isrc>GBURZ1100871</isrc>
+              <slug>elvis-8</slug>
+            </track>
+            <remainingDownloads>5</remainingDownloads>
+            <purchaseId>814165778</purchaseId>
+            <purchaseDate>2014-07-30T10:55:41Z</purchaseDate>
+            <completeAlbumPurchase>true</completeAlbumPurchase>
+            <downloadUrls/>
+          </lockerTrack>
+          <lockerTrack>
+            <track id="17832737">
+              <title>Who Am I</title>
+              <version/>
+              <artist id="2200">
+                <name>Elvis Presley</name>
+                <appearsAs>Elvis Presley</appearsAs>
+                <slug>elvis-presley-(2)</slug>
+              </artist>
+              <trackNumber>14</trackNumber>
+              <duration>199</duration>
+              <isrc>GBURZ1100872</isrc>
+              <slug>elvis-8</slug>
+            </track>
+            <remainingDownloads>5</remainingDownloads>
+            <purchaseId>814165778</purchaseId>
+            <purchaseDate>2014-07-30T10:55:41Z</purchaseDate>
+            <completeAlbumPurchase>true</completeAlbumPurchase>
+            <downloadUrls/>
+          </lockerTrack>
+          <lockerTrack>
+            <track id="17832738">
+              <title>Tonight Is So Right for Love</title>
+              <version/>
+              <artist id="2200">
+                <name>Elvis Presley</name>
+                <appearsAs>Elvis Presley</appearsAs>
+                <slug>elvis-presley-(2)</slug>
+              </artist>
+              <trackNumber>15</trackNumber>
+              <duration>134</duration>
+              <isrc>GBURZ1100707</isrc>
+              <slug>elvis-8</slug>
+            </track>
+            <remainingDownloads>5</remainingDownloads>
+            <purchaseId>814165778</purchaseId>
+            <purchaseDate>2014-07-30T10:55:41Z</purchaseDate>
+            <completeAlbumPurchase>true</completeAlbumPurchase>
+            <downloadUrls/>
+          </lockerTrack>
+          <lockerTrack>
+            <track id="17832739">
+              <title>What's She Really Like</title>
+              <version/>
+              <artist id="2200">
+                <name>Elvis Presley</name>
+                <appearsAs>Elvis Presley</appearsAs>
+                <slug>elvis-presley-(2)</slug>
+              </artist>
+              <trackNumber>16</trackNumber>
+              <duration>138</duration>
+              <isrc>GBURZ1100708</isrc>
+              <slug>elvis-8</slug>
+            </track>
+            <remainingDownloads>5</remainingDownloads>
+            <purchaseId>814165778</purchaseId>
+            <purchaseDate>2014-07-30T10:55:41Z</purchaseDate>
+            <completeAlbumPurchase>true</completeAlbumPurchase>
+            <downloadUrls/>
+          </lockerTrack>
+          <lockerTrack>
+            <track id="17832740">
+              <title>Wooden Heart</title>
+              <version/>
+              <artist id="2200">
+                <name>Elvis Presley</name>
+                <appearsAs>Elvis Presley</appearsAs>
+                <slug>elvis-presley-(2)</slug>
+              </artist>
+              <trackNumber>17</trackNumber>
+              <duration>122</duration>
+              <isrc>GBURZ1100710</isrc>
+              <slug>elvis-8</slug>
+            </track>
+            <remainingDownloads>5</remainingDownloads>
+            <purchaseId>814165778</purchaseId>
+            <purchaseDate>2014-07-30T10:55:41Z</purchaseDate>
+            <completeAlbumPurchase>true</completeAlbumPurchase>
+            <downloadUrls/>
+          </lockerTrack>
+          <lockerTrack>
+            <track id="17832741">
+              <title>G.I. Blues</title>
+              <version/>
+              <artist id="2200">
+                <name>Elvis Presley</name>
+                <appearsAs>Elvis Presley</appearsAs>
+                <slug>elvis-presley-(2)</slug>
+              </artist>
+              <trackNumber>18</trackNumber>
+              <duration>157</duration>
+              <isrc>GBURZ1100711</isrc>
+              <slug>elvis-8</slug>
+            </track>
+            <remainingDownloads>5</remainingDownloads>
+            <purchaseId>814165778</purchaseId>
+            <purchaseDate>2014-07-30T10:55:41Z</purchaseDate>
+            <completeAlbumPurchase>true</completeAlbumPurchase>
+            <downloadUrls/>
+          </lockerTrack>
+          <lockerTrack>
+            <track id="17832742">
+              <title>Shoppin' Around</title>
+              <version/>
+              <artist id="2200">
+                <name>Elvis Presley</name>
+                <appearsAs>Elvis Presley</appearsAs>
+                <slug>elvis-presley-(2)</slug>
+              </artist>
+              <trackNumber>19</trackNumber>
+              <duration>143</duration>
+              <isrc>GBURZ1100713</isrc>
+              <slug>elvis-8</slug>
+            </track>
+            <remainingDownloads>5</remainingDownloads>
+            <purchaseId>814165778</purchaseId>
+            <purchaseDate>2014-07-30T10:55:41Z</purchaseDate>
+            <completeAlbumPurchase>true</completeAlbumPurchase>
+            <downloadUrls/>
+          </lockerTrack>
+          <lockerTrack>
+            <track id="17832743">
+              <title>Big Boots</title>
+              <version/>
+              <artist id="2200">
+                <name>Elvis Presley</name>
+                <appearsAs>Elvis Presley</appearsAs>
+                <slug>elvis-presley-(2)</slug>
+              </artist>
+              <trackNumber>20</trackNumber>
+              <duration>91</duration>
+              <isrc>GBURZ1100714</isrc>
+              <slug>elvis-8</slug>
+            </track>
+            <remainingDownloads>5</remainingDownloads>
+            <purchaseId>814165778</purchaseId>
+            <purchaseDate>2014-07-30T10:55:41Z</purchaseDate>
+            <completeAlbumPurchase>true</completeAlbumPurchase>
+            <downloadUrls/>
+          </lockerTrack>
+          <lockerTrack>
+            <track id="17832744">
+              <title>Didja' Ever</title>
+              <version/>
+              <artist id="2200">
+                <name>Elvis Presley</name>
+                <appearsAs>Elvis Presley</appearsAs>
+                <slug>elvis-presley-(2)</slug>
+              </artist>
+              <trackNumber>21</trackNumber>
+              <duration>156</duration>
+              <isrc>GBURZ1100715</isrc>
+              <slug>elvis-8</slug>
+            </track>
+            <remainingDownloads>5</remainingDownloads>
+            <purchaseId>814165778</purchaseId>
+            <purchaseDate>2014-07-30T10:55:41Z</purchaseDate>
+            <completeAlbumPurchase>true</completeAlbumPurchase>
+            <downloadUrls/>
+          </lockerTrack>
+          <lockerTrack>
+            <track id="17832745">
+              <title>Blue Suede Shoes</title>
+              <version/>
+              <artist id="2200">
+                <name>Elvis Presley</name>
+                <appearsAs>Elvis Presley</appearsAs>
+                <slug>elvis-presley-(2)</slug>
+              </artist>
+              <trackNumber>22</trackNumber>
+              <duration>127</duration>
+              <isrc>GBURZ1100716</isrc>
+              <slug>elvis-8</slug>
+            </track>
+            <remainingDownloads>5</remainingDownloads>
+            <purchaseId>814165778</purchaseId>
+            <purchaseDate>2014-07-30T10:55:41Z</purchaseDate>
+            <completeAlbumPurchase>true</completeAlbumPurchase>
+            <downloadUrls/>
+          </lockerTrack>
+          <lockerTrack>
+            <track id="17832746">
+              <title>Doin' the Best I Can</title>
+              <version/>
+              <artist id="2200">
+                <name>Elvis Presley</name>
+                <appearsAs>Elvis Presley</appearsAs>
+                <slug>elvis-presley-(2)</slug>
+              </artist>
+              <trackNumber>23</trackNumber>
+              <duration>191</duration>
+              <isrc>GBURZ1100717</isrc>
+              <slug>elvis-8</slug>
+            </track>
+            <remainingDownloads>5</remainingDownloads>
+            <purchaseId>814165778</purchaseId>
+            <purchaseDate>2014-07-30T10:55:41Z</purchaseDate>
+            <completeAlbumPurchase>true</completeAlbumPurchase>
+            <downloadUrls/>
+          </lockerTrack>
+          <lockerTrack>
+            <track id="17832747">
+              <title>Tonight's All Right for Love</title>
+              <version/>
+              <artist id="2200">
+                <name>Elvis Presley</name>
+                <appearsAs>Elvis Presley</appearsAs>
+                <slug>elvis-presley-(2)</slug>
+              </artist>
+              <trackNumber>24</trackNumber>
+              <duration>81</duration>
+              <isrc>GBURZ1100718</isrc>
+              <slug>elvis-8</slug>
+            </track>
+            <remainingDownloads>5</remainingDownloads>
+            <purchaseId>814165778</purchaseId>
+            <purchaseDate>2014-07-30T10:55:41Z</purchaseDate>
+            <completeAlbumPurchase>true</completeAlbumPurchase>
+            <downloadUrls/>
+          </lockerTrack>
+          <lockerTrack>
+            <track id="17832748">
+              <title>There's Always Me</title>
+              <version/>
+              <artist id="2200">
+                <name>Elvis Presley</name>
+                <appearsAs>Elvis Presley</appearsAs>
+                <slug>elvis-presley-(2)</slug>
+              </artist>
+              <trackNumber>25</trackNumber>
+              <duration>139</duration>
+              <isrc>GBURZ1104795</isrc>
+              <slug>elvis-8</slug>
+            </track>
+            <remainingDownloads>5</remainingDownloads>
+            <purchaseId>814165778</purchaseId>
+            <purchaseDate>2014-07-30T10:55:41Z</purchaseDate>
+            <completeAlbumPurchase>true</completeAlbumPurchase>
+            <downloadUrls/>
+          </lockerTrack>
+          <lockerTrack>
+            <track id="17832749">
+              <title>Give Me the Right</title>
+              <version/>
+              <artist id="2200">
+                <name>Elvis Presley</name>
+                <appearsAs>Elvis Presley</appearsAs>
+                <slug>elvis-presley-(2)</slug>
+              </artist>
+              <trackNumber>26</trackNumber>
+              <duration>156</duration>
+              <isrc>GBURZ1104796</isrc>
+              <slug>elvis-8</slug>
+            </track>
+            <remainingDownloads>5</remainingDownloads>
+            <purchaseId>814165778</purchaseId>
+            <purchaseDate>2014-07-30T10:55:41Z</purchaseDate>
+            <completeAlbumPurchase>true</completeAlbumPurchase>
+            <downloadUrls/>
+          </lockerTrack>
+          <lockerTrack>
+            <track id="17832750">
+              <title>It's a Sin</title>
+              <version/>
+              <artist id="2200">
+                <name>Elvis Presley</name>
+                <appearsAs>Elvis Presley</appearsAs>
+                <slug>elvis-presley-(2)</slug>
+              </artist>
+              <trackNumber>27</trackNumber>
+              <duration>163</duration>
+              <isrc>GBURZ1104797</isrc>
+              <slug>elvis-8</slug>
+            </track>
+            <remainingDownloads>5</remainingDownloads>
+            <purchaseId>814165778</purchaseId>
+            <purchaseDate>2014-07-30T10:55:41Z</purchaseDate>
+            <completeAlbumPurchase>true</completeAlbumPurchase>
+            <downloadUrls/>
+          </lockerTrack>
+          <lockerTrack>
+            <track id="17832751">
+              <title>Sentimental Me</title>
+              <version/>
+              <artist id="2200">
+                <name>Elvis Presley</name>
+                <appearsAs>Elvis Presley</appearsAs>
+                <slug>elvis-presley-(2)</slug>
+              </artist>
+              <trackNumber>28</trackNumber>
+              <duration>154</duration>
+              <isrc>GBURZ1104798</isrc>
+              <slug>elvis-8</slug>
+            </track>
+            <remainingDownloads>5</remainingDownloads>
+            <purchaseId>814165778</purchaseId>
+            <purchaseDate>2014-07-30T10:55:41Z</purchaseDate>
+            <completeAlbumPurchase>true</completeAlbumPurchase>
+            <downloadUrls/>
+          </lockerTrack>
+          <lockerTrack>
+            <track id="17832752">
+              <title>Starting Today</title>
+              <version/>
+              <artist id="2200">
+                <name>Elvis Presley</name>
+                <appearsAs>Elvis Presley</appearsAs>
+                <slug>elvis-presley-(2)</slug>
+              </artist>
+              <trackNumber>29</trackNumber>
+              <duration>126</duration>
+              <isrc>GBURZ1104799</isrc>
+              <slug>elvis-8</slug>
+            </track>
+            <remainingDownloads>5</remainingDownloads>
+            <purchaseId>814165778</purchaseId>
+            <purchaseDate>2014-07-30T10:55:41Z</purchaseDate>
+            <completeAlbumPurchase>true</completeAlbumPurchase>
+            <downloadUrls/>
+          </lockerTrack>
+          <lockerTrack>
+            <track id="17832753">
+              <title>Gently</title>
+              <version/>
+              <artist id="2200">
+                <name>Elvis Presley</name>
+                <appearsAs>Elvis Presley</appearsAs>
+                <slug>elvis-presley-(2)</slug>
+              </artist>
+              <trackNumber>30</trackNumber>
+              <duration>138</duration>
+              <isrc>GBURZ1104800</isrc>
+              <slug>elvis-8</slug>
+            </track>
+            <remainingDownloads>5</remainingDownloads>
+            <purchaseId>814165778</purchaseId>
+            <purchaseDate>2014-07-30T10:55:41Z</purchaseDate>
+            <completeAlbumPurchase>true</completeAlbumPurchase>
+            <downloadUrls/>
+          </lockerTrack>
+          <lockerTrack>
+            <track id="17832754">
+              <title>I'm Coming Home</title>
+              <version/>
+              <artist id="2200">
+                <name>Elvis Presley</name>
+                <appearsAs>Elvis Presley</appearsAs>
+                <slug>elvis-presley-(2)</slug>
+              </artist>
+              <trackNumber>31</trackNumber>
+              <duration>144</duration>
+              <isrc>GBURZ1104801</isrc>
+              <slug>elvis-8</slug>
+            </track>
+            <remainingDownloads>5</remainingDownloads>
+            <purchaseId>814165778</purchaseId>
+            <purchaseDate>2014-07-30T10:55:41Z</purchaseDate>
+            <completeAlbumPurchase>true</completeAlbumPurchase>
+            <downloadUrls/>
+          </lockerTrack>
+          <lockerTrack>
+            <track id="17832755">
+              <title>In Your Arms</title>
+              <version/>
+              <artist id="2200">
+                <name>Elvis Presley</name>
+                <appearsAs>Elvis Presley</appearsAs>
+                <slug>elvis-presley-(2)</slug>
+              </artist>
+              <trackNumber>32</trackNumber>
+              <duration>111</duration>
+              <isrc>GBURZ1104802</isrc>
+              <slug>elvis-8</slug>
+            </track>
+            <remainingDownloads>5</remainingDownloads>
+            <purchaseId>814165778</purchaseId>
+            <purchaseDate>2014-07-30T10:55:41Z</purchaseDate>
+            <completeAlbumPurchase>true</completeAlbumPurchase>
+            <downloadUrls/>
+          </lockerTrack>
+          <lockerTrack>
+            <track id="17832756">
+              <title>Put the Blame On Me</title>
+              <version/>
+              <artist id="2200">
+                <name>Elvis Presley</name>
+                <appearsAs>Elvis Presley</appearsAs>
+                <slug>elvis-presley-(2)</slug>
+              </artist>
+              <trackNumber>33</trackNumber>
+              <duration>118</duration>
+              <isrc>GBURZ1104803</isrc>
+              <slug>elvis-8</slug>
+            </track>
+            <remainingDownloads>5</remainingDownloads>
+            <purchaseId>814165778</purchaseId>
+            <purchaseDate>2014-07-30T10:55:41Z</purchaseDate>
+            <completeAlbumPurchase>true</completeAlbumPurchase>
+            <downloadUrls/>
+          </lockerTrack>
+          <lockerTrack>
+            <track id="17832757">
+              <title>Judy</title>
+              <version/>
+              <artist id="2200">
+                <name>Elvis Presley</name>
+                <appearsAs>Elvis Presley</appearsAs>
+                <slug>elvis-presley-(2)</slug>
+              </artist>
+              <trackNumber>34</trackNumber>
+              <duration>130</duration>
+              <isrc>GBURZ1104804</isrc>
+              <slug>elvis-8</slug>
+            </track>
+            <remainingDownloads>5</remainingDownloads>
+            <purchaseId>814165778</purchaseId>
+            <purchaseDate>2014-07-30T10:55:41Z</purchaseDate>
+            <completeAlbumPurchase>true</completeAlbumPurchase>
+            <downloadUrls/>
+          </lockerTrack>
+          <lockerTrack>
+            <track id="17832758">
+              <title>I Want You With Me</title>
+              <version/>
+              <artist id="2200">
+                <name>Elvis Presley</name>
+                <appearsAs>Elvis Presley</appearsAs>
+                <slug>elvis-presley-(2)</slug>
+              </artist>
+              <trackNumber>35</trackNumber>
+              <duration>136</duration>
+              <isrc>GBURZ1104805</isrc>
+              <slug>elvis-8</slug>
+            </track>
+            <remainingDownloads>5</remainingDownloads>
+            <purchaseId>814165778</purchaseId>
+            <purchaseDate>2014-07-30T10:55:41Z</purchaseDate>
+            <completeAlbumPurchase>true</completeAlbumPurchase>
+            <downloadUrls/>
+          </lockerTrack>
+          <lockerTrack>
+            <track id="17832759">
+              <title>I Slipped, I Stumbled, I Fell</title>
+              <version/>
+              <artist id="2200">
+                <name>Elvis Presley</name>
+                <appearsAs>Elvis Presley</appearsAs>
+                <slug>elvis-presley-(2)</slug>
+              </artist>
+              <trackNumber>36</trackNumber>
+              <duration>96</duration>
+              <isrc>GBURZ1104806</isrc>
+              <slug>elvis-8</slug>
+            </track>
+            <remainingDownloads>5</remainingDownloads>
+            <purchaseId>814165778</purchaseId>
+            <purchaseDate>2014-07-30T10:55:41Z</purchaseDate>
+            <completeAlbumPurchase>true</completeAlbumPurchase>
+            <downloadUrls/>
+          </lockerTrack>
+          <lockerTrack>
+            <track id="17832760">
+              <title>Pocketful of Rainbows</title>
+              <version/>
+              <artist id="2200">
+                <name>Elvis Presley</name>
+                <appearsAs>Elvis Presley</appearsAs>
+                <slug>elvis-presley-(2)</slug>
+              </artist>
+              <trackNumber>37</trackNumber>
+              <duration>155</duration>
+              <isrc>GBURZ1100712</isrc>
+              <slug>elvis-8</slug>
+            </track>
+            <remainingDownloads>5</remainingDownloads>
+            <purchaseId>814165778</purchaseId>
+            <purchaseDate>2014-07-30T10:55:41Z</purchaseDate>
+            <completeAlbumPurchase>true</completeAlbumPurchase>
+            <downloadUrls/>
+          </lockerTrack>
+          <lockerTrack>
+            <track id="17832761">
+              <title>Frankfort Special</title>
+              <version/>
+              <artist id="2200">
+                <name>Elvis Presley</name>
+                <appearsAs>Elvis Presley</appearsAs>
+                <slug>elvis-presley-(2)</slug>
+              </artist>
+              <trackNumber>38</trackNumber>
+              <duration>178</duration>
+              <isrc>GBURZ1100709</isrc>
+              <slug>elvis-8</slug>
+            </track>
+            <remainingDownloads>5</remainingDownloads>
+            <purchaseId>814165778</purchaseId>
+            <purchaseDate>2014-07-30T10:55:41Z</purchaseDate>
+            <completeAlbumPurchase>true</completeAlbumPurchase>
+            <downloadUrls/>
+          </lockerTrack>
+          <lockerTrack>
+            <track id="17832762">
+              <title>If We Never Meet Again</title>
+              <version>Remastered</version>
+              <artist id="2200">
+                <name>Elvis Presley</name>
+                <appearsAs>Elvis Presley</appearsAs>
+                <slug>elvis-presley-(2)</slug>
+              </artist>
+              <trackNumber>39</trackNumber>
+              <duration>121</duration>
+              <isrc>GBURZ1100868</isrc>
+              <slug>elvis-8</slug>
+            </track>
+            <remainingDownloads>5</remainingDownloads>
+            <purchaseId>814165778</purchaseId>
+            <purchaseDate>2014-07-30T10:55:41Z</purchaseDate>
+            <completeAlbumPurchase>true</completeAlbumPurchase>
+            <downloadUrls/>
+          </lockerTrack>
+          <lockerTrack>
+            <track id="17832764">
+              <title>King Creole</title>
+              <version/>
+              <artist id="2200">
+                <name>Elvis Presley</name>
+                <appearsAs>Elvis Presley</appearsAs>
+                <slug>elvis-presley-(2)</slug>
+              </artist>
+              <trackNumber>40</trackNumber>
+              <duration>131</duration>
+              <isrc>GBURZ1000969</isrc>
+              <slug>elvis-8</slug>
+            </track>
+            <remainingDownloads>5</remainingDownloads>
+            <purchaseId>814165778</purchaseId>
+            <purchaseDate>2014-07-30T10:55:41Z</purchaseDate>
+            <completeAlbumPurchase>true</completeAlbumPurchase>
+            <downloadUrls/>
+          </lockerTrack>
+        </lockerTracks>
+        <available>true</available>
+      </lockerRelease>
+    </lockerReleases>
+  </locker>
 </response>

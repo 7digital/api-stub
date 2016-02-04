@@ -1,42 +1,42 @@
 <?xml version="1.0" encoding="utf-8"?>
 <response xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" status="ok" version="1.2" xsi:noNamespaceSchemaLocation="http://api.7digital.com/1.2/static/7digitalAPI.xsd">
-	<basket id="9066fcf0-cf4c-4beb-ad9c-1bc69147b18f">
-		<itemCount>1</itemCount>
-		<price>
-			<currency code="GBP">£</currency>
-			<value>10.49</value>
-			<formattedPrice>£10.49</formattedPrice>
-			<rrp>10.49</rrp>
-			<formattedRrp>£10.49</formattedRrp>
-		</price>
-		<basketItems>
-			<basketItem id="511266166">
-				<type>release</type>
-				<itemName>Perfect Symmetry</itemName>
-				<artistName>Keane</artistName>
-				<trackId/>
-				<releaseId>320866</releaseId>
-				<price>
-					<currency code="GBP">£</currency>
-					<value>5.99</value>
-					<formattedPrice>£5.99</formattedPrice>
-					<rrp>5.99</rrp>
-					<formattedRrp>£5.99</formattedRrp>
-				</price>
-				<package id="2"/>
-				<discount>
-					<type>Voucher</type>
-				</discount>
-				<amountDue>
-					<amount>0</amount>
-					<formattedAmount>£0.00</formattedAmount>
-				</amountDue>
-			</basketItem>
-		</basketItems>
-		<amountDue>
-			<currency code="GBP">£</currency>
-			<amount>0</amount>
-			<formattedAmount>£0.00</formattedAmount>
-		</amountDue>
-	</basket>
+  <basket id="9066fcf0-cf4c-4beb-ad9c-1bc69147b18f">
+    <itemCount>1</itemCount>
+    <price>
+      <currency code="GBP">£</currency>
+      <value>10.49</value>
+      <formattedPrice>£10.49</formattedPrice>
+      <rrp>10.49</rrp>
+      <formattedRrp>£10.49</formattedRrp>
+    </price>
+    <basketItems>
+      <basketItem id="511266166">
+        <type>release</type>
+        <itemName>Perfect Symmetry</itemName>
+        <artistName>Keane</artistName>
+        <trackId/>
+        <releaseId>320866</releaseId>
+        <price>
+          <currency code="GBP">£</currency>
+          <value>5.99</value>
+          <formattedPrice>£5.99</formattedPrice>
+          <rrp>5.99</rrp>
+          <formattedRrp>£5.99</formattedRrp>
+        </price>
+        <package id="2"/>
+        <discount>
+          <type>Voucher</type>
+        </discount>
+        <amountDue>
+          <amount>0</amount>
+          <formattedAmount>£0.00</formattedAmount>
+        </amountDue>
+      </basketItem>
+    </basketItems>
+    <amountDue>
+      <currency code="GBP">£</currency>
+      <amount>0</amount>
+      <formattedAmount>£0.00</formattedAmount>
+    </amountDue>
+  </basket>
 </response>

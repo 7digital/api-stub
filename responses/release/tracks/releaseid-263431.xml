@@ -1,1284 +1,1284 @@
 <?xml version="1.0" encoding="utf-8"?>
 <response xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" status="ok" version="1.2" xsi:noNamespaceSchemaLocation="http://api.7digital.com/1.2/static/7digitalAPI.xsd">
-	<tracks>
-		<page>1</page>
-		<pageSize>22</pageSize>
-		<totalItems>22</totalItems>
-		<track id="2768322">
-			<title>The Sound Of Music (Live In Manchester)</title>
-			<version/>
-			<artist id="1599">
-				<name>Kylie</name>
-				<appearsAs>Kylie Minogue</appearsAs>
-				<url>http://www.7digital.com/artist/kylie/?partner=3923</url>
-			</artist>
-			<trackNumber>1</trackNumber>
-			<duration>70</duration>
-			<explicitContent>false</explicitContent>
-			<isrc>GB0400200830</isrc>
-			<type>video</type>
-			<release id="263431">
-				<title>KylieFever2002 Live In Manchester</title>
-				<version/>
-				<type>Video</type>
-				<barcode>0724349010154</barcode>
-				<artist id="1599">
-					<name>Kylie</name>
-					<appearsAs>Kylie Minogue</appearsAs>
-					<url>http://www.7digital.com/artist/kylie/?partner=3923</url>
-				</artist>
-				<url>http://www.7digital.com/artist/kylie/release/kyliefever2002-live-in-manchester/?partner=3923</url>
-				<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/002/634/0000263431_50.jpg</image>
-				<releaseDate>2008-05-26T00:00:00Z</releaseDate>
-			</release>
-			<url>http://www.7digital.com/artist/kylie/release/kyliefever2002-live-in-manchester/?partner=3923&amp;h=01</url>
-			<price>
-				<currency code="GBP">£</currency>
-				<value>1.79</value>
-				<formattedPrice>£1.79</formattedPrice>
-				<rrp>1.79</rrp>
-				<formattedRrp>£1.79</formattedRrp>
-				<onSale>false</onSale>
-			</price>
-			<download>
-				<packages>
-					<package id="2">
-						<description>standard</description>
-						<price>
-							<currencyCode>GBP</currencyCode>
-							<sevendigitalPrice>1.79</sevendigitalPrice>
-							<recommendedRetailPrice>1.79</recommendedRetailPrice>
-						</price>
-						<formats>
-							<format id="17">
-								<description>MP3 320</description>
-							</format>
-						</formats>
-					</package>
-				</packages>
-			</download>
-			<streamingReleaseDate xsi:nil="true"/>
-			<discNumber>1</discNumber>
-			<number>1</number>
-			<previewDate>2008-05-26T00:00:00Z</previewDate>
-		</track>
-		<track id="2768325">
-			<title>Come Into My World (Live In Manchester)</title>
-			<version/>
-			<artist id="1599">
-				<name>Kylie</name>
-				<appearsAs>Kylie Minogue</appearsAs>
-				<url>http://www.7digital.com/artist/kylie/?partner=3923</url>
-			</artist>
-			<trackNumber>2</trackNumber>
-			<duration>372</duration>
-			<explicitContent>false</explicitContent>
-			<isrc>GB0400200840</isrc>
-			<type>video</type>
-			<release id="263431">
-				<title>KylieFever2002 Live In Manchester</title>
-				<version/>
-				<type>Video</type>
-				<barcode>0724349010154</barcode>
-				<artist id="1599">
-					<name>Kylie</name>
-					<appearsAs>Kylie Minogue</appearsAs>
-					<url>http://www.7digital.com/artist/kylie/?partner=3923</url>
-				</artist>
-				<url>http://www.7digital.com/artist/kylie/release/kyliefever2002-live-in-manchester/?partner=3923</url>
-				<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/002/634/0000263431_50.jpg</image>
-				<releaseDate>2008-05-26T00:00:00Z</releaseDate>
-			</release>
-			<url>http://www.7digital.com/artist/kylie/release/kyliefever2002-live-in-manchester/?partner=3923&amp;h=02</url>
-			<price>
-				<currency code="GBP">£</currency>
-				<value>1.79</value>
-				<formattedPrice>£1.79</formattedPrice>
-				<rrp>1.79</rrp>
-				<formattedRrp>£1.79</formattedRrp>
-				<onSale>false</onSale>
-			</price>
-			<download>
-				<packages>
-					<package id="2">
-						<description>standard</description>
-						<price>
-							<currencyCode>GBP</currencyCode>
-							<sevendigitalPrice>1.79</sevendigitalPrice>
-							<recommendedRetailPrice>1.79</recommendedRetailPrice>
-						</price>
-						<formats>
-							<format id="17">
-								<description>MP3 320</description>
-							</format>
-						</formats>
-					</package>
-				</packages>
-			</download>
-			<streamingReleaseDate xsi:nil="true"/>
-			<discNumber>1</discNumber>
-			<number>2</number>
-			<previewDate>2008-05-26T00:00:00Z</previewDate>
-		</track>
-		<track id="2768328">
-			<title>Shocked (Live In Manchester)</title>
-			<version/>
-			<artist id="1599">
-				<name>Kylie</name>
-				<appearsAs>Kylie Minogue</appearsAs>
-				<url>http://www.7digital.com/artist/kylie/?partner=3923</url>
-			</artist>
-			<trackNumber>3</trackNumber>
-			<duration>328</duration>
-			<explicitContent>false</explicitContent>
-			<isrc>GB0400200850</isrc>
-			<type>video</type>
-			<release id="263431">
-				<title>KylieFever2002 Live In Manchester</title>
-				<version/>
-				<type>Video</type>
-				<barcode>0724349010154</barcode>
-				<artist id="1599">
-					<name>Kylie</name>
-					<appearsAs>Kylie Minogue</appearsAs>
-					<url>http://www.7digital.com/artist/kylie/?partner=3923</url>
-				</artist>
-				<url>http://www.7digital.com/artist/kylie/release/kyliefever2002-live-in-manchester/?partner=3923</url>
-				<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/002/634/0000263431_50.jpg</image>
-				<releaseDate>2008-05-26T00:00:00Z</releaseDate>
-			</release>
-			<url>http://www.7digital.com/artist/kylie/release/kyliefever2002-live-in-manchester/?partner=3923&amp;h=03</url>
-			<price>
-				<currency code="GBP">£</currency>
-				<value>1.79</value>
-				<formattedPrice>£1.79</formattedPrice>
-				<rrp>1.79</rrp>
-				<formattedRrp>£1.79</formattedRrp>
-				<onSale>false</onSale>
-			</price>
-			<download>
-				<packages>
-					<package id="2">
-						<description>standard</description>
-						<price>
-							<currencyCode>GBP</currencyCode>
-							<sevendigitalPrice>1.79</sevendigitalPrice>
-							<recommendedRetailPrice>1.79</recommendedRetailPrice>
-						</price>
-						<formats>
-							<format id="17">
-								<description>MP3 320</description>
-							</format>
-						</formats>
-					</package>
-				</packages>
-			</download>
-			<streamingReleaseDate xsi:nil="true"/>
-			<discNumber>1</discNumber>
-			<number>3</number>
-			<previewDate>2008-05-26T00:00:00Z</previewDate>
-		</track>
-		<track id="2768330">
-			<title>Love At First Sight (Live In Manchester)</title>
-			<version/>
-			<artist id="1599">
-				<name>Kylie</name>
-				<appearsAs>Kylie Minogue</appearsAs>
-				<url>http://www.7digital.com/artist/kylie/?partner=3923</url>
-			</artist>
-			<trackNumber>4</trackNumber>
-			<duration>252</duration>
-			<explicitContent>false</explicitContent>
-			<isrc>GB0400200230</isrc>
-			<type>video</type>
-			<release id="263431">
-				<title>KylieFever2002 Live In Manchester</title>
-				<version/>
-				<type>Video</type>
-				<barcode>0724349010154</barcode>
-				<artist id="1599">
-					<name>Kylie</name>
-					<appearsAs>Kylie Minogue</appearsAs>
-					<url>http://www.7digital.com/artist/kylie/?partner=3923</url>
-				</artist>
-				<url>http://www.7digital.com/artist/kylie/release/kyliefever2002-live-in-manchester/?partner=3923</url>
-				<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/002/634/0000263431_50.jpg</image>
-				<releaseDate>2008-05-26T00:00:00Z</releaseDate>
-			</release>
-			<url>http://www.7digital.com/artist/kylie/release/kyliefever2002-live-in-manchester/?partner=3923&amp;h=04</url>
-			<price>
-				<currency code="GBP">£</currency>
-				<value>1.79</value>
-				<formattedPrice>£1.79</formattedPrice>
-				<rrp>1.79</rrp>
-				<formattedRrp>£1.79</formattedRrp>
-				<onSale>false</onSale>
-			</price>
-			<download>
-				<packages>
-					<package id="2">
-						<description>standard</description>
-						<price>
-							<currencyCode>GBP</currencyCode>
-							<sevendigitalPrice>1.79</sevendigitalPrice>
-							<recommendedRetailPrice>1.79</recommendedRetailPrice>
-						</price>
-						<formats>
-							<format id="17">
-								<description>MP3 320</description>
-							</format>
-						</formats>
-					</package>
-				</packages>
-			</download>
-			<streamingReleaseDate xsi:nil="true"/>
-			<discNumber>1</discNumber>
-			<number>4</number>
-			<previewDate>2008-05-26T00:00:00Z</previewDate>
-		</track>
-		<track id="2768332">
-			<title>Fever (Live In Manchester)</title>
-			<version/>
-			<artist id="1599">
-				<name>Kylie</name>
-				<appearsAs>Kylie Minogue</appearsAs>
-				<url>http://www.7digital.com/artist/kylie/?partner=3923</url>
-			</artist>
-			<trackNumber>5</trackNumber>
-			<duration>223</duration>
-			<explicitContent>false</explicitContent>
-			<isrc>GB0400200870</isrc>
-			<type>video</type>
-			<release id="263431">
-				<title>KylieFever2002 Live In Manchester</title>
-				<version/>
-				<type>Video</type>
-				<barcode>0724349010154</barcode>
-				<artist id="1599">
-					<name>Kylie</name>
-					<appearsAs>Kylie Minogue</appearsAs>
-					<url>http://www.7digital.com/artist/kylie/?partner=3923</url>
-				</artist>
-				<url>http://www.7digital.com/artist/kylie/release/kyliefever2002-live-in-manchester/?partner=3923</url>
-				<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/002/634/0000263431_50.jpg</image>
-				<releaseDate>2008-05-26T00:00:00Z</releaseDate>
-			</release>
-			<url>http://www.7digital.com/artist/kylie/release/kyliefever2002-live-in-manchester/?partner=3923&amp;h=05</url>
-			<price>
-				<currency code="GBP">£</currency>
-				<value>1.79</value>
-				<formattedPrice>£1.79</formattedPrice>
-				<rrp>1.79</rrp>
-				<formattedRrp>£1.79</formattedRrp>
-				<onSale>false</onSale>
-			</price>
-			<download>
-				<packages>
-					<package id="2">
-						<description>standard</description>
-						<price>
-							<currencyCode>GBP</currencyCode>
-							<sevendigitalPrice>1.79</sevendigitalPrice>
-							<recommendedRetailPrice>1.79</recommendedRetailPrice>
-						</price>
-						<formats>
-							<format id="17">
-								<description>MP3 320</description>
-							</format>
-						</formats>
-					</package>
-				</packages>
-			</download>
-			<streamingReleaseDate xsi:nil="true"/>
-			<discNumber>1</discNumber>
-			<number>5</number>
-			<previewDate>2008-05-26T00:00:00Z</previewDate>
-		</track>
-		<track id="2768334">
-			<title>Spinning Around (Live In Manchester)</title>
-			<version/>
-			<artist id="1599">
-				<name>Kylie</name>
-				<appearsAs>Kylie Minogue</appearsAs>
-				<url>http://www.7digital.com/artist/kylie/?partner=3923</url>
-			</artist>
-			<trackNumber>6</trackNumber>
-			<duration>305</duration>
-			<explicitContent>false</explicitContent>
-			<isrc>GB0400200880</isrc>
-			<type>video</type>
-			<release id="263431">
-				<title>KylieFever2002 Live In Manchester</title>
-				<version/>
-				<type>Video</type>
-				<barcode>0724349010154</barcode>
-				<artist id="1599">
-					<name>Kylie</name>
-					<appearsAs>Kylie Minogue</appearsAs>
-					<url>http://www.7digital.com/artist/kylie/?partner=3923</url>
-				</artist>
-				<url>http://www.7digital.com/artist/kylie/release/kyliefever2002-live-in-manchester/?partner=3923</url>
-				<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/002/634/0000263431_50.jpg</image>
-				<releaseDate>2008-05-26T00:00:00Z</releaseDate>
-			</release>
-			<url>http://www.7digital.com/artist/kylie/release/kyliefever2002-live-in-manchester/?partner=3923&amp;h=06</url>
-			<price>
-				<currency code="GBP">£</currency>
-				<value>1.79</value>
-				<formattedPrice>£1.79</formattedPrice>
-				<rrp>1.79</rrp>
-				<formattedRrp>£1.79</formattedRrp>
-				<onSale>false</onSale>
-			</price>
-			<download>
-				<packages>
-					<package id="2">
-						<description>standard</description>
-						<price>
-							<currencyCode>GBP</currencyCode>
-							<sevendigitalPrice>1.79</sevendigitalPrice>
-							<recommendedRetailPrice>1.79</recommendedRetailPrice>
-						</price>
-						<formats>
-							<format id="17">
-								<description>MP3 320</description>
-							</format>
-						</formats>
-					</package>
-				</packages>
-			</download>
-			<streamingReleaseDate xsi:nil="true"/>
-			<discNumber>1</discNumber>
-			<number>6</number>
-			<previewDate>2008-05-26T00:00:00Z</previewDate>
-		</track>
-		<track id="2768336">
-			<title>The Crying Game (Ballads Section) (Live In Manchester)</title>
-			<version/>
-			<artist id="1599">
-				<name>Kylie</name>
-				<appearsAs>Kylie Minogue</appearsAs>
-				<url>http://www.7digital.com/artist/kylie/?partner=3923</url>
-			</artist>
-			<trackNumber>7</trackNumber>
-			<duration>536</duration>
-			<explicitContent>false</explicitContent>
-			<isrc>GB0400200890</isrc>
-			<type>video</type>
-			<release id="263431">
-				<title>KylieFever2002 Live In Manchester</title>
-				<version/>
-				<type>Video</type>
-				<barcode>0724349010154</barcode>
-				<artist id="1599">
-					<name>Kylie</name>
-					<appearsAs>Kylie Minogue</appearsAs>
-					<url>http://www.7digital.com/artist/kylie/?partner=3923</url>
-				</artist>
-				<url>http://www.7digital.com/artist/kylie/release/kyliefever2002-live-in-manchester/?partner=3923</url>
-				<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/002/634/0000263431_50.jpg</image>
-				<releaseDate>2008-05-26T00:00:00Z</releaseDate>
-			</release>
-			<url>http://www.7digital.com/artist/kylie/release/kyliefever2002-live-in-manchester/?partner=3923&amp;h=07</url>
-			<price>
-				<currency code="GBP">£</currency>
-				<value>1.79</value>
-				<formattedPrice>£1.79</formattedPrice>
-				<rrp>1.79</rrp>
-				<formattedRrp>£1.79</formattedRrp>
-				<onSale>false</onSale>
-			</price>
-			<download>
-				<packages>
-					<package id="2">
-						<description>standard</description>
-						<price>
-							<currencyCode>GBP</currencyCode>
-							<sevendigitalPrice>1.79</sevendigitalPrice>
-							<recommendedRetailPrice>1.79</recommendedRetailPrice>
-						</price>
-						<formats>
-							<format id="17">
-								<description>MP3 320</description>
-							</format>
-						</formats>
-					</package>
-				</packages>
-			</download>
-			<streamingReleaseDate xsi:nil="true"/>
-			<discNumber>1</discNumber>
-			<number>7</number>
-			<previewDate>2008-05-26T00:00:00Z</previewDate>
-		</track>
-		<track id="2768337">
-			<title>GBI (Live In Manchester)</title>
-			<version/>
-			<artist id="1599">
-				<name>Kylie</name>
-				<appearsAs>Kylie Minogue</appearsAs>
-				<url>http://www.7digital.com/artist/kylie/?partner=3923</url>
-			</artist>
-			<trackNumber>8</trackNumber>
-			<duration>217</duration>
-			<explicitContent>false</explicitContent>
-			<isrc>GB0400200900</isrc>
-			<type>video</type>
-			<release id="263431">
-				<title>KylieFever2002 Live In Manchester</title>
-				<version/>
-				<type>Video</type>
-				<barcode>0724349010154</barcode>
-				<artist id="1599">
-					<name>Kylie</name>
-					<appearsAs>Kylie Minogue</appearsAs>
-					<url>http://www.7digital.com/artist/kylie/?partner=3923</url>
-				</artist>
-				<url>http://www.7digital.com/artist/kylie/release/kyliefever2002-live-in-manchester/?partner=3923</url>
-				<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/002/634/0000263431_50.jpg</image>
-				<releaseDate>2008-05-26T00:00:00Z</releaseDate>
-			</release>
-			<url>http://www.7digital.com/artist/kylie/release/kyliefever2002-live-in-manchester/?partner=3923&amp;h=08</url>
-			<price>
-				<currency code="GBP">£</currency>
-				<value>1.79</value>
-				<formattedPrice>£1.79</formattedPrice>
-				<rrp>1.79</rrp>
-				<formattedRrp>£1.79</formattedRrp>
-				<onSale>false</onSale>
-			</price>
-			<download>
-				<packages>
-					<package id="2">
-						<description>standard</description>
-						<price>
-							<currencyCode>GBP</currencyCode>
-							<sevendigitalPrice>1.79</sevendigitalPrice>
-							<recommendedRetailPrice>1.79</recommendedRetailPrice>
-						</price>
-						<formats>
-							<format id="17">
-								<description>MP3 320</description>
-							</format>
-						</formats>
-					</package>
-				</packages>
-			</download>
-			<streamingReleaseDate xsi:nil="true"/>
-			<discNumber>1</discNumber>
-			<number>8</number>
-			<previewDate>2008-05-26T00:00:00Z</previewDate>
-		</track>
-		<track id="2768339">
-			<title>Confide In Me (Live In Manchester)</title>
-			<version/>
-			<artist id="1599">
-				<name>Kylie</name>
-				<appearsAs>Kylie Minogue</appearsAs>
-				<url>http://www.7digital.com/artist/kylie/?partner=3923</url>
-			</artist>
-			<trackNumber>9</trackNumber>
-			<duration>390</duration>
-			<explicitContent>false</explicitContent>
-			<isrc>GB0400200910</isrc>
-			<type>video</type>
-			<release id="263431">
-				<title>KylieFever2002 Live In Manchester</title>
-				<version/>
-				<type>Video</type>
-				<barcode>0724349010154</barcode>
-				<artist id="1599">
-					<name>Kylie</name>
-					<appearsAs>Kylie Minogue</appearsAs>
-					<url>http://www.7digital.com/artist/kylie/?partner=3923</url>
-				</artist>
-				<url>http://www.7digital.com/artist/kylie/release/kyliefever2002-live-in-manchester/?partner=3923</url>
-				<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/002/634/0000263431_50.jpg</image>
-				<releaseDate>2008-05-26T00:00:00Z</releaseDate>
-			</release>
-			<url>http://www.7digital.com/artist/kylie/release/kyliefever2002-live-in-manchester/?partner=3923&amp;h=09</url>
-			<price>
-				<currency code="GBP">£</currency>
-				<value>1.79</value>
-				<formattedPrice>£1.79</formattedPrice>
-				<rrp>1.79</rrp>
-				<formattedRrp>£1.79</formattedRrp>
-				<onSale>false</onSale>
-			</price>
-			<download>
-				<packages>
-					<package id="2">
-						<description>standard</description>
-						<price>
-							<currencyCode>GBP</currencyCode>
-							<sevendigitalPrice>1.79</sevendigitalPrice>
-							<recommendedRetailPrice>1.79</recommendedRetailPrice>
-						</price>
-						<formats>
-							<format id="17">
-								<description>MP3 320</description>
-							</format>
-						</formats>
-					</package>
-				</packages>
-			</download>
-			<streamingReleaseDate xsi:nil="true"/>
-			<discNumber>1</discNumber>
-			<number>9</number>
-			<previewDate>2008-05-26T00:00:00Z</previewDate>
-		</track>
-		<track id="2768341">
-			<title>Cowboy Style (Live In Manchester)</title>
-			<version/>
-			<artist id="1599">
-				<name>Kylie</name>
-				<appearsAs>Kylie Minogue</appearsAs>
-				<url>http://www.7digital.com/artist/kylie/?partner=3923</url>
-			</artist>
-			<trackNumber>10</trackNumber>
-			<duration>342</duration>
-			<explicitContent>false</explicitContent>
-			<isrc>GB0400200920</isrc>
-			<type>video</type>
-			<release id="263431">
-				<title>KylieFever2002 Live In Manchester</title>
-				<version/>
-				<type>Video</type>
-				<barcode>0724349010154</barcode>
-				<artist id="1599">
-					<name>Kylie</name>
-					<appearsAs>Kylie Minogue</appearsAs>
-					<url>http://www.7digital.com/artist/kylie/?partner=3923</url>
-				</artist>
-				<url>http://www.7digital.com/artist/kylie/release/kyliefever2002-live-in-manchester/?partner=3923</url>
-				<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/002/634/0000263431_50.jpg</image>
-				<releaseDate>2008-05-26T00:00:00Z</releaseDate>
-			</release>
-			<url>http://www.7digital.com/artist/kylie/release/kyliefever2002-live-in-manchester/?partner=3923&amp;h=10</url>
-			<price>
-				<currency code="GBP">£</currency>
-				<value>1.79</value>
-				<formattedPrice>£1.79</formattedPrice>
-				<rrp>1.79</rrp>
-				<formattedRrp>£1.79</formattedRrp>
-				<onSale>false</onSale>
-			</price>
-			<download>
-				<packages>
-					<package id="2">
-						<description>standard</description>
-						<price>
-							<currencyCode>GBP</currencyCode>
-							<sevendigitalPrice>1.79</sevendigitalPrice>
-							<recommendedRetailPrice>1.79</recommendedRetailPrice>
-						</price>
-						<formats>
-							<format id="17">
-								<description>MP3 320</description>
-							</format>
-						</formats>
-					</package>
-				</packages>
-			</download>
-			<streamingReleaseDate xsi:nil="true"/>
-			<discNumber>1</discNumber>
-			<number>10</number>
-			<previewDate>2008-05-26T00:00:00Z</previewDate>
-		</track>
-		<track id="2768343">
-			<title>Kids (Live In Manchester)</title>
-			<version/>
-			<artist id="1599">
-				<name>Kylie</name>
-				<appearsAs>Kylie Minogue</appearsAs>
-				<url>http://www.7digital.com/artist/kylie/?partner=3923</url>
-			</artist>
-			<trackNumber>11</trackNumber>
-			<duration>262</duration>
-			<explicitContent>false</explicitContent>
-			<isrc>GB0400200930</isrc>
-			<type>video</type>
-			<release id="263431">
-				<title>KylieFever2002 Live In Manchester</title>
-				<version/>
-				<type>Video</type>
-				<barcode>0724349010154</barcode>
-				<artist id="1599">
-					<name>Kylie</name>
-					<appearsAs>Kylie Minogue</appearsAs>
-					<url>http://www.7digital.com/artist/kylie/?partner=3923</url>
-				</artist>
-				<url>http://www.7digital.com/artist/kylie/release/kyliefever2002-live-in-manchester/?partner=3923</url>
-				<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/002/634/0000263431_50.jpg</image>
-				<releaseDate>2008-05-26T00:00:00Z</releaseDate>
-			</release>
-			<url>http://www.7digital.com/artist/kylie/release/kyliefever2002-live-in-manchester/?partner=3923&amp;h=11</url>
-			<price>
-				<currency code="GBP">£</currency>
-				<value>1.79</value>
-				<formattedPrice>£1.79</formattedPrice>
-				<rrp>1.79</rrp>
-				<formattedRrp>£1.79</formattedRrp>
-				<onSale>false</onSale>
-			</price>
-			<download>
-				<packages>
-					<package id="2">
-						<description>standard</description>
-						<price>
-							<currencyCode>GBP</currencyCode>
-							<sevendigitalPrice>1.79</sevendigitalPrice>
-							<recommendedRetailPrice>1.79</recommendedRetailPrice>
-						</price>
-						<formats>
-							<format id="17">
-								<description>MP3 320</description>
-							</format>
-						</formats>
-					</package>
-				</packages>
-			</download>
-			<streamingReleaseDate xsi:nil="true"/>
-			<discNumber>1</discNumber>
-			<number>11</number>
-			<previewDate>2008-05-26T00:00:00Z</previewDate>
-		</track>
-		<track id="2768346">
-			<title>On A Night Like This (Live In Manchester)</title>
-			<version/>
-			<artist id="1599">
-				<name>Kylie</name>
-				<appearsAs>Kylie Minogue</appearsAs>
-				<url>http://www.7digital.com/artist/kylie/?partner=3923</url>
-			</artist>
-			<trackNumber>12</trackNumber>
-			<duration>222</duration>
-			<explicitContent>false</explicitContent>
-			<isrc>GB0400200940</isrc>
-			<type>video</type>
-			<release id="263431">
-				<title>KylieFever2002 Live In Manchester</title>
-				<version/>
-				<type>Video</type>
-				<barcode>0724349010154</barcode>
-				<artist id="1599">
-					<name>Kylie</name>
-					<appearsAs>Kylie Minogue</appearsAs>
-					<url>http://www.7digital.com/artist/kylie/?partner=3923</url>
-				</artist>
-				<url>http://www.7digital.com/artist/kylie/release/kyliefever2002-live-in-manchester/?partner=3923</url>
-				<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/002/634/0000263431_50.jpg</image>
-				<releaseDate>2008-05-26T00:00:00Z</releaseDate>
-			</release>
-			<url>http://www.7digital.com/artist/kylie/release/kyliefever2002-live-in-manchester/?partner=3923&amp;h=12</url>
-			<price>
-				<currency code="GBP">£</currency>
-				<value>1.79</value>
-				<formattedPrice>£1.79</formattedPrice>
-				<rrp>1.79</rrp>
-				<formattedRrp>£1.79</formattedRrp>
-				<onSale>false</onSale>
-			</price>
-			<download>
-				<packages>
-					<package id="2">
-						<description>standard</description>
-						<price>
-							<currencyCode>GBP</currencyCode>
-							<sevendigitalPrice>1.79</sevendigitalPrice>
-							<recommendedRetailPrice>1.79</recommendedRetailPrice>
-						</price>
-						<formats>
-							<format id="17">
-								<description>MP3 320</description>
-							</format>
-						</formats>
-					</package>
-				</packages>
-			</download>
-			<streamingReleaseDate xsi:nil="true"/>
-			<discNumber>1</discNumber>
-			<number>12</number>
-			<previewDate>2008-05-26T00:00:00Z</previewDate>
-		</track>
-		<track id="2768348">
-			<title>Locomotion (Live In Manchester)</title>
-			<version/>
-			<artist id="1599">
-				<name>Kylie</name>
-				<appearsAs>Kylie Minogue</appearsAs>
-				<url>http://www.7digital.com/artist/kylie/?partner=3923</url>
-			</artist>
-			<trackNumber>13</trackNumber>
-			<duration>228</duration>
-			<explicitContent>false</explicitContent>
-			<isrc>GB0400200950</isrc>
-			<type>video</type>
-			<release id="263431">
-				<title>KylieFever2002 Live In Manchester</title>
-				<version/>
-				<type>Video</type>
-				<barcode>0724349010154</barcode>
-				<artist id="1599">
-					<name>Kylie</name>
-					<appearsAs>Kylie Minogue</appearsAs>
-					<url>http://www.7digital.com/artist/kylie/?partner=3923</url>
-				</artist>
-				<url>http://www.7digital.com/artist/kylie/release/kyliefever2002-live-in-manchester/?partner=3923</url>
-				<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/002/634/0000263431_50.jpg</image>
-				<releaseDate>2008-05-26T00:00:00Z</releaseDate>
-			</release>
-			<url>http://www.7digital.com/artist/kylie/release/kyliefever2002-live-in-manchester/?partner=3923&amp;h=13</url>
-			<price>
-				<currency code="GBP">£</currency>
-				<value>1.79</value>
-				<formattedPrice>£1.79</formattedPrice>
-				<rrp>1.79</rrp>
-				<formattedRrp>£1.79</formattedRrp>
-				<onSale>false</onSale>
-			</price>
-			<download>
-				<packages>
-					<package id="2">
-						<description>standard</description>
-						<price>
-							<currencyCode>GBP</currencyCode>
-							<sevendigitalPrice>1.79</sevendigitalPrice>
-							<recommendedRetailPrice>1.79</recommendedRetailPrice>
-						</price>
-						<formats>
-							<format id="17">
-								<description>MP3 320</description>
-							</format>
-						</formats>
-					</package>
-				</packages>
-			</download>
-			<streamingReleaseDate xsi:nil="true"/>
-			<discNumber>1</discNumber>
-			<number>13</number>
-			<previewDate>2008-05-26T00:00:00Z</previewDate>
-		</track>
-		<track id="2768350">
-			<title>In Your Eyes (Latin Section) (Live In Manchester)</title>
-			<version/>
-			<artist id="1599">
-				<name>Kylie</name>
-				<appearsAs>Kylie Minogue</appearsAs>
-				<url>http://www.7digital.com/artist/kylie/?partner=3923</url>
-			</artist>
-			<trackNumber>14</trackNumber>
-			<duration>317</duration>
-			<explicitContent>false</explicitContent>
-			<isrc>GB0400200960</isrc>
-			<type>video</type>
-			<release id="263431">
-				<title>KylieFever2002 Live In Manchester</title>
-				<version/>
-				<type>Video</type>
-				<barcode>0724349010154</barcode>
-				<artist id="1599">
-					<name>Kylie</name>
-					<appearsAs>Kylie Minogue</appearsAs>
-					<url>http://www.7digital.com/artist/kylie/?partner=3923</url>
-				</artist>
-				<url>http://www.7digital.com/artist/kylie/release/kyliefever2002-live-in-manchester/?partner=3923</url>
-				<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/002/634/0000263431_50.jpg</image>
-				<releaseDate>2008-05-26T00:00:00Z</releaseDate>
-			</release>
-			<url>http://www.7digital.com/artist/kylie/release/kyliefever2002-live-in-manchester/?partner=3923&amp;h=14</url>
-			<price>
-				<currency code="GBP">£</currency>
-				<value>1.79</value>
-				<formattedPrice>£1.79</formattedPrice>
-				<rrp>1.79</rrp>
-				<formattedRrp>£1.79</formattedRrp>
-				<onSale>false</onSale>
-			</price>
-			<download>
-				<packages>
-					<package id="2">
-						<description>standard</description>
-						<price>
-							<currencyCode>GBP</currencyCode>
-							<sevendigitalPrice>1.79</sevendigitalPrice>
-							<recommendedRetailPrice>1.79</recommendedRetailPrice>
-						</price>
-						<formats>
-							<format id="17">
-								<description>MP3 320</description>
-							</format>
-						</formats>
-					</package>
-				</packages>
-			</download>
-			<streamingReleaseDate xsi:nil="true"/>
-			<discNumber>1</discNumber>
-			<number>14</number>
-			<previewDate>2008-05-26T00:00:00Z</previewDate>
-		</track>
-		<track id="2768352">
-			<title>Tapdancing Jedi (Live In Manchester)</title>
-			<version/>
-			<artist id="1599">
-				<name>Kylie</name>
-				<appearsAs>Kylie Minogue</appearsAs>
-				<url>http://www.7digital.com/artist/kylie/?partner=3923</url>
-			</artist>
-			<trackNumber>15</trackNumber>
-			<duration>98</duration>
-			<explicitContent>false</explicitContent>
-			<isrc>GB0400200970</isrc>
-			<type>video</type>
-			<release id="263431">
-				<title>KylieFever2002 Live In Manchester</title>
-				<version/>
-				<type>Video</type>
-				<barcode>0724349010154</barcode>
-				<artist id="1599">
-					<name>Kylie</name>
-					<appearsAs>Kylie Minogue</appearsAs>
-					<url>http://www.7digital.com/artist/kylie/?partner=3923</url>
-				</artist>
-				<url>http://www.7digital.com/artist/kylie/release/kyliefever2002-live-in-manchester/?partner=3923</url>
-				<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/002/634/0000263431_50.jpg</image>
-				<releaseDate>2008-05-26T00:00:00Z</releaseDate>
-			</release>
-			<url>http://www.7digital.com/artist/kylie/release/kyliefever2002-live-in-manchester/?partner=3923&amp;h=15</url>
-			<price>
-				<currency code="GBP">£</currency>
-				<value>1.79</value>
-				<formattedPrice>£1.79</formattedPrice>
-				<rrp>1.79</rrp>
-				<formattedRrp>£1.79</formattedRrp>
-				<onSale>false</onSale>
-			</price>
-			<download>
-				<packages>
-					<package id="2">
-						<description>standard</description>
-						<price>
-							<currencyCode>GBP</currencyCode>
-							<sevendigitalPrice>1.79</sevendigitalPrice>
-							<recommendedRetailPrice>1.79</recommendedRetailPrice>
-						</price>
-						<formats>
-							<format id="17">
-								<description>MP3 320</description>
-							</format>
-						</formats>
-					</package>
-				</packages>
-			</download>
-			<streamingReleaseDate xsi:nil="true"/>
-			<discNumber>1</discNumber>
-			<number>15</number>
-			<previewDate>2008-05-26T00:00:00Z</previewDate>
-		</track>
-		<track id="2768354">
-			<title>Limbo (Live In Manchester)</title>
-			<version/>
-			<artist id="1599">
-				<name>Kylie</name>
-				<appearsAs>Kylie Minogue</appearsAs>
-				<url>http://www.7digital.com/artist/kylie/?partner=3923</url>
-			</artist>
-			<trackNumber>16</trackNumber>
-			<duration>264</duration>
-			<explicitContent>false</explicitContent>
-			<isrc>GB0400200980</isrc>
-			<type>video</type>
-			<release id="263431">
-				<title>KylieFever2002 Live In Manchester</title>
-				<version/>
-				<type>Video</type>
-				<barcode>0724349010154</barcode>
-				<artist id="1599">
-					<name>Kylie</name>
-					<appearsAs>Kylie Minogue</appearsAs>
-					<url>http://www.7digital.com/artist/kylie/?partner=3923</url>
-				</artist>
-				<url>http://www.7digital.com/artist/kylie/release/kyliefever2002-live-in-manchester/?partner=3923</url>
-				<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/002/634/0000263431_50.jpg</image>
-				<releaseDate>2008-05-26T00:00:00Z</releaseDate>
-			</release>
-			<url>http://www.7digital.com/artist/kylie/release/kyliefever2002-live-in-manchester/?partner=3923&amp;h=16</url>
-			<price>
-				<currency code="GBP">£</currency>
-				<value>1.79</value>
-				<formattedPrice>£1.79</formattedPrice>
-				<rrp>1.79</rrp>
-				<formattedRrp>£1.79</formattedRrp>
-				<onSale>false</onSale>
-			</price>
-			<download>
-				<packages>
-					<package id="2">
-						<description>standard</description>
-						<price>
-							<currencyCode>GBP</currencyCode>
-							<sevendigitalPrice>1.79</sevendigitalPrice>
-							<recommendedRetailPrice>1.79</recommendedRetailPrice>
-						</price>
-						<formats>
-							<format id="17">
-								<description>MP3 320</description>
-							</format>
-						</formats>
-					</package>
-				</packages>
-			</download>
-			<streamingReleaseDate xsi:nil="true"/>
-			<discNumber>1</discNumber>
-			<number>16</number>
-			<previewDate>2008-05-26T00:00:00Z</previewDate>
-		</track>
-		<track id="2768361">
-			<title>Light Years/I Feel Love (Live In Manchester)</title>
-			<version/>
-			<artist id="1599">
-				<name>Kylie</name>
-				<appearsAs>Kylie Minogue</appearsAs>
-				<url>http://www.7digital.com/artist/kylie/?partner=3923</url>
-			</artist>
-			<trackNumber>17</trackNumber>
-			<duration>344</duration>
-			<explicitContent>false</explicitContent>
-			<isrc>GB0400200990</isrc>
-			<type>video</type>
-			<release id="263431">
-				<title>KylieFever2002 Live In Manchester</title>
-				<version/>
-				<type>Video</type>
-				<barcode>0724349010154</barcode>
-				<artist id="1599">
-					<name>Kylie</name>
-					<appearsAs>Kylie Minogue</appearsAs>
-					<url>http://www.7digital.com/artist/kylie/?partner=3923</url>
-				</artist>
-				<url>http://www.7digital.com/artist/kylie/release/kyliefever2002-live-in-manchester/?partner=3923</url>
-				<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/002/634/0000263431_50.jpg</image>
-				<releaseDate>2008-05-26T00:00:00Z</releaseDate>
-			</release>
-			<url>http://www.7digital.com/artist/kylie/release/kyliefever2002-live-in-manchester/?partner=3923&amp;h=17</url>
-			<price>
-				<currency code="GBP">£</currency>
-				<value>1.79</value>
-				<formattedPrice>£1.79</formattedPrice>
-				<rrp>1.79</rrp>
-				<formattedRrp>£1.79</formattedRrp>
-				<onSale>false</onSale>
-			</price>
-			<download>
-				<packages>
-					<package id="2">
-						<description>standard</description>
-						<price>
-							<currencyCode>GBP</currencyCode>
-							<sevendigitalPrice>1.79</sevendigitalPrice>
-							<recommendedRetailPrice>1.79</recommendedRetailPrice>
-						</price>
-						<formats>
-							<format id="17">
-								<description>MP3 320</description>
-							</format>
-						</formats>
-					</package>
-				</packages>
-			</download>
-			<streamingReleaseDate xsi:nil="true"/>
-			<discNumber>1</discNumber>
-			<number>17</number>
-			<previewDate>2008-05-26T00:00:00Z</previewDate>
-		</track>
-		<track id="2768364">
-			<title>I Should Be So Lucky (Live In Manchester)</title>
-			<version/>
-			<artist id="1599">
-				<name>Kylie</name>
-				<appearsAs>Kylie Minogue</appearsAs>
-				<url>http://www.7digital.com/artist/kylie/?partner=3923</url>
-			</artist>
-			<trackNumber>18</trackNumber>
-			<duration>360</duration>
-			<explicitContent>false</explicitContent>
-			<isrc>GB0400201000</isrc>
-			<type>video</type>
-			<release id="263431">
-				<title>KylieFever2002 Live In Manchester</title>
-				<version/>
-				<type>Video</type>
-				<barcode>0724349010154</barcode>
-				<artist id="1599">
-					<name>Kylie</name>
-					<appearsAs>Kylie Minogue</appearsAs>
-					<url>http://www.7digital.com/artist/kylie/?partner=3923</url>
-				</artist>
-				<url>http://www.7digital.com/artist/kylie/release/kyliefever2002-live-in-manchester/?partner=3923</url>
-				<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/002/634/0000263431_50.jpg</image>
-				<releaseDate>2008-05-26T00:00:00Z</releaseDate>
-			</release>
-			<url>http://www.7digital.com/artist/kylie/release/kyliefever2002-live-in-manchester/?partner=3923&amp;h=18</url>
-			<price>
-				<currency code="GBP">£</currency>
-				<value>1.79</value>
-				<formattedPrice>£1.79</formattedPrice>
-				<rrp>1.79</rrp>
-				<formattedRrp>£1.79</formattedRrp>
-				<onSale>false</onSale>
-			</price>
-			<download>
-				<packages>
-					<package id="2">
-						<description>standard</description>
-						<price>
-							<currencyCode>GBP</currencyCode>
-							<sevendigitalPrice>1.79</sevendigitalPrice>
-							<recommendedRetailPrice>1.79</recommendedRetailPrice>
-						</price>
-						<formats>
-							<format id="17">
-								<description>MP3 320</description>
-							</format>
-						</formats>
-					</package>
-				</packages>
-			</download>
-			<streamingReleaseDate xsi:nil="true"/>
-			<discNumber>1</discNumber>
-			<number>18</number>
-			<previewDate>2008-05-26T00:00:00Z</previewDate>
-		</track>
-		<track id="2768365">
-			<title>Voodoo Intro (Live In Manchester)</title>
-			<version/>
-			<artist id="1599">
-				<name>Kylie</name>
-				<appearsAs>Kylie Minogue</appearsAs>
-				<url>http://www.7digital.com/artist/kylie/?partner=3923</url>
-			</artist>
-			<trackNumber>19</trackNumber>
-			<duration>66</duration>
-			<explicitContent>false</explicitContent>
-			<isrc>GB0400201010</isrc>
-			<type>video</type>
-			<release id="263431">
-				<title>KylieFever2002 Live In Manchester</title>
-				<version/>
-				<type>Video</type>
-				<barcode>0724349010154</barcode>
-				<artist id="1599">
-					<name>Kylie</name>
-					<appearsAs>Kylie Minogue</appearsAs>
-					<url>http://www.7digital.com/artist/kylie/?partner=3923</url>
-				</artist>
-				<url>http://www.7digital.com/artist/kylie/release/kyliefever2002-live-in-manchester/?partner=3923</url>
-				<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/002/634/0000263431_50.jpg</image>
-				<releaseDate>2008-05-26T00:00:00Z</releaseDate>
-			</release>
-			<url>http://www.7digital.com/artist/kylie/release/kyliefever2002-live-in-manchester/?partner=3923&amp;h=19</url>
-			<price>
-				<currency code="GBP">£</currency>
-				<value>1.79</value>
-				<formattedPrice>£1.79</formattedPrice>
-				<rrp>1.79</rrp>
-				<formattedRrp>£1.79</formattedRrp>
-				<onSale>false</onSale>
-			</price>
-			<download>
-				<packages>
-					<package id="2">
-						<description>standard</description>
-						<price>
-							<currencyCode>GBP</currencyCode>
-							<sevendigitalPrice>1.79</sevendigitalPrice>
-							<recommendedRetailPrice>1.79</recommendedRetailPrice>
-						</price>
-						<formats>
-							<format id="17">
-								<description>MP3 320</description>
-							</format>
-						</formats>
-					</package>
-				</packages>
-			</download>
-			<streamingReleaseDate xsi:nil="true"/>
-			<discNumber>1</discNumber>
-			<number>19</number>
-			<previewDate>2008-05-26T00:00:00Z</previewDate>
-		</track>
-		<track id="2768366">
-			<title>Burning Up (Live In Manchester)</title>
-			<version/>
-			<artist id="1599">
-				<name>Kylie</name>
-				<appearsAs>Kylie Minogue</appearsAs>
-				<url>http://www.7digital.com/artist/kylie/?partner=3923</url>
-			</artist>
-			<trackNumber>20</trackNumber>
-			<duration>258</duration>
-			<explicitContent>false</explicitContent>
-			<isrc>GB0400201020</isrc>
-			<type>video</type>
-			<release id="263431">
-				<title>KylieFever2002 Live In Manchester</title>
-				<version/>
-				<type>Video</type>
-				<barcode>0724349010154</barcode>
-				<artist id="1599">
-					<name>Kylie</name>
-					<appearsAs>Kylie Minogue</appearsAs>
-					<url>http://www.7digital.com/artist/kylie/?partner=3923</url>
-				</artist>
-				<url>http://www.7digital.com/artist/kylie/release/kyliefever2002-live-in-manchester/?partner=3923</url>
-				<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/002/634/0000263431_50.jpg</image>
-				<releaseDate>2008-05-26T00:00:00Z</releaseDate>
-			</release>
-			<url>http://www.7digital.com/artist/kylie/release/kyliefever2002-live-in-manchester/?partner=3923&amp;h=20</url>
-			<price>
-				<currency code="GBP">£</currency>
-				<value>1.79</value>
-				<formattedPrice>£1.79</formattedPrice>
-				<rrp>1.79</rrp>
-				<formattedRrp>£1.79</formattedRrp>
-				<onSale>false</onSale>
-			</price>
-			<download>
-				<packages>
-					<package id="2">
-						<description>standard</description>
-						<price>
-							<currencyCode>GBP</currencyCode>
-							<sevendigitalPrice>1.79</sevendigitalPrice>
-							<recommendedRetailPrice>1.79</recommendedRetailPrice>
-						</price>
-						<formats>
-							<format id="17">
-								<description>MP3 320</description>
-							</format>
-						</formats>
-					</package>
-				</packages>
-			</download>
-			<streamingReleaseDate xsi:nil="true"/>
-			<discNumber>1</discNumber>
-			<number>20</number>
-			<previewDate>2008-05-26T00:00:00Z</previewDate>
-		</track>
-		<track id="2768367">
-			<title>Better The Devil You Know (Live In Manchester)</title>
-			<version/>
-			<artist id="1599">
-				<name>Kylie</name>
-				<appearsAs>Kylie Minogue</appearsAs>
-				<url>http://www.7digital.com/artist/kylie/?partner=3923</url>
-			</artist>
-			<trackNumber>21</trackNumber>
-			<duration>343</duration>
-			<explicitContent>false</explicitContent>
-			<isrc>GB0400201030</isrc>
-			<type>video</type>
-			<release id="263431">
-				<title>KylieFever2002 Live In Manchester</title>
-				<version/>
-				<type>Video</type>
-				<barcode>0724349010154</barcode>
-				<artist id="1599">
-					<name>Kylie</name>
-					<appearsAs>Kylie Minogue</appearsAs>
-					<url>http://www.7digital.com/artist/kylie/?partner=3923</url>
-				</artist>
-				<url>http://www.7digital.com/artist/kylie/release/kyliefever2002-live-in-manchester/?partner=3923</url>
-				<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/002/634/0000263431_50.jpg</image>
-				<releaseDate>2008-05-26T00:00:00Z</releaseDate>
-			</release>
-			<url>http://www.7digital.com/artist/kylie/release/kyliefever2002-live-in-manchester/?partner=3923&amp;h=21</url>
-			<price>
-				<currency code="GBP">£</currency>
-				<value>1.79</value>
-				<formattedPrice>£1.79</formattedPrice>
-				<rrp>1.79</rrp>
-				<formattedRrp>£1.79</formattedRrp>
-				<onSale>false</onSale>
-			</price>
-			<download>
-				<packages>
-					<package id="2">
-						<description>standard</description>
-						<price>
-							<currencyCode>GBP</currencyCode>
-							<sevendigitalPrice>1.79</sevendigitalPrice>
-							<recommendedRetailPrice>1.79</recommendedRetailPrice>
-						</price>
-						<formats>
-							<format id="17">
-								<description>MP3 320</description>
-							</format>
-						</formats>
-					</package>
-				</packages>
-			</download>
-			<streamingReleaseDate xsi:nil="true"/>
-			<discNumber>1</discNumber>
-			<number>21</number>
-			<previewDate>2008-05-26T00:00:00Z</previewDate>
-		</track>
-		<track id="2768368">
-			<title>Can't Get Blue Monday Out Of My Head (Live In Manchester)</title>
-			<version/>
-			<artist id="1599">
-				<name>Kylie</name>
-				<appearsAs>Kylie Minogue</appearsAs>
-				<url>http://www.7digital.com/artist/kylie/?partner=3923</url>
-			</artist>
-			<trackNumber>22</trackNumber>
-			<duration>268</duration>
-			<explicitContent>false</explicitContent>
-			<isrc>GB0400201040</isrc>
-			<type>video</type>
-			<release id="263431">
-				<title>KylieFever2002 Live In Manchester</title>
-				<version/>
-				<type>Video</type>
-				<barcode>0724349010154</barcode>
-				<artist id="1599">
-					<name>Kylie</name>
-					<appearsAs>Kylie Minogue</appearsAs>
-					<url>http://www.7digital.com/artist/kylie/?partner=3923</url>
-				</artist>
-				<url>http://www.7digital.com/artist/kylie/release/kyliefever2002-live-in-manchester/?partner=3923</url>
-				<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/002/634/0000263431_50.jpg</image>
-				<releaseDate>2008-05-26T00:00:00Z</releaseDate>
-			</release>
-			<url>http://www.7digital.com/artist/kylie/release/kyliefever2002-live-in-manchester/?partner=3923&amp;h=22</url>
-			<price>
-				<currency code="GBP">£</currency>
-				<value>1.79</value>
-				<formattedPrice>£1.79</formattedPrice>
-				<rrp>1.79</rrp>
-				<formattedRrp>£1.79</formattedRrp>
-				<onSale>false</onSale>
-			</price>
-			<download>
-				<packages>
-					<package id="2">
-						<description>standard</description>
-						<price>
-							<currencyCode>GBP</currencyCode>
-							<sevendigitalPrice>1.79</sevendigitalPrice>
-							<recommendedRetailPrice>1.79</recommendedRetailPrice>
-						</price>
-						<formats>
-							<format id="17">
-								<description>MP3 320</description>
-							</format>
-						</formats>
-					</package>
-				</packages>
-			</download>
-			<streamingReleaseDate xsi:nil="true"/>
-			<discNumber>1</discNumber>
-			<number>22</number>
-			<previewDate>2008-05-26T00:00:00Z</previewDate>
-		</track>
-	</tracks>
+  <tracks>
+    <page>1</page>
+    <pageSize>22</pageSize>
+    <totalItems>22</totalItems>
+    <track id="2768322">
+      <title>The Sound Of Music (Live In Manchester)</title>
+      <version/>
+      <artist id="1599">
+        <name>Kylie</name>
+        <appearsAs>Kylie Minogue</appearsAs>
+        <slug>kylie</slug>
+      </artist>
+      <trackNumber>1</trackNumber>
+      <duration>70</duration>
+      <explicitContent>false</explicitContent>
+      <isrc>GB0400200830</isrc>
+      <type>video</type>
+      <release id="263431">
+        <title>KylieFever2002 Live In Manchester</title>
+        <version/>
+        <type>Video</type>
+        <barcode>0724349010154</barcode>
+        <artist id="1599">
+          <name>Kylie</name>
+          <appearsAs>Kylie Minogue</appearsAs>
+          <slug>kylie</slug>
+        </artist>
+        <slug>kyliefever2002-live-in-manchester</slug>
+        <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/002/634/0000263431_50.jpg</image>
+      </release>
+      <slug>kyliefever2002-live-in-manchester</slug>
+      <price>
+        <currency code="GBP">£</currency>
+        <value>1.79</value>
+        <formattedPrice>£1.79</formattedPrice>
+        <rrp>1.79</rrp>
+        <formattedRrp>£1.79</formattedRrp>
+        <onSale>false</onSale>
+      </price>
+      <download>
+        <releaseDate>2008-05-26T00:00:00Z</releaseDate>
+        <packages>
+          <package id="2">
+            <description>standard</description>
+            <price>
+              <currencyCode>GBP</currencyCode>
+              <sevendigitalPrice>1.79</sevendigitalPrice>
+              <recommendedRetailPrice>1.79</recommendedRetailPrice>
+            </price>
+            <formats>
+              <format id="17">
+                <description>MP3 320</description>
+              </format>
+            </formats>
+          </package>
+        </packages>
+      </download>
+      <streamingReleaseDate xsi:nil="true"/>
+      <discNumber>1</discNumber>
+      <number>1</number>
+    </track>
+    <track id="2768325">
+      <previewDate>2008-05-26T00:00:00Z</previewDate>
+      <title>Come Into My World (Live In Manchester)</title>
+      <version/>
+      <artist id="1599">
+        <name>Kylie</name>
+        <appearsAs>Kylie Minogue</appearsAs>
+        <slug>kylie</slug>
+      </artist>
+      <trackNumber>2</trackNumber>
+      <duration>372</duration>
+      <explicitContent>false</explicitContent>
+      <isrc>GB0400200840</isrc>
+      <type>video</type>
+      <release id="263431">
+        <title>KylieFever2002 Live In Manchester</title>
+        <version/>
+        <type>Video</type>
+        <barcode>0724349010154</barcode>
+        <artist id="1599">
+          <name>Kylie</name>
+          <appearsAs>Kylie Minogue</appearsAs>
+          <slug>kylie</slug>
+        </artist>
+        <slug>kyliefever2002-live-in-manchester</slug>
+        <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/002/634/0000263431_50.jpg</image>
+      </release>
+      <slug>kyliefever2002-live-in-manchester</slug>
+      <price>
+        <currency code="GBP">£</currency>
+        <value>1.79</value>
+        <formattedPrice>£1.79</formattedPrice>
+        <rrp>1.79</rrp>
+        <formattedRrp>£1.79</formattedRrp>
+        <onSale>false</onSale>
+      </price>
+      <download>
+        <previewDate>2008-05-26T00:00:00Z</previewDate>
+        <releaseDate>2008-05-26T00:00:00Z</releaseDate>
+        <packages>
+          <package id="2">
+            <description>standard</description>
+            <price>
+              <currencyCode>GBP</currencyCode>
+              <sevendigitalPrice>1.79</sevendigitalPrice>
+              <recommendedRetailPrice>1.79</recommendedRetailPrice>
+            </price>
+            <formats>
+              <format id="17">
+                <description>MP3 320</description>
+              </format>
+            </formats>
+          </package>
+        </packages>
+      </download>
+      <streamingReleaseDate xsi:nil="true"/>
+      <discNumber>1</discNumber>
+      <number>2</number>
+    </track>
+    <track id="2768328">
+      <title>Shocked (Live In Manchester)</title>
+      <version/>
+      <artist id="1599">
+        <name>Kylie</name>
+        <appearsAs>Kylie Minogue</appearsAs>
+        <slug>kylie</slug>
+      </artist>
+      <trackNumber>3</trackNumber>
+      <duration>328</duration>
+      <explicitContent>false</explicitContent>
+      <isrc>GB0400200850</isrc>
+      <type>video</type>
+      <release id="263431">
+        <title>KylieFever2002 Live In Manchester</title>
+        <version/>
+        <type>Video</type>
+        <barcode>0724349010154</barcode>
+        <artist id="1599">
+          <name>Kylie</name>
+          <appearsAs>Kylie Minogue</appearsAs>
+          <slug>kylie</slug>
+        </artist>
+        <slug>kyliefever2002-live-in-manchester</slug>
+        <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/002/634/0000263431_50.jpg</image>
+      </release>
+      <slug>kyliefever2002-live-in-manchester</slug>
+      <price>
+        <currency code="GBP">£</currency>
+        <value>1.79</value>
+        <formattedPrice>£1.79</formattedPrice>
+        <rrp>1.79</rrp>
+        <formattedRrp>£1.79</formattedRrp>
+        <onSale>false</onSale>
+      </price>
+      <download>
+        <previewDate>2008-05-26T00:00:00Z</previewDate>
+        <releaseDate>2008-05-26T00:00:00Z</releaseDate>
+        <packages>
+          <package id="2">
+            <description>standard</description>
+            <price>
+              <currencyCode>GBP</currencyCode>
+              <sevendigitalPrice>1.79</sevendigitalPrice>
+              <recommendedRetailPrice>1.79</recommendedRetailPrice>
+            </price>
+            <formats>
+              <format id="17">
+                <description>MP3 320</description>
+              </format>
+            </formats>
+          </package>
+        </packages>
+      </download>
+      <streamingReleaseDate xsi:nil="true"/>
+      <discNumber>1</discNumber>
+      <number>3</number>
+    </track>
+    <track id="2768330">
+      <title>Love At First Sight (Live In Manchester)</title>
+      <version/>
+      <artist id="1599">
+        <name>Kylie</name>
+        <appearsAs>Kylie Minogue</appearsAs>
+        <slug>kylie</slug>
+      </artist>
+      <trackNumber>4</trackNumber>
+      <duration>252</duration>
+      <explicitContent>false</explicitContent>
+      <isrc>GB0400200230</isrc>
+      <type>video</type>
+      <release id="263431">
+        <title>KylieFever2002 Live In Manchester</title>
+        <version/>
+        <type>Video</type>
+        <barcode>0724349010154</barcode>
+        <artist id="1599">
+          <name>Kylie</name>
+          <appearsAs>Kylie Minogue</appearsAs>
+          <slug>kylie</slug>
+        </artist>
+        <slug>kyliefever2002-live-in-manchester</slug>
+        <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/002/634/0000263431_50.jpg</image>
+      </release>
+      <slug>kyliefever2002-live-in-manchester</slug>
+      <price>
+        <currency code="GBP">£</currency>
+        <value>1.79</value>
+        <formattedPrice>£1.79</formattedPrice>
+        <rrp>1.79</rrp>
+        <formattedRrp>£1.79</formattedRrp>
+        <onSale>false</onSale>
+      </price>
+      <download>
+        <previewDate>2008-05-26T00:00:00Z</previewDate>
+        <releaseDate>2008-05-26T00:00:00Z</releaseDate>
+        <packages>
+          <package id="2">
+            <description>standard</description>
+            <price>
+              <currencyCode>GBP</currencyCode>
+              <sevendigitalPrice>1.79</sevendigitalPrice>
+              <recommendedRetailPrice>1.79</recommendedRetailPrice>
+            </price>
+            <formats>
+              <format id="17">
+                <description>MP3 320</description>
+              </format>
+            </formats>
+          </package>
+        </packages>
+      </download>
+      <streamingReleaseDate xsi:nil="true"/>
+      <discNumber>1</discNumber>
+      <number>4</number>
+    </track>
+    <track id="2768332">
+      <title>Fever (Live In Manchester)</title>
+      <version/>
+      <artist id="1599">
+        <name>Kylie</name>
+        <appearsAs>Kylie Minogue</appearsAs>
+        <slug>kylie</slug>
+      </artist>
+      <trackNumber>5</trackNumber>
+      <duration>223</duration>
+      <explicitContent>false</explicitContent>
+      <isrc>GB0400200870</isrc>
+      <type>video</type>
+      <release id="263431">
+        <title>KylieFever2002 Live In Manchester</title>
+        <version/>
+        <type>Video</type>
+        <barcode>0724349010154</barcode>
+        <artist id="1599">
+          <name>Kylie</name>
+          <appearsAs>Kylie Minogue</appearsAs>
+          <slug>kylie</slug>
+        </artist>
+        <slug>kyliefever2002-live-in-manchester</slug>
+        <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/002/634/0000263431_50.jpg</image>
+      </release>
+      <slug>kyliefever2002-live-in-manchester</slug>
+      <price>
+        <currency code="GBP">£</currency>
+        <value>1.79</value>
+        <formattedPrice>£1.79</formattedPrice>
+        <rrp>1.79</rrp>
+        <formattedRrp>£1.79</formattedRrp>
+        <onSale>false</onSale>
+      </price>
+      <download>
+        <previewDate>2008-05-26T00:00:00Z</previewDate>
+        <releaseDate>2008-05-26T00:00:00Z</releaseDate>
+        <packages>
+          <package id="2">
+            <description>standard</description>
+            <price>
+              <currencyCode>GBP</currencyCode>
+              <sevendigitalPrice>1.79</sevendigitalPrice>
+              <recommendedRetailPrice>1.79</recommendedRetailPrice>
+            </price>
+            <formats>
+              <format id="17">
+                <description>MP3 320</description>
+              </format>
+            </formats>
+          </package>
+        </packages>
+      </download>
+      <streamingReleaseDate xsi:nil="true"/>
+      <discNumber>1</discNumber>
+      <number>5</number>
+    </track>
+    <track id="2768334">
+      <title>Spinning Around (Live In Manchester)</title>
+      <version/>
+      <artist id="1599">
+        <name>Kylie</name>
+        <appearsAs>Kylie Minogue</appearsAs>
+        <slug>kylie</slug>
+      </artist>
+      <trackNumber>6</trackNumber>
+      <duration>305</duration>
+      <explicitContent>false</explicitContent>
+      <isrc>GB0400200880</isrc>
+      <type>video</type>
+      <release id="263431">
+        <title>KylieFever2002 Live In Manchester</title>
+        <version/>
+        <type>Video</type>
+        <barcode>0724349010154</barcode>
+        <artist id="1599">
+          <name>Kylie</name>
+          <appearsAs>Kylie Minogue</appearsAs>
+          <slug>kylie</slug>
+        </artist>
+        <slug>kyliefever2002-live-in-manchester</slug>
+        <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/002/634/0000263431_50.jpg</image>
+      </release>
+      <slug>kyliefever2002-live-in-manchester</slug>
+      <price>
+        <currency code="GBP">£</currency>
+        <value>1.79</value>
+        <formattedPrice>£1.79</formattedPrice>
+        <rrp>1.79</rrp>
+        <formattedRrp>£1.79</formattedRrp>
+        <onSale>false</onSale>
+      </price>
+      <download>
+        <previewDate>2008-05-26T00:00:00Z</previewDate>
+        <releaseDate>2008-05-26T00:00:00Z</releaseDate>
+        <packages>
+          <package id="2">
+            <description>standard</description>
+            <price>
+              <currencyCode>GBP</currencyCode>
+              <sevendigitalPrice>1.79</sevendigitalPrice>
+              <recommendedRetailPrice>1.79</recommendedRetailPrice>
+            </price>
+            <formats>
+              <format id="17">
+                <description>MP3 320</description>
+              </format>
+            </formats>
+          </package>
+        </packages>
+      </download>
+      <streamingReleaseDate xsi:nil="true"/>
+      <discNumber>1</discNumber>
+      <number>6</number>
+    </track>
+    <track id="2768336">
+      <title>The Crying Game (Ballads Section) (Live In Manchester)</title>
+      <version/>
+      <artist id="1599">
+        <name>Kylie</name>
+        <appearsAs>Kylie Minogue</appearsAs>
+        <slug>kylie</slug>
+      </artist>
+      <trackNumber>7</trackNumber>
+      <duration>536</duration>
+      <explicitContent>false</explicitContent>
+      <isrc>GB0400200890</isrc>
+      <type>video</type>
+      <release id="263431">
+        <title>KylieFever2002 Live In Manchester</title>
+        <version/>
+        <type>Video</type>
+        <barcode>0724349010154</barcode>
+        <artist id="1599">
+          <name>Kylie</name>
+          <appearsAs>Kylie Minogue</appearsAs>
+          <slug>kylie</slug>
+        </artist>
+        <slug>kyliefever2002-live-in-manchester</slug>
+        <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/002/634/0000263431_50.jpg</image>
+      </release>
+      <slug>kyliefever2002-live-in-manchester</slug>
+      <price>
+        <currency code="GBP">£</currency>
+        <value>1.79</value>
+        <formattedPrice>£1.79</formattedPrice>
+        <rrp>1.79</rrp>
+        <formattedRrp>£1.79</formattedRrp>
+        <onSale>false</onSale>
+      </price>
+      <download>
+        <previewDate>2008-05-26T00:00:00Z</previewDate>
+        <releaseDate>2008-05-26T00:00:00Z</releaseDate>
+        <packages>
+          <package id="2">
+            <description>standard</description>
+            <price>
+              <currencyCode>GBP</currencyCode>
+              <sevendigitalPrice>1.79</sevendigitalPrice>
+              <recommendedRetailPrice>1.79</recommendedRetailPrice>
+            </price>
+            <formats>
+              <format id="17">
+                <description>MP3 320</description>
+              </format>
+            </formats>
+          </package>
+        </packages>
+      </download>
+      <streamingReleaseDate xsi:nil="true"/>
+      <discNumber>1</discNumber>
+      <number>7</number>
+    </track>
+    <track id="2768337">
+      <title>GBI (Live In Manchester)</title>
+      <version/>
+      <artist id="1599">
+        <name>Kylie</name>
+        <appearsAs>Kylie Minogue</appearsAs>
+        <slug>kylie</slug>
+      </artist>
+      <trackNumber>8</trackNumber>
+      <duration>217</duration>
+      <explicitContent>false</explicitContent>
+      <isrc>GB0400200900</isrc>
+      <type>video</type>
+      <release id="263431">
+        <title>KylieFever2002 Live In Manchester</title>
+        <version/>
+        <type>Video</type>
+        <barcode>0724349010154</barcode>
+        <artist id="1599">
+          <name>Kylie</name>
+          <appearsAs>Kylie Minogue</appearsAs>
+          <slug>kylie</slug>
+        </artist>
+        <slug>kyliefever2002-live-in-manchester</slug>
+        <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/002/634/0000263431_50.jpg</image>
+      </release>
+      <slug>kyliefever2002-live-in-manchester</slug>
+      <price>
+        <currency code="GBP">£</currency>
+        <value>1.79</value>
+        <formattedPrice>£1.79</formattedPrice>
+        <rrp>1.79</rrp>
+        <formattedRrp>£1.79</formattedRrp>
+        <onSale>false</onSale>
+      </price>
+      <download>
+        <previewDate>2008-05-26T00:00:00Z</previewDate>
+        <releaseDate>2008-05-26T00:00:00Z</releaseDate>
+        <packages>
+          <package id="2">
+            <description>standard</description>
+            <price>
+              <currencyCode>GBP</currencyCode>
+              <sevendigitalPrice>1.79</sevendigitalPrice>
+              <recommendedRetailPrice>1.79</recommendedRetailPrice>
+            </price>
+            <formats>
+              <format id="17">
+                <description>MP3 320</description>
+              </format>
+            </formats>
+          </package>
+        </packages>
+      </download>
+      <streamingReleaseDate xsi:nil="true"/>
+      <discNumber>1</discNumber>
+      <number>8</number>
+    </track>
+    <track id="2768339">
+      <title>Confide In Me (Live In Manchester)</title>
+      <version/>
+      <artist id="1599">
+        <name>Kylie</name>
+        <appearsAs>Kylie Minogue</appearsAs>
+        <slug>kylie</slug>
+      </artist>
+      <trackNumber>9</trackNumber>
+      <duration>390</duration>
+      <explicitContent>false</explicitContent>
+      <isrc>GB0400200910</isrc>
+      <type>video</type>
+      <release id="263431">
+        <title>KylieFever2002 Live In Manchester</title>
+        <version/>
+        <type>Video</type>
+        <barcode>0724349010154</barcode>
+        <artist id="1599">
+          <name>Kylie</name>
+          <appearsAs>Kylie Minogue</appearsAs>
+          <slug>kylie</slug>
+        </artist>
+        <slug>kyliefever2002-live-in-manchester</slug>
+        <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/002/634/0000263431_50.jpg</image>
+      </release>
+      <slug>kyliefever2002-live-in-manchester</slug>
+      <price>
+        <currency code="GBP">£</currency>
+        <value>1.79</value>
+        <formattedPrice>£1.79</formattedPrice>
+        <rrp>1.79</rrp>
+        <formattedRrp>£1.79</formattedRrp>
+        <onSale>false</onSale>
+      </price>
+      <download>
+        <previewDate>2008-05-26T00:00:00Z</previewDate>
+        <releaseDate>2008-05-26T00:00:00Z</releaseDate>
+        <packages>
+          <package id="2">
+            <description>standard</description>
+            <price>
+              <currencyCode>GBP</currencyCode>
+              <sevendigitalPrice>1.79</sevendigitalPrice>
+              <recommendedRetailPrice>1.79</recommendedRetailPrice>
+            </price>
+            <formats>
+              <format id="17">
+                <description>MP3 320</description>
+              </format>
+            </formats>
+          </package>
+        </packages>
+      </download>
+      <streamingReleaseDate xsi:nil="true"/>
+      <discNumber>1</discNumber>
+      <number>9</number>
+    </track>
+    <track id="2768341">
+      <title>Cowboy Style (Live In Manchester)</title>
+      <version/>
+      <artist id="1599">
+        <name>Kylie</name>
+        <appearsAs>Kylie Minogue</appearsAs>
+        <slug>kylie</slug>
+      </artist>
+      <trackNumber>10</trackNumber>
+      <duration>342</duration>
+      <explicitContent>false</explicitContent>
+      <isrc>GB0400200920</isrc>
+      <type>video</type>
+      <release id="263431">
+        <title>KylieFever2002 Live In Manchester</title>
+        <version/>
+        <type>Video</type>
+        <barcode>0724349010154</barcode>
+        <artist id="1599">
+          <name>Kylie</name>
+          <appearsAs>Kylie Minogue</appearsAs>
+          <slug>kylie</slug>
+        </artist>
+        <slug>kyliefever2002-live-in-manchester</slug>
+        <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/002/634/0000263431_50.jpg</image>
+      </release>
+      <slug>kyliefever2002-live-in-manchester</slug>
+      <price>
+        <currency code="GBP">£</currency>
+        <value>1.79</value>
+        <formattedPrice>£1.79</formattedPrice>
+        <rrp>1.79</rrp>
+        <formattedRrp>£1.79</formattedRrp>
+        <onSale>false</onSale>
+      </price>
+      <download>
+        <previewDate>2008-05-26T00:00:00Z</previewDate>
+        <releaseDate>2008-05-26T00:00:00Z</releaseDate>
+        <packages>
+          <package id="2">
+            <description>standard</description>
+            <price>
+              <currencyCode>GBP</currencyCode>
+              <sevendigitalPrice>1.79</sevendigitalPrice>
+              <recommendedRetailPrice>1.79</recommendedRetailPrice>
+            </price>
+            <formats>
+              <format id="17">
+                <description>MP3 320</description>
+              </format>
+            </formats>
+          </package>
+        </packages>
+      </download>
+      <streamingReleaseDate xsi:nil="true"/>
+      <discNumber>1</discNumber>
+      <number>10</number>
+    </track>
+    <track id="2768343">
+      <title>Kids (Live In Manchester)</title>
+      <version/>
+      <artist id="1599">
+        <name>Kylie</name>
+        <appearsAs>Kylie Minogue</appearsAs>
+        <slug>kylie</slug>
+      </artist>
+      <trackNumber>11</trackNumber>
+      <duration>262</duration>
+      <explicitContent>false</explicitContent>
+      <isrc>GB0400200930</isrc>
+      <type>video</type>
+      <release id="263431">
+        <title>KylieFever2002 Live In Manchester</title>
+        <version/>
+        <type>Video</type>
+        <barcode>0724349010154</barcode>
+        <artist id="1599">
+          <name>Kylie</name>
+          <appearsAs>Kylie Minogue</appearsAs>
+          <slug>kylie</slug>
+        </artist>
+        <slug>kyliefever2002-live-in-manchester</slug>
+        <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/002/634/0000263431_50.jpg</image>
+      </release>
+      <slug>kyliefever2002-live-in-manchester</slug>
+      <price>
+        <currency code="GBP">£</currency>
+        <value>1.79</value>
+        <formattedPrice>£1.79</formattedPrice>
+        <rrp>1.79</rrp>
+        <formattedRrp>£1.79</formattedRrp>
+        <onSale>false</onSale>
+      </price>
+      <download>
+        <previewDate>2008-05-26T00:00:00Z</previewDate>
+        <releaseDate>2008-05-26T00:00:00Z</releaseDate>
+        <packages>
+          <package id="2">
+            <description>standard</description>
+            <price>
+              <currencyCode>GBP</currencyCode>
+              <sevendigitalPrice>1.79</sevendigitalPrice>
+              <recommendedRetailPrice>1.79</recommendedRetailPrice>
+            </price>
+            <formats>
+              <format id="17">
+                <description>MP3 320</description>
+              </format>
+            </formats>
+          </package>
+        </packages>
+      </download>
+      <streamingReleaseDate xsi:nil="true"/>
+      <discNumber>1</discNumber>
+      <number>11</number>
+    </track>
+    <track id="2768346">
+      <title>On A Night Like This (Live In Manchester)</title>
+      <version/>
+      <artist id="1599">
+        <name>Kylie</name>
+        <appearsAs>Kylie Minogue</appearsAs>
+        <slug>kylie</slug>
+      </artist>
+      <trackNumber>12</trackNumber>
+      <duration>222</duration>
+      <explicitContent>false</explicitContent>
+      <isrc>GB0400200940</isrc>
+      <type>video</type>
+      <release id="263431">
+        <title>KylieFever2002 Live In Manchester</title>
+        <version/>
+        <type>Video</type>
+        <barcode>0724349010154</barcode>
+        <artist id="1599">
+          <name>Kylie</name>
+          <appearsAs>Kylie Minogue</appearsAs>
+          <slug>kylie</slug>
+        </artist>
+        <slug>kyliefever2002-live-in-manchester</slug>
+        <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/002/634/0000263431_50.jpg</image>
+      </release>
+      <slug>kyliefever2002-live-in-manchester</slug>
+      <price>
+        <currency code="GBP">£</currency>
+        <value>1.79</value>
+        <formattedPrice>£1.79</formattedPrice>
+        <rrp>1.79</rrp>
+        <formattedRrp>£1.79</formattedRrp>
+        <onSale>false</onSale>
+      </price>
+      <download>
+        <previewDate>2008-05-26T00:00:00Z</previewDate>
+        <releaseDate>2008-05-26T00:00:00Z</releaseDate>
+        <packages>
+          <package id="2">
+            <description>standard</description>
+            <price>
+              <currencyCode>GBP</currencyCode>
+              <sevendigitalPrice>1.79</sevendigitalPrice>
+              <recommendedRetailPrice>1.79</recommendedRetailPrice>
+            </price>
+            <formats>
+              <format id="17">
+                <description>MP3 320</description>
+              </format>
+            </formats>
+          </package>
+        </packages>
+      </download>
+      <streamingReleaseDate xsi:nil="true"/>
+      <discNumber>1</discNumber>
+      <number>12</number>
+    </track>
+    <track id="2768348">
+      <title>Locomotion (Live In Manchester)</title>
+      <version/>
+      <artist id="1599">
+        <name>Kylie</name>
+        <appearsAs>Kylie Minogue</appearsAs>
+        <slug>kylie</slug>
+      </artist>
+      <trackNumber>13</trackNumber>
+      <duration>228</duration>
+      <explicitContent>false</explicitContent>
+      <isrc>GB0400200950</isrc>
+      <type>video</type>
+      <release id="263431">
+        <title>KylieFever2002 Live In Manchester</title>
+        <version/>
+        <type>Video</type>
+        <barcode>0724349010154</barcode>
+        <artist id="1599">
+          <name>Kylie</name>
+          <appearsAs>Kylie Minogue</appearsAs>
+          <slug>kylie</slug>
+        </artist>
+        <slug>kyliefever2002-live-in-manchester</slug>
+        <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/002/634/0000263431_50.jpg</image>
+      </release>
+      <slug>kyliefever2002-live-in-manchester</slug>
+      <price>
+        <currency code="GBP">£</currency>
+        <value>1.79</value>
+        <formattedPrice>£1.79</formattedPrice>
+        <rrp>1.79</rrp>
+        <formattedRrp>£1.79</formattedRrp>
+        <onSale>false</onSale>
+      </price>
+      <download>
+        <previewDate>2008-05-26T00:00:00Z</previewDate>
+        <releaseDate>2008-05-26T00:00:00Z</releaseDate>
+        <packages>
+          <package id="2">
+            <description>standard</description>
+            <price>
+              <currencyCode>GBP</currencyCode>
+              <sevendigitalPrice>1.79</sevendigitalPrice>
+              <recommendedRetailPrice>1.79</recommendedRetailPrice>
+            </price>
+            <formats>
+              <format id="17">
+                <description>MP3 320</description>
+              </format>
+            </formats>
+          </package>
+        </packages>
+      </download>
+      <streamingReleaseDate xsi:nil="true"/>
+      <discNumber>1</discNumber>
+      <number>13</number>
+    </track>
+    <track id="2768350">
+      <title>In Your Eyes (Latin Section) (Live In Manchester)</title>
+      <version/>
+      <artist id="1599">
+        <name>Kylie</name>
+        <appearsAs>Kylie Minogue</appearsAs>
+        <slug>kylie</slug>
+      </artist>
+      <trackNumber>14</trackNumber>
+      <duration>317</duration>
+      <explicitContent>false</explicitContent>
+      <isrc>GB0400200960</isrc>
+      <type>video</type>
+      <release id="263431">
+        <title>KylieFever2002 Live In Manchester</title>
+        <version/>
+        <type>Video</type>
+        <barcode>0724349010154</barcode>
+        <artist id="1599">
+          <name>Kylie</name>
+          <appearsAs>Kylie Minogue</appearsAs>
+          <slug>kylie</slug>
+        </artist>
+        <slug>kyliefever2002-live-in-manchester</slug>
+        <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/002/634/0000263431_50.jpg</image>
+      </release>
+      <slug>kyliefever2002-live-in-manchester</slug>
+      <price>
+        <currency code="GBP">£</currency>
+        <value>1.79</value>
+        <formattedPrice>£1.79</formattedPrice>
+        <rrp>1.79</rrp>
+        <formattedRrp>£1.79</formattedRrp>
+        <onSale>false</onSale>
+      </price>
+      <download>
+        <previewDate>2008-05-26T00:00:00Z</previewDate>
+        <releaseDate>2008-05-26T00:00:00Z</releaseDate>
+        <packages>
+          <package id="2">
+            <description>standard</description>
+            <price>
+              <currencyCode>GBP</currencyCode>
+              <sevendigitalPrice>1.79</sevendigitalPrice>
+              <recommendedRetailPrice>1.79</recommendedRetailPrice>
+            </price>
+            <formats>
+              <format id="17">
+                <description>MP3 320</description>
+              </format>
+            </formats>
+          </package>
+        </packages>
+      </download>
+      <streamingReleaseDate xsi:nil="true"/>
+      <discNumber>1</discNumber>
+      <number>14</number>
+    </track>
+    <track id="2768352">
+      <title>Tapdancing Jedi (Live In Manchester)</title>
+      <version/>
+      <artist id="1599">
+        <name>Kylie</name>
+        <appearsAs>Kylie Minogue</appearsAs>
+        <slug>kylie</slug>
+      </artist>
+      <trackNumber>15</trackNumber>
+      <duration>98</duration>
+      <explicitContent>false</explicitContent>
+      <isrc>GB0400200970</isrc>
+      <type>video</type>
+      <release id="263431">
+        <title>KylieFever2002 Live In Manchester</title>
+        <version/>
+        <type>Video</type>
+        <barcode>0724349010154</barcode>
+        <artist id="1599">
+          <name>Kylie</name>
+          <appearsAs>Kylie Minogue</appearsAs>
+          <slug>kylie</slug>
+        </artist>
+        <slug>kyliefever2002-live-in-manchester</slug>
+        <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/002/634/0000263431_50.jpg</image>
+      </release>
+      <slug>kyliefever2002-live-in-manchester</slug>
+      <price>
+        <currency code="GBP">£</currency>
+        <value>1.79</value>
+        <formattedPrice>£1.79</formattedPrice>
+        <rrp>1.79</rrp>
+        <formattedRrp>£1.79</formattedRrp>
+        <onSale>false</onSale>
+      </price>
+      <download>
+        <previewDate>2008-05-26T00:00:00Z</previewDate>
+        <releaseDate>2008-05-26T00:00:00Z</releaseDate>
+        <packages>
+          <package id="2">
+            <description>standard</description>
+            <price>
+              <currencyCode>GBP</currencyCode>
+              <sevendigitalPrice>1.79</sevendigitalPrice>
+              <recommendedRetailPrice>1.79</recommendedRetailPrice>
+            </price>
+            <formats>
+              <format id="17">
+                <description>MP3 320</description>
+              </format>
+            </formats>
+          </package>
+        </packages>
+      </download>
+      <streamingReleaseDate xsi:nil="true"/>
+      <discNumber>1</discNumber>
+      <number>15</number>
+    </track>
+    <track id="2768354">
+      <title>Limbo (Live In Manchester)</title>
+      <version/>
+      <artist id="1599">
+        <name>Kylie</name>
+        <appearsAs>Kylie Minogue</appearsAs>
+        <slug>kylie</slug>
+      </artist>
+      <trackNumber>16</trackNumber>
+      <duration>264</duration>
+      <explicitContent>false</explicitContent>
+      <isrc>GB0400200980</isrc>
+      <type>video</type>
+      <release id="263431">
+        <title>KylieFever2002 Live In Manchester</title>
+        <version/>
+        <type>Video</type>
+        <barcode>0724349010154</barcode>
+        <artist id="1599">
+          <name>Kylie</name>
+          <appearsAs>Kylie Minogue</appearsAs>
+          <slug>kylie</slug>
+        </artist>
+        <slug>kyliefever2002-live-in-manchester</slug>
+        <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/002/634/0000263431_50.jpg</image>
+      </release>
+      <slug>kyliefever2002-live-in-manchester</slug>
+      <price>
+        <currency code="GBP">£</currency>
+        <value>1.79</value>
+        <formattedPrice>£1.79</formattedPrice>
+        <rrp>1.79</rrp>
+        <formattedRrp>£1.79</formattedRrp>
+        <onSale>false</onSale>
+      </price>
+      <download>
+        <previewDate>2008-05-26T00:00:00Z</previewDate>
+        <releaseDate>2008-05-26T00:00:00Z</releaseDate>
+        <packages>
+          <package id="2">
+            <description>standard</description>
+            <price>
+              <currencyCode>GBP</currencyCode>
+              <sevendigitalPrice>1.79</sevendigitalPrice>
+              <recommendedRetailPrice>1.79</recommendedRetailPrice>
+            </price>
+            <formats>
+              <format id="17">
+                <description>MP3 320</description>
+              </format>
+            </formats>
+          </package>
+        </packages>
+      </download>
+      <streamingReleaseDate xsi:nil="true"/>
+      <discNumber>1</discNumber>
+      <number>16</number>
+    </track>
+    <track id="2768361">
+      <title>Light Years/I Feel Love (Live In Manchester)</title>
+      <version/>
+      <artist id="1599">
+        <name>Kylie</name>
+        <appearsAs>Kylie Minogue</appearsAs>
+        <slug>kylie</slug>
+      </artist>
+      <trackNumber>17</trackNumber>
+      <duration>344</duration>
+      <explicitContent>false</explicitContent>
+      <isrc>GB0400200990</isrc>
+      <type>video</type>
+      <release id="263431">
+        <title>KylieFever2002 Live In Manchester</title>
+        <version/>
+        <type>Video</type>
+        <barcode>0724349010154</barcode>
+        <artist id="1599">
+          <name>Kylie</name>
+          <appearsAs>Kylie Minogue</appearsAs>
+          <slug>kylie</slug>
+        </artist>
+        <slug>kyliefever2002-live-in-manchester</slug>
+        <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/002/634/0000263431_50.jpg</image>
+      </release>
+      <slug>kyliefever2002-live-in-manchester</slug>
+      <price>
+        <currency code="GBP">£</currency>
+        <value>1.79</value>
+        <formattedPrice>£1.79</formattedPrice>
+        <rrp>1.79</rrp>
+        <formattedRrp>£1.79</formattedRrp>
+        <onSale>false</onSale>
+      </price>
+      <download>
+        <previewDate>2008-05-26T00:00:00Z</previewDate>
+        <releaseDate>2008-05-26T00:00:00Z</releaseDate>
+        <packages>
+          <package id="2">
+            <description>standard</description>
+            <price>
+              <currencyCode>GBP</currencyCode>
+              <sevendigitalPrice>1.79</sevendigitalPrice>
+              <recommendedRetailPrice>1.79</recommendedRetailPrice>
+            </price>
+            <formats>
+              <format id="17">
+                <description>MP3 320</description>
+              </format>
+            </formats>
+          </package>
+        </packages>
+      </download>
+      <streamingReleaseDate xsi:nil="true"/>
+      <discNumber>1</discNumber>
+      <number>17</number>
+    </track>
+    <track id="2768364">
+      <title>I Should Be So Lucky (Live In Manchester)</title>
+      <version/>
+      <artist id="1599">
+        <name>Kylie</name>
+        <appearsAs>Kylie Minogue</appearsAs>
+        <slug>kylie</slug>
+      </artist>
+      <trackNumber>18</trackNumber>
+      <duration>360</duration>
+      <explicitContent>false</explicitContent>
+      <isrc>GB0400201000</isrc>
+      <type>video</type>
+      <release id="263431">
+        <title>KylieFever2002 Live In Manchester</title>
+        <version/>
+        <type>Video</type>
+        <barcode>0724349010154</barcode>
+        <artist id="1599">
+          <name>Kylie</name>
+          <appearsAs>Kylie Minogue</appearsAs>
+          <slug>kylie</slug>
+        </artist>
+        <slug>kyliefever2002-live-in-manchester</slug>
+        <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/002/634/0000263431_50.jpg</image>
+      </release>
+      <slug>kyliefever2002-live-in-manchester</slug>
+      <price>
+        <currency code="GBP">£</currency>
+        <value>1.79</value>
+        <formattedPrice>£1.79</formattedPrice>
+        <rrp>1.79</rrp>
+        <formattedRrp>£1.79</formattedRrp>
+        <onSale>false</onSale>
+      </price>
+      <download>
+        <previewDate>2008-05-26T00:00:00Z</previewDate>
+        <releaseDate>2008-05-26T00:00:00Z</releaseDate>
+        <packages>
+          <package id="2">
+            <description>standard</description>
+            <price>
+              <currencyCode>GBP</currencyCode>
+              <sevendigitalPrice>1.79</sevendigitalPrice>
+              <recommendedRetailPrice>1.79</recommendedRetailPrice>
+            </price>
+            <formats>
+              <format id="17">
+                <description>MP3 320</description>
+              </format>
+            </formats>
+          </package>
+        </packages>
+      </download>
+      <streamingReleaseDate xsi:nil="true"/>
+      <discNumber>1</discNumber>
+      <number>18</number>
+    </track>
+    <track id="2768365">
+      <title>Voodoo Intro (Live In Manchester)</title>
+      <version/>
+      <artist id="1599">
+        <name>Kylie</name>
+        <appearsAs>Kylie Minogue</appearsAs>
+        <slug>kylie</slug>
+      </artist>
+      <trackNumber>19</trackNumber>
+      <duration>66</duration>
+      <explicitContent>false</explicitContent>
+      <isrc>GB0400201010</isrc>
+      <type>video</type>
+      <release id="263431">
+        <title>KylieFever2002 Live In Manchester</title>
+        <version/>
+        <type>Video</type>
+        <barcode>0724349010154</barcode>
+        <artist id="1599">
+          <name>Kylie</name>
+          <appearsAs>Kylie Minogue</appearsAs>
+          <slug>kylie</slug>
+        </artist>
+        <slug>kyliefever2002-live-in-manchester</slug>
+        <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/002/634/0000263431_50.jpg</image>
+      </release>
+      <slug>kyliefever2002-live-in-manchester</slug>
+      <price>
+        <currency code="GBP">£</currency>
+        <value>1.79</value>
+        <formattedPrice>£1.79</formattedPrice>
+        <rrp>1.79</rrp>
+        <formattedRrp>£1.79</formattedRrp>
+        <onSale>false</onSale>
+      </price>
+      <download>
+        <previewDate>2008-05-26T00:00:00Z</previewDate>
+        <releaseDate>2008-05-26T00:00:00Z</releaseDate>
+        <packages>
+          <package id="2">
+            <description>standard</description>
+            <price>
+              <currencyCode>GBP</currencyCode>
+              <sevendigitalPrice>1.79</sevendigitalPrice>
+              <recommendedRetailPrice>1.79</recommendedRetailPrice>
+            </price>
+            <formats>
+              <format id="17">
+                <description>MP3 320</description>
+              </format>
+            </formats>
+          </package>
+        </packages>
+      </download>
+      <streamingReleaseDate xsi:nil="true"/>
+      <discNumber>1</discNumber>
+      <number>19</number>
+    </track>
+    <track id="2768366">
+      <title>Burning Up (Live In Manchester)</title>
+      <version/>
+      <artist id="1599">
+        <name>Kylie</name>
+        <appearsAs>Kylie Minogue</appearsAs>
+        <slug>kylie</slug>
+      </artist>
+      <trackNumber>20</trackNumber>
+      <duration>258</duration>
+      <explicitContent>false</explicitContent>
+      <isrc>GB0400201020</isrc>
+      <type>video</type>
+      <release id="263431">
+        <title>KylieFever2002 Live In Manchester</title>
+        <version/>
+        <type>Video</type>
+        <barcode>0724349010154</barcode>
+        <artist id="1599">
+          <name>Kylie</name>
+          <appearsAs>Kylie Minogue</appearsAs>
+          <slug>kylie</slug>
+        </artist>
+        <slug>kyliefever2002-live-in-manchester</slug>
+        <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/002/634/0000263431_50.jpg</image>
+      </release>
+      <slug>kyliefever2002-live-in-manchester</slug>
+      <price>
+        <currency code="GBP">£</currency>
+        <value>1.79</value>
+        <formattedPrice>£1.79</formattedPrice>
+        <rrp>1.79</rrp>
+        <formattedRrp>£1.79</formattedRrp>
+        <onSale>false</onSale>
+      </price>
+      <download>
+        <previewDate>2008-05-26T00:00:00Z</previewDate>
+        <releaseDate>2008-05-26T00:00:00Z</releaseDate>
+        <packages>
+          <package id="2">
+            <description>standard</description>
+            <price>
+              <currencyCode>GBP</currencyCode>
+              <sevendigitalPrice>1.79</sevendigitalPrice>
+              <recommendedRetailPrice>1.79</recommendedRetailPrice>
+            </price>
+            <formats>
+              <format id="17">
+                <description>MP3 320</description>
+              </format>
+            </formats>
+          </package>
+        </packages>
+      </download>
+      <streamingReleaseDate xsi:nil="true"/>
+      <discNumber>1</discNumber>
+      <number>20</number>
+    </track>
+    <track id="2768367">
+      <title>Better The Devil You Know (Live In Manchester)</title>
+      <version/>
+      <artist id="1599">
+        <name>Kylie</name>
+        <appearsAs>Kylie Minogue</appearsAs>
+        <slug>kylie</slug>
+      </artist>
+      <trackNumber>21</trackNumber>
+      <duration>343</duration>
+      <explicitContent>false</explicitContent>
+      <isrc>GB0400201030</isrc>
+      <type>video</type>
+      <release id="263431">
+        <title>KylieFever2002 Live In Manchester</title>
+        <version/>
+        <type>Video</type>
+        <barcode>0724349010154</barcode>
+        <artist id="1599">
+          <name>Kylie</name>
+          <appearsAs>Kylie Minogue</appearsAs>
+          <slug>kylie</slug>
+        </artist>
+        <slug>kyliefever2002-live-in-manchester</slug>
+        <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/002/634/0000263431_50.jpg</image>
+      </release>
+      <slug>kyliefever2002-live-in-manchester</slug>
+      <price>
+        <currency code="GBP">£</currency>
+        <value>1.79</value>
+        <formattedPrice>£1.79</formattedPrice>
+        <rrp>1.79</rrp>
+        <formattedRrp>£1.79</formattedRrp>
+        <onSale>false</onSale>
+      </price>
+      <download>
+        <previewDate>2008-05-26T00:00:00Z</previewDate>
+        <releaseDate>2008-05-26T00:00:00Z</releaseDate>
+        <packages>
+          <package id="2">
+            <description>standard</description>
+            <price>
+              <currencyCode>GBP</currencyCode>
+              <sevendigitalPrice>1.79</sevendigitalPrice>
+              <recommendedRetailPrice>1.79</recommendedRetailPrice>
+            </price>
+            <formats>
+              <format id="17">
+                <description>MP3 320</description>
+              </format>
+            </formats>
+          </package>
+        </packages>
+      </download>
+      <streamingReleaseDate xsi:nil="true"/>
+      <discNumber>1</discNumber>
+      <number>21</number>
+    </track>
+    <track id="2768368">
+      <title>Can't Get Blue Monday Out Of My Head (Live In Manchester)</title>
+      <version/>
+      <artist id="1599">
+        <name>Kylie</name>
+        <appearsAs>Kylie Minogue</appearsAs>
+        <slug>kylie</slug>
+      </artist>
+      <trackNumber>22</trackNumber>
+      <duration>268</duration>
+      <explicitContent>false</explicitContent>
+      <isrc>GB0400201040</isrc>
+      <type>video</type>
+      <release id="263431">
+        <title>KylieFever2002 Live In Manchester</title>
+        <version/>
+        <type>Video</type>
+        <barcode>0724349010154</barcode>
+        <artist id="1599">
+          <name>Kylie</name>
+          <appearsAs>Kylie Minogue</appearsAs>
+          <slug>kylie</slug>
+        </artist>
+        <slug>kyliefever2002-live-in-manchester</slug>
+        <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/002/634/0000263431_50.jpg</image>
+      </release>
+      <slug>kyliefever2002-live-in-manchester</slug>
+      <price>
+        <currency code="GBP">£</currency>
+        <value>1.79</value>
+        <formattedPrice>£1.79</formattedPrice>
+        <rrp>1.79</rrp>
+        <formattedRrp>£1.79</formattedRrp>
+        <onSale>false</onSale>
+      </price>
+      <download>
+        <previewDate>2008-05-26T00:00:00Z</previewDate>
+        <releaseDate>2008-05-26T00:00:00Z</releaseDate>
+        <packages>
+          <package id="2">
+            <description>standard</description>
+            <price>
+              <currencyCode>GBP</currencyCode>
+              <sevendigitalPrice>1.79</sevendigitalPrice>
+              <recommendedRetailPrice>1.79</recommendedRetailPrice>
+            </price>
+            <formats>
+              <format id="17">
+                <description>MP3 320</description>
+              </format>
+            </formats>
+          </package>
+        </packages>
+      </download>
+      <streamingReleaseDate xsi:nil="true"/>
+      <discNumber>1</discNumber>
+      <number>22</number>
+    </track>
+  </tracks>
 </response>

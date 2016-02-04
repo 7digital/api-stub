@@ -1,110 +1,80 @@
 <?xml version="1.0" encoding="utf-8"?>
 <response xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" status="ok" version="1.2" xsi:noNamespaceSchemaLocation="http://api.7digital.com/1.2/static/7digitalAPI.xsd">
-	<releases>
-		<page>4</page>
-		<pageSize>20</pageSize>
-		<totalItems>62</totalItems>
-		<release id="353302">
-			<title>Perfect Symmetry</title>
-			<version/>
-			<type>Single</type>
-			<barcode>00602517969414</barcode>
-			<year>2012</year>
-			<explicitContent>false</explicitContent>
-			<artist id="1">
-				<name>Keane</name>
-				<appearsAs>Keane</appearsAs>
-				<url>http://www.7digital.com/artists/keane/?partner=1401</url>
-			</artist>
-			<url>http://www.7digital.com/artists/keane/perfect-symmetry-1/?partner=1401</url>
-			<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/003/533/0000353302_50.jpg</image>
-			<releaseDate>2012-05-25T00:00:00Z</releaseDate>
-			<price>
-				<currency code="GBP">£</currency>
-				<value>5.49</value>
-				<formattedPrice>£5.49</formattedPrice>
-				<rrp>5.49</rrp>
-				<formattedRrp>£5.49</formattedRrp>
-				<onSale>false</onSale>
-			</price>
-			<download>
-				<packages>
-					<package id="2">
-						<description>standard</description>
-						<price>
-							<currencyCode>GBP</currencyCode>
-							<sevendigitalPrice>5.49</sevendigitalPrice>
-							<recommendedRetailPrice>5.49</recommendedRetailPrice>
-						</price>
-						<formats>
-							<format id="17">
-								<description>MP3 320</description>
-							</format>
-						</formats>
-					</package>
-				</packages>
-			</download>
-			<formats availableDrmFree="true">
-				<format id="17">
-					<fileFormat>MP3</fileFormat>
-					<bitRate>320</bitRate>
-					<drmFree>true</drmFree>
-				</format>
-			</formats>
-			<label id="3295">
-				<name>Universal Music International Div.</name>
-			</label>
-		</release>
-		<release id="799025">
-			<title>Night Train</title>
-			<version/>
-			<type>Album</type>
-			<barcode>00602527392622</barcode>
-			<year>2010</year>
-			<explicitContent>false</explicitContent>
-			<artist id="1">
-				<name>Keane</name>
-				<appearsAs>Keane</appearsAs>
-				<url>http://www.7digital.com/artists/keane/?partner=1401</url>
-			</artist>
-			<url>http://www.7digital.com/artists/keane/night-train/?partner=1401</url>
-			<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/007/990/0000799025_50.jpg</image>
-			<releaseDate>2012-05-24T00:00:00Z</releaseDate>
-			<price>
-				<currency code="GBP">£</currency>
-				<value>5.49</value>
-				<formattedPrice>£5.49</formattedPrice>
-				<rrp>5.49</rrp>
-				<formattedRrp>£5.49</formattedRrp>
-				<onSale>false</onSale>
-			</price>
-			<download>
-				<packages>
-					<package id="2">
-						<description>standard</description>
-						<price>
-							<currencyCode>GBP</currencyCode>
-							<sevendigitalPrice>5.49</sevendigitalPrice>
-							<recommendedRetailPrice>5.49</recommendedRetailPrice>
-						</price>
-						<formats>
-							<format id="17">
-								<description>MP3 320</description>
-							</format>
-						</formats>
-					</package>
-				</packages>
-			</download>
-			<formats availableDrmFree="true">
-				<format id="17">
-					<fileFormat>MP3</fileFormat>
-					<bitRate>320</bitRate>
-					<drmFree>true</drmFree>
-				</format>
-			</formats>
-			<label id="110200">
-				<name>Universal Music India Ltd.</name>
-			</label>
-		</release>
-	</releases>
+  <releases>
+    <page>4</page>
+    <pageSize>20</pageSize>
+    <totalItems>62</totalItems>
+    <release id="353302">
+      <title>Perfect Symmetry</title>
+      <version/>
+      <type>Single</type>
+      <barcode>00602517969414</barcode>
+      <year>2012</year>
+      <explicitContent>false</explicitContent>
+      <artist id="1">
+        <name>Keane</name>
+        <appearsAs>Keane</appearsAs>
+        <slug>keane</slug>
+      </artist>
+      <slug>perfect-symmetry-1</slug>
+      <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/003/533/0000353302_50.jpg</image>
+      <download>
+        <releaseDate>2012-05-25T00:00:00Z</releaseDate>
+        <packages>
+          <package id="2">
+            <description>standard</description>
+            <price>
+              <currencyCode>GBP</currencyCode>
+              <sevendigitalPrice>5.49</sevendigitalPrice>
+              <recommendedRetailPrice>5.49</recommendedRetailPrice>
+            </price>
+            <formats>
+              <format id="17">
+                <description>MP3 320</description>
+              </format>
+            </formats>
+          </package>
+        </packages>
+      </download>
+      <label id="3295">
+        <name>Universal Music International Div.</name>
+      </label>
+    </release>
+    <release id="799025">
+      <title>Night Train</title>
+      <version/>
+      <type>Album</type>
+      <barcode>00602527392622</barcode>
+      <year>2010</year>
+      <explicitContent>false</explicitContent>
+      <artist id="1">
+        <name>Keane</name>
+        <appearsAs>Keane</appearsAs>
+        <slug>keane</slug>
+      </artist>
+      <slug>perfect-symmetry-1</slug>
+      <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/007/990/0000799025_50.jpg</image>
+      <download>
+        <releaseDate>2012-05-24T00:00:00Z</releaseDate>
+        <packages>
+          <package id="2">
+            <description>standard</description>
+            <price>
+              <currencyCode>GBP</currencyCode>
+              <sevendigitalPrice>5.49</sevendigitalPrice>
+              <recommendedRetailPrice>5.49</recommendedRetailPrice>
+            </price>
+            <formats>
+              <format id="17">
+                <description>MP3 320</description>
+              </format>
+            </formats>
+          </package>
+        </packages>
+      </download>
+      <label id="110200">
+        <name>Universal Music India Ltd.</name>
+      </label>
+    </release>
+  </releases>
 </response>

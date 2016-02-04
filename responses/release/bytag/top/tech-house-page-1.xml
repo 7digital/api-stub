@@ -1,219 +1,199 @@
 <?xml version="1.0" encoding="utf-8"?>
 <response xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" status="ok" version="1.2" xsi:noNamespaceSchemaLocation="http://api.7digital.com/1.2/static/7digitalAPI.xsd">
-	<taggedResults>
-		<page>1</page>
-		<pageSize>10</pageSize>
-		<totalItems>20321</totalItems>
-		<type>release</type>
-		<taggedItem>
-			<release id="1275025">
-				<title>Ibiza Summer Vibes, Vol. 1</title>
-				<version/>
-				<type>Album</type>
-				<barcode>3661585913481</barcode>
-				<year>2011</year>
-				<explicitContent>false</explicitContent>
-				<artist id="209">
-					<name>Various Artists</name>
-					<appearsAs>Various Artists</appearsAs>
-					<url>http://www.7digital.com/artist/various-artists/?partner=1401</url>
-				</artist>
-				<url>http://www.7digital.com/artist/various-artists/release/ibiza-summer-vibes-vol-1/?partner=1401</url>
-				<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/012/750/0001275025_50.jpg</image>
-				<releaseDate>2011-06-25T00:00:00+01:00</releaseDate>
-				<addedDate>2011-06-03T15:11:04+01:00</addedDate>
-				<popularity>0.65</popularity>
-				<streamingReleaseDate>2011-06-25T00:00:00+01:00</streamingReleaseDate>
-			</release>
-		</taggedItem>
-		<taggedItem>
-			<release id="1604103">
-				<title>Toolroom Records Miami 2012</title>
-				<version/>
-				<type>Album</type>
-				<barcode>5052075008547</barcode>
-				<year>2012</year>
-				<explicitContent>false</explicitContent>
-				<artist id="209">
-					<name>Various Artists</name>
-					<appearsAs>Various Artists</appearsAs>
-					<url>http://www.7digital.com/artist/various-artists/?partner=1401</url>
-				</artist>
-				<url>http://www.7digital.com/artist/various-artists/release/toolroom-records-miami-2012/?partner=1401</url>
-				<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/016/041/0001604103_50.jpg</image>
-				<releaseDate>2012-02-26T00:00:00+00:00</releaseDate>
-				<addedDate>2012-02-16T15:13:49+00:00</addedDate>
-				<popularity>0.61</popularity>
-				<streamingReleaseDate>2012-02-26T00:00:00+00:00</streamingReleaseDate>
-			</release>
-		</taggedItem>
-		<taggedItem>
-			<release id="1713490">
-				<title>Toolroom Records Ibiza 2012 Vol. 1</title>
-				<version/>
-				<type>Album</type>
-				<barcode>5052075008783</barcode>
-				<year>2012</year>
-				<explicitContent>false</explicitContent>
-				<artist id="209">
-					<name>Various Artists</name>
-					<appearsAs>Various Artists</appearsAs>
-					<url>http://www.7digital.com/artist/various-artists/?partner=1401</url>
-				</artist>
-				<url>http://www.7digital.com/artist/various-artists/release/toolroom-records-ibiza-2012-vol-1/?partner=1401</url>
-				<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/017/134/0001713490_50.jpg</image>
-				<releaseDate>2012-06-03T00:00:00+01:00</releaseDate>
-				<addedDate>2012-05-17T00:31:11+01:00</addedDate>
-				<popularity>0.57</popularity>
-				<streamingReleaseDate>2012-06-03T00:00:00+01:00</streamingReleaseDate>
-			</release>
-		</taggedItem>
-		<taggedItem>
-			<release id="1489964">
-				<title>deadmau5 at Play Vol. 3</title>
-				<version/>
-				<type>Album</type>
-				<barcode>628612002429</barcode>
-				<year>2012</year>
-				<explicitContent>false</explicitContent>
-				<artist id="126439">
-					<name>Deadmau5</name>
-					<appearsAs>Deadmau5</appearsAs>
-					<url>http://www.7digital.com/artist/deadmau5/?partner=1401</url>
-				</artist>
-				<url>http://www.7digital.com/artist/deadmau5/release/deadmau5-at-play-vol-3/?partner=1401</url>
-				<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/014/899/0001489964_50.jpg</image>
-				<releaseDate>2012-01-24T00:00:00+00:00</releaseDate>
-				<addedDate>2011-11-23T11:34:42+00:00</addedDate>
-				<popularity>0.54</popularity>
-				<streamingReleaseDate>2012-01-24T00:00:00+00:00</streamingReleaseDate>
-			</release>
-		</taggedItem>
-		<taggedItem>
-			<release id="1591235">
-				<title>Summer 2012</title>
-				<version/>
-				<type>Single</type>
-				<barcode>5055530013209</barcode>
-				<year>2012</year>
-				<explicitContent>false</explicitContent>
-				<artist id="209">
-					<name>Various Artists</name>
-					<appearsAs>Various Artists</appearsAs>
-					<url>http://www.7digital.com/artist/various-artists/?partner=1401</url>
-				</artist>
-				<url>http://www.7digital.com/artist/various-artists/release/summer-2012/?partner=1401</url>
-				<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/015/912/0001591235_50.jpg</image>
-				<releaseDate>2012-02-29T00:00:00+00:00</releaseDate>
-				<addedDate>2012-02-09T12:49:41+00:00</addedDate>
-				<popularity>0.54</popularity>
-				<streamingReleaseDate>3001-01-01T00:00:00+00:00</streamingReleaseDate>
-			</release>
-		</taggedItem>
-		<taggedItem>
-			<release id="1235242">
-				<title>Toolroom Records Ibiza 2011 Vol.1</title>
-				<version/>
-				<type>Album</type>
-				<barcode>5052075008011</barcode>
-				<year>2011</year>
-				<explicitContent>false</explicitContent>
-				<artist id="209">
-					<name>Various Artists</name>
-					<appearsAs>Various Artists</appearsAs>
-					<url>http://www.7digital.com/artist/various-artists/?partner=1401</url>
-				</artist>
-				<url>http://www.7digital.com/artist/various-artists/release/toolroom-records-ibiza-2011-vol-1/?partner=1401</url>
-				<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/012/352/0001235242_50.jpg</image>
-				<releaseDate>2011-05-22T00:00:00+01:00</releaseDate>
-				<addedDate>2011-05-05T14:46:49+01:00</addedDate>
-				<popularity>0.52</popularity>
-				<streamingReleaseDate>2011-05-22T00:00:00+01:00</streamingReleaseDate>
-			</release>
-		</taggedItem>
-		<taggedItem>
-			<release id="1317560">
-				<title>Ibiza 2k11 Deep Mission</title>
-				<version/>
-				<type>Album</type>
-				<barcode>5414582381504</barcode>
-				<year>2011</year>
-				<explicitContent>false</explicitContent>
-				<artist id="209">
-					<name>Various Artists</name>
-					<appearsAs>Various Artists</appearsAs>
-					<url>http://www.7digital.com/artist/various-artists/?partner=1401</url>
-				</artist>
-				<url>http://www.7digital.com/artist/various-artists/release/ibiza-2k11-deep-mission/?partner=1401</url>
-				<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/013/175/0001317560_50.jpg</image>
-				<releaseDate>2011-07-12T00:00:00+01:00</releaseDate>
-				<addedDate>2011-07-06T17:01:48+01:00</addedDate>
-				<popularity>0.51</popularity>
-				<streamingReleaseDate>3001-01-01T00:00:00+00:00</streamingReleaseDate>
-			</release>
-		</taggedItem>
-		<taggedItem>
-			<release id="1741053">
-				<title>Ibiza Openings 2012</title>
-				<version/>
-				<type>Album</type>
-				<barcode>0883958010518</barcode>
-				<year>2012</year>
-				<explicitContent>false</explicitContent>
-				<artist id="209">
-					<name>Various Artists</name>
-					<appearsAs>Various Artists</appearsAs>
-					<url>http://www.7digital.com/artist/various-artists/?partner=1401</url>
-				</artist>
-				<url>http://www.7digital.com/artist/various-artists/release/ibiza-openings-2012/?partner=1401</url>
-				<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/017/410/0001741053_50.jpg</image>
-				<releaseDate>2012-06-18T00:00:00+01:00</releaseDate>
-				<addedDate>2012-06-04T00:32:59+01:00</addedDate>
-				<popularity>0.51</popularity>
-				<streamingReleaseDate>3001-01-01T00:00:00+00:00</streamingReleaseDate>
-			</release>
-		</taggedItem>
-		<taggedItem>
-			<release id="1439371">
-				<title>The Ibiza Closing Party 2011</title>
-				<version/>
-				<type>Single</type>
-				<barcode>5055530000018</barcode>
-				<year>2011</year>
-				<explicitContent>false</explicitContent>
-				<artist id="209">
-					<name>Various Artists</name>
-					<appearsAs>Various Artists</appearsAs>
-					<url>http://www.7digital.com/artist/various-artists/?partner=1401</url>
-				</artist>
-				<url>http://www.7digital.com/artist/various-artists/release/the-ibiza-closing-party-2011/?partner=1401</url>
-				<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/014/393/0001439371_50.jpg</image>
-				<releaseDate>2011-11-03T00:00:00+00:00</releaseDate>
-				<addedDate>2011-10-21T16:49:03+01:00</addedDate>
-				<popularity>0.5</popularity>
-				<streamingReleaseDate>3001-01-01T00:00:00+00:00</streamingReleaseDate>
-			</release>
-		</taggedItem>
-		<taggedItem>
-			<release id="343549">
-				<title>Call And Response: The Remix Album</title>
-				<version/>
-				<type>Album</type>
-				<barcode>00602517884250</barcode>
-				<year>2008</year>
-				<explicitContent>false</explicitContent>
-				<artist id="222">
-					<name>Maroon 5</name>
-					<appearsAs>Maroon 5</appearsAs>
-					<url>http://www.7digital.com/artist/maroon-5/?partner=1401</url>
-				</artist>
-				<url>http://www.7digital.com/artist/maroon-5/release/call-and-response-the-remix-album-2/?partner=1401</url>
-				<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/003/435/0000343549_50.jpg</image>
-				<releaseDate>2008-12-07T00:00:00+00:00</releaseDate>
-				<addedDate>2008-12-08T10:27:07+00:00</addedDate>
-				<popularity>0.49</popularity>
-				<streamingReleaseDate>2008-12-07T00:00:00+00:00</streamingReleaseDate>
-			</release>
-		</taggedItem>
-	</taggedResults>
+  <taggedResults>
+    <page>1</page>
+    <pageSize>10</pageSize>
+    <totalItems>20321</totalItems>
+    <type>release</type>
+    <taggedItem>
+      <release id="1275025">
+        <title>Ibiza Summer Vibes, Vol. 1</title>
+        <version/>
+        <type>Album</type>
+        <barcode>3661585913481</barcode>
+        <year>2011</year>
+        <explicitContent>false</explicitContent>
+        <artist id="209">
+          <name>Various Artists</name>
+          <appearsAs>Various Artists</appearsAs>
+          <slug>various-artists</slug>
+        </artist>
+        <slug>ibiza-summer-vibes-vol-1</slug>
+        <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/012/750/0001275025_50.jpg</image>
+        <popularity>0.65</popularity>
+        <streamingReleaseDate>2011-06-25T00:00:00+01:00</streamingReleaseDate>
+      </release>
+    </taggedItem>
+    <taggedItem>
+      <release id="1604103">
+        <title>Toolroom Records Miami 2012</title>
+        <version/>
+        <type>Album</type>
+        <barcode>5052075008547</barcode>
+        <year>2012</year>
+        <explicitContent>false</explicitContent>
+        <artist id="209">
+          <name>Various Artists</name>
+          <appearsAs>Various Artists</appearsAs>
+          <slug>various-artists</slug>
+        </artist>
+        <slug>toolroom-records-miami-2012</slug>
+        <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/016/041/0001604103_50.jpg</image>
+        <popularity>0.61</popularity>
+        <streamingReleaseDate>2012-02-26T00:00:00+00:00</streamingReleaseDate>
+      </release>
+    </taggedItem>
+    <taggedItem>
+      <release id="1713490">
+        <title>Toolroom Records Ibiza 2012 Vol. 1</title>
+        <version/>
+        <type>Album</type>
+        <barcode>5052075008783</barcode>
+        <year>2012</year>
+        <explicitContent>false</explicitContent>
+        <artist id="209">
+          <name>Various Artists</name>
+          <appearsAs>Various Artists</appearsAs>
+          <slug>various-artists</slug>
+        </artist>
+        <slug>toolroom-records-ibiza-2012-vol-1</slug>
+        <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/017/134/0001713490_50.jpg</image>
+        <popularity>0.57</popularity>
+        <streamingReleaseDate>2012-06-03T00:00:00+01:00</streamingReleaseDate>
+      </release>
+    </taggedItem>
+    <taggedItem>
+      <release id="1489964">
+        <title>deadmau5 at Play Vol. 3</title>
+        <version/>
+        <type>Album</type>
+        <barcode>628612002429</barcode>
+        <year>2012</year>
+        <explicitContent>false</explicitContent>
+        <artist id="126439">
+          <name>Deadmau5</name>
+          <appearsAs>Deadmau5</appearsAs>
+          <slug>deadmau5</slug>
+        </artist>
+        <slug>deadmau5-at-play-vol-3</slug>
+        <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/014/899/0001489964_50.jpg</image>
+        <popularity>0.54</popularity>
+        <streamingReleaseDate>2012-01-24T00:00:00+00:00</streamingReleaseDate>
+      </release>
+    </taggedItem>
+    <taggedItem>
+      <release id="1591235">
+        <title>Summer 2012</title>
+        <version/>
+        <type>Single</type>
+        <barcode>5055530013209</barcode>
+        <year>2012</year>
+        <explicitContent>false</explicitContent>
+        <artist id="209">
+          <name>Various Artists</name>
+          <appearsAs>Various Artists</appearsAs>
+          <slug>various-artists</slug>
+        </artist>
+        <slug>summer-2012</slug>
+        <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/015/912/0001591235_50.jpg</image>
+        <popularity>0.54</popularity>
+        <streamingReleaseDate>3001-01-01T00:00:00+00:00</streamingReleaseDate>
+      </release>
+    </taggedItem>
+    <taggedItem>
+      <release id="1235242">
+        <title>Toolroom Records Ibiza 2011 Vol.1</title>
+        <version/>
+        <type>Album</type>
+        <barcode>5052075008011</barcode>
+        <year>2011</year>
+        <explicitContent>false</explicitContent>
+        <artist id="209">
+          <name>Various Artists</name>
+          <appearsAs>Various Artists</appearsAs>
+          <slug>various-artists</slug>
+        </artist>
+        <slug>toolroom-records-ibiza-2011-vol-1</slug>
+        <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/012/352/0001235242_50.jpg</image>
+        <popularity>0.52</popularity>
+        <streamingReleaseDate>2011-05-22T00:00:00+01:00</streamingReleaseDate>
+      </release>
+    </taggedItem>
+    <taggedItem>
+      <release id="1317560">
+        <title>Ibiza 2k11 Deep Mission</title>
+        <version/>
+        <type>Album</type>
+        <barcode>5414582381504</barcode>
+        <year>2011</year>
+        <explicitContent>false</explicitContent>
+        <artist id="209">
+          <name>Various Artists</name>
+          <appearsAs>Various Artists</appearsAs>
+          <slug>various-artists</slug>
+        </artist>
+        <slug>ibiza-2k11-deep-mission</slug>
+        <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/013/175/0001317560_50.jpg</image>
+        <popularity>0.51</popularity>
+        <streamingReleaseDate>3001-01-01T00:00:00+00:00</streamingReleaseDate>
+      </release>
+    </taggedItem>
+    <taggedItem>
+      <release id="1741053">
+        <title>Ibiza Openings 2012</title>
+        <version/>
+        <type>Album</type>
+        <barcode>0883958010518</barcode>
+        <year>2012</year>
+        <explicitContent>false</explicitContent>
+        <artist id="209">
+          <name>Various Artists</name>
+          <appearsAs>Various Artists</appearsAs>
+          <slug>various-artists</slug>
+        </artist>
+        <slug>ibiza-openings-2012</slug>
+        <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/017/410/0001741053_50.jpg</image>
+        <popularity>0.51</popularity>
+        <streamingReleaseDate>3001-01-01T00:00:00+00:00</streamingReleaseDate>
+      </release>
+    </taggedItem>
+    <taggedItem>
+      <release id="1439371">
+        <title>The Ibiza Closing Party 2011</title>
+        <version/>
+        <type>Single</type>
+        <barcode>5055530000018</barcode>
+        <year>2011</year>
+        <explicitContent>false</explicitContent>
+        <artist id="209">
+          <name>Various Artists</name>
+          <appearsAs>Various Artists</appearsAs>
+          <slug>various-artists</slug>
+        </artist>
+        <slug>the-ibiza-closing-party-2011</slug>
+        <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/014/393/0001439371_50.jpg</image>
+        <popularity>0.5</popularity>
+        <streamingReleaseDate>3001-01-01T00:00:00+00:00</streamingReleaseDate>
+      </release>
+    </taggedItem>
+    <taggedItem>
+      <release id="343549">
+        <title>Call And Response: The Remix Album</title>
+        <version/>
+        <type>Album</type>
+        <barcode>00602517884250</barcode>
+        <year>2008</year>
+        <explicitContent>false</explicitContent>
+        <artist id="222">
+          <name>Maroon 5</name>
+          <appearsAs>Maroon 5</appearsAs>
+          <slug>maroon-5</slug>
+        </artist>
+        <slug>call-and-response-the-remix-album-2</slug>
+        <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/003/435/0000343549_50.jpg</image>
+        <popularity>0.49</popularity>
+        <streamingReleaseDate>2008-12-07T00:00:00+00:00</streamingReleaseDate>
+      </release>
+    </taggedItem>
+  </taggedResults>
 </response>

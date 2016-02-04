@@ -1,1 +1,75 @@
-<?xml version="1.0" encoding="utf-8"?><response xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" status="ok" version="1.2" xsi:noNamespaceSchemaLocation="http://api.7digital.com/1.2/static/7digitalAPI.xsd"><release id="4180960"><title>Duets: Re-Working The Catalogue</title><version /><type>Album</type><barcode>886445040289</barcode><year>2015</year><explicitContent>false</explicitContent><artist id="460"><name>Van Morrison</name><appearsAs>Van Morrison</appearsAs><url>http://www.7digital.com/artist/van-morrison/?partner=3923</url></artist><url>http://www.7digital.com/artist/van-morrison/release/duets-re-working-the-catalogue/?partner=3923</url><image>http://artwork-cdn.7static.com/static/img/sleeveart/00/041/809/0004180960_50.jpg</image><releaseDate>2015-03-16T00:00:00Z</releaseDate><addedDate>2015-02-24T22:44:16Z</addedDate><price><currency code="GBP">£</currency><value>4.99</value><formattedPrice>£4.99</formattedPrice><rrp>8.99</rrp><formattedRrp>£8.99</formattedRrp><onSale>true</onSale></price><formats availableDrmFree="true"><format id="17"><fileFormat>MP3</fileFormat><bitRate>320</bitRate><drmFree>true</drmFree></format><format id="33"><fileFormat>M4A</fileFormat><bitRate>320</bitRate><drmFree>true</drmFree></format></formats><label id="417638"><name>Exile Productions/RCA Records</name></label><licensor id="2"><name>Sony Music</name></licensor><popularity>0</popularity><streamingReleaseDate>2015-03-16T00:00:00Z</streamingReleaseDate><duration>4581</duration><trackCount>16</trackCount><download><packages><package id="9"><description>premium</description><price><currencyCode>GBP</currencyCode><sevendigitalPrice>7.99</sevendigitalPrice><recommendedRetailPrice>11.49</recommendedRetailPrice></price><formats><format id="45"><description>FLAC 16-bit 44.1kHz</description></format></formats></package><package id="12"><description>deluxe tier 1</description><price><currencyCode>GBP</currencyCode><sevendigitalPrice>10.99</sevendigitalPrice><recommendedRetailPrice>12.99</recommendedRetailPrice></price><formats><format id="52"><description>FLAC 24-bit 44.1kHz</description></format></formats></package><package id="2"><description>standard</description><price><currencyCode>GBP</currencyCode><sevendigitalPrice>4.99</sevendigitalPrice><recommendedRetailPrice>8.99</recommendedRetailPrice></price><formats><format id="17"><description>MP3 320</description></format><format id="33"><description>AAC 320</description></format></formats></package></packages></download></release></response>
+<?xml version="1.0" encoding="utf-8"?>
+<response xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" status="ok" version="1.2" xsi:noNamespaceSchemaLocation="http://api.7digital.com/1.2/static/7digitalAPI.xsd">
+  <release id="4180960">
+    <title>Duets: Re-Working The Catalogue</title>
+    <version/>
+    <type>Album</type>
+    <barcode>886445040289</barcode>
+    <year>2015</year>
+    <explicitContent>false</explicitContent>
+    <artist id="460">
+      <name>Van Morrison</name>
+      <appearsAs>Van Morrison</appearsAs>
+      <slug>van-morrison</slug>
+    </artist>
+    <slug>duets-re-working-the-catalogue</slug>
+    <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/041/809/0004180960_50.jpg</image>
+    <label id="417638">
+      <name>Exile Productions/RCA Records</name>
+    </label>
+    <licensor id="2">
+      <name>Sony Music</name>
+    </licensor>
+    <popularity>0</popularity>
+    <streamingReleaseDate>2015-03-16T00:00:00Z</streamingReleaseDate>
+    <duration>4581</duration>
+    <trackCount>16</trackCount>
+    <download>
+      <packages>
+        <package id="9">
+          <description>premium</description>
+          <price>
+            <currencyCode>GBP</currencyCode>
+            <sevendigitalPrice>7.99</sevendigitalPrice>
+            <recommendedRetailPrice>11.49</recommendedRetailPrice>
+          </price>
+          <formats>
+            <format id="45">
+              <description>FLAC 16-bit 44.1kHz</description>
+            </format>
+          </formats>
+        </package>
+        <package id="12">
+          <description>deluxe tier 1</description>
+          <price>
+            <currencyCode>GBP</currencyCode>
+            <sevendigitalPrice>10.99</sevendigitalPrice>
+            <recommendedRetailPrice>12.99</recommendedRetailPrice>
+          </price>
+          <formats>
+            <format id="52">
+              <description>FLAC 24-bit 44.1kHz</description>
+            </format>
+          </formats>
+        </package>
+        <package id="2">
+          <description>standard</description>
+          <price>
+            <currencyCode>GBP</currencyCode>
+            <sevendigitalPrice>4.99</sevendigitalPrice>
+            <recommendedRetailPrice>8.99</recommendedRetailPrice>
+          </price>
+          <formats>
+            <format id="17">
+              <description>MP3 320</description>
+            </format>
+            <format id="33">
+              <description>AAC 320</description>
+            </format>
+          </formats>
+        </package>
+      </packages>
+      <releaseDate>2015-03-16T00:00:00Z</releaseDate>
+    </download>
+  </release>
+</response>

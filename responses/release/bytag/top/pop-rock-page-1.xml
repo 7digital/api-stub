@@ -1,219 +1,199 @@
 <?xml version="1.0" encoding="utf-8"?>
 <response xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" status="ok" version="1.2" xsi:noNamespaceSchemaLocation="http://api.7digital.com/1.2/static/7digitalAPI.xsd">
-	<taggedResults>
-		<page>1</page>
-		<pageSize>10</pageSize>
-		<totalItems>15734</totalItems>
-		<type>release</type>
-		<taggedItem>
-			<release id="174034">
-				<title>The Joshua Tree</title>
-				<version>Remastered - Standard Comm CD</version>
-				<type>Album</type>
-				<barcode>00602517449398</barcode>
-				<year>2007</year>
-				<explicitContent>false</explicitContent>
-				<artist id="106">
-					<name>U2</name>
-					<appearsAs>U2</appearsAs>
-					<url>http://www.7digital.com/artist/u2/?partner=1401</url>
-				</artist>
-				<url>http://www.7digital.com/artist/u2/release/the-joshua-tree-1-1/?partner=1401</url>
-				<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/001/740/0000174034_50.jpg</image>
-				<releaseDate>2007-12-03T00:00:00+00:00</releaseDate>
-				<addedDate>2008-08-31T22:20:52+01:00</addedDate>
-				<popularity>0.68</popularity>
-				<streamingReleaseDate>2007-12-03T00:00:00+00:00</streamingReleaseDate>
-			</release>
-		</taggedItem>
-		<taggedItem>
-			<release id="14319">
-				<title>Nirvana</title>
-				<version>International Version</version>
-				<type>Album</type>
-				<barcode>00606949352325</barcode>
-				<year>2002</year>
-				<explicitContent>false</explicitContent>
-				<artist id="169">
-					<name>Nirvana</name>
-					<appearsAs>Nirvana</appearsAs>
-					<url>http://www.7digital.com/artist/nirvana/?partner=1401</url>
-				</artist>
-				<url>http://www.7digital.com/artist/nirvana/release/nirvana-international-version/?partner=1401</url>
-				<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/000/143/0000014319_50.jpg</image>
-				<releaseDate>2002-10-28T00:00:00+00:00</releaseDate>
-				<addedDate>2008-08-31T22:18:30+01:00</addedDate>
-				<popularity>0.63</popularity>
-				<streamingReleaseDate>2002-10-28T00:00:00+00:00</streamingReleaseDate>
-			</release>
-		</taggedItem>
-		<taggedItem>
-			<release id="143065">
-				<title>Complete Clapton</title>
-				<version>comm CD (set)</version>
-				<type>Album</type>
-				<barcode>00602517461932</barcode>
-				<year>2007</year>
-				<explicitContent>false</explicitContent>
-				<artist id="1481">
-					<name>Eric Clapton</name>
-					<appearsAs>Eric Clapton</appearsAs>
-					<url>http://www.7digital.com/artist/eric-clapton/?partner=1401</url>
-				</artist>
-				<url>http://www.7digital.com/artist/eric-clapton/release/complete-clapton/?partner=1401</url>
-				<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/001/430/0000143065_50.jpg</image>
-				<releaseDate>2007-10-08T00:00:00+01:00</releaseDate>
-				<addedDate>2008-08-31T22:20:42+01:00</addedDate>
-				<popularity>0.62</popularity>
-				<streamingReleaseDate>2007-10-08T00:00:00+01:00</streamingReleaseDate>
-			</release>
-		</taggedItem>
-		<taggedItem>
-			<release id="15176">
-				<title>Appetite For Destruction</title>
-				<version>Explicit Version</version>
-				<type>Album</type>
-				<barcode>00720642414828</barcode>
-				<year>2005</year>
-				<explicitContent>false</explicitContent>
-				<artist id="678">
-					<name>Guns N' Roses</name>
-					<appearsAs>Guns N' Roses</appearsAs>
-					<url>http://www.7digital.com/artist/guns-n-roses/?partner=1401</url>
-				</artist>
-				<url>http://www.7digital.com/artist/guns-n-roses/release/appetite-for-destruction/?partner=1401</url>
-				<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/000/151/0000015176_50.jpg</image>
-				<releaseDate>2005-08-03T00:00:00+01:00</releaseDate>
-				<addedDate>2008-08-31T22:18:36+01:00</addedDate>
-				<popularity>0.62</popularity>
-				<streamingReleaseDate>2005-08-03T00:00:00+01:00</streamingReleaseDate>
-			</release>
-		</taggedItem>
-		<taggedItem>
-			<release id="81735">
-				<title>Songs About Jane</title>
-				<version/>
-				<type>Album</type>
-				<barcode>00823765000128</barcode>
-				<year>2007</year>
-				<explicitContent>false</explicitContent>
-				<artist id="222">
-					<name>Maroon 5</name>
-					<appearsAs>Maroon 5</appearsAs>
-					<url>http://www.7digital.com/artist/maroon-5/?partner=1401</url>
-				</artist>
-				<url>http://www.7digital.com/artist/maroon-5/release/songs-about-jane-2-1/?partner=1401</url>
-				<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/000/817/0000081735_50.jpg</image>
-				<releaseDate>2007-04-30T00:00:00+01:00</releaseDate>
-				<addedDate>2008-08-31T22:20:15+01:00</addedDate>
-				<popularity>0.61</popularity>
-				<streamingReleaseDate>2007-04-30T00:00:00+01:00</streamingReleaseDate>
-			</release>
-		</taggedItem>
-		<taggedItem>
-			<release id="171806">
-				<title>Led Zeppelin IV</title>
-				<version/>
-				<type>Album</type>
-				<barcode>603497988235</barcode>
-				<year>2009</year>
-				<explicitContent>false</explicitContent>
-				<artist id="128187">
-					<name>Led Zeppelin</name>
-					<appearsAs>Led Zeppelin</appearsAs>
-					<url>http://www.7digital.com/artist/led-zeppelin/?partner=1401</url>
-				</artist>
-				<url>http://www.7digital.com/artist/led-zeppelin/release/led-zeppelin-iv/?partner=1401</url>
-				<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/001/718/0000171806_50.jpg</image>
-				<releaseDate>2009-04-06T00:00:00+01:00</releaseDate>
-				<addedDate>2008-03-03T14:16:14+00:00</addedDate>
-				<popularity>0.59</popularity>
-				<streamingReleaseDate>3001-01-01T00:00:00+00:00</streamingReleaseDate>
-			</release>
-		</taggedItem>
-		<taggedItem>
-			<release id="112">
-				<title>Hopes And Fears</title>
-				<version>UK version</version>
-				<type>Album</type>
-				<barcode>00602498665732</barcode>
-				<year>2004</year>
-				<explicitContent>false</explicitContent>
-				<artist id="1">
-					<name>Keane</name>
-					<appearsAs>Keane</appearsAs>
-					<url>http://www.7digital.com/artist/keane/?partner=1401</url>
-				</artist>
-				<url>http://www.7digital.com/artist/keane/release/hopes-and-fears-uk-version/?partner=1401</url>
-				<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/000/001/0000000112_50.jpg</image>
-				<releaseDate>2004-05-02T00:00:00+01:00</releaseDate>
-				<addedDate>2008-08-31T22:18:08+01:00</addedDate>
-				<popularity>0.59</popularity>
-				<streamingReleaseDate>2004-05-02T00:00:00+01:00</streamingReleaseDate>
-			</release>
-		</taggedItem>
-		<taggedItem>
-			<release id="2288">
-				<title>Greatest Hits</title>
-				<version>EU Version</version>
-				<type>Album</type>
-				<barcode>00602498621080</barcode>
-				<year>2004</year>
-				<explicitContent>false</explicitContent>
-				<artist id="678">
-					<name>Guns N' Roses</name>
-					<appearsAs>Guns N' Roses</appearsAs>
-					<url>http://www.7digital.com/artist/guns-n-roses/?partner=1401</url>
-				</artist>
-				<url>http://www.7digital.com/artist/guns-n-roses/release/greatest-hits-eu-version/?partner=1401</url>
-				<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/000/022/0000002288_50.jpg</image>
-				<releaseDate>2004-03-15T00:00:00+00:00</releaseDate>
-				<addedDate>2008-08-31T22:18:16+01:00</addedDate>
-				<popularity>0.58</popularity>
-				<streamingReleaseDate>2004-03-15T00:00:00+00:00</streamingReleaseDate>
-			</release>
-		</taggedItem>
-		<taggedItem>
-			<release id="2034">
-				<title>American Idiot</title>
-				<version/>
-				<type>Album</type>
-				<barcode>093624877769</barcode>
-				<year>2010</year>
-				<explicitContent>false</explicitContent>
-				<artist id="610">
-					<name>Green Day</name>
-					<appearsAs>Green Day</appearsAs>
-					<url>http://www.7digital.com/artist/green-day/?partner=1401</url>
-				</artist>
-				<url>http://www.7digital.com/artist/green-day/release/american-idiot-1-1/?partner=1401</url>
-				<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/000/020/0000002034_50.jpg</image>
-				<releaseDate>2010-05-06T00:00:00+01:00</releaseDate>
-				<addedDate>2008-03-03T14:04:42+00:00</addedDate>
-				<popularity>0.58</popularity>
-				<streamingReleaseDate>2010-05-06T00:00:00+01:00</streamingReleaseDate>
-			</release>
-		</taggedItem>
-		<taggedItem>
-			<release id="265296">
-				<title>ABBA Gold</title>
-				<version/>
-				<type>Album</type>
-				<barcode>00602517247321</barcode>
-				<year>2008</year>
-				<explicitContent>false</explicitContent>
-				<artist id="1475">
-					<name>Abba</name>
-					<appearsAs>Abba</appearsAs>
-					<url>http://www.7digital.com/artist/abba/?partner=1401</url>
-				</artist>
-				<url>http://www.7digital.com/artist/abba/release/abba-gold-5/?partner=1401</url>
-				<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/002/652/0000265296_50.jpg</image>
-				<releaseDate>2008-07-07T00:00:00+01:00</releaseDate>
-				<addedDate>2008-08-31T22:21:12+01:00</addedDate>
-				<popularity>0.58</popularity>
-				<streamingReleaseDate>2008-07-07T00:00:00+01:00</streamingReleaseDate>
-			</release>
-		</taggedItem>
-	</taggedResults>
+  <taggedResults>
+    <page>1</page>
+    <pageSize>10</pageSize>
+    <totalItems>15734</totalItems>
+    <type>release</type>
+    <taggedItem>
+      <release id="174034">
+        <title>The Joshua Tree</title>
+        <version>Remastered - Standard Comm CD</version>
+        <type>Album</type>
+        <barcode>00602517449398</barcode>
+        <year>2007</year>
+        <explicitContent>false</explicitContent>
+        <artist id="106">
+          <name>U2</name>
+          <appearsAs>U2</appearsAs>
+          <slug>u2</slug>
+        </artist>
+        <slug>the-joshua-tree-1-1</slug>
+        <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/001/740/0000174034_50.jpg</image>
+        <popularity>0.68</popularity>
+        <streamingReleaseDate>2007-12-03T00:00:00+00:00</streamingReleaseDate>
+      </release>
+    </taggedItem>
+    <taggedItem>
+      <release id="14319">
+        <title>Nirvana</title>
+        <version>International Version</version>
+        <type>Album</type>
+        <barcode>00606949352325</barcode>
+        <year>2002</year>
+        <explicitContent>false</explicitContent>
+        <artist id="169">
+          <name>Nirvana</name>
+          <appearsAs>Nirvana</appearsAs>
+          <slug>nirvana</slug>
+        </artist>
+        <slug>nirvana-international-version</slug>
+        <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/000/143/0000014319_50.jpg</image>
+        <popularity>0.63</popularity>
+        <streamingReleaseDate>2002-10-28T00:00:00+00:00</streamingReleaseDate>
+      </release>
+    </taggedItem>
+    <taggedItem>
+      <release id="143065">
+        <title>Complete Clapton</title>
+        <version>comm CD (set)</version>
+        <type>Album</type>
+        <barcode>00602517461932</barcode>
+        <year>2007</year>
+        <explicitContent>false</explicitContent>
+        <artist id="1481">
+          <name>Eric Clapton</name>
+          <appearsAs>Eric Clapton</appearsAs>
+          <slug>eric-clapton</slug>
+        </artist>
+        <slug>complete-clapton</slug>
+        <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/001/430/0000143065_50.jpg</image>
+        <popularity>0.62</popularity>
+        <streamingReleaseDate>2007-10-08T00:00:00+01:00</streamingReleaseDate>
+      </release>
+    </taggedItem>
+    <taggedItem>
+      <release id="15176">
+        <title>Appetite For Destruction</title>
+        <version>Explicit Version</version>
+        <type>Album</type>
+        <barcode>00720642414828</barcode>
+        <year>2005</year>
+        <explicitContent>false</explicitContent>
+        <artist id="678">
+          <name>Guns N' Roses</name>
+          <appearsAs>Guns N' Roses</appearsAs>
+          <slug>guns-n-roses</slug>
+        </artist>
+        <slug>appetite-for-destruction</slug>
+        <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/000/151/0000015176_50.jpg</image>
+        <popularity>0.62</popularity>
+        <streamingReleaseDate>2005-08-03T00:00:00+01:00</streamingReleaseDate>
+      </release>
+    </taggedItem>
+    <taggedItem>
+      <release id="81735">
+        <title>Songs About Jane</title>
+        <version/>
+        <type>Album</type>
+        <barcode>00823765000128</barcode>
+        <year>2007</year>
+        <explicitContent>false</explicitContent>
+        <artist id="222">
+          <name>Maroon 5</name>
+          <appearsAs>Maroon 5</appearsAs>
+          <slug>maroon-5</slug>
+        </artist>
+        <slug>songs-about-jane-2-1</slug>
+        <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/000/817/0000081735_50.jpg</image>
+        <popularity>0.61</popularity>
+        <streamingReleaseDate>2007-04-30T00:00:00+01:00</streamingReleaseDate>
+      </release>
+    </taggedItem>
+    <taggedItem>
+      <release id="171806">
+        <title>Led Zeppelin IV</title>
+        <version/>
+        <type>Album</type>
+        <barcode>603497988235</barcode>
+        <year>2009</year>
+        <explicitContent>false</explicitContent>
+        <artist id="128187">
+          <name>Led Zeppelin</name>
+          <appearsAs>Led Zeppelin</appearsAs>
+          <slug>led-zeppelin</slug>
+        </artist>
+        <slug>led-zeppelin-iv</slug>
+        <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/001/718/0000171806_50.jpg</image>
+        <popularity>0.59</popularity>
+        <streamingReleaseDate>3001-01-01T00:00:00+00:00</streamingReleaseDate>
+      </release>
+    </taggedItem>
+    <taggedItem>
+      <release id="112">
+        <title>Hopes And Fears</title>
+        <version>UK version</version>
+        <type>Album</type>
+        <barcode>00602498665732</barcode>
+        <year>2004</year>
+        <explicitContent>false</explicitContent>
+        <artist id="1">
+          <name>Keane</name>
+          <appearsAs>Keane</appearsAs>
+          <slug>keane</slug>
+        </artist>
+        <slug>hopes-and-fears-uk-version</slug>
+        <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/000/001/0000000112_50.jpg</image>
+        <popularity>0.59</popularity>
+        <streamingReleaseDate>2004-05-02T00:00:00+01:00</streamingReleaseDate>
+      </release>
+    </taggedItem>
+    <taggedItem>
+      <release id="2288">
+        <title>Greatest Hits</title>
+        <version>EU Version</version>
+        <type>Album</type>
+        <barcode>00602498621080</barcode>
+        <year>2004</year>
+        <explicitContent>false</explicitContent>
+        <artist id="678">
+          <name>Guns N' Roses</name>
+          <appearsAs>Guns N' Roses</appearsAs>
+          <slug>guns-n-roses</slug>
+        </artist>
+        <slug>greatest-hits-eu-version</slug>
+        <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/000/022/0000002288_50.jpg</image>
+        <popularity>0.58</popularity>
+        <streamingReleaseDate>2004-03-15T00:00:00+00:00</streamingReleaseDate>
+      </release>
+    </taggedItem>
+    <taggedItem>
+      <release id="2034">
+        <title>American Idiot</title>
+        <version/>
+        <type>Album</type>
+        <barcode>093624877769</barcode>
+        <year>2010</year>
+        <explicitContent>false</explicitContent>
+        <artist id="610">
+          <name>Green Day</name>
+          <appearsAs>Green Day</appearsAs>
+          <slug>green-day</slug>
+        </artist>
+        <slug>american-idiot-1-1</slug>
+        <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/000/020/0000002034_50.jpg</image>
+        <popularity>0.58</popularity>
+        <streamingReleaseDate>2010-05-06T00:00:00+01:00</streamingReleaseDate>
+      </release>
+    </taggedItem>
+    <taggedItem>
+      <release id="265296">
+        <title>ABBA Gold</title>
+        <version/>
+        <type>Album</type>
+        <barcode>00602517247321</barcode>
+        <year>2008</year>
+        <explicitContent>false</explicitContent>
+        <artist id="1475">
+          <name>Abba</name>
+          <appearsAs>Abba</appearsAs>
+          <slug>abba</slug>
+        </artist>
+        <slug>abba-gold-5</slug>
+        <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/002/652/0000265296_50.jpg</image>
+        <popularity>0.58</popularity>
+        <streamingReleaseDate>2008-07-07T00:00:00+01:00</streamingReleaseDate>
+      </release>
+    </taggedItem>
+  </taggedResults>
 </response>

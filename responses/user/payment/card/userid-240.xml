@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <response status="ok" version="1.2">
-	<cards>
-		<card id="20">
-			<type>VISA</type>
-			<last4digits>1111</last4digits>
-			<default>true</default>
-			<cardHolderName>Bob</cardHolderName>
-			<expiryDate>194209</expiryDate>
-		</card>
-		<card id="40">
-			<type>VISA</type>
-			<last4digits>1111</last4digits>
-			<default>false</default>
-			<cardHolderName>Bob</cardHolderName>
-			<expiryDate>194209</expiryDate>
-		</card>
-	</cards>
+  <cards>
+    <card id="20">
+      <type>VISA</type>
+      <last4digits>1111</last4digits>
+      <default>true</default>
+      <cardHolderName>Bob</cardHolderName>
+      <expiryDate>194209</expiryDate>
+    </card>
+    <card id="40">
+      <type>VISA</type>
+      <last4digits>1111</last4digits>
+      <default>false</default>
+      <cardHolderName>Bob</cardHolderName>
+      <expiryDate>194209</expiryDate>
+    </card>
+  </cards>
 </response>

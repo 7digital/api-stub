@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <response status="ok" version="1.2">
-	<artist id="1" key="keane">
-		<name>Keane</name>
-		<sortname>Keane</sortname>
-		<url>http://www.7digital.com/artists/keane/?partner=0</url>
-		<image>http://artwork-cdn.7static.com/static/img/artistimages/00/000/000/0000000001_150.jpg</image>
-	</artist>
+  <artist id="1" key="keane">
+    <name>Keane</name>
+    <sortname>Keane</sortname>
+    <slug>keane</slug>
+    <image>http://artwork-cdn.7static.com/static/img/artistimages/00/000/000/0000000001_150.jpg</image>
+  </artist>
 </response>

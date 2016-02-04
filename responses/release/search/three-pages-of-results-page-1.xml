@@ -1,2276 +1,1700 @@
 <?xml version="1.0" encoding="utf-8"?>
 <response xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" status="ok" version="1.2" xsi:noNamespaceSchemaLocation="http://api.7digital.com/1.2/static/7digitalAPI.xsd">
-	<searchResults>
-		<page>1</page>
-		<pageSize>36</pageSize>
-		<totalItems>90</totalItems>
-		<searchResult>
-			<type>release</type>
-			<score>6.2147155</score>
-			<release id="858954">
-				<title>Further</title>
-				<version/>
-				<type>Album</type>
-				<barcode>5099963253054</barcode>
-				<year>2010</year>
-				<explicitContent>false</explicitContent>
-				<artist id="115">
-					<name>The Chemical Brothers</name>
-					<appearsAs>The Chemical Brothers</appearsAs>
-					<url>http://www.7digital.com/artist/the-chemical-brothers/?partner=3923</url>
-				</artist>
-				<url>http://www.7digital.com/artist/the-chemical-brothers/release/further/?partner=3923</url>
-				<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/008/589/0000858954_50.jpg</image>
-				<releaseDate>2010-06-14T00:00:00+01:00</releaseDate>
-				<addedDate>2010-05-28T11:54:21+01:00</addedDate>
-				<price>
-					<currency code="GBP">£</currency>
-					<value>7.99</value>
-					<formattedPrice>£7.99</formattedPrice>
-					<rrp>7.99</rrp>
-					<formattedRrp>£7.99</formattedRrp>
-					<onSale>false</onSale>
-				</price>
-				<download>
-					<packages>
-						<package id="2">
-							<description>standard</description>
-							<price>
-								<currencyCode>GBP</currencyCode>
-								<sevendigitalPrice>7.99</sevendigitalPrice>
-								<recommendedRetailPrice>7.99</recommendedRetailPrice>
-							</price>
-							<formats>
-								<format id="17">
-									<description>MP3 320</description>
-								</format>
-							</formats>
-						</package>
-					</packages>
-				</download>
-				<formats availableDrmFree="true">
-					<format id="17">
-						<fileFormat>MP3</fileFormat>
-						<bitRate>320</bitRate>
-						<drmFree>true</drmFree>
-					</format>
-				</formats>
-				<label id="77">
-					<name>EMI UK</name>
-				</label>
-				<licensor id="13">
-					<name>EMI</name>
-				</licensor>
-				<popularity>0.53</popularity>
-				<streamingReleaseDate>2010-06-14T00:00:00+01:00</streamingReleaseDate>
-				<duration>3120</duration>
-				<trackCount>8</trackCount>
-			</release>
-		</searchResult>
-		<searchResult>
-			<type>release</type>
-			<score>6.2147155</score>
-			<release id="858954">
-				<title>Further</title>
-				<version/>
-				<type>Album</type>
-				<barcode>5099963253054</barcode>
-				<year>2010</year>
-				<explicitContent>false</explicitContent>
-				<artist id="115">
-					<name>The Chemical Brothers</name>
-					<appearsAs>The Chemical Brothers</appearsAs>
-					<url>http://www.7digital.com/artist/the-chemical-brothers/?partner=3923</url>
-				</artist>
-				<url>http://www.7digital.com/artist/the-chemical-brothers/release/further/?partner=3923</url>
-				<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/008/589/0000858954_50.jpg</image>
-				<releaseDate>2010-06-14T00:00:00+01:00</releaseDate>
-				<addedDate>2010-05-28T11:54:21+01:00</addedDate>
-				<price>
-					<currency code="GBP">£</currency>
-					<value>7.99</value>
-					<formattedPrice>£7.99</formattedPrice>
-					<rrp>7.99</rrp>
-					<formattedRrp>£7.99</formattedRrp>
-					<onSale>false</onSale>
-				</price>
-				<download>
-					<packages>
-						<package id="2">
-							<description>standard</description>
-							<price>
-								<currencyCode>GBP</currencyCode>
-								<sevendigitalPrice>7.99</sevendigitalPrice>
-								<recommendedRetailPrice>7.99</recommendedRetailPrice>
-							</price>
-							<formats>
-								<format id="17">
-									<description>MP3 320</description>
-								</format>
-							</formats>
-						</package>
-					</packages>
-				</download>
-				<formats availableDrmFree="true">
-					<format id="17">
-						<fileFormat>MP3</fileFormat>
-						<bitRate>320</bitRate>
-						<drmFree>true</drmFree>
-					</format>
-				</formats>
-				<label id="77">
-					<name>EMI UK</name>
-				</label>
-				<licensor id="13">
-					<name>EMI</name>
-				</licensor>
-				<popularity>0.53</popularity>
-				<streamingReleaseDate>2010-06-14T00:00:00+01:00</streamingReleaseDate>
-				<duration>3120</duration>
-				<trackCount>8</trackCount>
-			</release>
-		</searchResult>
-		<searchResult>
-			<type>release</type>
-			<score>6.2147155</score>
-			<release id="858954">
-				<title>Further</title>
-				<version/>
-				<type>Album</type>
-				<barcode>5099963253054</barcode>
-				<year>2010</year>
-				<explicitContent>false</explicitContent>
-				<artist id="115">
-					<name>The Chemical Brothers</name>
-					<appearsAs>The Chemical Brothers</appearsAs>
-					<url>http://www.7digital.com/artist/the-chemical-brothers/?partner=3923</url>
-				</artist>
-				<url>http://www.7digital.com/artist/the-chemical-brothers/release/further/?partner=3923</url>
-				<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/008/589/0000858954_50.jpg</image>
-				<releaseDate>2010-06-14T00:00:00+01:00</releaseDate>
-				<addedDate>2010-05-28T11:54:21+01:00</addedDate>
-				<price>
-					<currency code="GBP">£</currency>
-					<value>7.99</value>
-					<formattedPrice>£7.99</formattedPrice>
-					<rrp>7.99</rrp>
-					<formattedRrp>£7.99</formattedRrp>
-					<onSale>false</onSale>
-				</price>
-				<download>
-					<packages>
-						<package id="2">
-							<description>standard</description>
-							<price>
-								<currencyCode>GBP</currencyCode>
-								<sevendigitalPrice>7.99</sevendigitalPrice>
-								<recommendedRetailPrice>7.99</recommendedRetailPrice>
-							</price>
-							<formats>
-								<format id="17">
-									<description>MP3 320</description>
-								</format>
-							</formats>
-						</package>
-					</packages>
-				</download>
-				<formats availableDrmFree="true">
-					<format id="17">
-						<fileFormat>MP3</fileFormat>
-						<bitRate>320</bitRate>
-						<drmFree>true</drmFree>
-					</format>
-				</formats>
-				<label id="77">
-					<name>EMI UK</name>
-				</label>
-				<licensor id="13">
-					<name>EMI</name>
-				</licensor>
-				<popularity>0.53</popularity>
-				<streamingReleaseDate>2010-06-14T00:00:00+01:00</streamingReleaseDate>
-				<duration>3120</duration>
-				<trackCount>8</trackCount>
-			</release>
-		</searchResult>
-		<searchResult>
-			<type>release</type>
-			<score>6.2147155</score>
-			<release id="858954">
-				<title>Further</title>
-				<version/>
-				<type>Album</type>
-				<barcode>5099963253054</barcode>
-				<year>2010</year>
-				<explicitContent>false</explicitContent>
-				<artist id="115">
-					<name>The Chemical Brothers</name>
-					<appearsAs>The Chemical Brothers</appearsAs>
-					<url>http://www.7digital.com/artist/the-chemical-brothers/?partner=3923</url>
-				</artist>
-				<url>http://www.7digital.com/artist/the-chemical-brothers/release/further/?partner=3923</url>
-				<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/008/589/0000858954_50.jpg</image>
-				<releaseDate>2010-06-14T00:00:00+01:00</releaseDate>
-				<addedDate>2010-05-28T11:54:21+01:00</addedDate>
-				<price>
-					<currency code="GBP">£</currency>
-					<value>7.99</value>
-					<formattedPrice>£7.99</formattedPrice>
-					<rrp>7.99</rrp>
-					<formattedRrp>£7.99</formattedRrp>
-					<onSale>false</onSale>
-				</price>
-				<download>
-					<packages>
-						<package id="2">
-							<description>standard</description>
-							<price>
-								<currencyCode>GBP</currencyCode>
-								<sevendigitalPrice>7.99</sevendigitalPrice>
-								<recommendedRetailPrice>7.99</recommendedRetailPrice>
-							</price>
-							<formats>
-								<format id="17">
-									<description>MP3 320</description>
-								</format>
-							</formats>
-						</package>
-					</packages>
-				</download>
-				<formats availableDrmFree="true">
-					<format id="17">
-						<fileFormat>MP3</fileFormat>
-						<bitRate>320</bitRate>
-						<drmFree>true</drmFree>
-					</format>
-				</formats>
-				<label id="77">
-					<name>EMI UK</name>
-				</label>
-				<licensor id="13">
-					<name>EMI</name>
-				</licensor>
-				<popularity>0.53</popularity>
-				<streamingReleaseDate>2010-06-14T00:00:00+01:00</streamingReleaseDate>
-				<duration>3120</duration>
-				<trackCount>8</trackCount>
-			</release>
-		</searchResult>
-		<searchResult>
-			<type>release</type>
-			<score>6.2147155</score>
-			<release id="858954">
-				<title>Further</title>
-				<version/>
-				<type>Album</type>
-				<barcode>5099963253054</barcode>
-				<year>2010</year>
-				<explicitContent>false</explicitContent>
-				<artist id="115">
-					<name>The Chemical Brothers</name>
-					<appearsAs>The Chemical Brothers</appearsAs>
-					<url>http://www.7digital.com/artist/the-chemical-brothers/?partner=3923</url>
-				</artist>
-				<url>http://www.7digital.com/artist/the-chemical-brothers/release/further/?partner=3923</url>
-				<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/008/589/0000858954_50.jpg</image>
-				<releaseDate>2010-06-14T00:00:00+01:00</releaseDate>
-				<addedDate>2010-05-28T11:54:21+01:00</addedDate>
-				<price>
-					<currency code="GBP">£</currency>
-					<value>7.99</value>
-					<formattedPrice>£7.99</formattedPrice>
-					<rrp>7.99</rrp>
-					<formattedRrp>£7.99</formattedRrp>
-					<onSale>false</onSale>
-				</price>
-				<download>
-					<packages>
-						<package id="2">
-							<description>standard</description>
-							<price>
-								<currencyCode>GBP</currencyCode>
-								<sevendigitalPrice>7.99</sevendigitalPrice>
-								<recommendedRetailPrice>7.99</recommendedRetailPrice>
-							</price>
-							<formats>
-								<format id="17">
-									<description>MP3 320</description>
-								</format>
-							</formats>
-						</package>
-					</packages>
-				</download>
-				<formats availableDrmFree="true">
-					<format id="17">
-						<fileFormat>MP3</fileFormat>
-						<bitRate>320</bitRate>
-						<drmFree>true</drmFree>
-					</format>
-				</formats>
-				<label id="77">
-					<name>EMI UK</name>
-				</label>
-				<licensor id="13">
-					<name>EMI</name>
-				</licensor>
-				<popularity>0.53</popularity>
-				<streamingReleaseDate>2010-06-14T00:00:00+01:00</streamingReleaseDate>
-				<duration>3120</duration>
-				<trackCount>8</trackCount>
-			</release>
-		</searchResult>
-		<searchResult>
-			<type>release</type>
-			<score>6.2147155</score>
-			<release id="858954">
-				<title>Further</title>
-				<version/>
-				<type>Album</type>
-				<barcode>5099963253054</barcode>
-				<year>2010</year>
-				<explicitContent>false</explicitContent>
-				<artist id="115">
-					<name>The Chemical Brothers</name>
-					<appearsAs>The Chemical Brothers</appearsAs>
-					<url>http://www.7digital.com/artist/the-chemical-brothers/?partner=3923</url>
-				</artist>
-				<url>http://www.7digital.com/artist/the-chemical-brothers/release/further/?partner=3923</url>
-				<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/008/589/0000858954_50.jpg</image>
-				<releaseDate>2010-06-14T00:00:00+01:00</releaseDate>
-				<addedDate>2010-05-28T11:54:21+01:00</addedDate>
-				<price>
-					<currency code="GBP">£</currency>
-					<value>7.99</value>
-					<formattedPrice>£7.99</formattedPrice>
-					<rrp>7.99</rrp>
-					<formattedRrp>£7.99</formattedRrp>
-					<onSale>false</onSale>
-				</price>
-				<download>
-					<packages>
-						<package id="2">
-							<description>standard</description>
-							<price>
-								<currencyCode>GBP</currencyCode>
-								<sevendigitalPrice>7.99</sevendigitalPrice>
-								<recommendedRetailPrice>7.99</recommendedRetailPrice>
-							</price>
-							<formats>
-								<format id="17">
-									<description>MP3 320</description>
-								</format>
-							</formats>
-						</package>
-					</packages>
-				</download>
-				<formats availableDrmFree="true">
-					<format id="17">
-						<fileFormat>MP3</fileFormat>
-						<bitRate>320</bitRate>
-						<drmFree>true</drmFree>
-					</format>
-				</formats>
-				<label id="77">
-					<name>EMI UK</name>
-				</label>
-				<licensor id="13">
-					<name>EMI</name>
-				</licensor>
-				<popularity>0.53</popularity>
-				<streamingReleaseDate>2010-06-14T00:00:00+01:00</streamingReleaseDate>
-				<duration>3120</duration>
-				<trackCount>8</trackCount>
-			</release>
-		</searchResult>
-		<searchResult>
-			<type>release</type>
-			<score>6.2147155</score>
-			<release id="858954">
-				<title>Further</title>
-				<version/>
-				<type>Album</type>
-				<barcode>5099963253054</barcode>
-				<year>2010</year>
-				<explicitContent>false</explicitContent>
-				<artist id="115">
-					<name>The Chemical Brothers</name>
-					<appearsAs>The Chemical Brothers</appearsAs>
-					<url>http://www.7digital.com/artist/the-chemical-brothers/?partner=3923</url>
-				</artist>
-				<url>http://www.7digital.com/artist/the-chemical-brothers/release/further/?partner=3923</url>
-				<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/008/589/0000858954_50.jpg</image>
-				<releaseDate>2010-06-14T00:00:00+01:00</releaseDate>
-				<addedDate>2010-05-28T11:54:21+01:00</addedDate>
-				<price>
-					<currency code="GBP">£</currency>
-					<value>7.99</value>
-					<formattedPrice>£7.99</formattedPrice>
-					<rrp>7.99</rrp>
-					<formattedRrp>£7.99</formattedRrp>
-					<onSale>false</onSale>
-				</price>
-				<download>
-					<packages>
-						<package id="2">
-							<description>standard</description>
-							<price>
-								<currencyCode>GBP</currencyCode>
-								<sevendigitalPrice>7.99</sevendigitalPrice>
-								<recommendedRetailPrice>7.99</recommendedRetailPrice>
-							</price>
-							<formats>
-								<format id="17">
-									<description>MP3 320</description>
-								</format>
-							</formats>
-						</package>
-					</packages>
-				</download>
-				<formats availableDrmFree="true">
-					<format id="17">
-						<fileFormat>MP3</fileFormat>
-						<bitRate>320</bitRate>
-						<drmFree>true</drmFree>
-					</format>
-				</formats>
-				<label id="77">
-					<name>EMI UK</name>
-				</label>
-				<licensor id="13">
-					<name>EMI</name>
-				</licensor>
-				<popularity>0.53</popularity>
-				<streamingReleaseDate>2010-06-14T00:00:00+01:00</streamingReleaseDate>
-				<duration>3120</duration>
-				<trackCount>8</trackCount>
-			</release>
-		</searchResult>
-		<searchResult>
-			<type>release</type>
-			<score>6.2147155</score>
-			<release id="858954">
-				<title>Further</title>
-				<version/>
-				<type>Album</type>
-				<barcode>5099963253054</barcode>
-				<year>2010</year>
-				<explicitContent>false</explicitContent>
-				<artist id="115">
-					<name>The Chemical Brothers</name>
-					<appearsAs>The Chemical Brothers</appearsAs>
-					<url>http://www.7digital.com/artist/the-chemical-brothers/?partner=3923</url>
-				</artist>
-				<url>http://www.7digital.com/artist/the-chemical-brothers/release/further/?partner=3923</url>
-				<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/008/589/0000858954_50.jpg</image>
-				<releaseDate>2010-06-14T00:00:00+01:00</releaseDate>
-				<addedDate>2010-05-28T11:54:21+01:00</addedDate>
-				<price>
-					<currency code="GBP">£</currency>
-					<value>7.99</value>
-					<formattedPrice>£7.99</formattedPrice>
-					<rrp>7.99</rrp>
-					<formattedRrp>£7.99</formattedRrp>
-					<onSale>false</onSale>
-				</price>
-				<download>
-					<packages>
-						<package id="2">
-							<description>standard</description>
-							<price>
-								<currencyCode>GBP</currencyCode>
-								<sevendigitalPrice>7.99</sevendigitalPrice>
-								<recommendedRetailPrice>7.99</recommendedRetailPrice>
-							</price>
-							<formats>
-								<format id="17">
-									<description>MP3 320</description>
-								</format>
-							</formats>
-						</package>
-					</packages>
-				</download>
-				<formats availableDrmFree="true">
-					<format id="17">
-						<fileFormat>MP3</fileFormat>
-						<bitRate>320</bitRate>
-						<drmFree>true</drmFree>
-					</format>
-				</formats>
-				<label id="77">
-					<name>EMI UK</name>
-				</label>
-				<licensor id="13">
-					<name>EMI</name>
-				</licensor>
-				<popularity>0.53</popularity>
-				<streamingReleaseDate>2010-06-14T00:00:00+01:00</streamingReleaseDate>
-				<duration>3120</duration>
-				<trackCount>8</trackCount>
-			</release>
-		</searchResult>
-		<searchResult>
-			<type>release</type>
-			<score>6.2147155</score>
-			<release id="858954">
-				<title>Further</title>
-				<version/>
-				<type>Album</type>
-				<barcode>5099963253054</barcode>
-				<year>2010</year>
-				<explicitContent>false</explicitContent>
-				<artist id="115">
-					<name>The Chemical Brothers</name>
-					<appearsAs>The Chemical Brothers</appearsAs>
-					<url>http://www.7digital.com/artist/the-chemical-brothers/?partner=3923</url>
-				</artist>
-				<url>http://www.7digital.com/artist/the-chemical-brothers/release/further/?partner=3923</url>
-				<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/008/589/0000858954_50.jpg</image>
-				<releaseDate>2010-06-14T00:00:00+01:00</releaseDate>
-				<addedDate>2010-05-28T11:54:21+01:00</addedDate>
-				<price>
-					<currency code="GBP">£</currency>
-					<value>7.99</value>
-					<formattedPrice>£7.99</formattedPrice>
-					<rrp>7.99</rrp>
-					<formattedRrp>£7.99</formattedRrp>
-					<onSale>false</onSale>
-				</price>
-				<download>
-					<packages>
-						<package id="2">
-							<description>standard</description>
-							<price>
-								<currencyCode>GBP</currencyCode>
-								<sevendigitalPrice>7.99</sevendigitalPrice>
-								<recommendedRetailPrice>7.99</recommendedRetailPrice>
-							</price>
-							<formats>
-								<format id="17">
-									<description>MP3 320</description>
-								</format>
-							</formats>
-						</package>
-					</packages>
-				</download>
-				<formats availableDrmFree="true">
-					<format id="17">
-						<fileFormat>MP3</fileFormat>
-						<bitRate>320</bitRate>
-						<drmFree>true</drmFree>
-					</format>
-				</formats>
-				<label id="77">
-					<name>EMI UK</name>
-				</label>
-				<licensor id="13">
-					<name>EMI</name>
-				</licensor>
-				<popularity>0.53</popularity>
-				<streamingReleaseDate>2010-06-14T00:00:00+01:00</streamingReleaseDate>
-				<duration>3120</duration>
-				<trackCount>8</trackCount>
-			</release>
-		</searchResult>
-		<searchResult>
-			<type>release</type>
-			<score>6.2147155</score>
-			<release id="858954">
-				<title>Further</title>
-				<version/>
-				<type>Album</type>
-				<barcode>5099963253054</barcode>
-				<year>2010</year>
-				<explicitContent>false</explicitContent>
-				<artist id="115">
-					<name>The Chemical Brothers</name>
-					<appearsAs>The Chemical Brothers</appearsAs>
-					<url>http://www.7digital.com/artist/the-chemical-brothers/?partner=3923</url>
-				</artist>
-				<url>http://www.7digital.com/artist/the-chemical-brothers/release/further/?partner=3923</url>
-				<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/008/589/0000858954_50.jpg</image>
-				<releaseDate>2010-06-14T00:00:00+01:00</releaseDate>
-				<addedDate>2010-05-28T11:54:21+01:00</addedDate>
-				<price>
-					<currency code="GBP">£</currency>
-					<value>7.99</value>
-					<formattedPrice>£7.99</formattedPrice>
-					<rrp>7.99</rrp>
-					<formattedRrp>£7.99</formattedRrp>
-					<onSale>false</onSale>
-				</price>
-				<download>
-					<packages>
-						<package id="2">
-							<description>standard</description>
-							<price>
-								<currencyCode>GBP</currencyCode>
-								<sevendigitalPrice>7.99</sevendigitalPrice>
-								<recommendedRetailPrice>7.99</recommendedRetailPrice>
-							</price>
-							<formats>
-								<format id="17">
-									<description>MP3 320</description>
-								</format>
-							</formats>
-						</package>
-					</packages>
-				</download>
-				<formats availableDrmFree="true">
-					<format id="17">
-						<fileFormat>MP3</fileFormat>
-						<bitRate>320</bitRate>
-						<drmFree>true</drmFree>
-					</format>
-				</formats>
-				<label id="77">
-					<name>EMI UK</name>
-				</label>
-				<licensor id="13">
-					<name>EMI</name>
-				</licensor>
-				<popularity>0.53</popularity>
-				<streamingReleaseDate>2010-06-14T00:00:00+01:00</streamingReleaseDate>
-				<duration>3120</duration>
-				<trackCount>8</trackCount>
-			</release>
-		</searchResult>
-		<searchResult>
-			<type>release</type>
-			<score>6.2147155</score>
-			<release id="858954">
-				<title>Further</title>
-				<version/>
-				<type>Album</type>
-				<barcode>5099963253054</barcode>
-				<year>2010</year>
-				<explicitContent>false</explicitContent>
-				<artist id="115">
-					<name>The Chemical Brothers</name>
-					<appearsAs>The Chemical Brothers</appearsAs>
-					<url>http://www.7digital.com/artist/the-chemical-brothers/?partner=3923</url>
-				</artist>
-				<url>http://www.7digital.com/artist/the-chemical-brothers/release/further/?partner=3923</url>
-				<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/008/589/0000858954_50.jpg</image>
-				<releaseDate>2010-06-14T00:00:00+01:00</releaseDate>
-				<addedDate>2010-05-28T11:54:21+01:00</addedDate>
-				<price>
-					<currency code="GBP">£</currency>
-					<value>7.99</value>
-					<formattedPrice>£7.99</formattedPrice>
-					<rrp>7.99</rrp>
-					<formattedRrp>£7.99</formattedRrp>
-					<onSale>false</onSale>
-				</price>
-				<download>
-					<packages>
-						<package id="2">
-							<description>standard</description>
-							<price>
-								<currencyCode>GBP</currencyCode>
-								<sevendigitalPrice>7.99</sevendigitalPrice>
-								<recommendedRetailPrice>7.99</recommendedRetailPrice>
-							</price>
-							<formats>
-								<format id="17">
-									<description>MP3 320</description>
-								</format>
-							</formats>
-						</package>
-					</packages>
-				</download>
-				<formats availableDrmFree="true">
-					<format id="17">
-						<fileFormat>MP3</fileFormat>
-						<bitRate>320</bitRate>
-						<drmFree>true</drmFree>
-					</format>
-				</formats>
-				<label id="77">
-					<name>EMI UK</name>
-				</label>
-				<licensor id="13">
-					<name>EMI</name>
-				</licensor>
-				<popularity>0.53</popularity>
-				<streamingReleaseDate>2010-06-14T00:00:00+01:00</streamingReleaseDate>
-				<duration>3120</duration>
-				<trackCount>8</trackCount>
-			</release>
-		</searchResult>
-		<searchResult>
-			<type>release</type>
-			<score>6.2147155</score>
-			<release id="858954">
-				<title>Further</title>
-				<version/>
-				<type>Album</type>
-				<barcode>5099963253054</barcode>
-				<year>2010</year>
-				<explicitContent>false</explicitContent>
-				<artist id="115">
-					<name>The Chemical Brothers</name>
-					<appearsAs>The Chemical Brothers</appearsAs>
-					<url>http://www.7digital.com/artist/the-chemical-brothers/?partner=3923</url>
-				</artist>
-				<url>http://www.7digital.com/artist/the-chemical-brothers/release/further/?partner=3923</url>
-				<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/008/589/0000858954_50.jpg</image>
-				<releaseDate>2010-06-14T00:00:00+01:00</releaseDate>
-				<addedDate>2010-05-28T11:54:21+01:00</addedDate>
-				<price>
-					<currency code="GBP">£</currency>
-					<value>7.99</value>
-					<formattedPrice>£7.99</formattedPrice>
-					<rrp>7.99</rrp>
-					<formattedRrp>£7.99</formattedRrp>
-					<onSale>false</onSale>
-				</price>
-				<download>
-					<packages>
-						<package id="2">
-							<description>standard</description>
-							<price>
-								<currencyCode>GBP</currencyCode>
-								<sevendigitalPrice>7.99</sevendigitalPrice>
-								<recommendedRetailPrice>7.99</recommendedRetailPrice>
-							</price>
-							<formats>
-								<format id="17">
-									<description>MP3 320</description>
-								</format>
-							</formats>
-						</package>
-					</packages>
-				</download>
-				<formats availableDrmFree="true">
-					<format id="17">
-						<fileFormat>MP3</fileFormat>
-						<bitRate>320</bitRate>
-						<drmFree>true</drmFree>
-					</format>
-				</formats>
-				<label id="77">
-					<name>EMI UK</name>
-				</label>
-				<licensor id="13">
-					<name>EMI</name>
-				</licensor>
-				<popularity>0.53</popularity>
-				<streamingReleaseDate>2010-06-14T00:00:00+01:00</streamingReleaseDate>
-				<duration>3120</duration>
-				<trackCount>8</trackCount>
-			</release>
-		</searchResult>
-		<searchResult>
-			<type>release</type>
-			<score>6.2147155</score>
-			<release id="858954">
-				<title>Further</title>
-				<version/>
-				<type>Album</type>
-				<barcode>5099963253054</barcode>
-				<year>2010</year>
-				<explicitContent>false</explicitContent>
-				<artist id="115">
-					<name>The Chemical Brothers</name>
-					<appearsAs>The Chemical Brothers</appearsAs>
-					<url>http://www.7digital.com/artist/the-chemical-brothers/?partner=3923</url>
-				</artist>
-				<url>http://www.7digital.com/artist/the-chemical-brothers/release/further/?partner=3923</url>
-				<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/008/589/0000858954_50.jpg</image>
-				<releaseDate>2010-06-14T00:00:00+01:00</releaseDate>
-				<addedDate>2010-05-28T11:54:21+01:00</addedDate>
-				<price>
-					<currency code="GBP">£</currency>
-					<value>7.99</value>
-					<formattedPrice>£7.99</formattedPrice>
-					<rrp>7.99</rrp>
-					<formattedRrp>£7.99</formattedRrp>
-					<onSale>false</onSale>
-				</price>
-				<download>
-					<packages>
-						<package id="2">
-							<description>standard</description>
-							<price>
-								<currencyCode>GBP</currencyCode>
-								<sevendigitalPrice>7.99</sevendigitalPrice>
-								<recommendedRetailPrice>7.99</recommendedRetailPrice>
-							</price>
-							<formats>
-								<format id="17">
-									<description>MP3 320</description>
-								</format>
-							</formats>
-						</package>
-					</packages>
-				</download>
-				<formats availableDrmFree="true">
-					<format id="17">
-						<fileFormat>MP3</fileFormat>
-						<bitRate>320</bitRate>
-						<drmFree>true</drmFree>
-					</format>
-				</formats>
-				<label id="77">
-					<name>EMI UK</name>
-				</label>
-				<licensor id="13">
-					<name>EMI</name>
-				</licensor>
-				<popularity>0.53</popularity>
-				<streamingReleaseDate>2010-06-14T00:00:00+01:00</streamingReleaseDate>
-				<duration>3120</duration>
-				<trackCount>8</trackCount>
-			</release>
-		</searchResult>
-		<searchResult>
-			<type>release</type>
-			<score>6.2147155</score>
-			<release id="858954">
-				<title>Further</title>
-				<version/>
-				<type>Album</type>
-				<barcode>5099963253054</barcode>
-				<year>2010</year>
-				<explicitContent>false</explicitContent>
-				<artist id="115">
-					<name>The Chemical Brothers</name>
-					<appearsAs>The Chemical Brothers</appearsAs>
-					<url>http://www.7digital.com/artist/the-chemical-brothers/?partner=3923</url>
-				</artist>
-				<url>http://www.7digital.com/artist/the-chemical-brothers/release/further/?partner=3923</url>
-				<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/008/589/0000858954_50.jpg</image>
-				<releaseDate>2010-06-14T00:00:00+01:00</releaseDate>
-				<addedDate>2010-05-28T11:54:21+01:00</addedDate>
-				<price>
-					<currency code="GBP">£</currency>
-					<value>7.99</value>
-					<formattedPrice>£7.99</formattedPrice>
-					<rrp>7.99</rrp>
-					<formattedRrp>£7.99</formattedRrp>
-					<onSale>false</onSale>
-				</price>
-				<download>
-					<packages>
-						<package id="2">
-							<description>standard</description>
-							<price>
-								<currencyCode>GBP</currencyCode>
-								<sevendigitalPrice>7.99</sevendigitalPrice>
-								<recommendedRetailPrice>7.99</recommendedRetailPrice>
-							</price>
-							<formats>
-								<format id="17">
-									<description>MP3 320</description>
-								</format>
-							</formats>
-						</package>
-					</packages>
-				</download>
-				<formats availableDrmFree="true">
-					<format id="17">
-						<fileFormat>MP3</fileFormat>
-						<bitRate>320</bitRate>
-						<drmFree>true</drmFree>
-					</format>
-				</formats>
-				<label id="77">
-					<name>EMI UK</name>
-				</label>
-				<licensor id="13">
-					<name>EMI</name>
-				</licensor>
-				<popularity>0.53</popularity>
-				<streamingReleaseDate>2010-06-14T00:00:00+01:00</streamingReleaseDate>
-				<duration>3120</duration>
-				<trackCount>8</trackCount>
-			</release>
-		</searchResult>
-		<searchResult>
-			<type>release</type>
-			<score>6.2147155</score>
-			<release id="858954">
-				<title>Further</title>
-				<version/>
-				<type>Album</type>
-				<barcode>5099963253054</barcode>
-				<year>2010</year>
-				<explicitContent>false</explicitContent>
-				<artist id="115">
-					<name>The Chemical Brothers</name>
-					<appearsAs>The Chemical Brothers</appearsAs>
-					<url>http://www.7digital.com/artist/the-chemical-brothers/?partner=3923</url>
-				</artist>
-				<url>http://www.7digital.com/artist/the-chemical-brothers/release/further/?partner=3923</url>
-				<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/008/589/0000858954_50.jpg</image>
-				<releaseDate>2010-06-14T00:00:00+01:00</releaseDate>
-				<addedDate>2010-05-28T11:54:21+01:00</addedDate>
-				<price>
-					<currency code="GBP">£</currency>
-					<value>7.99</value>
-					<formattedPrice>£7.99</formattedPrice>
-					<rrp>7.99</rrp>
-					<formattedRrp>£7.99</formattedRrp>
-					<onSale>false</onSale>
-				</price>
-				<download>
-					<packages>
-						<package id="2">
-							<description>standard</description>
-							<price>
-								<currencyCode>GBP</currencyCode>
-								<sevendigitalPrice>7.99</sevendigitalPrice>
-								<recommendedRetailPrice>7.99</recommendedRetailPrice>
-							</price>
-							<formats>
-								<format id="17">
-									<description>MP3 320</description>
-								</format>
-							</formats>
-						</package>
-					</packages>
-				</download>
-				<formats availableDrmFree="true">
-					<format id="17">
-						<fileFormat>MP3</fileFormat>
-						<bitRate>320</bitRate>
-						<drmFree>true</drmFree>
-					</format>
-				</formats>
-				<label id="77">
-					<name>EMI UK</name>
-				</label>
-				<licensor id="13">
-					<name>EMI</name>
-				</licensor>
-				<popularity>0.53</popularity>
-				<streamingReleaseDate>2010-06-14T00:00:00+01:00</streamingReleaseDate>
-				<duration>3120</duration>
-				<trackCount>8</trackCount>
-			</release>
-		</searchResult>
-		<searchResult>
-			<type>release</type>
-			<score>6.2147155</score>
-			<release id="858954">
-				<title>Further</title>
-				<version/>
-				<type>Album</type>
-				<barcode>5099963253054</barcode>
-				<year>2010</year>
-				<explicitContent>false</explicitContent>
-				<artist id="115">
-					<name>The Chemical Brothers</name>
-					<appearsAs>The Chemical Brothers</appearsAs>
-					<url>http://www.7digital.com/artist/the-chemical-brothers/?partner=3923</url>
-				</artist>
-				<url>http://www.7digital.com/artist/the-chemical-brothers/release/further/?partner=3923</url>
-				<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/008/589/0000858954_50.jpg</image>
-				<releaseDate>2010-06-14T00:00:00+01:00</releaseDate>
-				<addedDate>2010-05-28T11:54:21+01:00</addedDate>
-				<price>
-					<currency code="GBP">£</currency>
-					<value>7.99</value>
-					<formattedPrice>£7.99</formattedPrice>
-					<rrp>7.99</rrp>
-					<formattedRrp>£7.99</formattedRrp>
-					<onSale>false</onSale>
-				</price>
-				<download>
-					<packages>
-						<package id="2">
-							<description>standard</description>
-							<price>
-								<currencyCode>GBP</currencyCode>
-								<sevendigitalPrice>7.99</sevendigitalPrice>
-								<recommendedRetailPrice>7.99</recommendedRetailPrice>
-							</price>
-							<formats>
-								<format id="17">
-									<description>MP3 320</description>
-								</format>
-							</formats>
-						</package>
-					</packages>
-				</download>
-				<formats availableDrmFree="true">
-					<format id="17">
-						<fileFormat>MP3</fileFormat>
-						<bitRate>320</bitRate>
-						<drmFree>true</drmFree>
-					</format>
-				</formats>
-				<label id="77">
-					<name>EMI UK</name>
-				</label>
-				<licensor id="13">
-					<name>EMI</name>
-				</licensor>
-				<popularity>0.53</popularity>
-				<streamingReleaseDate>2010-06-14T00:00:00+01:00</streamingReleaseDate>
-				<duration>3120</duration>
-				<trackCount>8</trackCount>
-			</release>
-		</searchResult>
-		<searchResult>
-			<type>release</type>
-			<score>6.2147155</score>
-			<release id="858954">
-				<title>Further</title>
-				<version/>
-				<type>Album</type>
-				<barcode>5099963253054</barcode>
-				<year>2010</year>
-				<explicitContent>false</explicitContent>
-				<artist id="115">
-					<name>The Chemical Brothers</name>
-					<appearsAs>The Chemical Brothers</appearsAs>
-					<url>http://www.7digital.com/artist/the-chemical-brothers/?partner=3923</url>
-				</artist>
-				<url>http://www.7digital.com/artist/the-chemical-brothers/release/further/?partner=3923</url>
-				<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/008/589/0000858954_50.jpg</image>
-				<releaseDate>2010-06-14T00:00:00+01:00</releaseDate>
-				<addedDate>2010-05-28T11:54:21+01:00</addedDate>
-				<price>
-					<currency code="GBP">£</currency>
-					<value>7.99</value>
-					<formattedPrice>£7.99</formattedPrice>
-					<rrp>7.99</rrp>
-					<formattedRrp>£7.99</formattedRrp>
-					<onSale>false</onSale>
-				</price>
-				<download>
-					<packages>
-						<package id="2">
-							<description>standard</description>
-							<price>
-								<currencyCode>GBP</currencyCode>
-								<sevendigitalPrice>7.99</sevendigitalPrice>
-								<recommendedRetailPrice>7.99</recommendedRetailPrice>
-							</price>
-							<formats>
-								<format id="17">
-									<description>MP3 320</description>
-								</format>
-							</formats>
-						</package>
-					</packages>
-				</download>
-				<formats availableDrmFree="true">
-					<format id="17">
-						<fileFormat>MP3</fileFormat>
-						<bitRate>320</bitRate>
-						<drmFree>true</drmFree>
-					</format>
-				</formats>
-				<label id="77">
-					<name>EMI UK</name>
-				</label>
-				<licensor id="13">
-					<name>EMI</name>
-				</licensor>
-				<popularity>0.53</popularity>
-				<streamingReleaseDate>2010-06-14T00:00:00+01:00</streamingReleaseDate>
-				<duration>3120</duration>
-				<trackCount>8</trackCount>
-			</release>
-		</searchResult>
-		<searchResult>
-			<type>release</type>
-			<score>6.2147155</score>
-			<release id="858954">
-				<title>Further</title>
-				<version/>
-				<type>Album</type>
-				<barcode>5099963253054</barcode>
-				<year>2010</year>
-				<explicitContent>false</explicitContent>
-				<artist id="115">
-					<name>The Chemical Brothers</name>
-					<appearsAs>The Chemical Brothers</appearsAs>
-					<url>http://www.7digital.com/artist/the-chemical-brothers/?partner=3923</url>
-				</artist>
-				<url>http://www.7digital.com/artist/the-chemical-brothers/release/further/?partner=3923</url>
-				<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/008/589/0000858954_50.jpg</image>
-				<releaseDate>2010-06-14T00:00:00+01:00</releaseDate>
-				<addedDate>2010-05-28T11:54:21+01:00</addedDate>
-				<price>
-					<currency code="GBP">£</currency>
-					<value>7.99</value>
-					<formattedPrice>£7.99</formattedPrice>
-					<rrp>7.99</rrp>
-					<formattedRrp>£7.99</formattedRrp>
-					<onSale>false</onSale>
-				</price>
-				<download>
-					<packages>
-						<package id="2">
-							<description>standard</description>
-							<price>
-								<currencyCode>GBP</currencyCode>
-								<sevendigitalPrice>7.99</sevendigitalPrice>
-								<recommendedRetailPrice>7.99</recommendedRetailPrice>
-							</price>
-							<formats>
-								<format id="17">
-									<description>MP3 320</description>
-								</format>
-							</formats>
-						</package>
-					</packages>
-				</download>
-				<formats availableDrmFree="true">
-					<format id="17">
-						<fileFormat>MP3</fileFormat>
-						<bitRate>320</bitRate>
-						<drmFree>true</drmFree>
-					</format>
-				</formats>
-				<label id="77">
-					<name>EMI UK</name>
-				</label>
-				<licensor id="13">
-					<name>EMI</name>
-				</licensor>
-				<popularity>0.53</popularity>
-				<streamingReleaseDate>2010-06-14T00:00:00+01:00</streamingReleaseDate>
-				<duration>3120</duration>
-				<trackCount>8</trackCount>
-			</release>
-		</searchResult>
-		<searchResult>
-			<type>release</type>
-			<score>6.2147155</score>
-			<release id="858954">
-				<title>Further</title>
-				<version/>
-				<type>Album</type>
-				<barcode>5099963253054</barcode>
-				<year>2010</year>
-				<explicitContent>false</explicitContent>
-				<artist id="115">
-					<name>The Chemical Brothers</name>
-					<appearsAs>The Chemical Brothers</appearsAs>
-					<url>http://www.7digital.com/artist/the-chemical-brothers/?partner=3923</url>
-				</artist>
-				<url>http://www.7digital.com/artist/the-chemical-brothers/release/further/?partner=3923</url>
-				<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/008/589/0000858954_50.jpg</image>
-				<releaseDate>2010-06-14T00:00:00+01:00</releaseDate>
-				<addedDate>2010-05-28T11:54:21+01:00</addedDate>
-				<price>
-					<currency code="GBP">£</currency>
-					<value>7.99</value>
-					<formattedPrice>£7.99</formattedPrice>
-					<rrp>7.99</rrp>
-					<formattedRrp>£7.99</formattedRrp>
-					<onSale>false</onSale>
-				</price>
-				<download>
-					<packages>
-						<package id="2">
-							<description>standard</description>
-							<price>
-								<currencyCode>GBP</currencyCode>
-								<sevendigitalPrice>7.99</sevendigitalPrice>
-								<recommendedRetailPrice>7.99</recommendedRetailPrice>
-							</price>
-							<formats>
-								<format id="17">
-									<description>MP3 320</description>
-								</format>
-							</formats>
-						</package>
-					</packages>
-				</download>
-				<formats availableDrmFree="true">
-					<format id="17">
-						<fileFormat>MP3</fileFormat>
-						<bitRate>320</bitRate>
-						<drmFree>true</drmFree>
-					</format>
-				</formats>
-				<label id="77">
-					<name>EMI UK</name>
-				</label>
-				<licensor id="13">
-					<name>EMI</name>
-				</licensor>
-				<popularity>0.53</popularity>
-				<streamingReleaseDate>2010-06-14T00:00:00+01:00</streamingReleaseDate>
-				<duration>3120</duration>
-				<trackCount>8</trackCount>
-			</release>
-		</searchResult>
-		<searchResult>
-			<type>release</type>
-			<score>6.2147155</score>
-			<release id="858954">
-				<title>Further</title>
-				<version/>
-				<type>Album</type>
-				<barcode>5099963253054</barcode>
-				<year>2010</year>
-				<explicitContent>false</explicitContent>
-				<artist id="115">
-					<name>The Chemical Brothers</name>
-					<appearsAs>The Chemical Brothers</appearsAs>
-					<url>http://www.7digital.com/artist/the-chemical-brothers/?partner=3923</url>
-				</artist>
-				<url>http://www.7digital.com/artist/the-chemical-brothers/release/further/?partner=3923</url>
-				<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/008/589/0000858954_50.jpg</image>
-				<releaseDate>2010-06-14T00:00:00+01:00</releaseDate>
-				<addedDate>2010-05-28T11:54:21+01:00</addedDate>
-				<price>
-					<currency code="GBP">£</currency>
-					<value>7.99</value>
-					<formattedPrice>£7.99</formattedPrice>
-					<rrp>7.99</rrp>
-					<formattedRrp>£7.99</formattedRrp>
-					<onSale>false</onSale>
-				</price>
-				<download>
-					<packages>
-						<package id="2">
-							<description>standard</description>
-							<price>
-								<currencyCode>GBP</currencyCode>
-								<sevendigitalPrice>7.99</sevendigitalPrice>
-								<recommendedRetailPrice>7.99</recommendedRetailPrice>
-							</price>
-							<formats>
-								<format id="17">
-									<description>MP3 320</description>
-								</format>
-							</formats>
-						</package>
-					</packages>
-				</download>
-				<formats availableDrmFree="true">
-					<format id="17">
-						<fileFormat>MP3</fileFormat>
-						<bitRate>320</bitRate>
-						<drmFree>true</drmFree>
-					</format>
-				</formats>
-				<label id="77">
-					<name>EMI UK</name>
-				</label>
-				<licensor id="13">
-					<name>EMI</name>
-				</licensor>
-				<popularity>0.53</popularity>
-				<streamingReleaseDate>2010-06-14T00:00:00+01:00</streamingReleaseDate>
-				<duration>3120</duration>
-				<trackCount>8</trackCount>
-			</release>
-		</searchResult>
-		<searchResult>
-			<type>release</type>
-			<score>6.2147155</score>
-			<release id="858954">
-				<title>Further</title>
-				<version/>
-				<type>Album</type>
-				<barcode>5099963253054</barcode>
-				<year>2010</year>
-				<explicitContent>false</explicitContent>
-				<artist id="115">
-					<name>The Chemical Brothers</name>
-					<appearsAs>The Chemical Brothers</appearsAs>
-					<url>http://www.7digital.com/artist/the-chemical-brothers/?partner=3923</url>
-				</artist>
-				<url>http://www.7digital.com/artist/the-chemical-brothers/release/further/?partner=3923</url>
-				<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/008/589/0000858954_50.jpg</image>
-				<releaseDate>2010-06-14T00:00:00+01:00</releaseDate>
-				<addedDate>2010-05-28T11:54:21+01:00</addedDate>
-				<price>
-					<currency code="GBP">£</currency>
-					<value>7.99</value>
-					<formattedPrice>£7.99</formattedPrice>
-					<rrp>7.99</rrp>
-					<formattedRrp>£7.99</formattedRrp>
-					<onSale>false</onSale>
-				</price>
-				<download>
-					<packages>
-						<package id="2">
-							<description>standard</description>
-							<price>
-								<currencyCode>GBP</currencyCode>
-								<sevendigitalPrice>7.99</sevendigitalPrice>
-								<recommendedRetailPrice>7.99</recommendedRetailPrice>
-							</price>
-							<formats>
-								<format id="17">
-									<description>MP3 320</description>
-								</format>
-							</formats>
-						</package>
-					</packages>
-				</download>
-				<formats availableDrmFree="true">
-					<format id="17">
-						<fileFormat>MP3</fileFormat>
-						<bitRate>320</bitRate>
-						<drmFree>true</drmFree>
-					</format>
-				</formats>
-				<label id="77">
-					<name>EMI UK</name>
-				</label>
-				<licensor id="13">
-					<name>EMI</name>
-				</licensor>
-				<popularity>0.53</popularity>
-				<streamingReleaseDate>2010-06-14T00:00:00+01:00</streamingReleaseDate>
-				<duration>3120</duration>
-				<trackCount>8</trackCount>
-			</release>
-		</searchResult>
-		<searchResult>
-			<type>release</type>
-			<score>6.2147155</score>
-			<release id="858954">
-				<title>Further</title>
-				<version/>
-				<type>Album</type>
-				<barcode>5099963253054</barcode>
-				<year>2010</year>
-				<explicitContent>false</explicitContent>
-				<artist id="115">
-					<name>The Chemical Brothers</name>
-					<appearsAs>The Chemical Brothers</appearsAs>
-					<url>http://www.7digital.com/artist/the-chemical-brothers/?partner=3923</url>
-				</artist>
-				<url>http://www.7digital.com/artist/the-chemical-brothers/release/further/?partner=3923</url>
-				<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/008/589/0000858954_50.jpg</image>
-				<releaseDate>2010-06-14T00:00:00+01:00</releaseDate>
-				<addedDate>2010-05-28T11:54:21+01:00</addedDate>
-				<price>
-					<currency code="GBP">£</currency>
-					<value>7.99</value>
-					<formattedPrice>£7.99</formattedPrice>
-					<rrp>7.99</rrp>
-					<formattedRrp>£7.99</formattedRrp>
-					<onSale>false</onSale>
-				</price>
-				<download>
-					<packages>
-						<package id="2">
-							<description>standard</description>
-							<price>
-								<currencyCode>GBP</currencyCode>
-								<sevendigitalPrice>7.99</sevendigitalPrice>
-								<recommendedRetailPrice>7.99</recommendedRetailPrice>
-							</price>
-							<formats>
-								<format id="17">
-									<description>MP3 320</description>
-								</format>
-							</formats>
-						</package>
-					</packages>
-				</download>
-				<formats availableDrmFree="true">
-					<format id="17">
-						<fileFormat>MP3</fileFormat>
-						<bitRate>320</bitRate>
-						<drmFree>true</drmFree>
-					</format>
-				</formats>
-				<label id="77">
-					<name>EMI UK</name>
-				</label>
-				<licensor id="13">
-					<name>EMI</name>
-				</licensor>
-				<popularity>0.53</popularity>
-				<streamingReleaseDate>2010-06-14T00:00:00+01:00</streamingReleaseDate>
-				<duration>3120</duration>
-				<trackCount>8</trackCount>
-			</release>
-		</searchResult>
-		<searchResult>
-			<type>release</type>
-			<score>6.2147155</score>
-			<release id="858954">
-				<title>Further</title>
-				<version/>
-				<type>Album</type>
-				<barcode>5099963253054</barcode>
-				<year>2010</year>
-				<explicitContent>false</explicitContent>
-				<artist id="115">
-					<name>The Chemical Brothers</name>
-					<appearsAs>The Chemical Brothers</appearsAs>
-					<url>http://www.7digital.com/artist/the-chemical-brothers/?partner=3923</url>
-				</artist>
-				<url>http://www.7digital.com/artist/the-chemical-brothers/release/further/?partner=3923</url>
-				<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/008/589/0000858954_50.jpg</image>
-				<releaseDate>2010-06-14T00:00:00+01:00</releaseDate>
-				<addedDate>2010-05-28T11:54:21+01:00</addedDate>
-				<price>
-					<currency code="GBP">£</currency>
-					<value>7.99</value>
-					<formattedPrice>£7.99</formattedPrice>
-					<rrp>7.99</rrp>
-					<formattedRrp>£7.99</formattedRrp>
-					<onSale>false</onSale>
-				</price>
-				<download>
-					<packages>
-						<package id="2">
-							<description>standard</description>
-							<price>
-								<currencyCode>GBP</currencyCode>
-								<sevendigitalPrice>7.99</sevendigitalPrice>
-								<recommendedRetailPrice>7.99</recommendedRetailPrice>
-							</price>
-							<formats>
-								<format id="17">
-									<description>MP3 320</description>
-								</format>
-							</formats>
-						</package>
-					</packages>
-				</download>
-				<formats availableDrmFree="true">
-					<format id="17">
-						<fileFormat>MP3</fileFormat>
-						<bitRate>320</bitRate>
-						<drmFree>true</drmFree>
-					</format>
-				</formats>
-				<label id="77">
-					<name>EMI UK</name>
-				</label>
-				<licensor id="13">
-					<name>EMI</name>
-				</licensor>
-				<popularity>0.53</popularity>
-				<streamingReleaseDate>2010-06-14T00:00:00+01:00</streamingReleaseDate>
-				<duration>3120</duration>
-				<trackCount>8</trackCount>
-			</release>
-		</searchResult>
-		<searchResult>
-			<type>release</type>
-			<score>6.2147155</score>
-			<release id="858954">
-				<title>Further</title>
-				<version/>
-				<type>Album</type>
-				<barcode>5099963253054</barcode>
-				<year>2010</year>
-				<explicitContent>false</explicitContent>
-				<artist id="115">
-					<name>The Chemical Brothers</name>
-					<appearsAs>The Chemical Brothers</appearsAs>
-					<url>http://www.7digital.com/artist/the-chemical-brothers/?partner=3923</url>
-				</artist>
-				<url>http://www.7digital.com/artist/the-chemical-brothers/release/further/?partner=3923</url>
-				<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/008/589/0000858954_50.jpg</image>
-				<releaseDate>2010-06-14T00:00:00+01:00</releaseDate>
-				<addedDate>2010-05-28T11:54:21+01:00</addedDate>
-				<price>
-					<currency code="GBP">£</currency>
-					<value>7.99</value>
-					<formattedPrice>£7.99</formattedPrice>
-					<rrp>7.99</rrp>
-					<formattedRrp>£7.99</formattedRrp>
-					<onSale>false</onSale>
-				</price>
-				<download>
-					<packages>
-						<package id="2">
-							<description>standard</description>
-							<price>
-								<currencyCode>GBP</currencyCode>
-								<sevendigitalPrice>7.99</sevendigitalPrice>
-								<recommendedRetailPrice>7.99</recommendedRetailPrice>
-							</price>
-							<formats>
-								<format id="17">
-									<description>MP3 320</description>
-								</format>
-							</formats>
-						</package>
-					</packages>
-				</download>
-				<formats availableDrmFree="true">
-					<format id="17">
-						<fileFormat>MP3</fileFormat>
-						<bitRate>320</bitRate>
-						<drmFree>true</drmFree>
-					</format>
-				</formats>
-				<label id="77">
-					<name>EMI UK</name>
-				</label>
-				<licensor id="13">
-					<name>EMI</name>
-				</licensor>
-				<popularity>0.53</popularity>
-				<streamingReleaseDate>2010-06-14T00:00:00+01:00</streamingReleaseDate>
-				<duration>3120</duration>
-				<trackCount>8</trackCount>
-			</release>
-		</searchResult>
-		<searchResult>
-			<type>release</type>
-			<score>6.2147155</score>
-			<release id="858954">
-				<title>Further</title>
-				<version/>
-				<type>Album</type>
-				<barcode>5099963253054</barcode>
-				<year>2010</year>
-				<explicitContent>false</explicitContent>
-				<artist id="115">
-					<name>The Chemical Brothers</name>
-					<appearsAs>The Chemical Brothers</appearsAs>
-					<url>http://www.7digital.com/artist/the-chemical-brothers/?partner=3923</url>
-				</artist>
-				<url>http://www.7digital.com/artist/the-chemical-brothers/release/further/?partner=3923</url>
-				<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/008/589/0000858954_50.jpg</image>
-				<releaseDate>2010-06-14T00:00:00+01:00</releaseDate>
-				<addedDate>2010-05-28T11:54:21+01:00</addedDate>
-				<price>
-					<currency code="GBP">£</currency>
-					<value>7.99</value>
-					<formattedPrice>£7.99</formattedPrice>
-					<rrp>7.99</rrp>
-					<formattedRrp>£7.99</formattedRrp>
-					<onSale>false</onSale>
-				</price>
-				<download>
-					<packages>
-						<package id="2">
-							<description>standard</description>
-							<price>
-								<currencyCode>GBP</currencyCode>
-								<sevendigitalPrice>7.99</sevendigitalPrice>
-								<recommendedRetailPrice>7.99</recommendedRetailPrice>
-							</price>
-							<formats>
-								<format id="17">
-									<description>MP3 320</description>
-								</format>
-							</formats>
-						</package>
-					</packages>
-				</download>
-				<formats availableDrmFree="true">
-					<format id="17">
-						<fileFormat>MP3</fileFormat>
-						<bitRate>320</bitRate>
-						<drmFree>true</drmFree>
-					</format>
-				</formats>
-				<label id="77">
-					<name>EMI UK</name>
-				</label>
-				<licensor id="13">
-					<name>EMI</name>
-				</licensor>
-				<popularity>0.53</popularity>
-				<streamingReleaseDate>2010-06-14T00:00:00+01:00</streamingReleaseDate>
-				<duration>3120</duration>
-				<trackCount>8</trackCount>
-			</release>
-		</searchResult>
-		<searchResult>
-			<type>release</type>
-			<score>6.2147155</score>
-			<release id="858954">
-				<title>Further</title>
-				<version/>
-				<type>Album</type>
-				<barcode>5099963253054</barcode>
-				<year>2010</year>
-				<explicitContent>false</explicitContent>
-				<artist id="115">
-					<name>The Chemical Brothers</name>
-					<appearsAs>The Chemical Brothers</appearsAs>
-					<url>http://www.7digital.com/artist/the-chemical-brothers/?partner=3923</url>
-				</artist>
-				<url>http://www.7digital.com/artist/the-chemical-brothers/release/further/?partner=3923</url>
-				<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/008/589/0000858954_50.jpg</image>
-				<releaseDate>2010-06-14T00:00:00+01:00</releaseDate>
-				<addedDate>2010-05-28T11:54:21+01:00</addedDate>
-				<price>
-					<currency code="GBP">£</currency>
-					<value>7.99</value>
-					<formattedPrice>£7.99</formattedPrice>
-					<rrp>7.99</rrp>
-					<formattedRrp>£7.99</formattedRrp>
-					<onSale>false</onSale>
-				</price>
-				<download>
-					<packages>
-						<package id="2">
-							<description>standard</description>
-							<price>
-								<currencyCode>GBP</currencyCode>
-								<sevendigitalPrice>7.99</sevendigitalPrice>
-								<recommendedRetailPrice>7.99</recommendedRetailPrice>
-							</price>
-							<formats>
-								<format id="17">
-									<description>MP3 320</description>
-								</format>
-							</formats>
-						</package>
-					</packages>
-				</download>
-				<formats availableDrmFree="true">
-					<format id="17">
-						<fileFormat>MP3</fileFormat>
-						<bitRate>320</bitRate>
-						<drmFree>true</drmFree>
-					</format>
-				</formats>
-				<label id="77">
-					<name>EMI UK</name>
-				</label>
-				<licensor id="13">
-					<name>EMI</name>
-				</licensor>
-				<popularity>0.53</popularity>
-				<streamingReleaseDate>2010-06-14T00:00:00+01:00</streamingReleaseDate>
-				<duration>3120</duration>
-				<trackCount>8</trackCount>
-			</release>
-		</searchResult>
-		<searchResult>
-			<type>release</type>
-			<score>6.2147155</score>
-			<release id="858954">
-				<title>Further</title>
-				<version/>
-				<type>Album</type>
-				<barcode>5099963253054</barcode>
-				<year>2010</year>
-				<explicitContent>false</explicitContent>
-				<artist id="115">
-					<name>The Chemical Brothers</name>
-					<appearsAs>The Chemical Brothers</appearsAs>
-					<url>http://www.7digital.com/artist/the-chemical-brothers/?partner=3923</url>
-				</artist>
-				<url>http://www.7digital.com/artist/the-chemical-brothers/release/further/?partner=3923</url>
-				<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/008/589/0000858954_50.jpg</image>
-				<releaseDate>2010-06-14T00:00:00+01:00</releaseDate>
-				<addedDate>2010-05-28T11:54:21+01:00</addedDate>
-				<price>
-					<currency code="GBP">£</currency>
-					<value>7.99</value>
-					<formattedPrice>£7.99</formattedPrice>
-					<rrp>7.99</rrp>
-					<formattedRrp>£7.99</formattedRrp>
-					<onSale>false</onSale>
-				</price>
-				<download>
-					<packages>
-						<package id="2">
-							<description>standard</description>
-							<price>
-								<currencyCode>GBP</currencyCode>
-								<sevendigitalPrice>7.99</sevendigitalPrice>
-								<recommendedRetailPrice>7.99</recommendedRetailPrice>
-							</price>
-							<formats>
-								<format id="17">
-									<description>MP3 320</description>
-								</format>
-							</formats>
-						</package>
-					</packages>
-				</download>
-				<formats availableDrmFree="true">
-					<format id="17">
-						<fileFormat>MP3</fileFormat>
-						<bitRate>320</bitRate>
-						<drmFree>true</drmFree>
-					</format>
-				</formats>
-				<label id="77">
-					<name>EMI UK</name>
-				</label>
-				<licensor id="13">
-					<name>EMI</name>
-				</licensor>
-				<popularity>0.53</popularity>
-				<streamingReleaseDate>2010-06-14T00:00:00+01:00</streamingReleaseDate>
-				<duration>3120</duration>
-				<trackCount>8</trackCount>
-			</release>
-		</searchResult>
-		<searchResult>
-			<type>release</type>
-			<score>6.2147155</score>
-			<release id="858954">
-				<title>Further</title>
-				<version/>
-				<type>Album</type>
-				<barcode>5099963253054</barcode>
-				<year>2010</year>
-				<explicitContent>false</explicitContent>
-				<artist id="115">
-					<name>The Chemical Brothers</name>
-					<appearsAs>The Chemical Brothers</appearsAs>
-					<url>http://www.7digital.com/artist/the-chemical-brothers/?partner=3923</url>
-				</artist>
-				<url>http://www.7digital.com/artist/the-chemical-brothers/release/further/?partner=3923</url>
-				<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/008/589/0000858954_50.jpg</image>
-				<releaseDate>2010-06-14T00:00:00+01:00</releaseDate>
-				<addedDate>2010-05-28T11:54:21+01:00</addedDate>
-				<price>
-					<currency code="GBP">£</currency>
-					<value>7.99</value>
-					<formattedPrice>£7.99</formattedPrice>
-					<rrp>7.99</rrp>
-					<formattedRrp>£7.99</formattedRrp>
-					<onSale>false</onSale>
-				</price>
-				<download>
-					<packages>
-						<package id="2">
-							<description>standard</description>
-							<price>
-								<currencyCode>GBP</currencyCode>
-								<sevendigitalPrice>7.99</sevendigitalPrice>
-								<recommendedRetailPrice>7.99</recommendedRetailPrice>
-							</price>
-							<formats>
-								<format id="17">
-									<description>MP3 320</description>
-								</format>
-							</formats>
-						</package>
-					</packages>
-				</download>
-				<formats availableDrmFree="true">
-					<format id="17">
-						<fileFormat>MP3</fileFormat>
-						<bitRate>320</bitRate>
-						<drmFree>true</drmFree>
-					</format>
-				</formats>
-				<label id="77">
-					<name>EMI UK</name>
-				</label>
-				<licensor id="13">
-					<name>EMI</name>
-				</licensor>
-				<popularity>0.53</popularity>
-				<streamingReleaseDate>2010-06-14T00:00:00+01:00</streamingReleaseDate>
-				<duration>3120</duration>
-				<trackCount>8</trackCount>
-			</release>
-		</searchResult>
-		<searchResult>
-			<type>release</type>
-			<score>6.2147155</score>
-			<release id="858954">
-				<title>Further</title>
-				<version/>
-				<type>Album</type>
-				<barcode>5099963253054</barcode>
-				<year>2010</year>
-				<explicitContent>false</explicitContent>
-				<artist id="115">
-					<name>The Chemical Brothers</name>
-					<appearsAs>The Chemical Brothers</appearsAs>
-					<url>http://www.7digital.com/artist/the-chemical-brothers/?partner=3923</url>
-				</artist>
-				<url>http://www.7digital.com/artist/the-chemical-brothers/release/further/?partner=3923</url>
-				<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/008/589/0000858954_50.jpg</image>
-				<releaseDate>2010-06-14T00:00:00+01:00</releaseDate>
-				<addedDate>2010-05-28T11:54:21+01:00</addedDate>
-				<price>
-					<currency code="GBP">£</currency>
-					<value>7.99</value>
-					<formattedPrice>£7.99</formattedPrice>
-					<rrp>7.99</rrp>
-					<formattedRrp>£7.99</formattedRrp>
-					<onSale>false</onSale>
-				</price>
-				<download>
-					<packages>
-						<package id="2">
-							<description>standard</description>
-							<price>
-								<currencyCode>GBP</currencyCode>
-								<sevendigitalPrice>7.99</sevendigitalPrice>
-								<recommendedRetailPrice>7.99</recommendedRetailPrice>
-							</price>
-							<formats>
-								<format id="17">
-									<description>MP3 320</description>
-								</format>
-							</formats>
-						</package>
-					</packages>
-				</download>
-				<formats availableDrmFree="true">
-					<format id="17">
-						<fileFormat>MP3</fileFormat>
-						<bitRate>320</bitRate>
-						<drmFree>true</drmFree>
-					</format>
-				</formats>
-				<label id="77">
-					<name>EMI UK</name>
-				</label>
-				<licensor id="13">
-					<name>EMI</name>
-				</licensor>
-				<popularity>0.53</popularity>
-				<streamingReleaseDate>2010-06-14T00:00:00+01:00</streamingReleaseDate>
-				<duration>3120</duration>
-				<trackCount>8</trackCount>
-			</release>
-		</searchResult>
-		<searchResult>
-			<type>release</type>
-			<score>6.2147155</score>
-			<release id="858954">
-				<title>Further</title>
-				<version/>
-				<type>Album</type>
-				<barcode>5099963253054</barcode>
-				<year>2010</year>
-				<explicitContent>false</explicitContent>
-				<artist id="115">
-					<name>The Chemical Brothers</name>
-					<appearsAs>The Chemical Brothers</appearsAs>
-					<url>http://www.7digital.com/artist/the-chemical-brothers/?partner=3923</url>
-				</artist>
-				<url>http://www.7digital.com/artist/the-chemical-brothers/release/further/?partner=3923</url>
-				<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/008/589/0000858954_50.jpg</image>
-				<releaseDate>2010-06-14T00:00:00+01:00</releaseDate>
-				<addedDate>2010-05-28T11:54:21+01:00</addedDate>
-				<price>
-					<currency code="GBP">£</currency>
-					<value>7.99</value>
-					<formattedPrice>£7.99</formattedPrice>
-					<rrp>7.99</rrp>
-					<formattedRrp>£7.99</formattedRrp>
-					<onSale>false</onSale>
-				</price>
-				<download>
-					<packages>
-						<package id="2">
-							<description>standard</description>
-							<price>
-								<currencyCode>GBP</currencyCode>
-								<sevendigitalPrice>7.99</sevendigitalPrice>
-								<recommendedRetailPrice>7.99</recommendedRetailPrice>
-							</price>
-							<formats>
-								<format id="17">
-									<description>MP3 320</description>
-								</format>
-							</formats>
-						</package>
-					</packages>
-				</download>
-				<formats availableDrmFree="true">
-					<format id="17">
-						<fileFormat>MP3</fileFormat>
-						<bitRate>320</bitRate>
-						<drmFree>true</drmFree>
-					</format>
-				</formats>
-				<label id="77">
-					<name>EMI UK</name>
-				</label>
-				<licensor id="13">
-					<name>EMI</name>
-				</licensor>
-				<popularity>0.53</popularity>
-				<streamingReleaseDate>2010-06-14T00:00:00+01:00</streamingReleaseDate>
-				<duration>3120</duration>
-				<trackCount>8</trackCount>
-			</release>
-		</searchResult>
-		<searchResult>
-			<type>release</type>
-			<score>6.2147155</score>
-			<release id="858954">
-				<title>Further</title>
-				<version/>
-				<type>Album</type>
-				<barcode>5099963253054</barcode>
-				<year>2010</year>
-				<explicitContent>false</explicitContent>
-				<artist id="115">
-					<name>The Chemical Brothers</name>
-					<appearsAs>The Chemical Brothers</appearsAs>
-					<url>http://www.7digital.com/artist/the-chemical-brothers/?partner=3923</url>
-				</artist>
-				<url>http://www.7digital.com/artist/the-chemical-brothers/release/further/?partner=3923</url>
-				<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/008/589/0000858954_50.jpg</image>
-				<releaseDate>2010-06-14T00:00:00+01:00</releaseDate>
-				<addedDate>2010-05-28T11:54:21+01:00</addedDate>
-				<price>
-					<currency code="GBP">£</currency>
-					<value>7.99</value>
-					<formattedPrice>£7.99</formattedPrice>
-					<rrp>7.99</rrp>
-					<formattedRrp>£7.99</formattedRrp>
-					<onSale>false</onSale>
-				</price>
-				<download>
-					<packages>
-						<package id="2">
-							<description>standard</description>
-							<price>
-								<currencyCode>GBP</currencyCode>
-								<sevendigitalPrice>7.99</sevendigitalPrice>
-								<recommendedRetailPrice>7.99</recommendedRetailPrice>
-							</price>
-							<formats>
-								<format id="17">
-									<description>MP3 320</description>
-								</format>
-							</formats>
-						</package>
-					</packages>
-				</download>
-				<formats availableDrmFree="true">
-					<format id="17">
-						<fileFormat>MP3</fileFormat>
-						<bitRate>320</bitRate>
-						<drmFree>true</drmFree>
-					</format>
-				</formats>
-				<label id="77">
-					<name>EMI UK</name>
-				</label>
-				<licensor id="13">
-					<name>EMI</name>
-				</licensor>
-				<popularity>0.53</popularity>
-				<streamingReleaseDate>2010-06-14T00:00:00+01:00</streamingReleaseDate>
-				<duration>3120</duration>
-				<trackCount>8</trackCount>
-			</release>
-		</searchResult>
-		<searchResult>
-			<type>release</type>
-			<score>6.2147155</score>
-			<release id="858954">
-				<title>Further</title>
-				<version/>
-				<type>Album</type>
-				<barcode>5099963253054</barcode>
-				<year>2010</year>
-				<explicitContent>false</explicitContent>
-				<artist id="115">
-					<name>The Chemical Brothers</name>
-					<appearsAs>The Chemical Brothers</appearsAs>
-					<url>http://www.7digital.com/artist/the-chemical-brothers/?partner=3923</url>
-				</artist>
-				<url>http://www.7digital.com/artist/the-chemical-brothers/release/further/?partner=3923</url>
-				<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/008/589/0000858954_50.jpg</image>
-				<releaseDate>2010-06-14T00:00:00+01:00</releaseDate>
-				<addedDate>2010-05-28T11:54:21+01:00</addedDate>
-				<price>
-					<currency code="GBP">£</currency>
-					<value>7.99</value>
-					<formattedPrice>£7.99</formattedPrice>
-					<rrp>7.99</rrp>
-					<formattedRrp>£7.99</formattedRrp>
-					<onSale>false</onSale>
-				</price>
-				<download>
-					<packages>
-						<package id="2">
-							<description>standard</description>
-							<price>
-								<currencyCode>GBP</currencyCode>
-								<sevendigitalPrice>7.99</sevendigitalPrice>
-								<recommendedRetailPrice>7.99</recommendedRetailPrice>
-							</price>
-							<formats>
-								<format id="17">
-									<description>MP3 320</description>
-								</format>
-							</formats>
-						</package>
-					</packages>
-				</download>
-				<formats availableDrmFree="true">
-					<format id="17">
-						<fileFormat>MP3</fileFormat>
-						<bitRate>320</bitRate>
-						<drmFree>true</drmFree>
-					</format>
-				</formats>
-				<label id="77">
-					<name>EMI UK</name>
-				</label>
-				<licensor id="13">
-					<name>EMI</name>
-				</licensor>
-				<popularity>0.53</popularity>
-				<streamingReleaseDate>2010-06-14T00:00:00+01:00</streamingReleaseDate>
-				<duration>3120</duration>
-				<trackCount>8</trackCount>
-			</release>
-		</searchResult>
-		<searchResult>
-			<type>release</type>
-			<score>6.2147155</score>
-			<release id="858954">
-				<title>Further</title>
-				<version/>
-				<type>Album</type>
-				<barcode>5099963253054</barcode>
-				<year>2010</year>
-				<explicitContent>false</explicitContent>
-				<artist id="115">
-					<name>The Chemical Brothers</name>
-					<appearsAs>The Chemical Brothers</appearsAs>
-					<url>http://www.7digital.com/artist/the-chemical-brothers/?partner=3923</url>
-				</artist>
-				<url>http://www.7digital.com/artist/the-chemical-brothers/release/further/?partner=3923</url>
-				<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/008/589/0000858954_50.jpg</image>
-				<releaseDate>2010-06-14T00:00:00+01:00</releaseDate>
-				<addedDate>2010-05-28T11:54:21+01:00</addedDate>
-				<price>
-					<currency code="GBP">£</currency>
-					<value>7.99</value>
-					<formattedPrice>£7.99</formattedPrice>
-					<rrp>7.99</rrp>
-					<formattedRrp>£7.99</formattedRrp>
-					<onSale>false</onSale>
-				</price>
-				<download>
-					<packages>
-						<package id="2">
-							<description>standard</description>
-							<price>
-								<currencyCode>GBP</currencyCode>
-								<sevendigitalPrice>7.99</sevendigitalPrice>
-								<recommendedRetailPrice>7.99</recommendedRetailPrice>
-							</price>
-							<formats>
-								<format id="17">
-									<description>MP3 320</description>
-								</format>
-							</formats>
-						</package>
-					</packages>
-				</download>
-				<formats availableDrmFree="true">
-					<format id="17">
-						<fileFormat>MP3</fileFormat>
-						<bitRate>320</bitRate>
-						<drmFree>true</drmFree>
-					</format>
-				</formats>
-				<label id="77">
-					<name>EMI UK</name>
-				</label>
-				<licensor id="13">
-					<name>EMI</name>
-				</licensor>
-				<popularity>0.53</popularity>
-				<streamingReleaseDate>2010-06-14T00:00:00+01:00</streamingReleaseDate>
-				<duration>3120</duration>
-				<trackCount>8</trackCount>
-			</release>
-		</searchResult>
-		<searchResult>
-			<type>release</type>
-			<score>6.2147155</score>
-			<release id="858954">
-				<title>Further</title>
-				<version/>
-				<type>Album</type>
-				<barcode>5099963253054</barcode>
-				<year>2010</year>
-				<explicitContent>false</explicitContent>
-				<artist id="115">
-					<name>The Chemical Brothers</name>
-					<appearsAs>The Chemical Brothers</appearsAs>
-					<url>http://www.7digital.com/artist/the-chemical-brothers/?partner=3923</url>
-				</artist>
-				<url>http://www.7digital.com/artist/the-chemical-brothers/release/further/?partner=3923</url>
-				<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/008/589/0000858954_50.jpg</image>
-				<releaseDate>2010-06-14T00:00:00+01:00</releaseDate>
-				<addedDate>2010-05-28T11:54:21+01:00</addedDate>
-				<price>
-					<currency code="GBP">£</currency>
-					<value>7.99</value>
-					<formattedPrice>£7.99</formattedPrice>
-					<rrp>7.99</rrp>
-					<formattedRrp>£7.99</formattedRrp>
-					<onSale>false</onSale>
-				</price>
-				<download>
-					<packages>
-						<package id="2">
-							<description>standard</description>
-							<price>
-								<currencyCode>GBP</currencyCode>
-								<sevendigitalPrice>7.99</sevendigitalPrice>
-								<recommendedRetailPrice>7.99</recommendedRetailPrice>
-							</price>
-							<formats>
-								<format id="17">
-									<description>MP3 320</description>
-								</format>
-							</formats>
-						</package>
-					</packages>
-				</download>
-				<formats availableDrmFree="true">
-					<format id="17">
-						<fileFormat>MP3</fileFormat>
-						<bitRate>320</bitRate>
-						<drmFree>true</drmFree>
-					</format>
-				</formats>
-				<label id="77">
-					<name>EMI UK</name>
-				</label>
-				<licensor id="13">
-					<name>EMI</name>
-				</licensor>
-				<popularity>0.53</popularity>
-				<streamingReleaseDate>2010-06-14T00:00:00+01:00</streamingReleaseDate>
-				<duration>3120</duration>
-				<trackCount>8</trackCount>
-			</release>
-		</searchResult>
-		<searchResult>
-			<type>release</type>
-			<score>6.2147155</score>
-			<release id="858954">
-				<title>Further</title>
-				<version/>
-				<type>Album</type>
-				<barcode>5099963253054</barcode>
-				<year>2010</year>
-				<explicitContent>false</explicitContent>
-				<artist id="115">
-					<name>The Chemical Brothers</name>
-					<appearsAs>The Chemical Brothers</appearsAs>
-					<url>http://www.7digital.com/artist/the-chemical-brothers/?partner=3923</url>
-				</artist>
-				<url>http://www.7digital.com/artist/the-chemical-brothers/release/further/?partner=3923</url>
-				<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/008/589/0000858954_50.jpg</image>
-				<releaseDate>2010-06-14T00:00:00+01:00</releaseDate>
-				<addedDate>2010-05-28T11:54:21+01:00</addedDate>
-				<price>
-					<currency code="GBP">£</currency>
-					<value>7.99</value>
-					<formattedPrice>£7.99</formattedPrice>
-					<rrp>7.99</rrp>
-					<formattedRrp>£7.99</formattedRrp>
-					<onSale>false</onSale>
-				</price>
-				<download>
-					<packages>
-						<package id="2">
-							<description>standard</description>
-							<price>
-								<currencyCode>GBP</currencyCode>
-								<sevendigitalPrice>7.99</sevendigitalPrice>
-								<recommendedRetailPrice>7.99</recommendedRetailPrice>
-							</price>
-							<formats>
-								<format id="17">
-									<description>MP3 320</description>
-								</format>
-							</formats>
-						</package>
-					</packages>
-				</download>
-				<formats availableDrmFree="true">
-					<format id="17">
-						<fileFormat>MP3</fileFormat>
-						<bitRate>320</bitRate>
-						<drmFree>true</drmFree>
-					</format>
-				</formats>
-				<label id="77">
-					<name>EMI UK</name>
-				</label>
-				<licensor id="13">
-					<name>EMI</name>
-				</licensor>
-				<popularity>0.53</popularity>
-				<streamingReleaseDate>2010-06-14T00:00:00+01:00</streamingReleaseDate>
-				<duration>3120</duration>
-				<trackCount>8</trackCount>
-			</release>
-		</searchResult>
-		<searchResult>
-			<type>release</type>
-			<score>6.2147155</score>
-			<release id="858954">
-				<title>Further</title>
-				<version/>
-				<type>Album</type>
-				<barcode>5099963253054</barcode>
-				<year>2010</year>
-				<explicitContent>false</explicitContent>
-				<artist id="115">
-					<name>The Chemical Brothers</name>
-					<appearsAs>The Chemical Brothers</appearsAs>
-					<url>http://www.7digital.com/artist/the-chemical-brothers/?partner=3923</url>
-				</artist>
-				<url>http://www.7digital.com/artist/the-chemical-brothers/release/further/?partner=3923</url>
-				<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/008/589/0000858954_50.jpg</image>
-				<releaseDate>2010-06-14T00:00:00+01:00</releaseDate>
-				<addedDate>2010-05-28T11:54:21+01:00</addedDate>
-				<price>
-					<currency code="GBP">£</currency>
-					<value>7.99</value>
-					<formattedPrice>£7.99</formattedPrice>
-					<rrp>7.99</rrp>
-					<formattedRrp>£7.99</formattedRrp>
-					<onSale>false</onSale>
-				</price>
-				<download>
-					<packages>
-						<package id="2">
-							<description>standard</description>
-							<price>
-								<currencyCode>GBP</currencyCode>
-								<sevendigitalPrice>7.99</sevendigitalPrice>
-								<recommendedRetailPrice>7.99</recommendedRetailPrice>
-							</price>
-							<formats>
-								<format id="17">
-									<description>MP3 320</description>
-								</format>
-							</formats>
-						</package>
-					</packages>
-				</download>
-				<formats availableDrmFree="true">
-					<format id="17">
-						<fileFormat>MP3</fileFormat>
-						<bitRate>320</bitRate>
-						<drmFree>true</drmFree>
-					</format>
-				</formats>
-				<label id="77">
-					<name>EMI UK</name>
-				</label>
-				<licensor id="13">
-					<name>EMI</name>
-				</licensor>
-				<popularity>0.53</popularity>
-				<streamingReleaseDate>2010-06-14T00:00:00+01:00</streamingReleaseDate>
-				<duration>3120</duration>
-				<trackCount>8</trackCount>
-			</release>
-		</searchResult>
-	</searchResults>
+  <searchResults>
+    <page>1</page>
+    <pageSize>36</pageSize>
+    <totalItems>90</totalItems>
+    <searchResult>
+      <type>release</type>
+      <score>6.2147155</score>
+      <release id="858954">
+        <title>Further</title>
+        <version/>
+        <type>Album</type>
+        <barcode>5099963253054</barcode>
+        <year>2010</year>
+        <explicitContent>false</explicitContent>
+        <artist id="115">
+          <name>The Chemical Brothers</name>
+          <appearsAs>The Chemical Brothers</appearsAs>
+          <slug>the-chemical-brothers</slug>
+        </artist>
+        <slug>further</slug>
+        <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/008/589/0000858954_50.jpg</image>
+        <download>
+          <releaseDate>2010-06-14T00:00:00+01:00</releaseDate>
+          <packages>
+            <package id="2">
+              <description>standard</description>
+              <price>
+                <currencyCode>GBP</currencyCode>
+                <sevendigitalPrice>7.99</sevendigitalPrice>
+                <recommendedRetailPrice>7.99</recommendedRetailPrice>
+              </price>
+              <formats>
+                <format id="17">
+                  <description>MP3 320</description>
+                </format>
+              </formats>
+            </package>
+          </packages>
+        </download>
+        <label id="77">
+          <name>EMI UK</name>
+        </label>
+        <licensor id="13">
+          <name>EMI</name>
+        </licensor>
+        <popularity>0.53</popularity>
+        <streamingReleaseDate>2010-06-14T00:00:00+01:00</streamingReleaseDate>
+        <duration>3120</duration>
+        <trackCount>8</trackCount>
+      </release>
+    </searchResult>
+    <searchResult>
+      <type>release</type>
+      <score>6.2147155</score>
+      <release id="858954">
+        <title>Further</title>
+        <version/>
+        <type>Album</type>
+        <barcode>5099963253054</barcode>
+        <year>2010</year>
+        <explicitContent>false</explicitContent>
+        <artist id="115">
+          <name>The Chemical Brothers</name>
+          <appearsAs>The Chemical Brothers</appearsAs>
+          <slug>the-chemical-brothers</slug>
+        </artist>
+        <slug>further</slug>
+        <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/008/589/0000858954_50.jpg</image>
+        <download>
+          <releaseDate>2010-06-14T00:00:00+01:00</releaseDate>
+          <packages>
+            <package id="2">
+              <description>standard</description>
+              <price>
+                <currencyCode>GBP</currencyCode>
+                <sevendigitalPrice>7.99</sevendigitalPrice>
+                <recommendedRetailPrice>7.99</recommendedRetailPrice>
+              </price>
+              <formats>
+                <format id="17">
+                  <description>MP3 320</description>
+                </format>
+              </formats>
+            </package>
+          </packages>
+        </download>
+        <label id="77">
+          <name>EMI UK</name>
+        </label>
+        <licensor id="13">
+          <name>EMI</name>
+        </licensor>
+        <popularity>0.53</popularity>
+        <streamingReleaseDate>2010-06-14T00:00:00+01:00</streamingReleaseDate>
+        <duration>3120</duration>
+        <trackCount>8</trackCount>
+      </release>
+    </searchResult>
+    <searchResult>
+      <type>release</type>
+      <score>6.2147155</score>
+      <release id="858954">
+        <title>Further</title>
+        <version/>
+        <type>Album</type>
+        <barcode>5099963253054</barcode>
+        <year>2010</year>
+        <explicitContent>false</explicitContent>
+        <artist id="115">
+          <name>The Chemical Brothers</name>
+          <appearsAs>The Chemical Brothers</appearsAs>
+          <slug>the-chemical-brothers</slug>
+        </artist>
+        <slug>further</slug>
+        <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/008/589/0000858954_50.jpg</image>
+        <download>
+          <releaseDate>2010-06-14T00:00:00+01:00</releaseDate>
+          <packages>
+            <package id="2">
+              <description>standard</description>
+              <price>
+                <currencyCode>GBP</currencyCode>
+                <sevendigitalPrice>7.99</sevendigitalPrice>
+                <recommendedRetailPrice>7.99</recommendedRetailPrice>
+              </price>
+              <formats>
+                <format id="17">
+                  <description>MP3 320</description>
+                </format>
+              </formats>
+            </package>
+          </packages>
+        </download>
+        <label id="77">
+          <name>EMI UK</name>
+        </label>
+        <licensor id="13">
+          <name>EMI</name>
+        </licensor>
+        <popularity>0.53</popularity>
+        <streamingReleaseDate>2010-06-14T00:00:00+01:00</streamingReleaseDate>
+        <duration>3120</duration>
+        <trackCount>8</trackCount>
+      </release>
+    </searchResult>
+    <searchResult>
+      <type>release</type>
+      <score>6.2147155</score>
+      <release id="858954">
+        <title>Further</title>
+        <version/>
+        <type>Album</type>
+        <barcode>5099963253054</barcode>
+        <year>2010</year>
+        <explicitContent>false</explicitContent>
+        <artist id="115">
+          <name>The Chemical Brothers</name>
+          <appearsAs>The Chemical Brothers</appearsAs>
+          <slug>the-chemical-brothers</slug>
+        </artist>
+        <slug>further</slug>
+        <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/008/589/0000858954_50.jpg</image>
+        <download>
+          <releaseDate>2010-06-14T00:00:00+01:00</releaseDate>
+          <packages>
+            <package id="2">
+              <description>standard</description>
+              <price>
+                <currencyCode>GBP</currencyCode>
+                <sevendigitalPrice>7.99</sevendigitalPrice>
+                <recommendedRetailPrice>7.99</recommendedRetailPrice>
+              </price>
+              <formats>
+                <format id="17">
+                  <description>MP3 320</description>
+                </format>
+              </formats>
+            </package>
+          </packages>
+        </download>
+        <label id="77">
+          <name>EMI UK</name>
+        </label>
+        <licensor id="13">
+          <name>EMI</name>
+        </licensor>
+        <popularity>0.53</popularity>
+        <streamingReleaseDate>2010-06-14T00:00:00+01:00</streamingReleaseDate>
+        <duration>3120</duration>
+        <trackCount>8</trackCount>
+      </release>
+    </searchResult>
+    <searchResult>
+      <type>release</type>
+      <score>6.2147155</score>
+      <release id="858954">
+        <title>Further</title>
+        <version/>
+        <type>Album</type>
+        <barcode>5099963253054</barcode>
+        <year>2010</year>
+        <explicitContent>false</explicitContent>
+        <artist id="115">
+          <name>The Chemical Brothers</name>
+          <appearsAs>The Chemical Brothers</appearsAs>
+          <slug>the-chemical-brothers</slug>
+        </artist>
+        <slug>further</slug>
+        <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/008/589/0000858954_50.jpg</image>
+        <download>
+          <releaseDate>2010-06-14T00:00:00+01:00</releaseDate>
+          <packages>
+            <package id="2">
+              <description>standard</description>
+              <price>
+                <currencyCode>GBP</currencyCode>
+                <sevendigitalPrice>7.99</sevendigitalPrice>
+                <recommendedRetailPrice>7.99</recommendedRetailPrice>
+              </price>
+              <formats>
+                <format id="17">
+                  <description>MP3 320</description>
+                </format>
+              </formats>
+            </package>
+          </packages>
+        </download>
+        <label id="77">
+          <name>EMI UK</name>
+        </label>
+        <licensor id="13">
+          <name>EMI</name>
+        </licensor>
+        <popularity>0.53</popularity>
+        <streamingReleaseDate>2010-06-14T00:00:00+01:00</streamingReleaseDate>
+        <duration>3120</duration>
+        <trackCount>8</trackCount>
+      </release>
+    </searchResult>
+    <searchResult>
+      <type>release</type>
+      <score>6.2147155</score>
+      <release id="858954">
+        <title>Further</title>
+        <version/>
+        <type>Album</type>
+        <barcode>5099963253054</barcode>
+        <year>2010</year>
+        <explicitContent>false</explicitContent>
+        <artist id="115">
+          <name>The Chemical Brothers</name>
+          <appearsAs>The Chemical Brothers</appearsAs>
+          <slug>the-chemical-brothers</slug>
+        </artist>
+        <slug>further</slug>
+        <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/008/589/0000858954_50.jpg</image>
+        <download>
+          <releaseDate>2010-06-14T00:00:00+01:00</releaseDate>
+          <packages>
+            <package id="2">
+              <description>standard</description>
+              <price>
+                <currencyCode>GBP</currencyCode>
+                <sevendigitalPrice>7.99</sevendigitalPrice>
+                <recommendedRetailPrice>7.99</recommendedRetailPrice>
+              </price>
+              <formats>
+                <format id="17">
+                  <description>MP3 320</description>
+                </format>
+              </formats>
+            </package>
+          </packages>
+        </download>
+        <label id="77">
+          <name>EMI UK</name>
+        </label>
+        <licensor id="13">
+          <name>EMI</name>
+        </licensor>
+        <popularity>0.53</popularity>
+        <streamingReleaseDate>2010-06-14T00:00:00+01:00</streamingReleaseDate>
+        <duration>3120</duration>
+        <trackCount>8</trackCount>
+      </release>
+    </searchResult>
+    <searchResult>
+      <type>release</type>
+      <score>6.2147155</score>
+      <release id="858954">
+        <title>Further</title>
+        <version/>
+        <type>Album</type>
+        <barcode>5099963253054</barcode>
+        <year>2010</year>
+        <explicitContent>false</explicitContent>
+        <artist id="115">
+          <name>The Chemical Brothers</name>
+          <appearsAs>The Chemical Brothers</appearsAs>
+          <slug>the-chemical-brothers</slug>
+        </artist>
+        <slug>further</slug>
+        <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/008/589/0000858954_50.jpg</image>
+        <download>
+          <releaseDate>2010-06-14T00:00:00+01:00</releaseDate>
+          <packages>
+            <package id="2">
+              <description>standard</description>
+              <price>
+                <currencyCode>GBP</currencyCode>
+                <sevendigitalPrice>7.99</sevendigitalPrice>
+                <recommendedRetailPrice>7.99</recommendedRetailPrice>
+              </price>
+              <formats>
+                <format id="17">
+                  <description>MP3 320</description>
+                </format>
+              </formats>
+            </package>
+          </packages>
+        </download>
+        <label id="77">
+          <name>EMI UK</name>
+        </label>
+        <licensor id="13">
+          <name>EMI</name>
+        </licensor>
+        <popularity>0.53</popularity>
+        <streamingReleaseDate>2010-06-14T00:00:00+01:00</streamingReleaseDate>
+        <duration>3120</duration>
+        <trackCount>8</trackCount>
+      </release>
+    </searchResult>
+    <searchResult>
+      <type>release</type>
+      <score>6.2147155</score>
+      <release id="858954">
+        <title>Further</title>
+        <version/>
+        <type>Album</type>
+        <barcode>5099963253054</barcode>
+        <year>2010</year>
+        <explicitContent>false</explicitContent>
+        <artist id="115">
+          <name>The Chemical Brothers</name>
+          <appearsAs>The Chemical Brothers</appearsAs>
+          <slug>the-chemical-brothers</slug>
+        </artist>
+        <slug>further</slug>
+        <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/008/589/0000858954_50.jpg</image>
+        <download>
+          <releaseDate>2010-06-14T00:00:00+01:00</releaseDate>
+          <packages>
+            <package id="2">
+              <description>standard</description>
+              <price>
+                <currencyCode>GBP</currencyCode>
+                <sevendigitalPrice>7.99</sevendigitalPrice>
+                <recommendedRetailPrice>7.99</recommendedRetailPrice>
+              </price>
+              <formats>
+                <format id="17">
+                  <description>MP3 320</description>
+                </format>
+              </formats>
+            </package>
+          </packages>
+        </download>
+        <label id="77">
+          <name>EMI UK</name>
+        </label>
+        <licensor id="13">
+          <name>EMI</name>
+        </licensor>
+        <popularity>0.53</popularity>
+        <streamingReleaseDate>2010-06-14T00:00:00+01:00</streamingReleaseDate>
+        <duration>3120</duration>
+        <trackCount>8</trackCount>
+      </release>
+    </searchResult>
+    <searchResult>
+      <type>release</type>
+      <score>6.2147155</score>
+      <release id="858954">
+        <title>Further</title>
+        <version/>
+        <type>Album</type>
+        <barcode>5099963253054</barcode>
+        <year>2010</year>
+        <explicitContent>false</explicitContent>
+        <artist id="115">
+          <name>The Chemical Brothers</name>
+          <appearsAs>The Chemical Brothers</appearsAs>
+          <slug>the-chemical-brothers</slug>
+        </artist>
+        <slug>further</slug>
+        <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/008/589/0000858954_50.jpg</image>
+        <download>
+          <releaseDate>2010-06-14T00:00:00+01:00</releaseDate>
+          <packages>
+            <package id="2">
+              <description>standard</description>
+              <price>
+                <currencyCode>GBP</currencyCode>
+                <sevendigitalPrice>7.99</sevendigitalPrice>
+                <recommendedRetailPrice>7.99</recommendedRetailPrice>
+              </price>
+              <formats>
+                <format id="17">
+                  <description>MP3 320</description>
+                </format>
+              </formats>
+            </package>
+          </packages>
+        </download>
+        <label id="77">
+          <name>EMI UK</name>
+        </label>
+        <licensor id="13">
+          <name>EMI</name>
+        </licensor>
+        <popularity>0.53</popularity>
+        <streamingReleaseDate>2010-06-14T00:00:00+01:00</streamingReleaseDate>
+        <duration>3120</duration>
+        <trackCount>8</trackCount>
+      </release>
+    </searchResult>
+    <searchResult>
+      <type>release</type>
+      <score>6.2147155</score>
+      <release id="858954">
+        <title>Further</title>
+        <version/>
+        <type>Album</type>
+        <barcode>5099963253054</barcode>
+        <year>2010</year>
+        <explicitContent>false</explicitContent>
+        <artist id="115">
+          <name>The Chemical Brothers</name>
+          <appearsAs>The Chemical Brothers</appearsAs>
+          <slug>the-chemical-brothers</slug>
+        </artist>
+        <slug>further</slug>
+        <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/008/589/0000858954_50.jpg</image>
+        <download>
+          <releaseDate>2010-06-14T00:00:00+01:00</releaseDate>
+          <packages>
+            <package id="2">
+              <description>standard</description>
+              <price>
+                <currencyCode>GBP</currencyCode>
+                <sevendigitalPrice>7.99</sevendigitalPrice>
+                <recommendedRetailPrice>7.99</recommendedRetailPrice>
+              </price>
+              <formats>
+                <format id="17">
+                  <description>MP3 320</description>
+                </format>
+              </formats>
+            </package>
+          </packages>
+        </download>
+        <label id="77">
+          <name>EMI UK</name>
+        </label>
+        <licensor id="13">
+          <name>EMI</name>
+        </licensor>
+        <popularity>0.53</popularity>
+        <streamingReleaseDate>2010-06-14T00:00:00+01:00</streamingReleaseDate>
+        <duration>3120</duration>
+        <trackCount>8</trackCount>
+      </release>
+    </searchResult>
+    <searchResult>
+      <type>release</type>
+      <score>6.2147155</score>
+      <release id="858954">
+        <title>Further</title>
+        <version/>
+        <type>Album</type>
+        <barcode>5099963253054</barcode>
+        <year>2010</year>
+        <explicitContent>false</explicitContent>
+        <artist id="115">
+          <name>The Chemical Brothers</name>
+          <appearsAs>The Chemical Brothers</appearsAs>
+          <slug>the-chemical-brothers</slug>
+        </artist>
+        <slug>further</slug>
+        <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/008/589/0000858954_50.jpg</image>
+        <download>
+          <releaseDate>2010-06-14T00:00:00+01:00</releaseDate>
+          <packages>
+            <package id="2">
+              <description>standard</description>
+              <price>
+                <currencyCode>GBP</currencyCode>
+                <sevendigitalPrice>7.99</sevendigitalPrice>
+                <recommendedRetailPrice>7.99</recommendedRetailPrice>
+              </price>
+              <formats>
+                <format id="17">
+                  <description>MP3 320</description>
+                </format>
+              </formats>
+            </package>
+          </packages>
+        </download>
+        <label id="77">
+          <name>EMI UK</name>
+        </label>
+        <licensor id="13">
+          <name>EMI</name>
+        </licensor>
+        <popularity>0.53</popularity>
+        <streamingReleaseDate>2010-06-14T00:00:00+01:00</streamingReleaseDate>
+        <duration>3120</duration>
+        <trackCount>8</trackCount>
+      </release>
+    </searchResult>
+    <searchResult>
+      <type>release</type>
+      <score>6.2147155</score>
+      <release id="858954">
+        <title>Further</title>
+        <version/>
+        <type>Album</type>
+        <barcode>5099963253054</barcode>
+        <year>2010</year>
+        <explicitContent>false</explicitContent>
+        <artist id="115">
+          <name>The Chemical Brothers</name>
+          <appearsAs>The Chemical Brothers</appearsAs>
+          <slug>the-chemical-brothers</slug>
+        </artist>
+        <slug>further</slug>
+        <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/008/589/0000858954_50.jpg</image>
+        <download>
+          <releaseDate>2010-06-14T00:00:00+01:00</releaseDate>
+          <packages>
+            <package id="2">
+              <description>standard</description>
+              <price>
+                <currencyCode>GBP</currencyCode>
+                <sevendigitalPrice>7.99</sevendigitalPrice>
+                <recommendedRetailPrice>7.99</recommendedRetailPrice>
+              </price>
+              <formats>
+                <format id="17">
+                  <description>MP3 320</description>
+                </format>
+              </formats>
+            </package>
+          </packages>
+        </download>
+        <label id="77">
+          <name>EMI UK</name>
+        </label>
+        <licensor id="13">
+          <name>EMI</name>
+        </licensor>
+        <popularity>0.53</popularity>
+        <streamingReleaseDate>2010-06-14T00:00:00+01:00</streamingReleaseDate>
+        <duration>3120</duration>
+        <trackCount>8</trackCount>
+      </release>
+    </searchResult>
+    <searchResult>
+      <type>release</type>
+      <score>6.2147155</score>
+      <release id="858954">
+        <title>Further</title>
+        <version/>
+        <type>Album</type>
+        <barcode>5099963253054</barcode>
+        <year>2010</year>
+        <explicitContent>false</explicitContent>
+        <artist id="115">
+          <name>The Chemical Brothers</name>
+          <appearsAs>The Chemical Brothers</appearsAs>
+          <slug>the-chemical-brothers</slug>
+        </artist>
+        <slug>further</slug>
+        <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/008/589/0000858954_50.jpg</image>
+        <download>
+          <releaseDate>2010-06-14T00:00:00+01:00</releaseDate>
+          <packages>
+            <package id="2">
+              <description>standard</description>
+              <price>
+                <currencyCode>GBP</currencyCode>
+                <sevendigitalPrice>7.99</sevendigitalPrice>
+                <recommendedRetailPrice>7.99</recommendedRetailPrice>
+              </price>
+              <formats>
+                <format id="17">
+                  <description>MP3 320</description>
+                </format>
+              </formats>
+            </package>
+          </packages>
+        </download>
+        <label id="77">
+          <name>EMI UK</name>
+        </label>
+        <licensor id="13">
+          <name>EMI</name>
+        </licensor>
+        <popularity>0.53</popularity>
+        <streamingReleaseDate>2010-06-14T00:00:00+01:00</streamingReleaseDate>
+        <duration>3120</duration>
+        <trackCount>8</trackCount>
+      </release>
+    </searchResult>
+    <searchResult>
+      <type>release</type>
+      <score>6.2147155</score>
+      <release id="858954">
+        <title>Further</title>
+        <version/>
+        <type>Album</type>
+        <barcode>5099963253054</barcode>
+        <year>2010</year>
+        <explicitContent>false</explicitContent>
+        <artist id="115">
+          <name>The Chemical Brothers</name>
+          <appearsAs>The Chemical Brothers</appearsAs>
+          <slug>the-chemical-brothers</slug>
+        </artist>
+        <slug>further</slug>
+        <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/008/589/0000858954_50.jpg</image>
+        <download>
+          <releaseDate>2010-06-14T00:00:00+01:00</releaseDate>
+          <packages>
+            <package id="2">
+              <description>standard</description>
+              <price>
+                <currencyCode>GBP</currencyCode>
+                <sevendigitalPrice>7.99</sevendigitalPrice>
+                <recommendedRetailPrice>7.99</recommendedRetailPrice>
+              </price>
+              <formats>
+                <format id="17">
+                  <description>MP3 320</description>
+                </format>
+              </formats>
+            </package>
+          </packages>
+        </download>
+        <label id="77">
+          <name>EMI UK</name>
+        </label>
+        <licensor id="13">
+          <name>EMI</name>
+        </licensor>
+        <popularity>0.53</popularity>
+        <streamingReleaseDate>2010-06-14T00:00:00+01:00</streamingReleaseDate>
+        <duration>3120</duration>
+        <trackCount>8</trackCount>
+      </release>
+    </searchResult>
+    <searchResult>
+      <type>release</type>
+      <score>6.2147155</score>
+      <release id="858954">
+        <title>Further</title>
+        <version/>
+        <type>Album</type>
+        <barcode>5099963253054</barcode>
+        <year>2010</year>
+        <explicitContent>false</explicitContent>
+        <artist id="115">
+          <name>The Chemical Brothers</name>
+          <appearsAs>The Chemical Brothers</appearsAs>
+          <slug>the-chemical-brothers</slug>
+        </artist>
+        <slug>further</slug>
+        <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/008/589/0000858954_50.jpg</image>
+        <download>
+          <releaseDate>2010-06-14T00:00:00+01:00</releaseDate>
+          <packages>
+            <package id="2">
+              <description>standard</description>
+              <price>
+                <currencyCode>GBP</currencyCode>
+                <sevendigitalPrice>7.99</sevendigitalPrice>
+                <recommendedRetailPrice>7.99</recommendedRetailPrice>
+              </price>
+              <formats>
+                <format id="17">
+                  <description>MP3 320</description>
+                </format>
+              </formats>
+            </package>
+          </packages>
+        </download>
+        <label id="77">
+          <name>EMI UK</name>
+        </label>
+        <licensor id="13">
+          <name>EMI</name>
+        </licensor>
+        <popularity>0.53</popularity>
+        <streamingReleaseDate>2010-06-14T00:00:00+01:00</streamingReleaseDate>
+        <duration>3120</duration>
+        <trackCount>8</trackCount>
+      </release>
+    </searchResult>
+    <searchResult>
+      <type>release</type>
+      <score>6.2147155</score>
+      <release id="858954">
+        <title>Further</title>
+        <version/>
+        <type>Album</type>
+        <barcode>5099963253054</barcode>
+        <year>2010</year>
+        <explicitContent>false</explicitContent>
+        <artist id="115">
+          <name>The Chemical Brothers</name>
+          <appearsAs>The Chemical Brothers</appearsAs>
+          <slug>the-chemical-brothers</slug>
+        </artist>
+        <slug>further</slug>
+        <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/008/589/0000858954_50.jpg</image>
+        <download>
+          <releaseDate>2010-06-14T00:00:00+01:00</releaseDate>
+          <packages>
+            <package id="2">
+              <description>standard</description>
+              <price>
+                <currencyCode>GBP</currencyCode>
+                <sevendigitalPrice>7.99</sevendigitalPrice>
+                <recommendedRetailPrice>7.99</recommendedRetailPrice>
+              </price>
+              <formats>
+                <format id="17">
+                  <description>MP3 320</description>
+                </format>
+              </formats>
+            </package>
+          </packages>
+        </download>
+        <label id="77">
+          <name>EMI UK</name>
+        </label>
+        <licensor id="13">
+          <name>EMI</name>
+        </licensor>
+        <popularity>0.53</popularity>
+        <streamingReleaseDate>2010-06-14T00:00:00+01:00</streamingReleaseDate>
+        <duration>3120</duration>
+        <trackCount>8</trackCount>
+      </release>
+    </searchResult>
+    <searchResult>
+      <type>release</type>
+      <score>6.2147155</score>
+      <release id="858954">
+        <title>Further</title>
+        <version/>
+        <type>Album</type>
+        <barcode>5099963253054</barcode>
+        <year>2010</year>
+        <explicitContent>false</explicitContent>
+        <artist id="115">
+          <name>The Chemical Brothers</name>
+          <appearsAs>The Chemical Brothers</appearsAs>
+          <slug>the-chemical-brothers</slug>
+        </artist>
+        <slug>further</slug>
+        <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/008/589/0000858954_50.jpg</image>
+        <download>
+          <releaseDate>2010-06-14T00:00:00+01:00</releaseDate>
+          <packages>
+            <package id="2">
+              <description>standard</description>
+              <price>
+                <currencyCode>GBP</currencyCode>
+                <sevendigitalPrice>7.99</sevendigitalPrice>
+                <recommendedRetailPrice>7.99</recommendedRetailPrice>
+              </price>
+              <formats>
+                <format id="17">
+                  <description>MP3 320</description>
+                </format>
+              </formats>
+            </package>
+          </packages>
+        </download>
+        <label id="77">
+          <name>EMI UK</name>
+        </label>
+        <licensor id="13">
+          <name>EMI</name>
+        </licensor>
+        <popularity>0.53</popularity>
+        <streamingReleaseDate>2010-06-14T00:00:00+01:00</streamingReleaseDate>
+        <duration>3120</duration>
+        <trackCount>8</trackCount>
+      </release>
+    </searchResult>
+    <searchResult>
+      <type>release</type>
+      <score>6.2147155</score>
+      <release id="858954">
+        <title>Further</title>
+        <version/>
+        <type>Album</type>
+        <barcode>5099963253054</barcode>
+        <year>2010</year>
+        <explicitContent>false</explicitContent>
+        <artist id="115">
+          <name>The Chemical Brothers</name>
+          <appearsAs>The Chemical Brothers</appearsAs>
+          <slug>the-chemical-brothers</slug>
+        </artist>
+        <slug>further</slug>
+        <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/008/589/0000858954_50.jpg</image>
+        <download>
+          <releaseDate>2010-06-14T00:00:00+01:00</releaseDate>
+          <packages>
+            <package id="2">
+              <description>standard</description>
+              <price>
+                <currencyCode>GBP</currencyCode>
+                <sevendigitalPrice>7.99</sevendigitalPrice>
+                <recommendedRetailPrice>7.99</recommendedRetailPrice>
+              </price>
+              <formats>
+                <format id="17">
+                  <description>MP3 320</description>
+                </format>
+              </formats>
+            </package>
+          </packages>
+        </download>
+        <label id="77">
+          <name>EMI UK</name>
+        </label>
+        <licensor id="13">
+          <name>EMI</name>
+        </licensor>
+        <popularity>0.53</popularity>
+        <streamingReleaseDate>2010-06-14T00:00:00+01:00</streamingReleaseDate>
+        <duration>3120</duration>
+        <trackCount>8</trackCount>
+      </release>
+    </searchResult>
+    <searchResult>
+      <type>release</type>
+      <score>6.2147155</score>
+      <release id="858954">
+        <title>Further</title>
+        <version/>
+        <type>Album</type>
+        <barcode>5099963253054</barcode>
+        <year>2010</year>
+        <explicitContent>false</explicitContent>
+        <artist id="115">
+          <name>The Chemical Brothers</name>
+          <appearsAs>The Chemical Brothers</appearsAs>
+          <slug>the-chemical-brothers</slug>
+        </artist>
+        <slug>further</slug>
+        <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/008/589/0000858954_50.jpg</image>
+        <download>
+          <releaseDate>2010-06-14T00:00:00+01:00</releaseDate>
+          <packages>
+            <package id="2">
+              <description>standard</description>
+              <price>
+                <currencyCode>GBP</currencyCode>
+                <sevendigitalPrice>7.99</sevendigitalPrice>
+                <recommendedRetailPrice>7.99</recommendedRetailPrice>
+              </price>
+              <formats>
+                <format id="17">
+                  <description>MP3 320</description>
+                </format>
+              </formats>
+            </package>
+          </packages>
+        </download>
+        <label id="77">
+          <name>EMI UK</name>
+        </label>
+        <licensor id="13">
+          <name>EMI</name>
+        </licensor>
+        <popularity>0.53</popularity>
+        <streamingReleaseDate>2010-06-14T00:00:00+01:00</streamingReleaseDate>
+        <duration>3120</duration>
+        <trackCount>8</trackCount>
+      </release>
+    </searchResult>
+    <searchResult>
+      <type>release</type>
+      <score>6.2147155</score>
+      <release id="858954">
+        <title>Further</title>
+        <version/>
+        <type>Album</type>
+        <barcode>5099963253054</barcode>
+        <year>2010</year>
+        <explicitContent>false</explicitContent>
+        <artist id="115">
+          <name>The Chemical Brothers</name>
+          <appearsAs>The Chemical Brothers</appearsAs>
+          <slug>the-chemical-brothers</slug>
+        </artist>
+        <slug>further</slug>
+        <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/008/589/0000858954_50.jpg</image>
+        <download>
+          <releaseDate>2010-06-14T00:00:00+01:00</releaseDate>
+          <packages>
+            <package id="2">
+              <description>standard</description>
+              <price>
+                <currencyCode>GBP</currencyCode>
+                <sevendigitalPrice>7.99</sevendigitalPrice>
+                <recommendedRetailPrice>7.99</recommendedRetailPrice>
+              </price>
+              <formats>
+                <format id="17">
+                  <description>MP3 320</description>
+                </format>
+              </formats>
+            </package>
+          </packages>
+        </download>
+        <label id="77">
+          <name>EMI UK</name>
+        </label>
+        <licensor id="13">
+          <name>EMI</name>
+        </licensor>
+        <popularity>0.53</popularity>
+        <streamingReleaseDate>2010-06-14T00:00:00+01:00</streamingReleaseDate>
+        <duration>3120</duration>
+        <trackCount>8</trackCount>
+      </release>
+    </searchResult>
+    <searchResult>
+      <type>release</type>
+      <score>6.2147155</score>
+      <release id="858954">
+        <title>Further</title>
+        <version/>
+        <type>Album</type>
+        <barcode>5099963253054</barcode>
+        <year>2010</year>
+        <explicitContent>false</explicitContent>
+        <artist id="115">
+          <name>The Chemical Brothers</name>
+          <appearsAs>The Chemical Brothers</appearsAs>
+          <slug>the-chemical-brothers</slug>
+        </artist>
+        <slug>further</slug>
+        <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/008/589/0000858954_50.jpg</image>
+        <download>
+          <releaseDate>2010-06-14T00:00:00+01:00</releaseDate>
+          <packages>
+            <package id="2">
+              <description>standard</description>
+              <price>
+                <currencyCode>GBP</currencyCode>
+                <sevendigitalPrice>7.99</sevendigitalPrice>
+                <recommendedRetailPrice>7.99</recommendedRetailPrice>
+              </price>
+              <formats>
+                <format id="17">
+                  <description>MP3 320</description>
+                </format>
+              </formats>
+            </package>
+          </packages>
+        </download>
+        <label id="77">
+          <name>EMI UK</name>
+        </label>
+        <licensor id="13">
+          <name>EMI</name>
+        </licensor>
+        <popularity>0.53</popularity>
+        <streamingReleaseDate>2010-06-14T00:00:00+01:00</streamingReleaseDate>
+        <duration>3120</duration>
+        <trackCount>8</trackCount>
+      </release>
+    </searchResult>
+    <searchResult>
+      <type>release</type>
+      <score>6.2147155</score>
+      <release id="858954">
+        <title>Further</title>
+        <version/>
+        <type>Album</type>
+        <barcode>5099963253054</barcode>
+        <year>2010</year>
+        <explicitContent>false</explicitContent>
+        <artist id="115">
+          <name>The Chemical Brothers</name>
+          <appearsAs>The Chemical Brothers</appearsAs>
+          <slug>the-chemical-brothers</slug>
+        </artist>
+        <slug>further</slug>
+        <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/008/589/0000858954_50.jpg</image>
+        <download>
+          <releaseDate>2010-06-14T00:00:00+01:00</releaseDate>
+          <packages>
+            <package id="2">
+              <description>standard</description>
+              <price>
+                <currencyCode>GBP</currencyCode>
+                <sevendigitalPrice>7.99</sevendigitalPrice>
+                <recommendedRetailPrice>7.99</recommendedRetailPrice>
+              </price>
+              <formats>
+                <format id="17">
+                  <description>MP3 320</description>
+                </format>
+              </formats>
+            </package>
+          </packages>
+        </download>
+        <label id="77">
+          <name>EMI UK</name>
+        </label>
+        <licensor id="13">
+          <name>EMI</name>
+        </licensor>
+        <popularity>0.53</popularity>
+        <streamingReleaseDate>2010-06-14T00:00:00+01:00</streamingReleaseDate>
+        <duration>3120</duration>
+        <trackCount>8</trackCount>
+      </release>
+    </searchResult>
+    <searchResult>
+      <type>release</type>
+      <score>6.2147155</score>
+      <release id="858954">
+        <title>Further</title>
+        <version/>
+        <type>Album</type>
+        <barcode>5099963253054</barcode>
+        <year>2010</year>
+        <explicitContent>false</explicitContent>
+        <artist id="115">
+          <name>The Chemical Brothers</name>
+          <appearsAs>The Chemical Brothers</appearsAs>
+          <slug>the-chemical-brothers</slug>
+        </artist>
+        <slug>further</slug>
+        <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/008/589/0000858954_50.jpg</image>
+        <download>
+          <releaseDate>2010-06-14T00:00:00+01:00</releaseDate>
+          <packages>
+            <package id="2">
+              <description>standard</description>
+              <price>
+                <currencyCode>GBP</currencyCode>
+                <sevendigitalPrice>7.99</sevendigitalPrice>
+                <recommendedRetailPrice>7.99</recommendedRetailPrice>
+              </price>
+              <formats>
+                <format id="17">
+                  <description>MP3 320</description>
+                </format>
+              </formats>
+            </package>
+          </packages>
+        </download>
+        <label id="77">
+          <name>EMI UK</name>
+        </label>
+        <licensor id="13">
+          <name>EMI</name>
+        </licensor>
+        <popularity>0.53</popularity>
+        <streamingReleaseDate>2010-06-14T00:00:00+01:00</streamingReleaseDate>
+        <duration>3120</duration>
+        <trackCount>8</trackCount>
+      </release>
+    </searchResult>
+    <searchResult>
+      <type>release</type>
+      <score>6.2147155</score>
+      <release id="858954">
+        <title>Further</title>
+        <version/>
+        <type>Album</type>
+        <barcode>5099963253054</barcode>
+        <year>2010</year>
+        <explicitContent>false</explicitContent>
+        <artist id="115">
+          <name>The Chemical Brothers</name>
+          <appearsAs>The Chemical Brothers</appearsAs>
+          <slug>the-chemical-brothers</slug>
+        </artist>
+        <slug>further</slug>
+        <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/008/589/0000858954_50.jpg</image>
+        <download>
+          <releaseDate>2010-06-14T00:00:00+01:00</releaseDate>
+          <packages>
+            <package id="2">
+              <description>standard</description>
+              <price>
+                <currencyCode>GBP</currencyCode>
+                <sevendigitalPrice>7.99</sevendigitalPrice>
+                <recommendedRetailPrice>7.99</recommendedRetailPrice>
+              </price>
+              <formats>
+                <format id="17">
+                  <description>MP3 320</description>
+                </format>
+              </formats>
+            </package>
+          </packages>
+        </download>
+        <label id="77">
+          <name>EMI UK</name>
+        </label>
+        <licensor id="13">
+          <name>EMI</name>
+        </licensor>
+        <popularity>0.53</popularity>
+        <streamingReleaseDate>2010-06-14T00:00:00+01:00</streamingReleaseDate>
+        <duration>3120</duration>
+        <trackCount>8</trackCount>
+      </release>
+    </searchResult>
+    <searchResult>
+      <type>release</type>
+      <score>6.2147155</score>
+      <release id="858954">
+        <title>Further</title>
+        <version/>
+        <type>Album</type>
+        <barcode>5099963253054</barcode>
+        <year>2010</year>
+        <explicitContent>false</explicitContent>
+        <artist id="115">
+          <name>The Chemical Brothers</name>
+          <appearsAs>The Chemical Brothers</appearsAs>
+          <slug>the-chemical-brothers</slug>
+        </artist>
+        <slug>further</slug>
+        <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/008/589/0000858954_50.jpg</image>
+        <download>
+          <releaseDate>2010-06-14T00:00:00+01:00</releaseDate>
+          <packages>
+            <package id="2">
+              <description>standard</description>
+              <price>
+                <currencyCode>GBP</currencyCode>
+                <sevendigitalPrice>7.99</sevendigitalPrice>
+                <recommendedRetailPrice>7.99</recommendedRetailPrice>
+              </price>
+              <formats>
+                <format id="17">
+                  <description>MP3 320</description>
+                </format>
+              </formats>
+            </package>
+          </packages>
+        </download>
+        <label id="77">
+          <name>EMI UK</name>
+        </label>
+        <licensor id="13">
+          <name>EMI</name>
+        </licensor>
+        <popularity>0.53</popularity>
+        <streamingReleaseDate>2010-06-14T00:00:00+01:00</streamingReleaseDate>
+        <duration>3120</duration>
+        <trackCount>8</trackCount>
+      </release>
+    </searchResult>
+    <searchResult>
+      <type>release</type>
+      <score>6.2147155</score>
+      <release id="858954">
+        <title>Further</title>
+        <version/>
+        <type>Album</type>
+        <barcode>5099963253054</barcode>
+        <year>2010</year>
+        <explicitContent>false</explicitContent>
+        <artist id="115">
+          <name>The Chemical Brothers</name>
+          <appearsAs>The Chemical Brothers</appearsAs>
+          <slug>the-chemical-brothers</slug>
+        </artist>
+        <slug>further</slug>
+        <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/008/589/0000858954_50.jpg</image>
+        <download>
+          <releaseDate>2010-06-14T00:00:00+01:00</releaseDate>
+          <packages>
+            <package id="2">
+              <description>standard</description>
+              <price>
+                <currencyCode>GBP</currencyCode>
+                <sevendigitalPrice>7.99</sevendigitalPrice>
+                <recommendedRetailPrice>7.99</recommendedRetailPrice>
+              </price>
+              <formats>
+                <format id="17">
+                  <description>MP3 320</description>
+                </format>
+              </formats>
+            </package>
+          </packages>
+        </download>
+        <label id="77">
+          <name>EMI UK</name>
+        </label>
+        <licensor id="13">
+          <name>EMI</name>
+        </licensor>
+        <popularity>0.53</popularity>
+        <streamingReleaseDate>2010-06-14T00:00:00+01:00</streamingReleaseDate>
+        <duration>3120</duration>
+        <trackCount>8</trackCount>
+      </release>
+    </searchResult>
+    <searchResult>
+      <type>release</type>
+      <score>6.2147155</score>
+      <release id="858954">
+        <title>Further</title>
+        <version/>
+        <type>Album</type>
+        <barcode>5099963253054</barcode>
+        <year>2010</year>
+        <explicitContent>false</explicitContent>
+        <artist id="115">
+          <name>The Chemical Brothers</name>
+          <appearsAs>The Chemical Brothers</appearsAs>
+          <slug>the-chemical-brothers</slug>
+        </artist>
+        <slug>further</slug>
+        <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/008/589/0000858954_50.jpg</image>
+        <download>
+          <releaseDate>2010-06-14T00:00:00+01:00</releaseDate>
+          <packages>
+            <package id="2">
+              <description>standard</description>
+              <price>
+                <currencyCode>GBP</currencyCode>
+                <sevendigitalPrice>7.99</sevendigitalPrice>
+                <recommendedRetailPrice>7.99</recommendedRetailPrice>
+              </price>
+              <formats>
+                <format id="17">
+                  <description>MP3 320</description>
+                </format>
+              </formats>
+            </package>
+          </packages>
+        </download>
+        <label id="77">
+          <name>EMI UK</name>
+        </label>
+        <licensor id="13">
+          <name>EMI</name>
+        </licensor>
+        <popularity>0.53</popularity>
+        <streamingReleaseDate>2010-06-14T00:00:00+01:00</streamingReleaseDate>
+        <duration>3120</duration>
+        <trackCount>8</trackCount>
+      </release>
+    </searchResult>
+    <searchResult>
+      <type>release</type>
+      <score>6.2147155</score>
+      <release id="858954">
+        <title>Further</title>
+        <version/>
+        <type>Album</type>
+        <barcode>5099963253054</barcode>
+        <year>2010</year>
+        <explicitContent>false</explicitContent>
+        <artist id="115">
+          <name>The Chemical Brothers</name>
+          <appearsAs>The Chemical Brothers</appearsAs>
+          <slug>the-chemical-brothers</slug>
+        </artist>
+        <slug>further</slug>
+        <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/008/589/0000858954_50.jpg</image>
+        <download>
+          <releaseDate>2010-06-14T00:00:00+01:00</releaseDate>
+          <packages>
+            <package id="2">
+              <description>standard</description>
+              <price>
+                <currencyCode>GBP</currencyCode>
+                <sevendigitalPrice>7.99</sevendigitalPrice>
+                <recommendedRetailPrice>7.99</recommendedRetailPrice>
+              </price>
+              <formats>
+                <format id="17">
+                  <description>MP3 320</description>
+                </format>
+              </formats>
+            </package>
+          </packages>
+        </download>
+        <label id="77">
+          <name>EMI UK</name>
+        </label>
+        <licensor id="13">
+          <name>EMI</name>
+        </licensor>
+        <popularity>0.53</popularity>
+        <streamingReleaseDate>2010-06-14T00:00:00+01:00</streamingReleaseDate>
+        <duration>3120</duration>
+        <trackCount>8</trackCount>
+      </release>
+    </searchResult>
+    <searchResult>
+      <type>release</type>
+      <score>6.2147155</score>
+      <release id="858954">
+        <title>Further</title>
+        <version/>
+        <type>Album</type>
+        <barcode>5099963253054</barcode>
+        <year>2010</year>
+        <explicitContent>false</explicitContent>
+        <artist id="115">
+          <name>The Chemical Brothers</name>
+          <appearsAs>The Chemical Brothers</appearsAs>
+          <slug>the-chemical-brothers</slug>
+        </artist>
+        <slug>further</slug>
+        <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/008/589/0000858954_50.jpg</image>
+        <download>
+          <releaseDate>2010-06-14T00:00:00+01:00</releaseDate>
+          <packages>
+            <package id="2">
+              <description>standard</description>
+              <price>
+                <currencyCode>GBP</currencyCode>
+                <sevendigitalPrice>7.99</sevendigitalPrice>
+                <recommendedRetailPrice>7.99</recommendedRetailPrice>
+              </price>
+              <formats>
+                <format id="17">
+                  <description>MP3 320</description>
+                </format>
+              </formats>
+            </package>
+          </packages>
+        </download>
+        <label id="77">
+          <name>EMI UK</name>
+        </label>
+        <licensor id="13">
+          <name>EMI</name>
+        </licensor>
+        <popularity>0.53</popularity>
+        <streamingReleaseDate>2010-06-14T00:00:00+01:00</streamingReleaseDate>
+        <duration>3120</duration>
+        <trackCount>8</trackCount>
+      </release>
+    </searchResult>
+    <searchResult>
+      <type>release</type>
+      <score>6.2147155</score>
+      <release id="858954">
+        <title>Further</title>
+        <version/>
+        <type>Album</type>
+        <barcode>5099963253054</barcode>
+        <year>2010</year>
+        <explicitContent>false</explicitContent>
+        <artist id="115">
+          <name>The Chemical Brothers</name>
+          <appearsAs>The Chemical Brothers</appearsAs>
+          <slug>the-chemical-brothers</slug>
+        </artist>
+        <slug>further</slug>
+        <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/008/589/0000858954_50.jpg</image>
+        <download>
+          <releaseDate>2010-06-14T00:00:00+01:00</releaseDate>
+          <packages>
+            <package id="2">
+              <description>standard</description>
+              <price>
+                <currencyCode>GBP</currencyCode>
+                <sevendigitalPrice>7.99</sevendigitalPrice>
+                <recommendedRetailPrice>7.99</recommendedRetailPrice>
+              </price>
+              <formats>
+                <format id="17">
+                  <description>MP3 320</description>
+                </format>
+              </formats>
+            </package>
+          </packages>
+        </download>
+        <label id="77">
+          <name>EMI UK</name>
+        </label>
+        <licensor id="13">
+          <name>EMI</name>
+        </licensor>
+        <popularity>0.53</popularity>
+        <streamingReleaseDate>2010-06-14T00:00:00+01:00</streamingReleaseDate>
+        <duration>3120</duration>
+        <trackCount>8</trackCount>
+      </release>
+    </searchResult>
+    <searchResult>
+      <type>release</type>
+      <score>6.2147155</score>
+      <release id="858954">
+        <title>Further</title>
+        <version/>
+        <type>Album</type>
+        <barcode>5099963253054</barcode>
+        <year>2010</year>
+        <explicitContent>false</explicitContent>
+        <artist id="115">
+          <name>The Chemical Brothers</name>
+          <appearsAs>The Chemical Brothers</appearsAs>
+          <slug>the-chemical-brothers</slug>
+        </artist>
+        <slug>further</slug>
+        <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/008/589/0000858954_50.jpg</image>
+        <download>
+          <releaseDate>2010-06-14T00:00:00+01:00</releaseDate>
+          <packages>
+            <package id="2">
+              <description>standard</description>
+              <price>
+                <currencyCode>GBP</currencyCode>
+                <sevendigitalPrice>7.99</sevendigitalPrice>
+                <recommendedRetailPrice>7.99</recommendedRetailPrice>
+              </price>
+              <formats>
+                <format id="17">
+                  <description>MP3 320</description>
+                </format>
+              </formats>
+            </package>
+          </packages>
+        </download>
+        <label id="77">
+          <name>EMI UK</name>
+        </label>
+        <licensor id="13">
+          <name>EMI</name>
+        </licensor>
+        <popularity>0.53</popularity>
+        <streamingReleaseDate>2010-06-14T00:00:00+01:00</streamingReleaseDate>
+        <duration>3120</duration>
+        <trackCount>8</trackCount>
+      </release>
+    </searchResult>
+    <searchResult>
+      <type>release</type>
+      <score>6.2147155</score>
+      <release id="858954">
+        <title>Further</title>
+        <version/>
+        <type>Album</type>
+        <barcode>5099963253054</barcode>
+        <year>2010</year>
+        <explicitContent>false</explicitContent>
+        <artist id="115">
+          <name>The Chemical Brothers</name>
+          <appearsAs>The Chemical Brothers</appearsAs>
+          <slug>the-chemical-brothers</slug>
+        </artist>
+        <slug>further</slug>
+        <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/008/589/0000858954_50.jpg</image>
+        <download>
+          <releaseDate>2010-06-14T00:00:00+01:00</releaseDate>
+          <packages>
+            <package id="2">
+              <description>standard</description>
+              <price>
+                <currencyCode>GBP</currencyCode>
+                <sevendigitalPrice>7.99</sevendigitalPrice>
+                <recommendedRetailPrice>7.99</recommendedRetailPrice>
+              </price>
+              <formats>
+                <format id="17">
+                  <description>MP3 320</description>
+                </format>
+              </formats>
+            </package>
+          </packages>
+        </download>
+        <label id="77">
+          <name>EMI UK</name>
+        </label>
+        <licensor id="13">
+          <name>EMI</name>
+        </licensor>
+        <popularity>0.53</popularity>
+        <streamingReleaseDate>2010-06-14T00:00:00+01:00</streamingReleaseDate>
+        <duration>3120</duration>
+        <trackCount>8</trackCount>
+      </release>
+    </searchResult>
+    <searchResult>
+      <type>release</type>
+      <score>6.2147155</score>
+      <release id="858954">
+        <title>Further</title>
+        <version/>
+        <type>Album</type>
+        <barcode>5099963253054</barcode>
+        <year>2010</year>
+        <explicitContent>false</explicitContent>
+        <artist id="115">
+          <name>The Chemical Brothers</name>
+          <appearsAs>The Chemical Brothers</appearsAs>
+          <slug>the-chemical-brothers</slug>
+        </artist>
+        <slug>further</slug>
+        <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/008/589/0000858954_50.jpg</image>
+        <download>
+          <releaseDate>2010-06-14T00:00:00+01:00</releaseDate>
+          <packages>
+            <package id="2">
+              <description>standard</description>
+              <price>
+                <currencyCode>GBP</currencyCode>
+                <sevendigitalPrice>7.99</sevendigitalPrice>
+                <recommendedRetailPrice>7.99</recommendedRetailPrice>
+              </price>
+              <formats>
+                <format id="17">
+                  <description>MP3 320</description>
+                </format>
+              </formats>
+            </package>
+          </packages>
+        </download>
+        <label id="77">
+          <name>EMI UK</name>
+        </label>
+        <licensor id="13">
+          <name>EMI</name>
+        </licensor>
+        <popularity>0.53</popularity>
+        <streamingReleaseDate>2010-06-14T00:00:00+01:00</streamingReleaseDate>
+        <duration>3120</duration>
+        <trackCount>8</trackCount>
+      </release>
+    </searchResult>
+    <searchResult>
+      <type>release</type>
+      <score>6.2147155</score>
+      <release id="858954">
+        <title>Further</title>
+        <version/>
+        <type>Album</type>
+        <barcode>5099963253054</barcode>
+        <year>2010</year>
+        <explicitContent>false</explicitContent>
+        <artist id="115">
+          <name>The Chemical Brothers</name>
+          <appearsAs>The Chemical Brothers</appearsAs>
+          <slug>the-chemical-brothers</slug>
+        </artist>
+        <slug>further</slug>
+        <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/008/589/0000858954_50.jpg</image>
+        <download>
+          <releaseDate>2010-06-14T00:00:00+01:00</releaseDate>
+          <packages>
+            <package id="2">
+              <description>standard</description>
+              <price>
+                <currencyCode>GBP</currencyCode>
+                <sevendigitalPrice>7.99</sevendigitalPrice>
+                <recommendedRetailPrice>7.99</recommendedRetailPrice>
+              </price>
+              <formats>
+                <format id="17">
+                  <description>MP3 320</description>
+                </format>
+              </formats>
+            </package>
+          </packages>
+        </download>
+        <label id="77">
+          <name>EMI UK</name>
+        </label>
+        <licensor id="13">
+          <name>EMI</name>
+        </licensor>
+        <popularity>0.53</popularity>
+        <streamingReleaseDate>2010-06-14T00:00:00+01:00</streamingReleaseDate>
+        <duration>3120</duration>
+        <trackCount>8</trackCount>
+      </release>
+    </searchResult>
+    <searchResult>
+      <type>release</type>
+      <score>6.2147155</score>
+      <release id="858954">
+        <title>Further</title>
+        <version/>
+        <type>Album</type>
+        <barcode>5099963253054</barcode>
+        <year>2010</year>
+        <explicitContent>false</explicitContent>
+        <artist id="115">
+          <name>The Chemical Brothers</name>
+          <appearsAs>The Chemical Brothers</appearsAs>
+          <slug>the-chemical-brothers</slug>
+        </artist>
+        <slug>further</slug>
+        <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/008/589/0000858954_50.jpg</image>
+        <download>
+          <releaseDate>2010-06-14T00:00:00+01:00</releaseDate>
+          <packages>
+            <package id="2">
+              <description>standard</description>
+              <price>
+                <currencyCode>GBP</currencyCode>
+                <sevendigitalPrice>7.99</sevendigitalPrice>
+                <recommendedRetailPrice>7.99</recommendedRetailPrice>
+              </price>
+              <formats>
+                <format id="17">
+                  <description>MP3 320</description>
+                </format>
+              </formats>
+            </package>
+          </packages>
+        </download>
+        <label id="77">
+          <name>EMI UK</name>
+        </label>
+        <licensor id="13">
+          <name>EMI</name>
+        </licensor>
+        <popularity>0.53</popularity>
+        <streamingReleaseDate>2010-06-14T00:00:00+01:00</streamingReleaseDate>
+        <duration>3120</duration>
+        <trackCount>8</trackCount>
+      </release>
+    </searchResult>
+    <searchResult>
+      <type>release</type>
+      <score>6.2147155</score>
+      <release id="858954">
+        <title>Further</title>
+        <version/>
+        <type>Album</type>
+        <barcode>5099963253054</barcode>
+        <year>2010</year>
+        <explicitContent>false</explicitContent>
+        <artist id="115">
+          <name>The Chemical Brothers</name>
+          <appearsAs>The Chemical Brothers</appearsAs>
+          <slug>the-chemical-brothers</slug>
+        </artist>
+        <slug>further</slug>
+        <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/008/589/0000858954_50.jpg</image>
+        <download>
+          <releaseDate>2010-06-14T00:00:00+01:00</releaseDate>
+          <packages>
+            <package id="2">
+              <description>standard</description>
+              <price>
+                <currencyCode>GBP</currencyCode>
+                <sevendigitalPrice>7.99</sevendigitalPrice>
+                <recommendedRetailPrice>7.99</recommendedRetailPrice>
+              </price>
+              <formats>
+                <format id="17">
+                  <description>MP3 320</description>
+                </format>
+              </formats>
+            </package>
+          </packages>
+        </download>
+        <label id="77">
+          <name>EMI UK</name>
+        </label>
+        <licensor id="13">
+          <name>EMI</name>
+        </licensor>
+        <popularity>0.53</popularity>
+        <streamingReleaseDate>2010-06-14T00:00:00+01:00</streamingReleaseDate>
+        <duration>3120</duration>
+        <trackCount>8</trackCount>
+      </release>
+    </searchResult>
+  </searchResults>
 </response>

@@ -1,37 +1,37 @@
 <?xml version="1.0" encoding="utf-8"?>
 <response xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" status="ok" version="1.2" xsi:noNamespaceSchemaLocation="http://api.7digital.com/1.2/static/7digitalAPI.xsd">
-	<basket id="00000000-0000-0000-0000-000000000000">
-		<itemCount>1</itemCount>
-		<price>
-			<currency code="GBP">£</currency>
-			<value>4.99</value>
-			<formattedPrice>£4.99</formattedPrice>
-			<rrp>4.99</rrp>
-			<formattedRrp>£4.99</formattedRrp>
-		</price>
-		<basketItems>
-			<basketItem id="15284882">
-				<type>release</type>
-				<itemName>Pre order Release</itemName>
-				<artistName>Team Buy All</artistName>
-				<trackId/>
-				<releaseId>2438</releaseId>
-				<price>
-					<value>4.99</value>
-					<formattedPrice>£4.99</formattedPrice>
-					<rrp>4.99</rrp>
-					<formattedRrp>£4.99</formattedRrp>
-				</price>
-				<package id="2"/>
-				<amountDue>
-					<amount>4.99</amount>
-					<formattedAmount>£4.99</formattedAmount>
-				</amountDue>
-			</basketItem>
-		</basketItems>
-		<amountDue>
-			<amount>4.99</amount>
-			<formattedAmount>£4.99</formattedAmount>
-		</amountDue>
-	</basket>
+  <basket id="00000000-0000-0000-0000-000000000000">
+    <itemCount>1</itemCount>
+    <price>
+      <currency code="GBP">£</currency>
+      <value>4.99</value>
+      <formattedPrice>£4.99</formattedPrice>
+      <rrp>4.99</rrp>
+      <formattedRrp>£4.99</formattedRrp>
+    </price>
+    <basketItems>
+      <basketItem id="15284882">
+        <type>release</type>
+        <itemName>Pre order Release</itemName>
+        <artistName>Team Buy All</artistName>
+        <trackId/>
+        <releaseId>2438</releaseId>
+        <price>
+          <value>4.99</value>
+          <formattedPrice>£4.99</formattedPrice>
+          <rrp>4.99</rrp>
+          <formattedRrp>£4.99</formattedRrp>
+        </price>
+        <package id="2"/>
+        <amountDue>
+          <amount>4.99</amount>
+          <formattedAmount>£4.99</formattedAmount>
+        </amountDue>
+      </basketItem>
+    </basketItems>
+    <amountDue>
+      <amount>4.99</amount>
+      <formattedAmount>£4.99</formattedAmount>
+    </amountDue>
+  </basket>
 </response>

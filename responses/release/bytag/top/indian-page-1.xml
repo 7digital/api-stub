@@ -1,219 +1,199 @@
 <?xml version="1.0" encoding="utf-8"?>
 <response xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" status="ok" version="1.2" xsi:noNamespaceSchemaLocation="http://api.7digital.com/1.2/static/7digitalAPI.xsd">
-	<taggedResults>
-		<page>1</page>
-		<pageSize>10</pageSize>
-		<totalItems>6226</totalItems>
-		<type>release</type>
-		<taggedItem>
-			<release id="653698">
-				<title>The Streets Of Bollywood 3</title>
-				<version/>
-				<type>Album</type>
-				<barcode>843436067243</barcode>
-				<year>2009</year>
-				<explicitContent>false</explicitContent>
-				<artist id="209">
-					<name>Various Artists</name>
-					<appearsAs>Various Artists</appearsAs>
-					<url>http://www.7digital.com/artist/various-artists/?partner=1401</url>
-				</artist>
-				<url>http://www.7digital.com/artist/various-artists/release/the-streets-of-bollywood-3/?partner=1401</url>
-				<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/006/536/0000653698_50.jpg</image>
-				<releaseDate>2009-11-26T00:00:00+00:00</releaseDate>
-				<addedDate>2009-11-24T14:59:21+00:00</addedDate>
-				<popularity>0.49</popularity>
-				<streamingReleaseDate>2009-11-26T00:00:00+00:00</streamingReleaseDate>
-			</release>
-		</taggedItem>
-		<taggedItem>
-			<release id="1694132">
-				<title>Chinta Ta Ta Chita Chita</title>
-				<version/>
-				<type>Single</type>
-				<barcode>886443470880</barcode>
-				<year>2012</year>
-				<explicitContent>false</explicitContent>
-				<artist id="1280992">
-					<name>Mika Singh, Wajid</name>
-					<appearsAs>Mika Singh, Wajid</appearsAs>
-					<url>http://www.7digital.com/artist/mika-singh-wajid/?partner=1401</url>
-				</artist>
-				<url>http://www.7digital.com/artist/mika-singh-wajid/release/chinta-ta-ta-chita-chita/?partner=1401</url>
-				<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/016/941/0001694132_50.jpg</image>
-				<releaseDate>2012-04-23T00:00:00+01:00</releaseDate>
-				<addedDate>2012-04-30T11:34:54+01:00</addedDate>
-				<popularity>0.46</popularity>
-				<streamingReleaseDate>2012-04-23T00:00:00+01:00</streamingReleaseDate>
-			</release>
-		</taggedItem>
-		<taggedItem>
-			<release id="1256376">
-				<title>Indian Ringtone</title>
-				<version/>
-				<type>Single</type>
-				<barcode>3661585875178</barcode>
-				<year>2011</year>
-				<explicitContent>false</explicitContent>
-				<artist id="383756">
-					<name>Ringtones</name>
-					<appearsAs>Ringtones</appearsAs>
-					<url>http://www.7digital.com/artist/ringtones/?partner=1401</url>
-				</artist>
-				<url>http://www.7digital.com/artist/ringtones/release/indian-ringtone/?partner=1401</url>
-				<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/012/563/0001256376_50.jpg</image>
-				<releaseDate>2011-04-29T00:00:00+01:00</releaseDate>
-				<addedDate>2011-05-23T15:55:19+01:00</addedDate>
-				<popularity>0.45</popularity>
-				<streamingReleaseDate>2011-04-29T00:00:00+01:00</streamingReleaseDate>
-			</release>
-		</taggedItem>
-		<taggedItem>
-			<release id="1254044">
-				<title>Indian Music</title>
-				<version/>
-				<type>Single</type>
-				<barcode>3661585874164</barcode>
-				<year>2011</year>
-				<explicitContent>false</explicitContent>
-				<artist id="1000103">
-					<name>Indian Music</name>
-					<appearsAs>Indian Music</appearsAs>
-					<url>http://www.7digital.com/artist/indian-music/?partner=1401</url>
-				</artist>
-				<url>http://www.7digital.com/artist/indian-music/release/indian-music/?partner=1401</url>
-				<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/012/540/0001254044_50.jpg</image>
-				<releaseDate>2011-04-29T00:00:00+01:00</releaseDate>
-				<addedDate>2011-05-23T15:53:50+01:00</addedDate>
-				<popularity>0.45</popularity>
-				<streamingReleaseDate>2011-04-29T00:00:00+01:00</streamingReleaseDate>
-			</release>
-		</taggedItem>
-		<taggedItem>
-			<release id="1249397">
-				<title>Mere Sai</title>
-				<version/>
-				<type>Single</type>
-				<barcode>885686789483</barcode>
-				<year>2011</year>
-				<explicitContent>false</explicitContent>
-				<artist id="17715">
-					<name>Lata Mangeshkar</name>
-					<appearsAs>Lata Mangeshkar</appearsAs>
-					<url>http://www.7digital.com/artist/lata-mangeshkar/?partner=1401</url>
-				</artist>
-				<url>http://www.7digital.com/artist/lata-mangeshkar/release/mere-sai/?partner=1401</url>
-				<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/012/493/0001249397_50.jpg</image>
-				<releaseDate>2011-04-22T00:00:00+01:00</releaseDate>
-				<addedDate>2011-05-16T19:28:09+01:00</addedDate>
-				<popularity>0.44</popularity>
-				<streamingReleaseDate>2011-04-22T00:00:00+01:00</streamingReleaseDate>
-			</release>
-		</taggedItem>
-		<taggedItem>
-			<release id="1332693">
-				<title>Bollywood Diva Katrina Kaif</title>
-				<version/>
-				<type>Album</type>
-				<barcode>886788000308</barcode>
-				<year>2011</year>
-				<explicitContent>false</explicitContent>
-				<artist id="15437">
-					<name>Various Artist</name>
-					<appearsAs>Various Artist</appearsAs>
-					<url>http://www.7digital.com/artist/various-artist/?partner=1401</url>
-				</artist>
-				<url>http://www.7digital.com/artist/various-artist/release/bollywood-diva-katrina-kaif/?partner=1401</url>
-				<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/013/326/0001332693_50.jpg</image>
-				<releaseDate>2011-07-12T00:00:00+01:00</releaseDate>
-				<addedDate>2011-07-21T22:34:10+01:00</addedDate>
-				<popularity>0.44</popularity>
-				<streamingReleaseDate>2011-07-12T00:00:00+01:00</streamingReleaseDate>
-			</release>
-		</taggedItem>
-		<taggedItem>
-			<release id="1280653">
-				<title>Tu hain ek gulaab</title>
-				<version/>
-				<type>Album</type>
-				<barcode>885686711989</barcode>
-				<year>2011</year>
-				<explicitContent>false</explicitContent>
-				<artist id="51610">
-					<name>Kumar Sanu</name>
-					<appearsAs>Kumar Sanu</appearsAs>
-					<url>http://www.7digital.com/artist/kumar-sanu/?partner=1401</url>
-				</artist>
-				<url>http://www.7digital.com/artist/kumar-sanu/release/tu-hain-ek-gulaab/?partner=1401</url>
-				<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/012/806/0001280653_50.jpg</image>
-				<releaseDate>2011-06-10T00:00:00+01:00</releaseDate>
-				<addedDate>2011-06-15T19:12:39+01:00</addedDate>
-				<popularity>0.43</popularity>
-				<streamingReleaseDate>2011-06-10T00:00:00+01:00</streamingReleaseDate>
-			</release>
-		</taggedItem>
-		<taggedItem>
-			<release id="1312094">
-				<title>Punjabi</title>
-				<version/>
-				<type>Single</type>
-				<barcode>885686933848</barcode>
-				<year>2011</year>
-				<explicitContent>false</explicitContent>
-				<artist id="1035289">
-					<name>DJ Rando &amp; Mr Amrit</name>
-					<appearsAs>DJ Rando &amp; Mr Amrit</appearsAs>
-					<url>http://www.7digital.com/artist/dj-rando-and-mr-amrit/?partner=1401</url>
-				</artist>
-				<url>http://www.7digital.com/artist/dj-rando-and-mr-amrit/release/punjabi/?partner=1401</url>
-				<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/013/120/0001312094_50.jpg</image>
-				<releaseDate>2011-06-16T00:00:00+01:00</releaseDate>
-				<addedDate>2011-07-07T21:17:10+01:00</addedDate>
-				<popularity>0.43</popularity>
-				<streamingReleaseDate>2011-06-16T00:00:00+01:00</streamingReleaseDate>
-			</release>
-		</taggedItem>
-		<taggedItem>
-			<release id="1319174">
-				<title>Gayatri Mantra 108 Jaap</title>
-				<version/>
-				<type>Album</type>
-				<barcode>5099711000145</barcode>
-				<year>2011</year>
-				<explicitContent>false</explicitContent>
-				<artist id="66462">
-					<name>Suresh Wadkar</name>
-					<appearsAs>Suresh Wadkar</appearsAs>
-					<url>http://www.7digital.com/artist/suresh-wadkar/?partner=1401</url>
-				</artist>
-				<url>http://www.7digital.com/artist/suresh-wadkar/release/gayatri-mantra-108-jaap/?partner=1401</url>
-				<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/013/191/0001319174_50.jpg</image>
-				<releaseDate>2011-06-10T00:00:00+01:00</releaseDate>
-				<addedDate>2011-07-13T14:13:34+01:00</addedDate>
-				<popularity>0.43</popularity>
-				<streamingReleaseDate>2011-06-10T00:00:00+01:00</streamingReleaseDate>
-			</release>
-		</taggedItem>
-		<taggedItem>
-			<release id="1332603">
-				<title>Gayatri Mantra</title>
-				<version/>
-				<type>Single</type>
-				<barcode>885686985670</barcode>
-				<year>2011</year>
-				<explicitContent>false</explicitContent>
-				<artist id="70107">
-					<name>Pankaj Udhas</name>
-					<appearsAs>Pankaj Udhas</appearsAs>
-					<url>http://www.7digital.com/artist/pankaj-udhas/?partner=1401</url>
-				</artist>
-				<url>http://www.7digital.com/artist/pankaj-udhas/release/gayatri-mantra/?partner=1401</url>
-				<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/013/326/0001332603_50.jpg</image>
-				<releaseDate>2011-07-15T00:00:00+01:00</releaseDate>
-				<addedDate>2011-07-21T22:41:48+01:00</addedDate>
-				<popularity>0.42</popularity>
-				<streamingReleaseDate>2011-07-15T00:00:00+01:00</streamingReleaseDate>
-			</release>
-		</taggedItem>
-	</taggedResults>
+  <taggedResults>
+    <page>1</page>
+    <pageSize>10</pageSize>
+    <totalItems>6226</totalItems>
+    <type>release</type>
+    <taggedItem>
+      <release id="653698">
+        <title>The Streets Of Bollywood 3</title>
+        <version/>
+        <type>Album</type>
+        <barcode>843436067243</barcode>
+        <year>2009</year>
+        <explicitContent>false</explicitContent>
+        <artist id="209">
+          <name>Various Artists</name>
+          <appearsAs>Various Artists</appearsAs>
+          <slug>various-artists</slug>
+        </artist>
+        <slug>the-streets-of-bollywood-3</slug>
+        <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/006/536/0000653698_50.jpg</image>
+        <popularity>0.49</popularity>
+        <streamingReleaseDate>2009-11-26T00:00:00+00:00</streamingReleaseDate>
+      </release>
+    </taggedItem>
+    <taggedItem>
+      <release id="1694132">
+        <title>Chinta Ta Ta Chita Chita</title>
+        <version/>
+        <type>Single</type>
+        <barcode>886443470880</barcode>
+        <year>2012</year>
+        <explicitContent>false</explicitContent>
+        <artist id="1280992">
+          <name>Mika Singh, Wajid</name>
+          <appearsAs>Mika Singh, Wajid</appearsAs>
+          <slug>mika-singh-wajid</slug>
+        </artist>
+        <slug>chinta-ta-ta-chita-chita</slug>
+        <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/016/941/0001694132_50.jpg</image>
+        <popularity>0.46</popularity>
+        <streamingReleaseDate>2012-04-23T00:00:00+01:00</streamingReleaseDate>
+      </release>
+    </taggedItem>
+    <taggedItem>
+      <release id="1256376">
+        <title>Indian Ringtone</title>
+        <version/>
+        <type>Single</type>
+        <barcode>3661585875178</barcode>
+        <year>2011</year>
+        <explicitContent>false</explicitContent>
+        <artist id="383756">
+          <name>Ringtones</name>
+          <appearsAs>Ringtones</appearsAs>
+          <slug>ringtones</slug>
+        </artist>
+        <slug>indian-ringtone</slug>
+        <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/012/563/0001256376_50.jpg</image>
+        <popularity>0.45</popularity>
+        <streamingReleaseDate>2011-04-29T00:00:00+01:00</streamingReleaseDate>
+      </release>
+    </taggedItem>
+    <taggedItem>
+      <release id="1254044">
+        <title>Indian Music</title>
+        <version/>
+        <type>Single</type>
+        <barcode>3661585874164</barcode>
+        <year>2011</year>
+        <explicitContent>false</explicitContent>
+        <artist id="1000103">
+          <name>Indian Music</name>
+          <appearsAs>Indian Music</appearsAs>
+          <slug>indian-music</slug>
+        </artist>
+        <slug>indian-music</slug>
+        <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/012/540/0001254044_50.jpg</image>
+        <popularity>0.45</popularity>
+        <streamingReleaseDate>2011-04-29T00:00:00+01:00</streamingReleaseDate>
+      </release>
+    </taggedItem>
+    <taggedItem>
+      <release id="1249397">
+        <title>Mere Sai</title>
+        <version/>
+        <type>Single</type>
+        <barcode>885686789483</barcode>
+        <year>2011</year>
+        <explicitContent>false</explicitContent>
+        <artist id="17715">
+          <name>Lata Mangeshkar</name>
+          <appearsAs>Lata Mangeshkar</appearsAs>
+          <slug>lata-mangeshkar</slug>
+        </artist>
+        <slug>mere-sai</slug>
+        <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/012/493/0001249397_50.jpg</image>
+        <popularity>0.44</popularity>
+        <streamingReleaseDate>2011-04-22T00:00:00+01:00</streamingReleaseDate>
+      </release>
+    </taggedItem>
+    <taggedItem>
+      <release id="1332693">
+        <title>Bollywood Diva Katrina Kaif</title>
+        <version/>
+        <type>Album</type>
+        <barcode>886788000308</barcode>
+        <year>2011</year>
+        <explicitContent>false</explicitContent>
+        <artist id="15437">
+          <name>Various Artist</name>
+          <appearsAs>Various Artist</appearsAs>
+          <slug>various-artist</slug>
+        </artist>
+        <slug>bollywood-diva-katrina-kaif</slug>
+        <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/013/326/0001332693_50.jpg</image>
+        <popularity>0.44</popularity>
+        <streamingReleaseDate>2011-07-12T00:00:00+01:00</streamingReleaseDate>
+      </release>
+    </taggedItem>
+    <taggedItem>
+      <release id="1280653">
+        <title>Tu hain ek gulaab</title>
+        <version/>
+        <type>Album</type>
+        <barcode>885686711989</barcode>
+        <year>2011</year>
+        <explicitContent>false</explicitContent>
+        <artist id="51610">
+          <name>Kumar Sanu</name>
+          <appearsAs>Kumar Sanu</appearsAs>
+          <slug>kumar-sanu</slug>
+        </artist>
+        <slug>tu-hain-ek-gulaab</slug>
+        <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/012/806/0001280653_50.jpg</image>
+        <popularity>0.43</popularity>
+        <streamingReleaseDate>2011-06-10T00:00:00+01:00</streamingReleaseDate>
+      </release>
+    </taggedItem>
+    <taggedItem>
+      <release id="1312094">
+        <title>Punjabi</title>
+        <version/>
+        <type>Single</type>
+        <barcode>885686933848</barcode>
+        <year>2011</year>
+        <explicitContent>false</explicitContent>
+        <artist id="1035289">
+          <name>DJ Rando &amp; Mr Amrit</name>
+          <appearsAs>DJ Rando &amp; Mr Amrit</appearsAs>
+          <slug>dj-rando-and-mr-amrit</slug>
+        </artist>
+        <slug>punjabi</slug>
+        <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/013/120/0001312094_50.jpg</image>
+        <popularity>0.43</popularity>
+        <streamingReleaseDate>2011-06-16T00:00:00+01:00</streamingReleaseDate>
+      </release>
+    </taggedItem>
+    <taggedItem>
+      <release id="1319174">
+        <title>Gayatri Mantra 108 Jaap</title>
+        <version/>
+        <type>Album</type>
+        <barcode>5099711000145</barcode>
+        <year>2011</year>
+        <explicitContent>false</explicitContent>
+        <artist id="66462">
+          <name>Suresh Wadkar</name>
+          <appearsAs>Suresh Wadkar</appearsAs>
+          <slug>suresh-wadkar</slug>
+        </artist>
+        <slug>gayatri-mantra-108-jaap</slug>
+        <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/013/191/0001319174_50.jpg</image>
+        <popularity>0.43</popularity>
+        <streamingReleaseDate>2011-06-10T00:00:00+01:00</streamingReleaseDate>
+      </release>
+    </taggedItem>
+    <taggedItem>
+      <release id="1332603">
+        <title>Gayatri Mantra</title>
+        <version/>
+        <type>Single</type>
+        <barcode>885686985670</barcode>
+        <year>2011</year>
+        <explicitContent>false</explicitContent>
+        <artist id="70107">
+          <name>Pankaj Udhas</name>
+          <appearsAs>Pankaj Udhas</appearsAs>
+          <slug>pankaj-udhas</slug>
+        </artist>
+        <slug>gayatri-mantra</slug>
+        <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/013/326/0001332603_50.jpg</image>
+        <popularity>0.42</popularity>
+        <streamingReleaseDate>2011-07-15T00:00:00+01:00</streamingReleaseDate>
+      </release>
+    </taggedItem>
+  </taggedResults>
 </response>

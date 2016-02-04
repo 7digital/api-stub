@@ -1,430 +1,430 @@
 <?xml version="1.0" encoding="utf-8"?>
 <response xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" status="ok" version="1.2" xsi:noNamespaceSchemaLocation="http://api.7digital.systest/1.2/static/7digitalAPI.xsd">
-	<locker>
-		<lockerReleases>
-			<page>1</page>
-			<pageSize>10</pageSize>
-			<totalItems>10</totalItems>
-			<lockerRelease>
-				<release id="188863">
-					<title>Release 10</title>
-					<version/>
-					<type>Album</type>
-					<barcode>093624988298</barcode>
-					<artist id="304">
-						<name>A Artist</name>
-						<appearsAs>A Artist</appearsAs>
-						<url>http://www.7digital.com/artists/radiohead/?partner=712</url>
-					</artist>
-					<url>http://www.7digital.com/artists/radiohead/in-rainbows/?partner=712</url>
-					<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/001/888/0000188863_50.jpg</image>
-					<releaseDate>2007-12-31T00:00:00Z</releaseDate>
-				</release>
-				<lockerTracks>
-					<lockerTrack>
-						<track id="2052636">
-							<title>Track 01</title>
-							<version/>
-							<artist id="304">
-								<name>Artist</name>
-								<appearsAs>Artist</appearsAs>
-								<url>http://www.7digital.com/artists/radiohead/?partner=712</url>
-							</artist>
-							<url>http://www.7digital.com/artists/radiohead/in-rainbows/01-15-Step?partner=712&amp;partner=712</url>
-						</track>
-						<remainingDownloads>3</remainingDownloads>
-						<purchaseDate>2011-04-13T16:30:35+01:00</purchaseDate>
-						<downloadUrls>
-							<downloadUrl>
-								<url>http://media3.7digital.com/media/user/downloadtrack?formatid=17&amp;oauth_consumer_key=7digital.com&amp;oauth_nonce=193446&amp;oauth_signature_method=HMAC-SHA1&amp;oauth_timestamp=1302786566&amp;releaseid=188863&amp;shopid=34&amp;trackid=2052636&amp;oauth_signature=fky3BN0gEGrCeCviP%2FdefDnEPNU%3D</url>
-								<format id="17">
-									<fileFormat>MP3</fileFormat>
-									<bitRate>320</bitRate>
-									<drmFree>true</drmFree>
-								</format>
-							</downloadUrl>
-						</downloadUrls>
-					</lockerTrack>
-				</lockerTracks>
-			</lockerRelease>
-			<lockerRelease>
-				<release id="188863">
-					<title>Release 09</title>
-					<version/>
-					<type>Album</type>
-					<barcode>093624988298</barcode>
-					<artist id="304">
-						<name>B Artist</name>
-						<appearsAs>B Artist</appearsAs>
-						<url>http://www.7digital.com/artists/radiohead/?partner=712</url>
-					</artist>
-					<url>http://www.7digital.com/artists/radiohead/in-rainbows/?partner=712</url>
-					<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/001/888/0000188863_50.jpg</image>
-					<releaseDate>2007-12-31T00:00:00Z</releaseDate>
-				</release>
-				<lockerTracks>
-					<lockerTrack>
-						<track id="2052636">
-							<title>Track 01</title>
-							<version/>
-							<artist id="304">
-								<name>Artist</name>
-								<appearsAs>Artist</appearsAs>
-								<url>http://www.7digital.com/artists/radiohead/?partner=712</url>
-							</artist>
-							<url>http://www.7digital.com/artists/radiohead/in-rainbows/01-15-Step?partner=712&amp;partner=712</url>
-						</track>
-						<remainingDownloads>3</remainingDownloads>
-						<purchaseDate>2011-04-12T16:30:35+01:00</purchaseDate>
-						<downloadUrls>
-							<downloadUrl>
-								<url>http://media3.7digital.com/media/user/downloadtrack?formatid=17&amp;oauth_consumer_key=7digital.com&amp;oauth_nonce=193446&amp;oauth_signature_method=HMAC-SHA1&amp;oauth_timestamp=1302786566&amp;releaseid=188863&amp;shopid=34&amp;trackid=2052636&amp;oauth_signature=fky3BN0gEGrCeCviP%2FdefDnEPNU%3D</url>
-								<format id="17">
-									<fileFormat>MP3</fileFormat>
-									<bitRate>320</bitRate>
-									<drmFree>true</drmFree>
-								</format>
-							</downloadUrl>
-						</downloadUrls>
-					</lockerTrack>
-				</lockerTracks>
-			</lockerRelease>
-			<lockerRelease>
-				<release id="188863">
-					<title>Release 08</title>
-					<version/>
-					<type>Album</type>
-					<barcode>093624988298</barcode>
-					<artist id="304">
-						<name>C Artist</name>
-						<appearsAs>C Artist</appearsAs>
-						<url>http://www.7digital.com/artists/radiohead/?partner=712</url>
-					</artist>
-					<url>http://www.7digital.com/artists/radiohead/in-rainbows/?partner=712</url>
-					<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/001/888/0000188863_50.jpg</image>
-					<releaseDate>2007-12-31T00:00:00Z</releaseDate>
-				</release>
-				<lockerTracks>
-					<lockerTrack>
-						<track id="2052636">
-							<title>Track 01</title>
-							<version/>
-							<artist id="304">
-								<name>Artist</name>
-								<appearsAs>Artist</appearsAs>
-								<url>http://www.7digital.com/artists/radiohead/?partner=712</url>
-							</artist>
-							<url>http://www.7digital.com/artists/radiohead/in-rainbows/01-15-Step?partner=712&amp;partner=712</url>
-						</track>
-						<remainingDownloads>3</remainingDownloads>
-						<purchaseDate>2011-04-11T16:30:35+01:00</purchaseDate>
-						<downloadUrls>
-							<downloadUrl>
-								<url>http://media3.7digital.com/media/user/downloadtrack?formatid=17&amp;oauth_consumer_key=7digital.com&amp;oauth_nonce=193446&amp;oauth_signature_method=HMAC-SHA1&amp;oauth_timestamp=1302786566&amp;releaseid=188863&amp;shopid=34&amp;trackid=2052636&amp;oauth_signature=fky3BN0gEGrCeCviP%2FdefDnEPNU%3D</url>
-								<format id="17">
-									<fileFormat>MP3</fileFormat>
-									<bitRate>320</bitRate>
-									<drmFree>true</drmFree>
-								</format>
-							</downloadUrl>
-						</downloadUrls>
-					</lockerTrack>
-				</lockerTracks>
-			</lockerRelease>
-			<lockerRelease>
-				<release id="188863">
-					<title>Release 07</title>
-					<version/>
-					<type>Album</type>
-					<barcode>093624988298</barcode>
-					<artist id="304">
-						<name>D Artist</name>
-						<appearsAs>D Artist</appearsAs>
-						<url>http://www.7digital.com/artists/radiohead/?partner=712</url>
-					</artist>
-					<url>http://www.7digital.com/artists/radiohead/in-rainbows/?partner=712</url>
-					<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/001/888/0000188863_50.jpg</image>
-					<releaseDate>2007-12-31T00:00:00Z</releaseDate>
-				</release>
-				<lockerTracks>
-					<lockerTrack>
-						<track id="2052636">
-							<title>Track 01</title>
-							<version/>
-							<artist id="304">
-								<name>Artist</name>
-								<appearsAs>Artist</appearsAs>
-								<url>http://www.7digital.com/artists/radiohead/?partner=712</url>
-							</artist>
-							<url>http://www.7digital.com/artists/radiohead/in-rainbows/01-15-Step?partner=712&amp;partner=712</url>
-						</track>
-						<remainingDownloads>3</remainingDownloads>
-						<purchaseDate>2011-04-10T16:30:35+01:00</purchaseDate>
-						<downloadUrls>
-							<downloadUrl>
-								<url>http://media3.7digital.com/media/user/downloadtrack?formatid=17&amp;oauth_consumer_key=7digital.com&amp;oauth_nonce=193446&amp;oauth_signature_method=HMAC-SHA1&amp;oauth_timestamp=1302786566&amp;releaseid=188863&amp;shopid=34&amp;trackid=2052636&amp;oauth_signature=fky3BN0gEGrCeCviP%2FdefDnEPNU%3D</url>
-								<format id="17">
-									<fileFormat>MP3</fileFormat>
-									<bitRate>320</bitRate>
-									<drmFree>true</drmFree>
-								</format>
-							</downloadUrl>
-						</downloadUrls>
-					</lockerTrack>
-				</lockerTracks>
-			</lockerRelease>
-			<lockerRelease>
-				<release id="188863">
-					<title>Release 06</title>
-					<version/>
-					<type>Album</type>
-					<barcode>093624988298</barcode>
-					<artist id="304">
-						<name>E Artist</name>
-						<appearsAs>E Artist</appearsAs>
-						<url>http://www.7digital.com/artists/radiohead/?partner=712</url>
-					</artist>
-					<url>http://www.7digital.com/artists/radiohead/in-rainbows/?partner=712</url>
-					<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/001/888/0000188863_50.jpg</image>
-					<releaseDate>2007-12-31T00:00:00Z</releaseDate>
-				</release>
-				<lockerTracks>
-					<lockerTrack>
-						<track id="2052636">
-							<title>Track 01</title>
-							<version/>
-							<artist id="304">
-								<name>Artist</name>
-								<appearsAs>Artist</appearsAs>
-								<url>http://www.7digital.com/artists/radiohead/?partner=712</url>
-							</artist>
-							<url>http://www.7digital.com/artists/radiohead/in-rainbows/01-15-Step?partner=712&amp;partner=712</url>
-						</track>
-						<remainingDownloads>3</remainingDownloads>
-						<purchaseDate>2011-04-09T16:30:35+01:00</purchaseDate>
-						<downloadUrls>
-							<downloadUrl>
-								<url>http://media3.7digital.com/media/user/downloadtrack?formatid=17&amp;oauth_consumer_key=7digital.com&amp;oauth_nonce=193446&amp;oauth_signature_method=HMAC-SHA1&amp;oauth_timestamp=1302786566&amp;releaseid=188863&amp;shopid=34&amp;trackid=2052636&amp;oauth_signature=fky3BN0gEGrCeCviP%2FdefDnEPNU%3D</url>
-								<format id="17">
-									<fileFormat>MP3</fileFormat>
-									<bitRate>320</bitRate>
-									<drmFree>true</drmFree>
-								</format>
-							</downloadUrl>
-						</downloadUrls>
-					</lockerTrack>
-				</lockerTracks>
-			</lockerRelease>
-			<lockerRelease>
-				<release id="188863">
-					<title>Release 05</title>
-					<version/>
-					<type>Album</type>
-					<barcode>093624988298</barcode>
-					<artist id="304">
-						<name>F Artist</name>
-						<appearsAs>F Artist</appearsAs>
-						<url>http://www.7digital.com/artists/radiohead/?partner=712</url>
-					</artist>
-					<url>http://www.7digital.com/artists/radiohead/in-rainbows/?partner=712</url>
-					<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/001/888/0000188863_50.jpg</image>
-					<releaseDate>2007-12-31T00:00:00Z</releaseDate>
-				</release>
-				<lockerTracks>
-					<lockerTrack>
-						<track id="2052636">
-							<title>Track 01</title>
-							<version/>
-							<artist id="304">
-								<name>Artist</name>
-								<appearsAs>Artist</appearsAs>
-								<url>http://www.7digital.com/artists/radiohead/?partner=712</url>
-							</artist>
-							<url>http://www.7digital.com/artists/radiohead/in-rainbows/01-15-Step?partner=712&amp;partner=712</url>
-						</track>
-						<remainingDownloads>3</remainingDownloads>
-						<purchaseDate>2011-04-08T16:30:35+01:00</purchaseDate>
-						<downloadUrls>
-							<downloadUrl>
-								<url>http://media3.7digital.com/media/user/downloadtrack?formatid=17&amp;oauth_consumer_key=7digital.com&amp;oauth_nonce=193446&amp;oauth_signature_method=HMAC-SHA1&amp;oauth_timestamp=1302786566&amp;releaseid=188863&amp;shopid=34&amp;trackid=2052636&amp;oauth_signature=fky3BN0gEGrCeCviP%2FdefDnEPNU%3D</url>
-								<format id="17">
-									<fileFormat>MP3</fileFormat>
-									<bitRate>320</bitRate>
-									<drmFree>true</drmFree>
-								</format>
-							</downloadUrl>
-						</downloadUrls>
-					</lockerTrack>
-				</lockerTracks>
-			</lockerRelease>
-			<lockerRelease>
-				<release id="188863">
-					<title>Release 04</title>
-					<version/>
-					<type>Album</type>
-					<barcode>093624988298</barcode>
-					<artist id="304">
-						<name>G Artist</name>
-						<appearsAs>G Artist</appearsAs>
-						<url>http://www.7digital.com/artists/radiohead/?partner=712</url>
-					</artist>
-					<url>http://www.7digital.com/artists/radiohead/in-rainbows/?partner=712</url>
-					<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/001/888/0000188863_50.jpg</image>
-					<releaseDate>2007-12-31T00:00:00Z</releaseDate>
-				</release>
-				<lockerTracks>
-					<lockerTrack>
-						<track id="2052636">
-							<title>Track 01</title>
-							<version/>
-							<artist id="304">
-								<name>Artist</name>
-								<appearsAs>Artist</appearsAs>
-								<url>http://www.7digital.com/artists/radiohead/?partner=712</url>
-							</artist>
-							<url>http://www.7digital.com/artists/radiohead/in-rainbows/01-15-Step?partner=712&amp;partner=712</url>
-						</track>
-						<remainingDownloads>3</remainingDownloads>
-						<purchaseDate>2011-04-07T16:30:35+01:00</purchaseDate>
-						<downloadUrls>
-							<downloadUrl>
-								<url>http://media3.7digital.com/media/user/downloadtrack?formatid=17&amp;oauth_consumer_key=7digital.com&amp;oauth_nonce=193446&amp;oauth_signature_method=HMAC-SHA1&amp;oauth_timestamp=1302786566&amp;releaseid=188863&amp;shopid=34&amp;trackid=2052636&amp;oauth_signature=fky3BN0gEGrCeCviP%2FdefDnEPNU%3D</url>
-								<format id="17">
-									<fileFormat>MP3</fileFormat>
-									<bitRate>320</bitRate>
-									<drmFree>true</drmFree>
-								</format>
-							</downloadUrl>
-						</downloadUrls>
-					</lockerTrack>
-				</lockerTracks>
-			</lockerRelease>
-			<lockerRelease>
-				<release id="188863">
-					<title>Release 03</title>
-					<version/>
-					<type>Album</type>
-					<barcode>093624988298</barcode>
-					<artist id="304">
-						<name>H Artist</name>
-						<appearsAs>H Artist</appearsAs>
-						<url>http://www.7digital.com/artists/radiohead/?partner=712</url>
-					</artist>
-					<url>http://www.7digital.com/artists/radiohead/in-rainbows/?partner=712</url>
-					<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/001/888/0000188863_50.jpg</image>
-					<releaseDate>2007-12-31T00:00:00Z</releaseDate>
-				</release>
-				<lockerTracks>
-					<lockerTrack>
-						<track id="2052636">
-							<title>Track 01</title>
-							<version/>
-							<artist id="304">
-								<name>Artist</name>
-								<appearsAs>Artist</appearsAs>
-								<url>http://www.7digital.com/artists/radiohead/?partner=712</url>
-							</artist>
-							<url>http://www.7digital.com/artists/radiohead/in-rainbows/01-15-Step?partner=712&amp;partner=712</url>
-						</track>
-						<remainingDownloads>3</remainingDownloads>
-						<purchaseDate>2011-04-06T16:30:35+01:00</purchaseDate>
-						<downloadUrls>
-							<downloadUrl>
-								<url>http://media3.7digital.com/media/user/downloadtrack?formatid=17&amp;oauth_consumer_key=7digital.com&amp;oauth_nonce=193446&amp;oauth_signature_method=HMAC-SHA1&amp;oauth_timestamp=1302786566&amp;releaseid=188863&amp;shopid=34&amp;trackid=2052636&amp;oauth_signature=fky3BN0gEGrCeCviP%2FdefDnEPNU%3D</url>
-								<format id="17">
-									<fileFormat>MP3</fileFormat>
-									<bitRate>320</bitRate>
-									<drmFree>true</drmFree>
-								</format>
-							</downloadUrl>
-						</downloadUrls>
-					</lockerTrack>
-				</lockerTracks>
-			</lockerRelease>
-			<lockerRelease>
-				<release id="188863">
-					<title>Release 02</title>
-					<version/>
-					<type>Album</type>
-					<barcode>093624988298</barcode>
-					<artist id="304">
-						<name>I Artist</name>
-						<appearsAs>I Artist</appearsAs>
-						<url>http://www.7digital.com/artists/radiohead/?partner=712</url>
-					</artist>
-					<url>http://www.7digital.com/artists/radiohead/in-rainbows/?partner=712</url>
-					<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/001/888/0000188863_50.jpg</image>
-					<releaseDate>2007-12-31T00:00:00Z</releaseDate>
-				</release>
-				<lockerTracks>
-					<lockerTrack>
-						<track id="2052636">
-							<title>Track 01</title>
-							<version/>
-							<artist id="304">
-								<name>Artist</name>
-								<appearsAs>Artist</appearsAs>
-								<url>http://www.7digital.com/artists/radiohead/?partner=712</url>
-							</artist>
-							<url>http://www.7digital.com/artists/radiohead/in-rainbows/01-15-Step?partner=712&amp;partner=712</url>
-						</track>
-						<remainingDownloads>3</remainingDownloads>
-						<purchaseDate>2011-04-05T16:30:35+01:00</purchaseDate>
-						<downloadUrls>
-							<downloadUrl>
-								<url>http://media3.7digital.com/media/user/downloadtrack?formatid=17&amp;oauth_consumer_key=7digital.com&amp;oauth_nonce=193446&amp;oauth_signature_method=HMAC-SHA1&amp;oauth_timestamp=1302786566&amp;releaseid=188863&amp;shopid=34&amp;trackid=2052636&amp;oauth_signature=fky3BN0gEGrCeCviP%2FdefDnEPNU%3D</url>
-								<format id="17">
-									<fileFormat>MP3</fileFormat>
-									<bitRate>320</bitRate>
-									<drmFree>true</drmFree>
-								</format>
-							</downloadUrl>
-						</downloadUrls>
-					</lockerTrack>
-				</lockerTracks>
-			</lockerRelease>
-			<lockerRelease>
-				<release id="188863">
-					<title>Release 01</title>
-					<version/>
-					<type>Album</type>
-					<barcode>093624988298</barcode>
-					<artist id="304">
-						<name>J Artist</name>
-						<appearsAs>J Artist</appearsAs>
-						<url>http://www.7digital.com/artists/radiohead/?partner=712</url>
-					</artist>
-					<url>http://www.7digital.com/artists/radiohead/in-rainbows/?partner=712</url>
-					<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/001/888/0000188863_50.jpg</image>
-					<releaseDate>2007-12-31T00:00:00Z</releaseDate>
-				</release>
-				<lockerTracks>
-					<lockerTrack>
-						<track id="2052636">
-							<title>Track 01</title>
-							<version/>
-							<artist id="304">
-								<name>J Artist</name>
-								<appearsAs>Artist</appearsAs>
-								<url>http://www.7digital.com/artists/radiohead/?partner=712</url>
-							</artist>
-							<url>http://www.7digital.com/artists/radiohead/in-rainbows/01-15-Step?partner=712&amp;partner=712</url>
-						</track>
-						<remainingDownloads>3</remainingDownloads>
-						<purchaseDate>2011-04-04T16:30:35+01:00</purchaseDate>
-						<downloadUrls>
-							<downloadUrl>
-								<url>http://media3.7digital.com/media/user/downloadtrack?formatid=17&amp;oauth_consumer_key=7digital.com&amp;oauth_nonce=193446&amp;oauth_signature_method=HMAC-SHA1&amp;oauth_timestamp=1302786566&amp;releaseid=188863&amp;shopid=34&amp;trackid=2052636&amp;oauth_signature=fky3BN0gEGrCeCviP%2FdefDnEPNU%3D</url>
-								<format id="17">
-									<fileFormat>MP3</fileFormat>
-									<bitRate>320</bitRate>
-									<drmFree>true</drmFree>
-								</format>
-							</downloadUrl>
-						</downloadUrls>
-					</lockerTrack>
-				</lockerTracks>
-			</lockerRelease>
-		</lockerReleases>
-	</locker>
+  <locker>
+    <lockerReleases>
+      <page>1</page>
+      <pageSize>10</pageSize>
+      <totalItems>10</totalItems>
+      <lockerRelease>
+        <release id="188863">
+          <title>Release 10</title>
+          <version/>
+          <type>Album</type>
+          <barcode>093624988298</barcode>
+          <artist id="304">
+            <name>A Artist</name>
+            <appearsAs>A Artist</appearsAs>
+            <slug>radiohead</slug>
+          </artist>
+          <slug>radiohead</slug>
+          <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/001/888/0000188863_50.jpg</image>
+          <releaseDate>2007-12-31T00:00:00Z</releaseDate>
+        </release>
+        <lockerTracks>
+          <lockerTrack>
+            <track id="2052636">
+              <title>Track 01</title>
+              <version/>
+              <artist id="304">
+                <name>Artist</name>
+                <appearsAs>Artist</appearsAs>
+                <slug>radiohead</slug>
+              </artist>
+              <slug>radiohead</slug>
+            </track>
+            <remainingDownloads>3</remainingDownloads>
+            <purchaseDate>2011-04-13T16:30:35+01:00</purchaseDate>
+            <downloadUrls>
+              <downloadUrl>
+                <url>http://media3.7digital.com/media/user/downloadtrack?formatid=17&amp;oauth_consumer_key=7digital.com&amp;oauth_nonce=193446&amp;oauth_signature_method=HMAC-SHA1&amp;oauth_timestamp=1302786566&amp;releaseid=188863&amp;shopid=34&amp;trackid=2052636&amp;oauth_signature=fky3BN0gEGrCeCviP%2FdefDnEPNU%3D</url>
+                <format id="17">
+                  <fileFormat>MP3</fileFormat>
+                  <bitRate>320</bitRate>
+                  <drmFree>true</drmFree>
+                </format>
+              </downloadUrl>
+            </downloadUrls>
+          </lockerTrack>
+        </lockerTracks>
+      </lockerRelease>
+      <lockerRelease>
+        <release id="188863">
+          <title>Release 09</title>
+          <version/>
+          <type>Album</type>
+          <barcode>093624988298</barcode>
+          <artist id="304">
+            <name>B Artist</name>
+            <appearsAs>B Artist</appearsAs>
+            <slug>radiohead</slug>
+          </artist>
+          <slug>radiohead</slug>
+          <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/001/888/0000188863_50.jpg</image>
+          <releaseDate>2007-12-31T00:00:00Z</releaseDate>
+        </release>
+        <lockerTracks>
+          <lockerTrack>
+            <track id="2052636">
+              <title>Track 01</title>
+              <version/>
+              <artist id="304">
+                <name>Artist</name>
+                <appearsAs>Artist</appearsAs>
+                <slug>radiohead</slug>
+              </artist>
+              <slug>radiohead</slug>
+            </track>
+            <remainingDownloads>3</remainingDownloads>
+            <purchaseDate>2011-04-12T16:30:35+01:00</purchaseDate>
+            <downloadUrls>
+              <downloadUrl>
+                <url>http://media3.7digital.com/media/user/downloadtrack?formatid=17&amp;oauth_consumer_key=7digital.com&amp;oauth_nonce=193446&amp;oauth_signature_method=HMAC-SHA1&amp;oauth_timestamp=1302786566&amp;releaseid=188863&amp;shopid=34&amp;trackid=2052636&amp;oauth_signature=fky3BN0gEGrCeCviP%2FdefDnEPNU%3D</url>
+                <format id="17">
+                  <fileFormat>MP3</fileFormat>
+                  <bitRate>320</bitRate>
+                  <drmFree>true</drmFree>
+                </format>
+              </downloadUrl>
+            </downloadUrls>
+          </lockerTrack>
+        </lockerTracks>
+      </lockerRelease>
+      <lockerRelease>
+        <release id="188863">
+          <title>Release 08</title>
+          <version/>
+          <type>Album</type>
+          <barcode>093624988298</barcode>
+          <artist id="304">
+            <name>C Artist</name>
+            <appearsAs>C Artist</appearsAs>
+            <slug>radiohead</slug>
+          </artist>
+          <slug>radiohead</slug>
+          <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/001/888/0000188863_50.jpg</image>
+          <releaseDate>2007-12-31T00:00:00Z</releaseDate>
+        </release>
+        <lockerTracks>
+          <lockerTrack>
+            <track id="2052636">
+              <title>Track 01</title>
+              <version/>
+              <artist id="304">
+                <name>Artist</name>
+                <appearsAs>Artist</appearsAs>
+                <slug>radiohead</slug>
+              </artist>
+              <slug>radiohead</slug>
+            </track>
+            <remainingDownloads>3</remainingDownloads>
+            <purchaseDate>2011-04-11T16:30:35+01:00</purchaseDate>
+            <downloadUrls>
+              <downloadUrl>
+                <url>http://media3.7digital.com/media/user/downloadtrack?formatid=17&amp;oauth_consumer_key=7digital.com&amp;oauth_nonce=193446&amp;oauth_signature_method=HMAC-SHA1&amp;oauth_timestamp=1302786566&amp;releaseid=188863&amp;shopid=34&amp;trackid=2052636&amp;oauth_signature=fky3BN0gEGrCeCviP%2FdefDnEPNU%3D</url>
+                <format id="17">
+                  <fileFormat>MP3</fileFormat>
+                  <bitRate>320</bitRate>
+                  <drmFree>true</drmFree>
+                </format>
+              </downloadUrl>
+            </downloadUrls>
+          </lockerTrack>
+        </lockerTracks>
+      </lockerRelease>
+      <lockerRelease>
+        <release id="188863">
+          <title>Release 07</title>
+          <version/>
+          <type>Album</type>
+          <barcode>093624988298</barcode>
+          <artist id="304">
+            <name>D Artist</name>
+            <appearsAs>D Artist</appearsAs>
+            <slug>radiohead</slug>
+          </artist>
+          <slug>radiohead</slug>
+          <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/001/888/0000188863_50.jpg</image>
+          <releaseDate>2007-12-31T00:00:00Z</releaseDate>
+        </release>
+        <lockerTracks>
+          <lockerTrack>
+            <track id="2052636">
+              <title>Track 01</title>
+              <version/>
+              <artist id="304">
+                <name>Artist</name>
+                <appearsAs>Artist</appearsAs>
+                <slug>radiohead</slug>
+              </artist>
+              <slug>radiohead</slug>
+            </track>
+            <remainingDownloads>3</remainingDownloads>
+            <purchaseDate>2011-04-10T16:30:35+01:00</purchaseDate>
+            <downloadUrls>
+              <downloadUrl>
+                <url>http://media3.7digital.com/media/user/downloadtrack?formatid=17&amp;oauth_consumer_key=7digital.com&amp;oauth_nonce=193446&amp;oauth_signature_method=HMAC-SHA1&amp;oauth_timestamp=1302786566&amp;releaseid=188863&amp;shopid=34&amp;trackid=2052636&amp;oauth_signature=fky3BN0gEGrCeCviP%2FdefDnEPNU%3D</url>
+                <format id="17">
+                  <fileFormat>MP3</fileFormat>
+                  <bitRate>320</bitRate>
+                  <drmFree>true</drmFree>
+                </format>
+              </downloadUrl>
+            </downloadUrls>
+          </lockerTrack>
+        </lockerTracks>
+      </lockerRelease>
+      <lockerRelease>
+        <release id="188863">
+          <title>Release 06</title>
+          <version/>
+          <type>Album</type>
+          <barcode>093624988298</barcode>
+          <artist id="304">
+            <name>E Artist</name>
+            <appearsAs>E Artist</appearsAs>
+            <slug>radiohead</slug>
+          </artist>
+          <slug>radiohead</slug>
+          <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/001/888/0000188863_50.jpg</image>
+          <releaseDate>2007-12-31T00:00:00Z</releaseDate>
+        </release>
+        <lockerTracks>
+          <lockerTrack>
+            <track id="2052636">
+              <title>Track 01</title>
+              <version/>
+              <artist id="304">
+                <name>Artist</name>
+                <appearsAs>Artist</appearsAs>
+                <slug>radiohead</slug>
+              </artist>
+              <slug>radiohead</slug>
+            </track>
+            <remainingDownloads>3</remainingDownloads>
+            <purchaseDate>2011-04-09T16:30:35+01:00</purchaseDate>
+            <downloadUrls>
+              <downloadUrl>
+                <url>http://media3.7digital.com/media/user/downloadtrack?formatid=17&amp;oauth_consumer_key=7digital.com&amp;oauth_nonce=193446&amp;oauth_signature_method=HMAC-SHA1&amp;oauth_timestamp=1302786566&amp;releaseid=188863&amp;shopid=34&amp;trackid=2052636&amp;oauth_signature=fky3BN0gEGrCeCviP%2FdefDnEPNU%3D</url>
+                <format id="17">
+                  <fileFormat>MP3</fileFormat>
+                  <bitRate>320</bitRate>
+                  <drmFree>true</drmFree>
+                </format>
+              </downloadUrl>
+            </downloadUrls>
+          </lockerTrack>
+        </lockerTracks>
+      </lockerRelease>
+      <lockerRelease>
+        <release id="188863">
+          <title>Release 05</title>
+          <version/>
+          <type>Album</type>
+          <barcode>093624988298</barcode>
+          <artist id="304">
+            <name>F Artist</name>
+            <appearsAs>F Artist</appearsAs>
+            <slug>radiohead</slug>
+          </artist>
+          <slug>radiohead</slug>
+          <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/001/888/0000188863_50.jpg</image>
+          <releaseDate>2007-12-31T00:00:00Z</releaseDate>
+        </release>
+        <lockerTracks>
+          <lockerTrack>
+            <track id="2052636">
+              <title>Track 01</title>
+              <version/>
+              <artist id="304">
+                <name>Artist</name>
+                <appearsAs>Artist</appearsAs>
+                <slug>radiohead</slug>
+              </artist>
+              <slug>radiohead</slug>
+            </track>
+            <remainingDownloads>3</remainingDownloads>
+            <purchaseDate>2011-04-08T16:30:35+01:00</purchaseDate>
+            <downloadUrls>
+              <downloadUrl>
+                <url>http://media3.7digital.com/media/user/downloadtrack?formatid=17&amp;oauth_consumer_key=7digital.com&amp;oauth_nonce=193446&amp;oauth_signature_method=HMAC-SHA1&amp;oauth_timestamp=1302786566&amp;releaseid=188863&amp;shopid=34&amp;trackid=2052636&amp;oauth_signature=fky3BN0gEGrCeCviP%2FdefDnEPNU%3D</url>
+                <format id="17">
+                  <fileFormat>MP3</fileFormat>
+                  <bitRate>320</bitRate>
+                  <drmFree>true</drmFree>
+                </format>
+              </downloadUrl>
+            </downloadUrls>
+          </lockerTrack>
+        </lockerTracks>
+      </lockerRelease>
+      <lockerRelease>
+        <release id="188863">
+          <title>Release 04</title>
+          <version/>
+          <type>Album</type>
+          <barcode>093624988298</barcode>
+          <artist id="304">
+            <name>G Artist</name>
+            <appearsAs>G Artist</appearsAs>
+            <slug>radiohead</slug>
+          </artist>
+          <slug>radiohead</slug>
+          <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/001/888/0000188863_50.jpg</image>
+          <releaseDate>2007-12-31T00:00:00Z</releaseDate>
+        </release>
+        <lockerTracks>
+          <lockerTrack>
+            <track id="2052636">
+              <title>Track 01</title>
+              <version/>
+              <artist id="304">
+                <name>Artist</name>
+                <appearsAs>Artist</appearsAs>
+                <slug>radiohead</slug>
+              </artist>
+              <slug>radiohead</slug>
+            </track>
+            <remainingDownloads>3</remainingDownloads>
+            <purchaseDate>2011-04-07T16:30:35+01:00</purchaseDate>
+            <downloadUrls>
+              <downloadUrl>
+                <url>http://media3.7digital.com/media/user/downloadtrack?formatid=17&amp;oauth_consumer_key=7digital.com&amp;oauth_nonce=193446&amp;oauth_signature_method=HMAC-SHA1&amp;oauth_timestamp=1302786566&amp;releaseid=188863&amp;shopid=34&amp;trackid=2052636&amp;oauth_signature=fky3BN0gEGrCeCviP%2FdefDnEPNU%3D</url>
+                <format id="17">
+                  <fileFormat>MP3</fileFormat>
+                  <bitRate>320</bitRate>
+                  <drmFree>true</drmFree>
+                </format>
+              </downloadUrl>
+            </downloadUrls>
+          </lockerTrack>
+        </lockerTracks>
+      </lockerRelease>
+      <lockerRelease>
+        <release id="188863">
+          <title>Release 03</title>
+          <version/>
+          <type>Album</type>
+          <barcode>093624988298</barcode>
+          <artist id="304">
+            <name>H Artist</name>
+            <appearsAs>H Artist</appearsAs>
+            <slug>radiohead</slug>
+          </artist>
+          <slug>radiohead</slug>
+          <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/001/888/0000188863_50.jpg</image>
+          <releaseDate>2007-12-31T00:00:00Z</releaseDate>
+        </release>
+        <lockerTracks>
+          <lockerTrack>
+            <track id="2052636">
+              <title>Track 01</title>
+              <version/>
+              <artist id="304">
+                <name>Artist</name>
+                <appearsAs>Artist</appearsAs>
+                <slug>radiohead</slug>
+              </artist>
+              <slug>radiohead</slug>
+            </track>
+            <remainingDownloads>3</remainingDownloads>
+            <purchaseDate>2011-04-06T16:30:35+01:00</purchaseDate>
+            <downloadUrls>
+              <downloadUrl>
+                <url>http://media3.7digital.com/media/user/downloadtrack?formatid=17&amp;oauth_consumer_key=7digital.com&amp;oauth_nonce=193446&amp;oauth_signature_method=HMAC-SHA1&amp;oauth_timestamp=1302786566&amp;releaseid=188863&amp;shopid=34&amp;trackid=2052636&amp;oauth_signature=fky3BN0gEGrCeCviP%2FdefDnEPNU%3D</url>
+                <format id="17">
+                  <fileFormat>MP3</fileFormat>
+                  <bitRate>320</bitRate>
+                  <drmFree>true</drmFree>
+                </format>
+              </downloadUrl>
+            </downloadUrls>
+          </lockerTrack>
+        </lockerTracks>
+      </lockerRelease>
+      <lockerRelease>
+        <release id="188863">
+          <title>Release 02</title>
+          <version/>
+          <type>Album</type>
+          <barcode>093624988298</barcode>
+          <artist id="304">
+            <name>I Artist</name>
+            <appearsAs>I Artist</appearsAs>
+            <slug>radiohead</slug>
+          </artist>
+          <slug>radiohead</slug>
+          <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/001/888/0000188863_50.jpg</image>
+          <releaseDate>2007-12-31T00:00:00Z</releaseDate>
+        </release>
+        <lockerTracks>
+          <lockerTrack>
+            <track id="2052636">
+              <title>Track 01</title>
+              <version/>
+              <artist id="304">
+                <name>Artist</name>
+                <appearsAs>Artist</appearsAs>
+                <slug>radiohead</slug>
+              </artist>
+              <slug>radiohead</slug>
+            </track>
+            <remainingDownloads>3</remainingDownloads>
+            <purchaseDate>2011-04-05T16:30:35+01:00</purchaseDate>
+            <downloadUrls>
+              <downloadUrl>
+                <url>http://media3.7digital.com/media/user/downloadtrack?formatid=17&amp;oauth_consumer_key=7digital.com&amp;oauth_nonce=193446&amp;oauth_signature_method=HMAC-SHA1&amp;oauth_timestamp=1302786566&amp;releaseid=188863&amp;shopid=34&amp;trackid=2052636&amp;oauth_signature=fky3BN0gEGrCeCviP%2FdefDnEPNU%3D</url>
+                <format id="17">
+                  <fileFormat>MP3</fileFormat>
+                  <bitRate>320</bitRate>
+                  <drmFree>true</drmFree>
+                </format>
+              </downloadUrl>
+            </downloadUrls>
+          </lockerTrack>
+        </lockerTracks>
+      </lockerRelease>
+      <lockerRelease>
+        <release id="188863">
+          <title>Release 01</title>
+          <version/>
+          <type>Album</type>
+          <barcode>093624988298</barcode>
+          <artist id="304">
+            <name>J Artist</name>
+            <appearsAs>J Artist</appearsAs>
+            <slug>radiohead</slug>
+          </artist>
+          <slug>radiohead</slug>
+          <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/001/888/0000188863_50.jpg</image>
+          <releaseDate>2007-12-31T00:00:00Z</releaseDate>
+        </release>
+        <lockerTracks>
+          <lockerTrack>
+            <track id="2052636">
+              <title>Track 01</title>
+              <version/>
+              <artist id="304">
+                <name>J Artist</name>
+                <appearsAs>Artist</appearsAs>
+                <slug>radiohead</slug>
+              </artist>
+              <slug>radiohead</slug>
+            </track>
+            <remainingDownloads>3</remainingDownloads>
+            <purchaseDate>2011-04-04T16:30:35+01:00</purchaseDate>
+            <downloadUrls>
+              <downloadUrl>
+                <url>http://media3.7digital.com/media/user/downloadtrack?formatid=17&amp;oauth_consumer_key=7digital.com&amp;oauth_nonce=193446&amp;oauth_signature_method=HMAC-SHA1&amp;oauth_timestamp=1302786566&amp;releaseid=188863&amp;shopid=34&amp;trackid=2052636&amp;oauth_signature=fky3BN0gEGrCeCviP%2FdefDnEPNU%3D</url>
+                <format id="17">
+                  <fileFormat>MP3</fileFormat>
+                  <bitRate>320</bitRate>
+                  <drmFree>true</drmFree>
+                </format>
+              </downloadUrl>
+            </downloadUrls>
+          </lockerTrack>
+        </lockerTracks>
+      </lockerRelease>
+    </lockerReleases>
+  </locker>
 </response>

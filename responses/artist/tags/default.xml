@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <response xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" status="ok" version="1.2" xsi:noNamespaceSchemaLocation="http://api.7digital.com/1.2/static/7digitalAPI.xsd">
-	<tags>
-		<page>1</page>
-		<pageSize>10</pageSize>
-		<totalItems>3</totalItems>
-		<tag id="rock">
-			<text>rock</text>
-			<url>http://www.7digital.com/tags/rock?partner=712</url>
-		</tag>
-		<tag id="pop">
-			<text>pop</text>
-			<url>http://www.7digital.com/tags/pop?partner=712</url>
-		</tag>
-		<tag id="2000s">
-			<text>2000s</text>
-			<url>http://www.7digital.com/tags/2000s?partner=712</url>
-		</tag>
-	</tags>
+  <tags>
+    <page>1</page>
+    <pageSize>10</pageSize>
+    <totalItems>3</totalItems>
+    <tag id="rock">
+      <text>rock</text>
+      <url>http://www.7digital.com/tags/rock?partner=712</url>
+    </tag>
+    <tag id="pop">
+      <text>pop</text>
+      <url>http://www.7digital.com/tags/pop?partner=712</url>
+    </tag>
+    <tag id="2000s">
+      <text>2000s</text>
+      <url>http://www.7digital.com/tags/2000s?partner=712</url>
+    </tag>
+  </tags>
 </response>

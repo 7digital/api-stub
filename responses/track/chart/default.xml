@@ -1,551 +1,541 @@
 <?xml version="1.0" encoding="utf-8"?>
 <response xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" status="ok" version="1.2" xsi:noNamespaceSchemaLocation="http://api.7digital.com/1.2/static/7digitalAPI.xsd">
-	<chart>
-		<page>1</page>
-		<pageSize>10</pageSize>
-		<totalItems>20</totalItems>
-		<type>track</type>
-		<fromDate>2011-04-25T00:00:00+01:00</fromDate>
-		<toDate>2011-05-01T00:00:00+01:00</toDate>
-		<chartItem>
-			<position>1</position>
-			<change>New</change>
-			<track id="12463944">
-				<title>Track 1</title>
-				<version/>
-				<artist id="312836">
-					<name>LMFAO</name>
-					<appearsAs>LMFAO / GoonRock / Lauren Bennett</appearsAs>
-					<url>http://www.7digital.com/artists/lmfao/?partner=1401</url>
-				</artist>
-				<trackNumber>1</trackNumber>
-				<duration>263</duration>
-				<release id="1127570">
-					<title>Party Rock Anthem</title>
-					<version/>
-					<type>Single</type>
-					<barcode>00602527629773</barcode>
-					<artist id="312836">
-						<name>LMFAO</name>
-						<appearsAs>LMFAO / GoonRock / Lauren Bennett</appearsAs>
-						<url>http://www.7digital.com/artists/lmfao/?partner=1401</url>
-					</artist>
-					<url>http://www.7digital.com/artists/lmfao/party-rock-anthem/?partner=1401</url>
-					<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/011/275/0001127570_50.jpg</image>
-				</release>
-				<price>
-					<currency code="GBP">£</currency>
-					<value>0.99</value>
-					<formattedPrice>£0.99</formattedPrice>
-					<rrp>0.99</rrp>
-					<formattedRrp>£0.99</formattedRrp>
-					<onSale>false</onSale>
-				</price>
-				<download>
-					<packages>
-						<package id="2">
-							<description>standard</description>
-							<price>
-								<currencyCode>GBP</currencyCode>
-								<sevendigitalPrice>0.99</sevendigitalPrice>
-								<recommendedRetailPrice>0.99</recommendedRetailPrice>
-							</price>
-							<formats>
-								<format id="17">
-									<description>MP3 320</description>
-								</format>
-							</formats>
-						</package>
-					</packages>
-				</download>
-				<url>http://www.7digital.com/artists/lmfao/party-rock-anthem/01-Party-Rock-Anthem?partner=1401&amp;partner=1401</url>
-			</track>
-		</chartItem>
-		<chartItem>
-			<position>2</position>
-			<change>New</change>
-			<track id="6930065">
-				<title>On The Floor</title>
-				<version/>
-				<artist id="21255">
-					<name>Jennifer Lopez</name>
-					<appearsAs>Jennifer Lopez / Pitbull</appearsAs>
-					<url>http://www.7digital.com/artists/jennifer-lopez/?partner=1401</url>
-				</artist>
-				<trackNumber>1</trackNumber>
-				<duration>231</duration>
-				<release id="1148928">
-					<title>On The Floor</title>
-					<version/>
-					<type>Single</type>
-					<barcode>00602527636436</barcode>
-					<artist id="21255">
-						<name>Jennifer Lopez</name>
-						<appearsAs>Jennifer Lopez / Pitbull</appearsAs>
-						<url>http://www.7digital.com/artists/jennifer-lopez/?partner=1401</url>
-					</artist>
-					<url>http://www.7digital.com/artists/jennifer-lopez/on-the-floor/?partner=1401</url>
-					<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/011/489/0001148928_50.jpg</image>
-				</release>
-				<price>
-					<currency code="GBP">£</currency>
-					<value>0.99</value>
-					<formattedPrice>£0.99</formattedPrice>
-					<rrp>0.99</rrp>
-					<onSale>false</onSale>
-					<formattedRrp>£0.99</formattedRrp>
-				</price>
-				<download>
-					<packages>
-						<package id="2">
-							<description>standard</description>
-							<price>
-								<currencyCode>GBP</currencyCode>
-								<sevendigitalPrice>0.99</sevendigitalPrice>
-								<recommendedRetailPrice>0.99</recommendedRetailPrice>
-							</price>
-							<formats>
-								<format id="17">
-									<description>MP3 320</description>
-								</format>
-							</formats>
-						</package>
-					</packages>
-				</download>
-				<url>http://www.7digital.com/artists/jennifer-lopez/on-the-floor/01-On-The-Floor?partner=1401&amp;partner=1401</url>
-			</track>
-		</chartItem>
-		<chartItem>
-			<position>3</position>
-			<change>New</change>
-			<track id="13066765">
-				<title>Sweat (Snoop Dogg vs. David Guetta) [Remix]</title>
-				<version/>
-				<artist id="1130">
-					<name>Snoop Dogg</name>
-					<appearsAs>Snoop Dogg vs. David Guetta</appearsAs>
-					<url>http://www.7digital.com/artists/snoop-dogg/?partner=1401</url>
-				</artist>
-				<trackNumber>1</trackNumber>
-				<duration>196</duration>
-				<release id="1179600">
-					<title>Sweat (Snoop Dogg vs. David Guetta) [Remix]</title>
-					<version/>
-					<type>Single</type>
-					<barcode>5099902734453</barcode>
-					<artist id="1130">
-						<name>Snoop Dogg</name>
-						<appearsAs>Snoop Dogg vs. David Guetta</appearsAs>
-						<url>http://www.7digital.com/artists/snoop-dogg/?partner=1401</url>
-					</artist>
-					<url>http://www.7digital.com/artists/snoop-dogg/sweat-david-guetta-remix/?partner=1401</url>
-					<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/011/796/0001179600_50.jpg</image>
-				</release>
-				<price>
-					<currency code="GBP">£</currency>
-					<value>0.99</value>
-					<formattedPrice>£0.99</formattedPrice>
-					<rrp>0.99</rrp>
-					<formattedRrp>£0.99</formattedRrp>
-					<onSale>false</onSale>
-				</price>
-				<download>
-					<packages>
-						<package id="2">
-							<description>standard</description>
-							<price>
-								<currencyCode>GBP</currencyCode>
-								<sevendigitalPrice>0.99</sevendigitalPrice>
-								<recommendedRetailPrice>0.99</recommendedRetailPrice>
-							</price>
-							<formats>
-								<format id="17">
-									<description>MP3 320</description>
-								</format>
-							</formats>
-						</package>
-					</packages>
-				</download>
-				<url>http://www.7digital.com/artists/snoop-dogg/sweat-david-guetta-remix/01-Sweat-(Snoop-Dogg-vs-David-Guetta)-[Remix]?partner=1401&amp;partner=1401</url>
-			</track>
-		</chartItem>
-		<chartItem>
-			<position>4</position>
-			<change>New</change>
-			<track id="12888839">
-				<title>E.T. (feat. Kanye West)</title>
-				<version/>
-				<artist id="132789">
-					<name>Katy Perry</name>
-					<appearsAs>Katy Perry</appearsAs>
-					<url>http://www.7digital.com/artists/katy-perry/?partner=1401</url>
-				</artist>
-				<trackNumber>1</trackNumber>
-				<duration>229</duration>
-				<release id="1164194">
-					<title>E.T. (featuring Kanye West)</title>
-					<version/>
-					<type>Single</type>
-					<barcode>5099909812956</barcode>
-					<artist id="132789">
-						<name>Katy Perry</name>
-						<appearsAs>Katy Perry</appearsAs>
-						<url>http://www.7digital.com/artists/katy-perry/?partner=1401</url>
-					</artist>
-					<url>http://www.7digital.com/artists/katy-perry/e-t-featuring-kanye-west/?partner=1401</url>
-					<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/011/641/0001164194_50.jpg</image>
-				</release>
-				<price>
-					<currency code="GBP">£</currency>
-					<value>0.99</value>
-					<formattedPrice>£0.99</formattedPrice>
-					<rrp>0.99</rrp>
-					<formattedRrp>£0.99</formattedRrp>
-					<onSale>false</onSale>
-				</price>
-				<download>
-					<packages>
-						<package id="2">
-							<description>standard</description>
-							<price>
-								<currencyCode>GBP</currencyCode>
-								<sevendigitalPrice>0.99</sevendigitalPrice>
-								<recommendedRetailPrice>0.99</recommendedRetailPrice>
-							</price>
-							<formats>
-								<format id="17">
-									<description>MP3 320</description>
-								</format>
-							</formats>
-						</package>
-					</packages>
-				</download>
-				<url>http://www.7digital.com/artists/katy-perry/e-t-featuring-kanye-west/01-E-T-(feat-Kanye-West)?partner=1401&amp;partner=1401</url>
-			</track>
-		</chartItem>
-		<chartItem>
-			<position>5</position>
-			<change>New</change>
-			<track id="11811836">
-				<title>Someone Like You</title>
-				<version/>
-				<artist id="142111">
-					<name>Adele</name>
-					<appearsAs>Adele</appearsAs>
-					<url>http://www.7digital.com/artists/adele/?partner=1401</url>
-				</artist>
-				<trackNumber>11</trackNumber>
-				<duration>285</duration>
-				<release id="1076864">
-					<title>21</title>
-					<version/>
-					<type>Album</type>
-					<barcode>634904052065</barcode>
-					<artist id="142111">
-						<name>Adele</name>
-						<appearsAs>Adele</appearsAs>
-						<url>http://www.7digital.com/artists/adele/?partner=1401</url>
-					</artist>
-					<url>http://www.7digital.com/artists/adele/21/?partner=1401</url>
-					<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/010/768/0001076864_50.jpg</image>
-				</release>
-				<price>
-					<currency code="GBP">£</currency>
-					<value>0.99</value>
-					<formattedPrice>£0.99</formattedPrice>
-					<rrp>0.99</rrp>
-					<onSale>false</onSale>
-					<formattedRrp>£0.99</formattedRrp>
-				</price>
-				<download>
-					<packages>
-						<package id="2">
-							<description>standard</description>
-							<price>
-								<currencyCode>GBP</currencyCode>
-								<sevendigitalPrice>0.99</sevendigitalPrice>
-								<recommendedRetailPrice>0.99</recommendedRetailPrice>
-							</price>
-							<formats>
-								<format id="17">
-									<description>MP3 320</description>
-								</format>
-							</formats>
-						</package>
-					</packages>
-				</download>
-				<url>http://www.7digital.com/artists/adele/21/11-Someone-Like-You?partner=1401&amp;partner=1401</url>
-			</track>
-		</chartItem>
-		<chartItem>
-			<position>6</position>
-			<change>New</change>
-			<track id="13523564">
-				<title>Judas</title>
-				<version/>
-				<artist id="237973">
-					<name>Lady GaGa</name>
-					<appearsAs>Lady GaGa</appearsAs>
-					<url>http://www.7digital.com/artists/lady-gaga/?partner=1401</url>
-				</artist>
-				<trackNumber>1</trackNumber>
-				<duration>250</duration>
-				<release id="1222117">
-					<title>Judas</title>
-					<version/>
-					<type>Single</type>
-					<barcode>00602527704630</barcode>
-					<artist id="237973">
-						<name>Lady GaGa</name>
-						<appearsAs>Lady GaGa</appearsAs>
-						<url>http://www.7digital.com/artists/lady-gaga/?partner=1401</url>
-					</artist>
-					<url>http://www.7digital.com/artists/lady-gaga/judas/?partner=1401</url>
-					<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/012/221/0001222117_50.jpg</image>
-				</release>
-				<price>
-					<currency code="GBP">£</currency>
-					<value>0.99</value>
-					<formattedPrice>£0.99</formattedPrice>
-					<rrp>0.99</rrp>
-					<formattedRrp>£0.99</formattedRrp>
-					<onSale>false</onSale>
-				</price>
-				<download>
-					<packages>
-						<package id="2">
-							<description>standard</description>
-							<price>
-								<currencyCode>GBP</currencyCode>
-								<sevendigitalPrice>0.99</sevendigitalPrice>
-								<recommendedRetailPrice>0.99</recommendedRetailPrice>
-							</price>
-							<formats>
-								<format id="17">
-									<description>MP3 320</description>
-								</format>
-							</formats>
-						</package>
-					</packages>
-				</download>
-				<url>http://www.7digital.com/artists/lady-gaga/judas/01-Judas?partner=1401&amp;partner=1401</url>
-			</track>
-		</chartItem>
-		<chartItem>
-			<position>7</position>
-			<change>New</change>
-			<track id="13275771">
-				<title>Beautiful People</title>
-				<version>Main Version</version>
-				<artist id="951348">
-					<name>Chris Brown feat. Benny Benassi</name>
-					<appearsAs>Chris Brown feat. Benny Benassi</appearsAs>
-					<url>http://www.7digital.com/artists/chris-brown-feat-benny-benassi/?partner=1401</url>
-				</artist>
-				<trackNumber>13</trackNumber>
-				<duration>225</duration>
-				<release id="1199062">
-					<title>F.A.M.E. (Deluxe Version)</title>
-					<version/>
-					<type>Album</type>
-					<barcode>886443000704</barcode>
-					<artist id="15239">
-						<name>Chris Brown</name>
-						<appearsAs>Chris Brown</appearsAs>
-						<url>http://www.7digital.com/artists/chris-brown-(2)/?partner=1401</url>
-					</artist>
-					<url>http://www.7digital.com/artists/chris-brown-(2)/f-a-m-e-deluxe-version-5/?partner=1401</url>
-					<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/011/990/0001199062_50.jpg</image>
-				</release>
-				<price>
-					<currency code="GBP">£</currency>
-					<value>0.99</value>
-					<formattedPrice>£0.99</formattedPrice>
-					<rrp>0.99</rrp>
-					<onSale>false</onSale>
-					<formattedRrp>£0.99</formattedRrp>
-				</price>
-				<download>
-					<packages>
-						<package id="2">
-							<description>standard</description>
-							<price>
-								<currencyCode>GBP</currencyCode>
-								<sevendigitalPrice>0.99</sevendigitalPrice>
-								<recommendedRetailPrice>0.99</recommendedRetailPrice>
-							</price>
-							<formats>
-								<format id="17">
-									<description>MP3 320</description>
-								</format>
-							</formats>
-						</package>
-					</packages>
-				</download>
-				<url>http://www.7digital.com/artists/chris-brown-(2)/f-a-m-e-deluxe-version-5/13-Beautiful-People?partner=1401&amp;partner=1401</url>
-			</track>
-		</chartItem>
-		<chartItem>
-			<position>8</position>
-			<change>New</change>
-			<track id="13541989">
-				<title>Penny Arcade (Rangers FC Charity Single)</title>
-				<version/>
-				<artist id="982647">
-					<name>Sammy King</name>
-					<appearsAs>Sammy King</appearsAs>
-					<url>http://www.7digital.com/artists/sammy-king/?partner=1401</url>
-				</artist>
-				<trackNumber>1</trackNumber>
-				<duration>210</duration>
-				<release id="1223853">
-					<title>Penny Arcade (Rangers FC Charity Single)</title>
-					<version/>
-					<type>Single</type>
-					<barcode>5055028963221</barcode>
-					<artist id="982647">
-						<name>Sammy King</name>
-						<appearsAs>Sammy King</appearsAs>
-						<url>http://www.7digital.com/artists/sammy-king/?partner=1401</url>
-					</artist>
-					<url>http://www.7digital.com/artists/sammy-king/penny-arcade-rangers-fc-charity-single/?partner=1401</url>
-					<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/012/238/0001223853_50.jpg</image>
-				</release>
-				<price>
-					<currency code="GBP">£</currency>
-					<value>0.99</value>
-					<formattedPrice>£0.99</formattedPrice>
-					<rrp>0.99</rrp>
-					<formattedRrp>£0.99</formattedRrp>
-					<onSale>false</onSale>
-				</price>
-				<download>
-					<packages>
-						<package id="2">
-							<description>standard</description>
-							<price>
-								<currencyCode>GBP</currencyCode>
-								<sevendigitalPrice>0.99</sevendigitalPrice>
-								<recommendedRetailPrice>0.99</recommendedRetailPrice>
-							</price>
-							<formats>
-								<format id="17">
-									<description>MP3 320</description>
-								</format>
-							</formats>
-						</package>
-					</packages>
-				</download>
-				<url>http://www.7digital.com/artists/sammy-king/penny-arcade-rangers-fc-charity-single/01-Penny-Arcade-(Rangers-FC-Charity-Single)?partner=1401&amp;partner=1401</url>
-			</track>
-		</chartItem>
-		<chartItem>
-			<position>9</position>
-			<change>New</change>
-			<track id="11439519">
-				<title>Just Can’t Get Enough</title>
-				<version>Album Version</version>
-				<artist id="263">
-					<name>Black Eyed Peas</name>
-					<appearsAs>The Black Eyed Peas</appearsAs>
-					<url>http://www.7digital.com/artists/black-eyed-peas/?partner=1401</url>
-				</artist>
-				<trackNumber>11</trackNumber>
-				<duration>219</duration>
-				<release id="1041028">
-					<title>The Beginning</title>
-					<version/>
-					<type>Album</type>
-					<barcode>00602527548999</barcode>
-					<artist id="263">
-						<name>Black Eyed Peas</name>
-						<appearsAs>The Black Eyed Peas</appearsAs>
-						<url>http://www.7digital.com/artists/black-eyed-peas/?partner=1401</url>
-					</artist>
-					<url>http://www.7digital.com/artists/black-eyed-peas/the-beginning/?partner=1401</url>
-					<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/010/410/0001041028_50.jpg</image>
-				</release>
-				<price>
-					<currency code="GBP">£</currency>
-					<value>0.99</value>
-					<formattedPrice>£0.99</formattedPrice>
-					<rrp>0.99</rrp>
-					<onSale>false</onSale>
-					<formattedRrp>£0.99</formattedRrp>
-				</price>
-				<download>
-					<packages>
-						<package id="2">
-							<description>standard</description>
-							<price>
-								<currencyCode>GBP</currencyCode>
-								<sevendigitalPrice>0.99</sevendigitalPrice>
-								<recommendedRetailPrice>0.99</recommendedRetailPrice>
-							</price>
-							<formats>
-								<format id="17">
-									<description>MP3 320</description>
-								</format>
-							</formats>
-						</package>
-					</packages>
-				</download>
-				<url>http://www.7digital.com/artists/black-eyed-peas/the-beginning/11-Just-Can-t-Get-Enough?partner=1401&amp;partner=1401</url>
-			</track>
-		</chartItem>
-		<chartItem>
-			<position>10</position>
-			<change>New</change>
-			<track id="11681784">
-				<title>Buzzin Remix</title>
-				<version>Explicit Version</version>
-				<artist id="890157">
-					<name>Mann / 50 Cent</name>
-					<appearsAs>Mann / 50 Cent</appearsAs>
-					<url>http://www.7digital.com/artists/mann-50-cent/?partner=1401</url>
-				</artist>
-				<trackNumber>1</trackNumber>
-				<duration>224</duration>
-				<release id="1063821">
-					<title>Buzzin Remix</title>
-					<version>Explicit Version</version>
-					<type>Single</type>
-					<barcode>00602527612775</barcode>
-					<artist id="890157">
-						<name>Mann / 50 Cent</name>
-						<appearsAs>Mann / 50 Cent</appearsAs>
-						<url>http://www.7digital.com/artists/mann-50-cent/?partner=1401</url>
-					</artist>
-					<url>http://www.7digital.com/artists/mann-50-cent/buzzin-remix/?partner=1401</url>
-					<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/010/638/0001063821_50.jpg</image>
-				</release>
-				<price>
-					<currency code="GBP">£</currency>
-					<value>0.99</value>
-					<formattedPrice>£0.99</formattedPrice>
-					<rrp>0.99</rrp>
-					<formattedRrp>£0.99</formattedRrp>
-					<onSale>false</onSale>
-				</price>
-				<download>
-					<packages>
-						<package id="2">
-							<description>standard</description>
-							<price>
-								<currencyCode>GBP</currencyCode>
-								<sevendigitalPrice>0.99</sevendigitalPrice>
-								<recommendedRetailPrice>0.99</recommendedRetailPrice>
-							</price>
-							<formats>
-								<format id="17">
-									<description>MP3 320</description>
-								</format>
-							</formats>
-						</package>
-					</packages>
-				</download>
-				<url>http://www.7digital.com/artists/mann-50-cent/buzzin-remix/01-Buzzin-Remix?partner=1401&amp;partner=1401</url>
-			</track>
-		</chartItem>
-	</chart>
+  <chart>
+    <page>1</page>
+    <pageSize>10</pageSize>
+    <totalItems>20</totalItems>
+    <type>track</type>
+    <fromDate>2011-04-25T00:00:00+01:00</fromDate>
+    <toDate>2011-05-01T00:00:00+01:00</toDate>
+    <chartItem>
+      <position>1</position>
+      <change>New</change>
+      <track id="12463944">
+        <title>Track 1</title>
+        <version/>
+        <artist id="312836">
+          <name>LMFAO</name>
+          <appearsAs>LMFAO / GoonRock / Lauren Bennett</appearsAs>
+          <slug>lmfao</slug>
+        </artist>
+        <trackNumber>1</trackNumber>
+        <duration>263</duration>
+        <release id="1127570">
+          <title>Party Rock Anthem</title>
+          <version/>
+          <type>Single</type>
+          <barcode>00602527629773</barcode>
+          <artist id="312836">
+            <name>LMFAO</name>
+            <appearsAs>LMFAO / GoonRock / Lauren Bennett</appearsAs>
+            <slug>lmfao</slug>
+          </artist>
+          <slug>party-rock-anthem</slug>
+          <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/011/275/0001127570_50.jpg</image>
+        </release>
+        <price>
+          <currency code="GBP">£</currency>
+          <value>0.99</value>
+          <formattedPrice>£0.99</formattedPrice>
+          <rrp>0.99</rrp>
+          <formattedRrp>£0.99</formattedRrp>
+          <onSale>false</onSale>
+        </price>
+        <download>
+          <packages>
+            <package id="2">
+              <description>standard</description>
+              <price>
+                <currencyCode>GBP</currencyCode>
+                <sevendigitalPrice>0.99</sevendigitalPrice>
+                <recommendedRetailPrice>0.99</recommendedRetailPrice>
+              </price>
+              <formats>
+                <format id="17">
+                  <description>MP3 320</description>
+                </format>
+              </formats>
+            </package>
+          </packages>
+        </download>
+      </track>
+    </chartItem>
+    <chartItem>
+      <position>2</position>
+      <change>New</change>
+      <track id="6930065">
+        <title>On The Floor</title>
+        <version/>
+        <artist id="21255">
+          <name>Jennifer Lopez</name>
+          <appearsAs>Jennifer Lopez / Pitbull</appearsAs>
+          <slug>jennifer-lopez</slug>
+        </artist>
+        <trackNumber>1</trackNumber>
+        <duration>231</duration>
+        <release id="1148928">
+          <title>On The Floor</title>
+          <version/>
+          <type>Single</type>
+          <barcode>00602527636436</barcode>
+          <artist id="21255">
+            <name>Jennifer Lopez</name>
+            <appearsAs>Jennifer Lopez / Pitbull</appearsAs>
+            <slug>jennifer-lopez</slug>
+          </artist>
+          <slug>on-the-floor</slug>
+          <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/011/489/0001148928_50.jpg</image>
+        </release>
+        <price>
+          <currency code="GBP">£</currency>
+          <value>0.99</value>
+          <formattedPrice>£0.99</formattedPrice>
+          <rrp>0.99</rrp>
+          <onSale>false</onSale>
+          <formattedRrp>£0.99</formattedRrp>
+        </price>
+        <download>
+          <packages>
+            <package id="2">
+              <description>standard</description>
+              <price>
+                <currencyCode>GBP</currencyCode>
+                <sevendigitalPrice>0.99</sevendigitalPrice>
+                <recommendedRetailPrice>0.99</recommendedRetailPrice>
+              </price>
+              <formats>
+                <format id="17">
+                  <description>MP3 320</description>
+                </format>
+              </formats>
+            </package>
+          </packages>
+        </download>
+      </track>
+    </chartItem>
+    <chartItem>
+      <position>3</position>
+      <change>New</change>
+      <track id="13066765">
+        <title>Sweat (Snoop Dogg vs. David Guetta) [Remix]</title>
+        <version/>
+        <artist id="1130">
+          <name>Snoop Dogg</name>
+          <appearsAs>Snoop Dogg vs. David Guetta</appearsAs>
+          <slug>snoop-dogg</slug>
+        </artist>
+        <trackNumber>1</trackNumber>
+        <duration>196</duration>
+        <release id="1179600">
+          <title>Sweat (Snoop Dogg vs. David Guetta) [Remix]</title>
+          <version/>
+          <type>Single</type>
+          <barcode>5099902734453</barcode>
+          <artist id="1130">
+            <name>Snoop Dogg</name>
+            <appearsAs>Snoop Dogg vs. David Guetta</appearsAs>
+            <slug>snoop-dogg</slug>
+          </artist>
+          <slug>sweat-david-guetta-remix</slug>
+          <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/011/796/0001179600_50.jpg</image>
+        </release>
+        <price>
+          <currency code="GBP">£</currency>
+          <value>0.99</value>
+          <formattedPrice>£0.99</formattedPrice>
+          <rrp>0.99</rrp>
+          <formattedRrp>£0.99</formattedRrp>
+          <onSale>false</onSale>
+        </price>
+        <download>
+          <packages>
+            <package id="2">
+              <description>standard</description>
+              <price>
+                <currencyCode>GBP</currencyCode>
+                <sevendigitalPrice>0.99</sevendigitalPrice>
+                <recommendedRetailPrice>0.99</recommendedRetailPrice>
+              </price>
+              <formats>
+                <format id="17">
+                  <description>MP3 320</description>
+                </format>
+              </formats>
+            </package>
+          </packages>
+        </download>
+      </track>
+    </chartItem>
+    <chartItem>
+      <position>4</position>
+      <change>New</change>
+      <track id="12888839">
+        <title>E.T. (feat. Kanye West)</title>
+        <version/>
+        <artist id="132789">
+          <name>Katy Perry</name>
+          <appearsAs>Katy Perry</appearsAs>
+          <slug>katy-perry</slug>
+        </artist>
+        <trackNumber>1</trackNumber>
+        <duration>229</duration>
+        <release id="1164194">
+          <title>E.T. (featuring Kanye West)</title>
+          <version/>
+          <type>Single</type>
+          <barcode>5099909812956</barcode>
+          <artist id="132789">
+            <name>Katy Perry</name>
+            <appearsAs>Katy Perry</appearsAs>
+            <slug>katy-perry</slug>
+          </artist>
+          <slug>e-t-featuring-kanye-west</slug>
+          <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/011/641/0001164194_50.jpg</image>
+        </release>
+        <price>
+          <currency code="GBP">£</currency>
+          <value>0.99</value>
+          <formattedPrice>£0.99</formattedPrice>
+          <rrp>0.99</rrp>
+          <formattedRrp>£0.99</formattedRrp>
+          <onSale>false</onSale>
+        </price>
+        <download>
+          <packages>
+            <package id="2">
+              <description>standard</description>
+              <price>
+                <currencyCode>GBP</currencyCode>
+                <sevendigitalPrice>0.99</sevendigitalPrice>
+                <recommendedRetailPrice>0.99</recommendedRetailPrice>
+              </price>
+              <formats>
+                <format id="17">
+                  <description>MP3 320</description>
+                </format>
+              </formats>
+            </package>
+          </packages>
+        </download>
+      </track>
+    </chartItem>
+    <chartItem>
+      <position>5</position>
+      <change>New</change>
+      <track id="11811836">
+        <title>Someone Like You</title>
+        <version/>
+        <artist id="142111">
+          <name>Adele</name>
+          <appearsAs>Adele</appearsAs>
+          <slug>adele</slug>
+        </artist>
+        <trackNumber>11</trackNumber>
+        <duration>285</duration>
+        <release id="1076864">
+          <title>21</title>
+          <version/>
+          <type>Album</type>
+          <barcode>634904052065</barcode>
+          <artist id="142111">
+            <name>Adele</name>
+            <appearsAs>Adele</appearsAs>
+            <slug>adele</slug>
+          </artist>
+          <slug>21</slug>
+          <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/010/768/0001076864_50.jpg</image>
+        </release>
+        <price>
+          <currency code="GBP">£</currency>
+          <value>0.99</value>
+          <formattedPrice>£0.99</formattedPrice>
+          <rrp>0.99</rrp>
+          <onSale>false</onSale>
+          <formattedRrp>£0.99</formattedRrp>
+        </price>
+        <download>
+          <packages>
+            <package id="2">
+              <description>standard</description>
+              <price>
+                <currencyCode>GBP</currencyCode>
+                <sevendigitalPrice>0.99</sevendigitalPrice>
+                <recommendedRetailPrice>0.99</recommendedRetailPrice>
+              </price>
+              <formats>
+                <format id="17">
+                  <description>MP3 320</description>
+                </format>
+              </formats>
+            </package>
+          </packages>
+        </download>
+      </track>
+    </chartItem>
+    <chartItem>
+      <position>6</position>
+      <change>New</change>
+      <track id="13523564">
+        <title>Judas</title>
+        <version/>
+        <artist id="237973">
+          <name>Lady GaGa</name>
+          <appearsAs>Lady GaGa</appearsAs>
+          <slug>lady-gaga</slug>
+        </artist>
+        <trackNumber>1</trackNumber>
+        <duration>250</duration>
+        <release id="1222117">
+          <title>Judas</title>
+          <version/>
+          <type>Single</type>
+          <barcode>00602527704630</barcode>
+          <artist id="237973">
+            <name>Lady GaGa</name>
+            <appearsAs>Lady GaGa</appearsAs>
+            <slug>lady-gaga</slug>
+          </artist>
+          <slug>judas</slug>
+          <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/012/221/0001222117_50.jpg</image>
+        </release>
+        <price>
+          <currency code="GBP">£</currency>
+          <value>0.99</value>
+          <formattedPrice>£0.99</formattedPrice>
+          <rrp>0.99</rrp>
+          <formattedRrp>£0.99</formattedRrp>
+          <onSale>false</onSale>
+        </price>
+        <download>
+          <packages>
+            <package id="2">
+              <description>standard</description>
+              <price>
+                <currencyCode>GBP</currencyCode>
+                <sevendigitalPrice>0.99</sevendigitalPrice>
+                <recommendedRetailPrice>0.99</recommendedRetailPrice>
+              </price>
+              <formats>
+                <format id="17">
+                  <description>MP3 320</description>
+                </format>
+              </formats>
+            </package>
+          </packages>
+        </download>
+      </track>
+    </chartItem>
+    <chartItem>
+      <position>7</position>
+      <change>New</change>
+      <track id="13275771">
+        <title>Beautiful People</title>
+        <version>Main Version</version>
+        <artist id="951348">
+          <name>Chris Brown feat. Benny Benassi</name>
+          <appearsAs>Chris Brown feat. Benny Benassi</appearsAs>
+          <slug>chris-brown-feat-benny-benassi</slug>
+        </artist>
+        <trackNumber>13</trackNumber>
+        <duration>225</duration>
+        <release id="1199062">
+          <title>F.A.M.E. (Deluxe Version)</title>
+          <version/>
+          <type>Album</type>
+          <barcode>886443000704</barcode>
+          <artist id="15239">
+            <name>Chris Brown</name>
+            <appearsAs>Chris Brown</appearsAs>
+            <slug>chris-brown-(2)</slug>
+          </artist>
+          <slug>f-a-m-e-deluxe-version-5</slug>
+          <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/011/990/0001199062_50.jpg</image>
+        </release>
+        <price>
+          <currency code="GBP">£</currency>
+          <value>0.99</value>
+          <formattedPrice>£0.99</formattedPrice>
+          <rrp>0.99</rrp>
+          <onSale>false</onSale>
+          <formattedRrp>£0.99</formattedRrp>
+        </price>
+        <download>
+          <packages>
+            <package id="2">
+              <description>standard</description>
+              <price>
+                <currencyCode>GBP</currencyCode>
+                <sevendigitalPrice>0.99</sevendigitalPrice>
+                <recommendedRetailPrice>0.99</recommendedRetailPrice>
+              </price>
+              <formats>
+                <format id="17">
+                  <description>MP3 320</description>
+                </format>
+              </formats>
+            </package>
+          </packages>
+        </download>
+      </track>
+    </chartItem>
+    <chartItem>
+      <position>8</position>
+      <change>New</change>
+      <track id="13541989">
+        <title>Penny Arcade (Rangers FC Charity Single)</title>
+        <version/>
+        <artist id="982647">
+          <name>Sammy King</name>
+          <appearsAs>Sammy King</appearsAs>
+          <slug>sammy-king</slug>
+        </artist>
+        <trackNumber>1</trackNumber>
+        <duration>210</duration>
+        <release id="1223853">
+          <title>Penny Arcade (Rangers FC Charity Single)</title>
+          <version/>
+          <type>Single</type>
+          <barcode>5055028963221</barcode>
+          <artist id="982647">
+            <name>Sammy King</name>
+            <appearsAs>Sammy King</appearsAs>
+            <slug>sammy-king</slug>
+          </artist>
+          <slug>penny-arcade-rangers-fc-charity-single</slug>
+          <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/012/238/0001223853_50.jpg</image>
+        </release>
+        <price>
+          <currency code="GBP">£</currency>
+          <value>0.99</value>
+          <formattedPrice>£0.99</formattedPrice>
+          <rrp>0.99</rrp>
+          <formattedRrp>£0.99</formattedRrp>
+          <onSale>false</onSale>
+        </price>
+        <download>
+          <packages>
+            <package id="2">
+              <description>standard</description>
+              <price>
+                <currencyCode>GBP</currencyCode>
+                <sevendigitalPrice>0.99</sevendigitalPrice>
+                <recommendedRetailPrice>0.99</recommendedRetailPrice>
+              </price>
+              <formats>
+                <format id="17">
+                  <description>MP3 320</description>
+                </format>
+              </formats>
+            </package>
+          </packages>
+        </download>
+      </track>
+    </chartItem>
+    <chartItem>
+      <position>9</position>
+      <change>New</change>
+      <track id="11439519">
+        <title>Just Can’t Get Enough</title>
+        <version>Album Version</version>
+        <artist id="263">
+          <name>Black Eyed Peas</name>
+          <appearsAs>The Black Eyed Peas</appearsAs>
+          <slug>black-eyed-peas</slug>
+        </artist>
+        <trackNumber>11</trackNumber>
+        <duration>219</duration>
+        <release id="1041028">
+          <title>The Beginning</title>
+          <version/>
+          <type>Album</type>
+          <barcode>00602527548999</barcode>
+          <artist id="263">
+            <name>Black Eyed Peas</name>
+            <appearsAs>The Black Eyed Peas</appearsAs>
+            <slug>black-eyed-peas</slug>
+          </artist>
+          <slug>the-beginning</slug>
+          <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/010/410/0001041028_50.jpg</image>
+        </release>
+        <price>
+          <currency code="GBP">£</currency>
+          <value>0.99</value>
+          <formattedPrice>£0.99</formattedPrice>
+          <rrp>0.99</rrp>
+          <onSale>false</onSale>
+          <formattedRrp>£0.99</formattedRrp>
+        </price>
+        <download>
+          <packages>
+            <package id="2">
+              <description>standard</description>
+              <price>
+                <currencyCode>GBP</currencyCode>
+                <sevendigitalPrice>0.99</sevendigitalPrice>
+                <recommendedRetailPrice>0.99</recommendedRetailPrice>
+              </price>
+              <formats>
+                <format id="17">
+                  <description>MP3 320</description>
+                </format>
+              </formats>
+            </package>
+          </packages>
+        </download>
+      </track>
+    </chartItem>
+    <chartItem>
+      <position>10</position>
+      <change>New</change>
+      <track id="11681784">
+        <title>Buzzin Remix</title>
+        <version>Explicit Version</version>
+        <artist id="890157">
+          <name>Mann / 50 Cent</name>
+          <appearsAs>Mann / 50 Cent</appearsAs>
+          <slug>mann-50-cent</slug>
+        </artist>
+        <trackNumber>1</trackNumber>
+        <duration>224</duration>
+        <release id="1063821">
+          <title>Buzzin Remix</title>
+          <version>Explicit Version</version>
+          <type>Single</type>
+          <barcode>00602527612775</barcode>
+          <artist id="890157">
+            <name>Mann / 50 Cent</name>
+            <appearsAs>Mann / 50 Cent</appearsAs>
+            <slug>mann-50-cent</slug>
+          </artist>
+          <slug>buzzin-remix</slug>
+          <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/010/638/0001063821_50.jpg</image>
+        </release>
+        <price>
+          <currency code="GBP">£</currency>
+          <value>0.99</value>
+          <formattedPrice>£0.99</formattedPrice>
+          <rrp>0.99</rrp>
+          <formattedRrp>£0.99</formattedRrp>
+          <onSale>false</onSale>
+        </price>
+        <download>
+          <packages>
+            <package id="2">
+              <description>standard</description>
+              <price>
+                <currencyCode>GBP</currencyCode>
+                <sevendigitalPrice>0.99</sevendigitalPrice>
+                <recommendedRetailPrice>0.99</recommendedRetailPrice>
+              </price>
+              <formats>
+                <format id="17">
+                  <description>MP3 320</description>
+                </format>
+              </formats>
+            </package>
+          </packages>
+        </download>
+      </track>
+    </chartItem>
+  </chart>
 </response>

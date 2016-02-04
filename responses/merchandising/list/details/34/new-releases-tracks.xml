@@ -1,2382 +1,1714 @@
 <?xml version="1.0" encoding="utf-8"?>
 <response xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" status="ok" version="1.2" xsi:noNamespaceSchemaLocation="http://api.7digital.com/1.2/static/7digitalAPI.xsd">
-	<list id="3988">
-		<key>new-releases-tracks</key>
-		<listItems>
-			<listItem id="3755866">
-				<type>release</type>
-				<release id="3755866">
-					<title>So There</title>
-					<version/>
-					<type>Single</type>
-					<barcode>00857018004700</barcode>
-					<year>1991</year>
-					<explicitContent>false</explicitContent>
-					<artist id="229632">
-						<name>Alexa Goddard</name>
-						<appearsAs>Alexa Goddard</appearsAs>
-						<url>http://www.7digital.com/artist/alexa-goddard/?partner=3923</url>
-					</artist>
-					<url>http://www.7digital.com/artist/alexa-goddard/release/so-there-1/?partner=3923</url>
-					<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/037/558/0003755866_50.jpg</image>
-					<releaseDate>2014-10-26T00:00:00Z</releaseDate>
-					<addedDate>2014-08-26T11:02:26Z</addedDate>
-					<price>
-						<currency code="GBP">£</currency>
-						<value>0.99</value>
-						<formattedPrice>£0.99</formattedPrice>
-						<rrp>0.99</rrp>
-						<formattedRrp>£0.99</formattedRrp>
-						<onSale>false</onSale>
-					</price>
-					<formats availableDrmFree="true">
-						<format id="17">
-							<fileFormat>MP3</fileFormat>
-							<bitRate>320</bitRate>
-							<drmFree>true</drmFree>
-						</format>
-					</formats>
-					<label id="383633">
-						<name>Digital Distribution Qatar</name>
-					</label>
-					<licensor id="1">
-						<name>Universal</name>
-					</licensor>
-					<streamingReleaseDate>2014-10-26T00:00:00Z</streamingReleaseDate>
-					<duration>230</duration>
-					<trackCount>1</trackCount>
-					<download>
-						<packages>
-							<package id="2">
-								<description>standard</description>
-								<price>
-									<currencyCode>GBP</currencyCode>
-									<sevendigitalPrice>0.99</sevendigitalPrice>
-									<recommendedRetailPrice>0.99</recommendedRetailPrice>
-								</price>
-								<format id="17">
-									<description>MP3 320</description>
-								</format>
-								<formats>
-									<format id="17">
-										<description>MP3 320</description>
-									</format>
-								</formats>
-							</package>
-						</packages>
-					</download>
-				</release>
-			</listItem>
-			<listItem id="3787224">
-				<type>release</type>
-				<release id="3787224">
-					<title>In Your Prime - EP</title>
-					<version>Explicit</version>
-					<type>Album</type>
-					<barcode>886444810456</barcode>
-					<year>2014</year>
-					<explicitContent>true</explicitContent>
-					<artist id="1502753">
-						<name>Josef Salvat</name>
-						<appearsAs>Josef Salvat</appearsAs>
-						<url>http://www.7digital.com/artist/josef-salvat/?partner=3923</url>
-					</artist>
-					<url>http://www.7digital.com/artist/josef-salvat/release/in-your-prime-ep-explicit/?partner=3923</url>
-					<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/037/872/0003787224_50.jpg</image>
-					<releaseDate>2014-09-21T00:00:00Z</releaseDate>
-					<addedDate>2014-09-05T14:30:09Z</addedDate>
-					<price>
-						<currency code="GBP">£</currency>
-						<value>3.49</value>
-						<formattedPrice>£3.49</formattedPrice>
-						<rrp>3.49</rrp>
-						<formattedRrp>£3.49</formattedRrp>
-						<onSale>false</onSale>
-					</price>
-					<formats availableDrmFree="true">
-						<format id="17">
-							<fileFormat>MP3</fileFormat>
-							<bitRate>320</bitRate>
-							<drmFree>true</drmFree>
-						</format>
-						<format id="33">
-							<fileFormat>M4A</fileFormat>
-							<bitRate>320</bitRate>
-							<drmFree>true</drmFree>
-						</format>
-					</formats>
-					<label id="369463">
-						<name>Columbia/Fingers &amp; Thumbs</name>
-					</label>
-					<licensor id="2">
-						<name>Sony Music</name>
-					</licensor>
-					<streamingReleaseDate>2014-09-21T00:00:00Z</streamingReleaseDate>
-					<duration>973</duration>
-					<trackCount>4</trackCount>
-					<download>
-						<packages>
-							<package id="2">
-								<description>standard</description>
-								<price>
-									<currencyCode>GBP</currencyCode>
-									<sevendigitalPrice>3.49</sevendigitalPrice>
-									<recommendedRetailPrice>3.49</recommendedRetailPrice>
-								</price>
-								<format id="17">
-									<description>MP3 320</description>
-								</format>
-								<format id="33">
-									<description>M4A 320</description>
-								</format>
-								<formats>
-									<format id="17">
-										<description>MP3 320</description>
-									</format>
-									<format id="33">
-										<description>AAC 320</description>
-									</format>
-								</formats>
-							</package>
-						</packages>
-					</download>
-				</release>
-			</listItem>
-			<listItem id="3885998">
-				<type>release</type>
-				<release id="3885998">
-					<title>Games for Girls</title>
-					<version/>
-					<type>Album</type>
-					<barcode>886444795739</barcode>
-					<year>2014</year>
-					<explicitContent>false</explicitContent>
-					<artist id="2457502">
-						<name>Say Lou Lou x Lindstrøm</name>
-						<appearsAs>Say Lou Lou x Lindstrøm</appearsAs>
-						<url>http://www.7digital.com/artist/say-lou-lou-x-lindstrøm/?partner=3923</url>
-					</artist>
-					<url>http://www.7digital.com/artist/say-lou-lou-x-lindstrøm/release/games-for-girls/?partner=3923</url>
-					<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/038/859/0003885998_50.jpg</image>
-					<releaseDate>2014-10-26T00:00:00Z</releaseDate>
-					<addedDate>2014-10-14T16:14:58Z</addedDate>
-					<price>
-						<currency code="GBP">£</currency>
-						<value>2.49</value>
-						<formattedPrice>£2.49</formattedPrice>
-						<rrp>2.49</rrp>
-						<formattedRrp>£2.49</formattedRrp>
-						<onSale>false</onSale>
-					</price>
-					<formats availableDrmFree="true">
-						<format id="17">
-							<fileFormat>MP3</fileFormat>
-							<bitRate>320</bitRate>
-							<drmFree>true</drmFree>
-						</format>
-						<format id="33">
-							<fileFormat>M4A</fileFormat>
-							<bitRate>320</bitRate>
-							<drmFree>true</drmFree>
-						</format>
-					</formats>
-					<label id="592">
-						<name>Columbia</name>
-					</label>
-					<licensor id="2">
-						<name>Sony Music</name>
-					</licensor>
-					<streamingReleaseDate>2014-10-26T00:00:00Z</streamingReleaseDate>
-					<duration>1146</duration>
-					<trackCount>3</trackCount>
-					<download>
-						<packages>
-							<package id="2">
-								<description>standard</description>
-								<price>
-									<currencyCode>GBP</currencyCode>
-									<sevendigitalPrice>2.49</sevendigitalPrice>
-									<recommendedRetailPrice>2.49</recommendedRetailPrice>
-								</price>
-								<format id="17">
-									<description>MP3 320</description>
-								</format>
-								<format id="33">
-									<description>M4A 320</description>
-								</format>
-								<formats>
-									<format id="17">
-										<description>MP3 320</description>
-									</format>
-									<format id="33">
-										<description>AAC 320</description>
-									</format>
-								</formats>
-							</package>
-						</packages>
-					</download>
-				</release>
-			</listItem>
-			<listItem id="3885914">
-				<type>release</type>
-				<release id="3885914">
-					<title>Gold Skies</title>
-					<version/>
-					<type>Single</type>
-					<barcode>00602537947492</barcode>
-					<year>2014</year>
-					<explicitContent>false</explicitContent>
-					<artist id="2447616">
-						<name>Martin Garrix / DVBBS / Sander van Doorn / Aleesia</name>
-						<appearsAs>Martin Garrix / DVBBS / Sander van Doorn / Aleesia</appearsAs>
-						<url>http://www.7digital.com/artist/martin-garrix-dvbbs-sander-van-doorn-aleesia/?partner=3923</url>
-					</artist>
-					<url>http://www.7digital.com/artist/martin-garrix-dvbbs-sander-van-doorn-aleesia/release/gold-skies-1/?partner=3923</url>
-					<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/038/859/0003885914_50.jpg</image>
-					<releaseDate>2014-10-26T00:00:00Z</releaseDate>
-					<addedDate>2014-10-14T14:23:19Z</addedDate>
-					<price>
-						<currency code="GBP">£</currency>
-						<value>0.99</value>
-						<formattedPrice>£0.99</formattedPrice>
-						<rrp>0.99</rrp>
-						<formattedRrp>£0.99</formattedRrp>
-						<onSale>false</onSale>
-					</price>
-					<formats availableDrmFree="true">
-						<format id="17">
-							<fileFormat>MP3</fileFormat>
-							<bitRate>320</bitRate>
-							<drmFree>true</drmFree>
-						</format>
-					</formats>
-					<label id="3309">
-						<name>Universal Music Ireland Ltd.</name>
-					</label>
-					<licensor id="1">
-						<name>Universal</name>
-					</licensor>
-					<streamingReleaseDate>2014-10-26T00:00:00Z</streamingReleaseDate>
-					<duration>235</duration>
-					<trackCount>1</trackCount>
-					<download>
-						<packages>
-							<package id="2">
-								<description>standard</description>
-								<price>
-									<currencyCode>GBP</currencyCode>
-									<sevendigitalPrice>0.99</sevendigitalPrice>
-									<recommendedRetailPrice>0.99</recommendedRetailPrice>
-								</price>
-								<format id="17">
-									<description>MP3 320</description>
-								</format>
-								<formats>
-									<format id="17">
-										<description>MP3 320</description>
-									</format>
-								</formats>
-							</package>
-						</packages>
-					</download>
-				</release>
-			</listItem>
-			<listItem id="3905758">
-				<type>release</type>
-				<release id="3905758">
-					<title>Wolves</title>
-					<version/>
-					<type>Album</type>
-					<barcode>886444900898</barcode>
-					<year>2014</year>
-					<explicitContent>false</explicitContent>
-					<artist id="1449978">
-						<name>Rag'n'Bone Man</name>
-						<appearsAs>Rag'n'Bone Man</appearsAs>
-						<url>http://www.7digital.com/artist/ragnbone-man/?partner=3923</url>
-					</artist>
-					<url>http://www.7digital.com/artist/ragnbone-man/release/wolves/?partner=3923</url>
-					<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/039/057/0003905758_50.jpg</image>
-					<releaseDate>2014-10-27T00:00:00Z</releaseDate>
-					<addedDate>2014-10-22T15:45:39Z</addedDate>
-					<price>
-						<currency code="GBP">£</currency>
-						<value>4.99</value>
-						<formattedPrice>£4.99</formattedPrice>
-						<rrp>4.99</rrp>
-						<formattedRrp>£4.99</formattedRrp>
-						<onSale>false</onSale>
-					</price>
-					<formats availableDrmFree="true">
-						<format id="17">
-							<fileFormat>MP3</fileFormat>
-							<bitRate>320</bitRate>
-							<drmFree>true</drmFree>
-						</format>
-						<format id="33">
-							<fileFormat>M4A</fileFormat>
-							<bitRate>320</bitRate>
-							<drmFree>true</drmFree>
-						</format>
-					</formats>
-					<label id="592">
-						<name>Columbia</name>
-					</label>
-					<licensor id="2">
-						<name>Sony Music</name>
-					</licensor>
-					<streamingReleaseDate>2014-10-27T00:00:00Z</streamingReleaseDate>
-					<duration>1737</duration>
-					<trackCount>9</trackCount>
-					<download>
-						<packages>
-							<package id="2">
-								<description>standard</description>
-								<price>
-									<currencyCode>GBP</currencyCode>
-									<sevendigitalPrice>4.99</sevendigitalPrice>
-									<recommendedRetailPrice>4.99</recommendedRetailPrice>
-								</price>
-								<format id="17">
-									<description>MP3 320</description>
-								</format>
-								<format id="33">
-									<description>M4A 320</description>
-								</format>
-								<formats>
-									<format id="17">
-										<description>MP3 320</description>
-									</format>
-									<format id="33">
-										<description>AAC 320</description>
-									</format>
-								</formats>
-							</package>
-						</packages>
-					</download>
-				</release>
-			</listItem>
-			<listItem id="3893414">
-				<type>release</type>
-				<release id="3893414">
-					<title>Remnix</title>
-					<version/>
-					<type>Single</type>
-					<barcode>00602547108364</barcode>
-					<year>2012</year>
-					<explicitContent>false</explicitContent>
-					<artist id="2338827">
-						<name>Jack Garratt</name>
-						<appearsAs>Jack Garratt</appearsAs>
-						<url>http://www.7digital.com/artist/jack-garratt/?partner=3923</url>
-					</artist>
-					<url>http://www.7digital.com/artist/jack-garratt/release/remnix/?partner=3923</url>
-					<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/038/934/0003893414_50.jpg</image>
-					<releaseDate>2014-10-28T00:00:00Z</releaseDate>
-					<addedDate>2014-10-16T12:32:24Z</addedDate>
-					<price>
-						<currency code="GBP">£</currency>
-						<value>1.99</value>
-						<formattedPrice>£1.99</formattedPrice>
-						<rrp>1.99</rrp>
-						<formattedRrp>£1.99</formattedRrp>
-						<onSale>false</onSale>
-					</price>
-					<formats availableDrmFree="true">
-						<format id="17">
-							<fileFormat>MP3</fileFormat>
-							<bitRate>320</bitRate>
-							<drmFree>true</drmFree>
-						</format>
-					</formats>
-					<label id="41180">
-						<name>Universal Music Portugal SA</name>
-					</label>
-					<licensor id="1">
-						<name>Universal</name>
-					</licensor>
-					<streamingReleaseDate>2014-10-28T00:00:00Z</streamingReleaseDate>
-					<duration>999</duration>
-					<trackCount>4</trackCount>
-					<download>
-						<packages>
-							<package id="2">
-								<description>standard</description>
-								<price>
-									<currencyCode>GBP</currencyCode>
-									<sevendigitalPrice>1.99</sevendigitalPrice>
-									<recommendedRetailPrice>1.99</recommendedRetailPrice>
-								</price>
-								<format id="17">
-									<description>MP3 320</description>
-								</format>
-								<formats>
-									<format id="17">
-										<description>MP3 320</description>
-									</format>
-								</formats>
-							</package>
-						</packages>
-					</download>
-				</release>
-			</listItem>
-			<listItem id="3664735">
-				<type>release</type>
-				<release id="3664735">
-					<title>How Do You Feel?</title>
-					<version/>
-					<type>Single</type>
-					<barcode>00050087296728</barcode>
-					<year>2014</year>
-					<explicitContent>false</explicitContent>
-					<artist id="1218284">
-						<name>Joywave</name>
-						<appearsAs>Joywave</appearsAs>
-						<url>http://www.7digital.com/artist/joywave/?partner=3923</url>
-					</artist>
-					<url>http://www.7digital.com/artist/joywave/release/how-do-you-feel-1/?partner=3923</url>
-					<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/036/647/0003664735_50.jpg</image>
-					<releaseDate>2014-10-27T00:00:00Z</releaseDate>
-					<addedDate>2014-10-03T16:37:43Z</addedDate>
-					<price>
-						<currency code="GBP">£</currency>
-						<value>1.99</value>
-						<formattedPrice>£1.99</formattedPrice>
-						<rrp>1.99</rrp>
-						<formattedRrp>£1.99</formattedRrp>
-						<onSale>false</onSale>
-					</price>
-					<formats availableDrmFree="true">
-						<format id="17">
-							<fileFormat>MP3</fileFormat>
-							<bitRate>320</bitRate>
-							<drmFree>true</drmFree>
-						</format>
-					</formats>
-					<label id="295010">
-						<name>Cultco Music</name>
-					</label>
-					<licensor id="1">
-						<name>Universal</name>
-					</licensor>
-					<streamingReleaseDate>2014-10-27T00:00:00Z</streamingReleaseDate>
-					<duration>954</duration>
-					<trackCount>4</trackCount>
-					<download>
-						<packages>
-							<package id="2">
-								<description>standard</description>
-								<price>
-									<currencyCode>GBP</currencyCode>
-									<sevendigitalPrice>1.99</sevendigitalPrice>
-									<recommendedRetailPrice>1.99</recommendedRetailPrice>
-								</price>
-								<format id="17">
-									<description>MP3 320</description>
-								</format>
-								<formats>
-									<format id="17">
-										<description>MP3 320</description>
-									</format>
-								</formats>
-							</package>
-						</packages>
-					</download>
-				</release>
-			</listItem>
-			<listItem id="3788147">
-				<type>release</type>
-				<release id="3788147">
-					<title>As If We Never Won</title>
-					<version/>
-					<type>Album</type>
-					<barcode>825646210152</barcode>
-					<year>2014</year>
-					<explicitContent>false</explicitContent>
-					<artist id="132648">
-						<name>Kleerup</name>
-						<appearsAs>Kleerup</appearsAs>
-						<url>http://www.7digital.com/artist/kleerup/?partner=3923</url>
-					</artist>
-					<url>http://www.7digital.com/artist/kleerup/release/as-if-we-never-won/?partner=3923</url>
-					<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/037/881/0003788147_50.jpg</image>
-					<releaseDate>2014-10-13T00:00:00Z</releaseDate>
-					<addedDate>2014-10-05T22:47:59Z</addedDate>
-					<price>
-						<currency code="GBP">£</currency>
-						<value>4.49</value>
-						<formattedPrice>£4.49</formattedPrice>
-						<rrp>4.49</rrp>
-						<formattedRrp>£4.49</formattedRrp>
-						<onSale>false</onSale>
-					</price>
-					<formats availableDrmFree="true">
-						<format id="17">
-							<fileFormat>MP3</fileFormat>
-							<bitRate>320</bitRate>
-							<drmFree>true</drmFree>
-						</format>
-					</formats>
-					<label id="394">
-						<name>WM Sweden</name>
-					</label>
-					<licensor id="18">
-						<name>Warner</name>
-					</licensor>
-					<streamingReleaseDate>2014-10-13T00:00:00Z</streamingReleaseDate>
-					<duration>1335</duration>
-					<trackCount>6</trackCount>
-					<download>
-						<packages>
-							<package id="2">
-								<description>standard</description>
-								<price>
-									<currencyCode>GBP</currencyCode>
-									<sevendigitalPrice>4.49</sevendigitalPrice>
-									<recommendedRetailPrice>4.49</recommendedRetailPrice>
-								</price>
-								<format id="17">
-									<description>MP3 320</description>
-								</format>
-								<formats>
-									<format id="17">
-										<description>MP3 320</description>
-									</format>
-								</formats>
-							</package>
-						</packages>
-					</download>
-				</release>
-			</listItem>
-			<listItem id="3885889">
-				<type>release</type>
-				<release id="3885889">
-					<title>No Bad Days</title>
-					<version>EP</version>
-					<type>Single</type>
-					<barcode>00602547055903</barcode>
-					<year>2014</year>
-					<explicitContent>false</explicitContent>
-					<artist id="2182500">
-						<name>Sunset Sons</name>
-						<appearsAs>Sunset Sons</appearsAs>
-						<url>http://www.7digital.com/artist/sunset-sons/?partner=3923</url>
-					</artist>
-					<url>http://www.7digital.com/artist/sunset-sons/release/no-bad-days-ep/?partner=3923</url>
-					<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/038/858/0003885889_50.jpg</image>
-					<releaseDate>2014-10-27T00:00:00Z</releaseDate>
-					<addedDate>2014-10-14T14:22:42Z</addedDate>
-					<price>
-						<currency code="GBP">£</currency>
-						<value>1.99</value>
-						<formattedPrice>£1.99</formattedPrice>
-						<rrp>1.99</rrp>
-						<formattedRrp>£1.99</formattedRrp>
-						<onSale>false</onSale>
-					</price>
-					<formats availableDrmFree="true">
-						<format id="17">
-							<fileFormat>MP3</fileFormat>
-							<bitRate>320</bitRate>
-							<drmFree>true</drmFree>
-						</format>
-					</formats>
-					<label id="149943">
-						<name>Universal Music (Pty) Ltd.</name>
-					</label>
-					<licensor id="1">
-						<name>Universal</name>
-					</licensor>
-					<streamingReleaseDate>2014-10-27T00:00:00Z</streamingReleaseDate>
-					<duration>860</duration>
-					<trackCount>4</trackCount>
-					<download>
-						<packages>
-							<package id="2">
-								<description>standard</description>
-								<price>
-									<currencyCode>GBP</currencyCode>
-									<sevendigitalPrice>1.99</sevendigitalPrice>
-									<recommendedRetailPrice>1.99</recommendedRetailPrice>
-								</price>
-								<format id="17">
-									<description>MP3 320</description>
-								</format>
-								<formats>
-									<format id="17">
-										<description>MP3 320</description>
-									</format>
-								</formats>
-							</package>
-						</packages>
-					</download>
-				</release>
-			</listItem>
-			<listItem id="3871149">
-				<type>release</type>
-				<release id="3871149">
-					<title>Had Ten Dollaz</title>
-					<version/>
-					<type>Single</type>
-					<barcode>803238013367</barcode>
-					<year>2014</year>
-					<explicitContent>false</explicitContent>
-					<artist id="1516540">
-						<name>Cherry Glazerr</name>
-						<appearsAs>Cherry Glazerr</appearsAs>
-						<url>http://www.7digital.com/artist/cherry-glazerr/?partner=3923</url>
-					</artist>
-					<url>http://www.7digital.com/artist/cherry-glazerr/release/had-ten-dollaz/?partner=3923</url>
-					<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/038/711/0003871149_50.jpg</image>
-					<releaseDate>2014-10-27T00:00:00Z</releaseDate>
-					<addedDate>2014-10-08T22:14:41Z</addedDate>
-					<price>
-						<currency code="GBP">£</currency>
-						<value>1.79</value>
-						<formattedPrice>£1.79</formattedPrice>
-						<rrp>1.79</rrp>
-						<formattedRrp>£1.79</formattedRrp>
-						<onSale>false</onSale>
-					</price>
-					<formats availableDrmFree="true">
-						<format id="17">
-							<fileFormat>MP3</fileFormat>
-							<bitRate>320</bitRate>
-							<drmFree>true</drmFree>
-						</format>
-						<format id="33">
-							<fileFormat>M4A</fileFormat>
-							<bitRate>320</bitRate>
-							<drmFree>true</drmFree>
-						</format>
-					</formats>
-					<label id="157375">
-						<name>Suicide Squeeze Records</name>
-					</label>
-					<licensor id="369">
-						<name>SC Distribution Company</name>
-					</licensor>
-					<streamingReleaseDate>2014-10-27T00:00:00Z</streamingReleaseDate>
-					<duration>454</duration>
-					<trackCount>2</trackCount>
-					<download>
-						<packages>
-							<package id="2">
-								<description>standard</description>
-								<price>
-									<currencyCode>GBP</currencyCode>
-									<sevendigitalPrice>1.79</sevendigitalPrice>
-									<recommendedRetailPrice>1.79</recommendedRetailPrice>
-								</price>
-								<format id="17">
-									<description>MP3 320</description>
-								</format>
-								<format id="33">
-									<description>M4A 320</description>
-								</format>
-								<formats>
-									<format id="17">
-										<description>MP3 320</description>
-									</format>
-									<format id="33">
-										<description>AAC 320</description>
-									</format>
-								</formats>
-							</package>
-						</packages>
-					</download>
-				</release>
-			</listItem>
-			<listItem id="3893353">
-				<type>release</type>
-				<release id="3893353">
-					<title>Ghost Of A Chance</title>
-					<version/>
-					<type>Single</type>
-					<barcode>00602547041876</barcode>
-					<year>2006</year>
-					<explicitContent>false</explicitContent>
-					<artist id="2072063">
-						<name>Young &amp; Sick</name>
-						<appearsAs>Young &amp; Sick</appearsAs>
-						<url>http://www.7digital.com/artist/young-and-sick/?partner=3923</url>
-					</artist>
-					<url>http://www.7digital.com/artist/young-and-sick/release/ghost-of-a-chance/?partner=3923</url>
-					<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/038/933/0003893353_50.jpg</image>
-					<releaseDate>2014-10-26T00:00:00Z</releaseDate>
-					<addedDate>2014-10-16T10:50:04Z</addedDate>
-					<price>
-						<currency code="GBP">£</currency>
-						<value>0.99</value>
-						<formattedPrice>£0.99</formattedPrice>
-						<rrp>0.99</rrp>
-						<formattedRrp>£0.99</formattedRrp>
-						<onSale>false</onSale>
-					</price>
-					<formats availableDrmFree="true">
-						<format id="17">
-							<fileFormat>MP3</fileFormat>
-							<bitRate>320</bitRate>
-							<drmFree>true</drmFree>
-						</format>
-					</formats>
-					<label id="199682">
-						<name>Virgin EMI</name>
-					</label>
-					<licensor id="1">
-						<name>Universal</name>
-					</licensor>
-					<streamingReleaseDate>2014-10-26T00:00:00Z</streamingReleaseDate>
-					<duration>226</duration>
-					<trackCount>1</trackCount>
-					<download>
-						<packages>
-							<package id="2">
-								<description>standard</description>
-								<price>
-									<currencyCode>GBP</currencyCode>
-									<sevendigitalPrice>0.99</sevendigitalPrice>
-									<recommendedRetailPrice>0.99</recommendedRetailPrice>
-								</price>
-								<format id="17">
-									<description>MP3 320</description>
-								</format>
-								<formats>
-									<format id="17">
-										<description>MP3 320</description>
-									</format>
-								</formats>
-							</package>
-						</packages>
-					</download>
-				</release>
-			</listItem>
-			<listItem id="3913969">
-				<type>release</type>
-				<release id="3913969">
-					<title>I Don't Want To Go Home</title>
-					<version/>
-					<type>Single</type>
-					<barcode>00602547112743</barcode>
-					<year>2014</year>
-					<explicitContent>false</explicitContent>
-					<artist id="477068">
-						<name>Nick Mulvey</name>
-						<appearsAs>Nick Mulvey</appearsAs>
-						<url>http://www.7digital.com/artist/nick-mulvey/?partner=3923</url>
-					</artist>
-					<url>http://www.7digital.com/artist/nick-mulvey/release/i-dont-want-to-go-home/?partner=3923</url>
-					<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/039/139/0003913969_50.jpg</image>
-					<releaseDate>2014-10-27T00:00:00Z</releaseDate>
-					<addedDate>2014-10-24T12:16:28Z</addedDate>
-					<price>
-						<currency code="GBP">£</currency>
-						<value>1.29</value>
-						<formattedPrice>£1.29</formattedPrice>
-						<rrp>1.29</rrp>
-						<formattedRrp>£1.29</formattedRrp>
-						<onSale>false</onSale>
-					</price>
-					<formats availableDrmFree="true">
-						<format id="17">
-							<fileFormat>MP3</fileFormat>
-							<bitRate>320</bitRate>
-							<drmFree>true</drmFree>
-						</format>
-					</formats>
-					<label id="149943">
-						<name>Universal Music (Pty) Ltd.</name>
-					</label>
-					<licensor id="1">
-						<name>Universal</name>
-					</licensor>
-					<streamingReleaseDate>2014-10-27T00:00:00Z</streamingReleaseDate>
-					<duration>423</duration>
-					<trackCount>2</trackCount>
-					<download>
-						<packages>
-							<package id="2">
-								<description>standard</description>
-								<price>
-									<currencyCode>GBP</currencyCode>
-									<sevendigitalPrice>1.29</sevendigitalPrice>
-									<recommendedRetailPrice>1.29</recommendedRetailPrice>
-								</price>
-								<format id="17">
-									<description>MP3 320</description>
-								</format>
-								<formats>
-									<format id="17">
-										<description>MP3 320</description>
-									</format>
-								</formats>
-							</package>
-						</packages>
-					</download>
-				</release>
-			</listItem>
-			<listItem id="3907265">
-				<type>release</type>
-				<release id="3907265">
-					<title>KTown Riot</title>
-					<version>Explicit</version>
-					<type>Album</type>
-					<barcode>00602547085818</barcode>
-					<year>2014</year>
-					<explicitContent>true</explicitContent>
-					<artist id="277213">
-						<name>Far East Movement</name>
-						<appearsAs>Far East Movement</appearsAs>
-						<url>http://www.7digital.com/artist/far-east-movement/?partner=3923</url>
-					</artist>
-					<url>http://www.7digital.com/artist/far-east-movement/release/ktown-riot-explicit-1/?partner=3923</url>
-					<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/039/072/0003907265_50.jpg</image>
-					<releaseDate>2014-10-29T00:00:00Z</releaseDate>
-					<addedDate>2014-10-23T13:18:46Z</addedDate>
-					<price>
-						<currency code="GBP">£</currency>
-						<value>3.99</value>
-						<formattedPrice>£3.99</formattedPrice>
-						<rrp>3.99</rrp>
-						<formattedRrp>£3.99</formattedRrp>
-						<onSale>false</onSale>
-					</price>
-					<formats availableDrmFree="true">
-						<format id="17">
-							<fileFormat>MP3</fileFormat>
-							<bitRate>320</bitRate>
-							<drmFree>true</drmFree>
-						</format>
-					</formats>
-					<label id="149943">
-						<name>Universal Music (Pty) Ltd.</name>
-					</label>
-					<licensor id="1">
-						<name>Universal</name>
-					</licensor>
-					<streamingReleaseDate>2014-10-29T00:00:00Z</streamingReleaseDate>
-					<duration>1267</duration>
-					<trackCount>6</trackCount>
-					<download>
-						<packages>
-							<package id="2">
-								<description>standard</description>
-								<price>
-									<currencyCode>GBP</currencyCode>
-									<sevendigitalPrice>3.99</sevendigitalPrice>
-									<recommendedRetailPrice>3.99</recommendedRetailPrice>
-								</price>
-								<format id="17">
-									<description>MP3 320</description>
-								</format>
-								<formats>
-									<format id="17">
-										<description>MP3 320</description>
-									</format>
-								</formats>
-							</package>
-						</packages>
-					</download>
-				</release>
-			</listItem>
-			<listItem id="3883728">
-				<type>release</type>
-				<release id="3883728">
-					<title>Shout at the Moon</title>
-					<version/>
-					<type>Single</type>
-					<barcode>886444832502</barcode>
-					<year>2014</year>
-					<explicitContent>false</explicitContent>
-					<artist id="1011365">
-						<name>Mallory Knox</name>
-						<appearsAs>Mallory Knox</appearsAs>
-						<url>http://www.7digital.com/artist/mallory-knox/?partner=3923</url>
-					</artist>
-					<url>http://www.7digital.com/artist/mallory-knox/release/shout-at-the-moon/?partner=3923</url>
-					<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/038/837/0003883728_50.jpg</image>
-					<releaseDate>2014-10-26T00:00:00Z</releaseDate>
-					<addedDate>2014-10-13T18:35:02Z</addedDate>
-					<price>
-						<currency code="GBP">£</currency>
-						<value>0.99</value>
-						<formattedPrice>£0.99</formattedPrice>
-						<rrp>0.99</rrp>
-						<formattedRrp>£0.99</formattedRrp>
-						<onSale>false</onSale>
-					</price>
-					<formats availableDrmFree="true">
-						<format id="17">
-							<fileFormat>MP3</fileFormat>
-							<bitRate>320</bitRate>
-							<drmFree>true</drmFree>
-						</format>
-						<format id="33">
-							<fileFormat>M4A</fileFormat>
-							<bitRate>320</bitRate>
-							<drmFree>true</drmFree>
-						</format>
-					</formats>
-					<label id="21726">
-						<name>Search And Destroy Records</name>
-					</label>
-					<licensor id="2">
-						<name>Sony Music</name>
-					</licensor>
-					<streamingReleaseDate>2014-10-26T00:00:00Z</streamingReleaseDate>
-					<duration>207</duration>
-					<trackCount>1</trackCount>
-					<download>
-						<packages>
-							<package id="2">
-								<description>standard</description>
-								<price>
-									<currencyCode>GBP</currencyCode>
-									<sevendigitalPrice>0.99</sevendigitalPrice>
-									<recommendedRetailPrice>0.99</recommendedRetailPrice>
-								</price>
-								<format id="17">
-									<description>MP3 320</description>
-								</format>
-								<format id="33">
-									<description>M4A 320</description>
-								</format>
-								<formats>
-									<format id="17">
-										<description>MP3 320</description>
-									</format>
-									<format id="33">
-										<description>AAC 320</description>
-									</format>
-								</formats>
-							</package>
-						</packages>
-					</download>
-				</release>
-			</listItem>
-			<listItem id="3889466">
-				<type>release</type>
-				<release id="3889466">
-					<title>Tropical Oceans</title>
-					<version/>
-					<type>Single</type>
-					<barcode>652637343960</barcode>
-					<year>2014</year>
-					<explicitContent>false</explicitContent>
-					<artist id="2048936">
-						<name>D.D Dumbo</name>
-						<appearsAs>D.D Dumbo</appearsAs>
-						<url>http://www.7digital.com/artist/d-d-dumbo/?partner=3923</url>
-					</artist>
-					<url>http://www.7digital.com/artist/d-d-dumbo/release/tropical-oceans/?partner=3923</url>
-					<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/038/894/0003889466_50.jpg</image>
-					<releaseDate>2014-10-27T00:00:00Z</releaseDate>
-					<addedDate>2014-10-15T14:59:32Z</addedDate>
-					<price>
-						<currency code="GBP">£</currency>
-						<value>2.49</value>
-						<formattedPrice>£2.49</formattedPrice>
-						<rrp>2.49</rrp>
-						<formattedRrp>£2.49</formattedRrp>
-						<onSale>false</onSale>
-					</price>
-					<formats availableDrmFree="true">
-						<format id="17">
-							<fileFormat>MP3</fileFormat>
-							<bitRate>320</bitRate>
-							<drmFree>true</drmFree>
-						</format>
-						<format id="33">
-							<fileFormat>M4A</fileFormat>
-							<bitRate>320</bitRate>
-							<drmFree>true</drmFree>
-						</format>
-					</formats>
-					<label id="905">
-						<name>4AD</name>
-					</label>
-					<licensor id="39">
-						<name>Beggars</name>
-					</licensor>
-					<streamingReleaseDate>2014-10-27T00:00:00Z</streamingReleaseDate>
-					<duration>918</duration>
-					<trackCount>4</trackCount>
-					<download>
-						<packages>
-							<package id="2">
-								<description>standard</description>
-								<price>
-									<currencyCode>GBP</currencyCode>
-									<sevendigitalPrice>2.49</sevendigitalPrice>
-									<recommendedRetailPrice>2.49</recommendedRetailPrice>
-								</price>
-								<format id="17">
-									<description>MP3 320</description>
-								</format>
-								<format id="33">
-									<description>M4A 320</description>
-								</format>
-								<formats>
-									<format id="17">
-										<description>MP3 320</description>
-									</format>
-									<format id="33">
-										<description>AAC 320</description>
-									</format>
-								</formats>
-							</package>
-						</packages>
-					</download>
-				</release>
-			</listItem>
-			<listItem id="3818462">
-				<type>release</type>
-				<release id="3818462">
-					<title>Wicked Games</title>
-					<version/>
-					<type>Album</type>
-					<barcode>886444837750</barcode>
-					<year>2014</year>
-					<explicitContent>false</explicitContent>
-					<artist id="1962597">
-						<name>Parra for Cuva feat. Anna Naklab</name>
-						<appearsAs>Parra for Cuva feat. Anna Naklab</appearsAs>
-						<url>http://www.7digital.com/artist/parra-for-cuva-feat-anna-naklab/?partner=3923</url>
-					</artist>
-					<url>http://www.7digital.com/artist/parra-for-cuva-feat-anna-naklab/release/wicked-games-5/?partner=3923</url>
-					<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/038/184/0003818462_50.jpg</image>
-					<releaseDate>2014-10-26T00:00:00Z</releaseDate>
-					<addedDate>2014-09-18T17:48:08Z</addedDate>
-					<price>
-						<currency code="GBP">£</currency>
-						<value>2.49</value>
-						<formattedPrice>£2.49</formattedPrice>
-						<rrp>2.49</rrp>
-						<formattedRrp>£2.49</formattedRrp>
-						<onSale>false</onSale>
-					</price>
-					<formats availableDrmFree="true">
-						<format id="17">
-							<fileFormat>MP3</fileFormat>
-							<bitRate>320</bitRate>
-							<drmFree>true</drmFree>
-						</format>
-						<format id="33">
-							<fileFormat>M4A</fileFormat>
-							<bitRate>320</bitRate>
-							<drmFree>true</drmFree>
-						</format>
-					</formats>
-					<label id="1085">
-						<name>Epic</name>
-					</label>
-					<licensor id="2">
-						<name>Sony Music</name>
-					</licensor>
-					<streamingReleaseDate>2014-10-26T00:00:00Z</streamingReleaseDate>
-					<duration>1011</duration>
-					<trackCount>3</trackCount>
-					<download>
-						<packages>
-							<package id="2">
-								<description>standard</description>
-								<price>
-									<currencyCode>GBP</currencyCode>
-									<sevendigitalPrice>2.49</sevendigitalPrice>
-									<recommendedRetailPrice>2.49</recommendedRetailPrice>
-								</price>
-								<format id="17">
-									<description>MP3 320</description>
-								</format>
-								<format id="33">
-									<description>M4A 320</description>
-								</format>
-								<formats>
-									<format id="17">
-										<description>MP3 320</description>
-									</format>
-									<format id="33">
-										<description>AAC 320</description>
-									</format>
-								</formats>
-							</package>
-						</packages>
-					</download>
-				</release>
-			</listItem>
-			<listItem id="3658037">
-				<type>release</type>
-				<release id="3658037">
-					<title>When We Were Young</title>
-					<version/>
-					<type>Single</type>
-					<barcode>886444749947</barcode>
-					<year>2014</year>
-					<explicitContent>false</explicitContent>
-					<artist id="2433453">
-						<name>Dillon Francis &amp; Sultan + Ned Shepard feat. The Chain Gang of 1974</name>
-						<appearsAs>Dillon Francis &amp; Sultan + Ned Shepard feat. The Chain Gang of 1974</appearsAs>
-						<url>http://www.7digital.com/artist/dillon-francis-and-sultan-plus-ned-shepard-feat-the-chain-gang-of-1974/?partner=3923</url>
-					</artist>
-					<url>http://www.7digital.com/artist/dillon-francis-and-sultan-plus-ned-shepard-feat-the-chain-gang-of-1974/release/when-we-were-young/?partner=3923</url>
-					<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/036/580/0003658037_50.jpg</image>
-					<releaseDate>2014-10-26T00:00:00Z</releaseDate>
-					<addedDate>2014-10-23T16:23:23Z</addedDate>
-					<price>
-						<currency code="GBP">£</currency>
-						<value>0.99</value>
-						<formattedPrice>£0.99</formattedPrice>
-						<rrp>0.99</rrp>
-						<formattedRrp>£0.99</formattedRrp>
-						<onSale>false</onSale>
-					</price>
-					<formats availableDrmFree="true">
-						<format id="17">
-							<fileFormat>MP3</fileFormat>
-							<bitRate>320</bitRate>
-							<drmFree>true</drmFree>
-						</format>
-						<format id="33">
-							<fileFormat>M4A</fileFormat>
-							<bitRate>320</bitRate>
-							<drmFree>true</drmFree>
-						</format>
-					</formats>
-					<label id="592">
-						<name>Columbia</name>
-					</label>
-					<licensor id="2">
-						<name>Sony Music</name>
-					</licensor>
-					<streamingReleaseDate>2014-10-26T00:00:00Z</streamingReleaseDate>
-					<duration>201</duration>
-					<trackCount>1</trackCount>
-					<download>
-						<packages>
-							<package id="2">
-								<description>standard</description>
-								<price>
-									<currencyCode>GBP</currencyCode>
-									<sevendigitalPrice>0.99</sevendigitalPrice>
-									<recommendedRetailPrice>0.99</recommendedRetailPrice>
-								</price>
-								<format id="17">
-									<description>MP3 320</description>
-								</format>
-								<format id="33">
-									<description>M4A 320</description>
-								</format>
-								<formats>
-									<format id="17">
-										<description>MP3 320</description>
-									</format>
-									<format id="33">
-										<description>AAC 320</description>
-									</format>
-								</formats>
-							</package>
-						</packages>
-					</download>
-				</release>
-			</listItem>
-			<listItem id="3818002">
-				<type>release</type>
-				<release id="3818002">
-					<title>Take Ü There (feat. Kiesza)</title>
-					<version/>
-					<type>Single</type>
-					<barcode>075679933553</barcode>
-					<year>2014</year>
-					<explicitContent>false</explicitContent>
-					<artist id="2428397">
-						<name>Jack Ü</name>
-						<appearsAs>Jack Ü</appearsAs>
-						<url>http://www.7digital.com/artist/jack-u/?partner=3923</url>
-					</artist>
-					<url>http://www.7digital.com/artist/jack-u/release/take-u-there-feat-kiesza/?partner=3923</url>
-					<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/038/180/0003818002_50.jpg</image>
-					<releaseDate>2014-10-26T00:00:00Z</releaseDate>
-					<addedDate>2014-09-19T13:21:18Z</addedDate>
-					<price>
-						<currency code="GBP">£</currency>
-						<value>0.99</value>
-						<formattedPrice>£0.99</formattedPrice>
-						<rrp>0.99</rrp>
-						<formattedRrp>£0.99</formattedRrp>
-						<onSale>false</onSale>
-					</price>
-					<formats availableDrmFree="true">
-						<format id="17">
-							<fileFormat>MP3</fileFormat>
-							<bitRate>320</bitRate>
-							<drmFree>true</drmFree>
-						</format>
-					</formats>
-					<label id="373536">
-						<name>OWSLA/Mad Decent</name>
-					</label>
-					<licensor id="18">
-						<name>Warner</name>
-					</licensor>
-					<streamingReleaseDate>2014-10-26T00:00:00Z</streamingReleaseDate>
-					<duration>210</duration>
-					<trackCount>1</trackCount>
-					<download>
-						<packages>
-							<package id="2">
-								<description>standard</description>
-								<price>
-									<currencyCode>GBP</currencyCode>
-									<sevendigitalPrice>0.99</sevendigitalPrice>
-									<recommendedRetailPrice>0.99</recommendedRetailPrice>
-								</price>
-								<format id="17">
-									<description>MP3 320</description>
-								</format>
-								<formats>
-									<format id="17">
-										<description>MP3 320</description>
-									</format>
-								</formats>
-							</package>
-						</packages>
-					</download>
-				</release>
-			</listItem>
-			<listItem id="3893446">
-				<type>release</type>
-				<release id="3893446">
-					<title>Something From Nothing</title>
-					<version/>
-					<type>Single</type>
-					<barcode>886444873833</barcode>
-					<year>2014</year>
-					<explicitContent>false</explicitContent>
-					<artist id="8293">
-						<name>Foo Fighters</name>
-						<appearsAs>Foo Fighters</appearsAs>
-						<url>http://www.7digital.com/artist/foo-fighters/?partner=3923</url>
-					</artist>
-					<url>http://www.7digital.com/artist/foo-fighters/release/something-from-nothing/?partner=3923</url>
-					<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/038/934/0003893446_50.jpg</image>
-					<releaseDate>2014-10-16T00:00:00Z</releaseDate>
-					<addedDate>2014-10-20T11:38:22Z</addedDate>
-					<price>
-						<currency code="GBP">£</currency>
-						<value>0.99</value>
-						<formattedPrice>£0.99</formattedPrice>
-						<rrp>0.99</rrp>
-						<formattedRrp>£0.99</formattedRrp>
-						<onSale>false</onSale>
-					</price>
-					<formats availableDrmFree="true">
-						<format id="17">
-							<fileFormat>MP3</fileFormat>
-							<bitRate>320</bitRate>
-							<drmFree>true</drmFree>
-						</format>
-						<format id="33">
-							<fileFormat>M4A</fileFormat>
-							<bitRate>320</bitRate>
-							<drmFree>true</drmFree>
-						</format>
-					</formats>
-					<label id="89">
-						<name>RCA Records Label</name>
-					</label>
-					<licensor id="2">
-						<name>Sony Music</name>
-					</licensor>
-					<streamingReleaseDate>2014-10-16T00:00:00Z</streamingReleaseDate>
-					<duration>289</duration>
-					<trackCount>1</trackCount>
-					<download>
-						<packages>
-							<package id="2">
-								<description>standard</description>
-								<price>
-									<currencyCode>GBP</currencyCode>
-									<sevendigitalPrice>0.99</sevendigitalPrice>
-									<recommendedRetailPrice>0.99</recommendedRetailPrice>
-								</price>
-								<format id="17">
-									<description>MP3 320</description>
-								</format>
-								<format id="33">
-									<description>M4A 320</description>
-								</format>
-								<formats>
-									<format id="17">
-										<description>MP3 320</description>
-									</format>
-									<format id="33">
-										<description>AAC 320</description>
-									</format>
-								</formats>
-							</package>
-						</packages>
-					</download>
-				</release>
-			</listItem>
-			<listItem id="3906283">
-				<type>release</type>
-				<release id="3906283">
-					<title>Restless City</title>
-					<version/>
-					<type>Single</type>
-					<barcode>5055274704760</barcode>
-					<year>2014</year>
-					<explicitContent>false</explicitContent>
-					<artist id="223034">
-						<name>lone</name>
-						<appearsAs>lone</appearsAs>
-						<url>http://www.7digital.com/artist/lone/?partner=3923</url>
-					</artist>
-					<url>http://www.7digital.com/artist/lone/release/restless-city-1/?partner=3923</url>
-					<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/039/062/0003906283_50.jpg</image>
-					<releaseDate>2014-10-19T00:00:00Z</releaseDate>
-					<addedDate>2014-10-22T17:13:27Z</addedDate>
-					<price>
-						<currency code="GBP">£</currency>
-						<value>1.79</value>
-						<formattedPrice>£1.79</formattedPrice>
-						<rrp>1.79</rrp>
-						<formattedRrp>£1.79</formattedRrp>
-						<onSale>false</onSale>
-					</price>
-					<formats availableDrmFree="true">
-						<format id="17">
-							<fileFormat>MP3</fileFormat>
-							<bitRate>320</bitRate>
-							<drmFree>true</drmFree>
-						</format>
-						<format id="33">
-							<fileFormat>M4A</fileFormat>
-							<bitRate>320</bitRate>
-							<drmFree>true</drmFree>
-						</format>
-					</formats>
-					<label id="15498">
-						<name>R&amp;S Records</name>
-					</label>
-					<licensor id="336">
-						<name>Essential Music and Marketing Ltd</name>
-					</licensor>
-					<streamingReleaseDate>2014-10-19T00:00:00Z</streamingReleaseDate>
-					<duration>566</duration>
-					<trackCount>2</trackCount>
-					<download>
-						<packages>
-							<package id="2">
-								<description>standard</description>
-								<price>
-									<currencyCode>GBP</currencyCode>
-									<sevendigitalPrice>1.79</sevendigitalPrice>
-									<recommendedRetailPrice>1.79</recommendedRetailPrice>
-								</price>
-								<format id="17">
-									<description>MP3 320</description>
-								</format>
-								<format id="33">
-									<description>M4A 320</description>
-								</format>
-								<formats>
-									<format id="17">
-										<description>MP3 320</description>
-									</format>
-									<format id="33">
-										<description>AAC 320</description>
-									</format>
-								</formats>
-							</package>
-						</packages>
-					</download>
-				</release>
-			</listItem>
-			<listItem id="3871127">
-				<type>release</type>
-				<release id="3871127">
-					<title>Once More With Feeling…</title>
-					<version/>
-					<type>Single</type>
-					<barcode>666561010867</barcode>
-					<year>2014</year>
-					<explicitContent>false</explicitContent>
-					<artist id="2229155">
-						<name>Ought</name>
-						<appearsAs>Ought</appearsAs>
-						<url>http://www.7digital.com/artist/ought/?partner=3923</url>
-					</artist>
-					<url>http://www.7digital.com/artist/ought/release/once-more-with-feeling/?partner=3923</url>
-					<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/038/711/0003871127_50.jpg</image>
-					<releaseDate>2014-10-27T00:00:00Z</releaseDate>
-					<addedDate>2014-10-08T21:23:12Z</addedDate>
-					<price>
-						<currency code="GBP">£</currency>
-						<value>3.96</value>
-						<formattedPrice>£3.96</formattedPrice>
-						<rrp>3.96</rrp>
-						<formattedRrp>£3.96</formattedRrp>
-						<onSale>false</onSale>
-					</price>
-					<formats availableDrmFree="true">
-						<format id="17">
-							<fileFormat>MP3</fileFormat>
-							<bitRate>320</bitRate>
-							<drmFree>true</drmFree>
-						</format>
-						<format id="33">
-							<fileFormat>M4A</fileFormat>
-							<bitRate>320</bitRate>
-							<drmFree>true</drmFree>
-						</format>
-					</formats>
-					<label id="16838">
-						<name>Constellation</name>
-					</label>
-					<licensor id="369">
-						<name>SC Distribution Company</name>
-					</licensor>
-					<streamingReleaseDate>2014-10-27T00:00:00Z</streamingReleaseDate>
-					<duration>1447</duration>
-					<trackCount>4</trackCount>
-					<download>
-						<packages>
-							<package id="2">
-								<description>standard</description>
-								<price>
-									<currencyCode>GBP</currencyCode>
-									<sevendigitalPrice>3.96</sevendigitalPrice>
-									<recommendedRetailPrice>3.96</recommendedRetailPrice>
-								</price>
-								<format id="17">
-									<description>MP3 320</description>
-								</format>
-								<format id="33">
-									<description>M4A 320</description>
-								</format>
-								<formats>
-									<format id="17">
-										<description>MP3 320</description>
-									</format>
-									<format id="33">
-										<description>AAC 320</description>
-									</format>
-								</formats>
-							</package>
-						</packages>
-					</download>
-				</release>
-			</listItem>
-			<listItem id="3906594">
-				<type>release</type>
-				<release id="3906594">
-					<title>Indigo Puff</title>
-					<version/>
-					<type>Album</type>
-					<barcode>3610158825447</barcode>
-					<year>2014</year>
-					<explicitContent>false</explicitContent>
-					<artist id="2176897">
-						<name>Sundara Karma</name>
-						<appearsAs>Sundara Karma</appearsAs>
-						<url>http://www.7digital.com/artist/sundara-karma/?partner=3923</url>
-					</artist>
-					<url>http://www.7digital.com/artist/sundara-karma/release/indigo-puff/?partner=3923</url>
-					<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/039/065/0003906594_50.jpg</image>
-					<releaseDate>2014-10-07T00:00:00Z</releaseDate>
-					<addedDate>2014-10-22T18:49:06Z</addedDate>
-					<price>
-						<currency code="GBP">£</currency>
-						<value>1.79</value>
-						<formattedPrice>£1.79</formattedPrice>
-						<rrp>1.79</rrp>
-						<formattedRrp>£1.79</formattedRrp>
-						<onSale>false</onSale>
-					</price>
-					<formats availableDrmFree="true">
-						<format id="17">
-							<fileFormat>MP3</fileFormat>
-							<bitRate>320</bitRate>
-							<drmFree>true</drmFree>
-						</format>
-						<format id="33">
-							<fileFormat>M4A</fileFormat>
-							<bitRate>320</bitRate>
-							<drmFree>true</drmFree>
-						</format>
-					</formats>
-					<label id="386078">
-						<name>Believe Recordings / 203 Records</name>
-					</label>
-					<licensor id="166">
-						<name>Believe</name>
-					</licensor>
-					<streamingReleaseDate>2014-10-07T00:00:00Z</streamingReleaseDate>
-					<duration>458</duration>
-					<trackCount>2</trackCount>
-					<download>
-						<packages>
-							<package id="2">
-								<description>standard</description>
-								<price>
-									<currencyCode>GBP</currencyCode>
-									<sevendigitalPrice>1.79</sevendigitalPrice>
-									<recommendedRetailPrice>1.79</recommendedRetailPrice>
-								</price>
-								<format id="17">
-									<description>MP3 320</description>
-								</format>
-								<format id="33">
-									<description>M4A 320</description>
-								</format>
-								<formats>
-									<format id="17">
-										<description>MP3 320</description>
-									</format>
-									<format id="33">
-										<description>AAC 320</description>
-									</format>
-								</formats>
-							</package>
-						</packages>
-					</download>
-				</release>
-			</listItem>
-			<listItem id="3866433">
-				<type>release</type>
-				<release id="3866433">
-					<title>Nathaniel</title>
-					<version>Radio Edit</version>
-					<type>Single</type>
-					<barcode>00885606001138</barcode>
-					<year>2007</year>
-					<explicitContent>false</explicitContent>
-					<artist id="17340">
-						<name>Ben Watt</name>
-						<appearsAs>Ben Watt</appearsAs>
-						<url>http://www.7digital.com/artist/ben-watt/?partner=3923</url>
-					</artist>
-					<url>http://www.7digital.com/artist/ben-watt/release/nathaniel-radio-edit/?partner=3923</url>
-					<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/038/664/0003866433_50.jpg</image>
-					<releaseDate>2014-10-20T00:00:00Z</releaseDate>
-					<addedDate>2014-10-07T10:13:26Z</addedDate>
-					<price>
-						<currency code="GBP">£</currency>
-						<value>0.99</value>
-						<formattedPrice>£0.99</formattedPrice>
-						<rrp>0.99</rrp>
-						<formattedRrp>£0.99</formattedRrp>
-						<onSale>false</onSale>
-					</price>
-					<formats availableDrmFree="true">
-						<format id="17">
-							<fileFormat>MP3</fileFormat>
-							<bitRate>320</bitRate>
-							<drmFree>true</drmFree>
-						</format>
-					</formats>
-					<label id="293292">
-						<name>Unmade Road</name>
-					</label>
-					<licensor id="1">
-						<name>Universal</name>
-					</licensor>
-					<streamingReleaseDate>2014-10-20T00:00:00Z</streamingReleaseDate>
-					<duration>184</duration>
-					<trackCount>1</trackCount>
-					<download>
-						<packages>
-							<package id="2">
-								<description>standard</description>
-								<price>
-									<currencyCode>GBP</currencyCode>
-									<sevendigitalPrice>0.99</sevendigitalPrice>
-									<recommendedRetailPrice>0.99</recommendedRetailPrice>
-								</price>
-								<format id="17">
-									<description>MP3 320</description>
-								</format>
-								<formats>
-									<format id="17">
-										<description>MP3 320</description>
-									</format>
-								</formats>
-							</package>
-						</packages>
-					</download>
-				</release>
-			</listItem>
-			<listItem id="3808713">
-				<type>release</type>
-				<release id="3808713">
-					<title>Circles</title>
-					<version/>
-					<type>Single</type>
-					<barcode>5054429000146</barcode>
-					<year>2014</year>
-					<explicitContent>false</explicitContent>
-					<artist id="887106">
-						<name>Kate Tempest</name>
-						<appearsAs>Kate Tempest</appearsAs>
-						<url>http://www.7digital.com/artist/kate-tempest/?partner=3923</url>
-					</artist>
-					<url>http://www.7digital.com/artist/kate-tempest/release/circles/?partner=3923</url>
-					<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/038/087/0003808713_50.jpg</image>
-					<releaseDate>2014-10-20T00:00:00Z</releaseDate>
-					<addedDate>2014-09-18T11:52:42Z</addedDate>
-					<price>
-						<currency code="GBP">£</currency>
-						<value>2.49</value>
-						<formattedPrice>£2.49</formattedPrice>
-						<rrp>2.49</rrp>
-						<formattedRrp>£2.49</formattedRrp>
-						<onSale>false</onSale>
-					</price>
-					<formats availableDrmFree="true">
-						<format id="17">
-							<fileFormat>MP3</fileFormat>
-							<bitRate>320</bitRate>
-							<drmFree>true</drmFree>
-						</format>
-						<format id="33">
-							<fileFormat>M4A</fileFormat>
-							<bitRate>320</bitRate>
-							<drmFree>true</drmFree>
-						</format>
-					</formats>
-					<label id="119">
-						<name>Big Dada</name>
-					</label>
-					<licensor id="317">
-						<name>Ninja Tune</name>
-					</licensor>
-					<streamingReleaseDate>2014-10-20T00:00:00Z</streamingReleaseDate>
-					<duration>800</duration>
-					<trackCount>4</trackCount>
-					<download>
-						<packages>
-							<package id="2">
-								<description>standard</description>
-								<price>
-									<currencyCode>GBP</currencyCode>
-									<sevendigitalPrice>2.49</sevendigitalPrice>
-									<recommendedRetailPrice>2.49</recommendedRetailPrice>
-								</price>
-								<format id="17">
-									<description>MP3 320</description>
-								</format>
-								<format id="33">
-									<description>M4A 320</description>
-								</format>
-								<formats>
-									<format id="17">
-										<description>MP3 320</description>
-									</format>
-									<format id="33">
-										<description>AAC 320</description>
-									</format>
-								</formats>
-							</package>
-						</packages>
-					</download>
-				</release>
-			</listItem>
-			<listItem id="3700536">
-				<type>release</type>
-				<release id="3700536">
-					<title>Bump &amp; Grind 2014 (Waze &amp; Odyssey vs. R. Kelly)</title>
-					<version/>
-					<type>Single</type>
-					<barcode>886444759731</barcode>
-					<year>2014</year>
-					<explicitContent>false</explicitContent>
-					<artist id="2411213">
-						<name>Waze &amp; Odyssey &amp; R. Kelly</name>
-						<appearsAs>Waze &amp; Odyssey &amp; R. Kelly</appearsAs>
-						<url>http://www.7digital.com/artist/waze-and-odyssey-and-r-kelly/?partner=3923</url>
-					</artist>
-					<url>http://www.7digital.com/artist/waze-and-odyssey-and-r-kelly/release/bump-and-grind-2014/?partner=3923</url>
-					<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/037/005/0003700536_50.jpg</image>
-					<releaseDate>2014-10-19T00:00:00Z</releaseDate>
-					<addedDate>2014-09-03T16:23:03Z</addedDate>
-					<price>
-						<currency code="GBP">£</currency>
-						<value>0.99</value>
-						<formattedPrice>£0.99</formattedPrice>
-						<rrp>0.99</rrp>
-						<formattedRrp>£0.99</formattedRrp>
-						<onSale>false</onSale>
-					</price>
-					<formats availableDrmFree="true">
-						<format id="17">
-							<fileFormat>MP3</fileFormat>
-							<bitRate>320</bitRate>
-							<drmFree>true</drmFree>
-						</format>
-						<format id="33">
-							<fileFormat>M4A</fileFormat>
-							<bitRate>320</bitRate>
-							<drmFree>true</drmFree>
-						</format>
-					</formats>
-					<label id="89">
-						<name>RCA Records Label</name>
-					</label>
-					<licensor id="2">
-						<name>Sony Music</name>
-					</licensor>
-					<streamingReleaseDate>2014-10-19T00:00:00Z</streamingReleaseDate>
-					<duration>182</duration>
-					<trackCount>1</trackCount>
-					<download>
-						<packages>
-							<package id="2">
-								<description>standard</description>
-								<price>
-									<currencyCode>GBP</currencyCode>
-									<sevendigitalPrice>0.99</sevendigitalPrice>
-									<recommendedRetailPrice>0.99</recommendedRetailPrice>
-								</price>
-								<format id="17">
-									<description>MP3 320</description>
-								</format>
-								<format id="33">
-									<description>M4A 320</description>
-								</format>
-								<formats>
-									<format id="17">
-										<description>MP3 320</description>
-									</format>
-									<format id="33">
-										<description>AAC 320</description>
-									</format>
-								</formats>
-							</package>
-						</packages>
-					</download>
-				</release>
-			</listItem>
-			<listItem id="3818406">
-				<type>release</type>
-				<release id="3818406">
-					<title>All I See</title>
-					<version/>
-					<type>Album</type>
-					<barcode>886444676700</barcode>
-					<year>2014</year>
-					<explicitContent>false</explicitContent>
-					<artist id="1392238">
-						<name>Bondax</name>
-						<appearsAs>Bondax</appearsAs>
-						<url>http://www.7digital.com/artist/bondax/?partner=3923</url>
-					</artist>
-					<url>http://www.7digital.com/artist/bondax/release/all-i-see-1/?partner=3923</url>
-					<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/038/184/0003818406_50.jpg</image>
-					<releaseDate>2014-10-19T00:00:00Z</releaseDate>
-					<addedDate>2014-09-18T17:41:50Z</addedDate>
-					<price>
-						<currency code="GBP">£</currency>
-						<value>3.49</value>
-						<formattedPrice>£3.49</formattedPrice>
-						<rrp>3.49</rrp>
-						<formattedRrp>£3.49</formattedRrp>
-						<onSale>false</onSale>
-					</price>
-					<formats availableDrmFree="true">
-						<format id="17">
-							<fileFormat>MP3</fileFormat>
-							<bitRate>320</bitRate>
-							<drmFree>true</drmFree>
-						</format>
-						<format id="33">
-							<fileFormat>M4A</fileFormat>
-							<bitRate>320</bitRate>
-							<drmFree>true</drmFree>
-						</format>
-					</formats>
-					<label id="10326">
-						<name>RELENTLESS RECORDS</name>
-					</label>
-					<licensor id="2">
-						<name>Sony Music</name>
-					</licensor>
-					<streamingReleaseDate>2014-10-19T00:00:00Z</streamingReleaseDate>
-					<duration>979</duration>
-					<trackCount>4</trackCount>
-					<download>
-						<packages>
-							<package id="2">
-								<description>standard</description>
-								<price>
-									<currencyCode>GBP</currencyCode>
-									<sevendigitalPrice>3.49</sevendigitalPrice>
-									<recommendedRetailPrice>3.49</recommendedRetailPrice>
-								</price>
-								<format id="17">
-									<description>MP3 320</description>
-								</format>
-								<format id="33">
-									<description>M4A 320</description>
-								</format>
-								<formats>
-									<format id="17">
-										<description>MP3 320</description>
-									</format>
-									<format id="33">
-										<description>AAC 320</description>
-									</format>
-								</formats>
-							</package>
-						</packages>
-					</download>
-				</release>
-			</listItem>
-			<listItem id="3870128">
-				<type>release</type>
-				<release id="3870128">
-					<title>You Just Don't Know People</title>
-					<version/>
-					<type>Single</type>
-					<barcode>825646210886</barcode>
-					<year>2014</year>
-					<explicitContent>false</explicitContent>
-					<artist id="351189">
-						<name>Rumer</name>
-						<appearsAs>Rumer</appearsAs>
-						<url>http://www.7digital.com/artist/rumer/?partner=3923</url>
-					</artist>
-					<url>http://www.7digital.com/artist/rumer/release/you-just-dont-know-people/?partner=3923</url>
-					<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/038/701/0003870128_50.jpg</image>
-					<releaseDate>2014-10-20T00:00:00Z</releaseDate>
-					<addedDate>2014-10-07T22:25:11Z</addedDate>
-					<price>
-						<currency code="GBP">£</currency>
-						<value>0.99</value>
-						<formattedPrice>£0.99</formattedPrice>
-						<rrp>0.99</rrp>
-						<formattedRrp>£0.99</formattedRrp>
-						<onSale>false</onSale>
-					</price>
-					<formats availableDrmFree="true">
-						<format id="17">
-							<fileFormat>MP3</fileFormat>
-							<bitRate>320</bitRate>
-							<drmFree>true</drmFree>
-						</format>
-						<format id="33">
-							<fileFormat>M4A</fileFormat>
-							<bitRate>320</bitRate>
-							<drmFree>true</drmFree>
-						</format>
-					</formats>
-					<label id="1373">
-						<name>Atlantic Records UK</name>
-					</label>
-					<licensor id="18">
-						<name>Warner</name>
-					</licensor>
-					<streamingReleaseDate>2014-10-20T00:00:00Z</streamingReleaseDate>
-					<duration>317</duration>
-					<trackCount>1</trackCount>
-					<download>
-						<packages>
-							<package id="2">
-								<description>standard</description>
-								<price>
-									<currencyCode>GBP</currencyCode>
-									<sevendigitalPrice>0.99</sevendigitalPrice>
-									<recommendedRetailPrice>0.99</recommendedRetailPrice>
-								</price>
-								<format id="17">
-									<description>MP3 320</description>
-								</format>
-								<format id="33">
-									<description>M4A 320</description>
-								</format>
-								<formats>
-									<format id="17">
-										<description>MP3 320</description>
-									</format>
-									<format id="33">
-										<description>AAC 320</description>
-									</format>
-								</formats>
-							</package>
-						</packages>
-					</download>
-				</release>
-			</listItem>
-			<listItem id="3883294">
-				<type>release</type>
-				<release id="3883294">
-					<title>Don't</title>
-					<version/>
-					<type>Single</type>
-					<barcode>825646191086</barcode>
-					<year>2014</year>
-					<explicitContent>false</explicitContent>
-					<artist id="603309">
-						<name>Ed Sheeran</name>
-						<appearsAs>Ed Sheeran</appearsAs>
-						<url>http://www.7digital.com/artist/ed-sheeran/?partner=3923</url>
-					</artist>
-					<url>http://www.7digital.com/artist/ed-sheeran/release/dont-1/?partner=3923</url>
-					<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/038/832/0003883294_50.jpg</image>
-					<releaseDate>2014-10-19T00:00:00Z</releaseDate>
-					<addedDate>2014-10-13T19:52:25Z</addedDate>
-					<price>
-						<currency code="GBP">£</currency>
-						<value>0.99</value>
-						<formattedPrice>£0.99</formattedPrice>
-						<rrp>0.99</rrp>
-						<formattedRrp>£0.99</formattedRrp>
-						<onSale>false</onSale>
-					</price>
-					<formats availableDrmFree="true">
-						<format id="17">
-							<fileFormat>MP3</fileFormat>
-							<bitRate>320</bitRate>
-							<drmFree>true</drmFree>
-						</format>
-					</formats>
-					<label id="1373">
-						<name>Atlantic Records UK</name>
-					</label>
-					<licensor id="18">
-						<name>Warner</name>
-					</licensor>
-					<streamingReleaseDate>2014-10-19T00:00:00Z</streamingReleaseDate>
-					<duration>221</duration>
-					<trackCount>1</trackCount>
-					<download>
-						<packages>
-							<package id="2">
-								<description>standard</description>
-								<price>
-									<currencyCode>GBP</currencyCode>
-									<sevendigitalPrice>0.99</sevendigitalPrice>
-									<recommendedRetailPrice>0.99</recommendedRetailPrice>
-								</price>
-								<format id="17">
-									<description>MP3 320</description>
-								</format>
-								<formats>
-									<format id="17">
-										<description>MP3 320</description>
-									</format>
-								</formats>
-							</package>
-						</packages>
-					</download>
-				</release>
-			</listItem>
-			<listItem id="3873966">
-				<type>release</type>
-				<release id="3873966">
-					<title>Wicked Wonderland</title>
-					<version>Remixes</version>
-					<type>Album</type>
-					<barcode>05037128212553</barcode>
-					<year>1999</year>
-					<explicitContent>false</explicitContent>
-					<artist id="1287189">
-						<name>Martin Tungevaag</name>
-						<appearsAs>Martin Tungevaag</appearsAs>
-						<url>http://www.7digital.com/artist/martin-tungevaag/?partner=3923</url>
-					</artist>
-					<url>http://www.7digital.com/artist/martin-tungevaag/release/wicked-wonderland-remixes-2/?partner=3923</url>
-					<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/038/739/0003873966_50.jpg</image>
-					<releaseDate>2014-10-19T00:00:00Z</releaseDate>
-					<addedDate>2014-10-09T10:48:01Z</addedDate>
-					<price>
-						<currency code="GBP">£</currency>
-						<value>3.99</value>
-						<formattedPrice>£3.99</formattedPrice>
-						<rrp>3.99</rrp>
-						<formattedRrp>£3.99</formattedRrp>
-						<onSale>false</onSale>
-					</price>
-					<formats availableDrmFree="true">
-						<format id="17">
-							<fileFormat>MP3</fileFormat>
-							<bitRate>320</bitRate>
-							<drmFree>true</drmFree>
-						</format>
-					</formats>
-					<label id="3309">
-						<name>Universal Music Ireland Ltd.</name>
-					</label>
-					<licensor id="1">
-						<name>Universal</name>
-					</licensor>
-					<streamingReleaseDate>2014-10-19T00:00:00Z</streamingReleaseDate>
-					<duration>1600</duration>
-					<trackCount>6</trackCount>
-					<download>
-						<packages>
-							<package id="2">
-								<description>standard</description>
-								<price>
-									<currencyCode>GBP</currencyCode>
-									<sevendigitalPrice>3.99</sevendigitalPrice>
-									<recommendedRetailPrice>3.99</recommendedRetailPrice>
-								</price>
-								<format id="17">
-									<description>MP3 320</description>
-								</format>
-								<formats>
-									<format id="17">
-										<description>MP3 320</description>
-									</format>
-								</formats>
-							</package>
-						</packages>
-					</download>
-				</release>
-			</listItem>
-			<listItem id="3874722">
-				<type>release</type>
-				<release id="3874722">
-					<title>Guerrilla</title>
-					<version/>
-					<type>Single</type>
-					<barcode>00602547092694</barcode>
-					<year>2014</year>
-					<explicitContent>false</explicitContent>
-					<artist id="2422024">
-						<name>Maxine Ashley</name>
-						<appearsAs>Maxine Ashley</appearsAs>
-						<url>http://www.7digital.com/artist/maxine-ashley/?partner=3923</url>
-					</artist>
-					<url>http://www.7digital.com/artist/maxine-ashley/release/guerrilla/?partner=3923</url>
-					<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/038/747/0003874722_50.jpg</image>
-					<releaseDate>2014-10-26T00:00:00Z</releaseDate>
-					<addedDate>2014-10-09T13:29:25Z</addedDate>
-					<price>
-						<currency code="GBP">£</currency>
-						<value>0.99</value>
-						<formattedPrice>£0.99</formattedPrice>
-						<rrp>0.99</rrp>
-						<formattedRrp>£0.99</formattedRrp>
-						<onSale>false</onSale>
-					</price>
-					<formats availableDrmFree="true">
-						<format id="17">
-							<fileFormat>MP3</fileFormat>
-							<bitRate>320</bitRate>
-							<drmFree>true</drmFree>
-						</format>
-					</formats>
-					<label id="149943">
-						<name>Universal Music (Pty) Ltd.</name>
-					</label>
-					<licensor id="1">
-						<name>Universal</name>
-					</licensor>
-					<streamingReleaseDate>2014-10-26T00:00:00Z</streamingReleaseDate>
-					<duration>211</duration>
-					<trackCount>1</trackCount>
-					<download>
-						<packages>
-							<package id="2">
-								<description>standard</description>
-								<price>
-									<currencyCode>GBP</currencyCode>
-									<sevendigitalPrice>0.99</sevendigitalPrice>
-									<recommendedRetailPrice>0.99</recommendedRetailPrice>
-								</price>
-								<format id="17">
-									<description>MP3 320</description>
-								</format>
-								<formats>
-									<format id="17">
-										<description>MP3 320</description>
-									</format>
-								</formats>
-							</package>
-						</packages>
-					</download>
-				</release>
-			</listItem>
-			<listItem id="3873353">
-				<type>release</type>
-				<release id="3873353">
-					<title>Simple Love</title>
-					<version/>
-					<type>Album</type>
-					<barcode>886444872638</barcode>
-					<year>2014</year>
-					<explicitContent>false</explicitContent>
-					<artist id="2416636">
-						<name>Julio Bashmore feat. J'Danna</name>
-						<appearsAs>Julio Bashmore feat. J'Danna</appearsAs>
-						<url>http://www.7digital.com/artist/julio-bashmore-feat-jdanna/?partner=3923</url>
-					</artist>
-					<url>http://www.7digital.com/artist/julio-bashmore-feat-jdanna/release/simple-love-2/?partner=3923</url>
-					<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/038/733/0003873353_50.jpg</image>
-					<releaseDate>2014-10-19T00:00:00Z</releaseDate>
-					<addedDate>2014-10-09T16:12:39Z</addedDate>
-					<price>
-						<currency code="GBP">£</currency>
-						<value>1.29</value>
-						<formattedPrice>£1.29</formattedPrice>
-						<rrp>1.29</rrp>
-						<formattedRrp>£1.29</formattedRrp>
-						<onSale>false</onSale>
-					</price>
-					<formats availableDrmFree="true">
-						<format id="17">
-							<fileFormat>MP3</fileFormat>
-							<bitRate>320</bitRate>
-							<drmFree>true</drmFree>
-						</format>
-						<format id="33">
-							<fileFormat>M4A</fileFormat>
-							<bitRate>320</bitRate>
-							<drmFree>true</drmFree>
-						</format>
-					</formats>
-					<label id="353143">
-						<name>Broadwalk Records</name>
-					</label>
-					<licensor id="2">
-						<name>Sony Music</name>
-					</licensor>
-					<streamingReleaseDate>2014-10-19T00:00:00Z</streamingReleaseDate>
-					<duration>645</duration>
-					<trackCount>2</trackCount>
-					<download>
-						<packages>
-							<package id="2">
-								<description>standard</description>
-								<price>
-									<currencyCode>GBP</currencyCode>
-									<sevendigitalPrice>1.29</sevendigitalPrice>
-									<recommendedRetailPrice>1.29</recommendedRetailPrice>
-								</price>
-								<format id="17">
-									<description>MP3 320</description>
-								</format>
-								<format id="33">
-									<description>M4A 320</description>
-								</format>
-								<formats>
-									<format id="17">
-										<description>MP3 320</description>
-									</format>
-									<format id="33">
-										<description>AAC 320</description>
-									</format>
-								</formats>
-							</package>
-						</packages>
-					</download>
-				</release>
-			</listItem>
-			<listItem id="3883280">
-				<type>release</type>
-				<release id="3883280">
-					<title>A New Reality</title>
-					<version/>
-					<type>Album</type>
-					<barcode>886444882606</barcode>
-					<year>2014</year>
-					<explicitContent>false</explicitContent>
-					<artist id="33154">
-						<name>Klaxons</name>
-						<appearsAs>Klaxons</appearsAs>
-						<url>http://www.7digital.com/artist/klaxons/?partner=3923</url>
-					</artist>
-					<url>http://www.7digital.com/artist/klaxons/release/a-new-reality/?partner=3923</url>
-					<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/038/832/0003883280_50.jpg</image>
-					<releaseDate>2014-10-19T00:00:00Z</releaseDate>
-					<addedDate>2014-10-13T18:25:33Z</addedDate>
-					<price>
-						<currency code="GBP">£</currency>
-						<value>1.29</value>
-						<formattedPrice>£1.29</formattedPrice>
-						<rrp>1.29</rrp>
-						<formattedRrp>£1.29</formattedRrp>
-						<onSale>false</onSale>
-					</price>
-					<formats availableDrmFree="true">
-						<format id="17">
-							<fileFormat>MP3</fileFormat>
-							<bitRate>320</bitRate>
-							<drmFree>true</drmFree>
-						</format>
-						<format id="33">
-							<fileFormat>M4A</fileFormat>
-							<bitRate>320</bitRate>
-							<drmFree>true</drmFree>
-						</format>
-					</formats>
-					<label id="307712">
-						<name>Akashic Rekords</name>
-					</label>
-					<licensor id="2">
-						<name>Sony Music</name>
-					</licensor>
-					<streamingReleaseDate>2014-10-19T00:00:00Z</streamingReleaseDate>
-					<duration>643</duration>
-					<trackCount>2</trackCount>
-					<download>
-						<packages>
-							<package id="2">
-								<description>standard</description>
-								<price>
-									<currencyCode>GBP</currencyCode>
-									<sevendigitalPrice>1.29</sevendigitalPrice>
-									<recommendedRetailPrice>1.29</recommendedRetailPrice>
-								</price>
-								<format id="17">
-									<description>MP3 320</description>
-								</format>
-								<format id="33">
-									<description>M4A 320</description>
-								</format>
-								<formats>
-									<format id="17">
-										<description>MP3 320</description>
-									</format>
-									<format id="33">
-										<description>AAC 320</description>
-									</format>
-								</formats>
-							</package>
-						</packages>
-					</download>
-				</release>
-			</listItem>
-			<listItem id="3869333">
-				<type>release</type>
-				<release id="3869333">
-					<title>Shells</title>
-					<version/>
-					<type>Single</type>
-					<barcode>888831958673</barcode>
-					<year>2014</year>
-					<explicitContent>false</explicitContent>
-					<artist id="268194">
-						<name>Laurel</name>
-						<appearsAs>Laurel</appearsAs>
-						<url>http://www.7digital.com/artist/laurel/?partner=3923</url>
-					</artist>
-					<url>http://www.7digital.com/artist/laurel/release/shells/?partner=3923</url>
-					<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/038/693/0003869333_50.jpg</image>
-					<releaseDate>2014-10-20T00:00:00Z</releaseDate>
-					<addedDate>2014-10-10T16:10:50Z</addedDate>
-					<price>
-						<currency code="GBP">£</currency>
-						<value>2.97</value>
-						<formattedPrice>£2.97</formattedPrice>
-						<rrp>2.97</rrp>
-						<formattedRrp>£2.97</formattedRrp>
-						<onSale>false</onSale>
-					</price>
-					<formats availableDrmFree="true">
-						<format id="17">
-							<fileFormat>MP3</fileFormat>
-							<bitRate>320</bitRate>
-							<drmFree>true</drmFree>
-						</format>
-					</formats>
-					<label id="310033">
-						<name>Next Time Records</name>
-					</label>
-					<licensor id="21">
-						<name>Orchard</name>
-					</licensor>
-					<streamingReleaseDate>2014-10-20T00:00:00Z</streamingReleaseDate>
-					<duration>879</duration>
-					<trackCount>3</trackCount>
-					<download>
-						<packages>
-							<package id="2">
-								<description>standard</description>
-								<price>
-									<currencyCode>GBP</currencyCode>
-									<sevendigitalPrice>2.97</sevendigitalPrice>
-									<recommendedRetailPrice>2.97</recommendedRetailPrice>
-								</price>
-								<format id="17">
-									<description>MP3 320</description>
-								</format>
-								<formats>
-									<format id="17">
-										<description>MP3 320</description>
-									</format>
-								</formats>
-							</package>
-						</packages>
-					</download>
-				</release>
-			</listItem>
-			<listItem id="3872396">
-				<type>release</type>
-				<release id="3872396">
-					<title>Dechorro</title>
-					<version>Remixes</version>
-					<type>Single</type>
-					<barcode>05037128208051</barcode>
-					<year>2014</year>
-					<explicitContent>false</explicitContent>
-					<artist id="1356962">
-						<name>Deorro</name>
-						<appearsAs>Deorro</appearsAs>
-						<url>http://www.7digital.com/artist/deorro/?partner=3923</url>
-					</artist>
-					<url>http://www.7digital.com/artist/deorro/release/dechorro-remixes-1/?partner=3923</url>
-					<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/038/723/0003872396_50.jpg</image>
-					<releaseDate>2014-10-19T00:00:00Z</releaseDate>
-					<addedDate>2014-10-08T19:44:07Z</addedDate>
-					<price>
-						<currency code="GBP">£</currency>
-						<value>1.99</value>
-						<formattedPrice>£1.99</formattedPrice>
-						<rrp>1.99</rrp>
-						<formattedRrp>£1.99</formattedRrp>
-						<onSale>false</onSale>
-					</price>
-					<formats availableDrmFree="true">
-						<format id="17">
-							<fileFormat>MP3</fileFormat>
-							<bitRate>320</bitRate>
-							<drmFree>true</drmFree>
-						</format>
-					</formats>
-					<label id="3309">
-						<name>Universal Music Ireland Ltd.</name>
-					</label>
-					<licensor id="1">
-						<name>Universal</name>
-					</licensor>
-					<streamingReleaseDate>2014-10-19T00:00:00Z</streamingReleaseDate>
-					<duration>1114</duration>
-					<trackCount>4</trackCount>
-					<download>
-						<packages>
-							<package id="2">
-								<description>standard</description>
-								<price>
-									<currencyCode>GBP</currencyCode>
-									<sevendigitalPrice>1.99</sevendigitalPrice>
-									<recommendedRetailPrice>1.99</recommendedRetailPrice>
-								</price>
-								<format id="17">
-									<description>MP3 320</description>
-								</format>
-								<formats>
-									<format id="17">
-										<description>MP3 320</description>
-									</format>
-								</formats>
-							</package>
-						</packages>
-					</download>
-				</release>
-			</listItem>
-		</listItems>
-	</list>
+  <list id="3988">
+    <key>new-releases-tracks</key>
+    <listItems>
+      <listItem id="3755866">
+        <type>release</type>
+        <release id="3755866">
+          <title>So There</title>
+          <version/>
+          <type>Single</type>
+          <barcode>00857018004700</barcode>
+          <year>1991</year>
+          <explicitContent>false</explicitContent>
+          <artist id="229632">
+            <name>Alexa Goddard</name>
+            <appearsAs>Alexa Goddard</appearsAs>
+            <url>http://www.7digital.com/artist/alexa-goddard/?partner=3923</url>
+          </artist>
+          <url>http://www.7digital.com/artist/alexa-goddard/release/so-there-1/?partner=3923</url>
+          <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/037/558/0003755866_50.jpg</image>
+          <label id="383633">
+            <name>Digital Distribution Qatar</name>
+          </label>
+          <licensor id="1">
+            <name>Universal</name>
+          </licensor>
+          <streamingReleaseDate>2014-10-26T00:00:00Z</streamingReleaseDate>
+          <duration>230</duration>
+          <trackCount>1</trackCount>
+          <download>
+            <packages>
+              <package id="2">
+                <description>standard</description>
+                <price>
+                  <currencyCode>GBP</currencyCode>
+                  <sevendigitalPrice>0.99</sevendigitalPrice>
+                  <recommendedRetailPrice>0.99</recommendedRetailPrice>
+                </price>
+                <format id="17">
+                  <description>MP3 320</description>
+                </format>
+                <formats>
+                  <format id="17">
+                    <description>MP3 320</description>
+                  </format>
+                </formats>
+              </package>
+            </packages>
+          </download>
+        </release>
+      </listItem>
+      <listItem id="3787224">
+        <type>release</type>
+        <release id="3787224">
+          <title>In Your Prime - EP</title>
+          <version>Explicit</version>
+          <type>Album</type>
+          <barcode>886444810456</barcode>
+          <year>2014</year>
+          <explicitContent>true</explicitContent>
+          <artist id="1502753">
+            <name>Josef Salvat</name>
+            <appearsAs>Josef Salvat</appearsAs>
+            <url>http://www.7digital.com/artist/josef-salvat/?partner=3923</url>
+          </artist>
+          <url>http://www.7digital.com/artist/josef-salvat/release/in-your-prime-ep-explicit/?partner=3923</url>
+          <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/037/872/0003787224_50.jpg</image>
+          <label id="369463">
+            <name>Columbia/Fingers &amp; Thumbs</name>
+          </label>
+          <licensor id="2">
+            <name>Sony Music</name>
+          </licensor>
+          <streamingReleaseDate>2014-09-21T00:00:00Z</streamingReleaseDate>
+          <duration>973</duration>
+          <trackCount>4</trackCount>
+          <download>
+            <packages>
+              <package id="2">
+                <description>standard</description>
+                <price>
+                  <currencyCode>GBP</currencyCode>
+                  <sevendigitalPrice>3.49</sevendigitalPrice>
+                  <recommendedRetailPrice>3.49</recommendedRetailPrice>
+                </price>
+                <format id="17">
+                  <description>MP3 320</description>
+                </format>
+                <format id="33">
+                  <description>M4A 320</description>
+                </format>
+                <formats>
+                  <format id="17">
+                    <description>MP3 320</description>
+                  </format>
+                  <format id="33">
+                    <description>AAC 320</description>
+                  </format>
+                </formats>
+              </package>
+            </packages>
+          </download>
+        </release>
+      </listItem>
+      <listItem id="3885998">
+        <type>release</type>
+        <release id="3885998">
+          <title>Games for Girls</title>
+          <version/>
+          <type>Album</type>
+          <barcode>886444795739</barcode>
+          <year>2014</year>
+          <explicitContent>false</explicitContent>
+          <artist id="2457502">
+            <name>Say Lou Lou x Lindstrøm</name>
+            <appearsAs>Say Lou Lou x Lindstrøm</appearsAs>
+            <url>http://www.7digital.com/artist/say-lou-lou-x-lindstrøm/?partner=3923</url>
+          </artist>
+          <url>http://www.7digital.com/artist/say-lou-lou-x-lindstrøm/release/games-for-girls/?partner=3923</url>
+          <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/038/859/0003885998_50.jpg</image>
+          <label id="592">
+            <name>Columbia</name>
+          </label>
+          <licensor id="2">
+            <name>Sony Music</name>
+          </licensor>
+          <streamingReleaseDate>2014-10-26T00:00:00Z</streamingReleaseDate>
+          <duration>1146</duration>
+          <trackCount>3</trackCount>
+          <download>
+            <packages>
+              <package id="2">
+                <description>standard</description>
+                <price>
+                  <currencyCode>GBP</currencyCode>
+                  <sevendigitalPrice>2.49</sevendigitalPrice>
+                  <recommendedRetailPrice>2.49</recommendedRetailPrice>
+                </price>
+                <format id="17">
+                  <description>MP3 320</description>
+                </format>
+                <format id="33">
+                  <description>M4A 320</description>
+                </format>
+                <formats>
+                  <format id="17">
+                    <description>MP3 320</description>
+                  </format>
+                  <format id="33">
+                    <description>AAC 320</description>
+                  </format>
+                </formats>
+              </package>
+            </packages>
+          </download>
+        </release>
+      </listItem>
+      <listItem id="3885914">
+        <type>release</type>
+        <release id="3885914">
+          <title>Gold Skies</title>
+          <version/>
+          <type>Single</type>
+          <barcode>00602537947492</barcode>
+          <year>2014</year>
+          <explicitContent>false</explicitContent>
+          <artist id="2447616">
+            <name>Martin Garrix / DVBBS / Sander van Doorn / Aleesia</name>
+            <appearsAs>Martin Garrix / DVBBS / Sander van Doorn / Aleesia</appearsAs>
+            <url>http://www.7digital.com/artist/martin-garrix-dvbbs-sander-van-doorn-aleesia/?partner=3923</url>
+          </artist>
+          <url>http://www.7digital.com/artist/martin-garrix-dvbbs-sander-van-doorn-aleesia/release/gold-skies-1/?partner=3923</url>
+          <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/038/859/0003885914_50.jpg</image>
+          <label id="3309">
+            <name>Universal Music Ireland Ltd.</name>
+          </label>
+          <licensor id="1">
+            <name>Universal</name>
+          </licensor>
+          <streamingReleaseDate>2014-10-26T00:00:00Z</streamingReleaseDate>
+          <duration>235</duration>
+          <trackCount>1</trackCount>
+          <download>
+            <packages>
+              <package id="2">
+                <description>standard</description>
+                <price>
+                  <currencyCode>GBP</currencyCode>
+                  <sevendigitalPrice>0.99</sevendigitalPrice>
+                  <recommendedRetailPrice>0.99</recommendedRetailPrice>
+                </price>
+                <format id="17">
+                  <description>MP3 320</description>
+                </format>
+                <formats>
+                  <format id="17">
+                    <description>MP3 320</description>
+                  </format>
+                </formats>
+              </package>
+            </packages>
+          </download>
+        </release>
+      </listItem>
+      <listItem id="3905758">
+        <type>release</type>
+        <release id="3905758">
+          <title>Wolves</title>
+          <version/>
+          <type>Album</type>
+          <barcode>886444900898</barcode>
+          <year>2014</year>
+          <explicitContent>false</explicitContent>
+          <artist id="1449978">
+            <name>Rag'n'Bone Man</name>
+            <appearsAs>Rag'n'Bone Man</appearsAs>
+            <url>http://www.7digital.com/artist/ragnbone-man/?partner=3923</url>
+          </artist>
+          <url>http://www.7digital.com/artist/ragnbone-man/release/wolves/?partner=3923</url>
+          <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/039/057/0003905758_50.jpg</image>
+          <label id="592">
+            <name>Columbia</name>
+          </label>
+          <licensor id="2">
+            <name>Sony Music</name>
+          </licensor>
+          <streamingReleaseDate>2014-10-27T00:00:00Z</streamingReleaseDate>
+          <duration>1737</duration>
+          <trackCount>9</trackCount>
+          <download>
+            <packages>
+              <package id="2">
+                <description>standard</description>
+                <price>
+                  <currencyCode>GBP</currencyCode>
+                  <sevendigitalPrice>4.99</sevendigitalPrice>
+                  <recommendedRetailPrice>4.99</recommendedRetailPrice>
+                </price>
+                <format id="17">
+                  <description>MP3 320</description>
+                </format>
+                <format id="33">
+                  <description>M4A 320</description>
+                </format>
+                <formats>
+                  <format id="17">
+                    <description>MP3 320</description>
+                  </format>
+                  <format id="33">
+                    <description>AAC 320</description>
+                  </format>
+                </formats>
+              </package>
+            </packages>
+          </download>
+        </release>
+      </listItem>
+      <listItem id="3893414">
+        <type>release</type>
+        <release id="3893414">
+          <title>Remnix</title>
+          <version/>
+          <type>Single</type>
+          <barcode>00602547108364</barcode>
+          <year>2012</year>
+          <explicitContent>false</explicitContent>
+          <artist id="2338827">
+            <name>Jack Garratt</name>
+            <appearsAs>Jack Garratt</appearsAs>
+            <url>http://www.7digital.com/artist/jack-garratt/?partner=3923</url>
+          </artist>
+          <url>http://www.7digital.com/artist/jack-garratt/release/remnix/?partner=3923</url>
+          <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/038/934/0003893414_50.jpg</image>
+          <label id="41180">
+            <name>Universal Music Portugal SA</name>
+          </label>
+          <licensor id="1">
+            <name>Universal</name>
+          </licensor>
+          <streamingReleaseDate>2014-10-28T00:00:00Z</streamingReleaseDate>
+          <duration>999</duration>
+          <trackCount>4</trackCount>
+          <download>
+            <packages>
+              <package id="2">
+                <description>standard</description>
+                <price>
+                  <currencyCode>GBP</currencyCode>
+                  <sevendigitalPrice>1.99</sevendigitalPrice>
+                  <recommendedRetailPrice>1.99</recommendedRetailPrice>
+                </price>
+                <format id="17">
+                  <description>MP3 320</description>
+                </format>
+                <formats>
+                  <format id="17">
+                    <description>MP3 320</description>
+                  </format>
+                </formats>
+              </package>
+            </packages>
+          </download>
+        </release>
+      </listItem>
+      <listItem id="3664735">
+        <type>release</type>
+        <release id="3664735">
+          <title>How Do You Feel?</title>
+          <version/>
+          <type>Single</type>
+          <barcode>00050087296728</barcode>
+          <year>2014</year>
+          <explicitContent>false</explicitContent>
+          <artist id="1218284">
+            <name>Joywave</name>
+            <appearsAs>Joywave</appearsAs>
+            <url>http://www.7digital.com/artist/joywave/?partner=3923</url>
+          </artist>
+          <url>http://www.7digital.com/artist/joywave/release/how-do-you-feel-1/?partner=3923</url>
+          <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/036/647/0003664735_50.jpg</image>
+          <label id="295010">
+            <name>Cultco Music</name>
+          </label>
+          <licensor id="1">
+            <name>Universal</name>
+          </licensor>
+          <streamingReleaseDate>2014-10-27T00:00:00Z</streamingReleaseDate>
+          <duration>954</duration>
+          <trackCount>4</trackCount>
+          <download>
+            <packages>
+              <package id="2">
+                <description>standard</description>
+                <price>
+                  <currencyCode>GBP</currencyCode>
+                  <sevendigitalPrice>1.99</sevendigitalPrice>
+                  <recommendedRetailPrice>1.99</recommendedRetailPrice>
+                </price>
+                <format id="17">
+                  <description>MP3 320</description>
+                </format>
+                <formats>
+                  <format id="17">
+                    <description>MP3 320</description>
+                  </format>
+                </formats>
+              </package>
+            </packages>
+          </download>
+        </release>
+      </listItem>
+      <listItem id="3788147">
+        <type>release</type>
+        <release id="3788147">
+          <title>As If We Never Won</title>
+          <version/>
+          <type>Album</type>
+          <barcode>825646210152</barcode>
+          <year>2014</year>
+          <explicitContent>false</explicitContent>
+          <artist id="132648">
+            <name>Kleerup</name>
+            <appearsAs>Kleerup</appearsAs>
+            <url>http://www.7digital.com/artist/kleerup/?partner=3923</url>
+          </artist>
+          <url>http://www.7digital.com/artist/kleerup/release/as-if-we-never-won/?partner=3923</url>
+          <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/037/881/0003788147_50.jpg</image>
+          <label id="394">
+            <name>WM Sweden</name>
+          </label>
+          <licensor id="18">
+            <name>Warner</name>
+          </licensor>
+          <streamingReleaseDate>2014-10-13T00:00:00Z</streamingReleaseDate>
+          <duration>1335</duration>
+          <trackCount>6</trackCount>
+          <download>
+            <packages>
+              <package id="2">
+                <description>standard</description>
+                <price>
+                  <currencyCode>GBP</currencyCode>
+                  <sevendigitalPrice>4.49</sevendigitalPrice>
+                  <recommendedRetailPrice>4.49</recommendedRetailPrice>
+                </price>
+                <format id="17">
+                  <description>MP3 320</description>
+                </format>
+                <formats>
+                  <format id="17">
+                    <description>MP3 320</description>
+                  </format>
+                </formats>
+              </package>
+            </packages>
+          </download>
+        </release>
+      </listItem>
+      <listItem id="3885889">
+        <type>release</type>
+        <release id="3885889">
+          <title>No Bad Days</title>
+          <version>EP</version>
+          <type>Single</type>
+          <barcode>00602547055903</barcode>
+          <year>2014</year>
+          <explicitContent>false</explicitContent>
+          <artist id="2182500">
+            <name>Sunset Sons</name>
+            <appearsAs>Sunset Sons</appearsAs>
+            <url>http://www.7digital.com/artist/sunset-sons/?partner=3923</url>
+          </artist>
+          <url>http://www.7digital.com/artist/sunset-sons/release/no-bad-days-ep/?partner=3923</url>
+          <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/038/858/0003885889_50.jpg</image>
+          <label id="149943">
+            <name>Universal Music (Pty) Ltd.</name>
+          </label>
+          <licensor id="1">
+            <name>Universal</name>
+          </licensor>
+          <streamingReleaseDate>2014-10-27T00:00:00Z</streamingReleaseDate>
+          <duration>860</duration>
+          <trackCount>4</trackCount>
+          <download>
+            <packages>
+              <package id="2">
+                <description>standard</description>
+                <price>
+                  <currencyCode>GBP</currencyCode>
+                  <sevendigitalPrice>1.99</sevendigitalPrice>
+                  <recommendedRetailPrice>1.99</recommendedRetailPrice>
+                </price>
+                <format id="17">
+                  <description>MP3 320</description>
+                </format>
+                <formats>
+                  <format id="17">
+                    <description>MP3 320</description>
+                  </format>
+                </formats>
+              </package>
+            </packages>
+          </download>
+        </release>
+      </listItem>
+      <listItem id="3871149">
+        <type>release</type>
+        <release id="3871149">
+          <title>Had Ten Dollaz</title>
+          <version/>
+          <type>Single</type>
+          <barcode>803238013367</barcode>
+          <year>2014</year>
+          <explicitContent>false</explicitContent>
+          <artist id="1516540">
+            <name>Cherry Glazerr</name>
+            <appearsAs>Cherry Glazerr</appearsAs>
+            <url>http://www.7digital.com/artist/cherry-glazerr/?partner=3923</url>
+          </artist>
+          <url>http://www.7digital.com/artist/cherry-glazerr/release/had-ten-dollaz/?partner=3923</url>
+          <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/038/711/0003871149_50.jpg</image>
+          <label id="157375">
+            <name>Suicide Squeeze Records</name>
+          </label>
+          <licensor id="369">
+            <name>SC Distribution Company</name>
+          </licensor>
+          <streamingReleaseDate>2014-10-27T00:00:00Z</streamingReleaseDate>
+          <duration>454</duration>
+          <trackCount>2</trackCount>
+          <download>
+            <packages>
+              <package id="2">
+                <description>standard</description>
+                <price>
+                  <currencyCode>GBP</currencyCode>
+                  <sevendigitalPrice>1.79</sevendigitalPrice>
+                  <recommendedRetailPrice>1.79</recommendedRetailPrice>
+                </price>
+                <format id="17">
+                  <description>MP3 320</description>
+                </format>
+                <format id="33">
+                  <description>M4A 320</description>
+                </format>
+                <formats>
+                  <format id="17">
+                    <description>MP3 320</description>
+                  </format>
+                  <format id="33">
+                    <description>AAC 320</description>
+                  </format>
+                </formats>
+              </package>
+            </packages>
+          </download>
+        </release>
+      </listItem>
+      <listItem id="3893353">
+        <type>release</type>
+        <release id="3893353">
+          <title>Ghost Of A Chance</title>
+          <version/>
+          <type>Single</type>
+          <barcode>00602547041876</barcode>
+          <year>2006</year>
+          <explicitContent>false</explicitContent>
+          <artist id="2072063">
+            <name>Young &amp; Sick</name>
+            <appearsAs>Young &amp; Sick</appearsAs>
+            <url>http://www.7digital.com/artist/young-and-sick/?partner=3923</url>
+          </artist>
+          <url>http://www.7digital.com/artist/young-and-sick/release/ghost-of-a-chance/?partner=3923</url>
+          <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/038/933/0003893353_50.jpg</image>
+          <label id="199682">
+            <name>Virgin EMI</name>
+          </label>
+          <licensor id="1">
+            <name>Universal</name>
+          </licensor>
+          <streamingReleaseDate>2014-10-26T00:00:00Z</streamingReleaseDate>
+          <duration>226</duration>
+          <trackCount>1</trackCount>
+          <download>
+            <packages>
+              <package id="2">
+                <description>standard</description>
+                <price>
+                  <currencyCode>GBP</currencyCode>
+                  <sevendigitalPrice>0.99</sevendigitalPrice>
+                  <recommendedRetailPrice>0.99</recommendedRetailPrice>
+                </price>
+                <format id="17">
+                  <description>MP3 320</description>
+                </format>
+                <formats>
+                  <format id="17">
+                    <description>MP3 320</description>
+                  </format>
+                </formats>
+              </package>
+            </packages>
+          </download>
+        </release>
+      </listItem>
+      <listItem id="3913969">
+        <type>release</type>
+        <release id="3913969">
+          <title>I Don't Want To Go Home</title>
+          <version/>
+          <type>Single</type>
+          <barcode>00602547112743</barcode>
+          <year>2014</year>
+          <explicitContent>false</explicitContent>
+          <artist id="477068">
+            <name>Nick Mulvey</name>
+            <appearsAs>Nick Mulvey</appearsAs>
+            <url>http://www.7digital.com/artist/nick-mulvey/?partner=3923</url>
+          </artist>
+          <url>http://www.7digital.com/artist/nick-mulvey/release/i-dont-want-to-go-home/?partner=3923</url>
+          <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/039/139/0003913969_50.jpg</image>
+          <label id="149943">
+            <name>Universal Music (Pty) Ltd.</name>
+          </label>
+          <licensor id="1">
+            <name>Universal</name>
+          </licensor>
+          <streamingReleaseDate>2014-10-27T00:00:00Z</streamingReleaseDate>
+          <duration>423</duration>
+          <trackCount>2</trackCount>
+          <download>
+            <packages>
+              <package id="2">
+                <description>standard</description>
+                <price>
+                  <currencyCode>GBP</currencyCode>
+                  <sevendigitalPrice>1.29</sevendigitalPrice>
+                  <recommendedRetailPrice>1.29</recommendedRetailPrice>
+                </price>
+                <format id="17">
+                  <description>MP3 320</description>
+                </format>
+                <formats>
+                  <format id="17">
+                    <description>MP3 320</description>
+                  </format>
+                </formats>
+              </package>
+            </packages>
+          </download>
+        </release>
+      </listItem>
+      <listItem id="3907265">
+        <type>release</type>
+        <release id="3907265">
+          <title>KTown Riot</title>
+          <version>Explicit</version>
+          <type>Album</type>
+          <barcode>00602547085818</barcode>
+          <year>2014</year>
+          <explicitContent>true</explicitContent>
+          <artist id="277213">
+            <name>Far East Movement</name>
+            <appearsAs>Far East Movement</appearsAs>
+            <url>http://www.7digital.com/artist/far-east-movement/?partner=3923</url>
+          </artist>
+          <url>http://www.7digital.com/artist/far-east-movement/release/ktown-riot-explicit-1/?partner=3923</url>
+          <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/039/072/0003907265_50.jpg</image>
+          <label id="149943">
+            <name>Universal Music (Pty) Ltd.</name>
+          </label>
+          <licensor id="1">
+            <name>Universal</name>
+          </licensor>
+          <streamingReleaseDate>2014-10-29T00:00:00Z</streamingReleaseDate>
+          <duration>1267</duration>
+          <trackCount>6</trackCount>
+          <download>
+            <packages>
+              <package id="2">
+                <description>standard</description>
+                <price>
+                  <currencyCode>GBP</currencyCode>
+                  <sevendigitalPrice>3.99</sevendigitalPrice>
+                  <recommendedRetailPrice>3.99</recommendedRetailPrice>
+                </price>
+                <format id="17">
+                  <description>MP3 320</description>
+                </format>
+                <formats>
+                  <format id="17">
+                    <description>MP3 320</description>
+                  </format>
+                </formats>
+              </package>
+            </packages>
+          </download>
+        </release>
+      </listItem>
+      <listItem id="3883728">
+        <type>release</type>
+        <release id="3883728">
+          <title>Shout at the Moon</title>
+          <version/>
+          <type>Single</type>
+          <barcode>886444832502</barcode>
+          <year>2014</year>
+          <explicitContent>false</explicitContent>
+          <artist id="1011365">
+            <name>Mallory Knox</name>
+            <appearsAs>Mallory Knox</appearsAs>
+            <url>http://www.7digital.com/artist/mallory-knox/?partner=3923</url>
+          </artist>
+          <url>http://www.7digital.com/artist/mallory-knox/release/shout-at-the-moon/?partner=3923</url>
+          <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/038/837/0003883728_50.jpg</image>
+          <label id="21726">
+            <name>Search And Destroy Records</name>
+          </label>
+          <licensor id="2">
+            <name>Sony Music</name>
+          </licensor>
+          <streamingReleaseDate>2014-10-26T00:00:00Z</streamingReleaseDate>
+          <duration>207</duration>
+          <trackCount>1</trackCount>
+          <download>
+            <packages>
+              <package id="2">
+                <description>standard</description>
+                <price>
+                  <currencyCode>GBP</currencyCode>
+                  <sevendigitalPrice>0.99</sevendigitalPrice>
+                  <recommendedRetailPrice>0.99</recommendedRetailPrice>
+                </price>
+                <format id="17">
+                  <description>MP3 320</description>
+                </format>
+                <format id="33">
+                  <description>M4A 320</description>
+                </format>
+                <formats>
+                  <format id="17">
+                    <description>MP3 320</description>
+                  </format>
+                  <format id="33">
+                    <description>AAC 320</description>
+                  </format>
+                </formats>
+              </package>
+            </packages>
+          </download>
+        </release>
+      </listItem>
+      <listItem id="3889466">
+        <type>release</type>
+        <release id="3889466">
+          <title>Tropical Oceans</title>
+          <version/>
+          <type>Single</type>
+          <barcode>652637343960</barcode>
+          <year>2014</year>
+          <explicitContent>false</explicitContent>
+          <artist id="2048936">
+            <name>D.D Dumbo</name>
+            <appearsAs>D.D Dumbo</appearsAs>
+            <url>http://www.7digital.com/artist/d-d-dumbo/?partner=3923</url>
+          </artist>
+          <url>http://www.7digital.com/artist/d-d-dumbo/release/tropical-oceans/?partner=3923</url>
+          <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/038/894/0003889466_50.jpg</image>
+          <label id="905">
+            <name>4AD</name>
+          </label>
+          <licensor id="39">
+            <name>Beggars</name>
+          </licensor>
+          <streamingReleaseDate>2014-10-27T00:00:00Z</streamingReleaseDate>
+          <duration>918</duration>
+          <trackCount>4</trackCount>
+          <download>
+            <packages>
+              <package id="2">
+                <description>standard</description>
+                <price>
+                  <currencyCode>GBP</currencyCode>
+                  <sevendigitalPrice>2.49</sevendigitalPrice>
+                  <recommendedRetailPrice>2.49</recommendedRetailPrice>
+                </price>
+                <format id="17">
+                  <description>MP3 320</description>
+                </format>
+                <format id="33">
+                  <description>M4A 320</description>
+                </format>
+                <formats>
+                  <format id="17">
+                    <description>MP3 320</description>
+                  </format>
+                  <format id="33">
+                    <description>AAC 320</description>
+                  </format>
+                </formats>
+              </package>
+            </packages>
+          </download>
+        </release>
+      </listItem>
+      <listItem id="3818462">
+        <type>release</type>
+        <release id="3818462">
+          <title>Wicked Games</title>
+          <version/>
+          <type>Album</type>
+          <barcode>886444837750</barcode>
+          <year>2014</year>
+          <explicitContent>false</explicitContent>
+          <artist id="1962597">
+            <name>Parra for Cuva feat. Anna Naklab</name>
+            <appearsAs>Parra for Cuva feat. Anna Naklab</appearsAs>
+            <url>http://www.7digital.com/artist/parra-for-cuva-feat-anna-naklab/?partner=3923</url>
+          </artist>
+          <url>http://www.7digital.com/artist/parra-for-cuva-feat-anna-naklab/release/wicked-games-5/?partner=3923</url>
+          <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/038/184/0003818462_50.jpg</image>
+          <label id="1085">
+            <name>Epic</name>
+          </label>
+          <licensor id="2">
+            <name>Sony Music</name>
+          </licensor>
+          <streamingReleaseDate>2014-10-26T00:00:00Z</streamingReleaseDate>
+          <duration>1011</duration>
+          <trackCount>3</trackCount>
+          <download>
+            <packages>
+              <package id="2">
+                <description>standard</description>
+                <price>
+                  <currencyCode>GBP</currencyCode>
+                  <sevendigitalPrice>2.49</sevendigitalPrice>
+                  <recommendedRetailPrice>2.49</recommendedRetailPrice>
+                </price>
+                <format id="17">
+                  <description>MP3 320</description>
+                </format>
+                <format id="33">
+                  <description>M4A 320</description>
+                </format>
+                <formats>
+                  <format id="17">
+                    <description>MP3 320</description>
+                  </format>
+                  <format id="33">
+                    <description>AAC 320</description>
+                  </format>
+                </formats>
+              </package>
+            </packages>
+          </download>
+        </release>
+      </listItem>
+      <listItem id="3658037">
+        <type>release</type>
+        <release id="3658037">
+          <title>When We Were Young</title>
+          <version/>
+          <type>Single</type>
+          <barcode>886444749947</barcode>
+          <year>2014</year>
+          <explicitContent>false</explicitContent>
+          <artist id="2433453">
+            <name>Dillon Francis &amp; Sultan + Ned Shepard feat. The Chain Gang of 1974</name>
+            <appearsAs>Dillon Francis &amp; Sultan + Ned Shepard feat. The Chain Gang of 1974</appearsAs>
+            <url>http://www.7digital.com/artist/dillon-francis-and-sultan-plus-ned-shepard-feat-the-chain-gang-of-1974/?partner=3923</url>
+          </artist>
+          <url>http://www.7digital.com/artist/dillon-francis-and-sultan-plus-ned-shepard-feat-the-chain-gang-of-1974/release/when-we-were-young/?partner=3923</url>
+          <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/036/580/0003658037_50.jpg</image>
+          <label id="592">
+            <name>Columbia</name>
+          </label>
+          <licensor id="2">
+            <name>Sony Music</name>
+          </licensor>
+          <streamingReleaseDate>2014-10-26T00:00:00Z</streamingReleaseDate>
+          <duration>201</duration>
+          <trackCount>1</trackCount>
+          <download>
+            <packages>
+              <package id="2">
+                <description>standard</description>
+                <price>
+                  <currencyCode>GBP</currencyCode>
+                  <sevendigitalPrice>0.99</sevendigitalPrice>
+                  <recommendedRetailPrice>0.99</recommendedRetailPrice>
+                </price>
+                <format id="17">
+                  <description>MP3 320</description>
+                </format>
+                <format id="33">
+                  <description>M4A 320</description>
+                </format>
+                <formats>
+                  <format id="17">
+                    <description>MP3 320</description>
+                  </format>
+                  <format id="33">
+                    <description>AAC 320</description>
+                  </format>
+                </formats>
+              </package>
+            </packages>
+          </download>
+        </release>
+      </listItem>
+      <listItem id="3818002">
+        <type>release</type>
+        <release id="3818002">
+          <title>Take Ü There (feat. Kiesza)</title>
+          <version/>
+          <type>Single</type>
+          <barcode>075679933553</barcode>
+          <year>2014</year>
+          <explicitContent>false</explicitContent>
+          <artist id="2428397">
+            <name>Jack Ü</name>
+            <appearsAs>Jack Ü</appearsAs>
+            <url>http://www.7digital.com/artist/jack-u/?partner=3923</url>
+          </artist>
+          <url>http://www.7digital.com/artist/jack-u/release/take-u-there-feat-kiesza/?partner=3923</url>
+          <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/038/180/0003818002_50.jpg</image>
+          <label id="373536">
+            <name>OWSLA/Mad Decent</name>
+          </label>
+          <licensor id="18">
+            <name>Warner</name>
+          </licensor>
+          <streamingReleaseDate>2014-10-26T00:00:00Z</streamingReleaseDate>
+          <duration>210</duration>
+          <trackCount>1</trackCount>
+          <download>
+            <packages>
+              <package id="2">
+                <description>standard</description>
+                <price>
+                  <currencyCode>GBP</currencyCode>
+                  <sevendigitalPrice>0.99</sevendigitalPrice>
+                  <recommendedRetailPrice>0.99</recommendedRetailPrice>
+                </price>
+                <format id="17">
+                  <description>MP3 320</description>
+                </format>
+                <formats>
+                  <format id="17">
+                    <description>MP3 320</description>
+                  </format>
+                </formats>
+              </package>
+            </packages>
+          </download>
+        </release>
+      </listItem>
+      <listItem id="3893446">
+        <type>release</type>
+        <release id="3893446">
+          <title>Something From Nothing</title>
+          <version/>
+          <type>Single</type>
+          <barcode>886444873833</barcode>
+          <year>2014</year>
+          <explicitContent>false</explicitContent>
+          <artist id="8293">
+            <name>Foo Fighters</name>
+            <appearsAs>Foo Fighters</appearsAs>
+            <url>http://www.7digital.com/artist/foo-fighters/?partner=3923</url>
+          </artist>
+          <url>http://www.7digital.com/artist/foo-fighters/release/something-from-nothing/?partner=3923</url>
+          <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/038/934/0003893446_50.jpg</image>
+          <label id="89">
+            <name>RCA Records Label</name>
+          </label>
+          <licensor id="2">
+            <name>Sony Music</name>
+          </licensor>
+          <streamingReleaseDate>2014-10-16T00:00:00Z</streamingReleaseDate>
+          <duration>289</duration>
+          <trackCount>1</trackCount>
+          <download>
+            <packages>
+              <package id="2">
+                <description>standard</description>
+                <price>
+                  <currencyCode>GBP</currencyCode>
+                  <sevendigitalPrice>0.99</sevendigitalPrice>
+                  <recommendedRetailPrice>0.99</recommendedRetailPrice>
+                </price>
+                <format id="17">
+                  <description>MP3 320</description>
+                </format>
+                <format id="33">
+                  <description>M4A 320</description>
+                </format>
+                <formats>
+                  <format id="17">
+                    <description>MP3 320</description>
+                  </format>
+                  <format id="33">
+                    <description>AAC 320</description>
+                  </format>
+                </formats>
+              </package>
+            </packages>
+          </download>
+        </release>
+      </listItem>
+      <listItem id="3906283">
+        <type>release</type>
+        <release id="3906283">
+          <title>Restless City</title>
+          <version/>
+          <type>Single</type>
+          <barcode>5055274704760</barcode>
+          <year>2014</year>
+          <explicitContent>false</explicitContent>
+          <artist id="223034">
+            <name>lone</name>
+            <appearsAs>lone</appearsAs>
+            <url>http://www.7digital.com/artist/lone/?partner=3923</url>
+          </artist>
+          <url>http://www.7digital.com/artist/lone/release/restless-city-1/?partner=3923</url>
+          <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/039/062/0003906283_50.jpg</image>
+          <label id="15498">
+            <name>R&amp;S Records</name>
+          </label>
+          <licensor id="336">
+            <name>Essential Music and Marketing Ltd</name>
+          </licensor>
+          <streamingReleaseDate>2014-10-19T00:00:00Z</streamingReleaseDate>
+          <duration>566</duration>
+          <trackCount>2</trackCount>
+          <download>
+            <packages>
+              <package id="2">
+                <description>standard</description>
+                <price>
+                  <currencyCode>GBP</currencyCode>
+                  <sevendigitalPrice>1.79</sevendigitalPrice>
+                  <recommendedRetailPrice>1.79</recommendedRetailPrice>
+                </price>
+                <format id="17">
+                  <description>MP3 320</description>
+                </format>
+                <format id="33">
+                  <description>M4A 320</description>
+                </format>
+                <formats>
+                  <format id="17">
+                    <description>MP3 320</description>
+                  </format>
+                  <format id="33">
+                    <description>AAC 320</description>
+                  </format>
+                </formats>
+              </package>
+            </packages>
+          </download>
+        </release>
+      </listItem>
+      <listItem id="3871127">
+        <type>release</type>
+        <release id="3871127">
+          <title>Once More With Feeling…</title>
+          <version/>
+          <type>Single</type>
+          <barcode>666561010867</barcode>
+          <year>2014</year>
+          <explicitContent>false</explicitContent>
+          <artist id="2229155">
+            <name>Ought</name>
+            <appearsAs>Ought</appearsAs>
+            <url>http://www.7digital.com/artist/ought/?partner=3923</url>
+          </artist>
+          <url>http://www.7digital.com/artist/ought/release/once-more-with-feeling/?partner=3923</url>
+          <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/038/711/0003871127_50.jpg</image>
+          <label id="16838">
+            <name>Constellation</name>
+          </label>
+          <licensor id="369">
+            <name>SC Distribution Company</name>
+          </licensor>
+          <streamingReleaseDate>2014-10-27T00:00:00Z</streamingReleaseDate>
+          <duration>1447</duration>
+          <trackCount>4</trackCount>
+          <download>
+            <packages>
+              <package id="2">
+                <description>standard</description>
+                <price>
+                  <currencyCode>GBP</currencyCode>
+                  <sevendigitalPrice>3.96</sevendigitalPrice>
+                  <recommendedRetailPrice>3.96</recommendedRetailPrice>
+                </price>
+                <format id="17">
+                  <description>MP3 320</description>
+                </format>
+                <format id="33">
+                  <description>M4A 320</description>
+                </format>
+                <formats>
+                  <format id="17">
+                    <description>MP3 320</description>
+                  </format>
+                  <format id="33">
+                    <description>AAC 320</description>
+                  </format>
+                </formats>
+              </package>
+            </packages>
+          </download>
+        </release>
+      </listItem>
+      <listItem id="3906594">
+        <type>release</type>
+        <release id="3906594">
+          <title>Indigo Puff</title>
+          <version/>
+          <type>Album</type>
+          <barcode>3610158825447</barcode>
+          <year>2014</year>
+          <explicitContent>false</explicitContent>
+          <artist id="2176897">
+            <name>Sundara Karma</name>
+            <appearsAs>Sundara Karma</appearsAs>
+            <url>http://www.7digital.com/artist/sundara-karma/?partner=3923</url>
+          </artist>
+          <url>http://www.7digital.com/artist/sundara-karma/release/indigo-puff/?partner=3923</url>
+          <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/039/065/0003906594_50.jpg</image>
+          <label id="386078">
+            <name>Believe Recordings / 203 Records</name>
+          </label>
+          <licensor id="166">
+            <name>Believe</name>
+          </licensor>
+          <streamingReleaseDate>2014-10-07T00:00:00Z</streamingReleaseDate>
+          <duration>458</duration>
+          <trackCount>2</trackCount>
+          <download>
+            <packages>
+              <package id="2">
+                <description>standard</description>
+                <price>
+                  <currencyCode>GBP</currencyCode>
+                  <sevendigitalPrice>1.79</sevendigitalPrice>
+                  <recommendedRetailPrice>1.79</recommendedRetailPrice>
+                </price>
+                <format id="17">
+                  <description>MP3 320</description>
+                </format>
+                <format id="33">
+                  <description>M4A 320</description>
+                </format>
+                <formats>
+                  <format id="17">
+                    <description>MP3 320</description>
+                  </format>
+                  <format id="33">
+                    <description>AAC 320</description>
+                  </format>
+                </formats>
+              </package>
+            </packages>
+          </download>
+        </release>
+      </listItem>
+      <listItem id="3866433">
+        <type>release</type>
+        <release id="3866433">
+          <title>Nathaniel</title>
+          <version>Radio Edit</version>
+          <type>Single</type>
+          <barcode>00885606001138</barcode>
+          <year>2007</year>
+          <explicitContent>false</explicitContent>
+          <artist id="17340">
+            <name>Ben Watt</name>
+            <appearsAs>Ben Watt</appearsAs>
+            <url>http://www.7digital.com/artist/ben-watt/?partner=3923</url>
+          </artist>
+          <url>http://www.7digital.com/artist/ben-watt/release/nathaniel-radio-edit/?partner=3923</url>
+          <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/038/664/0003866433_50.jpg</image>
+          <label id="293292">
+            <name>Unmade Road</name>
+          </label>
+          <licensor id="1">
+            <name>Universal</name>
+          </licensor>
+          <streamingReleaseDate>2014-10-20T00:00:00Z</streamingReleaseDate>
+          <duration>184</duration>
+          <trackCount>1</trackCount>
+          <download>
+            <packages>
+              <package id="2">
+                <description>standard</description>
+                <price>
+                  <currencyCode>GBP</currencyCode>
+                  <sevendigitalPrice>0.99</sevendigitalPrice>
+                  <recommendedRetailPrice>0.99</recommendedRetailPrice>
+                </price>
+                <format id="17">
+                  <description>MP3 320</description>
+                </format>
+                <formats>
+                  <format id="17">
+                    <description>MP3 320</description>
+                  </format>
+                </formats>
+              </package>
+            </packages>
+          </download>
+        </release>
+      </listItem>
+      <listItem id="3808713">
+        <type>release</type>
+        <release id="3808713">
+          <title>Circles</title>
+          <version/>
+          <type>Single</type>
+          <barcode>5054429000146</barcode>
+          <year>2014</year>
+          <explicitContent>false</explicitContent>
+          <artist id="887106">
+            <name>Kate Tempest</name>
+            <appearsAs>Kate Tempest</appearsAs>
+            <url>http://www.7digital.com/artist/kate-tempest/?partner=3923</url>
+          </artist>
+          <url>http://www.7digital.com/artist/kate-tempest/release/circles/?partner=3923</url>
+          <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/038/087/0003808713_50.jpg</image>
+          <label id="119">
+            <name>Big Dada</name>
+          </label>
+          <licensor id="317">
+            <name>Ninja Tune</name>
+          </licensor>
+          <streamingReleaseDate>2014-10-20T00:00:00Z</streamingReleaseDate>
+          <duration>800</duration>
+          <trackCount>4</trackCount>
+          <download>
+            <packages>
+              <package id="2">
+                <description>standard</description>
+                <price>
+                  <currencyCode>GBP</currencyCode>
+                  <sevendigitalPrice>2.49</sevendigitalPrice>
+                  <recommendedRetailPrice>2.49</recommendedRetailPrice>
+                </price>
+                <format id="17">
+                  <description>MP3 320</description>
+                </format>
+                <format id="33">
+                  <description>M4A 320</description>
+                </format>
+                <formats>
+                  <format id="17">
+                    <description>MP3 320</description>
+                  </format>
+                  <format id="33">
+                    <description>AAC 320</description>
+                  </format>
+                </formats>
+              </package>
+            </packages>
+          </download>
+        </release>
+      </listItem>
+      <listItem id="3700536">
+        <type>release</type>
+        <release id="3700536">
+          <title>Bump &amp; Grind 2014 (Waze &amp; Odyssey vs. R. Kelly)</title>
+          <version/>
+          <type>Single</type>
+          <barcode>886444759731</barcode>
+          <year>2014</year>
+          <explicitContent>false</explicitContent>
+          <artist id="2411213">
+            <name>Waze &amp; Odyssey &amp; R. Kelly</name>
+            <appearsAs>Waze &amp; Odyssey &amp; R. Kelly</appearsAs>
+            <url>http://www.7digital.com/artist/waze-and-odyssey-and-r-kelly/?partner=3923</url>
+          </artist>
+          <url>http://www.7digital.com/artist/waze-and-odyssey-and-r-kelly/release/bump-and-grind-2014/?partner=3923</url>
+          <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/037/005/0003700536_50.jpg</image>
+          <label id="89">
+            <name>RCA Records Label</name>
+          </label>
+          <licensor id="2">
+            <name>Sony Music</name>
+          </licensor>
+          <streamingReleaseDate>2014-10-19T00:00:00Z</streamingReleaseDate>
+          <duration>182</duration>
+          <trackCount>1</trackCount>
+          <download>
+            <packages>
+              <package id="2">
+                <description>standard</description>
+                <price>
+                  <currencyCode>GBP</currencyCode>
+                  <sevendigitalPrice>0.99</sevendigitalPrice>
+                  <recommendedRetailPrice>0.99</recommendedRetailPrice>
+                </price>
+                <format id="17">
+                  <description>MP3 320</description>
+                </format>
+                <format id="33">
+                  <description>M4A 320</description>
+                </format>
+                <formats>
+                  <format id="17">
+                    <description>MP3 320</description>
+                  </format>
+                  <format id="33">
+                    <description>AAC 320</description>
+                  </format>
+                </formats>
+              </package>
+            </packages>
+          </download>
+        </release>
+      </listItem>
+      <listItem id="3818406">
+        <type>release</type>
+        <release id="3818406">
+          <title>All I See</title>
+          <version/>
+          <type>Album</type>
+          <barcode>886444676700</barcode>
+          <year>2014</year>
+          <explicitContent>false</explicitContent>
+          <artist id="1392238">
+            <name>Bondax</name>
+            <appearsAs>Bondax</appearsAs>
+            <url>http://www.7digital.com/artist/bondax/?partner=3923</url>
+          </artist>
+          <url>http://www.7digital.com/artist/bondax/release/all-i-see-1/?partner=3923</url>
+          <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/038/184/0003818406_50.jpg</image>
+          <label id="10326">
+            <name>RELENTLESS RECORDS</name>
+          </label>
+          <licensor id="2">
+            <name>Sony Music</name>
+          </licensor>
+          <streamingReleaseDate>2014-10-19T00:00:00Z</streamingReleaseDate>
+          <duration>979</duration>
+          <trackCount>4</trackCount>
+          <download>
+            <packages>
+              <package id="2">
+                <description>standard</description>
+                <price>
+                  <currencyCode>GBP</currencyCode>
+                  <sevendigitalPrice>3.49</sevendigitalPrice>
+                  <recommendedRetailPrice>3.49</recommendedRetailPrice>
+                </price>
+                <format id="17">
+                  <description>MP3 320</description>
+                </format>
+                <format id="33">
+                  <description>M4A 320</description>
+                </format>
+                <formats>
+                  <format id="17">
+                    <description>MP3 320</description>
+                  </format>
+                  <format id="33">
+                    <description>AAC 320</description>
+                  </format>
+                </formats>
+              </package>
+            </packages>
+          </download>
+        </release>
+      </listItem>
+      <listItem id="3870128">
+        <type>release</type>
+        <release id="3870128">
+          <title>You Just Don't Know People</title>
+          <version/>
+          <type>Single</type>
+          <barcode>825646210886</barcode>
+          <year>2014</year>
+          <explicitContent>false</explicitContent>
+          <artist id="351189">
+            <name>Rumer</name>
+            <appearsAs>Rumer</appearsAs>
+            <url>http://www.7digital.com/artist/rumer/?partner=3923</url>
+          </artist>
+          <url>http://www.7digital.com/artist/rumer/release/you-just-dont-know-people/?partner=3923</url>
+          <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/038/701/0003870128_50.jpg</image>
+          <label id="1373">
+            <name>Atlantic Records UK</name>
+          </label>
+          <licensor id="18">
+            <name>Warner</name>
+          </licensor>
+          <streamingReleaseDate>2014-10-20T00:00:00Z</streamingReleaseDate>
+          <duration>317</duration>
+          <trackCount>1</trackCount>
+          <download>
+            <packages>
+              <package id="2">
+                <description>standard</description>
+                <price>
+                  <currencyCode>GBP</currencyCode>
+                  <sevendigitalPrice>0.99</sevendigitalPrice>
+                  <recommendedRetailPrice>0.99</recommendedRetailPrice>
+                </price>
+                <format id="17">
+                  <description>MP3 320</description>
+                </format>
+                <format id="33">
+                  <description>M4A 320</description>
+                </format>
+                <formats>
+                  <format id="17">
+                    <description>MP3 320</description>
+                  </format>
+                  <format id="33">
+                    <description>AAC 320</description>
+                  </format>
+                </formats>
+              </package>
+            </packages>
+          </download>
+        </release>
+      </listItem>
+      <listItem id="3883294">
+        <type>release</type>
+        <release id="3883294">
+          <title>Don't</title>
+          <version/>
+          <type>Single</type>
+          <barcode>825646191086</barcode>
+          <year>2014</year>
+          <explicitContent>false</explicitContent>
+          <artist id="603309">
+            <name>Ed Sheeran</name>
+            <appearsAs>Ed Sheeran</appearsAs>
+            <url>http://www.7digital.com/artist/ed-sheeran/?partner=3923</url>
+          </artist>
+          <url>http://www.7digital.com/artist/ed-sheeran/release/dont-1/?partner=3923</url>
+          <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/038/832/0003883294_50.jpg</image>
+          <label id="1373">
+            <name>Atlantic Records UK</name>
+          </label>
+          <licensor id="18">
+            <name>Warner</name>
+          </licensor>
+          <streamingReleaseDate>2014-10-19T00:00:00Z</streamingReleaseDate>
+          <duration>221</duration>
+          <trackCount>1</trackCount>
+          <download>
+            <packages>
+              <package id="2">
+                <description>standard</description>
+                <price>
+                  <currencyCode>GBP</currencyCode>
+                  <sevendigitalPrice>0.99</sevendigitalPrice>
+                  <recommendedRetailPrice>0.99</recommendedRetailPrice>
+                </price>
+                <format id="17">
+                  <description>MP3 320</description>
+                </format>
+                <formats>
+                  <format id="17">
+                    <description>MP3 320</description>
+                  </format>
+                </formats>
+              </package>
+            </packages>
+          </download>
+        </release>
+      </listItem>
+      <listItem id="3873966">
+        <type>release</type>
+        <release id="3873966">
+          <title>Wicked Wonderland</title>
+          <version>Remixes</version>
+          <type>Album</type>
+          <barcode>05037128212553</barcode>
+          <year>1999</year>
+          <explicitContent>false</explicitContent>
+          <artist id="1287189">
+            <name>Martin Tungevaag</name>
+            <appearsAs>Martin Tungevaag</appearsAs>
+            <url>http://www.7digital.com/artist/martin-tungevaag/?partner=3923</url>
+          </artist>
+          <url>http://www.7digital.com/artist/martin-tungevaag/release/wicked-wonderland-remixes-2/?partner=3923</url>
+          <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/038/739/0003873966_50.jpg</image>
+          <label id="3309">
+            <name>Universal Music Ireland Ltd.</name>
+          </label>
+          <licensor id="1">
+            <name>Universal</name>
+          </licensor>
+          <streamingReleaseDate>2014-10-19T00:00:00Z</streamingReleaseDate>
+          <duration>1600</duration>
+          <trackCount>6</trackCount>
+          <download>
+            <packages>
+              <package id="2">
+                <description>standard</description>
+                <price>
+                  <currencyCode>GBP</currencyCode>
+                  <sevendigitalPrice>3.99</sevendigitalPrice>
+                  <recommendedRetailPrice>3.99</recommendedRetailPrice>
+                </price>
+                <format id="17">
+                  <description>MP3 320</description>
+                </format>
+                <formats>
+                  <format id="17">
+                    <description>MP3 320</description>
+                  </format>
+                </formats>
+              </package>
+            </packages>
+          </download>
+        </release>
+      </listItem>
+      <listItem id="3874722">
+        <type>release</type>
+        <release id="3874722">
+          <title>Guerrilla</title>
+          <version/>
+          <type>Single</type>
+          <barcode>00602547092694</barcode>
+          <year>2014</year>
+          <explicitContent>false</explicitContent>
+          <artist id="2422024">
+            <name>Maxine Ashley</name>
+            <appearsAs>Maxine Ashley</appearsAs>
+            <url>http://www.7digital.com/artist/maxine-ashley/?partner=3923</url>
+          </artist>
+          <url>http://www.7digital.com/artist/maxine-ashley/release/guerrilla/?partner=3923</url>
+          <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/038/747/0003874722_50.jpg</image>
+          <label id="149943">
+            <name>Universal Music (Pty) Ltd.</name>
+          </label>
+          <licensor id="1">
+            <name>Universal</name>
+          </licensor>
+          <streamingReleaseDate>2014-10-26T00:00:00Z</streamingReleaseDate>
+          <duration>211</duration>
+          <trackCount>1</trackCount>
+          <download>
+            <packages>
+              <package id="2">
+                <description>standard</description>
+                <price>
+                  <currencyCode>GBP</currencyCode>
+                  <sevendigitalPrice>0.99</sevendigitalPrice>
+                  <recommendedRetailPrice>0.99</recommendedRetailPrice>
+                </price>
+                <format id="17">
+                  <description>MP3 320</description>
+                </format>
+                <formats>
+                  <format id="17">
+                    <description>MP3 320</description>
+                  </format>
+                </formats>
+              </package>
+            </packages>
+          </download>
+        </release>
+      </listItem>
+      <listItem id="3873353">
+        <type>release</type>
+        <release id="3873353">
+          <title>Simple Love</title>
+          <version/>
+          <type>Album</type>
+          <barcode>886444872638</barcode>
+          <year>2014</year>
+          <explicitContent>false</explicitContent>
+          <artist id="2416636">
+            <name>Julio Bashmore feat. J'Danna</name>
+            <appearsAs>Julio Bashmore feat. J'Danna</appearsAs>
+            <url>http://www.7digital.com/artist/julio-bashmore-feat-jdanna/?partner=3923</url>
+          </artist>
+          <url>http://www.7digital.com/artist/julio-bashmore-feat-jdanna/release/simple-love-2/?partner=3923</url>
+          <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/038/733/0003873353_50.jpg</image>
+          <label id="353143">
+            <name>Broadwalk Records</name>
+          </label>
+          <licensor id="2">
+            <name>Sony Music</name>
+          </licensor>
+          <streamingReleaseDate>2014-10-19T00:00:00Z</streamingReleaseDate>
+          <duration>645</duration>
+          <trackCount>2</trackCount>
+          <download>
+            <packages>
+              <package id="2">
+                <description>standard</description>
+                <price>
+                  <currencyCode>GBP</currencyCode>
+                  <sevendigitalPrice>1.29</sevendigitalPrice>
+                  <recommendedRetailPrice>1.29</recommendedRetailPrice>
+                </price>
+                <format id="17">
+                  <description>MP3 320</description>
+                </format>
+                <format id="33">
+                  <description>M4A 320</description>
+                </format>
+                <formats>
+                  <format id="17">
+                    <description>MP3 320</description>
+                  </format>
+                  <format id="33">
+                    <description>AAC 320</description>
+                  </format>
+                </formats>
+              </package>
+            </packages>
+          </download>
+        </release>
+      </listItem>
+      <listItem id="3883280">
+        <type>release</type>
+        <release id="3883280">
+          <title>A New Reality</title>
+          <version/>
+          <type>Album</type>
+          <barcode>886444882606</barcode>
+          <year>2014</year>
+          <explicitContent>false</explicitContent>
+          <artist id="33154">
+            <name>Klaxons</name>
+            <appearsAs>Klaxons</appearsAs>
+            <url>http://www.7digital.com/artist/klaxons/?partner=3923</url>
+          </artist>
+          <url>http://www.7digital.com/artist/klaxons/release/a-new-reality/?partner=3923</url>
+          <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/038/832/0003883280_50.jpg</image>
+          <label id="307712">
+            <name>Akashic Rekords</name>
+          </label>
+          <licensor id="2">
+            <name>Sony Music</name>
+          </licensor>
+          <streamingReleaseDate>2014-10-19T00:00:00Z</streamingReleaseDate>
+          <duration>643</duration>
+          <trackCount>2</trackCount>
+          <download>
+            <packages>
+              <package id="2">
+                <description>standard</description>
+                <price>
+                  <currencyCode>GBP</currencyCode>
+                  <sevendigitalPrice>1.29</sevendigitalPrice>
+                  <recommendedRetailPrice>1.29</recommendedRetailPrice>
+                </price>
+                <format id="17">
+                  <description>MP3 320</description>
+                </format>
+                <format id="33">
+                  <description>M4A 320</description>
+                </format>
+                <formats>
+                  <format id="17">
+                    <description>MP3 320</description>
+                  </format>
+                  <format id="33">
+                    <description>AAC 320</description>
+                  </format>
+                </formats>
+              </package>
+            </packages>
+          </download>
+        </release>
+      </listItem>
+      <listItem id="3869333">
+        <type>release</type>
+        <release id="3869333">
+          <title>Shells</title>
+          <version/>
+          <type>Single</type>
+          <barcode>888831958673</barcode>
+          <year>2014</year>
+          <explicitContent>false</explicitContent>
+          <artist id="268194">
+            <name>Laurel</name>
+            <appearsAs>Laurel</appearsAs>
+            <url>http://www.7digital.com/artist/laurel/?partner=3923</url>
+          </artist>
+          <url>http://www.7digital.com/artist/laurel/release/shells/?partner=3923</url>
+          <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/038/693/0003869333_50.jpg</image>
+          <label id="310033">
+            <name>Next Time Records</name>
+          </label>
+          <licensor id="21">
+            <name>Orchard</name>
+          </licensor>
+          <streamingReleaseDate>2014-10-20T00:00:00Z</streamingReleaseDate>
+          <duration>879</duration>
+          <trackCount>3</trackCount>
+          <download>
+            <packages>
+              <package id="2">
+                <description>standard</description>
+                <price>
+                  <currencyCode>GBP</currencyCode>
+                  <sevendigitalPrice>2.97</sevendigitalPrice>
+                  <recommendedRetailPrice>2.97</recommendedRetailPrice>
+                </price>
+                <format id="17">
+                  <description>MP3 320</description>
+                </format>
+                <formats>
+                  <format id="17">
+                    <description>MP3 320</description>
+                  </format>
+                </formats>
+              </package>
+            </packages>
+          </download>
+        </release>
+      </listItem>
+      <listItem id="3872396">
+        <type>release</type>
+        <release id="3872396">
+          <title>Dechorro</title>
+          <version>Remixes</version>
+          <type>Single</type>
+          <barcode>05037128208051</barcode>
+          <year>2014</year>
+          <explicitContent>false</explicitContent>
+          <artist id="1356962">
+            <name>Deorro</name>
+            <appearsAs>Deorro</appearsAs>
+            <url>http://www.7digital.com/artist/deorro/?partner=3923</url>
+          </artist>
+          <url>http://www.7digital.com/artist/deorro/release/dechorro-remixes-1/?partner=3923</url>
+          <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/038/723/0003872396_50.jpg</image>
+          <label id="3309">
+            <name>Universal Music Ireland Ltd.</name>
+          </label>
+          <licensor id="1">
+            <name>Universal</name>
+          </licensor>
+          <streamingReleaseDate>2014-10-19T00:00:00Z</streamingReleaseDate>
+          <duration>1114</duration>
+          <trackCount>4</trackCount>
+          <download>
+            <packages>
+              <package id="2">
+                <description>standard</description>
+                <price>
+                  <currencyCode>GBP</currencyCode>
+                  <sevendigitalPrice>1.99</sevendigitalPrice>
+                  <recommendedRetailPrice>1.99</recommendedRetailPrice>
+                </price>
+                <format id="17">
+                  <description>MP3 320</description>
+                </format>
+                <formats>
+                  <format id="17">
+                    <description>MP3 320</description>
+                  </format>
+                </formats>
+              </package>
+            </packages>
+          </download>
+        </release>
+      </listItem>
+    </listItems>
+  </list>
 </response>

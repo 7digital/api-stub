@@ -1,588 +1,588 @@
 <?xml version="1.0" encoding="utf-8"?>
 <response xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" status="ok" version="1.2" xsi:noNamespaceSchemaLocation="http://api.7digital.com/1.2/static/7digitalAPI.xsd">
-	<tracks>
-		<page>1</page>
-		<pageSize>10</pageSize>
-		<totalItems>10</totalItems>
-		<track id="31185149">
-			<title>Turn It Up</title>
-			<version/>
-			<artist id="667594">
-				<name>Factory Floor</name>
-				<appearsAs>Factory Floor</appearsAs>
-				<url>http://www.7digital.com/artist/factory-floor/?partner=3923</url>
-			</artist>
-			<trackNumber>1</trackNumber>
-			<duration>373</duration>
-			<explicitContent>false</explicitContent>
-			<isrc>US4GE1300073</isrc>
-			<type>audio</type>
-			<release id="2923838">
-				<title>Factory Floor</title>
-				<version/>
-				<type>Album</type>
-				<barcode>5051083073516</barcode>
-				<artist id="667594">
-					<name>Factory Floor</name>
-					<appearsAs>Factory Floor</appearsAs>
-					<url>http://www.7digital.com/artist/factory-floor/?partner=3923</url>
-				</artist>
-				<url>http://www.7digital.com/artist/factory-floor/release/factory-floor/?partner=3923</url>
-				<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/029/238/0002923838_50.jpg</image>
-				<releaseDate>2013-09-09T00:00:00Z</releaseDate>
-			</release>
-			<url>http://www.7digital.com/artist/factory-floor/release/factory-floor/?partner=3923&amp;h=01</url>
-			<price>
-				<currency code="GBP">£</currency>
-				<value>0.99</value>
-				<formattedPrice>£0.99</formattedPrice>
-				<rrp>0.99</rrp>
-				<formattedRrp>£0.99</formattedRrp>
-				<onSale>false</onSale>
-			</price>
-			<download>
-				<packages>
-					<package id="2">
-						<description>standard</description>
-						<price>
-							<currencyCode>GBP</currencyCode>
-							<sevendigitalPrice>0.99</sevendigitalPrice>
-							<recommendedRetailPrice>0.99</recommendedRetailPrice>
-						</price>
-						<formats>
-							<format id="17">
-								<description>MP3 320</description>
-							</format>
-						</formats>
-					</package>
-				</packages>
-			</download>
-			<streamingReleaseDate>2013-09-09T00:00:00Z</streamingReleaseDate>
-			<discNumber>1</discNumber>
-			<number>1</number>
-			<previewDate>2013-09-09T00:00:00Z</previewDate>
-		</track>
-		<track id="31185162">
-			<title>Here Again</title>
-			<version/>
-			<artist id="667594">
-				<name>Factory Floor</name>
-				<appearsAs>Factory Floor</appearsAs>
-				<url>http://www.7digital.com/artist/factory-floor/?partner=3923</url>
-			</artist>
-			<trackNumber>2</trackNumber>
-			<duration>487</duration>
-			<explicitContent>false</explicitContent>
-			<isrc>US4GE1300074</isrc>
-			<type>audio</type>
-			<release id="2923838">
-				<title>Factory Floor</title>
-				<version/>
-				<type>Album</type>
-				<barcode>5051083073516</barcode>
-				<artist id="667594">
-					<name>Factory Floor</name>
-					<appearsAs>Factory Floor</appearsAs>
-					<url>http://www.7digital.com/artist/factory-floor/?partner=3923</url>
-				</artist>
-				<url>http://www.7digital.com/artist/factory-floor/release/factory-floor/?partner=3923</url>
-				<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/029/238/0002923838_50.jpg</image>
-				<releaseDate>2013-09-09T00:00:00Z</releaseDate>
-			</release>
-			<url>http://www.7digital.com/artist/factory-floor/release/factory-floor/?partner=3923&amp;h=02</url>
-			<price>
-				<currency code="GBP">£</currency>
-				<value>0.99</value>
-				<formattedPrice>£0.99</formattedPrice>
-				<rrp>0.99</rrp>
-				<formattedRrp>£0.99</formattedRrp>
-				<onSale>false</onSale>
-			</price>
-			<download>
-				<packages>
-					<package id="2">
-						<description>standard</description>
-						<price>
-							<currencyCode>GBP</currencyCode>
-							<sevendigitalPrice>0.99</sevendigitalPrice>
-							<recommendedRetailPrice>0.99</recommendedRetailPrice>
-						</price>
-						<formats>
-							<format id="17">
-								<description>MP3 320</description>
-							</format>
-						</formats>
-					</package>
-				</packages>
-			</download>
-			<streamingReleaseDate>2013-09-09T00:00:00Z</streamingReleaseDate>
-			<discNumber>1</discNumber>
-			<number>2</number>
-			<previewDate>2013-09-09T00:00:00Z</previewDate>
-		</track>
-		<track id="31185171">
-			<title>One</title>
-			<version/>
-			<artist id="667594">
-				<name>Factory Floor</name>
-				<appearsAs>Factory Floor</appearsAs>
-				<url>http://www.7digital.com/artist/factory-floor/?partner=3923</url>
-			</artist>
-			<trackNumber>3</trackNumber>
-			<duration>46</duration>
-			<explicitContent>false</explicitContent>
-			<isrc>US4GE1300075</isrc>
-			<type>audio</type>
-			<release id="2923838">
-				<title>Factory Floor</title>
-				<version/>
-				<type>Album</type>
-				<barcode>5051083073516</barcode>
-				<artist id="667594">
-					<name>Factory Floor</name>
-					<appearsAs>Factory Floor</appearsAs>
-					<url>http://www.7digital.com/artist/factory-floor/?partner=3923</url>
-				</artist>
-				<url>http://www.7digital.com/artist/factory-floor/release/factory-floor/?partner=3923</url>
-				<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/029/238/0002923838_50.jpg</image>
-				<releaseDate>2013-09-09T00:00:00Z</releaseDate>
-			</release>
-			<url>http://www.7digital.com/artist/factory-floor/release/factory-floor/?partner=3923&amp;h=03</url>
-			<price>
-				<currency code="GBP">£</currency>
-				<value xsi:nil="true"/>
-				<formattedPrice>N/A</formattedPrice>
-				<rrp xsi:nil="true"/>
-				<formattedRrp>N/A</formattedRrp>
-				<onSale>false</onSale>
-			</price>
-			<download>
-				<packages>
-					<package id="2">
-						<description>standard</description>
-						<price>
-							<currencyCode>GBP</currencyCode>
-							<sevendigitalPrice xsi:nil="true"/>
-							<recommendedRetailPrice xsi:nil="true"/>
-						</price>
-						<formats>
-							<format id="17">
-								<description>MP3 320</description>
-							</format>
-						</formats>
-					</package>
-				</packages>
-			</download>
-			<streamingReleaseDate>2013-09-09T00:00:00Z</streamingReleaseDate>
-			<discNumber>1</discNumber>
-			<number>3</number>
-			<previewDate>2013-09-09T00:00:00Z</previewDate>
-		</track>
-		<track id="31185173">
-			<title>Fall Back</title>
-			<version/>
-			<artist id="667594">
-				<name>Factory Floor</name>
-				<appearsAs>Factory Floor</appearsAs>
-				<url>http://www.7digital.com/artist/factory-floor/?partner=3923</url>
-			</artist>
-			<trackNumber>4</trackNumber>
-			<duration>442</duration>
-			<explicitContent>false</explicitContent>
-			<isrc>US4GE1300076</isrc>
-			<type>audio</type>
-			<release id="2923838">
-				<title>Factory Floor</title>
-				<version/>
-				<type>Album</type>
-				<barcode>5051083073516</barcode>
-				<artist id="667594">
-					<name>Factory Floor</name>
-					<appearsAs>Factory Floor</appearsAs>
-					<url>http://www.7digital.com/artist/factory-floor/?partner=3923</url>
-				</artist>
-				<url>http://www.7digital.com/artist/factory-floor/release/factory-floor/?partner=3923</url>
-				<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/029/238/0002923838_50.jpg</image>
-				<releaseDate>2013-09-09T00:00:00Z</releaseDate>
-			</release>
-			<url>http://www.7digital.com/artist/factory-floor/release/factory-floor/?partner=3923&amp;h=04</url>
-			<price>
-				<currency code="GBP">£</currency>
-				<value>0.99</value>
-				<formattedPrice>£0.99</formattedPrice>
-				<rrp>0.99</rrp>
-				<formattedRrp>£0.99</formattedRrp>
-				<onSale>false</onSale>
-			</price>
-			<download>
-				<packages>
-					<package id="2">
-						<description>standard</description>
-						<price>
-							<currencyCode>GBP</currencyCode>
-							<sevendigitalPrice>0.99</sevendigitalPrice>
-							<recommendedRetailPrice>0.99</recommendedRetailPrice>
-						</price>
-						<formats>
-							<format id="17">
-								<description>MP3 320</description>
-							</format>
-						</formats>
-					</package>
-				</packages>
-			</download>
-			<streamingReleaseDate>2013-09-09T00:00:00Z</streamingReleaseDate>
-			<discNumber>1</discNumber>
-			<number>4</number>
-			<previewDate>2013-09-09T00:00:00Z</previewDate>
-		</track>
-		<track id="31185181">
-			<title>Two</title>
-			<version/>
-			<artist id="667594">
-				<name>Factory Floor</name>
-				<appearsAs>Factory Floor</appearsAs>
-				<url>http://www.7digital.com/artist/factory-floor/?partner=3923</url>
-			</artist>
-			<trackNumber>5</trackNumber>
-			<duration>62</duration>
-			<explicitContent>false</explicitContent>
-			<isrc>US4GE1300077</isrc>
-			<type>audio</type>
-			<release id="2923838">
-				<title>Factory Floor</title>
-				<version/>
-				<type>Album</type>
-				<barcode>5051083073516</barcode>
-				<artist id="667594">
-					<name>Factory Floor</name>
-					<appearsAs>Factory Floor</appearsAs>
-					<url>http://www.7digital.com/artist/factory-floor/?partner=3923</url>
-				</artist>
-				<url>http://www.7digital.com/artist/factory-floor/release/factory-floor/?partner=3923</url>
-				<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/029/238/0002923838_50.jpg</image>
-				<releaseDate>2013-09-09T00:00:00Z</releaseDate>
-			</release>
-			<url>http://www.7digital.com/artist/factory-floor/release/factory-floor/?partner=3923&amp;h=05</url>
-			<price>
-				<currency code="GBP">£</currency>
-				<value xsi:nil="true"/>
-				<formattedPrice>N/A</formattedPrice>
-				<rrp xsi:nil="true"/>
-				<formattedRrp>N/A</formattedRrp>
-				<onSale>false</onSale>
-			</price>
-			<download>
-				<packages>
-					<package id="2">
-						<description>standard</description>
-						<price>
-							<currencyCode>GBP</currencyCode>
-							<sevendigitalPrice xsi:nil="true"/>
-							<recommendedRetailPrice xsi:nil="true"/>
-						</price>
-						<formats>
-							<format id="17">
-								<description>MP3 320</description>
-							</format>
-						</formats>
-					</package>
-				</packages>
-			</download>
-			<streamingReleaseDate>2013-09-09T00:00:00Z</streamingReleaseDate>
-			<discNumber>1</discNumber>
-			<number>5</number>
-			<previewDate>2013-09-09T00:00:00Z</previewDate>
-		</track>
-		<track id="31185183">
-			<title>How You Say</title>
-			<version/>
-			<artist id="667594">
-				<name>Factory Floor</name>
-				<appearsAs>Factory Floor</appearsAs>
-				<url>http://www.7digital.com/artist/factory-floor/?partner=3923</url>
-			</artist>
-			<trackNumber>6</trackNumber>
-			<duration>385</duration>
-			<explicitContent>false</explicitContent>
-			<isrc>US4GE1300078</isrc>
-			<type>audio</type>
-			<release id="2923838">
-				<title>Factory Floor</title>
-				<version/>
-				<type>Album</type>
-				<barcode>5051083073516</barcode>
-				<artist id="667594">
-					<name>Factory Floor</name>
-					<appearsAs>Factory Floor</appearsAs>
-					<url>http://www.7digital.com/artist/factory-floor/?partner=3923</url>
-				</artist>
-				<url>http://www.7digital.com/artist/factory-floor/release/factory-floor/?partner=3923</url>
-				<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/029/238/0002923838_50.jpg</image>
-				<releaseDate>2013-09-09T00:00:00Z</releaseDate>
-			</release>
-			<url>http://www.7digital.com/artist/factory-floor/release/factory-floor/?partner=3923&amp;h=06</url>
-			<price>
-				<currency code="GBP">£</currency>
-				<value>0.99</value>
-				<formattedPrice>£0.99</formattedPrice>
-				<rrp>0.99</rrp>
-				<formattedRrp>£0.99</formattedRrp>
-				<onSale>false</onSale>
-			</price>
-			<download>
-				<packages>
-					<package id="2">
-						<description>standard</description>
-						<price>
-							<currencyCode>GBP</currencyCode>
-							<sevendigitalPrice>0.99</sevendigitalPrice>
-							<recommendedRetailPrice>0.99</recommendedRetailPrice>
-						</price>
-						<formats>
-							<format id="17">
-								<description>MP3 320</description>
-							</format>
-						</formats>
-					</package>
-				</packages>
-			</download>
-			<streamingReleaseDate>2013-09-09T00:00:00Z</streamingReleaseDate>
-			<discNumber>1</discNumber>
-			<number>6</number>
-			<previewDate>2013-09-09T00:00:00Z</previewDate>
-		</track>
-		<track id="31185195">
-			<title>Two Different Ways</title>
-			<version/>
-			<artist id="667594">
-				<name>Factory Floor</name>
-				<appearsAs>Factory Floor</appearsAs>
-				<url>http://www.7digital.com/artist/factory-floor/?partner=3923</url>
-			</artist>
-			<trackNumber>7</trackNumber>
-			<duration>493</duration>
-			<explicitContent>false</explicitContent>
-			<isrc>US4GE1300079</isrc>
-			<type>audio</type>
-			<release id="2923838">
-				<title>Factory Floor</title>
-				<version/>
-				<type>Album</type>
-				<barcode>5051083073516</barcode>
-				<artist id="667594">
-					<name>Factory Floor</name>
-					<appearsAs>Factory Floor</appearsAs>
-					<url>http://www.7digital.com/artist/factory-floor/?partner=3923</url>
-				</artist>
-				<url>http://www.7digital.com/artist/factory-floor/release/factory-floor/?partner=3923</url>
-				<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/029/238/0002923838_50.jpg</image>
-				<releaseDate>2013-09-09T00:00:00Z</releaseDate>
-			</release>
-			<url>http://www.7digital.com/artist/factory-floor/release/factory-floor/?partner=3923&amp;h=07</url>
-			<price>
-				<currency code="GBP">£</currency>
-				<value>0.99</value>
-				<formattedPrice>£0.99</formattedPrice>
-				<rrp>0.99</rrp>
-				<formattedRrp>£0.99</formattedRrp>
-				<onSale>false</onSale>
-			</price>
-			<download>
-				<packages>
-					<package id="2">
-						<description>standard</description>
-						<price>
-							<currencyCode>GBP</currencyCode>
-							<sevendigitalPrice>0.99</sevendigitalPrice>
-							<recommendedRetailPrice>0.99</recommendedRetailPrice>
-						</price>
-						<formats>
-							<format id="17">
-								<description>MP3 320</description>
-							</format>
-						</formats>
-					</package>
-				</packages>
-			</download>
-			<streamingReleaseDate>2013-09-09T00:00:00Z</streamingReleaseDate>
-			<discNumber>1</discNumber>
-			<number>7</number>
-			<previewDate>2013-09-09T00:00:00Z</previewDate>
-		</track>
-		<track id="31185199">
-			<title>Three</title>
-			<version/>
-			<artist id="667594">
-				<name>Factory Floor</name>
-				<appearsAs>Factory Floor</appearsAs>
-				<url>http://www.7digital.com/artist/factory-floor/?partner=3923</url>
-			</artist>
-			<trackNumber>8</trackNumber>
-			<duration>101</duration>
-			<explicitContent>false</explicitContent>
-			<isrc>US4GE1300080</isrc>
-			<type>audio</type>
-			<release id="2923838">
-				<title>Factory Floor</title>
-				<version/>
-				<type>Album</type>
-				<barcode>5051083073516</barcode>
-				<artist id="667594">
-					<name>Factory Floor</name>
-					<appearsAs>Factory Floor</appearsAs>
-					<url>http://www.7digital.com/artist/factory-floor/?partner=3923</url>
-				</artist>
-				<url>http://www.7digital.com/artist/factory-floor/release/factory-floor/?partner=3923</url>
-				<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/029/238/0002923838_50.jpg</image>
-				<releaseDate>2013-09-09T00:00:00Z</releaseDate>
-			</release>
-			<url>http://www.7digital.com/artist/factory-floor/release/factory-floor/?partner=3923&amp;h=08</url>
-			<price>
-				<currency code="GBP">£</currency>
-				<value xsi:nil="true"/>
-				<formattedPrice>N/A</formattedPrice>
-				<rrp xsi:nil="true"/>
-				<formattedRrp>N/A</formattedRrp>
-				<onSale>false</onSale>
-			</price>
-			<download>
-				<packages>
-					<package id="2">
-						<description>standard</description>
-						<price>
-							<currencyCode>GBP</currencyCode>
-							<sevendigitalPrice xsi:nil="true"/>
-							<recommendedRetailPrice xsi:nil="true"/>
-						</price>
-						<formats>
-							<format id="17">
-								<description>MP3 320</description>
-							</format>
-						</formats>
-					</package>
-				</packages>
-			</download>
-			<streamingReleaseDate>2013-09-09T00:00:00Z</streamingReleaseDate>
-			<discNumber>1</discNumber>
-			<number>8</number>
-			<previewDate>2013-09-09T00:00:00Z</previewDate>
-		</track>
-		<track id="31185201">
-			<title>Work Out</title>
-			<version/>
-			<artist id="667594">
-				<name>Factory Floor</name>
-				<appearsAs>Factory Floor</appearsAs>
-				<url>http://www.7digital.com/artist/factory-floor/?partner=3923</url>
-			</artist>
-			<trackNumber>9</trackNumber>
-			<duration>394</duration>
-			<explicitContent>false</explicitContent>
-			<isrc>US4GE1300081</isrc>
-			<type>audio</type>
-			<release id="2923838">
-				<title>Factory Floor</title>
-				<version/>
-				<type>Album</type>
-				<barcode>5051083073516</barcode>
-				<artist id="667594">
-					<name>Factory Floor</name>
-					<appearsAs>Factory Floor</appearsAs>
-					<url>http://www.7digital.com/artist/factory-floor/?partner=3923</url>
-				</artist>
-				<url>http://www.7digital.com/artist/factory-floor/release/factory-floor/?partner=3923</url>
-				<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/029/238/0002923838_50.jpg</image>
-				<releaseDate>2013-09-09T00:00:00Z</releaseDate>
-			</release>
-			<url>http://www.7digital.com/artist/factory-floor/release/factory-floor/?partner=3923&amp;h=09</url>
-			<price>
-				<currency code="GBP">£</currency>
-				<value>0.99</value>
-				<formattedPrice>£0.99</formattedPrice>
-				<rrp>0.99</rrp>
-				<formattedRrp>£0.99</formattedRrp>
-				<onSale>false</onSale>
-			</price>
-			<download>
-				<packages>
-					<package id="2">
-						<description>standard</description>
-						<price>
-							<currencyCode>GBP</currencyCode>
-							<sevendigitalPrice>0.99</sevendigitalPrice>
-							<recommendedRetailPrice>0.99</recommendedRetailPrice>
-						</price>
-						<formats>
-							<format id="17">
-								<description>MP3 320</description>
-							</format>
-						</formats>
-					</package>
-				</packages>
-			</download>
-			<streamingReleaseDate>2013-09-09T00:00:00Z</streamingReleaseDate>
-			<discNumber>1</discNumber>
-			<number>9</number>
-			<previewDate>2013-09-09T00:00:00Z</previewDate>
-		</track>
-		<track id="31185211">
-			<title>Breathe In</title>
-			<version/>
-			<artist id="667594">
-				<name>Factory Floor</name>
-				<appearsAs>Factory Floor</appearsAs>
-				<url>http://www.7digital.com/artist/factory-floor/?partner=3923</url>
-			</artist>
-			<trackNumber>10</trackNumber>
-			<duration>396</duration>
-			<explicitContent>false</explicitContent>
-			<isrc>US4GE1300082</isrc>
-			<type>audio</type>
-			<release id="2923838">
-				<title>Factory Floor</title>
-				<version/>
-				<type>Album</type>
-				<barcode>5051083073516</barcode>
-				<artist id="667594">
-					<name>Factory Floor</name>
-					<appearsAs>Factory Floor</appearsAs>
-					<url>http://www.7digital.com/artist/factory-floor/?partner=3923</url>
-				</artist>
-				<url>http://www.7digital.com/artist/factory-floor/release/factory-floor/?partner=3923</url>
-				<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/029/238/0002923838_50.jpg</image>
-				<releaseDate>2013-09-09T00:00:00Z</releaseDate>
-			</release>
-			<url>http://www.7digital.com/artist/factory-floor/release/factory-floor/?partner=3923&amp;h=10</url>
-			<price>
-				<currency code="GBP">£</currency>
-				<value>0.99</value>
-				<formattedPrice>£0.99</formattedPrice>
-				<rrp>0.99</rrp>
-				<formattedRrp>£0.99</formattedRrp>
-				<onSale>false</onSale>
-			</price>
-			<download>
-				<packages>
-					<package id="2">
-						<description>standard</description>
-						<price>
-							<currencyCode>GBP</currencyCode>
-							<sevendigitalPrice>0.99</sevendigitalPrice>
-							<recommendedRetailPrice>0.99</recommendedRetailPrice>
-						</price>
-						<formats>
-							<format id="17">
-								<description>MP3 320</description>
-							</format>
-						</formats>
-					</package>
-				</packages>
-			</download>
-			<streamingReleaseDate>2013-09-09T00:00:00Z</streamingReleaseDate>
-			<discNumber>1</discNumber>
-			<number>10</number>
-			<previewDate>2013-09-09T00:00:00Z</previewDate>
-		</track>
-	</tracks>
+  <tracks>
+    <page>1</page>
+    <pageSize>10</pageSize>
+    <totalItems>10</totalItems>
+    <track id="31185149">
+      <title>Turn It Up</title>
+      <version/>
+      <artist id="667594">
+        <name>Factory Floor</name>
+        <appearsAs>Factory Floor</appearsAs>
+        <slug>factory-floor</slug>
+      </artist>
+      <trackNumber>1</trackNumber>
+      <duration>373</duration>
+      <explicitContent>false</explicitContent>
+      <isrc>US4GE1300073</isrc>
+      <type>audio</type>
+      <release id="2923838">
+        <title>Factory Floor</title>
+        <version/>
+        <type>Album</type>
+        <barcode>5051083073516</barcode>
+        <artist id="667594">
+          <name>Factory Floor</name>
+          <appearsAs>Factory Floor</appearsAs>
+          <slug>factory-floor</slug>
+        </artist>
+        <slug>factory-floor</slug>
+        <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/029/238/0002923838_50.jpg</image>
+      </release>
+      <slug>factory-floor</slug>
+      <price>
+        <currency code="GBP">£</currency>
+        <value>0.99</value>
+        <formattedPrice>£0.99</formattedPrice>
+        <rrp>0.99</rrp>
+        <formattedRrp>£0.99</formattedRrp>
+        <onSale>false</onSale>
+      </price>
+      <download>
+        <releaseDate>2013-09-09T00:00:00Z</releaseDate>
+        <packages>
+          <package id="2">
+            <description>standard</description>
+            <price>
+              <currencyCode>GBP</currencyCode>
+              <sevendigitalPrice>0.99</sevendigitalPrice>
+              <recommendedRetailPrice>0.99</recommendedRetailPrice>
+            </price>
+            <formats>
+              <format id="17">
+                <description>MP3 320</description>
+              </format>
+            </formats>
+          </package>
+        </packages>
+      </download>
+      <streamingReleaseDate>2013-09-09T00:00:00Z</streamingReleaseDate>
+      <discNumber>1</discNumber>
+      <number>1</number>
+    </track>
+    <track id="31185162">
+      <previewDate>2013-09-09T00:00:00Z</previewDate>
+      <title>Here Again</title>
+      <version/>
+      <artist id="667594">
+        <name>Factory Floor</name>
+        <appearsAs>Factory Floor</appearsAs>
+        <slug>factory-floor</slug>
+      </artist>
+      <trackNumber>2</trackNumber>
+      <duration>487</duration>
+      <explicitContent>false</explicitContent>
+      <isrc>US4GE1300074</isrc>
+      <type>audio</type>
+      <release id="2923838">
+        <title>Factory Floor</title>
+        <version/>
+        <type>Album</type>
+        <barcode>5051083073516</barcode>
+        <artist id="667594">
+          <name>Factory Floor</name>
+          <appearsAs>Factory Floor</appearsAs>
+          <slug>factory-floor</slug>
+        </artist>
+        <slug>factory-floor</slug>
+        <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/029/238/0002923838_50.jpg</image>
+      </release>
+      <slug>factory-floor</slug>
+      <price>
+        <currency code="GBP">£</currency>
+        <value>0.99</value>
+        <formattedPrice>£0.99</formattedPrice>
+        <rrp>0.99</rrp>
+        <formattedRrp>£0.99</formattedRrp>
+        <onSale>false</onSale>
+      </price>
+      <download>
+        <previewDate>2013-09-09T00:00:00Z</previewDate>
+        <releaseDate>2013-09-09T00:00:00Z</releaseDate>
+        <packages>
+          <package id="2">
+            <description>standard</description>
+            <price>
+              <currencyCode>GBP</currencyCode>
+              <sevendigitalPrice>0.99</sevendigitalPrice>
+              <recommendedRetailPrice>0.99</recommendedRetailPrice>
+            </price>
+            <formats>
+              <format id="17">
+                <description>MP3 320</description>
+              </format>
+            </formats>
+          </package>
+        </packages>
+      </download>
+      <streamingReleaseDate>2013-09-09T00:00:00Z</streamingReleaseDate>
+      <discNumber>1</discNumber>
+      <number>2</number>
+    </track>
+    <track id="31185171">
+      <title>One</title>
+      <version/>
+      <artist id="667594">
+        <name>Factory Floor</name>
+        <appearsAs>Factory Floor</appearsAs>
+        <slug>factory-floor</slug>
+      </artist>
+      <trackNumber>3</trackNumber>
+      <duration>46</duration>
+      <explicitContent>false</explicitContent>
+      <isrc>US4GE1300075</isrc>
+      <type>audio</type>
+      <release id="2923838">
+        <title>Factory Floor</title>
+        <version/>
+        <type>Album</type>
+        <barcode>5051083073516</barcode>
+        <artist id="667594">
+          <name>Factory Floor</name>
+          <appearsAs>Factory Floor</appearsAs>
+          <slug>factory-floor</slug>
+        </artist>
+        <slug>factory-floor</slug>
+        <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/029/238/0002923838_50.jpg</image>
+      </release>
+      <slug>factory-floor</slug>
+      <price>
+        <currency code="GBP">£</currency>
+        <value xsi:nil="true"/>
+        <formattedPrice>N/A</formattedPrice>
+        <rrp xsi:nil="true"/>
+        <formattedRrp>N/A</formattedRrp>
+        <onSale>false</onSale>
+      </price>
+      <download>
+        <previewDate>2013-09-09T00:00:00Z</previewDate>
+        <releaseDate>2013-09-09T00:00:00Z</releaseDate>
+        <packages>
+          <package id="2">
+            <description>standard</description>
+            <price>
+              <currencyCode>GBP</currencyCode>
+              <sevendigitalPrice xsi:nil="true"/>
+              <recommendedRetailPrice xsi:nil="true"/>
+            </price>
+            <formats>
+              <format id="17">
+                <description>MP3 320</description>
+              </format>
+            </formats>
+          </package>
+        </packages>
+      </download>
+      <streamingReleaseDate>2013-09-09T00:00:00Z</streamingReleaseDate>
+      <discNumber>1</discNumber>
+      <number>3</number>
+    </track>
+    <track id="31185173">
+      <title>Fall Back</title>
+      <version/>
+      <artist id="667594">
+        <name>Factory Floor</name>
+        <appearsAs>Factory Floor</appearsAs>
+        <slug>factory-floor</slug>
+      </artist>
+      <trackNumber>4</trackNumber>
+      <duration>442</duration>
+      <explicitContent>false</explicitContent>
+      <isrc>US4GE1300076</isrc>
+      <type>audio</type>
+      <release id="2923838">
+        <title>Factory Floor</title>
+        <version/>
+        <type>Album</type>
+        <barcode>5051083073516</barcode>
+        <artist id="667594">
+          <name>Factory Floor</name>
+          <appearsAs>Factory Floor</appearsAs>
+          <slug>factory-floor</slug>
+        </artist>
+        <slug>factory-floor</slug>
+        <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/029/238/0002923838_50.jpg</image>
+      </release>
+      <slug>factory-floor</slug>
+      <price>
+        <currency code="GBP">£</currency>
+        <value>0.99</value>
+        <formattedPrice>£0.99</formattedPrice>
+        <rrp>0.99</rrp>
+        <formattedRrp>£0.99</formattedRrp>
+        <onSale>false</onSale>
+      </price>
+      <download>
+        <previewDate>2013-09-09T00:00:00Z</previewDate>
+        <releaseDate>2013-09-09T00:00:00Z</releaseDate>
+        <packages>
+          <package id="2">
+            <description>standard</description>
+            <price>
+              <currencyCode>GBP</currencyCode>
+              <sevendigitalPrice>0.99</sevendigitalPrice>
+              <recommendedRetailPrice>0.99</recommendedRetailPrice>
+            </price>
+            <formats>
+              <format id="17">
+                <description>MP3 320</description>
+              </format>
+            </formats>
+          </package>
+        </packages>
+      </download>
+      <streamingReleaseDate>2013-09-09T00:00:00Z</streamingReleaseDate>
+      <discNumber>1</discNumber>
+      <number>4</number>
+    </track>
+    <track id="31185181">
+      <title>Two</title>
+      <version/>
+      <artist id="667594">
+        <name>Factory Floor</name>
+        <appearsAs>Factory Floor</appearsAs>
+        <slug>factory-floor</slug>
+      </artist>
+      <trackNumber>5</trackNumber>
+      <duration>62</duration>
+      <explicitContent>false</explicitContent>
+      <isrc>US4GE1300077</isrc>
+      <type>audio</type>
+      <release id="2923838">
+        <title>Factory Floor</title>
+        <version/>
+        <type>Album</type>
+        <barcode>5051083073516</barcode>
+        <artist id="667594">
+          <name>Factory Floor</name>
+          <appearsAs>Factory Floor</appearsAs>
+          <slug>factory-floor</slug>
+        </artist>
+        <slug>factory-floor</slug>
+        <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/029/238/0002923838_50.jpg</image>
+      </release>
+      <slug>factory-floor</slug>
+      <price>
+        <currency code="GBP">£</currency>
+        <value xsi:nil="true"/>
+        <formattedPrice>N/A</formattedPrice>
+        <rrp xsi:nil="true"/>
+        <formattedRrp>N/A</formattedRrp>
+        <onSale>false</onSale>
+      </price>
+      <download>
+        <previewDate>2013-09-09T00:00:00Z</previewDate>
+        <releaseDate>2013-09-09T00:00:00Z</releaseDate>
+        <packages>
+          <package id="2">
+            <description>standard</description>
+            <price>
+              <currencyCode>GBP</currencyCode>
+              <sevendigitalPrice xsi:nil="true"/>
+              <recommendedRetailPrice xsi:nil="true"/>
+            </price>
+            <formats>
+              <format id="17">
+                <description>MP3 320</description>
+              </format>
+            </formats>
+          </package>
+        </packages>
+      </download>
+      <streamingReleaseDate>2013-09-09T00:00:00Z</streamingReleaseDate>
+      <discNumber>1</discNumber>
+      <number>5</number>
+    </track>
+    <track id="31185183">
+      <title>How You Say</title>
+      <version/>
+      <artist id="667594">
+        <name>Factory Floor</name>
+        <appearsAs>Factory Floor</appearsAs>
+        <slug>factory-floor</slug>
+      </artist>
+      <trackNumber>6</trackNumber>
+      <duration>385</duration>
+      <explicitContent>false</explicitContent>
+      <isrc>US4GE1300078</isrc>
+      <type>audio</type>
+      <release id="2923838">
+        <title>Factory Floor</title>
+        <version/>
+        <type>Album</type>
+        <barcode>5051083073516</barcode>
+        <artist id="667594">
+          <name>Factory Floor</name>
+          <appearsAs>Factory Floor</appearsAs>
+          <slug>factory-floor</slug>
+        </artist>
+        <slug>factory-floor</slug>
+        <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/029/238/0002923838_50.jpg</image>
+      </release>
+      <slug>factory-floor</slug>
+      <price>
+        <currency code="GBP">£</currency>
+        <value>0.99</value>
+        <formattedPrice>£0.99</formattedPrice>
+        <rrp>0.99</rrp>
+        <formattedRrp>£0.99</formattedRrp>
+        <onSale>false</onSale>
+      </price>
+      <download>
+        <previewDate>2013-09-09T00:00:00Z</previewDate>
+        <releaseDate>2013-09-09T00:00:00Z</releaseDate>
+        <packages>
+          <package id="2">
+            <description>standard</description>
+            <price>
+              <currencyCode>GBP</currencyCode>
+              <sevendigitalPrice>0.99</sevendigitalPrice>
+              <recommendedRetailPrice>0.99</recommendedRetailPrice>
+            </price>
+            <formats>
+              <format id="17">
+                <description>MP3 320</description>
+              </format>
+            </formats>
+          </package>
+        </packages>
+      </download>
+      <streamingReleaseDate>2013-09-09T00:00:00Z</streamingReleaseDate>
+      <discNumber>1</discNumber>
+      <number>6</number>
+    </track>
+    <track id="31185195">
+      <title>Two Different Ways</title>
+      <version/>
+      <artist id="667594">
+        <name>Factory Floor</name>
+        <appearsAs>Factory Floor</appearsAs>
+        <slug>factory-floor</slug>
+      </artist>
+      <trackNumber>7</trackNumber>
+      <duration>493</duration>
+      <explicitContent>false</explicitContent>
+      <isrc>US4GE1300079</isrc>
+      <type>audio</type>
+      <release id="2923838">
+        <title>Factory Floor</title>
+        <version/>
+        <type>Album</type>
+        <barcode>5051083073516</barcode>
+        <artist id="667594">
+          <name>Factory Floor</name>
+          <appearsAs>Factory Floor</appearsAs>
+          <slug>factory-floor</slug>
+        </artist>
+        <slug>factory-floor</slug>
+        <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/029/238/0002923838_50.jpg</image>
+      </release>
+      <slug>factory-floor</slug>
+      <price>
+        <currency code="GBP">£</currency>
+        <value>0.99</value>
+        <formattedPrice>£0.99</formattedPrice>
+        <rrp>0.99</rrp>
+        <formattedRrp>£0.99</formattedRrp>
+        <onSale>false</onSale>
+      </price>
+      <download>
+        <previewDate>2013-09-09T00:00:00Z</previewDate>
+        <releaseDate>2013-09-09T00:00:00Z</releaseDate>
+        <packages>
+          <package id="2">
+            <description>standard</description>
+            <price>
+              <currencyCode>GBP</currencyCode>
+              <sevendigitalPrice>0.99</sevendigitalPrice>
+              <recommendedRetailPrice>0.99</recommendedRetailPrice>
+            </price>
+            <formats>
+              <format id="17">
+                <description>MP3 320</description>
+              </format>
+            </formats>
+          </package>
+        </packages>
+      </download>
+      <streamingReleaseDate>2013-09-09T00:00:00Z</streamingReleaseDate>
+      <discNumber>1</discNumber>
+      <number>7</number>
+    </track>
+    <track id="31185199">
+      <title>Three</title>
+      <version/>
+      <artist id="667594">
+        <name>Factory Floor</name>
+        <appearsAs>Factory Floor</appearsAs>
+        <slug>factory-floor</slug>
+      </artist>
+      <trackNumber>8</trackNumber>
+      <duration>101</duration>
+      <explicitContent>false</explicitContent>
+      <isrc>US4GE1300080</isrc>
+      <type>audio</type>
+      <release id="2923838">
+        <title>Factory Floor</title>
+        <version/>
+        <type>Album</type>
+        <barcode>5051083073516</barcode>
+        <artist id="667594">
+          <name>Factory Floor</name>
+          <appearsAs>Factory Floor</appearsAs>
+          <slug>factory-floor</slug>
+        </artist>
+        <slug>factory-floor</slug>
+        <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/029/238/0002923838_50.jpg</image>
+      </release>
+      <slug>factory-floor</slug>
+      <price>
+        <currency code="GBP">£</currency>
+        <value xsi:nil="true"/>
+        <formattedPrice>N/A</formattedPrice>
+        <rrp xsi:nil="true"/>
+        <formattedRrp>N/A</formattedRrp>
+        <onSale>false</onSale>
+      </price>
+      <download>
+        <previewDate>2013-09-09T00:00:00Z</previewDate>
+        <releaseDate>2013-09-09T00:00:00Z</releaseDate>
+        <packages>
+          <package id="2">
+            <description>standard</description>
+            <price>
+              <currencyCode>GBP</currencyCode>
+              <sevendigitalPrice xsi:nil="true"/>
+              <recommendedRetailPrice xsi:nil="true"/>
+            </price>
+            <formats>
+              <format id="17">
+                <description>MP3 320</description>
+              </format>
+            </formats>
+          </package>
+        </packages>
+      </download>
+      <streamingReleaseDate>2013-09-09T00:00:00Z</streamingReleaseDate>
+      <discNumber>1</discNumber>
+      <number>8</number>
+    </track>
+    <track id="31185201">
+      <title>Work Out</title>
+      <version/>
+      <artist id="667594">
+        <name>Factory Floor</name>
+        <appearsAs>Factory Floor</appearsAs>
+        <slug>factory-floor</slug>
+      </artist>
+      <trackNumber>9</trackNumber>
+      <duration>394</duration>
+      <explicitContent>false</explicitContent>
+      <isrc>US4GE1300081</isrc>
+      <type>audio</type>
+      <release id="2923838">
+        <title>Factory Floor</title>
+        <version/>
+        <type>Album</type>
+        <barcode>5051083073516</barcode>
+        <artist id="667594">
+          <name>Factory Floor</name>
+          <appearsAs>Factory Floor</appearsAs>
+          <slug>factory-floor</slug>
+        </artist>
+        <slug>factory-floor</slug>
+        <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/029/238/0002923838_50.jpg</image>
+      </release>
+      <slug>factory-floor</slug>
+      <price>
+        <currency code="GBP">£</currency>
+        <value>0.99</value>
+        <formattedPrice>£0.99</formattedPrice>
+        <rrp>0.99</rrp>
+        <formattedRrp>£0.99</formattedRrp>
+        <onSale>false</onSale>
+      </price>
+      <download>
+        <previewDate>2013-09-09T00:00:00Z</previewDate>
+        <releaseDate>2013-09-09T00:00:00Z</releaseDate>
+        <packages>
+          <package id="2">
+            <description>standard</description>
+            <price>
+              <currencyCode>GBP</currencyCode>
+              <sevendigitalPrice>0.99</sevendigitalPrice>
+              <recommendedRetailPrice>0.99</recommendedRetailPrice>
+            </price>
+            <formats>
+              <format id="17">
+                <description>MP3 320</description>
+              </format>
+            </formats>
+          </package>
+        </packages>
+      </download>
+      <streamingReleaseDate>2013-09-09T00:00:00Z</streamingReleaseDate>
+      <discNumber>1</discNumber>
+      <number>9</number>
+    </track>
+    <track id="31185211">
+      <title>Breathe In</title>
+      <version/>
+      <artist id="667594">
+        <name>Factory Floor</name>
+        <appearsAs>Factory Floor</appearsAs>
+        <slug>factory-floor</slug>
+      </artist>
+      <trackNumber>10</trackNumber>
+      <duration>396</duration>
+      <explicitContent>false</explicitContent>
+      <isrc>US4GE1300082</isrc>
+      <type>audio</type>
+      <release id="2923838">
+        <title>Factory Floor</title>
+        <version/>
+        <type>Album</type>
+        <barcode>5051083073516</barcode>
+        <artist id="667594">
+          <name>Factory Floor</name>
+          <appearsAs>Factory Floor</appearsAs>
+          <slug>factory-floor</slug>
+        </artist>
+        <slug>factory-floor</slug>
+        <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/029/238/0002923838_50.jpg</image>
+      </release>
+      <slug>factory-floor</slug>
+      <price>
+        <currency code="GBP">£</currency>
+        <value>0.99</value>
+        <formattedPrice>£0.99</formattedPrice>
+        <rrp>0.99</rrp>
+        <formattedRrp>£0.99</formattedRrp>
+        <onSale>false</onSale>
+      </price>
+      <download>
+        <previewDate>2013-09-09T00:00:00Z</previewDate>
+        <releaseDate>2013-09-09T00:00:00Z</releaseDate>
+        <packages>
+          <package id="2">
+            <description>standard</description>
+            <price>
+              <currencyCode>GBP</currencyCode>
+              <sevendigitalPrice>0.99</sevendigitalPrice>
+              <recommendedRetailPrice>0.99</recommendedRetailPrice>
+            </price>
+            <formats>
+              <format id="17">
+                <description>MP3 320</description>
+              </format>
+            </formats>
+          </package>
+        </packages>
+      </download>
+      <streamingReleaseDate>2013-09-09T00:00:00Z</streamingReleaseDate>
+      <discNumber>1</discNumber>
+      <number>10</number>
+    </track>
+  </tracks>
 </response>

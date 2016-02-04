@@ -1,62 +1,42 @@
 <?xml version="1.0" encoding="utf-8"?>
 <response xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" status="ok" version="1.2" xsi:noNamespaceSchemaLocation="http://api.7digital.com/1.2/static/7digitalAPI.xsd">
-	<release id="1234113">
-		<title>Kitsuné Maison Compilation 11: The Indie-Dance Issue</title>
-		<version/>
-		<type>Album</type>
-		<barcode>3700656500011</barcode>
-		<year>2011</year>
-		<explicitContent>false</explicitContent>
-		<artist id="209">
-			<name>Various Artists</name>
-			<appearsAs>Various Artists</appearsAs>
-			<url>http://www.7digital.com/artists/various-artists/?partner=712</url>
-		</artist>
-		<url>http://www.7digital.com/artists/various-artists/kitsune-maison-compilation-11-the-indie-dance-issue/?partner=712</url>
-		<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/012/341/0001234113_50.jpg</image>
-		<releaseDate>2011-05-16T00:00:00+01:00</releaseDate>
-		<price>
-			<currency code="GBP">£</currency>
-			<value>6.99</value>
-			<formattedPrice>£6.99</formattedPrice>
-			<rrp>6.99</rrp>
-			<formattedRrp>£6.99</formattedRrp>
-			<onSale>false</onSale>
-		</price>
-		<download>
-			<packages>
-				<package id="2">
-					<description>standard</description>
-					<price>
-						<currencyCode>GBP</currencyCode>
-						<sevendigitalPrice>6.99</sevendigitalPrice>
-						<recommendedRetailPrice>6.99</recommendedRetailPrice>
-					</price>
-					<formats>
-						<format id="17">
-							<description>MP3 320</description>
-						</format>
-						<format id="33">
-							<description>M4A 320</description>
-						</format>
-					</formats>
-				</package>
-			</packages>
-		</download>
-		<formats availableDrmFree="true">
-			<format id="17">
-				<fileFormat>MP3</fileFormat>
-				<bitRate>320</bitRate>
-				<drmFree>true</drmFree>
-			</format>
-			<format id="33">
-				<fileFormat>M4A</fileFormat>
-				<bitRate>320</bitRate>
-				<drmFree>true</drmFree>
-			</format>
-		</formats>
-		<label id="13267">
-			<name>Kitsuné</name>
-		</label>
-	</release>
+  <release id="1234113">
+    <title>Kitsuné Maison Compilation 11: The Indie-Dance Issue</title>
+    <version/>
+    <type>Album</type>
+    <barcode>3700656500011</barcode>
+    <year>2011</year>
+    <explicitContent>false</explicitContent>
+    <artist id="209">
+      <name>Various Artists</name>
+      <appearsAs>Various Artists</appearsAs>
+      <slug>various-artists</slug>
+    </artist>
+    <slug>various-artists</slug>
+    <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/012/341/0001234113_50.jpg</image>
+    <download>
+      <packages>
+        <package id="2">
+          <description>standard</description>
+          <price>
+            <currencyCode>GBP</currencyCode>
+            <sevendigitalPrice>6.99</sevendigitalPrice>
+            <recommendedRetailPrice>6.99</recommendedRetailPrice>
+          </price>
+          <formats>
+            <format id="17">
+              <description>MP3 320</description>
+            </format>
+            <format id="33">
+              <description>M4A 320</description>
+            </format>
+          </formats>
+        </package>
+      </packages>
+      <releaseDate>2011-05-16T00:00:00+01:00</releaseDate>
+    </download>
+    <label id="13267">
+      <name>Kitsuné</name>
+    </label>
+  </release>
 </response>

@@ -10,27 +10,10 @@
     <artist id="45369">
       <name>Propellerheads</name>
       <appearsAs>Propellerheads</appearsAs>
-      <url>http://www.7digital.com/artist/propellerheads/?partner=3923</url>
+      <slug>propellerheads</slug>
     </artist>
-    <url>http://www.7digital.com/artist/propellerheads/release/decksandrumsandrockandroll/?partner=3923</url>
+    <slug>decksandrumsandrockandroll</slug>
     <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/004/381/0000438137_50.jpg</image>
-    <releaseDate>2030-04-26T00:00:00Z</releaseDate>
-    <addedDate>2010-04-29T15:13:40Z</addedDate>
-    <price>
-      <currency code="GBP">£</currency>
-      <value>8.99</value>
-      <formattedPrice>£8.99</formattedPrice>
-      <rrp>8.99</rrp>
-      <formattedRrp>£8.99</formattedRrp>
-      <onSale>false</onSale>
-    </price>
-    <formats availableDrmFree="true">
-      <format id="17">
-        <fileFormat>MP3</fileFormat>
-        <bitRate>320</bitRate>
-        <drmFree>true</drmFree>
-      </format>
-    </formats>
     <label id="3309">
       <name>Universal Music Ireland Ltd.</name>
     </label>
@@ -57,6 +40,7 @@
           </formats>
         </package>
       </packages>
+      <releaseDate>2030-04-26T00:00:00Z</releaseDate>
     </download>
   </release>
 </response>

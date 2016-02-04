@@ -1,219 +1,199 @@
 <?xml version="1.0" encoding="utf-8"?>
 <response xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" status="ok" version="1.2" xsi:noNamespaceSchemaLocation="http://api.7digital.com/1.2/static/7digitalAPI.xsd">
-	<taggedResults>
-		<page>1</page>
-		<pageSize>10</pageSize>
-		<totalItems>4861</totalItems>
-		<type>release</type>
-		<taggedItem>
-			<release id="1538086">
-				<title>Lo Más Prendido Del Tribal Y Más Vol. 1</title>
-				<version/>
-				<type>Album</type>
-				<barcode>097037894429</barcode>
-				<year>2012</year>
-				<explicitContent>false</explicitContent>
-				<artist id="209">
-					<name>Various Artists</name>
-					<appearsAs>Various Artists</appearsAs>
-					<url>http://www.7digital.com/artist/various-artists/?partner=1401</url>
-				</artist>
-				<url>http://www.7digital.com/artist/various-artists/release/lo-mas-prendido-del-tribal-y-mas-vol-1/?partner=1401</url>
-				<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/015/380/0001538086_50.jpg</image>
-				<releaseDate>2012-01-24T00:00:00+00:00</releaseDate>
-				<addedDate>2012-01-05T15:38:58+00:00</addedDate>
-				<popularity>0.49</popularity>
-				<streamingReleaseDate>2012-01-24T00:00:00+00:00</streamingReleaseDate>
-			</release>
-		</taggedItem>
-		<taggedItem>
-			<release id="1327250">
-				<title>Más fuerte que Hércules</title>
-				<version/>
-				<type>Album</type>
-				<barcode>097037692827</barcode>
-				<year>2011</year>
-				<explicitContent>false</explicitContent>
-				<artist id="193206">
-					<name>La Leyenda</name>
-					<appearsAs>La Leyenda</appearsAs>
-					<url>http://www.7digital.com/artist/la-leyenda/?partner=1401</url>
-				</artist>
-				<url>http://www.7digital.com/artist/la-leyenda/release/mas-fuerte-que-hercules/?partner=1401</url>
-				<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/013/272/0001327250_50.jpg</image>
-				<releaseDate>2011-06-28T00:00:00+01:00</releaseDate>
-				<addedDate>2011-07-13T15:49:40+01:00</addedDate>
-				<popularity>0.45</popularity>
-				<streamingReleaseDate>2011-06-28T00:00:00+01:00</streamingReleaseDate>
-			</release>
-		</taggedItem>
-		<taggedItem>
-			<release id="1015959">
-				<title>Comando Del Diablo</title>
-				<version/>
-				<type>Album</type>
-				<barcode>5055400818880</barcode>
-				<year>2010</year>
-				<explicitContent>false</explicitContent>
-				<artist id="623515">
-					<name>Gerardo Ortiz</name>
-					<appearsAs>Gerardo Ortiz</appearsAs>
-					<url>http://www.7digital.com/artist/gerardo-ortiz/?partner=1401</url>
-				</artist>
-				<url>http://www.7digital.com/artist/gerardo-ortiz/release/comando-del-diablo/?partner=1401</url>
-				<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/010/159/0001015959_50.jpg</image>
-				<releaseDate>2010-08-15T00:00:00+01:00</releaseDate>
-				<addedDate>2010-10-25T11:02:46+01:00</addedDate>
-				<popularity>0.44</popularity>
-				<streamingReleaseDate>2010-08-15T00:00:00+01:00</streamingReleaseDate>
-			</release>
-		</taggedItem>
-		<taggedItem>
-			<release id="1502503">
-				<title>Cumbias Bailables</title>
-				<version/>
-				<type>Album</type>
-				<barcode>821691907122</barcode>
-				<year>2011</year>
-				<explicitContent>false</explicitContent>
-				<artist id="1167773">
-					<name>Cumbias Bailables</name>
-					<appearsAs>Cumbias Bailables</appearsAs>
-					<url>http://www.7digital.com/artist/cumbias-bailables/?partner=1401</url>
-				</artist>
-				<url>http://www.7digital.com/artist/cumbias-bailables/release/cumbias-bailables/?partner=1401</url>
-				<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/015/025/0001502503_50.jpg</image>
-				<releaseDate>2011-11-14T00:00:00+00:00</releaseDate>
-				<addedDate>2011-12-05T16:26:19+00:00</addedDate>
-				<popularity>0.44</popularity>
-				<streamingReleaseDate>2011-11-14T00:00:00+00:00</streamingReleaseDate>
-			</release>
-		</taggedItem>
-		<taggedItem>
-			<release id="1635765">
-				<title>Caminar Contigo - Single</title>
-				<version/>
-				<type>Single</type>
-				<barcode>097037097011</barcode>
-				<year>2012</year>
-				<explicitContent>false</explicitContent>
-				<artist id="1249075">
-					<name>Lucero, Joan Sebastian</name>
-					<appearsAs>Lucero, Joan Sebastian</appearsAs>
-					<url>http://www.7digital.com/artist/lucero-joan-sebastian/?partner=1401</url>
-				</artist>
-				<url>http://www.7digital.com/artist/lucero-joan-sebastian/release/caminar-contigo-single/?partner=1401</url>
-				<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/016/357/0001635765_50.jpg</image>
-				<releaseDate>2012-03-06T00:00:00+00:00</releaseDate>
-				<addedDate>2012-03-16T15:10:01+00:00</addedDate>
-				<popularity>0.43</popularity>
-				<streamingReleaseDate>2012-03-06T00:00:00+00:00</streamingReleaseDate>
-			</release>
-		</taggedItem>
-		<taggedItem>
-			<release id="1327203">
-				<title>Dime La Razón</title>
-				<version/>
-				<type>Album</type>
-				<barcode>097037692728</barcode>
-				<year>2011</year>
-				<explicitContent>false</explicitContent>
-				<artist id="762458">
-					<name>Alex Rivera</name>
-					<appearsAs>Alex Rivera</appearsAs>
-					<url>http://www.7digital.com/artist/alex-rivera/?partner=1401</url>
-				</artist>
-				<url>http://www.7digital.com/artist/alex-rivera/release/dime-la-razon/?partner=1401</url>
-				<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/013/272/0001327203_50.jpg</image>
-				<releaseDate>2011-06-28T00:00:00+01:00</releaseDate>
-				<addedDate>2011-07-13T15:48:46+01:00</addedDate>
-				<popularity>0.43</popularity>
-				<streamingReleaseDate>2011-06-28T00:00:00+01:00</streamingReleaseDate>
-			</release>
-		</taggedItem>
-		<taggedItem>
-			<release id="1682186">
-				<title>Ai Se Eu Te Pego - Single</title>
-				<version/>
-				<type>Single</type>
-				<barcode>097037097417</barcode>
-				<year>2012</year>
-				<explicitContent>false</explicitContent>
-				<artist id="1270990">
-					<name>El Pelón Del Mikrophone</name>
-					<appearsAs>El Pelón Del Mikrophone</appearsAs>
-					<url>http://www.7digital.com/artist/el-pelon-del-mikrophone-1/?partner=1401</url>
-				</artist>
-				<url>http://www.7digital.com/artist/el-pelon-del-mikrophone-1/release/ai-se-eu-te-pego-single/?partner=1401</url>
-				<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/016/821/0001682186_50.jpg</image>
-				<releaseDate>2012-03-20T00:00:00+00:00</releaseDate>
-				<addedDate>2012-04-30T11:34:30+01:00</addedDate>
-				<popularity>0.42</popularity>
-				<streamingReleaseDate>2012-03-20T00:00:00+00:00</streamingReleaseDate>
-			</release>
-		</taggedItem>
-		<taggedItem>
-			<release id="1371786">
-				<title>Ni Falta Que Hace</title>
-				<version/>
-				<type>Album</type>
-				<barcode>7570999990062</barcode>
-				<year>2011</year>
-				<explicitContent>false</explicitContent>
-				<artist id="1083367">
-					<name>Arley Perez</name>
-					<appearsAs>Arley Perez</appearsAs>
-					<url>http://www.7digital.com/artist/arley-perez/?partner=1401</url>
-				</artist>
-				<url>http://www.7digital.com/artist/arley-perez/release/ni-falta-que-hace/?partner=1401</url>
-				<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/013/717/0001371786_50.jpg</image>
-				<releaseDate>2011-08-05T00:00:00+01:00</releaseDate>
-				<addedDate>2011-08-24T10:57:27+01:00</addedDate>
-				<popularity>0.42</popularity>
-				<streamingReleaseDate>2011-08-05T00:00:00+01:00</streamingReleaseDate>
-			</release>
-		</taggedItem>
-		<taggedItem>
-			<release id="928453">
-				<title>Dime la Razon - Single</title>
-				<version/>
-				<type>Single</type>
-				<barcode>097037472320</barcode>
-				<year>2010</year>
-				<explicitContent>false</explicitContent>
-				<artist id="762458">
-					<name>Alex Rivera</name>
-					<appearsAs>Alex Rivera</appearsAs>
-					<url>http://www.7digital.com/artist/alex-rivera/?partner=1401</url>
-				</artist>
-				<url>http://www.7digital.com/artist/alex-rivera/release/dime-la-razon-single/?partner=1401</url>
-				<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/009/284/0000928453_50.jpg</image>
-				<releaseDate>2010-07-20T00:00:00+01:00</releaseDate>
-				<addedDate>2010-08-03T14:12:10+01:00</addedDate>
-				<popularity>0.42</popularity>
-				<streamingReleaseDate>2010-07-20T00:00:00+01:00</streamingReleaseDate>
-			</release>
-		</taggedItem>
-		<taggedItem>
-			<release id="1314879">
-				<title>Al Final De Nuestro Amor - Single</title>
-				<version/>
-				<type>Single</type>
-				<barcode>097037060114</barcode>
-				<year>2011</year>
-				<explicitContent>false</explicitContent>
-				<artist id="762458">
-					<name>Alex Rivera</name>
-					<appearsAs>Alex Rivera</appearsAs>
-					<url>http://www.7digital.com/artist/alex-rivera/?partner=1401</url>
-				</artist>
-				<url>http://www.7digital.com/artist/alex-rivera/release/al-final-de-nuestro-amor-single/?partner=1401</url>
-				<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/013/148/0001314879_50.jpg</image>
-				<releaseDate>2011-06-21T00:00:00+01:00</releaseDate>
-				<addedDate>2011-07-07T16:35:39+01:00</addedDate>
-				<popularity>0.42</popularity>
-				<streamingReleaseDate>2011-06-21T00:00:00+01:00</streamingReleaseDate>
-			</release>
-		</taggedItem>
-	</taggedResults>
+  <taggedResults>
+    <page>1</page>
+    <pageSize>10</pageSize>
+    <totalItems>4861</totalItems>
+    <type>release</type>
+    <taggedItem>
+      <release id="1538086">
+        <title>Lo Más Prendido Del Tribal Y Más Vol. 1</title>
+        <version/>
+        <type>Album</type>
+        <barcode>097037894429</barcode>
+        <year>2012</year>
+        <explicitContent>false</explicitContent>
+        <artist id="209">
+          <name>Various Artists</name>
+          <appearsAs>Various Artists</appearsAs>
+          <slug>various-artists</slug>
+        </artist>
+        <slug>lo-mas-prendido-del-tribal-y-mas-vol-1</slug>
+        <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/015/380/0001538086_50.jpg</image>
+        <popularity>0.49</popularity>
+        <streamingReleaseDate>2012-01-24T00:00:00+00:00</streamingReleaseDate>
+      </release>
+    </taggedItem>
+    <taggedItem>
+      <release id="1327250">
+        <title>Más fuerte que Hércules</title>
+        <version/>
+        <type>Album</type>
+        <barcode>097037692827</barcode>
+        <year>2011</year>
+        <explicitContent>false</explicitContent>
+        <artist id="193206">
+          <name>La Leyenda</name>
+          <appearsAs>La Leyenda</appearsAs>
+          <slug>la-leyenda</slug>
+        </artist>
+        <slug>mas-fuerte-que-hercules</slug>
+        <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/013/272/0001327250_50.jpg</image>
+        <popularity>0.45</popularity>
+        <streamingReleaseDate>2011-06-28T00:00:00+01:00</streamingReleaseDate>
+      </release>
+    </taggedItem>
+    <taggedItem>
+      <release id="1015959">
+        <title>Comando Del Diablo</title>
+        <version/>
+        <type>Album</type>
+        <barcode>5055400818880</barcode>
+        <year>2010</year>
+        <explicitContent>false</explicitContent>
+        <artist id="623515">
+          <name>Gerardo Ortiz</name>
+          <appearsAs>Gerardo Ortiz</appearsAs>
+          <slug>gerardo-ortiz</slug>
+        </artist>
+        <slug>comando-del-diablo</slug>
+        <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/010/159/0001015959_50.jpg</image>
+        <popularity>0.44</popularity>
+        <streamingReleaseDate>2010-08-15T00:00:00+01:00</streamingReleaseDate>
+      </release>
+    </taggedItem>
+    <taggedItem>
+      <release id="1502503">
+        <title>Cumbias Bailables</title>
+        <version/>
+        <type>Album</type>
+        <barcode>821691907122</barcode>
+        <year>2011</year>
+        <explicitContent>false</explicitContent>
+        <artist id="1167773">
+          <name>Cumbias Bailables</name>
+          <appearsAs>Cumbias Bailables</appearsAs>
+          <slug>cumbias-bailables</slug>
+        </artist>
+        <slug>cumbias-bailables</slug>
+        <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/015/025/0001502503_50.jpg</image>
+        <popularity>0.44</popularity>
+        <streamingReleaseDate>2011-11-14T00:00:00+00:00</streamingReleaseDate>
+      </release>
+    </taggedItem>
+    <taggedItem>
+      <release id="1635765">
+        <title>Caminar Contigo - Single</title>
+        <version/>
+        <type>Single</type>
+        <barcode>097037097011</barcode>
+        <year>2012</year>
+        <explicitContent>false</explicitContent>
+        <artist id="1249075">
+          <name>Lucero, Joan Sebastian</name>
+          <appearsAs>Lucero, Joan Sebastian</appearsAs>
+          <slug>lucero-joan-sebastian</slug>
+        </artist>
+        <slug>caminar-contigo-single</slug>
+        <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/016/357/0001635765_50.jpg</image>
+        <popularity>0.43</popularity>
+        <streamingReleaseDate>2012-03-06T00:00:00+00:00</streamingReleaseDate>
+      </release>
+    </taggedItem>
+    <taggedItem>
+      <release id="1327203">
+        <title>Dime La Razón</title>
+        <version/>
+        <type>Album</type>
+        <barcode>097037692728</barcode>
+        <year>2011</year>
+        <explicitContent>false</explicitContent>
+        <artist id="762458">
+          <name>Alex Rivera</name>
+          <appearsAs>Alex Rivera</appearsAs>
+          <slug>alex-rivera</slug>
+        </artist>
+        <slug>dime-la-razon</slug>
+        <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/013/272/0001327203_50.jpg</image>
+        <popularity>0.43</popularity>
+        <streamingReleaseDate>2011-06-28T00:00:00+01:00</streamingReleaseDate>
+      </release>
+    </taggedItem>
+    <taggedItem>
+      <release id="1682186">
+        <title>Ai Se Eu Te Pego - Single</title>
+        <version/>
+        <type>Single</type>
+        <barcode>097037097417</barcode>
+        <year>2012</year>
+        <explicitContent>false</explicitContent>
+        <artist id="1270990">
+          <name>El Pelón Del Mikrophone</name>
+          <appearsAs>El Pelón Del Mikrophone</appearsAs>
+          <slug>el-pelon-del-mikrophone-1</slug>
+        </artist>
+        <slug>ai-se-eu-te-pego-single</slug>
+        <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/016/821/0001682186_50.jpg</image>
+        <popularity>0.42</popularity>
+        <streamingReleaseDate>2012-03-20T00:00:00+00:00</streamingReleaseDate>
+      </release>
+    </taggedItem>
+    <taggedItem>
+      <release id="1371786">
+        <title>Ni Falta Que Hace</title>
+        <version/>
+        <type>Album</type>
+        <barcode>7570999990062</barcode>
+        <year>2011</year>
+        <explicitContent>false</explicitContent>
+        <artist id="1083367">
+          <name>Arley Perez</name>
+          <appearsAs>Arley Perez</appearsAs>
+          <slug>arley-perez</slug>
+        </artist>
+        <slug>ni-falta-que-hace</slug>
+        <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/013/717/0001371786_50.jpg</image>
+        <popularity>0.42</popularity>
+        <streamingReleaseDate>2011-08-05T00:00:00+01:00</streamingReleaseDate>
+      </release>
+    </taggedItem>
+    <taggedItem>
+      <release id="928453">
+        <title>Dime la Razon - Single</title>
+        <version/>
+        <type>Single</type>
+        <barcode>097037472320</barcode>
+        <year>2010</year>
+        <explicitContent>false</explicitContent>
+        <artist id="762458">
+          <name>Alex Rivera</name>
+          <appearsAs>Alex Rivera</appearsAs>
+          <slug>alex-rivera</slug>
+        </artist>
+        <slug>dime-la-razon-single</slug>
+        <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/009/284/0000928453_50.jpg</image>
+        <popularity>0.42</popularity>
+        <streamingReleaseDate>2010-07-20T00:00:00+01:00</streamingReleaseDate>
+      </release>
+    </taggedItem>
+    <taggedItem>
+      <release id="1314879">
+        <title>Al Final De Nuestro Amor - Single</title>
+        <version/>
+        <type>Single</type>
+        <barcode>097037060114</barcode>
+        <year>2011</year>
+        <explicitContent>false</explicitContent>
+        <artist id="762458">
+          <name>Alex Rivera</name>
+          <appearsAs>Alex Rivera</appearsAs>
+          <slug>alex-rivera</slug>
+        </artist>
+        <slug>al-final-de-nuestro-amor-single</slug>
+        <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/013/148/0001314879_50.jpg</image>
+        <popularity>0.42</popularity>
+        <streamingReleaseDate>2011-06-21T00:00:00+01:00</streamingReleaseDate>
+      </release>
+    </taggedItem>
+  </taggedResults>
 </response>

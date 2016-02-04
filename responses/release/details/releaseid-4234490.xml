@@ -1,1 +1,49 @@
-<?xml version="1.0" encoding="utf-8"?><response xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" status="ok" version="1.2" xsi:noNamespaceSchemaLocation="http://api.7digital.com/1.2/static/7digitalAPI.xsd"><release id="4234490"><title>Sometimes I Sit and Think, and Sometimes I Just Sit</title><version /><type>Album</type><barcode>5060186926773</barcode><year>2015</year><explicitContent>false</explicitContent><artist id="1267154"><name>Courtney Barnett</name><appearsAs>Courtney Barnett</appearsAs><url>http://www.7digital.com/artist/courtney-barnett/?partner=3923</url></artist><url>http://www.7digital.com/artist/courtney-barnett/release/sometimes-i-sit-and-think-and-sometimes-i-just-sit-1/?partner=3923</url><image>http://artwork-cdn.7static.com/static/img/sleeveart/00/042/344/0004234490_50.jpg</image><releaseDate>2015-03-23T00:00:00Z</releaseDate><addedDate>2015-03-07T18:27:48Z</addedDate><price><currency code="GBP">£</currency><value>4.99</value><formattedPrice>£4.99</formattedPrice><rrp>7.49</rrp><formattedRrp>£7.49</formattedRrp><onSale>true</onSale></price><formats availableDrmFree="true"><format id="17"><fileFormat>MP3</fileFormat><bitRate>320</bitRate><drmFree>true</drmFree></format><format id="33"><fileFormat>M4A</fileFormat><bitRate>320</bitRate><drmFree>true</drmFree></format></formats><label id="380866"><name>House Anxiety / Marathon Artists</name></label><licensor id="235"><name>AWAL</name></licensor><popularity>0</popularity><streamingReleaseDate>2015-03-23T00:00:00Z</streamingReleaseDate><duration>2609</duration><trackCount>11</trackCount><download><packages><package id="2"><description>standard</description><price><currencyCode>GBP</currencyCode><sevendigitalPrice>4.99</sevendigitalPrice><recommendedRetailPrice>7.49</recommendedRetailPrice></price><formats><format id="17"><description>MP3 320</description></format><format id="33"><description>AAC 320</description></format></formats></package></packages></download></release></response>
+<?xml version="1.0" encoding="utf-8"?>
+<response xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" status="ok" version="1.2" xsi:noNamespaceSchemaLocation="http://api.7digital.com/1.2/static/7digitalAPI.xsd">
+  <release id="4234490">
+    <title>Sometimes I Sit and Think, and Sometimes I Just Sit</title>
+    <version/>
+    <type>Album</type>
+    <barcode>5060186926773</barcode>
+    <year>2015</year>
+    <explicitContent>false</explicitContent>
+    <artist id="1267154">
+      <name>Courtney Barnett</name>
+      <appearsAs>Courtney Barnett</appearsAs>
+      <slug>courtney-barnett</slug>
+    </artist>
+    <slug>sometimes-i-sit-and-think-and-sometimes-i-just-sit-1</slug>
+    <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/042/344/0004234490_50.jpg</image>
+    <label id="380866">
+      <name>House Anxiety / Marathon Artists</name>
+    </label>
+    <licensor id="235">
+      <name>AWAL</name>
+    </licensor>
+    <popularity>0</popularity>
+    <streamingReleaseDate>2015-03-23T00:00:00Z</streamingReleaseDate>
+    <duration>2609</duration>
+    <trackCount>11</trackCount>
+    <download>
+      <packages>
+        <package id="2">
+          <description>standard</description>
+          <price>
+            <currencyCode>GBP</currencyCode>
+            <sevendigitalPrice>4.99</sevendigitalPrice>
+            <recommendedRetailPrice>7.49</recommendedRetailPrice>
+          </price>
+          <formats>
+            <format id="17">
+              <description>MP3 320</description>
+            </format>
+            <format id="33">
+              <description>AAC 320</description>
+            </format>
+          </formats>
+        </package>
+      </packages>
+      <releaseDate>2015-03-23T00:00:00Z</releaseDate>
+    </download>
+  </release>
+</response>

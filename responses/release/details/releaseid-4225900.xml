@@ -1,1 +1,59 @@
-<?xml version="1.0" encoding="utf-8"?><response xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" status="ok" version="1.2" xsi:noNamespaceSchemaLocation="http://api.7digital.com/1.2/static/7digitalAPI.xsd"><release id="4225900"><title>FROOT</title><version /><type>Album</type><barcode>825646176496</barcode><year>2015</year><explicitContent>false</explicitContent><artist id="304042"><name>Marina And The Diamonds</name><appearsAs>Marina And The Diamonds</appearsAs><url>http://www.7digital.com/artist/marina-and-the-diamonds/?partner=3923</url></artist><url>http://www.7digital.com/artist/marina-and-the-diamonds/release/froot-2/?partner=3923</url><image>http://artwork-cdn.7static.com/static/img/sleeveart/00/042/259/0004225900_50.jpg</image><releaseDate>2015-03-16T00:00:00Z</releaseDate><addedDate>2015-03-05T22:46:28Z</addedDate><price><currency code="GBP">£</currency><value>4.99</value><formattedPrice>£4.99</formattedPrice><rrp>7.99</rrp><formattedRrp>£7.99</formattedRrp><onSale>true</onSale></price><formats availableDrmFree="true"><format id="17"><fileFormat>MP3</fileFormat><bitRate>320</bitRate><drmFree>true</drmFree></format></formats><label id="1373"><name>Atlantic Records UK</name></label><licensor id="18"><name>Warner</name></licensor><popularity>0</popularity><streamingReleaseDate>2015-03-16T00:00:00Z</streamingReleaseDate><duration>3189</duration><trackCount>12</trackCount><download><packages><package id="9"><description>premium</description><price><currencyCode>GBP</currencyCode><sevendigitalPrice>7.99</sevendigitalPrice><recommendedRetailPrice>11.99</recommendedRetailPrice></price><formats><format id="45"><description>FLAC 16-bit 44.1kHz</description></format></formats></package><package id="2"><description>standard</description><price><currencyCode>GBP</currencyCode><sevendigitalPrice>4.99</sevendigitalPrice><recommendedRetailPrice>7.99</recommendedRetailPrice></price><formats><format id="17"><description>MP3 320</description></format></formats></package></packages></download></release></response>
+<?xml version="1.0" encoding="utf-8"?>
+<response xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" status="ok" version="1.2" xsi:noNamespaceSchemaLocation="http://api.7digital.com/1.2/static/7digitalAPI.xsd">
+  <release id="4225900">
+    <title>FROOT</title>
+    <version/>
+    <type>Album</type>
+    <barcode>825646176496</barcode>
+    <year>2015</year>
+    <explicitContent>false</explicitContent>
+    <artist id="304042">
+      <name>Marina And The Diamonds</name>
+      <appearsAs>Marina And The Diamonds</appearsAs>
+      <slug>marina-and-the-diamonds</slug>
+    </artist>
+    <slug>froot-2</slug>
+    <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/042/259/0004225900_50.jpg</image>
+    <label id="1373">
+      <name>Atlantic Records UK</name>
+    </label>
+    <licensor id="18">
+      <name>Warner</name>
+    </licensor>
+    <popularity>0</popularity>
+    <streamingReleaseDate>2015-03-16T00:00:00Z</streamingReleaseDate>
+    <duration>3189</duration>
+    <trackCount>12</trackCount>
+    <download>
+      <packages>
+        <package id="9">
+          <description>premium</description>
+          <price>
+            <currencyCode>GBP</currencyCode>
+            <sevendigitalPrice>7.99</sevendigitalPrice>
+            <recommendedRetailPrice>11.99</recommendedRetailPrice>
+          </price>
+          <formats>
+            <format id="45">
+              <description>FLAC 16-bit 44.1kHz</description>
+            </format>
+          </formats>
+        </package>
+        <package id="2">
+          <description>standard</description>
+          <price>
+            <currencyCode>GBP</currencyCode>
+            <sevendigitalPrice>4.99</sevendigitalPrice>
+            <recommendedRetailPrice>7.99</recommendedRetailPrice>
+          </price>
+          <formats>
+            <format id="17">
+              <description>MP3 320</description>
+            </format>
+          </formats>
+        </package>
+      </packages>
+      <releaseDate>2015-03-16T00:00:00Z</releaseDate>
+    </download>
+  </release>
+</response>

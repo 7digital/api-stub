@@ -1,1718 +1,1718 @@
 {
-    "xmlns:xsd": "http://www.w3.org/2001/XMLSchema",
-    "xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
-    "status": "ok",
-    "version": "1.2",
-    "xsi:noNamespaceSchemaLocation": "http://api.7digital.com/1.2/static/7digitalAPI.xsd",
-    "locker": {
-        "lockerReleases": {
-            "page": "1",
-            "pageSize": "36",
-            "totalItems": "54",
-            "lockerRelease": [
-                {
-                    "release": {
-                        "id": "320866",
-                        "title": "Perfect Symmetry",
-                        "version": "UK Album",
-                        "type": "Album",
-                        "barcode": "00602517856455",
-                        "artist": {
-                            "id": "1",
-                            "name": "Keane",
-                            "appearsAs": "Keane",
-                            "url": "http://www.7digital.com/artists/keane/?partner=712"
-                        },
-                        "url": "http://www.7digital.com/artists/keane/perfect-symmetry-1/?partner=712",
-                        "image": "http://artwork-cdn.7static.com/static/img/sleeveart/00/003/208/0000320866_50.jpg",
-                        "releaseDate": "2008-10-13T00:00:00+01:00"
-                    },
-                    "lockerTracks": {
-                        "lockerTrack": [
-                            {
-                                "track": {
-                                    "id": "3615513",
-                                    "title": "Spiralling",
-                                    "version": "",
-                                    "artist": {
-                                        "id": "1",
-                                        "name": "Keane",
-                                        "appearsAs": "Keane",
-                                        "url": "http://www.7digital.com/artists/keane/?partner=712"
-                                    },
-                                    "trackNumber": "1",
-                                    "duration": "258",
-                                    "url": "http://www.7digital.com/artists/keane/perfect-symmetry-1/01-Spiralling?partner=712&partner=712"
-                                },
-                                "remainingDownloads": "5",
-                                "purchaseDate": "2012-05-28T14:01:14+01:00",
-                                "downloadUrls": {
-                                    "downloadUrl": {
-                                        "url": "http://media3.7digital.com/media/user/downloadtrack?formatid=17&oauth_consumer_key=7digital.com&oauth_nonce=994269588&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1338210356&releaseid=320866&shopid=34&trackid=3615513&oauth_signature=q2nXVXkHhKWlLwq7Q7QJvKMTYv8%3D",
-                                        "format": {
-                                            "id": "17",
-                                            "fileFormat": "MP3",
-                                            "bitRate": "320",
-                                            "drmFree": "true"
-                                        }
-                                    }
-                                }
-                            },
-                            {
-                                "track": {
-                                    "id": "3615515",
-                                    "title": "The Lovers Are Losing",
-                                    "version": "",
-                                    "artist": {
-                                        "id": "1",
-                                        "name": "Keane",
-                                        "appearsAs": "Keane",
-                                        "url": "http://www.7digital.com/artists/keane/?partner=712"
-                                    },
-                                    "trackNumber": "2",
-                                    "duration": "303",
-                                    "url": "http://www.7digital.com/artists/keane/perfect-symmetry-1/02-The-Lovers-Are-Losing?partner=712&partner=712"
-                                },
-                                "remainingDownloads": "5",
-                                "purchaseDate": "2012-05-28T14:01:14+01:00",
-                                "downloadUrls": {
-                                    "downloadUrl": {
-                                        "url": "http://media3.7digital.com/media/user/downloadtrack?formatid=17&oauth_consumer_key=7digital.com&oauth_nonce=124933499&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1338210356&releaseid=320866&shopid=34&trackid=3615515&oauth_signature=%2B0bb76C%2FdKNdb9NEbkWHWwBeNfo%3D",
-                                        "format": {
-                                            "id": "17",
-                                            "fileFormat": "MP3",
-                                            "bitRate": "320",
-                                            "drmFree": "true"
-                                        }
-                                    }
-                                }
-                            },
-                            {
-                                "track": {
-                                    "id": "3615516",
-                                    "title": "Better Than This",
-                                    "version": "",
-                                    "artist": {
-                                        "id": "1",
-                                        "name": "Keane",
-                                        "appearsAs": "Keane",
-                                        "url": "http://www.7digital.com/artists/keane/?partner=712"
-                                    },
-                                    "trackNumber": "3",
-                                    "duration": "242",
-                                    "url": "http://www.7digital.com/artists/keane/perfect-symmetry-1/03-Better-Than-This?partner=712&partner=712"
-                                },
-                                "remainingDownloads": "5",
-                                "purchaseDate": "2012-05-28T14:01:14+01:00",
-                                "downloadUrls": {
-                                    "downloadUrl": {
-                                        "url": "http://media3.7digital.com/media/user/downloadtrack?formatid=17&oauth_consumer_key=7digital.com&oauth_nonce=58400880&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1338210356&releaseid=320866&shopid=34&trackid=3615516&oauth_signature=eov0UkR10d7A4%2FPWMcq9Q1K6GVY%3D",
-                                        "format": {
-                                            "id": "17",
-                                            "fileFormat": "MP3",
-                                            "bitRate": "320",
-                                            "drmFree": "true"
-                                        }
-                                    }
-                                }
-                            },
-                            {
-                                "track": {
-                                    "id": "3615518",
-                                    "title": "You Haven't Told Me Anything",
-                                    "version": "",
-                                    "artist": {
-                                        "id": "1",
-                                        "name": "Keane",
-                                        "appearsAs": "Keane",
-                                        "url": "http://www.7digital.com/artists/keane/?partner=712"
-                                    },
-                                    "trackNumber": "4",
-                                    "duration": "227",
-                                    "url": "http://www.7digital.com/artists/keane/perfect-symmetry-1/04-You-Havent-Told-Me-Anything?partner=712&partner=712"
-                                },
-                                "remainingDownloads": "5",
-                                "purchaseDate": "2012-05-28T14:01:14+01:00",
-                                "downloadUrls": {
-                                    "downloadUrl": {
-                                        "url": "http://media3.7digital.com/media/user/downloadtrack?formatid=17&oauth_consumer_key=7digital.com&oauth_nonce=1683834263&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1338210356&releaseid=320866&shopid=34&trackid=3615518&oauth_signature=4kNliSKL4n928JYAxcLt%2F9qhAMA%3D",
-                                        "format": {
-                                            "id": "17",
-                                            "fileFormat": "MP3",
-                                            "bitRate": "320",
-                                            "drmFree": "true"
-                                        }
-                                    }
-                                }
-                            },
-                            {
-                                "track": {
-                                    "id": "3615519",
-                                    "title": "Perfect Symmetry",
-                                    "version": "",
-                                    "artist": {
-                                        "id": "1",
-                                        "name": "Keane",
-                                        "appearsAs": "Keane",
-                                        "url": "http://www.7digital.com/artists/keane/?partner=712"
-                                    },
-                                    "trackNumber": "5",
-                                    "duration": "310",
-                                    "url": "http://www.7digital.com/artists/keane/perfect-symmetry-1/05-Perfect-Symmetry?partner=712&partner=712"
-                                },
-                                "remainingDownloads": "5",
-                                "purchaseDate": "2012-05-28T14:01:14+01:00",
-                                "downloadUrls": {
-                                    "downloadUrl": {
-                                        "url": "http://media3.7digital.com/media/user/downloadtrack?formatid=17&oauth_consumer_key=7digital.com&oauth_nonce=867995858&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1338210356&releaseid=320866&shopid=34&trackid=3615519&oauth_signature=%2FgKt9bwwMjiSGjXm6veEt5tbOkc%3D",
-                                        "format": {
-                                            "id": "17",
-                                            "fileFormat": "MP3",
-                                            "bitRate": "320",
-                                            "drmFree": "true"
-                                        }
-                                    }
-                                }
-                            },
-                            {
-                                "track": {
-                                    "id": "3615520",
-                                    "title": "You Don't See Me",
-                                    "version": "",
-                                    "artist": {
-                                        "id": "1",
-                                        "name": "Keane",
-                                        "appearsAs": "Keane",
-                                        "url": "http://www.7digital.com/artists/keane/?partner=712"
-                                    },
-                                    "trackNumber": "6",
-                                    "duration": "243",
-                                    "url": "http://www.7digital.com/artists/keane/perfect-symmetry-1/06-You-Dont-See-Me?partner=712&partner=712"
-                                },
-                                "remainingDownloads": "5",
-                                "purchaseDate": "2012-05-28T14:01:14+01:00",
-                                "downloadUrls": {
-                                    "downloadUrl": {
-                                        "url": "http://media3.7digital.com/media/user/downloadtrack?formatid=17&oauth_consumer_key=7digital.com&oauth_nonce=1105008255&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1338210356&releaseid=320866&shopid=34&trackid=3615520&oauth_signature=j7TpQbzPpDATwzwIZ84JBqnwgd0%3D",
-                                        "format": {
-                                            "id": "17",
-                                            "fileFormat": "MP3",
-                                            "bitRate": "320",
-                                            "drmFree": "true"
-                                        }
-                                    }
-                                }
-                            },
-                            {
-                                "track": {
-                                    "id": "3615522",
-                                    "title": "Again & Again",
-                                    "version": "",
-                                    "artist": {
-                                        "id": "1",
-                                        "name": "Keane",
-                                        "appearsAs": "Keane",
-                                        "url": "http://www.7digital.com/artists/keane/?partner=712"
-                                    },
-                                    "trackNumber": "7",
-                                    "duration": "230",
-                                    "url": "http://www.7digital.com/artists/keane/perfect-symmetry-1/07-Again-and-Again?partner=712&partner=712"
-                                },
-                                "remainingDownloads": "5",
-                                "purchaseDate": "2012-05-28T14:01:14+01:00",
-                                "downloadUrls": {
-                                    "downloadUrl": {
-                                        "url": "http://media3.7digital.com/media/user/downloadtrack?formatid=17&oauth_consumer_key=7digital.com&oauth_nonce=1250053515&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1338210356&releaseid=320866&shopid=34&trackid=3615522&oauth_signature=vovvW3g1ekzmlxnB%2Bpt1DZFweSE%3D",
-                                        "format": {
-                                            "id": "17",
-                                            "fileFormat": "MP3",
-                                            "bitRate": "320",
-                                            "drmFree": "true"
-                                        }
-                                    }
-                                }
-                            },
-                            {
-                                "track": {
-                                    "id": "3615523",
-                                    "title": "Playing Along",
-                                    "version": "",
-                                    "artist": {
-                                        "id": "1",
-                                        "name": "Keane",
-                                        "appearsAs": "Keane",
-                                        "url": "http://www.7digital.com/artists/keane/?partner=712"
-                                    },
-                                    "trackNumber": "8",
-                                    "duration": "333",
-                                    "url": "http://www.7digital.com/artists/keane/perfect-symmetry-1/08-Playing-Along?partner=712&partner=712"
-                                },
-                                "remainingDownloads": "5",
-                                "purchaseDate": "2012-05-28T14:01:14+01:00",
-                                "downloadUrls": {
-                                    "downloadUrl": {
-                                        "url": "http://media3.7digital.com/media/user/downloadtrack?formatid=17&oauth_consumer_key=7digital.com&oauth_nonce=712897357&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1338210356&releaseid=320866&shopid=34&trackid=3615523&oauth_signature=24XouraZxBiuUvip6qKz3otbleI%3D",
-                                        "format": {
-                                            "id": "17",
-                                            "fileFormat": "MP3",
-                                            "bitRate": "320",
-                                            "drmFree": "true"
-                                        }
-                                    }
-                                }
-                            },
-                            {
-                                "track": {
-                                    "id": "3615524",
-                                    "title": "Pretend That You're Alone",
-                                    "version": "",
-                                    "artist": {
-                                        "id": "1",
-                                        "name": "Keane",
-                                        "appearsAs": "Keane",
-                                        "url": "http://www.7digital.com/artists/keane/?partner=712"
-                                    },
-                                    "trackNumber": "9",
-                                    "duration": "227",
-                                    "url": "http://www.7digital.com/artists/keane/perfect-symmetry-1/09-Pretend-That-Youre-Alone?partner=712&partner=712"
-                                },
-                                "remainingDownloads": "5",
-                                "purchaseDate": "2012-05-28T14:01:14+01:00",
-                                "downloadUrls": {
-                                    "downloadUrl": {
-                                        "url": "http://media3.7digital.com/media/user/downloadtrack?formatid=17&oauth_consumer_key=7digital.com&oauth_nonce=795556436&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1338210356&releaseid=320866&shopid=34&trackid=3615524&oauth_signature=V%2BwrJABdEqD%2BK5Tiqs09rSuHNw8%3D",
-                                        "format": {
-                                            "id": "17",
-                                            "fileFormat": "MP3",
-                                            "bitRate": "320",
-                                            "drmFree": "true"
-                                        }
-                                    }
-                                }
-                            },
-                            {
-                                "track": {
-                                    "id": "3615526",
-                                    "title": "Black Burning Heart",
-                                    "version": "",
-                                    "artist": {
-                                        "id": "1",
-                                        "name": "Keane",
-                                        "appearsAs": "Keane",
-                                        "url": "http://www.7digital.com/artists/keane/?partner=712"
-                                    },
-                                    "trackNumber": "10",
-                                    "duration": "321",
-                                    "url": "http://www.7digital.com/artists/keane/perfect-symmetry-1/10-Black-Burning-Heart?partner=712&partner=712"
-                                },
-                                "remainingDownloads": "5",
-                                "purchaseDate": "2012-05-28T14:01:14+01:00",
-                                "downloadUrls": {
-                                    "downloadUrl": {
-                                        "url": "http://media3.7digital.com/media/user/downloadtrack?formatid=17&oauth_consumer_key=7digital.com&oauth_nonce=1000838283&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1338210356&releaseid=320866&shopid=34&trackid=3615526&oauth_signature=WHNsIdqvrsdH9HbKqmVvxPVJPn8%3D",
-                                        "format": {
-                                            "id": "17",
-                                            "fileFormat": "MP3",
-                                            "bitRate": "320",
-                                            "drmFree": "true"
-                                        }
-                                    }
-                                }
-                            },
-                            {
-                                "track": {
-                                    "id": "3615527",
-                                    "title": "Love Is The End",
-                                    "version": "",
-                                    "artist": {
-                                        "id": "1",
-                                        "name": "Keane",
-                                        "appearsAs": "Keane",
-                                        "url": "http://www.7digital.com/artists/keane/?partner=712"
-                                    },
-                                    "trackNumber": "11",
-                                    "duration": "337",
-                                    "url": "http://www.7digital.com/artists/keane/perfect-symmetry-1/11-Love-Is-The-End?partner=712&partner=712"
-                                },
-                                "remainingDownloads": "5",
-                                "purchaseDate": "2012-05-28T14:01:14+01:00",
-                                "downloadUrls": {
-                                    "downloadUrl": {
-                                        "url": "http://media3.7digital.com/media/user/downloadtrack?formatid=17&oauth_consumer_key=7digital.com&oauth_nonce=239673126&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1338210356&releaseid=320866&shopid=34&trackid=3615527&oauth_signature=yhBd9vpx5X4eu5aa%2FfZCJ%2BJjem0%3D",
-                                        "format": {
-                                            "id": "17",
-                                            "fileFormat": "MP3",
-                                            "bitRate": "320",
-                                            "drmFree": "true"
-                                        }
-                                    }
-                                }
-                            }
-                        ]
+  "xmlns:xsd": "http://www.w3.org/2001/XMLSchema",
+  "xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+  "status": "ok",
+  "version": "1.2",
+  "xsi:noNamespaceSchemaLocation": "http://api.7digital.com/1.2/static/7digitalAPI.xsd",
+  "locker": {
+    "lockerReleases": {
+      "page": "1",
+      "pageSize": "36",
+      "totalItems": "54",
+      "lockerRelease": [
+        {
+          "release": {
+            "id": "320866",
+            "title": "Perfect Symmetry",
+            "version": "UK Album",
+            "type": "Album",
+            "barcode": "00602517856455",
+            "artist": {
+              "id": "1",
+              "name": "Keane",
+              "appearsAs": "Keane",
+              "slug": "keane"
+            },
+            "slug": "keane",
+            "image": "http://artwork-cdn.7static.com/static/img/sleeveart/00/003/208/0000320866_50.jpg",
+            "releaseDate": "2008-10-13T00:00:00+01:00"
+          },
+          "lockerTracks": {
+            "lockerTrack": [
+              {
+                "track": {
+                  "id": "3615513",
+                  "title": "Spiralling",
+                  "version": "",
+                  "artist": {
+                    "id": "1",
+                    "name": "Keane",
+                    "appearsAs": "Keane",
+                    "slug": "keane"
+                  },
+                  "trackNumber": "1",
+                  "duration": "258",
+                  "slug": "perfect-symmetry"
+                },
+                "remainingDownloads": "5",
+                "purchaseDate": "2012-05-28T14:01:14+01:00",
+                "downloadUrls": {
+                  "downloadUrl": {
+                    "url": "http://media3.7digital.com/media/user/downloadtrack?formatid=17&oauth_consumer_key=7digital.com&oauth_nonce=994269588&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1338210356&releaseid=320866&shopid=34&trackid=3615513&oauth_signature=q2nXVXkHhKWlLwq7Q7QJvKMTYv8%3D",
+                    "format": {
+                      "id": "17",
+                      "fileFormat": "MP3",
+                      "bitRate": "320",
+                      "drmFree": "true"
                     }
-                },
-                {
-                    "release": {
-                        "id": "320866",
-                        "title": "Perfect Symmetry",
-                        "version": "UK Album",
-                        "type": "Album",
-                        "barcode": "00602517856455",
-                        "artist": {
-                            "id": "1",
-                            "name": "Keane",
-                            "appearsAs": "Keane",
-                            "url": "http://www.7digital.com/artists/keane/?partner=712"
-                        },
-                        "url": "http://www.7digital.com/artists/keane/perfect-symmetry-1/?partner=712",
-                        "image": "http://artwork-cdn.7static.com/static/img/sleeveart/00/003/208/0000320866_50.jpg",
-                        "releaseDate": "2100-10-13T00:00:00+01:00"
-                    },
-                    "lockerTracks": {
-                        "lockerTrack": [
-                            {
-                                "track": {
-                                    "id": "3615513",
-                                    "title": "Spiralling",
-                                    "version": "",
-                                    "artist": {
-                                        "id": "1",
-                                        "name": "Keane",
-                                        "appearsAs": "Keane",
-                                        "url": "http://www.7digital.com/artists/keane/?partner=712"
-                                    },
-                                    "trackNumber": "1",
-                                    "duration": "258",
-                                    "url": "http://www.7digital.com/artists/keane/perfect-symmetry-1/01-Spiralling?partner=712&partner=712"
-                                },
-                                "remainingDownloads": "5",
-                                "purchaseDate": "2012-05-28T14:01:14+01:00",
-                                "downloadUrls": {
-                                    "downloadUrl": {
-                                        "url": "http://media3.7digital.com/media/user/downloadtrack?formatid=17&oauth_consumer_key=7digital.com&oauth_nonce=994269588&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1338210356&releaseid=320866&shopid=34&trackid=3615513&oauth_signature=q2nXVXkHhKWlLwq7Q7QJvKMTYv8%3D",
-                                        "format": {
-                                            "id": "17",
-                                            "fileFormat": "MP3",
-                                            "bitRate": "320",
-                                            "drmFree": "true"
-                                        }
-                                    }
-                                }
-                            },
-                            {
-                                "track": {
-                                    "id": "3615515",
-                                    "title": "The Lovers Are Losing",
-                                    "version": "",
-                                    "artist": {
-                                        "id": "1",
-                                        "name": "Keane",
-                                        "appearsAs": "Keane",
-                                        "url": "http://www.7digital.com/artists/keane/?partner=712"
-                                    },
-                                    "trackNumber": "2",
-                                    "duration": "303",
-                                    "url": "http://www.7digital.com/artists/keane/perfect-symmetry-1/02-The-Lovers-Are-Losing?partner=712&partner=712"
-                                },
-                                "remainingDownloads": "5",
-                                "purchaseDate": "2012-05-28T14:01:14+01:00",
-                                "downloadUrls": {
-                                    "downloadUrl": {
-                                        "url": "http://media3.7digital.com/media/user/downloadtrack?formatid=17&oauth_consumer_key=7digital.com&oauth_nonce=124933499&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1338210356&releaseid=320866&shopid=34&trackid=3615515&oauth_signature=%2B0bb76C%2FdKNdb9NEbkWHWwBeNfo%3D",
-                                        "format": {
-                                            "id": "17",
-                                            "fileFormat": "MP3",
-                                            "bitRate": "320",
-                                            "drmFree": "true"
-                                        }
-                                    }
-                                }
-                            },
-                            {
-                                "track": {
-                                    "id": "3615516",
-                                    "title": "Better Than This",
-                                    "version": "",
-                                    "artist": {
-                                        "id": "1",
-                                        "name": "Keane",
-                                        "appearsAs": "Keane",
-                                        "url": "http://www.7digital.com/artists/keane/?partner=712"
-                                    },
-                                    "trackNumber": "3",
-                                    "duration": "242",
-                                    "url": "http://www.7digital.com/artists/keane/perfect-symmetry-1/03-Better-Than-This?partner=712&partner=712"
-                                },
-                                "remainingDownloads": "5",
-                                "purchaseDate": "2012-05-28T14:01:14+01:00",
-                                "downloadUrls": {
-                                    "downloadUrl": {
-                                        "url": "http://media3.7digital.com/media/user/downloadtrack?formatid=17&oauth_consumer_key=7digital.com&oauth_nonce=58400880&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1338210356&releaseid=320866&shopid=34&trackid=3615516&oauth_signature=eov0UkR10d7A4%2FPWMcq9Q1K6GVY%3D",
-                                        "format": {
-                                            "id": "17",
-                                            "fileFormat": "MP3",
-                                            "bitRate": "320",
-                                            "drmFree": "true"
-                                        }
-                                    }
-                                }
-                            },
-                            {
-                                "track": {
-                                    "id": "3615518",
-                                    "title": "You Haven't Told Me Anything",
-                                    "version": "",
-                                    "artist": {
-                                        "id": "1",
-                                        "name": "Keane",
-                                        "appearsAs": "Keane",
-                                        "url": "http://www.7digital.com/artists/keane/?partner=712"
-                                    },
-                                    "trackNumber": "4",
-                                    "duration": "227",
-                                    "url": "http://www.7digital.com/artists/keane/perfect-symmetry-1/04-You-Havent-Told-Me-Anything?partner=712&partner=712"
-                                },
-                                "remainingDownloads": "5",
-                                "purchaseDate": "2012-05-28T14:01:14+01:00",
-                                "downloadUrls": {
-                                    "downloadUrl": {
-                                        "url": "http://media3.7digital.com/media/user/downloadtrack?formatid=17&oauth_consumer_key=7digital.com&oauth_nonce=1683834263&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1338210356&releaseid=320866&shopid=34&trackid=3615518&oauth_signature=4kNliSKL4n928JYAxcLt%2F9qhAMA%3D",
-                                        "format": {
-                                            "id": "17",
-                                            "fileFormat": "MP3",
-                                            "bitRate": "320",
-                                            "drmFree": "true"
-                                        }
-                                    }
-                                }
-                            },
-                            {
-                                "track": {
-                                    "id": "3615519",
-                                    "title": "Perfect Symmetry",
-                                    "version": "",
-                                    "artist": {
-                                        "id": "1",
-                                        "name": "Keane",
-                                        "appearsAs": "Keane",
-                                        "url": "http://www.7digital.com/artists/keane/?partner=712"
-                                    },
-                                    "trackNumber": "5",
-                                    "duration": "310",
-                                    "url": "http://www.7digital.com/artists/keane/perfect-symmetry-1/05-Perfect-Symmetry?partner=712&partner=712"
-                                },
-                                "remainingDownloads": "5",
-                                "purchaseDate": "2012-05-28T14:01:14+01:00",
-                                "downloadUrls": {
-                                    "downloadUrl": {
-                                        "url": "http://media3.7digital.com/media/user/downloadtrack?formatid=17&oauth_consumer_key=7digital.com&oauth_nonce=867995858&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1338210356&releaseid=320866&shopid=34&trackid=3615519&oauth_signature=%2FgKt9bwwMjiSGjXm6veEt5tbOkc%3D",
-                                        "format": {
-                                            "id": "17",
-                                            "fileFormat": "MP3",
-                                            "bitRate": "320",
-                                            "drmFree": "true"
-                                        }
-                                    }
-                                }
-                            },
-                            {
-                                "track": {
-                                    "id": "3615520",
-                                    "title": "You Don't See Me",
-                                    "version": "",
-                                    "artist": {
-                                        "id": "1",
-                                        "name": "Keane",
-                                        "appearsAs": "Keane",
-                                        "url": "http://www.7digital.com/artists/keane/?partner=712"
-                                    },
-                                    "trackNumber": "6",
-                                    "duration": "243",
-                                    "url": "http://www.7digital.com/artists/keane/perfect-symmetry-1/06-You-Dont-See-Me?partner=712&partner=712"
-                                },
-                                "remainingDownloads": "5",
-                                "purchaseDate": "2012-05-28T14:01:14+01:00",
-                                "downloadUrls": {
-                                    "downloadUrl": {
-                                        "url": "http://media3.7digital.com/media/user/downloadtrack?formatid=17&oauth_consumer_key=7digital.com&oauth_nonce=1105008255&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1338210356&releaseid=320866&shopid=34&trackid=3615520&oauth_signature=j7TpQbzPpDATwzwIZ84JBqnwgd0%3D",
-                                        "format": {
-                                            "id": "17",
-                                            "fileFormat": "MP3",
-                                            "bitRate": "320",
-                                            "drmFree": "true"
-                                        }
-                                    }
-                                }
-                            },
-                            {
-                                "track": {
-                                    "id": "3615522",
-                                    "title": "Again & Again",
-                                    "version": "",
-                                    "artist": {
-                                        "id": "1",
-                                        "name": "Keane",
-                                        "appearsAs": "Keane",
-                                        "url": "http://www.7digital.com/artists/keane/?partner=712"
-                                    },
-                                    "trackNumber": "7",
-                                    "duration": "230",
-                                    "url": "http://www.7digital.com/artists/keane/perfect-symmetry-1/07-Again-and-Again?partner=712&partner=712"
-                                },
-                                "remainingDownloads": "5",
-                                "purchaseDate": "2012-05-28T14:01:14+01:00",
-                                "downloadUrls": {
-                                    "downloadUrl": {
-                                        "url": "http://media3.7digital.com/media/user/downloadtrack?formatid=17&oauth_consumer_key=7digital.com&oauth_nonce=1250053515&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1338210356&releaseid=320866&shopid=34&trackid=3615522&oauth_signature=vovvW3g1ekzmlxnB%2Bpt1DZFweSE%3D",
-                                        "format": {
-                                            "id": "17",
-                                            "fileFormat": "MP3",
-                                            "bitRate": "320",
-                                            "drmFree": "true"
-                                        }
-                                    }
-                                }
-                            },
-                            {
-                                "track": {
-                                    "id": "3615523",
-                                    "title": "Playing Along",
-                                    "version": "",
-                                    "artist": {
-                                        "id": "1",
-                                        "name": "Keane",
-                                        "appearsAs": "Keane",
-                                        "url": "http://www.7digital.com/artists/keane/?partner=712"
-                                    },
-                                    "trackNumber": "8",
-                                    "duration": "333",
-                                    "url": "http://www.7digital.com/artists/keane/perfect-symmetry-1/08-Playing-Along?partner=712&partner=712"
-                                },
-                                "remainingDownloads": "5",
-                                "purchaseDate": "2012-05-28T14:01:14+01:00",
-                                "downloadUrls": {
-                                    "downloadUrl": {
-                                        "url": "http://media3.7digital.com/media/user/downloadtrack?formatid=17&oauth_consumer_key=7digital.com&oauth_nonce=712897357&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1338210356&releaseid=320866&shopid=34&trackid=3615523&oauth_signature=24XouraZxBiuUvip6qKz3otbleI%3D",
-                                        "format": {
-                                            "id": "17",
-                                            "fileFormat": "MP3",
-                                            "bitRate": "320",
-                                            "drmFree": "true"
-                                        }
-                                    }
-                                }
-                            },
-                            {
-                                "track": {
-                                    "id": "3615524",
-                                    "title": "Pretend That You're Alone",
-                                    "version": "",
-                                    "artist": {
-                                        "id": "1",
-                                        "name": "Keane",
-                                        "appearsAs": "Keane",
-                                        "url": "http://www.7digital.com/artists/keane/?partner=712"
-                                    },
-                                    "trackNumber": "9",
-                                    "duration": "227",
-                                    "url": "http://www.7digital.com/artists/keane/perfect-symmetry-1/09-Pretend-That-Youre-Alone?partner=712&partner=712"
-                                },
-                                "remainingDownloads": "5",
-                                "purchaseDate": "2012-05-28T14:01:14+01:00",
-                                "downloadUrls": {
-                                    "downloadUrl": {
-                                        "url": "http://media3.7digital.com/media/user/downloadtrack?formatid=17&oauth_consumer_key=7digital.com&oauth_nonce=795556436&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1338210356&releaseid=320866&shopid=34&trackid=3615524&oauth_signature=V%2BwrJABdEqD%2BK5Tiqs09rSuHNw8%3D",
-                                        "format": {
-                                            "id": "17",
-                                            "fileFormat": "MP3",
-                                            "bitRate": "320",
-                                            "drmFree": "true"
-                                        }
-                                    }
-                                }
-                            },
-                            {
-                                "track": {
-                                    "id": "3615526",
-                                    "title": "Black Burning Heart",
-                                    "version": "",
-                                    "artist": {
-                                        "id": "1",
-                                        "name": "Keane",
-                                        "appearsAs": "Keane",
-                                        "url": "http://www.7digital.com/artists/keane/?partner=712"
-                                    },
-                                    "trackNumber": "10",
-                                    "duration": "321",
-                                    "url": "http://www.7digital.com/artists/keane/perfect-symmetry-1/10-Black-Burning-Heart?partner=712&partner=712"
-                                },
-                                "remainingDownloads": "5",
-                                "purchaseDate": "2012-05-28T14:01:14+01:00",
-                                "downloadUrls": {
-                                    "downloadUrl": {
-                                        "url": "http://media3.7digital.com/media/user/downloadtrack?formatid=17&oauth_consumer_key=7digital.com&oauth_nonce=1000838283&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1338210356&releaseid=320866&shopid=34&trackid=3615526&oauth_signature=WHNsIdqvrsdH9HbKqmVvxPVJPn8%3D",
-                                        "format": {
-                                            "id": "17",
-                                            "fileFormat": "MP3",
-                                            "bitRate": "320",
-                                            "drmFree": "true"
-                                        }
-                                    }
-                                }
-                            },
-                            {
-                                "track": {
-                                    "id": "3615527",
-                                    "title": "Love Is The End",
-                                    "version": "",
-                                    "artist": {
-                                        "id": "1",
-                                        "name": "Keane",
-                                        "appearsAs": "Keane",
-                                        "url": "http://www.7digital.com/artists/keane/?partner=712"
-                                    },
-                                    "trackNumber": "11",
-                                    "duration": "337",
-                                    "url": "http://www.7digital.com/artists/keane/perfect-symmetry-1/11-Love-Is-The-End?partner=712&partner=712"
-                                },
-                                "remainingDownloads": "5",
-                                "purchaseDate": "2012-05-28T14:01:14+01:00",
-                                "downloadUrls": {
-                                    "downloadUrl": {
-                                        "url": "http://media3.7digital.com/media/user/downloadtrack?formatid=17&oauth_consumer_key=7digital.com&oauth_nonce=239673126&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1338210356&releaseid=320866&shopid=34&trackid=3615527&oauth_signature=yhBd9vpx5X4eu5aa%2FfZCJ%2BJjem0%3D",
-                                        "format": {
-                                            "id": "17",
-                                            "fileFormat": "MP3",
-                                            "bitRate": "320",
-                                            "drmFree": "true"
-                                        }
-                                    }
-                                }
-                            }
-                        ]
-                    }
-                },
-                {
-                    "release": {
-                        "id": "3395525",
-                        "title": "Infinity",
-                        "version": "",
-                        "type": "Album",
-                        "barcode": "5051083079433",
-                        "artist": {
-                            "id": "14697",
-                            "name": "Yann Tiersen",
-                            "appearsAs": "Yann Tiersen",
-                            "url": "http://www.7digital.com/artist/yann-tiersen/?partner=5932"
-                        },
-                        "url": "http://www.7digital.com/artist/yann-tiersen/release/infinity/?partner=5932",
-                        "image": "http://artwork-cdn.7static.com/static/img/sleeveart/00/033/955/0003395525_50.jpg",
-                        "releaseDate": "2014-05-19T00:00:00Z",
-                        "licensor": {
-                            "id": "48"
-                        }
-                    },
-                    "lockerTracks": {
-                        "lockerTrack": [
-                            {
-                                "track": {
-                                    "id": "35796180",
-                                    "title": "Infinity",
-                                    "version": "",
-                                    "artist": {
-                                        "id": "14697",
-                                        "name": "Yann Tiersen",
-                                        "appearsAs": "Yann Tiersen",
-                                        "url": "http://www.7digital.com/artist/yann-tiersen/?partner=5932"
-                                    },
-                                    "trackNumber": "1",
-                                    "duration": "178",
-                                    "isrc": "FRPAH1400100",
-                                    "url": "http://www.7digital.com/artist/yann-tiersen/release/infinity/?partner=5932&h=01"
-                                },
-                                "remainingDownloads": "5",
-                                "purchaseId": "813028726",
-                                "purchaseDate": "2014-05-13T17:35:34Z",
-                                "completeAlbumPurchase": "true",
-                                "downloadUrls": {
-                                    "downloadUrl": [
-                                        {
-                                            "url": "http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&oauth_nonce=kny11ww5eccwkzas&oauth_signature=FEC5NRPN4Xi9xi%2F2A%2FclFao%2FTMw%3D&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1409566196&oauth_version=1.0a&formatid=17&partnerid=712&onbehalfofpartnerid=712&presigned=1&releaseid=3395525&shopid=34&trackid=35796180&userid=121404036",
-                                            "format": {
-                                                "id": "17",
-                                                "fileFormat": "MP3",
-                                                "bitRate": "320",
-                                                "drmFree": "true"
-                                            }
-                                        },
-                                        {
-                                            "url": "http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&oauth_nonce=jq0n7z5hgz3khiey&oauth_signature=7CyoA1gontDzctKchCDbc1ynqGw%3D&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1409566196&oauth_version=1.0a&formatid=33&partnerid=712&onbehalfofpartnerid=712&presigned=1&releaseid=3395525&shopid=34&trackid=35796180&userid=121404036",
-                                            "format": {
-                                                "id": "33",
-                                                "fileFormat": "M4A",
-                                                "bitRate": "320",
-                                                "drmFree": "true"
-                                            }
-                                        }
-                                    ]
-                                }
-                            },
-                            {
-                                "track": {
-                                    "id": "35796183",
-                                    "title": "Slippery Stones",
-                                    "version": "",
-                                    "artist": {
-                                        "id": "14697",
-                                        "name": "Yann Tiersen",
-                                        "appearsAs": "Yann Tiersen",
-                                        "url": "http://www.7digital.com/artist/yann-tiersen/?partner=5932"
-                                    },
-                                    "trackNumber": "2",
-                                    "duration": "258",
-                                    "isrc": "FRPAH1400010",
-                                    "url": "http://www.7digital.com/artist/yann-tiersen/release/infinity/?partner=5932&h=02"
-                                },
-                                "remainingDownloads": "5",
-                                "purchaseId": "813028726",
-                                "purchaseDate": "2014-05-13T17:35:34Z",
-                                "completeAlbumPurchase": "true",
-                                "downloadUrls": {
-                                    "downloadUrl": [
-                                        {
-                                            "url": "http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&oauth_nonce=skzf4biziu6k6gm5&oauth_signature=pAJIxKVlJZklIycz4Qy7lBYlUDc%3D&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1409566196&oauth_version=1.0a&formatid=17&partnerid=712&onbehalfofpartnerid=712&presigned=1&releaseid=3395525&shopid=34&trackid=35796183&userid=121404036",
-                                            "format": {
-                                                "id": "17",
-                                                "fileFormat": "MP3",
-                                                "bitRate": "320",
-                                                "drmFree": "true"
-                                            }
-                                        },
-                                        {
-                                            "url": "http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&oauth_nonce=2rqa2uevsrta5lx7&oauth_signature=7pZsL2H4JID4MRgGKa5nMzXR5P0%3D&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1409566196&oauth_version=1.0a&formatid=33&partnerid=712&onbehalfofpartnerid=712&presigned=1&releaseid=3395525&shopid=34&trackid=35796183&userid=121404036",
-                                            "format": {
-                                                "id": "33",
-                                                "fileFormat": "M4A",
-                                                "bitRate": "320",
-                                                "drmFree": "true"
-                                            }
-                                        }
-                                    ]
-                                }
-                            },
-                            {
-                                "track": {
-                                    "id": "35796185",
-                                    "title": "A Midsummer Evening",
-                                    "version": "",
-                                    "artist": {
-                                        "id": "14697",
-                                        "name": "Yann Tiersen",
-                                        "appearsAs": "Yann Tiersen",
-                                        "url": "http://www.7digital.com/artist/yann-tiersen/?partner=5932"
-                                    },
-                                    "trackNumber": "3",
-                                    "duration": "253",
-                                    "isrc": "FRPAH1400020",
-                                    "url": "http://www.7digital.com/artist/yann-tiersen/release/infinity/?partner=5932&h=03"
-                                },
-                                "remainingDownloads": "5",
-                                "purchaseId": "813028726",
-                                "purchaseDate": "2014-05-13T17:35:34Z",
-                                "completeAlbumPurchase": "true",
-                                "downloadUrls": {
-                                    "downloadUrl": [
-                                        {
-                                            "url": "http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&oauth_nonce=8nd006yihkem4ul0&oauth_signature=VsHulbNs%2FmYPjb5CVGRtsgmZrSU%3D&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1409566196&oauth_version=1.0a&formatid=17&partnerid=712&onbehalfofpartnerid=712&presigned=1&releaseid=3395525&shopid=34&trackid=35796185&userid=121404036",
-                                            "format": {
-                                                "id": "17",
-                                                "fileFormat": "MP3",
-                                                "bitRate": "320",
-                                                "drmFree": "true"
-                                            }
-                                        },
-                                        {
-                                            "url": "http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&oauth_nonce=m8s12e79fdwlrh68&oauth_signature=j%2FOb23FL%2FyWKjWkpfmGv1KrCxDI%3D&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1409566196&oauth_version=1.0a&formatid=33&partnerid=712&onbehalfofpartnerid=712&presigned=1&releaseid=3395525&shopid=34&trackid=35796185&userid=121404036",
-                                            "format": {
-                                                "id": "33",
-                                                "fileFormat": "M4A",
-                                                "bitRate": "320",
-                                                "drmFree": "true"
-                                            }
-                                        }
-                                    ]
-                                }
-                            },
-                            {
-                                "track": {
-                                    "id": "35796186",
-                                    "title": "Ar Maen Bihan",
-                                    "version": "",
-                                    "artist": {
-                                        "id": "14697",
-                                        "name": "Yann Tiersen",
-                                        "appearsAs": "Yann Tiersen",
-                                        "url": "http://www.7digital.com/artist/yann-tiersen/?partner=5932"
-                                    },
-                                    "trackNumber": "4",
-                                    "duration": "413",
-                                    "isrc": "FRPAH1400030",
-                                    "url": "http://www.7digital.com/artist/yann-tiersen/release/infinity/?partner=5932&h=04"
-                                },
-                                "remainingDownloads": "5",
-                                "purchaseId": "813028726",
-                                "purchaseDate": "2014-05-13T17:35:34Z",
-                                "completeAlbumPurchase": "true",
-                                "downloadUrls": {
-                                    "downloadUrl": [
-                                        {
-                                            "url": "http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&oauth_nonce=80nrcm574h3rp239&oauth_signature=cmGHwCqN7LmAp%2Fgs3kKP17ByH1k%3D&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1409566196&oauth_version=1.0a&formatid=17&partnerid=712&onbehalfofpartnerid=712&presigned=1&releaseid=3395525&shopid=34&trackid=35796186&userid=121404036",
-                                            "format": {
-                                                "id": "17",
-                                                "fileFormat": "MP3",
-                                                "bitRate": "320",
-                                                "drmFree": "true"
-                                            }
-                                        },
-                                        {
-                                            "url": "http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&oauth_nonce=guy738e4rf57im2a&oauth_signature=LvRgaoaS4gFfqqMn1rHlK%2BI757E%3D&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1409566196&oauth_version=1.0a&formatid=33&partnerid=712&onbehalfofpartnerid=712&presigned=1&releaseid=3395525&shopid=34&trackid=35796186&userid=121404036",
-                                            "format": {
-                                                "id": "33",
-                                                "fileFormat": "M4A",
-                                                "bitRate": "320",
-                                                "drmFree": "true"
-                                            }
-                                        }
-                                    ]
-                                }
-                            },
-                            {
-                                "track": {
-                                    "id": "35796188",
-                                    "title": "Lights",
-                                    "version": "",
-                                    "artist": {
-                                        "id": "14697",
-                                        "name": "Yann Tiersen",
-                                        "appearsAs": "Yann Tiersen",
-                                        "url": "http://www.7digital.com/artist/yann-tiersen/?partner=5932"
-                                    },
-                                    "trackNumber": "5",
-                                    "duration": "221",
-                                    "isrc": "FRPAH1400040",
-                                    "url": "http://www.7digital.com/artist/yann-tiersen/release/infinity/?partner=5932&h=05"
-                                },
-                                "remainingDownloads": "5",
-                                "purchaseId": "813028726",
-                                "purchaseDate": "2014-05-13T17:35:34Z",
-                                "completeAlbumPurchase": "true",
-                                "downloadUrls": {
-                                    "downloadUrl": [
-                                        {
-                                            "url": "http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&oauth_nonce=ohp5h580dw7tlotn&oauth_signature=Sg585DxxXUbaBHkCIlNJC51zzBQ%3D&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1409566196&oauth_version=1.0a&formatid=17&partnerid=712&onbehalfofpartnerid=712&presigned=1&releaseid=3395525&shopid=34&trackid=35796188&userid=121404036",
-                                            "format": {
-                                                "id": "17",
-                                                "fileFormat": "MP3",
-                                                "bitRate": "320",
-                                                "drmFree": "true"
-                                            }
-                                        },
-                                        {
-                                            "url": "http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&oauth_nonce=lyf8t9ea5t08s9yq&oauth_signature=IbH3I8kS23r6Yxr%2B1cQ2Mu2nyZg%3D&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1409566196&oauth_version=1.0a&formatid=33&partnerid=712&onbehalfofpartnerid=712&presigned=1&releaseid=3395525&shopid=34&trackid=35796188&userid=121404036",
-                                            "format": {
-                                                "id": "33",
-                                                "fileFormat": "M4A",
-                                                "bitRate": "320",
-                                                "drmFree": "true"
-                                            }
-                                        }
-                                    ]
-                                }
-                            },
-                            {
-                                "track": {
-                                    "id": "35796189",
-                                    "title": "Grønjørd",
-                                    "version": "",
-                                    "artist": {
-                                        "id": "14697",
-                                        "name": "Yann Tiersen",
-                                        "appearsAs": "Yann Tiersen",
-                                        "url": "http://www.7digital.com/artist/yann-tiersen/?partner=5932"
-                                    },
-                                    "trackNumber": "6",
-                                    "duration": "324",
-                                    "isrc": "FRPAH1400050",
-                                    "url": "http://www.7digital.com/artist/yann-tiersen/release/infinity/?partner=5932&h=06"
-                                },
-                                "remainingDownloads": "5",
-                                "purchaseId": "813028726",
-                                "purchaseDate": "2014-05-13T17:35:34Z",
-                                "completeAlbumPurchase": "true",
-                                "downloadUrls": {
-                                    "downloadUrl": [
-                                        {
-                                            "url": "http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&oauth_nonce=q3chm92lxy4gavrd&oauth_signature=OHRW6YvHaaDw7gSIL5gidx%2BDVhA%3D&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1409566196&oauth_version=1.0a&formatid=17&partnerid=712&onbehalfofpartnerid=712&presigned=1&releaseid=3395525&shopid=34&trackid=35796189&userid=121404036",
-                                            "format": {
-                                                "id": "17",
-                                                "fileFormat": "MP3",
-                                                "bitRate": "320",
-                                                "drmFree": "true"
-                                            }
-                                        },
-                                        {
-                                            "url": "http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&oauth_nonce=wquth5qqdp0x50re&oauth_signature=Pzy%2F7y8mqm8wFnE9l6mMmzMDUFM%3D&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1409566196&oauth_version=1.0a&formatid=33&partnerid=712&onbehalfofpartnerid=712&presigned=1&releaseid=3395525&shopid=34&trackid=35796189&userid=121404036",
-                                            "format": {
-                                                "id": "33",
-                                                "fileFormat": "M4A",
-                                                "bitRate": "320",
-                                                "drmFree": "true"
-                                            }
-                                        }
-                                    ]
-                                }
-                            },
-                            {
-                                "track": {
-                                    "id": "35796190",
-                                    "title": "Steinn",
-                                    "version": "",
-                                    "artist": {
-                                        "id": "14697",
-                                        "name": "Yann Tiersen",
-                                        "appearsAs": "Yann Tiersen",
-                                        "url": "http://www.7digital.com/artist/yann-tiersen/?partner=5932"
-                                    },
-                                    "trackNumber": "7",
-                                    "duration": "254",
-                                    "isrc": "FRPAH1400060",
-                                    "url": "http://www.7digital.com/artist/yann-tiersen/release/infinity/?partner=5932&h=07"
-                                },
-                                "remainingDownloads": "5",
-                                "purchaseId": "813028726",
-                                "purchaseDate": "2014-05-13T17:35:34Z",
-                                "completeAlbumPurchase": "true",
-                                "downloadUrls": {
-                                    "downloadUrl": [
-                                        {
-                                            "url": "http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&oauth_nonce=8qctllbn85k6f8aj&oauth_signature=OEOeVrq4pKQFVHQbBrnota0fvSc%3D&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1409566196&oauth_version=1.0a&formatid=17&partnerid=712&onbehalfofpartnerid=712&presigned=1&releaseid=3395525&shopid=34&trackid=35796190&userid=121404036",
-                                            "format": {
-                                                "id": "17",
-                                                "fileFormat": "MP3",
-                                                "bitRate": "320",
-                                                "drmFree": "true"
-                                            }
-                                        },
-                                        {
-                                            "url": "http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&oauth_nonce=b7lcoeiwlwe79dqx&oauth_signature=xkFXCp%2Fzeb112HGqotVuVQkqHzU%3D&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1409566196&oauth_version=1.0a&formatid=33&partnerid=712&onbehalfofpartnerid=712&presigned=1&releaseid=3395525&shopid=34&trackid=35796190&userid=121404036",
-                                            "format": {
-                                                "id": "33",
-                                                "fileFormat": "M4A",
-                                                "bitRate": "320",
-                                                "drmFree": "true"
-                                            }
-                                        }
-                                    ]
-                                }
-                            },
-                            {
-                                "track": {
-                                    "id": "35796192",
-                                    "title": "In Our Minds",
-                                    "version": "",
-                                    "artist": {
-                                        "id": "14697",
-                                        "name": "Yann Tiersen",
-                                        "appearsAs": "Yann Tiersen",
-                                        "url": "http://www.7digital.com/artist/yann-tiersen/?partner=5932"
-                                    },
-                                    "trackNumber": "8",
-                                    "duration": "312",
-                                    "isrc": "FRPAH1400070",
-                                    "url": "http://www.7digital.com/artist/yann-tiersen/release/infinity/?partner=5932&h=08"
-                                },
-                                "remainingDownloads": "5",
-                                "purchaseId": "813028726",
-                                "purchaseDate": "2014-05-13T17:35:34Z",
-                                "completeAlbumPurchase": "true",
-                                "downloadUrls": {
-                                    "downloadUrl": [
-                                        {
-                                            "url": "http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&oauth_nonce=gyjts92kogwnuvkf&oauth_signature=MRFuwTCkwu9HM%2FgrLdWtFAdGgr0%3D&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1409566196&oauth_version=1.0a&formatid=17&partnerid=712&onbehalfofpartnerid=712&presigned=1&releaseid=3395525&shopid=34&trackid=35796192&userid=121404036",
-                                            "format": {
-                                                "id": "17",
-                                                "fileFormat": "MP3",
-                                                "bitRate": "320",
-                                                "drmFree": "true"
-                                            }
-                                        },
-                                        {
-                                            "url": "http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&oauth_nonce=p1v9yo13hqizhep4&oauth_signature=FSUtKjDQv3a%2F8jbhgukO6Q1GAs4%3D&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1409566196&oauth_version=1.0a&formatid=33&partnerid=712&onbehalfofpartnerid=712&presigned=1&releaseid=3395525&shopid=34&trackid=35796192&userid=121404036",
-                                            "format": {
-                                                "id": "33",
-                                                "fileFormat": "M4A",
-                                                "bitRate": "320",
-                                                "drmFree": "true"
-                                            }
-                                        }
-                                    ]
-                                }
-                            },
-                            {
-                                "track": {
-                                    "id": "35796193",
-                                    "title": "The Crossing",
-                                    "version": "",
-                                    "artist": {
-                                        "id": "14697",
-                                        "name": "Yann Tiersen",
-                                        "appearsAs": "Yann Tiersen",
-                                        "url": "http://www.7digital.com/artist/yann-tiersen/?partner=5932"
-                                    },
-                                    "trackNumber": "9",
-                                    "duration": "343",
-                                    "isrc": "FRPAH1400080",
-                                    "url": "http://www.7digital.com/artist/yann-tiersen/release/infinity/?partner=5932&h=09"
-                                },
-                                "remainingDownloads": "5",
-                                "purchaseId": "813028726",
-                                "purchaseDate": "2014-05-13T17:35:34Z",
-                                "completeAlbumPurchase": "true",
-                                "downloadUrls": {
-                                    "downloadUrl": [
-                                        {
-                                            "url": "http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&oauth_nonce=nwyqyq1deaxhs6cz&oauth_signature=2mVA8BTtMqzPsQE8OUchOxVQW9s%3D&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1409566196&oauth_version=1.0a&formatid=17&partnerid=712&onbehalfofpartnerid=712&presigned=1&releaseid=3395525&shopid=34&trackid=35796193&userid=121404036",
-                                            "format": {
-                                                "id": "17",
-                                                "fileFormat": "MP3",
-                                                "bitRate": "320",
-                                                "drmFree": "true"
-                                            }
-                                        },
-                                        {
-                                            "url": "http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&oauth_nonce=l9rirr938qlc1cck&oauth_signature=xeg918iTtEpndkfKitQkvQjZsA8%3D&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1409566196&oauth_version=1.0a&formatid=33&partnerid=712&onbehalfofpartnerid=712&presigned=1&releaseid=3395525&shopid=34&trackid=35796193&userid=121404036",
-                                            "format": {
-                                                "id": "33",
-                                                "fileFormat": "M4A",
-                                                "bitRate": "320",
-                                                "drmFree": "true"
-                                            }
-                                        }
-                                    ]
-                                }
-                            },
-                            {
-                                "track": {
-                                    "id": "35796195",
-                                    "title": "Meteorites",
-                                    "version": "",
-                                    "artist": {
-                                        "id": "14697",
-                                        "name": "Yann Tiersen",
-                                        "appearsAs": "Yann Tiersen",
-                                        "url": "http://www.7digital.com/artist/yann-tiersen/?partner=5932"
-                                    },
-                                    "trackNumber": "10",
-                                    "duration": "409",
-                                    "isrc": "FRPAH1400090",
-                                    "url": "http://www.7digital.com/artist/yann-tiersen/release/infinity/?partner=5932&h=10"
-                                },
-                                "remainingDownloads": "5",
-                                "purchaseId": "813028726",
-                                "purchaseDate": "2014-05-13T17:35:34Z",
-                                "completeAlbumPurchase": "true",
-                                "downloadUrls": {
-                                    "downloadUrl": [
-                                        {
-                                            "url": "http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&oauth_nonce=240875r90s4x2skm&oauth_signature=TiXMZD%2Bb3CoN8%2BcbMo3DduTSiW4%3D&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1409566196&oauth_version=1.0a&formatid=17&partnerid=712&onbehalfofpartnerid=712&presigned=1&releaseid=3395525&shopid=34&trackid=35796195&userid=121404036",
-                                            "format": {
-                                                "id": "17",
-                                                "fileFormat": "MP3",
-                                                "bitRate": "320",
-                                                "drmFree": "true"
-                                            }
-                                        },
-                                        {
-                                            "url": "http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&oauth_nonce=nsnjwhl6x7tifync&oauth_signature=fV2dbrPRgSQmNEzHehWGEM%2BLJos%3D&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1409566196&oauth_version=1.0a&formatid=33&partnerid=712&onbehalfofpartnerid=712&presigned=1&releaseid=3395525&shopid=34&trackid=35796195&userid=121404036",
-                                            "format": {
-                                                "id": "33",
-                                                "fileFormat": "M4A",
-                                                "bitRate": "320",
-                                                "drmFree": "true"
-                                            }
-                                        }
-                                    ]
-                                }
-                            }
-                        ]
-                    },
-                    "available": "true"
-                },
-                {
-                    "release": {
-                        "id": "659847",
-                        "title": "Leoncavallo: I Pagliacci",
-                        "version": "",
-                        "type": "Album",
-                        "barcode": "00028947577539",
-                        "artist": {
-                            "id": "1129983",
-                            "name": "Orchestra of the Teatro Massimo Bellini, Catania / Stefano Antonucci / Chorus of the Teatro Massimo Bellini, Catania / Ana María Martínez / Andrea Bocelli",
-                            "appearsAs": "Orchestra of the Teatro Massimo Bellini, Catania / Stefano Antonucci / Chorus of the Teatro Massimo Bellini, Catania / Ana María Martínez / Andrea Bocelli",
-                            "url": "http://www.7digital.com/artist/orchestra-of-the-teatro-massimo-bellini-catania-stefano-antonucci-chorus-of-the-teatro-massimo-bellini-catania-ana-maria-martinez-andrea-bocelli-1/?partner=5932"
-                        },
-                        "url": "http://www.7digital.com/artist/orchestra-of-the-teatro-massimo-bellini-catania-stefano-antonucci-chorus-of-the-teatro-massimo-bellini-catania-ana-maria-martinez-andrea-bocelli-1/release/leoncavallo-i-pagliacci/?partner=5932",
-                        "image": "http://artwork-cdn.7static.com/static/img/sleeveart/00/006/598/0000659847_50.jpg",
-                        "releaseDate": "2007-03-19T00:00:00Z",
-                        "licensor": {
-                            "id": "1"
-                        }
-                    },
-                    "lockerTracks": {
-                        "lockerTrack": [
-                            {
-                                "track": {
-                                    "id": "7312971",
-                                    "title": "Leoncavallo: Pagliacci / Act 1 - \"Un tal gioco, credetemi\"",
-                                    "version": "",
-                                    "artist": {
-                                        "id": "1129985",
-                                        "name": "Steven Mercurio / Orchestra of the Teatro Massimo Bellini, Catania / Chorus of the Teatro Massimo Bellini, Catania / Ana María Martínez / Andrea Bocelli",
-                                        "appearsAs": "Steven Mercurio / Orchestra of the Teatro Massimo Bellini, Catania / Chorus of the Teatro Massimo Bellini, Catania / Ana María Martínez / Andrea Bocelli",
-                                        "url": "http://www.7digital.com/artist/steven-mercurio-orchestra-of-the-teatro-massimo-bellini-catania-chorus-of-the-teatro-massimo-bellini-catania-ana-maria-martinez-andrea-bocelli/?partner=5932"
-                                    },
-                                    "trackNumber": "5",
-                                    "duration": "186",
-                                    "isrc": "ITZ040500047",
-                                    "url": "http://www.7digital.com/artist/orchestra-of-the-teatro-massimo-bellini-catania-stefano-antonucci-chorus-of-the-teatro-massimo-bellini-catania-ana-maria-martinez-andrea-bocelli-1/release/leoncavallo-i-pagliacci/?partner=5932&h=05"
-                                },
-                                "remainingDownloads": "5",
-                                "purchaseId": "812788974",
-                                "purchaseDate": "2014-05-02T15:25:03Z",
-                                "completeAlbumPurchase": "false",
-                                "downloadUrls": {
-                                    "downloadUrl": {
-                                        "url": "http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&oauth_nonce=spvanj3rsdhhvv6t&oauth_signature=7IgmTMPmXfMiFt2ANZyTjXYiJz0%3D&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1409566196&oauth_version=1.0a&formatid=17&partnerid=712&onbehalfofpartnerid=712&presigned=1&releaseid=659847&shopid=34&trackid=7312971&userid=121404036",
-                                        "format": {
-                                            "id": "17",
-                                            "fileFormat": "MP3",
-                                            "bitRate": "320",
-                                            "drmFree": "true"
-                                        }
-                                    }
-                                }
-                            },
-                            {
-                                "track": {
-                                    "id": "7313000",
-                                    "title": "Leoncavallo: Pagliacci / Act 1 - \"Qual fiamma aveva nel guardo!\"",
-                                    "version": "",
-                                    "artist": {
-                                        "id": "1129987",
-                                        "name": "Steven Mercurio / Orchestra of the Teatro Massimo Bellini, Catania / Ana María Martínez",
-                                        "appearsAs": "Steven Mercurio / Orchestra of the Teatro Massimo Bellini, Catania / Ana María Martínez",
-                                        "url": "http://www.7digital.com/artist/steven-mercurio-orchestra-of-the-teatro-massimo-bellini-catania-ana-maria-martinez/?partner=5932"
-                                    },
-                                    "trackNumber": "7",
-                                    "duration": "160",
-                                    "isrc": "ITZ040500049",
-                                    "url": "http://www.7digital.com/artist/orchestra-of-the-teatro-massimo-bellini-catania-stefano-antonucci-chorus-of-the-teatro-massimo-bellini-catania-ana-maria-martinez-andrea-bocelli-1/release/leoncavallo-i-pagliacci/?partner=5932&h=07"
-                                },
-                                "remainingDownloads": "5",
-                                "purchaseId": "812788974",
-                                "purchaseDate": "2014-05-02T15:25:03Z",
-                                "completeAlbumPurchase": "false",
-                                "downloadUrls": {
-                                    "downloadUrl": {
-                                        "url": "http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&oauth_nonce=gzew3y95b8kh6gv4&oauth_signature=89zjwoY9DEN%2FaV5PjHR3bLgqFOE%3D&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1409566196&oauth_version=1.0a&formatid=17&partnerid=712&onbehalfofpartnerid=712&presigned=1&releaseid=659847&shopid=34&trackid=7313000&userid=121404036",
-                                        "format": {
-                                            "id": "17",
-                                            "fileFormat": "MP3",
-                                            "bitRate": "320",
-                                            "drmFree": "true"
-                                        }
-                                    }
-                                }
-                            },
-                            {
-                                "track": {
-                                    "id": "7313089",
-                                    "title": "Leoncavallo: Pagliacci / Act 1 - Cammina adagio",
-                                    "version": "",
-                                    "artist": {
-                                        "id": "1129992",
-                                        "name": "Steven Mercurio / Orchestra of the Teatro Massimo Bellini, Catania / Roberto Accurso / Stefano Antonucci / Ana María Martínez / Andrea Bocelli",
-                                        "appearsAs": "Steven Mercurio / Orchestra of the Teatro Massimo Bellini, Catania / Roberto Accurso / Stefano Antonucci / Ana María Martínez / Andrea Bocelli",
-                                        "url": "http://www.7digital.com/artist/steven-mercurio-orchestra-of-the-teatro-massimo-bellini-catania-roberto-accurso-stefano-antonucci-ana-maria-martinez-andrea-bocelli/?partner=5932"
-                                    },
-                                    "trackNumber": "14",
-                                    "duration": "106",
-                                    "isrc": "ITZ040500056",
-                                    "url": "http://www.7digital.com/artist/orchestra-of-the-teatro-massimo-bellini-catania-stefano-antonucci-chorus-of-the-teatro-massimo-bellini-catania-ana-maria-martinez-andrea-bocelli-1/release/leoncavallo-i-pagliacci/?partner=5932&h=14"
-                                },
-                                "remainingDownloads": "5",
-                                "purchaseId": "812788974",
-                                "purchaseDate": "2014-05-02T15:25:03Z",
-                                "completeAlbumPurchase": "false",
-                                "downloadUrls": {
-                                    "downloadUrl": {
-                                        "url": "http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&oauth_nonce=obnvrce68gkggsgr&oauth_signature=CQfiY8XcR1TfcfXIjwCDZYwXA7U%3D&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1409566196&oauth_version=1.0a&formatid=17&partnerid=712&onbehalfofpartnerid=712&presigned=1&releaseid=659847&shopid=34&trackid=7313089&userid=121404036",
-                                        "format": {
-                                            "id": "17",
-                                            "fileFormat": "MP3",
-                                            "bitRate": "320",
-                                            "drmFree": "true"
-                                        }
-                                    }
-                                }
-                            }
-                        ]
-                    },
-                    "available": "true"
-                },
-                {
-                    "release": {
-                        "id": "438137",
-                        "title": "Decksandrumsandrockandroll",
-                        "version": "",
-                        "type": "Album",
-                        "barcode": "00600445003125",
-                        "artist": {
-                            "id": "45369",
-                            "name": "Propellerheads",
-                            "appearsAs": "Propellerheads",
-                            "url": "http://www.7digital.com/artist/propellerheads/?partner=5932"
-                        },
-                        "url": "http://www.7digital.com/artist/propellerheads/release/decksandrumsandrockandroll/?partner=5932",
-                        "image": "http://artwork-cdn.7static.com/static/img/sleeveart/00/004/381/0000438137_50.jpg",
-                        "releaseDate": "2030-04-26T00:00:00Z",
-                        "licensor": {
-                            "id": "1"
-                        }
-                    },
-                    "lockerTracks": {
-                        "lockerTrack": [
-                            {
-                                "track": {
-                                    "id": "4903562",
-                                    "title": "Take California",
-                                    "version": "",
-                                    "artist": {
-                                        "id": "45369",
-                                        "name": "Propellerheads",
-                                        "appearsAs": "Propellerheads",
-                                        "url": "http://www.7digital.com/artist/propellerheads/?partner=5932"
-                                    },
-                                    "trackNumber": "1",
-                                    "duration": "442",
-                                    "isrc": "USDW19703101",
-                                    "url": "http://www.7digital.com/artist/propellerheads/release/decksandrumsandrockandroll/?partner=5932&h=01"
-                                },
-                                "remainingDownloads": "5",
-                                "purchaseId": "812788974",
-                                "purchaseDate": "2014-05-02T15:25:03Z",
-                                "completeAlbumPurchase": "true",
-                                "downloadUrls": {
-                                    "downloadUrl": {
-                                        "url": "http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&oauth_nonce=93aszlm5q19q0vvl&oauth_signature=ZwSoy2NYc5ZQP%2FxEerfQnwN1%2BH0%3D&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1409566196&oauth_version=1.0a&formatid=17&partnerid=712&onbehalfofpartnerid=712&presigned=1&releaseid=438137&shopid=34&trackid=4903562&userid=121404036",
-                                        "format": {
-                                            "id": "17",
-                                            "fileFormat": "MP3",
-                                            "bitRate": "320",
-                                            "drmFree": "true"
-                                        }
-                                    }
-                                }
-                            },
-                            {
-                                "track": {
-                                    "id": "4903565",
-                                    "title": "Velvet Pants",
-                                    "version": "",
-                                    "artist": {
-                                        "id": "45369",
-                                        "name": "Propellerheads",
-                                        "appearsAs": "Propellerheads",
-                                        "url": "http://www.7digital.com/artist/propellerheads/?partner=5932"
-                                    },
-                                    "trackNumber": "2",
-                                    "duration": "347",
-                                    "isrc": "USDW19703109",
-                                    "url": "http://www.7digital.com/artist/propellerheads/release/decksandrumsandrockandroll/?partner=5932&h=02"
-                                },
-                                "remainingDownloads": "5",
-                                "purchaseId": "812788974",
-                                "purchaseDate": "2014-05-02T15:25:03Z",
-                                "completeAlbumPurchase": "true",
-                                "downloadUrls": {
-                                    "downloadUrl": {
-                                        "url": "http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&oauth_nonce=so4uikbduiywo3yt&oauth_signature=T14Dg1ukydyaiKvsQUa%2FudNv3gY%3D&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1409566196&oauth_version=1.0a&formatid=17&partnerid=712&onbehalfofpartnerid=712&presigned=1&releaseid=438137&shopid=34&trackid=4903565&userid=121404036",
-                                        "format": {
-                                            "id": "17",
-                                            "fileFormat": "MP3",
-                                            "bitRate": "320",
-                                            "drmFree": "true"
-                                        }
-                                    }
-                                }
-                            },
-                            {
-                                "track": {
-                                    "id": "4903567",
-                                    "title": "Better?",
-                                    "version": "",
-                                    "artist": {
-                                        "id": "45369",
-                                        "name": "Propellerheads",
-                                        "appearsAs": "Propellerheads",
-                                        "url": "http://www.7digital.com/artist/propellerheads/?partner=5932"
-                                    },
-                                    "trackNumber": "3",
-                                    "duration": "123",
-                                    "isrc": "USDW19703113",
-                                    "url": "http://www.7digital.com/artist/propellerheads/release/decksandrumsandrockandroll/?partner=5932&h=03"
-                                },
-                                "remainingDownloads": "5",
-                                "purchaseId": "812788974",
-                                "purchaseDate": "2014-05-02T15:25:03Z",
-                                "completeAlbumPurchase": "true",
-                                "downloadUrls": {
-                                    "downloadUrl": {
-                                        "url": "http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&oauth_nonce=13idfcecysf1dy6l&oauth_signature=GZnnJAdviprkMZb06x97LL8tPIY%3D&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1409566196&oauth_version=1.0a&formatid=17&partnerid=712&onbehalfofpartnerid=712&presigned=1&releaseid=438137&shopid=34&trackid=4903567&userid=121404036",
-                                        "format": {
-                                            "id": "17",
-                                            "fileFormat": "MP3",
-                                            "bitRate": "320",
-                                            "drmFree": "true"
-                                        }
-                                    }
-                                }
-                            },
-                            {
-                                "track": {
-                                    "id": "4903569",
-                                    "title": "360? (Oh Yeah?)",
-                                    "version": "",
-                                    "artist": {
-                                        "id": "327699",
-                                        "name": "Propellerheads / De La Soul",
-                                        "appearsAs": "Propellerheads / De La Soul",
-                                        "url": "http://www.7digital.com/artist/propellerheads-de-la-soul/?partner=5932"
-                                    },
-                                    "trackNumber": "4",
-                                    "duration": "268",
-                                    "isrc": "USDW19703117",
-                                    "url": "http://www.7digital.com/artist/propellerheads/release/decksandrumsandrockandroll/?partner=5932&h=04"
-                                },
-                                "remainingDownloads": "5",
-                                "purchaseId": "812788974",
-                                "purchaseDate": "2014-05-02T15:25:03Z",
-                                "completeAlbumPurchase": "true",
-                                "downloadUrls": {
-                                    "downloadUrl": {
-                                        "url": "http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&oauth_nonce=u9x2zwiy189rxzqy&oauth_signature=1TGVPxblyt8DDt9L%2BG4DIO8DwRc%3D&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1409566196&oauth_version=1.0a&formatid=17&partnerid=712&onbehalfofpartnerid=712&presigned=1&releaseid=438137&shopid=34&trackid=4903569&userid=121404036",
-                                        "format": {
-                                            "id": "17",
-                                            "fileFormat": "MP3",
-                                            "bitRate": "320",
-                                            "drmFree": "true"
-                                        }
-                                    }
-                                }
-                            },
-                            {
-                                "track": {
-                                    "id": "4903571",
-                                    "title": "History Repeating",
-                                    "version": "",
-                                    "artist": {
-                                        "id": "327700",
-                                        "name": "Propellerheads / Shirley Bassey",
-                                        "appearsAs": "Propellerheads / Shirley Bassey",
-                                        "url": "http://www.7digital.com/artist/propellerheads-shirley-bassey/?partner=5932"
-                                    },
-                                    "trackNumber": "5",
-                                    "duration": "243",
-                                    "isrc": "USDW19703110",
-                                    "url": "http://www.7digital.com/artist/propellerheads/release/decksandrumsandrockandroll/?partner=5932&h=05"
-                                },
-                                "remainingDownloads": "5",
-                                "purchaseId": "812788974",
-                                "purchaseDate": "2014-05-02T15:25:03Z",
-                                "completeAlbumPurchase": "true",
-                                "downloadUrls": {
-                                    "downloadUrl": {
-                                        "url": "http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&oauth_nonce=bpzhmsgpk16zela6&oauth_signature=4wJi7oGWQmNCJL5fETlO6Vjgswk%3D&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1409566196&oauth_version=1.0a&formatid=17&partnerid=712&onbehalfofpartnerid=712&presigned=1&releaseid=438137&shopid=34&trackid=4903571&userid=121404036",
-                                        "format": {
-                                            "id": "17",
-                                            "fileFormat": "MP3",
-                                            "bitRate": "320",
-                                            "drmFree": "true"
-                                        }
-                                    }
-                                }
-                            },
-                            {
-                                "track": {
-                                    "id": "4903573",
-                                    "title": "Winning Style",
-                                    "version": "",
-                                    "artist": {
-                                        "id": "45369",
-                                        "name": "Propellerheads",
-                                        "appearsAs": "Propellerheads",
-                                        "url": "http://www.7digital.com/artist/propellerheads/?partner=5932"
-                                    },
-                                    "trackNumber": "6",
-                                    "duration": "358",
-                                    "isrc": "USDW19703111",
-                                    "url": "http://www.7digital.com/artist/propellerheads/release/decksandrumsandrockandroll/?partner=5932&h=06"
-                                },
-                                "remainingDownloads": "5",
-                                "purchaseId": "812788974",
-                                "purchaseDate": "2014-05-02T15:25:03Z",
-                                "completeAlbumPurchase": "true",
-                                "downloadUrls": {
-                                    "downloadUrl": {
-                                        "url": "http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&oauth_nonce=mmcpe84euumiewp9&oauth_signature=t4ZoDVG4ObL1qO5o%2BbZr7tahKmo%3D&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1409566196&oauth_version=1.0a&formatid=17&partnerid=712&onbehalfofpartnerid=712&presigned=1&releaseid=438137&shopid=34&trackid=4903573&userid=121404036",
-                                        "format": {
-                                            "id": "17",
-                                            "fileFormat": "MP3",
-                                            "bitRate": "320",
-                                            "drmFree": "true"
-                                        }
-                                    }
-                                }
-                            },
-                            {
-                                "track": {
-                                    "id": "4903575",
-                                    "title": "Bang On!",
-                                    "version": "",
-                                    "artist": {
-                                        "id": "45369",
-                                        "name": "Propellerheads",
-                                        "appearsAs": "Propellerheads",
-                                        "url": "http://www.7digital.com/artist/propellerheads/?partner=5932"
-                                    },
-                                    "trackNumber": "7",
-                                    "duration": "345",
-                                    "isrc": "USDW19703106",
-                                    "url": "http://www.7digital.com/artist/propellerheads/release/decksandrumsandrockandroll/?partner=5932&h=07"
-                                },
-                                "remainingDownloads": "5",
-                                "purchaseId": "812788974",
-                                "purchaseDate": "2014-05-02T15:25:03Z",
-                                "completeAlbumPurchase": "true",
-                                "downloadUrls": {
-                                    "downloadUrl": {
-                                        "url": "http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&oauth_nonce=cqyx0y0b3ir91stp&oauth_signature=Ph%2F%2F0yRxLVjI4Qv458lT5LeY7Ho%3D&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1409566196&oauth_version=1.0a&formatid=17&partnerid=712&onbehalfofpartnerid=712&presigned=1&releaseid=438137&shopid=34&trackid=4903575&userid=121404036",
-                                        "format": {
-                                            "id": "17",
-                                            "fileFormat": "MP3",
-                                            "bitRate": "320",
-                                            "drmFree": "true"
-                                        }
-                                    }
-                                }
-                            },
-                            {
-                                "track": {
-                                    "id": "4903578",
-                                    "title": "A Number Of Microphones",
-                                    "version": "",
-                                    "artist": {
-                                        "id": "45369",
-                                        "name": "Propellerheads",
-                                        "appearsAs": "Propellerheads",
-                                        "url": "http://www.7digital.com/artist/propellerheads/?partner=5932"
-                                    },
-                                    "trackNumber": "8",
-                                    "duration": "46",
-                                    "isrc": "USDW19703112",
-                                    "url": "http://www.7digital.com/artist/propellerheads/release/decksandrumsandrockandroll/?partner=5932&h=08"
-                                },
-                                "remainingDownloads": "5",
-                                "purchaseId": "812788974",
-                                "purchaseDate": "2014-05-02T15:25:03Z",
-                                "completeAlbumPurchase": "true",
-                                "downloadUrls": {
-                                    "downloadUrl": {
-                                        "url": "http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&oauth_nonce=8cekxatevuw2g8kx&oauth_signature=Rahmz%2FjIR%2FVMIJ0O0L%2BzgxRziHY%3D&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1409566196&oauth_version=1.0a&formatid=17&partnerid=712&onbehalfofpartnerid=712&presigned=1&releaseid=438137&shopid=34&trackid=4903578&userid=121404036",
-                                        "format": {
-                                            "id": "17",
-                                            "fileFormat": "MP3",
-                                            "bitRate": "320",
-                                            "drmFree": "true"
-                                        }
-                                    }
-                                }
-                            },
-                            {
-                                "track": {
-                                    "id": "4903579",
-                                    "title": "On Her Majesty's Secret Service",
-                                    "version": "",
-                                    "artist": {
-                                        "id": "45369",
-                                        "name": "Propellerheads",
-                                        "appearsAs": "Propellerheads",
-                                        "url": "http://www.7digital.com/artist/propellerheads/?partner=5932"
-                                    },
-                                    "trackNumber": "9",
-                                    "duration": "561",
-                                    "isrc": "USDW19703114",
-                                    "url": "http://www.7digital.com/artist/propellerheads/release/decksandrumsandrockandroll/?partner=5932&h=09"
-                                },
-                                "remainingDownloads": "5",
-                                "purchaseId": "812788974",
-                                "purchaseDate": "2014-05-02T15:25:03Z",
-                                "completeAlbumPurchase": "true",
-                                "downloadUrls": {
-                                    "downloadUrl": {
-                                        "url": "http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&oauth_nonce=l8xywm7ynax7p6ob&oauth_signature=jqwAiqwffQI1v90V8YTc2%2BGpboo%3D&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1409566196&oauth_version=1.0a&formatid=17&partnerid=712&onbehalfofpartnerid=712&presigned=1&releaseid=438137&shopid=34&trackid=4903579&userid=121404036",
-                                        "format": {
-                                            "id": "17",
-                                            "fileFormat": "MP3",
-                                            "bitRate": "320",
-                                            "drmFree": "true"
-                                        }
-                                    }
-                                }
-                            },
-                            {
-                                "track": {
-                                    "id": "4903581",
-                                    "title": "Bigger?",
-                                    "version": "",
-                                    "artist": {
-                                        "id": "45369",
-                                        "name": "Propellerheads",
-                                        "appearsAs": "Propellerheads",
-                                        "url": "http://www.7digital.com/artist/propellerheads/?partner=5932"
-                                    },
-                                    "trackNumber": "10",
-                                    "duration": "140",
-                                    "isrc": "USDW19703115",
-                                    "url": "http://www.7digital.com/artist/propellerheads/release/decksandrumsandrockandroll/?partner=5932&h=10"
-                                },
-                                "remainingDownloads": "5",
-                                "purchaseId": "812788974",
-                                "purchaseDate": "2014-05-02T15:25:03Z",
-                                "completeAlbumPurchase": "true",
-                                "downloadUrls": {
-                                    "downloadUrl": {
-                                        "url": "http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&oauth_nonce=b8lcsfkb8tbpbh65&oauth_signature=OdRz8UHBhJPzLG%2FUd8wF9MM%2F1Lo%3D&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1409566196&oauth_version=1.0a&formatid=17&partnerid=712&onbehalfofpartnerid=712&presigned=1&releaseid=438137&shopid=34&trackid=4903581&userid=121404036",
-                                        "format": {
-                                            "id": "17",
-                                            "fileFormat": "MP3",
-                                            "bitRate": "320",
-                                            "drmFree": "true"
-                                        }
-                                    }
-                                }
-                            },
-                            {
-                                "track": {
-                                    "id": "4903583",
-                                    "title": "Cominagetcha",
-                                    "version": "",
-                                    "artist": {
-                                        "id": "45369",
-                                        "name": "Propellerheads",
-                                        "appearsAs": "Propellerheads",
-                                        "url": "http://www.7digital.com/artist/propellerheads/?partner=5932"
-                                    },
-                                    "trackNumber": "11",
-                                    "duration": "423",
-                                    "isrc": "USDW19703116",
-                                    "url": "http://www.7digital.com/artist/propellerheads/release/decksandrumsandrockandroll/?partner=5932&h=11"
-                                },
-                                "remainingDownloads": "5",
-                                "purchaseId": "812788974",
-                                "purchaseDate": "2014-05-02T15:25:03Z",
-                                "completeAlbumPurchase": "true",
-                                "downloadUrls": {
-                                    "downloadUrl": {
-                                        "url": "http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&oauth_nonce=95x4663ufp7xnxz1&oauth_signature=Wlslb0FsxJ23PAptwOBGaAq7eQQ%3D&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1409566196&oauth_version=1.0a&formatid=17&partnerid=712&onbehalfofpartnerid=712&presigned=1&releaseid=438137&shopid=34&trackid=4903583&userid=121404036",
-                                        "format": {
-                                            "id": "17",
-                                            "fileFormat": "MP3",
-                                            "bitRate": "320",
-                                            "drmFree": "true"
-                                        }
-                                    }
-                                }
-                            },
-                            {
-                                "track": {
-                                    "id": "4903586",
-                                    "title": "Spybreak!",
-                                    "version": "",
-                                    "artist": {
-                                        "id": "45369",
-                                        "name": "Propellerheads",
-                                        "appearsAs": "Propellerheads",
-                                        "url": "http://www.7digital.com/artist/propellerheads/?partner=5932"
-                                    },
-                                    "trackNumber": "12",
-                                    "duration": "418",
-                                    "isrc": "USDW19703102",
-                                    "url": "http://www.7digital.com/artist/propellerheads/release/decksandrumsandrockandroll/?partner=5932&h=12"
-                                },
-                                "remainingDownloads": "5",
-                                "purchaseId": "812788974",
-                                "purchaseDate": "2014-05-02T15:25:03Z",
-                                "completeAlbumPurchase": "true",
-                                "downloadUrls": {
-                                    "downloadUrl": {
-                                        "url": "http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&oauth_nonce=fv1jvhegww1ckrwf&oauth_signature=OhnNQ%2BJQM2eE1va32MdNad%2Bb7RU%3D&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1409566196&oauth_version=1.0a&formatid=17&partnerid=712&onbehalfofpartnerid=712&presigned=1&releaseid=438137&shopid=34&trackid=4903586&userid=121404036",
-                                        "format": {
-                                            "id": "17",
-                                            "fileFormat": "MP3",
-                                            "bitRate": "320",
-                                            "drmFree": "true"
-                                        }
-                                    }
-                                }
-                            },
-                            {
-                                "track": {
-                                    "id": "4903590",
-                                    "title": "You Want It Back",
-                                    "version": "",
-                                    "artist": {
-                                        "id": "327701",
-                                        "name": "Propellerheads / Jungle Brothers",
-                                        "appearsAs": "Propellerheads / Jungle Brothers",
-                                        "url": "http://www.7digital.com/artist/propellerheads-jungle-brothers/?partner=5932"
-                                    },
-                                    "trackNumber": "13",
-                                    "duration": "359",
-                                    "isrc": "USDW19703118",
-                                    "url": "http://www.7digital.com/artist/propellerheads/release/decksandrumsandrockandroll/?partner=5932&h=13"
-                                },
-                                "remainingDownloads": "5",
-                                "purchaseId": "812788974",
-                                "purchaseDate": "2014-05-02T15:25:03Z",
-                                "completeAlbumPurchase": "true",
-                                "downloadUrls": {
-                                    "downloadUrl": {
-                                        "url": "http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&oauth_nonce=f39vhvgge17cixyk&oauth_signature=YWhdVue0J30Mu8s8mcOEO0pG8ps%3D&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1409566196&oauth_version=1.0a&formatid=17&partnerid=712&onbehalfofpartnerid=712&presigned=1&releaseid=438137&shopid=34&trackid=4903590&userid=121404036",
-                                        "format": {
-                                            "id": "17",
-                                            "fileFormat": "MP3",
-                                            "bitRate": "320",
-                                            "drmFree": "true"
-                                        }
-                                    }
-                                }
-                            }
-                        ]
-                    },
-                    "available": "true"
+                  }
                 }
-			]
+              },
+              {
+                "track": {
+                  "id": "3615515",
+                  "title": "The Lovers Are Losing",
+                  "version": "",
+                  "artist": {
+                    "id": "1",
+                    "name": "Keane",
+                    "appearsAs": "Keane",
+                    "slug": "keane"
+                  },
+                  "trackNumber": "2",
+                  "duration": "303",
+                  "slug": "perfect-symmetry"
+                },
+                "remainingDownloads": "5",
+                "purchaseDate": "2012-05-28T14:01:14+01:00",
+                "downloadUrls": {
+                  "downloadUrl": {
+                    "url": "http://media3.7digital.com/media/user/downloadtrack?formatid=17&oauth_consumer_key=7digital.com&oauth_nonce=124933499&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1338210356&releaseid=320866&shopid=34&trackid=3615515&oauth_signature=%2B0bb76C%2FdKNdb9NEbkWHWwBeNfo%3D",
+                    "format": {
+                      "id": "17",
+                      "fileFormat": "MP3",
+                      "bitRate": "320",
+                      "drmFree": "true"
+                    }
+                  }
+                }
+              },
+              {
+                "track": {
+                  "id": "3615516",
+                  "title": "Better Than This",
+                  "version": "",
+                  "artist": {
+                    "id": "1",
+                    "name": "Keane",
+                    "appearsAs": "Keane",
+                    "slug": "keane"
+                  },
+                  "trackNumber": "3",
+                  "duration": "242",
+                  "slug": "perfect-symmetry"
+                },
+                "remainingDownloads": "5",
+                "purchaseDate": "2012-05-28T14:01:14+01:00",
+                "downloadUrls": {
+                  "downloadUrl": {
+                    "url": "http://media3.7digital.com/media/user/downloadtrack?formatid=17&oauth_consumer_key=7digital.com&oauth_nonce=58400880&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1338210356&releaseid=320866&shopid=34&trackid=3615516&oauth_signature=eov0UkR10d7A4%2FPWMcq9Q1K6GVY%3D",
+                    "format": {
+                      "id": "17",
+                      "fileFormat": "MP3",
+                      "bitRate": "320",
+                      "drmFree": "true"
+                    }
+                  }
+                }
+              },
+              {
+                "track": {
+                  "id": "3615518",
+                  "title": "You Haven't Told Me Anything",
+                  "version": "",
+                  "artist": {
+                    "id": "1",
+                    "name": "Keane",
+                    "appearsAs": "Keane",
+                    "slug": "keane"
+                  },
+                  "trackNumber": "4",
+                  "duration": "227",
+                  "slug": "perfect-symmetry"
+                },
+                "remainingDownloads": "5",
+                "purchaseDate": "2012-05-28T14:01:14+01:00",
+                "downloadUrls": {
+                  "downloadUrl": {
+                    "url": "http://media3.7digital.com/media/user/downloadtrack?formatid=17&oauth_consumer_key=7digital.com&oauth_nonce=1683834263&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1338210356&releaseid=320866&shopid=34&trackid=3615518&oauth_signature=4kNliSKL4n928JYAxcLt%2F9qhAMA%3D",
+                    "format": {
+                      "id": "17",
+                      "fileFormat": "MP3",
+                      "bitRate": "320",
+                      "drmFree": "true"
+                    }
+                  }
+                }
+              },
+              {
+                "track": {
+                  "id": "3615519",
+                  "title": "Perfect Symmetry",
+                  "version": "",
+                  "artist": {
+                    "id": "1",
+                    "name": "Keane",
+                    "appearsAs": "Keane",
+                    "slug": "keane"
+                  },
+                  "trackNumber": "5",
+                  "duration": "310",
+                  "slug": "perfect-symmetry"
+                },
+                "remainingDownloads": "5",
+                "purchaseDate": "2012-05-28T14:01:14+01:00",
+                "downloadUrls": {
+                  "downloadUrl": {
+                    "url": "http://media3.7digital.com/media/user/downloadtrack?formatid=17&oauth_consumer_key=7digital.com&oauth_nonce=867995858&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1338210356&releaseid=320866&shopid=34&trackid=3615519&oauth_signature=%2FgKt9bwwMjiSGjXm6veEt5tbOkc%3D",
+                    "format": {
+                      "id": "17",
+                      "fileFormat": "MP3",
+                      "bitRate": "320",
+                      "drmFree": "true"
+                    }
+                  }
+                }
+              },
+              {
+                "track": {
+                  "id": "3615520",
+                  "title": "You Don't See Me",
+                  "version": "",
+                  "artist": {
+                    "id": "1",
+                    "name": "Keane",
+                    "appearsAs": "Keane",
+                    "slug": "keane"
+                  },
+                  "trackNumber": "6",
+                  "duration": "243",
+                  "slug": "perfect-symmetry"
+                },
+                "remainingDownloads": "5",
+                "purchaseDate": "2012-05-28T14:01:14+01:00",
+                "downloadUrls": {
+                  "downloadUrl": {
+                    "url": "http://media3.7digital.com/media/user/downloadtrack?formatid=17&oauth_consumer_key=7digital.com&oauth_nonce=1105008255&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1338210356&releaseid=320866&shopid=34&trackid=3615520&oauth_signature=j7TpQbzPpDATwzwIZ84JBqnwgd0%3D",
+                    "format": {
+                      "id": "17",
+                      "fileFormat": "MP3",
+                      "bitRate": "320",
+                      "drmFree": "true"
+                    }
+                  }
+                }
+              },
+              {
+                "track": {
+                  "id": "3615522",
+                  "title": "Again & Again",
+                  "version": "",
+                  "artist": {
+                    "id": "1",
+                    "name": "Keane",
+                    "appearsAs": "Keane",
+                    "slug": "keane"
+                  },
+                  "trackNumber": "7",
+                  "duration": "230",
+                  "slug": "perfect-symmetry"
+                },
+                "remainingDownloads": "5",
+                "purchaseDate": "2012-05-28T14:01:14+01:00",
+                "downloadUrls": {
+                  "downloadUrl": {
+                    "url": "http://media3.7digital.com/media/user/downloadtrack?formatid=17&oauth_consumer_key=7digital.com&oauth_nonce=1250053515&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1338210356&releaseid=320866&shopid=34&trackid=3615522&oauth_signature=vovvW3g1ekzmlxnB%2Bpt1DZFweSE%3D",
+                    "format": {
+                      "id": "17",
+                      "fileFormat": "MP3",
+                      "bitRate": "320",
+                      "drmFree": "true"
+                    }
+                  }
+                }
+              },
+              {
+                "track": {
+                  "id": "3615523",
+                  "title": "Playing Along",
+                  "version": "",
+                  "artist": {
+                    "id": "1",
+                    "name": "Keane",
+                    "appearsAs": "Keane",
+                    "slug": "keane"
+                  },
+                  "trackNumber": "8",
+                  "duration": "333",
+                  "slug": "perfect-symmetry"
+                },
+                "remainingDownloads": "5",
+                "purchaseDate": "2012-05-28T14:01:14+01:00",
+                "downloadUrls": {
+                  "downloadUrl": {
+                    "url": "http://media3.7digital.com/media/user/downloadtrack?formatid=17&oauth_consumer_key=7digital.com&oauth_nonce=712897357&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1338210356&releaseid=320866&shopid=34&trackid=3615523&oauth_signature=24XouraZxBiuUvip6qKz3otbleI%3D",
+                    "format": {
+                      "id": "17",
+                      "fileFormat": "MP3",
+                      "bitRate": "320",
+                      "drmFree": "true"
+                    }
+                  }
+                }
+              },
+              {
+                "track": {
+                  "id": "3615524",
+                  "title": "Pretend That You're Alone",
+                  "version": "",
+                  "artist": {
+                    "id": "1",
+                    "name": "Keane",
+                    "appearsAs": "Keane",
+                    "slug": "keane"
+                  },
+                  "trackNumber": "9",
+                  "duration": "227",
+                  "slug": "perfect-symmetry"
+                },
+                "remainingDownloads": "5",
+                "purchaseDate": "2012-05-28T14:01:14+01:00",
+                "downloadUrls": {
+                  "downloadUrl": {
+                    "url": "http://media3.7digital.com/media/user/downloadtrack?formatid=17&oauth_consumer_key=7digital.com&oauth_nonce=795556436&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1338210356&releaseid=320866&shopid=34&trackid=3615524&oauth_signature=V%2BwrJABdEqD%2BK5Tiqs09rSuHNw8%3D",
+                    "format": {
+                      "id": "17",
+                      "fileFormat": "MP3",
+                      "bitRate": "320",
+                      "drmFree": "true"
+                    }
+                  }
+                }
+              },
+              {
+                "track": {
+                  "id": "3615526",
+                  "title": "Black Burning Heart",
+                  "version": "",
+                  "artist": {
+                    "id": "1",
+                    "name": "Keane",
+                    "appearsAs": "Keane",
+                    "slug": "keane"
+                  },
+                  "trackNumber": "10",
+                  "duration": "321",
+                  "slug": "perfect-symmetry"
+                },
+                "remainingDownloads": "5",
+                "purchaseDate": "2012-05-28T14:01:14+01:00",
+                "downloadUrls": {
+                  "downloadUrl": {
+                    "url": "http://media3.7digital.com/media/user/downloadtrack?formatid=17&oauth_consumer_key=7digital.com&oauth_nonce=1000838283&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1338210356&releaseid=320866&shopid=34&trackid=3615526&oauth_signature=WHNsIdqvrsdH9HbKqmVvxPVJPn8%3D",
+                    "format": {
+                      "id": "17",
+                      "fileFormat": "MP3",
+                      "bitRate": "320",
+                      "drmFree": "true"
+                    }
+                  }
+                }
+              },
+              {
+                "track": {
+                  "id": "3615527",
+                  "title": "Love Is The End",
+                  "version": "",
+                  "artist": {
+                    "id": "1",
+                    "name": "Keane",
+                    "appearsAs": "Keane",
+                    "slug": "keane"
+                  },
+                  "trackNumber": "11",
+                  "duration": "337",
+                  "slug": "perfect-symmetry"
+                },
+                "remainingDownloads": "5",
+                "purchaseDate": "2012-05-28T14:01:14+01:00",
+                "downloadUrls": {
+                  "downloadUrl": {
+                    "url": "http://media3.7digital.com/media/user/downloadtrack?formatid=17&oauth_consumer_key=7digital.com&oauth_nonce=239673126&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1338210356&releaseid=320866&shopid=34&trackid=3615527&oauth_signature=yhBd9vpx5X4eu5aa%2FfZCJ%2BJjem0%3D",
+                    "format": {
+                      "id": "17",
+                      "fileFormat": "MP3",
+                      "bitRate": "320",
+                      "drmFree": "true"
+                    }
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "release": {
+            "id": "320866",
+            "title": "Perfect Symmetry",
+            "version": "UK Album",
+            "type": "Album",
+            "barcode": "00602517856455",
+            "artist": {
+              "id": "1",
+              "name": "Keane",
+              "appearsAs": "Keane",
+              "slug": "keane"
+            },
+            "slug": "perfect-symmetry",
+            "image": "http://artwork-cdn.7static.com/static/img/sleeveart/00/003/208/0000320866_50.jpg",
+            "releaseDate": "2100-10-13T00:00:00+01:00"
+          },
+          "lockerTracks": {
+            "lockerTrack": [
+              {
+                "track": {
+                  "id": "3615513",
+                  "title": "Spiralling",
+                  "version": "",
+                  "artist": {
+                    "id": "1",
+                    "name": "Keane",
+                    "appearsAs": "Keane",
+                    "slug": "keane"
+                  },
+                  "trackNumber": "1",
+                  "duration": "258",
+                  "slug": "perfect-symmetry"
+                },
+                "remainingDownloads": "5",
+                "purchaseDate": "2012-05-28T14:01:14+01:00",
+                "downloadUrls": {
+                  "downloadUrl": {
+                    "url": "http://media3.7digital.com/media/user/downloadtrack?formatid=17&oauth_consumer_key=7digital.com&oauth_nonce=994269588&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1338210356&releaseid=320866&shopid=34&trackid=3615513&oauth_signature=q2nXVXkHhKWlLwq7Q7QJvKMTYv8%3D",
+                    "format": {
+                      "id": "17",
+                      "fileFormat": "MP3",
+                      "bitRate": "320",
+                      "drmFree": "true"
+                    }
+                  }
+                }
+              },
+              {
+                "track": {
+                  "id": "3615515",
+                  "title": "The Lovers Are Losing",
+                  "version": "",
+                  "artist": {
+                    "id": "1",
+                    "name": "Keane",
+                    "appearsAs": "Keane",
+                    "slug": "keane"
+                  },
+                  "trackNumber": "2",
+                  "duration": "303",
+                  "slug": "perfect-symmetry"
+                },
+                "remainingDownloads": "5",
+                "purchaseDate": "2012-05-28T14:01:14+01:00",
+                "downloadUrls": {
+                  "downloadUrl": {
+                    "url": "http://media3.7digital.com/media/user/downloadtrack?formatid=17&oauth_consumer_key=7digital.com&oauth_nonce=124933499&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1338210356&releaseid=320866&shopid=34&trackid=3615515&oauth_signature=%2B0bb76C%2FdKNdb9NEbkWHWwBeNfo%3D",
+                    "format": {
+                      "id": "17",
+                      "fileFormat": "MP3",
+                      "bitRate": "320",
+                      "drmFree": "true"
+                    }
+                  }
+                }
+              },
+              {
+                "track": {
+                  "id": "3615516",
+                  "title": "Better Than This",
+                  "version": "",
+                  "artist": {
+                    "id": "1",
+                    "name": "Keane",
+                    "appearsAs": "Keane",
+                    "slug": "keane"
+                  },
+                  "trackNumber": "3",
+                  "duration": "242",
+                  "slug": "perfect-symmetry"
+                },
+                "remainingDownloads": "5",
+                "purchaseDate": "2012-05-28T14:01:14+01:00",
+                "downloadUrls": {
+                  "downloadUrl": {
+                    "url": "http://media3.7digital.com/media/user/downloadtrack?formatid=17&oauth_consumer_key=7digital.com&oauth_nonce=58400880&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1338210356&releaseid=320866&shopid=34&trackid=3615516&oauth_signature=eov0UkR10d7A4%2FPWMcq9Q1K6GVY%3D",
+                    "format": {
+                      "id": "17",
+                      "fileFormat": "MP3",
+                      "bitRate": "320",
+                      "drmFree": "true"
+                    }
+                  }
+                }
+              },
+              {
+                "track": {
+                  "id": "3615518",
+                  "title": "You Haven't Told Me Anything",
+                  "version": "",
+                  "artist": {
+                    "id": "1",
+                    "name": "Keane",
+                    "appearsAs": "Keane",
+                    "slug": "keane"
+                  },
+                  "trackNumber": "4",
+                  "duration": "227",
+                  "slug": "perfect-symmetry"
+                },
+                "remainingDownloads": "5",
+                "purchaseDate": "2012-05-28T14:01:14+01:00",
+                "downloadUrls": {
+                  "downloadUrl": {
+                    "url": "http://media3.7digital.com/media/user/downloadtrack?formatid=17&oauth_consumer_key=7digital.com&oauth_nonce=1683834263&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1338210356&releaseid=320866&shopid=34&trackid=3615518&oauth_signature=4kNliSKL4n928JYAxcLt%2F9qhAMA%3D",
+                    "format": {
+                      "id": "17",
+                      "fileFormat": "MP3",
+                      "bitRate": "320",
+                      "drmFree": "true"
+                    }
+                  }
+                }
+              },
+              {
+                "track": {
+                  "id": "3615519",
+                  "title": "Perfect Symmetry",
+                  "version": "",
+                  "artist": {
+                    "id": "1",
+                    "name": "Keane",
+                    "appearsAs": "Keane",
+                    "slug": "keane"
+                  },
+                  "trackNumber": "5",
+                  "duration": "310",
+                  "slug": "perfect-symmetry"
+                },
+                "remainingDownloads": "5",
+                "purchaseDate": "2012-05-28T14:01:14+01:00",
+                "downloadUrls": {
+                  "downloadUrl": {
+                    "url": "http://media3.7digital.com/media/user/downloadtrack?formatid=17&oauth_consumer_key=7digital.com&oauth_nonce=867995858&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1338210356&releaseid=320866&shopid=34&trackid=3615519&oauth_signature=%2FgKt9bwwMjiSGjXm6veEt5tbOkc%3D",
+                    "format": {
+                      "id": "17",
+                      "fileFormat": "MP3",
+                      "bitRate": "320",
+                      "drmFree": "true"
+                    }
+                  }
+                }
+              },
+              {
+                "track": {
+                  "id": "3615520",
+                  "title": "You Don't See Me",
+                  "version": "",
+                  "artist": {
+                    "id": "1",
+                    "name": "Keane",
+                    "appearsAs": "Keane",
+                    "slug": "keane"
+                  },
+                  "trackNumber": "6",
+                  "duration": "243",
+                  "slug": "perfect-symmetry"
+                },
+                "remainingDownloads": "5",
+                "purchaseDate": "2012-05-28T14:01:14+01:00",
+                "downloadUrls": {
+                  "downloadUrl": {
+                    "url": "http://media3.7digital.com/media/user/downloadtrack?formatid=17&oauth_consumer_key=7digital.com&oauth_nonce=1105008255&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1338210356&releaseid=320866&shopid=34&trackid=3615520&oauth_signature=j7TpQbzPpDATwzwIZ84JBqnwgd0%3D",
+                    "format": {
+                      "id": "17",
+                      "fileFormat": "MP3",
+                      "bitRate": "320",
+                      "drmFree": "true"
+                    }
+                  }
+                }
+              },
+              {
+                "track": {
+                  "id": "3615522",
+                  "title": "Again & Again",
+                  "version": "",
+                  "artist": {
+                    "id": "1",
+                    "name": "Keane",
+                    "appearsAs": "Keane",
+                    "slug": "keane"
+                  },
+                  "trackNumber": "7",
+                  "duration": "230",
+                  "slug": "perfect-symmetry"
+                },
+                "remainingDownloads": "5",
+                "purchaseDate": "2012-05-28T14:01:14+01:00",
+                "downloadUrls": {
+                  "downloadUrl": {
+                    "url": "http://media3.7digital.com/media/user/downloadtrack?formatid=17&oauth_consumer_key=7digital.com&oauth_nonce=1250053515&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1338210356&releaseid=320866&shopid=34&trackid=3615522&oauth_signature=vovvW3g1ekzmlxnB%2Bpt1DZFweSE%3D",
+                    "format": {
+                      "id": "17",
+                      "fileFormat": "MP3",
+                      "bitRate": "320",
+                      "drmFree": "true"
+                    }
+                  }
+                }
+              },
+              {
+                "track": {
+                  "id": "3615523",
+                  "title": "Playing Along",
+                  "version": "",
+                  "artist": {
+                    "id": "1",
+                    "name": "Keane",
+                    "appearsAs": "Keane",
+                    "slug": "keane"
+                  },
+                  "trackNumber": "8",
+                  "duration": "333",
+                  "slug": "perfect-symmetry"
+                },
+                "remainingDownloads": "5",
+                "purchaseDate": "2012-05-28T14:01:14+01:00",
+                "downloadUrls": {
+                  "downloadUrl": {
+                    "url": "http://media3.7digital.com/media/user/downloadtrack?formatid=17&oauth_consumer_key=7digital.com&oauth_nonce=712897357&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1338210356&releaseid=320866&shopid=34&trackid=3615523&oauth_signature=24XouraZxBiuUvip6qKz3otbleI%3D",
+                    "format": {
+                      "id": "17",
+                      "fileFormat": "MP3",
+                      "bitRate": "320",
+                      "drmFree": "true"
+                    }
+                  }
+                }
+              },
+              {
+                "track": {
+                  "id": "3615524",
+                  "title": "Pretend That You're Alone",
+                  "version": "",
+                  "artist": {
+                    "id": "1",
+                    "name": "Keane",
+                    "appearsAs": "Keane",
+                    "slug": "keane"
+                  },
+                  "trackNumber": "9",
+                  "duration": "227",
+                  "slug": "perfect-symmetry"
+                },
+                "remainingDownloads": "5",
+                "purchaseDate": "2012-05-28T14:01:14+01:00",
+                "downloadUrls": {
+                  "downloadUrl": {
+                    "url": "http://media3.7digital.com/media/user/downloadtrack?formatid=17&oauth_consumer_key=7digital.com&oauth_nonce=795556436&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1338210356&releaseid=320866&shopid=34&trackid=3615524&oauth_signature=V%2BwrJABdEqD%2BK5Tiqs09rSuHNw8%3D",
+                    "format": {
+                      "id": "17",
+                      "fileFormat": "MP3",
+                      "bitRate": "320",
+                      "drmFree": "true"
+                    }
+                  }
+                }
+              },
+              {
+                "track": {
+                  "id": "3615526",
+                  "title": "Black Burning Heart",
+                  "version": "",
+                  "artist": {
+                    "id": "1",
+                    "name": "Keane",
+                    "appearsAs": "Keane",
+                    "slug": "keane"
+                  },
+                  "trackNumber": "10",
+                  "duration": "321",
+                  "slug": "perfect-symmetry"
+                },
+                "remainingDownloads": "5",
+                "purchaseDate": "2012-05-28T14:01:14+01:00",
+                "downloadUrls": {
+                  "downloadUrl": {
+                    "url": "http://media3.7digital.com/media/user/downloadtrack?formatid=17&oauth_consumer_key=7digital.com&oauth_nonce=1000838283&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1338210356&releaseid=320866&shopid=34&trackid=3615526&oauth_signature=WHNsIdqvrsdH9HbKqmVvxPVJPn8%3D",
+                    "format": {
+                      "id": "17",
+                      "fileFormat": "MP3",
+                      "bitRate": "320",
+                      "drmFree": "true"
+                    }
+                  }
+                }
+              },
+              {
+                "track": {
+                  "id": "3615527",
+                  "title": "Love Is The End",
+                  "version": "",
+                  "artist": {
+                    "id": "1",
+                    "name": "Keane",
+                    "appearsAs": "Keane",
+                    "slug": "keane"
+                  },
+                  "trackNumber": "11",
+                  "duration": "337",
+                  "slug": "perfect-symmetry"
+                },
+                "remainingDownloads": "5",
+                "purchaseDate": "2012-05-28T14:01:14+01:00",
+                "downloadUrls": {
+                  "downloadUrl": {
+                    "url": "http://media3.7digital.com/media/user/downloadtrack?formatid=17&oauth_consumer_key=7digital.com&oauth_nonce=239673126&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1338210356&releaseid=320866&shopid=34&trackid=3615527&oauth_signature=yhBd9vpx5X4eu5aa%2FfZCJ%2BJjem0%3D",
+                    "format": {
+                      "id": "17",
+                      "fileFormat": "MP3",
+                      "bitRate": "320",
+                      "drmFree": "true"
+                    }
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "release": {
+            "id": "3395525",
+            "title": "Infinity",
+            "version": "",
+            "type": "Album",
+            "barcode": "5051083079433",
+            "artist": {
+              "id": "14697",
+              "name": "Yann Tiersen",
+              "appearsAs": "Yann Tiersen",
+              "slug": "yann-tiersen"
+            },
+            "slug": "yann-tiersen",
+            "image": "http://artwork-cdn.7static.com/static/img/sleeveart/00/033/955/0003395525_50.jpg",
+            "releaseDate": "2014-05-19T00:00:00Z",
+            "licensor": {
+              "id": "48"
+            }
+          },
+          "lockerTracks": {
+            "lockerTrack": [
+              {
+                "track": {
+                  "id": "35796180",
+                  "title": "Infinity",
+                  "version": "",
+                  "artist": {
+                    "id": "14697",
+                    "name": "Yann Tiersen",
+                    "appearsAs": "Yann Tiersen",
+                    "slug": "yann-tiersen"
+                  },
+                  "trackNumber": "1",
+                  "duration": "178",
+                  "isrc": "FRPAH1400100",
+                  "slug": "yann-tiersen"
+                },
+                "remainingDownloads": "5",
+                "purchaseId": "813028726",
+                "purchaseDate": "2014-05-13T17:35:34Z",
+                "completeAlbumPurchase": "true",
+                "downloadUrls": {
+                  "downloadUrl": [
+                    {
+                      "url": "http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&oauth_nonce=kny11ww5eccwkzas&oauth_signature=FEC5NRPN4Xi9xi%2F2A%2FclFao%2FTMw%3D&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1409566196&oauth_version=1.0a&formatid=17&partnerid=712&onbehalfofpartnerid=712&presigned=1&releaseid=3395525&shopid=34&trackid=35796180&userid=121404036",
+                      "format": {
+                        "id": "17",
+                        "fileFormat": "MP3",
+                        "bitRate": "320",
+                        "drmFree": "true"
+                      }
+                    },
+                    {
+                      "url": "http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&oauth_nonce=jq0n7z5hgz3khiey&oauth_signature=7CyoA1gontDzctKchCDbc1ynqGw%3D&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1409566196&oauth_version=1.0a&formatid=33&partnerid=712&onbehalfofpartnerid=712&presigned=1&releaseid=3395525&shopid=34&trackid=35796180&userid=121404036",
+                      "format": {
+                        "id": "33",
+                        "fileFormat": "M4A",
+                        "bitRate": "320",
+                        "drmFree": "true"
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "track": {
+                  "id": "35796183",
+                  "title": "Slippery Stones",
+                  "version": "",
+                  "artist": {
+                    "id": "14697",
+                    "name": "Yann Tiersen",
+                    "appearsAs": "Yann Tiersen",
+                    "slug": "yann-tiersen"
+                  },
+                  "trackNumber": "2",
+                  "duration": "258",
+                  "isrc": "FRPAH1400010",
+                  "slug": "yann-tiersen"
+                },
+                "remainingDownloads": "5",
+                "purchaseId": "813028726",
+                "purchaseDate": "2014-05-13T17:35:34Z",
+                "completeAlbumPurchase": "true",
+                "downloadUrls": {
+                  "downloadUrl": [
+                    {
+                      "url": "http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&oauth_nonce=skzf4biziu6k6gm5&oauth_signature=pAJIxKVlJZklIycz4Qy7lBYlUDc%3D&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1409566196&oauth_version=1.0a&formatid=17&partnerid=712&onbehalfofpartnerid=712&presigned=1&releaseid=3395525&shopid=34&trackid=35796183&userid=121404036",
+                      "format": {
+                        "id": "17",
+                        "fileFormat": "MP3",
+                        "bitRate": "320",
+                        "drmFree": "true"
+                      }
+                    },
+                    {
+                      "url": "http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&oauth_nonce=2rqa2uevsrta5lx7&oauth_signature=7pZsL2H4JID4MRgGKa5nMzXR5P0%3D&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1409566196&oauth_version=1.0a&formatid=33&partnerid=712&onbehalfofpartnerid=712&presigned=1&releaseid=3395525&shopid=34&trackid=35796183&userid=121404036",
+                      "format": {
+                        "id": "33",
+                        "fileFormat": "M4A",
+                        "bitRate": "320",
+                        "drmFree": "true"
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "track": {
+                  "id": "35796185",
+                  "title": "A Midsummer Evening",
+                  "version": "",
+                  "artist": {
+                    "id": "14697",
+                    "name": "Yann Tiersen",
+                    "appearsAs": "Yann Tiersen",
+                    "slug": "yann-tiersen"
+                  },
+                  "trackNumber": "3",
+                  "duration": "253",
+                  "isrc": "FRPAH1400020",
+                  "slug": "yann-tiersen"
+                },
+                "remainingDownloads": "5",
+                "purchaseId": "813028726",
+                "purchaseDate": "2014-05-13T17:35:34Z",
+                "completeAlbumPurchase": "true",
+                "downloadUrls": {
+                  "downloadUrl": [
+                    {
+                      "url": "http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&oauth_nonce=8nd006yihkem4ul0&oauth_signature=VsHulbNs%2FmYPjb5CVGRtsgmZrSU%3D&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1409566196&oauth_version=1.0a&formatid=17&partnerid=712&onbehalfofpartnerid=712&presigned=1&releaseid=3395525&shopid=34&trackid=35796185&userid=121404036",
+                      "format": {
+                        "id": "17",
+                        "fileFormat": "MP3",
+                        "bitRate": "320",
+                        "drmFree": "true"
+                      }
+                    },
+                    {
+                      "url": "http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&oauth_nonce=m8s12e79fdwlrh68&oauth_signature=j%2FOb23FL%2FyWKjWkpfmGv1KrCxDI%3D&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1409566196&oauth_version=1.0a&formatid=33&partnerid=712&onbehalfofpartnerid=712&presigned=1&releaseid=3395525&shopid=34&trackid=35796185&userid=121404036",
+                      "format": {
+                        "id": "33",
+                        "fileFormat": "M4A",
+                        "bitRate": "320",
+                        "drmFree": "true"
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "track": {
+                  "id": "35796186",
+                  "title": "Ar Maen Bihan",
+                  "version": "",
+                  "artist": {
+                    "id": "14697",
+                    "name": "Yann Tiersen",
+                    "appearsAs": "Yann Tiersen",
+                    "slug": "yann-tiersen"
+                  },
+                  "trackNumber": "4",
+                  "duration": "413",
+                  "isrc": "FRPAH1400030",
+                  "slug": "yann-tiersen"
+                },
+                "remainingDownloads": "5",
+                "purchaseId": "813028726",
+                "purchaseDate": "2014-05-13T17:35:34Z",
+                "completeAlbumPurchase": "true",
+                "downloadUrls": {
+                  "downloadUrl": [
+                    {
+                      "url": "http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&oauth_nonce=80nrcm574h3rp239&oauth_signature=cmGHwCqN7LmAp%2Fgs3kKP17ByH1k%3D&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1409566196&oauth_version=1.0a&formatid=17&partnerid=712&onbehalfofpartnerid=712&presigned=1&releaseid=3395525&shopid=34&trackid=35796186&userid=121404036",
+                      "format": {
+                        "id": "17",
+                        "fileFormat": "MP3",
+                        "bitRate": "320",
+                        "drmFree": "true"
+                      }
+                    },
+                    {
+                      "url": "http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&oauth_nonce=guy738e4rf57im2a&oauth_signature=LvRgaoaS4gFfqqMn1rHlK%2BI757E%3D&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1409566196&oauth_version=1.0a&formatid=33&partnerid=712&onbehalfofpartnerid=712&presigned=1&releaseid=3395525&shopid=34&trackid=35796186&userid=121404036",
+                      "format": {
+                        "id": "33",
+                        "fileFormat": "M4A",
+                        "bitRate": "320",
+                        "drmFree": "true"
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "track": {
+                  "id": "35796188",
+                  "title": "Lights",
+                  "version": "",
+                  "artist": {
+                    "id": "14697",
+                    "name": "Yann Tiersen",
+                    "appearsAs": "Yann Tiersen",
+                    "slug": "yann-tiersen"
+                  },
+                  "trackNumber": "5",
+                  "duration": "221",
+                  "isrc": "FRPAH1400040",
+                  "slug": "yann-tiersen"
+                },
+                "remainingDownloads": "5",
+                "purchaseId": "813028726",
+                "purchaseDate": "2014-05-13T17:35:34Z",
+                "completeAlbumPurchase": "true",
+                "downloadUrls": {
+                  "downloadUrl": [
+                    {
+                      "url": "http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&oauth_nonce=ohp5h580dw7tlotn&oauth_signature=Sg585DxxXUbaBHkCIlNJC51zzBQ%3D&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1409566196&oauth_version=1.0a&formatid=17&partnerid=712&onbehalfofpartnerid=712&presigned=1&releaseid=3395525&shopid=34&trackid=35796188&userid=121404036",
+                      "format": {
+                        "id": "17",
+                        "fileFormat": "MP3",
+                        "bitRate": "320",
+                        "drmFree": "true"
+                      }
+                    },
+                    {
+                      "url": "http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&oauth_nonce=lyf8t9ea5t08s9yq&oauth_signature=IbH3I8kS23r6Yxr%2B1cQ2Mu2nyZg%3D&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1409566196&oauth_version=1.0a&formatid=33&partnerid=712&onbehalfofpartnerid=712&presigned=1&releaseid=3395525&shopid=34&trackid=35796188&userid=121404036",
+                      "format": {
+                        "id": "33",
+                        "fileFormat": "M4A",
+                        "bitRate": "320",
+                        "drmFree": "true"
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "track": {
+                  "id": "35796189",
+                  "title": "Grønjørd",
+                  "version": "",
+                  "artist": {
+                    "id": "14697",
+                    "name": "Yann Tiersen",
+                    "appearsAs": "Yann Tiersen",
+                    "slug": "yann-tiersen"
+                  },
+                  "trackNumber": "6",
+                  "duration": "324",
+                  "isrc": "FRPAH1400050",
+                  "slug": "yann-tiersen"
+                },
+                "remainingDownloads": "5",
+                "purchaseId": "813028726",
+                "purchaseDate": "2014-05-13T17:35:34Z",
+                "completeAlbumPurchase": "true",
+                "downloadUrls": {
+                  "downloadUrl": [
+                    {
+                      "url": "http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&oauth_nonce=q3chm92lxy4gavrd&oauth_signature=OHRW6YvHaaDw7gSIL5gidx%2BDVhA%3D&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1409566196&oauth_version=1.0a&formatid=17&partnerid=712&onbehalfofpartnerid=712&presigned=1&releaseid=3395525&shopid=34&trackid=35796189&userid=121404036",
+                      "format": {
+                        "id": "17",
+                        "fileFormat": "MP3",
+                        "bitRate": "320",
+                        "drmFree": "true"
+                      }
+                    },
+                    {
+                      "url": "http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&oauth_nonce=wquth5qqdp0x50re&oauth_signature=Pzy%2F7y8mqm8wFnE9l6mMmzMDUFM%3D&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1409566196&oauth_version=1.0a&formatid=33&partnerid=712&onbehalfofpartnerid=712&presigned=1&releaseid=3395525&shopid=34&trackid=35796189&userid=121404036",
+                      "format": {
+                        "id": "33",
+                        "fileFormat": "M4A",
+                        "bitRate": "320",
+                        "drmFree": "true"
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "track": {
+                  "id": "35796190",
+                  "title": "Steinn",
+                  "version": "",
+                  "artist": {
+                    "id": "14697",
+                    "name": "Yann Tiersen",
+                    "appearsAs": "Yann Tiersen",
+                    "slug": "yann-tiersen"
+                  },
+                  "trackNumber": "7",
+                  "duration": "254",
+                  "isrc": "FRPAH1400060",
+                  "slug": "yann-tiersen"
+                },
+                "remainingDownloads": "5",
+                "purchaseId": "813028726",
+                "purchaseDate": "2014-05-13T17:35:34Z",
+                "completeAlbumPurchase": "true",
+                "downloadUrls": {
+                  "downloadUrl": [
+                    {
+                      "url": "http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&oauth_nonce=8qctllbn85k6f8aj&oauth_signature=OEOeVrq4pKQFVHQbBrnota0fvSc%3D&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1409566196&oauth_version=1.0a&formatid=17&partnerid=712&onbehalfofpartnerid=712&presigned=1&releaseid=3395525&shopid=34&trackid=35796190&userid=121404036",
+                      "format": {
+                        "id": "17",
+                        "fileFormat": "MP3",
+                        "bitRate": "320",
+                        "drmFree": "true"
+                      }
+                    },
+                    {
+                      "url": "http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&oauth_nonce=b7lcoeiwlwe79dqx&oauth_signature=xkFXCp%2Fzeb112HGqotVuVQkqHzU%3D&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1409566196&oauth_version=1.0a&formatid=33&partnerid=712&onbehalfofpartnerid=712&presigned=1&releaseid=3395525&shopid=34&trackid=35796190&userid=121404036",
+                      "format": {
+                        "id": "33",
+                        "fileFormat": "M4A",
+                        "bitRate": "320",
+                        "drmFree": "true"
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "track": {
+                  "id": "35796192",
+                  "title": "In Our Minds",
+                  "version": "",
+                  "artist": {
+                    "id": "14697",
+                    "name": "Yann Tiersen",
+                    "appearsAs": "Yann Tiersen",
+                    "slug": "yann-tiersen"
+                  },
+                  "trackNumber": "8",
+                  "duration": "312",
+                  "isrc": "FRPAH1400070",
+                  "slug": "yann-tiersen"
+                },
+                "remainingDownloads": "5",
+                "purchaseId": "813028726",
+                "purchaseDate": "2014-05-13T17:35:34Z",
+                "completeAlbumPurchase": "true",
+                "downloadUrls": {
+                  "downloadUrl": [
+                    {
+                      "url": "http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&oauth_nonce=gyjts92kogwnuvkf&oauth_signature=MRFuwTCkwu9HM%2FgrLdWtFAdGgr0%3D&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1409566196&oauth_version=1.0a&formatid=17&partnerid=712&onbehalfofpartnerid=712&presigned=1&releaseid=3395525&shopid=34&trackid=35796192&userid=121404036",
+                      "format": {
+                        "id": "17",
+                        "fileFormat": "MP3",
+                        "bitRate": "320",
+                        "drmFree": "true"
+                      }
+                    },
+                    {
+                      "url": "http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&oauth_nonce=p1v9yo13hqizhep4&oauth_signature=FSUtKjDQv3a%2F8jbhgukO6Q1GAs4%3D&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1409566196&oauth_version=1.0a&formatid=33&partnerid=712&onbehalfofpartnerid=712&presigned=1&releaseid=3395525&shopid=34&trackid=35796192&userid=121404036",
+                      "format": {
+                        "id": "33",
+                        "fileFormat": "M4A",
+                        "bitRate": "320",
+                        "drmFree": "true"
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "track": {
+                  "id": "35796193",
+                  "title": "The Crossing",
+                  "version": "",
+                  "artist": {
+                    "id": "14697",
+                    "name": "Yann Tiersen",
+                    "appearsAs": "Yann Tiersen",
+                    "slug": "yann-tiersen"
+                  },
+                  "trackNumber": "9",
+                  "duration": "343",
+                  "isrc": "FRPAH1400080",
+                  "slug": "yann-tiersen"
+                },
+                "remainingDownloads": "5",
+                "purchaseId": "813028726",
+                "purchaseDate": "2014-05-13T17:35:34Z",
+                "completeAlbumPurchase": "true",
+                "downloadUrls": {
+                  "downloadUrl": [
+                    {
+                      "url": "http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&oauth_nonce=nwyqyq1deaxhs6cz&oauth_signature=2mVA8BTtMqzPsQE8OUchOxVQW9s%3D&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1409566196&oauth_version=1.0a&formatid=17&partnerid=712&onbehalfofpartnerid=712&presigned=1&releaseid=3395525&shopid=34&trackid=35796193&userid=121404036",
+                      "format": {
+                        "id": "17",
+                        "fileFormat": "MP3",
+                        "bitRate": "320",
+                        "drmFree": "true"
+                      }
+                    },
+                    {
+                      "url": "http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&oauth_nonce=l9rirr938qlc1cck&oauth_signature=xeg918iTtEpndkfKitQkvQjZsA8%3D&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1409566196&oauth_version=1.0a&formatid=33&partnerid=712&onbehalfofpartnerid=712&presigned=1&releaseid=3395525&shopid=34&trackid=35796193&userid=121404036",
+                      "format": {
+                        "id": "33",
+                        "fileFormat": "M4A",
+                        "bitRate": "320",
+                        "drmFree": "true"
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "track": {
+                  "id": "35796195",
+                  "title": "Meteorites",
+                  "version": "",
+                  "artist": {
+                    "id": "14697",
+                    "name": "Yann Tiersen",
+                    "appearsAs": "Yann Tiersen",
+                    "slug": "yann-tiersen"
+                  },
+                  "trackNumber": "10",
+                  "duration": "409",
+                  "isrc": "FRPAH1400090",
+                  "slug": "yann-tiersen"
+                },
+                "remainingDownloads": "5",
+                "purchaseId": "813028726",
+                "purchaseDate": "2014-05-13T17:35:34Z",
+                "completeAlbumPurchase": "true",
+                "downloadUrls": {
+                  "downloadUrl": [
+                    {
+                      "url": "http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&oauth_nonce=240875r90s4x2skm&oauth_signature=TiXMZD%2Bb3CoN8%2BcbMo3DduTSiW4%3D&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1409566196&oauth_version=1.0a&formatid=17&partnerid=712&onbehalfofpartnerid=712&presigned=1&releaseid=3395525&shopid=34&trackid=35796195&userid=121404036",
+                      "format": {
+                        "id": "17",
+                        "fileFormat": "MP3",
+                        "bitRate": "320",
+                        "drmFree": "true"
+                      }
+                    },
+                    {
+                      "url": "http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&oauth_nonce=nsnjwhl6x7tifync&oauth_signature=fV2dbrPRgSQmNEzHehWGEM%2BLJos%3D&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1409566196&oauth_version=1.0a&formatid=33&partnerid=712&onbehalfofpartnerid=712&presigned=1&releaseid=3395525&shopid=34&trackid=35796195&userid=121404036",
+                      "format": {
+                        "id": "33",
+                        "fileFormat": "M4A",
+                        "bitRate": "320",
+                        "drmFree": "true"
+                      }
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          "available": "true"
+        },
+        {
+          "release": {
+            "id": "659847",
+            "title": "Leoncavallo: I Pagliacci",
+            "version": "",
+            "type": "Album",
+            "barcode": "00028947577539",
+            "artist": {
+              "id": "1129983",
+              "name": "Orchestra of the Teatro Massimo Bellini, Catania / Stefano Antonucci / Chorus of the Teatro Massimo Bellini, Catania / Ana María Martínez / Andrea Bocelli",
+              "appearsAs": "Orchestra of the Teatro Massimo Bellini, Catania / Stefano Antonucci / Chorus of the Teatro Massimo Bellini, Catania / Ana María Martínez / Andrea Bocelli",
+              "slug": "orchestra-of-the-teatro-massimo-bellini-catania-stefano-antonucci-chorus-of-the-teatro-massimo-bellini-catania-ana-maria-martinez-andrea-bocelli-1"
+            },
+            "slug": "orchestra-of-the-teatro-massimo-bellini-catania-stefano-antonucci-chorus-of-the-teatro-massimo-bellini-catania-ana-maria-martinez-andrea-bocelli-1",
+            "image": "http://artwork-cdn.7static.com/static/img/sleeveart/00/006/598/0000659847_50.jpg",
+            "releaseDate": "2007-03-19T00:00:00Z",
+            "licensor": {
+              "id": "1"
+            }
+          },
+          "lockerTracks": {
+            "lockerTrack": [
+              {
+                "track": {
+                  "id": "7312971",
+                  "title": "Leoncavallo: Pagliacci / Act 1 - \"Un tal gioco, credetemi\"",
+                  "version": "",
+                  "artist": {
+                    "id": "1129985",
+                    "name": "Steven Mercurio / Orchestra of the Teatro Massimo Bellini, Catania / Chorus of the Teatro Massimo Bellini, Catania / Ana María Martínez / Andrea Bocelli",
+                    "appearsAs": "Steven Mercurio / Orchestra of the Teatro Massimo Bellini, Catania / Chorus of the Teatro Massimo Bellini, Catania / Ana María Martínez / Andrea Bocelli",
+                    "slug": "steven-mercurio-orchestra-of-the-teatro-massimo-bellini-catania-chorus-of-the-teatro-massimo-bellini-catania-ana-maria-martinez-andrea-bocelli"
+                  },
+                  "trackNumber": "5",
+                  "duration": "186",
+                  "isrc": "ITZ040500047",
+                  "slug": "orchestra-of-the-teatro-massimo-bellini-catania-stefano-antonucci-chorus-of-the-teatro-massimo-bellini-catania-ana-maria-martinez-andrea-bocelli-1"
+                },
+                "remainingDownloads": "5",
+                "purchaseId": "812788974",
+                "purchaseDate": "2014-05-02T15:25:03Z",
+                "completeAlbumPurchase": "false",
+                "downloadUrls": {
+                  "downloadUrl": {
+                    "url": "http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&oauth_nonce=spvanj3rsdhhvv6t&oauth_signature=7IgmTMPmXfMiFt2ANZyTjXYiJz0%3D&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1409566196&oauth_version=1.0a&formatid=17&partnerid=712&onbehalfofpartnerid=712&presigned=1&releaseid=659847&shopid=34&trackid=7312971&userid=121404036",
+                    "format": {
+                      "id": "17",
+                      "fileFormat": "MP3",
+                      "bitRate": "320",
+                      "drmFree": "true"
+                    }
+                  }
+                }
+              },
+              {
+                "track": {
+                  "id": "7313000",
+                  "title": "Leoncavallo: Pagliacci / Act 1 - \"Qual fiamma aveva nel guardo!\"",
+                  "version": "",
+                  "artist": {
+                    "id": "1129987",
+                    "name": "Steven Mercurio / Orchestra of the Teatro Massimo Bellini, Catania / Ana María Martínez",
+                    "appearsAs": "Steven Mercurio / Orchestra of the Teatro Massimo Bellini, Catania / Ana María Martínez",
+                    "slug": "steven-mercurio-orchestra-of-the-teatro-massimo-bellini-catania-ana-maria-martinez"
+                  },
+                  "trackNumber": "7",
+                  "duration": "160",
+                  "isrc": "ITZ040500049",
+                  "slug": "orchestra-of-the-teatro-massimo-bellini-catania-stefano-antonucci-chorus-of-the-teatro-massimo-bellini-catania-ana-maria-martinez-andrea-bocelli-1"
+                },
+                "remainingDownloads": "5",
+                "purchaseId": "812788974",
+                "purchaseDate": "2014-05-02T15:25:03Z",
+                "completeAlbumPurchase": "false",
+                "downloadUrls": {
+                  "downloadUrl": {
+                    "url": "http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&oauth_nonce=gzew3y95b8kh6gv4&oauth_signature=89zjwoY9DEN%2FaV5PjHR3bLgqFOE%3D&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1409566196&oauth_version=1.0a&formatid=17&partnerid=712&onbehalfofpartnerid=712&presigned=1&releaseid=659847&shopid=34&trackid=7313000&userid=121404036",
+                    "format": {
+                      "id": "17",
+                      "fileFormat": "MP3",
+                      "bitRate": "320",
+                      "drmFree": "true"
+                    }
+                  }
+                }
+              },
+              {
+                "track": {
+                  "id": "7313089",
+                  "title": "Leoncavallo: Pagliacci / Act 1 - Cammina adagio",
+                  "version": "",
+                  "artist": {
+                    "id": "1129992",
+                    "name": "Steven Mercurio / Orchestra of the Teatro Massimo Bellini, Catania / Roberto Accurso / Stefano Antonucci / Ana María Martínez / Andrea Bocelli",
+                    "appearsAs": "Steven Mercurio / Orchestra of the Teatro Massimo Bellini, Catania / Roberto Accurso / Stefano Antonucci / Ana María Martínez / Andrea Bocelli",
+                    "slug": "steven-mercurio-orchestra-of-the-teatro-massimo-bellini-catania-roberto-accurso-stefano-antonucci-ana-maria-martinez-andrea-bocelli"
+                  },
+                  "trackNumber": "14",
+                  "duration": "106",
+                  "isrc": "ITZ040500056",
+                  "slug": "orchestra-of-the-teatro-massimo-bellini-catania-stefano-antonucci-chorus-of-the-teatro-massimo-bellini-catania-ana-maria-martinez-andrea-bocelli-1"
+                },
+                "remainingDownloads": "5",
+                "purchaseId": "812788974",
+                "purchaseDate": "2014-05-02T15:25:03Z",
+                "completeAlbumPurchase": "false",
+                "downloadUrls": {
+                  "downloadUrl": {
+                    "url": "http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&oauth_nonce=obnvrce68gkggsgr&oauth_signature=CQfiY8XcR1TfcfXIjwCDZYwXA7U%3D&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1409566196&oauth_version=1.0a&formatid=17&partnerid=712&onbehalfofpartnerid=712&presigned=1&releaseid=659847&shopid=34&trackid=7313089&userid=121404036",
+                    "format": {
+                      "id": "17",
+                      "fileFormat": "MP3",
+                      "bitRate": "320",
+                      "drmFree": "true"
+                    }
+                  }
+                }
+              }
+            ]
+          },
+          "available": "true"
+        },
+        {
+          "release": {
+            "id": "438137",
+            "title": "Decksandrumsandrockandroll",
+            "version": "",
+            "type": "Album",
+            "barcode": "00600445003125",
+            "artist": {
+              "id": "45369",
+              "name": "Propellerheads",
+              "appearsAs": "Propellerheads",
+              "slug": "propellerheads"
+            },
+            "slug": "propellerheads",
+            "image": "http://artwork-cdn.7static.com/static/img/sleeveart/00/004/381/0000438137_50.jpg",
+            "releaseDate": "2030-04-26T00:00:00Z",
+            "licensor": {
+              "id": "1"
+            }
+          },
+          "lockerTracks": {
+            "lockerTrack": [
+              {
+                "track": {
+                  "id": "4903562",
+                  "title": "Take California",
+                  "version": "",
+                  "artist": {
+                    "id": "45369",
+                    "name": "Propellerheads",
+                    "appearsAs": "Propellerheads",
+                    "slug": "propellerheads"
+                  },
+                  "trackNumber": "1",
+                  "duration": "442",
+                  "isrc": "USDW19703101",
+                  "slug": "propellerheads"
+                },
+                "remainingDownloads": "5",
+                "purchaseId": "812788974",
+                "purchaseDate": "2014-05-02T15:25:03Z",
+                "completeAlbumPurchase": "true",
+                "downloadUrls": {
+                  "downloadUrl": {
+                    "url": "http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&oauth_nonce=93aszlm5q19q0vvl&oauth_signature=ZwSoy2NYc5ZQP%2FxEerfQnwN1%2BH0%3D&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1409566196&oauth_version=1.0a&formatid=17&partnerid=712&onbehalfofpartnerid=712&presigned=1&releaseid=438137&shopid=34&trackid=4903562&userid=121404036",
+                    "format": {
+                      "id": "17",
+                      "fileFormat": "MP3",
+                      "bitRate": "320",
+                      "drmFree": "true"
+                    }
+                  }
+                }
+              },
+              {
+                "track": {
+                  "id": "4903565",
+                  "title": "Velvet Pants",
+                  "version": "",
+                  "artist": {
+                    "id": "45369",
+                    "name": "Propellerheads",
+                    "appearsAs": "Propellerheads",
+                    "slug": "propellerheads"
+                  },
+                  "trackNumber": "2",
+                  "duration": "347",
+                  "isrc": "USDW19703109",
+                  "slug": "propellerheads"
+                },
+                "remainingDownloads": "5",
+                "purchaseId": "812788974",
+                "purchaseDate": "2014-05-02T15:25:03Z",
+                "completeAlbumPurchase": "true",
+                "downloadUrls": {
+                  "downloadUrl": {
+                    "url": "http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&oauth_nonce=so4uikbduiywo3yt&oauth_signature=T14Dg1ukydyaiKvsQUa%2FudNv3gY%3D&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1409566196&oauth_version=1.0a&formatid=17&partnerid=712&onbehalfofpartnerid=712&presigned=1&releaseid=438137&shopid=34&trackid=4903565&userid=121404036",
+                    "format": {
+                      "id": "17",
+                      "fileFormat": "MP3",
+                      "bitRate": "320",
+                      "drmFree": "true"
+                    }
+                  }
+                }
+              },
+              {
+                "track": {
+                  "id": "4903567",
+                  "title": "Better?",
+                  "version": "",
+                  "artist": {
+                    "id": "45369",
+                    "name": "Propellerheads",
+                    "appearsAs": "Propellerheads",
+                    "slug": "propellerheads"
+                  },
+                  "trackNumber": "3",
+                  "duration": "123",
+                  "isrc": "USDW19703113",
+                  "slug": "propellerheads"
+                },
+                "remainingDownloads": "5",
+                "purchaseId": "812788974",
+                "purchaseDate": "2014-05-02T15:25:03Z",
+                "completeAlbumPurchase": "true",
+                "downloadUrls": {
+                  "downloadUrl": {
+                    "url": "http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&oauth_nonce=13idfcecysf1dy6l&oauth_signature=GZnnJAdviprkMZb06x97LL8tPIY%3D&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1409566196&oauth_version=1.0a&formatid=17&partnerid=712&onbehalfofpartnerid=712&presigned=1&releaseid=438137&shopid=34&trackid=4903567&userid=121404036",
+                    "format": {
+                      "id": "17",
+                      "fileFormat": "MP3",
+                      "bitRate": "320",
+                      "drmFree": "true"
+                    }
+                  }
+                }
+              },
+              {
+                "track": {
+                  "id": "4903569",
+                  "title": "360? (Oh Yeah?)",
+                  "version": "",
+                  "artist": {
+                    "id": "327699",
+                    "name": "Propellerheads / De La Soul",
+                    "appearsAs": "Propellerheads / De La Soul",
+                    "slug": "propellerheads-de-la-soul"
+                  },
+                  "trackNumber": "4",
+                  "duration": "268",
+                  "isrc": "USDW19703117",
+                  "slug": "propellerheads"
+                },
+                "remainingDownloads": "5",
+                "purchaseId": "812788974",
+                "purchaseDate": "2014-05-02T15:25:03Z",
+                "completeAlbumPurchase": "true",
+                "downloadUrls": {
+                  "downloadUrl": {
+                    "url": "http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&oauth_nonce=u9x2zwiy189rxzqy&oauth_signature=1TGVPxblyt8DDt9L%2BG4DIO8DwRc%3D&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1409566196&oauth_version=1.0a&formatid=17&partnerid=712&onbehalfofpartnerid=712&presigned=1&releaseid=438137&shopid=34&trackid=4903569&userid=121404036",
+                    "format": {
+                      "id": "17",
+                      "fileFormat": "MP3",
+                      "bitRate": "320",
+                      "drmFree": "true"
+                    }
+                  }
+                }
+              },
+              {
+                "track": {
+                  "id": "4903571",
+                  "title": "History Repeating",
+                  "version": "",
+                  "artist": {
+                    "id": "327700",
+                    "name": "Propellerheads / Shirley Bassey",
+                    "appearsAs": "Propellerheads / Shirley Bassey",
+                    "slug": "propellerheads-shirley-bassey"
+                  },
+                  "trackNumber": "5",
+                  "duration": "243",
+                  "isrc": "USDW19703110",
+                  "slug": "propellerheads"
+                },
+                "remainingDownloads": "5",
+                "purchaseId": "812788974",
+                "purchaseDate": "2014-05-02T15:25:03Z",
+                "completeAlbumPurchase": "true",
+                "downloadUrls": {
+                  "downloadUrl": {
+                    "url": "http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&oauth_nonce=bpzhmsgpk16zela6&oauth_signature=4wJi7oGWQmNCJL5fETlO6Vjgswk%3D&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1409566196&oauth_version=1.0a&formatid=17&partnerid=712&onbehalfofpartnerid=712&presigned=1&releaseid=438137&shopid=34&trackid=4903571&userid=121404036",
+                    "format": {
+                      "id": "17",
+                      "fileFormat": "MP3",
+                      "bitRate": "320",
+                      "drmFree": "true"
+                    }
+                  }
+                }
+              },
+              {
+                "track": {
+                  "id": "4903573",
+                  "title": "Winning Style",
+                  "version": "",
+                  "artist": {
+                    "id": "45369",
+                    "name": "Propellerheads",
+                    "appearsAs": "Propellerheads",
+                    "slug": "propellerheads"
+                  },
+                  "trackNumber": "6",
+                  "duration": "358",
+                  "isrc": "USDW19703111",
+                  "slug": "propellerheads"
+                },
+                "remainingDownloads": "5",
+                "purchaseId": "812788974",
+                "purchaseDate": "2014-05-02T15:25:03Z",
+                "completeAlbumPurchase": "true",
+                "downloadUrls": {
+                  "downloadUrl": {
+                    "url": "http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&oauth_nonce=mmcpe84euumiewp9&oauth_signature=t4ZoDVG4ObL1qO5o%2BbZr7tahKmo%3D&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1409566196&oauth_version=1.0a&formatid=17&partnerid=712&onbehalfofpartnerid=712&presigned=1&releaseid=438137&shopid=34&trackid=4903573&userid=121404036",
+                    "format": {
+                      "id": "17",
+                      "fileFormat": "MP3",
+                      "bitRate": "320",
+                      "drmFree": "true"
+                    }
+                  }
+                }
+              },
+              {
+                "track": {
+                  "id": "4903575",
+                  "title": "Bang On!",
+                  "version": "",
+                  "artist": {
+                    "id": "45369",
+                    "name": "Propellerheads",
+                    "appearsAs": "Propellerheads",
+                    "slug": "propellerheads"
+                  },
+                  "trackNumber": "7",
+                  "duration": "345",
+                  "isrc": "USDW19703106",
+                  "slug": "propellerheads"
+                },
+                "remainingDownloads": "5",
+                "purchaseId": "812788974",
+                "purchaseDate": "2014-05-02T15:25:03Z",
+                "completeAlbumPurchase": "true",
+                "downloadUrls": {
+                  "downloadUrl": {
+                    "url": "http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&oauth_nonce=cqyx0y0b3ir91stp&oauth_signature=Ph%2F%2F0yRxLVjI4Qv458lT5LeY7Ho%3D&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1409566196&oauth_version=1.0a&formatid=17&partnerid=712&onbehalfofpartnerid=712&presigned=1&releaseid=438137&shopid=34&trackid=4903575&userid=121404036",
+                    "format": {
+                      "id": "17",
+                      "fileFormat": "MP3",
+                      "bitRate": "320",
+                      "drmFree": "true"
+                    }
+                  }
+                }
+              },
+              {
+                "track": {
+                  "id": "4903578",
+                  "title": "A Number Of Microphones",
+                  "version": "",
+                  "artist": {
+                    "id": "45369",
+                    "name": "Propellerheads",
+                    "appearsAs": "Propellerheads",
+                    "slug": "propellerheads"
+                  },
+                  "trackNumber": "8",
+                  "duration": "46",
+                  "isrc": "USDW19703112",
+                  "slug": "propellerheads"
+                },
+                "remainingDownloads": "5",
+                "purchaseId": "812788974",
+                "purchaseDate": "2014-05-02T15:25:03Z",
+                "completeAlbumPurchase": "true",
+                "downloadUrls": {
+                  "downloadUrl": {
+                    "url": "http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&oauth_nonce=8cekxatevuw2g8kx&oauth_signature=Rahmz%2FjIR%2FVMIJ0O0L%2BzgxRziHY%3D&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1409566196&oauth_version=1.0a&formatid=17&partnerid=712&onbehalfofpartnerid=712&presigned=1&releaseid=438137&shopid=34&trackid=4903578&userid=121404036",
+                    "format": {
+                      "id": "17",
+                      "fileFormat": "MP3",
+                      "bitRate": "320",
+                      "drmFree": "true"
+                    }
+                  }
+                }
+              },
+              {
+                "track": {
+                  "id": "4903579",
+                  "title": "On Her Majesty's Secret Service",
+                  "version": "",
+                  "artist": {
+                    "id": "45369",
+                    "name": "Propellerheads",
+                    "appearsAs": "Propellerheads",
+                    "slug": "propellerheads"
+                  },
+                  "trackNumber": "9",
+                  "duration": "561",
+                  "isrc": "USDW19703114",
+                  "slug": "propellerheads"
+                },
+                "remainingDownloads": "5",
+                "purchaseId": "812788974",
+                "purchaseDate": "2014-05-02T15:25:03Z",
+                "completeAlbumPurchase": "true",
+                "downloadUrls": {
+                  "downloadUrl": {
+                    "url": "http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&oauth_nonce=l8xywm7ynax7p6ob&oauth_signature=jqwAiqwffQI1v90V8YTc2%2BGpboo%3D&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1409566196&oauth_version=1.0a&formatid=17&partnerid=712&onbehalfofpartnerid=712&presigned=1&releaseid=438137&shopid=34&trackid=4903579&userid=121404036",
+                    "format": {
+                      "id": "17",
+                      "fileFormat": "MP3",
+                      "bitRate": "320",
+                      "drmFree": "true"
+                    }
+                  }
+                }
+              },
+              {
+                "track": {
+                  "id": "4903581",
+                  "title": "Bigger?",
+                  "version": "",
+                  "artist": {
+                    "id": "45369",
+                    "name": "Propellerheads",
+                    "appearsAs": "Propellerheads",
+                    "slug": "propellerheads"
+                  },
+                  "trackNumber": "10",
+                  "duration": "140",
+                  "isrc": "USDW19703115",
+                  "slug": "propellerheads"
+                },
+                "remainingDownloads": "5",
+                "purchaseId": "812788974",
+                "purchaseDate": "2014-05-02T15:25:03Z",
+                "completeAlbumPurchase": "true",
+                "downloadUrls": {
+                  "downloadUrl": {
+                    "url": "http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&oauth_nonce=b8lcsfkb8tbpbh65&oauth_signature=OdRz8UHBhJPzLG%2FUd8wF9MM%2F1Lo%3D&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1409566196&oauth_version=1.0a&formatid=17&partnerid=712&onbehalfofpartnerid=712&presigned=1&releaseid=438137&shopid=34&trackid=4903581&userid=121404036",
+                    "format": {
+                      "id": "17",
+                      "fileFormat": "MP3",
+                      "bitRate": "320",
+                      "drmFree": "true"
+                    }
+                  }
+                }
+              },
+              {
+                "track": {
+                  "id": "4903583",
+                  "title": "Cominagetcha",
+                  "version": "",
+                  "artist": {
+                    "id": "45369",
+                    "name": "Propellerheads",
+                    "appearsAs": "Propellerheads",
+                    "slug": "propellerheads"
+                  },
+                  "trackNumber": "11",
+                  "duration": "423",
+                  "isrc": "USDW19703116",
+                  "slug": "propellerheads"
+                },
+                "remainingDownloads": "5",
+                "purchaseId": "812788974",
+                "purchaseDate": "2014-05-02T15:25:03Z",
+                "completeAlbumPurchase": "true",
+                "downloadUrls": {
+                  "downloadUrl": {
+                    "url": "http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&oauth_nonce=95x4663ufp7xnxz1&oauth_signature=Wlslb0FsxJ23PAptwOBGaAq7eQQ%3D&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1409566196&oauth_version=1.0a&formatid=17&partnerid=712&onbehalfofpartnerid=712&presigned=1&releaseid=438137&shopid=34&trackid=4903583&userid=121404036",
+                    "format": {
+                      "id": "17",
+                      "fileFormat": "MP3",
+                      "bitRate": "320",
+                      "drmFree": "true"
+                    }
+                  }
+                }
+              },
+              {
+                "track": {
+                  "id": "4903586",
+                  "title": "Spybreak!",
+                  "version": "",
+                  "artist": {
+                    "id": "45369",
+                    "name": "Propellerheads",
+                    "appearsAs": "Propellerheads",
+                    "slug": "propellerheads"
+                  },
+                  "trackNumber": "12",
+                  "duration": "418",
+                  "isrc": "USDW19703102",
+                  "slug": "propellerheads"
+                },
+                "remainingDownloads": "5",
+                "purchaseId": "812788974",
+                "purchaseDate": "2014-05-02T15:25:03Z",
+                "completeAlbumPurchase": "true",
+                "downloadUrls": {
+                  "downloadUrl": {
+                    "url": "http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&oauth_nonce=fv1jvhegww1ckrwf&oauth_signature=OhnNQ%2BJQM2eE1va32MdNad%2Bb7RU%3D&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1409566196&oauth_version=1.0a&formatid=17&partnerid=712&onbehalfofpartnerid=712&presigned=1&releaseid=438137&shopid=34&trackid=4903586&userid=121404036",
+                    "format": {
+                      "id": "17",
+                      "fileFormat": "MP3",
+                      "bitRate": "320",
+                      "drmFree": "true"
+                    }
+                  }
+                }
+              },
+              {
+                "track": {
+                  "id": "4903590",
+                  "title": "You Want It Back",
+                  "version": "",
+                  "artist": {
+                    "id": "327701",
+                    "name": "Propellerheads / Jungle Brothers",
+                    "appearsAs": "Propellerheads / Jungle Brothers",
+                    "slug": "propellerheads-jungle-brothers"
+                  },
+                  "trackNumber": "13",
+                  "duration": "359",
+                  "isrc": "USDW19703118",
+                  "slug": "propellerheads"
+                },
+                "remainingDownloads": "5",
+                "purchaseId": "812788974",
+                "purchaseDate": "2014-05-02T15:25:03Z",
+                "completeAlbumPurchase": "true",
+                "downloadUrls": {
+                  "downloadUrl": {
+                    "url": "http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&oauth_nonce=f39vhvgge17cixyk&oauth_signature=YWhdVue0J30Mu8s8mcOEO0pG8ps%3D&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1409566196&oauth_version=1.0a&formatid=17&partnerid=712&onbehalfofpartnerid=712&presigned=1&releaseid=438137&shopid=34&trackid=4903590&userid=121404036",
+                    "format": {
+                      "id": "17",
+                      "fileFormat": "MP3",
+                      "bitRate": "320",
+                      "drmFree": "true"
+                    }
+                  }
+                }
+              }
+            ]
+          },
+          "available": "true"
         }
+      ]
     }
+  }
 }

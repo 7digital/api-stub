@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <response xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" status="ok" version="1.2" xsi:noNamespaceSchemaLocation="http://api.7digital.com/1.2/static/7digitalAPI.xsd">
-	<basket id="00000000-0000-0000-0000-000000000000">
-		<itemCount>0</itemCount>
-		<price>
-			<currency code="GBP">£</currency>
-			<value>0</value>
-			<formattedPrice>£0.00</formattedPrice>
-			<rrp>0</rrp>
-			<formattedRrp>£0.00</formattedRrp>
-		</price>
-		<basketItems/>
-		<amountDue>
-			<currency code="GBP">£</currency>
-			<amount>0</amount>
-			<formattedAmount>£0.00</formattedAmount>
-		</amountDue>
-	</basket>
+  <basket id="00000000-0000-0000-0000-000000000000">
+    <itemCount>0</itemCount>
+    <price>
+      <currency code="GBP">£</currency>
+      <value>0</value>
+      <formattedPrice>£0.00</formattedPrice>
+      <rrp>0</rrp>
+      <formattedRrp>£0.00</formattedRrp>
+    </price>
+    <basketItems/>
+    <amountDue>
+      <currency code="GBP">£</currency>
+      <amount>0</amount>
+      <formattedAmount>£0.00</formattedAmount>
+    </amountDue>
+  </basket>
 </response>

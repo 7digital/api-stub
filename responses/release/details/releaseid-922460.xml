@@ -1,62 +1,46 @@
 <?xml version="1.0" encoding="utf-8"?>
 <response xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" status="ok" version="1.2" xsi:noNamespaceSchemaLocation="http://api.7digital.com/1.2/static/7digitalAPI.xsd">
-	<release id="922460">
-		<title>Mozart: Complete Edition Box 10: Missae, Requiem etc (11 CDs)</title>
-		<version/>
-		<type>Album</type>
-		<barcode>00028946486023</barcode>
-		<year>2014</year>
-		<explicitContent>false</explicitContent>
-		<artist id="209">
-			<name>Various Artists</name>
-			<appearsAs>Various Artists</appearsAs>
-			<url>http://www.7digital.com/artist/various-artists/?partner=3923</url>
-		</artist>
-		<url>http://www.7digital.com/artist/various-artists/release/mozart-complete-edition-box-10-missae-requiem-etc-11-cds-1/?partner=3923</url>
-		<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/009/224/0000922460_50.jpg</image>
-		<releaseDate>2005-10-17T00:00:00Z</releaseDate>
-		<addedDate>2011-07-06T15:14:56Z</addedDate>
-		<price>
-			<currency code="GBP">£</currency>
-			<value>35.99</value>
-			<formattedPrice>£35.99</formattedPrice>
-			<rrp>35.99</rrp>
-			<formattedRrp>£35.99</formattedRrp>
-			<onSale>false</onSale>
-		</price>
-		<download>
-			<packages>
-				<package id="2">
-					<description>standard</description>
-					<price>
-						<currencyCode>GBP</currencyCode>
-						<sevendigitalPrice>35.99</sevendigitalPrice>
-						<recommendedRetailPrice>35.99</recommendedRetailPrice>
-					</price>
-					<formats>
-						<format id="17">
-							<description>MP3 320</description>
-						</format>
-					</formats>
-				</package>
-			</packages>
-		</download>
-		<formats availableDrmFree="true">
-			<format id="17">
-				<fileFormat>MP3</fileFormat>
-				<bitRate>320</bitRate>
-				<drmFree>true</drmFree>
-			</format>
-		</formats>
-		<label id="91940">
-			<name>Universal Music Pte. Ltd.</name>
-		</label>
-		<licensor id="1">
-			<name>Universal</name>
-		</licensor>
-		<popularity>0</popularity>
-		<streamingReleaseDate>2005-10-17T00:00:00Z</streamingReleaseDate>
-		<duration>35953</duration>
-		<trackCount>147</trackCount>
-	</release>
+  <release id="922460">
+    <title>Mozart: Complete Edition Box 10: Missae, Requiem etc (11 CDs)</title>
+    <version/>
+    <type>Album</type>
+    <barcode>00028946486023</barcode>
+    <year>2014</year>
+    <explicitContent>false</explicitContent>
+    <artist id="209">
+      <name>Various Artists</name>
+      <appearsAs>Various Artists</appearsAs>
+      <slug>various-artists</slug>
+    </artist>
+    <slug>mozart-complete-edition-box-10-missae-requiem-etc-11-cds-1</slug>
+    <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/009/224/0000922460_50.jpg</image>
+    <download>
+      <packages>
+        <package id="2">
+          <description>standard</description>
+          <price>
+            <currencyCode>GBP</currencyCode>
+            <sevendigitalPrice>35.99</sevendigitalPrice>
+            <recommendedRetailPrice>35.99</recommendedRetailPrice>
+          </price>
+          <formats>
+            <format id="17">
+              <description>MP3 320</description>
+            </format>
+          </formats>
+        </package>
+      </packages>
+      <releaseDate>2005-10-17T00:00:00Z</releaseDate>
+    </download>
+    <label id="91940">
+      <name>Universal Music Pte. Ltd.</name>
+    </label>
+    <licensor id="1">
+      <name>Universal</name>
+    </licensor>
+    <popularity>0</popularity>
+    <streamingReleaseDate>2005-10-17T00:00:00Z</streamingReleaseDate>
+    <duration>35953</duration>
+    <trackCount>147</trackCount>
+  </release>
 </response>

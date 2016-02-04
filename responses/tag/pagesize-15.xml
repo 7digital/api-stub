@@ -1,83 +1,83 @@
 <?xml version="1.0" encoding="utf-8"?>
 <response xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" status="ok" version="1.2" xsi:noNamespaceSchemaLocation="http://api.7digital.com/1.2/static/7digitalAPI.xsd">
-	<tags>
-		<page>1</page>
-		<pageSize>15</pageSize>
-		<totalItems>471</totalItems>
-		<tag id="pop">
-			<text>pop</text>
-			<url>http://www.7digital.com/tags/pop/?partner=3923</url>
-			<count>329270</count>
-		</tag>
-		<tag id="electronic">
-			<text>electronic</text>
-			<url>http://www.7digital.com/tags/electronic/?partner=3923</url>
-			<count>201138</count>
-		</tag>
-		<tag id="dance">
-			<text>dance</text>
-			<url>http://www.7digital.com/tags/dance/?partner=3923</url>
-			<count>192120</count>
-		</tag>
-		<tag id="rock">
-			<text>rock</text>
-			<url>http://www.7digital.com/tags/rock/?partner=3923</url>
-			<count>166335</count>
-		</tag>
-		<tag id="jazz">
-			<text>jazz</text>
-			<url>http://www.7digital.com/tags/jazz/?partner=3923</url>
-			<count>113394</count>
-		</tag>
-		<tag id="world">
-			<text>world</text>
-			<url>http://www.7digital.com/tags/world/?partner=3923</url>
-			<count>89969</count>
-		</tag>
-		<tag id="classical">
-			<text>classical</text>
-			<url>http://www.7digital.com/tags/classical/?partner=3923</url>
-			<count>75828</count>
-		</tag>
-		<tag id="compilation">
-			<text>compilation</text>
-			<url>http://www.7digital.com/tags/compilation/?partner=3923</url>
-			<count>75654</count>
-		</tag>
-		<tag id="house">
-			<text>house</text>
-			<url>http://www.7digital.com/tags/house/?partner=3923</url>
-			<count>65689</count>
-		</tag>
-		<tag id="alternative">
-			<text>alternative</text>
-			<url>http://www.7digital.com/tags/alternative/?partner=3923</url>
-			<count>58945</count>
-		</tag>
-		<tag id="instrumental">
-			<text>instrumental</text>
-			<url>http://www.7digital.com/tags/instrumental/?partner=3923</url>
-			<count>54421</count>
-		</tag>
-		<tag id="country">
-			<text>country</text>
-			<url>http://www.7digital.com/tags/country/?partner=3923</url>
-			<count>50580</count>
-		</tag>
-		<tag id="latin">
-			<text>latin</text>
-			<url>http://www.7digital.com/tags/latin/?partner=3923</url>
-			<count>44645</count>
-		</tag>
-		<tag id="techno">
-			<text>techno</text>
-			<url>http://www.7digital.com/tags/techno/?partner=3923</url>
-			<count>36088</count>
-		</tag>
-		<tag id="folk">
-			<text>folk</text>
-			<url>http://www.7digital.com/tags/folk/?partner=3923</url>
-			<count>35745</count>
-		</tag>
-	</tags>
+  <tags>
+    <page>1</page>
+    <pageSize>15</pageSize>
+    <totalItems>471</totalItems>
+    <tag id="pop">
+      <text>pop</text>
+      <url>http://www.7digital.com/tags/pop/?partner=3923</url>
+      <count>329270</count>
+    </tag>
+    <tag id="electronic">
+      <text>electronic</text>
+      <url>http://www.7digital.com/tags/electronic/?partner=3923</url>
+      <count>201138</count>
+    </tag>
+    <tag id="dance">
+      <text>dance</text>
+      <url>http://www.7digital.com/tags/dance/?partner=3923</url>
+      <count>192120</count>
+    </tag>
+    <tag id="rock">
+      <text>rock</text>
+      <url>http://www.7digital.com/tags/rock/?partner=3923</url>
+      <count>166335</count>
+    </tag>
+    <tag id="jazz">
+      <text>jazz</text>
+      <url>http://www.7digital.com/tags/jazz/?partner=3923</url>
+      <count>113394</count>
+    </tag>
+    <tag id="world">
+      <text>world</text>
+      <url>http://www.7digital.com/tags/world/?partner=3923</url>
+      <count>89969</count>
+    </tag>
+    <tag id="classical">
+      <text>classical</text>
+      <url>http://www.7digital.com/tags/classical/?partner=3923</url>
+      <count>75828</count>
+    </tag>
+    <tag id="compilation">
+      <text>compilation</text>
+      <url>http://www.7digital.com/tags/compilation/?partner=3923</url>
+      <count>75654</count>
+    </tag>
+    <tag id="house">
+      <text>house</text>
+      <url>http://www.7digital.com/tags/house/?partner=3923</url>
+      <count>65689</count>
+    </tag>
+    <tag id="alternative">
+      <text>alternative</text>
+      <url>http://www.7digital.com/tags/alternative/?partner=3923</url>
+      <count>58945</count>
+    </tag>
+    <tag id="instrumental">
+      <text>instrumental</text>
+      <url>http://www.7digital.com/tags/instrumental/?partner=3923</url>
+      <count>54421</count>
+    </tag>
+    <tag id="country">
+      <text>country</text>
+      <url>http://www.7digital.com/tags/country/?partner=3923</url>
+      <count>50580</count>
+    </tag>
+    <tag id="latin">
+      <text>latin</text>
+      <url>http://www.7digital.com/tags/latin/?partner=3923</url>
+      <count>44645</count>
+    </tag>
+    <tag id="techno">
+      <text>techno</text>
+      <url>http://www.7digital.com/tags/techno/?partner=3923</url>
+      <count>36088</count>
+    </tag>
+    <tag id="folk">
+      <text>folk</text>
+      <url>http://www.7digital.com/tags/folk/?partner=3923</url>
+      <count>35745</count>
+    </tag>
+  </tags>
 </response>

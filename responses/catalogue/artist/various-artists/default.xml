@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <response status="ok" version="1.2">
-	<artist id="209" key="various-artists">
-		<name>Various Artists</name>
-		<sortname>Various Artists</sortname>
-	</artist>
+  <artist id="209" key="various-artists">
+    <name>Various Artists</name>
+    <sortname>Various Artists</sortname>
+  </artist>
 </response>

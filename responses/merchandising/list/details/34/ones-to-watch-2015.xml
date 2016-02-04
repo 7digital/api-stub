@@ -1,504 +1,353 @@
 <?xml version="1.0" encoding="utf-8"?>
 <response xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" status="ok" version="1.2" xsi:noNamespaceSchemaLocation="http://api.7digital.com/1.2/static/7digitalAPI.xsd">
-	<list id="3987">
-		<key>best-of-2014-so-far-1</key>
-		<listItems>
-			<listItem id="3918446">
-				<type>release</type>
-				<release id="3918446">
-					<title>1989</title>
-					<version/>
-					<type>Album</type>
-					<barcode>00602547066886</barcode>
-					<year>2014</year>
-					<explicitContent>false</explicitContent>
-					<artist id="253545">
-						<name>Taylor Swift</name>
-						<appearsAs>Taylor Swift</appearsAs>
-						<url>http://www.7digital.com/artist/taylor-swift/?partner=0</url>
-					</artist>
-					<url>http://www.7digital.com/artist/taylor-swift/release/1989/?partner=0</url>
-					<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/039/184/0003918446_50.jpg</image>
-					<releaseDate>2014-10-27T00:00:00Z</releaseDate>
-					<addedDate>2014-10-27T10:17:02Z</addedDate>
-					<price>
-						<currency code="GBP"/>
-						<value>6.99</value>
-						<formattedPrice>£6.99</formattedPrice>
-						<rrp>8.99</rrp>
-						<formattedRrp>£8.99</formattedRrp>
-						<onSale>true</onSale>
-					</price>
-					<download>
-						<packages>
-							<package id="2">
-								<description>standard</description>
-								<price>
-									<currencyCode>GBP</currencyCode>
-									<sevendigitalPrice>6.99</sevendigitalPrice>
-									<recommendedRetailPrice>8.99</recommendedRetailPrice>
-								</price>
-								<formats>
-									<format id="17">
-										<description>MP3 320</description>
-									</format>
-								</formats>
-							</package>
-						</packages>
-					</download>
-					<formats availableDrmFree="true">
-						<format id="17">
-							<fileFormat>MP3</fileFormat>
-							<bitRate>320</bitRate>
-							<drmFree>true</drmFree>
-						</format>
-					</formats>
-					<label id="149943">
-						<name>Universal Music (Pty) Ltd.</name>
-					</label>
-					<licensor id="1">
-						<name>Universal</name>
-					</licensor>
-					<trackCount>13</trackCount>
-				</release>
-			</listItem>
-			<listItem id="3918447">
-				<type>release</type>
-				<release id="3918447">
-					<title>1989</title>
-					<version>Deluxe</version>
-					<type>Album</type>
-					<barcode>00602547066893</barcode>
-					<year>2014</year>
-					<explicitContent>false</explicitContent>
-					<artist id="253545">
-						<name>Taylor Swift</name>
-						<appearsAs>Taylor Swift</appearsAs>
-						<url>http://www.7digital.com/artist/taylor-swift/?partner=0</url>
-					</artist>
-					<url>http://www.7digital.com/artist/taylor-swift/release/1989-deluxe/?partner=0</url>
-					<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/039/184/0003918447_50.jpg</image>
-					<releaseDate>2014-10-27T00:00:00Z</releaseDate>
-					<addedDate>2014-10-27T10:17:39Z</addedDate>
-					<price>
-						<currency code="GBP"/>
-						<value>10.99</value>
-						<formattedPrice>£10.99</formattedPrice>
-						<rrp>10.99</rrp>
-						<formattedRrp>£10.99</formattedRrp>
-						<onSale>false</onSale>
-					</price>
-					<download>
-						<packages>
-							<package id="2">
-								<description>standard</description>
-								<price>
-									<currencyCode>GBP</currencyCode>
-									<sevendigitalPrice>10.99</sevendigitalPrice>
-									<recommendedRetailPrice>10.99</recommendedRetailPrice>
-								</price>
-								<formats>
-									<format id="17">
-										<description>MP3 320</description>
-									</format>
-								</formats>
-							</package>
-						</packages>
-					</download>
-					<formats availableDrmFree="true">
-						<format id="17">
-							<fileFormat>MP3</fileFormat>
-							<bitRate>320</bitRate>
-							<drmFree>true</drmFree>
-						</format>
-					</formats>
-					<label id="149943">
-						<name>Universal Music (Pty) Ltd.</name>
-					</label>
-					<licensor id="1">
-						<name>Universal</name>
-					</licensor>
-					<trackCount>19</trackCount>
-				</release>
-			</listItem>
-			<listItem id="3908022">
-				<type>release</type>
-				<release id="3908022">
-					<title>Run the Jewels 2</title>
-					<version/>
-					<type>Album</type>
-					<barcode>886444890540</barcode>
-					<year>2014</year>
-					<explicitContent>false</explicitContent>
-					<artist id="2057842">
-						<name>Run The Jewels</name>
-						<appearsAs>Run The Jewels</appearsAs>
-						<url>http://www.7digital.com/artist/run-the-jewels/?partner=0</url>
-					</artist>
-					<url>http://www.7digital.com/artist/run-the-jewels/release/run-the-jewels-2/?partner=0</url>
-					<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/039/080/0003908022_50.jpg</image>
-					<releaseDate>2014-10-27T00:00:00Z</releaseDate>
-					<addedDate>2014-10-24T05:12:23Z</addedDate>
-					<price>
-						<currency code="GBP"/>
-						<value>8.49</value>
-						<formattedPrice>£8.49</formattedPrice>
-						<rrp>8.49</rrp>
-						<formattedRrp>£8.49</formattedRrp>
-						<onSale>false</onSale>
-					</price>
-					<download>
-						<packages>
-							<package id="2">
-								<description>standard</description>
-								<price>
-									<currencyCode>GBP</currencyCode>
-									<sevendigitalPrice>8.49</sevendigitalPrice>
-									<recommendedRetailPrice>8.49</recommendedRetailPrice>
-								</price>
-								<formats>
-									<format id="17">
-										<description>MP3 320</description>
-									</format>
-								</formats>
-							</package>
-						</packages>
-					</download>
-					<formats availableDrmFree="true">
-						<format id="17">
-							<fileFormat>MP3</fileFormat>
-							<bitRate>320</bitRate>
-							<drmFree>true</drmFree>
-						</format>
-					</formats>
-					<label id="12381">
-						<name>Mass Appeal Records</name>
-					</label>
-					<licensor id="21">
-						<name>Orchard</name>
-					</licensor>
-					<trackCount>11</trackCount>
-				</release>
-			</listItem>
-			<listItem id="3913385">
-				<type>release</type>
-				<release id="3913385">
-					<title>Nobody Wants To Be Here &amp; Nobody Wants To Leave</title>
-					<version/>
-					<type>Album</type>
-					<barcode>0600116513250</barcode>
-					<year>2014</year>
-					<explicitContent>false</explicitContent>
-					<artist id="49773">
-						<name>The Twilight Sad</name>
-						<appearsAs>The Twilight Sad</appearsAs>
-						<url>http://www.7digital.com/artist/the-twilight-sad/?partner=0</url>
-					</artist>
-					<url>http://www.7digital.com/artist/the-twilight-sad/release/nobody-wants-to-be-here-and-nobody-wants-to-leave/?partner=0</url>
-					<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/039/133/0003913385_50.jpg</image>
-					<releaseDate>2014-10-26T00:00:00Z</releaseDate>
-					<addedDate>2014-10-23T17:27:26Z</addedDate>
-					<price>
-						<currency code="GBP"/>
-						<value>4.99</value>
-						<formattedPrice>£4.99</formattedPrice>
-						<rrp>7.49</rrp>
-						<formattedRrp>£7.49</formattedRrp>
-						<onSale>true</onSale>
-					</price>
-					<download>
-						<packages>
-							<package id="2">
-								<description>standard</description>
-								<price>
-									<currencyCode>GBP</currencyCode>
-									<sevendigitalPrice>4.99</sevendigitalPrice>
-									<recommendedRetailPrice>7.49</recommendedRetailPrice>
-								</price>
-								<formats>
-									<format id="17">
-										<description>MP3 320</description>
-									</format>
-									<format id="33">
-										<description>M4A 320</description>
-									</format>
-								</formats>
-							</package>
-						</packages>
-					</download>
-					<formats availableDrmFree="true">
-						<format id="17">
-							<fileFormat>MP3</fileFormat>
-							<bitRate>320</bitRate>
-							<drmFree>true</drmFree>
-						</format>
-						<format id="33">
-							<fileFormat>M4A</fileFormat>
-							<bitRate>320</bitRate>
-							<drmFree>true</drmFree>
-						</format>
-					</formats>
-					<label id="806">
-						<name>FatCat</name>
-					</label>
-					<licensor id="336">
-						<name>Essential Music and Marketing Ltd</name>
-					</licensor>
-					<trackCount>10</trackCount>
-				</release>
-			</listItem>
-			<listItem id="3886086">
-				<type>release</type>
-				<release id="3886086">
-					<title>Nostalgia</title>
-					<version/>
-					<type>Album</type>
-					<barcode>00602547045508</barcode>
-					<year>1991</year>
-					<explicitContent>false</explicitContent>
-					<artist id="3299">
-						<name>Annie Lennox</name>
-						<appearsAs>Annie Lennox</appearsAs>
-						<url>http://www.7digital.com/artist/annie-lennox/?partner=0</url>
-					</artist>
-					<url>http://www.7digital.com/artist/annie-lennox/release/nostalgia-2/?partner=0</url>
-					<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/038/860/0003886086_50.jpg</image>
-					<releaseDate>2014-10-27T00:00:00Z</releaseDate>
-					<addedDate>2014-10-14T15:18:55Z</addedDate>
-					<price>
-						<currency code="GBP"/>
-						<value>8.99</value>
-						<formattedPrice>£8.99</formattedPrice>
-						<rrp>8.99</rrp>
-						<formattedRrp>£8.99</formattedRrp>
-						<onSale>false</onSale>
-					</price>
-					<download>
-						<packages>
-							<package id="2">
-								<description>standard</description>
-								<price>
-									<currencyCode>GBP</currencyCode>
-									<sevendigitalPrice>8.99</sevendigitalPrice>
-									<recommendedRetailPrice>8.99</recommendedRetailPrice>
-								</price>
-								<formats>
-									<format id="17">
-										<description>MP3 320</description>
-									</format>
-								</formats>
-							</package>
-						</packages>
-					</download>
-					<formats availableDrmFree="true">
-						<format id="17">
-							<fileFormat>MP3</fileFormat>
-							<bitRate>320</bitRate>
-							<drmFree>true</drmFree>
-						</format>
-					</formats>
-					<label id="383633">
-						<name>Digital Distribution Qatar</name>
-					</label>
-					<licensor id="1">
-						<name>Universal</name>
-					</licensor>
-					<trackCount>12</trackCount>
-				</release>
-			</listItem>
-			<listItem id="3885704">
-				<type>release</type>
-				<release id="3885704">
-					<title>Nostalgia</title>
-					<version>Deluxe</version>
-					<type>Album</type>
-					<barcode>00602547046895</barcode>
-					<year>2009</year>
-					<explicitContent>false</explicitContent>
-					<artist id="3299">
-						<name>Annie Lennox</name>
-						<appearsAs>Annie Lennox</appearsAs>
-						<url>http://www.7digital.com/artist/annie-lennox/?partner=0</url>
-					</artist>
-					<url>http://www.7digital.com/artist/annie-lennox/release/nostalgia-deluxe/?partner=0</url>
-					<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/038/857/0003885704_50.jpg</image>
-					<releaseDate>2014-10-27T00:00:00Z</releaseDate>
-					<addedDate>2014-10-14T13:18:41Z</addedDate>
-					<price>
-						<currency code="GBP"/>
-						<value>9.99</value>
-						<formattedPrice>£9.99</formattedPrice>
-						<rrp>9.99</rrp>
-						<formattedRrp>£9.99</formattedRrp>
-						<onSale>false</onSale>
-					</price>
-					<download>
-						<packages>
-							<package id="2">
-								<description>standard</description>
-								<price>
-									<currencyCode>GBP</currencyCode>
-									<sevendigitalPrice>9.99</sevendigitalPrice>
-									<recommendedRetailPrice>9.99</recommendedRetailPrice>
-								</price>
-								<formats>
-									<format id="17">
-										<description>MP3 320</description>
-									</format>
-								</formats>
-							</package>
-						</packages>
-					</download>
-					<formats availableDrmFree="true">
-						<format id="17">
-							<fileFormat>MP3</fileFormat>
-							<bitRate>320</bitRate>
-							<drmFree>true</drmFree>
-						</format>
-					</formats>
-					<label id="47744">
-						<name>Universal Music Australia Pty. Ltd.</name>
-					</label>
-					<licensor id="1">
-						<name>Universal</name>
-					</licensor>
-					<trackCount>14</trackCount>
-				</release>
-			</listItem>
-			<listItem id="3658054">
-				<type>release</type>
-				<release id="3658054">
-					<title>Super Critical</title>
-					<version>Explicit</version>
-					<type>Album</type>
-					<barcode>5051083083553</barcode>
-					<year>2014</year>
-					<explicitContent>true</explicitContent>
-					<artist id="153504">
-						<name>The Ting Tings</name>
-						<appearsAs>The Ting Tings</appearsAs>
-						<url>http://www.7digital.com/artist/the-ting-tings/?partner=0</url>
-					</artist>
-					<url>http://www.7digital.com/artist/the-ting-tings/release/super-critical/?partner=0</url>
-					<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/036/580/0003658054_50.jpg</image>
-					<releaseDate>2014-10-27T00:00:00Z</releaseDate>
-					<addedDate>2014-07-17T13:40:56Z</addedDate>
-					<price>
-						<currency code="GBP"/>
-						<value>7.99</value>
-						<formattedPrice>£7.99</formattedPrice>
-						<rrp>7.99</rrp>
-						<formattedRrp>£7.99</formattedRrp>
-						<onSale>false</onSale>
-					</price>
-					<download>
-						<packages>
-							<package id="2">
-								<description>standard</description>
-								<price>
-									<currencyCode>GBP</currencyCode>
-									<sevendigitalPrice>7.99</sevendigitalPrice>
-									<recommendedRetailPrice>7.99</recommendedRetailPrice>
-								</price>
-								<formats>
-									<format id="17">
-										<description>MP3 320</description>
-									</format>
-									<format id="33">
-										<description>M4A 320</description>
-									</format>
-								</formats>
-							</package>
-						</packages>
-					</download>
-					<formats availableDrmFree="true">
-						<format id="17">
-							<fileFormat>MP3</fileFormat>
-							<bitRate>320</bitRate>
-							<drmFree>true</drmFree>
-						</format>
-						<format id="33">
-							<fileFormat>M4A</fileFormat>
-							<bitRate>320</bitRate>
-							<drmFree>true</drmFree>
-						</format>
-					</formats>
-					<label id="331571">
-						<name>Finca Records</name>
-					</label>
-					<licensor id="48">
-						<name>Vital</name>
-					</licensor>
-					<trackCount>9</trackCount>
-				</release>
-			</listItem>
-			<listItem id="3903415">
-				<type>release</type>
-				<release id="3903415">
-					<title>Money Sucks, Friends Rule</title>
-					<version/>
-					<type>Album</type>
-					<barcode>886444717052</barcode>
-					<year>2014</year>
-					<explicitContent>false</explicitContent>
-					<artist id="964836">
-						<name>Dillon Francis</name>
-						<appearsAs>Dillon Francis</appearsAs>
-						<url>http://www.7digital.com/artist/dillon-francis/?partner=0</url>
-					</artist>
-					<url>http://www.7digital.com/artist/dillon-francis/release/money-sucks-friends-rule/?partner=0</url>
-					<image>http://artwork-cdn.7static.com/static/img/sleeveart/00/039/034/0003903415_50.jpg</image>
-					<releaseDate>2014-10-27T00:00:00Z</releaseDate>
-					<addedDate>2014-10-23T17:00:27Z</addedDate>
-					<price>
-						<currency code="GBP"/>
-						<value>7.99</value>
-						<formattedPrice>£7.99</formattedPrice>
-						<rrp>7.99</rrp>
-						<formattedRrp>£7.99</formattedRrp>
-						<onSale>false</onSale>
-					</price>
-					<download>
-						<packages>
-							<package id="2">
-								<description>standard</description>
-								<price>
-									<currencyCode>GBP</currencyCode>
-									<sevendigitalPrice>7.99</sevendigitalPrice>
-									<recommendedRetailPrice>7.99</recommendedRetailPrice>
-								</price>
-								<formats>
-									<format id="17">
-										<description>MP3 320</description>
-									</format>
-									<format id="33">
-										<description>M4A 320</description>
-									</format>
-								</formats>
-							</package>
-						</packages>
-					</download>
-					<formats availableDrmFree="true">
-						<format id="17">
-							<fileFormat>MP3</fileFormat>
-							<bitRate>320</bitRate>
-							<drmFree>true</drmFree>
-						</format>
-						<format id="33">
-							<fileFormat>M4A</fileFormat>
-							<bitRate>320</bitRate>
-							<drmFree>true</drmFree>
-						</format>
-					</formats>
-					<label id="592">
-						<name>Columbia</name>
-					</label>
-					<licensor id="2">
-						<name>Sony Music</name>
-					</licensor>
-					<trackCount>12</trackCount>
-				</release>
-			</listItem>
-		</listItems>
-	</list>
+  <list id="3987">
+    <key>best-of-2014-so-far-1</key>
+    <listItems>
+      <listItem id="3918446">
+        <type>release</type>
+        <release id="3918446">
+          <title>1989</title>
+          <version/>
+          <type>Album</type>
+          <barcode>00602547066886</barcode>
+          <year>2014</year>
+          <explicitContent>false</explicitContent>
+          <artist id="253545">
+            <name>Taylor Swift</name>
+            <appearsAs>Taylor Swift</appearsAs>
+            <url>http://www.7digital.com/artist/taylor-swift/?partner=0</url>
+          </artist>
+          <url>http://www.7digital.com/artist/taylor-swift/release/1989/?partner=0</url>
+          <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/039/184/0003918446_50.jpg</image>
+          <download>
+            <packages>
+              <package id="2">
+                <description>standard</description>
+                <price>
+                  <currencyCode>GBP</currencyCode>
+                  <sevendigitalPrice>6.99</sevendigitalPrice>
+                  <recommendedRetailPrice>8.99</recommendedRetailPrice>
+                </price>
+                <formats>
+                  <format id="17">
+                    <description>MP3 320</description>
+                  </format>
+                </formats>
+              </package>
+            </packages>
+          </download>
+          <label id="149943">
+            <name>Universal Music (Pty) Ltd.</name>
+          </label>
+          <licensor id="1">
+            <name>Universal</name>
+          </licensor>
+          <trackCount>13</trackCount>
+        </release>
+      </listItem>
+      <listItem id="3918447">
+        <type>release</type>
+        <release id="3918447">
+          <title>1989</title>
+          <version>Deluxe</version>
+          <type>Album</type>
+          <barcode>00602547066893</barcode>
+          <year>2014</year>
+          <explicitContent>false</explicitContent>
+          <artist id="253545">
+            <name>Taylor Swift</name>
+            <appearsAs>Taylor Swift</appearsAs>
+            <url>http://www.7digital.com/artist/taylor-swift/?partner=0</url>
+          </artist>
+          <url>http://www.7digital.com/artist/taylor-swift/release/1989-deluxe/?partner=0</url>
+          <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/039/184/0003918447_50.jpg</image>
+          <download>
+            <packages>
+              <package id="2">
+                <description>standard</description>
+                <price>
+                  <currencyCode>GBP</currencyCode>
+                  <sevendigitalPrice>10.99</sevendigitalPrice>
+                  <recommendedRetailPrice>10.99</recommendedRetailPrice>
+                </price>
+                <formats>
+                  <format id="17">
+                    <description>MP3 320</description>
+                  </format>
+                </formats>
+              </package>
+            </packages>
+          </download>
+          <label id="149943">
+            <name>Universal Music (Pty) Ltd.</name>
+          </label>
+          <licensor id="1">
+            <name>Universal</name>
+          </licensor>
+          <trackCount>19</trackCount>
+        </release>
+      </listItem>
+      <listItem id="3908022">
+        <type>release</type>
+        <release id="3908022">
+          <title>Run the Jewels 2</title>
+          <version/>
+          <type>Album</type>
+          <barcode>886444890540</barcode>
+          <year>2014</year>
+          <explicitContent>false</explicitContent>
+          <artist id="2057842">
+            <name>Run The Jewels</name>
+            <appearsAs>Run The Jewels</appearsAs>
+            <url>http://www.7digital.com/artist/run-the-jewels/?partner=0</url>
+          </artist>
+          <url>http://www.7digital.com/artist/run-the-jewels/release/run-the-jewels-2/?partner=0</url>
+          <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/039/080/0003908022_50.jpg</image>
+          <download>
+            <packages>
+              <package id="2">
+                <description>standard</description>
+                <price>
+                  <currencyCode>GBP</currencyCode>
+                  <sevendigitalPrice>8.49</sevendigitalPrice>
+                  <recommendedRetailPrice>8.49</recommendedRetailPrice>
+                </price>
+                <formats>
+                  <format id="17">
+                    <description>MP3 320</description>
+                  </format>
+                </formats>
+              </package>
+            </packages>
+          </download>
+          <label id="12381">
+            <name>Mass Appeal Records</name>
+          </label>
+          <licensor id="21">
+            <name>Orchard</name>
+          </licensor>
+          <trackCount>11</trackCount>
+        </release>
+      </listItem>
+      <listItem id="3913385">
+        <type>release</type>
+        <release id="3913385">
+          <title>Nobody Wants To Be Here &amp; Nobody Wants To Leave</title>
+          <version/>
+          <type>Album</type>
+          <barcode>0600116513250</barcode>
+          <year>2014</year>
+          <explicitContent>false</explicitContent>
+          <artist id="49773">
+            <name>The Twilight Sad</name>
+            <appearsAs>The Twilight Sad</appearsAs>
+            <url>http://www.7digital.com/artist/the-twilight-sad/?partner=0</url>
+          </artist>
+          <url>http://www.7digital.com/artist/the-twilight-sad/release/nobody-wants-to-be-here-and-nobody-wants-to-leave/?partner=0</url>
+          <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/039/133/0003913385_50.jpg</image>
+          <download>
+            <packages>
+              <package id="2">
+                <description>standard</description>
+                <price>
+                  <currencyCode>GBP</currencyCode>
+                  <sevendigitalPrice>4.99</sevendigitalPrice>
+                  <recommendedRetailPrice>7.49</recommendedRetailPrice>
+                </price>
+                <formats>
+                  <format id="17">
+                    <description>MP3 320</description>
+                  </format>
+                  <format id="33">
+                    <description>M4A 320</description>
+                  </format>
+                </formats>
+              </package>
+            </packages>
+          </download>
+          <label id="806">
+            <name>FatCat</name>
+          </label>
+          <licensor id="336">
+            <name>Essential Music and Marketing Ltd</name>
+          </licensor>
+          <trackCount>10</trackCount>
+        </release>
+      </listItem>
+      <listItem id="3886086">
+        <type>release</type>
+        <release id="3886086">
+          <title>Nostalgia</title>
+          <version/>
+          <type>Album</type>
+          <barcode>00602547045508</barcode>
+          <year>1991</year>
+          <explicitContent>false</explicitContent>
+          <artist id="3299">
+            <name>Annie Lennox</name>
+            <appearsAs>Annie Lennox</appearsAs>
+            <url>http://www.7digital.com/artist/annie-lennox/?partner=0</url>
+          </artist>
+          <url>http://www.7digital.com/artist/annie-lennox/release/nostalgia-2/?partner=0</url>
+          <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/038/860/0003886086_50.jpg</image>
+          <download>
+            <packages>
+              <package id="2">
+                <description>standard</description>
+                <price>
+                  <currencyCode>GBP</currencyCode>
+                  <sevendigitalPrice>8.99</sevendigitalPrice>
+                  <recommendedRetailPrice>8.99</recommendedRetailPrice>
+                </price>
+                <formats>
+                  <format id="17">
+                    <description>MP3 320</description>
+                  </format>
+                </formats>
+              </package>
+            </packages>
+          </download>
+          <label id="383633">
+            <name>Digital Distribution Qatar</name>
+          </label>
+          <licensor id="1">
+            <name>Universal</name>
+          </licensor>
+          <trackCount>12</trackCount>
+        </release>
+      </listItem>
+      <listItem id="3885704">
+        <type>release</type>
+        <release id="3885704">
+          <title>Nostalgia</title>
+          <version>Deluxe</version>
+          <type>Album</type>
+          <barcode>00602547046895</barcode>
+          <year>2009</year>
+          <explicitContent>false</explicitContent>
+          <artist id="3299">
+            <name>Annie Lennox</name>
+            <appearsAs>Annie Lennox</appearsAs>
+            <url>http://www.7digital.com/artist/annie-lennox/?partner=0</url>
+          </artist>
+          <url>http://www.7digital.com/artist/annie-lennox/release/nostalgia-deluxe/?partner=0</url>
+          <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/038/857/0003885704_50.jpg</image>
+          <download>
+            <packages>
+              <package id="2">
+                <description>standard</description>
+                <price>
+                  <currencyCode>GBP</currencyCode>
+                  <sevendigitalPrice>9.99</sevendigitalPrice>
+                  <recommendedRetailPrice>9.99</recommendedRetailPrice>
+                </price>
+                <formats>
+                  <format id="17">
+                    <description>MP3 320</description>
+                  </format>
+                </formats>
+              </package>
+            </packages>
+          </download>
+          <label id="47744">
+            <name>Universal Music Australia Pty. Ltd.</name>
+          </label>
+          <licensor id="1">
+            <name>Universal</name>
+          </licensor>
+          <trackCount>14</trackCount>
+        </release>
+      </listItem>
+      <listItem id="3658054">
+        <type>release</type>
+        <release id="3658054">
+          <title>Super Critical</title>
+          <version>Explicit</version>
+          <type>Album</type>
+          <barcode>5051083083553</barcode>
+          <year>2014</year>
+          <explicitContent>true</explicitContent>
+          <artist id="153504">
+            <name>The Ting Tings</name>
+            <appearsAs>The Ting Tings</appearsAs>
+            <url>http://www.7digital.com/artist/the-ting-tings/?partner=0</url>
+          </artist>
+          <url>http://www.7digital.com/artist/the-ting-tings/release/super-critical/?partner=0</url>
+          <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/036/580/0003658054_50.jpg</image>
+          <download>
+            <packages>
+              <package id="2">
+                <description>standard</description>
+                <price>
+                  <currencyCode>GBP</currencyCode>
+                  <sevendigitalPrice>7.99</sevendigitalPrice>
+                  <recommendedRetailPrice>7.99</recommendedRetailPrice>
+                </price>
+                <formats>
+                  <format id="17">
+                    <description>MP3 320</description>
+                  </format>
+                  <format id="33">
+                    <description>M4A 320</description>
+                  </format>
+                </formats>
+              </package>
+            </packages>
+          </download>
+          <label id="331571">
+            <name>Finca Records</name>
+          </label>
+          <licensor id="48">
+            <name>Vital</name>
+          </licensor>
+          <trackCount>9</trackCount>
+        </release>
+      </listItem>
+      <listItem id="3903415">
+        <type>release</type>
+        <release id="3903415">
+          <title>Money Sucks, Friends Rule</title>
+          <version/>
+          <type>Album</type>
+          <barcode>886444717052</barcode>
+          <year>2014</year>
+          <explicitContent>false</explicitContent>
+          <artist id="964836">
+            <name>Dillon Francis</name>
+            <appearsAs>Dillon Francis</appearsAs>
+            <url>http://www.7digital.com/artist/dillon-francis/?partner=0</url>
+          </artist>
+          <url>http://www.7digital.com/artist/dillon-francis/release/money-sucks-friends-rule/?partner=0</url>
+          <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/039/034/0003903415_50.jpg</image>
+          <download>
+            <packages>
+              <package id="2">
+                <description>standard</description>
+                <price>
+                  <currencyCode>GBP</currencyCode>
+                  <sevendigitalPrice>7.99</sevendigitalPrice>
+                  <recommendedRetailPrice>7.99</recommendedRetailPrice>
+                </price>
+                <formats>
+                  <format id="17">
+                    <description>MP3 320</description>
+                  </format>
+                  <format id="33">
+                    <description>M4A 320</description>
+                  </format>
+                </formats>
+              </package>
+            </packages>
+          </download>
+          <label id="592">
+            <name>Columbia</name>
+          </label>
+          <licensor id="2">
+            <name>Sony Music</name>
+          </licensor>
+          <trackCount>12</trackCount>
+        </release>
+      </listItem>
+    </listItems>
+  </list>
 </response>

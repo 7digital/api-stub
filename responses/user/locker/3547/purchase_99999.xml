@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <response xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" status="ok" version="1.2" xsi:noNamespaceSchemaLocation="http://purchasing-api.7digital.live/1.0/static/7digitalAPI.xsd">
-	<locker>
-		<lockerReleases>
-			<page>1</page>
-			<pageSize>10</pageSize>
-			<totalItems>1</totalItems>
-		</lockerReleases>
-	</locker>
+  <locker>
+    <lockerReleases>
+      <page>1</page>
+      <pageSize>10</pageSize>
+      <totalItems>1</totalItems>
+    </lockerReleases>
+  </locker>
 </response>

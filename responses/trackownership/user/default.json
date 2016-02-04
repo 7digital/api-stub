@@ -1,16 +1,16 @@
 {
-    "shopId": 34,
-    "purchaseId": 46562,
-    "releases": [
+  "shopId": 34,
+  "purchaseId": 46562,
+  "releases": [
+    {
+      "formatGroupId": 2,
+      "releaseId": 5365,
+      "tracks": [
         {
-            "formatGroupId": 2,
-            "releaseId": 5365,
-            "tracks": [
-                {
-                    "trackId": 7895,
-                    "purchaseDate": "2012-10-18T16:28:31.4415945+01:00"
-                }
-            ]
+          "trackId": 7895,
+          "purchaseDate": "2012-10-18T16:28:31.4415945+01:00"
         }
-    ]
+      ]
+    }
+  ]
 }

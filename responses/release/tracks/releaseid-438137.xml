@@ -10,7 +10,7 @@
       <artist id="45369">
         <name>Propellerheads</name>
         <appearsAs>Propellerheads</appearsAs>
-        <url>http://www.7digital.com/artist/propellerheads/?partner=3923</url>
+        <slug>propellerheads</slug>
       </artist>
       <trackNumber>1</trackNumber>
       <duration>442</duration>
@@ -25,13 +25,12 @@
         <artist id="45369">
           <name>Propellerheads</name>
           <appearsAs>Propellerheads</appearsAs>
-          <url>http://www.7digital.com/artist/propellerheads/?partner=3923</url>
+          <slug>propellerheads</slug>
         </artist>
-        <url>http://www.7digital.com/artist/propellerheads/release/decksandrumsandrockandroll/?partner=3923</url>
+        <slug>decksandrumsandrockandroll</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/004/381/0000438137_50.jpg</image>
-        <releaseDate>2030-04-26T00:00:00Z</releaseDate>
       </release>
-      <url>http://www.7digital.com/artist/propellerheads/release/decksandrumsandrockandroll/?partner=3923&amp;h=01</url>
+      <slug>decksandrumsandrockandroll</slug>
       <price>
         <currency code="GBP">£</currency>
         <value>0.99</value>
@@ -43,8 +42,9 @@
       <streamingReleaseDate>2030-04-26T00:00:00Z</streamingReleaseDate>
       <discNumber>1</discNumber>
       <number>1</number>
-      <previewDate>2030-04-26T00:00:00Z</previewDate>
       <download>
+        <previewDate>2030-04-26T00:00:00Z</previewDate>
+        <releaseDate>2030-04-26T00:00:00Z</releaseDate>
         <packages>
           <package id="2">
             <description>standard</description>
@@ -68,7 +68,7 @@
       <artist id="45369">
         <name>Propellerheads</name>
         <appearsAs>Propellerheads</appearsAs>
-        <url>http://www.7digital.com/artist/propellerheads/?partner=3923</url>
+        <slug>propellerheads</slug>
       </artist>
       <trackNumber>2</trackNumber>
       <duration>347</duration>
@@ -83,13 +83,12 @@
         <artist id="45369">
           <name>Propellerheads</name>
           <appearsAs>Propellerheads</appearsAs>
-          <url>http://www.7digital.com/artist/propellerheads/?partner=3923</url>
+          <slug>propellerheads</slug>
         </artist>
-        <url>http://www.7digital.com/artist/propellerheads/release/decksandrumsandrockandroll/?partner=3923</url>
+        <slug>decksandrumsandrockandroll</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/004/381/0000438137_50.jpg</image>
-        <releaseDate>2010-04-26T00:00:00Z</releaseDate>
       </release>
-      <url>http://www.7digital.com/artist/propellerheads/release/decksandrumsandrockandroll/?partner=3923&amp;h=02</url>
+      <slug>decksandrumsandrockandroll</slug>
       <price>
         <currency code="GBP">£</currency>
         <value>0.99</value>
@@ -101,8 +100,9 @@
       <streamingReleaseDate>2010-04-26T00:00:00Z</streamingReleaseDate>
       <discNumber>1</discNumber>
       <number>2</number>
-      <previewDate>2010-04-26T00:00:00Z</previewDate>
       <download>
+        <previewDate>2010-04-26T00:00:00Z</previewDate>
+        <releaseDate>2010-04-26T00:00:00Z</releaseDate>
         <packages>
           <package id="2">
             <description>standard</description>
@@ -126,7 +126,7 @@
       <artist id="45369">
         <name>Propellerheads</name>
         <appearsAs>Propellerheads</appearsAs>
-        <url>http://www.7digital.com/artist/propellerheads/?partner=3923</url>
+        <slug>propellerheads</slug>
       </artist>
       <trackNumber>3</trackNumber>
       <duration>123</duration>
@@ -141,13 +141,12 @@
         <artist id="45369">
           <name>Propellerheads</name>
           <appearsAs>Propellerheads</appearsAs>
-          <url>http://www.7digital.com/artist/propellerheads/?partner=3923</url>
+          <slug>propellerheads</slug>
         </artist>
-        <url>http://www.7digital.com/artist/propellerheads/release/decksandrumsandrockandroll/?partner=3923</url>
+        <slug>decksandrumsandrockandroll</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/004/381/0000438137_50.jpg</image>
-        <releaseDate>2010-04-26T00:00:00Z</releaseDate>
       </release>
-      <url>http://www.7digital.com/artist/propellerheads/release/decksandrumsandrockandroll/?partner=3923&amp;h=03</url>
+      <slug>decksandrumsandrockandroll</slug>
       <price>
         <currency code="GBP">£</currency>
         <value>0.99</value>
@@ -159,8 +158,9 @@
       <streamingReleaseDate>2010-04-26T00:00:00Z</streamingReleaseDate>
       <discNumber>1</discNumber>
       <number>3</number>
-      <previewDate>2010-04-26T00:00:00Z</previewDate>
       <download>
+        <previewDate>2010-04-26T00:00:00Z</previewDate>
+        <releaseDate>2010-04-26T00:00:00Z</releaseDate>
         <packages>
           <package id="2">
             <description>standard</description>
@@ -184,7 +184,7 @@
       <artist id="327699">
         <name>Propellerheads / De La Soul</name>
         <appearsAs>Propellerheads / De La Soul</appearsAs>
-        <url>http://www.7digital.com/artist/propellerheads-de-la-soul/?partner=3923</url>
+        <slug>propellerheads-de-la-soul</slug>
       </artist>
       <trackNumber>4</trackNumber>
       <duration>268</duration>
@@ -199,13 +199,12 @@
         <artist id="45369">
           <name>Propellerheads</name>
           <appearsAs>Propellerheads</appearsAs>
-          <url>http://www.7digital.com/artist/propellerheads/?partner=3923</url>
+          <slug>propellerheads</slug>
         </artist>
-        <url>http://www.7digital.com/artist/propellerheads/release/decksandrumsandrockandroll/?partner=3923</url>
+        <slug>decksandrumsandrockandroll</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/004/381/0000438137_50.jpg</image>
-        <releaseDate>2010-04-26T00:00:00Z</releaseDate>
       </release>
-      <url>http://www.7digital.com/artist/propellerheads/release/decksandrumsandrockandroll/?partner=3923&amp;h=04</url>
+      <slug>decksandrumsandrockandroll</slug>
       <price>
         <currency code="GBP">£</currency>
         <value>0.99</value>
@@ -217,8 +216,9 @@
       <streamingReleaseDate>2010-04-26T00:00:00Z</streamingReleaseDate>
       <discNumber>1</discNumber>
       <number>4</number>
-      <previewDate>2010-04-26T00:00:00Z</previewDate>
       <download>
+        <previewDate>2010-04-26T00:00:00Z</previewDate>
+        <releaseDate>2010-04-26T00:00:00Z</releaseDate>
         <packages>
           <package id="2">
             <description>standard</description>
@@ -242,7 +242,7 @@
       <artist id="327700">
         <name>Propellerheads / Shirley Bassey</name>
         <appearsAs>Propellerheads / Shirley Bassey</appearsAs>
-        <url>http://www.7digital.com/artist/propellerheads-shirley-bassey/?partner=3923</url>
+        <slug>propellerheads-shirley-bassey</slug>
       </artist>
       <trackNumber>5</trackNumber>
       <duration>243</duration>
@@ -257,13 +257,12 @@
         <artist id="45369">
           <name>Propellerheads</name>
           <appearsAs>Propellerheads</appearsAs>
-          <url>http://www.7digital.com/artist/propellerheads/?partner=3923</url>
+          <slug>propellerheads</slug>
         </artist>
-        <url>http://www.7digital.com/artist/propellerheads/release/decksandrumsandrockandroll/?partner=3923</url>
+        <slug>decksandrumsandrockandroll</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/004/381/0000438137_50.jpg</image>
-        <releaseDate>2010-04-26T00:00:00Z</releaseDate>
       </release>
-      <url>http://www.7digital.com/artist/propellerheads/release/decksandrumsandrockandroll/?partner=3923&amp;h=05</url>
+      <slug>decksandrumsandrockandroll</slug>
       <price>
         <currency code="GBP">£</currency>
         <value>0.99</value>
@@ -275,8 +274,9 @@
       <streamingReleaseDate>2010-04-26T00:00:00Z</streamingReleaseDate>
       <discNumber>1</discNumber>
       <number>5</number>
-      <previewDate>2010-04-26T00:00:00Z</previewDate>
       <download>
+        <previewDate>2010-04-26T00:00:00Z</previewDate>
+        <releaseDate>2010-04-26T00:00:00Z</releaseDate>
         <packages>
           <package id="2">
             <description>standard</description>
@@ -300,7 +300,7 @@
       <artist id="45369">
         <name>Propellerheads</name>
         <appearsAs>Propellerheads</appearsAs>
-        <url>http://www.7digital.com/artist/propellerheads/?partner=3923</url>
+        <slug>propellerheads</slug>
       </artist>
       <trackNumber>6</trackNumber>
       <duration>358</duration>
@@ -315,13 +315,12 @@
         <artist id="45369">
           <name>Propellerheads</name>
           <appearsAs>Propellerheads</appearsAs>
-          <url>http://www.7digital.com/artist/propellerheads/?partner=3923</url>
+          <slug>propellerheads</slug>
         </artist>
-        <url>http://www.7digital.com/artist/propellerheads/release/decksandrumsandrockandroll/?partner=3923</url>
+        <slug>decksandrumsandrockandroll</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/004/381/0000438137_50.jpg</image>
-        <releaseDate>2010-04-26T00:00:00Z</releaseDate>
       </release>
-      <url>http://www.7digital.com/artist/propellerheads/release/decksandrumsandrockandroll/?partner=3923&amp;h=06</url>
+      <slug>decksandrumsandrockandroll</slug>
       <price>
         <currency code="GBP">£</currency>
         <value>0.99</value>
@@ -333,8 +332,9 @@
       <streamingReleaseDate>2010-04-26T00:00:00Z</streamingReleaseDate>
       <discNumber>1</discNumber>
       <number>6</number>
-      <previewDate>2010-04-26T00:00:00Z</previewDate>
       <download>
+        <previewDate>2010-04-26T00:00:00Z</previewDate>
+        <releaseDate>2010-04-26T00:00:00Z</releaseDate>
         <packages>
           <package id="2">
             <description>standard</description>
@@ -358,7 +358,7 @@
       <artist id="45369">
         <name>Propellerheads</name>
         <appearsAs>Propellerheads</appearsAs>
-        <url>http://www.7digital.com/artist/propellerheads/?partner=3923</url>
+        <slug>propellerheads</slug>
       </artist>
       <trackNumber>7</trackNumber>
       <duration>345</duration>
@@ -373,13 +373,12 @@
         <artist id="45369">
           <name>Propellerheads</name>
           <appearsAs>Propellerheads</appearsAs>
-          <url>http://www.7digital.com/artist/propellerheads/?partner=3923</url>
+          <slug>propellerheads</slug>
         </artist>
-        <url>http://www.7digital.com/artist/propellerheads/release/decksandrumsandrockandroll/?partner=3923</url>
+        <slug>decksandrumsandrockandroll</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/004/381/0000438137_50.jpg</image>
-        <releaseDate>2010-04-26T00:00:00Z</releaseDate>
       </release>
-      <url>http://www.7digital.com/artist/propellerheads/release/decksandrumsandrockandroll/?partner=3923&amp;h=07</url>
+      <slug>decksandrumsandrockandroll</slug>
       <price>
         <currency code="GBP">£</currency>
         <value>0.99</value>
@@ -391,8 +390,9 @@
       <streamingReleaseDate>2010-04-26T00:00:00Z</streamingReleaseDate>
       <discNumber>1</discNumber>
       <number>7</number>
-      <previewDate>2010-04-26T00:00:00Z</previewDate>
       <download>
+        <previewDate>2010-04-26T00:00:00Z</previewDate>
+        <releaseDate>2010-04-26T00:00:00Z</releaseDate>
         <packages>
           <package id="2">
             <description>standard</description>
@@ -416,7 +416,7 @@
       <artist id="45369">
         <name>Propellerheads</name>
         <appearsAs>Propellerheads</appearsAs>
-        <url>http://www.7digital.com/artist/propellerheads/?partner=3923</url>
+        <slug>propellerheads</slug>
       </artist>
       <trackNumber>8</trackNumber>
       <duration>46</duration>
@@ -431,13 +431,12 @@
         <artist id="45369">
           <name>Propellerheads</name>
           <appearsAs>Propellerheads</appearsAs>
-          <url>http://www.7digital.com/artist/propellerheads/?partner=3923</url>
+          <slug>propellerheads</slug>
         </artist>
-        <url>http://www.7digital.com/artist/propellerheads/release/decksandrumsandrockandroll/?partner=3923</url>
+        <slug>decksandrumsandrockandroll</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/004/381/0000438137_50.jpg</image>
-        <releaseDate>2010-04-26T00:00:00Z</releaseDate>
       </release>
-      <url>http://www.7digital.com/artist/propellerheads/release/decksandrumsandrockandroll/?partner=3923&amp;h=08</url>
+      <slug>decksandrumsandrockandroll</slug>
       <price>
         <currency code="GBP">£</currency>
         <value>0.99</value>
@@ -449,8 +448,9 @@
       <streamingReleaseDate>2010-04-26T00:00:00Z</streamingReleaseDate>
       <discNumber>1</discNumber>
       <number>8</number>
-      <previewDate>2010-04-26T00:00:00Z</previewDate>
       <download>
+        <previewDate>2010-04-26T00:00:00Z</previewDate>
+        <releaseDate>2010-04-26T00:00:00Z</releaseDate>
         <packages>
           <package id="2">
             <description>standard</description>
@@ -474,7 +474,7 @@
       <artist id="45369">
         <name>Propellerheads</name>
         <appearsAs>Propellerheads</appearsAs>
-        <url>http://www.7digital.com/artist/propellerheads/?partner=3923</url>
+        <slug>propellerheads</slug>
       </artist>
       <trackNumber>9</trackNumber>
       <duration>561</duration>
@@ -489,13 +489,12 @@
         <artist id="45369">
           <name>Propellerheads</name>
           <appearsAs>Propellerheads</appearsAs>
-          <url>http://www.7digital.com/artist/propellerheads/?partner=3923</url>
+          <slug>propellerheads</slug>
         </artist>
-        <url>http://www.7digital.com/artist/propellerheads/release/decksandrumsandrockandroll/?partner=3923</url>
+        <slug>decksandrumsandrockandroll</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/004/381/0000438137_50.jpg</image>
-        <releaseDate>2010-04-26T00:00:00Z</releaseDate>
       </release>
-      <url>http://www.7digital.com/artist/propellerheads/release/decksandrumsandrockandroll/?partner=3923&amp;h=09</url>
+      <slug>decksandrumsandrockandroll</slug>
       <price>
         <currency code="GBP">£</currency>
         <value>0.99</value>
@@ -507,8 +506,9 @@
       <streamingReleaseDate>2010-04-26T00:00:00Z</streamingReleaseDate>
       <discNumber>1</discNumber>
       <number>9</number>
-      <previewDate>2010-04-26T00:00:00Z</previewDate>
       <download>
+        <previewDate>2010-04-26T00:00:00Z</previewDate>
+        <releaseDate>2010-04-26T00:00:00Z</releaseDate>
         <packages>
           <package id="2">
             <description>standard</description>
@@ -532,7 +532,7 @@
       <artist id="45369">
         <name>Propellerheads</name>
         <appearsAs>Propellerheads</appearsAs>
-        <url>http://www.7digital.com/artist/propellerheads/?partner=3923</url>
+        <slug>propellerheads</slug>
       </artist>
       <trackNumber>10</trackNumber>
       <duration>140</duration>
@@ -547,13 +547,12 @@
         <artist id="45369">
           <name>Propellerheads</name>
           <appearsAs>Propellerheads</appearsAs>
-          <url>http://www.7digital.com/artist/propellerheads/?partner=3923</url>
+          <slug>propellerheads</slug>
         </artist>
-        <url>http://www.7digital.com/artist/propellerheads/release/decksandrumsandrockandroll/?partner=3923</url>
+        <slug>decksandrumsandrockandroll</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/004/381/0000438137_50.jpg</image>
-        <releaseDate>2010-04-26T00:00:00Z</releaseDate>
       </release>
-      <url>http://www.7digital.com/artist/propellerheads/release/decksandrumsandrockandroll/?partner=3923&amp;h=10</url>
+      <slug>decksandrumsandrockandroll</slug>
       <price>
         <currency code="GBP">£</currency>
         <value>0.99</value>
@@ -565,8 +564,9 @@
       <streamingReleaseDate>2010-04-26T00:00:00Z</streamingReleaseDate>
       <discNumber>1</discNumber>
       <number>10</number>
-      <previewDate>2010-04-26T00:00:00Z</previewDate>
       <download>
+        <previewDate>2010-04-26T00:00:00Z</previewDate>
+        <releaseDate>2010-04-26T00:00:00Z</releaseDate>
         <packages>
           <package id="2">
             <description>standard</description>
@@ -590,7 +590,7 @@
       <artist id="45369">
         <name>Propellerheads</name>
         <appearsAs>Propellerheads</appearsAs>
-        <url>http://www.7digital.com/artist/propellerheads/?partner=3923</url>
+        <slug>propellerheads</slug>
       </artist>
       <trackNumber>11</trackNumber>
       <duration>423</duration>
@@ -605,13 +605,12 @@
         <artist id="45369">
           <name>Propellerheads</name>
           <appearsAs>Propellerheads</appearsAs>
-          <url>http://www.7digital.com/artist/propellerheads/?partner=3923</url>
+          <slug>propellerheads</slug>
         </artist>
-        <url>http://www.7digital.com/artist/propellerheads/release/decksandrumsandrockandroll/?partner=3923</url>
+        <slug>decksandrumsandrockandroll</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/004/381/0000438137_50.jpg</image>
-        <releaseDate>2010-04-26T00:00:00Z</releaseDate>
       </release>
-      <url>http://www.7digital.com/artist/propellerheads/release/decksandrumsandrockandroll/?partner=3923&amp;h=11</url>
+      <slug>decksandrumsandrockandroll</slug>
       <price>
         <currency code="GBP">£</currency>
         <value>0.99</value>
@@ -623,8 +622,9 @@
       <streamingReleaseDate>2010-04-26T00:00:00Z</streamingReleaseDate>
       <discNumber>1</discNumber>
       <number>11</number>
-      <previewDate>2010-04-26T00:00:00Z</previewDate>
       <download>
+        <previewDate>2010-04-26T00:00:00Z</previewDate>
+        <releaseDate>2010-04-26T00:00:00Z</releaseDate>
         <packages>
           <package id="2">
             <description>standard</description>
@@ -648,7 +648,7 @@
       <artist id="45369">
         <name>Propellerheads</name>
         <appearsAs>Propellerheads</appearsAs>
-        <url>http://www.7digital.com/artist/propellerheads/?partner=3923</url>
+        <slug>propellerheads</slug>
       </artist>
       <trackNumber>12</trackNumber>
       <duration>418</duration>
@@ -663,13 +663,12 @@
         <artist id="45369">
           <name>Propellerheads</name>
           <appearsAs>Propellerheads</appearsAs>
-          <url>http://www.7digital.com/artist/propellerheads/?partner=3923</url>
+          <slug>propellerheads</slug>
         </artist>
-        <url>http://www.7digital.com/artist/propellerheads/release/decksandrumsandrockandroll/?partner=3923</url>
+        <slug>decksandrumsandrockandroll</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/004/381/0000438137_50.jpg</image>
-        <releaseDate>2010-04-26T00:00:00Z</releaseDate>
       </release>
-      <url>http://www.7digital.com/artist/propellerheads/release/decksandrumsandrockandroll/?partner=3923&amp;h=12</url>
+      <slug>decksandrumsandrockandroll</slug>
       <price>
         <currency code="GBP">£</currency>
         <value>0.99</value>
@@ -681,8 +680,9 @@
       <streamingReleaseDate>2010-04-26T00:00:00Z</streamingReleaseDate>
       <discNumber>1</discNumber>
       <number>12</number>
-      <previewDate>2010-04-26T00:00:00Z</previewDate>
       <download>
+        <previewDate>2010-04-26T00:00:00Z</previewDate>
+        <releaseDate>2010-04-26T00:00:00Z</releaseDate>
         <packages>
           <package id="2">
             <description>standard</description>
@@ -706,7 +706,7 @@
       <artist id="327701">
         <name>Propellerheads / Jungle Brothers</name>
         <appearsAs>Propellerheads / Jungle Brothers</appearsAs>
-        <url>http://www.7digital.com/artist/propellerheads-jungle-brothers/?partner=3923</url>
+        <slug>propellerheads-jungle-brothers</slug>
       </artist>
       <trackNumber>13</trackNumber>
       <duration>359</duration>
@@ -721,13 +721,12 @@
         <artist id="45369">
           <name>Propellerheads</name>
           <appearsAs>Propellerheads</appearsAs>
-          <url>http://www.7digital.com/artist/propellerheads/?partner=3923</url>
+          <slug>propellerheads</slug>
         </artist>
-        <url>http://www.7digital.com/artist/propellerheads/release/decksandrumsandrockandroll/?partner=3923</url>
+        <slug>decksandrumsandrockandroll</slug>
         <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/004/381/0000438137_50.jpg</image>
-        <releaseDate>2010-04-26T00:00:00Z</releaseDate>
       </release>
-      <url>http://www.7digital.com/artist/propellerheads/release/decksandrumsandrockandroll/?partner=3923&amp;h=13</url>
+      <slug>decksandrumsandrockandroll</slug>
       <price>
         <currency code="GBP">£</currency>
         <value>0.99</value>
@@ -739,8 +738,9 @@
       <streamingReleaseDate>2010-04-26T00:00:00Z</streamingReleaseDate>
       <discNumber>1</discNumber>
       <number>13</number>
-      <previewDate>2010-04-26T00:00:00Z</previewDate>
       <download>
+        <previewDate>2010-04-26T00:00:00Z</previewDate>
+        <releaseDate>2010-04-26T00:00:00Z</releaseDate>
         <packages>
           <package id="2">
             <description>standard</description>
