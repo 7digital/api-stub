@@ -15,9 +15,9 @@
           <artist id="1">
             <name>Keane</name>
             <appearsAs>Keane</appearsAs>
-            <slug>keane</slug>
+            <url>http://www.7digital.com/artists/keane/?partner=1401</url>
           </artist>
-          <slug>perfect-symmetry-1</slug>
+          <url>http://www.7digital.com/artists/keane/perfect-symmetry-1/?partner=1401</url>
           <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/003/208/0000320867_50.jpg</image>
           <download>
             <packages>
@@ -35,7 +35,6 @@
                 </formats>
               </package>
             </packages>
-            <releaseDate>2008-10-13T00:00:00+01:00</releaseDate>
           </download>
           <label id="3309">
             <name>Universal Music Ireland Ltd.</name>

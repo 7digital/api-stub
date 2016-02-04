@@ -15,12 +15,11 @@
           <artist id="253545">
             <name>Taylor Swift</name>
             <appearsAs>Taylor Swift</appearsAs>
-            <slug>taylor-swift</slug>
+            <url>http://www.7digital.com/artist/taylor-swift/?partner=0</url>
           </artist>
-          <slug>1989</slug>
+          <url>http://www.7digital.com/artist/taylor-swift/release/1989/?partner=0</url>
           <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/039/184/0003918446_50.jpg</image>
           <download>
-            <releaseDate>2014-10-27T00:00:00Z</releaseDate>
             <packages>
               <package id="2">
                 <description>standard</description>
@@ -58,12 +57,11 @@
           <artist id="253545">
             <name>Taylor Swift</name>
             <appearsAs>Taylor Swift</appearsAs>
-            <slug>taylor-swift</slug>
+            <url>http://www.7digital.com/artist/taylor-swift/?partner=0</url>
           </artist>
-          <slug>1989-deluxe</slug>
+          <url>http://www.7digital.com/artist/taylor-swift/release/1989-deluxe/?partner=0</url>
           <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/039/184/0003918447_50.jpg</image>
           <download>
-            <releaseDate>2014-10-27T00:00:00Z</releaseDate>
             <packages>
               <package id="2">
                 <description>standard</description>
@@ -101,12 +99,11 @@
           <artist id="2057842">
             <name>Run The Jewels</name>
             <appearsAs>Run The Jewels</appearsAs>
-            <slug>run-the-jewels</slug>
+            <url>http://www.7digital.com/artist/run-the-jewels/?partner=0</url>
           </artist>
-          <slug>run-the-jewels-2</slug>
+          <url>http://www.7digital.com/artist/run-the-jewels/release/run-the-jewels-2/?partner=0</url>
           <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/039/080/0003908022_50.jpg</image>
           <download>
-            <releaseDate>2014-10-27T00:00:00Z</releaseDate>
             <packages>
               <package id="2">
                 <description>standard</description>
@@ -144,12 +141,11 @@
           <artist id="49773">
             <name>The Twilight Sad</name>
             <appearsAs>The Twilight Sad</appearsAs>
-            <slug>the-twilight-sad</slug>
+            <url>http://www.7digital.com/artist/the-twilight-sad/?partner=0</url>
           </artist>
-          <slug>nobody-wants-to-be-here-and-nobody-wants-to-leave</slug>
+          <url>http://www.7digital.com/artist/the-twilight-sad/release/nobody-wants-to-be-here-and-nobody-wants-to-leave/?partner=0</url>
           <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/039/133/0003913385_50.jpg</image>
           <download>
-            <releaseDate>2014-10-26T00:00:00Z</releaseDate>
             <packages>
               <package id="2">
                 <description>standard</description>
@@ -190,12 +186,11 @@
           <artist id="3299">
             <name>Annie Lennox</name>
             <appearsAs>Annie Lennox</appearsAs>
-            <slug>annie-lennox</slug>
+            <url>http://www.7digital.com/artist/annie-lennox/?partner=0</url>
           </artist>
-          <slug>nostalgia-2</slug>
+          <url>http://www.7digital.com/artist/annie-lennox/release/nostalgia-2/?partner=0</url>
           <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/038/860/0003886086_50.jpg</image>
           <download>
-            <releaseDate>2014-10-27T00:00:00Z</releaseDate>
             <packages>
               <package id="2">
                 <description>standard</description>
@@ -233,12 +228,11 @@
           <artist id="3299">
             <name>Annie Lennox</name>
             <appearsAs>Annie Lennox</appearsAs>
-            <slug>annie-lennox</slug>
+            <url>http://www.7digital.com/artist/annie-lennox/?partner=0</url>
           </artist>
-          <slug>nostalgia-deluxe</slug>
+          <url>http://www.7digital.com/artist/annie-lennox/release/nostalgia-deluxe/?partner=0</url>
           <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/038/857/0003885704_50.jpg</image>
           <download>
-            <releaseDate>2014-10-27T00:00:00Z</releaseDate>
             <packages>
               <package id="2">
                 <description>standard</description>
@@ -276,12 +270,11 @@
           <artist id="153504">
             <name>The Ting Tings</name>
             <appearsAs>The Ting Tings</appearsAs>
-            <slug>the-ting-tings</slug>
+            <url>http://www.7digital.com/artist/the-ting-tings/?partner=0</url>
           </artist>
-          <slug>super-critical</slug>
+          <url>http://www.7digital.com/artist/the-ting-tings/release/super-critical/?partner=0</url>
           <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/036/580/0003658054_50.jpg</image>
           <download>
-            <releaseDate>2014-10-27T00:00:00Z</releaseDate>
             <packages>
               <package id="2">
                 <description>standard</description>
@@ -322,9 +315,9 @@
           <artist id="8576">
             <name>Opeth</name>
             <appearsAs>Opeth</appearsAs>
-            <slug>opeth</slug>
+            <url>http://www.7digital.com/artist/opeth/?partner=712</url>
           </artist>
-          <slug>blackwater-park</slug>
+          <url>http://www.7digital.com/artist/opeth/release/blackwater-park/?partner=712</url>
           <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/002/788/0000278852_50.jpg</image>
           <label id="1036">
             <name>Sony BMG Music Entertainment</name>
@@ -337,7 +330,6 @@
           <duration>4029</duration>
           <trackCount>8</trackCount>
           <download>
-            <releaseDate>2006-06-03T00:00:00Z</releaseDate>
             <packages>
               <package id="9">
                 <description>premium</description>
