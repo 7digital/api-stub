@@ -110,6 +110,22 @@
           <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/012/793/0001279359_50.jpg</image>
           <download>
             <packages>
+              <package id="20">
+                <description>MQA Studio</description>
+                <price>
+                  <currencyCode>GBP</currencyCode>
+                  <sevendigitalPrice>16.00</sevendigitalPrice>
+                  <recommendedRetailPrice>16.00</recommendedRetailPrice>
+                </price>
+                <formats>
+                  <format id="10">
+                    <description>PDF file</description>
+                  </format>
+                  <format id="87">
+                    <description>FLAC 24-bit 352.8kHz MQA Studio</description>
+                  </format>
+                </formats>
+              </package>
               <package id="2">
                 <description>standard</description>
                 <price>
@@ -148,6 +164,22 @@
           <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/012/466/0001246693_50.jpg</image>
           <download>
             <packages>
+              <package id="19">
+                <description>MQA</description>
+                <price>
+                  <currencyCode>GBP</currencyCode>
+                  <sevendigitalPrice>17.00</sevendigitalPrice>
+                  <recommendedRetailPrice>17.00</recommendedRetailPrice>
+                </price>
+                <formats>
+                  <format id="10">
+                    <description>PDF file</description>
+                  </format>
+                  <format id="87">
+                    <description>FLAC 24-bit 352.8kHz MQA</description>
+                  </format>
+                </formats>
+              </package>
               <package id="2">
                 <description>standard</description>
                 <price>
