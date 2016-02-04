@@ -8,7 +8,7 @@
     "url": "git@github.com:7digital/api-stub.git"
   },
   "publishConfig": {
-    "registry": "http://npm-registry.nix.sys.7d:4873/"
+    "registry": "http://npm-registry.prod.eu-central-1.7digital.net"
   },
   "main": "server.js",
   "scripts": {
