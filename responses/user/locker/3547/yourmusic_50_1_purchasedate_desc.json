@@ -970,6 +970,15 @@
                       }
                     },
                     {
+                      "url": "http://media3.7digital.com/media/user/downloadtrack?formatid=76&oauth_consumer_key=7digital.com&oauth_nonce=1250053515&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1338210356&releaseid=320866&shopid=34&trackid=3615522&oauth_signature=vovvW3g1ekzmlxnB%2Bpt1DZFweSE%3D",
+                      "format": {
+                        "id": "76",
+                        "fileFormat": "FLAC",
+                        "bitRate": "0",
+                        "drmFree": "true"
+                      }
+                    },
+                    {
                       "url": "http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&oauth_nonce=jq0n7z5hgz3khiey&oauth_signature=7CyoA1gontDzctKchCDbc1ynqGw%3D&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1409566196&oauth_version=1.0a&formatid=33&partnerid=712&onbehalfofpartnerid=712&presigned=1&releaseid=3395525&shopid=34&trackid=35796180&userid=121404036",
                       "format": {
                         "id": "33",
@@ -1415,15 +1424,35 @@
                 "purchaseDate": "2014-05-02T15:25:03Z",
                 "completeAlbumPurchase": "false",
                 "downloadUrls": {
-                  "downloadUrl": {
-                    "url": "http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&oauth_nonce=spvanj3rsdhhvv6t&oauth_signature=7IgmTMPmXfMiFt2ANZyTjXYiJz0%3D&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1409566196&oauth_version=1.0a&formatid=17&partnerid=712&onbehalfofpartnerid=712&presigned=1&releaseid=659847&shopid=34&trackid=7312971&userid=121404036",
-                    "format": {
-                      "id": "17",
-                      "fileFormat": "MP3",
-                      "bitRate": "320",
-                      "drmFree": "true"
+                  "downloadUrl": [
+                    {
+                      "url": "http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&oauth_nonce=spvanj3rsdhhvv6t&oauth_signature=7IgmTMPmXfMiFt2ANZyTjXYiJz0%3D&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1409566196&oauth_version=1.0a&formatid=17&partnerid=712&onbehalfofpartnerid=712&presigned=1&releaseid=659847&shopid=34&trackid=7312971&userid=121404036",
+                      "format": {
+                        "id": "17",
+                        "fileFormat": "MP3",
+                        "bitRate": "320",
+                        "drmFree": "true"
+                      }
+                    },
+                    {
+                      "url": "http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&oauth_nonce=kny11ww5eccwkzas&oauth_signature=FEC5NRPN4Xi9xi%2F2A%2FclFao%2FTMw%3D&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1409566196&oauth_version=1.0a&formatid=60&partnerid=712&onbehalfofpartnerid=712&presigned=1&releaseid=3395525&shopid=34&trackid=35796180&userid=121404036",
+                      "format": {
+                        "id": "60",
+                        "fileFormat": "FLAC",
+                        "bitRate": "0",
+                        "drmFree": "true"
+                      }
+                    },
+                    {
+                      "url": "http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&oauth_nonce=kny11ww5eccwkzas&oauth_signature=FEC5NRPN4Xi9xi%2F2A%2FclFao%2FTMw%3D&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1409566196&oauth_version=1.0a&formatid=45&partnerid=712&onbehalfofpartnerid=712&presigned=1&releaseid=3395525&shopid=34&trackid=35796180&userid=121404036",
+                      "format": {
+                        "id": "45",
+                        "fileFormat": "FLAC",
+                        "bitRate": "0",
+                        "drmFree": "true"
+                      }
                     }
-                  }
+                  ]
                 }
               },
               {
@@ -1601,15 +1630,26 @@
                 "purchaseDate": "2014-05-02T15:25:03Z",
                 "completeAlbumPurchase": "true",
                 "downloadUrls": {
-                  "downloadUrl": {
-                    "url": "http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&oauth_nonce=13idfcecysf1dy6l&oauth_signature=GZnnJAdviprkMZb06x97LL8tPIY%3D&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1409566196&oauth_version=1.0a&formatid=17&partnerid=712&onbehalfofpartnerid=712&presigned=1&releaseid=438137&shopid=34&trackid=4903567&userid=121404036",
-                    "format": {
-                      "id": "17",
-                      "fileFormat": "MP3",
-                      "bitRate": "320",
-                      "drmFree": "true"
+                  "downloadUrl": [
+                    {
+                      "url": "http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&oauth_nonce=13idfcecysf1dy6l&oauth_signature=GZnnJAdviprkMZb06x97LL8tPIY%3D&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1409566196&oauth_version=1.0a&formatid=17&partnerid=712&onbehalfofpartnerid=712&presigned=1&releaseid=438137&shopid=34&trackid=4903567&userid=121404036",
+                      "format": {
+                        "id": "17",
+                        "fileFormat": "MP3",
+                        "bitRate": "320",
+                        "drmFree": "true"
+                      }
+                    },
+                    {
+                      "url": "http://media3.7digital.com/media/user/downloadtrack?formatid=83&oauth_consumer_key=7digital.com&oauth_nonce=1683834263&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1338210356&releaseid=320866&shopid=34&trackid=7312971&oauth_signature=4kNliSKL4n928JYAxcLt%2F9qhAMA%3D",
+                      "format": {
+                        "id": "83",
+                        "fileFormat": "FLAC",
+                        "bitRate": "0",
+                        "drmFree": "true"
+                      }
                     }
-                  }
+                  ]
                 }
               },
               {
