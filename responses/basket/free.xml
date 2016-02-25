@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<response xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" status="ok" version="1.2" xsi:noNamespaceSchemaLocation="http://api.7digital.com/1.2/static/7digitalAPI.xsd">
+  <basket id="free-basket">
+    <itemCount>1</itemCount>
+    <price>
+      <currency code="GBP">£</currency>
+      <value>0</value>
+      <formattedPrice>£0.00</formattedPrice>
+    </price>
+    <basketItems>
+      <basketItem id="520281446">
+        <type>track</type>
+        <itemName>The Lovers Are Losing</itemName>
+        <artistName>Keane</artistName>
+        <trackId>3615513</trackId>
+        <releaseId>320867</releaseId>
+        <price>
+          <currency code="GBP">£</currency>
+          <value>0</value>
+          <formattedPrice>£0.00</formattedPrice>
+        </price>
+        <amountDue>
+          <amount>0</amount>
+          <formattedAmount>£0.00</formattedAmount>
+        </amountDue>
+        <package id="2"/>
+      </basketItem>
+    </basketItems>
+    <amountDue>
+      <currency code="GBP">£</currency>
+      <amount>0</amount>
+      <formattedAmount>£0.00</formattedAmount>
+    </amountDue>
+  </basket>
+</response>
