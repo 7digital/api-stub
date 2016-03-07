@@ -7,100 +7,62 @@
     <artist id="14">
       <name>The Charlatans</name>
       <sortName>Charlatans, The</sortName>
-      <url>
-        http://www.7digital.com/artist/the-charlatans/?partner=1401
-      </url>
-      <image>
-        http://artwork-cdn.7static.com/static/img/artistimages/00/000/000/0000000014_150.jpg
-      </image>
+      <slug>the-charlatans</slug>
+      <image>http://artwork-cdn.7static.com/static/img/artistimages/00/000/000/0000000014_150.jpg</image>
     </artist>
     <artist id="20">
       <name>Coldplay</name>
       <sortName>Coldplay</sortName>
-      <url>
-        http://www.7digital.com/artist/coldplay/?partner=1401
-      </url>
-      <image>
-        http://artwork-cdn.7static.com/static/img/artistimages/00/000/000/0000000020_150.jpg
-      </image>
+      <slug>coldplay</slug>
+      <image>http://artwork-cdn.7static.com/static/img/artistimages/00/000/000/0000000020_150.jpg</image>
     </artist>
     <artist id="102">
       <name>Ocean Colour Scene</name>
       <sortName>Ocean Colour Scene</sortName>
-      <url>
-        http://www.7digital.com/artist/ocean-colour-scene/?partner=1401
-      </url>
-      <image>
-        http://artwork-cdn.7static.com/static/img/artistimages/00/000/001/0000000102_150.jpg
-      </image>
+      <slug>ocean-colour-scene</slug>
+      <image>http://artwork-cdn.7static.com/static/img/artistimages/00/000/001/0000000102_150.jpg</image>
     </artist>
     <artist id="106">
       <name>U2</name>
       <sortName>U2</sortName>
       <slug>u2</slug>
-      <image>
-        http://artwork-cdn.7static.com/static/img/artistimages/00/000/001/0000000106_150.jpg
-      </image>
+      <image>http://artwork-cdn.7static.com/static/img/artistimages/00/000/001/0000000106_150.jpg</image>
     </artist>
     <artist id="110">
       <name>Thirteen Senses</name>
       <sortName>Thirteen Senses</sortName>
-      <url>
-        http://www.7digital.com/artist/thirteen-senses/?partner=1401
-      </url>
-      <image>
-        http://artwork-cdn.7static.com/static/img/artistimages/00/000/001/0000000110_150.jpg
-      </image>
+      <slug>thirteen-senses</slug>
+      <image>http://artwork-cdn.7static.com/static/img/artistimages/00/000/001/0000000110_150.jpg</image>
     </artist>
     <artist id="117">
       <name>The Thrills</name>
       <sortName>Thrills, The</sortName>
-      <url>
-        http://www.7digital.com/artist/the-thrills/?partner=1401
-      </url>
-      <image>
-        http://artwork-cdn.7static.com/static/img/artistimages/00/000/001/0000000117_150.jpg
-      </image>
+      <slug>the-thrills</slug>
+      <image>http://artwork-cdn.7static.com/static/img/artistimages/00/000/001/0000000117_150.jpg</image>
     </artist>
     <artist id="122">
       <name>Starsailor</name>
       <sortName>Starsailor</sortName>
-      <url>
-        http://www.7digital.com/artist/starsailor/?partner=1401
-      </url>
-      <image>
-        http://artwork-cdn.7static.com/static/img/artistimages/00/000/001/0000000122_150.jpg
-      </image>
+      <slug>starsailor</slug>
+      <image>http://artwork-cdn.7static.com/static/img/artistimages/00/000/001/0000000122_150.jpg</image>
     </artist>
     <artist id="170">
       <name>Razorlight</name>
       <sortName>Razorlight</sortName>
-      <url>
-        http://www.7digital.com/artist/razorlight/?partner=1401
-      </url>
-      <image>
-        http://artwork-cdn.7static.com/static/img/artistimages/00/000/001/0000000170_150.jpg
-      </image>
+      <slug>razorlight</slug>
+      <image>http://artwork-cdn.7static.com/static/img/artistimages/00/000/001/0000000170_150.jpg</image>
     </artist>
     <artist id="222">
       <name>Maroon 5</name>
       <sortName>Maroon 5</sortName>
-      <url>
-        http://www.7digital.com/artist/maroon-5/?partner=1401
-      </url>
-      <image>
-        http://artwork-cdn.7static.com/static/img/artistimages/00/000/002/0000000222_150.jpg
-      </image>
+      <slug>maroon-5</slug>
+      <image>http://artwork-cdn.7static.com/static/img/artistimages/00/000/002/0000000222_150.jpg</image>
     </artist>
     <artist id="269">
       <name>Snow Patrol</name>
       <sortName>Snow Patrol</sortName>
-      <url>
-        http://www.7digital.com/artist/snow-patrol/?partner=1401
-      </url>
-      <image>
-        http://artwork-cdn.7static.com/static/img/artistimages/00/000/002/0000000269_150.jpg
-      </image>
+      <slug>snow-patrol</slug>
+      <image>http://artwork-cdn.7static.com/static/img/artistimages/00/000/002/0000000269_150.jpg</image>
     </artist>
   </artists>
 </response>

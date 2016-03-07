@@ -25,7 +25,7 @@
       <artist id="522">
         <name>The Rolling Stones</name>
         <sortName>Rolling Stones, The</sortName>
-        <url>http://www.7digital.com/artist/the-rolling-stones-(2)/?partner=712</url>
+        <slug>the-rolling-stones-(2)</slug>
         <image>http://artwork-cdn.7static.com/static/img/artistimages/00/000/005/0000000522_150.jpg</image>
       </artist>
     </taggedItem>
@@ -128,8 +128,8 @@
     <taggedItem>
       <artist id="2200">
         <name>Elvis Presley</name>
-        <sortName>Elvis Presley </sortName>
-        <url>http://www.7digital.com/artist/elvis-presley-(2)/?partner=712</url>
+        <sortName>Elvis Presley</sortName>
+        <slug>elvis-presley-(2)</slug>
         <image>http://artwork-cdn.7static.com/static/img/artistimages/00/000/022/0000002200_150.jpg</image>
       </artist>
     </taggedItem>

@@ -15,11 +15,12 @@
           <artist id="253545">
             <name>Taylor Swift</name>
             <appearsAs>Taylor Swift</appearsAs>
-            <url>http://www.7digital.com/artist/taylor-swift/?partner=0</url>
+            <slug>taylor-swift</slug>
           </artist>
-          <url>http://www.7digital.com/artist/taylor-swift/release/1989/?partner=0</url>
+          <slug>1989</slug>
           <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/039/184/0003918446_50.jpg</image>
           <download>
+            <releaseDate>2014-10-27T00:00:00Z</releaseDate>
             <packages>
               <package id="2">
                 <description>standard</description>
@@ -57,11 +58,12 @@
           <artist id="253545">
             <name>Taylor Swift</name>
             <appearsAs>Taylor Swift</appearsAs>
-            <url>http://www.7digital.com/artist/taylor-swift/?partner=0</url>
+            <slug>taylor-swift</slug>
           </artist>
-          <url>http://www.7digital.com/artist/taylor-swift/release/1989-deluxe/?partner=0</url>
+          <slug>1989-deluxe</slug>
           <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/039/184/0003918447_50.jpg</image>
           <download>
+            <releaseDate>2014-10-27T00:00:00Z</releaseDate>
             <packages>
               <package id="2">
                 <description>standard</description>
@@ -99,11 +101,12 @@
           <artist id="2057842">
             <name>Run The Jewels</name>
             <appearsAs>Run The Jewels</appearsAs>
-            <url>http://www.7digital.com/artist/run-the-jewels/?partner=0</url>
+            <slug>run-the-jewels</slug>
           </artist>
-          <url>http://www.7digital.com/artist/run-the-jewels/release/run-the-jewels-2/?partner=0</url>
+          <slug>run-the-jewels-2</slug>
           <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/039/080/0003908022_50.jpg</image>
           <download>
+            <releaseDate>2014-10-27T00:00:00Z</releaseDate>
             <packages>
               <package id="2">
                 <description>standard</description>
@@ -141,11 +144,12 @@
           <artist id="49773">
             <name>The Twilight Sad</name>
             <appearsAs>The Twilight Sad</appearsAs>
-            <url>http://www.7digital.com/artist/the-twilight-sad/?partner=0</url>
+            <slug>the-twilight-sad</slug>
           </artist>
-          <url>http://www.7digital.com/artist/the-twilight-sad/release/nobody-wants-to-be-here-and-nobody-wants-to-leave/?partner=0</url>
+          <slug>nobody-wants-to-be-here-and-nobody-wants-to-leave</slug>
           <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/039/133/0003913385_50.jpg</image>
           <download>
+            <releaseDate>2014-10-26T00:00:00Z</releaseDate>
             <packages>
               <package id="2">
                 <description>standard</description>
@@ -186,11 +190,12 @@
           <artist id="3299">
             <name>Annie Lennox</name>
             <appearsAs>Annie Lennox</appearsAs>
-            <url>http://www.7digital.com/artist/annie-lennox/?partner=0</url>
+            <slug>annie-lennox</slug>
           </artist>
-          <url>http://www.7digital.com/artist/annie-lennox/release/nostalgia-2/?partner=0</url>
+          <slug>nostalgia-2</slug>
           <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/038/860/0003886086_50.jpg</image>
           <download>
+            <releaseDate>2014-10-27T00:00:00Z</releaseDate>
             <packages>
               <package id="2">
                 <description>standard</description>
@@ -228,11 +233,12 @@
           <artist id="3299">
             <name>Annie Lennox</name>
             <appearsAs>Annie Lennox</appearsAs>
-            <url>http://www.7digital.com/artist/annie-lennox/?partner=0</url>
+            <slug>annie-lennox</slug>
           </artist>
-          <url>http://www.7digital.com/artist/annie-lennox/release/nostalgia-deluxe/?partner=0</url>
+          <slug>nostalgia-deluxe</slug>
           <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/038/857/0003885704_50.jpg</image>
           <download>
+            <releaseDate>2014-10-27T00:00:00Z</releaseDate>
             <packages>
               <package id="2">
                 <description>standard</description>
@@ -270,11 +276,12 @@
           <artist id="153504">
             <name>The Ting Tings</name>
             <appearsAs>The Ting Tings</appearsAs>
-            <url>http://www.7digital.com/artist/the-ting-tings/?partner=0</url>
+            <slug>the-ting-tings</slug>
           </artist>
-          <url>http://www.7digital.com/artist/the-ting-tings/release/super-critical/?partner=0</url>
+          <slug>super-critical</slug>
           <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/036/580/0003658054_50.jpg</image>
           <download>
+            <releaseDate>2014-10-27T00:00:00Z</releaseDate>
             <packages>
               <package id="2">
                 <description>standard</description>
@@ -315,11 +322,12 @@
           <artist id="964836">
             <name>Dillon Francis</name>
             <appearsAs>Dillon Francis</appearsAs>
-            <url>http://www.7digital.com/artist/dillon-francis/?partner=0</url>
+            <slug>dillon-francis</slug>
           </artist>
-          <url>http://www.7digital.com/artist/dillon-francis/release/money-sucks-friends-rule/?partner=0</url>
+          <slug>money-sucks-friends-rule</slug>
           <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/039/034/0003903415_50.jpg</image>
           <download>
+            <releaseDate>2014-10-27T00:00:00Z</releaseDate>
             <packages>
               <package id="2">
                 <description>standard</description>
@@ -360,11 +368,12 @@
           <artist id="1544393">
             <name>Lily &amp; Madeleine</name>
             <appearsAs>Lily &amp; Madeleine</appearsAs>
-            <url>http://www.7digital.com/artist/lily-and-madeleine/?partner=0</url>
+            <slug>lily-and-madeleine</slug>
           </artist>
-          <url>http://www.7digital.com/artist/lily-and-madeleine/release/fumes/?partner=0</url>
+          <slug>fumes</slug>
           <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/038/711/0003871125_50.jpg</image>
           <download>
+            <releaseDate>2014-10-27T00:00:00Z</releaseDate>
             <packages>
               <package id="2">
                 <description>standard</description>
@@ -405,11 +414,12 @@
           <artist id="449359">
             <name>Kiasmos</name>
             <appearsAs>Kiasmos</appearsAs>
-            <url>http://www.7digital.com/artist/kiasmos/?partner=0</url>
+            <slug>kiasmos</slug>
           </artist>
-          <url>http://www.7digital.com/artist/kiasmos/release/kiasmos/?partner=0</url>
+          <slug>kiasmos</slug>
           <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/038/784/0003878464_50.jpg</image>
           <download>
+            <releaseDate>2014-10-27T00:00:00Z</releaseDate>
             <packages>
               <package id="2">
                 <description>standard</description>
@@ -450,11 +460,12 @@
           <artist id="677154">
             <name>Black Veil Brides</name>
             <appearsAs>Black Veil Brides</appearsAs>
-            <url>http://www.7digital.com/artist/black-veil-brides/?partner=0</url>
+            <slug>black-veil-brides</slug>
           </artist>
-          <url>http://www.7digital.com/artist/black-veil-brides/release/black-veil-brides/?partner=0</url>
+          <slug>black-veil-brides</slug>
           <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/038/857/0003885766_50.jpg</image>
           <download>
+            <releaseDate>2014-10-27T00:00:00Z</releaseDate>
             <packages>
               <package id="2">
                 <description>standard</description>
@@ -492,11 +503,12 @@
           <artist id="357626">
             <name>Yusuf / Cat Stevens</name>
             <appearsAs>Yusuf / Cat Stevens</appearsAs>
-            <url>http://www.7digital.com/artist/yusuf-cat-stevens/?partner=0</url>
+            <slug>yusuf-cat-stevens</slug>
           </artist>
-          <url>http://www.7digital.com/artist/yusuf-cat-stevens/release/tell-em-im-gone/?partner=0</url>
+          <slug>tell-em-im-gone</slug>
           <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/037/901/0003790138_50.jpg</image>
           <download>
+            <releaseDate>2014-10-27T00:00:00Z</releaseDate>
             <packages>
               <package id="2">
                 <description>standard</description>
@@ -537,11 +549,12 @@
           <artist id="1415382">
             <name>Bored Nothing</name>
             <appearsAs>Bored Nothing</appearsAs>
-            <url>http://www.7digital.com/artist/bored-nothing/?partner=0</url>
+            <slug>bored-nothing</slug>
           </artist>
-          <url>http://www.7digital.com/artist/bored-nothing/release/some-songs/?partner=0</url>
+          <slug>some-songs</slug>
           <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/038/588/0003858861_50.jpg</image>
           <download>
+            <releaseDate>2014-10-27T00:00:00Z</releaseDate>
             <packages>
               <package id="2">
                 <description>standard</description>
@@ -579,11 +592,12 @@
           <artist id="55">
             <name>Stereo MC's</name>
             <appearsAs>Stereo MC's</appearsAs>
-            <url>http://www.7digital.com/artist/stereo-mcs-(2)/?partner=0</url>
+            <slug>stereo-mcs-(2)</slug>
           </artist>
-          <url>http://www.7digital.com/artist/stereo-mcs-(2)/release/collected/?partner=0</url>
+          <slug>collected</slug>
           <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/038/868/0003886864_50.jpg</image>
           <download>
+            <releaseDate>2014-10-27T00:00:00Z</releaseDate>
             <packages>
               <package id="2">
                 <description>standard</description>
@@ -621,11 +635,12 @@
           <artist id="1968">
             <name>Dionne Warwick</name>
             <appearsAs>Dionne Warwick</appearsAs>
-            <url>http://www.7digital.com/artist/dionne-warwick/?partner=0</url>
+            <slug>dionne-warwick</slug>
           </artist>
-          <url>http://www.7digital.com/artist/dionne-warwick/release/feels-so-good-1/?partner=0</url>
+          <slug>feels-so-good-1</slug>
           <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/038/883/0003888356_50.jpg</image>
           <download>
+            <releaseDate>2014-10-26T00:00:00Z</releaseDate>
             <packages>
               <package id="2">
                 <description>standard</description>
@@ -663,11 +678,12 @@
           <artist id="585040">
             <name>Flight Facilities</name>
             <appearsAs>Flight Facilities</appearsAs>
-            <url>http://www.7digital.com/artist/flight-facilities/?partner=0</url>
+            <slug>flight-facilities</slug>
           </artist>
-          <url>http://www.7digital.com/artist/flight-facilities/release/down-to-earth-1/?partner=0</url>
+          <slug>down-to-earth-1</slug>
           <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/038/859/0003885953_50.jpg</image>
           <download>
+            <releaseDate>2014-10-27T00:00:00Z</releaseDate>
             <packages>
               <package id="2">
                 <description>standard</description>
@@ -705,11 +721,12 @@
           <artist id="2091641">
             <name>Glass Caves</name>
             <appearsAs>Glass Caves</appearsAs>
-            <url>http://www.7digital.com/artist/glass-caves/?partner=0</url>
+            <slug>glass-caves</slug>
           </artist>
-          <url>http://www.7digital.com/artist/glass-caves/release/alive/?partner=0</url>
+          <slug>alive</slug>
           <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/038/323/0003832394_50.jpg</image>
           <download>
+            <releaseDate>2014-10-27T00:00:00Z</releaseDate>
             <packages>
               <package id="2">
                 <description>standard</description>
@@ -750,11 +767,12 @@
           <artist id="14380">
             <name>The Crown</name>
             <appearsAs>The Crown</appearsAs>
-            <url>http://www.7digital.com/artist/the-crown/?partner=0</url>
+            <slug>the-crown</slug>
           </artist>
-          <url>http://www.7digital.com/artist/the-crown/release/headhunter-1/?partner=0</url>
+          <slug>headhunter-1</slug>
           <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/038/859/0003885993_50.jpg</image>
           <download>
+            <releaseDate>2014-10-27T00:00:00Z</releaseDate>
             <packages>
               <package id="2">
                 <description>standard</description>
@@ -792,11 +810,12 @@
           <artist id="209">
             <name>Various Artists</name>
             <appearsAs>Various Artists</appearsAs>
-            <url>http://www.7digital.com/artist/various-artists/?partner=0</url>
+            <slug>various-artists</slug>
           </artist>
-          <url>http://www.7digital.com/artist/various-artists/release/jackie-the-party-album/?partner=0</url>
+          <slug>jackie-the-party-album</slug>
           <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/038/862/0003886246_50.jpg</image>
           <download>
+            <releaseDate>2014-10-27T00:00:00Z</releaseDate>
             <packages>
               <package id="2">
                 <description>standard</description>
@@ -834,11 +853,12 @@
           <artist id="209">
             <name>Various Artists</name>
             <appearsAs>Various Artists</appearsAs>
-            <url>http://www.7digital.com/artist/various-artists/?partner=0</url>
+            <slug>various-artists</slug>
           </artist>
-          <url>http://www.7digital.com/artist/various-artists/release/motown-christmas-1/?partner=0</url>
+          <slug>motown-christmas-1</slug>
           <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/038/189/0003818970_50.jpg</image>
           <download>
+            <releaseDate>2014-09-30T00:00:00Z</releaseDate>
             <packages>
               <package id="2">
                 <description>standard</description>
@@ -876,11 +896,12 @@
           <artist id="209">
             <name>Various Artists</name>
             <appearsAs>Various Artists</appearsAs>
-            <url>http://www.7digital.com/artist/various-artists/?partner=0</url>
+            <slug>various-artists</slug>
           </artist>
-          <url>http://www.7digital.com/artist/various-artists/release/pop-party-13-1/?partner=0</url>
+          <slug>pop-party-13-1</slug>
           <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/038/859/0003885949_50.jpg</image>
           <download>
+            <releaseDate>2014-10-27T00:00:00Z</releaseDate>
             <packages>
               <package id="2">
                 <description>standard</description>
@@ -918,11 +939,12 @@
           <artist id="1011365">
             <name>Mallory Knox</name>
             <appearsAs>Mallory Knox</appearsAs>
-            <url>http://www.7digital.com/artist/mallory-knox/?partner=0</url>
+            <slug>mallory-knox</slug>
           </artist>
-          <url>http://www.7digital.com/artist/mallory-knox/release/asymmetry-1/?partner=0</url>
+          <slug>asymmetry-1</slug>
           <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/038/832/0003883252_50.jpg</image>
           <download>
+            <releaseDate>2014-10-27T00:00:00Z</releaseDate>
             <packages>
               <package id="2">
                 <description>standard</description>
@@ -963,11 +985,12 @@
           <artist id="209">
             <name>Various Artists</name>
             <appearsAs>Various</appearsAs>
-            <url>http://www.7digital.com/artist/various-artists/?partner=0</url>
+            <slug>various-artists</slug>
           </artist>
-          <url>http://www.7digital.com/artist/various-artists/release/bbc-radio-1s-live-lounge-2014/?partner=0</url>
+          <slug>bbc-radio-1s-live-lounge-2014</slug>
           <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/038/871/0003887139_50.jpg</image>
           <download>
+            <releaseDate>2014-10-27T00:00:00Z</releaseDate>
             <packages>
               <package id="2">
                 <description>standard</description>
@@ -1008,11 +1031,12 @@
           <artist id="1985061">
             <name>High Hazels</name>
             <appearsAs>High Hazels</appearsAs>
-            <url>http://www.7digital.com/artist/high-hazels/?partner=0</url>
+            <slug>high-hazels</slug>
           </artist>
-          <url>http://www.7digital.com/artist/high-hazels/release/high-hazels/?partner=0</url>
+          <slug>high-hazels</slug>
           <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/037/789/0003778917_50.jpg</image>
           <download>
+            <releaseDate>2014-10-27T00:00:00Z</releaseDate>
             <packages>
               <package id="2">
                 <description>standard</description>
@@ -1050,11 +1074,12 @@
           <artist id="2437259">
             <name>Sleaford Mods</name>
             <appearsAs>Sleaford Mods</appearsAs>
-            <url>http://www.7digital.com/artist/sleaford-mods/?partner=0</url>
+            <slug>sleaford-mods</slug>
           </artist>
-          <url>http://www.7digital.com/artist/sleaford-mods/release/chubbed-upplus/?partner=0</url>
+          <slug>chubbed-upplus</slug>
           <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/038/676/0003867689_50.jpg</image>
           <download>
+            <releaseDate>2014-10-28T00:00:00Z</releaseDate>
             <packages>
               <package id="2">
                 <description>standard</description>
@@ -1092,11 +1117,12 @@
           <artist id="1280">
             <name>T.I.</name>
             <appearsAs>T.I.</appearsAs>
-            <url>http://www.7digital.com/artist/t-i/?partner=0</url>
+            <slug>t-i</slug>
           </artist>
-          <url>http://www.7digital.com/artist/t-i/release/paperwork-explicit-1/?partner=0</url>
+          <slug>paperwork-explicit-1</slug>
           <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/038/934/0003893444_50.jpg</image>
           <download>
+            <releaseDate>2014-10-20T00:00:00Z</releaseDate>
             <packages>
               <package id="2">
                 <description>standard</description>
@@ -1137,11 +1163,12 @@
           <artist id="209">
             <name>Various Artists</name>
             <appearsAs>Various</appearsAs>
-            <url>http://www.7digital.com/artist/various-artists/?partner=0</url>
+            <slug>various-artists</slug>
           </artist>
-          <url>http://www.7digital.com/artist/various-artists/release/hollyoaks-the-album/?partner=0</url>
+          <slug>hollyoaks-the-album</slug>
           <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/038/456/0003845600_50.jpg</image>
           <download>
+            <releaseDate>2014-10-20T00:00:00Z</releaseDate>
             <packages>
               <package id="2">
                 <description>standard</description>
@@ -1182,11 +1209,12 @@
           <artist id="209">
             <name>Various Artists</name>
             <appearsAs>Various Artists</appearsAs>
-            <url>http://www.7digital.com/artist/various-artists/?partner=0</url>
+            <slug>various-artists</slug>
           </artist>
-          <url>http://www.7digital.com/artist/various-artists/release/dj-mag-top-100-djs-2014-ministry-of-sound-1/?partner=0</url>
+          <slug>dj-mag-top-100-djs-2014-ministry-of-sound-1</slug>
           <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/038/941/0003894118_50.jpg</image>
           <download>
+            <releaseDate>2014-10-19T00:00:00Z</releaseDate>
             <packages>
               <package id="2">
                 <description>standard</description>
@@ -1230,11 +1258,12 @@
           <artist id="209">
             <name>Various Artists</name>
             <appearsAs>Various Artists</appearsAs>
-            <url>http://www.7digital.com/artist/various-artists/?partner=0</url>
+            <slug>various-artists</slug>
           </artist>
-          <url>http://www.7digital.com/artist/various-artists/release/ibiza-2014-closing-party-2/?partner=0</url>
+          <slug>ibiza-2014-closing-party-2</slug>
           <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/039/133/0003913346_50.jpg</image>
           <download>
+            <releaseDate>2014-09-29T00:00:00Z</releaseDate>
             <packages>
               <package id="2">
                 <description>standard</description>
@@ -1275,11 +1304,12 @@
           <artist id="498705">
             <name>Grouper</name>
             <appearsAs>Grouper</appearsAs>
-            <url>http://www.7digital.com/artist/grouper/?partner=0</url>
+            <slug>grouper</slug>
           </artist>
-          <url>http://www.7digital.com/artist/grouper/release/ruins/?partner=0</url>
+          <slug>ruins</slug>
           <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/037/406/0003740624_50.jpg</image>
           <download>
+            <releaseDate>2014-10-28T00:00:00Z</releaseDate>
             <packages>
               <package id="2">
                 <description>standard</description>
@@ -1317,11 +1347,12 @@
           <artist id="1515067">
             <name>East India Youth</name>
             <appearsAs>East India Youth</appearsAs>
-            <url>http://www.7digital.com/artist/east-india-youth/?partner=0</url>
+            <slug>east-india-youth</slug>
           </artist>
-          <url>http://www.7digital.com/artist/east-india-youth/release/20000-leagues-under-the-sea/?partner=0</url>
+          <slug>20000-leagues-under-the-sea</slug>
           <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/038/895/0003889526_50.jpg</image>
           <download>
+            <releaseDate>2014-10-27T00:00:00Z</releaseDate>
             <packages>
               <package id="2">
                 <description>standard</description>
@@ -1362,11 +1393,12 @@
           <artist id="209">
             <name>Various Artists</name>
             <appearsAs>Various Artists</appearsAs>
-            <url>http://www.7digital.com/artist/various-artists/?partner=0</url>
+            <slug>various-artists</slug>
           </artist>
-          <url>http://www.7digital.com/artist/various-artists/release/annie-mac-presents-2014-explicit/?partner=0</url>
+          <slug>annie-mac-presents-2014-explicit</slug>
           <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/038/858/0003885850_50.jpg</image>
           <download>
+            <releaseDate>2014-10-24T00:00:00Z</releaseDate>
             <packages>
               <package id="2">
                 <description>standard</description>
@@ -1404,11 +1436,12 @@
           <artist id="960628">
             <name>THE STAVES</name>
             <appearsAs>THE STAVES</appearsAs>
-            <url>http://www.7digital.com/artist/the-staves/?partner=0</url>
+            <slug>the-staves</slug>
           </artist>
-          <url>http://www.7digital.com/artist/the-staves/release/blood-i-bled-1/?partner=0</url>
+          <slug>blood-i-bled-1</slug>
           <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/039/076/0003907669_50.jpg</image>
           <download>
+            <releaseDate>2014-10-28T00:00:00Z</releaseDate>
             <packages>
               <package id="2">
                 <description>standard</description>
@@ -1446,11 +1479,12 @@
           <artist id="487026">
             <name>Ben Howard</name>
             <appearsAs>Ben Howard</appearsAs>
-            <url>http://www.7digital.com/artist/ben-howard/?partner=0</url>
+            <slug>ben-howard</slug>
           </artist>
-          <url>http://www.7digital.com/artist/ben-howard/release/i-forget-where-we-were-2/?partner=0</url>
+          <slug>i-forget-where-we-were-2</slug>
           <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/038/588/0003858891_50.jpg</image>
           <download>
+            <releaseDate>2014-10-20T00:00:00Z</releaseDate>
             <packages>
               <package id="2">
                 <description>standard</description>
@@ -1488,11 +1522,12 @@
           <artist id="2460527">
             <name>Scott Walker + Sunn O)))</name>
             <appearsAs>Scott Walker + Sunn O)))</appearsAs>
-            <url>http://www.7digital.com/artist/scott-walker-plus-sunn-o/?partner=0</url>
+            <slug>scott-walker-plus-sunn-o</slug>
           </artist>
-          <url>http://www.7digital.com/artist/scott-walker-plus-sunn-o/release/soused/?partner=0</url>
+          <slug>soused</slug>
           <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/038/894/0003889465_50.jpg</image>
           <download>
+            <releaseDate>2014-10-20T00:00:00Z</releaseDate>
             <packages>
               <package id="2">
                 <description>standard</description>
@@ -1533,11 +1568,12 @@
           <artist id="24908">
             <name>Thurston Moore</name>
             <appearsAs>Thurston Moore</appearsAs>
-            <url>http://www.7digital.com/artist/thurston-moore/?partner=0</url>
+            <slug>thurston-moore</slug>
           </artist>
-          <url>http://www.7digital.com/artist/thurston-moore/release/the-best-day-1/?partner=0</url>
+          <slug>the-best-day-1</slug>
           <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/038/894/0003889468_50.jpg</image>
           <download>
+            <releaseDate>2014-10-20T00:00:00Z</releaseDate>
             <packages>
               <package id="2">
                 <description>standard</description>
@@ -1578,11 +1614,12 @@
           <artist id="401730">
             <name>Cooly G</name>
             <appearsAs>Cooly G</appearsAs>
-            <url>http://www.7digital.com/artist/cooly-g/?partner=0</url>
+            <slug>cooly-g</slug>
           </artist>
-          <url>http://www.7digital.com/artist/cooly-g/release/wait-til-night/?partner=0</url>
+          <slug>wait-til-night</slug>
           <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/038/105/0003810513_50.jpg</image>
           <download>
+            <releaseDate>2014-10-20T00:00:00Z</releaseDate>
             <packages>
               <package id="2">
                 <description>standard</description>
@@ -1620,11 +1657,12 @@
           <artist id="1244597">
             <name>Bear's Den</name>
             <appearsAs>Bear's Den</appearsAs>
-            <url>http://www.7digital.com/artist/bears-den/?partner=0</url>
+            <slug>bears-den</slug>
           </artist>
-          <url>http://www.7digital.com/artist/bears-den/release/islands-1/?partner=0</url>
+          <slug>islands-1</slug>
           <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/038/588/0003858830_50.jpg</image>
           <download>
+            <releaseDate>2014-10-20T00:00:00Z</releaseDate>
             <packages>
               <package id="2">
                 <description>standard</description>
@@ -1662,11 +1700,12 @@
           <artist id="35">
             <name>Neil Diamond</name>
             <appearsAs>Neil Diamond</appearsAs>
-            <url>http://www.7digital.com/artist/neil-diamond/?partner=0</url>
+            <slug>neil-diamond</slug>
           </artist>
-          <url>http://www.7digital.com/artist/neil-diamond/release/melody-road-deluxe/?partner=0</url>
+          <slug>melody-road-deluxe</slug>
           <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/038/900/0003890033_50.jpg</image>
           <download>
+            <releaseDate>2014-10-20T00:00:00Z</releaseDate>
             <packages>
               <package id="2">
                 <description>standard</description>
@@ -1704,11 +1743,12 @@
           <artist id="35">
             <name>Neil Diamond</name>
             <appearsAs>Neil Diamond</appearsAs>
-            <url>http://www.7digital.com/artist/neil-diamond/?partner=0</url>
+            <slug>neil-diamond</slug>
           </artist>
-          <url>http://www.7digital.com/artist/neil-diamond/release/melody-road/?partner=0</url>
+          <slug>melody-road</slug>
           <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/038/589/0003858908_50.jpg</image>
           <download>
+            <releaseDate>2014-10-20T00:00:00Z</releaseDate>
             <packages>
               <package id="2">
                 <description>standard</description>
@@ -1746,11 +1786,12 @@
           <artist id="358">
             <name>Status Quo</name>
             <appearsAs>Status Quo</appearsAs>
-            <url>http://www.7digital.com/artist/status-quo/?partner=0</url>
+            <slug>status-quo</slug>
           </artist>
-          <url>http://www.7digital.com/artist/status-quo/release/aquostic-stripped-bare/?partner=0</url>
+          <slug>aquostic-stripped-bare</slug>
           <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/038/742/0003874276_50.jpg</image>
           <download>
+            <releaseDate>2014-10-20T00:00:00Z</releaseDate>
             <packages>
               <package id="2">
                 <description>standard</description>
@@ -1788,11 +1829,12 @@
           <artist id="1982">
             <name>Aretha Franklin</name>
             <appearsAs>Aretha Franklin</appearsAs>
-            <url>http://www.7digital.com/artist/aretha-franklin/?partner=0</url>
+            <slug>aretha-franklin</slug>
           </artist>
-          <url>http://www.7digital.com/artist/aretha-franklin/release/aretha-franklin-sings-the-great-diva-classics/?partner=0</url>
+          <slug>aretha-franklin-sings-the-great-diva-classics</slug>
           <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/038/660/0003866012_50.jpg</image>
           <download>
+            <releaseDate>2014-10-20T00:00:00Z</releaseDate>
             <packages>
               <package id="2">
                 <description>standard</description>
@@ -1833,11 +1875,12 @@
           <artist id="253545">
             <name>Taylor Swift</name>
             <appearsAs>Taylor Swift</appearsAs>
-            <url>http://www.7digital.com/artist/taylor-swift/?partner=0</url>
+            <slug>taylor-swift</slug>
           </artist>
-          <url>http://www.7digital.com/artist/taylor-swift/release/1989/?partner=0</url>
+          <slug>1989</slug>
           <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/039/184/0003918446_50.jpg</image>
           <download>
+            <releaseDate>2014-10-27T00:00:00Z</releaseDate>
             <packages>
               <package id="2">
                 <description>standard</description>
@@ -1875,11 +1918,12 @@
           <artist id="253545">
             <name>Taylor Swift</name>
             <appearsAs>Taylor Swift</appearsAs>
-            <url>http://www.7digital.com/artist/taylor-swift/?partner=0</url>
+            <slug>taylor-swift</slug>
           </artist>
-          <url>http://www.7digital.com/artist/taylor-swift/release/1989-deluxe/?partner=0</url>
+          <slug>1989-deluxe</slug>
           <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/039/184/0003918447_50.jpg</image>
           <download>
+            <releaseDate>2014-10-27T00:00:00Z</releaseDate>
             <packages>
               <package id="2">
                 <description>standard</description>
@@ -1917,11 +1961,12 @@
           <artist id="2057842">
             <name>Run The Jewels</name>
             <appearsAs>Run The Jewels</appearsAs>
-            <url>http://www.7digital.com/artist/run-the-jewels/?partner=0</url>
+            <slug>run-the-jewels</slug>
           </artist>
-          <url>http://www.7digital.com/artist/run-the-jewels/release/run-the-jewels-2/?partner=0</url>
+          <slug>run-the-jewels-2</slug>
           <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/039/080/0003908022_50.jpg</image>
           <download>
+            <releaseDate>2014-10-27T00:00:00Z</releaseDate>
             <packages>
               <package id="2">
                 <description>standard</description>
@@ -1959,11 +2004,12 @@
           <artist id="49773">
             <name>The Twilight Sad</name>
             <appearsAs>The Twilight Sad</appearsAs>
-            <url>http://www.7digital.com/artist/the-twilight-sad/?partner=0</url>
+            <slug>the-twilight-sad</slug>
           </artist>
-          <url>http://www.7digital.com/artist/the-twilight-sad/release/nobody-wants-to-be-here-and-nobody-wants-to-leave/?partner=0</url>
+          <slug>nobody-wants-to-be-here-and-nobody-wants-to-leave</slug>
           <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/039/133/0003913385_50.jpg</image>
           <download>
+            <releaseDate>2014-10-26T00:00:00Z</releaseDate>
             <packages>
               <package id="2">
                 <description>standard</description>
@@ -2004,11 +2050,12 @@
           <artist id="3299">
             <name>Annie Lennox</name>
             <appearsAs>Annie Lennox</appearsAs>
-            <url>http://www.7digital.com/artist/annie-lennox/?partner=0</url>
+            <slug>annie-lennox</slug>
           </artist>
-          <url>http://www.7digital.com/artist/annie-lennox/release/nostalgia-2/?partner=0</url>
+          <slug>nostalgia-2</slug>
           <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/038/860/0003886086_50.jpg</image>
           <download>
+            <releaseDate>2014-10-27T00:00:00Z</releaseDate>
             <packages>
               <package id="2">
                 <description>standard</description>
@@ -2046,11 +2093,12 @@
           <artist id="3299">
             <name>Annie Lennox</name>
             <appearsAs>Annie Lennox</appearsAs>
-            <url>http://www.7digital.com/artist/annie-lennox/?partner=0</url>
+            <slug>annie-lennox</slug>
           </artist>
-          <url>http://www.7digital.com/artist/annie-lennox/release/nostalgia-deluxe/?partner=0</url>
+          <slug>nostalgia-deluxe</slug>
           <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/038/857/0003885704_50.jpg</image>
           <download>
+            <releaseDate>2014-10-27T00:00:00Z</releaseDate>
             <packages>
               <package id="2">
                 <description>standard</description>
@@ -2088,11 +2136,12 @@
           <artist id="153504">
             <name>The Ting Tings</name>
             <appearsAs>The Ting Tings</appearsAs>
-            <url>http://www.7digital.com/artist/the-ting-tings/?partner=0</url>
+            <slug>the-ting-tings</slug>
           </artist>
-          <url>http://www.7digital.com/artist/the-ting-tings/release/super-critical/?partner=0</url>
+          <slug>super-critical</slug>
           <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/036/580/0003658054_50.jpg</image>
           <download>
+            <releaseDate>2014-10-27T00:00:00Z</releaseDate>
             <packages>
               <package id="2">
                 <description>standard</description>
@@ -2133,11 +2182,12 @@
           <artist id="964836">
             <name>Dillon Francis</name>
             <appearsAs>Dillon Francis</appearsAs>
-            <url>http://www.7digital.com/artist/dillon-francis/?partner=0</url>
+            <slug>dillon-francis</slug>
           </artist>
-          <url>http://www.7digital.com/artist/dillon-francis/release/money-sucks-friends-rule/?partner=0</url>
+          <slug>money-sucks-friends-rule</slug>
           <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/039/034/0003903415_50.jpg</image>
           <download>
+            <releaseDate>2014-10-27T00:00:00Z</releaseDate>
             <packages>
               <package id="2">
                 <description>standard</description>
@@ -2178,11 +2228,12 @@
           <artist id="1544393">
             <name>Lily &amp; Madeleine</name>
             <appearsAs>Lily &amp; Madeleine</appearsAs>
-            <url>http://www.7digital.com/artist/lily-and-madeleine/?partner=0</url>
+            <slug>lily-and-madeleine</slug>
           </artist>
-          <url>http://www.7digital.com/artist/lily-and-madeleine/release/fumes/?partner=0</url>
+          <slug>fumes</slug>
           <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/038/711/0003871125_50.jpg</image>
           <download>
+            <releaseDate>2014-10-27T00:00:00Z</releaseDate>
             <packages>
               <package id="2">
                 <description>standard</description>
@@ -2223,11 +2274,12 @@
           <artist id="449359">
             <name>Kiasmos</name>
             <appearsAs>Kiasmos</appearsAs>
-            <url>http://www.7digital.com/artist/kiasmos/?partner=0</url>
+            <slug>kiasmos</slug>
           </artist>
-          <url>http://www.7digital.com/artist/kiasmos/release/kiasmos/?partner=0</url>
+          <slug>kiasmos</slug>
           <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/038/784/0003878464_50.jpg</image>
           <download>
+            <releaseDate>2014-10-27T00:00:00Z</releaseDate>
             <packages>
               <package id="2">
                 <description>standard</description>
@@ -2268,11 +2320,12 @@
           <artist id="677154">
             <name>Black Veil Brides</name>
             <appearsAs>Black Veil Brides</appearsAs>
-            <url>http://www.7digital.com/artist/black-veil-brides/?partner=0</url>
+            <slug>black-veil-brides</slug>
           </artist>
-          <url>http://www.7digital.com/artist/black-veil-brides/release/black-veil-brides/?partner=0</url>
+          <slug>black-veil-brides</slug>
           <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/038/857/0003885766_50.jpg</image>
           <download>
+            <releaseDate>2014-10-27T00:00:00Z</releaseDate>
             <packages>
               <package id="2">
                 <description>standard</description>
@@ -2310,11 +2363,12 @@
           <artist id="357626">
             <name>Yusuf / Cat Stevens</name>
             <appearsAs>Yusuf / Cat Stevens</appearsAs>
-            <url>http://www.7digital.com/artist/yusuf-cat-stevens/?partner=0</url>
+            <slug>yusuf-cat-stevens</slug>
           </artist>
-          <url>http://www.7digital.com/artist/yusuf-cat-stevens/release/tell-em-im-gone/?partner=0</url>
+          <slug>tell-em-im-gone</slug>
           <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/037/901/0003790138_50.jpg</image>
           <download>
+            <releaseDate>2014-10-27T00:00:00Z</releaseDate>
             <packages>
               <package id="2">
                 <description>standard</description>
@@ -2355,11 +2409,12 @@
           <artist id="1415382">
             <name>Bored Nothing</name>
             <appearsAs>Bored Nothing</appearsAs>
-            <url>http://www.7digital.com/artist/bored-nothing/?partner=0</url>
+            <slug>bored-nothing</slug>
           </artist>
-          <url>http://www.7digital.com/artist/bored-nothing/release/some-songs/?partner=0</url>
+          <slug>some-songs</slug>
           <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/038/588/0003858861_50.jpg</image>
           <download>
+            <releaseDate>2014-10-27T00:00:00Z</releaseDate>
             <packages>
               <package id="2">
                 <description>standard</description>
@@ -2397,11 +2452,12 @@
           <artist id="55">
             <name>Stereo MC's</name>
             <appearsAs>Stereo MC's</appearsAs>
-            <url>http://www.7digital.com/artist/stereo-mcs-(2)/?partner=0</url>
+            <slug>stereo-mcs-(2)</slug>
           </artist>
-          <url>http://www.7digital.com/artist/stereo-mcs-(2)/release/collected/?partner=0</url>
+          <slug>collected</slug>
           <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/038/868/0003886864_50.jpg</image>
           <download>
+            <releaseDate>2014-10-27T00:00:00Z</releaseDate>
             <packages>
               <package id="2">
                 <description>standard</description>
@@ -2439,11 +2495,12 @@
           <artist id="1968">
             <name>Dionne Warwick</name>
             <appearsAs>Dionne Warwick</appearsAs>
-            <url>http://www.7digital.com/artist/dionne-warwick/?partner=0</url>
+            <slug>dionne-warwick</slug>
           </artist>
-          <url>http://www.7digital.com/artist/dionne-warwick/release/feels-so-good-1/?partner=0</url>
+          <slug>feels-so-good-1</slug>
           <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/038/883/0003888356_50.jpg</image>
           <download>
+            <releaseDate>2014-10-26T00:00:00Z</releaseDate>
             <packages>
               <package id="2">
                 <description>standard</description>
@@ -2481,11 +2538,12 @@
           <artist id="585040">
             <name>Flight Facilities</name>
             <appearsAs>Flight Facilities</appearsAs>
-            <url>http://www.7digital.com/artist/flight-facilities/?partner=0</url>
+            <slug>flight-facilities</slug>
           </artist>
-          <url>http://www.7digital.com/artist/flight-facilities/release/down-to-earth-1/?partner=0</url>
+          <slug>down-to-earth-1</slug>
           <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/038/859/0003885953_50.jpg</image>
           <download>
+            <releaseDate>2014-10-27T00:00:00Z</releaseDate>
             <packages>
               <package id="2">
                 <description>standard</description>
@@ -2523,11 +2581,12 @@
           <artist id="2091641">
             <name>Glass Caves</name>
             <appearsAs>Glass Caves</appearsAs>
-            <url>http://www.7digital.com/artist/glass-caves/?partner=0</url>
+            <slug>glass-caves</slug>
           </artist>
-          <url>http://www.7digital.com/artist/glass-caves/release/alive/?partner=0</url>
+          <slug>alive</slug>
           <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/038/323/0003832394_50.jpg</image>
           <download>
+            <releaseDate>2014-10-27T00:00:00Z</releaseDate>
             <packages>
               <package id="2">
                 <description>standard</description>
@@ -2568,11 +2627,12 @@
           <artist id="14380">
             <name>The Crown</name>
             <appearsAs>The Crown</appearsAs>
-            <url>http://www.7digital.com/artist/the-crown/?partner=0</url>
+            <slug>the-crown</slug>
           </artist>
-          <url>http://www.7digital.com/artist/the-crown/release/headhunter-1/?partner=0</url>
+          <slug>headhunter-1</slug>
           <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/038/859/0003885993_50.jpg</image>
           <download>
+            <releaseDate>2014-10-27T00:00:00Z</releaseDate>
             <packages>
               <package id="2">
                 <description>standard</description>
@@ -2610,11 +2670,12 @@
           <artist id="209">
             <name>Various Artists</name>
             <appearsAs>Various Artists</appearsAs>
-            <url>http://www.7digital.com/artist/various-artists/?partner=0</url>
+            <slug>various-artists</slug>
           </artist>
-          <url>http://www.7digital.com/artist/various-artists/release/jackie-the-party-album/?partner=0</url>
+          <slug>jackie-the-party-album</slug>
           <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/038/862/0003886246_50.jpg</image>
           <download>
+            <releaseDate>2014-10-27T00:00:00Z</releaseDate>
             <packages>
               <package id="2">
                 <description>standard</description>
@@ -2652,11 +2713,12 @@
           <artist id="209">
             <name>Various Artists</name>
             <appearsAs>Various Artists</appearsAs>
-            <url>http://www.7digital.com/artist/various-artists/?partner=0</url>
+            <slug>various-artists</slug>
           </artist>
-          <url>http://www.7digital.com/artist/various-artists/release/motown-christmas-1/?partner=0</url>
+          <slug>motown-christmas-1</slug>
           <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/038/189/0003818970_50.jpg</image>
           <download>
+            <releaseDate>2014-09-30T00:00:00Z</releaseDate>
             <packages>
               <package id="2">
                 <description>standard</description>
@@ -2694,11 +2756,12 @@
           <artist id="209">
             <name>Various Artists</name>
             <appearsAs>Various Artists</appearsAs>
-            <url>http://www.7digital.com/artist/various-artists/?partner=0</url>
+            <slug>various-artists</slug>
           </artist>
-          <url>http://www.7digital.com/artist/various-artists/release/pop-party-13-1/?partner=0</url>
+          <slug>pop-party-13-1</slug>
           <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/038/859/0003885949_50.jpg</image>
           <download>
+            <releaseDate>2014-10-27T00:00:00Z</releaseDate>
             <packages>
               <package id="2">
                 <description>standard</description>
@@ -2736,11 +2799,12 @@
           <artist id="1011365">
             <name>Mallory Knox</name>
             <appearsAs>Mallory Knox</appearsAs>
-            <url>http://www.7digital.com/artist/mallory-knox/?partner=0</url>
+            <slug>mallory-knox</slug>
           </artist>
-          <url>http://www.7digital.com/artist/mallory-knox/release/asymmetry-1/?partner=0</url>
+          <slug>asymmetry-1</slug>
           <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/038/832/0003883252_50.jpg</image>
           <download>
+            <releaseDate>2014-10-27T00:00:00Z</releaseDate>
             <packages>
               <package id="2">
                 <description>standard</description>
@@ -2781,11 +2845,12 @@
           <artist id="209">
             <name>Various Artists</name>
             <appearsAs>Various</appearsAs>
-            <url>http://www.7digital.com/artist/various-artists/?partner=0</url>
+            <slug>various-artists</slug>
           </artist>
-          <url>http://www.7digital.com/artist/various-artists/release/bbc-radio-1s-live-lounge-2014/?partner=0</url>
+          <slug>bbc-radio-1s-live-lounge-2014</slug>
           <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/038/871/0003887139_50.jpg</image>
           <download>
+            <releaseDate>2014-10-27T00:00:00Z</releaseDate>
             <packages>
               <package id="2">
                 <description>standard</description>
@@ -2826,11 +2891,12 @@
           <artist id="1985061">
             <name>High Hazels</name>
             <appearsAs>High Hazels</appearsAs>
-            <url>http://www.7digital.com/artist/high-hazels/?partner=0</url>
+            <slug>high-hazels</slug>
           </artist>
-          <url>http://www.7digital.com/artist/high-hazels/release/high-hazels/?partner=0</url>
+          <slug>high-hazels</slug>
           <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/037/789/0003778917_50.jpg</image>
           <download>
+            <releaseDate>2014-10-27T00:00:00Z</releaseDate>
             <packages>
               <package id="2">
                 <description>standard</description>
@@ -2868,11 +2934,12 @@
           <artist id="2437259">
             <name>Sleaford Mods</name>
             <appearsAs>Sleaford Mods</appearsAs>
-            <url>http://www.7digital.com/artist/sleaford-mods/?partner=0</url>
+            <slug>sleaford-mods</slug>
           </artist>
-          <url>http://www.7digital.com/artist/sleaford-mods/release/chubbed-upplus/?partner=0</url>
+          <slug>chubbed-upplus</slug>
           <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/038/676/0003867689_50.jpg</image>
           <download>
+            <releaseDate>2014-10-28T00:00:00Z</releaseDate>
             <packages>
               <package id="2">
                 <description>standard</description>
@@ -2910,11 +2977,12 @@
           <artist id="1280">
             <name>T.I.</name>
             <appearsAs>T.I.</appearsAs>
-            <url>http://www.7digital.com/artist/t-i/?partner=0</url>
+            <slug>t-i</slug>
           </artist>
-          <url>http://www.7digital.com/artist/t-i/release/paperwork-explicit-1/?partner=0</url>
+          <slug>paperwork-explicit-1</slug>
           <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/038/934/0003893444_50.jpg</image>
           <download>
+            <releaseDate>2014-10-20T00:00:00Z</releaseDate>
             <packages>
               <package id="2">
                 <description>standard</description>
@@ -2955,11 +3023,12 @@
           <artist id="209">
             <name>Various Artists</name>
             <appearsAs>Various</appearsAs>
-            <url>http://www.7digital.com/artist/various-artists/?partner=0</url>
+            <slug>various-artists</slug>
           </artist>
-          <url>http://www.7digital.com/artist/various-artists/release/hollyoaks-the-album/?partner=0</url>
+          <slug>hollyoaks-the-album</slug>
           <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/038/456/0003845600_50.jpg</image>
           <download>
+            <releaseDate>2014-10-20T00:00:00Z</releaseDate>
             <packages>
               <package id="2">
                 <description>standard</description>
@@ -3000,11 +3069,12 @@
           <artist id="209">
             <name>Various Artists</name>
             <appearsAs>Various Artists</appearsAs>
-            <url>http://www.7digital.com/artist/various-artists/?partner=0</url>
+            <slug>various-artists</slug>
           </artist>
-          <url>http://www.7digital.com/artist/various-artists/release/dj-mag-top-100-djs-2014-ministry-of-sound-1/?partner=0</url>
+          <slug>dj-mag-top-100-djs-2014-ministry-of-sound-1</slug>
           <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/038/941/0003894118_50.jpg</image>
           <download>
+            <releaseDate>2014-10-19T00:00:00Z</releaseDate>
             <packages>
               <package id="2">
                 <description>standard</description>
@@ -3048,11 +3118,12 @@
           <artist id="209">
             <name>Various Artists</name>
             <appearsAs>Various Artists</appearsAs>
-            <url>http://www.7digital.com/artist/various-artists/?partner=0</url>
+            <slug>various-artists</slug>
           </artist>
-          <url>http://www.7digital.com/artist/various-artists/release/ibiza-2014-closing-party-2/?partner=0</url>
+          <slug>ibiza-2014-closing-party-2</slug>
           <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/039/133/0003913346_50.jpg</image>
           <download>
+            <releaseDate>2014-09-29T00:00:00Z</releaseDate>
             <packages>
               <package id="2">
                 <description>standard</description>
@@ -3093,11 +3164,12 @@
           <artist id="498705">
             <name>Grouper</name>
             <appearsAs>Grouper</appearsAs>
-            <url>http://www.7digital.com/artist/grouper/?partner=0</url>
+            <slug>grouper</slug>
           </artist>
-          <url>http://www.7digital.com/artist/grouper/release/ruins/?partner=0</url>
+          <slug>ruins</slug>
           <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/037/406/0003740624_50.jpg</image>
           <download>
+            <releaseDate>2014-10-28T00:00:00Z</releaseDate>
             <packages>
               <package id="2">
                 <description>standard</description>
@@ -3135,11 +3207,12 @@
           <artist id="1515067">
             <name>East India Youth</name>
             <appearsAs>East India Youth</appearsAs>
-            <url>http://www.7digital.com/artist/east-india-youth/?partner=0</url>
+            <slug>east-india-youth</slug>
           </artist>
-          <url>http://www.7digital.com/artist/east-india-youth/release/20000-leagues-under-the-sea/?partner=0</url>
+          <slug>20000-leagues-under-the-sea</slug>
           <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/038/895/0003889526_50.jpg</image>
           <download>
+            <releaseDate>2014-10-27T00:00:00Z</releaseDate>
             <packages>
               <package id="2">
                 <description>standard</description>
@@ -3180,11 +3253,12 @@
           <artist id="209">
             <name>Various Artists</name>
             <appearsAs>Various Artists</appearsAs>
-            <url>http://www.7digital.com/artist/various-artists/?partner=0</url>
+            <slug>various-artists</slug>
           </artist>
-          <url>http://www.7digital.com/artist/various-artists/release/annie-mac-presents-2014-explicit/?partner=0</url>
+          <slug>annie-mac-presents-2014-explicit</slug>
           <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/038/858/0003885850_50.jpg</image>
           <download>
+            <releaseDate>2014-10-24T00:00:00Z</releaseDate>
             <packages>
               <package id="2">
                 <description>standard</description>
@@ -3222,11 +3296,12 @@
           <artist id="960628">
             <name>THE STAVES</name>
             <appearsAs>THE STAVES</appearsAs>
-            <url>http://www.7digital.com/artist/the-staves/?partner=0</url>
+            <slug>the-staves</slug>
           </artist>
-          <url>http://www.7digital.com/artist/the-staves/release/blood-i-bled-1/?partner=0</url>
+          <slug>blood-i-bled-1</slug>
           <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/039/076/0003907669_50.jpg</image>
           <download>
+            <releaseDate>2014-10-28T00:00:00Z</releaseDate>
             <packages>
               <package id="2">
                 <description>standard</description>
@@ -3264,11 +3339,12 @@
           <artist id="487026">
             <name>Ben Howard</name>
             <appearsAs>Ben Howard</appearsAs>
-            <url>http://www.7digital.com/artist/ben-howard/?partner=0</url>
+            <slug>ben-howard</slug>
           </artist>
-          <url>http://www.7digital.com/artist/ben-howard/release/i-forget-where-we-were-2/?partner=0</url>
+          <slug>i-forget-where-we-were-2</slug>
           <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/038/588/0003858891_50.jpg</image>
           <download>
+            <releaseDate>2014-10-20T00:00:00Z</releaseDate>
             <packages>
               <package id="2">
                 <description>standard</description>
@@ -3306,11 +3382,12 @@
           <artist id="2460527">
             <name>Scott Walker + Sunn O)))</name>
             <appearsAs>Scott Walker + Sunn O)))</appearsAs>
-            <url>http://www.7digital.com/artist/scott-walker-plus-sunn-o/?partner=0</url>
+            <slug>scott-walker-plus-sunn-o</slug>
           </artist>
-          <url>http://www.7digital.com/artist/scott-walker-plus-sunn-o/release/soused/?partner=0</url>
+          <slug>soused</slug>
           <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/038/894/0003889465_50.jpg</image>
           <download>
+            <releaseDate>2014-10-20T00:00:00Z</releaseDate>
             <packages>
               <package id="2">
                 <description>standard</description>
@@ -3351,11 +3428,12 @@
           <artist id="24908">
             <name>Thurston Moore</name>
             <appearsAs>Thurston Moore</appearsAs>
-            <url>http://www.7digital.com/artist/thurston-moore/?partner=0</url>
+            <slug>thurston-moore</slug>
           </artist>
-          <url>http://www.7digital.com/artist/thurston-moore/release/the-best-day-1/?partner=0</url>
+          <slug>the-best-day-1</slug>
           <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/038/894/0003889468_50.jpg</image>
           <download>
+            <releaseDate>2014-10-20T00:00:00Z</releaseDate>
             <packages>
               <package id="2">
                 <description>standard</description>
@@ -3396,11 +3474,12 @@
           <artist id="401730">
             <name>Cooly G</name>
             <appearsAs>Cooly G</appearsAs>
-            <url>http://www.7digital.com/artist/cooly-g/?partner=0</url>
+            <slug>cooly-g</slug>
           </artist>
-          <url>http://www.7digital.com/artist/cooly-g/release/wait-til-night/?partner=0</url>
+          <slug>wait-til-night</slug>
           <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/038/105/0003810513_50.jpg</image>
           <download>
+            <releaseDate>2014-10-20T00:00:00Z</releaseDate>
             <packages>
               <package id="2">
                 <description>standard</description>
@@ -3438,11 +3517,12 @@
           <artist id="1244597">
             <name>Bear's Den</name>
             <appearsAs>Bear's Den</appearsAs>
-            <url>http://www.7digital.com/artist/bears-den/?partner=0</url>
+            <slug>bears-den</slug>
           </artist>
-          <url>http://www.7digital.com/artist/bears-den/release/islands-1/?partner=0</url>
+          <slug>islands-1</slug>
           <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/038/588/0003858830_50.jpg</image>
           <download>
+            <releaseDate>2014-10-20T00:00:00Z</releaseDate>
             <packages>
               <package id="2">
                 <description>standard</description>
@@ -3480,11 +3560,12 @@
           <artist id="35">
             <name>Neil Diamond</name>
             <appearsAs>Neil Diamond</appearsAs>
-            <url>http://www.7digital.com/artist/neil-diamond/?partner=0</url>
+            <slug>neil-diamond</slug>
           </artist>
-          <url>http://www.7digital.com/artist/neil-diamond/release/melody-road-deluxe/?partner=0</url>
+          <slug>melody-road-deluxe</slug>
           <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/038/900/0003890033_50.jpg</image>
           <download>
+            <releaseDate>2014-10-20T00:00:00Z</releaseDate>
             <packages>
               <package id="2">
                 <description>standard</description>
@@ -3522,11 +3603,12 @@
           <artist id="35">
             <name>Neil Diamond</name>
             <appearsAs>Neil Diamond</appearsAs>
-            <url>http://www.7digital.com/artist/neil-diamond/?partner=0</url>
+            <slug>neil-diamond</slug>
           </artist>
-          <url>http://www.7digital.com/artist/neil-diamond/release/melody-road/?partner=0</url>
+          <slug>melody-road</slug>
           <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/038/589/0003858908_50.jpg</image>
           <download>
+            <releaseDate>2014-10-20T00:00:00Z</releaseDate>
             <packages>
               <package id="2">
                 <description>standard</description>
@@ -3564,11 +3646,12 @@
           <artist id="358">
             <name>Status Quo</name>
             <appearsAs>Status Quo</appearsAs>
-            <url>http://www.7digital.com/artist/status-quo/?partner=0</url>
+            <slug>status-quo</slug>
           </artist>
-          <url>http://www.7digital.com/artist/status-quo/release/aquostic-stripped-bare/?partner=0</url>
+          <slug>aquostic-stripped-bare</slug>
           <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/038/742/0003874276_50.jpg</image>
           <download>
+            <releaseDate>2014-10-20T00:00:00Z</releaseDate>
             <packages>
               <package id="2">
                 <description>standard</description>
@@ -3606,11 +3689,12 @@
           <artist id="1982">
             <name>Aretha Franklin</name>
             <appearsAs>Aretha Franklin</appearsAs>
-            <url>http://www.7digital.com/artist/aretha-franklin/?partner=0</url>
+            <slug>aretha-franklin</slug>
           </artist>
-          <url>http://www.7digital.com/artist/aretha-franklin/release/aretha-franklin-sings-the-great-diva-classics/?partner=0</url>
+          <slug>aretha-franklin-sings-the-great-diva-classics</slug>
           <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/038/660/0003866012_50.jpg</image>
           <download>
+            <releaseDate>2014-10-20T00:00:00Z</releaseDate>
             <packages>
               <package id="2">
                 <description>standard</description>
@@ -3651,11 +3735,12 @@
           <artist id="253545">
             <name>Taylor Swift</name>
             <appearsAs>Taylor Swift</appearsAs>
-            <url>http://www.7digital.com/artist/taylor-swift/?partner=0</url>
+            <slug>taylor-swift</slug>
           </artist>
-          <url>http://www.7digital.com/artist/taylor-swift/release/1989/?partner=0</url>
+          <slug>1989</slug>
           <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/039/184/0003918446_50.jpg</image>
           <download>
+            <releaseDate>2014-10-27T00:00:00Z</releaseDate>
             <packages>
               <package id="2">
                 <description>standard</description>
@@ -3693,11 +3778,12 @@
           <artist id="253545">
             <name>Taylor Swift</name>
             <appearsAs>Taylor Swift</appearsAs>
-            <url>http://www.7digital.com/artist/taylor-swift/?partner=0</url>
+            <slug>taylor-swift</slug>
           </artist>
-          <url>http://www.7digital.com/artist/taylor-swift/release/1989-deluxe/?partner=0</url>
+          <slug>1989-deluxe</slug>
           <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/039/184/0003918447_50.jpg</image>
           <download>
+            <releaseDate>2014-10-27T00:00:00Z</releaseDate>
             <packages>
               <package id="2">
                 <description>standard</description>
@@ -3735,11 +3821,12 @@
           <artist id="2057842">
             <name>Run The Jewels</name>
             <appearsAs>Run The Jewels</appearsAs>
-            <url>http://www.7digital.com/artist/run-the-jewels/?partner=0</url>
+            <slug>run-the-jewels</slug>
           </artist>
-          <url>http://www.7digital.com/artist/run-the-jewels/release/run-the-jewels-2/?partner=0</url>
+          <slug>run-the-jewels-2</slug>
           <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/039/080/0003908022_50.jpg</image>
           <download>
+            <releaseDate>2014-10-27T00:00:00Z</releaseDate>
             <packages>
               <package id="2">
                 <description>standard</description>
@@ -3777,11 +3864,12 @@
           <artist id="49773">
             <name>The Twilight Sad</name>
             <appearsAs>The Twilight Sad</appearsAs>
-            <url>http://www.7digital.com/artist/the-twilight-sad/?partner=0</url>
+            <slug>the-twilight-sad</slug>
           </artist>
-          <url>http://www.7digital.com/artist/the-twilight-sad/release/nobody-wants-to-be-here-and-nobody-wants-to-leave/?partner=0</url>
+          <slug>nobody-wants-to-be-here-and-nobody-wants-to-leave</slug>
           <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/039/133/0003913385_50.jpg</image>
           <download>
+            <releaseDate>2014-10-26T00:00:00Z</releaseDate>
             <packages>
               <package id="2">
                 <description>standard</description>
@@ -3822,11 +3910,12 @@
           <artist id="3299">
             <name>Annie Lennox</name>
             <appearsAs>Annie Lennox</appearsAs>
-            <url>http://www.7digital.com/artist/annie-lennox/?partner=0</url>
+            <slug>annie-lennox</slug>
           </artist>
-          <url>http://www.7digital.com/artist/annie-lennox/release/nostalgia-2/?partner=0</url>
+          <slug>nostalgia-2</slug>
           <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/038/860/0003886086_50.jpg</image>
           <download>
+            <releaseDate>2014-10-27T00:00:00Z</releaseDate>
             <packages>
               <package id="2">
                 <description>standard</description>
@@ -3864,17 +3953,12 @@
           <artist id="1982">
             <name>Aretha Franklin</name>
             <appearsAs>Aretha Franklin</appearsAs>
-            <url>
-							http://www.7digital.com/artist/aretha-franklin/?partner=0
-						</url>
+            <slug>aretha-franklin</slug>
           </artist>
-          <url>
-						http://www.7digital.com/artist/aretha-franklin/release/aretha-franklin-sings-the-great-diva-classics/?partner=0
-					</url>
-          <image>
-						http://artwork-cdn.7static.com/static/img/sleeveart/00/038/660/0003866012_50.jpg
-					</image>
+          <slug>aretha-franklin</slug>
+          <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/038/660/0003866012_50.jpg</image>
           <download>
+            <releaseDate>2014-10-20T00:00:00Z</releaseDate>
             <packages>
               <package id="2">
                 <description>standard</description>

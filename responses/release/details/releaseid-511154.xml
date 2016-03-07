@@ -10,16 +10,10 @@
     <artist id="378707">
       <name>Japandroids</name>
       <appearsAs>Japandroids</appearsAs>
-      <url>
-http://www.7digital.com/artist/japandroids/?partner=712
-</url>
+      <slug>japandroids</slug>
     </artist>
-    <url>
-http://www.7digital.com/artist/japandroids/release/post-nothing/?partner=712
-</url>
-    <image>
-http://artwork-cdn.7static.com/static/img/sleeveart/00/005/111/0000511154_50.jpg
-</image>
+    <slug>japandroids</slug>
+    <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/005/111/0000511154_50.jpg</image>
     <download>
       <packages>
         <package id="2">

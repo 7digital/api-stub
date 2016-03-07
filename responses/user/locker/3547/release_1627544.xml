@@ -765,8 +765,7 @@
             <purchaseId>814716201</purchaseId>
             <purchaseDate>2014-10-02T14:57:37Z</purchaseDate>
             <completeAlbumPurchase>true</completeAlbumPurchase>
-            <downloadUrls><downloadUrl><url>http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&amp;oauth_nonce=evalsk396hhrpskr&amp;oauth_signature=E%2FMQrpoAaNJKLxp34TiK10sJhIo%3D&amp;oauth_signature_method=HMAC-SHA1&amp;oauth_timestamp=1412262342&amp;oauth_version=1.0a&amp;formatid=62&amp;partnerid=712&amp;onbehalfofpartnerid=712&amp;presigned=1&amp;releaseid=1627544&amp;shopid=34&amp;trackid=17832749&amp;userid=26876350</url><format id="62"><fileFormat>FLAC</fileFormat><bitRate>320</bitRate><drmFree>true</drmFree></format></downloadUrl>
-i						</downloadUrls>
+            <downloadUrls><downloadUrl><url>http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&amp;oauth_nonce=evalsk396hhrpskr&amp;oauth_signature=E%2FMQrpoAaNJKLxp34TiK10sJhIo%3D&amp;oauth_signature_method=HMAC-SHA1&amp;oauth_timestamp=1412262342&amp;oauth_version=1.0a&amp;formatid=62&amp;partnerid=712&amp;onbehalfofpartnerid=712&amp;presigned=1&amp;releaseid=1627544&amp;shopid=34&amp;trackid=17832749&amp;userid=26876350</url><format id="62"><fileFormat>FLAC</fileFormat><bitRate>320</bitRate><drmFree>true</drmFree></format></downloadUrl>i</downloadUrls>
           </lockerTrack>
           <lockerTrack>
             <track id="17832750">

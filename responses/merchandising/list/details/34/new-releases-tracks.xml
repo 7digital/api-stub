@@ -15,9 +15,9 @@
           <artist id="229632">
             <name>Alexa Goddard</name>
             <appearsAs>Alexa Goddard</appearsAs>
-            <url>http://www.7digital.com/artist/alexa-goddard/?partner=3923</url>
+            <slug>alexa-goddard</slug>
           </artist>
-          <url>http://www.7digital.com/artist/alexa-goddard/release/so-there-1/?partner=3923</url>
+          <slug>so-there-1</slug>
           <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/037/558/0003755866_50.jpg</image>
           <label id="383633">
             <name>Digital Distribution Qatar</name>
@@ -29,6 +29,7 @@
           <duration>230</duration>
           <trackCount>1</trackCount>
           <download>
+            <releaseDate>2014-10-26T00:00:00Z</releaseDate>
             <packages>
               <package id="2">
                 <description>standard</description>
@@ -62,9 +63,9 @@
           <artist id="1502753">
             <name>Josef Salvat</name>
             <appearsAs>Josef Salvat</appearsAs>
-            <url>http://www.7digital.com/artist/josef-salvat/?partner=3923</url>
+            <slug>josef-salvat</slug>
           </artist>
-          <url>http://www.7digital.com/artist/josef-salvat/release/in-your-prime-ep-explicit/?partner=3923</url>
+          <slug>in-your-prime-ep-explicit</slug>
           <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/037/872/0003787224_50.jpg</image>
           <label id="369463">
             <name>Columbia/Fingers &amp; Thumbs</name>
@@ -76,6 +77,7 @@
           <duration>973</duration>
           <trackCount>4</trackCount>
           <download>
+            <releaseDate>2014-09-21T00:00:00Z</releaseDate>
             <packages>
               <package id="2">
                 <description>standard</description>
@@ -115,9 +117,9 @@
           <artist id="2457502">
             <name>Say Lou Lou x Lindstrøm</name>
             <appearsAs>Say Lou Lou x Lindstrøm</appearsAs>
-            <url>http://www.7digital.com/artist/say-lou-lou-x-lindstrøm/?partner=3923</url>
+            <slug>say-lou-lou-x-lindstrøm</slug>
           </artist>
-          <url>http://www.7digital.com/artist/say-lou-lou-x-lindstrøm/release/games-for-girls/?partner=3923</url>
+          <slug>games-for-girls</slug>
           <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/038/859/0003885998_50.jpg</image>
           <label id="592">
             <name>Columbia</name>
@@ -129,6 +131,7 @@
           <duration>1146</duration>
           <trackCount>3</trackCount>
           <download>
+            <releaseDate>2014-10-26T00:00:00Z</releaseDate>
             <packages>
               <package id="2">
                 <description>standard</description>
@@ -168,9 +171,9 @@
           <artist id="2447616">
             <name>Martin Garrix / DVBBS / Sander van Doorn / Aleesia</name>
             <appearsAs>Martin Garrix / DVBBS / Sander van Doorn / Aleesia</appearsAs>
-            <url>http://www.7digital.com/artist/martin-garrix-dvbbs-sander-van-doorn-aleesia/?partner=3923</url>
+            <slug>martin-garrix-dvbbs-sander-van-doorn-aleesia</slug>
           </artist>
-          <url>http://www.7digital.com/artist/martin-garrix-dvbbs-sander-van-doorn-aleesia/release/gold-skies-1/?partner=3923</url>
+          <slug>gold-skies-1</slug>
           <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/038/859/0003885914_50.jpg</image>
           <label id="3309">
             <name>Universal Music Ireland Ltd.</name>
@@ -182,6 +185,7 @@
           <duration>235</duration>
           <trackCount>1</trackCount>
           <download>
+            <releaseDate>2014-10-26T00:00:00Z</releaseDate>
             <packages>
               <package id="2">
                 <description>standard</description>
@@ -215,9 +219,9 @@
           <artist id="1449978">
             <name>Rag'n'Bone Man</name>
             <appearsAs>Rag'n'Bone Man</appearsAs>
-            <url>http://www.7digital.com/artist/ragnbone-man/?partner=3923</url>
+            <slug>ragnbone-man</slug>
           </artist>
-          <url>http://www.7digital.com/artist/ragnbone-man/release/wolves/?partner=3923</url>
+          <slug>wolves</slug>
           <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/039/057/0003905758_50.jpg</image>
           <label id="592">
             <name>Columbia</name>
@@ -229,6 +233,7 @@
           <duration>1737</duration>
           <trackCount>9</trackCount>
           <download>
+            <releaseDate>2014-10-27T00:00:00Z</releaseDate>
             <packages>
               <package id="2">
                 <description>standard</description>
@@ -268,9 +273,9 @@
           <artist id="2338827">
             <name>Jack Garratt</name>
             <appearsAs>Jack Garratt</appearsAs>
-            <url>http://www.7digital.com/artist/jack-garratt/?partner=3923</url>
+            <slug>jack-garratt</slug>
           </artist>
-          <url>http://www.7digital.com/artist/jack-garratt/release/remnix/?partner=3923</url>
+          <slug>remnix</slug>
           <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/038/934/0003893414_50.jpg</image>
           <label id="41180">
             <name>Universal Music Portugal SA</name>
@@ -282,6 +287,7 @@
           <duration>999</duration>
           <trackCount>4</trackCount>
           <download>
+            <releaseDate>2014-10-28T00:00:00Z</releaseDate>
             <packages>
               <package id="2">
                 <description>standard</description>
@@ -315,9 +321,9 @@
           <artist id="1218284">
             <name>Joywave</name>
             <appearsAs>Joywave</appearsAs>
-            <url>http://www.7digital.com/artist/joywave/?partner=3923</url>
+            <slug>joywave</slug>
           </artist>
-          <url>http://www.7digital.com/artist/joywave/release/how-do-you-feel-1/?partner=3923</url>
+          <slug>how-do-you-feel-1</slug>
           <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/036/647/0003664735_50.jpg</image>
           <label id="295010">
             <name>Cultco Music</name>
@@ -329,6 +335,7 @@
           <duration>954</duration>
           <trackCount>4</trackCount>
           <download>
+            <releaseDate>2014-10-27T00:00:00Z</releaseDate>
             <packages>
               <package id="2">
                 <description>standard</description>
@@ -362,9 +369,9 @@
           <artist id="132648">
             <name>Kleerup</name>
             <appearsAs>Kleerup</appearsAs>
-            <url>http://www.7digital.com/artist/kleerup/?partner=3923</url>
+            <slug>kleerup</slug>
           </artist>
-          <url>http://www.7digital.com/artist/kleerup/release/as-if-we-never-won/?partner=3923</url>
+          <slug>as-if-we-never-won</slug>
           <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/037/881/0003788147_50.jpg</image>
           <label id="394">
             <name>WM Sweden</name>
@@ -376,6 +383,7 @@
           <duration>1335</duration>
           <trackCount>6</trackCount>
           <download>
+            <releaseDate>2014-10-13T00:00:00Z</releaseDate>
             <packages>
               <package id="2">
                 <description>standard</description>
@@ -409,9 +417,9 @@
           <artist id="2182500">
             <name>Sunset Sons</name>
             <appearsAs>Sunset Sons</appearsAs>
-            <url>http://www.7digital.com/artist/sunset-sons/?partner=3923</url>
+            <slug>sunset-sons</slug>
           </artist>
-          <url>http://www.7digital.com/artist/sunset-sons/release/no-bad-days-ep/?partner=3923</url>
+          <slug>no-bad-days-ep</slug>
           <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/038/858/0003885889_50.jpg</image>
           <label id="149943">
             <name>Universal Music (Pty) Ltd.</name>
@@ -423,6 +431,7 @@
           <duration>860</duration>
           <trackCount>4</trackCount>
           <download>
+            <releaseDate>2014-10-27T00:00:00Z</releaseDate>
             <packages>
               <package id="2">
                 <description>standard</description>
@@ -456,9 +465,9 @@
           <artist id="1516540">
             <name>Cherry Glazerr</name>
             <appearsAs>Cherry Glazerr</appearsAs>
-            <url>http://www.7digital.com/artist/cherry-glazerr/?partner=3923</url>
+            <slug>cherry-glazerr</slug>
           </artist>
-          <url>http://www.7digital.com/artist/cherry-glazerr/release/had-ten-dollaz/?partner=3923</url>
+          <slug>had-ten-dollaz</slug>
           <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/038/711/0003871149_50.jpg</image>
           <label id="157375">
             <name>Suicide Squeeze Records</name>
@@ -470,6 +479,7 @@
           <duration>454</duration>
           <trackCount>2</trackCount>
           <download>
+            <releaseDate>2014-10-27T00:00:00Z</releaseDate>
             <packages>
               <package id="2">
                 <description>standard</description>
@@ -509,9 +519,9 @@
           <artist id="2072063">
             <name>Young &amp; Sick</name>
             <appearsAs>Young &amp; Sick</appearsAs>
-            <url>http://www.7digital.com/artist/young-and-sick/?partner=3923</url>
+            <slug>young-and-sick</slug>
           </artist>
-          <url>http://www.7digital.com/artist/young-and-sick/release/ghost-of-a-chance/?partner=3923</url>
+          <slug>ghost-of-a-chance</slug>
           <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/038/933/0003893353_50.jpg</image>
           <label id="199682">
             <name>Virgin EMI</name>
@@ -523,6 +533,7 @@
           <duration>226</duration>
           <trackCount>1</trackCount>
           <download>
+            <releaseDate>2014-10-26T00:00:00Z</releaseDate>
             <packages>
               <package id="2">
                 <description>standard</description>
@@ -556,9 +567,9 @@
           <artist id="477068">
             <name>Nick Mulvey</name>
             <appearsAs>Nick Mulvey</appearsAs>
-            <url>http://www.7digital.com/artist/nick-mulvey/?partner=3923</url>
+            <slug>nick-mulvey</slug>
           </artist>
-          <url>http://www.7digital.com/artist/nick-mulvey/release/i-dont-want-to-go-home/?partner=3923</url>
+          <slug>i-dont-want-to-go-home</slug>
           <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/039/139/0003913969_50.jpg</image>
           <label id="149943">
             <name>Universal Music (Pty) Ltd.</name>
@@ -570,6 +581,7 @@
           <duration>423</duration>
           <trackCount>2</trackCount>
           <download>
+            <releaseDate>2014-10-27T00:00:00Z</releaseDate>
             <packages>
               <package id="2">
                 <description>standard</description>
@@ -603,9 +615,9 @@
           <artist id="277213">
             <name>Far East Movement</name>
             <appearsAs>Far East Movement</appearsAs>
-            <url>http://www.7digital.com/artist/far-east-movement/?partner=3923</url>
+            <slug>far-east-movement</slug>
           </artist>
-          <url>http://www.7digital.com/artist/far-east-movement/release/ktown-riot-explicit-1/?partner=3923</url>
+          <slug>ktown-riot-explicit-1</slug>
           <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/039/072/0003907265_50.jpg</image>
           <label id="149943">
             <name>Universal Music (Pty) Ltd.</name>
@@ -617,6 +629,7 @@
           <duration>1267</duration>
           <trackCount>6</trackCount>
           <download>
+            <releaseDate>2014-10-29T00:00:00Z</releaseDate>
             <packages>
               <package id="2">
                 <description>standard</description>
@@ -650,9 +663,9 @@
           <artist id="1011365">
             <name>Mallory Knox</name>
             <appearsAs>Mallory Knox</appearsAs>
-            <url>http://www.7digital.com/artist/mallory-knox/?partner=3923</url>
+            <slug>mallory-knox</slug>
           </artist>
-          <url>http://www.7digital.com/artist/mallory-knox/release/shout-at-the-moon/?partner=3923</url>
+          <slug>shout-at-the-moon</slug>
           <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/038/837/0003883728_50.jpg</image>
           <label id="21726">
             <name>Search And Destroy Records</name>
@@ -664,6 +677,7 @@
           <duration>207</duration>
           <trackCount>1</trackCount>
           <download>
+            <releaseDate>2014-10-26T00:00:00Z</releaseDate>
             <packages>
               <package id="2">
                 <description>standard</description>
@@ -703,9 +717,9 @@
           <artist id="2048936">
             <name>D.D Dumbo</name>
             <appearsAs>D.D Dumbo</appearsAs>
-            <url>http://www.7digital.com/artist/d-d-dumbo/?partner=3923</url>
+            <slug>d-d-dumbo</slug>
           </artist>
-          <url>http://www.7digital.com/artist/d-d-dumbo/release/tropical-oceans/?partner=3923</url>
+          <slug>tropical-oceans</slug>
           <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/038/894/0003889466_50.jpg</image>
           <label id="905">
             <name>4AD</name>
@@ -717,6 +731,7 @@
           <duration>918</duration>
           <trackCount>4</trackCount>
           <download>
+            <releaseDate>2014-10-27T00:00:00Z</releaseDate>
             <packages>
               <package id="2">
                 <description>standard</description>
@@ -756,9 +771,9 @@
           <artist id="1962597">
             <name>Parra for Cuva feat. Anna Naklab</name>
             <appearsAs>Parra for Cuva feat. Anna Naklab</appearsAs>
-            <url>http://www.7digital.com/artist/parra-for-cuva-feat-anna-naklab/?partner=3923</url>
+            <slug>parra-for-cuva-feat-anna-naklab</slug>
           </artist>
-          <url>http://www.7digital.com/artist/parra-for-cuva-feat-anna-naklab/release/wicked-games-5/?partner=3923</url>
+          <slug>wicked-games-5</slug>
           <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/038/184/0003818462_50.jpg</image>
           <label id="1085">
             <name>Epic</name>
@@ -770,6 +785,7 @@
           <duration>1011</duration>
           <trackCount>3</trackCount>
           <download>
+            <releaseDate>2014-10-26T00:00:00Z</releaseDate>
             <packages>
               <package id="2">
                 <description>standard</description>
@@ -809,9 +825,9 @@
           <artist id="2433453">
             <name>Dillon Francis &amp; Sultan + Ned Shepard feat. The Chain Gang of 1974</name>
             <appearsAs>Dillon Francis &amp; Sultan + Ned Shepard feat. The Chain Gang of 1974</appearsAs>
-            <url>http://www.7digital.com/artist/dillon-francis-and-sultan-plus-ned-shepard-feat-the-chain-gang-of-1974/?partner=3923</url>
+            <slug>dillon-francis-and-sultan-plus-ned-shepard-feat-the-chain-gang-of-1974</slug>
           </artist>
-          <url>http://www.7digital.com/artist/dillon-francis-and-sultan-plus-ned-shepard-feat-the-chain-gang-of-1974/release/when-we-were-young/?partner=3923</url>
+          <slug>when-we-were-young</slug>
           <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/036/580/0003658037_50.jpg</image>
           <label id="592">
             <name>Columbia</name>
@@ -823,6 +839,7 @@
           <duration>201</duration>
           <trackCount>1</trackCount>
           <download>
+            <releaseDate>2014-10-26T00:00:00Z</releaseDate>
             <packages>
               <package id="2">
                 <description>standard</description>
@@ -862,9 +879,9 @@
           <artist id="2428397">
             <name>Jack Ü</name>
             <appearsAs>Jack Ü</appearsAs>
-            <url>http://www.7digital.com/artist/jack-u/?partner=3923</url>
+            <slug>jack-u</slug>
           </artist>
-          <url>http://www.7digital.com/artist/jack-u/release/take-u-there-feat-kiesza/?partner=3923</url>
+          <slug>take-u-there-feat-kiesza</slug>
           <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/038/180/0003818002_50.jpg</image>
           <label id="373536">
             <name>OWSLA/Mad Decent</name>
@@ -876,6 +893,7 @@
           <duration>210</duration>
           <trackCount>1</trackCount>
           <download>
+            <releaseDate>2014-10-26T00:00:00Z</releaseDate>
             <packages>
               <package id="2">
                 <description>standard</description>
@@ -909,9 +927,9 @@
           <artist id="8293">
             <name>Foo Fighters</name>
             <appearsAs>Foo Fighters</appearsAs>
-            <url>http://www.7digital.com/artist/foo-fighters/?partner=3923</url>
+            <slug>foo-fighters</slug>
           </artist>
-          <url>http://www.7digital.com/artist/foo-fighters/release/something-from-nothing/?partner=3923</url>
+          <slug>something-from-nothing</slug>
           <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/038/934/0003893446_50.jpg</image>
           <label id="89">
             <name>RCA Records Label</name>
@@ -923,6 +941,7 @@
           <duration>289</duration>
           <trackCount>1</trackCount>
           <download>
+            <releaseDate>2014-10-16T00:00:00Z</releaseDate>
             <packages>
               <package id="2">
                 <description>standard</description>
@@ -962,9 +981,9 @@
           <artist id="223034">
             <name>lone</name>
             <appearsAs>lone</appearsAs>
-            <url>http://www.7digital.com/artist/lone/?partner=3923</url>
+            <slug>lone</slug>
           </artist>
-          <url>http://www.7digital.com/artist/lone/release/restless-city-1/?partner=3923</url>
+          <slug>restless-city-1</slug>
           <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/039/062/0003906283_50.jpg</image>
           <label id="15498">
             <name>R&amp;S Records</name>
@@ -976,6 +995,7 @@
           <duration>566</duration>
           <trackCount>2</trackCount>
           <download>
+            <releaseDate>2014-10-19T00:00:00Z</releaseDate>
             <packages>
               <package id="2">
                 <description>standard</description>
@@ -1015,9 +1035,9 @@
           <artist id="2229155">
             <name>Ought</name>
             <appearsAs>Ought</appearsAs>
-            <url>http://www.7digital.com/artist/ought/?partner=3923</url>
+            <slug>ought</slug>
           </artist>
-          <url>http://www.7digital.com/artist/ought/release/once-more-with-feeling/?partner=3923</url>
+          <slug>once-more-with-feeling</slug>
           <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/038/711/0003871127_50.jpg</image>
           <label id="16838">
             <name>Constellation</name>
@@ -1029,6 +1049,7 @@
           <duration>1447</duration>
           <trackCount>4</trackCount>
           <download>
+            <releaseDate>2014-10-27T00:00:00Z</releaseDate>
             <packages>
               <package id="2">
                 <description>standard</description>
@@ -1068,9 +1089,9 @@
           <artist id="2176897">
             <name>Sundara Karma</name>
             <appearsAs>Sundara Karma</appearsAs>
-            <url>http://www.7digital.com/artist/sundara-karma/?partner=3923</url>
+            <slug>sundara-karma</slug>
           </artist>
-          <url>http://www.7digital.com/artist/sundara-karma/release/indigo-puff/?partner=3923</url>
+          <slug>indigo-puff</slug>
           <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/039/065/0003906594_50.jpg</image>
           <label id="386078">
             <name>Believe Recordings / 203 Records</name>
@@ -1082,6 +1103,7 @@
           <duration>458</duration>
           <trackCount>2</trackCount>
           <download>
+            <releaseDate>2014-10-07T00:00:00Z</releaseDate>
             <packages>
               <package id="2">
                 <description>standard</description>
@@ -1121,9 +1143,9 @@
           <artist id="17340">
             <name>Ben Watt</name>
             <appearsAs>Ben Watt</appearsAs>
-            <url>http://www.7digital.com/artist/ben-watt/?partner=3923</url>
+            <slug>ben-watt</slug>
           </artist>
-          <url>http://www.7digital.com/artist/ben-watt/release/nathaniel-radio-edit/?partner=3923</url>
+          <slug>nathaniel-radio-edit</slug>
           <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/038/664/0003866433_50.jpg</image>
           <label id="293292">
             <name>Unmade Road</name>
@@ -1135,6 +1157,7 @@
           <duration>184</duration>
           <trackCount>1</trackCount>
           <download>
+            <releaseDate>2014-10-20T00:00:00Z</releaseDate>
             <packages>
               <package id="2">
                 <description>standard</description>
@@ -1168,9 +1191,9 @@
           <artist id="887106">
             <name>Kate Tempest</name>
             <appearsAs>Kate Tempest</appearsAs>
-            <url>http://www.7digital.com/artist/kate-tempest/?partner=3923</url>
+            <slug>kate-tempest</slug>
           </artist>
-          <url>http://www.7digital.com/artist/kate-tempest/release/circles/?partner=3923</url>
+          <slug>circles</slug>
           <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/038/087/0003808713_50.jpg</image>
           <label id="119">
             <name>Big Dada</name>
@@ -1182,6 +1205,7 @@
           <duration>800</duration>
           <trackCount>4</trackCount>
           <download>
+            <releaseDate>2014-10-20T00:00:00Z</releaseDate>
             <packages>
               <package id="2">
                 <description>standard</description>
@@ -1221,9 +1245,9 @@
           <artist id="2411213">
             <name>Waze &amp; Odyssey &amp; R. Kelly</name>
             <appearsAs>Waze &amp; Odyssey &amp; R. Kelly</appearsAs>
-            <url>http://www.7digital.com/artist/waze-and-odyssey-and-r-kelly/?partner=3923</url>
+            <slug>waze-and-odyssey-and-r-kelly</slug>
           </artist>
-          <url>http://www.7digital.com/artist/waze-and-odyssey-and-r-kelly/release/bump-and-grind-2014/?partner=3923</url>
+          <slug>bump-and-grind-2014</slug>
           <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/037/005/0003700536_50.jpg</image>
           <label id="89">
             <name>RCA Records Label</name>
@@ -1235,6 +1259,7 @@
           <duration>182</duration>
           <trackCount>1</trackCount>
           <download>
+            <releaseDate>2014-10-19T00:00:00Z</releaseDate>
             <packages>
               <package id="2">
                 <description>standard</description>
@@ -1274,9 +1299,9 @@
           <artist id="1392238">
             <name>Bondax</name>
             <appearsAs>Bondax</appearsAs>
-            <url>http://www.7digital.com/artist/bondax/?partner=3923</url>
+            <slug>bondax</slug>
           </artist>
-          <url>http://www.7digital.com/artist/bondax/release/all-i-see-1/?partner=3923</url>
+          <slug>all-i-see-1</slug>
           <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/038/184/0003818406_50.jpg</image>
           <label id="10326">
             <name>RELENTLESS RECORDS</name>
@@ -1288,6 +1313,7 @@
           <duration>979</duration>
           <trackCount>4</trackCount>
           <download>
+            <releaseDate>2014-10-19T00:00:00Z</releaseDate>
             <packages>
               <package id="2">
                 <description>standard</description>
@@ -1327,9 +1353,9 @@
           <artist id="351189">
             <name>Rumer</name>
             <appearsAs>Rumer</appearsAs>
-            <url>http://www.7digital.com/artist/rumer/?partner=3923</url>
+            <slug>rumer</slug>
           </artist>
-          <url>http://www.7digital.com/artist/rumer/release/you-just-dont-know-people/?partner=3923</url>
+          <slug>you-just-dont-know-people</slug>
           <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/038/701/0003870128_50.jpg</image>
           <label id="1373">
             <name>Atlantic Records UK</name>
@@ -1341,6 +1367,7 @@
           <duration>317</duration>
           <trackCount>1</trackCount>
           <download>
+            <releaseDate>2014-10-20T00:00:00Z</releaseDate>
             <packages>
               <package id="2">
                 <description>standard</description>
@@ -1380,9 +1407,9 @@
           <artist id="603309">
             <name>Ed Sheeran</name>
             <appearsAs>Ed Sheeran</appearsAs>
-            <url>http://www.7digital.com/artist/ed-sheeran/?partner=3923</url>
+            <slug>ed-sheeran</slug>
           </artist>
-          <url>http://www.7digital.com/artist/ed-sheeran/release/dont-1/?partner=3923</url>
+          <slug>dont-1</slug>
           <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/038/832/0003883294_50.jpg</image>
           <label id="1373">
             <name>Atlantic Records UK</name>
@@ -1394,6 +1421,7 @@
           <duration>221</duration>
           <trackCount>1</trackCount>
           <download>
+            <releaseDate>2014-10-19T00:00:00Z</releaseDate>
             <packages>
               <package id="2">
                 <description>standard</description>
@@ -1427,9 +1455,9 @@
           <artist id="1287189">
             <name>Martin Tungevaag</name>
             <appearsAs>Martin Tungevaag</appearsAs>
-            <url>http://www.7digital.com/artist/martin-tungevaag/?partner=3923</url>
+            <slug>martin-tungevaag</slug>
           </artist>
-          <url>http://www.7digital.com/artist/martin-tungevaag/release/wicked-wonderland-remixes-2/?partner=3923</url>
+          <slug>wicked-wonderland-remixes-2</slug>
           <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/038/739/0003873966_50.jpg</image>
           <label id="3309">
             <name>Universal Music Ireland Ltd.</name>
@@ -1441,6 +1469,7 @@
           <duration>1600</duration>
           <trackCount>6</trackCount>
           <download>
+            <releaseDate>2014-10-19T00:00:00Z</releaseDate>
             <packages>
               <package id="2">
                 <description>standard</description>
@@ -1474,9 +1503,9 @@
           <artist id="2422024">
             <name>Maxine Ashley</name>
             <appearsAs>Maxine Ashley</appearsAs>
-            <url>http://www.7digital.com/artist/maxine-ashley/?partner=3923</url>
+            <slug>maxine-ashley</slug>
           </artist>
-          <url>http://www.7digital.com/artist/maxine-ashley/release/guerrilla/?partner=3923</url>
+          <slug>guerrilla</slug>
           <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/038/747/0003874722_50.jpg</image>
           <label id="149943">
             <name>Universal Music (Pty) Ltd.</name>
@@ -1488,6 +1517,7 @@
           <duration>211</duration>
           <trackCount>1</trackCount>
           <download>
+            <releaseDate>2014-10-26T00:00:00Z</releaseDate>
             <packages>
               <package id="2">
                 <description>standard</description>
@@ -1521,9 +1551,9 @@
           <artist id="2416636">
             <name>Julio Bashmore feat. J'Danna</name>
             <appearsAs>Julio Bashmore feat. J'Danna</appearsAs>
-            <url>http://www.7digital.com/artist/julio-bashmore-feat-jdanna/?partner=3923</url>
+            <slug>julio-bashmore-feat-jdanna</slug>
           </artist>
-          <url>http://www.7digital.com/artist/julio-bashmore-feat-jdanna/release/simple-love-2/?partner=3923</url>
+          <slug>simple-love-2</slug>
           <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/038/733/0003873353_50.jpg</image>
           <label id="353143">
             <name>Broadwalk Records</name>
@@ -1535,6 +1565,7 @@
           <duration>645</duration>
           <trackCount>2</trackCount>
           <download>
+            <releaseDate>2014-10-19T00:00:00Z</releaseDate>
             <packages>
               <package id="2">
                 <description>standard</description>
@@ -1574,9 +1605,9 @@
           <artist id="33154">
             <name>Klaxons</name>
             <appearsAs>Klaxons</appearsAs>
-            <url>http://www.7digital.com/artist/klaxons/?partner=3923</url>
+            <slug>klaxons</slug>
           </artist>
-          <url>http://www.7digital.com/artist/klaxons/release/a-new-reality/?partner=3923</url>
+          <slug>a-new-reality</slug>
           <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/038/832/0003883280_50.jpg</image>
           <label id="307712">
             <name>Akashic Rekords</name>
@@ -1588,6 +1619,7 @@
           <duration>643</duration>
           <trackCount>2</trackCount>
           <download>
+            <releaseDate>2014-10-19T00:00:00Z</releaseDate>
             <packages>
               <package id="2">
                 <description>standard</description>
@@ -1627,9 +1659,9 @@
           <artist id="268194">
             <name>Laurel</name>
             <appearsAs>Laurel</appearsAs>
-            <url>http://www.7digital.com/artist/laurel/?partner=3923</url>
+            <slug>laurel</slug>
           </artist>
-          <url>http://www.7digital.com/artist/laurel/release/shells/?partner=3923</url>
+          <slug>shells</slug>
           <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/038/693/0003869333_50.jpg</image>
           <label id="310033">
             <name>Next Time Records</name>
@@ -1641,6 +1673,7 @@
           <duration>879</duration>
           <trackCount>3</trackCount>
           <download>
+            <releaseDate>2014-10-20T00:00:00Z</releaseDate>
             <packages>
               <package id="2">
                 <description>standard</description>
@@ -1674,9 +1707,9 @@
           <artist id="1356962">
             <name>Deorro</name>
             <appearsAs>Deorro</appearsAs>
-            <url>http://www.7digital.com/artist/deorro/?partner=3923</url>
+            <slug>deorro</slug>
           </artist>
-          <url>http://www.7digital.com/artist/deorro/release/dechorro-remixes-1/?partner=3923</url>
+          <slug>dechorro-remixes-1</slug>
           <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/038/723/0003872396_50.jpg</image>
           <label id="3309">
             <name>Universal Music Ireland Ltd.</name>
@@ -1688,6 +1721,7 @@
           <duration>1114</duration>
           <trackCount>4</trackCount>
           <download>
+            <releaseDate>2014-10-19T00:00:00Z</releaseDate>
             <packages>
               <package id="2">
                 <description>standard</description>
