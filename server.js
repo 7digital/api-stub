@@ -72,6 +72,7 @@ server.get('/catalogue/release-byurl', conventions.releaseSlugQuery);
 server.get('/basket', basket.getBasket);
 server.get('/basket/additem', basket.addToBasket);
 server.get('/basket/create', basket.createBasket);
+server.get('/basket/create2', basket.createBasket);
 server.get('/basket/removeitem', basket.removeItem);
 server.post('/basket/applyvoucher', conventions.voucherCode);
 server.post('/basket/completepaypalpurchase', conventions.paypalComplete);
