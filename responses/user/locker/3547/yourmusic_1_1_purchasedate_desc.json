@@ -24,9 +24,11 @@
           },
           "slug": "elvis-presley-(2)",
           "image": "http://artwork-cdn.7static.com/static/img/sleeveart/00/016/275/0001627544_50.jpg",
-          "releaseDate": "2012-02-24T00:00:00Z",
           "licensor": {
             "id": "68"
+          },
+          "download": {
+            "releaseDate": "2012-02-24T00:00:00Z"
           }
         },
         "lockerTracks": {

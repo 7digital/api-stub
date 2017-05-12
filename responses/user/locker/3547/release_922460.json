@@ -24,9 +24,11 @@
           },
           "slug": "various-artists",
           "image": "http://artwork-cdn.7static.com/static/img/sleeveart/00/009/224/0000922460_50.jpg",
-          "releaseDate": "2005-10-17T00:00:00Z",
           "licensor": {
             "id": "1"
+          },
+          "download": {
+            "releaseDate": "2005-10-17T00:00:00Z"
           }
         },
         "lockerTracks": {
@@ -53,12 +55,10 @@
               "completeAlbumPurchase": "false",
               "downloadUrls": {
                 "downloadUrl": {
-                  "url": "http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&oauth_nonce=txm4s9jebuwyprmw&oauth_signature=8jxiDtWv7pZyZYescUhBZY7Q9n4%3D&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1409567601&oauth_version=1.0a&formatid=17&partnerid=712&onbehalfofpartnerid=712&presigned=1&releaseid=922460&shopid=34&trackid=10155262&userid=121404036",
+                  "url": "http://media.geo.7digital.com/media/user/downloadtrack?formatid=17&releaseid=922460&shopid=34&trackid=10155262",
                   "format": {
                     "id": "17",
-                    "fileFormat": "MP3",
-                    "bitRate": "320",
-                    "drmFree": "true"
+                    "description": "MP3 320"
                   }
                 }
               }
@@ -85,12 +85,10 @@
               "completeAlbumPurchase": "false",
               "downloadUrls": {
                 "downloadUrl": {
-                  "url": "http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&oauth_nonce=5837x4fc8s3c5kzm&oauth_signature=vdOSFueBQM6Hbi3NSYfXJOpVhXA%3D&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1409567601&oauth_version=1.0a&formatid=17&partnerid=712&onbehalfofpartnerid=712&presigned=1&releaseid=922460&shopid=34&trackid=10155263&userid=121404036",
+                  "url": "http://media.geo.7digital.com/media/user/downloadtrack?formatid=17&releaseid=922460&shopid=34&trackid=10155263",
                   "format": {
                     "id": "17",
-                    "fileFormat": "MP3",
-                    "bitRate": "320",
-                    "drmFree": "true"
+                    "description": "MP3 320"
                   }
                 }
               }
@@ -117,12 +115,10 @@
               "completeAlbumPurchase": "false",
               "downloadUrls": {
                 "downloadUrl": {
-                  "url": "http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&oauth_nonce=pp4ttvzh91xi88f9&oauth_signature=8v5kiD4ibAo%2B7nY1gQb1PuUFCTk%3D&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1409567601&oauth_version=1.0a&formatid=17&partnerid=712&onbehalfofpartnerid=712&presigned=1&releaseid=922460&shopid=34&trackid=10155264&userid=121404036",
+                  "url": "http://media.geo.7digital.com/media/user/downloadtrack?formatid=17&releaseid=922460&shopid=34&trackid=10155264",
                   "format": {
                     "id": "17",
-                    "fileFormat": "MP3",
-                    "bitRate": "320",
-                    "drmFree": "true"
+                    "description": "MP3 320"
                   }
                 }
               }
@@ -149,12 +145,10 @@
               "completeAlbumPurchase": "false",
               "downloadUrls": {
                 "downloadUrl": {
-                  "url": "http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&oauth_nonce=yfqe9nz1rk7aggk1&oauth_signature=Is1SI575FXiIoAPm0Dx92O6b1aY%3D&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1409567601&oauth_version=1.0a&formatid=17&partnerid=712&onbehalfofpartnerid=712&presigned=1&releaseid=922460&shopid=34&trackid=10155265&userid=121404036",
+                  "url": "http://media.geo.7digital.com/media/user/downloadtrack?formatid=17&releaseid=922460&shopid=34&trackid=10155265",
                   "format": {
                     "id": "17",
-                    "fileFormat": "MP3",
-                    "bitRate": "320",
-                    "drmFree": "true"
+                    "description": "MP3 320"
                   }
                 }
               }
@@ -181,12 +175,10 @@
               "completeAlbumPurchase": "false",
               "downloadUrls": {
                 "downloadUrl": {
-                  "url": "http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&oauth_nonce=5jj0y3cjhu98f8ea&oauth_signature=%2BQIF%2B1RBFjpSlnAo4Y724%2FCN5MM%3D&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1409567601&oauth_version=1.0a&formatid=17&partnerid=712&onbehalfofpartnerid=712&presigned=1&releaseid=922460&shopid=34&trackid=10155266&userid=121404036",
+                  "url": "http://media.geo.7digital.com/media/user/downloadtrack?formatid=17&releaseid=922460&shopid=34&trackid=10155266",
                   "format": {
                     "id": "17",
-                    "fileFormat": "MP3",
-                    "bitRate": "320",
-                    "drmFree": "true"
+                    "description": "MP3 320"
                   }
                 }
               }
@@ -213,12 +205,10 @@
               "completeAlbumPurchase": "false",
               "downloadUrls": {
                 "downloadUrl": {
-                  "url": "http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&oauth_nonce=m4nz5uob1dcizzb2&oauth_signature=x2u%2FzwfgVHPBw2ltB%2B8MZ2lUPiI%3D&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1409567601&oauth_version=1.0a&formatid=17&partnerid=712&onbehalfofpartnerid=712&presigned=1&releaseid=922460&shopid=34&trackid=10155267&userid=121404036",
+                  "url": "http://media.geo.7digital.com/media/user/downloadtrack?formatid=17&releaseid=922460&shopid=34&trackid=10155267",
                   "format": {
                     "id": "17",
-                    "fileFormat": "MP3",
-                    "bitRate": "320",
-                    "drmFree": "true"
+                    "description": "MP3 320"
                   }
                 }
               }
@@ -245,12 +235,10 @@
               "completeAlbumPurchase": "false",
               "downloadUrls": {
                 "downloadUrl": {
-                  "url": "http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&oauth_nonce=q7oyyfk7cg7op3uu&oauth_signature=8AQoW44eQ%2BdVi%2FRz5zGHMZOIQVQ%3D&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1409567601&oauth_version=1.0a&formatid=17&partnerid=712&onbehalfofpartnerid=712&presigned=1&releaseid=922460&shopid=34&trackid=10155268&userid=121404036",
+                  "url": "http://media.geo.7digital.com/media/user/downloadtrack?formatid=17&releaseid=922460&shopid=34&trackid=10155268",
                   "format": {
                     "id": "17",
-                    "fileFormat": "MP3",
-                    "bitRate": "320",
-                    "drmFree": "true"
+                    "description": "MP3 320"
                   }
                 }
               }
@@ -277,12 +265,10 @@
               "completeAlbumPurchase": "false",
               "downloadUrls": {
                 "downloadUrl": {
-                  "url": "http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&oauth_nonce=g6xm4u7k5hjuz4us&oauth_signature=1AvBhpQRsKbQLHQBTsPVlFSweOA%3D&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1409567601&oauth_version=1.0a&formatid=17&partnerid=712&onbehalfofpartnerid=712&presigned=1&releaseid=922460&shopid=34&trackid=10155269&userid=121404036",
+                  "url": "http://media.geo.7digital.com/media/user/downloadtrack?formatid=17&releaseid=922460&shopid=34&trackid=10155269",
                   "format": {
                     "id": "17",
-                    "fileFormat": "MP3",
-                    "bitRate": "320",
-                    "drmFree": "true"
+                    "description": "MP3 320"
                   }
                 }
               }
@@ -309,12 +295,10 @@
               "completeAlbumPurchase": "false",
               "downloadUrls": {
                 "downloadUrl": {
-                  "url": "http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&oauth_nonce=shrisplgtrxxxaw8&oauth_signature=mHCn5zKEPiRK2OQxFhPyUawm1Kc%3D&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1409567601&oauth_version=1.0a&formatid=17&partnerid=712&onbehalfofpartnerid=712&presigned=1&releaseid=922460&shopid=34&trackid=10155270&userid=121404036",
+                  "url": "http://media.geo.7digital.com/media/user/downloadtrack?formatid=17&releaseid=922460&shopid=34&trackid=10155270",
                   "format": {
                     "id": "17",
-                    "fileFormat": "MP3",
-                    "bitRate": "320",
-                    "drmFree": "true"
+                    "description": "MP3 320"
                   }
                 }
               }
@@ -341,12 +325,10 @@
               "completeAlbumPurchase": "false",
               "downloadUrls": {
                 "downloadUrl": {
-                  "url": "http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&oauth_nonce=src4cz96ad4q7zgi&oauth_signature=Uj5wD1%2BCIXAzrak0oNlcG6I4fyU%3D&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1409567601&oauth_version=1.0a&formatid=17&partnerid=712&onbehalfofpartnerid=712&presigned=1&releaseid=922460&shopid=34&trackid=10155271&userid=121404036",
+                  "url": "http://media.geo.7digital.com/media/user/downloadtrack?formatid=17&releaseid=922460&shopid=34&trackid=10155271",
                   "format": {
                     "id": "17",
-                    "fileFormat": "MP3",
-                    "bitRate": "320",
-                    "drmFree": "true"
+                    "description": "MP3 320"
                   }
                 }
               }
@@ -373,12 +355,10 @@
               "completeAlbumPurchase": "false",
               "downloadUrls": {
                 "downloadUrl": {
-                  "url": "http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&oauth_nonce=wo6ilmb1tq3l8jw5&oauth_signature=pMZSzTCpiUouQLIfPCo8BMGu%2F34%3D&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1409567601&oauth_version=1.0a&formatid=17&partnerid=712&onbehalfofpartnerid=712&presigned=1&releaseid=922460&shopid=34&trackid=10155272&userid=121404036",
+                  "url": "http://media.geo.7digital.com/media/user/downloadtrack?formatid=17&releaseid=922460&shopid=34&trackid=10155272",
                   "format": {
                     "id": "17",
-                    "fileFormat": "MP3",
-                    "bitRate": "320",
-                    "drmFree": "true"
+                    "description": "MP3 320"
                   }
                 }
               }
@@ -405,12 +385,10 @@
               "completeAlbumPurchase": "false",
               "downloadUrls": {
                 "downloadUrl": {
-                  "url": "http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&oauth_nonce=vlci21p4iwiov5k5&oauth_signature=u02EO3zNHXFGNDJVyDsh%2Fon3F08%3D&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1409567601&oauth_version=1.0a&formatid=17&partnerid=712&onbehalfofpartnerid=712&presigned=1&releaseid=922460&shopid=34&trackid=10155273&userid=121404036",
+                  "url": "http://media.geo.7digital.com/media/user/downloadtrack?formatid=17&releaseid=922460&shopid=34&trackid=10155273",
                   "format": {
                     "id": "17",
-                    "fileFormat": "MP3",
-                    "bitRate": "320",
-                    "drmFree": "true"
+                    "description": "MP3 320"
                   }
                 }
               }
@@ -437,12 +415,10 @@
               "completeAlbumPurchase": "false",
               "downloadUrls": {
                 "downloadUrl": {
-                  "url": "http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&oauth_nonce=koajeowgqljv7w81&oauth_signature=yCYJjmsZ3h93JHJ%2FwOhEvqpdUBA%3D&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1409567601&oauth_version=1.0a&formatid=17&partnerid=712&onbehalfofpartnerid=712&presigned=1&releaseid=922460&shopid=34&trackid=10155274&userid=121404036",
+                  "url": "http://media.geo.7digital.com/media/user/downloadtrack?formatid=17&releaseid=922460&shopid=34&trackid=10155274",
                   "format": {
                     "id": "17",
-                    "fileFormat": "MP3",
-                    "bitRate": "320",
-                    "drmFree": "true"
+                    "description": "MP3 320"
                   }
                 }
               }
@@ -469,12 +445,10 @@
               "completeAlbumPurchase": "false",
               "downloadUrls": {
                 "downloadUrl": {
-                  "url": "http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&oauth_nonce=r06uw9r69b0zdwfy&oauth_signature=RGbNQixREcaGdVepWHVijZ%2Ft7ms%3D&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1409567601&oauth_version=1.0a&formatid=17&partnerid=712&onbehalfofpartnerid=712&presigned=1&releaseid=922460&shopid=34&trackid=10155275&userid=121404036",
+                  "url": "http://media.geo.7digital.com/media/user/downloadtrack?formatid=17&releaseid=922460&shopid=34&trackid=10155275",
                   "format": {
                     "id": "17",
-                    "fileFormat": "MP3",
-                    "bitRate": "320",
-                    "drmFree": "true"
+                    "description": "MP3 320"
                   }
                 }
               }
@@ -501,12 +475,10 @@
               "completeAlbumPurchase": "false",
               "downloadUrls": {
                 "downloadUrl": {
-                  "url": "http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&oauth_nonce=g9atjnzgy72pr58w&oauth_signature=lFhHHYljLleScXOcs%2FZNxmX%2FUE4%3D&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1409567601&oauth_version=1.0a&formatid=17&partnerid=712&onbehalfofpartnerid=712&presigned=1&releaseid=922460&shopid=34&trackid=10155276&userid=121404036",
+                  "url": "http://media.geo.7digital.com/media/user/downloadtrack?formatid=17&releaseid=922460&shopid=34&trackid=10155276",
                   "format": {
                     "id": "17",
-                    "fileFormat": "MP3",
-                    "bitRate": "320",
-                    "drmFree": "true"
+                    "description": "MP3 320"
                   }
                 }
               }
@@ -533,12 +505,10 @@
               "completeAlbumPurchase": "false",
               "downloadUrls": {
                 "downloadUrl": {
-                  "url": "http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&oauth_nonce=yr8w01hm8ekdp8c4&oauth_signature=bytSRPax8yCBZyjgtXtG3ZkPtj8%3D&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1409567601&oauth_version=1.0a&formatid=17&partnerid=712&onbehalfofpartnerid=712&presigned=1&releaseid=922460&shopid=34&trackid=10155277&userid=121404036",
+                  "url": "http://media.geo.7digital.com/media/user/downloadtrack?formatid=17&releaseid=922460&shopid=34&trackid=10155277",
                   "format": {
                     "id": "17",
-                    "fileFormat": "MP3",
-                    "bitRate": "320",
-                    "drmFree": "true"
+                    "description": "MP3 320"
                   }
                 }
               }
@@ -565,12 +535,10 @@
               "completeAlbumPurchase": "false",
               "downloadUrls": {
                 "downloadUrl": {
-                  "url": "http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&oauth_nonce=gup8vorejy61gboe&oauth_signature=iwaxOJ2e6YlzOrYk%2F%2Ba%2BKC7Ommo%3D&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1409567601&oauth_version=1.0a&formatid=17&partnerid=712&onbehalfofpartnerid=712&presigned=1&releaseid=922460&shopid=34&trackid=10155278&userid=121404036",
+                  "url": "http://media.geo.7digital.com/media/user/downloadtrack?formatid=17&releaseid=922460&shopid=34&trackid=10155278",
                   "format": {
                     "id": "17",
-                    "fileFormat": "MP3",
-                    "bitRate": "320",
-                    "drmFree": "true"
+                    "description": "MP3 320"
                   }
                 }
               }
@@ -597,12 +565,10 @@
               "completeAlbumPurchase": "false",
               "downloadUrls": {
                 "downloadUrl": {
-                  "url": "http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&oauth_nonce=dmawzszp2ywecw22&oauth_signature=2F9ZKpUAaLdEmenqqwaWKWEYb9I%3D&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1409567601&oauth_version=1.0a&formatid=17&partnerid=712&onbehalfofpartnerid=712&presigned=1&releaseid=922460&shopid=34&trackid=10155279&userid=121404036",
+                  "url": "http://media.geo.7digital.com/media/user/downloadtrack?formatid=17&releaseid=922460&shopid=34&trackid=10155279",
                   "format": {
                     "id": "17",
-                    "fileFormat": "MP3",
-                    "bitRate": "320",
-                    "drmFree": "true"
+                    "description": "MP3 320"
                   }
                 }
               }
@@ -629,12 +595,10 @@
               "completeAlbumPurchase": "false",
               "downloadUrls": {
                 "downloadUrl": {
-                  "url": "http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&oauth_nonce=59j7paaka3nk6rg6&oauth_signature=TutbjMU3UN5FVn3F%2FuRDdvKklx4%3D&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1409567601&oauth_version=1.0a&formatid=17&partnerid=712&onbehalfofpartnerid=712&presigned=1&releaseid=922460&shopid=34&trackid=10155280&userid=121404036",
+                  "url": "http://media.geo.7digital.com/media/user/downloadtrack?formatid=17&releaseid=922460&shopid=34&trackid=10155280",
                   "format": {
                     "id": "17",
-                    "fileFormat": "MP3",
-                    "bitRate": "320",
-                    "drmFree": "true"
+                    "description": "MP3 320"
                   }
                 }
               }
@@ -661,12 +625,10 @@
               "completeAlbumPurchase": "false",
               "downloadUrls": {
                 "downloadUrl": {
-                  "url": "http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&oauth_nonce=1f0c8pex60g82nbx&oauth_signature=I6DKB5z%2BJGT8R631XHzjlSxSVS8%3D&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1409567601&oauth_version=1.0a&formatid=17&partnerid=712&onbehalfofpartnerid=712&presigned=1&releaseid=922460&shopid=34&trackid=10155281&userid=121404036",
+                  "url": "http://media.geo.7digital.com/media/user/downloadtrack?formatid=17&releaseid=922460&shopid=34&trackid=10155281",
                   "format": {
                     "id": "17",
-                    "fileFormat": "MP3",
-                    "bitRate": "320",
-                    "drmFree": "true"
+                    "description": "MP3 320"
                   }
                 }
               }
@@ -693,12 +655,10 @@
               "completeAlbumPurchase": "false",
               "downloadUrls": {
                 "downloadUrl": {
-                  "url": "http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&oauth_nonce=8e6i3rzdm1v7fpuj&oauth_signature=oODF1380d%2By2zbHG4VpMXOW99II%3D&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1409567601&oauth_version=1.0a&formatid=17&partnerid=712&onbehalfofpartnerid=712&presigned=1&releaseid=922460&shopid=34&trackid=10155282&userid=121404036",
+                  "url": "http://media.geo.7digital.com/media/user/downloadtrack?formatid=17&releaseid=922460&shopid=34&trackid=10155282",
                   "format": {
                     "id": "17",
-                    "fileFormat": "MP3",
-                    "bitRate": "320",
-                    "drmFree": "true"
+                    "description": "MP3 320"
                   }
                 }
               }
@@ -725,12 +685,10 @@
               "completeAlbumPurchase": "false",
               "downloadUrls": {
                 "downloadUrl": {
-                  "url": "http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&oauth_nonce=r2n8wz4o5vbp4dsx&oauth_signature=QkpAze8TvdK7W4Cvrxw%2FAsYa6Ck%3D&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1409567601&oauth_version=1.0a&formatid=17&partnerid=712&onbehalfofpartnerid=712&presigned=1&releaseid=922460&shopid=34&trackid=10155283&userid=121404036",
+                  "url": "http://media.geo.7digital.com/media/user/downloadtrack?formatid=17&releaseid=922460&shopid=34&trackid=10155283",
                   "format": {
                     "id": "17",
-                    "fileFormat": "MP3",
-                    "bitRate": "320",
-                    "drmFree": "true"
+                    "description": "MP3 320"
                   }
                 }
               }
@@ -757,12 +715,10 @@
               "completeAlbumPurchase": "false",
               "downloadUrls": {
                 "downloadUrl": {
-                  "url": "http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&oauth_nonce=11n1w9cjq71h5hsp&oauth_signature=PD%2B5RNpbZTzSevG9E4OgTQBt5SQ%3D&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1409567601&oauth_version=1.0a&formatid=17&partnerid=712&onbehalfofpartnerid=712&presigned=1&releaseid=922460&shopid=34&trackid=10155284&userid=121404036",
+                  "url": "http://media.geo.7digital.com/media/user/downloadtrack?formatid=17&releaseid=922460&shopid=34&trackid=10155284",
                   "format": {
                     "id": "17",
-                    "fileFormat": "MP3",
-                    "bitRate": "320",
-                    "drmFree": "true"
+                    "description": "MP3 320"
                   }
                 }
               }
@@ -789,12 +745,10 @@
               "completeAlbumPurchase": "false",
               "downloadUrls": {
                 "downloadUrl": {
-                  "url": "http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&oauth_nonce=o7pa0eahkqngqjji&oauth_signature=9VvSW8U6JSJPaQGXXO19G8JZXk4%3D&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1409567601&oauth_version=1.0a&formatid=17&partnerid=712&onbehalfofpartnerid=712&presigned=1&releaseid=922460&shopid=34&trackid=10155285&userid=121404036",
+                  "url": "http://media.geo.7digital.com/media/user/downloadtrack?formatid=17&releaseid=922460&shopid=34&trackid=10155285",
                   "format": {
                     "id": "17",
-                    "fileFormat": "MP3",
-                    "bitRate": "320",
-                    "drmFree": "true"
+                    "description": "MP3 320"
                   }
                 }
               }
@@ -821,12 +775,10 @@
               "completeAlbumPurchase": "false",
               "downloadUrls": {
                 "downloadUrl": {
-                  "url": "http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&oauth_nonce=h8fpc4xtyeqz9wuw&oauth_signature=uGO6QhpHvAWcF0EBEFUk3Hm%2FdqU%3D&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1409567601&oauth_version=1.0a&formatid=17&partnerid=712&onbehalfofpartnerid=712&presigned=1&releaseid=922460&shopid=34&trackid=10155286&userid=121404036",
+                  "url": "http://media.geo.7digital.com/media/user/downloadtrack?formatid=17&releaseid=922460&shopid=34&trackid=10155286",
                   "format": {
                     "id": "17",
-                    "fileFormat": "MP3",
-                    "bitRate": "320",
-                    "drmFree": "true"
+                    "description": "MP3 320"
                   }
                 }
               }
@@ -853,12 +805,10 @@
               "completeAlbumPurchase": "false",
               "downloadUrls": {
                 "downloadUrl": {
-                  "url": "http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&oauth_nonce=dwa8xrxwzfpfu74g&oauth_signature=hAq7iGaMaLkCV%2Bn%2Ffk2VhqYOXVk%3D&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1409567601&oauth_version=1.0a&formatid=17&partnerid=712&onbehalfofpartnerid=712&presigned=1&releaseid=922460&shopid=34&trackid=10155287&userid=121404036",
+                  "url": "http://media.geo.7digital.com/media/user/downloadtrack?formatid=17&releaseid=922460&shopid=34&trackid=10155287",
                   "format": {
                     "id": "17",
-                    "fileFormat": "MP3",
-                    "bitRate": "320",
-                    "drmFree": "true"
+                    "description": "MP3 320"
                   }
                 }
               }
@@ -885,12 +835,10 @@
               "completeAlbumPurchase": "false",
               "downloadUrls": {
                 "downloadUrl": {
-                  "url": "http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&oauth_nonce=xr07bcnui6m6xliy&oauth_signature=64t5a52F%2Fe7X7X81oKyeyT958qQ%3D&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1409567601&oauth_version=1.0a&formatid=17&partnerid=712&onbehalfofpartnerid=712&presigned=1&releaseid=922460&shopid=34&trackid=10155288&userid=121404036",
+                  "url": "http://media.geo.7digital.com/media/user/downloadtrack?formatid=17&releaseid=922460&shopid=34&trackid=10155288",
                   "format": {
                     "id": "17",
-                    "fileFormat": "MP3",
-                    "bitRate": "320",
-                    "drmFree": "true"
+                    "description": "MP3 320"
                   }
                 }
               }
@@ -917,12 +865,10 @@
               "completeAlbumPurchase": "false",
               "downloadUrls": {
                 "downloadUrl": {
-                  "url": "http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&oauth_nonce=72c4jluzktz8os03&oauth_signature=GgDVFYvuMCrbPwKkOzz9%2Fm4E3w0%3D&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1409567601&oauth_version=1.0a&formatid=17&partnerid=712&onbehalfofpartnerid=712&presigned=1&releaseid=922460&shopid=34&trackid=10155289&userid=121404036",
+                  "url": "http://media.geo.7digital.com/media/user/downloadtrack?formatid=17&releaseid=922460&shopid=34&trackid=10155289",
                   "format": {
                     "id": "17",
-                    "fileFormat": "MP3",
-                    "bitRate": "320",
-                    "drmFree": "true"
+                    "description": "MP3 320"
                   }
                 }
               }
@@ -949,12 +895,10 @@
               "completeAlbumPurchase": "false",
               "downloadUrls": {
                 "downloadUrl": {
-                  "url": "http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&oauth_nonce=lkcrwxvbjpy2f39o&oauth_signature=RTepFqCTviNqZjWnVRdfagPzuNk%3D&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1409567601&oauth_version=1.0a&formatid=17&partnerid=712&onbehalfofpartnerid=712&presigned=1&releaseid=922460&shopid=34&trackid=10155290&userid=121404036",
+                  "url": "http://media.geo.7digital.com/media/user/downloadtrack?formatid=17&releaseid=922460&shopid=34&trackid=10155290",
                   "format": {
                     "id": "17",
-                    "fileFormat": "MP3",
-                    "bitRate": "320",
-                    "drmFree": "true"
+                    "description": "MP3 320"
                   }
                 }
               }
@@ -981,12 +925,10 @@
               "completeAlbumPurchase": "false",
               "downloadUrls": {
                 "downloadUrl": {
-                  "url": "http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&oauth_nonce=72j3407l7kwsmpg1&oauth_signature=eUFbnMIdQG59M91ChFvYlk38zFE%3D&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1409567601&oauth_version=1.0a&formatid=17&partnerid=712&onbehalfofpartnerid=712&presigned=1&releaseid=922460&shopid=34&trackid=10155291&userid=121404036",
+                  "url": "http://media.geo.7digital.com/media/user/downloadtrack?formatid=17&releaseid=922460&shopid=34&trackid=10155291",
                   "format": {
                     "id": "17",
-                    "fileFormat": "MP3",
-                    "bitRate": "320",
-                    "drmFree": "true"
+                    "description": "MP3 320"
                   }
                 }
               }
@@ -1013,12 +955,10 @@
               "completeAlbumPurchase": "false",
               "downloadUrls": {
                 "downloadUrl": {
-                  "url": "http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&oauth_nonce=7uumi2cigbu4x4ur&oauth_signature=UpwPDsPAh9LNFJw%2BBxUhA07ICj4%3D&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1409567601&oauth_version=1.0a&formatid=17&partnerid=712&onbehalfofpartnerid=712&presigned=1&releaseid=922460&shopid=34&trackid=10155292&userid=121404036",
+                  "url": "http://media.geo.7digital.com/media/user/downloadtrack?formatid=17&releaseid=922460&shopid=34&trackid=10155292",
                   "format": {
                     "id": "17",
-                    "fileFormat": "MP3",
-                    "bitRate": "320",
-                    "drmFree": "true"
+                    "description": "MP3 320"
                   }
                 }
               }
@@ -1045,12 +985,10 @@
               "completeAlbumPurchase": "false",
               "downloadUrls": {
                 "downloadUrl": {
-                  "url": "http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&oauth_nonce=ulbwjg9mn2umbdy4&oauth_signature=UP4ToGxulV7Tk26PHW961M7A4U4%3D&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1409567601&oauth_version=1.0a&formatid=17&partnerid=712&onbehalfofpartnerid=712&presigned=1&releaseid=922460&shopid=34&trackid=10155293&userid=121404036",
+                  "url": "http://media.geo.7digital.com/media/user/downloadtrack?formatid=17&releaseid=922460&shopid=34&trackid=10155293",
                   "format": {
                     "id": "17",
-                    "fileFormat": "MP3",
-                    "bitRate": "320",
-                    "drmFree": "true"
+                    "description": "MP3 320"
                   }
                 }
               }
@@ -1077,12 +1015,10 @@
               "completeAlbumPurchase": "false",
               "downloadUrls": {
                 "downloadUrl": {
-                  "url": "http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&oauth_nonce=i86vhwfezaw2odxd&oauth_signature=g%2B56OJaPuboFhfFm7MzBtqy8rxE%3D&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1409567601&oauth_version=1.0a&formatid=17&partnerid=712&onbehalfofpartnerid=712&presigned=1&releaseid=922460&shopid=34&trackid=10155294&userid=121404036",
+                  "url": "http://media.geo.7digital.com/media/user/downloadtrack?formatid=17&releaseid=922460&shopid=34&trackid=10155294",
                   "format": {
                     "id": "17",
-                    "fileFormat": "MP3",
-                    "bitRate": "320",
-                    "drmFree": "true"
+                    "description": "MP3 320"
                   }
                 }
               }
@@ -1109,12 +1045,10 @@
               "completeAlbumPurchase": "false",
               "downloadUrls": {
                 "downloadUrl": {
-                  "url": "http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&oauth_nonce=ze8bour1vi0rhzhd&oauth_signature=Qtb1qMzRb%2B4%2Fm9RQUQ%2BbA4U%2BZas%3D&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1409567601&oauth_version=1.0a&formatid=17&partnerid=712&onbehalfofpartnerid=712&presigned=1&releaseid=922460&shopid=34&trackid=10155295&userid=121404036",
+                  "url": "http://media.geo.7digital.com/media/user/downloadtrack?formatid=17&releaseid=922460&shopid=34&trackid=10155295",
                   "format": {
                     "id": "17",
-                    "fileFormat": "MP3",
-                    "bitRate": "320",
-                    "drmFree": "true"
+                    "description": "MP3 320"
                   }
                 }
               }
@@ -1141,12 +1075,10 @@
               "completeAlbumPurchase": "false",
               "downloadUrls": {
                 "downloadUrl": {
-                  "url": "http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&oauth_nonce=n2vz89j9g78ith8k&oauth_signature=DfiN9HX2%2BexWzcLWP4Qnp4kxZuA%3D&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1409567601&oauth_version=1.0a&formatid=17&partnerid=712&onbehalfofpartnerid=712&presigned=1&releaseid=922460&shopid=34&trackid=10155296&userid=121404036",
+                  "url": "http://media.geo.7digital.com/media/user/downloadtrack?formatid=17&releaseid=922460&shopid=34&trackid=10155296",
                   "format": {
                     "id": "17",
-                    "fileFormat": "MP3",
-                    "bitRate": "320",
-                    "drmFree": "true"
+                    "description": "MP3 320"
                   }
                 }
               }
@@ -1173,12 +1105,10 @@
               "completeAlbumPurchase": "false",
               "downloadUrls": {
                 "downloadUrl": {
-                  "url": "http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&oauth_nonce=dqw7fwpyqea0wx80&oauth_signature=BwiBXEuS5rnz%2FVir6ROVf455LLw%3D&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1409567601&oauth_version=1.0a&formatid=17&partnerid=712&onbehalfofpartnerid=712&presigned=1&releaseid=922460&shopid=34&trackid=10155297&userid=121404036",
+                  "url": "http://media.geo.7digital.com/media/user/downloadtrack?formatid=17&releaseid=922460&shopid=34&trackid=10155297",
                   "format": {
                     "id": "17",
-                    "fileFormat": "MP3",
-                    "bitRate": "320",
-                    "drmFree": "true"
+                    "description": "MP3 320"
                   }
                 }
               }
@@ -1205,12 +1135,10 @@
               "completeAlbumPurchase": "false",
               "downloadUrls": {
                 "downloadUrl": {
-                  "url": "http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&oauth_nonce=3towr9f1596rxigo&oauth_signature=A%2F%2FF5LD56BSEEIjqdL5Kbc9e%2F9E%3D&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1409567601&oauth_version=1.0a&formatid=17&partnerid=712&onbehalfofpartnerid=712&presigned=1&releaseid=922460&shopid=34&trackid=10155298&userid=121404036",
+                  "url": "http://media.geo.7digital.com/media/user/downloadtrack?formatid=17&releaseid=922460&shopid=34&trackid=10155298",
                   "format": {
                     "id": "17",
-                    "fileFormat": "MP3",
-                    "bitRate": "320",
-                    "drmFree": "true"
+                    "description": "MP3 320"
                   }
                 }
               }
@@ -1237,12 +1165,10 @@
               "completeAlbumPurchase": "false",
               "downloadUrls": {
                 "downloadUrl": {
-                  "url": "http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&oauth_nonce=kyo1dk81m8j39kls&oauth_signature=Jqzf9fliVjwXZhRZj231v0WBbNY%3D&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1409567601&oauth_version=1.0a&formatid=17&partnerid=712&onbehalfofpartnerid=712&presigned=1&releaseid=922460&shopid=34&trackid=10155299&userid=121404036",
+                  "url": "http://media.geo.7digital.com/media/user/downloadtrack?formatid=17&releaseid=922460&shopid=34&trackid=10155299",
                   "format": {
                     "id": "17",
-                    "fileFormat": "MP3",
-                    "bitRate": "320",
-                    "drmFree": "true"
+                    "description": "MP3 320"
                   }
                 }
               }
@@ -1269,12 +1195,10 @@
               "completeAlbumPurchase": "false",
               "downloadUrls": {
                 "downloadUrl": {
-                  "url": "http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&oauth_nonce=08qa3l4ek6bg28ah&oauth_signature=fjCpUdbkaaPPCzLrASWjXppRavI%3D&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1409567601&oauth_version=1.0a&formatid=17&partnerid=712&onbehalfofpartnerid=712&presigned=1&releaseid=922460&shopid=34&trackid=10155300&userid=121404036",
+                  "url": "http://media.geo.7digital.com/media/user/downloadtrack?formatid=17&releaseid=922460&shopid=34&trackid=10155300",
                   "format": {
                     "id": "17",
-                    "fileFormat": "MP3",
-                    "bitRate": "320",
-                    "drmFree": "true"
+                    "description": "MP3 320"
                   }
                 }
               }
@@ -1301,12 +1225,10 @@
               "completeAlbumPurchase": "false",
               "downloadUrls": {
                 "downloadUrl": {
-                  "url": "http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&oauth_nonce=9wz9jh6rvxkuzn3u&oauth_signature=KsbRIYzvtAwOoB3%2FUFfdRJgpdDw%3D&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1409567601&oauth_version=1.0a&formatid=17&partnerid=712&onbehalfofpartnerid=712&presigned=1&releaseid=922460&shopid=34&trackid=10155301&userid=121404036",
+                  "url": "http://media.geo.7digital.com/media/user/downloadtrack?formatid=17&releaseid=922460&shopid=34&trackid=10155301",
                   "format": {
                     "id": "17",
-                    "fileFormat": "MP3",
-                    "bitRate": "320",
-                    "drmFree": "true"
+                    "description": "MP3 320"
                   }
                 }
               }
@@ -1333,12 +1255,10 @@
               "completeAlbumPurchase": "false",
               "downloadUrls": {
                 "downloadUrl": {
-                  "url": "http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&oauth_nonce=xnsz3gv06jpii20p&oauth_signature=zx8W0BqInMgGEOwekqLAvcUCxTU%3D&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1409567601&oauth_version=1.0a&formatid=17&partnerid=712&onbehalfofpartnerid=712&presigned=1&releaseid=922460&shopid=34&trackid=10155302&userid=121404036",
+                  "url": "http://media.geo.7digital.com/media/user/downloadtrack?formatid=17&releaseid=922460&shopid=34&trackid=10155302",
                   "format": {
                     "id": "17",
-                    "fileFormat": "MP3",
-                    "bitRate": "320",
-                    "drmFree": "true"
+                    "description": "MP3 320"
                   }
                 }
               }
@@ -1365,12 +1285,10 @@
               "completeAlbumPurchase": "false",
               "downloadUrls": {
                 "downloadUrl": {
-                  "url": "http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&oauth_nonce=7b5mvni3c9ofaip8&oauth_signature=%2FjpN0jOWSh6rdxrhSWPeO0juNpQ%3D&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1409567601&oauth_version=1.0a&formatid=17&partnerid=712&onbehalfofpartnerid=712&presigned=1&releaseid=922460&shopid=34&trackid=10155303&userid=121404036",
+                  "url": "http://media.geo.7digital.com/media/user/downloadtrack?formatid=17&releaseid=922460&shopid=34&trackid=10155303",
                   "format": {
                     "id": "17",
-                    "fileFormat": "MP3",
-                    "bitRate": "320",
-                    "drmFree": "true"
+                    "description": "MP3 320"
                   }
                 }
               }
@@ -1397,12 +1315,10 @@
               "completeAlbumPurchase": "false",
               "downloadUrls": {
                 "downloadUrl": {
-                  "url": "http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&oauth_nonce=drtoolo3azc02xj5&oauth_signature=GSB796tvr6WMJ%2FUZuPd8u5o9I80%3D&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1409567601&oauth_version=1.0a&formatid=17&partnerid=712&onbehalfofpartnerid=712&presigned=1&releaseid=922460&shopid=34&trackid=10155304&userid=121404036",
+                  "url": "http://media.geo.7digital.com/media/user/downloadtrack?formatid=17&releaseid=922460&shopid=34&trackid=10155304",
                   "format": {
                     "id": "17",
-                    "fileFormat": "MP3",
-                    "bitRate": "320",
-                    "drmFree": "true"
+                    "description": "MP3 320"
                   }
                 }
               }
@@ -1429,12 +1345,10 @@
               "completeAlbumPurchase": "false",
               "downloadUrls": {
                 "downloadUrl": {
-                  "url": "http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&oauth_nonce=x6yxsp0ke1x52p9w&oauth_signature=3JNhMXJNZ8q9wKKhAMOXhIL8uLM%3D&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1409567601&oauth_version=1.0a&formatid=17&partnerid=712&onbehalfofpartnerid=712&presigned=1&releaseid=922460&shopid=34&trackid=10155305&userid=121404036",
+                  "url": "http://media.geo.7digital.com/media/user/downloadtrack?formatid=17&releaseid=922460&shopid=34&trackid=10155305",
                   "format": {
                     "id": "17",
-                    "fileFormat": "MP3",
-                    "bitRate": "320",
-                    "drmFree": "true"
+                    "description": "MP3 320"
                   }
                 }
               }
@@ -1461,12 +1375,10 @@
               "completeAlbumPurchase": "false",
               "downloadUrls": {
                 "downloadUrl": {
-                  "url": "http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&oauth_nonce=4rf2huauwcl6kiao&oauth_signature=ZQzehGpKsvtWL4p2FILj5TkEkgE%3D&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1409567601&oauth_version=1.0a&formatid=17&partnerid=712&onbehalfofpartnerid=712&presigned=1&releaseid=922460&shopid=34&trackid=10155306&userid=121404036",
+                  "url": "http://media.geo.7digital.com/media/user/downloadtrack?formatid=17&releaseid=922460&shopid=34&trackid=10155306",
                   "format": {
                     "id": "17",
-                    "fileFormat": "MP3",
-                    "bitRate": "320",
-                    "drmFree": "true"
+                    "description": "MP3 320"
                   }
                 }
               }
@@ -1493,12 +1405,10 @@
               "completeAlbumPurchase": "false",
               "downloadUrls": {
                 "downloadUrl": {
-                  "url": "http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&oauth_nonce=zurfu3pxrjkyyuav&oauth_signature=ZR3hxA6ZP5aQfaLXnog0epTfiwI%3D&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1409567601&oauth_version=1.0a&formatid=17&partnerid=712&onbehalfofpartnerid=712&presigned=1&releaseid=922460&shopid=34&trackid=10155307&userid=121404036",
+                  "url": "http://media.geo.7digital.com/media/user/downloadtrack?formatid=17&releaseid=922460&shopid=34&trackid=10155307",
                   "format": {
                     "id": "17",
-                    "fileFormat": "MP3",
-                    "bitRate": "320",
-                    "drmFree": "true"
+                    "description": "MP3 320"
                   }
                 }
               }
@@ -1525,12 +1435,10 @@
               "completeAlbumPurchase": "false",
               "downloadUrls": {
                 "downloadUrl": {
-                  "url": "http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&oauth_nonce=2qgksrwd5daqde06&oauth_signature=VTewr26Z5uUEJKg7%2F9QrOCpSJng%3D&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1409567601&oauth_version=1.0a&formatid=17&partnerid=712&onbehalfofpartnerid=712&presigned=1&releaseid=922460&shopid=34&trackid=10155308&userid=121404036",
+                  "url": "http://media.geo.7digital.com/media/user/downloadtrack?formatid=17&releaseid=922460&shopid=34&trackid=10155308",
                   "format": {
                     "id": "17",
-                    "fileFormat": "MP3",
-                    "bitRate": "320",
-                    "drmFree": "true"
+                    "description": "MP3 320"
                   }
                 }
               }
@@ -1557,12 +1465,10 @@
               "completeAlbumPurchase": "false",
               "downloadUrls": {
                 "downloadUrl": {
-                  "url": "http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&oauth_nonce=1ifh83cbcrj9km7c&oauth_signature=fN7P%2Fr39kgGuE8sAdRVsgpVxA%2BQ%3D&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1409567601&oauth_version=1.0a&formatid=17&partnerid=712&onbehalfofpartnerid=712&presigned=1&releaseid=922460&shopid=34&trackid=10155309&userid=121404036",
+                  "url": "http://media.geo.7digital.com/media/user/downloadtrack?formatid=17&releaseid=922460&shopid=34&trackid=10155309",
                   "format": {
                     "id": "17",
-                    "fileFormat": "MP3",
-                    "bitRate": "320",
-                    "drmFree": "true"
+                    "description": "MP3 320"
                   }
                 }
               }
@@ -1589,12 +1495,10 @@
               "completeAlbumPurchase": "false",
               "downloadUrls": {
                 "downloadUrl": {
-                  "url": "http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&oauth_nonce=b1e5cz7h8olq20un&oauth_signature=uztg792sLj%2B%2Bjzys2Ss6LlT7wbY%3D&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1409567601&oauth_version=1.0a&formatid=17&partnerid=712&onbehalfofpartnerid=712&presigned=1&releaseid=922460&shopid=34&trackid=10155310&userid=121404036",
+                  "url": "http://media.geo.7digital.com/media/user/downloadtrack?formatid=17&releaseid=922460&shopid=34&trackid=10155310",
                   "format": {
                     "id": "17",
-                    "fileFormat": "MP3",
-                    "bitRate": "320",
-                    "drmFree": "true"
+                    "description": "MP3 320"
                   }
                 }
               }
@@ -1621,12 +1525,10 @@
               "completeAlbumPurchase": "false",
               "downloadUrls": {
                 "downloadUrl": {
-                  "url": "http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&oauth_nonce=jo8po4x9neiahy3s&oauth_signature=4l9iROzWzccJSGLGIbIAVckRyrA%3D&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1409567601&oauth_version=1.0a&formatid=17&partnerid=712&onbehalfofpartnerid=712&presigned=1&releaseid=922460&shopid=34&trackid=10155311&userid=121404036",
+                  "url": "http://media.geo.7digital.com/media/user/downloadtrack?formatid=17&releaseid=922460&shopid=34&trackid=10155311",
                   "format": {
                     "id": "17",
-                    "fileFormat": "MP3",
-                    "bitRate": "320",
-                    "drmFree": "true"
+                    "description": "MP3 320"
                   }
                 }
               }
@@ -1653,12 +1555,10 @@
               "completeAlbumPurchase": "false",
               "downloadUrls": {
                 "downloadUrl": {
-                  "url": "http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&oauth_nonce=h8om0f3am9jtrwkc&oauth_signature=E0mN1gkVi1uah%2FBv69x55ynFlBM%3D&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1409567601&oauth_version=1.0a&formatid=17&partnerid=712&onbehalfofpartnerid=712&presigned=1&releaseid=922460&shopid=34&trackid=10155312&userid=121404036",
+                  "url": "http://media.geo.7digital.com/media/user/downloadtrack?formatid=17&releaseid=922460&shopid=34&trackid=10155312",
                   "format": {
                     "id": "17",
-                    "fileFormat": "MP3",
-                    "bitRate": "320",
-                    "drmFree": "true"
+                    "description": "MP3 320"
                   }
                 }
               }
@@ -1685,12 +1585,10 @@
               "completeAlbumPurchase": "false",
               "downloadUrls": {
                 "downloadUrl": {
-                  "url": "http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&oauth_nonce=87y7oryidgq9q60i&oauth_signature=lH%2Fb2hLEPv0LcLH%2BVXXzh9ARf0w%3D&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1409567601&oauth_version=1.0a&formatid=17&partnerid=712&onbehalfofpartnerid=712&presigned=1&releaseid=922460&shopid=34&trackid=10155313&userid=121404036",
+                  "url": "http://media.geo.7digital.com/media/user/downloadtrack?formatid=17&releaseid=922460&shopid=34&trackid=10155313",
                   "format": {
                     "id": "17",
-                    "fileFormat": "MP3",
-                    "bitRate": "320",
-                    "drmFree": "true"
+                    "description": "MP3 320"
                   }
                 }
               }
@@ -1717,12 +1615,10 @@
               "completeAlbumPurchase": "false",
               "downloadUrls": {
                 "downloadUrl": {
-                  "url": "http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&oauth_nonce=w3j5uhndv8dqteq1&oauth_signature=LWbP1RpR4qkiyZwyk4t%2Fg0J6yQk%3D&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1409567601&oauth_version=1.0a&formatid=17&partnerid=712&onbehalfofpartnerid=712&presigned=1&releaseid=922460&shopid=34&trackid=10155314&userid=121404036",
+                  "url": "http://media.geo.7digital.com/media/user/downloadtrack?formatid=17&releaseid=922460&shopid=34&trackid=10155314",
                   "format": {
                     "id": "17",
-                    "fileFormat": "MP3",
-                    "bitRate": "320",
-                    "drmFree": "true"
+                    "description": "MP3 320"
                   }
                 }
               }
@@ -1749,12 +1645,10 @@
               "completeAlbumPurchase": "false",
               "downloadUrls": {
                 "downloadUrl": {
-                  "url": "http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&oauth_nonce=5fdl07e1igj4y5tq&oauth_signature=M8VSBi1oVnB%2FyfMPwOKqqlvLj78%3D&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1409567601&oauth_version=1.0a&formatid=17&partnerid=712&onbehalfofpartnerid=712&presigned=1&releaseid=922460&shopid=34&trackid=10155315&userid=121404036",
+                  "url": "http://media.geo.7digital.com/media/user/downloadtrack?formatid=17&releaseid=922460&shopid=34&trackid=10155315",
                   "format": {
                     "id": "17",
-                    "fileFormat": "MP3",
-                    "bitRate": "320",
-                    "drmFree": "true"
+                    "description": "MP3 320"
                   }
                 }
               }
@@ -1781,12 +1675,10 @@
               "completeAlbumPurchase": "false",
               "downloadUrls": {
                 "downloadUrl": {
-                  "url": "http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&oauth_nonce=9b8znpszsukroiy9&oauth_signature=WoarGYVlgl5cIn%2FEQNilKvo7Is8%3D&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1409567601&oauth_version=1.0a&formatid=17&partnerid=712&onbehalfofpartnerid=712&presigned=1&releaseid=922460&shopid=34&trackid=10155316&userid=121404036",
+                  "url": "http://media.geo.7digital.com/media/user/downloadtrack?formatid=17&releaseid=922460&shopid=34&trackid=10155316",
                   "format": {
                     "id": "17",
-                    "fileFormat": "MP3",
-                    "bitRate": "320",
-                    "drmFree": "true"
+                    "description": "MP3 320"
                   }
                 }
               }
@@ -1813,12 +1705,10 @@
               "completeAlbumPurchase": "false",
               "downloadUrls": {
                 "downloadUrl": {
-                  "url": "http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&oauth_nonce=zzdl3yizytvo8tp1&oauth_signature=awh%2Bqn1ehD3x3XRiwSKjkQpj9xw%3D&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1409567601&oauth_version=1.0a&formatid=17&partnerid=712&onbehalfofpartnerid=712&presigned=1&releaseid=922460&shopid=34&trackid=10155317&userid=121404036",
+                  "url": "http://media.geo.7digital.com/media/user/downloadtrack?formatid=17&releaseid=922460&shopid=34&trackid=10155317",
                   "format": {
                     "id": "17",
-                    "fileFormat": "MP3",
-                    "bitRate": "320",
-                    "drmFree": "true"
+                    "description": "MP3 320"
                   }
                 }
               }
@@ -1845,12 +1735,10 @@
               "completeAlbumPurchase": "false",
               "downloadUrls": {
                 "downloadUrl": {
-                  "url": "http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&oauth_nonce=nwssg2noxn4pvwma&oauth_signature=bMrAuvz0ARVE7Dw2NluUPlXQT3A%3D&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1409567601&oauth_version=1.0a&formatid=17&partnerid=712&onbehalfofpartnerid=712&presigned=1&releaseid=922460&shopid=34&trackid=10155318&userid=121404036",
+                  "url": "http://media.geo.7digital.com/media/user/downloadtrack?formatid=17&releaseid=922460&shopid=34&trackid=10155318",
                   "format": {
                     "id": "17",
-                    "fileFormat": "MP3",
-                    "bitRate": "320",
-                    "drmFree": "true"
+                    "description": "MP3 320"
                   }
                 }
               }
@@ -1877,12 +1765,10 @@
               "completeAlbumPurchase": "false",
               "downloadUrls": {
                 "downloadUrl": {
-                  "url": "http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&oauth_nonce=rkd91ixj3ha45e39&oauth_signature=23IsQ9D4hW8s%2BwaxKTdv5vztHhk%3D&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1409567601&oauth_version=1.0a&formatid=17&partnerid=712&onbehalfofpartnerid=712&presigned=1&releaseid=922460&shopid=34&trackid=10155319&userid=121404036",
+                  "url": "http://media.geo.7digital.com/media/user/downloadtrack?formatid=17&releaseid=922460&shopid=34&trackid=10155319",
                   "format": {
                     "id": "17",
-                    "fileFormat": "MP3",
-                    "bitRate": "320",
-                    "drmFree": "true"
+                    "description": "MP3 320"
                   }
                 }
               }
@@ -1909,12 +1795,10 @@
               "completeAlbumPurchase": "false",
               "downloadUrls": {
                 "downloadUrl": {
-                  "url": "http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&oauth_nonce=fte21f39mzyp64db&oauth_signature=5OaiRMbtgoOeyhp0J5wWPU%2BvPBY%3D&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1409567601&oauth_version=1.0a&formatid=17&partnerid=712&onbehalfofpartnerid=712&presigned=1&releaseid=922460&shopid=34&trackid=10155320&userid=121404036",
+                  "url": "http://media.geo.7digital.com/media/user/downloadtrack?formatid=17&releaseid=922460&shopid=34&trackid=10155320",
                   "format": {
                     "id": "17",
-                    "fileFormat": "MP3",
-                    "bitRate": "320",
-                    "drmFree": "true"
+                    "description": "MP3 320"
                   }
                 }
               }
@@ -1941,12 +1825,10 @@
               "completeAlbumPurchase": "false",
               "downloadUrls": {
                 "downloadUrl": {
-                  "url": "http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&oauth_nonce=gu7wqqae9i101uus&oauth_signature=wso4OPnwcDQOPFKkHemV1pRZ%2FD0%3D&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1409567601&oauth_version=1.0a&formatid=17&partnerid=712&onbehalfofpartnerid=712&presigned=1&releaseid=922460&shopid=34&trackid=10155321&userid=121404036",
+                  "url": "http://media.geo.7digital.com/media/user/downloadtrack?formatid=17&releaseid=922460&shopid=34&trackid=10155321",
                   "format": {
                     "id": "17",
-                    "fileFormat": "MP3",
-                    "bitRate": "320",
-                    "drmFree": "true"
+                    "description": "MP3 320"
                   }
                 }
               }
@@ -1973,12 +1855,10 @@
               "completeAlbumPurchase": "false",
               "downloadUrls": {
                 "downloadUrl": {
-                  "url": "http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&oauth_nonce=u5jcsukmsewbuio9&oauth_signature=m%2BiA5Y69KPt1PAAVwLOE6X40E8o%3D&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1409567601&oauth_version=1.0a&formatid=17&partnerid=712&onbehalfofpartnerid=712&presigned=1&releaseid=922460&shopid=34&trackid=10155322&userid=121404036",
+                  "url": "http://media.geo.7digital.com/media/user/downloadtrack?formatid=17&releaseid=922460&shopid=34&trackid=10155322",
                   "format": {
                     "id": "17",
-                    "fileFormat": "MP3",
-                    "bitRate": "320",
-                    "drmFree": "true"
+                    "description": "MP3 320"
                   }
                 }
               }
@@ -2005,12 +1885,10 @@
               "completeAlbumPurchase": "false",
               "downloadUrls": {
                 "downloadUrl": {
-                  "url": "http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&oauth_nonce=d9wjhfszt03sp3i3&oauth_signature=jUwjsQUssNcYV2WhJcOkVDAm5hI%3D&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1409567601&oauth_version=1.0a&formatid=17&partnerid=712&onbehalfofpartnerid=712&presigned=1&releaseid=922460&shopid=34&trackid=10155323&userid=121404036",
+                  "url": "http://media.geo.7digital.com/media/user/downloadtrack?formatid=17&releaseid=922460&shopid=34&trackid=10155323",
                   "format": {
                     "id": "17",
-                    "fileFormat": "MP3",
-                    "bitRate": "320",
-                    "drmFree": "true"
+                    "description": "MP3 320"
                   }
                 }
               }
@@ -2037,12 +1915,10 @@
               "completeAlbumPurchase": "false",
               "downloadUrls": {
                 "downloadUrl": {
-                  "url": "http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&oauth_nonce=ff5aubtwkuel49u1&oauth_signature=qJMN%2BCwgEgkHdnw4wxQU1qspYAI%3D&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1409567601&oauth_version=1.0a&formatid=17&partnerid=712&onbehalfofpartnerid=712&presigned=1&releaseid=922460&shopid=34&trackid=10155324&userid=121404036",
+                  "url": "http://media.geo.7digital.com/media/user/downloadtrack?formatid=17&releaseid=922460&shopid=34&trackid=10155324",
                   "format": {
                     "id": "17",
-                    "fileFormat": "MP3",
-                    "bitRate": "320",
-                    "drmFree": "true"
+                    "description": "MP3 320"
                   }
                 }
               }
@@ -2069,12 +1945,10 @@
               "completeAlbumPurchase": "false",
               "downloadUrls": {
                 "downloadUrl": {
-                  "url": "http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&oauth_nonce=42628klpmtst2371&oauth_signature=loDZUw0WFdpBu2SNpweaW0xjl%2FM%3D&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1409567601&oauth_version=1.0a&formatid=17&partnerid=712&onbehalfofpartnerid=712&presigned=1&releaseid=922460&shopid=34&trackid=10155325&userid=121404036",
+                  "url": "http://media.geo.7digital.com/media/user/downloadtrack?formatid=17&releaseid=922460&shopid=34&trackid=10155325",
                   "format": {
                     "id": "17",
-                    "fileFormat": "MP3",
-                    "bitRate": "320",
-                    "drmFree": "true"
+                    "description": "MP3 320"
                   }
                 }
               }
@@ -2101,12 +1975,10 @@
               "completeAlbumPurchase": "false",
               "downloadUrls": {
                 "downloadUrl": {
-                  "url": "http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&oauth_nonce=757oooobpa0xbg7v&oauth_signature=GOjUQUxYKWlyIGAQ7W5pmH1gCxg%3D&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1409567601&oauth_version=1.0a&formatid=17&partnerid=712&onbehalfofpartnerid=712&presigned=1&releaseid=922460&shopid=34&trackid=10155326&userid=121404036",
+                  "url": "http://media.geo.7digital.com/media/user/downloadtrack?formatid=17&releaseid=922460&shopid=34&trackid=10155326",
                   "format": {
                     "id": "17",
-                    "fileFormat": "MP3",
-                    "bitRate": "320",
-                    "drmFree": "true"
+                    "description": "MP3 320"
                   }
                 }
               }
@@ -2133,12 +2005,10 @@
               "completeAlbumPurchase": "false",
               "downloadUrls": {
                 "downloadUrl": {
-                  "url": "http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&oauth_nonce=pcyx7q555oybt05s&oauth_signature=BXerXhG1GvBOAZlQldoKv8mNHV8%3D&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1409567601&oauth_version=1.0a&formatid=17&partnerid=712&onbehalfofpartnerid=712&presigned=1&releaseid=922460&shopid=34&trackid=10155327&userid=121404036",
+                  "url": "http://media.geo.7digital.com/media/user/downloadtrack?formatid=17&releaseid=922460&shopid=34&trackid=10155327",
                   "format": {
                     "id": "17",
-                    "fileFormat": "MP3",
-                    "bitRate": "320",
-                    "drmFree": "true"
+                    "description": "MP3 320"
                   }
                 }
               }
@@ -2165,12 +2035,10 @@
               "completeAlbumPurchase": "false",
               "downloadUrls": {
                 "downloadUrl": {
-                  "url": "http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&oauth_nonce=xoo9cflpn5m7lxof&oauth_signature=hkVKlw4h%2BN%2FYC%2Fd%2Fm8EgzB9blmk%3D&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1409567601&oauth_version=1.0a&formatid=17&partnerid=712&onbehalfofpartnerid=712&presigned=1&releaseid=922460&shopid=34&trackid=10155328&userid=121404036",
+                  "url": "http://media.geo.7digital.com/media/user/downloadtrack?formatid=17&releaseid=922460&shopid=34&trackid=10155328",
                   "format": {
                     "id": "17",
-                    "fileFormat": "MP3",
-                    "bitRate": "320",
-                    "drmFree": "true"
+                    "description": "MP3 320"
                   }
                 }
               }
@@ -2197,12 +2065,10 @@
               "completeAlbumPurchase": "false",
               "downloadUrls": {
                 "downloadUrl": {
-                  "url": "http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&oauth_nonce=x8eydi4q0bu0znsp&oauth_signature=HKcZuSCuluwM67bzzPCTPzwQtD0%3D&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1409567601&oauth_version=1.0a&formatid=17&partnerid=712&onbehalfofpartnerid=712&presigned=1&releaseid=922460&shopid=34&trackid=10155329&userid=121404036",
+                  "url": "http://media.geo.7digital.com/media/user/downloadtrack?formatid=17&releaseid=922460&shopid=34&trackid=10155329",
                   "format": {
                     "id": "17",
-                    "fileFormat": "MP3",
-                    "bitRate": "320",
-                    "drmFree": "true"
+                    "description": "MP3 320"
                   }
                 }
               }
@@ -2229,12 +2095,10 @@
               "completeAlbumPurchase": "false",
               "downloadUrls": {
                 "downloadUrl": {
-                  "url": "http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&oauth_nonce=fq0w38sj2ikcd9tg&oauth_signature=ZZjA6DFYLv%2F%2BH54e1ypPiz3CyUk%3D&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1409567601&oauth_version=1.0a&formatid=17&partnerid=712&onbehalfofpartnerid=712&presigned=1&releaseid=922460&shopid=34&trackid=10155330&userid=121404036",
+                  "url": "http://media.geo.7digital.com/media/user/downloadtrack?formatid=17&releaseid=922460&shopid=34&trackid=10155330",
                   "format": {
                     "id": "17",
-                    "fileFormat": "MP3",
-                    "bitRate": "320",
-                    "drmFree": "true"
+                    "description": "MP3 320"
                   }
                 }
               }
@@ -2261,12 +2125,10 @@
               "completeAlbumPurchase": "false",
               "downloadUrls": {
                 "downloadUrl": {
-                  "url": "http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&oauth_nonce=asnv6fopv90bumza&oauth_signature=%2F55LJBlL8jaMcHNpWQFTV9xDNBQ%3D&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1409567601&oauth_version=1.0a&formatid=17&partnerid=712&onbehalfofpartnerid=712&presigned=1&releaseid=922460&shopid=34&trackid=10155331&userid=121404036",
+                  "url": "http://media.geo.7digital.com/media/user/downloadtrack?formatid=17&releaseid=922460&shopid=34&trackid=10155331",
                   "format": {
                     "id": "17",
-                    "fileFormat": "MP3",
-                    "bitRate": "320",
-                    "drmFree": "true"
+                    "description": "MP3 320"
                   }
                 }
               }
@@ -2293,12 +2155,10 @@
               "completeAlbumPurchase": "false",
               "downloadUrls": {
                 "downloadUrl": {
-                  "url": "http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&oauth_nonce=l715y2nzo58591mb&oauth_signature=IbUOa3mUsDdMLWMNsTON2WH46KE%3D&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1409567601&oauth_version=1.0a&formatid=17&partnerid=712&onbehalfofpartnerid=712&presigned=1&releaseid=922460&shopid=34&trackid=10155332&userid=121404036",
+                  "url": "http://media.geo.7digital.com/media/user/downloadtrack?formatid=17&releaseid=922460&shopid=34&trackid=10155332",
                   "format": {
                     "id": "17",
-                    "fileFormat": "MP3",
-                    "bitRate": "320",
-                    "drmFree": "true"
+                    "description": "MP3 320"
                   }
                 }
               }
@@ -2325,12 +2185,10 @@
               "completeAlbumPurchase": "false",
               "downloadUrls": {
                 "downloadUrl": {
-                  "url": "http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&oauth_nonce=ro0g08u0cub59ryo&oauth_signature=NSmqpXEyHDHtHrzNsMWsmWdL13c%3D&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1409567601&oauth_version=1.0a&formatid=17&partnerid=712&onbehalfofpartnerid=712&presigned=1&releaseid=922460&shopid=34&trackid=10155333&userid=121404036",
+                  "url": "http://media.geo.7digital.com/media/user/downloadtrack?formatid=17&releaseid=922460&shopid=34&trackid=10155333",
                   "format": {
                     "id": "17",
-                    "fileFormat": "MP3",
-                    "bitRate": "320",
-                    "drmFree": "true"
+                    "description": "MP3 320"
                   }
                 }
               }
@@ -2357,12 +2215,10 @@
               "completeAlbumPurchase": "false",
               "downloadUrls": {
                 "downloadUrl": {
-                  "url": "http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&oauth_nonce=tk2hhzsifxgaitq5&oauth_signature=oQTX%2FhWkzrsOAGnPZsPBjrEJktY%3D&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1409567601&oauth_version=1.0a&formatid=17&partnerid=712&onbehalfofpartnerid=712&presigned=1&releaseid=922460&shopid=34&trackid=10155334&userid=121404036",
+                  "url": "http://media.geo.7digital.com/media/user/downloadtrack?formatid=17&releaseid=922460&shopid=34&trackid=10155334",
                   "format": {
                     "id": "17",
-                    "fileFormat": "MP3",
-                    "bitRate": "320",
-                    "drmFree": "true"
+                    "description": "MP3 320"
                   }
                 }
               }
@@ -2389,12 +2245,10 @@
               "completeAlbumPurchase": "false",
               "downloadUrls": {
                 "downloadUrl": {
-                  "url": "http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&oauth_nonce=v8tgnsaom12dzt28&oauth_signature=HWz66HBBHOJSTmafNXaeSARjby4%3D&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1409567601&oauth_version=1.0a&formatid=17&partnerid=712&onbehalfofpartnerid=712&presigned=1&releaseid=922460&shopid=34&trackid=10155335&userid=121404036",
+                  "url": "http://media.geo.7digital.com/media/user/downloadtrack?formatid=17&releaseid=922460&shopid=34&trackid=10155335",
                   "format": {
                     "id": "17",
-                    "fileFormat": "MP3",
-                    "bitRate": "320",
-                    "drmFree": "true"
+                    "description": "MP3 320"
                   }
                 }
               }
@@ -2421,12 +2275,10 @@
               "completeAlbumPurchase": "false",
               "downloadUrls": {
                 "downloadUrl": {
-                  "url": "http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&oauth_nonce=gslx0f4271bl1t2s&oauth_signature=vJDA%2BMdLtj%2FverkKKZ0mCEB9h6k%3D&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1409567601&oauth_version=1.0a&formatid=17&partnerid=712&onbehalfofpartnerid=712&presigned=1&releaseid=922460&shopid=34&trackid=10155336&userid=121404036",
+                  "url": "http://media.geo.7digital.com/media/user/downloadtrack?formatid=17&releaseid=922460&shopid=34&trackid=10155336",
                   "format": {
                     "id": "17",
-                    "fileFormat": "MP3",
-                    "bitRate": "320",
-                    "drmFree": "true"
+                    "description": "MP3 320"
                   }
                 }
               }
@@ -2453,12 +2305,10 @@
               "completeAlbumPurchase": "false",
               "downloadUrls": {
                 "downloadUrl": {
-                  "url": "http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&oauth_nonce=dhia8sbajn5q8osw&oauth_signature=3AP4dpCuqVsBlEyPp5lSGRSgnX0%3D&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1409567601&oauth_version=1.0a&formatid=17&partnerid=712&onbehalfofpartnerid=712&presigned=1&releaseid=922460&shopid=34&trackid=10155337&userid=121404036",
+                  "url": "http://media.geo.7digital.com/media/user/downloadtrack?formatid=17&releaseid=922460&shopid=34&trackid=10155337",
                   "format": {
                     "id": "17",
-                    "fileFormat": "MP3",
-                    "bitRate": "320",
-                    "drmFree": "true"
+                    "description": "MP3 320"
                   }
                 }
               }
@@ -2485,12 +2335,10 @@
               "completeAlbumPurchase": "false",
               "downloadUrls": {
                 "downloadUrl": {
-                  "url": "http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&oauth_nonce=7j5zi36qd2jwrzx4&oauth_signature=6iudTxFgJlb%2FpVaFnbwR7SBpG%2FU%3D&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1409567601&oauth_version=1.0a&formatid=17&partnerid=712&onbehalfofpartnerid=712&presigned=1&releaseid=922460&shopid=34&trackid=10155338&userid=121404036",
+                  "url": "http://media.geo.7digital.com/media/user/downloadtrack?formatid=17&releaseid=922460&shopid=34&trackid=10155338",
                   "format": {
                     "id": "17",
-                    "fileFormat": "MP3",
-                    "bitRate": "320",
-                    "drmFree": "true"
+                    "description": "MP3 320"
                   }
                 }
               }
@@ -2517,12 +2365,10 @@
               "completeAlbumPurchase": "false",
               "downloadUrls": {
                 "downloadUrl": {
-                  "url": "http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&oauth_nonce=0i0sk10xrkowkm4s&oauth_signature=pZNCc2%2BofGI2ZYWB%2FokZ3Zo2ZIc%3D&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1409567601&oauth_version=1.0a&formatid=17&partnerid=712&onbehalfofpartnerid=712&presigned=1&releaseid=922460&shopid=34&trackid=10155339&userid=121404036",
+                  "url": "http://media.geo.7digital.com/media/user/downloadtrack?formatid=17&releaseid=922460&shopid=34&trackid=10155339",
                   "format": {
                     "id": "17",
-                    "fileFormat": "MP3",
-                    "bitRate": "320",
-                    "drmFree": "true"
+                    "description": "MP3 320"
                   }
                 }
               }
@@ -2549,12 +2395,10 @@
               "completeAlbumPurchase": "false",
               "downloadUrls": {
                 "downloadUrl": {
-                  "url": "http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&oauth_nonce=hopryckkm27fiotu&oauth_signature=U2dVIW6L3uWftTLREZbguCMLxxk%3D&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1409567601&oauth_version=1.0a&formatid=17&partnerid=712&onbehalfofpartnerid=712&presigned=1&releaseid=922460&shopid=34&trackid=10155340&userid=121404036",
+                  "url": "http://media.geo.7digital.com/media/user/downloadtrack?formatid=17&releaseid=922460&shopid=34&trackid=10155340",
                   "format": {
                     "id": "17",
-                    "fileFormat": "MP3",
-                    "bitRate": "320",
-                    "drmFree": "true"
+                    "description": "MP3 320"
                   }
                 }
               }
@@ -2581,12 +2425,10 @@
               "completeAlbumPurchase": "false",
               "downloadUrls": {
                 "downloadUrl": {
-                  "url": "http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&oauth_nonce=zbrzoalfjhi8ojg2&oauth_signature=gWQABobk8M6aNv2NlR%2BnOYhp6wU%3D&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1409567601&oauth_version=1.0a&formatid=17&partnerid=712&onbehalfofpartnerid=712&presigned=1&releaseid=922460&shopid=34&trackid=10155341&userid=121404036",
+                  "url": "http://media.geo.7digital.com/media/user/downloadtrack?formatid=17&releaseid=922460&shopid=34&trackid=10155341",
                   "format": {
                     "id": "17",
-                    "fileFormat": "MP3",
-                    "bitRate": "320",
-                    "drmFree": "true"
+                    "description": "MP3 320"
                   }
                 }
               }
@@ -2613,12 +2455,10 @@
               "completeAlbumPurchase": "false",
               "downloadUrls": {
                 "downloadUrl": {
-                  "url": "http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&oauth_nonce=92pdjff79ygt55oc&oauth_signature=zTh8K625B258U9ZqZi9AB%2B%2Frny0%3D&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1409567601&oauth_version=1.0a&formatid=17&partnerid=712&onbehalfofpartnerid=712&presigned=1&releaseid=922460&shopid=34&trackid=10155342&userid=121404036",
+                  "url": "http://media.geo.7digital.com/media/user/downloadtrack?formatid=17&releaseid=922460&shopid=34&trackid=10155342",
                   "format": {
                     "id": "17",
-                    "fileFormat": "MP3",
-                    "bitRate": "320",
-                    "drmFree": "true"
+                    "description": "MP3 320"
                   }
                 }
               }
@@ -2645,12 +2485,10 @@
               "completeAlbumPurchase": "false",
               "downloadUrls": {
                 "downloadUrl": {
-                  "url": "http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&oauth_nonce=257j5edhckiq5n7d&oauth_signature=EENSJWujW3%2BymfYBV7BepWfPRo4%3D&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1409567601&oauth_version=1.0a&formatid=17&partnerid=712&onbehalfofpartnerid=712&presigned=1&releaseid=922460&shopid=34&trackid=10155343&userid=121404036",
+                  "url": "http://media.geo.7digital.com/media/user/downloadtrack?formatid=17&releaseid=922460&shopid=34&trackid=10155343",
                   "format": {
                     "id": "17",
-                    "fileFormat": "MP3",
-                    "bitRate": "320",
-                    "drmFree": "true"
+                    "description": "MP3 320"
                   }
                 }
               }
@@ -2677,12 +2515,10 @@
               "completeAlbumPurchase": "false",
               "downloadUrls": {
                 "downloadUrl": {
-                  "url": "http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&oauth_nonce=ufhr0pkt6u1z53lo&oauth_signature=6HroDTx8E0aB0ExQneaXtTDG1Kg%3D&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1409567601&oauth_version=1.0a&formatid=17&partnerid=712&onbehalfofpartnerid=712&presigned=1&releaseid=922460&shopid=34&trackid=10155344&userid=121404036",
+                  "url": "http://media.geo.7digital.com/media/user/downloadtrack?formatid=17&releaseid=922460&shopid=34&trackid=10155344",
                   "format": {
                     "id": "17",
-                    "fileFormat": "MP3",
-                    "bitRate": "320",
-                    "drmFree": "true"
+                    "description": "MP3 320"
                   }
                 }
               }
@@ -2709,12 +2545,10 @@
               "completeAlbumPurchase": "false",
               "downloadUrls": {
                 "downloadUrl": {
-                  "url": "http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&oauth_nonce=3ffum874yia08ycu&oauth_signature=ZpPf3vUZmqpj5aF5sGC76ce132g%3D&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1409567601&oauth_version=1.0a&formatid=17&partnerid=712&onbehalfofpartnerid=712&presigned=1&releaseid=922460&shopid=34&trackid=10155345&userid=121404036",
+                  "url": "http://media.geo.7digital.com/media/user/downloadtrack?formatid=17&releaseid=922460&shopid=34&trackid=10155345",
                   "format": {
                     "id": "17",
-                    "fileFormat": "MP3",
-                    "bitRate": "320",
-                    "drmFree": "true"
+                    "description": "MP3 320"
                   }
                 }
               }
@@ -2741,12 +2575,10 @@
               "completeAlbumPurchase": "false",
               "downloadUrls": {
                 "downloadUrl": {
-                  "url": "http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&oauth_nonce=3c0yw8cltmnknnmk&oauth_signature=KmGjuDhxwlH5mcRpgreeEj7DAbg%3D&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1409567601&oauth_version=1.0a&formatid=17&partnerid=712&onbehalfofpartnerid=712&presigned=1&releaseid=922460&shopid=34&trackid=10155346&userid=121404036",
+                  "url": "http://media.geo.7digital.com/media/user/downloadtrack?formatid=17&releaseid=922460&shopid=34&trackid=10155346",
                   "format": {
                     "id": "17",
-                    "fileFormat": "MP3",
-                    "bitRate": "320",
-                    "drmFree": "true"
+                    "description": "MP3 320"
                   }
                 }
               }
@@ -2773,12 +2605,10 @@
               "completeAlbumPurchase": "false",
               "downloadUrls": {
                 "downloadUrl": {
-                  "url": "http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&oauth_nonce=94yyhm1xjo32pkwh&oauth_signature=xa%2F4IfMVMPBBNWfUUNT0hhXZvjw%3D&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1409567601&oauth_version=1.0a&formatid=17&partnerid=712&onbehalfofpartnerid=712&presigned=1&releaseid=922460&shopid=34&trackid=10155347&userid=121404036",
+                  "url": "http://media.geo.7digital.com/media/user/downloadtrack?formatid=17&releaseid=922460&shopid=34&trackid=10155347",
                   "format": {
                     "id": "17",
-                    "fileFormat": "MP3",
-                    "bitRate": "320",
-                    "drmFree": "true"
+                    "description": "MP3 320"
                   }
                 }
               }
@@ -2805,12 +2635,10 @@
               "completeAlbumPurchase": "false",
               "downloadUrls": {
                 "downloadUrl": {
-                  "url": "http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&oauth_nonce=sg823w35d4a0twpk&oauth_signature=9G7AC84dFmAvY0v2CLGaL6fjSS0%3D&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1409567601&oauth_version=1.0a&formatid=17&partnerid=712&onbehalfofpartnerid=712&presigned=1&releaseid=922460&shopid=34&trackid=10155348&userid=121404036",
+                  "url": "http://media.geo.7digital.com/media/user/downloadtrack?formatid=17&releaseid=922460&shopid=34&trackid=10155348",
                   "format": {
                     "id": "17",
-                    "fileFormat": "MP3",
-                    "bitRate": "320",
-                    "drmFree": "true"
+                    "description": "MP3 320"
                   }
                 }
               }
@@ -2837,12 +2665,10 @@
               "completeAlbumPurchase": "false",
               "downloadUrls": {
                 "downloadUrl": {
-                  "url": "http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&oauth_nonce=61adaomqmlpiel7j&oauth_signature=GS8nFpr9QCJSXfIUPNdFmpKokHc%3D&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1409567601&oauth_version=1.0a&formatid=17&partnerid=712&onbehalfofpartnerid=712&presigned=1&releaseid=922460&shopid=34&trackid=10155349&userid=121404036",
+                  "url": "http://media.geo.7digital.com/media/user/downloadtrack?formatid=17&releaseid=922460&shopid=34&trackid=10155349",
                   "format": {
                     "id": "17",
-                    "fileFormat": "MP3",
-                    "bitRate": "320",
-                    "drmFree": "true"
+                    "description": "MP3 320"
                   }
                 }
               }
@@ -2869,12 +2695,10 @@
               "completeAlbumPurchase": "false",
               "downloadUrls": {
                 "downloadUrl": {
-                  "url": "http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&oauth_nonce=1g3hqvrmb4vol2dx&oauth_signature=OjCrSioOQTlCzVcrvdNtxTk6KXY%3D&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1409567601&oauth_version=1.0a&formatid=17&partnerid=712&onbehalfofpartnerid=712&presigned=1&releaseid=922460&shopid=34&trackid=10155350&userid=121404036",
+                  "url": "http://media.geo.7digital.com/media/user/downloadtrack?formatid=17&releaseid=922460&shopid=34&trackid=10155350",
                   "format": {
                     "id": "17",
-                    "fileFormat": "MP3",
-                    "bitRate": "320",
-                    "drmFree": "true"
+                    "description": "MP3 320"
                   }
                 }
               }
@@ -2901,12 +2725,10 @@
               "completeAlbumPurchase": "false",
               "downloadUrls": {
                 "downloadUrl": {
-                  "url": "http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&oauth_nonce=9s7yjsgd4rprhuz2&oauth_signature=VNUgu6kJ1qTsFIctdK5Dt6Yf3i8%3D&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1409567601&oauth_version=1.0a&formatid=17&partnerid=712&onbehalfofpartnerid=712&presigned=1&releaseid=922460&shopid=34&trackid=10155351&userid=121404036",
+                  "url": "http://media.geo.7digital.com/media/user/downloadtrack?formatid=17&releaseid=922460&shopid=34&trackid=10155351",
                   "format": {
                     "id": "17",
-                    "fileFormat": "MP3",
-                    "bitRate": "320",
-                    "drmFree": "true"
+                    "description": "MP3 320"
                   }
                 }
               }
@@ -2933,12 +2755,10 @@
               "completeAlbumPurchase": "false",
               "downloadUrls": {
                 "downloadUrl": {
-                  "url": "http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&oauth_nonce=82jn4h5kiycg49ev&oauth_signature=b4CZ9AGpsgFVZMZSOY2cMrsFqqY%3D&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1409567601&oauth_version=1.0a&formatid=17&partnerid=712&onbehalfofpartnerid=712&presigned=1&releaseid=922460&shopid=34&trackid=10155352&userid=121404036",
+                  "url": "http://media.geo.7digital.com/media/user/downloadtrack?formatid=17&releaseid=922460&shopid=34&trackid=10155352",
                   "format": {
                     "id": "17",
-                    "fileFormat": "MP3",
-                    "bitRate": "320",
-                    "drmFree": "true"
+                    "description": "MP3 320"
                   }
                 }
               }
@@ -2965,12 +2785,10 @@
               "completeAlbumPurchase": "false",
               "downloadUrls": {
                 "downloadUrl": {
-                  "url": "http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&oauth_nonce=i3jwph0i0yo9gaeq&oauth_signature=UNDDMVXZnu8YwE2LmEKqwI0Y6g8%3D&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1409567601&oauth_version=1.0a&formatid=17&partnerid=712&onbehalfofpartnerid=712&presigned=1&releaseid=922460&shopid=34&trackid=10155353&userid=121404036",
+                  "url": "http://media.geo.7digital.com/media/user/downloadtrack?formatid=17&releaseid=922460&shopid=34&trackid=10155353",
                   "format": {
                     "id": "17",
-                    "fileFormat": "MP3",
-                    "bitRate": "320",
-                    "drmFree": "true"
+                    "description": "MP3 320"
                   }
                 }
               }
@@ -2997,12 +2815,10 @@
               "completeAlbumPurchase": "false",
               "downloadUrls": {
                 "downloadUrl": {
-                  "url": "http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&oauth_nonce=d4qurz41xwqup0k5&oauth_signature=%2FwIV8ewF2wvB5pax6jsG8oblLys%3D&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1409567601&oauth_version=1.0a&formatid=17&partnerid=712&onbehalfofpartnerid=712&presigned=1&releaseid=922460&shopid=34&trackid=10155354&userid=121404036",
+                  "url": "http://media.geo.7digital.com/media/user/downloadtrack?formatid=17&releaseid=922460&shopid=34&trackid=10155354",
                   "format": {
                     "id": "17",
-                    "fileFormat": "MP3",
-                    "bitRate": "320",
-                    "drmFree": "true"
+                    "description": "MP3 320"
                   }
                 }
               }
@@ -3029,12 +2845,10 @@
               "completeAlbumPurchase": "false",
               "downloadUrls": {
                 "downloadUrl": {
-                  "url": "http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&oauth_nonce=m4ipkdmz2anf46di&oauth_signature=XU0FSITGt3%2F1byFOGxlj6nreHWY%3D&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1409567601&oauth_version=1.0a&formatid=17&partnerid=712&onbehalfofpartnerid=712&presigned=1&releaseid=922460&shopid=34&trackid=10155355&userid=121404036",
+                  "url": "http://media.geo.7digital.com/media/user/downloadtrack?formatid=17&releaseid=922460&shopid=34&trackid=10155355",
                   "format": {
                     "id": "17",
-                    "fileFormat": "MP3",
-                    "bitRate": "320",
-                    "drmFree": "true"
+                    "description": "MP3 320"
                   }
                 }
               }
@@ -3061,12 +2875,10 @@
               "completeAlbumPurchase": "false",
               "downloadUrls": {
                 "downloadUrl": {
-                  "url": "http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&oauth_nonce=tvcasuds9s942o4a&oauth_signature=NhX62GqwBcpMKjR9ac1ZQO4uX3I%3D&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1409567601&oauth_version=1.0a&formatid=17&partnerid=712&onbehalfofpartnerid=712&presigned=1&releaseid=922460&shopid=34&trackid=10155356&userid=121404036",
+                  "url": "http://media.geo.7digital.com/media/user/downloadtrack?formatid=17&releaseid=922460&shopid=34&trackid=10155356",
                   "format": {
                     "id": "17",
-                    "fileFormat": "MP3",
-                    "bitRate": "320",
-                    "drmFree": "true"
+                    "description": "MP3 320"
                   }
                 }
               }
@@ -3093,12 +2905,10 @@
               "completeAlbumPurchase": "false",
               "downloadUrls": {
                 "downloadUrl": {
-                  "url": "http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&oauth_nonce=otwm2zgaq23rmx83&oauth_signature=v96rFyXI7%2FLE1M6k4XgIlW6sHyI%3D&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1409567601&oauth_version=1.0a&formatid=17&partnerid=712&onbehalfofpartnerid=712&presigned=1&releaseid=922460&shopid=34&trackid=10155357&userid=121404036",
+                  "url": "http://media.geo.7digital.com/media/user/downloadtrack?formatid=17&releaseid=922460&shopid=34&trackid=10155357",
                   "format": {
                     "id": "17",
-                    "fileFormat": "MP3",
-                    "bitRate": "320",
-                    "drmFree": "true"
+                    "description": "MP3 320"
                   }
                 }
               }
@@ -3125,12 +2935,10 @@
               "completeAlbumPurchase": "false",
               "downloadUrls": {
                 "downloadUrl": {
-                  "url": "http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&oauth_nonce=sha48km31zq3et8n&oauth_signature=cF5vX%2BJ493Vrwmj4oFVlAmPAC%2B4%3D&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1409567601&oauth_version=1.0a&formatid=17&partnerid=712&onbehalfofpartnerid=712&presigned=1&releaseid=922460&shopid=34&trackid=10155358&userid=121404036",
+                  "url": "http://media.geo.7digital.com/media/user/downloadtrack?formatid=17&releaseid=922460&shopid=34&trackid=10155358",
                   "format": {
                     "id": "17",
-                    "fileFormat": "MP3",
-                    "bitRate": "320",
-                    "drmFree": "true"
+                    "description": "MP3 320"
                   }
                 }
               }
@@ -3157,12 +2965,10 @@
               "completeAlbumPurchase": "false",
               "downloadUrls": {
                 "downloadUrl": {
-                  "url": "http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&oauth_nonce=hn1kj2q5pbt13vgk&oauth_signature=NxVGsFO9vxAxA9IvVx1M9399ZXY%3D&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1409567601&oauth_version=1.0a&formatid=17&partnerid=712&onbehalfofpartnerid=712&presigned=1&releaseid=922460&shopid=34&trackid=10155359&userid=121404036",
+                  "url": "http://media.geo.7digital.com/media/user/downloadtrack?formatid=17&releaseid=922460&shopid=34&trackid=10155359",
                   "format": {
                     "id": "17",
-                    "fileFormat": "MP3",
-                    "bitRate": "320",
-                    "drmFree": "true"
+                    "description": "MP3 320"
                   }
                 }
               }
@@ -3189,12 +2995,10 @@
               "completeAlbumPurchase": "false",
               "downloadUrls": {
                 "downloadUrl": {
-                  "url": "http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&oauth_nonce=vgktn0ceh4wbjo77&oauth_signature=GssKHCCKraIM%2F7CtNkOC1TG2jw0%3D&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1409567601&oauth_version=1.0a&formatid=17&partnerid=712&onbehalfofpartnerid=712&presigned=1&releaseid=922460&shopid=34&trackid=10155360&userid=121404036",
+                  "url": "http://media.geo.7digital.com/media/user/downloadtrack?formatid=17&releaseid=922460&shopid=34&trackid=10155360",
                   "format": {
                     "id": "17",
-                    "fileFormat": "MP3",
-                    "bitRate": "320",
-                    "drmFree": "true"
+                    "description": "MP3 320"
                   }
                 }
               }
@@ -3221,12 +3025,10 @@
               "completeAlbumPurchase": "false",
               "downloadUrls": {
                 "downloadUrl": {
-                  "url": "http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&oauth_nonce=4oj97xs22gn61vae&oauth_signature=9eHrs2EEDCbzBuvz2yoNsHssr0M%3D&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1409567601&oauth_version=1.0a&formatid=17&partnerid=712&onbehalfofpartnerid=712&presigned=1&releaseid=922460&shopid=34&trackid=10155361&userid=121404036",
+                  "url": "http://media.geo.7digital.com/media/user/downloadtrack?formatid=17&releaseid=922460&shopid=34&trackid=10155361",
                   "format": {
                     "id": "17",
-                    "fileFormat": "MP3",
-                    "bitRate": "320",
-                    "drmFree": "true"
+                    "description": "MP3 320"
                   }
                 }
               }
@@ -3253,12 +3055,10 @@
               "completeAlbumPurchase": "false",
               "downloadUrls": {
                 "downloadUrl": {
-                  "url": "http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&oauth_nonce=tfg8jn0hkwdpeovb&oauth_signature=URv5sScTGjOa5hzBP4%2BLiA15myU%3D&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1409567601&oauth_version=1.0a&formatid=17&partnerid=712&onbehalfofpartnerid=712&presigned=1&releaseid=922460&shopid=34&trackid=10155362&userid=121404036",
+                  "url": "http://media.geo.7digital.com/media/user/downloadtrack?formatid=17&releaseid=922460&shopid=34&trackid=10155362",
                   "format": {
                     "id": "17",
-                    "fileFormat": "MP3",
-                    "bitRate": "320",
-                    "drmFree": "true"
+                    "description": "MP3 320"
                   }
                 }
               }
@@ -3285,12 +3085,10 @@
               "completeAlbumPurchase": "false",
               "downloadUrls": {
                 "downloadUrl": {
-                  "url": "http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&oauth_nonce=fx8nmho9xt3hvhnv&oauth_signature=g3YXNFtHKWZqIqSfsLzf0SvpL08%3D&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1409567601&oauth_version=1.0a&formatid=17&partnerid=712&onbehalfofpartnerid=712&presigned=1&releaseid=922460&shopid=34&trackid=10155363&userid=121404036",
+                  "url": "http://media.geo.7digital.com/media/user/downloadtrack?formatid=17&releaseid=922460&shopid=34&trackid=10155363",
                   "format": {
                     "id": "17",
-                    "fileFormat": "MP3",
-                    "bitRate": "320",
-                    "drmFree": "true"
+                    "description": "MP3 320"
                   }
                 }
               }
@@ -3317,12 +3115,10 @@
               "completeAlbumPurchase": "false",
               "downloadUrls": {
                 "downloadUrl": {
-                  "url": "http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&oauth_nonce=4rsdh9xpocyktdwm&oauth_signature=f9kVdKkY7kZ%2FwITdxsSJ5NmZpkc%3D&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1409567601&oauth_version=1.0a&formatid=17&partnerid=712&onbehalfofpartnerid=712&presigned=1&releaseid=922460&shopid=34&trackid=10155364&userid=121404036",
+                  "url": "http://media.geo.7digital.com/media/user/downloadtrack?formatid=17&releaseid=922460&shopid=34&trackid=10155364",
                   "format": {
                     "id": "17",
-                    "fileFormat": "MP3",
-                    "bitRate": "320",
-                    "drmFree": "true"
+                    "description": "MP3 320"
                   }
                 }
               }
@@ -3349,12 +3145,10 @@
               "completeAlbumPurchase": "false",
               "downloadUrls": {
                 "downloadUrl": {
-                  "url": "http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&oauth_nonce=vmzdyx3m2ikzv3vc&oauth_signature=Bee5iQBMfKw3wYL2Uk8ycv3CsSg%3D&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1409567601&oauth_version=1.0a&formatid=17&partnerid=712&onbehalfofpartnerid=712&presigned=1&releaseid=922460&shopid=34&trackid=10155365&userid=121404036",
+                  "url": "http://media.geo.7digital.com/media/user/downloadtrack?formatid=17&releaseid=922460&shopid=34&trackid=10155365",
                   "format": {
                     "id": "17",
-                    "fileFormat": "MP3",
-                    "bitRate": "320",
-                    "drmFree": "true"
+                    "description": "MP3 320"
                   }
                 }
               }
@@ -3381,12 +3175,10 @@
               "completeAlbumPurchase": "false",
               "downloadUrls": {
                 "downloadUrl": {
-                  "url": "http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&oauth_nonce=irwx7r5g0s9ktdou&oauth_signature=ZwbtuzVK%2FaOME3U6mPcB6hJuAd0%3D&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1409567601&oauth_version=1.0a&formatid=17&partnerid=712&onbehalfofpartnerid=712&presigned=1&releaseid=922460&shopid=34&trackid=10155366&userid=121404036",
+                  "url": "http://media.geo.7digital.com/media/user/downloadtrack?formatid=17&releaseid=922460&shopid=34&trackid=10155366",
                   "format": {
                     "id": "17",
-                    "fileFormat": "MP3",
-                    "bitRate": "320",
-                    "drmFree": "true"
+                    "description": "MP3 320"
                   }
                 }
               }
@@ -3413,12 +3205,10 @@
               "completeAlbumPurchase": "false",
               "downloadUrls": {
                 "downloadUrl": {
-                  "url": "http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&oauth_nonce=8qvjsk8gzgm9y85w&oauth_signature=BWeWyED685fd05u5OguuVSbIFxI%3D&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1409567601&oauth_version=1.0a&formatid=17&partnerid=712&onbehalfofpartnerid=712&presigned=1&releaseid=922460&shopid=34&trackid=10155367&userid=121404036",
+                  "url": "http://media.geo.7digital.com/media/user/downloadtrack?formatid=17&releaseid=922460&shopid=34&trackid=10155367",
                   "format": {
                     "id": "17",
-                    "fileFormat": "MP3",
-                    "bitRate": "320",
-                    "drmFree": "true"
+                    "description": "MP3 320"
                   }
                 }
               }
@@ -3445,12 +3235,10 @@
               "completeAlbumPurchase": "false",
               "downloadUrls": {
                 "downloadUrl": {
-                  "url": "http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&oauth_nonce=qvbcq0qdrsdfys3x&oauth_signature=gJtO50XcKMixmpsq%2BHSvhH10m3w%3D&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1409567601&oauth_version=1.0a&formatid=17&partnerid=712&onbehalfofpartnerid=712&presigned=1&releaseid=922460&shopid=34&trackid=10155368&userid=121404036",
+                  "url": "http://media.geo.7digital.com/media/user/downloadtrack?formatid=17&releaseid=922460&shopid=34&trackid=10155368",
                   "format": {
                     "id": "17",
-                    "fileFormat": "MP3",
-                    "bitRate": "320",
-                    "drmFree": "true"
+                    "description": "MP3 320"
                   }
                 }
               }
@@ -3477,12 +3265,10 @@
               "completeAlbumPurchase": "false",
               "downloadUrls": {
                 "downloadUrl": {
-                  "url": "http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&oauth_nonce=5z3ehmu9up8zf6sb&oauth_signature=sM%2Fdxv3cYVtiSS2K8IMKBnLIRKM%3D&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1409567601&oauth_version=1.0a&formatid=17&partnerid=712&onbehalfofpartnerid=712&presigned=1&releaseid=922460&shopid=34&trackid=10155369&userid=121404036",
+                  "url": "http://media.geo.7digital.com/media/user/downloadtrack?formatid=17&releaseid=922460&shopid=34&trackid=10155369",
                   "format": {
                     "id": "17",
-                    "fileFormat": "MP3",
-                    "bitRate": "320",
-                    "drmFree": "true"
+                    "description": "MP3 320"
                   }
                 }
               }
@@ -3509,12 +3295,10 @@
               "completeAlbumPurchase": "false",
               "downloadUrls": {
                 "downloadUrl": {
-                  "url": "http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&oauth_nonce=xm49cmd90r30g2rg&oauth_signature=xvnLNQO78AO0nC5jnePa%2BZrvmeo%3D&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1409567601&oauth_version=1.0a&formatid=17&partnerid=712&onbehalfofpartnerid=712&presigned=1&releaseid=922460&shopid=34&trackid=10155370&userid=121404036",
+                  "url": "http://media.geo.7digital.com/media/user/downloadtrack?formatid=17&releaseid=922460&shopid=34&trackid=10155370",
                   "format": {
                     "id": "17",
-                    "fileFormat": "MP3",
-                    "bitRate": "320",
-                    "drmFree": "true"
+                    "description": "MP3 320"
                   }
                 }
               }
@@ -3541,12 +3325,10 @@
               "completeAlbumPurchase": "false",
               "downloadUrls": {
                 "downloadUrl": {
-                  "url": "http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&oauth_nonce=nye0fzpeadsab19w&oauth_signature=XPmQbOHY6qh1jap1slVWp8CxGx8%3D&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1409567601&oauth_version=1.0a&formatid=17&partnerid=712&onbehalfofpartnerid=712&presigned=1&releaseid=922460&shopid=34&trackid=10155371&userid=121404036",
+                  "url": "http://media.geo.7digital.com/media/user/downloadtrack?formatid=17&releaseid=922460&shopid=34&trackid=10155371",
                   "format": {
                     "id": "17",
-                    "fileFormat": "MP3",
-                    "bitRate": "320",
-                    "drmFree": "true"
+                    "description": "MP3 320"
                   }
                 }
               }
@@ -3573,12 +3355,10 @@
               "completeAlbumPurchase": "false",
               "downloadUrls": {
                 "downloadUrl": {
-                  "url": "http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&oauth_nonce=acrmy5vsv5fztv23&oauth_signature=TKX28N1oG02KIPx9alEmGm36Xhw%3D&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1409567601&oauth_version=1.0a&formatid=17&partnerid=712&onbehalfofpartnerid=712&presigned=1&releaseid=922460&shopid=34&trackid=10155372&userid=121404036",
+                  "url": "http://media.geo.7digital.com/media/user/downloadtrack?formatid=17&releaseid=922460&shopid=34&trackid=10155372",
                   "format": {
                     "id": "17",
-                    "fileFormat": "MP3",
-                    "bitRate": "320",
-                    "drmFree": "true"
+                    "description": "MP3 320"
                   }
                 }
               }
@@ -3605,12 +3385,10 @@
               "completeAlbumPurchase": "false",
               "downloadUrls": {
                 "downloadUrl": {
-                  "url": "http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&oauth_nonce=92mq2s698z804d8i&oauth_signature=pAgr7SujhAxWiIhwvssuOfaBLtQ%3D&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1409567601&oauth_version=1.0a&formatid=17&partnerid=712&onbehalfofpartnerid=712&presigned=1&releaseid=922460&shopid=34&trackid=10155373&userid=121404036",
+                  "url": "http://media.geo.7digital.com/media/user/downloadtrack?formatid=17&releaseid=922460&shopid=34&trackid=10155373",
                   "format": {
                     "id": "17",
-                    "fileFormat": "MP3",
-                    "bitRate": "320",
-                    "drmFree": "true"
+                    "description": "MP3 320"
                   }
                 }
               }
@@ -3637,12 +3415,10 @@
               "completeAlbumPurchase": "false",
               "downloadUrls": {
                 "downloadUrl": {
-                  "url": "http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&oauth_nonce=tg9ejestdwnluzup&oauth_signature=UxvyCl%2BJlvduJfGcJqHZrEhfaW4%3D&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1409567601&oauth_version=1.0a&formatid=17&partnerid=712&onbehalfofpartnerid=712&presigned=1&releaseid=922460&shopid=34&trackid=10155374&userid=121404036",
+                  "url": "http://media.geo.7digital.com/media/user/downloadtrack?formatid=17&releaseid=922460&shopid=34&trackid=10155374",
                   "format": {
                     "id": "17",
-                    "fileFormat": "MP3",
-                    "bitRate": "320",
-                    "drmFree": "true"
+                    "description": "MP3 320"
                   }
                 }
               }
@@ -3669,12 +3445,10 @@
               "completeAlbumPurchase": "false",
               "downloadUrls": {
                 "downloadUrl": {
-                  "url": "http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&oauth_nonce=lzckos5sgtp97vys&oauth_signature=uCmIredG2KDln0UwOzCmSGjwxnM%3D&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1409567601&oauth_version=1.0a&formatid=17&partnerid=712&onbehalfofpartnerid=712&presigned=1&releaseid=922460&shopid=34&trackid=10155375&userid=121404036",
+                  "url": "http://media.geo.7digital.com/media/user/downloadtrack?formatid=17&releaseid=922460&shopid=34&trackid=10155375",
                   "format": {
                     "id": "17",
-                    "fileFormat": "MP3",
-                    "bitRate": "320",
-                    "drmFree": "true"
+                    "description": "MP3 320"
                   }
                 }
               }
@@ -3701,12 +3475,10 @@
               "completeAlbumPurchase": "false",
               "downloadUrls": {
                 "downloadUrl": {
-                  "url": "http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&oauth_nonce=87gnwxs4i3mfeuoh&oauth_signature=gEvuXiYnHQalF8CPe6jFfGYF2H8%3D&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1409567601&oauth_version=1.0a&formatid=17&partnerid=712&onbehalfofpartnerid=712&presigned=1&releaseid=922460&shopid=34&trackid=10155376&userid=121404036",
+                  "url": "http://media.geo.7digital.com/media/user/downloadtrack?formatid=17&releaseid=922460&shopid=34&trackid=10155376",
                   "format": {
                     "id": "17",
-                    "fileFormat": "MP3",
-                    "bitRate": "320",
-                    "drmFree": "true"
+                    "description": "MP3 320"
                   }
                 }
               }
@@ -3733,12 +3505,10 @@
               "completeAlbumPurchase": "false",
               "downloadUrls": {
                 "downloadUrl": {
-                  "url": "http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&oauth_nonce=fsxeax5alq91ytws&oauth_signature=Cav4A9mg99kFt4AYG5tt7NgOogU%3D&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1409567601&oauth_version=1.0a&formatid=17&partnerid=712&onbehalfofpartnerid=712&presigned=1&releaseid=922460&shopid=34&trackid=10155377&userid=121404036",
+                  "url": "http://media.geo.7digital.com/media/user/downloadtrack?formatid=17&releaseid=922460&shopid=34&trackid=10155377",
                   "format": {
                     "id": "17",
-                    "fileFormat": "MP3",
-                    "bitRate": "320",
-                    "drmFree": "true"
+                    "description": "MP3 320"
                   }
                 }
               }
@@ -3765,12 +3535,10 @@
               "completeAlbumPurchase": "false",
               "downloadUrls": {
                 "downloadUrl": {
-                  "url": "http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&oauth_nonce=86oxtg3yhibwfznv&oauth_signature=MCAgAj7XkzC3ks%2FYYLpFuTtm8%2Fg%3D&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1409567601&oauth_version=1.0a&formatid=17&partnerid=712&onbehalfofpartnerid=712&presigned=1&releaseid=922460&shopid=34&trackid=10155378&userid=121404036",
+                  "url": "http://media.geo.7digital.com/media/user/downloadtrack?formatid=17&releaseid=922460&shopid=34&trackid=10155378",
                   "format": {
                     "id": "17",
-                    "fileFormat": "MP3",
-                    "bitRate": "320",
-                    "drmFree": "true"
+                    "description": "MP3 320"
                   }
                 }
               }
@@ -3797,12 +3565,10 @@
               "completeAlbumPurchase": "false",
               "downloadUrls": {
                 "downloadUrl": {
-                  "url": "http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&oauth_nonce=ei4o8urkcfcgy2ey&oauth_signature=cFkWuaMYgsepf8FTbStDakWTvDg%3D&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1409567601&oauth_version=1.0a&formatid=17&partnerid=712&onbehalfofpartnerid=712&presigned=1&releaseid=922460&shopid=34&trackid=10155379&userid=121404036",
+                  "url": "http://media.geo.7digital.com/media/user/downloadtrack?formatid=17&releaseid=922460&shopid=34&trackid=10155379",
                   "format": {
                     "id": "17",
-                    "fileFormat": "MP3",
-                    "bitRate": "320",
-                    "drmFree": "true"
+                    "description": "MP3 320"
                   }
                 }
               }
@@ -3829,12 +3595,10 @@
               "completeAlbumPurchase": "false",
               "downloadUrls": {
                 "downloadUrl": {
-                  "url": "http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&oauth_nonce=g5hjf2x0z073vi5v&oauth_signature=F3KxXiqF5E%2BUUj45I4WGGhkDazI%3D&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1409567601&oauth_version=1.0a&formatid=17&partnerid=712&onbehalfofpartnerid=712&presigned=1&releaseid=922460&shopid=34&trackid=10155380&userid=121404036",
+                  "url": "http://media.geo.7digital.com/media/user/downloadtrack?formatid=17&releaseid=922460&shopid=34&trackid=10155380",
                   "format": {
                     "id": "17",
-                    "fileFormat": "MP3",
-                    "bitRate": "320",
-                    "drmFree": "true"
+                    "description": "MP3 320"
                   }
                 }
               }
@@ -3861,12 +3625,10 @@
               "completeAlbumPurchase": "false",
               "downloadUrls": {
                 "downloadUrl": {
-                  "url": "http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&oauth_nonce=cmvq1hunnevndv0p&oauth_signature=mo5IIbNF%2B9fPB2r8pixij3FK%2Fr0%3D&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1409567601&oauth_version=1.0a&formatid=17&partnerid=712&onbehalfofpartnerid=712&presigned=1&releaseid=922460&shopid=34&trackid=10155381&userid=121404036",
+                  "url": "http://media.geo.7digital.com/media/user/downloadtrack?formatid=17&releaseid=922460&shopid=34&trackid=10155381",
                   "format": {
                     "id": "17",
-                    "fileFormat": "MP3",
-                    "bitRate": "320",
-                    "drmFree": "true"
+                    "description": "MP3 320"
                   }
                 }
               }
@@ -3893,12 +3655,10 @@
               "completeAlbumPurchase": "false",
               "downloadUrls": {
                 "downloadUrl": {
-                  "url": "http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&oauth_nonce=dmplseqnu4z9xzy5&oauth_signature=oBObkxwz%2BwJiNQtw3r5wCXr3aDA%3D&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1409567601&oauth_version=1.0a&formatid=17&partnerid=712&onbehalfofpartnerid=712&presigned=1&releaseid=922460&shopid=34&trackid=10155382&userid=121404036",
+                  "url": "http://media.geo.7digital.com/media/user/downloadtrack?formatid=17&releaseid=922460&shopid=34&trackid=10155382",
                   "format": {
                     "id": "17",
-                    "fileFormat": "MP3",
-                    "bitRate": "320",
-                    "drmFree": "true"
+                    "description": "MP3 320"
                   }
                 }
               }
@@ -3925,12 +3685,10 @@
               "completeAlbumPurchase": "false",
               "downloadUrls": {
                 "downloadUrl": {
-                  "url": "http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&oauth_nonce=lqdmgy89k46bfk6d&oauth_signature=ID3dtyJ1%2F1ruwuNrKUWAw%2FWDS3U%3D&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1409567601&oauth_version=1.0a&formatid=17&partnerid=712&onbehalfofpartnerid=712&presigned=1&releaseid=922460&shopid=34&trackid=10155383&userid=121404036",
+                  "url": "http://media.geo.7digital.com/media/user/downloadtrack?formatid=17&releaseid=922460&shopid=34&trackid=10155383",
                   "format": {
                     "id": "17",
-                    "fileFormat": "MP3",
-                    "bitRate": "320",
-                    "drmFree": "true"
+                    "description": "MP3 320"
                   }
                 }
               }
@@ -3957,12 +3715,10 @@
               "completeAlbumPurchase": "false",
               "downloadUrls": {
                 "downloadUrl": {
-                  "url": "http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&oauth_nonce=0ryi3td97i77sw1y&oauth_signature=lbKu7de%2Fcy2cK0dhkcJV7B8f2O0%3D&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1409567601&oauth_version=1.0a&formatid=17&partnerid=712&onbehalfofpartnerid=712&presigned=1&releaseid=922460&shopid=34&trackid=10155384&userid=121404036",
+                  "url": "http://media.geo.7digital.com/media/user/downloadtrack?formatid=17&releaseid=922460&shopid=34&trackid=10155384",
                   "format": {
                     "id": "17",
-                    "fileFormat": "MP3",
-                    "bitRate": "320",
-                    "drmFree": "true"
+                    "description": "MP3 320"
                   }
                 }
               }
@@ -3989,12 +3745,10 @@
               "completeAlbumPurchase": "false",
               "downloadUrls": {
                 "downloadUrl": {
-                  "url": "http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&oauth_nonce=p1cwsxjppqbyiohj&oauth_signature=0if%2B3IXlN%2BBoJo4kOxdLzw9sL28%3D&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1409567601&oauth_version=1.0a&formatid=17&partnerid=712&onbehalfofpartnerid=712&presigned=1&releaseid=922460&shopid=34&trackid=10155385&userid=121404036",
+                  "url": "http://media.geo.7digital.com/media/user/downloadtrack?formatid=17&releaseid=922460&shopid=34&trackid=10155385",
                   "format": {
                     "id": "17",
-                    "fileFormat": "MP3",
-                    "bitRate": "320",
-                    "drmFree": "true"
+                    "description": "MP3 320"
                   }
                 }
               }
@@ -4021,12 +3775,10 @@
               "completeAlbumPurchase": "false",
               "downloadUrls": {
                 "downloadUrl": {
-                  "url": "http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&oauth_nonce=9v9fapb3nfp83bqy&oauth_signature=jeuTWPBPDSS%2BwX5GrA2fEvZ%2Bmks%3D&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1409567601&oauth_version=1.0a&formatid=17&partnerid=712&onbehalfofpartnerid=712&presigned=1&releaseid=922460&shopid=34&trackid=10155386&userid=121404036",
+                  "url": "http://media.geo.7digital.com/media/user/downloadtrack?formatid=17&releaseid=922460&shopid=34&trackid=10155386",
                   "format": {
                     "id": "17",
-                    "fileFormat": "MP3",
-                    "bitRate": "320",
-                    "drmFree": "true"
+                    "description": "MP3 320"
                   }
                 }
               }
@@ -4053,12 +3805,10 @@
               "completeAlbumPurchase": "false",
               "downloadUrls": {
                 "downloadUrl": {
-                  "url": "http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&oauth_nonce=dhvpiivmij4lrpzr&oauth_signature=9bdM18k7U1lawSKo9hL1B7Ke3us%3D&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1409567601&oauth_version=1.0a&formatid=17&partnerid=712&onbehalfofpartnerid=712&presigned=1&releaseid=922460&shopid=34&trackid=10155387&userid=121404036",
+                  "url": "http://media.geo.7digital.com/media/user/downloadtrack?formatid=17&releaseid=922460&shopid=34&trackid=10155387",
                   "format": {
                     "id": "17",
-                    "fileFormat": "MP3",
-                    "bitRate": "320",
-                    "drmFree": "true"
+                    "description": "MP3 320"
                   }
                 }
               }
@@ -4085,12 +3835,10 @@
               "completeAlbumPurchase": "false",
               "downloadUrls": {
                 "downloadUrl": {
-                  "url": "http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&oauth_nonce=aw97xux0ykjmhlwo&oauth_signature=FsOOxDL6NRLubN%2FjhyRcJoKUn1g%3D&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1409567601&oauth_version=1.0a&formatid=17&partnerid=712&onbehalfofpartnerid=712&presigned=1&releaseid=922460&shopid=34&trackid=10155388&userid=121404036",
+                  "url": "http://media.geo.7digital.com/media/user/downloadtrack?formatid=17&releaseid=922460&shopid=34&trackid=10155388",
                   "format": {
                     "id": "17",
-                    "fileFormat": "MP3",
-                    "bitRate": "320",
-                    "drmFree": "true"
+                    "description": "MP3 320"
                   }
                 }
               }
@@ -4117,12 +3865,10 @@
               "completeAlbumPurchase": "false",
               "downloadUrls": {
                 "downloadUrl": {
-                  "url": "http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&oauth_nonce=amub43b1aw72w1k8&oauth_signature=Y9EymjEJiSvWFDkDXh8Y1gIPq%2Fs%3D&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1409567601&oauth_version=1.0a&formatid=17&partnerid=712&onbehalfofpartnerid=712&presigned=1&releaseid=922460&shopid=34&trackid=10155389&userid=121404036",
+                  "url": "http://media.geo.7digital.com/media/user/downloadtrack?formatid=17&releaseid=922460&shopid=34&trackid=10155389",
                   "format": {
                     "id": "17",
-                    "fileFormat": "MP3",
-                    "bitRate": "320",
-                    "drmFree": "true"
+                    "description": "MP3 320"
                   }
                 }
               }
@@ -4149,12 +3895,10 @@
               "completeAlbumPurchase": "false",
               "downloadUrls": {
                 "downloadUrl": {
-                  "url": "http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&oauth_nonce=p98gcuattv189ie8&oauth_signature=%2Fk9KeXGDv188gndxtl1rpwcXyt8%3D&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1409567601&oauth_version=1.0a&formatid=17&partnerid=712&onbehalfofpartnerid=712&presigned=1&releaseid=922460&shopid=34&trackid=10155390&userid=121404036",
+                  "url": "http://media.geo.7digital.com/media/user/downloadtrack?formatid=17&releaseid=922460&shopid=34&trackid=10155390",
                   "format": {
                     "id": "17",
-                    "fileFormat": "MP3",
-                    "bitRate": "320",
-                    "drmFree": "true"
+                    "description": "MP3 320"
                   }
                 }
               }
@@ -4181,12 +3925,10 @@
               "completeAlbumPurchase": "false",
               "downloadUrls": {
                 "downloadUrl": {
-                  "url": "http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&oauth_nonce=wplf6xyhui7bx7n9&oauth_signature=gGeLwZFF57TEbHNR0mMkMxkGW6M%3D&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1409567601&oauth_version=1.0a&formatid=17&partnerid=712&onbehalfofpartnerid=712&presigned=1&releaseid=922460&shopid=34&trackid=10155391&userid=121404036",
+                  "url": "http://media.geo.7digital.com/media/user/downloadtrack?formatid=17&releaseid=922460&shopid=34&trackid=10155391",
                   "format": {
                     "id": "17",
-                    "fileFormat": "MP3",
-                    "bitRate": "320",
-                    "drmFree": "true"
+                    "description": "MP3 320"
                   }
                 }
               }
@@ -4213,12 +3955,10 @@
               "completeAlbumPurchase": "false",
               "downloadUrls": {
                 "downloadUrl": {
-                  "url": "http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&oauth_nonce=am7joqlpmbshce22&oauth_signature=DNog6CKGqUM6A8thHkYdzlkrYwM%3D&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1409567601&oauth_version=1.0a&formatid=17&partnerid=712&onbehalfofpartnerid=712&presigned=1&releaseid=922460&shopid=34&trackid=10155392&userid=121404036",
+                  "url": "http://media.geo.7digital.com/media/user/downloadtrack?formatid=17&releaseid=922460&shopid=34&trackid=10155392",
                   "format": {
                     "id": "17",
-                    "fileFormat": "MP3",
-                    "bitRate": "320",
-                    "drmFree": "true"
+                    "description": "MP3 320"
                   }
                 }
               }
@@ -4245,12 +3985,10 @@
               "completeAlbumPurchase": "false",
               "downloadUrls": {
                 "downloadUrl": {
-                  "url": "http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&oauth_nonce=r0ehofc3jzv5x06x&oauth_signature=0vY8ru1DnuEsQy0ej1qkoPh6Qrk%3D&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1409567601&oauth_version=1.0a&formatid=17&partnerid=712&onbehalfofpartnerid=712&presigned=1&releaseid=922460&shopid=34&trackid=10155393&userid=121404036",
+                  "url": "http://media.geo.7digital.com/media/user/downloadtrack?formatid=17&releaseid=922460&shopid=34&trackid=10155393",
                   "format": {
                     "id": "17",
-                    "fileFormat": "MP3",
-                    "bitRate": "320",
-                    "drmFree": "true"
+                    "description": "MP3 320"
                   }
                 }
               }
@@ -4277,12 +4015,10 @@
               "completeAlbumPurchase": "false",
               "downloadUrls": {
                 "downloadUrl": {
-                  "url": "http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&oauth_nonce=i28wl6sge635frfq&oauth_signature=hQjJoEvtkwai7FWn7ZgI2uRbYbI%3D&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1409567601&oauth_version=1.0a&formatid=17&partnerid=712&onbehalfofpartnerid=712&presigned=1&releaseid=922460&shopid=34&trackid=10155394&userid=121404036",
+                  "url": "http://media.geo.7digital.com/media/user/downloadtrack?formatid=17&releaseid=922460&shopid=34&trackid=10155394",
                   "format": {
                     "id": "17",
-                    "fileFormat": "MP3",
-                    "bitRate": "320",
-                    "drmFree": "true"
+                    "description": "MP3 320"
                   }
                 }
               }
@@ -4309,12 +4045,10 @@
               "completeAlbumPurchase": "false",
               "downloadUrls": {
                 "downloadUrl": {
-                  "url": "http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&oauth_nonce=qfux2gt6ke0y5r2n&oauth_signature=Tns%2FzwZMGkchv7UChIlaDeDPZzo%3D&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1409567601&oauth_version=1.0a&formatid=17&partnerid=712&onbehalfofpartnerid=712&presigned=1&releaseid=922460&shopid=34&trackid=10155395&userid=121404036",
+                  "url": "http://media.geo.7digital.com/media/user/downloadtrack?formatid=17&releaseid=922460&shopid=34&trackid=10155395",
                   "format": {
                     "id": "17",
-                    "fileFormat": "MP3",
-                    "bitRate": "320",
-                    "drmFree": "true"
+                    "description": "MP3 320"
                   }
                 }
               }
@@ -4341,12 +4075,10 @@
               "completeAlbumPurchase": "false",
               "downloadUrls": {
                 "downloadUrl": {
-                  "url": "http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&oauth_nonce=f50lgfpvq9dtmix3&oauth_signature=F4AZl6LO59v0qy9l2wM%2FmzhUaAo%3D&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1409567601&oauth_version=1.0a&formatid=17&partnerid=712&onbehalfofpartnerid=712&presigned=1&releaseid=922460&shopid=34&trackid=10155396&userid=121404036",
+                  "url": "http://media.geo.7digital.com/media/user/downloadtrack?formatid=17&releaseid=922460&shopid=34&trackid=10155396",
                   "format": {
                     "id": "17",
-                    "fileFormat": "MP3",
-                    "bitRate": "320",
-                    "drmFree": "true"
+                    "description": "MP3 320"
                   }
                 }
               }
@@ -4373,12 +4105,10 @@
               "completeAlbumPurchase": "false",
               "downloadUrls": {
                 "downloadUrl": {
-                  "url": "http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&oauth_nonce=ufnsoh7bhcmh64lw&oauth_signature=cNAt1bQyDB0MXf3mfJYUuc0mwbU%3D&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1409567601&oauth_version=1.0a&formatid=17&partnerid=712&onbehalfofpartnerid=712&presigned=1&releaseid=922460&shopid=34&trackid=10155397&userid=121404036",
+                  "url": "http://media.geo.7digital.com/media/user/downloadtrack?formatid=17&releaseid=922460&shopid=34&trackid=10155397",
                   "format": {
                     "id": "17",
-                    "fileFormat": "MP3",
-                    "bitRate": "320",
-                    "drmFree": "true"
+                    "description": "MP3 320"
                   }
                 }
               }
@@ -4405,12 +4135,10 @@
               "completeAlbumPurchase": "false",
               "downloadUrls": {
                 "downloadUrl": {
-                  "url": "http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&oauth_nonce=dpykr4jlz9h3dasb&oauth_signature=6TN6TW4dww%2B7QXK76xug3o7RvJc%3D&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1409567601&oauth_version=1.0a&formatid=17&partnerid=712&onbehalfofpartnerid=712&presigned=1&releaseid=922460&shopid=34&trackid=10155398&userid=121404036",
+                  "url": "http://media.geo.7digital.com/media/user/downloadtrack?formatid=17&releaseid=922460&shopid=34&trackid=10155398",
                   "format": {
                     "id": "17",
-                    "fileFormat": "MP3",
-                    "bitRate": "320",
-                    "drmFree": "true"
+                    "description": "MP3 320"
                   }
                 }
               }
@@ -4437,12 +4165,10 @@
               "completeAlbumPurchase": "false",
               "downloadUrls": {
                 "downloadUrl": {
-                  "url": "http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&oauth_nonce=rhezdj9998dd4izw&oauth_signature=Zqj2TGxMXlDIqd3tSRpQORXwhGw%3D&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1409567601&oauth_version=1.0a&formatid=17&partnerid=712&onbehalfofpartnerid=712&presigned=1&releaseid=922460&shopid=34&trackid=10155399&userid=121404036",
+                  "url": "http://media.geo.7digital.com/media/user/downloadtrack?formatid=17&releaseid=922460&shopid=34&trackid=10155399",
                   "format": {
                     "id": "17",
-                    "fileFormat": "MP3",
-                    "bitRate": "320",
-                    "drmFree": "true"
+                    "description": "MP3 320"
                   }
                 }
               }
@@ -4469,12 +4195,10 @@
               "completeAlbumPurchase": "false",
               "downloadUrls": {
                 "downloadUrl": {
-                  "url": "http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&oauth_nonce=xqp7tmk16c4qad9g&oauth_signature=%2Fd6pTFjLJN0YmZnX%2B5KaD1kKMWs%3D&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1409567601&oauth_version=1.0a&formatid=17&partnerid=712&onbehalfofpartnerid=712&presigned=1&releaseid=922460&shopid=34&trackid=10155400&userid=121404036",
+                  "url": "http://media.geo.7digital.com/media/user/downloadtrack?formatid=17&releaseid=922460&shopid=34&trackid=10155400",
                   "format": {
                     "id": "17",
-                    "fileFormat": "MP3",
-                    "bitRate": "320",
-                    "drmFree": "true"
+                    "description": "MP3 320"
                   }
                 }
               }
@@ -4501,12 +4225,10 @@
               "completeAlbumPurchase": "false",
               "downloadUrls": {
                 "downloadUrl": {
-                  "url": "http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&oauth_nonce=tkzyzvt5r1lu1fsr&oauth_signature=VMAJlPavwsQaq6jUkRm1p12K9f0%3D&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1409567601&oauth_version=1.0a&formatid=17&partnerid=712&onbehalfofpartnerid=712&presigned=1&releaseid=922460&shopid=34&trackid=10155401&userid=121404036",
+                  "url": "http://media.geo.7digital.com/media/user/downloadtrack?formatid=17&releaseid=922460&shopid=34&trackid=10155401",
                   "format": {
                     "id": "17",
-                    "fileFormat": "MP3",
-                    "bitRate": "320",
-                    "drmFree": "true"
+                    "description": "MP3 320"
                   }
                 }
               }
@@ -4533,12 +4255,10 @@
               "completeAlbumPurchase": "false",
               "downloadUrls": {
                 "downloadUrl": {
-                  "url": "http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&oauth_nonce=jufxvvse8o4bps85&oauth_signature=QPeIe%2BdLvouCn%2Fb7pXBJgwZ2jQY%3D&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1409567601&oauth_version=1.0a&formatid=17&partnerid=712&onbehalfofpartnerid=712&presigned=1&releaseid=922460&shopid=34&trackid=10155402&userid=121404036",
+                  "url": "http://media.geo.7digital.com/media/user/downloadtrack?formatid=17&releaseid=922460&shopid=34&trackid=10155402",
                   "format": {
                     "id": "17",
-                    "fileFormat": "MP3",
-                    "bitRate": "320",
-                    "drmFree": "true"
+                    "description": "MP3 320"
                   }
                 }
               }
@@ -4565,12 +4285,10 @@
               "completeAlbumPurchase": "false",
               "downloadUrls": {
                 "downloadUrl": {
-                  "url": "http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&oauth_nonce=08ussb8b7up4a1az&oauth_signature=S43cF19%2B7ow4B0miMxD00sBa820%3D&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1409567601&oauth_version=1.0a&formatid=17&partnerid=712&onbehalfofpartnerid=712&presigned=1&releaseid=922460&shopid=34&trackid=10155403&userid=121404036",
+                  "url": "http://media.geo.7digital.com/media/user/downloadtrack?formatid=17&releaseid=922460&shopid=34&trackid=10155403",
                   "format": {
                     "id": "17",
-                    "fileFormat": "MP3",
-                    "bitRate": "320",
-                    "drmFree": "true"
+                    "description": "MP3 320"
                   }
                 }
               }
@@ -4597,12 +4315,10 @@
               "completeAlbumPurchase": "false",
               "downloadUrls": {
                 "downloadUrl": {
-                  "url": "http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&oauth_nonce=tmgq9lu83u1l3rp9&oauth_signature=sOMCL92ZwiWA2kHaXl1KWWRz%2BM0%3D&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1409567601&oauth_version=1.0a&formatid=17&partnerid=712&onbehalfofpartnerid=712&presigned=1&releaseid=922460&shopid=34&trackid=10155404&userid=121404036",
+                  "url": "http://media.geo.7digital.com/media/user/downloadtrack?formatid=17&releaseid=922460&shopid=34&trackid=10155404",
                   "format": {
                     "id": "17",
-                    "fileFormat": "MP3",
-                    "bitRate": "320",
-                    "drmFree": "true"
+                    "description": "MP3 320"
                   }
                 }
               }
@@ -4629,12 +4345,10 @@
               "completeAlbumPurchase": "false",
               "downloadUrls": {
                 "downloadUrl": {
-                  "url": "http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&oauth_nonce=3qu4v09hwd1bfydh&oauth_signature=pqt%2B3UUfQO4VmqAjk6wfZNfRa6E%3D&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1409567601&oauth_version=1.0a&formatid=17&partnerid=712&onbehalfofpartnerid=712&presigned=1&releaseid=922460&shopid=34&trackid=10155405&userid=121404036",
+                  "url": "http://media.geo.7digital.com/media/user/downloadtrack?formatid=17&releaseid=922460&shopid=34&trackid=10155405",
                   "format": {
                     "id": "17",
-                    "fileFormat": "MP3",
-                    "bitRate": "320",
-                    "drmFree": "true"
+                    "description": "MP3 320"
                   }
                 }
               }
@@ -4661,12 +4375,10 @@
               "completeAlbumPurchase": "false",
               "downloadUrls": {
                 "downloadUrl": {
-                  "url": "http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&oauth_nonce=nerdlr7ymw18lwjp&oauth_signature=NnTptLPZx8fn8yJkiRMgGOSKeDA%3D&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1409567601&oauth_version=1.0a&formatid=17&partnerid=712&onbehalfofpartnerid=712&presigned=1&releaseid=922460&shopid=34&trackid=10155406&userid=121404036",
+                  "url": "http://media.geo.7digital.com/media/user/downloadtrack?formatid=17&releaseid=922460&shopid=34&trackid=10155406",
                   "format": {
                     "id": "17",
-                    "fileFormat": "MP3",
-                    "bitRate": "320",
-                    "drmFree": "true"
+                    "description": "MP3 320"
                   }
                 }
               }
@@ -4693,12 +4405,10 @@
               "completeAlbumPurchase": "false",
               "downloadUrls": {
                 "downloadUrl": {
-                  "url": "http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&oauth_nonce=fraufhdun045ut3d&oauth_signature=s17FyG%2BV9jgFM4UynYzw3IScioA%3D&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1409567601&oauth_version=1.0a&formatid=17&partnerid=712&onbehalfofpartnerid=712&presigned=1&releaseid=922460&shopid=34&trackid=10155407&userid=121404036",
+                  "url": "http://media.geo.7digital.com/media/user/downloadtrack?formatid=17&releaseid=922460&shopid=34&trackid=10155407",
                   "format": {
                     "id": "17",
-                    "fileFormat": "MP3",
-                    "bitRate": "320",
-                    "drmFree": "true"
+                    "description": "MP3 320"
                   }
                 }
               }
@@ -4725,12 +4435,10 @@
               "completeAlbumPurchase": "false",
               "downloadUrls": {
                 "downloadUrl": {
-                  "url": "http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&oauth_nonce=rt8y0lxlu7r0ia70&oauth_signature=nnMwPYsrCT%2BC0civZTRl1rY%2FbFU%3D&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1409567601&oauth_version=1.0a&formatid=17&partnerid=712&onbehalfofpartnerid=712&presigned=1&releaseid=922460&shopid=34&trackid=10155408&userid=121404036",
+                  "url": "http://media.geo.7digital.com/media/user/downloadtrack?formatid=17&releaseid=922460&shopid=34&trackid=10155408",
                   "format": {
                     "id": "17",
-                    "fileFormat": "MP3",
-                    "bitRate": "320",
-                    "drmFree": "true"
+                    "description": "MP3 320"
                   }
                 }
               }

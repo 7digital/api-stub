@@ -25,9 +25,11 @@
             },
             "slug": "oceansize",
             "image": "http://artwork-cdn.7static.com/static/img/sleeveart/00/029/591/0002959123_50.jpg",
-            "releaseDate": "2006-03-20T00:00:00Z",
             "licensor": {
               "id": "39"
+            },
+            "download": {
+              "releaseDate": "2006-03-20T00:00:00Z"
             }
           },
           "lockerTracks": {
@@ -54,21 +56,17 @@
               "downloadUrls": {
                 "downloadUrl": [
                   {
-                    "url": "http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&oauth_nonce=jabjxkymkqlib3nl&oauth_signature=rylxSJHplfSROjdskx0%2FFrYkjDc%3D&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1415101199&oauth_version=1.0a&formatid=17&partnerid=3923&onbehalfofpartnerid=3923&presigned=1&releaseid=2959123&shopid=0&trackid=31536349&userid=125043073",
+                    "url": "http://media.geo.7digital.com/media/user/downloadtrack?formatid=17&releaseid=2959123&shopid=34&trackid=31536349",
                     "format": {
                       "id": "17",
-                      "fileFormat": "MP3",
-                      "bitRate": "320",
-                      "drmFree": "true"
+                      "description": "MP3 320"
                     }
                   },
                   {
-                    "url": "http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&oauth_nonce=gumjd8b618r5tqm2&oauth_signature=l238StpSba8i%2FmFP4YTKEpMzW6o%3D&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1415101199&oauth_version=1.0a&formatid=33&partnerid=3923&onbehalfofpartnerid=3923&presigned=1&releaseid=2959123&shopid=0&trackid=31536349&userid=125043073",
+                    "url": "http://media.geo.7digital.com/media/user/downloadtrack?formatid=33&releaseid=2959123&shopid=34&trackid=31536349",
                     "format": {
                       "id": "33",
-                      "fileFormat": "AAC",
-                      "bitRate": "320",
-                      "drmFree": "true"
+                      "description": "AAC 320"
                     }
                   }
                 ]

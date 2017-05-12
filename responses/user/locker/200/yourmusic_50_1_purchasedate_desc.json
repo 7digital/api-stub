@@ -24,7 +24,9 @@
             },
             "slug": "radiohead",
             "image": "http://artwork-cdn.7static.com/static/img/sleeveart/00/001/888/0000188863_50.jpg",
-            "releaseDate": "2007-12-31T00:00:00Z"
+            "download": {
+              "releaseDate": "2007-12-31T00:00:00Z"
+            }
           },
           "lockerTracks": {
             "lockerTrack": {
@@ -44,12 +46,10 @@
               "purchaseDate": "2011-04-13T16:30:35+01:00",
               "downloadUrls": {
                 "downloadUrl": {
-                  "url": "http://media3.7digital.com/media/user/downloadtrack?formatid=17&oauth_consumer_key=7digital.com&oauth_nonce=193446&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1302786566&releaseid=188863&shopid=34&trackid=2052636&oauth_signature=fky3BN0gEGrCeCviP%2FdefDnEPNU%3D",
+                  "url": "http://media.geo.7digital.com/media/user/downloadtrack?formatid=17&releaseid=188863&shopid=34&trackid=2052636",
                   "format": {
                     "id": "17",
-                    "fileFormat": "MP3",
-                    "bitRate": "320",
-                    "drmFree": "true"
+                    "description": "MP3 320"
                   }
                 }
               }
@@ -71,7 +71,9 @@
             },
             "slug": "radiohead",
             "image": "http://artwork-cdn.7static.com/static/img/sleeveart/00/001/888/0000188863_50.jpg",
-            "releaseDate": "2007-12-31T00:00:00Z"
+            "download": {
+              "releaseDate": "2007-12-31T00:00:00Z"
+            }
           },
           "lockerTracks": {
             "lockerTrack": {
@@ -91,12 +93,10 @@
               "purchaseDate": "2011-04-13T16:30:35+01:00",
               "downloadUrls": {
                 "downloadUrl": {
-                  "url": "http://media3.7digital.com/media/user/downloadtrack?formatid=17&oauth_consumer_key=7digital.com&oauth_nonce=193446&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1302786566&releaseid=188863&shopid=34&trackid=2052636&oauth_signature=fky3BN0gEGrCeCviP%2FdefDnEPNU%3D",
+                  "url": "http://media.geo.7digital.com/media/user/downloadtrack?formatid=17&releaseid=188863&shopid=34&trackid=2052636",
                   "format": {
                     "id": "17",
-                    "fileFormat": "MP3",
-                    "bitRate": "320",
-                    "drmFree": "true"
+                    "description": "MP3 320"
                   }
                 }
               }
@@ -118,7 +118,9 @@
             },
             "slug": "radiohead",
             "image": "http://artwork-cdn.7static.com/static/img/sleeveart/00/001/888/0000188863_50.jpg",
-            "releaseDate": "2007-12-31T00:00:00Z"
+            "download": {
+              "releaseDate": "2007-12-31T00:00:00Z"
+            }
           },
           "lockerTracks": {
             "lockerTrack": {
@@ -138,12 +140,10 @@
               "purchaseDate": "2011-04-13T16:30:35+01:00",
               "downloadUrls": {
                 "downloadUrl": {
-                  "url": "http://media3.7digital.com/media/user/downloadtrack?formatid=17&oauth_consumer_key=7digital.com&oauth_nonce=193446&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1302786566&releaseid=188863&shopid=34&trackid=2052636&oauth_signature=fky3BN0gEGrCeCviP%2FdefDnEPNU%3D",
+                  "url": "http://media.geo.7digital.com/media/user/downloadtrack?formatid=17&releaseid=188863&shopid=34&trackid=2052636",
                   "format": {
                     "id": "17",
-                    "fileFormat": "MP3",
-                    "bitRate": "320",
-                    "drmFree": "true"
+                    "description": "MP3 320"
                   }
                 }
               }
@@ -165,7 +165,9 @@
             },
             "slug": "radiohead",
             "image": "http://artwork-cdn.7static.com/static/img/sleeveart/00/001/888/0000188863_50.jpg",
-            "releaseDate": "2007-12-31T00:00:00Z"
+            "download": {
+              "releaseDate": "2007-12-31T00:00:00Z"
+            }
           },
           "lockerTracks": {
             "lockerTrack": {
@@ -185,12 +187,10 @@
               "purchaseDate": "2011-04-13T16:30:35+01:00",
               "downloadUrls": {
                 "downloadUrl": {
-                  "url": "http://media3.7digital.com/media/user/downloadtrack?formatid=17&oauth_consumer_key=7digital.com&oauth_nonce=193446&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1302786566&releaseid=188863&shopid=34&trackid=2052636&oauth_signature=fky3BN0gEGrCeCviP%2FdefDnEPNU%3D",
+                  "url": "http://media.geo.7digital.com/media/user/downloadtrack?formatid=17&releaseid=188863&shopid=34&trackid=2052636",
                   "format": {
                     "id": "17",
-                    "fileFormat": "MP3",
-                    "bitRate": "320",
-                    "drmFree": "true"
+                    "description": "MP3 320"
                   }
                 }
               }
@@ -212,7 +212,9 @@
             },
             "slug": "radiohead",
             "image": "http://artwork-cdn.7static.com/static/img/sleeveart/00/001/888/0000188863_50.jpg",
-            "releaseDate": "2007-12-31T00:00:00Z"
+            "download": {
+              "releaseDate": "2007-12-31T00:00:00Z"
+            }
           },
           "lockerTracks": {
             "lockerTrack": {
@@ -232,12 +234,10 @@
               "purchaseDate": "2011-04-13T16:30:35+01:00",
               "downloadUrls": {
                 "downloadUrl": {
-                  "url": "http://media3.7digital.com/media/user/downloadtrack?formatid=17&oauth_consumer_key=7digital.com&oauth_nonce=193446&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1302786566&releaseid=188863&shopid=34&trackid=2052636&oauth_signature=fky3BN0gEGrCeCviP%2FdefDnEPNU%3D",
+                  "url": "http://media.geo.7digital.com/media/user/downloadtrack?formatid=17&releaseid=188863&shopid=34&trackid=2052636",
                   "format": {
                     "id": "17",
-                    "fileFormat": "MP3",
-                    "bitRate": "320",
-                    "drmFree": "true"
+                    "description": "MP3 320"
                   }
                 }
               }
@@ -259,7 +259,9 @@
             },
             "slug": "radiohead",
             "image": "http://artwork-cdn.7static.com/static/img/sleeveart/00/001/888/0000188863_50.jpg",
-            "releaseDate": "2007-12-31T00:00:00Z"
+            "download": {
+              "releaseDate": "2007-12-31T00:00:00Z"
+            }
           },
           "lockerTracks": {
             "lockerTrack": {
@@ -279,12 +281,10 @@
               "purchaseDate": "2011-04-13T16:30:35+01:00",
               "downloadUrls": {
                 "downloadUrl": {
-                  "url": "http://media3.7digital.com/media/user/downloadtrack?formatid=17&oauth_consumer_key=7digital.com&oauth_nonce=193446&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1302786566&releaseid=188863&shopid=34&trackid=2052636&oauth_signature=fky3BN0gEGrCeCviP%2FdefDnEPNU%3D",
+                  "url": "http://media.geo.7digital.com/media/user/downloadtrack?formatid=17&releaseid=188863&shopid=34&trackid=2052636",
                   "format": {
                     "id": "17",
-                    "fileFormat": "MP3",
-                    "bitRate": "320",
-                    "drmFree": "true"
+                    "description": "MP3 320"
                   }
                 }
               }
@@ -306,7 +306,9 @@
             },
             "slug": "radiohead",
             "image": "http://artwork-cdn.7static.com/static/img/sleeveart/00/001/888/0000188863_50.jpg",
-            "releaseDate": "2007-12-31T00:00:00Z"
+            "download": {
+              "releaseDate": "2007-12-31T00:00:00Z"
+            }
           },
           "lockerTracks": {
             "lockerTrack": {
@@ -326,12 +328,10 @@
               "purchaseDate": "2011-04-13T16:30:35+01:00",
               "downloadUrls": {
                 "downloadUrl": {
-                  "url": "http://media3.7digital.com/media/user/downloadtrack?formatid=17&oauth_consumer_key=7digital.com&oauth_nonce=193446&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1302786566&releaseid=188863&shopid=34&trackid=2052636&oauth_signature=fky3BN0gEGrCeCviP%2FdefDnEPNU%3D",
+                  "url": "http://media.geo.7digital.com/media/user/downloadtrack?formatid=17&releaseid=188863&shopid=34&trackid=2052636",
                   "format": {
                     "id": "17",
-                    "fileFormat": "MP3",
-                    "bitRate": "320",
-                    "drmFree": "true"
+                    "description": "MP3 320"
                   }
                 }
               }
@@ -353,7 +353,9 @@
             },
             "slug": "radiohead",
             "image": "http://artwork-cdn.7static.com/static/img/sleeveart/00/001/888/0000188863_50.jpg",
-            "releaseDate": "2007-12-31T00:00:00Z"
+            "download": {
+              "releaseDate": "2007-12-31T00:00:00Z"
+            }
           },
           "lockerTracks": {
             "lockerTrack": {
@@ -373,12 +375,10 @@
               "purchaseDate": "2011-04-13T16:30:35+01:00",
               "downloadUrls": {
                 "downloadUrl": {
-                  "url": "http://media3.7digital.com/media/user/downloadtrack?formatid=17&oauth_consumer_key=7digital.com&oauth_nonce=193446&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1302786566&releaseid=188863&shopid=34&trackid=2052636&oauth_signature=fky3BN0gEGrCeCviP%2FdefDnEPNU%3D",
+                  "url": "http://media.geo.7digital.com/media/user/downloadtrack?formatid=17&releaseid=188863&shopid=34&trackid=2052636",
                   "format": {
                     "id": "17",
-                    "fileFormat": "MP3",
-                    "bitRate": "320",
-                    "drmFree": "true"
+                    "description": "MP3 320"
                   }
                 }
               }
@@ -400,7 +400,9 @@
             },
             "slug": "radiohead",
             "image": "http://artwork-cdn.7static.com/static/img/sleeveart/00/001/888/0000188863_50.jpg",
-            "releaseDate": "2007-12-31T00:00:00Z"
+            "download": {
+              "releaseDate": "2007-12-31T00:00:00Z"
+            }
           },
           "lockerTracks": {
             "lockerTrack": {
@@ -420,12 +422,10 @@
               "purchaseDate": "2011-04-13T16:30:35+01:00",
               "downloadUrls": {
                 "downloadUrl": {
-                  "url": "http://media3.7digital.com/media/user/downloadtrack?formatid=17&oauth_consumer_key=7digital.com&oauth_nonce=193446&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1302786566&releaseid=188863&shopid=34&trackid=2052636&oauth_signature=fky3BN0gEGrCeCviP%2FdefDnEPNU%3D",
+                  "url": "http://media.geo.7digital.com/media/user/downloadtrack?formatid=17&releaseid=188863&shopid=34&trackid=2052636",
                   "format": {
                     "id": "17",
-                    "fileFormat": "MP3",
-                    "bitRate": "320",
-                    "drmFree": "true"
+                    "description": "MP3 320"
                   }
                 }
               }
@@ -447,7 +447,9 @@
             },
             "slug": "radiohead",
             "image": "http://artwork-cdn.7static.com/static/img/sleeveart/00/001/888/0000188863_50.jpg",
-            "releaseDate": "2007-12-31T00:00:00Z"
+            "download": {
+              "releaseDate": "2007-12-31T00:00:00Z"
+            }
           },
           "lockerTracks": {
             "lockerTrack": {
@@ -467,12 +469,10 @@
               "purchaseDate": "2011-04-13T16:30:35+01:00",
               "downloadUrls": {
                 "downloadUrl": {
-                  "url": "http://media3.7digital.com/media/user/downloadtrack?formatid=17&oauth_consumer_key=7digital.com&oauth_nonce=193446&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1302786566&releaseid=188863&shopid=34&trackid=2052636&oauth_signature=fky3BN0gEGrCeCviP%2FdefDnEPNU%3D",
+                  "url": "http://media.geo.7digital.com/media/user/downloadtrack?formatid=17&releaseid=188863&shopid=34&trackid=2052636",
                   "format": {
                     "id": "17",
-                    "fileFormat": "MP3",
-                    "bitRate": "320",
-                    "drmFree": "true"
+                    "description": "MP3 320"
                   }
                 }
               }
@@ -494,7 +494,9 @@
             },
             "slug": "radiohead",
             "image": "http://artwork-cdn.7static.com/static/img/sleeveart/00/001/888/0000188863_50.jpg",
-            "releaseDate": "2007-12-31T00:00:00Z"
+            "download": {
+              "releaseDate": "2007-12-31T00:00:00Z"
+            }
           },
           "lockerTracks": {
             "lockerTrack": {
@@ -514,12 +516,10 @@
               "purchaseDate": "2011-04-13T16:30:35+01:00",
               "downloadUrls": {
                 "downloadUrl": {
-                  "url": "http://media3.7digital.com/media/user/downloadtrack?formatid=17&oauth_consumer_key=7digital.com&oauth_nonce=193446&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1302786566&releaseid=188863&shopid=34&trackid=2052636&oauth_signature=fky3BN0gEGrCeCviP%2FdefDnEPNU%3D",
+                  "url": "http://media.geo.7digital.com/media/user/downloadtrack?formatid=17&releaseid=188863&shopid=34&trackid=2052636",
                   "format": {
                     "id": "17",
-                    "fileFormat": "MP3",
-                    "bitRate": "320",
-                    "drmFree": "true"
+                    "description": "MP3 320"
                   }
                 }
               }
@@ -541,7 +541,9 @@
             },
             "slug": "radiohead",
             "image": "http://artwork-cdn.7static.com/static/img/sleeveart/00/001/888/0000188863_50.jpg",
-            "releaseDate": "2007-12-31T00:00:00Z"
+            "download": {
+              "releaseDate": "2007-12-31T00:00:00Z"
+            }
           },
           "lockerTracks": {
             "lockerTrack": {
@@ -561,12 +563,10 @@
               "purchaseDate": "2011-04-13T16:30:35+01:00",
               "downloadUrls": {
                 "downloadUrl": {
-                  "url": "http://media3.7digital.com/media/user/downloadtrack?formatid=17&oauth_consumer_key=7digital.com&oauth_nonce=193446&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1302786566&releaseid=188863&shopid=34&trackid=2052636&oauth_signature=fky3BN0gEGrCeCviP%2FdefDnEPNU%3D",
+                  "url": "http://media.geo.7digital.com/media/user/downloadtrack?formatid=17&releaseid=188863&shopid=34&trackid=2052636",
                   "format": {
                     "id": "17",
-                    "fileFormat": "MP3",
-                    "bitRate": "320",
-                    "drmFree": "true"
+                    "description": "MP3 320"
                   }
                 }
               }
@@ -588,7 +588,9 @@
             },
             "slug": "radiohead",
             "image": "http://artwork-cdn.7static.com/static/img/sleeveart/00/001/888/0000188863_50.jpg",
-            "releaseDate": "2007-12-31T00:00:00Z"
+            "download": {
+              "releaseDate": "2007-12-31T00:00:00Z"
+            }
           },
           "lockerTracks": {
             "lockerTrack": {
@@ -608,12 +610,10 @@
               "purchaseDate": "2011-04-13T16:30:35+01:00",
               "downloadUrls": {
                 "downloadUrl": {
-                  "url": "http://media3.7digital.com/media/user/downloadtrack?formatid=17&oauth_consumer_key=7digital.com&oauth_nonce=193446&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1302786566&releaseid=188863&shopid=34&trackid=2052636&oauth_signature=fky3BN0gEGrCeCviP%2FdefDnEPNU%3D",
+                  "url": "http://media.geo.7digital.com/media/user/downloadtrack?formatid=17&releaseid=188863&shopid=34&trackid=2052636",
                   "format": {
                     "id": "17",
-                    "fileFormat": "MP3",
-                    "bitRate": "320",
-                    "drmFree": "true"
+                    "description": "MP3 320"
                   }
                 }
               }
@@ -635,7 +635,9 @@
             },
             "slug": "radiohead",
             "image": "http://artwork-cdn.7static.com/static/img/sleeveart/00/001/888/0000188863_50.jpg",
-            "releaseDate": "2007-12-31T00:00:00Z"
+            "download": {
+              "releaseDate": "2007-12-31T00:00:00Z"
+            }
           },
           "lockerTracks": {
             "lockerTrack": {
@@ -655,12 +657,10 @@
               "purchaseDate": "2011-04-13T16:30:35+01:00",
               "downloadUrls": {
                 "downloadUrl": {
-                  "url": "http://media3.7digital.com/media/user/downloadtrack?formatid=17&oauth_consumer_key=7digital.com&oauth_nonce=193446&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1302786566&releaseid=188863&shopid=34&trackid=2052636&oauth_signature=fky3BN0gEGrCeCviP%2FdefDnEPNU%3D",
+                  "url": "http://media.geo.7digital.com/media/user/downloadtrack?formatid=17&releaseid=188863&shopid=34&trackid=2052636",
                   "format": {
                     "id": "17",
-                    "fileFormat": "MP3",
-                    "bitRate": "320",
-                    "drmFree": "true"
+                    "description": "MP3 320"
                   }
                 }
               }
@@ -682,7 +682,9 @@
             },
             "slug": "radiohead",
             "image": "http://artwork-cdn.7static.com/static/img/sleeveart/00/001/888/0000188863_50.jpg",
-            "releaseDate": "2007-12-31T00:00:00Z"
+            "download": {
+              "releaseDate": "2007-12-31T00:00:00Z"
+            }
           },
           "lockerTracks": {
             "lockerTrack": {
@@ -702,12 +704,10 @@
               "purchaseDate": "2011-04-13T16:30:35+01:00",
               "downloadUrls": {
                 "downloadUrl": {
-                  "url": "http://media3.7digital.com/media/user/downloadtrack?formatid=17&oauth_consumer_key=7digital.com&oauth_nonce=193446&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1302786566&releaseid=188863&shopid=34&trackid=2052636&oauth_signature=fky3BN0gEGrCeCviP%2FdefDnEPNU%3D",
+                  "url": "http://media.geo.7digital.com/media/user/downloadtrack?formatid=17&releaseid=188863&shopid=34&trackid=2052636",
                   "format": {
                     "id": "17",
-                    "fileFormat": "MP3",
-                    "bitRate": "320",
-                    "drmFree": "true"
+                    "description": "MP3 320"
                   }
                 }
               }
@@ -729,7 +729,9 @@
             },
             "slug": "radiohead",
             "image": "http://artwork-cdn.7static.com/static/img/sleeveart/00/001/888/0000188863_50.jpg",
-            "releaseDate": "2007-12-31T00:00:00Z"
+            "download": {
+              "releaseDate": "2007-12-31T00:00:00Z"
+            }
           },
           "lockerTracks": {
             "lockerTrack": {
@@ -749,12 +751,10 @@
               "purchaseDate": "2011-04-13T16:30:35+01:00",
               "downloadUrls": {
                 "downloadUrl": {
-                  "url": "http://media3.7digital.com/media/user/downloadtrack?formatid=17&oauth_consumer_key=7digital.com&oauth_nonce=193446&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1302786566&releaseid=188863&shopid=34&trackid=2052636&oauth_signature=fky3BN0gEGrCeCviP%2FdefDnEPNU%3D",
+                  "url": "http://media.geo.7digital.com/media/user/downloadtrack?formatid=17&releaseid=188863&shopid=34&trackid=2052636",
                   "format": {
                     "id": "17",
-                    "fileFormat": "MP3",
-                    "bitRate": "320",
-                    "drmFree": "true"
+                    "description": "MP3 320"
                   }
                 }
               }
@@ -776,7 +776,9 @@
             },
             "slug": "radiohead",
             "image": "http://artwork-cdn.7static.com/static/img/sleeveart/00/001/888/0000188863_50.jpg",
-            "releaseDate": "2007-12-31T00:00:00Z"
+            "download": {
+              "releaseDate": "2007-12-31T00:00:00Z"
+            }
           },
           "lockerTracks": {
             "lockerTrack": {
@@ -796,12 +798,10 @@
               "purchaseDate": "2011-04-13T16:30:35+01:00",
               "downloadUrls": {
                 "downloadUrl": {
-                  "url": "http://media3.7digital.com/media/user/downloadtrack?formatid=17&oauth_consumer_key=7digital.com&oauth_nonce=193446&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1302786566&releaseid=188863&shopid=34&trackid=2052636&oauth_signature=fky3BN0gEGrCeCviP%2FdefDnEPNU%3D",
+                  "url": "http://media.geo.7digital.com/media/user/downloadtrack?formatid=17&releaseid=188863&shopid=34&trackid=2052636",
                   "format": {
                     "id": "17",
-                    "fileFormat": "MP3",
-                    "bitRate": "320",
-                    "drmFree": "true"
+                    "description": "MP3 320"
                   }
                 }
               }
@@ -823,7 +823,9 @@
             },
             "slug": "radiohead",
             "image": "http://artwork-cdn.7static.com/static/img/sleeveart/00/001/888/0000188863_50.jpg",
-            "releaseDate": "2007-12-31T00:00:00Z"
+            "download": {
+              "releaseDate": "2007-12-31T00:00:00Z"
+            }
           },
           "lockerTracks": {
             "lockerTrack": {
@@ -843,12 +845,10 @@
               "purchaseDate": "2011-04-13T16:30:35+01:00",
               "downloadUrls": {
                 "downloadUrl": {
-                  "url": "http://media3.7digital.com/media/user/downloadtrack?formatid=17&oauth_consumer_key=7digital.com&oauth_nonce=193446&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1302786566&releaseid=188863&shopid=34&trackid=2052636&oauth_signature=fky3BN0gEGrCeCviP%2FdefDnEPNU%3D",
+                  "url": "http://media.geo.7digital.com/media/user/downloadtrack?formatid=17&releaseid=188863&shopid=34&trackid=2052636",
                   "format": {
                     "id": "17",
-                    "fileFormat": "MP3",
-                    "bitRate": "320",
-                    "drmFree": "true"
+                    "description": "MP3 320"
                   }
                 }
               }
@@ -870,7 +870,9 @@
             },
             "slug": "radiohead",
             "image": "http://artwork-cdn.7static.com/static/img/sleeveart/00/001/888/0000188863_50.jpg",
-            "releaseDate": "2007-12-31T00:00:00Z"
+            "download": {
+              "releaseDate": "2007-12-31T00:00:00Z"
+            }
           },
           "lockerTracks": {
             "lockerTrack": {
@@ -890,12 +892,10 @@
               "purchaseDate": "2011-04-13T16:30:35+01:00",
               "downloadUrls": {
                 "downloadUrl": {
-                  "url": "http://media3.7digital.com/media/user/downloadtrack?formatid=17&oauth_consumer_key=7digital.com&oauth_nonce=193446&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1302786566&releaseid=188863&shopid=34&trackid=2052636&oauth_signature=fky3BN0gEGrCeCviP%2FdefDnEPNU%3D",
+                  "url": "http://media.geo.7digital.com/media/user/downloadtrack?formatid=17&releaseid=188863&shopid=34&trackid=2052636",
                   "format": {
                     "id": "17",
-                    "fileFormat": "MP3",
-                    "bitRate": "320",
-                    "drmFree": "true"
+                    "description": "MP3 320"
                   }
                 }
               }
@@ -917,7 +917,9 @@
             },
             "slug": "radiohead",
             "image": "http://artwork-cdn.7static.com/static/img/sleeveart/00/001/888/0000188863_50.jpg",
-            "releaseDate": "2007-12-31T00:00:00Z"
+            "download": {
+              "releaseDate": "2007-12-31T00:00:00Z"
+            }
           },
           "lockerTracks": {
             "lockerTrack": {
@@ -937,12 +939,10 @@
               "purchaseDate": "2011-04-13T16:30:35+01:00",
               "downloadUrls": {
                 "downloadUrl": {
-                  "url": "http://media3.7digital.com/media/user/downloadtrack?formatid=17&oauth_consumer_key=7digital.com&oauth_nonce=193446&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1302786566&releaseid=188863&shopid=34&trackid=2052636&oauth_signature=fky3BN0gEGrCeCviP%2FdefDnEPNU%3D",
+                  "url": "http://media.geo.7digital.com/media/user/downloadtrack?formatid=17&releaseid=188863&shopid=34&trackid=2052636",
                   "format": {
                     "id": "17",
-                    "fileFormat": "MP3",
-                    "bitRate": "320",
-                    "drmFree": "true"
+                    "description": "MP3 320"
                   }
                 }
               }
@@ -964,7 +964,9 @@
             },
             "slug": "radiohead",
             "image": "http://artwork-cdn.7static.com/static/img/sleeveart/00/001/888/0000188863_50.jpg",
-            "releaseDate": "2007-12-31T00:00:00Z"
+            "download": {
+              "releaseDate": "2007-12-31T00:00:00Z"
+            }
           },
           "lockerTracks": {
             "lockerTrack": {
@@ -984,12 +986,10 @@
               "purchaseDate": "2011-04-13T16:30:35+01:00",
               "downloadUrls": {
                 "downloadUrl": {
-                  "url": "http://media3.7digital.com/media/user/downloadtrack?formatid=17&oauth_consumer_key=7digital.com&oauth_nonce=193446&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1302786566&releaseid=188863&shopid=34&trackid=2052636&oauth_signature=fky3BN0gEGrCeCviP%2FdefDnEPNU%3D",
+                  "url": "http://media.geo.7digital.com/media/user/downloadtrack?formatid=17&releaseid=188863&shopid=34&trackid=2052636",
                   "format": {
                     "id": "17",
-                    "fileFormat": "MP3",
-                    "bitRate": "320",
-                    "drmFree": "true"
+                    "description": "MP3 320"
                   }
                 }
               }
@@ -1011,7 +1011,9 @@
             },
             "slug": "radiohead",
             "image": "http://artwork-cdn.7static.com/static/img/sleeveart/00/001/888/0000188863_50.jpg",
-            "releaseDate": "2007-12-31T00:00:00Z"
+            "download": {
+              "releaseDate": "2007-12-31T00:00:00Z"
+            }
           },
           "lockerTracks": {
             "lockerTrack": {
@@ -1031,12 +1033,10 @@
               "purchaseDate": "2011-04-13T16:30:35+01:00",
               "downloadUrls": {
                 "downloadUrl": {
-                  "url": "http://media3.7digital.com/media/user/downloadtrack?formatid=17&oauth_consumer_key=7digital.com&oauth_nonce=193446&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1302786566&releaseid=188863&shopid=34&trackid=2052636&oauth_signature=fky3BN0gEGrCeCviP%2FdefDnEPNU%3D",
+                  "url": "http://media.geo.7digital.com/media/user/downloadtrack?formatid=17&releaseid=188863&shopid=34&trackid=2052636",
                   "format": {
                     "id": "17",
-                    "fileFormat": "MP3",
-                    "bitRate": "320",
-                    "drmFree": "true"
+                    "description": "MP3 320"
                   }
                 }
               }
@@ -1058,7 +1058,9 @@
             },
             "slug": "radiohead",
             "image": "http://artwork-cdn.7static.com/static/img/sleeveart/00/001/888/0000188863_50.jpg",
-            "releaseDate": "2007-12-31T00:00:00Z"
+            "download": {
+              "releaseDate": "2007-12-31T00:00:00Z"
+            }
           },
           "lockerTracks": {
             "lockerTrack": {
@@ -1078,12 +1080,10 @@
               "purchaseDate": "2011-04-13T16:30:35+01:00",
               "downloadUrls": {
                 "downloadUrl": {
-                  "url": "http://media3.7digital.com/media/user/downloadtrack?formatid=17&oauth_consumer_key=7digital.com&oauth_nonce=193446&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1302786566&releaseid=188863&shopid=34&trackid=2052636&oauth_signature=fky3BN0gEGrCeCviP%2FdefDnEPNU%3D",
+                  "url": "http://media.geo.7digital.com/media/user/downloadtrack?formatid=17&releaseid=188863&shopid=34&trackid=2052636",
                   "format": {
                     "id": "17",
-                    "fileFormat": "MP3",
-                    "bitRate": "320",
-                    "drmFree": "true"
+                    "description": "MP3 320"
                   }
                 }
               }
@@ -1105,7 +1105,9 @@
             },
             "slug": "radiohead",
             "image": "http://artwork-cdn.7static.com/static/img/sleeveart/00/001/888/0000188863_50.jpg",
-            "releaseDate": "2007-12-31T00:00:00Z"
+            "download": {
+              "releaseDate": "2007-12-31T00:00:00Z"
+            }
           },
           "lockerTracks": {
             "lockerTrack": {
@@ -1125,12 +1127,10 @@
               "purchaseDate": "2011-04-13T16:30:35+01:00",
               "downloadUrls": {
                 "downloadUrl": {
-                  "url": "http://media3.7digital.com/media/user/downloadtrack?formatid=17&oauth_consumer_key=7digital.com&oauth_nonce=193446&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1302786566&releaseid=188863&shopid=34&trackid=2052636&oauth_signature=fky3BN0gEGrCeCviP%2FdefDnEPNU%3D",
+                  "url": "http://media.geo.7digital.com/media/user/downloadtrack?formatid=17&releaseid=188863&shopid=34&trackid=2052636",
                   "format": {
                     "id": "17",
-                    "fileFormat": "MP3",
-                    "bitRate": "320",
-                    "drmFree": "true"
+                    "description": "MP3 320"
                   }
                 }
               }
@@ -1152,7 +1152,9 @@
             },
             "slug": "radiohead",
             "image": "http://artwork-cdn.7static.com/static/img/sleeveart/00/001/888/0000188863_50.jpg",
-            "releaseDate": "2007-12-31T00:00:00Z"
+            "download": {
+              "releaseDate": "2007-12-31T00:00:00Z"
+            }
           },
           "lockerTracks": {
             "lockerTrack": {
@@ -1172,12 +1174,10 @@
               "purchaseDate": "2011-04-13T16:30:35+01:00",
               "downloadUrls": {
                 "downloadUrl": {
-                  "url": "http://media3.7digital.com/media/user/downloadtrack?formatid=17&oauth_consumer_key=7digital.com&oauth_nonce=193446&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1302786566&releaseid=188863&shopid=34&trackid=2052636&oauth_signature=fky3BN0gEGrCeCviP%2FdefDnEPNU%3D",
+                  "url": "http://media.geo.7digital.com/media/user/downloadtrack?formatid=17&releaseid=188863&shopid=34&trackid=2052636",
                   "format": {
                     "id": "17",
-                    "fileFormat": "MP3",
-                    "bitRate": "320",
-                    "drmFree": "true"
+                    "description": "MP3 320"
                   }
                 }
               }
@@ -1199,7 +1199,9 @@
             },
             "slug": "radiohead",
             "image": "http://artwork-cdn.7static.com/static/img/sleeveart/00/001/888/0000188863_50.jpg",
-            "releaseDate": "2007-12-31T00:00:00Z"
+            "download": {
+              "releaseDate": "2007-12-31T00:00:00Z"
+            }
           },
           "lockerTracks": {
             "lockerTrack": {
@@ -1219,12 +1221,10 @@
               "purchaseDate": "2011-04-13T16:30:35+01:00",
               "downloadUrls": {
                 "downloadUrl": {
-                  "url": "http://media3.7digital.com/media/user/downloadtrack?formatid=17&oauth_consumer_key=7digital.com&oauth_nonce=193446&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1302786566&releaseid=188863&shopid=34&trackid=2052636&oauth_signature=fky3BN0gEGrCeCviP%2FdefDnEPNU%3D",
+                  "url": "http://media.geo.7digital.com/media/user/downloadtrack?formatid=17&releaseid=188863&shopid=34&trackid=2052636",
                   "format": {
                     "id": "17",
-                    "fileFormat": "MP3",
-                    "bitRate": "320",
-                    "drmFree": "true"
+                    "description": "MP3 320"
                   }
                 }
               }
@@ -1246,7 +1246,9 @@
             },
             "slug": "radiohead",
             "image": "http://artwork-cdn.7static.com/static/img/sleeveart/00/001/888/0000188863_50.jpg",
-            "releaseDate": "2007-12-31T00:00:00Z"
+            "download": {
+              "releaseDate": "2007-12-31T00:00:00Z"
+            }
           },
           "lockerTracks": {
             "lockerTrack": {
@@ -1266,12 +1268,10 @@
               "purchaseDate": "2011-04-13T16:30:35+01:00",
               "downloadUrls": {
                 "downloadUrl": {
-                  "url": "http://media3.7digital.com/media/user/downloadtrack?formatid=17&oauth_consumer_key=7digital.com&oauth_nonce=193446&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1302786566&releaseid=188863&shopid=34&trackid=2052636&oauth_signature=fky3BN0gEGrCeCviP%2FdefDnEPNU%3D",
+                  "url": "http://media.geo.7digital.com/media/user/downloadtrack?formatid=17&releaseid=188863&shopid=34&trackid=2052636",
                   "format": {
                     "id": "17",
-                    "fileFormat": "MP3",
-                    "bitRate": "320",
-                    "drmFree": "true"
+                    "description": "MP3 320"
                   }
                 }
               }
@@ -1293,7 +1293,9 @@
             },
             "slug": "radiohead",
             "image": "http://artwork-cdn.7static.com/static/img/sleeveart/00/001/888/0000188863_50.jpg",
-            "releaseDate": "2007-12-31T00:00:00Z"
+            "download": {
+              "releaseDate": "2007-12-31T00:00:00Z"
+            }
           },
           "lockerTracks": {
             "lockerTrack": {
@@ -1313,12 +1315,10 @@
               "purchaseDate": "2011-04-13T16:30:35+01:00",
               "downloadUrls": {
                 "downloadUrl": {
-                  "url": "http://media3.7digital.com/media/user/downloadtrack?formatid=17&oauth_consumer_key=7digital.com&oauth_nonce=193446&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1302786566&releaseid=188863&shopid=34&trackid=2052636&oauth_signature=fky3BN0gEGrCeCviP%2FdefDnEPNU%3D",
+                  "url": "http://media.geo.7digital.com/media/user/downloadtrack?formatid=17&releaseid=188863&shopid=34&trackid=2052636",
                   "format": {
                     "id": "17",
-                    "fileFormat": "MP3",
-                    "bitRate": "320",
-                    "drmFree": "true"
+                    "description": "MP3 320"
                   }
                 }
               }
@@ -1340,7 +1340,9 @@
             },
             "slug": "radiohead",
             "image": "http://artwork-cdn.7static.com/static/img/sleeveart/00/001/888/0000188863_50.jpg",
-            "releaseDate": "2007-12-31T00:00:00Z"
+            "download": {
+              "releaseDate": "2007-12-31T00:00:00Z"
+            }
           },
           "lockerTracks": {
             "lockerTrack": {
@@ -1360,12 +1362,10 @@
               "purchaseDate": "2011-04-13T16:30:35+01:00",
               "downloadUrls": {
                 "downloadUrl": {
-                  "url": "http://media3.7digital.com/media/user/downloadtrack?formatid=17&oauth_consumer_key=7digital.com&oauth_nonce=193446&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1302786566&releaseid=188863&shopid=34&trackid=2052636&oauth_signature=fky3BN0gEGrCeCviP%2FdefDnEPNU%3D",
+                  "url": "http://media.geo.7digital.com/media/user/downloadtrack?formatid=17&releaseid=188863&shopid=34&trackid=2052636",
                   "format": {
                     "id": "17",
-                    "fileFormat": "MP3",
-                    "bitRate": "320",
-                    "drmFree": "true"
+                    "description": "MP3 320"
                   }
                 }
               }
@@ -1387,7 +1387,9 @@
             },
             "slug": "radiohead",
             "image": "http://artwork-cdn.7static.com/static/img/sleeveart/00/001/888/0000188863_50.jpg",
-            "releaseDate": "2007-12-31T00:00:00Z"
+            "download": {
+              "releaseDate": "2007-12-31T00:00:00Z"
+            }
           },
           "lockerTracks": {
             "lockerTrack": {
@@ -1407,12 +1409,10 @@
               "purchaseDate": "2011-04-13T16:30:35+01:00",
               "downloadUrls": {
                 "downloadUrl": {
-                  "url": "http://media3.7digital.com/media/user/downloadtrack?formatid=17&oauth_consumer_key=7digital.com&oauth_nonce=193446&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1302786566&releaseid=188863&shopid=34&trackid=2052636&oauth_signature=fky3BN0gEGrCeCviP%2FdefDnEPNU%3D",
+                  "url": "http://media.geo.7digital.com/media/user/downloadtrack?formatid=17&releaseid=188863&shopid=34&trackid=2052636",
                   "format": {
                     "id": "17",
-                    "fileFormat": "MP3",
-                    "bitRate": "320",
-                    "drmFree": "true"
+                    "description": "MP3 320"
                   }
                 }
               }
@@ -1434,7 +1434,9 @@
             },
             "slug": "radiohead",
             "image": "http://artwork-cdn.7static.com/static/img/sleeveart/00/001/888/0000188863_50.jpg",
-            "releaseDate": "2007-12-31T00:00:00Z"
+            "download": {
+              "releaseDate": "2007-12-31T00:00:00Z"
+            }
           },
           "lockerTracks": {
             "lockerTrack": {
@@ -1454,12 +1456,10 @@
               "purchaseDate": "2011-04-13T16:30:35+01:00",
               "downloadUrls": {
                 "downloadUrl": {
-                  "url": "http://media3.7digital.com/media/user/downloadtrack?formatid=17&oauth_consumer_key=7digital.com&oauth_nonce=193446&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1302786566&releaseid=188863&shopid=34&trackid=2052636&oauth_signature=fky3BN0gEGrCeCviP%2FdefDnEPNU%3D",
+                  "url": "http://media.geo.7digital.com/media/user/downloadtrack?formatid=17&releaseid=188863&shopid=34&trackid=2052636",
                   "format": {
                     "id": "17",
-                    "fileFormat": "MP3",
-                    "bitRate": "320",
-                    "drmFree": "true"
+                    "description": "MP3 320"
                   }
                 }
               }
@@ -1481,7 +1481,9 @@
             },
             "slug": "radiohead",
             "image": "http://artwork-cdn.7static.com/static/img/sleeveart/00/001/888/0000188863_50.jpg",
-            "releaseDate": "2007-12-31T00:00:00Z"
+            "download": {
+              "releaseDate": "2007-12-31T00:00:00Z"
+            }
           },
           "lockerTracks": {
             "lockerTrack": {
@@ -1501,12 +1503,10 @@
               "purchaseDate": "2011-04-13T16:30:35+01:00",
               "downloadUrls": {
                 "downloadUrl": {
-                  "url": "http://media3.7digital.com/media/user/downloadtrack?formatid=17&oauth_consumer_key=7digital.com&oauth_nonce=193446&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1302786566&releaseid=188863&shopid=34&trackid=2052636&oauth_signature=fky3BN0gEGrCeCviP%2FdefDnEPNU%3D",
+                  "url": "http://media.geo.7digital.com/media/user/downloadtrack?formatid=17&releaseid=188863&shopid=34&trackid=2052636",
                   "format": {
                     "id": "17",
-                    "fileFormat": "MP3",
-                    "bitRate": "320",
-                    "drmFree": "true"
+                    "description": "MP3 320"
                   }
                 }
               }
@@ -1528,7 +1528,9 @@
             },
             "slug": "radiohead",
             "image": "http://artwork-cdn.7static.com/static/img/sleeveart/00/001/888/0000188863_50.jpg",
-            "releaseDate": "2007-12-31T00:00:00Z"
+            "download": {
+              "releaseDate": "2007-12-31T00:00:00Z"
+            }
           },
           "lockerTracks": {
             "lockerTrack": {
@@ -1548,12 +1550,10 @@
               "purchaseDate": "2011-04-13T16:30:35+01:00",
               "downloadUrls": {
                 "downloadUrl": {
-                  "url": "http://media3.7digital.com/media/user/downloadtrack?formatid=17&oauth_consumer_key=7digital.com&oauth_nonce=193446&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1302786566&releaseid=188863&shopid=34&trackid=2052636&oauth_signature=fky3BN0gEGrCeCviP%2FdefDnEPNU%3D",
+                  "url": "http://media.geo.7digital.com/media/user/downloadtrack?formatid=17&releaseid=188863&shopid=34&trackid=2052636",
                   "format": {
                     "id": "17",
-                    "fileFormat": "MP3",
-                    "bitRate": "320",
-                    "drmFree": "true"
+                    "description": "MP3 320"
                   }
                 }
               }
@@ -1575,7 +1575,9 @@
             },
             "slug": "radiohead",
             "image": "http://artwork-cdn.7static.com/static/img/sleeveart/00/001/888/0000188863_50.jpg",
-            "releaseDate": "2007-12-31T00:00:00Z"
+            "download": {
+              "releaseDate": "2007-12-31T00:00:00Z"
+            }
           },
           "lockerTracks": {
             "lockerTrack": {
@@ -1595,12 +1597,10 @@
               "purchaseDate": "2011-04-13T16:30:35+01:00",
               "downloadUrls": {
                 "downloadUrl": {
-                  "url": "http://media3.7digital.com/media/user/downloadtrack?formatid=17&oauth_consumer_key=7digital.com&oauth_nonce=193446&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1302786566&releaseid=188863&shopid=34&trackid=2052636&oauth_signature=fky3BN0gEGrCeCviP%2FdefDnEPNU%3D",
+                  "url": "http://media.geo.7digital.com/media/user/downloadtrack?formatid=17&releaseid=188863&shopid=34&trackid=2052636",
                   "format": {
                     "id": "17",
-                    "fileFormat": "MP3",
-                    "bitRate": "320",
-                    "drmFree": "true"
+                    "description": "MP3 320"
                   }
                 }
               }
@@ -1622,7 +1622,9 @@
             },
             "slug": "radiohead",
             "image": "http://artwork-cdn.7static.com/static/img/sleeveart/00/001/888/0000188863_50.jpg",
-            "releaseDate": "2007-12-31T00:00:00Z"
+            "download": {
+              "releaseDate": "2007-12-31T00:00:00Z"
+            }
           },
           "lockerTracks": {
             "lockerTrack": {
@@ -1642,12 +1644,10 @@
               "purchaseDate": "2011-04-13T16:30:35+01:00",
               "downloadUrls": {
                 "downloadUrl": {
-                  "url": "http://media3.7digital.com/media/user/downloadtrack?formatid=17&oauth_consumer_key=7digital.com&oauth_nonce=193446&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1302786566&releaseid=188863&shopid=34&trackid=2052636&oauth_signature=fky3BN0gEGrCeCviP%2FdefDnEPNU%3D",
+                  "url": "http://media.geo.7digital.com/media/user/downloadtrack?formatid=17&releaseid=188863&shopid=34&trackid=2052636",
                   "format": {
                     "id": "17",
-                    "fileFormat": "MP3",
-                    "bitRate": "320",
-                    "drmFree": "true"
+                    "description": "MP3 320"
                   }
                 }
               }
@@ -1669,7 +1669,9 @@
             },
             "slug": "radiohead",
             "image": "http://artwork-cdn.7static.com/static/img/sleeveart/00/001/888/0000188863_50.jpg",
-            "releaseDate": "2007-12-31T00:00:00Z"
+            "download": {
+              "releaseDate": "2007-12-31T00:00:00Z"
+            }
           },
           "lockerTracks": {
             "lockerTrack": {
@@ -1689,12 +1691,10 @@
               "purchaseDate": "2011-04-13T16:30:35+01:00",
               "downloadUrls": {
                 "downloadUrl": {
-                  "url": "http://media3.7digital.com/media/user/downloadtrack?formatid=17&oauth_consumer_key=7digital.com&oauth_nonce=193446&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1302786566&releaseid=188863&shopid=34&trackid=2052636&oauth_signature=fky3BN0gEGrCeCviP%2FdefDnEPNU%3D",
+                  "url": "http://media.geo.7digital.com/media/user/downloadtrack?formatid=17&releaseid=188863&shopid=34&trackid=2052636",
                   "format": {
                     "id": "17",
-                    "fileFormat": "MP3",
-                    "bitRate": "320",
-                    "drmFree": "true"
+                    "description": "MP3 320"
                   }
                 }
               }
@@ -1716,7 +1716,9 @@
             },
             "slug": "radiohead",
             "image": "http://artwork-cdn.7static.com/static/img/sleeveart/00/001/888/0000188863_50.jpg",
-            "releaseDate": "2007-12-31T00:00:00Z"
+            "download": {
+              "releaseDate": "2007-12-31T00:00:00Z"
+            }
           },
           "lockerTracks": {
             "lockerTrack": {
@@ -1736,12 +1738,10 @@
               "purchaseDate": "2011-04-13T16:30:35+01:00",
               "downloadUrls": {
                 "downloadUrl": {
-                  "url": "http://media3.7digital.com/media/user/downloadtrack?formatid=17&oauth_consumer_key=7digital.com&oauth_nonce=193446&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1302786566&releaseid=188863&shopid=34&trackid=2052636&oauth_signature=fky3BN0gEGrCeCviP%2FdefDnEPNU%3D",
+                  "url": "http://media.geo.7digital.com/media/user/downloadtrack?formatid=17&releaseid=188863&shopid=34&trackid=2052636",
                   "format": {
                     "id": "17",
-                    "fileFormat": "MP3",
-                    "bitRate": "320",
-                    "drmFree": "true"
+                    "description": "MP3 320"
                   }
                 }
               }
@@ -1763,7 +1763,9 @@
             },
             "slug": "radiohead",
             "image": "http://artwork-cdn.7static.com/static/img/sleeveart/00/001/888/0000188863_50.jpg",
-            "releaseDate": "2007-12-31T00:00:00Z"
+            "download": {
+              "releaseDate": "2007-12-31T00:00:00Z"
+            }
           },
           "lockerTracks": {
             "lockerTrack": {
@@ -1783,12 +1785,10 @@
               "purchaseDate": "2011-04-13T16:30:35+01:00",
               "downloadUrls": {
                 "downloadUrl": {
-                  "url": "http://media3.7digital.com/media/user/downloadtrack?formatid=17&oauth_consumer_key=7digital.com&oauth_nonce=193446&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1302786566&releaseid=188863&shopid=34&trackid=2052636&oauth_signature=fky3BN0gEGrCeCviP%2FdefDnEPNU%3D",
+                  "url": "http://media.geo.7digital.com/media/user/downloadtrack?formatid=17&releaseid=188863&shopid=34&trackid=2052636",
                   "format": {
                     "id": "17",
-                    "fileFormat": "MP3",
-                    "bitRate": "320",
-                    "drmFree": "true"
+                    "description": "MP3 320"
                   }
                 }
               }
@@ -1810,7 +1810,9 @@
             },
             "slug": "radiohead",
             "image": "http://artwork-cdn.7static.com/static/img/sleeveart/00/001/888/0000188863_50.jpg",
-            "releaseDate": "2007-12-31T00:00:00Z"
+            "download": {
+              "releaseDate": "2007-12-31T00:00:00Z"
+            }
           },
           "lockerTracks": {
             "lockerTrack": {
@@ -1830,12 +1832,10 @@
               "purchaseDate": "2011-04-13T16:30:35+01:00",
               "downloadUrls": {
                 "downloadUrl": {
-                  "url": "http://media3.7digital.com/media/user/downloadtrack?formatid=17&oauth_consumer_key=7digital.com&oauth_nonce=193446&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1302786566&releaseid=188863&shopid=34&trackid=2052636&oauth_signature=fky3BN0gEGrCeCviP%2FdefDnEPNU%3D",
+                  "url": "http://media.geo.7digital.com/media/user/downloadtrack?formatid=17&releaseid=188863&shopid=34&trackid=2052636",
                   "format": {
                     "id": "17",
-                    "fileFormat": "MP3",
-                    "bitRate": "320",
-                    "drmFree": "true"
+                    "description": "MP3 320"
                   }
                 }
               }
@@ -1857,7 +1857,9 @@
             },
             "slug": "radiohead",
             "image": "http://artwork-cdn.7static.com/static/img/sleeveart/00/001/888/0000188863_50.jpg",
-            "releaseDate": "2007-12-31T00:00:00Z"
+            "download": {
+              "releaseDate": "2007-12-31T00:00:00Z"
+            }
           },
           "lockerTracks": {
             "lockerTrack": {
@@ -1877,12 +1879,10 @@
               "purchaseDate": "2011-04-13T16:30:35+01:00",
               "downloadUrls": {
                 "downloadUrl": {
-                  "url": "http://media3.7digital.com/media/user/downloadtrack?formatid=17&oauth_consumer_key=7digital.com&oauth_nonce=193446&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1302786566&releaseid=188863&shopid=34&trackid=2052636&oauth_signature=fky3BN0gEGrCeCviP%2FdefDnEPNU%3D",
+                  "url": "http://media.geo.7digital.com/media/user/downloadtrack?formatid=17&releaseid=188863&shopid=34&trackid=2052636",
                   "format": {
                     "id": "17",
-                    "fileFormat": "MP3",
-                    "bitRate": "320",
-                    "drmFree": "true"
+                    "description": "MP3 320"
                   }
                 }
               }
@@ -1904,7 +1904,9 @@
             },
             "slug": "radiohead",
             "image": "http://artwork-cdn.7static.com/static/img/sleeveart/00/001/888/0000188863_50.jpg",
-            "releaseDate": "2007-12-31T00:00:00Z"
+            "download": {
+              "releaseDate": "2007-12-31T00:00:00Z"
+            }
           },
           "lockerTracks": {
             "lockerTrack": {
@@ -1924,12 +1926,10 @@
               "purchaseDate": "2011-04-13T16:30:35+01:00",
               "downloadUrls": {
                 "downloadUrl": {
-                  "url": "http://media3.7digital.com/media/user/downloadtrack?formatid=17&oauth_consumer_key=7digital.com&oauth_nonce=193446&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1302786566&releaseid=188863&shopid=34&trackid=2052636&oauth_signature=fky3BN0gEGrCeCviP%2FdefDnEPNU%3D",
+                  "url": "http://media.geo.7digital.com/media/user/downloadtrack?formatid=17&releaseid=188863&shopid=34&trackid=2052636",
                   "format": {
                     "id": "17",
-                    "fileFormat": "MP3",
-                    "bitRate": "320",
-                    "drmFree": "true"
+                    "description": "MP3 320"
                   }
                 }
               }
@@ -1951,7 +1951,9 @@
             },
             "slug": "radiohead",
             "image": "http://artwork-cdn.7static.com/static/img/sleeveart/00/001/888/0000188863_50.jpg",
-            "releaseDate": "2007-12-31T00:00:00Z"
+            "download": {
+              "releaseDate": "2007-12-31T00:00:00Z"
+            }
           },
           "lockerTracks": {
             "lockerTrack": {
@@ -1971,12 +1973,10 @@
               "purchaseDate": "2011-04-13T16:30:35+01:00",
               "downloadUrls": {
                 "downloadUrl": {
-                  "url": "http://media3.7digital.com/media/user/downloadtrack?formatid=17&oauth_consumer_key=7digital.com&oauth_nonce=193446&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1302786566&releaseid=188863&shopid=34&trackid=2052636&oauth_signature=fky3BN0gEGrCeCviP%2FdefDnEPNU%3D",
+                  "url": "http://media.geo.7digital.com/media/user/downloadtrack?formatid=17&releaseid=188863&shopid=34&trackid=2052636",
                   "format": {
                     "id": "17",
-                    "fileFormat": "MP3",
-                    "bitRate": "320",
-                    "drmFree": "true"
+                    "description": "MP3 320"
                   }
                 }
               }
@@ -1998,7 +1998,9 @@
             },
             "slug": "radiohead",
             "image": "http://artwork-cdn.7static.com/static/img/sleeveart/00/001/888/0000188863_50.jpg",
-            "releaseDate": "2007-12-31T00:00:00Z"
+            "download": {
+              "releaseDate": "2007-12-31T00:00:00Z"
+            }
           },
           "lockerTracks": {
             "lockerTrack": {
@@ -2018,12 +2020,10 @@
               "purchaseDate": "2011-04-13T16:30:35+01:00",
               "downloadUrls": {
                 "downloadUrl": {
-                  "url": "http://media3.7digital.com/media/user/downloadtrack?formatid=17&oauth_consumer_key=7digital.com&oauth_nonce=193446&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1302786566&releaseid=188863&shopid=34&trackid=2052636&oauth_signature=fky3BN0gEGrCeCviP%2FdefDnEPNU%3D",
+                  "url": "http://media.geo.7digital.com/media/user/downloadtrack?formatid=17&releaseid=188863&shopid=34&trackid=2052636",
                   "format": {
                     "id": "17",
-                    "fileFormat": "MP3",
-                    "bitRate": "320",
-                    "drmFree": "true"
+                    "description": "MP3 320"
                   }
                 }
               }
@@ -2045,7 +2045,9 @@
             },
             "slug": "radiohead",
             "image": "http://artwork-cdn.7static.com/static/img/sleeveart/00/001/888/0000188863_50.jpg",
-            "releaseDate": "2007-12-31T00:00:00Z"
+            "download": {
+              "releaseDate": "2007-12-31T00:00:00Z"
+            }
           },
           "lockerTracks": {
             "lockerTrack": {
@@ -2065,12 +2067,10 @@
               "purchaseDate": "2011-04-13T16:30:35+01:00",
               "downloadUrls": {
                 "downloadUrl": {
-                  "url": "http://media3.7digital.com/media/user/downloadtrack?formatid=17&oauth_consumer_key=7digital.com&oauth_nonce=193446&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1302786566&releaseid=188863&shopid=34&trackid=2052636&oauth_signature=fky3BN0gEGrCeCviP%2FdefDnEPNU%3D",
+                  "url": "http://media.geo.7digital.com/media/user/downloadtrack?formatid=17&releaseid=188863&shopid=34&trackid=2052636",
                   "format": {
                     "id": "17",
-                    "fileFormat": "MP3",
-                    "bitRate": "320",
-                    "drmFree": "true"
+                    "description": "MP3 320"
                   }
                 }
               }
@@ -2092,7 +2092,9 @@
             },
             "slug": "radiohead",
             "image": "http://artwork-cdn.7static.com/static/img/sleeveart/00/001/888/0000188863_50.jpg",
-            "releaseDate": "2007-12-31T00:00:00Z"
+            "download": {
+              "releaseDate": "2007-12-31T00:00:00Z"
+            }
           },
           "lockerTracks": {
             "lockerTrack": {
@@ -2112,12 +2114,10 @@
               "purchaseDate": "2011-04-13T16:30:35+01:00",
               "downloadUrls": {
                 "downloadUrl": {
-                  "url": "http://media3.7digital.com/media/user/downloadtrack?formatid=17&oauth_consumer_key=7digital.com&oauth_nonce=193446&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1302786566&releaseid=188863&shopid=34&trackid=2052636&oauth_signature=fky3BN0gEGrCeCviP%2FdefDnEPNU%3D",
+                  "url": "http://media.geo.7digital.com/media/user/downloadtrack?formatid=17&releaseid=188863&shopid=34&trackid=2052636",
                   "format": {
                     "id": "17",
-                    "fileFormat": "MP3",
-                    "bitRate": "320",
-                    "drmFree": "true"
+                    "description": "MP3 320"
                   }
                 }
               }
@@ -2139,7 +2139,9 @@
             },
             "slug": "radiohead",
             "image": "http://artwork-cdn.7static.com/static/img/sleeveart/00/001/888/0000188863_50.jpg",
-            "releaseDate": "2007-12-31T00:00:00Z"
+            "download": {
+              "releaseDate": "2007-12-31T00:00:00Z"
+            }
           },
           "lockerTracks": {
             "lockerTrack": {
@@ -2159,12 +2161,10 @@
               "purchaseDate": "2011-04-13T16:30:35+01:00",
               "downloadUrls": {
                 "downloadUrl": {
-                  "url": "http://media3.7digital.com/media/user/downloadtrack?formatid=17&oauth_consumer_key=7digital.com&oauth_nonce=193446&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1302786566&releaseid=188863&shopid=34&trackid=2052636&oauth_signature=fky3BN0gEGrCeCviP%2FdefDnEPNU%3D",
+                  "url": "http://media.geo.7digital.com/media/user/downloadtrack?formatid=17&releaseid=188863&shopid=34&trackid=2052636",
                   "format": {
                     "id": "17",
-                    "fileFormat": "MP3",
-                    "bitRate": "320",
-                    "drmFree": "true"
+                    "description": "MP3 320"
                   }
                 }
               }
@@ -2186,7 +2186,9 @@
             },
             "slug": "radiohead",
             "image": "http://artwork-cdn.7static.com/static/img/sleeveart/00/001/888/0000188863_50.jpg",
-            "releaseDate": "2007-12-31T00:00:00Z"
+            "download": {
+              "releaseDate": "2007-12-31T00:00:00Z"
+            }
           },
           "lockerTracks": {
             "lockerTrack": {
@@ -2206,12 +2208,10 @@
               "purchaseDate": "2011-04-13T16:30:35+01:00",
               "downloadUrls": {
                 "downloadUrl": {
-                  "url": "http://media3.7digital.com/media/user/downloadtrack?formatid=17&oauth_consumer_key=7digital.com&oauth_nonce=193446&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1302786566&releaseid=188863&shopid=34&trackid=2052636&oauth_signature=fky3BN0gEGrCeCviP%2FdefDnEPNU%3D",
+                  "url": "http://media.geo.7digital.com/media/user/downloadtrack?formatid=17&releaseid=188863&shopid=34&trackid=2052636",
                   "format": {
                     "id": "17",
-                    "fileFormat": "MP3",
-                    "bitRate": "320",
-                    "drmFree": "true"
+                    "description": "MP3 320"
                   }
                 }
               }
@@ -2233,7 +2233,9 @@
             },
             "slug": "radiohead",
             "image": "http://artwork-cdn.7static.com/static/img/sleeveart/00/001/888/0000188863_50.jpg",
-            "releaseDate": "2007-12-31T00:00:00Z"
+            "download": {
+              "releaseDate": "2007-12-31T00:00:00Z"
+            }
           },
           "lockerTracks": {
             "lockerTrack": {
@@ -2253,12 +2255,10 @@
               "purchaseDate": "2011-04-13T16:30:35+01:00",
               "downloadUrls": {
                 "downloadUrl": {
-                  "url": "http://media3.7digital.com/media/user/downloadtrack?formatid=17&oauth_consumer_key=7digital.com&oauth_nonce=193446&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1302786566&releaseid=188863&shopid=34&trackid=2052636&oauth_signature=fky3BN0gEGrCeCviP%2FdefDnEPNU%3D",
+                  "url": "http://media.geo.7digital.com/media/user/downloadtrack?formatid=17&releaseid=188863&shopid=34&trackid=2052636",
                   "format": {
                     "id": "17",
-                    "fileFormat": "MP3",
-                    "bitRate": "320",
-                    "drmFree": "true"
+                    "description": "MP3 320"
                   }
                 }
               }
@@ -2280,7 +2280,9 @@
             },
             "slug": "radiohead",
             "image": "http://artwork-cdn.7static.com/static/img/sleeveart/00/001/888/0000188863_50.jpg",
-            "releaseDate": "2007-12-31T00:00:00Z"
+            "download": {
+              "releaseDate": "2007-12-31T00:00:00Z"
+            }
           },
           "lockerTracks": {
             "lockerTrack": {
@@ -2300,12 +2302,10 @@
               "purchaseDate": "2011-04-13T16:30:35+01:00",
               "downloadUrls": {
                 "downloadUrl": {
-                  "url": "http://media3.7digital.com/media/user/downloadtrack?formatid=17&oauth_consumer_key=7digital.com&oauth_nonce=193446&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1302786566&releaseid=188863&shopid=34&trackid=2052636&oauth_signature=fky3BN0gEGrCeCviP%2FdefDnEPNU%3D",
+                  "url": "http://media.geo.7digital.com/media/user/downloadtrack?formatid=17&releaseid=188863&shopid=34&trackid=2052636",
                   "format": {
                     "id": "17",
-                    "fileFormat": "MP3",
-                    "bitRate": "320",
-                    "drmFree": "true"
+                    "description": "MP3 320"
                   }
                 }
               }
@@ -2327,7 +2327,9 @@
             },
             "slug": "radiohead",
             "image": "http://artwork-cdn.7static.com/static/img/sleeveart/00/001/888/0000188863_50.jpg",
-            "releaseDate": "2007-12-31T00:00:00Z"
+            "download": {
+              "releaseDate": "2007-12-31T00:00:00Z"
+            }
           },
           "lockerTracks": {
             "lockerTrack": {
@@ -2347,12 +2349,10 @@
               "purchaseDate": "2011-04-13T16:30:35+01:00",
               "downloadUrls": {
                 "downloadUrl": {
-                  "url": "http://media3.7digital.com/media/user/downloadtrack?formatid=17&oauth_consumer_key=7digital.com&oauth_nonce=193446&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1302786566&releaseid=188863&shopid=34&trackid=2052636&oauth_signature=fky3BN0gEGrCeCviP%2FdefDnEPNU%3D",
+                  "url": "http://media.geo.7digital.com/media/user/downloadtrack?formatid=17&releaseid=188863&shopid=34&trackid=2052636",
                   "format": {
                     "id": "17",
-                    "fileFormat": "MP3",
-                    "bitRate": "320",
-                    "drmFree": "true"
+                    "description": "MP3 320"
                   }
                 }
               }
