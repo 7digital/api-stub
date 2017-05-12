@@ -2405,7 +2405,7 @@
       </lockerRelease>
       <lockerRelease>
         <release id="1627544">
-          <title>Elvis</title>
+          <title>Elvis takedown</title>
           <version/>
           <type>Album</type>
           <barcode>7640138331084</barcode>
@@ -2416,9 +2416,6 @@
           </artist>
           <slug>elvis-8</slug>
           <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/016/275/0001627544_50.jpg</image>
-          <download>
-            <releaseDate>2012-02-24T00:00:00Z</releaseDate>
-          </download>
           <licensor id="68"/>
         </release>
         <lockerTracks>
@@ -3223,7 +3220,7 @@
             <downloadUrls/>
           </lockerTrack>
         </lockerTracks>
-        <available>true</available>
+        <available>false</available>
       </lockerRelease>
       <lockerRelease>
         <release id="3395525">
