@@ -18,7 +18,9 @@
           </artist>
           <slug>radiohead</slug>
           <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/001/888/0000188863_50.jpg</image>
-          <releaseDate>2007-12-31T00:00:00Z</releaseDate>
+          <download>
+            <releaseDate>2007-12-31T00:00:00Z</releaseDate>
+          </download>
         </release>
         <lockerTracks>
           <lockerTrack>
@@ -36,11 +38,9 @@
             <purchaseDate>2011-04-13T16:30:35+01:00</purchaseDate>
             <downloadUrls>
               <downloadUrl>
-                <url>http://media3.7digital.com/media/user/downloadtrack?formatid=17&amp;oauth_consumer_key=7digital.com&amp;oauth_nonce=193446&amp;oauth_signature_method=HMAC-SHA1&amp;oauth_timestamp=1302786566&amp;releaseid=188863&amp;shopid=34&amp;trackid=2052636&amp;oauth_signature=fky3BN0gEGrCeCviP%2FdefDnEPNU%3D</url>
                 <format id="17">
-                  <fileFormat>MP3</fileFormat>
-                  <bitRate>320</bitRate>
-                  <drmFree>true</drmFree>
+                  <url>http://media.geo.7digital.com/media/user/downloadtrack?formatid=17&amp;releaseid=188863&amp;shopid=34&amp;trackid=2052636</url>
+                  <description>MP3 320</description>
                 </format>
               </downloadUrl>
             </downloadUrls>
@@ -60,7 +60,9 @@
           </artist>
           <slug>radiohead</slug>
           <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/001/888/0000188863_50.jpg</image>
-          <releaseDate>2007-12-31T00:00:00Z</releaseDate>
+          <download>
+            <releaseDate>2007-12-31T00:00:00Z</releaseDate>
+          </download>
         </release>
         <lockerTracks>
           <lockerTrack>
@@ -78,11 +80,9 @@
             <purchaseDate>2011-04-13T16:30:35+01:00</purchaseDate>
             <downloadUrls>
               <downloadUrl>
-                <url>http://media3.7digital.com/media/user/downloadtrack?formatid=17&amp;oauth_consumer_key=7digital.com&amp;oauth_nonce=193446&amp;oauth_signature_method=HMAC-SHA1&amp;oauth_timestamp=1302786566&amp;releaseid=188863&amp;shopid=34&amp;trackid=2052636&amp;oauth_signature=fky3BN0gEGrCeCviP%2FdefDnEPNU%3D</url>
                 <format id="17">
-                  <fileFormat>MP3</fileFormat>
-                  <bitRate>320</bitRate>
-                  <drmFree>true</drmFree>
+                  <url>http://media.geo.7digital.com/media/user/downloadtrack?formatid=17&amp;releaseid=188863&amp;shopid=34&amp;trackid=2052636</url>
+                  <description>MP3 320</description>
                 </format>
               </downloadUrl>
             </downloadUrls>
@@ -102,7 +102,9 @@
           </artist>
           <slug>radiohead</slug>
           <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/001/888/0000188863_50.jpg</image>
-          <releaseDate>2007-12-31T00:00:00Z</releaseDate>
+          <download>
+            <releaseDate>2007-12-31T00:00:00Z</releaseDate>
+          </download>
         </release>
         <lockerTracks>
           <lockerTrack>
@@ -120,11 +122,9 @@
             <purchaseDate>2011-04-13T16:30:35+01:00</purchaseDate>
             <downloadUrls>
               <downloadUrl>
-                <url>http://media3.7digital.com/media/user/downloadtrack?formatid=17&amp;oauth_consumer_key=7digital.com&amp;oauth_nonce=193446&amp;oauth_signature_method=HMAC-SHA1&amp;oauth_timestamp=1302786566&amp;releaseid=188863&amp;shopid=34&amp;trackid=2052636&amp;oauth_signature=fky3BN0gEGrCeCviP%2FdefDnEPNU%3D</url>
                 <format id="17">
-                  <fileFormat>MP3</fileFormat>
-                  <bitRate>320</bitRate>
-                  <drmFree>true</drmFree>
+                  <url>http://media.geo.7digital.com/media/user/downloadtrack?formatid=17&amp;releaseid=188863&amp;shopid=34&amp;trackid=2052636</url>
+                  <description>MP3 320</description>
                 </format>
               </downloadUrl>
             </downloadUrls>
@@ -144,7 +144,9 @@
           </artist>
           <slug>radiohead</slug>
           <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/001/888/0000188863_50.jpg</image>
-          <releaseDate>2007-12-31T00:00:00Z</releaseDate>
+          <download>
+            <releaseDate>2007-12-31T00:00:00Z</releaseDate>
+          </download>
         </release>
         <lockerTracks>
           <lockerTrack>
@@ -162,11 +164,9 @@
             <purchaseDate>2011-04-13T16:30:35+01:00</purchaseDate>
             <downloadUrls>
               <downloadUrl>
-                <url>http://media3.7digital.com/media/user/downloadtrack?formatid=17&amp;oauth_consumer_key=7digital.com&amp;oauth_nonce=193446&amp;oauth_signature_method=HMAC-SHA1&amp;oauth_timestamp=1302786566&amp;releaseid=188863&amp;shopid=34&amp;trackid=2052636&amp;oauth_signature=fky3BN0gEGrCeCviP%2FdefDnEPNU%3D</url>
                 <format id="17">
-                  <fileFormat>MP3</fileFormat>
-                  <bitRate>320</bitRate>
-                  <drmFree>true</drmFree>
+                  <url>http://media.geo.7digital.com/media/user/downloadtrack?formatid=17&amp;releaseid=188863&amp;shopid=34&amp;trackid=2052636</url>
+                  <description>MP3 320</description>
                 </format>
               </downloadUrl>
             </downloadUrls>
@@ -186,7 +186,9 @@
           </artist>
           <slug>radiohead</slug>
           <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/001/888/0000188863_50.jpg</image>
-          <releaseDate>2007-12-31T00:00:00Z</releaseDate>
+          <download>
+            <releaseDate>2007-12-31T00:00:00Z</releaseDate>
+          </download>
         </release>
         <lockerTracks>
           <lockerTrack>
@@ -204,11 +206,9 @@
             <purchaseDate>2011-04-13T16:30:35+01:00</purchaseDate>
             <downloadUrls>
               <downloadUrl>
-                <url>http://media3.7digital.com/media/user/downloadtrack?formatid=17&amp;oauth_consumer_key=7digital.com&amp;oauth_nonce=193446&amp;oauth_signature_method=HMAC-SHA1&amp;oauth_timestamp=1302786566&amp;releaseid=188863&amp;shopid=34&amp;trackid=2052636&amp;oauth_signature=fky3BN0gEGrCeCviP%2FdefDnEPNU%3D</url>
                 <format id="17">
-                  <fileFormat>MP3</fileFormat>
-                  <bitRate>320</bitRate>
-                  <drmFree>true</drmFree>
+                  <url>http://media.geo.7digital.com/media/user/downloadtrack?formatid=17&amp;releaseid=188863&amp;shopid=34&amp;trackid=2052636</url>
+                  <description>MP3 320</description>
                 </format>
               </downloadUrl>
             </downloadUrls>
@@ -228,7 +228,9 @@
           </artist>
           <slug>radiohead</slug>
           <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/001/888/0000188863_50.jpg</image>
-          <releaseDate>2007-12-31T00:00:00Z</releaseDate>
+          <download>
+            <releaseDate>2007-12-31T00:00:00Z</releaseDate>
+          </download>
         </release>
         <lockerTracks>
           <lockerTrack>
@@ -246,11 +248,9 @@
             <purchaseDate>2011-04-13T16:30:35+01:00</purchaseDate>
             <downloadUrls>
               <downloadUrl>
-                <url>http://media3.7digital.com/media/user/downloadtrack?formatid=17&amp;oauth_consumer_key=7digital.com&amp;oauth_nonce=193446&amp;oauth_signature_method=HMAC-SHA1&amp;oauth_timestamp=1302786566&amp;releaseid=188863&amp;shopid=34&amp;trackid=2052636&amp;oauth_signature=fky3BN0gEGrCeCviP%2FdefDnEPNU%3D</url>
                 <format id="17">
-                  <fileFormat>MP3</fileFormat>
-                  <bitRate>320</bitRate>
-                  <drmFree>true</drmFree>
+                  <url>http://media.geo.7digital.com/media/user/downloadtrack?formatid=17&amp;releaseid=188863&amp;shopid=34&amp;trackid=2052636</url>
+                  <description>MP3 320</description>
                 </format>
               </downloadUrl>
             </downloadUrls>
@@ -270,7 +270,9 @@
           </artist>
           <slug>radiohead</slug>
           <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/001/888/0000188863_50.jpg</image>
-          <releaseDate>2007-12-31T00:00:00Z</releaseDate>
+          <download>
+            <releaseDate>2007-12-31T00:00:00Z</releaseDate>
+          </download>
         </release>
         <lockerTracks>
           <lockerTrack>
@@ -288,11 +290,9 @@
             <purchaseDate>2011-04-13T16:30:35+01:00</purchaseDate>
             <downloadUrls>
               <downloadUrl>
-                <url>http://media3.7digital.com/media/user/downloadtrack?formatid=17&amp;oauth_consumer_key=7digital.com&amp;oauth_nonce=193446&amp;oauth_signature_method=HMAC-SHA1&amp;oauth_timestamp=1302786566&amp;releaseid=188863&amp;shopid=34&amp;trackid=2052636&amp;oauth_signature=fky3BN0gEGrCeCviP%2FdefDnEPNU%3D</url>
                 <format id="17">
-                  <fileFormat>MP3</fileFormat>
-                  <bitRate>320</bitRate>
-                  <drmFree>true</drmFree>
+                  <url>http://media.geo.7digital.com/media/user/downloadtrack?formatid=17&amp;releaseid=188863&amp;shopid=34&amp;trackid=2052636</url>
+                  <description>MP3 320</description>
                 </format>
               </downloadUrl>
             </downloadUrls>
@@ -312,7 +312,9 @@
           </artist>
           <slug>radiohead</slug>
           <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/001/888/0000188863_50.jpg</image>
-          <releaseDate>2007-12-31T00:00:00Z</releaseDate>
+          <download>
+            <releaseDate>2007-12-31T00:00:00Z</releaseDate>
+          </download>
         </release>
         <lockerTracks>
           <lockerTrack>
@@ -330,11 +332,9 @@
             <purchaseDate>2011-04-13T16:30:35+01:00</purchaseDate>
             <downloadUrls>
               <downloadUrl>
-                <url>http://media3.7digital.com/media/user/downloadtrack?formatid=17&amp;oauth_consumer_key=7digital.com&amp;oauth_nonce=193446&amp;oauth_signature_method=HMAC-SHA1&amp;oauth_timestamp=1302786566&amp;releaseid=188863&amp;shopid=34&amp;trackid=2052636&amp;oauth_signature=fky3BN0gEGrCeCviP%2FdefDnEPNU%3D</url>
                 <format id="17">
-                  <fileFormat>MP3</fileFormat>
-                  <bitRate>320</bitRate>
-                  <drmFree>true</drmFree>
+                  <url>http://media.geo.7digital.com/media/user/downloadtrack?formatid=17&amp;releaseid=188863&amp;shopid=34&amp;trackid=2052636</url>
+                  <description>MP3 320</description>
                 </format>
               </downloadUrl>
             </downloadUrls>
@@ -354,7 +354,9 @@
           </artist>
           <slug>radiohead</slug>
           <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/001/888/0000188863_50.jpg</image>
-          <releaseDate>2007-12-31T00:00:00Z</releaseDate>
+          <download>
+            <releaseDate>2007-12-31T00:00:00Z</releaseDate>
+          </download>
         </release>
         <lockerTracks>
           <lockerTrack>
@@ -372,11 +374,9 @@
             <purchaseDate>2011-04-13T16:30:35+01:00</purchaseDate>
             <downloadUrls>
               <downloadUrl>
-                <url>http://media3.7digital.com/media/user/downloadtrack?formatid=17&amp;oauth_consumer_key=7digital.com&amp;oauth_nonce=193446&amp;oauth_signature_method=HMAC-SHA1&amp;oauth_timestamp=1302786566&amp;releaseid=188863&amp;shopid=34&amp;trackid=2052636&amp;oauth_signature=fky3BN0gEGrCeCviP%2FdefDnEPNU%3D</url>
                 <format id="17">
-                  <fileFormat>MP3</fileFormat>
-                  <bitRate>320</bitRate>
-                  <drmFree>true</drmFree>
+                  <url>http://media.geo.7digital.com/media/user/downloadtrack?formatid=17&amp;releaseid=188863&amp;shopid=34&amp;trackid=2052636</url>
+                  <description>MP3 320</description>
                 </format>
               </downloadUrl>
             </downloadUrls>
@@ -396,7 +396,9 @@
           </artist>
           <slug>radiohead</slug>
           <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/001/888/0000188863_50.jpg</image>
-          <releaseDate>2007-12-31T00:00:00Z</releaseDate>
+          <download>
+            <releaseDate>2007-12-31T00:00:00Z</releaseDate>
+          </download>
         </release>
         <lockerTracks>
           <lockerTrack>
@@ -414,11 +416,9 @@
             <purchaseDate>2011-04-13T16:30:35+01:00</purchaseDate>
             <downloadUrls>
               <downloadUrl>
-                <url>http://media3.7digital.com/media/user/downloadtrack?formatid=17&amp;oauth_consumer_key=7digital.com&amp;oauth_nonce=193446&amp;oauth_signature_method=HMAC-SHA1&amp;oauth_timestamp=1302786566&amp;releaseid=188863&amp;shopid=34&amp;trackid=2052636&amp;oauth_signature=fky3BN0gEGrCeCviP%2FdefDnEPNU%3D</url>
                 <format id="17">
-                  <fileFormat>MP3</fileFormat>
-                  <bitRate>320</bitRate>
-                  <drmFree>true</drmFree>
+                  <url>http://media.geo.7digital.com/media/user/downloadtrack?formatid=17&amp;releaseid=188863&amp;shopid=34&amp;trackid=2052636</url>
+                  <description>MP3 320</description>
                 </format>
               </downloadUrl>
             </downloadUrls>

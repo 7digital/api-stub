@@ -18,7 +18,9 @@
           </artist>
           <slug>kyliefever2002-live-in-manchester</slug>
           <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/002/634/0000263431_50.jpg</image>
-          <releaseDate>2008-05-26T00:00:00Z</releaseDate>
+          <download>
+            <releaseDate>2008-05-26T00:00:00Z</releaseDate>
+          </download>
           <licensor id="18"/>
         </release>
         <lockerTracks>
@@ -42,19 +44,15 @@
             <completeAlbumPurchase>false</completeAlbumPurchase>
             <downloadUrls>
               <downloadUrl>
-                <url>http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&amp;oauth_nonce=e88058q5bwsl9kqr&amp;oauth_signature=AoNBtZHgyDkR7dQcY%2Fg0NM7cKLY%3D&amp;oauth_signature_method=HMAC-SHA1&amp;oauth_timestamp=1409567602&amp;oauth_version=1.0a&amp;formatid=21&amp;partnerid=712&amp;onbehalfofpartnerid=712&amp;presigned=1&amp;releaseid=263431&amp;shopid=34&amp;trackid=2768322&amp;userid=121404036</url>
                 <format id="21">
-                  <fileFormat>MP4</fileFormat>
-                  <bitRate>0</bitRate>
-                  <drmFree>true</drmFree>
+                  <url>http://media.geo.7digital.com/media/user/downloadtrack?formatid=21&amp;releaseid=263431&amp;shopid=34&amp;trackid=2768322</url>
+                  <description>MP4 0</description>
                 </format>
               </downloadUrl>
               <downloadUrl>
-                <url>http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&amp;oauth_nonce=k24kwfsx0s0i1edu&amp;oauth_signature=Aa1Br0yq15%2BETqS5Y9kHYRgSVJ4%3D&amp;oauth_signature_method=HMAC-SHA1&amp;oauth_timestamp=1409567602&amp;oauth_version=1.0a&amp;formatid=9&amp;partnerid=712&amp;onbehalfofpartnerid=712&amp;presigned=1&amp;releaseid=263431&amp;shopid=34&amp;trackid=2768322&amp;userid=121404036</url>
                 <format id="9">
-                  <fileFormat>MP4</fileFormat>
-                  <bitRate>0</bitRate>
-                  <drmFree>true</drmFree>
+                  <url>http://media.geo.7digital.com/media/user/downloadtrack?formatid=9&amp;releaseid=263431&amp;shopid=34&amp;trackid=2768322</url>
+                  <description>MP4 0</description>
                 </format>
               </downloadUrl>
             </downloadUrls>
@@ -79,19 +77,15 @@
             <completeAlbumPurchase>false</completeAlbumPurchase>
             <downloadUrls>
               <downloadUrl>
-                <url>http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&amp;oauth_nonce=9bnn37g1av2slbfp&amp;oauth_signature=9ZeCmqZNkFA2mrfesy3BGWKtFcA%3D&amp;oauth_signature_method=HMAC-SHA1&amp;oauth_timestamp=1409567602&amp;oauth_version=1.0a&amp;formatid=21&amp;partnerid=712&amp;onbehalfofpartnerid=712&amp;presigned=1&amp;releaseid=263431&amp;shopid=34&amp;trackid=2768325&amp;userid=121404036</url>
                 <format id="21">
-                  <fileFormat>MP4</fileFormat>
-                  <bitRate>0</bitRate>
-                  <drmFree>true</drmFree>
+                  <url>http://media.geo.7digital.com/media/user/downloadtrack?formatid=21&amp;releaseid=263431&amp;shopid=34&amp;trackid=2768325</url>
+                  <description>MP4 0</description>
                 </format>
               </downloadUrl>
               <downloadUrl>
-                <url>http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&amp;oauth_nonce=vvbsx6e9ok0l8he7&amp;oauth_signature=IjDvS3f7WEcx6tv6ol8C1p8idHM%3D&amp;oauth_signature_method=HMAC-SHA1&amp;oauth_timestamp=1409567602&amp;oauth_version=1.0a&amp;formatid=9&amp;partnerid=712&amp;onbehalfofpartnerid=712&amp;presigned=1&amp;releaseid=263431&amp;shopid=34&amp;trackid=2768325&amp;userid=121404036</url>
                 <format id="9">
-                  <fileFormat>MP4</fileFormat>
-                  <bitRate>0</bitRate>
-                  <drmFree>true</drmFree>
+                  <url>http://media.geo.7digital.com/media/user/downloadtrack?formatid=9&amp;releaseid=263431&amp;shopid=34&amp;trackid=2768325</url>
+                  <description>MP4 0</description>
                 </format>
               </downloadUrl>
             </downloadUrls>
@@ -116,19 +110,15 @@
             <completeAlbumPurchase>false</completeAlbumPurchase>
             <downloadUrls>
               <downloadUrl>
-                <url>http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&amp;oauth_nonce=s9n87cznvckaoam8&amp;oauth_signature=9YO%2F7ZlMX5xEZ8t44nwDSR4DDJ0%3D&amp;oauth_signature_method=HMAC-SHA1&amp;oauth_timestamp=1409567602&amp;oauth_version=1.0a&amp;formatid=21&amp;partnerid=712&amp;onbehalfofpartnerid=712&amp;presigned=1&amp;releaseid=263431&amp;shopid=34&amp;trackid=2768328&amp;userid=121404036</url>
                 <format id="21">
-                  <fileFormat>MP4</fileFormat>
-                  <bitRate>0</bitRate>
-                  <drmFree>true</drmFree>
+                  <url>http://media.geo.7digital.com/media/user/downloadtrack?formatid=21&amp;releaseid=263431&amp;shopid=34&amp;trackid=2768328</url>
+                  <description>MP4 0</description>
                 </format>
               </downloadUrl>
               <downloadUrl>
-                <url>http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&amp;oauth_nonce=muxedv8c7o9s7543&amp;oauth_signature=SHGBrWLAawcP4vtAdXNstrkC34g%3D&amp;oauth_signature_method=HMAC-SHA1&amp;oauth_timestamp=1409567602&amp;oauth_version=1.0a&amp;formatid=9&amp;partnerid=712&amp;onbehalfofpartnerid=712&amp;presigned=1&amp;releaseid=263431&amp;shopid=34&amp;trackid=2768328&amp;userid=121404036</url>
                 <format id="9">
-                  <fileFormat>MP4</fileFormat>
-                  <bitRate>0</bitRate>
-                  <drmFree>true</drmFree>
+                  <url>http://media.geo.7digital.com/media/user/downloadtrack?formatid=9&amp;releaseid=263431&amp;shopid=34&amp;trackid=2768328</url>
+                  <description>MP4 0</description>
                 </format>
               </downloadUrl>
             </downloadUrls>
@@ -153,19 +143,15 @@
             <completeAlbumPurchase>false</completeAlbumPurchase>
             <downloadUrls>
               <downloadUrl>
-                <url>http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&amp;oauth_nonce=r50nyhts6x7uveun&amp;oauth_signature=1yv0PjjofIyxG4I%2BB4PpkKftNk0%3D&amp;oauth_signature_method=HMAC-SHA1&amp;oauth_timestamp=1409567602&amp;oauth_version=1.0a&amp;formatid=21&amp;partnerid=712&amp;onbehalfofpartnerid=712&amp;presigned=1&amp;releaseid=263431&amp;shopid=34&amp;trackid=2768330&amp;userid=121404036</url>
                 <format id="21">
-                  <fileFormat>MP4</fileFormat>
-                  <bitRate>0</bitRate>
-                  <drmFree>true</drmFree>
+                  <url>http://media.geo.7digital.com/media/user/downloadtrack?formatid=21&amp;releaseid=263431&amp;shopid=34&amp;trackid=2768330</url>
+                  <description>MP4 0</description>
                 </format>
               </downloadUrl>
               <downloadUrl>
-                <url>http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&amp;oauth_nonce=8b0mt048bkardhr2&amp;oauth_signature=rdHRHZ%2FnEHRTr%2BB%2FyZCmWAU%2BqIY%3D&amp;oauth_signature_method=HMAC-SHA1&amp;oauth_timestamp=1409567602&amp;oauth_version=1.0a&amp;formatid=9&amp;partnerid=712&amp;onbehalfofpartnerid=712&amp;presigned=1&amp;releaseid=263431&amp;shopid=34&amp;trackid=2768330&amp;userid=121404036</url>
                 <format id="9">
-                  <fileFormat>MP4</fileFormat>
-                  <bitRate>0</bitRate>
-                  <drmFree>true</drmFree>
+                  <url>http://media.geo.7digital.com/media/user/downloadtrack?formatid=9&amp;releaseid=263431&amp;shopid=34&amp;trackid=2768330</url>
+                  <description>MP4 0</description>
                 </format>
               </downloadUrl>
             </downloadUrls>
@@ -190,19 +176,15 @@
             <completeAlbumPurchase>false</completeAlbumPurchase>
             <downloadUrls>
               <downloadUrl>
-                <url>http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&amp;oauth_nonce=jrstb0jebeipymr3&amp;oauth_signature=pPUwBVMYuJGcEmQBYIg5m3Lxahs%3D&amp;oauth_signature_method=HMAC-SHA1&amp;oauth_timestamp=1409567602&amp;oauth_version=1.0a&amp;formatid=21&amp;partnerid=712&amp;onbehalfofpartnerid=712&amp;presigned=1&amp;releaseid=263431&amp;shopid=34&amp;trackid=2768332&amp;userid=121404036</url>
                 <format id="21">
-                  <fileFormat>MP4</fileFormat>
-                  <bitRate>0</bitRate>
-                  <drmFree>true</drmFree>
+                  <url>http://media.geo.7digital.com/media/user/downloadtrack?formatid=21&amp;releaseid=263431&amp;shopid=34&amp;trackid=2768332</url>
+                  <description>MP4 0</description>
                 </format>
               </downloadUrl>
               <downloadUrl>
-                <url>http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&amp;oauth_nonce=5uu56qisablohbpy&amp;oauth_signature=U5SXA%2FLQsOlbQ0DTuvFvbaMqvOc%3D&amp;oauth_signature_method=HMAC-SHA1&amp;oauth_timestamp=1409567602&amp;oauth_version=1.0a&amp;formatid=9&amp;partnerid=712&amp;onbehalfofpartnerid=712&amp;presigned=1&amp;releaseid=263431&amp;shopid=34&amp;trackid=2768332&amp;userid=121404036</url>
                 <format id="9">
-                  <fileFormat>MP4</fileFormat>
-                  <bitRate>0</bitRate>
-                  <drmFree>true</drmFree>
+                  <url>http://media.geo.7digital.com/media/user/downloadtrack?formatid=9&amp;releaseid=263431&amp;shopid=34&amp;trackid=2768332</url>
+                  <description>MP4 0</description>
                 </format>
               </downloadUrl>
             </downloadUrls>
@@ -227,19 +209,15 @@
             <completeAlbumPurchase>false</completeAlbumPurchase>
             <downloadUrls>
               <downloadUrl>
-                <url>http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&amp;oauth_nonce=gfldvam935lp1niz&amp;oauth_signature=T%2BrwRZ9umEM0jUnn5tZM6uTH9qc%3D&amp;oauth_signature_method=HMAC-SHA1&amp;oauth_timestamp=1409567602&amp;oauth_version=1.0a&amp;formatid=21&amp;partnerid=712&amp;onbehalfofpartnerid=712&amp;presigned=1&amp;releaseid=263431&amp;shopid=34&amp;trackid=2768334&amp;userid=121404036</url>
                 <format id="21">
-                  <fileFormat>MP4</fileFormat>
-                  <bitRate>0</bitRate>
-                  <drmFree>true</drmFree>
+                  <url>http://media.geo.7digital.com/media/user/downloadtrack?formatid=21&amp;releaseid=263431&amp;shopid=34&amp;trackid=2768334</url>
+                  <description>MP4 0</description>
                 </format>
               </downloadUrl>
               <downloadUrl>
-                <url>http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&amp;oauth_nonce=3ixsww73iat0x580&amp;oauth_signature=3kKbvgkQ6t%2FovsWCRj3VtQZ0jLI%3D&amp;oauth_signature_method=HMAC-SHA1&amp;oauth_timestamp=1409567602&amp;oauth_version=1.0a&amp;formatid=9&amp;partnerid=712&amp;onbehalfofpartnerid=712&amp;presigned=1&amp;releaseid=263431&amp;shopid=34&amp;trackid=2768334&amp;userid=121404036</url>
                 <format id="9">
-                  <fileFormat>MP4</fileFormat>
-                  <bitRate>0</bitRate>
-                  <drmFree>true</drmFree>
+                  <url>http://media.geo.7digital.com/media/user/downloadtrack?formatid=9&amp;releaseid=263431&amp;shopid=34&amp;trackid=2768334</url>
+                  <description>MP4 0</description>
                 </format>
               </downloadUrl>
             </downloadUrls>
@@ -264,19 +242,15 @@
             <completeAlbumPurchase>false</completeAlbumPurchase>
             <downloadUrls>
               <downloadUrl>
-                <url>http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&amp;oauth_nonce=zujtaoh5ivcaf43x&amp;oauth_signature=DKxSO7RmQLiAO%2BdjKAyvjnt9iDI%3D&amp;oauth_signature_method=HMAC-SHA1&amp;oauth_timestamp=1409567602&amp;oauth_version=1.0a&amp;formatid=21&amp;partnerid=712&amp;onbehalfofpartnerid=712&amp;presigned=1&amp;releaseid=263431&amp;shopid=34&amp;trackid=2768336&amp;userid=121404036</url>
                 <format id="21">
-                  <fileFormat>MP4</fileFormat>
-                  <bitRate>0</bitRate>
-                  <drmFree>true</drmFree>
+                  <url>http://media.geo.7digital.com/media/user/downloadtrack?formatid=21&amp;releaseid=263431&amp;shopid=34&amp;trackid=2768336</url>
+                  <description>MP4 0</description>
                 </format>
               </downloadUrl>
               <downloadUrl>
-                <url>http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&amp;oauth_nonce=4wv9o7btis5urml8&amp;oauth_signature=TlnuumuaxvKVpnU%2FiQyqpmygrZg%3D&amp;oauth_signature_method=HMAC-SHA1&amp;oauth_timestamp=1409567602&amp;oauth_version=1.0a&amp;formatid=9&amp;partnerid=712&amp;onbehalfofpartnerid=712&amp;presigned=1&amp;releaseid=263431&amp;shopid=34&amp;trackid=2768336&amp;userid=121404036</url>
                 <format id="9">
-                  <fileFormat>MP4</fileFormat>
-                  <bitRate>0</bitRate>
-                  <drmFree>true</drmFree>
+                  <url>http://media.geo.7digital.com/media/user/downloadtrack?formatid=9&amp;releaseid=263431&amp;shopid=34&amp;trackid=2768336</url>
+                  <description>MP4 0</description>
                 </format>
               </downloadUrl>
             </downloadUrls>
@@ -301,19 +275,15 @@
             <completeAlbumPurchase>false</completeAlbumPurchase>
             <downloadUrls>
               <downloadUrl>
-                <url>http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&amp;oauth_nonce=7lzgezyob3kbt6xp&amp;oauth_signature=EUPARxrqvrJzjRN9HvFdLqcFogs%3D&amp;oauth_signature_method=HMAC-SHA1&amp;oauth_timestamp=1409567602&amp;oauth_version=1.0a&amp;formatid=21&amp;partnerid=712&amp;onbehalfofpartnerid=712&amp;presigned=1&amp;releaseid=263431&amp;shopid=34&amp;trackid=2768337&amp;userid=121404036</url>
                 <format id="21">
-                  <fileFormat>MP4</fileFormat>
-                  <bitRate>0</bitRate>
-                  <drmFree>true</drmFree>
+                  <url>http://media.geo.7digital.com/media/user/downloadtrack?formatid=21&amp;releaseid=263431&amp;shopid=34&amp;trackid=2768337</url>
+                  <description>MP4 0</description>
                 </format>
               </downloadUrl>
               <downloadUrl>
-                <url>http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&amp;oauth_nonce=i6gaj0v4szkrtwn6&amp;oauth_signature=W2qjwpWIUnc4dKK%2B9o8rftuIyAk%3D&amp;oauth_signature_method=HMAC-SHA1&amp;oauth_timestamp=1409567602&amp;oauth_version=1.0a&amp;formatid=9&amp;partnerid=712&amp;onbehalfofpartnerid=712&amp;presigned=1&amp;releaseid=263431&amp;shopid=34&amp;trackid=2768337&amp;userid=121404036</url>
                 <format id="9">
-                  <fileFormat>MP4</fileFormat>
-                  <bitRate>0</bitRate>
-                  <drmFree>true</drmFree>
+                  <url>http://media.geo.7digital.com/media/user/downloadtrack?formatid=9&amp;releaseid=263431&amp;shopid=34&amp;trackid=2768337</url>
+                  <description>MP4 0</description>
                 </format>
               </downloadUrl>
             </downloadUrls>
@@ -338,19 +308,15 @@
             <completeAlbumPurchase>false</completeAlbumPurchase>
             <downloadUrls>
               <downloadUrl>
-                <url>http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&amp;oauth_nonce=kee4dwtd9g7vva0n&amp;oauth_signature=1HgSms3pXgoXZZ0T3ID5YKrDujQ%3D&amp;oauth_signature_method=HMAC-SHA1&amp;oauth_timestamp=1409567602&amp;oauth_version=1.0a&amp;formatid=21&amp;partnerid=712&amp;onbehalfofpartnerid=712&amp;presigned=1&amp;releaseid=263431&amp;shopid=34&amp;trackid=2768339&amp;userid=121404036</url>
                 <format id="21">
-                  <fileFormat>MP4</fileFormat>
-                  <bitRate>0</bitRate>
-                  <drmFree>true</drmFree>
+                  <url>http://media.geo.7digital.com/media/user/downloadtrack?formatid=21&amp;releaseid=263431&amp;shopid=34&amp;trackid=2768339</url>
+                  <description>MP4 0</description>
                 </format>
               </downloadUrl>
               <downloadUrl>
-                <url>http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&amp;oauth_nonce=6pmvgky7z7xoog5p&amp;oauth_signature=Th8TSEjlfqnWwXR1aylSfPjQ5l4%3D&amp;oauth_signature_method=HMAC-SHA1&amp;oauth_timestamp=1409567602&amp;oauth_version=1.0a&amp;formatid=9&amp;partnerid=712&amp;onbehalfofpartnerid=712&amp;presigned=1&amp;releaseid=263431&amp;shopid=34&amp;trackid=2768339&amp;userid=121404036</url>
                 <format id="9">
-                  <fileFormat>MP4</fileFormat>
-                  <bitRate>0</bitRate>
-                  <drmFree>true</drmFree>
+                  <url>http://media.geo.7digital.com/media/user/downloadtrack?formatid=9&amp;releaseid=263431&amp;shopid=34&amp;trackid=2768339</url>
+                  <description>MP4 0</description>
                 </format>
               </downloadUrl>
             </downloadUrls>
@@ -375,19 +341,15 @@
             <completeAlbumPurchase>false</completeAlbumPurchase>
             <downloadUrls>
               <downloadUrl>
-                <url>http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&amp;oauth_nonce=po1p14lwmccccahs&amp;oauth_signature=g%2Bn3KIgzIuZz65KMlr1g%2Fwj0R88%3D&amp;oauth_signature_method=HMAC-SHA1&amp;oauth_timestamp=1409567602&amp;oauth_version=1.0a&amp;formatid=21&amp;partnerid=712&amp;onbehalfofpartnerid=712&amp;presigned=1&amp;releaseid=263431&amp;shopid=34&amp;trackid=2768341&amp;userid=121404036</url>
                 <format id="21">
-                  <fileFormat>MP4</fileFormat>
-                  <bitRate>0</bitRate>
-                  <drmFree>true</drmFree>
+                  <url>http://media.geo.7digital.com/media/user/downloadtrack?formatid=21&amp;releaseid=263431&amp;shopid=34&amp;trackid=2768341</url>
+                  <description>MP4 0</description>
                 </format>
               </downloadUrl>
               <downloadUrl>
-                <url>http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&amp;oauth_nonce=z7wek2zaphdh9ez3&amp;oauth_signature=R8tj8u3LrbqBgNJEnIttknlPxfk%3D&amp;oauth_signature_method=HMAC-SHA1&amp;oauth_timestamp=1409567602&amp;oauth_version=1.0a&amp;formatid=9&amp;partnerid=712&amp;onbehalfofpartnerid=712&amp;presigned=1&amp;releaseid=263431&amp;shopid=34&amp;trackid=2768341&amp;userid=121404036</url>
                 <format id="9">
-                  <fileFormat>MP4</fileFormat>
-                  <bitRate>0</bitRate>
-                  <drmFree>true</drmFree>
+                  <url>http://media.geo.7digital.com/media/user/downloadtrack?formatid=9&amp;releaseid=263431&amp;shopid=34&amp;trackid=2768341</url>
+                  <description>MP4 0</description>
                 </format>
               </downloadUrl>
             </downloadUrls>
@@ -412,19 +374,15 @@
             <completeAlbumPurchase>false</completeAlbumPurchase>
             <downloadUrls>
               <downloadUrl>
-                <url>http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&amp;oauth_nonce=mrfgjuxcdzidiw5z&amp;oauth_signature=XceE8Rv2qvnzeTEsoWQEZ1PH9eA%3D&amp;oauth_signature_method=HMAC-SHA1&amp;oauth_timestamp=1409567602&amp;oauth_version=1.0a&amp;formatid=21&amp;partnerid=712&amp;onbehalfofpartnerid=712&amp;presigned=1&amp;releaseid=263431&amp;shopid=34&amp;trackid=2768343&amp;userid=121404036</url>
                 <format id="21">
-                  <fileFormat>MP4</fileFormat>
-                  <bitRate>0</bitRate>
-                  <drmFree>true</drmFree>
+                  <url>http://media.geo.7digital.com/media/user/downloadtrack?formatid=21&amp;releaseid=263431&amp;shopid=34&amp;trackid=2768343</url>
+                  <description>MP4 0</description>
                 </format>
               </downloadUrl>
               <downloadUrl>
-                <url>http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&amp;oauth_nonce=yeyru1eyz1aszdxi&amp;oauth_signature=Qoj8PsYWLjmwOkAsUY4eNalHFNw%3D&amp;oauth_signature_method=HMAC-SHA1&amp;oauth_timestamp=1409567602&amp;oauth_version=1.0a&amp;formatid=9&amp;partnerid=712&amp;onbehalfofpartnerid=712&amp;presigned=1&amp;releaseid=263431&amp;shopid=34&amp;trackid=2768343&amp;userid=121404036</url>
                 <format id="9">
-                  <fileFormat>MP4</fileFormat>
-                  <bitRate>0</bitRate>
-                  <drmFree>true</drmFree>
+                  <url>http://media.geo.7digital.com/media/user/downloadtrack?formatid=9&amp;releaseid=263431&amp;shopid=34&amp;trackid=2768343</url>
+                  <description>MP4 0</description>
                 </format>
               </downloadUrl>
             </downloadUrls>
@@ -449,19 +407,15 @@
             <completeAlbumPurchase>false</completeAlbumPurchase>
             <downloadUrls>
               <downloadUrl>
-                <url>http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&amp;oauth_nonce=nj1u5ajfjtbutw33&amp;oauth_signature=1mUSBjM1fxTNv7jlsWfPuphTga8%3D&amp;oauth_signature_method=HMAC-SHA1&amp;oauth_timestamp=1409567602&amp;oauth_version=1.0a&amp;formatid=21&amp;partnerid=712&amp;onbehalfofpartnerid=712&amp;presigned=1&amp;releaseid=263431&amp;shopid=34&amp;trackid=2768346&amp;userid=121404036</url>
                 <format id="21">
-                  <fileFormat>MP4</fileFormat>
-                  <bitRate>0</bitRate>
-                  <drmFree>true</drmFree>
+                  <url>http://media.geo.7digital.com/media/user/downloadtrack?formatid=21&amp;releaseid=263431&amp;shopid=34&amp;trackid=2768346</url>
+                  <description>MP4 0</description>
                 </format>
               </downloadUrl>
               <downloadUrl>
-                <url>http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&amp;oauth_nonce=nnt4qhivmrrsuem0&amp;oauth_signature=UwMb5YTxIK31OhkzqngdQDo6INE%3D&amp;oauth_signature_method=HMAC-SHA1&amp;oauth_timestamp=1409567602&amp;oauth_version=1.0a&amp;formatid=9&amp;partnerid=712&amp;onbehalfofpartnerid=712&amp;presigned=1&amp;releaseid=263431&amp;shopid=34&amp;trackid=2768346&amp;userid=121404036</url>
                 <format id="9">
-                  <fileFormat>MP4</fileFormat>
-                  <bitRate>0</bitRate>
-                  <drmFree>true</drmFree>
+                  <url>http://media.geo.7digital.com/media/user/downloadtrack?formatid=9&amp;releaseid=263431&amp;shopid=34&amp;trackid=2768346</url>
+                  <description>MP4 0</description>
                 </format>
               </downloadUrl>
             </downloadUrls>
@@ -486,19 +440,15 @@
             <completeAlbumPurchase>false</completeAlbumPurchase>
             <downloadUrls>
               <downloadUrl>
-                <url>http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&amp;oauth_nonce=baz97j6x6siazted&amp;oauth_signature=XuF%2BRDAFG8xC1upa2T9Ncim%2Bblc%3D&amp;oauth_signature_method=HMAC-SHA1&amp;oauth_timestamp=1409567602&amp;oauth_version=1.0a&amp;formatid=21&amp;partnerid=712&amp;onbehalfofpartnerid=712&amp;presigned=1&amp;releaseid=263431&amp;shopid=34&amp;trackid=2768348&amp;userid=121404036</url>
                 <format id="21">
-                  <fileFormat>MP4</fileFormat>
-                  <bitRate>0</bitRate>
-                  <drmFree>true</drmFree>
+                  <url>http://media.geo.7digital.com/media/user/downloadtrack?formatid=21&amp;releaseid=263431&amp;shopid=34&amp;trackid=2768348</url>
+                  <description>MP4 0</description>
                 </format>
               </downloadUrl>
               <downloadUrl>
-                <url>http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&amp;oauth_nonce=9helu52gbehmt1vf&amp;oauth_signature=NuQNE6294SY8%2B59bYprzcwqUTm4%3D&amp;oauth_signature_method=HMAC-SHA1&amp;oauth_timestamp=1409567602&amp;oauth_version=1.0a&amp;formatid=9&amp;partnerid=712&amp;onbehalfofpartnerid=712&amp;presigned=1&amp;releaseid=263431&amp;shopid=34&amp;trackid=2768348&amp;userid=121404036</url>
                 <format id="9">
-                  <fileFormat>MP4</fileFormat>
-                  <bitRate>0</bitRate>
-                  <drmFree>true</drmFree>
+                  <url>http://media.geo.7digital.com/media/user/downloadtrack?formatid=9&amp;releaseid=263431&amp;shopid=34&amp;trackid=2768348</url>
+                  <description>MP4 0</description>
                 </format>
               </downloadUrl>
             </downloadUrls>
@@ -523,19 +473,15 @@
             <completeAlbumPurchase>false</completeAlbumPurchase>
             <downloadUrls>
               <downloadUrl>
-                <url>http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&amp;oauth_nonce=hbtt757es6880i74&amp;oauth_signature=42FqT3wVrYi3EU8tKb9eYDneCZQ%3D&amp;oauth_signature_method=HMAC-SHA1&amp;oauth_timestamp=1409567602&amp;oauth_version=1.0a&amp;formatid=21&amp;partnerid=712&amp;onbehalfofpartnerid=712&amp;presigned=1&amp;releaseid=263431&amp;shopid=34&amp;trackid=2768350&amp;userid=121404036</url>
                 <format id="21">
-                  <fileFormat>MP4</fileFormat>
-                  <bitRate>0</bitRate>
-                  <drmFree>true</drmFree>
+                  <url>http://media.geo.7digital.com/media/user/downloadtrack?formatid=21&amp;releaseid=263431&amp;shopid=34&amp;trackid=2768350</url>
+                  <description>MP4 0</description>
                 </format>
               </downloadUrl>
               <downloadUrl>
-                <url>http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&amp;oauth_nonce=mntm0aphit73bsef&amp;oauth_signature=jc25FvpcJweFVbg8XL0cAFB9sz4%3D&amp;oauth_signature_method=HMAC-SHA1&amp;oauth_timestamp=1409567602&amp;oauth_version=1.0a&amp;formatid=9&amp;partnerid=712&amp;onbehalfofpartnerid=712&amp;presigned=1&amp;releaseid=263431&amp;shopid=34&amp;trackid=2768350&amp;userid=121404036</url>
                 <format id="9">
-                  <fileFormat>MP4</fileFormat>
-                  <bitRate>0</bitRate>
-                  <drmFree>true</drmFree>
+                  <url>http://media.geo.7digital.com/media/user/downloadtrack?formatid=9&amp;releaseid=263431&amp;shopid=34&amp;trackid=2768350</url>
+                  <description>MP4 0</description>
                 </format>
               </downloadUrl>
             </downloadUrls>
@@ -560,19 +506,15 @@
             <completeAlbumPurchase>false</completeAlbumPurchase>
             <downloadUrls>
               <downloadUrl>
-                <url>http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&amp;oauth_nonce=8c3xavhela4z75h4&amp;oauth_signature=%2Bo3PPVgHKTSgOgaELizx%2BuoW2YY%3D&amp;oauth_signature_method=HMAC-SHA1&amp;oauth_timestamp=1409567602&amp;oauth_version=1.0a&amp;formatid=21&amp;partnerid=712&amp;onbehalfofpartnerid=712&amp;presigned=1&amp;releaseid=263431&amp;shopid=34&amp;trackid=2768352&amp;userid=121404036</url>
                 <format id="21">
-                  <fileFormat>MP4</fileFormat>
-                  <bitRate>0</bitRate>
-                  <drmFree>true</drmFree>
+                  <url>http://media.geo.7digital.com/media/user/downloadtrack?formatid=21&amp;releaseid=263431&amp;shopid=34&amp;trackid=2768352</url>
+                  <description>MP4 0</description>
                 </format>
               </downloadUrl>
               <downloadUrl>
-                <url>http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&amp;oauth_nonce=ho0fgifgvmkm8dc0&amp;oauth_signature=wHNU7tJRAfUpQ%2FfXDRtu4k8nNyk%3D&amp;oauth_signature_method=HMAC-SHA1&amp;oauth_timestamp=1409567602&amp;oauth_version=1.0a&amp;formatid=9&amp;partnerid=712&amp;onbehalfofpartnerid=712&amp;presigned=1&amp;releaseid=263431&amp;shopid=34&amp;trackid=2768352&amp;userid=121404036</url>
                 <format id="9">
-                  <fileFormat>MP4</fileFormat>
-                  <bitRate>0</bitRate>
-                  <drmFree>true</drmFree>
+                  <url>http://media.geo.7digital.com/media/user/downloadtrack?formatid=9&amp;releaseid=263431&amp;shopid=34&amp;trackid=2768352</url>
+                  <description>MP4 0</description>
                 </format>
               </downloadUrl>
             </downloadUrls>
@@ -597,19 +539,15 @@
             <completeAlbumPurchase>false</completeAlbumPurchase>
             <downloadUrls>
               <downloadUrl>
-                <url>http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&amp;oauth_nonce=2307pj32gpb9h1ko&amp;oauth_signature=nOtWIt2greDJOAfUH3OF1xkIpd8%3D&amp;oauth_signature_method=HMAC-SHA1&amp;oauth_timestamp=1409567602&amp;oauth_version=1.0a&amp;formatid=21&amp;partnerid=712&amp;onbehalfofpartnerid=712&amp;presigned=1&amp;releaseid=263431&amp;shopid=34&amp;trackid=2768354&amp;userid=121404036</url>
                 <format id="21">
-                  <fileFormat>MP4</fileFormat>
-                  <bitRate>0</bitRate>
-                  <drmFree>true</drmFree>
+                  <url>http://media.geo.7digital.com/media/user/downloadtrack?formatid=21&amp;releaseid=263431&amp;shopid=34&amp;trackid=2768354</url>
+                  <description>MP4 0</description>
                 </format>
               </downloadUrl>
               <downloadUrl>
-                <url>http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&amp;oauth_nonce=mdvwt99z8wcyk5hh&amp;oauth_signature=LJn3QJrSngMLh3iOS3BoIU1fji0%3D&amp;oauth_signature_method=HMAC-SHA1&amp;oauth_timestamp=1409567602&amp;oauth_version=1.0a&amp;formatid=9&amp;partnerid=712&amp;onbehalfofpartnerid=712&amp;presigned=1&amp;releaseid=263431&amp;shopid=34&amp;trackid=2768354&amp;userid=121404036</url>
                 <format id="9">
-                  <fileFormat>MP4</fileFormat>
-                  <bitRate>0</bitRate>
-                  <drmFree>true</drmFree>
+                  <url>http://media.geo.7digital.com/media/user/downloadtrack?formatid=9&amp;releaseid=263431&amp;shopid=34&amp;trackid=2768354</url>
+                  <description>MP4 0</description>
                 </format>
               </downloadUrl>
             </downloadUrls>
@@ -634,19 +572,15 @@
             <completeAlbumPurchase>false</completeAlbumPurchase>
             <downloadUrls>
               <downloadUrl>
-                <url>http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&amp;oauth_nonce=858d5ko9vi92gg06&amp;oauth_signature=Sax9S4vc45KV6rWyqCg4X3WR68o%3D&amp;oauth_signature_method=HMAC-SHA1&amp;oauth_timestamp=1409567602&amp;oauth_version=1.0a&amp;formatid=21&amp;partnerid=712&amp;onbehalfofpartnerid=712&amp;presigned=1&amp;releaseid=263431&amp;shopid=34&amp;trackid=2768361&amp;userid=121404036</url>
                 <format id="21">
-                  <fileFormat>MP4</fileFormat>
-                  <bitRate>0</bitRate>
-                  <drmFree>true</drmFree>
+                  <url>http://media.geo.7digital.com/media/user/downloadtrack?formatid=21&amp;releaseid=263431&amp;shopid=34&amp;trackid=2768361</url>
+                  <description>MP4 0</description>
                 </format>
               </downloadUrl>
               <downloadUrl>
-                <url>http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&amp;oauth_nonce=b7a5spq34k03heqm&amp;oauth_signature=FxdSeBd93GdV7TXyaHP%2Fw5O8OZY%3D&amp;oauth_signature_method=HMAC-SHA1&amp;oauth_timestamp=1409567602&amp;oauth_version=1.0a&amp;formatid=9&amp;partnerid=712&amp;onbehalfofpartnerid=712&amp;presigned=1&amp;releaseid=263431&amp;shopid=34&amp;trackid=2768361&amp;userid=121404036</url>
                 <format id="9">
-                  <fileFormat>MP4</fileFormat>
-                  <bitRate>0</bitRate>
-                  <drmFree>true</drmFree>
+                  <url>http://media.geo.7digital.com/media/user/downloadtrack?formatid=9&amp;releaseid=263431&amp;shopid=34&amp;trackid=2768361</url>
+                  <description>MP4 0</description>
                 </format>
               </downloadUrl>
             </downloadUrls>
@@ -671,19 +605,15 @@
             <completeAlbumPurchase>false</completeAlbumPurchase>
             <downloadUrls>
               <downloadUrl>
-                <url>http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&amp;oauth_nonce=h5am3htbzxakahs1&amp;oauth_signature=rP68hoX9R9y9VisbOM7NWOpAmbY%3D&amp;oauth_signature_method=HMAC-SHA1&amp;oauth_timestamp=1409567602&amp;oauth_version=1.0a&amp;formatid=21&amp;partnerid=712&amp;onbehalfofpartnerid=712&amp;presigned=1&amp;releaseid=263431&amp;shopid=34&amp;trackid=2768364&amp;userid=121404036</url>
                 <format id="21">
-                  <fileFormat>MP4</fileFormat>
-                  <bitRate>0</bitRate>
-                  <drmFree>true</drmFree>
+                  <url>http://media.geo.7digital.com/media/user/downloadtrack?formatid=21&amp;releaseid=263431&amp;shopid=34&amp;trackid=2768364</url>
+                  <description>MP4 0</description>
                 </format>
               </downloadUrl>
               <downloadUrl>
-                <url>http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&amp;oauth_nonce=wgxo4mzrnfkulv2r&amp;oauth_signature=Ma0VXhtA4OMHEvDLM1grOMQAzDk%3D&amp;oauth_signature_method=HMAC-SHA1&amp;oauth_timestamp=1409567602&amp;oauth_version=1.0a&amp;formatid=9&amp;partnerid=712&amp;onbehalfofpartnerid=712&amp;presigned=1&amp;releaseid=263431&amp;shopid=34&amp;trackid=2768364&amp;userid=121404036</url>
                 <format id="9">
-                  <fileFormat>MP4</fileFormat>
-                  <bitRate>0</bitRate>
-                  <drmFree>true</drmFree>
+                  <url>http://media.geo.7digital.com/media/user/downloadtrack?formatid=9&amp;releaseid=263431&amp;shopid=34&amp;trackid=2768364</url>
+                  <description>MP4 0</description>
                 </format>
               </downloadUrl>
             </downloadUrls>
@@ -708,19 +638,15 @@
             <completeAlbumPurchase>false</completeAlbumPurchase>
             <downloadUrls>
               <downloadUrl>
-                <url>http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&amp;oauth_nonce=2wtmgwd4n0f5pf3w&amp;oauth_signature=Avi%2FL0aC3rAYBErU7mbMO0zbM10%3D&amp;oauth_signature_method=HMAC-SHA1&amp;oauth_timestamp=1409567602&amp;oauth_version=1.0a&amp;formatid=21&amp;partnerid=712&amp;onbehalfofpartnerid=712&amp;presigned=1&amp;releaseid=263431&amp;shopid=34&amp;trackid=2768365&amp;userid=121404036</url>
                 <format id="21">
-                  <fileFormat>MP4</fileFormat>
-                  <bitRate>0</bitRate>
-                  <drmFree>true</drmFree>
+                  <url>http://media.geo.7digital.com/media/user/downloadtrack?formatid=21&amp;releaseid=263431&amp;shopid=34&amp;trackid=2768365</url>
+                  <description>MP4 0</description>
                 </format>
               </downloadUrl>
               <downloadUrl>
-                <url>http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&amp;oauth_nonce=2igarct6es0w89zd&amp;oauth_signature=gkPW2NcpJfmQpuvYpAb8K0eWYZw%3D&amp;oauth_signature_method=HMAC-SHA1&amp;oauth_timestamp=1409567602&amp;oauth_version=1.0a&amp;formatid=9&amp;partnerid=712&amp;onbehalfofpartnerid=712&amp;presigned=1&amp;releaseid=263431&amp;shopid=34&amp;trackid=2768365&amp;userid=121404036</url>
                 <format id="9">
-                  <fileFormat>MP4</fileFormat>
-                  <bitRate>0</bitRate>
-                  <drmFree>true</drmFree>
+                  <url>http://media.geo.7digital.com/media/user/downloadtrack?formatid=9&amp;releaseid=263431&amp;shopid=34&amp;trackid=2768365</url>
+                  <description>MP4 0</description>
                 </format>
               </downloadUrl>
             </downloadUrls>
@@ -745,19 +671,15 @@
             <completeAlbumPurchase>false</completeAlbumPurchase>
             <downloadUrls>
               <downloadUrl>
-                <url>http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&amp;oauth_nonce=7ttnxguad4a4h5ci&amp;oauth_signature=m3zwuH4BXG%2BJI%2Be%2B%2BU%2BSHfYjxwc%3D&amp;oauth_signature_method=HMAC-SHA1&amp;oauth_timestamp=1409567602&amp;oauth_version=1.0a&amp;formatid=21&amp;partnerid=712&amp;onbehalfofpartnerid=712&amp;presigned=1&amp;releaseid=263431&amp;shopid=34&amp;trackid=2768366&amp;userid=121404036</url>
                 <format id="21">
-                  <fileFormat>MP4</fileFormat>
-                  <bitRate>0</bitRate>
-                  <drmFree>true</drmFree>
+                  <url>http://media.geo.7digital.com/media/user/downloadtrack?formatid=21&amp;releaseid=263431&amp;shopid=34&amp;trackid=2768366</url>
+                  <description>MP4 0</description>
                 </format>
               </downloadUrl>
               <downloadUrl>
-                <url>http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&amp;oauth_nonce=nx4do1aydyhxxq7o&amp;oauth_signature=9VQc7we1gmXLZuiRNfxvMXugV9w%3D&amp;oauth_signature_method=HMAC-SHA1&amp;oauth_timestamp=1409567602&amp;oauth_version=1.0a&amp;formatid=9&amp;partnerid=712&amp;onbehalfofpartnerid=712&amp;presigned=1&amp;releaseid=263431&amp;shopid=34&amp;trackid=2768366&amp;userid=121404036</url>
                 <format id="9">
-                  <fileFormat>MP4</fileFormat>
-                  <bitRate>0</bitRate>
-                  <drmFree>true</drmFree>
+                  <url>http://media.geo.7digital.com/media/user/downloadtrack?formatid=9&amp;releaseid=263431&amp;shopid=34&amp;trackid=2768366</url>
+                  <description>MP4 0</description>
                 </format>
               </downloadUrl>
             </downloadUrls>
@@ -782,19 +704,15 @@
             <completeAlbumPurchase>false</completeAlbumPurchase>
             <downloadUrls>
               <downloadUrl>
-                <url>http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&amp;oauth_nonce=kb96wo9vyg8xczxk&amp;oauth_signature=KL4QlVVrzP5GngZnOuh9SanV3Gg%3D&amp;oauth_signature_method=HMAC-SHA1&amp;oauth_timestamp=1409567602&amp;oauth_version=1.0a&amp;formatid=21&amp;partnerid=712&amp;onbehalfofpartnerid=712&amp;presigned=1&amp;releaseid=263431&amp;shopid=34&amp;trackid=2768367&amp;userid=121404036</url>
                 <format id="21">
-                  <fileFormat>MP4</fileFormat>
-                  <bitRate>0</bitRate>
-                  <drmFree>true</drmFree>
+                  <url>http://media.geo.7digital.com/media/user/downloadtrack?formatid=21&amp;releaseid=263431&amp;shopid=34&amp;trackid=2768367</url>
+                  <description>MP4 0</description>
                 </format>
               </downloadUrl>
               <downloadUrl>
-                <url>http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&amp;oauth_nonce=p1jjfwyft5k097mw&amp;oauth_signature=HJLjtKvTFk6xsqEFcntUs%2FPrYVE%3D&amp;oauth_signature_method=HMAC-SHA1&amp;oauth_timestamp=1409567602&amp;oauth_version=1.0a&amp;formatid=9&amp;partnerid=712&amp;onbehalfofpartnerid=712&amp;presigned=1&amp;releaseid=263431&amp;shopid=34&amp;trackid=2768367&amp;userid=121404036</url>
                 <format id="9">
-                  <fileFormat>MP4</fileFormat>
-                  <bitRate>0</bitRate>
-                  <drmFree>true</drmFree>
+                  <url>http://media.geo.7digital.com/media/user/downloadtrack?formatid=9&amp;releaseid=263431&amp;shopid=34&amp;trackid=2768367</url>
+                  <description>MP4 0</description>
                 </format>
               </downloadUrl>
             </downloadUrls>
@@ -819,19 +737,15 @@
             <completeAlbumPurchase>false</completeAlbumPurchase>
             <downloadUrls>
               <downloadUrl>
-                <url>http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&amp;oauth_nonce=7vtg6hv9yhoi3mwn&amp;oauth_signature=lDU8D63KRf6R0MZNZ5b798Y63ms%3D&amp;oauth_signature_method=HMAC-SHA1&amp;oauth_timestamp=1409567602&amp;oauth_version=1.0a&amp;formatid=21&amp;partnerid=712&amp;onbehalfofpartnerid=712&amp;presigned=1&amp;releaseid=263431&amp;shopid=34&amp;trackid=2768368&amp;userid=121404036</url>
                 <format id="21">
-                  <fileFormat>MP4</fileFormat>
-                  <bitRate>0</bitRate>
-                  <drmFree>true</drmFree>
+                  <url>http://media.geo.7digital.com/media/user/downloadtrack?formatid=21&amp;releaseid=263431&amp;shopid=34&amp;trackid=2768368</url>
+                  <description>MP4 0</description>
                 </format>
               </downloadUrl>
               <downloadUrl>
-                <url>http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&amp;oauth_nonce=b8h7hxjym3m3e0w2&amp;oauth_signature=JPsFytx54oS4qkhQsmVUIKdeU2k%3D&amp;oauth_signature_method=HMAC-SHA1&amp;oauth_timestamp=1409567602&amp;oauth_version=1.0a&amp;formatid=9&amp;partnerid=712&amp;onbehalfofpartnerid=712&amp;presigned=1&amp;releaseid=263431&amp;shopid=34&amp;trackid=2768368&amp;userid=121404036</url>
                 <format id="9">
-                  <fileFormat>MP4</fileFormat>
-                  <bitRate>0</bitRate>
-                  <drmFree>true</drmFree>
+                  <url>http://media.geo.7digital.com/media/user/downloadtrack?formatid=9&amp;releaseid=263431&amp;shopid=34&amp;trackid=2768368</url>
+                  <description>MP4 0</description>
                 </format>
               </downloadUrl>
             </downloadUrls>

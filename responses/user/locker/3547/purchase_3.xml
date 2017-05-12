@@ -18,7 +18,9 @@
           </artist>
           <slug>new-pin-1</slug>
           <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/029/591/0002959123_50.jpg</image>
-          <releaseDate>2006-03-20T00:00:00Z</releaseDate>
+          <download>
+            <releaseDate>2006-03-20T00:00:00Z</releaseDate>
+          </download>
           <licensor id="39"/>
         </release>
         <lockerTracks>
@@ -42,19 +44,15 @@
             <completeAlbumPurchase>false</completeAlbumPurchase>
             <downloadUrls>
               <downloadUrl>
-                <url>http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&amp;oauth_nonce=jabjxkymkqlib3nl&amp;oauth_signature=rylxSJHplfSROjdskx0%2FFrYkjDc%3D&amp;oauth_signature_method=HMAC-SHA1&amp;oauth_timestamp=1415101199&amp;oauth_version=1.0a&amp;formatid=17&amp;partnerid=3923&amp;onbehalfofpartnerid=3923&amp;presigned=1&amp;releaseid=2959123&amp;shopid=0&amp;trackid=31536349&amp;userid=125043073</url>
                 <format id="17">
-                  <fileFormat>MP3</fileFormat>
-                  <bitRate>320</bitRate>
-                  <drmFree>true</drmFree>
+                  <url>http://media.geo.7digital.com/media/user/downloadtrack?formatid=17&amp;releaseid=2959123&amp;shopid=34&amp;trackid=31536349</url>
+                  <description>MP3 320</description>
                 </format>
               </downloadUrl>
               <downloadUrl>
-                <url>http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&amp;oauth_nonce=gumjd8b618r5tqm2&amp;oauth_signature=l238StpSba8i%2FmFP4YTKEpMzW6o%3D&amp;oauth_signature_method=HMAC-SHA1&amp;oauth_timestamp=1415101199&amp;oauth_version=1.0a&amp;formatid=33&amp;partnerid=3923&amp;onbehalfofpartnerid=3923&amp;presigned=1&amp;releaseid=2959123&amp;shopid=0&amp;trackid=31536349&amp;userid=125043073</url>
                 <format id="33">
-                  <fileFormat>AAC</fileFormat>
-                  <bitRate>320</bitRate>
-                  <drmFree>true</drmFree>
+                  <url>http://media.geo.7digital.com/media/user/downloadtrack?formatid=33&amp;releaseid=2959123&amp;shopid=34&amp;trackid=31536349</url>
+                  <description>AAC 320</description>
                 </format>
               </downloadUrl>
             </downloadUrls>
@@ -75,7 +73,9 @@
           </artist>
           <slug>youth-culture-forever-1</slug>
           <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/035/437/0003543780_50.jpg</image>
-          <releaseDate>2014-06-01T00:00:00Z</releaseDate>
+          <download>
+            <releaseDate>2014-06-01T00:00:00Z</releaseDate>
+          </download>
           <licensor id="336"/>
         </release>
         <lockerTracks>
@@ -99,19 +99,15 @@
             <completeAlbumPurchase>true</completeAlbumPurchase>
             <downloadUrls>
               <downloadUrl>
-                <url>http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&amp;oauth_nonce=9jhrim6yui6f252k&amp;oauth_signature=VDV76Ra22NP6q3RuOO1wvmrTpzc%3D&amp;oauth_signature_method=HMAC-SHA1&amp;oauth_timestamp=1415101199&amp;oauth_version=1.0a&amp;formatid=17&amp;partnerid=3923&amp;onbehalfofpartnerid=3923&amp;presigned=1&amp;releaseid=3543780&amp;shopid=0&amp;trackid=37255973&amp;userid=125043073</url>
                 <format id="17">
-                  <fileFormat>MP3</fileFormat>
-                  <bitRate>320</bitRate>
-                  <drmFree>true</drmFree>
+                  <url>http://media.geo.7digital.com/media/user/downloadtrack?formatid=17&amp;releaseid=3543780&amp;shopid=34&amp;trackid=37255973</url>
+                  <description>MP3 320</description>
                 </format>
               </downloadUrl>
               <downloadUrl>
-                <url>http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&amp;oauth_nonce=c4fussbm0gtz4445&amp;oauth_signature=IY%2BopXkKTdXtjPOkk%2BlU3FTh3Mk%3D&amp;oauth_signature_method=HMAC-SHA1&amp;oauth_timestamp=1415101199&amp;oauth_version=1.0a&amp;formatid=33&amp;partnerid=3923&amp;onbehalfofpartnerid=3923&amp;presigned=1&amp;releaseid=3543780&amp;shopid=0&amp;trackid=37255973&amp;userid=125043073</url>
                 <format id="33">
-                  <fileFormat>AAC</fileFormat>
-                  <bitRate>320</bitRate>
-                  <drmFree>true</drmFree>
+                  <url>http://media.geo.7digital.com/media/user/downloadtrack?formatid=33&amp;releaseid=3543780&amp;shopid=34&amp;trackid=37255973</url>
+                  <description>AAC 320</description>
                 </format>
               </downloadUrl>
             </downloadUrls>
@@ -136,19 +132,15 @@
             <completeAlbumPurchase>true</completeAlbumPurchase>
             <downloadUrls>
               <downloadUrl>
-                <url>http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&amp;oauth_nonce=etj3u6c4yyy5c6d6&amp;oauth_signature=BztLNZR1eoCp5JgEY%2FbUnsKlOJg%3D&amp;oauth_signature_method=HMAC-SHA1&amp;oauth_timestamp=1415101199&amp;oauth_version=1.0a&amp;formatid=17&amp;partnerid=3923&amp;onbehalfofpartnerid=3923&amp;presigned=1&amp;releaseid=3543780&amp;shopid=0&amp;trackid=37255975&amp;userid=125043073</url>
                 <format id="17">
-                  <fileFormat>MP3</fileFormat>
-                  <bitRate>320</bitRate>
-                  <drmFree>true</drmFree>
+                  <url>http://media.geo.7digital.com/media/user/downloadtrack?formatid=17&amp;releaseid=3543780&amp;shopid=34&amp;trackid=37255975</url>
+                  <description>MP3 320</description>
                 </format>
               </downloadUrl>
               <downloadUrl>
-                <url>http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&amp;oauth_nonce=fg2zk2jqh5sc4f61&amp;oauth_signature=U7Zddx72NvuHAZBQ%2FMcYfS3O2B8%3D&amp;oauth_signature_method=HMAC-SHA1&amp;oauth_timestamp=1415101199&amp;oauth_version=1.0a&amp;formatid=33&amp;partnerid=3923&amp;onbehalfofpartnerid=3923&amp;presigned=1&amp;releaseid=3543780&amp;shopid=0&amp;trackid=37255975&amp;userid=125043073</url>
                 <format id="33">
-                  <fileFormat>AAC</fileFormat>
-                  <bitRate>320</bitRate>
-                  <drmFree>true</drmFree>
+                  <url>http://media.geo.7digital.com/media/user/downloadtrack?formatid=33&amp;releaseid=3543780&amp;shopid=34&amp;trackid=37255975</url>
+                  <description>AAC 320</description>
                 </format>
               </downloadUrl>
             </downloadUrls>
@@ -173,19 +165,15 @@
             <completeAlbumPurchase>true</completeAlbumPurchase>
             <downloadUrls>
               <downloadUrl>
-                <url>http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&amp;oauth_nonce=pbbhv0zh2l754gjd&amp;oauth_signature=A3FzLm0CQ%2F2CgiUjs2cZXEnsU2c%3D&amp;oauth_signature_method=HMAC-SHA1&amp;oauth_timestamp=1415101199&amp;oauth_version=1.0a&amp;formatid=17&amp;partnerid=3923&amp;onbehalfofpartnerid=3923&amp;presigned=1&amp;releaseid=3543780&amp;shopid=0&amp;trackid=37255977&amp;userid=125043073</url>
                 <format id="17">
-                  <fileFormat>MP3</fileFormat>
-                  <bitRate>320</bitRate>
-                  <drmFree>true</drmFree>
+                  <url>http://media.geo.7digital.com/media/user/downloadtrack?formatid=17&amp;releaseid=3543780&amp;shopid=34&amp;trackid=37255977</url>
+                  <description>MP3 320</description>
                 </format>
               </downloadUrl>
               <downloadUrl>
-                <url>http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&amp;oauth_nonce=dyuwcdtnk4u1maat&amp;oauth_signature=7scswqKVpyLJMh2YOa6Rj8ElrpM%3D&amp;oauth_signature_method=HMAC-SHA1&amp;oauth_timestamp=1415101199&amp;oauth_version=1.0a&amp;formatid=33&amp;partnerid=3923&amp;onbehalfofpartnerid=3923&amp;presigned=1&amp;releaseid=3543780&amp;shopid=0&amp;trackid=37255977&amp;userid=125043073</url>
                 <format id="33">
-                  <fileFormat>AAC</fileFormat>
-                  <bitRate>320</bitRate>
-                  <drmFree>true</drmFree>
+                  <url>http://media.geo.7digital.com/media/user/downloadtrack?formatid=33&amp;releaseid=3543780&amp;shopid=34&amp;trackid=37255977</url>
+                  <description>AAC 320</description>
                 </format>
               </downloadUrl>
             </downloadUrls>
@@ -210,19 +198,15 @@
             <completeAlbumPurchase>true</completeAlbumPurchase>
             <downloadUrls>
               <downloadUrl>
-                <url>http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&amp;oauth_nonce=38pb56kfrt996pxa&amp;oauth_signature=VpC2Zi4BKpD0ob57IOigXYeM4A8%3D&amp;oauth_signature_method=HMAC-SHA1&amp;oauth_timestamp=1415101199&amp;oauth_version=1.0a&amp;formatid=17&amp;partnerid=3923&amp;onbehalfofpartnerid=3923&amp;presigned=1&amp;releaseid=3543780&amp;shopid=0&amp;trackid=37255979&amp;userid=125043073</url>
                 <format id="17">
-                  <fileFormat>MP3</fileFormat>
-                  <bitRate>320</bitRate>
-                  <drmFree>true</drmFree>
+                  <url>http://media.geo.7digital.com/media/user/downloadtrack?formatid=17&amp;releaseid=3543780&amp;shopid=34&amp;trackid=37255979</url>
+                  <description>MP3 320</description>
                 </format>
               </downloadUrl>
               <downloadUrl>
-                <url>http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&amp;oauth_nonce=vp0evjymrx82p062&amp;oauth_signature=gHbn3jPaJDKgZjmP32NcIUlexrs%3D&amp;oauth_signature_method=HMAC-SHA1&amp;oauth_timestamp=1415101199&amp;oauth_version=1.0a&amp;formatid=33&amp;partnerid=3923&amp;onbehalfofpartnerid=3923&amp;presigned=1&amp;releaseid=3543780&amp;shopid=0&amp;trackid=37255979&amp;userid=125043073</url>
                 <format id="33">
-                  <fileFormat>AAC</fileFormat>
-                  <bitRate>320</bitRate>
-                  <drmFree>true</drmFree>
+                  <url>http://media.geo.7digital.com/media/user/downloadtrack?formatid=33&amp;releaseid=3543780&amp;shopid=34&amp;trackid=37255979</url>
+                  <description>AAC 320</description>
                 </format>
               </downloadUrl>
             </downloadUrls>
@@ -247,19 +231,15 @@
             <completeAlbumPurchase>true</completeAlbumPurchase>
             <downloadUrls>
               <downloadUrl>
-                <url>http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&amp;oauth_nonce=lmb72iihoofsfus5&amp;oauth_signature=saLeYN3yI43t7NkmZoekEwg1z4Q%3D&amp;oauth_signature_method=HMAC-SHA1&amp;oauth_timestamp=1415101199&amp;oauth_version=1.0a&amp;formatid=17&amp;partnerid=3923&amp;onbehalfofpartnerid=3923&amp;presigned=1&amp;releaseid=3543780&amp;shopid=0&amp;trackid=37255980&amp;userid=125043073</url>
                 <format id="17">
-                  <fileFormat>MP3</fileFormat>
-                  <bitRate>320</bitRate>
-                  <drmFree>true</drmFree>
+                  <url>http://media.geo.7digital.com/media/user/downloadtrack?formatid=17&amp;releaseid=3543780&amp;shopid=34&amp;trackid=37255980</url>
+                  <description>MP3 320</description>
                 </format>
               </downloadUrl>
               <downloadUrl>
-                <url>http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&amp;oauth_nonce=fue8b78tidth8s1r&amp;oauth_signature=P2HoGiNqQemiuxgSVUnah113kxQ%3D&amp;oauth_signature_method=HMAC-SHA1&amp;oauth_timestamp=1415101199&amp;oauth_version=1.0a&amp;formatid=33&amp;partnerid=3923&amp;onbehalfofpartnerid=3923&amp;presigned=1&amp;releaseid=3543780&amp;shopid=0&amp;trackid=37255980&amp;userid=125043073</url>
                 <format id="33">
-                  <fileFormat>AAC</fileFormat>
-                  <bitRate>320</bitRate>
-                  <drmFree>true</drmFree>
+                  <url>http://media.geo.7digital.com/media/user/downloadtrack?formatid=33&amp;releaseid=3543780&amp;shopid=34&amp;trackid=37255980</url>
+                  <description>AAC 320</description>
                 </format>
               </downloadUrl>
             </downloadUrls>
@@ -284,19 +264,15 @@
             <completeAlbumPurchase>true</completeAlbumPurchase>
             <downloadUrls>
               <downloadUrl>
-                <url>http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&amp;oauth_nonce=yhxso2img21hdgg7&amp;oauth_signature=1%2FvQdAzFAWXU%2F9CgrfcVFBO%2BNWU%3D&amp;oauth_signature_method=HMAC-SHA1&amp;oauth_timestamp=1415101199&amp;oauth_version=1.0a&amp;formatid=17&amp;partnerid=3923&amp;onbehalfofpartnerid=3923&amp;presigned=1&amp;releaseid=3543780&amp;shopid=0&amp;trackid=37255982&amp;userid=125043073</url>
                 <format id="17">
-                  <fileFormat>MP3</fileFormat>
-                  <bitRate>320</bitRate>
-                  <drmFree>true</drmFree>
+                  <url>http://media.geo.7digital.com/media/user/downloadtrack?formatid=17&amp;releaseid=3543780&amp;shopid=34&amp;trackid=37255982</url>
+                  <description>MP3 320</description>
                 </format>
               </downloadUrl>
               <downloadUrl>
-                <url>http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&amp;oauth_nonce=fdw659zoprxyybj6&amp;oauth_signature=wYFYi7%2BWG7LS2dS7%2FH540zIGQuc%3D&amp;oauth_signature_method=HMAC-SHA1&amp;oauth_timestamp=1415101199&amp;oauth_version=1.0a&amp;formatid=33&amp;partnerid=3923&amp;onbehalfofpartnerid=3923&amp;presigned=1&amp;releaseid=3543780&amp;shopid=0&amp;trackid=37255982&amp;userid=125043073</url>
                 <format id="33">
-                  <fileFormat>AAC</fileFormat>
-                  <bitRate>320</bitRate>
-                  <drmFree>true</drmFree>
+                  <url>http://media.geo.7digital.com/media/user/downloadtrack?formatid=33&amp;releaseid=3543780&amp;shopid=34&amp;trackid=37255982</url>
+                  <description>AAC 320</description>
                 </format>
               </downloadUrl>
             </downloadUrls>
@@ -321,19 +297,15 @@
             <completeAlbumPurchase>true</completeAlbumPurchase>
             <downloadUrls>
               <downloadUrl>
-                <url>http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&amp;oauth_nonce=xx498aqol31jf1pc&amp;oauth_signature=JKazyvP4Kre2sxAjgPrmR8yvv9w%3D&amp;oauth_signature_method=HMAC-SHA1&amp;oauth_timestamp=1415101199&amp;oauth_version=1.0a&amp;formatid=17&amp;partnerid=3923&amp;onbehalfofpartnerid=3923&amp;presigned=1&amp;releaseid=3543780&amp;shopid=0&amp;trackid=37255984&amp;userid=125043073</url>
                 <format id="17">
-                  <fileFormat>MP3</fileFormat>
-                  <bitRate>320</bitRate>
-                  <drmFree>true</drmFree>
+                  <url>http://media.geo.7digital.com/media/user/downloadtrack?formatid=17&amp;releaseid=3543780&amp;shopid=34&amp;trackid=37255984</url>
+                  <description>MP3 320</description>
                 </format>
               </downloadUrl>
               <downloadUrl>
-                <url>http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&amp;oauth_nonce=7wc576w1rid7euxf&amp;oauth_signature=14OAP2VGWQrROgBgaZDjslJ%2BOOg%3D&amp;oauth_signature_method=HMAC-SHA1&amp;oauth_timestamp=1415101199&amp;oauth_version=1.0a&amp;formatid=33&amp;partnerid=3923&amp;onbehalfofpartnerid=3923&amp;presigned=1&amp;releaseid=3543780&amp;shopid=0&amp;trackid=37255984&amp;userid=125043073</url>
                 <format id="33">
-                  <fileFormat>AAC</fileFormat>
-                  <bitRate>320</bitRate>
-                  <drmFree>true</drmFree>
+                  <url>http://media.geo.7digital.com/media/user/downloadtrack?formatid=33&amp;releaseid=3543780&amp;shopid=34&amp;trackid=37255984</url>
+                  <description>AAC 320</description>
                 </format>
               </downloadUrl>
             </downloadUrls>
@@ -358,19 +330,15 @@
             <completeAlbumPurchase>true</completeAlbumPurchase>
             <downloadUrls>
               <downloadUrl>
-                <url>http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&amp;oauth_nonce=r5tpmi0ewhuchqjy&amp;oauth_signature=wGHlcZxzSu6kfnZCcXMjNSZ00KE%3D&amp;oauth_signature_method=HMAC-SHA1&amp;oauth_timestamp=1415101199&amp;oauth_version=1.0a&amp;formatid=17&amp;partnerid=3923&amp;onbehalfofpartnerid=3923&amp;presigned=1&amp;releaseid=3543780&amp;shopid=0&amp;trackid=37255986&amp;userid=125043073</url>
                 <format id="17">
-                  <fileFormat>MP3</fileFormat>
-                  <bitRate>320</bitRate>
-                  <drmFree>true</drmFree>
+                  <url>http://media.geo.7digital.com/media/user/downloadtrack?formatid=17&amp;releaseid=3543780&amp;shopid=34&amp;trackid=37255986</url>
+                  <description>MP3 320</description>
                 </format>
               </downloadUrl>
               <downloadUrl>
-                <url>http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&amp;oauth_nonce=cu3c9p03bdqy8uk1&amp;oauth_signature=RlwLh8cfCyrkfwBXG%2FllMGpMKhs%3D&amp;oauth_signature_method=HMAC-SHA1&amp;oauth_timestamp=1415101199&amp;oauth_version=1.0a&amp;formatid=33&amp;partnerid=3923&amp;onbehalfofpartnerid=3923&amp;presigned=1&amp;releaseid=3543780&amp;shopid=0&amp;trackid=37255986&amp;userid=125043073</url>
                 <format id="33">
-                  <fileFormat>AAC</fileFormat>
-                  <bitRate>320</bitRate>
-                  <drmFree>true</drmFree>
+                  <url>http://media.geo.7digital.com/media/user/downloadtrack?formatid=33&amp;releaseid=3543780&amp;shopid=34&amp;trackid=37255986</url>
+                  <description>AAC 320</description>
                 </format>
               </downloadUrl>
             </downloadUrls>
@@ -395,19 +363,15 @@
             <completeAlbumPurchase>true</completeAlbumPurchase>
             <downloadUrls>
               <downloadUrl>
-                <url>http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&amp;oauth_nonce=eu2kg01xw8hyltsa&amp;oauth_signature=aSgt3nSikZIyEhmLnBD%2FfP06FpA%3D&amp;oauth_signature_method=HMAC-SHA1&amp;oauth_timestamp=1415101199&amp;oauth_version=1.0a&amp;formatid=17&amp;partnerid=3923&amp;onbehalfofpartnerid=3923&amp;presigned=1&amp;releaseid=3543780&amp;shopid=0&amp;trackid=37255987&amp;userid=125043073</url>
                 <format id="17">
-                  <fileFormat>MP3</fileFormat>
-                  <bitRate>320</bitRate>
-                  <drmFree>true</drmFree>
+                  <url>http://media.geo.7digital.com/media/user/downloadtrack?formatid=17&amp;releaseid=3543780&amp;shopid=34&amp;trackid=37255987</url>
+                  <description>MP3 320</description>
                 </format>
               </downloadUrl>
               <downloadUrl>
-                <url>http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&amp;oauth_nonce=0o4t3vgc62oi2lhc&amp;oauth_signature=PHGswy7D93HYSp0SCKttzt6Idtc%3D&amp;oauth_signature_method=HMAC-SHA1&amp;oauth_timestamp=1415101199&amp;oauth_version=1.0a&amp;formatid=33&amp;partnerid=3923&amp;onbehalfofpartnerid=3923&amp;presigned=1&amp;releaseid=3543780&amp;shopid=0&amp;trackid=37255987&amp;userid=125043073</url>
                 <format id="33">
-                  <fileFormat>AAC</fileFormat>
-                  <bitRate>320</bitRate>
-                  <drmFree>true</drmFree>
+                  <url>http://media.geo.7digital.com/media/user/downloadtrack?formatid=33&amp;releaseid=3543780&amp;shopid=34&amp;trackid=37255987</url>
+                  <description>AAC 320</description>
                 </format>
               </downloadUrl>
             </downloadUrls>
@@ -432,19 +396,15 @@
             <completeAlbumPurchase>true</completeAlbumPurchase>
             <downloadUrls>
               <downloadUrl>
-                <url>http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&amp;oauth_nonce=849xy0sc4epbhlrr&amp;oauth_signature=XZuek0MlZx6bG9zcnaSGy4LTfMI%3D&amp;oauth_signature_method=HMAC-SHA1&amp;oauth_timestamp=1415101199&amp;oauth_version=1.0a&amp;formatid=17&amp;partnerid=3923&amp;onbehalfofpartnerid=3923&amp;presigned=1&amp;releaseid=3543780&amp;shopid=0&amp;trackid=37255989&amp;userid=125043073</url>
                 <format id="17">
-                  <fileFormat>MP3</fileFormat>
-                  <bitRate>320</bitRate>
-                  <drmFree>true</drmFree>
+                  <url>http://media.geo.7digital.com/media/user/downloadtrack?formatid=17&amp;releaseid=3543780&amp;shopid=34&amp;trackid=37255989</url>
+                  <description>MP3 320</description>
                 </format>
               </downloadUrl>
               <downloadUrl>
-                <url>http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&amp;oauth_nonce=vqzs119snyppvr6l&amp;oauth_signature=X9%2BbhBPZcDBK4VKtNK8K8R2B0YU%3D&amp;oauth_signature_method=HMAC-SHA1&amp;oauth_timestamp=1415101199&amp;oauth_version=1.0a&amp;formatid=33&amp;partnerid=3923&amp;onbehalfofpartnerid=3923&amp;presigned=1&amp;releaseid=3543780&amp;shopid=0&amp;trackid=37255989&amp;userid=125043073</url>
                 <format id="33">
-                  <fileFormat>AAC</fileFormat>
-                  <bitRate>320</bitRate>
-                  <drmFree>true</drmFree>
+                  <url>http://media.geo.7digital.com/media/user/downloadtrack?formatid=33&amp;releaseid=3543780&amp;shopid=34&amp;trackid=37255989</url>
+                  <description>AAC 320</description>
                 </format>
               </downloadUrl>
             </downloadUrls>
@@ -469,19 +429,15 @@
             <completeAlbumPurchase>true</completeAlbumPurchase>
             <downloadUrls>
               <downloadUrl>
-                <url>http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&amp;oauth_nonce=zf2sv6m072zxff6u&amp;oauth_signature=C2YqA4ZEe%2F%2B522GYzeOfG8nyWig%3D&amp;oauth_signature_method=HMAC-SHA1&amp;oauth_timestamp=1415101199&amp;oauth_version=1.0a&amp;formatid=17&amp;partnerid=3923&amp;onbehalfofpartnerid=3923&amp;presigned=1&amp;releaseid=3543780&amp;shopid=0&amp;trackid=37255991&amp;userid=125043073</url>
                 <format id="17">
-                  <fileFormat>MP3</fileFormat>
-                  <bitRate>320</bitRate>
-                  <drmFree>true</drmFree>
+                  <url>http://media.geo.7digital.com/media/user/downloadtrack?formatid=17&amp;releaseid=3543780&amp;shopid=34&amp;trackid=37255991</url>
+                  <description>MP3 320</description>
                 </format>
               </downloadUrl>
               <downloadUrl>
-                <url>http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&amp;oauth_nonce=j8xlwylg5pj0tcrl&amp;oauth_signature=ihG7e1bR6Z%2FOfR%2FM5HpRirm39ew%3D&amp;oauth_signature_method=HMAC-SHA1&amp;oauth_timestamp=1415101199&amp;oauth_version=1.0a&amp;formatid=33&amp;partnerid=3923&amp;onbehalfofpartnerid=3923&amp;presigned=1&amp;releaseid=3543780&amp;shopid=0&amp;trackid=37255991&amp;userid=125043073</url>
                 <format id="33">
-                  <fileFormat>AAC</fileFormat>
-                  <bitRate>320</bitRate>
-                  <drmFree>true</drmFree>
+                  <url>http://media.geo.7digital.com/media/user/downloadtrack?formatid=33&amp;releaseid=3543780&amp;shopid=34&amp;trackid=37255991</url>
+                  <description>AAC 320</description>
                 </format>
               </downloadUrl>
             </downloadUrls>
@@ -506,19 +462,15 @@
             <completeAlbumPurchase>true</completeAlbumPurchase>
             <downloadUrls>
               <downloadUrl>
-                <url>http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&amp;oauth_nonce=ielbt07zezw0almi&amp;oauth_signature=N9lqLY2XPCTRXhdI27jevpP0ryg%3D&amp;oauth_signature_method=HMAC-SHA1&amp;oauth_timestamp=1415101199&amp;oauth_version=1.0a&amp;formatid=17&amp;partnerid=3923&amp;onbehalfofpartnerid=3923&amp;presigned=1&amp;releaseid=3543780&amp;shopid=0&amp;trackid=37255993&amp;userid=125043073</url>
                 <format id="17">
-                  <fileFormat>MP3</fileFormat>
-                  <bitRate>320</bitRate>
-                  <drmFree>true</drmFree>
+                  <url>http://media.geo.7digital.com/media/user/downloadtrack?formatid=17&amp;releaseid=3543780&amp;shopid=34&amp;trackid=37255993</url>
+                  <description>MP3 320</description>
                 </format>
               </downloadUrl>
               <downloadUrl>
-                <url>http://media.geo.7digital.com/media/user/downloadtrack?oauth_consumer_key=7djre5mr5e9z&amp;oauth_nonce=46fy5tzb5vxfvmq4&amp;oauth_signature=CMvMPuD6sUCHaW0Bgb3lukGDgTE%3D&amp;oauth_signature_method=HMAC-SHA1&amp;oauth_timestamp=1415101199&amp;oauth_version=1.0a&amp;formatid=33&amp;partnerid=3923&amp;onbehalfofpartnerid=3923&amp;presigned=1&amp;releaseid=3543780&amp;shopid=0&amp;trackid=37255993&amp;userid=125043073</url>
                 <format id="33">
-                  <fileFormat>AAC</fileFormat>
-                  <bitRate>320</bitRate>
-                  <drmFree>true</drmFree>
+                  <url>http://media.geo.7digital.com/media/user/downloadtrack?formatid=33&amp;releaseid=3543780&amp;shopid=34&amp;trackid=37255993</url>
+                  <description>AAC 320</description>
                 </format>
               </downloadUrl>
             </downloadUrls>

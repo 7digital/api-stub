@@ -18,7 +18,9 @@
           </artist>
           <slug>perfect-symmetry-1</slug>
           <image>http://artwork-cdn.7static.com/static/img/sleeveart/00/003/208/0000320866_50.jpg</image>
-          <releaseDate>2008-10-13T00:00:00+01:00</releaseDate>
+          <download>
+            <releaseDate>2008-10-13T00:00:00+01:00</releaseDate>
+          </download>
         </release>
         <lockerTracks>
           <lockerTrack>
@@ -38,11 +40,9 @@
             <purchaseDate>2012-05-28T14:01:14+01:00</purchaseDate>
             <downloadUrls>
               <downloadUrl>
-                <url>http://media3.7digital.com/media/user/downloadtrack?formatid=17&amp;oauth_consumer_key=7digital.com&amp;oauth_nonce=994269588&amp;oauth_signature_method=HMAC-SHA1&amp;oauth_timestamp=1338210356&amp;releaseid=320866&amp;shopid=34&amp;trackid=3615513&amp;oauth_signature=q2nXVXkHhKWlLwq7Q7QJvKMTYv8%3D</url>
                 <format id="17">
-                  <fileFormat>MP3</fileFormat>
-                  <bitRate>320</bitRate>
-                  <drmFree>true</drmFree>
+                  <url>http://media.geo.7digital.com/media/user/downloadtrack?formatid=17&amp;releaseid=320866&amp;shopid=34&amp;trackid=3615513</url>
+                  <description>MP3 320</description>
                 </format>
               </downloadUrl>
             </downloadUrls>
@@ -64,11 +64,9 @@
             <purchaseDate>2012-05-28T14:01:14+01:00</purchaseDate>
             <downloadUrls>
               <downloadUrl>
-                <url>http://media3.7digital.com/media/user/downloadtrack?formatid=17&amp;oauth_consumer_key=7digital.com&amp;oauth_nonce=124933499&amp;oauth_signature_method=HMAC-SHA1&amp;oauth_timestamp=1338210356&amp;releaseid=320866&amp;shopid=34&amp;trackid=3615515&amp;oauth_signature=%2B0bb76C%2FdKNdb9NEbkWHWwBeNfo%3D</url>
                 <format id="17">
-                  <fileFormat>MP3</fileFormat>
-                  <bitRate>320</bitRate>
-                  <drmFree>true</drmFree>
+                  <url>http://media.geo.7digital.com/media/user/downloadtrack?formatid=17&amp;releaseid=320866&amp;shopid=34&amp;trackid=3615515</url>
+                  <description>MP3 320</description>
                 </format>
               </downloadUrl>
             </downloadUrls>
@@ -90,11 +88,9 @@
             <purchaseDate>2012-05-28T14:01:14+01:00</purchaseDate>
             <downloadUrls>
               <downloadUrl>
-                <url>http://media3.7digital.com/media/user/downloadtrack?formatid=17&amp;oauth_consumer_key=7digital.com&amp;oauth_nonce=58400880&amp;oauth_signature_method=HMAC-SHA1&amp;oauth_timestamp=1338210356&amp;releaseid=320866&amp;shopid=34&amp;trackid=3615516&amp;oauth_signature=eov0UkR10d7A4%2FPWMcq9Q1K6GVY%3D</url>
                 <format id="17">
-                  <fileFormat>MP3</fileFormat>
-                  <bitRate>320</bitRate>
-                  <drmFree>true</drmFree>
+                  <url>http://media.geo.7digital.com/media/user/downloadtrack?formatid=17&amp;releaseid=320866&amp;shopid=34&amp;trackid=3615516</url>
+                  <description>MP3 320</description>
                 </format>
               </downloadUrl>
             </downloadUrls>
@@ -116,11 +112,9 @@
             <purchaseDate>2012-05-28T14:01:14+01:00</purchaseDate>
             <downloadUrls>
               <downloadUrl>
-                <url>http://media3.7digital.com/media/user/downloadtrack?formatid=17&amp;oauth_consumer_key=7digital.com&amp;oauth_nonce=1683834263&amp;oauth_signature_method=HMAC-SHA1&amp;oauth_timestamp=1338210356&amp;releaseid=320866&amp;shopid=34&amp;trackid=3615518&amp;oauth_signature=4kNliSKL4n928JYAxcLt%2F9qhAMA%3D</url>
                 <format id="17">
-                  <fileFormat>MP3</fileFormat>
-                  <bitRate>320</bitRate>
-                  <drmFree>true</drmFree>
+                  <url>http://media.geo.7digital.com/media/user/downloadtrack?formatid=17&amp;releaseid=320866&amp;shopid=34&amp;trackid=3615518</url>
+                  <description>MP3 320</description>
                 </format>
               </downloadUrl>
             </downloadUrls>
@@ -142,11 +136,9 @@
             <purchaseDate>2012-05-28T14:01:14+01:00</purchaseDate>
             <downloadUrls>
               <downloadUrl>
-                <url>http://media3.7digital.com/media/user/downloadtrack?formatid=17&amp;oauth_consumer_key=7digital.com&amp;oauth_nonce=867995858&amp;oauth_signature_method=HMAC-SHA1&amp;oauth_timestamp=1338210356&amp;releaseid=320866&amp;shopid=34&amp;trackid=3615519&amp;oauth_signature=%2FgKt9bwwMjiSGjXm6veEt5tbOkc%3D</url>
                 <format id="17">
-                  <fileFormat>MP3</fileFormat>
-                  <bitRate>320</bitRate>
-                  <drmFree>true</drmFree>
+                  <url>http://media.geo.7digital.com/media/user/downloadtrack?formatid=17&amp;releaseid=320866&amp;shopid=34&amp;trackid=3615519</url>
+                  <description>MP3 320</description>
                 </format>
               </downloadUrl>
             </downloadUrls>
@@ -168,11 +160,9 @@
             <purchaseDate>2012-05-28T14:01:14+01:00</purchaseDate>
             <downloadUrls>
               <downloadUrl>
-                <url>http://media3.7digital.com/media/user/downloadtrack?formatid=17&amp;oauth_consumer_key=7digital.com&amp;oauth_nonce=1105008255&amp;oauth_signature_method=HMAC-SHA1&amp;oauth_timestamp=1338210356&amp;releaseid=320866&amp;shopid=34&amp;trackid=3615520&amp;oauth_signature=j7TpQbzPpDATwzwIZ84JBqnwgd0%3D</url>
                 <format id="17">
-                  <fileFormat>MP3</fileFormat>
-                  <bitRate>320</bitRate>
-                  <drmFree>true</drmFree>
+                  <url>http://media.geo.7digital.com/media/user/downloadtrack?formatid=17&amp;releaseid=320866&amp;shopid=34&amp;trackid=3615520</url>
+                  <description>MP3 320</description>
                 </format>
               </downloadUrl>
             </downloadUrls>
@@ -194,11 +184,9 @@
             <purchaseDate>2012-05-28T14:01:14+01:00</purchaseDate>
             <downloadUrls>
               <downloadUrl>
-                <url>http://media3.7digital.com/media/user/downloadtrack?formatid=17&amp;oauth_consumer_key=7digital.com&amp;oauth_nonce=1250053515&amp;oauth_signature_method=HMAC-SHA1&amp;oauth_timestamp=1338210356&amp;releaseid=320866&amp;shopid=34&amp;trackid=3615522&amp;oauth_signature=vovvW3g1ekzmlxnB%2Bpt1DZFweSE%3D</url>
                 <format id="17">
-                  <fileFormat>MP3</fileFormat>
-                  <bitRate>320</bitRate>
-                  <drmFree>true</drmFree>
+                  <url>http://media.geo.7digital.com/media/user/downloadtrack?formatid=17&amp;releaseid=320866&amp;shopid=34&amp;trackid=3615522</url>
+                  <description>MP3 320</description>
                 </format>
               </downloadUrl>
             </downloadUrls>
@@ -220,11 +208,9 @@
             <purchaseDate>2012-05-28T14:01:14+01:00</purchaseDate>
             <downloadUrls>
               <downloadUrl>
-                <url>http://media3.7digital.com/media/user/downloadtrack?formatid=17&amp;oauth_consumer_key=7digital.com&amp;oauth_nonce=712897357&amp;oauth_signature_method=HMAC-SHA1&amp;oauth_timestamp=1338210356&amp;releaseid=320866&amp;shopid=34&amp;trackid=3615523&amp;oauth_signature=24XouraZxBiuUvip6qKz3otbleI%3D</url>
                 <format id="17">
-                  <fileFormat>MP3</fileFormat>
-                  <bitRate>320</bitRate>
-                  <drmFree>true</drmFree>
+                  <url>http://media.geo.7digital.com/media/user/downloadtrack?formatid=17&amp;releaseid=320866&amp;shopid=34&amp;trackid=3615523</url>
+                  <description>MP3 320</description>
                 </format>
               </downloadUrl>
             </downloadUrls>
@@ -246,11 +232,9 @@
             <purchaseDate>2012-05-28T14:01:14+01:00</purchaseDate>
             <downloadUrls>
               <downloadUrl>
-                <url>http://media3.7digital.com/media/user/downloadtrack?formatid=17&amp;oauth_consumer_key=7digital.com&amp;oauth_nonce=795556436&amp;oauth_signature_method=HMAC-SHA1&amp;oauth_timestamp=1338210356&amp;releaseid=320866&amp;shopid=34&amp;trackid=3615524&amp;oauth_signature=V%2BwrJABdEqD%2BK5Tiqs09rSuHNw8%3D</url>
                 <format id="17">
-                  <fileFormat>MP3</fileFormat>
-                  <bitRate>320</bitRate>
-                  <drmFree>true</drmFree>
+                  <url>http://media.geo.7digital.com/media/user/downloadtrack?formatid=17&amp;releaseid=320866&amp;shopid=34&amp;trackid=3615524</url>
+                  <description>MP3 320</description>
                 </format>
               </downloadUrl>
             </downloadUrls>
@@ -272,11 +256,9 @@
             <purchaseDate>2012-05-28T14:01:14+01:00</purchaseDate>
             <downloadUrls>
               <downloadUrl>
-                <url>http://media3.7digital.com/media/user/downloadtrack?formatid=17&amp;oauth_consumer_key=7digital.com&amp;oauth_nonce=1000838283&amp;oauth_signature_method=HMAC-SHA1&amp;oauth_timestamp=1338210356&amp;releaseid=320866&amp;shopid=34&amp;trackid=3615526&amp;oauth_signature=WHNsIdqvrsdH9HbKqmVvxPVJPn8%3D</url>
                 <format id="17">
-                  <fileFormat>MP3</fileFormat>
-                  <bitRate>320</bitRate>
-                  <drmFree>true</drmFree>
+                  <url>http://media.geo.7digital.com/media/user/downloadtrack?formatid=17&amp;releaseid=320866&amp;shopid=34&amp;trackid=3615526</url>
+                  <description>MP3 320</description>
                 </format>
               </downloadUrl>
             </downloadUrls>
