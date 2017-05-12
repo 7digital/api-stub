@@ -2793,7 +2793,7 @@
         {
           "release": {
             "id": "1627544",
-            "title": "Elvis",
+            "title": "Elvis takedown",
             "version": "",
             "type": "Album",
             "barcode": "7640138331084",
@@ -2807,9 +2807,6 @@
             "image": "http://artwork-cdn.7static.com/static/img/sleeveart/00/016/275/0001627544_50.jpg",
             "licensor": {
               "id": "68"
-            },
-            "download": {
-              "releaseDate": "2012-02-24T00:00:00Z"
             }
           },
           "lockerTracks": {
@@ -3696,7 +3693,7 @@
               }
             ]
           },
-          "available": "true"
+          "available": "false"
         },
         {
           "release": {
