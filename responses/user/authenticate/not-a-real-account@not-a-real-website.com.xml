@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<response xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" status="ok" version="1.2" xsi:noNamespaceSchemaLocation="http://api.7digital.com/1.2/static/7digitalAPI.xsd">
+  <user id="-123456789">
+    <type>7digital</type>
+    <emailAddress>not-a-real-account@not-a-real-website.com</emailAddress>
+  </user>
+</response>
