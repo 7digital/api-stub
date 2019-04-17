@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<response status="ok" version="1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://api.7digital.com/1.2/static/7digitalAPI.xsd" >
+  <preparePayment paymentToken="1593901995-62A8760AB15EA98D54C0DCF562370801.sbg-vm-hpp01" autoFulfilled="False">
+    <preparePaymentDate>2019-04-16T15:23:10+01:00</preparePaymentDate>
+  </preparePayment>
+</response>

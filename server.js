@@ -103,6 +103,7 @@ server.post('/user/payment/card/delete', conventions.serveDefault);
 server.post('/user/payment/cardregistration', cardRegistration.createRegistrationId);
 server.get('/user/payment/cardregistration/:id', cardRegistration.checkRegistrationId);
 server.get('/user/purchase/basket', conventions.id);
+server.get('/user/purchase/prepare', conventions.id);
 
 server.post('/user/signup', conventions.serveDefault);
 
