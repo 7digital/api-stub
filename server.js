@@ -1,5 +1,6 @@
 var ConventionalHandler = require('./lib/conventions'),
 	BasketHandler = require('./lib/basket'),
+	purchasingHandler = require('./lib/purchasing'),
 	cardRegistrationHandler = require('./lib/cardregistration'),
 	FeatureHandler = require('./lib/feature'),
 	feature = new FeatureHandler(),
@@ -103,7 +104,7 @@ server.post('/user/payment/card/delete', conventions.serveDefault);
 server.post('/user/payment/cardregistration', cardRegistration.createRegistrationId);
 server.get('/user/payment/cardregistration/:id', cardRegistration.checkRegistrationId);
 server.get('/user/purchase/basket', conventions.id);
-server.get('/user/purchase/prepare', conventions.id);
+server.get('/user/purchase/prepare', purchasingHandler.preparePurchase);
 
 server.post('/user/signup', conventions.serveDefault);
 
