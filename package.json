@@ -12,7 +12,7 @@
   },
   "main": "server.js",
   "scripts": {
-    "postpublish": "echo REMEMBER TO GIT PUSH THE VERSION COMMIT",
+    "postpublish": "\n### REMEMBER TO GIT PUSH THE VERSION COMMIT ###",
     "test": "mocha --recursive spec"
   },
   "engines": {
