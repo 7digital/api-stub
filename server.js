@@ -77,6 +77,7 @@ server.get('/basket/create2', basket.createBasket);
 server.get('/basket/removeitem', basket.removeItem);
 server.post('/basket/applyvoucher', conventions.voucherCode);
 server.post('/basket/completepaypalpurchase', conventions.paypalComplete);
+server.get('/basket/:id/status', basket.purchaseStatus);
 
 //user
 server.get('/user/details', conventions.id);
