@@ -55,3 +55,6 @@ this by setting a PORT environment variable.  E.g.
 It will respond with canned XML responses, which are located in the responses
 folder. The reponse which is returned is decided based on some simple 
 conventions.  New conventions can be added in lib/conventions.js
+
+If you want a non-200 status code to be returned for a particular resource, create a `.metadata.json` file alongside the response.
+The `statusCode` inside the file will used.

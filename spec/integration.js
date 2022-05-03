@@ -1,16 +1,13 @@
 'use strict';
 var Guid = require('../lib/guid');
 var request = require('request');
-var mocha = require('mocha');
 var path = require('path');
 var childProcess = require('child_process');
 var should = require('chai').should();
-var assert = require('assert');
 var host = 'http://localhost';
 var port = 3000;
 var serverUrl = host + ':' + port;
 var nodeProcessPath = path.join(__dirname, '../server.js');
-var guidPattern = /[0-9a-fA-F]{8}\-[0-9a-fA-F]{4}\-[0-9a-fA-F]{4}\-[0-9a-fA-F]{4}\-[0-9a-fA-F]{12}/;
 
 describe('api stub', function () {
 var serverProcess;
@@ -166,7 +163,7 @@ var serverProcess;
 			name:'user/payment/card/select',
 			path: '/user/payment/card/select',
 			method: 'POST',
-			data: { 
+			data: {
 				cardId: 1,
 				userId: 380
 			}
@@ -183,11 +180,11 @@ var serverProcess;
 			path: '/user/payment/card/delete',
 			method: 'POST',
 			data: { cardNumber: '4444333322221111' }
-		}, 
+		},
 		//media delivery
 		{
 			name:'media/user/downloadtrack',
-			path: '/media/user/downloadtrack'			
+			path: '/media/user/downloadtrack'
 		},{
 			name:'media/user/download/release',
 			path: '/media/user/download/release'
@@ -222,8 +219,8 @@ var serverProcess;
 	});
 
 	it('simulates basket flow', function (done) {
-
 		request(serverUrl + '/basket/create', function (err, response, createBody) {
+			var guidPattern = /[0-9a-fA-F]{8}\-[0-9a-fA-F]{4}\-[0-9a-fA-F]{4}\-[0-9a-fA-F]{4}\-[0-9a-fA-F]{12}/;
 			var basketId = createBody.match(guidPattern);
 
 			var basketAddUrl = serverUrl + '/basket/additem?releaseid=353302&basketid=' + basketId;
@@ -236,6 +233,15 @@ var serverProcess;
 					done();
 				});
 			});
+		});
+	});
+
+	it('returns a 404 when requesting a "missing" release', function (done) {
+		request(serverUrl + '/release/details?releaseId=missing', function (err, response, body) {
+			if (err) { return done(err); }
+			response.statusCode.should.equal(404);
+			body.length.should.not.equal(0);
+			done();
 		});
 	});
 });
